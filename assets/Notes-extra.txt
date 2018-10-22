@@ -1,0 +1,5 @@
+- [*Groups, spectra and particles*](/assets/spectral-qm.md) (2015). A quick introduction to quantum mechanics and the definition of particle through the lens of group theory. Extension material for a second course on linear algebra.
+- [*Fun with elementary linear algebra*](assets/elem-linalg.md) (2014). Why do left inverses equal right inverses? And why do a parallelepiped and its "transpose" have the same volume? Extension material for a [first course in linear algebra](https://handbook.unimelb.edu.au/subjects/mast10007).
+- [*The Basel trick*](assets/basel.md) (2015). A discussion of Euler's
+  brilliant, elementary method for summing the reciprocal squares to
+  get π²/16, and its generalisation to sums of other reciprocal powers. Extension material for real analysis.
