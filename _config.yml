@@ -97,3 +97,4 @@ exclude:
 # Adding categories:
 
 permalink: /:categories/:title/
+theme: jekyll-theme-slate
