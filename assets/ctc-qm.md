@@ -1,0 +1,140 @@
+---
+layout: post
+mathjax: true
+comments: true
+title:  "Time-traveling qubits"
+date:   2014-05-05
+---
+
+<div>
+<i>Prequisites: basic quantum mechanics, relativity, and logic gates; some topology.</i></div>
+<div>
+<h3>
+Introduction</h3>
+</div>
+<i>Closed timelike curves</i> (CTCs) are loops in spacetime (closed) on which massive objects can travel (timelike). <span style="text-align: center;">To visualise a CTC, we can draw it as&nbsp;a wormhole between points on a spacetime diagram; we could also draw a loop with a rotating lightcone.</span><br />
+<div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-vP16aPr0w-I/VqicIsDTsFI/AAAAAAAABac/Y3ApCrRnlD4/s1600/loop.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" src="https://4.bp.blogspot.com/-vP16aPr0w-I/VqicIsDTsFI/AAAAAAAABac/Y3ApCrRnlD4/s1600/loop.png" /></a></div>
+CTCs are physically interesting since they appear in solutions to Einstein's field equations, most famously the&nbsp;<a href="https://en.wikipedia.org/wiki/G%C3%B6del_metric">Gödel metric</a>. They are philosophically interesting since they give rise to paradoxes of time travel, most famously the <i>grandfather paradox</i>:<br />
+<br />
+<div style="text-align: center;">
+(G) If a time traveler revisits their past using a CTC, they cannot perform any actions which would prevent them from time travelling.</div>
+<div style="text-align: center;">
+<br /></div>
+In fact, Gödel&nbsp;<i>invented</i>&nbsp;his solution to prove a philosophical point to Einstein.&nbsp;Consistency seems to impose extreme and unnatural constraints on the time traveller. In physical language, a time traveler's boundary conditions are rather stringent! David Deutsch wrote a great paper (1991) where he adds quantum mechanics to the mix and figures out how the physical/philosophical picture changes.<br />
+<h3>
+CTC as a logic gate</h3>
+Deutsch's big idea was to embed the CTC as a module in a quantum computer. This lets us reason about the local/computational features of CTCs instead of the global/geometric properties tracked by general relativity. Thought of as a logic gate, a CTC takes a qubit and spits it out <i>earlier in time</i>. For this reason, we label it by $-1$.<br />
+<br />
+A <i>computer</i> is a system of identical particles (qubits) which move along designated paths and interact at reversible gates. Paths are represented by lines and gates by boxes. We assume we have a two-level system with labels in $\mathbb{Z}_2$ (mod 2). The state space is $H = \mbox{span}_\mathbb{C}\mathbb{Z}_2$. To implement the paradox (G) on a computer, attach a CTC to a CNOT gate $G$, i.e., set up the circuit below:<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-y5nrQVrhzC0/Vqif1p9anNI/AAAAAAAABao/Msa0dWJwiHA/s1600/G-gate.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-y5nrQVrhzC0/Vqif1p9anNI/AAAAAAAABao/Msa0dWJwiHA/s400/G-gate.png" /></a></div>
+<br />
+<br />
+The large arrow at the bottom represents time. An incoming qubit $|x\rangle$ enters $G$ and interacts with $|y\rangle$, an <i>older</i>&nbsp;version of itself. The output of the interaction $|x \oplus y\rangle$ leaves $G$ and travels through the CTC to become the old qubit. The looped particle reenters $G$, interacts with the younger qubit, and finally leaves $G$ altogether. Think of $|x\rangle$ as a time traveller to see why the circuit takes this form!<br />
+<br />
+The Hilbert space for $2$-qubit input states is the tensor product $H \otimes H$. We define the tensor product of elements<br />
+\begin{align*}<br />
+&nbsp; (\alpha |0\rangle + \beta|1\rangle) \otimes (\alpha' |0\rangle +<br />
+&nbsp; \beta'|1\rangle) &amp; \equiv \alpha\alpha'|00\rangle + \alpha\beta'|10\rangle + \beta\alpha'|10\rangle + \beta\beta'|11\rangle.<br />
+\end{align*}Recall that a <i>separable state</i>&nbsp;$|\psi\rangle$ satisfies $|\psi\rangle &nbsp;= |\psi_1\rangle\otimes |\psi_2\rangle$ for some $|\psi_1\rangle, |\psi_2\rangle\in H$; otherwise, it is <i>entangled</i>. Since $H\otimes H$ has a separable basis, we can (and do) lazily define linear maps for separable states only.<br />
+<h3>
+Classical consistency</h3>
+We start by classically analysing the paradox. For computational basis elements, $G$ stores the sum<br />
+mod 2 (XOR) in the first output and passes the old ket into the second:<br />
+\[<br />
+|x\rangle |y\rangle \overset{G}{\longrightarrow} |x \oplus y\rangle |y\rangle, \quad x,<br />
+y\in\mathbb{Z}_2.<br />
+\]Consistency means that the particle entering the CTC leaves it, or $x \oplus y = y$, which implies $x = 0$. This is a computational analogue of (G): $|1\rangle$ can never enter $G$! But, in quantum land, why assume that $|y\rangle$ is a classical basis element? If $|y\rangle$ is a superposition, consistency may not force $x = 0$.<br />
+<h3>
+Density matrix formalism</h3>
+To pursue this idea, we can use density operators. For an ensemble which produces different states $|\psi_i\rangle$ with probabilities $p_i$, the <i>density matrix</i> is<br />
+\[<br />
+\textstyle \hat{\rho} \equiv \sum_i p_i |\psi_i\rangle\langle\psi_i|.<br />
+\]It turns out that $\hat{\rho}$ is a density matrix if and only if<br />
+<ul>
+<li>$\langle \psi| \hat{\rho}| \psi\rangle \geq 0$ for any state $|\psi\rangle$, so $\hat{\rho}$ is a positive operator; and</li>
+<li>$\mbox{Tr}[\hat{\rho}] = 1$.</li>
+</ul>
+It follows that the mean of a finite number of density operators is a density operator. For reversible gates, state vectors evolve as $|\psi_i\rangle \to U|\psi_i\rangle$ for some unitary $U$. It follows that $\hat{\rho}$ evolves as
+\[<br />
+\textstyle \hat{\rho} \overset{U}{\longrightarrow} \sum_i p_i<br />
+U|\psi_i\rangle\langle\psi_i|U^\dagger = U \hat{\rho} U^\dagger.<br />
+\]For a separable state in $H\otimes H$ with <i>subsystem</i> densities $\hat{\rho}_1$ and $\hat{\rho}_2$, the <i>joint</i> density $\hat{\rho} \equiv \hat{\rho}_1 \otimes\hat{\rho}_2$ is defined by<br />
+\[<br />
+\hat{\rho} (|\psi_1\rangle\otimes|\psi_2\rangle) = \hat{\rho}_1|\psi_1\rangle \otimes \hat{\rho}_2|\psi_2\rangle.<br />
+\] Finally, we define the <i>partial trace</i>&nbsp;$\mbox{Tr}_1$ (with $\mbox{Tr}_2$ similar):<br />
+\[<br />
+\mbox{Tr}_1(|\psi_1\rangle\langle\psi_1|\otimes |\psi_2\rangle\langle\psi_2|) = \langle\psi_1|\psi_1\rangle|\psi_2\rangle\langle\psi_2|.<br />
+\] From a joint density matrix $\hat{\rho}$, we find the density matrix for subsystem 2 by tracing away the first part, $\hat{\rho}_2 = \mbox{Tr}_1\hat{\rho}$, with similar remarks $\hat{\rho}_1$ similar. Note that $\mbox{Tr}_2\hat{\rho} \otimes \mbox{Tr}_1\hat{\rho} = \hat{\rho}$ only if the state is separable. The motivation for the partial trace is that it works! See Nielsen and Chuang (2000) for more details.<br />
+<h3>
+Quantum consistency</h3>
+Suppose the young ket is in an arbitrary state $|\psi\rangle$, with density matrix $|\psi\rangle \langle\psi|$. If the old input ket has density matrix $\hat{\rho}$, the joint density matrix is $|\psi\rangle \langle\psi| \otimes \hat{\rho}$. The gate $G$ evolves this joint density via some unitary<br />
+operator $U_G$ as<br />
+\[<br />
+|\psi\rangle \langle\psi| \otimes \hat{\rho} \longrightarrow U_G(|\psi\rangle \langle\psi| \otimes \hat{\rho}) U^\dagger_G.<br />
+\] Consistency means that the young density matrix leaving the gate is the old density matrix as it enters, or<br />
+\begin{equation}<br />
+\mbox{Tr}_2[U_G(|\psi\rangle \langle\psi| \otimes \hat{\rho}) U^\dagger_G] = \hat{\rho}.\tag{1}<br />
+\end{equation} You can find such a $\hat{\rho}$ for <i>any</i> $|\psi\rangle$, so consistency doesn't constrain $|\psi\rangle$. (For instance, if $|\psi\rangle = |1\rangle$, $\hat{\rho} = \tfrac{1}{2}\mathbf{I}$ works. This implies the loss of unitarity, which may seem crazy, but can be interpreted fairly naturally in the many-worlds approach.) We'll show how to extend this result to any reversible gate below. It follows that there is <i>no grandfather paradox</i> for qubits!<br />
+<h3>
+Fixed points</h3>
+If we generalise $U_G$ to unitary $U$ (for two $n$-qubit inputs), and $|\psi\rangle\langle\psi|$ to $\hat{\rho}_{in}$, we see from $(1)$ that $\hat{\rho}$ solves the consistency problem just in case it is a fixed point of the operator<br />
+\[<br />
+\mathsf{S}(\hat{\rho}) = \mbox{Tr}_2[U(\hat{\rho}_{in} \otimes \hat{\rho}) U^\dagger].<br />
+\]Deutsch showed that all such operators have fixed points. Why? For intuition, suppose we connect an infinite sequence of identical gates; piping qubits through it will be a stationary, memoryless process like a Markov chain. But run a Markov chain long enough and (except in pathological cases) it stabilises to some state, a fixed point of the Markov chain. But let's prove it properly.<br />
+<br />
+Consider $\mathsf{S}$ as defined above. We must show that $\mathsf{S}$ has a fixed point for any choice of $U$ and $\hat{\rho}_{in}$. Pick an arbitrary density matrix $\hat{\rho}$, and define<br />
+\[<br />
+\textstyle \hat{\rho}_N = (N+1)^{-1}\sum_{n=0}^N \mathsf{S}^n\hat{\rho}.<br />
+\] This is a mean of density operators, hence a density operator. Note that $\mbox{Tr}\,\hat{\rho}^2 \leq 1$ for any density matrix $\hat{\rho}$, and $\mbox{Tr}(A^\dagger B) = \langle A,B\rangle$ is an inner product and therefore satisfies the Cauchy-Schwarz inequality. Hence,
+&nbsp; &nbsp; \begin{align*}<br />
+&nbsp; &nbsp; &nbsp; 0 &amp; \leq \mbox{Tr}[(\mathsf{S}\hat{\rho}_N - \hat{\rho}_N)^2] \\<br />
+&nbsp; &nbsp; &nbsp; &amp; =<br />
+&nbsp; &nbsp; &nbsp; (N+1)^{-2}\mbox{Tr}[\textstyle{(\sum_{n=0}^N\mathsf{S}^{n+1}\hat{\rho}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; - \mathsf{S}^{n}\hat{\rho})^2]} \\<br />
+&nbsp; &nbsp; &nbsp; &amp; = (N+1)^{-2}\mbox{Tr}[(\mathsf{S}^{N+1}\hat{\rho} -<br />
+&nbsp; &nbsp; &nbsp; \hat{\rho})^2]<br />
+&nbsp; &nbsp; &nbsp; \\<br />
+&nbsp; &nbsp; &nbsp; &amp; = (N+1)^{-2}\mbox{Tr}[(\mathsf{S}^{N+1}\hat{\rho})^2 - 2<br />
+&nbsp; &nbsp; &nbsp; \hat{\rho}\,\mathsf{S}^{N+1}\hat{\rho} + \hat{\rho}^2] \\<br />
+&nbsp; &nbsp; &nbsp; &amp; \leq (N+1)^{-2}[\mbox{Tr}(\mathsf{S}^{N+1}\hat{\rho})^2 &nbsp;+ 2<br />
+&nbsp; &nbsp; &nbsp; (\mbox{Tr}(\mathsf{S}^{N+1}\hat{\rho})^2\mbox{Tr}\hat{\rho}^2)^{1/2}<br />
+&nbsp; &nbsp; &nbsp; + \mbox{Tr}\hat{\rho}^2] \\ &amp; \leq \frac{4}{(N+1)^{2}}.<br />
+&nbsp; &nbsp; \end{align*} The set of density operators is compact, so the sequence $\{\hat{\rho}_n\}$ has an accumulation point $\hat{\rho}^*$. We pick a subsequence $\{\hat{\rho}_{n'}\}$ converging to $\hat{\rho}^*$, and note from the inequality above and the continuity of $\mbox{Tr}\,\hat{\rho}^2$,<br />
+\begin{align*}<br />
+\lim_{n'\to\infty} \mbox{Tr}[(\mathsf{S}\hat{\rho}_{n'} -<br />
+\hat{\rho}_{n'})^2] = 0 &amp; \,\,\Rightarrow \,\,<br />
+\mbox{Tr}[(\mathsf{S}\hat{\rho}^* - \hat{\rho}^*)^2] = 0 \,\, \Rightarrow \,\, \mathsf{S}\hat{\rho}^* =<br />
+\hat{\rho}^*.<br />
+\end{align*} In other words, $\hat{\rho}^*$ is a fixed point of $\mathsf{S}$. We're done!<br />
+<h3>
+Other points of interest</h3>
+The Doctor (pictured below) is not a qubit: a time-traveller is a classical rather than a quantum object.
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/godel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="https://2.bp.blogspot.com/-WW4x05hHN-s/Vq3Z0ENWE4I/AAAAAAAABbA/vQG4Xxz6GH8/s400/harness.png" width="450" /></a></div><br />
+
+So Deutsch's "resolution" of the grandfather paradox may not help. On the other hand, if (as Deutsch thinks) the many-worlds interpretation of quantum mechanics is correct, classical objects would also be able to avoid (G). The CTC would act as a sort of gateway between Everitt universes, letting a time-traveller switch between superposed states. If they existed, CTCs would let us test interpretations of QM!</div>
+<div>
+<br /></div>
+<div>
+In computational terms, a CTC is a magic box which finds fixed points of evolution operators in constant time. For this reason, Deutsch's paper kickstarted research on complexity and CTCs. To the best of my (limited) knowledge, the most striking result in the area is due to Aaronson and Watrous (2009), who proved that CTCs make <i>classical and quantum computing equivalent</i>. CTCs would allow classical computers to efficiently simulate quantum computers. (Basically, a CTC turns polynomial space into polynomial time, allowing classical computers to efficiently simulate quantum computers.)</div>
+<div>
+<br /></div>
+<div>
+For more fun stuff, read Deutch's paper!</div>
+<div>
+<b><br /></b></div>
+<div>
+<b>References</b><br />
+<ul>
+<li>"Quantum mechanics near closed timelike lines'' (1991), David Deutsch. <i>Phys. Rev. D</i>, <b>44</b>(10):3197-3217.</li>
+<li><i>Quantum Computation and Quantum Information</i> (2000), Michael Nielsen and Isaac Chuang. CUP.</li>
+<li>"Closed timelike curves make quantum and classical computing equivalent'' (2009), Scott Aaronson and John Watrous. <i>Proc. R. Soc. A</i>, <b>465</b>:631-647.</li>
+</ul>
+</div>

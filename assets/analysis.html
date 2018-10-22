@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Notes on Analysis</title>
+<!-- 2018-07-04 Wed 22:03 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="David Wakeham" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://www.pirilampo.org/styles/readtheorg/js/readtheorg.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Notes on Analysis</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Outline</a></li>
+<li><a href="#sec-2">2. Number systems</a>
+<ul>
+<li><a href="#sec-2-1">2.1. <span class="todo TODO">TODO</span> Number systems and the birth of rigour</a></li>
+<li><a href="#sec-2-2">2.2. The natural numbers and integers</a>
+<ul>
+<li><a href="#sec-2-2-1">2.2.1. Peano arithmetic</a></li>
+<li><a href="#sec-2-2-2">2.2.2. Mathematical induction</a></li>
+<li><a href="#sec-2-2-3">2.2.3. <span class="todo TODO">TODO</span> The integers</a></li>
+<li><a href="#sec-2-2-4">2.2.4. <span class="todo TODO">TODO</span> Exercises</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-3">2.3. The rationals</a>
+<ul>
+<li><a href="#sec-2-3-1">2.3.1. Partitions and equivalence classes</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-4">2.4. Fields</a></li>
+<li><a href="#sec-2-5">2.5. The reals</a></li>
+<li><a href="#sec-2-6">2.6. Set theory</a></li>
+<li><a href="#sec-2-7">2.7. ★Metric spaces</a></li>
+<li><a href="#sec-2-8">2.8. ★Topological spaces</a></li>
+<li><a href="#sec-2-9">2.9. Exercises</a></li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Limits</a>
+<ul>
+<li><a href="#sec-3-1">3.1. ★Asymptotic notation</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. Differentiation</a>
+<ul>
+<li><a href="#sec-4-1">4.1. Definition</a></li>
+</ul>
+</li>
+<li><a href="#sec-5">5. Integration</a></li>
+<li><a href="#sec-6">6. Series</a></li>
+<li><a href="#sec-7">7. References</a></li>
+</ul>
+</div>
+</div>
+<div class="center">
+<p>
+<a href="mailto:david.a.wakeham@gmail.com">David Wakeham</a><br  />
+The University of British Columbia
+</p>
+</div>
+
+<div class="abstract">
+<p>
+These notes give a brief introduction to real analysis.
+The emphasis is on applications, problem-solving and
+beautiful results, rather than complete rigour.
+We assume prior exposure to calculus, linear algebra, and basic set
+theory, but develop everything else from scratch.
+</p>
+
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Outline</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+We can split up the branches of pure mathematics according to their
+objects and the type of results they tend to provide.
+For our purposes, the contrast between <i>analysis</i> and <i>algebra</i> will
+be of most interest:
+</p>
+
+<ul class="org-ul">
+<li><b>Algebra</b> studies <i>structure</i> in an abstract, rule-governed way.
+It tends to produce results with a discrete, exact character,
+characterised by <i>equations</i>.
+</li>
+<li><b>Analysis</b> specialises to structures where points get very close to
+each other (such as on the real line) and we can therefore take limits.
+This lets us define new operations using limits, and by going
+partway along a limit, we can approximate operations.
+Thus, the currency of analysis is no longer equalities, but the
+<i>inequalities</i> needed to control approximations coming from limits.
+</li>
+</ul>
+
+<p>
+In these notes, algebra will be rich source of basic structures, but
+our focus be on limits, approximation and inequalities.
+More specifically, our goals will be to:
+</p>
+<ul class="org-ul">
+<li>understand what structures allow limits ("where");
+</li>
+<li>precisely define the limiting process ("how");
+</li>
+<li>introduce related operations like differentation, integration and
+power series ("what");
+</li>
+<li>give powerful results on approximation and inequalities ("when");
+</li>
+<li>and finally, discuss applications in applied and pure mathematics,
+physics, and other areas ("why").
+</li>
+</ul>
+
+<p>
+Much of the interesting material in these notes has been deliberately
+placed in the exercises.
+The goal is to give students a strong incentive to do them!
+These include computational problems, which require access to a
+computer and basic facility with a programming language.
+<a href="https://www.python.org/">Python</a> is a popular, high-level languge for scientific programming
+which looks very similar to psuedocode.
+For this reason, any code snippets in the exercises (or their
+solutions) will be written in Python 3.
+</p>
+
+<p>
+Finally, a few notes on format.
+Theorems, definitions, corollaries, etc, are stated in blue boxes,
+while examples and applications live in grey boxes.
+Boxes of different colour are numbered separately.
+White triangles (△) are used to denote harder exercises, and sections
+which can be skipped on first reading.
+Black triangles (▲) denote particularly hard exercises, or sections for
+advanced readers.
+Finally, exercises tagged with exclamation marks (!) are used later in
+the notes.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Number systems</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> <span class="todo TODO">TODO</span> Number systems and the birth of rigour</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+We start by looking at some different number systems:
+</p>
+<ul class="org-ul">
+<li>the <b>natural numbers</b> \(\mathbb{N}\) and <b>integers</b> \(\mathbb{Z}\) used
+for counting;
+</li>
+<li>the <b>rational numbers</b> \(\mathbb{Q}\), where we see the first hints of
+continuous structure due to the density of fractions;
+</li>
+<li>and finally the <b>real numbers</b> \(\mathbb{R}\), which are in one-to-one
+correspondence with the points on a line.
+</li>
+</ul>
+<p>
+We will see some other, more exotic number systems in exercises.
+The approach will be to start with something simple and try to define
+interesting operations on these sets.
+When sets are in some sense "incomplete" with respect to these
+operations, we add the missing elements to get a bigger set.
+To give a sneak peak:
+\[
+\mathbb{N} \overset{\text{additive inverses}}{\longrightarrow}
+\mathbb{Z} \overset{\text{multiplicative inverses}}{\longrightarrow}
+\mathbb{Q} \overset{\text{metric completion}}{\longrightarrow} \mathbb{R}.
+\]
+There are several ways to construct the real from the rationals, which
+we lump together under the heading "completion".
+</p>
+
+<p>
+We then abstract in a couple of different directions.
+First, we use <b>set theory</b> to get a feel for the different "size" of
+number systems.
+We will see that the natural numbers, integers and rationals are all
+the same "size", which is unimaginably smaller than the real numbers!
+Secondly, we do ????
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> The natural numbers and integers</h3>
+<div class="outline-text-3" id="text-2-2">
+</div><div id="outline-container-sec-2-2-1" class="outline-4">
+<h4 id="sec-2-2-1"><span class="section-number-4">2.2.1</span> Peano arithmetic</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<p>
+The <b>natural numbers</b> \(\mathbb{N}\) are the numbers we use to count:
+\[
+\mathbb{N} = \{0, 1, 2, \ldots\}
+\]
+In fact, zero is not an obvious inclusion and was one of the great
+developments of antique mathematics.
+<a href="https://en.wikipedia.org/wiki/0">The Egyptians</a> were using zero arond 1770 BC both in accounting
+and pyramid design, where it denoted the base level.
+The hieroglyph used (<i>Nefer</i>, or F35 in <a href="https://en.wikipedia.org/wiki/Gardiner's_sign_list">Gardiner's sign list</a>) means
+"pleasant, good", which is rather apt for such a good idea.
+Zero was independently rediscovered in many other cultures.
+</p>
+<p>
+As a warm-up for later construction efforts, we will start by building
+the natural numbers, using a simplified version of the <b><a href="https://en.wikipedia.org/wiki/Peano_axioms">Peano axioms</a></b>
+(we ignore the axioms for equality, and simply take these as given).
+The basic idea is to start with zero and get everything else by
+iteratively adding \(1\).
+We will use the usual notation \(0\), but to avoid conflict with our
+informal intuitions, we will add \(1\) using a <i>successor function</i>
+\[
+\mathsf{S}(n) = n+1.
+\]
+We need this function to be injective, i.e. different numbers should
+have different successors:
+\[
+\mathsf{S}(m) = \mathsf{S}(n) \quad \Longrightarrow \quad m = n.
+\]
+This means we have a chain of distinct natural numbers
+\[
+0, \quad \mathsf{S}(0), \quad \mathsf{S} \mathsf{S} (0), \quad \mathsf{S} \mathsf{S} \mathsf{S} (0), \quad \ldots
+\]
+To guarantee these are the only natural numbers, we define
+\(\mathbb{N}\) as the <i>smallest</i> set containing \(0\) and its successors.
+What does it mean to be the "smallest" set though?
+This is a technical notion we need to define.
+</p>
+<p class="verse">
+<b>Definition 2.1</b>. <span class="underline">Smallest set</span>. Let \(P\) be some property of sets, and write \(P(B)\) if the set \(B\) satisfies \(P\). The set \(A\) is <b>the smallest set satisfying \(P\)</b> just in case:<br  />
+&#xa0;&#xa0;1. \(P(A)\), that is, \(A\) enjoys the property.<br  />
+&#xa0;&#xa0;2. Any other set satisfying the condition \(P\) also contains \(A\), i.e. \(P(B) \implies A \subseteq B\).<br  />
+</p>
+<p>
+In general, there may be no unique smallest set with some property.
+For instance, there is no smallest nonempty set of integers.
+A more subtle issue is that the property may depend on assigning
+roles.
+For instance, in constructing the natural numbers, we need to identify
+an element to play the role of \(0\), and some injective map to act as the
+successor function.
+This is the realm of <a href="https://en.wikipedia.org/wiki/Model_theory">model theory</a>, a rather deep area we will not
+enter into here.
+Using Definition 2.1 we can now define the natural numbers.
+</p>
+<p class="verse">
+<b>Axiom 2.2.</b> <span class="underline">The set of natural numbers</span>. The <b>natural numbers</b> \(\mathbb{N}\) is the smallest set satisfying the following two axioms:<br  />
+&#xa0;&#xa0;1. <span class="underline">Zero</span>. Zero is a natural number, \(0 \in \mathbb{N}\).<br  />
+&#xa0;&#xa0;2. <span class="underline">Successor</span>. The set \(\mathbb{N}\) is closed under an injective successor function, \(\mathrm{S}\).<br  />
+</p>
+<p>
+Now that we have a set, we can define the familiar arithmetical
+operations of addition and multiplication.
+Having canonically identified the structure of the set, we can avail
+ourselves of the Hindu-Arabic numerals and label elements in base
+\(10\):
+\[
+0, \quad 1: = \mathsf{S}(0), \quad 2:= \mathsf{S} \mathsf{S} (0), \quad 3:=\mathsf{S} \mathsf{S} \mathsf{S} (0), \quad \ldots
+\]
+Addition is defined by its action on \(0\) and successors, and also
+using the basic properties of <i>commutativity</i> and <i>associativity</i>.
+</p>
+<p class="verse">
+<b>Axiom 2.3.</b> <span class="underline">Addition on natural numbers</span>. <b>Addition</b> is a binary operation \(+: \mathbb{N}\times \mathbb{N} \to \mathbb{N}\) defined by the following properties:<br  />
+&#xa0;&#xa0;1. <span class="underline">Commutative</span>. For any \(m, n \in \mathbb{N}\), \[m + n = n + m.\]<br  />
+&#xa0;&#xa0;2. <span class="underline">Associative</span>. For any \(\ell, m, n \in \mathbb{N}\), \[\ell + (m+ n) = (\ell + m) + n.\]<br  />
+&#xa0;&#xa0;3. <span class="underline">Zero</span>. For any \(n \in \mathbb{N}\), \[n + 0 = n.\]<br  />
+&#xa0;&#xa0;4. <span class="underline">Successor</span>. For any \(n, m \in \mathbb{N}\), \[\mathsf{S}(n) + m = \mathsf{S}(n + m).\]Axiom 2.3.2 follows from the remaining axioms, but we include it for convenience.<br  />
+</p>
+<p>
+Using the axioms for addition, we can prove what is probably the most
+famous result of mathematics.
+</p>
+<blockquote>
+<p>
+<b>Example 2.1</b>. <span class="underline">One plus one is two</span>. Technically, we 
+</p>
+\begin{align}
+1 + 1 & = \mathsf{S}(0) + \mathsf{S}(0) &\\
+& = \mathsf{S}(0 + \mathsf{S}(0)) & (2.3.4)\\
+& = \mathsf{S}(\mathsf{S}(0) + 0) & (2.3.1)\\
+& = \mathsf{S}\mathsf{S}(0) & (2.3.3) \\
+& = 2.
+\end{align}
+</blockquote>
+<p>
+We define multiplication in a similar way.
+</p>
+<p class="verse">
+<b>Axiom 2.4.</b> <span class="underline">Multiplication on natural numbers</span>. <b>Multiplication</b> is a binary operation \(\cdot: \mathbb{N}\times \mathbb{N} \to \mathbb{N}\) defined by the following properties:<br  />
+&#xa0;&#xa0;1. <span class="underline">Commutative</span>. For any \(m, n \in \mathbb{N}\), \[ m \cdot n = n \cdot m.\]<br  />
+&#xa0;&#xa0;2. <span class="underline">Associative</span>. For any \(\ell, m, n \in \mathbb{N}\), \[\ell \cdot (m\cdot n) = (\ell \cdot m) \cdot n.\]<br  />
+&#xa0;&#xa0;3. <span class="underline">Zero</span>. For any \(n \in \mathbb{N}\), \[ n \cdot 0 = 0.\]<br  />
+&#xa0;&#xa0;4. <span class="underline">Successor</span>. For any \(n, m \in \mathbb{N}\), \[\mathsf{S}(n) \cdot m = (n \cdot m) + m.\]As with multiplication, Axiom 2.4.2 follows from the other.<br  />
+</p>
+<p>
+We use these to prove another basic arithmetic result.
+</p>
+<blockquote>
+<p>
+<b>Example 2.2</b>. <span class="underline">One times one is one</span>. This is less famous than our
+ previous example, but still worth proving:
+</p>
+\begin{align}
+1 \cdot 1 & = \mathsf{S}(0) \cdot \mathsf{S}(0) &\\
+& = (0 \cdot \mathsf{S}(0)) + \mathsf{S}(0) & (2.4.4)\\
+& = (\mathsf{S}(0)\cdot 0) + \mathsf{S}(0) & (2.4.1)\\
+& = 0 + \mathsf{S}(0) & (2.4.3) \\
+& = \mathsf{S}(0) & (2.3.1)\\
+& = 1.
+\end{align}
+</blockquote>
+<p>
+Note that we need to define addition before defining multiplication,
+since as we can see from Axiom 2.3.4, multiplication is just iterated
+addition.
+Similarly, we can iterate multiplication to obtain integral powers
+(you are invited to figure out the relevant axioms yourself in §<a href="#sec-2-2-4">2.2.4</a>).
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-2-2" class="outline-4">
+<h4 id="sec-2-2-2"><span class="section-number-4">2.2.2</span> Mathematical induction</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<p>
+Let's revisit Axiom 2.3, which defined the natural numbers as the
+smallest set containing \(0\) and closed under the successor function.
+Combined with Definition 2.1, this leads to a very powerful method for
+proving results about the natural numbers, called <i>mathematical
+induction</i>.
+Note that, from now on, we will drop the successor notation and simply
+write \(\mathsf{S}(n) = n + 1\).
+</p>
+<p class="verse">
+<b>Theorem 2.5</b>. <span class="underline">Mathematical induction</span>. Consider a property of natural numbers, \(P(n)\). Suppose the following hold:<br  />
+&#xa0;&#xa0;1. <span class="underline">Base case</span>. \(P(0)\) is true.<br  />
+&#xa0;&#xa0;2. <span class="underline">Induction step</span>. If \(P(n)\) is true for any \(n \in \mathbb{N}\), then \(P(n+1)\) is true.<br  />
+Then \(A = \mathbb{N}\). Note that in step (2), the assumption of \(P(n)\) in order to prove \(P(n+1)\) is called the <b>induction hypothesis</b>.<br  />
+</p>
+<hr  />
+<p>
+<i>Proof</i>. Define \(A\) as the set of natural numbers for which \(P(n)\)
+holds, \(A := \{n\in\mathbb{N}: P(n)\}\). 
+Then the result follows immediately from Axiom 2.2 and the definition
+of smallest set, applied to \(A\). \(\blacksquare\)
+</p>
+<hr  />
+
+<blockquote>
+<p>
+<b>Example 2.3</b>. Suppose we prove the base case for some natural number
+\(n_0 > 0\), and the induction step \(P(n) \implies P(n+1)\) for all
+\(n \geq n_0\).
+(Most often, we use \(n_0 = 1\).)
+Theorem 2.5 then implies that \(P(n)\) is true for all natural numbers \(n
+\geq n_0\).
+The proof is simple: we define a new statement \(P'(n)\), which is true
+if and only if \(P(n + n_0)\) is true.
+We then apply Theorem 2.5 to \(P'\).
+</p>
+</blockquote>
+
+<p>
+Mathematical induction is well-suited to proving axiomatic results about the
+natural numbers.
+</p>
+
+<p class="verse">
+<b>Theorem 2.6</b>. <span class="underline">Associativity of addition</span>. Axiom 2.3.2 follows from the remaining axiom of 2.3.<br  />
+</p>
+<hr  />
+<p>
+<i>Proof</i>. The main question is what to induct on; let's try \(\ell\).
+First, the base case follows from Axiom 2.3.3:
+\[
+0 + (m + n) = m + n = (0 + m) + n.
+\]
+Now for the induction step.
+We make the induction hypothesis that, for \(\ell \in \mathbb{N}\),
+\[
+\ell + (m + n) = (\ell + m) + n. \tag{2.7.1}
+\]
+Consider the successor \(\textsf{S}(\ell)\):
+</p>
+\begin{align}
+\text{LHS} & = \textsf{S}(\ell) + (m + n) \\
+& = \textsf{S}(\ell + (m + n)) & (2.3.4) \\
+& = \textsf{S}((\ell + m) + n) & (2.7.1) \\
+& = \textsf{S}(\ell + m) + n & (2.3.4) \\
+& = (\textsf{S}(\ell) + m) + n & (2.3.4)
+\end{align}
+<p>
+and we are done. \(\blacksquare\)
+</p>
+<hr  />
+
+<p>
+Our second illustration is the <i>binomial theorem</i>, a classical result
+which is a little more involved and requires some new notation.
+It will prove very useful below, however.
+First, we recall binomial coefficients and Pascal's triangle from high
+school combintorics.
+</p>
+<p class="verse">
+<b>Definition 2.7</b>. <span class="underline">Binomial coefficients</span>. The number of ways of choosing a subset of \(k\) objects from a set of \(n\) objects is given by the binomial coefficients<br  />
+\[<br  />
+\binom{n}{k} := \frac{n!}{k!(n-k)!}, \quad n, k \in \mathbb{N}.<br  />
+\]These satisfy a recursion relation encoded by <b>Pascal's triangle</b>,<br  />
+\[<br  />
+\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k},<br  />
+\]<br  />
+with boundary values<br  />
+\[<br  />
+\binom{n}{0} = \binom{n}{n} = 1.<br  />
+\]We also set \(\binom{n}{k} = 0\) for \(k < 0\) and \(k > n\).<br  />
+</p>
+<p>
+If you are a bit rusty on Pascal's triangle, a few lines of algebra
+should suffice to convince you the relation holds.
+Now we introduce <i>summation notation</i>, and a related notation for products.
+</p>
+<p class="verse">
+<b>Definition 2.8</b>. <span class="underline">Summation and product notation</span>. Consider a sequence of numbers \(\{a_0, a_1, \ldots, a_n\}\). We can define an iterated or "big sum" by<br  />
+\[<br  />
+\sum_{k=0}^n a_k := a_1 + a_2 + \cdots + a_{n-1} + a_n.<br  />
+\]More formally, for \(0 < j+1 \leq n\),<br  />
+\[<br  />
+\sum_{k=0}^0 a_k := a_0, \quad \sum_{k=0}^{j+1} a_k := \sum_{k=0}^{j} a_k + a_{j+1}.<br  />
+\]Similarly, we can define the "big product" by<br  />
+\[<br  />
+\prod_{k=0}^n a_k := a_1 \cdot a_2 \cdot \cdots \cdot a_{n-1} \cdot a_n.<br  />
+\]In slightly more formal terms, for \(0 < j+1 \leq n\),<br  />
+\[<br  />
+\prod_{k=0}^0 a_k := a_0, \quad \prod_{k=0}^{j+1} a_k := \left(\prod_{k=0}^{j} a_k\right) \cdot a_{j+1}.<br  />
+\]Finally, big sums (big products) over empty sets are defined to evaluate to \(0\) (respectively \(1\)).<br  />
+</p>
+<p>
+Using our new notation, we can state the binomial theorem, and prove
+it using induction.
+</p>
+<p class="verse">
+<b>Theorem 2.9</b>. <span class="underline">Binomial theorem</span>. For all \(n \in \mathbb{N}\),<br  />
+\[<br  />
+(x + y)^n = \sum_{k=0}^n \binom{n}{k}x^k y^{n-k}.<br  />
+\]Note that we can swap \(x\) and \(y\) in the identity by symmetry.<br  />
+</p>
+<hr  />
+<p>
+<i>Proof</i>. Let \(P(n)\) be the property that the following statement is true:
+\[
+(x + y)^n = \sum_{k=0}^n \binom{n}{k}x^k y^{n-k}. \tag{2.9.1}
+\]
+Using Theorem 2.5, we need to prove the base case and the induction
+step.
+First, the base case:
+\[
+\text{LHS} = (x + y)^0 = 1 = \binom{0}{0}x^0 y^{0-0} = \sum_{k=0}^0
+\binom{n}{k}x^k y^{n-k} = \text{RHS}.
+\]
+Thus, the base case is true.
+Now, for the induction step, assume that \(P(n)\) is true:
+\[
+(x + y)^n = \sum_{k=0}^n \binom{n}{k}x^k y^{n-k}. \tag{2.9.2}
+\]
+We want to check if \(P(n + 1)\) follows.
+We start with the LHS of \(P(n + 1)\), and eventually derive the RHS:
+</p>
+\begin{align}
+\text{LHS} & = (x + y)^{n+1} \\
+& = (x + y)^n(x + y) \\
+& = \sum_{k=0}^n \binom{n}{k}x^k y^{n-k}(x + y) & (2.9.2) \\
+& = \sum_{k=0}^n \binom{n}{k}x^{k+1} y^{n-k} + \sum_{k=0}^n
+\binom{n}{k}x^k y^{n+1-k} \\
+& = \sum_{k=1}^{n+1} \binom{n}{k-1}x^{k} y^{n+1-k} + \sum_{k=0}^n \binom{n}{k}x^k y^{n+1-k} \\
+& = \sum_{k=0}^{n+1} \left[\binom{n}{k} + \binom{n}{k-1} \right]x^{k} y^{n+1-k} - \binom{n}{0-1}y^{n+1} - \binom{n}{n+1}x^{n+1} \\
+& = \sum_{k=0}^{n+1} \binom{n+1}{k}x^k y^{n+1-k} & (2.7) \\ & = \text{RHS}.
+\end{align}
+<p>
+Thus, the induction step holds, and the statement is true for all \(n
+\in\mathbb{N}\) by mathematical induction, Theorem 2.5. \(\blacksquare\)
+</p>
+<hr  />
+
+<p class="verse">
+<b>Corollary 2.10</b>. For \(n \in \mathbb{N}\),<br  />
+\[<br  />
+2^n = \sum_{k=0}^n \binom{n}{k}.<br  />
+\]<br  />
+</p>
+<hr  />
+<p>
+<i>Proof</i>. Set \(x = y = 1\) in Theorem 2.9. \(\blacksquare\)
+</p>
+<hr  />
+</div>
+</div>
+
+<div id="outline-container-sec-2-2-3" class="outline-4">
+<h4 id="sec-2-2-3"><span class="section-number-4">2.2.3</span> <span class="todo TODO">TODO</span> The integers</h4>
+<div class="outline-text-4" id="text-2-2-3">
+<p>
+The natural numbers can be viewed as a semi-infinite chain.
+Extending the chain in both directions gives the <i>integers</i>
+\(\mathbb{Z}\).
+Algebraically, this corresponds to adding negative numbers.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-2-4" class="outline-4">
+<h4 id="sec-2-2-4"><span class="section-number-4">2.2.4</span> <span class="todo TODO">TODO</span> Exercises</h4>
+<div class="outline-text-4" id="text-2-2-4">
+<ol class="org-ol">
+<li><b>Closed forms</b>. Show that, if \(\mathsf{S}^k(0)\) denotes the result
+of applying the successor function \(k\) times, the following
+definitions satisfy Axioms 2.3 and 2.4:
+\[
+   \mathsf{S}^m(0) + \mathsf{S}^n(0) = \mathsf{S}^{m+n}(0), \quad
+   \mathsf{S}^m(0)\cdot \mathsf{S}^n(0) = \mathsf{S}^{m\cdot n}(0).
+   \]
+Explain what is unsatisfactory (from an axiomatic standpoint) in
+such a definition.
+</li>
+<li><b>Exponentiation</b>. Write a list of axioms for exponentiating natural
+numbers, \(n^m\). <i>Hint</i>: Two should suffice.
+</li>
+<li><b>The multiplicative identity</b>. Prove using Axioms 2.3 and 2.4 that \(1
+   \cdot n = n\).
+</li>
+<li><b>Associativity of multiplication</b>. Use induction to show that Axiom
+2.4.2 follows from the remaining axioms of 2.4. <i>Hint</i>: The proof
+is similar to Theorem 2.6.
+</li>
+<li><b>Pascal's triangle</b>. Verify the recursion relation stated in Definition 2.7.
+</li>
+<li><b>Coloured cows</b>. The following induction argument supposedly shows
+that <i>all cows are the same colour</i>.
+We use the result of Example 2.3, with \(n_0 = 1\):
+<ul class="org-ul">
+<li><i>Base case</i>. Clearly, a single cow has a single colour.
+</li>
+<li><i>Induction step</i>. Suppose any set of \(n \geq 1\) cows has the same
+colour.
+Now consider a set \(A\) of \(n + 1\) cows.
+Remove one cow, and we have a set \(B\) of \(n\) cows, which are all the
+same colour.
+Remove a different cow, and we have a set \(C\) of cows with the same
+colour which overlaps the first, \(A \cap B \neq \varnothing\).
+Thus, all cows in the set \(A\) are the same colour!
+</li>
+<li>Since the base case and induction step hold, all cows are the
+same colour by induction. \(\quad \blacksquare\)
+</li>
+</ul>
+<p>
+What is wrong with the argument?
+</p>
+</li>
+<li><b>!Triangular numbers</b>. Use induction to show that the sum of the
+first \(n\) squares can be written in closed form:
+\[
+   1 + 2 + 3 + \cdots + n = \sum_{k=1}^n k = \frac{1}{2}n(n+1).
+   \]
+This is called the \(n\)-th <b>triangular number</b>, since the numbers
+in the sum may be arranged into a triangle (a fact which yields a different proof).
+The great German mathematician, <b><a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gauss</a></b>
+(1777&#x2013;1855), was asked as a schoolboy to add the numbers from \(1\)
+to \(100\).
+He flabbergasted his teacher by performing the sum almost instantaneously.
+His secret was this formula!
+</li>
+<li><b>!Strong induction and well-ordering</b>.
+</li>
+<li><b>△Semigroups</b>.
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> The rationals</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+PICTURE
+</p>
+</div>
+<div id="outline-container-sec-2-3-1" class="outline-4">
+<h4 id="sec-2-3-1"><span class="section-number-4">2.3.1</span> Partitions and equivalence classes</h4>
+</div>
+</div>
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Fields</h3>
+</div>
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> The reals</h3>
+</div>
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> Set theory</h3>
+</div>
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> ★Metric spaces</h3>
+</div>
+<div id="outline-container-sec-2-8" class="outline-3">
+<h3 id="sec-2-8"><span class="section-number-3">2.8</span> ★Topological spaces</h3>
+</div>
+<div id="outline-container-sec-2-9" class="outline-3">
+<h3 id="sec-2-9"><span class="section-number-3">2.9</span> Exercises</h3>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Limits</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> ★Asymptotic notation</h3>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Differentiation</h2>
+<div class="outline-text-2" id="text-4">
+</div><div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1"><span class="section-number-3">4.1</span> Definition</h3>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Integration</h2>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Series</h2>
+</div>
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> References</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: David Wakeham</p>
+<p class="date">Created: 2018-07-04 Wed 22:03</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.1.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
