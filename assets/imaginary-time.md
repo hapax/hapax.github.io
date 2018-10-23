@@ -191,7 +191,7 @@ photons at the Unruh temperature.
 We can derive this result rigorously (see the references), but
 imaginary time gives us a nice shortcut!
 
-## The Hawking effect from Newtonian gravity
+## Hawking radiation from Newtonian gravity
 
 Black holes are attractive, and therefore induce acceleration at the event horizon.
 The Unruh effect, combined with the equivalence principle, then
@@ -228,7 +228,7 @@ $$
 
 If we forget all about spacetime curvature, and just imagine that an
 observer hovering at the black hole horizon is accelerating at
-$\alpha$ in flat space, we expect an Unruh effective with temperature
+$\alpha$ in flat space, we expect a version of the Unruh effect with temperature
 
 $$
 T_\text{H} = \frac{\hbar \alpha}{2\pi k_\text{B} c} = \frac{\hbar c^3}{8\pi k_\text{B} GM}.
@@ -238,7 +238,7 @@ This is precisely the temperature predicted by Hawking!
 Our imaginary time approach leads us (via some Newtonian
 sleight-of-hand) to the incredible conclusion that black holes radiate.
 
-## The Hawking effect from Euclidean gravity*
+## Hawking radiation from Euclidean gravity*
 
 The preceding argument is cute, but gravity is not Newtonian!
 We can fix it up using some tools from general relativity, focusing on
