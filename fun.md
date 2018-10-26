@@ -25,7 +25,7 @@ projects are listed below:
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  partition identities in Haskell, now with [blog post](mathematics/programming/haskell-partition/)!
+  partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 collection of Processing sketches.
 
