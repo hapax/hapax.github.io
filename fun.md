@@ -17,7 +17,7 @@ Vancouver.
 
 ### Programming
 
-I code for fun in [Python](https://www.python.org/)
+I occasionally code for fun in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
 [Processing](https://processing.org/) (it's visual). A few small
 projects are listed below:
