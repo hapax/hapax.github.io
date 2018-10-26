@@ -39,6 +39,6 @@ Images appearing on the site are my own, usually made in
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br
-/>Work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+/>Work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CCA-NC-SA 4.0 International License</a>.
 
 [//]: #Some notes are generated in [org mode](https://orgmode.org/), and formatted using the ReadTheOrg theme of [org-html-themes](https://github.com/fniessen/org-html-themes).
