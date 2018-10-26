@@ -7,9 +7,9 @@ categories: [Mathematics, Programming]
 date:   2018-09-30
 ---
 
-**September 30, 2018.** *I wrote a small program for playing around
-  with partitions in Haskell. With a little experimental mathematics,
-  you can arrive at the same insights as Ramanujan!*
+**September 30, 2018.** *With a little experimental mathematics, you
+  too can arrive at the insights as Ramanujan! A simple program in
+  Haskell for discovering partition identities.*
 
 ### Introduction
 
