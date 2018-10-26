@@ -8,7 +8,7 @@ date:   2018-09-30
 ---
 
 **September 30, 2018.** *With a little experimental mathematics, you
-  too can arrive at the insights as Ramanujan! A simple program in
+  too can arrive at the insights of Ramanujan! A simple program in
   Haskell for discovering partition identities.*
 
 ### Introduction
