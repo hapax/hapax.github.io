@@ -4,6 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+### Papers and talks
+
+- [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
+  (2018). Sean Cooper, Moshe Rozali, Brian Swingle, Mark Van
+  Raamsdonk, Christopher Waddell, David Wakeham.
+
+### Nontechnical overview
+
 I study quantum gravity.
 Loosely speaking, this is the theory needed to
 describe what happens when you throw
@@ -43,11 +51,7 @@ information processing task.
 So we can study quantum gravity by learning more about quantum
 computers!
 
-### Papers
-
-- [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
-  (2018). Sean Cooper, Moshe Rozali, Brian Swingle, Mark Van
-  Raamsdonk, Christopher Waddell, David Wakeham.
+For information about old research projects, see [this page](/assets/old-research.md).
 
 ### It From Qubit
 
@@ -62,5 +66,3 @@ Here are a few accessible articles on the group's activities:
 - [Quantum entanglement and the geometry of spacetime](https://arxiv.org/pdf/1807.08790.pdf), Matthew Headrick (2018)
 - [Tangled Up in Spacetime](https://www.scientificamerican.com/article/tangled-up-in-spacetime/), Clara Moskowitz, *Scientific American* (2016)
 - [How Quantum Pairs Stitch Space-Time](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428/), Jennifer Ouellette, *Quanta* (2015)
-
-For information about old research projects, see [this page](/assets/old-research.md).
