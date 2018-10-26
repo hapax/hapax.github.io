@@ -43,9 +43,11 @@ information processing task.
 So we can study quantum gravity by learning more about quantum
 computers!
 
-### What do I do? (technical)
+### Papers
 
-Watch this space!
+- [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
+  (2018). Sean Cooper, Moshe Rozali, Brian Swingle, Mark Van
+  Raamsdonk, Christopher Waddell, David Wakeham.
 
 ### It From Qubit
 
