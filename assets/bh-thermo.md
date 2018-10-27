@@ -45,7 +45,7 @@ all reference frames.
 Einstein's *general* theory of relativity adds gravity into the mix,
 and allows the direction of light to change locally in interesting
 ways.
-But the speed limit you remains in place: you can never *locally*
+But the speed limit remains in place: you can never *locally*
 travel faster than light.
 It is the one traffic rule of the universe!
 
@@ -53,7 +53,8 @@ We can visualise this speed limit using *light cones*, which I hope
 you remember from your special relativity class.
 At each point, we imagine shining a flashlight in all directions, and
 graphing where the light travels.
-The result is a cone (in two spatial dimensions).
+The result is a cone (in two spatial dimensions, and a sort of
+"hypercone" in higher dimensions).
 Obeying the speed limit means that you can only move within the cone
 traced out by the rays from the flashlight.
 Remaining still corresponds to travelling along the axis of
