@@ -120,7 +120,7 @@ A consequence of the universal speed limit is that once you cross the
 Schwarzschild radius, you can never return.
 
 However, note that you can still *receive* signals.
-The light cone outline by your flashlight is called the *future light
+The light cone outlined by your flashlight is called the *future light
 cone*, and it tells you where you can send signals (including
 yourself).
 The *past light cone* tells you where you can receive signals from;
