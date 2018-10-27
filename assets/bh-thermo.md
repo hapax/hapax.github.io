@@ -159,7 +159,7 @@ the Newtonian analogy to the light cone completely tipping over.
 
 You may remember that the escape velocity is just the velocity needed
 to escape the Newtonian gravitational field of an object, but with no
-kinetic left over.
+kinetic energy left over.
 That's just enough gas to get to infinity.
 Mathematically, if $m$ is the mass of a test particle whose velocity
 approaches $c$, and $r_\text{H}$ the radius of the event horizon, then
