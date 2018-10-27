@@ -182,7 +182,7 @@ Since the area is proportional to mass squared, and things can only go
 into the black hole, it is plausible that the mass and hence area
 must increase.
 Of course, we have been dealing with a spherically symmetric, static
-black hole, and throwing matter into it violates both assumptions.
+black hole, and throwing matter into it can easily violate both assumptions.
 Stephen Hawking generalised this result to something called the *area
 theorem*, which shows that the area of *any* type of black hole ---
 not just a static, spherically symmetric one --- can only increase
