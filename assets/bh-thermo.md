@@ -146,7 +146,7 @@ $A$ of that intersection.
 	</div>
 	</figure>
 
-Let's find the area for a spherical black in four dimensions (since
+Let's find the area for a spherical black hole in four dimensions (since
 that's the universe we live in).
 By a pedagogically happy fluke, we can use classical reasoning and get
 the right answer!
