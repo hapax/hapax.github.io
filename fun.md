@@ -9,7 +9,7 @@ In the tradition of dorky, maximalist websites, here are a few things I enjoy wh
 ### Books
 
 I'm an avid reader, and spend a lot of time/money fossicking for
-books. Here are some resources for fellow bibliophiles:
+books. Here are some things that may interest fellow bibliophiles.
 - [*Vancouver bookstores*](reviews/bookstores.md). A field guide to used bookstores in
 Vancouver. 
 - [*Desert island library*](reviews/booklist.md). Some books I like.

@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 ---
 
-This page collects various talks, teaching materials, and technical notes.
+Notes on various topics.
 
 [//]: # <figure>
 [//]: #    <div style="text-align:center"><img src ="/assets/bh-thermo-pics/kerrv3.png" width="45%" />
@@ -31,7 +31,8 @@ This page collects various talks, teaching materials, and technical notes.
 
 - [*Random walks with hungry bacteria*]({{
   hapax.github.io}}/assets/random.pdf) (2018). A short problem set
-  on random walks, from the perspective of a hungry *E. coli* bacterium.
+  on random walks, from the perspective of a hungry *E. coli*
+  bacterium.
 - [*Problems in classical mechanics*]({{
   hapax.github.io}}/assets/classical-tutes-full.pdf) (2016). Tutorials
   on classical mechanics for a
