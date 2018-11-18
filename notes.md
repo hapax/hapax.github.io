@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 ---
 
-Notes on various topics.
+[//]: # Notes on various topics.
 
 [//]: # <figure>
 [//]: #    <div style="text-align:center"><img src ="/assets/bh-thermo-pics/kerrv3.png" width="45%" />
