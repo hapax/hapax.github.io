@@ -37,7 +37,9 @@ Notes on various topics.
   hapax.github.io}}/assets/classical-tutes-full.pdf) (2016). Tutorials
   on classical mechanics for a
   [second year physics course](https://handbook.unimelb.edu.au/subjects/phyc20014)
-  at the University of Melbourne.
+  at the University of Melbourne. I wrote two assignments: one on
+  [Poisson sums and higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf),
+  and another on [Fourier analysis at the beach]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
 - [*Problems in Fourier analysis*]({{
   hapax.github.io}}/assets/fourier-tutes-full.pdf) (2016). Tutorials
   on wave mechanics and Fourier analysis for the same subject.
