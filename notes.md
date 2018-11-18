@@ -15,7 +15,7 @@ permalink: /notes/
 
 ### Outreach
 
-- [*Physics circle*](assets/circle-probs.pdf) (2018). High-school
+- [*Physics circle problems*](assets/circle-probs.pdf) (2018). High-school
   physics problems contributed to the
   [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This
   list is still under development, and solutions will be added once
