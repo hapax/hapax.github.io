@@ -18,11 +18,10 @@ permalink: /notes/
 - [*Physics circle problems*](assets/circle-probs.pdf) (2018). High-school
   physics problems contributed to the
   [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This
-  list is still under development, and solutions will be added once
-  the corresponding problems have appeared in Physics Circle sessions.
+  list is still under development.
 - [*Entanglement and quantum secrecy*](assets/entanglement.md)
   (2017). A presentation for the
-  [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/?_cookie-check=NJLWsx1HvuPx1Rgb) 
+  [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/) 
   on entanglement and quantum key distribution.
   Although the talk was pitched at a general audience, the notes here
   are slightly more technical.
