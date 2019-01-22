@@ -4,11 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-### Papers and talks
+### Technical overview
 
 - [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
-  (2018). Sean Cooper, Moshe Rozali, Brian Swingle, Mark Van
-  Raamsdonk, Christopher Waddell, David Wakeham. arXiv: 1810.10601.
+  (2018). [Sean Cooper](https://seancooper.info/),
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
+  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
+  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
+  Christopher Waddell, David Wakeham. arXiv: 1810.10601.
 - [*Peeking behind black hole horizons with boundary states*](assets/melb-18-slides.pdf)
   (2018). A talk on boundary state black holes given at the University
   of Melbourne.
