@@ -15,10 +15,10 @@ permalink: /notes/
 
 ### Outreach
 
-- [*Physics circle problems*](assets/circle-probs.pdf) (2018). High-school
-  physics problems contributed to the
-  [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This
-  list is still under development.
+[//]: #- [*Physics circle problems*](assets/circle-probs.pdf) (2018). High-school
+[//]: #  physics problems contributed to the
+[//]: #  [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This
+[//]: #  list is still under development.
 - [*Entanglement and quantum secrecy*](assets/entanglement.md)
   (2017). A presentation for the
   [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/) 
