@@ -15,10 +15,13 @@ permalink: /notes/
 
 ### Outreach
 
-[//]: #- [*Physics circle problems*](assets/circle-probs.pdf) (2018). High-school
-[//]: #  physics problems contributed to the
-[//]: #  [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This
-[//]: #  list is still under development.
+- [*Dimensional analysis and black holes*](assets/dimensional
+  analysis.pdf) (2019). An introduction to dimensional analysis, with
+  applications to black holes, for high school students. Given for the
+  [UBC Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+- [*Physics circle problems*](assets/circle-probs.pdf)
+(2018--19). High-school physics problems contributed to the
+[UBC Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). This list is still under development.
 - [*Entanglement and quantum secrecy*](assets/entanglement.md)
   (2017). A presentation for the
   [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/) 
