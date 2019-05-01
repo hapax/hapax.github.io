@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes
-permalink: /notes/
+[//]: # permalink: /notes/
 ---
 
 [//]: # Notes on various topics.
