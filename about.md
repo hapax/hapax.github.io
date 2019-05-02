@@ -16,7 +16,7 @@ I am generously supported by a UBC
 Before moving to Vancouver in Fall 2017, I completed a masters degree
 in particle physics at the
 [University of Melbourne](https://www.unimelb.edu.au/).
-Further biographical details are in my CV (available on request).
+Further biographical details can be found in my CV (available on request).
 
 ### Contact me
 
