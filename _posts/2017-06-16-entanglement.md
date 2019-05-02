@@ -2,9 +2,15 @@
 layout: post
 mathjax: true
 comments: true
+categories: [Physics, Teaching]
 title:  "Entanglement and quantum secrecy"
 date: 2017-06-16
 ---
+
+**June 16, 2017.** *A presentation for the
+[Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/)
+on entanglement and quantum key distribution. Although the talk was
+pitched at a general audience, the notes here are slightly more technical.*
 
 <Div id="table-of-contents">
 <h2>Table of Contents</h2>

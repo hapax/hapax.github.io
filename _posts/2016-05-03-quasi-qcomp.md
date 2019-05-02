@@ -2,10 +2,13 @@
 layout: post
 mathjax: true
 comments: true
+categories: [Physics, Teaching]
 title:  "Quantum computing in flatland"
 date:   2016-05-03
 ---
 
+**May 3, 2016.** *A post on anyons (particles with fractional spin) and how they
+  might be used in quantum computing. Based on a talk to undergraduates at the University of Melbourne.*
 
 ### Introduction
 
