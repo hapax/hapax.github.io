@@ -16,7 +16,6 @@ I am generously supported by a UBC
 Before moving to Vancouver in Fall 2017, I completed a masters degree
 in particle physics at the
 [University of Melbourne](https://www.unimelb.edu.au/).
-I have undergraduate degrees in maths and philosophy.
 Further biographical details are in my CV (available on request).
 
 ### Contact me
@@ -43,3 +42,4 @@ href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC A-NC-SA 4.0 Internat
 
 [//]: #Some notes are generated in [org mode](https://orgmode.org/), and formatted using the ReadTheOrg theme of [org-html-themes](https://github.com/fniessen/org-html-themes).
 [//]: #see [Research](https://hapax.github.io/research/) for more.
+[//]: I have undergraduate degrees in maths and philosophy.
