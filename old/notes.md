@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Notes
+[//]: # layout: page
+[//]: # title: Notes
 [//]: # permalink: /notes/
 ---
 

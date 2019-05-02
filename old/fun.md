@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Fun
+[//]: # layout: page
+[//]: # title: Fun
 [//]: # permalink: /fun/
 ---
 
