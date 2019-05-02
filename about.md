@@ -10,7 +10,6 @@ I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
 [University of British Columbia](https://www.ubc.ca/) (UBC).
 I'm interested in gravity, quantum information and black holes.
-[//]: #see [Research](https://hapax.github.io/research/) for more.
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
 
@@ -43,3 +42,4 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC A-NC-SA 4.0 International License</a>.
 
 [//]: #Some notes are generated in [org mode](https://orgmode.org/), and formatted using the ReadTheOrg theme of [org-html-themes](https://github.com/fniessen/org-html-themes).
+[//]: #see [Research](https://hapax.github.io/research/) for more.
