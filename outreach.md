@@ -12,10 +12,10 @@ permalink: /outreach/
   disadvantaged adults in downtown Vancouver.
 - [*Metro Vancouver Physics Circle*](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   (2018--19). A program where high school students visit UBC, hear a
-  physics talk, and do some competition-style problems. I've given a
-  talk, and frequently contribute problems.
+  physics talk, and do some competition-style problems.
   - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). With applications to black hole physics.
-  - [*Physics circle problems*](assets/circle-probs.pdf). Ongoing!
+  - [*Physics circle problems*](assets/circle-probs.pdf). Contributed
+    problems (ongoing).
 
 ### Teaching
 
