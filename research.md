@@ -17,8 +17,7 @@ Under construction!
 ### Other technical notes and talks
 
 - *The algebra of deformed wormholes* (2019). UBC string group talk.
-- [*Chaos and thermalisation*](assets/chaos.pdf)
-  (2018). Expository talk given at the University of Melbourne.
+- *Chaos and thermalisation* (2018). Expository talk given at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). Project for string theory course.
 - [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
