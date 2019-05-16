@@ -1051,7 +1051,7 @@ change the dynamics.</div>
 <div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum" href="#fnr.5">5</a></sup> Get a length of wire, connect one end to a battery and another
 to a lump of metal. Shine high-frequency light on the
 metal, and a current begins to flow from the lump to the battery.
-This suggests that electrons have liberated from the metal lattice by
+This suggests that electrons have been liberated from the metal lattice by
 absorbing energy from the light.
 There are two important points: (a) there is a minimum <i>frequency</i>, but
 not <i>amplitude</i>, the light must have in order for this to 
