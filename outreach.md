@@ -7,11 +7,9 @@ permalink: /outreach/
 ### Outreach
 
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-  (2019). Talk given at the
-  [UBC Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+  (2019). Talk for the [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 - [*Physics circle problems*](assets/circle-probs.pdf)
-  (2018--19). Problems contributed to the Physics Circle. This list is
-  still under development!
+  (2018--19). Problems contributed to the Physics Circle.
 
 ### Teaching
 
