@@ -20,10 +20,9 @@ Under construction!
 - [*Chaos and thermalisation*](assets/chaos.pdf)
   (2018). Expository talk given at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
-hapax.github.io }}/assets/strings-project.pdf) (2018). Final
-project for string theory.
+hapax.github.io }}/assets/strings-project.pdf) (2018). Project for string theory course.
 - [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
-  (2018). UBC string group talk on the [Kitaev-Yoshida algorithm](https://arxiv.org/abs/1710.03363).
+  (2018). UBC string group talk on an [unscrambling algorithm](https://arxiv.org/abs/1710.03363).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
   (2017). UBC string group talk on ["uncomplexity"](https://arxiv.org/abs/1711.03125).
 - [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
