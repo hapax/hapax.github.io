@@ -4,4 +4,10 @@ title: Fun
 permalink: /fun/
 ---
 
+### Writing
+
+Under construction!
+
+### Art
+
 Under construction!
