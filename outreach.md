@@ -22,5 +22,5 @@ permalink: /outreach/
   analysis. I wrote the tutorials and some of the assessment.
   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
-  - [*Assignment 2: velocity filters and donuts*]({{hapax.github.io}}/assets/physical-systems-a2.pdf)
+  - [*Assignment 2: Velocity filters and higher-dimensional donuts*]({{hapax.github.io}}/assets/physical-systems-a2.pdf)
   - [*Assignment 3: Fourier analysis at the beach*]({{hapax.github.io}}/assets/physical-systems-a3.pdf)
