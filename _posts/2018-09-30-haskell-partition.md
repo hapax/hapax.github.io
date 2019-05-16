@@ -153,7 +153,7 @@ than some specified minimum. The builders ```biggerThan``` and
 ```lessThan``` impose upper and lower limits on block size. Finally, ```limitReps```, ```noConsecMult``` and ```predGaps``` respectively limit repeated blocks, forbid consecutive blocks with given remainders modulo a base, and forbid given remainders between consecutive blocks whose difference is less than some gap.
 
 We can combine predicates using logical connectives.
-The connectives ```and``` and ```not``` are nice because they are associative: we can hit a big list of predicates with them!
+The connectives ```and``` and ```or``` are nice because they are associative: we can hit a big list of predicates with them!
 We implement these for lists of predicates:
 
 ```haskell

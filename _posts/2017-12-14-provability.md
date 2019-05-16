@@ -87,9 +87,9 @@ $$
 1 = s0, \quad 2 = s1 = ss0, \quad 3 = s2 = sss0 \ldots 
 $$
  
-You can capture the properties of addition, multiplication, and <a href="https://en.wikipedia.org/wiki/Axiom_of_induction">mathematical induction</a> using axioms. Gödel set up an <a href="https://en.wikipedia.org/wiki/G%C3%B6del_numbering">ingenious labelling system</a> (now called *Gödel numbering*) which allows numbers to refer to statements in PA; roughly, the powers in the prime factorisation correspond to symbols in a string. The Gödel number of a statement is usually denoted by corner brackets, $\ulcorner p\urcorner$. By including corner brackets, numbers, and logical symbols in your Gödel numbering system, you can start performing self-reference and talking about provability: the basic ingredients for incompleteness! 
+You can capture the properties of addition, multiplication, and <a href="https://en.wikipedia.org/wiki/Axiom_of_induction">mathematical induction</a> using axioms. Gödel set up an <a href="https://en.wikipedia.org/wiki/G%C3%B6del_numbering">ingenious labelling system</a> (now called *Gödel numbering*) which allows numbers to refer to statements in PA; the powers in the prime factorisation correspond to symbols in a string. The Gödel number of a statement is usually denoted by corner brackets, $\ulcorner p\urcorner$. By including corner brackets, numbers, and logical symbols in your Gödel numbering system, you can start performing self-reference and talking about provability: the basic ingredients for incompleteness! 
  
-We won't concern ourselves with the details here, since provability logic lets us abstract from these convoluted (if beautiful) details. But how do know this abstraction works, and what is the relation between provability logic and PA? Roughly speaking, we need to consider the *embedding functions* $*: \mathcal{L}_0 \to \text{PA}$ which map the propositional variables $\mathcal{L}_0 = \{p_1, p_2, \ldots \}$ to statements in PA, and recurse on more complicated sentences, i.e. 
+We won't concern ourselves with the details here, since provability logic lets us abstract from these convoluted (if beautiful) details. But how do we know this abstraction works? And what is the relation between provability logic and PA? To answer both questiosn, we consider *embedding functions* $*: \mathcal{L}_0 \to \text{PA}$ which map the propositional variables $\mathcal{L}_0 = \{p_1, p_2, \ldots \}$ to statements in PA, and recurse on more complicated sentences, i.e. 
 
 $$ 
 *(\square A) = \square (*A), \quad *(\neg A) = \neg (*A), \quad *(A \to B) = *A \to *B. 
@@ -97,7 +97,7 @@ $$
  
  There are uncountably many such embedding functions. A sentence $A$ of provability logic is *always provable* if $* A$
  is a theorem of PA for any embedding $* $.
- Provability logic is *sound* with  respect to the semantics of PA if every theorem of provability logic is always provable. This, in turns out, isn't too hard to show (details in Boolos). 
+ Provability logic is *sound* with  respect to the semantics of PA if every theorem of provability logic is always provable. This, it turns out, isn't too hard to show (for details see Boolos). 
 
 *Arithmetic Completeness* is the much less trivial assertion that *every* modal sentence which is always provable is a theorem of provability logic. In other words, any provable statement you make about provability in PA, *within PA itself*, is mapped onto a corresponding statement in provability logic. This was demonstrated by Solovay in 1976. It is essential; without it, provability logic might only capture of fragment of the provability behaviour of PA, but as it turns out, all you need is Löb. 
  
@@ -142,7 +142,9 @@ So, for instance, a fixed point of $L(x)$ (or $A_2$) is equivalent to $\neg \squ
  
 ### Conclusion
  
-Although Gödel proved his First and Second Incompleteness Theorems using ingenious constructions in Peano arithmetic, they are complicated and obscure the behaviour of provability in formal systems. Somewhat miraculously, a modal logic based on Löb's theorem (equivalent to Gödel's Second Theorem) cleanly extracts this provability fragment of PA, a result known as Arithmetic Completeness. The Fixed Point Theorem is the logical analogue of the diagonal lemma, giving us an algorithmic recipe for constructing (simple logical equivalents of) fixed points. In particular, it gives us the *logical* version of Gödel's First Theorem! For more details (and proofs of the two major results quoted here), Boolos' book *The Logic of Provability* is your one-stop shop, though Verbrugge's article in the <a href="https://plato.stanford.edu/entries/logic-provability/">Stanford Encyclopedia of Philosophy</a> (SEP) is a little less daunting. For an introduction to Gödel's theorems, Raatikainen's <a href="https://plato.stanford.edu/entries/goedel-incompleteness/">SEP entry</a> is a good place to start, and Raymond Smullyan's monograph is a classic. 
+ Although Gödel proved his First and Second Incompleteness Theorems using ingenious constructions in Peano arithmetic, they are complicated and obscure provability itself as a formal notion. Somewhat miraculously, a modal logic based on the Gödel-Löb's axiom (equivalent to the Second Incompleteness Theorem) cleanly extracts the "provability fragment" of PA, a result known as Arithmetic Completeness. The Fixed Point Theorem is analogous to the diagonal lemma, giving us a recipe for constructing (simple logical equivalents of) fixed points. So we have a *logical* version of Gödel's First Theorem!
+
+For more details (and proofs of the two major results quoted here), Boolos' book *The Logic of Provability* is your one-stop shop. Verbrugge's article in the <a href="https://plato.stanford.edu/entries/logic-provability/">Stanford Encyclopedia of Philosophy</a> (SEP) is a little less daunting. For an introduction to Gödel's theorems, Raatikainen's <a href="https://plato.stanford.edu/entries/goedel-incompleteness/">SEP entry</a> is a good place to start, and Raymond Smullyan's monograph is a classic. 
  
 ### References
  

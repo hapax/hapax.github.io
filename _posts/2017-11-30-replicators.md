@@ -81,7 +81,7 @@ $$
  
 This is called the *replicator equation*. It says that the success of a replicator (measured as the growth of the log probability $\ln p_i$) is the difference between its fitness and the *mean* fitness. 
  
-While the logarithmic growth of a replicator is related to the replicator mean, it turns out that the *variance* of the replicator fitness tells about how the overall probability distribution is changing. As a quick calculation shows that 
+While the logarithmic growth of a replicator is related to the replicator mean, it turns out that the *variance* of the replicator fitness tells about how the overall probability distribution is changing. A quick calculation shows that 
 
 $$ 
 \left\langle\left(\frac{d\ln p}{dt}\right)^2 \right\rangle = \sum_i p_i\left(\frac{d\ln p_i}{dt}\right)^2 = \sum_i (f_i-\langle f\rangle)^2 p_i, \tag{3} 
