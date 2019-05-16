@@ -10,8 +10,10 @@ permalink: /outreach/
   (2018--19). A program where high school students visit UBC, hear a
   physics talk, and do some competition-style problems. I've given a
   talk, and frequently contribute problems.
-  - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf)
-  - [*Physics circle problems*](assets/circle-probs.pdf)
+  -
+    [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). With
+  application to fundamental constants and black holes.
+  - [*Physics circle problems*](assets/circle-probs.pdf). Ongoing!
 
 ### Teaching
 
