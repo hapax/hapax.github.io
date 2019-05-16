@@ -22,9 +22,8 @@ permalink: /outreach/
 - [*Physical systems*](https://handbook.unimelb.edu.au/subjects/phyc20014)
   (2016). A second year course on wave mechanics and Fourier
   analysis. I wrote the tutorials and some of the assessment, see below.
-  -
-    [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
+  - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
   and a little Hamiltonian mechanics.
-  - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, transforms, and optics.
+  - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
