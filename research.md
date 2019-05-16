@@ -16,12 +16,11 @@ Under construction!
 
 ### Other technical notes and talks
 
-- *The algebra of deformed wormholes* (2019). UBC string group talk on
-[modular inclusions](https://arxiv.org/abs/1811.08900).
+- *The algebra of deformed wormholes* (2019). UBC string group talk.
 - [*Chaos and thermalisation*](assets/chaos.pdf)
   (2018). Expository talk given at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
-hapax.github.io }}/assets/strings-project.pdf) (2018). Coursework
+hapax.github.io }}/assets/strings-project.pdf) (2018). Final
 project for string theory.
 - [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
   (2018). UBC string group talk on the [Kitaev-Yoshida algorithm](https://arxiv.org/abs/1710.03363).
