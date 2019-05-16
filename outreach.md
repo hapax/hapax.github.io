@@ -6,6 +6,9 @@ permalink: /outreach/
 
 ### Outreach
 
+- *Beanbags and traffic rules* (2019). A conceptual introduction to
+  gravity and black holes, given as part of the
+  [*Science 101*](https://science.ubc.ca/community/101) course.
 - [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   (2018--19). A program where high school students visit UBC, hear a
   physics talk, and do some competition-style problems. I've given a
@@ -27,7 +30,7 @@ permalink: /outreach/
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
-- Other subjects taught:
+- Other subjects taught (all at the University of Melbourne):
   - *Quantum field theory* (2017)
   - *Vector calculus* (2017)
   - *Group theory and linear algebra* (2016)
