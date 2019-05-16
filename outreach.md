@@ -6,10 +6,11 @@ permalink: /outreach/
 
 ### Outreach
 
-- *Beanbags and traffic rules* (2019). A conceptual introduction to
+- *Einstein's beanbag* (2019). A conceptual introduction to
   gravity and black holes, given as part of the
-  [*Science 101*](https://science.ubc.ca/community/101) course.
-- [Metro Vancouver Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
+  [*Science 101*](https://science.ubc.ca/community/101) course for
+  disadvantaged adults in downtown Vancouver.
+- [*Metro Vancouver Physics Circle*](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   (2018--19). A program where high school students visit UBC, hear a
   physics talk, and do some competition-style problems. I've given a
   talk, and frequently contribute problems.
