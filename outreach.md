@@ -15,7 +15,7 @@ permalink: /outreach/
   gentle introduction to dimensional analysis, with applications to
   the heady physics of black holes.
   - [*Circle problems*](assets/circle-probs.pdf). A selection of
-    questions I've contributed to the problem sessions.
+    questions I've contributed to problem sessions.
 
 ### Teaching
 
