@@ -31,9 +31,10 @@ permalink: /outreach/
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
-- Other subjects taught (all at the University of Melbourne):
-  - *Quantum field theory* (2017)
-  - *Vector calculus* (2017)
-  - *Group theory and linear algebra* (2016)
-  - *Real analysis* (2013--2016)
-  - *Linear algebra* (2013)
+
+[//]: #- Other subjects taught (all at the University of Melbourne):
+[//]: #  - *Quantum field theory* (2017)
+[//]: #  - *Vector calculus* (2017)
+[//]: #  - *Group theory and linear algebra* (2016)
+[//]: #  - *Real analysis* (2013--2016)
+[//]: #  - *Linear algebra* (2013)
