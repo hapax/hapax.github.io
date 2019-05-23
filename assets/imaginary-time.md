@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Imaginary time and hot vacuums"
+title:  "Imaginary time"
 categories: Physics
 date:  2018-20-20
 ---
