@@ -6,13 +6,15 @@ permalink: /outreach/
 
 ### Outreach
 
-- [*Einstein's beanbag*](assets/conceptual-gravity.pdf) (2019). A conceptual introduction to
+- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). A conceptual introduction to
   gravity and black holes.
 - [*Metro Vancouver Physics Circle*](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   (2018--19). An outreach program for high school students, run
-  through UBC.
+  through UBC. I write problems, help run sessions, and occasionally
+  give talks.
   - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). A
-  gentle introduction to dimensional analysis, with fun applications to black hole physics.
+  gentle introduction to dimensional analysis, with applications to
+  the heady physics of black holes.
   - [*Circle problems*](assets/circle-probs.pdf). A selection of
     questions I've contributed to the problem sessions.
 
