@@ -14,6 +14,16 @@ Under construction!
 
 #### Papers and talks
 
+- [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
+  (2018). [Sean Cooper](https://seancooper.info/),
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
+  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
+  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
+  Christopher Waddell, David Wakeham. arXiv: 1810.10601.
+- [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
+  (2018). [CoEPP](http://www.coepp.org.au/) particle physics seminar
+  at the University of Melbourne.
+
 ### Technical notes and talks
 
 - *Modular inclusions and wormholes* (2019). UBC strings group meeting.

@@ -61,7 +61,7 @@ always find something interesting, including the occasional technical book.
 **Broadway (2754 W Broadway).** Similar to the Commercial site,
   though smaller yet again and with fewer new titles.
 
-#### [Sikora's Classical Records](http://www.sikorasclassical.com/) (432 W Hastings St)
+#### [~~Sikora's Classical Records~~ CLOSED](http://www.sikorasclassical.com/) (432 W Hastings St)
 
 A huge selection of classical/jazz records and CDs, with a random
 assortment of philosophy books at the back. A great place to expand
