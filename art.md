@@ -11,7 +11,6 @@ larger version!
 
 Made more or less exclusively with Inkscape.<br/>
 
-<div>
 <a href="/assets/art/vector/er=epr.png" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/vector/er=epr.png"
@@ -51,8 +50,8 @@ src="https://hapax.github.io/assets/art/vector/circle.jpg"
 10pt; margin-right: 10pt;"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/vector/torquay.png"
 /></a>
-</div>
-<br/>
+
+<a href="/assets/art/vector/torquay.png"></a>
 
 
 ### Drawings
