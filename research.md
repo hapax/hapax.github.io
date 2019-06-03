@@ -8,7 +8,8 @@ permalink: /research/
 
 I work on string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-At the moment, I'm thinking about various aspects of *boundary CFTs*
+At the moment, I'm thinking about various aspects of *boundary
+conformal field theories (BCFTs)*
 and their holographic duals.
 See the lay and technical summaries below for more.
 
