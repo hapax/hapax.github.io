@@ -11,17 +11,17 @@ larger version!
 
 These drawings are mostly digital but a few are scanned fineliner.
 
-<a href="/assets/art/drawing/antenna.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/antenna.jpg" style="float: left; width:30%; margin-left:
 10pt; margin-right: 10pt;"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
 /></a>
 
-<a href="/assets/art/drawing/deaf.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/deaf.jpg" style="float: left; width:30%; margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/deaf.jpg"
 /></a>
 
-<a href="/assets/art/drawing/felp.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/felp.jpg" style="float: left; width:30%; margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/felp.jpg"
 /></a>
