@@ -85,3 +85,7 @@ src="https://hapax.github.io/assets/art/drawing/siouxsie.jpg"
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/zombie.jpg"
 /></a>
+
+<br>
+
+</br>
