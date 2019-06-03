@@ -6,13 +6,17 @@ permalink: /research/
 
 ### Research
 
-Under construction!
+I work on string theory and quantum gravity, with particular interest
+in black holes and the AdS/CFT correspondence.
+At the moment, I'm thinking about various aspects of *boundary CFTs*
+and their holographic dual.
+See the summaries below for more.
 
 #### Lay summary
 
 #### Technical summary
 
-#### Papers and talks
+#### Papers and presentations
 
 - [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
   (2018). [Sean Cooper](https://seancooper.info/),
