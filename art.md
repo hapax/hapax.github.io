@@ -46,7 +46,8 @@ src="https://hapax.github.io/assets/art/vector/circle.jpg"
 src="https://hapax.github.io/assets/art/vector/torquay.png"
 /></a>
 
-Help me space
+<br/><br/>
+<br/><br/>
 
 
 ### Drawings
@@ -119,4 +120,6 @@ src="https://hapax.github.io/assets/art/drawing/siouxsie.jpg"
 src="https://hapax.github.io/assets/art/drawing/zombie.jpg"
 /></a>
 </div>
-<br/>
+
+<br/><br/>
+<br/><br/>
