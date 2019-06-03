@@ -43,7 +43,7 @@ src="https://hapax.github.io/assets/art/vector/vaporwave.jpg"
 
 <a href="/assets/art/vector/circle.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/vector/circle.png"
+src="https://hapax.github.io/assets/art/vector/circle.jpg"
 /></a>
 
 <a href="/assets/art/vector/torquay.png" style="float: left; margin-left:
@@ -51,7 +51,7 @@ src="https://hapax.github.io/assets/art/vector/circle.png"
 src="https://hapax.github.io/assets/art/vector/torquay.png"
 /></a>
 
-<br>
+<br/>
 
 ### Drawings
 
