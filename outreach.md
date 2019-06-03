@@ -9,9 +9,9 @@ permalink: /outreach/
 - [*Metro Vancouver Physics Circle*](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   (2018--). A UBC outreach program for high school students. I write problems, help run sessions, and occasionally
   give talks.
-  - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). A
-  gentle introduction to dimensional analysis, with applications to
-  the heady physics of black holes.
+  - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
+  introduction to dimensional analysis, with applications to
+  fundamental constants, natural units, and black holes.
   - [*Circle problems*](assets/circle-probs.pdf). A selection of
     questions I've contributed to problem sessions.
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). A conceptual introduction to
