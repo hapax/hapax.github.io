@@ -31,11 +31,6 @@ src="https://hapax.github.io/assets/art/vector/qgcat.png"
 src="https://hapax.github.io/assets/art/vector/retro.jpg"
 /></a>
 
-<a href="/assets/art/vector/rider.png" style="float: left; margin-left:
-10pt; margin-right: 10pt;"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/vector/rider.png"
-/></a>
-
 <a href="/assets/art/vector/vaporwave.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/vector/vaporwave.jpg"
