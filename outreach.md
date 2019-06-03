@@ -12,8 +12,8 @@ permalink: /outreach/
   - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-  - [*Circle problems*](assets/circle-probs.pdf). A selection of
-    questions I've contributed to problem sessions.
+  - [*Circle problems*](assets/circle-probs.pdf). Some of my problem
+    session contributions.
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). A conceptual introduction to
   gravity and black holes. No equations! Aimed at interested laypeople.
 - [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions

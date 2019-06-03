@@ -9,14 +9,13 @@ larger version!
 
 ### Drawings
 
-These drawings are mostly digital (Photoshop) with a few scanned
-fineliner pictures.
+These drawings are mostly digital but a few are scanned fineliner.
 
-<a href="/assets/art/drawing/antenna.jpg" style="float: left; width: 30%><img border="0" width="100"
+<a href="/assets/art/drawing/antenna.jpg" style="float: left; width: 30%"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
 /></a>
 
-<a href="/assets/art/drawing/deaf.jpg" style="float: left; width: 30%><img border="0" width="100"
+<a href="/assets/art/drawing/deaf.jpg" style="float: left; width: 30%"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/deaf.jpg"
 /></a>
 
