@@ -12,23 +12,19 @@ larger version!
 These drawings are mostly digital (Photoshop) with a few scanned
 fineliner pictures.
 
-<a href="/assets/art/drawing/antenna.jpg"><width="100"
-src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
-/>
+![Antenna](https://hapax.github.io/assets/art/drawing/antenna.jpg "title-1") ![Deaf](https://hapax.github.io/assets/art/drawing/deaf.jpg "title-2")
 
-<a href="/assets/art/drawing/antenna.jpg"><width="100"
-src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
-/></a>
-
-<a href="/assets/art/drawing/antenna.jpg"><img border="0" width="100"
+<a href="/assets/art/drawing/antenna.jpg" style="margin-left:
+1em; margin-right: 1em;"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
 /></a>
 
-<a href="/assets/art/drawing/deaf.jpg"><img border="0" width="100"
+<a href="/assets/art/drawing/deaf.jpg" style="margin-left:
+1em; margin-right: 1em;"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/deaf.jpg"
 /></a>
 
-<a href="/assets/art/drawing/felp.jpg" imageanchor="1" style="margin-left:
+<a href="/assets/art/drawing/felp.jpg" style="margin-left:
 1em; margin-right: 1em;"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/felp.jpg"
 /></a>
