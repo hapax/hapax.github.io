@@ -12,6 +12,14 @@ larger version!
 These drawings are mostly digital (Photoshop) with a few scanned
 fineliner pictures.
 
+<a href="/assets/art/drawing/antenna.jpg"><width="100"
+src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
+/>
+
+<a href="/assets/art/drawing/antenna.jpg"><width="100"
+src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
+/></a>
+
 <a href="/assets/art/drawing/antenna.jpg"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
 /></a>
