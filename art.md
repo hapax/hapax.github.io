@@ -16,9 +16,9 @@ Made more or less exclusively with Inkscape.
 src="https://hapax.github.io/assets/art/vector/er=epr.png"
 /></a>
 
-<a href="/assets/art/vector/eye.png" style="float: left; margin-left:
+<a href="/assets/art/vector/eye.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/vector/eye.png"
+src="https://hapax.github.io/assets/art/vector/eye.jpg"
 /></a>
 
 <a href="/assets/art/vector/qgcat.png" style="float: left; margin-left:
@@ -26,15 +26,32 @@ src="https://hapax.github.io/assets/art/vector/eye.png"
 src="https://hapax.github.io/assets/art/vector/qgcat.png"
 /></a>
 
-<a href="/assets/art/vector/retro.png" style="float: left; margin-left:
+<a href="/assets/art/vector/retro.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/vector/retro.png"
+src="https://hapax.github.io/assets/art/vector/retro.jpg"
+/></a>
+
+<a href="/assets/art/vector/rider.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/rider.png"
 /></a>
 
 <a href="/assets/art/vector/vaporwave.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/vector/vaporwave.jpg"
 /></a>
+
+<a href="/assets/art/vector/circle.jpg" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/circle.png"
+/></a>
+
+<a href="/assets/art/vector/torquay.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/torquay.png"
+/></a>
+
+<br>
 
 ### Drawings
 
