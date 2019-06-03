@@ -12,11 +12,12 @@ See [Art](/art.md) for more, or my (somewhat out-of-date)
 
 ### Writing/reading
 
-I'm also an avid reader, and spend a lot of time/money fossicking for
-books. I've written a short field guide to
-[*Vancouver bookstores*](reviews/bookstores.md) for fellow
+I'm an avid fiction reader, and spend a lot of time/money fossicking
+for books. I've written a short field guide to Vancouver's
+[used bookstores](reviews/bookstores.md) for fellow
 bibliophiles.
-Recently, I've also started [Writing](/writing.md) a little.
+Recently, I've moved beyond consumption and started doing a little
+[writing](/writing.md) myself!
 
 ### Coding
 
