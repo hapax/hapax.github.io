@@ -7,8 +7,7 @@ permalink: /fun/
 ### Art
 
 I like drawing and making digital art.
-See my [art](/art.md) page for more, or my (somewhat out-of-date)
-[Instagram](https://www.instagram.com/holotwin/) account.
+See my [art](/art.md) page for more.
 
 ### Writing/reading
 

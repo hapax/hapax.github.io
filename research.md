@@ -6,15 +6,19 @@ permalink: /research/
 
 ### Research
 
-I work on string theory and quantum gravity, with particular interest
-in black holes and the AdS/CFT correspondence.
+I work on string theory and quantum gravity, with a particular focus
+on the AdS/CFT correspondence.
 At the moment, I'm thinking about various aspects of *boundary CFTs*
 and their holographic duals.
-See the summaries below for more.
+See the lay and technical summaries below for more.
 
 #### Lay summary
 
+To do!
+
 #### Technical summary
+
+To do!
 
 #### Papers and presentations
 
