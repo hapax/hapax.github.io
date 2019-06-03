@@ -11,17 +11,17 @@ larger version!
 
 These drawings are mostly digital but a few are scanned fineliner.
 
-<a href="/assets/art/drawing/antenna.jpg" style="float: left; width:30%; margin-left:
+<a href="/assets/art/drawing/antenna.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
 /></a>
 
-<a href="/assets/art/drawing/deaf.jpg" style="float: left; width:30%; margin-left:
+<a href="/assets/art/drawing/deaf.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/deaf.jpg"
 /></a>
 
-<a href="/assets/art/drawing/felp.jpg" style="float: left; width:30%; margin-left:
+<a href="/assets/art/drawing/felp.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/felp.jpg"
 /></a>
@@ -61,31 +61,27 @@ src="https://hapax.github.io/assets/art/drawing/kerkeslin.jpg"
 src="https://hapax.github.io/assets/art/drawing/laugh.jpg"
 /></a>
 
-<a href="/assets/art/drawing/morrissey.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/morrissey.jpg" style="margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/morrissey.jpg"
 /></a>
 
-<a href="/assets/art/drawing/rabbit.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/rabbit.jpg" style="margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/rabbit.jpg"
 /></a>
 
-<a href="/assets/art/drawing/rasputin.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/rasputin.jpg" style="margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/rasputin.jpg"
 /></a>
 
-<a href="/assets/art/drawing/siouxsie.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/siouxsie.jpg" style="margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/siouxsie.jpg"
 /></a>
 
-<a href="/assets/art/drawing/zombie.jpg" style="float: left; margin-left:
+<a href="/assets/art/drawing/zombie.jpg" style="margin-left:
 10pt; margin-right: 10pt"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/zombie.jpg"
 /></a>
-
-<br>
-
-</br>
