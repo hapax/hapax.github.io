@@ -11,7 +11,7 @@ on the AdS/CFT correspondence.
 At the moment, I'm thinking about various aspects of *boundary
 conformal field theories (BCFTs)*
 and their holographic duals.
-See the lay and technical summaries below for more.
+See the lay and technical summaries below for more details.
 
 #### Lay summary
 
