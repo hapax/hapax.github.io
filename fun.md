@@ -7,17 +7,16 @@ permalink: /fun/
 ### Art
 
 I like drawing and making digital art.
-See [Art](/art.md) for more, or my (somewhat out-of-date)
+See my [art](/art.md) page for more, or my (somewhat out-of-date)
 [Instagram](https://www.instagram.com/holotwin/) account.
 
 ### Writing/reading
 
-I'm an avid fiction reader, and spend a lot of time/money fossicking
+I'm an avid reader, and spend a lot of time/money fossicking
 for books. I've written a short field guide to Vancouver's
 [used bookstores](reviews/bookstores.md) for fellow
 bibliophiles.
-Recently, I've moved beyond consumption and started doing a little
-[writing](/writing.md) myself!
+I also do some [writing](/writing.md) myself!
 
 ### Coding
 
