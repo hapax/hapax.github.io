@@ -7,6 +7,35 @@ permalink: /fun/art/
 Here are a few different galleries. Clink on images for a
 larger version!
 
+### Vector art
+
+Made more or less exclusively with Inkscape.
+
+<a href="/assets/art/vector/er=epr.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/er=epr.png"
+/></a>
+
+<a href="/assets/art/vector/eye.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/eye.png"
+/></a>
+
+<a href="/assets/art/vector/qgcat.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/qgcat.png"
+/></a>
+
+<a href="/assets/art/vector/retro.png" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/retro.png"
+/></a>
+
+<a href="/assets/art/vector/vaporwave.jpg" style="float: left; margin-left:
+10pt; margin-right: 10pt;"><img border="0" height="100"
+src="https://hapax.github.io/assets/art/vector/vaporwave.jpg"
+/></a>
+
 ### Drawings
 
 These drawings are mostly digital but a few are scanned fineliner.
@@ -29,11 +58,6 @@ src="https://hapax.github.io/assets/art/drawing/felp.jpg"
 <a href="/assets/art/drawing/hat.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/drawing/hat.jpg"
-/></a>
-
-<a href="/assets/art/drawing/helicopter.jpg" style="float: left; margin-left:
-10pt; margin-right: 10pt"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/drawing/helicopter.jpg"
 /></a>
 
 <a href="/assets/art/drawing/ill.jpg" style="float: left; margin-left:
