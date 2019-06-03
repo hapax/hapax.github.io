@@ -12,7 +12,13 @@ larger version!
 These drawings are mostly digital (Photoshop) with a few scanned
 fineliner pictures.
 
-![Antenna](https://hapax.github.io/assets/art/drawing/antenna.jpg "title-1") ![Deaf](https://hapax.github.io/assets/art/drawing/deaf.jpg "title-2")
+<a href="/assets/art/drawing/antenna.jpg" style="float: left; width: 30%><img border="0" width="100"
+src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
+/></a>
+
+<a href="/assets/art/drawing/deaf.jpg" style="float: left; width: 30%><img border="0" width="100"
+src="https://hapax.github.io/assets/art/drawing/deaf.jpg"
+/></a>
 
 <a href="/assets/art/drawing/antenna.jpg" style="margin-left:
 1em; margin-right: 1em;"><img border="0" width="100"
