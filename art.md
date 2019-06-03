@@ -9,8 +9,8 @@ larger version!
 
 ### Drawings
 
-Mostly digital (using Paint back in the day, then Photoshop), but some
-more recent fineliner pictures (Micron all the way).
+These drawings are mostly digital (Photoshop) with a few scanned
+fineliner pictures.
 
 <a href="/assets/art/drawing/antenna.jpg"><img border="0" width="100"
 src="https://hapax.github.io/assets/art/drawing/antenna.jpg"
