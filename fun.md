@@ -9,6 +9,7 @@ In the tradition of dorky, maximalist websites, here are a few things I enjoy wh
 ### Art
 
 I like drawing and making digital art.
+
 [//]: # See my [art](/art.md) page for more.
 
 ### Writing/reading
@@ -17,6 +18,7 @@ I'm an avid reader, and spend a lot of time/money fossicking
 for books. I've written a short field guide to Vancouver's
 [used bookstores](reviews/bookstores.md) for fellow
 bibliophiles.
+
 [//]: # I also do some [writing](/writing.md) myself!
 
 ### Coding
