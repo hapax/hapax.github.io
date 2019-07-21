@@ -14,7 +14,7 @@ and their holographic duals.
 
 #### Papers and presentations
 
-- [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)
+- ["Black hole microstate cosmology"](https://arxiv.org/abs/1810.10601)
   (2018). [Sean Cooper](https://seancooper.info/),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
@@ -27,7 +27,7 @@ and their holographic duals.
   [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
   held at the Yukawa Institute, Kyoto, Japan.
 
-### Technical notes and talks
+### Other technical notes and talks
 - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). Presentation
   on non-equilibrium physics for neutron star group meeting at the University of Melbourne.
