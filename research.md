@@ -30,7 +30,7 @@ and their holographic duals.
 ### Technical notes and talks
 - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). Presentation
-  on non-equilibrium physics, neutron star group meeting at the University of Melbourne.
+  on non-equilibrium physics for neutron star group meeting at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). Final project
 for a course on bosonic string theory.
