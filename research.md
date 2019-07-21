@@ -34,8 +34,7 @@ To do!
   at the University of Melbourne.
 
 ### Technical notes and talks
-
-- *Modular inclusions and wormholes* (2019). UBC strings group meeting.
+- [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 - *Chaos and thermalisation* (2018). Neutron star
   group meeting at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
