@@ -23,10 +23,9 @@ and their holographic duals.
 - [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
   (2018). [CoEPP](http://www.coepp.org.au/) particle physics seminar
   at the University of Melbourne.
-- [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). A
-  poster at
+- [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
   [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
-  held at the Yukawa Institute, Kyoto.
+  held at the Yukawa Institute, Kyoto, Japan.
 
 ### Technical notes and talks
 - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
