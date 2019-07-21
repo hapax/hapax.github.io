@@ -11,15 +11,6 @@ on the AdS/CFT correspondence.
 At the moment, I'm thinking about various aspects of *boundary
 conformal field theories (BCFTs)*
 and their holographic duals.
-See the lay and technical summaries below for more details.
-
-#### Lay summary
-
-To do!
-
-#### Technical summary
-
-To do!
 
 #### Papers and presentations
 
@@ -39,7 +30,7 @@ To do!
 
 ### Technical notes and talks
 - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
-- *Chaos and thermalisation* (2018). Neutron star
+- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). Neutron star
   group meeting at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). Final project
@@ -56,3 +47,6 @@ for a course on bosonic string theory.
 [//]: # String group talk on ["Efficient decoding for the Hayden-Preskill protocol"](https://arxiv.org/abs/1710.03363).
 [//]: # String group talk on ["Uncomplexity and black hole geometry"](https://arxiv.org/abs/1711.03125).
 [//]: # Notes for student seminar on inflation.
+[//]: # See the lay and technical summaries below for more details.
+[//]: # #### Lay summary
+[//]: # #### Technical summary
