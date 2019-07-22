@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Research
+### What I do
 
 I work on string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
