@@ -32,3 +32,9 @@ distribution of genetic code around a family tree.
   partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/).
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 collection of Processing sketches.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/gothic-2.png" width="50%" />
+    <figcaption><i>Gothic window generator.</i></figcaption>
+	</div>
+</figure>
