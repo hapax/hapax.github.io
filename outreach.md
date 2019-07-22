@@ -5,7 +5,7 @@ permalink: /outreach/
 ---
 
 <figure>
-    <div style="text-align:center"><img src ="/images/einstein.png" width="60%" />
+    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
     <figcaption><i>Einstein telling lumps where to flump.</i></figcaption>
 	</div>
 </figure>
