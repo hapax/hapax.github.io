@@ -17,8 +17,8 @@ In the tradition of dorky, maximalist websites, here are a few things I enjoy wh
 
 ### Coding
 
-I do a little coding for fun.
-Here are some small projects:
+I code for fun.
+A selection of minor projects:
 
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
 distribution of genetic code around a family tree.
