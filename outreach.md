@@ -16,13 +16,13 @@ I co-run the
   an outreach program for talented high school students in the
   Vancouver area.
   
-- *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
+- *Fermi estimates Harry Potter to ET (talk)* (2019). A user's guide to
   order-of-magnitude estimates. The payoff: a (kind of) solution to Fermi's
   paradox with Fermi estimates!
-- [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
+- [*Dimensional analysis*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf). Some of my problem
+- [*Circle problems*](assets/circle-probs.pdf) (2018--). Some of my problem
     session contributions.
 
 ### Other outreach
