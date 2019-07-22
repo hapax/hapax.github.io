@@ -11,14 +11,14 @@ tools they can use to solve real problems!
 
 ### Outreach
 
-- *UBC Physics Circle* (2018--). I co-run the
+- **UBC Physics Circle** (2018--). I co-run the
   [UBC physics circle program](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   for high school students. In addition to administrative duties, I
   write problems and give talks.
-- *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
+  - *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
   order-of-magnitude estimates. The payoff: a (kind of) solution to Fermi's
   paradox with Fermi estimates!
-- [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
+  - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
   - [*Circle problems*](assets/circle-probs.pdf). Some of my problem
