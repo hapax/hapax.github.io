@@ -9,14 +9,13 @@ From lay outreach to undergraduate teaching, I love to get people
 excited about ideas in maths and physics. I also like to give them
 tools they can use to solve real problems!
 
-### Physics circle
+### UBC Physics circle
 
 I co-run the
   [UBC physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for talented high school students in the
   Vancouver area.
-  Besides administrative duties, I write problems and sometimes give
-  talks; see below.
+  In addition to organisation, I also write physics problems and give talks.
   
 - *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
   order-of-magnitude estimates. The payoff: a (kind of) solution to Fermi's
