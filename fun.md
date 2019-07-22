@@ -4,7 +4,8 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are a few things I enjoy when I'm not doing science.
+In the tradition of dorky, maximalist websites, here are a few things
+I enjoy when I'm not doing science. Under construction!
 
 [//]: # ### Writing/reading
 
@@ -33,16 +34,16 @@ collection of Processing sketches.
 	</div>
 </figure>
 
-### Art
+[//]: # ### Art
 
-I like drawing and making digital art.
-See my [art](/art.md) page for more.
+[//]: # I like drawing and making digital art.
+[//]: # See my [art](/art.md) page for more.
 
-<figure>
-    <div style="text-align:center"><img src ="/images/zombie.jpg" />
-    <figcaption><i>Ha ha ha.</i></figcaption>
-	</div>
-</figure>
+[//]: #<figure>
+[//]: #    <div style="text-align:center"><img src ="/images/zombie.jpg" />
+[//]: #    <figcaption><i>Ha ha ha.</i></figcaption>
+[//]: #	</div>
+[//]: #</figure>
 
 [//]: # I have illustrated for [Discorder magazine](https://www.citr.ca/discorder/),
 [//]: # and did a commissioned piece for the
