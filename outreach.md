@@ -4,14 +4,21 @@ title: Teaching and outreach
 permalink: /outreach/
 ---
 
-I'm passionate about science outreach and teaching.
+Science should be fun and empowering.
+From lay outreach to undergraduate teaching, I love to get people
+excited about ideas in maths and physics. I also like to give them
+tools they can use to solve real problems!
 
 ### Outreach
 
-- [*Metro Vancouver Physics Circle*](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-  (2018--). A UBC outreach program for high school students. I write problems, help run sessions, and occasionally
-  give talks.
-  - [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
+- *UBC Physics Circle* (2018--). I co-run the
+  [UBC physics circle program](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
+  for high school students. In addition to administrative duties, I
+  write problems and give talks.
+- *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
+  order-of-magnitude estimates. The payoff: a (kind of) solution to Fermi's
+  paradox with Fermi estimates!
+- [*Dimensional analysis (talk)*](assets/dimensional-analysis.pdf). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
   - [*Circle problems*](assets/circle-probs.pdf). Some of my problem
@@ -22,6 +29,9 @@ I'm passionate about science outreach and teaching.
   contributed to the UBC high school [Physics Olympics](https://physoly.phas.ubc.ca/). Some of my problems featured in a local
   [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
   on the event!
+- [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md) (2017).
+- [*Quantum computing in flatland*](2016-05-03-quasi-qcomp.md) (2016).
+- [*Black hole thermodynamics*](2015-08-31-bh-thermo) (2015).
 
 ### Teaching
 
@@ -29,9 +39,10 @@ I'm passionate about science outreach and teaching.
   hapax.github.io}}/assets/random.pdf) (2018). A short problem set
   on random walks, from the perspective of a hungry *E. coli*
   bacterium.
-- [*Physical systems*](https://handbook.unimelb.edu.au/subjects/phyc20014)
-  (2016). A second year course on wave mechanics and Fourier
-  analysis. I wrote the tutorials and some of the assessment, see below.
+- *Physical systems* (2016). A
+  [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
+  on wave mechanics and Fourier analysis. I wrote the tutorials and
+  some of the assessment, see below.
   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
   and a little Hamiltonian mechanics.
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.

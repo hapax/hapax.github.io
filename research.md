@@ -14,18 +14,18 @@ and their holographic duals.
 
 #### Papers and presentations
 
+- [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
+  [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
+  held at the Yukawa Institute, Kyoto, Japan.
+  - [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
+  (2018). [CoEPP](http://www.coepp.org.au/) particle physics seminar
+  at the University of Melbourne.
 - ["Black hole microstate cosmology"](https://arxiv.org/abs/1810.10601)
   (2018). [Sean Cooper](https://seancooper.info/),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
   [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
   Christopher Waddell, David Wakeham. arXiv: 1810.10601. To appear in JHEP.
-- [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
-  (2018). [CoEPP](http://www.coepp.org.au/) particle physics seminar
-  at the University of Melbourne.
-- [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
-  [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
-  held at the Yukawa Institute, Kyoto, Japan.
 
 ### Other technical notes and talks
 - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
