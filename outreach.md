@@ -49,7 +49,7 @@ I co-run the
 - *Physical systems* (2016). A
   [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on wave mechanics and Fourier analysis. I wrote the tutorials and
-  some of the assessment, see below.
+  some of the assessment.
   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
   and a little Hamiltonian mechanics.
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
