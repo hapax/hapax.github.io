@@ -32,7 +32,7 @@ I co-run the
   [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
   on the event!
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
-  (2017).
+  (2017). A presentation for the Melbourne Maths and Science Meetup.
 - [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
   (2016). A talk to undergraduates at the University of Melbourne.
 - [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo) (2015). A talk to undergraduates at the University of Melbourne.
