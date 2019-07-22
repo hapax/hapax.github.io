@@ -35,6 +35,6 @@ collection of Processing sketches.
 
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" width="40%" />
-    <figcaption><i>Gothic window generator.</i></figcaption>
+    <figcaption><i>A "decadent" Gothic window.</i></figcaption>
 	</div>
 </figure>
