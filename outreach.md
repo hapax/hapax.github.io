@@ -43,7 +43,7 @@ I co-run the
 ### Teaching
 
 - [*Random walks with hungry bacteria*]({{
-  hapax.github.io}}/assets/random.pdf) (2018). A lengthy problem set
+  hapax.github.io}}/assets/random.pdf) (2018). A long problem set
   on random walks, from the perspective of a hungry *E. coli*
   bacterium.
 - *Physical systems* (2016). A
