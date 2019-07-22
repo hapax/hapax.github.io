@@ -34,7 +34,7 @@ distribution of genetic code around a family tree.
 collection of Processing sketches.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/gothic-2.png" width="50%" />
+    <div style="text-align:center"><img src ="/images/gothic-2.png" width="30%" />
     <figcaption><i>Gothic window generator.</i></figcaption>
 	</div>
 </figure>
