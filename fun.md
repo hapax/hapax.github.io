@@ -36,8 +36,10 @@ collection of Processing sketches.
 ### Art
 
 I like drawing and making digital art.
-Some of my illustrations appear in
-[Discorder magazine](https://www.citr.ca/discorder/), and 
+I have drawn for [Discorder magazine](https://www.citr.ca/discorder/),
+and did a [commissioned piece](assets/images/collision.jpg) for the
+[Collision exhibit](http://www.coepp.org.au/events/collision-exhibition)
+at the Adelaide Fringe Festival, 2016.
 See my [art](/art.md) page for more.
 
 <figure>
