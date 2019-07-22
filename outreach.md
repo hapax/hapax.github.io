@@ -19,9 +19,8 @@ I co-run the
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf) (2018--). Problem
-    session contributions. The versions here may differ slightly from
-    those on the site.
+- [*Circle problems*](assets/circle-probs.pdf) (2018--). The versions
+    here may differ slightly from those on the site.
 
 <figure>
     <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
