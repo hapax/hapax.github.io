@@ -4,13 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-[//]: # In the tradition of dorky, maximalist websites, here are a few things I enjoy when I'm not doing science.
-
-[//]: #### Art
-
-[//]: # I like drawing and making digital art.
-
-[//]: # See my [art](/art.md) page for more.
+In the tradition of dorky, maximalist websites, here are a few things I enjoy when I'm not doing science.
 
 [//]: # ### Writing/reading
 
@@ -36,5 +30,18 @@ collection of Processing sketches.
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" />
     <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+	</div>
+</figure>
+
+### Art
+
+I like drawing and making digital art.
+Some of my illustrations appear in
+[Discorder magazine](https://www.citr.ca/discorder/), and 
+See my [art](/art.md) page for more.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/zombie.jpg" />
+    <figcaption><i>Ha ha ha.</i></figcaption>
 	</div>
 </figure>
