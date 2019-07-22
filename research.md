@@ -8,7 +8,7 @@ permalink: /research/
 
 I work on string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-This is a remarkable hypothesis, using ideas from string theory, that
+This is the crazy-sounding (but extremely well-tested) proposition
 quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
 equivalent to a regular quantum theory in *d* dimensions.
 For instance, a 3D black hole can be described by a 2D
