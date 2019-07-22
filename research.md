@@ -4,12 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-<figure>
-    <div style="text-align:center"><img src ="/images/er=epr.png" width="70%" />
-    <figcaption><i>Black holes and quantum computers.</i></figcaption>
-	</div>
-</figure>
-
 ### Research
 
 I work on string theory and quantum gravity, with a particular focus
@@ -17,6 +11,12 @@ on the AdS/CFT correspondence.
 At the moment, I'm thinking about various aspects of *boundary
 conformal field theories (BCFTs)*
 and their holographic duals.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/er=epr.png" width="60%" />
+    <figcaption><i>Black holes and quantum computers.</i></figcaption>
+	</div>
+</figure>
 
 #### Papers and presentations
 
