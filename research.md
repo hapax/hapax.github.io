@@ -14,7 +14,7 @@ equivalent to a regular quantum theory in *d* dimensions.
 For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/er=epr.png" width="50%" />
+    <div style="text-align:center"><img src ="/images/er=epr.png" width="55%" />
 	</div>
 	</figure>
 
