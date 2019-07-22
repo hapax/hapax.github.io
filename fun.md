@@ -22,11 +22,11 @@ I code for fun.
 A selection of minor projects:
 
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
-distribution of genetic code around a family tree.
+distribution of genetic code around a family tree in [Python](https://www.python.org/).
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/).
+  partition identities in [Haskell](https://www.haskell.org/), now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/).
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
-collection of Processing sketches.
+collection of [Processing](https://processing.org/) sketches.
 
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" />
