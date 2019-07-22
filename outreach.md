@@ -4,12 +4,6 @@ title: Teaching and outreach
 permalink: /outreach/
 ---
 
-<figure>
-    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
-    <figcaption><i>Einstein telling lumps where to flump.</i></figcaption>
-	</div>
-</figure>
-
 ### UBC Physics circle
 
 I co-run the
@@ -25,7 +19,14 @@ I co-run the
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
 - [*Circle problems*](assets/circle-probs.pdf) (2018--). Problem
-    session contributions. The versions here may differ slightly from those on the site.
+    session contributions. The versions here may differ slightly from
+    those on the site.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
+    <figcaption><i>Einstein telling lumps where to flump.</i></figcaption>
+	</div>
+</figure>
 
 ### Other outreach
 
