@@ -8,28 +8,22 @@ permalink: /research/
 
 I work on string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-This is the crazy-sounding (but extremely well-tested) proposition
+This is the crazy-sounding (but extremely well-tested) proposition that
 quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
 equivalent to a regular quantum theory in *d* dimensions.
-For instance, a 3D black hole can be described by a 2D
-simulation on a quantum computer!
+For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png" width="50%" />
 	</div>
 	</figure>
 
-The *d*-dimensional quantum theories are called *conformal field
-theories*, which roughly means they look the same when you zoom in
-or out.
-At the moment, I'm thinking about various aspects of *boundary
-conformal field theories (BCFTs)*.
-These are regular conformal field theories which have been sliced in
-half.
-It seems like the gravitation saddles they describe are also sliced in
-half.
-With some sleight of hand, we can slice a *wormhole* in half, and use
-BCFTs to describe the inside of a black hole!
+At the moment, I'm thinking about what happens when you slice the
+*d*-dimensional quantum theory in half.
+It seems like this slices the saddle-shaped space in half in an
+controllable way.
+With some sleight of hand, we can even slice a *wormhole* in half, and use
+sliced quantum computers to describe the inside of a black hole!
 
 #### Papers and presentations
 
