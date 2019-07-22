@@ -14,7 +14,6 @@ and their holographic duals.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png" width="60%" />
-    <figcaption><i>Black holes and quantum computers.</i></figcaption>
 	</div>
 </figure>
 
