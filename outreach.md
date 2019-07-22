@@ -24,7 +24,7 @@ I co-run the
 
 <figure>
     <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
-    <figcaption><i>Einstein telling lumps where to flump.</i></figcaption>
+    <figcaption><i>Einstein showing lumps where to flump.</i></figcaption>
 	</div>
 </figure>
 
