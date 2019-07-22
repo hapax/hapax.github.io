@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+<figure>
+    <div style="text-align:center"><img src ="/images/er=epr.png" width="70%" />
+    <figcaption><i>Black holes and quantum computers.</i></figcaption>
+	</div>
+</figure>
+
 ### Research
 
 I work on string theory and quantum gravity, with a particular focus
