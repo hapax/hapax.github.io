@@ -4,18 +4,25 @@ title: Research
 permalink: /research/
 ---
 
-### What I do
+### What do I do?
 
 I work on string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-At the moment, I'm thinking about various aspects of *boundary
-conformal field theories (BCFTs)*
-and their holographic duals.
+This is a remarkable hypothesis, using ideas from string theory, that
+quantum gravity in $d+1$-dimensional, saddle-shaped space is exactly
+equivalent to a regular quantum theory in $d$ dimensions.
+For instance, a 3d black hole can be described by a 2-dimensional
+simulation on a quantum computer!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png" width="50%" />
 	</div>
-</figure>
+	</figure>
+
+At the moment, I'm thinking about various aspects of *boundary
+conformal field theories (BCFTs)*.
+These are quantum theories with lots of symmetry which have been
+sliced in half.
 
 #### Papers and presentations
 
