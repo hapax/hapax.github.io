@@ -37,8 +37,9 @@ I co-run the
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
   (2017). A presentation given at the [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/).
 - [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
-  (2016). A talk to undergradates at the U. of Melbourne.
-- [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo) (2015). A talk to undergraduates at the U. of Melbourne.
+  (2016). A talk to undergraduates at Melbourne uni.
+- [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo) (2015). A
+  talk to undergraduates at Melbourne uni.
 
 ### Teaching
 
