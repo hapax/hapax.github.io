@@ -22,7 +22,7 @@ I co-run the
 - [*Dimensional analysis*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf) (2018--). Some of my problem
+- [*Circle problems*](assets/circle-probs.pdf) (2018--). Problem
     session contributions.
 
 ### Other outreach
@@ -30,7 +30,8 @@ I co-run the
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
   gravity and black holes for interested laypeople.
 - [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
-  contributed to the UBC high school [Physics Olympics](https://physoly.phas.ubc.ca/). Some of my problems featured in a local
+  contributed to the UBC high school
+  [Physics Olympics](https://physoly.phas.ubc.ca/). My problems featured in a local
   [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
   on the event!
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
