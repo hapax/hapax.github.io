@@ -12,8 +12,8 @@ I co-run the
   Vancouver area.
   
 - *Fermi estimates: from Harry Potter to ET (talk)* (2019). A user's guide to
-  order-of-magnitude estimates. Examples along the way include the
-  computer storage, length of the Harry Potter novels, and the number
+  order-of-magnitude estimates. Examples along the way include global
+  computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
