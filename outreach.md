@@ -27,8 +27,8 @@ I co-run the
 
 ### Other outreach
 
-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). A conceptual introduction to
-  gravity and black holes. Look ma, no equations! Aimed at interested laypeople.
+- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
+  gravity and black holes for interested laypeople.
 - [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
   contributed to the UBC high school [Physics Olympics](https://physoly.phas.ubc.ca/). Some of my problems featured in a local
   [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
