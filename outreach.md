@@ -12,8 +12,12 @@ tools they can use to solve real problems!
 ### Physics circle
 
 I co-run the
-  [UBC physics circle program](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-  for high school students.
+  [UBC physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
+  an outreach program for talented high school students in the
+  Vancouver area.
+  Besides administrative duties, I write problems and sometimes give
+  talks; see below.
+  
 - *Fermi estimates Harry Potter to ET (talk)*. A user's guide to
   order-of-magnitude estimates. The payoff: a (kind of) solution to Fermi's
   paradox with Fermi estimates!
