@@ -34,10 +34,10 @@ src="https://hapax.github.io/assets/art/vector/retro.jpg"
 src="https://hapax.github.io/assets/art/vector/vaporwave.jpg"
 /></a>
 
-<a href="/assets/art/vector/circle.jpg" style="float: left; margin-left:
-10pt; margin-right: 10pt;"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/vector/circle.jpg"
-/></a>
+[//]: #<a href="/assets/art/vector/circle.jpg" style="float: left; margin-left:
+[//]: # 10pt; margin-right: 10pt;"><img border="0" height="100"
+[//]: # src="https://hapax.github.io/assets/art/vector/circle.jpg"
+[//]: #/></a>
 
 <a href="/assets/art/vector/torquay.png" style="float: left; margin-left:
 10pt; margin-right: 10pt;"><img border="0" height="100"
@@ -72,15 +72,15 @@ src="https://hapax.github.io/assets/art/drawing/hat.jpg"
 src="https://hapax.github.io/assets/art/drawing/ill.jpg"
 /></a>
 
-<a href="/assets/art/drawing/joyce.jpg" style="float: left; margin-left:
-10pt; margin-right: 10pt"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/drawing/joyce.jpg"
-/></a>
+[//]: #<a href="/assets/art/drawing/joyce.jpg" style="float: left; margin-left:
+[//]: # 10pt; margin-right: 10pt"><img border="0" height="100"
+[//]: # src="https://hapax.github.io/assets/art/drawing/joyce.jpg"
+[//]: #/></a>
 
-<a href="/assets/art/drawing/kafka.jpg" style="float: left; margin-left:
-10pt; margin-right: 10pt"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/drawing/kafka.jpg"
-/></a>
+[//]: #<a href="/assets/art/drawing/kafka.jpg" style="float: left; margin-left:
+[//]: # 10pt; margin-right: 10pt"><img border="0" height="100"
+[//]: # src="https://hapax.github.io/assets/art/drawing/kafka.jpg"
+[//]: #/></a>
 
 <a href="/assets/art/drawing/laugh.jpg" style="float: left; margin-left:
 10pt; margin-right: 10pt"><img border="0" height="100"
@@ -97,21 +97,21 @@ src="https://hapax.github.io/assets/art/drawing/morrissey.jpg"
 src="https://hapax.github.io/assets/art/drawing/rabbit.jpg"
 /></a>
 
-<a href="/assets/art/drawing/rasputin.jpg" style="float: left; margin-left:
-10pt; margin-right: 10pt"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/drawing/rasputin.jpg"
-/></a>
+[//]: #<a href="/assets/art/drawing/rasputin.jpg" style="float: left; margin-left:
+[//]: # 10pt; margin-right: 10pt"><img border="0" height="100"
+[//]: # src="https://hapax.github.io/assets/art/drawing/rasputin.jpg"
+[//]: #/></a>
 
 <a href="/assets/art/drawing/siouxsie.jpg" s style="float: left; margin-left:
 10pt; margin-right: 10pt"><img border="0" height="100"
 src="https://hapax.github.io/assets/art/drawing/siouxsie.jpg"
 /></a>
 
-<a href="/assets/art/drawing/zombie.jpg" style="margin-left:
-10pt; margin-right: 10pt"><img border="0" height="100"
-src="https://hapax.github.io/assets/art/drawing/zombie.jpg"
-/></a>
-</div>
+[//]: #<a href="/assets/art/drawing/zombie.jpg" style="margin-left:
+[//]: # 10pt; margin-right: 10pt"><img border="0" height="100"
+[//]: # src="https://hapax.github.io/assets/art/drawing/zombie.jpg"
+[//]: #/></a>
+[//]: #</div>
 
 <br/><br/>
 <br/><br/>
