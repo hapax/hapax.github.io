@@ -4,20 +4,20 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are a few things I enjoy when I'm not doing science.
+[//]: # In the tradition of dorky, maximalist websites, here are a few things I enjoy when I'm not doing science.
 
-### Art
+[//]: #### Art
 
-I like drawing and making digital art.
+[//]: # I like drawing and making digital art.
 
 [//]: # See my [art](/art.md) page for more.
 
-### Writing/reading
+[//]: # ### Writing/reading
 
-I'm an avid reader, and spend a lot of time/money fossicking
-for books. I've written a short field guide to Vancouver's
-[used bookstores](reviews/bookstores.md) for fellow
-bibliophiles.
+[//]: # I'm an avid reader, and spend a lot of time/money fossicking
+[//]: # for books. I've written a short field guide to Vancouver's
+[//]: #[used bookstores](reviews/bookstores.md) for fellow
+[//]: # bibliophiles.
 
 [//]: # I also do some [writing](/writing.md) myself!
 
