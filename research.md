@@ -23,7 +23,7 @@ At the moment, I'm thinking about what happens when you slice the
 It seems like this slices the saddle-shaped space in half in an
 controllable way.
 With some sleight of hand, we can even slice a *wormhole* in half, and use
-sliced quantum computers to describe the inside of a black hole!
+half a quantum computer to describe the interior of a black hole!
 
 #### Papers and presentations
 
