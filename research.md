@@ -6,7 +6,7 @@ permalink: /research/
 
 ### What do I do?
 
-I work on string theory and quantum gravity, with a particular focus
+I study string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
 This is the crazy-sounding (but extremely well-tested) proposition that
 quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
