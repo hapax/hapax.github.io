@@ -28,22 +28,6 @@ I co-run the
 	</div>
 </figure>
 
-### Other outreach
-
-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
-  gravity and black holes for interested laypeople.
-- [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
-  contributed to the UBC high school
-  [Physics Olympics](https://physoly.phas.ubc.ca/). My problems featured in a local
-  [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
-  on the event!
-- [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
-  (2017). A presentation given at the [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/).
-- [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
-  (2016). A talk to undergraduates at Melbourne Uni.
-- [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo.md) (2015). A
-  talk to undergraduates at Melbourne Uni.
-
 ### Teaching
 
 - [*Random walks with hungry bacteria*]({{
@@ -59,6 +43,22 @@ I co-run the
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
+
+### Other outreach
+
+- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
+  gravity and black holes for interested laypeople.
+- [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
+  contributed to the UBC high school
+  [Physics Olympics](https://physoly.phas.ubc.ca/). My problems featured in a local
+  [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
+  on the event!
+- [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
+  (2017). A presentation given at the [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/).
+- [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
+  (2016). A talk to undergraduates at Melbourne Uni.
+- [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo.md) (2015). A
+  talk to undergraduates at Melbourne Uni.
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
