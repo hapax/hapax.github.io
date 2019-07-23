@@ -20,9 +20,9 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 At the moment, I'm thinking about what happens when you slice the
 *d*-dimensional quantum theory in half.
-It seems like this splits the saddle-shaped space in a
-controllable way.
-With some sleight of hand, we can even split a *wormhole* in half, and use
+It looks like this creates a wall or "brane" in the gravity theory,
+with properties which depend on the boundary conditions of the quantum slice.
+With some sleight of hand, we can insert these branes into *wormholes*, and use
 half a quantum computer to describe the interior of a black hole!
 
 #### Papers and presentations
