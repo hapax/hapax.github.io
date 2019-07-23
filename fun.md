@@ -5,7 +5,7 @@ permalink: /fun/
 ---
 
 In the tradition of dorky, maximalist websites, here are a few things
-I enjoy when I'm not doing science. Under construction!
+I enjoy when I'm not doing science. (Page under construction!)
 
 [//]: # ### Writing/reading
 
@@ -21,10 +21,10 @@ I enjoy when I'm not doing science. Under construction!
 I code for fun.
 A selection of minor projects:
 
-- [*Genesim*](https://github.com/hapax/genesim). Simulate the random
+- [*Genesim*](https://github.com/hapax/genesim). Simulate the
 distribution of genetic code around a family tree in [Python](https://www.python.org/).
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  partition identities in [Haskell](https://www.haskell.org/), now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/).
+  number theory in [Haskell](https://www.haskell.org/). Now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/).
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 collection of [Processing](https://processing.org/) sketches.
 
