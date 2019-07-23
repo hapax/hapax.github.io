@@ -24,7 +24,7 @@ A selection of minor projects:
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
 distribution of genetic code around a family tree in [Python](https://www.python.org/).
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  number theory in [Haskell](https://www.haskell.org/). Now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/).
+  number theory in [Haskell](https://www.haskell.org/). Now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 collection of [Processing](https://processing.org/) sketches.
 
