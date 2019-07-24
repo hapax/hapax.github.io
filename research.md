@@ -41,7 +41,6 @@ half a quantum computer to describe the interior of a black hole!
   Christopher Waddell, David Wakeham. arXiv: 1810.10601. To appear in JHEP.
 
 ### Other technical notes and talks
-- [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). Presentation
   on non-equilibrium physics for the neutron star group meeting at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
@@ -55,6 +54,7 @@ for a course on bosonic string theory.
   }}/assets/inflation-notes.pdf) (2016). Student seminar for MSc
   program at the University of Melbourne.
 
+[//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 [//]: # Final project for string theory course at UBC.
 [//]: # String group talk on ["Efficient decoding for the Hayden-Preskill protocol"](https://arxiv.org/abs/1710.03363).
 [//]: # String group talk on ["Uncomplexity and black hole geometry"](https://arxiv.org/abs/1711.03125).
