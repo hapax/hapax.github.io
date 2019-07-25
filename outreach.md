@@ -45,7 +45,7 @@ I co-run the
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
 - [*Real analysis problems*]({{hapax.github.io}}/assets/ra-problems.pdf) (2017). I was head tutor for an
   [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
-  and wrote a few extension problems.
+  and wrote a few "challenge" problems during my tenure.
 
 ### Other outreach
 
