@@ -42,7 +42,9 @@ half a quantum computer to describe the interior of a black hole!
 
 - [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
   [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
-  held at the [Yukawa Institute for Theoretical Physics](https://www.kyoto-u.ac.jp/en/research/fields/research-institutes/yukawa-institute-for-theoretical-physics-yitp.html), Kyoto, Japan.
+  held at the
+  [YITP](https://www.kyoto-u.ac.jp/en/research/fields/research-institutes/yukawa-institute-for-theoretical-physics-yitp.html),
+  Kyoto University, Japan.
 - [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
   (2018). A [CoEPP](http://www.coepp.org.au/) particle theory seminar
   at the University of Melbourne.
