@@ -14,10 +14,11 @@ equivalent to a regular quantum theory in *d* dimensions.
 For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/er=epr.png" width="55%" />
-	</div>
-	    <figcaption><i>A 3D black hole being simulated on a 2D quantum
+    <div style="text-align:center"><img src ="/images/er=epr.png"
+    width="55%" />
+		    <figcaption><i>A 3D black hole being simulated on a 2D quantum
     computer.</i></figcaption>
+	</div>
 	</figure>
 
 At the moment, I'm thinking about what happens when you slice the
