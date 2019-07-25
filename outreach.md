@@ -43,9 +43,8 @@ I co-run the
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
-- [*Real analysis extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) (2013--2017). I taught an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026) for a few years,
-  and wrote extension problems during my tenure.
-
+- [*Real analysis extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) (2017). I taught an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a few extension problems during my tenure.
+ 
 ### Other outreach
 
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
