@@ -26,7 +26,16 @@ theory, the brane will change position.
 With some sleight of hand, we can insert these branes into *wormholes*, and use
 half a quantum computer to describe the interior of a black hole!
 
-#### Papers and presentations
+#### Papers
+
+- ["Black hole microstate cosmology"](https://arxiv.org/abs/1810.10601)
+  (2018). [Sean Cooper](https://seancooper.info/),
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
+  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
+  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
+  Christopher Waddell, David Wakeham. arXiv: 1810.10601. To appear in JHEP.
+
+#### Posters and talks
 
 - [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
   [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
@@ -34,12 +43,6 @@ half a quantum computer to describe the interior of a black hole!
 - [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
   (2018). [CoEPP](http://www.coepp.org.au/) particle physics seminar
   at the University of Melbourne.
-- ["Black hole microstate cosmology"](https://arxiv.org/abs/1810.10601)
-  (2018). [Sean Cooper](https://seancooper.info/),
-  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
-  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
-  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-  Christopher Waddell, David Wakeham. arXiv: 1810.10601. To appear in JHEP.
 
 ### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). Presentation
