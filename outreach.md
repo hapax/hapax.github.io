@@ -10,7 +10,7 @@ I co-run the
   [UBC physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for talented high school students in the
   Vancouver area.
-  Here are the talks I've given and some of the problems I've contributed.
+  Here are talks I've given and problems I've contributed.
   
 - *Fermi estimates: from Harry Potter to ET* (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
