@@ -31,12 +31,12 @@ half a quantum computer to describe the interior of a black hole!
 
 #### Papers
 
-- ["Black hole microstate cosmology"](https://arxiv.org/abs/1810.10601)
+- ["Black hole microstate cosmology"](https://link.springer.com/article/10.1007/JHEP07(2019)065)
   (2018). [Sean Cooper](https://seancooper.info/),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
   [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-  Christopher Waddell, David Wakeham. arXiv: 1810.10601. To appear in JHEP.
+  Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv: [1810.10601](https://arxiv.org/abs/1810.10601).
 
 #### Posters and talks
 
