@@ -28,7 +28,7 @@ I co-run the
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
 - [*Circle problems*](assets/circle-probs.pdf) (2018--). The versions
-    here may differ slightly from those on the site.
+    here may differ from those on the official site.
 
 ### Teaching
 
