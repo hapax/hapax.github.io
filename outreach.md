@@ -18,7 +18,7 @@ I co-run the
 	</div>
 </figure>
 
-  Here are talks I've given and problems I've contributed.
+  Here are some talks and problems I've contributed:
 
 - *Fermi estimates: from Harry Potter to ET* (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
