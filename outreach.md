@@ -10,8 +10,16 @@ I co-run the
   [UBC physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for talented high school students in the
   Vancouver area.
+  Email me if you'd like to get involved!
+
+<figure>
+    <div style="text-align:center"><img src ="/images/donut.png" width="50%" />
+    <figcaption><i>Earth's donut-shaped orbit (caused by Jupiter).</i></figcaption>
+	</div>
+</figure>
+
   Here are talks I've given and problems I've contributed.
-  
+
 - *Fermi estimates: from Harry Potter to ET* (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
@@ -23,8 +31,9 @@ I co-run the
     here may differ slightly from those on the site.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
-    <figcaption><i>Einstein showing lumps where to flump.</i></figcaption>
+    <div style="text-align:center"><img src ="/images/ngon.jpg" width="50%" />
+    <figcaption><i>A proof by laser pointer that
+    regular *n*-gons have minimal perimeter.</i></figcaption>
 	</div>
 </figure>
 
@@ -44,7 +53,13 @@ I co-run the
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
 - *Real analysis* (2017). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure.
- 
+
+<figure>
+    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
+    <figcaption><i>Einstein showing lumps where to flump.</i></figcaption>
+	</div>
+</figure>
+
 ### Other outreach
 
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
