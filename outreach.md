@@ -13,7 +13,7 @@ I co-run the
   Email me if you'd like to get involved!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/donut.png" width="80%" />
+    <div style="text-align:center"><img src ="/images/donut.png" width="70%" />
     <figcaption><i>Earth's donut-shaped orbit.</i></figcaption>
 	</div>
 </figure>
@@ -29,13 +29,6 @@ I co-run the
   fundamental constants, natural units, and black holes.
 - [*Circle problems*](assets/circle-probs.pdf) (2018--). The versions
     here may differ slightly from those on the site.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/ngon.jpg" width="30%" />
-    <figcaption><i>A proof by laser pointer that
-    regular polygons have minimal perimeter.</i></figcaption>
-	</div>
-</figure>
 
 ### Teaching
 
