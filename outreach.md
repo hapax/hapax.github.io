@@ -13,8 +13,8 @@ I co-run the
   Email me if you'd like to get involved!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/donut.png" width="50%" />
-    <figcaption><i>Earth's donut-shaped orbit (caused by Jupiter).</i></figcaption>
+    <div style="text-align:center"><img src ="/images/donut.png" width="80%" />
+    <figcaption><i>Earth's donut-shaped orbit.</i></figcaption>
 	</div>
 </figure>
 
@@ -31,9 +31,9 @@ I co-run the
     here may differ slightly from those on the site.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/ngon.jpg" width="50%" />
+    <div style="text-align:center"><img src ="/images/ngon.jpg" width="30%" />
     <figcaption><i>A proof by laser pointer that
-    regular *n*-gons have minimal perimeter.</i></figcaption>
+    regular polygons have minimal perimeter.</i></figcaption>
 	</div>
 </figure>
 
