@@ -64,6 +64,7 @@ A personal treasury of great fiction. Blurbs to come!
 - *The Street of Crocodiles* (Bruno Schulz)
 - *The Rings of Saturn* (W. G. Sebald)
 - *Vertigo* (W. G. Sebald)
+- *Adventures of Huckleberry Finn* (Mark Twain)
 - *Infinite Jest* (David Foster Wallace)
 - *Brideshead Revisited* (Evelyn Waugh)
 - *To The Lighthouse* (Virginia Woolf)
@@ -78,4 +79,3 @@ A personal treasury of great fiction. Blurbs to come!
 - *King Lear* (Shakespeare)
 - *The Tempest* (Shakespeare)
 - *Tristram Shandy* (Laurence Sterne)
-- *Adventures of Huckleberry Finn* (Mark Twain)
