@@ -37,11 +37,12 @@ collection of [Processing](https://processing.org/) sketches.
 ### Art
 
 I like drawing and making digital art.
-See my [Instagram](https://www.instagram.com/holotwin/) for more.
+See my [Instagram](https://www.instagram.com/holotwin/) for
+(mostly) non-science stuff.
 
 <figure>
-    <div style="text-align:center"><img src ="/assets/art/burnssmall_ davidwakeham_forDiscorder_Apr2018.jp" />
-    <figcaption><i></i></figcaption>
+    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" />
+    <figcaption><i>Before the Law (Kafka).</i></figcaption>
 	</div>
 </figure>
 
