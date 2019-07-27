@@ -27,8 +27,7 @@ I code for fun and occasionally for work. A few languages I use:
 - [Haskell](https://www.haskell.org/) is probably the most beautiful
 programming language in the noosphere. It has a reputation for
 difficulty, since a lot of abstract mathematics is baked into it, but
-there are many excellent and free resources for learning it.
-For instance,
+there are many excellent and free resources for learning it, such as:
   - [Learn You a Haskell](http://learnyouahaskell.com/) for a
     quick-and-dirty intro;
   - [Real World Haskell](http://book.realworldhaskell.org/) for
@@ -58,7 +57,7 @@ I occasionally put stuff on
 find/make a more suitable home at some point.
 
 <figure>
-    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="60%"/>
+    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="70%"/>
     <figcaption><i>Before the Law (Kafka).</i></figcaption>
 	</div>
 </figure>
