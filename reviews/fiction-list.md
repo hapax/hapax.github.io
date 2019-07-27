@@ -78,6 +78,4 @@ A personal treasury of great fiction. Blurbs to come!
 - *King Lear* (Shakespeare)
 - *The Tempest* (Shakespeare)
 - *Tristram Shandy* (Laurence Sterne)
-- *Anna Karenina* (Leo Tolstoy)
-- *War and Peace* (Leo Tolstoy)
 - *Adventures of Huckleberry Finn* (Mark Twain)
