@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Book reviews"
+date:   2019-07-27
 ---
 
 - [*D'Alembert's Principle*](/D'Alembert.md) (Andrew
