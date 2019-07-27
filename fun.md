@@ -41,8 +41,7 @@ Under construction!
 [//]: #  collection of Processing sketches.
 
 [//]: # <figure>
-[//]: #     <div style="text-align:center"><img src ="/images/gothic-2.png" />
-[//]: #     <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+[//]: #     <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
 [//]: # 	</div>
 [//]: # </figure>
 
