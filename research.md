@@ -62,11 +62,14 @@ theory, loop diagrams are Riemann surfaces, leading to a beautiful
 connection between scattering and geometry. Final project for a string
 theory course.
 - [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
-  (2018). UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
+  (2018). There is a (sort of) practical quantum algorithm for
+  extracting information from a black hole. UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
-  (2017). UBC strings group meeting on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
-- [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Notes on cosmology for an
+  (2017). If black holes can be simulated on quantum computers, the
+  amount of useful computation left equals the volume of "safe"
+  spacetime left in the black hole. UBC strings group meeting on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
+- [*Inflation*]({{ hapax.github.io
+  }}/assets/inflation-notes.pdf) (2016). Notes for an
   advanced student seminar at the University of Melbourne.
 
 [//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
