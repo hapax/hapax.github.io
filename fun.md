@@ -35,11 +35,8 @@ For instance,
     the practically minded;
   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   for the mathematically minded.
-- One of these days, I hope to go even further down the formalist
-  rabbit hole and learn some [Homotopy Type Theory](https://homotopytypetheory.org/book/).
   
 A couple of minor projects, polished enough to make available:
-
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
