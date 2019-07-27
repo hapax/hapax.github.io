@@ -40,7 +40,7 @@ I like drawing and making digital art.
 See my [Instagram](https://www.instagram.com/holotwin/) for more.
 
 <figure>
-    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" />
+    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="80%"/>
     <figcaption><i>Before the Law (Kafka).</i></figcaption>
 	</div>
 </figure>
