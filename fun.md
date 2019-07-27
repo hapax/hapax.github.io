@@ -18,7 +18,7 @@ I enjoy when I'm not doing science.
 
 ### Coding
 
-I code for fun and occasionally for work.
+I code for fun and occasionally for work. A few languages I use:
 - For scientific computing, [Python](https://www.python.org/) is now
   reasonably fast and fully-featured when combined with
   [SciPy](https://www.scipy.org/).
