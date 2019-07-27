@@ -18,15 +18,31 @@ I enjoy when I'm not doing science.
 
 ### Coding
 
-I code for fun.
-A selection of minor projects:
+I code for fun and occasionally for work.
+- For scientific computing, [Python](https://www.python.org/) is now
+  reasonably fast and fully-featured when combined with
+  [SciPy](https://www.scipy.org/).
+- [Processing](https://processing.org/) is a great way to create
+  interactive/visual sketches.
+- [Haskell](https://www.haskell.org/) is probably the most beautiful
+programming language ever. It has a reputation for
+difficulty, since a lot of abstract mathematics is baked into it, but
+there are lots of good (and free!) resources out there for learning it:
+  - [Learn You a Haskell](http://learnyouahaskell.com/) for a
+    quick-and-dirty intro;
+  - [Real World Haskell](http://book.realworldhaskell.org/) for
+    the practically minded;
+  - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  for the mathematically minded.
+  
+A couple of minor projects:
 
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
-distribution of genetic code around a family tree in [Python](https://www.python.org/).
+distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  number theory in [Haskell](https://www.haskell.org/). Now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
+  number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
 - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
-collection of [Processing](https://processing.org/) sketches.
+collection of Processing sketches.
 
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" />
@@ -37,7 +53,9 @@ collection of [Processing](https://processing.org/) sketches.
 ### Art
 
 I like drawing and making digital art.
-See my [Instagram](https://www.instagram.com/holotwin/) for more.
+I occasionally put stuff on
+[Instagram](https://www.instagram.com/holotwin/), but hope to
+find/make a more suitable home at some point.
 
 <figure>
     <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="80%"/>
