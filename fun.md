@@ -48,18 +48,17 @@ collection of Processing sketches.
 
 ### Writing/reading
 
-I'm an bookworm, and spend a lot of time/money fossicking for
-books. Some annotated lists:
-- [Used bookstores](reviews/bookstores.md). A short field guide to
+Buying and reading second-hand books is my principal vice. Some annotated lists:
+- [*Used bookstores*](reviews/bookstores.md). A short field guide to
 Vancouver's for fellow bibliophiles.
-- [Reviews](reviews/reviews.md). Some longer book reviews.
+- [*Reviews*](reviews/reviews.md). Some longer book reviews.
 
 I also dabble in writing myself. A couple of recent efforts:
-- ["Arrest"](assets/arrest.pdf) (2019). Sci-fi flash fiction about the
+- [*Arrest*](assets/arrest.pdf) (2019). Sci-fi flash fiction about the
   psychology of time. Winner of the [Ubyssey
   2019 sci-fi contest](https://www.ubyssey.ca/sci-fi-contest/).
 - [*Fearful Spheres*](assets/fearful-spheres.pdf) (2018). A short
-  chapbook of poetry, loosely themed around two weird kids who get
+  chapbook, loosely themed around two weird kids who get
   fed up with the city.
 
 [//]: # I also do some [writing](/writing.md) myself!
