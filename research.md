@@ -46,19 +46,21 @@ half a quantum computer to describe the interior of a black hole!
   [YITP](https://www.kyoto-u.ac.jp/en/research/fields/research-institutes/yukawa-institute-for-theoretical-physics-yitp.html),
   Kyoto University, Japan.
 - [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
-  (2018). A [CoEPP](http://www.coepp.org.au/) particle theory seminar
+  (2018). Seminar delivered once to
+  [particle theorists](http://www.coepp.org.au/), and again to
+  [gravitational wavers](https://www.ozgrav.org/),
   at the University of Melbourne.
 
 ### Other technical notes and talks
-- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). A presentation
-  on non-equilibrium physics to the neutron star group at the University of Melbourne.
+- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). True facts
+  about quantum systems. Talk to the neutron star group at
+  the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
-hapax.github.io }}/assets/strings-project.pdf) (2018). My final project
-for a course on bosonic string theory.
+hapax.github.io }}/assets/strings-project.pdf) (2018). 
 - [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
-  (2018). UBC strings group meeting.
+  (2018). UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
-  (2017). UBC strings group meeting.
+  (2017). UBC strings group meeting on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). Notes for my advanced student
   seminar, a masters program requirement at the University of Melbourne.
