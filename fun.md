@@ -11,8 +11,7 @@ non-science activities I enjoy.
 
 ### Art
 
-I like drawing and making digital art. I post occasionally to
-[Instagram](https://www.instagram.com/holotwin/). (Under construction!)
+I like drawing and making digital art. (Under construction!)
 
 ### Coding
 
@@ -82,3 +81,5 @@ I also dabble in writing myself. A couple of recent efforts:
 [//]: #    <figcaption><i>Ha ha ha.</i></figcaption>
 [//]: #	</div>
 [//]: #</figure>
+
+[//]: # I post occasionally to [Instagram](https://www.instagram.com/holotwin/).
