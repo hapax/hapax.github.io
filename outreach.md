@@ -14,7 +14,7 @@ I co-run the
 
 <figure>
     <div style="text-align:center"><img src ="/images/donut.png" width="70%" />
-    <figcaption><i>Earth's donut-shaped orbit (due to the presence of Jupiter).</i></figcaption>
+    <figcaption><i>Perturbed by Jupiter, the Earth moves in a donut-shaped orbit.</i></figcaption>
 	</div>
 </figure>
 
