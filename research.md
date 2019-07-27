@@ -53,7 +53,7 @@ half a quantum computer to describe the interior of a black hole!
 
 ### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
-  mechanics, "chaos" can mean either "looks random" or "spreads
+  mechanics, "chaos" can mean either "looks random" or "spreads exponentially
   quickly". A talk on both notions, to the neutron star
   group at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
