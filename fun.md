@@ -35,7 +35,7 @@ there are many excellent and free resources for learning it, such as:
   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   for the mathematically minded.
   
-A couple of minor projects, polished enough to make available:
+A couple of minor projects, polished enough to make public:
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
