@@ -40,10 +40,10 @@ Under construction!
 [//]: # - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 [//]: #  collection of Processing sketches.
 
-[//]: # <figure>
-[//]: #     <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
-[//]: # 	</div>
-[//]: # </figure>
+[//]: #  <figure>
+[//]: #      <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+[//]: # 	 </div>
+[//]: #  </figure>
 
 [//]: # ### Writing/reading
 
