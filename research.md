@@ -8,7 +8,7 @@ permalink: /research/
 
 I study string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-This is the crazy-sounding (but extremely well-tested) proposition that
+This is the crazy-sounding proposition that
 quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
 equivalent to a regular quantum theory in *d* dimensions.
 For instance, a 3D black hole can be simulated on a 2D quantum computer!
@@ -24,9 +24,9 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 At the moment, I'm thinking about what happens when you slice the
 *d*-dimensional quantum theory in half.
 It looks like this creates a wall or "brane" in the gravity theory,
-and as you twiddle the boundary conditions of the cut in the quantum
-theory, the brane will change position.
-With some sleight of hand, we can insert these branes into *wormholes*, and use
+and as you twiddle the boundary conditions on the quantum
+theory, the brane wobbles around.
+With some sleight of hand, we can slice a *wormhole*, and use
 half a quantum computer to describe the interior of a black hole!
 
 #### Papers
@@ -52,8 +52,10 @@ half a quantum computer to describe the interior of a black hole!
   at the University of Melbourne.
 
 ### Other technical notes and talks
-- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). True facts
-  about quantum systems. Talk to the neutron star group at
+- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
+  mechanics, "chaos" can mean either "looks random" or "spreads
+  exponentially quickly". I explained both notions in a talk to the
+  [neutron star group](https://www.ph.unimelb.edu.au/~amelatos/) at
   the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). 
@@ -62,8 +64,8 @@ hapax.github.io }}/assets/strings-project.pdf) (2018).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
   (2017). UBC strings group meeting on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Notes for my advanced student
-  seminar, a masters program requirement at the University of Melbourne.
+  }}/assets/inflation-notes.pdf) (2016). Notes for advanced student
+  seminar, a masters requirement at the University of Melbourne.
 
 [//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 [//]: # Final project for string theory course at UBC.
