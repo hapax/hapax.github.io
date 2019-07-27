@@ -31,7 +31,7 @@ there are many excellent and free resources for learning it, such as:
   - [Real World Haskell](http://book.realworldhaskell.org/) for
     the practically minded; and
   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-  for the mathematically minded.
+  for the mathematically inclined.
   
 My GitHub page is [here](https://github.com/hapax). A few small projects:
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
