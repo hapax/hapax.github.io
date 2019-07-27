@@ -48,7 +48,7 @@ collection of Processing sketches.
 
 ### Writing/reading
 
-I'm also an avid reader, and spend a lot of time/money fossicking for
+I'm an bookworm, and spend a lot of time/money fossicking for
 books. Some annotated lists:
 - [Used bookstores](reviews/bookstores.md). A short field guide to
 Vancouver's for fellow bibliophiles.
