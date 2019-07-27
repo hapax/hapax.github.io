@@ -51,18 +51,11 @@ collection of Processing sketches.
 	</div>
 </figure>
 
-### Art
-
-I like drawing and making digital art.
-I occasionally put stuff on
-[Instagram](https://www.instagram.com/holotwin/), but hope to
-find/make a more suitable home at some point.
-
-<figure>
-    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="70%"/>
-    <figcaption><i>Before the Law (Kafka).</i></figcaption>
-	</div>
-</figure>
+[//]: #<figure>
+[//]: #    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="70%"/>
+[//]: #    <figcaption><i>Before the Law (Kafka).</i></figcaption>
+[//]: #	</div>
+[//]: #</figure>
 
 [//]: # ### Art
 
