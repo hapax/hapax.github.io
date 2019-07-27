@@ -50,10 +50,9 @@ collection of Processing sketches.
 
 Buying and reading second-hand books is my principal vice. Some
 annotated lists:
-- [*Desert Island fiction*](reviews/fiction-list.md). Fiction I really
-  like.
-- [*Reviews*](reviews/reviews.md). Some longer book reviews.
-- [*Vancouver used bookstores*](reviews/bookstores.md). A short field guide for fellow bibliophiles.
+- [*Vancouver used bookstores*](reviews/bookstores.md). A short field
+guide for fellow bibliophiles.
+- [*Book reviews*](reviews/reviews.md). Some longer book reviews.
 
 I also dabble in writing myself. A couple of recent efforts:
 - [*Arrest*](assets/arrest.pdf) (2019). Sci-fi flash fiction about the
@@ -62,6 +61,8 @@ I also dabble in writing myself. A couple of recent efforts:
 - [*Fearful Spheres*](assets/fearful-spheres.pdf) (2018). A short
   chapbook of poetry, loosely themed around two weird kids who get
   fed up with the city and go into the woods.
+
+[//]: # - [*Desert Island fiction*](reviews/fiction-list.md). Fiction I really like.
 
 [//]: # I also do some [writing](/writing.md) myself!
 
