@@ -53,7 +53,7 @@ half a quantum computer to describe the interior of a black hole!
 
 ### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
-  mechanics, "chaos" can mean either "looks random" or "spreads exponentially
+  mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A talk on both notions, to the neutron star
   group at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
@@ -65,12 +65,12 @@ theory course.
   (2018). There is a (sort of) practical quantum algorithm for
   extracting information from a black hole. UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
-  (2017). If black holes can be simulated on quantum computers, the
+  (2017). Thinking of black holes as quantum computers, the
   amount of useful computation left equals the volume of "safe"
   spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Notes on early universe cosmology for an
-  advanced student seminar at the University of Melbourne.
+  }}/assets/inflation-notes.pdf) (2016). Notes on early universe
+  cosmology for a student seminar at the University of Melbourne.
 
 [//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
 [//]: # Final project for string theory course at UBC.
