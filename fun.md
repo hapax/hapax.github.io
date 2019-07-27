@@ -5,7 +5,7 @@ permalink: /fun/
 ---
 
 In the tradition of dorky, maximalist websites, here are a few things
-I enjoy when I'm not doing science. (Page under construction!)
+I enjoy when I'm not doing science.
 
 [//]: # ### Writing/reading
 
@@ -31,6 +31,17 @@ collection of [Processing](https://processing.org/) sketches.
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" />
     <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+	</div>
+</figure>
+
+### Art
+
+I like drawing and making digital art.
+See my [Instagram](https://www.instagram.com/holotwin/) for more.
+
+<figure>
+    <div style="text-align:center"><img src ="/assets/art/burnssmall_ davidwakeham_forDiscorder_Apr2018.jp" />
+    <figcaption><i></i></figcaption>
 	</div>
 </figure>
 
