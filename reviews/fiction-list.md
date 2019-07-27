@@ -12,7 +12,7 @@ A personal treasury of great fiction. Blurbs to come!
 	</div>
 </figure>
 
-### Modern
+### Modern (≥19c)
 
 - *The Ruined Map* (Kobo Abe)
 - *The New York Trilogy* (Paul Auster)
@@ -69,7 +69,7 @@ A personal treasury of great fiction. Blurbs to come!
 - *To The Lighthouse* (Virginia Woolf)
 
 
-### Less modern
+### Less modern (<19c)
 
 - *Sir Gawain and the Green Knight* (anonymous)
 - *Don Quixote* (Cervantes)
