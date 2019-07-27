@@ -20,15 +20,7 @@ non-science activities I enjoy.
 
 ### Coding
 
-I code for fun and occasionally for work. A couple of minor projects, polished enough to make public:
-- [*Genesim*](https://github.com/hapax/genesim). Simulate the
-distribution of genetic code around a family tree.
-- [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
-- [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
-collection of Processing sketches.
-
-On languages I use:
+I code for fun and occasionally for work. Languages I use:
 - For scientific computing, [Python](https://www.python.org/) is now
   reasonably fast and fully-featured when combined with
   [SciPy](https://www.scipy.org/).
@@ -44,6 +36,14 @@ there are many excellent and free resources for learning it, such as:
     the practically minded;
   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   for the mathematically minded.
+  
+A couple of minor projects, polished enough to make public:
+- [*Genesim*](https://github.com/hapax/genesim). Simulate the
+distribution of genetic code around a family tree.
+- [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
+  number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
+- [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
+collection of Processing sketches.
 
 <figure>
     <div style="text-align:center"><img src ="/images/gothic-2.png" />
