@@ -9,7 +9,13 @@ non-science activities I enjoy.
 
 [//]: # here are a few things I enjoy when I'm not doing science.
 
-[//]: # ### Writing/reading
+### Art
+
+Under construction
+
+### Writing/reading
+
+Under construction
 
 [//]: # I'm an avid reader, and spend a lot of time/money fossicking
 [//]: # for books. I've written a short field guide to Vancouver's
