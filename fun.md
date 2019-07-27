@@ -6,6 +6,11 @@ permalink: /fun/
 
 Under construction!
 
+<figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+ 	 </div>
+  </figure>
+
 [//]: # In the tradition of dorky, maximalist websites, here are some
 [//]: # non-science activities I enjoy.
 
@@ -39,11 +44,6 @@ Under construction!
 [//]: #   number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
 [//]: # - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
 [//]: #  collection of Processing sketches.
-
-[//]: #  <figure>
-[//]: #      <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
-[//]: # 	 </div>
-[//]: #  </figure>
 
 [//]: # ### Writing/reading
 
