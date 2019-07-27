@@ -81,8 +81,3 @@ I also dabble in writing myself. A couple of recent efforts:
 [//]: #    <figcaption><i>Ha ha ha.</i></figcaption>
 [//]: #	</div>
 [//]: #</figure>
-
-[//]: # I have illustrated for [Discorder magazine](https://www.citr.ca/discorder/),
-[//]: # and did a commissioned piece for the
-[//]: #[Collision exhibit](http://www.coepp.org.au/events/collision-exhibition)
-[//]: # at the Adelaide Fringe Festival, 2016.
