@@ -50,7 +50,7 @@ collection of Processing sketches.
 
 Buying and reading second-hand books is my principal vice. Some
 annotated lists:
-- [*Desert Island fiction*](reviews/reviews.md). Fiction I like.
+- [*Desert Island fiction*](reviews/fiction-list.md). Fiction I like.
 - [*Reviews*](reviews/reviews.md). Some longer book reviews.
 - [*Vancouver used bookstores*](reviews/bookstores.md). A short field guide for fellow bibliophiles.
 
