@@ -67,9 +67,9 @@ theory course.
 - [*Safely falling into black holes*](assets/uncomplexity.md)
   (2017). If black holes can be simulated on quantum computers, the
   amount of useful computation left equals the volume of "safe"
-  spacetime left in the black hole. UBC strings group meeting on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
+  spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Notes for an
+  }}/assets/inflation-notes.pdf) (2016). Notes on early universe cosmology for an
   advanced student seminar at the University of Melbourne.
 
 [//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
