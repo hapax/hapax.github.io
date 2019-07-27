@@ -25,9 +25,10 @@ I code for fun and occasionally for work. A few languages I use:
 - [Processing](https://processing.org/) is a great way to create
   interactive/visual sketches.
 - [Haskell](https://www.haskell.org/) is probably the most beautiful
-programming language ever. It has a reputation for
+programming language in the noosphere. It has a reputation for
 difficulty, since a lot of abstract mathematics is baked into it, but
-there are lots of good (and free!) resources out there for learning it:
+there are many excellent and free resources for learning it.
+For instance,
   - [Learn You a Haskell](http://learnyouahaskell.com/) for a
     quick-and-dirty intro;
   - [Real World Haskell](http://book.realworldhaskell.org/) for
