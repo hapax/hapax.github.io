@@ -61,7 +61,7 @@ I occasionally put stuff on
 find/make a more suitable home at some point.
 
 <figure>
-    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="80%"/>
+    <div style="text-align:center"><img src ="/assets/art/before-the-law.jpg" width="60%"/>
     <figcaption><i>Before the Law (Kafka).</i></figcaption>
 	</div>
 </figure>
