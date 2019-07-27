@@ -52,8 +52,7 @@ Buying and reading second-hand books is my principal vice. Some
 annotated lists:
 - [*Desert Island fiction*](reviews/reviews.md). Fiction I like.
 - [*Reviews*](reviews/reviews.md). Some longer book reviews.
-- [*Used bookstores*](reviews/bookstores.md). A short field guide to
-Vancouver's for fellow bibliophiles.
+- [*Vancouver used bookstores*](reviews/bookstores.md). A short field guide for fellow bibliophiles.
 
 I also dabble in writing myself. A couple of recent efforts:
 - [*Arrest*](assets/arrest.pdf) (2019). Sci-fi flash fiction about the
