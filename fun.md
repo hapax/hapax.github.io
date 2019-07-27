@@ -11,11 +11,11 @@ non-science activities I enjoy.
 
 ### Art
 
-Under construction
+Under construction!
 
 ### Writing/reading
 
-Under construction
+Under construction!
 
 [//]: # I'm an avid reader, and spend a lot of time/money fossicking
 [//]: # for books. I've written a short field guide to Vancouver's
@@ -26,7 +26,7 @@ Under construction
 
 ### Coding
 
-I code for fun and occasionally for work. Languages I use:
+I code for fun and occasionally work. Languages I use:
 - For scientific computing, [Python](https://www.python.org/) is now
   reasonably fast and fully-featured when combined with
   [SciPy](https://www.scipy.org/).
@@ -39,11 +39,11 @@ there are many excellent and free resources for learning it, such as:
   - [Learn You a Haskell](http://learnyouahaskell.com/) for a
     quick-and-dirty intro;
   - [Real World Haskell](http://book.realworldhaskell.org/) for
-    the practically minded;
+    the practically minded; and
   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   for the mathematically minded.
   
-Here are a couple of projects:
+Here are a few projects:
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
