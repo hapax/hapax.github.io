@@ -59,8 +59,7 @@ I also dabble in writing myself. A couple of recent efforts:
   psychology of time. Winner of the [Ubyssey
   2019 sci-fi contest](https://www.ubyssey.ca/sci-fi-contest/).
 - [*Fearful Spheres*](assets/fearful-spheres.pdf) (2018). A short
-  chapbook of poetry, loosely themed around two weird kids who get
-  fed up with the city and go into the woods.
+  chapbook of poetry.
 
 [//]: # - [*Desert Island fiction*](reviews/fiction-list.md). Fiction I really like.
 
