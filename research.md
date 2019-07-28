@@ -63,6 +63,6 @@ theory course.
   (2017). Thinking of black holes as quantum computers, the
   remaining amount of useful computation equals the volume of "safe"
   spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
-- [*Inflation*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Notes on early universe
-  cosmology for a student seminar at the University of Melbourne.
+- [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
+  }}/assets/inflation-notes.pdf) (2016). Early quantum wrinkles equals
+  late-time structure! Notes on inflation for a student seminar at the University of Melbourne.
