@@ -23,8 +23,6 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 At the moment, I'm thinking about how to simulate black holes with
 *half* a quantum computer.
-In other words, if you take the quantum computer and slice it in half
-just so, it looks like you sometimes end up with nice black hole states.
 
 #### Papers
 
@@ -68,9 +66,3 @@ theory course.
 - [*Inflation*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). Notes on early universe
   cosmology for a student seminar at the University of Melbourne.
-
-[//]: # - [*Modular inclusions and wormholes*]({{hapax.github.io }}/assets/modular.pdf) (2019). UBC strings group meeting.
-[//]: # Final project for string theory course at UBC.
-[//]: # String group talk on ["Efficient decoding for the Hayden-Preskill protocol"](https://arxiv.org/abs/1710.03363).
-[//]: # String group talk on ["Uncomplexity and black hole geometry"](https://arxiv.org/abs/1711.03125).
-[//]: # Notes for student seminar on inflation. See the lay and technical summaries below for more details. At the moment, I'm thinking about what happens when you slice the dimensional quantum theory in half. It looks like this creates a wall or "brane" in the gravity theory, and as you twiddle the boundary conditions on the quantum  theory, the brane wobbles around. With some sleight of hand, we can slice a *wormhole*, and use half a quantum computer to describe the interior of a black hole!
