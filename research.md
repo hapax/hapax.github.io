@@ -21,14 +21,6 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 	</div>
 	</figure>
 
-At the moment, I'm thinking about what happens when you slice the
-*d*-dimensional quantum theory in half.
-It looks like this creates a wall or "brane" in the gravity theory,
-and as you twiddle the boundary conditions on the quantum
-theory, the brane wobbles around.
-With some sleight of hand, we can slice a *wormhole*, and use
-half a quantum computer to describe the interior of a black hole!
-
 #### Papers
 
 - ["Black hole microstate cosmology"](https://link.springer.com/article/10.1007/JHEP07(2019)065)
@@ -66,7 +58,7 @@ theory course.
   extracting information from a black hole. UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
 - [*Safely falling into black holes*](assets/uncomplexity.md)
   (2017). Thinking of black holes as quantum computers, the
-  amount of useful computation left equals the volume of "safe"
+  remaining amount of useful computation equals the volume of "safe"
   spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). Notes on early universe
@@ -80,3 +72,11 @@ theory course.
 [//]: # See the lay and technical summaries below for more details.
 [//]: # #### Lay summary
 [//]: # #### Technical summary
+
+[//]: # At the moment, I'm thinking about what happens when you slice the
+[//]: #*d*-dimensional quantum theory in half.
+[//]: # It looks like this creates a wall or "brane" in the gravity theory,
+[//]: # and as you twiddle the boundary conditions on the quantum
+[//]: # theory, the brane wobbles around.
+[//]: # With some sleight of hand, we can slice a *wormhole*, and use
+[//]: # half a quantum computer to describe the interior of a black hole!

@@ -11,39 +11,39 @@ Under construction!
  	 </div>
   </figure>
 
-[//]: # In the tradition of dorky, maximalist websites, here are some
-[//]: # non-science activities I enjoy.
+In the tradition of dorky, maximalist websites, here are some
+non-science activities I enjoy.
 
-[//]: # ### Art
+### Art
 
-[//]: #  I like drawing and making digital art. (Under construction!)
+I like drawing and making digital art. (Under construction!)
 
-[//]: # ### Coding
+### Coding
 
-[//]: # I code for fun and occasionally work. Languages I use:
-[//]: # - For scientific computing, [Python](https://www.python.org/) is now
-[//]: #  reasonably fast and fully-featured when combined with
-[//]: #  [SciPy](https://www.scipy.org/).
-[//]: # - [Processing](https://processing.org/) is a great way to create
-[//]: #   interactive/visual sketches.
-[//]: # - [Haskell](https://www.haskell.org/) is probably the most beautiful
-[//]: #  programming language in the noosphere. It has a reputation for
-[//]: #  difficulty, since a lot of abstract mathematics is baked into it, but
-[//]: #  there are many excellent and free resources for learning it, such as:
-[//]: #   - [Learn You a Haskell](http://learnyouahaskell.com/) for a
-[//]: #     quick-and-dirty intro;
-[//]: #   - [Real World Haskell](http://book.realworldhaskell.org/) for
-[//]: #     the practically minded; and
-[//]: #   - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-[//]: #   for the mathematically inclined.
+I code for fun and occasionally work. Languages I use:
+- For scientific computing, [Python](https://www.python.org/) is now
+ reasonably fast and fully-featured when combined with
+  [SciPy](https://www.scipy.org/).
+- [Processing](https://processing.org/) is a great way to create
+   interactive/visual sketches.
+- [Haskell](https://www.haskell.org/) is probably the most beautiful
+  programming language in the noosphere. It has a reputation for
+ difficulty, since a lot of abstract mathematics is baked into it, but
+ there are many excellent and free resources for learning it, such as:
+  - [Learn You a Haskell](http://learnyouahaskell.com/) for a
+    quick-and-dirty intro;
+  - [Real World Haskell](http://book.realworldhaskell.org/) for
+    the practically minded; and
+  - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  for the mathematically inclined.
   
-[//]: #  My GitHub page is [here](https://github.com/hapax). A few small projects:
-[//]: # - [*Genesim*](https://github.com/hapax/genesim). Simulate the
-[//]: #  distribution of genetic code around a family tree.
-[//]: # - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-[//]: #   number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
-[//]: # - [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
-[//]: #  collection of Processing sketches.
+ My GitHub page is [here](https://github.com/hapax). A few small projects:
+- [*Genesim*](https://github.com/hapax/genesim). Simulate the
+ distribution of genetic code around a family tree.
+- [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
+  number theory, now with [blog post!](https://hapax.github.io/mathematics/programming/haskell-partition/)
+- [*OpenProcessing*](https://www.openprocessing.org/user/89003). A
+ collection of Processing sketches.
 
 [//]: # ### Writing/reading
 
