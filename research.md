@@ -23,6 +23,7 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 At the moment, I'm thinking about how to simulate black holes with
 *half* a quantum computer.
+This can potentially tell us what goes on *inside* the black hole!
 
 #### Papers
 
