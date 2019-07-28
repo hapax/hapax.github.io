@@ -21,6 +21,9 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 	</div>
 	</figure>
 
+At the moment, I'm thinking about how to simulate black holes with
+*half* a quantum computer.
+
 #### Papers
 
 - ["Black hole microstate cosmology"](https://link.springer.com/article/10.1007/JHEP07(2019)065)
@@ -70,8 +73,6 @@ theory course.
 [//]: # String group talk on ["Uncomplexity and black hole geometry"](https://arxiv.org/abs/1711.03125).
 [//]: # Notes for student seminar on inflation.
 [//]: # See the lay and technical summaries below for more details.
-[//]: # #### Lay summary
-[//]: # #### Technical summary
 [//]: #  At the moment, I'm thinking about what happens when you slice the
 [//]: #  dimensional quantum theory in half.
 [//]: #  It looks like this creates a wall or "brane" in the gravity theory,
