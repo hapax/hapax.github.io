@@ -74,9 +74,9 @@ theory course.
 [//]: # #### Technical summary
 
 [//]: #  At the moment, I'm thinking about what happens when you slice the
-[//]: # *d*-dimensional quantum theory in half.
-[//]: # It looks like this creates a wall or "brane" in the gravity theory,
-[//]: # and as you twiddle the boundary conditions on the quantum
-[//]: # theory, the brane wobbles around.
-[//]: # With some sleight of hand, we can slice a *wormhole*, and use
-[//]: # half a quantum computer to describe the interior of a black hole!
+[//]: #  *d*-dimensional quantum theory in half.
+[//]: #  It looks like this creates a wall or "brane" in the gravity theory,
+[//]: #  and as you twiddle the boundary conditions on the quantum
+[//]: #  theory, the brane wobbles around.
+[//]: #  With some sleight of hand, we can slice a *wormhole*, and use
+[//]: #  half a quantum computer to describe the interior of a black hole!
