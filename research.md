@@ -73,7 +73,7 @@ theory course.
 [//]: # #### Lay summary
 [//]: # #### Technical summary
 [//]: #  At the moment, I'm thinking about what happens when you slice the
-[//]: #  *d*-dimensional quantum theory in half.
+[//]: #  dimensional quantum theory in half.
 [//]: #  It looks like this creates a wall or "brane" in the gravity theory,
 [//]: #  and as you twiddle the boundary conditions on the quantum
 [//]: #  theory, the brane wobbles around.
