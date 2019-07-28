@@ -72,7 +72,6 @@ theory course.
 [//]: # See the lay and technical summaries below for more details.
 [//]: # #### Lay summary
 [//]: # #### Technical summary
-
 [//]: #  At the moment, I'm thinking about what happens when you slice the
 [//]: #  *d*-dimensional quantum theory in half.
 [//]: #  It looks like this creates a wall or "brane" in the gravity theory,
