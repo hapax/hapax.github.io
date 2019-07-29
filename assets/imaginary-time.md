@@ -17,8 +17,8 @@ work, to Hawking radiation (black holes are hot since observers near the horizon
 
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
-Thermodynamic systems, like light bulbs, puddles, or stars, consist of many
-components bouncing around and interacting randomly.
+Thermodynamic systems, like light bulb filaments, puddles, or stars, consist of many
+components sharing energy and interacting at random.
 Rather than predict what will happen exactly, it
 makes more sense to consider a probability distribution over
 configurations of the system, also called an *ensemble*.
