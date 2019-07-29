@@ -348,6 +348,12 @@ If we are physicalists about sensation, then those brain states are
 *always* accompanied by sensations.
 The brain states always feel.
 
+But "always feeling" does not mean "feeling always".
+We should not confused the properties of the time slices with
+properties of brain states, or even worse, the sensations they give
+rise to.
+This is the fundamental (but understandable) error of the presentist.
+
 ## References
 
 - [*Permutation City*](https://www.gregegan.net/PERMUTATION/Permutation.html)
