@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Presentism and the psychology of time"
 categories: Philosophy
-date:  2019-07-28
+date:  2019-07-29
 ---
 
-**July 28, 2019.** *??*
+**July 29, 2019.** *??*
 
 ## Introduction
 
@@ -59,8 +59,9 @@ sensation of being trapped in a moving window of experience?
 
 ## No time like the present
 
-First, let's discuss some important properties of time, and see why
-(in my view) they more or less rule out presentism.
+I'll recap some properties of time, before defining (and arguing
+against) presentism.
+This will leave us with some explaining to do!
 
 #### Simultaneity and causal order
 
@@ -232,7 +233,7 @@ The flavour of these objects is similar to Augustine's argument
 against duration in his *Confessions*.
 )
 
-## Personhood and causation
+## Mental states and processes
 
 Perhaps, as I have argued, presentism is not a sensible picture of
 time.
@@ -333,11 +334,14 @@ Luckily, our brains are naturally equipped with physiological process
 (such as circulation) which can be used to measure time, and input
 channels (with thresholds, capacities, and so forth) which can be used
 to measure intensity.
-It seems plausible, to me, that the subjective "speed" of experience
-is connected to the strength, nature and speed of sensory input
-relative to these physiologically defined units of measurement.
+It seems plausible that the subjective "rate" of experience
+is some function of the strength, nature and speed of sensory input,
+relative to these physiologically defined units of measurement, along
+with how efficiently they can stored in sensory and short-term memory.
 
 ## Conclusion
+
+Have 
 
 ## References
 
@@ -346,27 +350,3 @@ relative to these physiologically defined units of measurement.
 - ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
   (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
 - ["The Experience and Perception of Time"](https://plato.stanford.edu/entries/time-experience/) (2019), Robin Le Poidevin. *Stanford Encyclopedia of Philosophy*.
-
-Duration is somewhat trickier.
-The subjective "length" of an experience is, I think, probably very
-similar to the velocity of an arrow.
-Velocity is the rate at which distance increases, or equivalently, the
-increment in distance for some fixed length of time.
-The subject duration of an experience is probably connected to the
-strength, number, and kind of sensory or memory traces, the analogue
-of "distance".
-The same is probably true for judgments on temporal duration
-generally.
-But the precise mechanism is unimportant; my only purpose here is to
-show that it is plausible that subjective duration can be explained by
-intrinsic properties of a brain state.
-
-I want to argue is that it is
-plausibly explained by intrinsic properties of a brain state.
-The brain has various ways it can measure sensory inputs.
-It has natural physiological means (such as circulation) for measuring
-time, and intensity thresholds, channel capacities, and so forth, for
-measuring strength.
-How long a moment seems like to last is likely to be connected to the
-rate at which these data are acquired and stored in various systems
-for short-term memory.
