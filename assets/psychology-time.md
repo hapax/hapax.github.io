@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "No time like the present: presentism and the psychology of time"
+title:  "Presentism and the psychology of time"
 categories: Philosophy
 date:  2019-07-28
 ---
@@ -58,7 +58,7 @@ paradox*: what property of an arrow's time slice explains its motion?
 Similarly, what properties of a person's time slice explains their
 sensation of being trapped in a moving window of experience?
 
-## Time and the present
+## No time like the present
 
 First, let's discuss some important properties of time, and see why
 (in my view) they more or less rule out presentism.
