@@ -188,8 +188,7 @@ We have the following infinite regress problem.
 Suppose a demiurge $D_1$ is running this "program" of creating and
 destroying the slices $\Sigma_n$.
 To even ask which slice is currently loaded, the demiurge needs to
-have a time (once again discrete for simplicity) $t^{(1)}_n$
-explaining which slice exists.
+have a time (once again discrete for simplicity) $t^{(1)}_n$ explaining which slice exists.
 But then we need *another* demiurge $D_2$, with time $t^{(2)}_n$, to program the slices for the demiurge $D_1$.
 And so on.
 I think this a bad regress since no demiurge explains what "present"
@@ -214,9 +213,10 @@ $\Sigma_9$?
 
 Of course not.
 Observers living in $\Sigma$ have no access to any of this data, since
-that data would give them super-causal powers.
-I think this shows means they cannot tell what *any* demiurge is
+this would give them super-causal powers.
+In fact, I think this means we cannot tell what *any* demiurge is
 doing, including $D_1$.
+The ability to tell which slice is present is too powerful for a creature
 
 ## Personhood and causation
 
