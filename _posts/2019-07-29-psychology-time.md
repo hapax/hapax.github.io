@@ -353,7 +353,7 @@ Four-dimensionalism therefore suggests an extreme version of
 Nietzsche's doctrine of eternal recurrence: we are, and will always,
 live all moments of our life simultaneously, but with the impression
 of "nowness" and temporal succession by virtue of the physical
-properties brain states.
+properties of brain states.
 
 But "always feeling" does not mean "feeling always".
 We should not confuse the properties of the time slices with
