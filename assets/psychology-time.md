@@ -18,11 +18,10 @@ present.
 But what is privileged about the moment of utterance?
 Is it any more privileged than the bath tub or the park next to the
 subway where the speaker happens to declare they are located?
-In physical terms, the "present" is just a projection function on
-spacetime coordinates,
+In physical terms, the "present" is just a projection function:
 
 $$
-(t, x, y, z) \mapsto t.
+P(t, x, y, z) \mapsto t.
 $$
 
 On the other hand, time *feels* different from space.
@@ -230,7 +229,10 @@ exist at the same time.
 
 Perhaps, like I have argued, presentism is not a sensible picture of
 time.
-But the claims of our qualia are not to be lightly dismissed.
+But the claims of our qualia are not lightly dismissed.
+An infinite tower of demiurges creating and destroying one another may
+be absurd, but the related convictions that *I am experiencing right
+now*, and that *change is real*, are not.
 
 ## References
 
