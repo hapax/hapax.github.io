@@ -237,8 +237,8 @@ How can we explain these in the framework of four-dimensionalism?
 
 #### Mental states and "nowness"
 
-Conscious experience and sensation are famously
-difficult to account for from the physicalist viewpoint.
+Conscious experience is famously
+difficult explain from the physicalist viewpoint.
 But whatever qualia are, I assume they are the result of physical
 processes in the brain, and supervene on brain states.
 Run the process, or set up the state (a subtle distinction we return
@@ -274,6 +274,27 @@ This is why presentism is tempting but wrong.
 It conflates properties of conscious experience with properties of time.
 
 #### The arrow of Zeno
+
+It is not clear that brain states that are permanently feeling have
+anything to do with our everyday experience.
+Sensations last a moment, and are quickly succeeded by new ones,
+almost as if they are being created and destroyed by particularly
+reliable demiurge.
+The question, then, is whether the content of the sensation $S_n$ can account
+both for the feeling of duration and succession.
+
+There is a helpful pre-Socratic analogue to the problem we are
+considering here.
+Zeno's third paradox of motion involved an arrow in flight.
+We can state the paradox as follows:
+- The arrow, at any moment of time, is stationary.
+- Time is composed of moments.
+- Stationary objects remain stationary.
+
+Combining these three, we seem forced to conclude that the arrow can
+never move.
+
+## Conclusion
 
 ## References
 
