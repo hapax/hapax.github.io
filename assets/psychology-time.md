@@ -304,16 +304,22 @@ The answer to the paradox is simple.
 There is a difference between a stationary arrow and a moving arrow
 examined at an instant of time.
 The moving arrow has properties the stationary arrow lacks, which not
-explain the difference in motion but even have measurable effects.
-For instance, the moving arrow is *heavier* than the stationary arrow,
-and contracted in the direction of motion, according to the laws of
-special relativity.
+only explain the difference in subsequent motion but have measurable
+effects on the slice itself.
 
-Similarly, a brain state $B_n$ has various properties, such as
-short-term memory traces, which can be viewed as some function of the
-preceding brain states $M_n = f(\{B_m: m<n\})$.
-Modulo the neurological details, this explains the feeling of
-succession; it is baked into the brain state by short-term memory.
+Similarly, the intrinsic properties of a brain state $B_n$ lead to the
+sensation of duration and succession.
+First, let's consider succession, which is simpler.
+At a physical level, "succession" reflects the fact that earlier
+brain states $B_{m<n}$ are part of the causal input to the brain state $B_n$.
+The previous states $B_{m<n}$ are in fact stored and represented in
+$B_n$ via *memory*, but at an abstract level, succession is just the
+statement that causal relations are mirrored in cognitive ones.
+
+Duration is somewhat trickier.
+The subjective "length" of an experience is like the
+velocity of the arrow; it represents an increment per unit time,
+though what 
 
 ## Conclusion
 
@@ -323,3 +329,15 @@ succession; it is baked into the brain state by short-term memory.
   (2007), Greg Egan.
 - ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
   (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
+
+
+various properties, such as
+short-term memory traces, which can be viewed as some function of the
+preceding brain states $M_n = f(\{B_m: m<n\})$.
+Modulo the neurological details, this explains the feeling of
+succession; it is baked into the brain state by short-term memory.
+The subjective "duration" of $S_n$ is a 
+
+For instance, the moving arrow is *heavier* than the stationary arrow,
+and contracted in the direction of motion, according to the laws of
+special relativity.
