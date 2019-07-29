@@ -230,8 +230,8 @@ exist at the same time.
 
 (These faulty demiurges are partially inspired by Greg Egan's
 ["dust theory"](https://www.gregegan.net/PERMUTATION/FAQ/FAQ.html),
-featuring in his novel *Permutation City*.
-The use of demiurges has a similar flavour to Augustine's argument
+featured in his novel *Permutation City*.
+These demiurges have a similar flavour to Augustine's argument
 against duration in the *Confessions*.)
 
 ## Brain states and sensations
