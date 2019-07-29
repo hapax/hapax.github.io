@@ -186,17 +186,18 @@ creation and destruction process!
 
 We have the following infinite regress problem.
 Suppose a demiurge $D_1$ is running this "program" of creating and
-destroying the slices $\Sigma_n$.
+destroying the slices $\Sigma$.
 To even ask which slice is currently loaded, the demiurge needs to
-have a time (once again discrete for simplicity) $t^{(1)}_n$ explaining which slice exists.
-But then we need *another* demiurge $D_2$, with time $t^{(2)}_n$, to program the slices for the demiurge $D_1$.
+have a time (once again discrete for simplicity) $t^{(1)}_n$
+explaining which slice exists.
+But then we need *another* demiurge $D_2$, with time $t^{(2)}_n$, to
+program the slices for the demiurge $D_1$.
 And so on.
 I think this a bad regress since no demiurge explains what "present"
 actually means.
 Perhaps, like the choice of spacelike slices, the
-presentist can appeal to God as a sort of limit or union of demiurges, $D =
+presentist can appeal to God, in this case as a sort of limit or union of demiurges, $D =
 \lim_{n\to\infty} \cup_n D_n$.
-I'm not sure.
 
 But what if our demiurges make errors, as demiurges are wont to do?
 Perhaps they slices $\Sigma_4$ and $\Sigma_5$ actually coexist for
@@ -225,6 +226,8 @@ conventional, four-dimensional picture where all the slices $\Sigma_n$
 exist at the same time.
 
 ## Personhood and causation
+
+But the folk Cartesian 
 
 ## References
 
