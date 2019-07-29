@@ -119,7 +119,7 @@ they are spacelike separated.
 
 What has this got to do with the present?
 If I understand the notion properly, presentism is the view that only
-some time slice of the universe really exists.
+some *time slice* of the universe really exists.
 By "time slice", I mean some collection of events $\Sigma$ which are
 mutually spacelike separated, or equivalently, *mutually incomparable*
 according to the causal partial order.
@@ -227,16 +227,53 @@ exist at the same time.
 
 ## Personhood and causation
 
-Perhaps, like I have argued, presentism is not a sensible picture of
+Perhaps, as I have argued, presentism is not a sensible picture of
 time.
 But the claims of our qualia are not lightly dismissed.
 An infinite tower of demiurges creating and destroying one another may
 be absurd, but the related convictions that *I am experiencing right
-now*, and that *change is real*, are not.
+now*, and that *change is real*, are not absurd.
 How can we explain these in the framework of four-dimensionalism?
-I think we need to return to the question of what identity is.
 
-#### Identity and mental states
+#### Mental states and "nowness"
+
+Conscious experience and sensation are famously
+difficult to account for from the physicalist viewpoint.
+But whatever qualia are, I assume they are the result of physical
+processes in the brain, and supervene on brain states.
+Run the process, or set up the state (a subtle distinction we return
+to later), and the associated conscious experience should appear.
+
+It is then straightforward to explain why we feel like we are always
+"in the present moment" from the four-dimensionalist perspective.
+If the time slice of the brain $B(t_n) = B_n$ always exists, it is always in a
+particular state; it is therefore always producing the sensations
+$S_n$ associated with that state.
+Of course, those sensations are attached to a specific time and place,
+and the sensation of being "experiencing things right now" is no
+different, fundamentally, from "experiencing things right here".
+The novelty or strangeness of these time indexicals is that we do not
+feel like we control our motion in time, so there is perhaps something
+surprising about being "at this present moment".
+How did we get there?
+It is not due to some deep ontology that our brains are somehow
+enabled to track.
+It is simply a result of causal relations between brain states.
+
+Before I elaborate on this last statement, let me be clear.
+I think that brain states $B_n$ always exist; this is what
+four-dimensionalism dictates.
+If they always exist, they are always producing the associated qualia
+$S_n$ and so a brain state leads to a permanent state of feeling.
+You may ask how it is possible to always be "feeling" $S_n$ when the
+sensations feel temporary.
+I will discuss this at length in the next section, but the point of
+the demiurge example is that *the ontology of time slices has nothing
+to do with conscious experience*.
+This is why presentism is tempting but wrong.
+It conflates properties of conscious experience with properties of time.
+
+#### The arrow of Zeno
 
 ## References
 
