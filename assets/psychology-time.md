@@ -233,6 +233,10 @@ But the claims of our qualia are not lightly dismissed.
 An infinite tower of demiurges creating and destroying one another may
 be absurd, but the related convictions that *I am experiencing right
 now*, and that *change is real*, are not.
+How can we explain these in the framework of four-dimensionalism?
+I think we need to return to the question of what identity is.
+
+#### Identity and mental states
 
 ## References
 
