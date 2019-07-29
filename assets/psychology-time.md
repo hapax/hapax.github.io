@@ -58,7 +58,7 @@ sensation of being trapped in a moving window of experience?
 
 ## Time and the present
 
-### Simultaneity and causal order
+#### Simultaneity and causal order
 
 First, let's discuss some important properties of time, and see why
 (in my view) they more or less rule out presentism.
@@ -112,7 +112,7 @@ relation is
 But two points are not comparable, or causally ordered, just in case
 they are spacelike separated.
 
-### Presentism defined
+#### Presentism defined
 
 What has this got to do with the present?
 If I understand the notion properly, presentism is the view that only
@@ -153,7 +153,7 @@ the problem of selecting the correct $\Sigma$ to the axiom of choice,
 or God, or some comparable higher power.
 What can we say then?
 
-### The reality of change
+#### The reality of change
 
 I think 
 But what does it change with?
