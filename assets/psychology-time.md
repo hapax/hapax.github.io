@@ -39,13 +39,15 @@ should be.
 But there is more to the peculiar psychology of the present.
 While the direction of our movement through time is easily explained,
 the sensation of *being in a particular moment* takes more work.
-Our qualia seem to be attached to *now*; there is a sort of folk
-Cartesianism which takes this as proof that the present is special and
-perhaps the only "time" which really exists.
+Our qualia seem to be attached to *now*; folk
+Cartesianism which takes this as incorrigible proof that the present is special and
+perhaps the only "time" which really exists:
+"I can only tell that *right now* exists, and since I cannot
+experience any other times, they must not exist".
 This view is called *presentism*.
+
 As I will argue below, despite its folk appeal, I don't think presentism is a viable
 metaphysics of time.
-
 Nevertheless, I think there is an
 explanatory gap between common psychological experience and the
 physics of time.
@@ -194,16 +196,20 @@ And so on.
 I think this a bad regress since no demiurge explains what "present"
 actually means.
 Perhaps, like the choice of spacelike slices, the
-presentist can appeal to God as a sort of limit of demiurges.
+presentist can appeal to God as a sort of limit or union of demiurges, $D =
+\lim_{n\to\infty} \cup_n D_n$.
 I'm not sure.
 
 But what if our demiurges make errors, as demiurges are wont to do?
 Perhaps they slices $\Sigma_4$ and $\Sigma_5$ actually coexist for
-at some time $t^{(1)}_{n}$, or different slices of the demiurge
+at some time $t^{(1)}$, or different slices of the demiurge
 themself coexist at some time due to a lapse of attention in one of
 the higher demiurges!
 Even worse, demiurges could get the order *wrong*, making
-$\Sigma_{12}$ before they make $\Sigma_3$.
+$\Sigma_{9}$ before $\Sigma_3$.
+Can observers living in the slices $\Sigma$ detect these errors?
+Do we somehow feel "present" in both $\Sigma_4$ and $\Sigma_5$ in the
+first error, or 
 
 ## Personhood and causation
 
