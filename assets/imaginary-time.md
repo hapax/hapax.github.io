@@ -257,7 +257,10 @@ Thus, we can draw our coordinates as follows:
 <figure>
     <div style="text-align:center"><img src ="/images/imaginary-time-2.png"
     width="55%" />
-		    <figcaption><i>The parameter $\alpha$ labels boost-invariant hyperbolas (red), while Rindler time $\xi$ moves along them.</i></figcaption>
+		    <figcaption><i>Left: the parameter $\alpha$ labels
+    hyperbolas (red) with the acceleration needed to stay on them, while Rindler time $\xi$ moves
+    along them. Right: in imaginary time, hyperbolas becomes circles
+    of radius $\rho$ and angle $\theta$.</i></figcaption>
 	</div>
 	</figure>
 
@@ -355,7 +358,7 @@ $$
 $$
 
 To find the event horizon $r_\text{h}$ of the black hole, we simply set the escape
-velocity to the speed of light $v = c$, modelling the point at which
+velocity to the speed of light $v = c$, supposing it is the point at which
 not even light can escape:
 
 $$
@@ -392,6 +395,15 @@ and so this version of general relativity is called *Euclidean gravity*.
 Imagine an observer far from the black hole, who has proper time $t$
 and sets up spherical coordinates with radial coordinate $r$ and the
 black hole at $r = 0$.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/imaginary-time-3.png"
+    width="55%" />
+		    <figcaption><i>The black hole resembles Rindler space near
+    the horizon. A nearby observer must accelerate to avoid falling in!</i></figcaption>
+	</div>
+	</figure>
+
 In these coordinates, small displacements have signed length given by
 the *Schwarzschild metric*:
 
