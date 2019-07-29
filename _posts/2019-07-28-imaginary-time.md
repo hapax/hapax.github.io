@@ -400,11 +400,10 @@ black hole at $r = 0$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-3.png"
-    width="75%" />
+    width="70%" />
 		    <figcaption><i>The black hole resembles Rindler space near
     the horizon. A nearby observer must accelerate to avoid falling
-    in! The Eucliean black hole has spherical symmetry (near the
-    horizon) and no inside.</i></figcaption>
+    in! The Eucliean black hole has near-horizon periodicity.</i></figcaption>
 	</div>
 	</figure>
 
