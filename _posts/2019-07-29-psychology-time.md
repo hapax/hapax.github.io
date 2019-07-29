@@ -234,7 +234,7 @@ featuring in his novel *Permutation City*.
 The use of demiurges has a similar flavour to Augustine's argument
 against duration in the *Confessions*.)
 
-## Mental states and processes
+## Brain states and sensations
 
 Perhaps, as I have argued, presentism is not a sensible picture of
 time.
@@ -244,7 +244,7 @@ be absurd, but the related convictions that *I am experiencing right
 now*, and that *change is real*, are not absurd.
 How can we explain these in the framework of four-dimensionalism?
 
-#### Mental states and "nowness"
+#### Experience and "nowness"
 
 Conscious experience is famously
 difficult explain from the physicalist viewpoint.
