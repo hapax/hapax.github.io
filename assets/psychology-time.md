@@ -7,7 +7,11 @@ categories: Philosophy
 date:  2019-07-29
 ---
 
-**July 29, 2019.** *??*
+**July 29, 2019.** *Modern physics suggests that a view of time called
+  four-dimensionalism: just as all places exist simultaneously, all
+  times should exist simultaneously. I examine some consequences for
+  the psychology of time, and contrast with the (more intuitive)
+  philosophy of time called presentism.*
 
 ## Introduction
 
@@ -360,8 +364,9 @@ the future.
 
 Four-dimensionalism therefore suggests an extreme version of
 Nietzsche's doctrine of eternal recurrence: we are, and will always,
-be living all of our live, in temporal succession, simply by virtue of
-the properties of each brain state.
+live all moments of our life simultaneously, but with the impression
+of "nowness" and temporal succession by virtue of the physical
+properties brain states.
 
 ## References
 
