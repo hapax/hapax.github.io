@@ -28,7 +28,7 @@ particles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-1.png"
-    width="75%" />
+    width="70%" />
 		    <figcaption><i>A system which is hot in real time is
     periodic in imaginary time.</i></figcaption>
 	</div>
@@ -398,7 +398,7 @@ black hole at $r = 0$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-3.png"
-    width="75%" />
+    width="55%" />
 		    <figcaption><i>The black hole resembles Rindler space near
     the horizon. A nearby observer must accelerate to avoid falling in!</i></figcaption>
 	</div>
