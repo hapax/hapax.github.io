@@ -156,7 +156,7 @@ $$
 \langle E| U_\text{im}(\tau) | E\rangle = e^{-E \tau}.
 $$
 
-We can reinterpret the density matrix $\hat{\rho}_\beta$ in terms of
+We can reinterpret the density matrix in terms of
 these imaginary return amplitudes.
 Instead of viewing it as a probability distribution over states, with
 higher energies suppressed, we can view $\hat{\rho}_\beta$ as
