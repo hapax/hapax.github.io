@@ -351,6 +351,11 @@ exists, by four-dimensionalism.
 If we are physicalists about sensation, then those brain states are
 *always* accompanied by sensations.
 The brain states always feel.
+Four-dimensionalism therefore suggests an extreme version of
+Nietzsche's doctrine of eternal recurrence: we are, and will always,
+live all moments of our life simultaneously, but with the impression
+of "nowness" and temporal succession by virtue of the physical
+properties brain states.
 
 But "always feeling" does not mean "feeling always".
 We should not confuse the properties of the time slices with
@@ -361,12 +366,6 @@ Still, some work is required to see where the duration and succession
 of our experience of time comes from.
 I have sketched some arguments, and hope to fill out the details in
 the future.
-
-Four-dimensionalism therefore suggests an extreme version of
-Nietzsche's doctrine of eternal recurrence: we are, and will always,
-live all moments of our life simultaneously, but with the impression
-of "nowness" and temporal succession by virtue of the physical
-properties brain states.
 
 ## References
 
