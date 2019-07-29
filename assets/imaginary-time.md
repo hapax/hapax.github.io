@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Imaginary time"
 categories: Physics
-date:  2018-20-20
+date:  2019-07-28
 ---
 
-**October 20, 2018.** *Imaginary time is a trick for turning heat into
+**July 28, 2019.** *Imaginary time is a trick for turning heat into
 geometry. More precisely, hot systems repeat themselves in imaginary
 time. This perspective leads to a quick proof of the Unruh effect
 (empty space looks hot when you accelerate) and with a little more
