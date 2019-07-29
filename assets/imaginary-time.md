@@ -524,8 +524,7 @@ $$
 
 ## References
 
--
-  [*Gauge/gravity duality*](https://www.amazon.ca/Gauge-Gravity-Duality-Foundations-Applications/dp/1107010349)
+- [*Gauge/gravity duality*](https://www.amazon.ca/Gauge-Gravity-Duality-Foundations-Applications/dp/1107010349)
   (2015), Martin Ammon and Johanna Erdmenger.
 - ["Path-integral derivation of black-hole radiance"](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.13.2188)
   (1976), James Hartle and Stephen Hawking.
