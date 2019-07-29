@@ -49,7 +49,11 @@ some real quandaries about the psychology of time that folk wisdom
 points to.
 But the resolution, I will argue, lies in carefully considering what a
 person is, what time is, and what causation is.
-No fancy new tools are required, just clear and careful application of
-things we already know.
+In many ways, the solution will be analogous to Zeno's *arrow
+paradox*, where we are required to explain what properties of the
+arrow's time slice explain its motion.
+No fancy new tools are required, just clear and careful application of things we know.
 
 ## What is time?
+
+## References
