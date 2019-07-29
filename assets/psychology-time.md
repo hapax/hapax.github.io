@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Presentism and the psychology of time"
+title:  "No time like the present: presentism and the psychology of time"
 categories: Philosophy
 date:  2019-07-28
 ---
@@ -110,7 +110,8 @@ relation is
 - *reflexive*, $P \prec P$;
 - *antisymmetric*, $P \prec Q$ and $Q \prec P$ implies $P = Q$; and
 - *transitive*, $P \prec Q$ and $Q \prec R$ implies $P \prec R$.
-But two points are not comparable, or causally ordered, just in case
+
+Two points are not comparable, or causally ordered, just in case
 they are spacelike separated.
 
 #### Presentism defined
@@ -119,7 +120,8 @@ What has this got to do with the present?
 If I understand the notion properly, presentism is the view that only
 some time slice of the universe really exists.
 By "time slice", I mean some collection of events $\Sigma$ which are
-mutually spacelike separated.
+mutually spacelike separated, or equivalently, *mutually incomparable*
+according to the causal partial order.
 I used to think that the relativity of simulaneity was knock-down
 argument against presentism.
 Since being simultaneous is not an equivalence relation, and the
@@ -147,25 +149,55 @@ therefore take me out of the set of timelike slices $\Sigma$.
 (Here, I am ignoring the issue of global hyperbolicity, but it is not
 really relevant since the same issues arises near a star.)
 
-One suspects that, in asking these questions about the infaller,
-language has gone on holiday (Wittgenstein).
+One suspects that, in asking these questions about the person falling
+into a black hole, language has gone on holiday (Wittgenstein).
 But the presentist can simply assert that the slice exists, and leave
 the problem of selecting the correct $\Sigma$ to the axiom of choice,
 or God, or some comparable higher power.
 What can we say then?
 
-#### The reality of change
+#### Demiurges and the reality of change
 
-I think 
-But what does it change with?
-Perhaps there is some "universal proper time" $\lambda$, labelling the
-current slice $\Sigma(\lambda)$.
-How quickly does it change?
-I suppose 1 unit of $\lambda$ per unit of $\lambda$, just as we seem
-to go forward in time 1 second per second.
-But clearly, this answer is just a tautology about our coordinates!
-If presentism is correct, we can only say that the *things change* but
-there is no non-tautological way of saying how quickly.
+A subtler problem is *change*.
+Presentism claims that *what is real*, i.e. the present slice
+$\Sigma$, is changing.
+But changing with respect to what?
+If I am label or define slices with respect to some type of
+"universal proper time" $\lambda$ (such as cosmological time), the
+answer seems to be: with respect to $\lambda$, at a rate of 1 unit of
+$\lambda$ per unit of $\lambda$.
+As people often joke, we are moving into the future at 1 second per
+second.
+
+The answer is of course tautological.
+But it is worse than that for the presentist.
+To see why, let's discretise time into steps $t_n$.
+Presentism suggests that, ontologically, a slice $\Sigma(t_0) =
+\Sigma_0$ is brought into being, then destroyed and replaced by
+$\Sigma_1$.
+We repeat the process with $\Sigma_2$, and so forth.
+How long do these slices exist?
+It seems like there is no way to measure this, since $t_n$ is attached
+to the slices themselves.
+But to ask what exists "now" presupposes some sort of time in our
+creation and destruction process!
+
+We have the following infinite regress problem.
+Suppose a demiurge $D_1$ is running this "program" of creating and
+destroying the slices $\Sigma_n$.
+To even ask which slice is currently loaded, the demiurge needs to
+have a time (once again discrete for simplicity) $t^{(1)}_n$,
+explaining which slice exists.
+But then we need *another* demiurge $D_2$, with time $t^{(2)}_n$, to
+program the slices for the demiurge $D_1$.
+And so on.
+I think this a bad regress since no demiurge explains what "present"
+actually means. Perhaps, like the choice of spacelike slices, the
+presentist can appeal to God as a sort of limit of demiurges.
+
+
+
+## Personhood and causation
 
 ## References
 
@@ -198,3 +230,22 @@ Something about this answer seems wrong, because *of course* time,
 measured by $\lambda$, "changes" at that rate.
 The "change" has nothing to do with the present or what exists though,
 it is just a tautology about coordinates.
+
+Perhaps there is some "universal proper time" $\lambda$, labelling the
+current slice $\Sigma(\lambda)$.
+How quickly does it change?
+I suppose 1 unit of $\lambda$ per unit of $\lambda$, just as we seem
+to go forward in time 1 second per second.
+But clearly, this answer is just a tautology about our coordinates!
+If presentism is correct, we can only say that the *things change* but
+there is no non-tautological way of saying how quickly.
+
+Of course, we could define some secondary time which measures "how
+long" the slices exist, but it is clearly unobservable, leads to a
+infinite regress (since we now need to consider the "present" in our
+creation and destruction process), and is in any event unnecessary for
+presentism.
+All that matters is that existence uniquely specifies a slice.
+
+
+Perhaps the process is something like a computer program.
