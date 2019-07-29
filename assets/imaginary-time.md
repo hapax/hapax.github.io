@@ -7,10 +7,10 @@ categories: Physics
 date:  2018-20-20
 ---
 
-**October 20, 2018.** *What the heck is imaginary time? Roughly,
-instead of evolving a system in time, it heats it up, and thermal
-systems are periodic in imaginary time. This perspective leads to a quick proof of the Unruh effect
-(empty space looks hot to accelerating observers) and with a little
+**October 20, 2018.** *What the heck is imaginary time? It's a trick
+which turns heat into geometry. More precisely, hot systems repeat
+themselves in time. This perspective leads to a quick proof of the Unruh effect
+(empty space looks hot when you accelerate) and with a little
 more work, to Hawking radiation (black holes are hot since observers
 near the horizon accelerate).*
 
@@ -18,88 +18,61 @@ near the horizon accelerate).*
 
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
-## Propagators and partition functions
+When we talk about hot system, we usually mean systems at fixed
+temperature $T$.
+These systems have many, many components bouncing around and
+interacting randomly.
+Rather than predict what will happen exactly in such a system, it
+makes more sense to model it with a probability distribution, also
+called an *ensemble*.
 
-Consider a quantum system with Hilbert space $\mathcal{H}$ and a
-time-independent, Hermitian Hamiltonian $\hat{H}$.
-Schrödinger's equation states that $\hat{H}$ is the time evolution
-operator, which we can formally solve with an exponential:
-
-$$
-i\partial_t |\psi(t)\rangle = \hat{H}|\psi(t)\rangle \quad \Longrightarrow
-\quad |\psi(t)\rangle = e^{-i\hat{H}t}|\psi(0)\rangle.
-$$
-
-This exponential is the *propagator* $U(t) = e^{-i\hat{H}t}$, and I
-can use it to evolve any state forward in time.
-Recall that the *transition amplitude* to go from an initial state
-$|\psi\rangle$ to a final state
-$|\phi\rangle$ in time $t$ is obtained by evolving
-$|\psi\rangle$ forward in time, then taking the overlap with the bra
-$\langle \phi|$:
+In the *canonical ensemble*, corresponding to fixed temperature $T$,
+the probability of seeing a state with energy $E$ dies off
+exponentially, controlled by the ratio of $E$ to the characteristic
+thermal energy, $k_BT T = 1/\beta$:
 
 $$
-\mathcal{A}(\phi, \psi; t) = \langle \phi| U(t)|\psi\rangle.
+p(E) \propto e^{-\beta E}.
 $$
 
-If $|\psi\rangle = |\phi\rangle$, we have the probability the
-system returns to the state it started in in time $t$.
-For an orthonormal basis $\{|n\rangle\}$ of $\mathcal{H}$, the
-amplitude for the system to be *periodic* in time $t$ is just the sum over $\{|n\rangle\}$:
+We can immediately write down the full probability distribution, using
+the fact that it must be unit normalised:
 
 $$
-\mathcal{A}(t) = \sum_n \langle n| U(t)|n\rangle.
+p(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} \rho(E) e^{-\beta E}.
 $$
 
-So far, our discussion has assumed that $t$ is real.
-But what happens if we plug $t = -i\tau$ into the propagator?
-Formally making time imaginary is called a *Wick rotation*.
-Instead of evolving unitarily, it will squash things exponentially:
+Here, $\rho(E)$ tells us how many states of energy $E$ there are (more
+precisely, what volume of classical phase space they occupy) and
+$Z[\beta]$ is called the *partition function*.
+
+In fact, all the thermal properties of the state are summarised by the
+partition function.
+A simple example is the average energy of the system:
 
 $$
-U(-i\tau) = U_E(\tau) = e^{-\hat{H}\tau}.
+\langle E \rangle = \sum_E \rho(E) p(E) E = \frac{\sum_E \rho(E) p(E)
+E}{\sum_E \rho(E) p(E)} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
+-\partial_\beta \ln Z[\beta].
 $$
 
-If we expand in eigenvectors of $\hat{H}$, we see that when we evolve
-in imaginary time $\tau$, things get suppressed according to their energy.
-But this should remind us of thermal systems!
-Indeed, recall that for a system with energies $\{E_n\}$, the canonical
-partition function at temperature $T = 1/\beta$ is
+In general,
 
-$$
-Z[\beta] = \sum_n e^{-\beta E_n}.
-$$
-
-This is precisely the "amplitude" for the system to be *periodic in
-imaginary time* $\beta$:
-
-$$
-\mathcal{A}(-i\beta) =
-\sum_n \langle n|e^{-\hat{H}\beta}|n\rangle = \sum_n e^{-\beta E_n} = Z[\beta].
-$$
-
-Since the partition function encodes the statistical properties of a
-thermal system, this suggests we should view thermal systems as those
-which are periodic in imaginary time.
-We could expend more effort justifying this, but the connection
-between propagators and partition functions is the main idea.
-So, although it sounds crazy, repeat after me: if a system is periodic
-in imaginary time $\beta$, we can regard it as thermal
-at temperature $T = 1/\beta$.
+## Density matrix and partition functions
 
 ## Rindler coordinates and the Unruh effect
 
 Let's now turn from quantum mechanics to special relativity.
 To keep life simple, we stick to two dimensions with Minkowski
 coordinates $(t, x)$.
-Recall that the signed distance $s^2$ from the origin to $P(t, x)$ is given
-by
+Recall that the signed distance $s^2$ from the origin to a point in
+spacetime $P(t, x)$ is given by
 
 $$
 s^2 = -t^2 + x^2.
 $$
 
-For small displacements, this gives the *Minkowski metric*
+For small displacements, this defines the *Minkowski metric*
 
 $$
 ds^2 = -dt^2 + dx^2.
@@ -497,3 +470,70 @@ we get the formula
 $$
 T_\text{U} = \frac{\hbar \alpha}{2\pi k_\text{B} c}.
 $$
+
+Consider a quantum system with Hilbert space $\mathcal{H}$ and a
+time-independent, Hermitian Hamiltonian $\hat{H}$.
+Schrödinger's equation states that $\hat{H}$ is the time evolution
+operator, which we can formally solve with an exponential:
+
+$$
+i\partial_t |\psi(t)\rangle = \hat{H}|\psi(t)\rangle \quad \Longrightarrow
+\quad |\psi(t)\rangle = e^{-i\hat{H}t}|\psi(0)\rangle.
+$$
+
+This exponential is the *propagator* $U(t) = e^{-i\hat{H}t}$, and I
+can use it to evolve any state forward in time.
+Recall that the *transition amplitude* to go from an initial state
+$|\psi\rangle$ to a final state
+$|\phi\rangle$ in time $t$ is obtained by evolving
+$|\psi\rangle$ forward in time, then taking the overlap with the bra
+$\langle \phi|$:
+
+$$
+\mathcal{A}(\phi, \psi; t) = \langle \phi| U(t)|\psi\rangle.
+$$
+
+If $|\psi\rangle = |\phi\rangle$, we have the probability the
+system returns to the state it started in in time $t$.
+For an orthonormal basis $\{|n\rangle\}$ of $\mathcal{H}$, the
+amplitude for the system to be *periodic* in time $t$ is just the sum over $\{|n\rangle\}$:
+
+$$
+\mathcal{A}(t) = \sum_n \langle n| U(t)|n\rangle.
+$$
+
+So far, our discussion has assumed that $t$ is real.
+But what happens if we plug $t = -i\tau$ into the propagator?
+Formally making time imaginary is called a *Wick rotation*.
+Instead of evolving unitarily, it will squash things exponentially:
+
+$$
+U(-i\tau) = U_E(\tau) = e^{-\hat{H}\tau}.
+$$
+
+If we expand in eigenvectors of $\hat{H}$, we see that when we evolve
+in imaginary time $\tau$, things get suppressed according to their energy.
+But this should remind us of thermal systems!
+Indeed, recall that for a system with energies $\{E_n\}$, the canonical
+partition function at temperature $T = 1/\beta$ is
+
+$$
+Z[\beta] = \sum_n e^{-\beta E_n}.
+$$
+
+This is precisely the "amplitude" for the system to be *periodic in
+imaginary time* $\beta$:
+
+$$
+\mathcal{A}(-i\beta) =
+\sum_n \langle n|e^{-\hat{H}\beta}|n\rangle = \sum_n e^{-\beta E_n} = Z[\beta].
+$$
+
+Since the partition function encodes the statistical properties of a
+thermal system, this suggests we should view thermal systems as those
+which are periodic in imaginary time.
+We could expend more effort justifying this, but the connection
+between propagators and partition functions is the main idea.
+So, although it sounds crazy, repeat after me: if a system is periodic
+in imaginary time $\beta$, we can regard it as thermal
+at temperature $T = 1/\beta$.
