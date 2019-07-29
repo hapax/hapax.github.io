@@ -169,9 +169,8 @@ $$
 \langle\hat{A}\rangle_\beta = \frac{\sum_E \langle E|e^{-\beta\hat{H}}\hat{A}|E\rangle}{Z[\beta]}.
 $$
 
-The numerator is the sum over all ways the system can return to its
-initial state after imaginary time $\beta$, i.e. which has period
-$\beta$.
+The numerator is the sum of expectations over all ways the system can return to its
+initial state after imaginary time $\beta$.
 The denominator is the amplitude for this imaginary periodicity
 property.
 The whole expectation, then, takes the form of a *conditional
