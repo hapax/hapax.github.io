@@ -7,18 +7,17 @@ categories: Physics
 date:  2018-20-20
 ---
 
-**October 20, 2018.** *What the heck is imaginary time? It's a trick
-which turns heat into geometry. More precisely, hot systems repeat
-themselves in time. This perspective leads to a quick proof of the Unruh effect
-(empty space looks hot when you accelerate) and with a little
-more work, to Hawking radiation (black holes are hot since observers
-near the horizon accelerate).*
+**October 20, 2018.** *Imaginary time is a trick for turning heat into
+geometry. More precisely, hot systems repeat themselves in imaginary
+time. This perspective leads to a quick proof of the Unruh effect
+(empty space looks hot when you accelerate) and with a little more
+work, to Hawking radiation (black holes are hot since observers near the horizon accelerate).*
 
 ## Introduction
 
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
-Thermodynamic systems, like light bulbs and puddles, consist of many
+Thermodynamic systems, like light bulbs, puddles, or stars, consist of many
 components bouncing around and interacting randomly.
 Rather than predict what will happen exactly, it
 makes more sense to consider a probability distribution over
@@ -37,6 +36,7 @@ $$
 p_\beta(E) \propto e^{-\beta E}.
 $$
 
+This exponential is often called a *Boltzmann factor*.
 We can immediately write down the full probability distribution, using
 the fact that it must be unit normalised:
 
@@ -45,11 +45,11 @@ p_\beta(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} n(E) e^{-
 $$
 
 Here, $n(E)$ is the *density of states*, telling us roughly how
-many ways the system can be at energy $E$ (or more precisely, what
+many ways the system can be at energy $E$ (more precisely, what
 volume of classical phase space they occupy).
 The normalisation factor $Z[\beta]$ is called the *partition
-function*, which captures all the statistical properties of the system.
-A simple example is the average energy of the system:
+function*, and it captures all the statistical properties of the system.
+For instance, we can extract the average energy of the system using a derivative:
 
 $$
 \langle E \rangle = \sum_E n(E) p_\beta(E) E = \frac{\sum_E n(E) e^{-\beta E}
@@ -59,8 +59,8 @@ $$
 
 Another example is the *Helmholtz free energy* $F = -k_B T \ln
 Z[\beta]$, which is minimised in equilibrium.
-Put a different way, free energy tells us how to how density of states
-balances exponential suppression of high energy states.
+Free energy tells us at which point the density of states balances
+exponential suppression of high energy states.
 
 ## Quantum statistical mechanics
 
@@ -68,29 +68,28 @@ The partition function also controls the statistics of *quantum*
 thermodynamic systems.
 Instead of a probability distribution $p_\beta$ over classical
 configurations, we have a probability distribution over *quantum
-states*, which is once again exponential:
+states*, with high energy states suppressed by Boltzmann factors:
 
 $$
-\rho_\beta = \frac{1}{Z[\beta]}\sum_E e^{-\beta E}|E\rangle\langle E|,
+\hat{\rho}_\beta = \frac{1}{Z[\beta]}\sum_E e^{-\beta E}|E\rangle\langle E|.
 $$
 
-where $Z[\beta]$ is once again a normalisation.
 Here, we are using Dirac's bra-ket notation, and $|E\rangle\langle
-E|$ projects onto the energy eigenstate $|E\rangle$, and for
-simplicity, we assume no degeneracy of energy eigenstates.
-Instead of having unit norm, the density $\rho_\beta$ is defined to have unit
+E|$ projects onto the energy eigenstate $|E\rangle$ (assumed
+non-degenerate for simplicity of notation).
+Instead of having unit norm, the density $\hat{\rho}_\beta$ is defined to have unit
 *trace*:
 
 $$
-1 = \mbox{Tr}[\rho_\beta] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
-E}\mbox{Tr}[|E\rangle\langle E|] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
-E} \quad \Longrightarrow \quad Z[\beta] = \sum_E e^{-\beta E}.
+1 = \mbox{Tr}[\hat{\rho}_\beta] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E}\mbox{Tr}|E\rangle\langle E|]= \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E}.
 $$
 
-The normalisation is precisely the partition function $Z[\beta]$, as
-before.
+The normalisation $Z[\beta] = \sum_E E^{-\beta E}$ is just the
+classical sum over Boltzmann factors as before.
 
-There is a nicer way to write the density $\rho_\beta$.
+There is a nicer way to write the density $\hat{\rho}_\beta$.
 What is an energy eigenstate?
 Well, it's just an eigenvector of the system's *Hamiltonian*
 $\hat{H}$, with $\hat{H}|E\rangle = E|E\rangle$.
@@ -105,7 +104,7 @@ $$
 It follows that
 
 $$
-\rho_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
+\hat{\rho}_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
 $$
 
 So the density and partition function can be written simply in terms
@@ -113,7 +112,7 @@ of the Hamiltonian.
 
 ## Amplitudes and Wick rotation
 
-The connection to imaginary time comes through the Hamiltonian.
+The Hamiltonian provides the connection to imaginary time.
 First, recall that the *Schrödinger equation* tells us how to evolve a
 state $|\psi\rangle$ of the system using the Hamiltonian.
 This is simple to solve when the Hamiltonian itself is time-independent:
@@ -134,21 +133,78 @@ $$
 since the $U(t)$ updates the state, and the overlap with the bra
 $\langle\phi|$ tells us "how much" of $|\phi\rangle$ is in the evolved
 state $|\varphi(t)\rangle$.
-
-We can look at the density matrix $\rho_\beta$ in terms of transition
-amplitudes.
-Instead of discussing transitions between pure states, we can now
-consider the probability of 
+The *return amplitude* for a state $|\phi\rangle$ is just the
+amplitude for returning to the state a time $t$ later,
 
 $$
+\langle\phi|U(t)|\phi\rangle.
+$$
+
+We can give things a turn of the screw now.
+Instead of regular time, we can do something unexpected, and consider
+*imaginary time*, defined by $\tau = i\tau$.
+The corresponding "propagator" actually squishes things exponentially:
 
 $$
+U(-i\tau) = U_\text{im}(\tau) =  e^{-\hat{H}\tau}.
+$$
+
+For an energy eigenstate $|E\rangle$, the *imaginary return amplitude* is just a
+Boltzmann weight:
+
+$$
+\langle E| U_\text{im}(\tau) | E\rangle = e^{-E \tau}.
+$$
+
+We can reinterpret the density matrix $\hat{\rho}_\beta$ in terms of
+these imaginary return amplitudes.
+Instead of viewing it as a probability distribution over states, with
+higher energies suppressed, we can view $\hat{\rho}_\beta$ as
+projecting onto a system which always returns to itself after
+imaginary time $\beta$, i.e. is *periodic in imaginary time*.
+Concretely, whenever we evaluate some observable $\hat{A}$ in thermal
+state, the expectation is
+
+$$
+\langle\hat{A}\rangle_\beta = \frac{\sum_E \langle E|e^{-\beta\hat{H}}\hat{A}|E\rangle}{Z[\beta]}.
+$$
+
+The numerator is the sum over all ways the system can return to its
+initial state after imaginary time $\beta$, i.e. which has period
+$\beta$.
+The denominator is the amplitude for this imaginary periodicity
+property.
+The whole expectation, then, takes the form of a *conditional
+expectation* in a state with imaginary periodicity.
 
 ---
 
-**Exercise 1.** *Statistical mechanics.*
+**Exercise 1.** *Statistical and quantum mechanics.*
 
-1. Show that, when the 
+1. When there are many particles in the system, the sum in the
+   canonical ensemble tends to be dominated by a single energy $E^*$,
+   where the probability is concentrated.
+   Argue that the free energy
+
+   $$
+   F = -k_BT \ln Z[\beta] \approx E^* - T S(E^*),
+   $$
+
+   where $S(E) = k_B\ln n(E)$ is the *entropy*.
+   Thus, the Helmholtz free energy is more commonly defined as $F =
+   E - TS$.
+
+2. Show that
+
+   $$
+   \hat{\rho}_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
+   $$
+
+   You can use the result (true for spectral decompositions in general) that
+
+   $$
+   e^{\lambda \hat{H}} = \sum_E e^{\lambda E}|E\rangle\langle E|.
+   $$
 
 ---
 
@@ -366,7 +422,7 @@ $$
 
 ---
 
-**Exercise 2.** *Euclidean black holes.*
+**Exercise 3.** *Euclidean black holes.*
 1. Do the algebra to deduce the metric above.
 2. Adapt the argument for a metric
 
@@ -412,7 +468,7 @@ calculate temperatures for a much wider range of black holes.
 
 ---
 
-**Exercise 3.** *Hot black holes in higher dimensions.*
+**Exercise 4.** *Hot black holes in higher dimensions.*
 In $d$ dimensions, a Schwarzschild black hole is associated with a
 function
 
@@ -629,3 +685,16 @@ between propagators and partition functions is the main idea.
 So, although it sounds crazy, repeat after me: if a system is periodic
 in imaginary time $\beta$, we can regard it as thermal
 at temperature $T = 1/\beta$.
+
+Any time we want to evaluate some observable $\hat{A}$, for instance
+some classical measuring device, the probability distribution over
+states leads to
+
+$$
+\langle\hat{A}\rangle = \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E}\langle\hat{A}\rangle_E = \frac{1}{Z[\beta]}\sum_E
+\mbox{Tr}[e^{-\beta \hat{H}}|E\rangle\langle E| \hat{A}] =
+\mbox{Tr}[\hat{\rho}_\beta\hat{A}].
+$$
+
+This has a simple interpretation. It 
