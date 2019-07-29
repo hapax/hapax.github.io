@@ -151,7 +151,9 @@ $$
 We can give things a turn of the screw now.
 Instead of regular time, we can do something unexpected, and consider
 *imaginary time*, defined by $\tau = i\tau$.
-The corresponding "propagator" actually squishes things exponentially:
+This is called *Wick rotation*, since we can imagine multiplying by
+$i$ as rotating by $\pi/2$ on a sort of complex plane for time.
+The corresponding propagator actually suppresses things exponentially:
 
 $$
 U(-i\tau) = U_\text{im}(\tau) =  e^{-\hat{H}\tau}.
