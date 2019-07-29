@@ -309,6 +309,10 @@ For instance, the moving arrow is *heavier* than the stationary arrow,
 and contracted in the direction of motion, according to the laws of
 special relativity.
 
+Similarly, a brain state $B_n$ has various properties, such as
+short-term memory traces, which can be viewed as some function of the
+preceding brain states $M_n = f(\{B_m: m<n\})$.
+
 ## Conclusion
 
 ## References
