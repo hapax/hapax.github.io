@@ -196,6 +196,12 @@ $$
 
 This has a simple interpretation. It 
 
+Roughly, *space itself* is the quantum system due to the existence of
+quantum fields, such as the photon, which can be excited at any location.
+This means that an accelerating observer will see a thermal bath of
+photons at the Unruh temperature.
+We can derive this result rigorously (see the references), but
+imaginary time gives us a nice shortcut!
 
 ## Conical deficits and cigars*
 

@@ -30,7 +30,7 @@ The easiest to work with is the *canonical ensemble*, where the
 temperature $T$ is fixed.
 The probability of seeing a state with energy $E$ dies off
 exponentially, and is controlled by the ratio of $E$ to the characteristic
-thermal energy, $k_B T$, where $k_B$ is Boltzmann's constant:
+thermal energy, $k_B T$, where $k_\text{B}$ is Boltzmann's constant:
 
 $$
 p_\beta(E) \propto e^{-\beta E}.
@@ -57,7 +57,7 @@ E}{\sum_E \rho(E) e^{-\beta}} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
 -\partial_\beta \ln Z[\beta].
 $$
 
-Another example is the *Helmholtz free energy* $F = -k_B T \ln
+Another example is the *Helmholtz free energy* $F = -k_\text{B} T \ln
 Z[\beta]$, which is minimised in equilibrium.
 Free energy tells us at which point the density of states balances
 exponential suppression of high energy states.
@@ -175,6 +175,11 @@ The denominator is the amplitude for this imaginary periodicity
 property.
 The whole expectation, then, takes the form of a *conditional
 expectation* in a state with imaginary periodicity.
+You can see this by analogy with the conditional probability,
+
+$$
+\mathbb{P}(A|B) = \frac{\mathbb{P}(A\cap B)}{\mathbb{P}(B)}.
+$$
 
 ---
 
@@ -186,11 +191,11 @@ expectation* in a state with imaginary periodicity.
    Argue that the free energy
 
    $$
-   F = -k_BT \ln Z[\beta] \approx E^* - T S(E^*),
+   F = -k_\text{B}T \ln Z[\beta] \approx E^* - T S(E^*),
    $$
 
-   where $S(E) = k_B\ln n(E)$ is the *entropy*.
-   Thus, the Helmholtz free energy is more commonly defined as $F =
+   where $S(E) = k_\text{B}\ln n(E)$ is the *entropy*.
+   This explains the more common definition of Helmholtz free energy as $F =
    E - TS$.
 
 2. Show that
@@ -204,6 +209,8 @@ expectation* in a state with imaginary periodicity.
    $$
    e^{\lambda \hat{H}} = \sum_E e^{\lambda E}|E\rangle\langle E|.
    $$
+
+3. 
 
 ---
 
@@ -303,13 +310,14 @@ $$
 T_\text{U} = \frac{\hbar \alpha}{2\pi k_\text{B} c}.
 $$
 
-You may be wondering where quantum mechanics enters the picture here.
-Roughly, *space itself* is the quantum system due to the existence of
-quantum fields, such as the photon, which can be excited at any location.
-This means that an accelerating observer will see a thermal bath of
-photons at the Unruh temperature.
-We can derive this result rigorously (see the references), but
-imaginary time gives us a nice shortcut!
+In our earlier quantum mechanics discussion, a thermal density arose
+from having a *geometry* with imaginary periodicity.
+For the same reason, when we go to define quantum fields on the
+imaginary Rindler spacetime, they will be in a thermal state.
+To show this is true requires a discussion of what is called the *path
+integral* approach to quantum field theory and quantum mechanics,
+which is beyond our scope here. But the arguments work in a very similar
+(if slightly more technical) fashion, and the conclusions are the same.
 
 ## Hawking radiation from Newtonian gravity
 
@@ -483,7 +491,5 @@ T_\text{H} = \frac{d-3}{4\pi}(2\mu)^{-1/(d-3)}.
 $$
 
 ---
-
-## Conclusion
 
 ## References
