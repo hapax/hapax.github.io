@@ -205,11 +205,12 @@ Perhaps they slices $\Sigma_4$ and $\Sigma_5$ actually coexist for
 at some time $t^{(1)}$, or different slices of the demiurge
 themself coexist at some time due to a lapse of attention in one of
 the higher demiurges!
-Even worse, demiurges could get the order *wrong*, making
-$\Sigma_{9}$ before $\Sigma_3$.
-Can observers living in the slices $\Sigma$ detect these errors?
-Do we somehow feel "present" in both $\Sigma_4$ and $\Sigma_5$ in the
-first error, or 
+Even worse, demiurges could get the order *wrong*, making $\Sigma_9$ before $\Sigma_3$.
+Can observers living in the slice $\Sigma$ tell how long in demiurge
+time it is running for?
+Or somehow feel "present" in both $\Sigma_4$ and $\Sigma_5$ when they
+are run at the same time?
+Or "sense" the reversal of causal order when $\Sigma_3$ comes before $\Sigma_9$?
 
 ## Personhood and causation
 
