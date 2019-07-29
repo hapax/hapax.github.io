@@ -26,6 +26,14 @@ There are different sensible choices, depending on experimental
 conditions, but they all yield the same answers when you have lots of
 particles.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/imaginary-time-1.png"
+    width="55%" />
+		    <figcaption><i>A system which is hot in real time is
+    periodic in imaginary time.</i></figcaption>
+	</div>
+	</figure>
+
 The easiest to work with is the *canonical ensemble*, where the
 temperature $T$ is fixed.
 The probability of seeing a state with energy $E$ dies off
@@ -158,10 +166,10 @@ $$
 
 We can reinterpret the density matrix in terms of
 these imaginary return amplitudes.
-Instead of viewing it as a probability distribution over states, with
-higher energies suppressed, we can view $\hat{\rho}_\beta$ as
+Instead of viewing it as a probability distribution over energy eigenstates, we can view $\hat{\rho}_\beta$ as
 projecting onto a system which always returns to itself after
 imaginary time $\beta$, i.e. is *periodic in imaginary time*.
+
 Concretely, whenever we evaluate some observable $\hat{A}$ in thermal
 state, the expectation is
 
@@ -210,7 +218,8 @@ $$
    e^{\lambda \hat{H}} = \sum_E e^{\lambda E}|E\rangle\langle E|.
    $$
 
-3. 
+3. Derive the simple expression for the thermal expectation,
+   $\langle\hat{A}\rangle_\beta = \mbox{Tr}[\hat{\rho}_\beta\hat{A}]$.
 
 ---
 
@@ -244,6 +253,13 @@ $$
 Note that $s^2 = \alpha^{-2}$ on a hyperbola, and $t = x \tanh\xi$ for
 fixed $\xi \in \mathbb{R}$.
 Thus, we can draw our coordinates as follows:
+
+<figure>
+    <div style="text-align:center"><img src ="/images/imaginary-time-2.png"
+    width="55%" />
+		    <figcaption><i>The parameter $\alpha$ labels boost-invariant hyperbolas (red), while Rindler time $\xi$ moves along them.</i></figcaption>
+	</div>
+	</figure>
 
 ---
 
