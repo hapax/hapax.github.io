@@ -216,7 +216,13 @@ Observers living in $\Sigma$ have no access to any of this data, since
 this would give them super-causal powers.
 In fact, I think this means we cannot tell what *any* demiurge is
 doing, including $D_1$.
-The ability to tell which slice is present is too powerful for a creature
+The ability to tell which slice is present is unreasonably powerful
+for a creature causally bound to the slices.
+In other words, even if presentism is a correct picture of the
+ontology of time, there is every reason to think that we would be
+*unable to distinguish* this state of affairs from the more
+conventional, four-dimensional picture where all the slices $\Sigma_n$
+exist at the same time.
 
 ## Personhood and causation
 
