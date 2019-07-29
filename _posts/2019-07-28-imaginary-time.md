@@ -400,7 +400,7 @@ black hole at $r = 0$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-3.png"
-    width="40%" />
+    width="35%" />
 		    <figcaption><i>The black hole resembles Rindler space near
     the horizon. A nearby observer must accelerate to avoid falling in!</i></figcaption>
 	</div>
