@@ -28,7 +28,7 @@ particles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-1.png"
-    width="70%" />
+    width="75%" />
 		    <figcaption><i>A system which is hot in real time is
     periodic in imaginary time.</i></figcaption>
 	</div>
