@@ -224,6 +224,9 @@ ontology of time, there is every reason to think that we would be
 *unable to distinguish* this state of affairs from the more
 conventional, four-dimensional picture where all the slices $\Sigma_n$
 exist at the same time.
+(These faulty demiurges are partially inspired by Greg Egan's
+["dust theory"](https://www.gregegan.net/PERMUTATION/FAQ/FAQ.html),
+featuring in his novel *Permutation City*.)
 
 ## Personhood and causation
 
@@ -293,10 +296,18 @@ We can state the paradox as follows:
 
 Combining these three, we seem forced to conclude that the arrow can
 never move.
+Similarly, one might imagine that a brain state $B_n$, always
+producing the qualia $S_n$, can never give rise to the "flow" of
+conscious experience.
 
 ## Conclusion
 
 ## References
+
+- [*Permutation City*](https://www.gregegan.net/PERMUTATION/Permutation.html)
+  (2007), Greg Egan.
+- ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
+  (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
 
 ## Extra
 
