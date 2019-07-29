@@ -300,6 +300,15 @@ Similarly, one might imagine that a brain state $B_n$, always
 producing the qualia $S_n$, can never give rise to the "flow" of
 conscious experience.
 
+The answer to the paradox is simple.
+There is a difference between a stationary arrow and a moving arrow
+examined at an instant of time.
+The moving arrow has properties the stationary arrow lacks, which not
+explain the difference in motion but even have measurable effects.
+For instance, the moving arrow is *heavier* than the stationary arrow,
+and contracted in the direction of motion, according to the laws of
+special relativity.
+
 ## Conclusion
 
 ## References
@@ -308,52 +317,3 @@ conscious experience.
   (2007), Greg Egan.
 - ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
   (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
-
-## Extra
-
-Which moment we are "in" seems to changed at some fixed rate, a kind
-of "shifting window" which is not, prima facie, dictated by physics.
-In the face of these sensations, it is tempting to argue that our *qualia* are
-bound to the present moment in special ways, and they show,
-incorrigibly, that there is something special about *now*.
-
-I think there are some serious explanatory problems here, real
-quandaries about the psychology of time that the folk wisdom highlights.
-I will argue that the resolution lies in carefully considering what a
-person is, what time is, and what causation is.
-In many ways, this is analogous to solving Zeno's *arrow
-paradox*, where we must explain what properties of the time slice of a
-moving arrow explain its motion.
-The solution will perhaps be surprising, but its ingredients are not.
-
-First of all, how does the slice "change"?
-We might imagine there is some sort of "universal proper time"
-$\lambda$ (more generally, a globally hyperbolic time coordinate)
-which labels the present slice, $\Sigma(\lambda)$.
-How quickly does $\lambda$ change?
-I guess at a rate of 1 unit of $\lambda$ per 1 unit of $\lambda$.
-For instance, we seem to go into the future at a rate of 1 second per
-second, correct?
-Something about this answer seems wrong, because *of course* time,
-measured by $\lambda$, "changes" at that rate.
-The "change" has nothing to do with the present or what exists though,
-it is just a tautology about coordinates.
-
-Perhaps there is some "universal proper time" $\lambda$, labelling the
-current slice $\Sigma(\lambda)$.
-How quickly does it change?
-I suppose 1 unit of $\lambda$ per unit of $\lambda$, just as we seem
-to go forward in time 1 second per second.
-But clearly, this answer is just a tautology about our coordinates!
-If presentism is correct, we can only say that the *things change* but
-there is no non-tautological way of saying how quickly.
-
-Of course, we could define some secondary time which measures "how
-long" the slices exist, but it is clearly unobservable, leads to a
-infinite regress (since we now need to consider the "present" in our
-creation and destruction process), and is in any event unnecessary for
-presentism.
-All that matters is that existence uniquely specifies a slice.
-
-
-Perhaps the process is something like a computer program.
