@@ -42,22 +42,24 @@ should be.
 But there is more to the peculiar psychology of the present.
 While the direction of our movement through time is easily explained,
 the sensation of *being in a particular moment* takes more work.
-Our qualia seem to be attached to *now*; there is a folk
-Cartesian argument which takes this as incorrigible proof that the present is special and
-perhaps the only "time" which really exists.
+Our qualia seem to be attached to *now*; folk
+Cartesianism which takes this as incorrigible proof that the present is special and
+perhaps the only "time" which really exists:
+"I can only tell that *right now* exists, and since I cannot
+experience any other times, they must not exist".
 This view is called *presentism*.
 
-I will argue below that, despite its folk appeal, presentism is not a
-viable metaphysics of time.
-Nevertheless, there is an explanatory gap between common psychological
-experience and four-dimensionalism.
-I will argue that the gap can be filled by thinking carefully about
-how sensation arises from brain states.
+As I will argue below, despite its folk appeal, I don't think presentism is a viable
+metaphysics of time.
+Nevertheless, I think there is an
+explanatory gap between common psychological experience and the
+physics of time.
+I will argue that the gap can be filled by carefully considering what
+a person is, and how this is linked to time and causation.
 Ultimately, we will need to resolve a variant of Zeno's *arrow
-paradox*.
-Zeno asked: how can we explain the motion of an arrow from its
-"stationary" time slice?
-Similarly, we must ask what properties of a brain state explain the sensation of moving through time.
+paradox*: what property of an arrow's time slice explains its motion?
+Similarly, what properties of a person's time slice explains their
+sensation of being trapped in a moving window of experience?
 
 ## No time like the present
 
