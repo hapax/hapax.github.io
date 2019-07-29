@@ -149,7 +149,7 @@ I don't think the presentist can help, since the natural operational
 definitions (e.g. I can send a message to the slice) are *causal*, and
 therefore take me out of the set of timelike slices $\Sigma$.
 (Here, I am ignoring the issue of global hyperbolicity, but it is not
-really relevant since the same issues arises near a star.)
+really relevant since the same issues arise near a star.)
 
 One suspects that, in asking these questions about the person falling
 into a black hole, language has "gone on holiday" (Wittgenstein).
@@ -188,7 +188,7 @@ We have the following infinite regress problem.
 Suppose a demiurge $D_1$ is running this "program" of creating and
 destroying the slices $\Sigma_n$.
 To even ask which slice is currently loaded, the demiurge also needs to
-have a time (once again discrete for simplicity) $t^{(1)}_n$.
+have a time $t^{(1)}_n$ (once again discrete for simplicity).
 But of course, we then need *another* demiurge $D_2$ with time $t^{(2)}$ to
 program the slices for the demiurge $D_1$.
 And so on.
