@@ -152,7 +152,7 @@ therefore take me out of the set of timelike slices $\Sigma$.
 really relevant since the same issues arises near a star.)
 
 One suspects that, in asking these questions about the person falling
-into a black hole, language has gone on holiday (Wittgenstein).
+into a black hole, language has "gone on holiday" (Wittgenstein).
 But the presentist can simply assert that the slice exists, and leave
 the problem of selecting the correct $\Sigma$ to the axiom of choice,
 or God, or some comparable higher power.
