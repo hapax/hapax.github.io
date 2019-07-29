@@ -18,11 +18,11 @@ near the horizon accelerate).*
 
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
-Thermodynamic systems, like a box of gas, consist of many components
-bouncing around and interacting randomly.
-Rather than predict what will happen exactly in such a system, it
-makes more sense to model it with a probability distribution, also
-called an *ensemble*.
+Thermodynamic systems, like light bulbs and puddles, consist of many
+components bouncing around and interacting randomly.
+Rather than predict what will happen exactly, it
+makes more sense to consider a probability distribution over
+configurations of the system, also called an *ensemble*.
 There are different sensible choices, depending on experimental
 conditions, but they all yield the same answers when you have lots of
 particles.
@@ -34,17 +34,17 @@ exponentially, and is controlled by the ratio of $E$ to the characteristic
 thermal energy, $k_B T$, where $k_B$ is Boltzmann's constant:
 
 $$
-p(E) \propto e^{-E}.
+p_\beta(E) \propto e^{-\beta E}.
 $$
 
 We can immediately write down the full probability distribution, using
 the fact that it must be unit normalised:
 
 $$
-p(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} \rho(E) e^{-\beta E}.
+p_\beta(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} n(E) e^{-\beta E}.
 $$
 
-Here, $\rho(E)$ is the *density of states*, telling us roughly how
+Here, $n(E)$ is the *density of states*, telling us roughly how
 many ways the system can be at energy $E$ (or more precisely, what
 volume of classical phase space they occupy).
 The normalisation factor $Z[\beta]$ is called the *partition
@@ -52,15 +52,105 @@ function*, which captures all the statistical properties of the system.
 A simple example is the average energy of the system:
 
 $$
-\langle E \rangle = \sum_E \rho(E) p(E) E = \frac{\sum_E \rho(E) e^{-\beta E}
+\langle E \rangle = \sum_E n(E) p_\beta(E) E = \frac{\sum_E n(E) e^{-\beta E}
 E}{\sum_E \rho(E) e^{-\beta}} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
 -\partial_\beta \ln Z[\beta].
 $$
 
 Another example is the *Helmholtz free energy* $F = -k_B T \ln
 Z[\beta]$, which is minimised in equilibrium.
+Put a different way, free energy tells us how to how density of states
+balances exponential suppression of high energy states.
 
-## Quantum mechanics at 
+## Quantum statistical mechanics
+
+The partition function also controls the statistics of *quantum*
+thermodynamic systems.
+Instead of a probability distribution $p_\beta$ over classical
+configurations, we have a probability distribution over *quantum
+states*, which is once again exponential:
+
+$$
+\rho_\beta = \frac{1}{Z[\beta]}\sum_E e^{-\beta E}|E\rangle\langle E|,
+$$
+
+where $Z[\beta]$ is once again a normalisation.
+Here, we are using Dirac's bra-ket notation, and $|E\rangle\langle
+E|$ projects onto the energy eigenstate $|E\rangle$, and for
+simplicity, we assume no degeneracy of energy eigenstates.
+Instead of having unit norm, the density $\rho_\beta$ is defined to have unit
+*trace*:
+
+$$
+1 = \mbox{Tr}[\rho_\beta] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E}\mbox{Tr}[|E\rangle\langle E|] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E} \quad \Longrightarrow \quad Z[\beta] = \sum_E e^{-\beta E}.
+$$
+
+The normalisation is precisely the partition function $Z[\beta]$, as
+before.
+
+There is a nicer way to write the density $\rho_\beta$.
+What is an energy eigenstate?
+Well, it's just an eigenvector of the system's *Hamiltonian*
+$\hat{H}$, with $\hat{H}|E\rangle = E|E\rangle$.
+But by a standard linear algebra trick, we can write any
+diagonalisable operator as a sum of projectors onto its eigenvectors,
+weighted by its eigenvalues:
+
+$$
+\hat{H} = \sum_E E |E\rangle \langle E.
+$$
+
+It follows that
+
+$$
+\rho_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
+$$
+
+So the density and partition function can be written simply in terms
+of the Hamiltonian.
+
+## Amplitudes and Wick rotation
+
+The connection to imaginary time comes through the Hamiltonian.
+First, recall that the *Schrödinger equation* tells us how to evolve a
+state $|\psi\rangle$ of the system using the Hamiltonian.
+This is simple to solve when the Hamiltonian itself is time-independent:
+
+$$
+i\hbar \partial_t |\psi(t)\rangle = \hat{H}|\psi(t)\rangle \quad
+\Longrightarrow \quad |\psi(t)\rangle  = e^{-i\hat{H}t}|\psi(0)\rangle.
+$$
+
+We call $e^{-i\hat{H}t} = U(t)$ the *propagator*.
+The amplitude for a system to go from state $|\phi\rangle$ to
+$|\varphi\rangle$ in time $t$ is just
+
+$$
+\langle\phi|U(t)|\varphi\rangle,
+$$
+
+since the $U(t)$ updates the state, and the overlap with the bra
+$\langle\phi|$ tells us "how much" of $|\phi\rangle$ is in the evolved
+state $|\varphi(t)\rangle$.
+
+We can look at the density matrix $\rho_\beta$ in terms of transition
+amplitudes.
+Instead of discussing transitions between pure states, we can now
+consider the probability of 
+
+$$
+
+$$
+
+---
+
+**Exercise 1.** *Statistical mechanics.*
+
+1. Show that, when the 
+
+---
 
 ## Rindler coordinates and the Unruh effect
 
@@ -95,7 +185,7 @@ Thus, we can draw our coordinates as follows:
 
 ---
 
-**Exercise 1.** *Rindler coordinates.*
+**Exercise 2.** *Rindler coordinates.*
 1. Verify the geometric description of $\alpha, \xi$ above.
 2. For an observer on a fixed hyperbola labelled by $\alpha$, verify
    that their proper time is $\alpha \xi$ and their proper
@@ -133,7 +223,7 @@ x = \rho \cosh(-i\theta) = \rho\cos\theta, \quad \tau = it = i\rho
 \sinh(-i\theta) = \rho \sin\theta.
 $$
 
-Of course, the periodi in imaginary time depends on whether we choose
+Of course, the period in imaginary time depends on whether we choose
 $\tau$, $\theta$, or the imaginary proper time $\alpha\theta$.
 It turns out that *temperature is in the eye of the beholder*, and we
 must choose the imaginary proper time to determine the energies they
