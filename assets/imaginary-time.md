@@ -18,21 +18,23 @@ near the horizon accelerate).*
 
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
-When we talk about hot system, we usually mean systems at fixed
-temperature $T$.
-These systems have many, many components bouncing around and
-interacting randomly.
+Thermodynamic systems, like a box of gas, consist of many components
+bouncing around and interacting randomly.
 Rather than predict what will happen exactly in such a system, it
 makes more sense to model it with a probability distribution, also
 called an *ensemble*.
+There are different sensible choices, depending on experimental
+conditions, but they all yield the same answers when you have lots of
+particles.
 
-In the *canonical ensemble*, corresponding to fixed temperature $T$,
-the probability of seeing a state with energy $E$ dies off
-exponentially, controlled by the ratio of $E$ to the characteristic
-thermal energy, $k_BT T = 1/\beta$:
+The easiest to work with is the *canonical ensemble*, where the
+temperature $T$ is fixed.
+The probability of seeing a state with energy $E$ dies off
+exponentially, and is controlled by the ratio of $E$ to the characteristic
+thermal energy, $k_B T$, where $k_B$ is Boltzmann's constant:
 
 $$
-p(E) \propto e^{-\beta E}.
+p(E) \propto e^{-E}.
 $$
 
 We can immediately write down the full probability distribution, using
@@ -42,23 +44,23 @@ $$
 p(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} \rho(E) e^{-\beta E}.
 $$
 
-Here, $\rho(E)$ tells us how many states of energy $E$ there are (more
-precisely, what volume of classical phase space they occupy) and
-$Z[\beta]$ is called the *partition function*.
-
-In fact, all the thermal properties of the state are summarised by the
-partition function.
+Here, $\rho(E)$ is the *density of states*, telling us roughly how
+many ways the system can be at energy $E$ (or more precisely, what
+volume of classical phase space they occupy).
+The normalisation factor $Z[\beta]$ is called the *partition
+function*, which captures all the statistical properties of the system.
 A simple example is the average energy of the system:
 
 $$
-\langle E \rangle = \sum_E \rho(E) p(E) E = \frac{\sum_E \rho(E) p(E)
-E}{\sum_E \rho(E) p(E)} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
+\langle E \rangle = \sum_E \rho(E) p(E) E = \frac{\sum_E \rho(E) e^{-\beta E}
+E}{\sum_E \rho(E) e^{-\beta}} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
 -\partial_\beta \ln Z[\beta].
 $$
 
-In general,
+Another example is the *Helmholtz free energy* $F = -k_B T \ln
+Z[\beta]$, which is minimised in equilibrium.
 
-## Density matrix and partition functions
+## Quantum mechanics at 
 
 ## Rindler coordinates and the Unruh effect
 
