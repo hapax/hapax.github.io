@@ -58,6 +58,8 @@ sensation of being trapped in a moving window of experience?
 
 ## Time and the present
 
+### Simultaneity and causal order
+
 First, let's discuss some important properties of time, and see why
 (in my view) they more or less rule out presentism.
 Einstein taught us that *simultaneity is relative*.
@@ -110,6 +112,8 @@ relation is
 But two points are not comparable, or causally ordered, just in case
 they are spacelike separated.
 
+### Presentism defined
+
 What has this got to do with the present?
 If I understand the notion properly, presentism is the view that only
 some time slice of the universe really exists.
@@ -119,26 +123,39 @@ I used to think that the relativity of simulaneity was knock-down
 argument against presentism.
 Since being simultaneous is not an equivalence relation, and the
 notion of being co-present (existing together) is, surely presentism is wrong?
-No: all this argument shows is that being co-present is not the same
+No: all this shows is that being co-present is not the same
 as being simultanous according to each other's clocks.
 If we define the "present" as a slice $\Sigma$, which will have a
 transitive notion of co-presence after all.
 
-But is this sensible?
 One issue with $\Sigma$ is that it is not unique.
 That is, any event $P$ is contained in an infinite number of spacelike
 slices $\Sigma$.
 Which is the "real" one?
-At large scales, our universe has a preferred cosmological slicing,
-and perhaps (the presentist could argue) this is the natural one.
-This solution is ad-hoc, and doesn't explain how to "pick out" the
-right slice locally, for instance in the presence of a black hole.
-If a friend fell into the event horizon, and I wondered "where are
-they? which slice is real?", I don't think a presentist could provide
-an answer.
-One suspects that, in asking these questions, language has gone on holiday (Wittgenstein).
+At large scales, our universe has a preferred cosmological time $t$,
+and perhaps (the presentist could argue) this naturally singles out a
+slice $\Sigma(t)$.
+This solution is somewhat ad-hoc, but more importantly, doesn't
+explain how to "pick out" the right slice locally, for instance in the
+presence of a black hole.
+A friend falls into the event horizon, and I wonder "Which slice is
+real?"
+I don't think the presentist can help, since the natural operational
+definitions (e.g. I can send a message to the slice) are *causal*, and
+therefore take me out of the set of timelike slices $\Sigma$.
+(Here, I am ignoring the issue of global hyperbolicity, but it is not
+really relevant since the same issues arises near a star.)
 
-Somehow, this slice *changes*.
+One suspects that, in asking these questions about the infaller,
+language has gone on holiday (Wittgenstein).
+But the presentist can simply assert that the slice exists, and leave
+the problem of selecting the correct $\Sigma$ to the axiom of choice,
+or God, or some comparable higher power.
+What can we say then?
+
+### The reality of change
+
+I think 
 But what does it change with?
 Perhaps there is some "universal proper time" $\lambda$, labelling the
 current slice $\Sigma(\lambda)$.
