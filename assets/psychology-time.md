@@ -22,8 +22,11 @@ In physical terms, the "present" is just a projection function on
 spacetime coordinates,
 
 $$
-(t, x, y, z) \mapsto t.
+(t, x, y, z) \mapsto t,
 $$
+
+or perhaps, a little more fancily, from the worldline of an observer
+to time in some coordinates, $x^\mu(\lambda) \mapsto x^0(\lambda)$.
 
 On the other hand, time *feels* different from space.
 Unlike space, where I can travel at will between the park and the
@@ -44,14 +47,14 @@ In the face of these sensations, it is tempting to argue that our *qualia* are
 bound to the present moment in special ways, and they show,
 incorrigibly, that there is something special about *now*.
 
-I think there are some serious explanatory problems here, real
-quandaries about the psychology of time that folk wisdom highlights,
-and that philosophers have not done a good job of explaining (to my knowledge).
+I think there are some serious explanatory problems here, some real
+quandaries about the psychology of time that the folk wisdom highlights.
 I will argue that the resolution lies in carefully considering what a
 person is, what time is, and what causation is.
 In many ways, this is analogous to solving Zeno's *arrow
 paradox*, where we must explain what properties of the time slice of a
 moving arrow explain its motion.
+The solution will perhaps be surprising, but its ingredients are not.
 
 ## What is time?
 
