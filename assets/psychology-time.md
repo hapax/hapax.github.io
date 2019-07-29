@@ -96,9 +96,27 @@ relation is
 - *transitive*, $P \prec Q$ and $Q \prec R$ implies $P \prec R$.
 But two points are not comparable, or causally ordered, just in case
 they are spacelike separated.
-These notions undergo some interesting wrinkles in the curved
-manifolds of general relativity, but nothing that will be relevant for
-our purposes.
+
+What has this got to do with the present?
+If I understand the notion properly, presentism is the view that only
+some time slice of the universe really exists.
+By "time slice", I mean some collection of events $\Sigma$ which are
+mutually spacelike separated.
+I think that this notion is incoherent, for two reasons.
+
+First of all, how does the slice "change"?
+We might imagine there is some sort of "universal proper time"
+$\lambda$ (more generally, a globally hyperbolic time coordinate)
+which labels the present slice, $\Sigma(\lambda)$.
+How quickly does $\lambda$ change?
+I guess at a rate of 1 unit of $\lambda$ per 1 unit of $\lambda$.
+For instance, we seem to go into the future at a rate of 1 second per
+second, correct?
+Something about this answer seems wrong, because *of course* time,
+measured by $\lambda$, "changes" at that rate.
+The "change" has nothing to do with the present or what exists though,
+it is just a tautology about coordinates.
+
 
 ## References
 
