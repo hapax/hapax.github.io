@@ -304,7 +304,7 @@ Similarly, one might imagine that a brain state $B_n$, always
 producing the qualia $S_n$, can never give rise to the "flow" of
 conscious experience.
 (A similar argument was put forward independently by Le Poidevin,
-building on Broad.)
+building on Broad's [*Scientific Thought*](http://www.stafforini.com/broad/Broad%20-%20Scientific%20thought.pdf).)
 
 The answer to the paradox is simple.
 There is a difference between a stationary arrow and a moving arrow
@@ -341,7 +341,6 @@ relative to these physiologically defined units of measurement.
 
 ## References
 
-- [*Scientific Thought*](http://www.stafforini.com/broad/Broad%20-%20Scientific%20thought.pdf) (1923), C. D. Broad.
 - [*Permutation City*](https://www.gregegan.net/PERMUTATION/Permutation.html)
   (2007), Greg Egan.
 - ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
