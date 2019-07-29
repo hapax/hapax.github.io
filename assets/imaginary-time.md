@@ -522,3 +522,8 @@ $$
 
 ## References
 
+-
+  ["Path-integral derivation of black-hole radiance"](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.13.2188)
+  (1976), James Hartle and Stephen Hawking.
+- [*Lectures on quantum gravity and black holes*](http://www.hartmanhep.net/topics2015/gravity-lectures.pdf)
+  (2015), Thomas Hartman.
