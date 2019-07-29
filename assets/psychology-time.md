@@ -224,9 +224,13 @@ ontology of time, there is every reason to think that we would be
 *unable to distinguish* this state of affairs from the more
 conventional, four-dimensional picture where all the slices $\Sigma_n$
 exist at the same time.
+
 (These faulty demiurges are partially inspired by Greg Egan's
 ["dust theory"](https://www.gregegan.net/PERMUTATION/FAQ/FAQ.html),
-featuring in his novel *Permutation City*.)
+featuring in his novel *Permutation City*.
+The flavour of these objects is similar to Augustine's argument
+against duration in his *Confessions*.
+)
 
 ## Personhood and causation
 
@@ -299,6 +303,8 @@ never move.
 Similarly, one might imagine that a brain state $B_n$, always
 producing the qualia $S_n$, can never give rise to the "flow" of
 conscious experience.
+(A similar argument was put forward independently by Le Poidevin,
+building on Broad.)
 
 The answer to the paradox is simple.
 There is a difference between a stationary arrow and a moving arrow
@@ -307,37 +313,46 @@ The moving arrow has properties the stationary arrow lacks, which not
 only explain the difference in subsequent motion but have measurable
 effects on the slice itself.
 
-Similarly, the intrinsic properties of a brain state $B_n$ lead to the
-sensation of duration and succession.
-First, let's consider succession, which is simpler.
+Similarly, intrinsic properties of the brain state $B_n$ must generate the
+feelings of duration and succession.
+Let's first consider the simpler of the two, succession.
 At a physical level, "succession" reflects the fact that earlier
 brain states $B_{m<n}$ are part of the causal input to the brain state $B_n$.
 The previous states $B_{m<n}$ are in fact stored and represented in
 $B_n$ via *memory*, but at an abstract level, succession is just the
 statement that causal relations are mirrored in cognitive ones.
 
-Duration is somewhat trickier.
-The subjective "length" of an experience is like the
-velocity of the arrow; it represents an increment per unit time,
-though what 
+Duration is somewhat trickier, but all I want to argue is that it is
+plausibly explained by intrinsic properties of a brain state.
+The brain has various ways it can measure sensory inputs.
+It has natural physiological means (such as circulation) for measuring
+time, and intensity thresholds, channel capacities, and so forth, for
+measuring strength.
+How long a moment seems like to last is likely to be connected to the
+rate at which these data are acquired and stored in various systems
+for short-term memory.
 
 ## Conclusion
 
 ## References
 
+- [*Scientific Thought*](http://www.stafforini.com/broad/Broad%20-%20Scientific%20thought.pdf) (1923), C. D. Broad.
 - [*Permutation City*](https://www.gregegan.net/PERMUTATION/Permutation.html)
   (2007), Greg Egan.
 - ["Zeno’s Paradoxes"](https://plato.stanford.edu/entries/paradox-zeno/#Arr)
   (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
+- ["The Experience and Perception of Time"](https://plato.stanford.edu/entries/time-experience/) (2019), Robin Le Poidevin. *Stanford Encyclopedia of Philosophy*.
 
-
-various properties, such as
-short-term memory traces, which can be viewed as some function of the
-preceding brain states $M_n = f(\{B_m: m<n\})$.
-Modulo the neurological details, this explains the feeling of
-succession; it is baked into the brain state by short-term memory.
-The subjective "duration" of $S_n$ is a 
-
-For instance, the moving arrow is *heavier* than the stationary arrow,
-and contracted in the direction of motion, according to the laws of
-special relativity.
+Duration is somewhat trickier.
+The subjective "length" of an experience is, I think, probably very
+similar to the velocity of an arrow.
+Velocity is the rate at which distance increases, or equivalently, the
+increment in distance for some fixed length of time.
+The subject duration of an experience is probably connected to the
+strength, number, and kind of sensory or memory traces, the analogue
+of "distance".
+The same is probably true for judgments on temporal duration
+generally.
+But the precise mechanism is unimportant; my only purpose here is to
+show that it is plausible that subjective duration can be explained by
+intrinsic properties of a brain state.
