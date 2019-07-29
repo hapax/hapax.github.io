@@ -58,10 +58,11 @@ sensation of being trapped in a moving window of experience?
 
 ## Time and the present
 
-#### Simultaneity and causal order
-
 First, let's discuss some important properties of time, and see why
 (in my view) they more or less rule out presentism.
+
+#### Simultaneity and causal order
+
 Einstein taught us that *simultaneity is relative*.
 Any time two observers move relative to each other, they will disagree
 about which events occur at the same time.
