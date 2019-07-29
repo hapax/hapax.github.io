@@ -203,6 +203,15 @@ photons at the Unruh temperature.
 We can derive this result rigorously (see the references), but
 imaginary time gives us a nice shortcut!
 
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/imaginary-time-3.png"
+    width="66%" />
+		    <figcaption><i>The black hole resembles Rindler space near
+    the horizon. A nearby observer must accelerate to avoid falling
+    in! The Euclidean black hole has near-horizon periodicity.</i></figcaption>
+	</div>
+	</figure>
+
 ## Conical deficits and cigars*
 
 In deriving both the Unruh and Hawking effect, I've made a subtle

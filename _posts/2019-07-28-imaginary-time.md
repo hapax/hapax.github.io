@@ -338,7 +338,9 @@ imaginary Rindler spacetime, they will be in a thermal state.
 To show this is true requires a discussion of what is called the *path
 integral* approach to quantum field theory and quantum mechanics,
 which is beyond our scope here. But the arguments work in a very similar
-(if slightly more technical) fashion, and the conclusions are the same.
+(if slightly more technical) fashion, and the conclusions are the
+same: the accelerating observer will see a thermal bath of particles,
+such as photons and any other fields that happen to be around.
 
 ## Hawking radiation from Newtonian gravity
 
@@ -369,7 +371,7 @@ $$
 
 An observer sitting at the horizon wants to fall into the black hole,
 and needs to accelerate *away* in order just to remain stationary.
-The acceleration needed is
+The acceleration needed is just given by the inverse square law:
 
 $$
 \alpha = \frac{GM}{r_\text{h}^2} = \frac{c^4}{4GM}.
@@ -385,28 +387,22 @@ $$
 
 This is precisely the temperature predicted by Hawking!
 Our imaginary time approach leads us (via some Newtonian
-sleight-of-hand) to the incredible conclusion that black holes radiate.
+sleight-of-hand) to the incredible conclusion that black holes are
+hot, spewing out a thermal spectrum of particles just like flat space
+does for an accelerating observer.
 
 ## Hawking radiation from Euclidean gravity*
 
 The preceding argument is cute, but gravity is not Newtonian!
 We can fix it up using some tools from general relativity, focusing on
 spherically symmetric black holes for simplicity.
-When we Wick rotate, the signature of the metric becomes Euclidean,
-and so this version of general relativity is called *Euclidean gravity*.
+When we Wick rotate, the signature of the metric becomes Euclidean
+$(-+++) \to (++++)$, so this version of general relativity is called
+*Euclidean gravity*.
+
 Imagine an observer far from the black hole, who has proper time $t$
 and sets up spherical coordinates with radial coordinate $r$ and the
 black hole at $r = 0$.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/posts/imaginary-time-3.png"
-    width="66%" />
-		    <figcaption><i>The black hole resembles Rindler space near
-    the horizon. A nearby observer must accelerate to avoid falling
-    in! The Euclidean black hole has near-horizon periodicity.</i></figcaption>
-	</div>
-	</figure>
-
 In these coordinates, small displacements have signed length given by
 the *Schwarzschild metric*:
 
