@@ -115,6 +115,29 @@ If I understand the notion properly, presentism is the view that only
 some time slice of the universe really exists.
 By "time slice", I mean some collection of events $\Sigma$ which are
 mutually spacelike separated.
+I used to think that the relativity of simulaneity was knock-down
+argument against presentism.
+Since being simultaneous is not an equivalence relation, and the
+notion of being co-present (existing together) is, surely presentism is wrong?
+No: all this argument shows is that being co-present is not the same
+as being simultanous according to each other's clocks.
+If we define the "present" as a slice $\Sigma$, which will have a
+transitive notion of co-presence after all.
+
+But is this sensible?
+One issue with $\Sigma$ is that it is not unique.
+That is, any event $P$ is contained in an infinite number of spacelike
+slices $\Sigma$.
+Which is the "real" one?
+At large scales, our universe has a preferred cosmological slicing,
+and perhaps (the presentist could argue) this is the natural one.
+This solution is ad-hoc, and doesn't explain how to "pick out" the
+right slice locally, for instance in the presence of a black hole.
+If a friend fell into the event horizon, and I wondered "where are
+they? which slice is real?", I don't think a presentist could provide
+an answer.
+One suspects that, in asking these questions, language has gone on holiday (Wittgenstein).
+
 Somehow, this slice *changes*.
 But what does it change with?
 Perhaps there is some "universal proper time" $\lambda$, labelling the
@@ -124,7 +147,7 @@ I suppose 1 unit of $\lambda$ per unit of $\lambda$, just as we seem
 to go forward in time 1 second per second.
 But clearly, this answer is just a tautology about our coordinates!
 If presentism is correct, we can only say that the *things change* but
-there is no way of measuring how quickly.
+there is no non-tautological way of saying how quickly.
 
 ## References
 
