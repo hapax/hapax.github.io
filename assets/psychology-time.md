@@ -349,10 +349,14 @@ If we are physicalists about sensation, then those brain states are
 The brain states always feel.
 
 But "always feeling" does not mean "feeling always".
-We should not confused the properties of the time slices with
+We should not confuse the properties of the time slices with
 properties of brain states, or even worse, the sensations they give
 rise to.
 This is the fundamental (but understandable) error of the presentist.
+Still, some work is required to see where the duration and succession
+of our experience of time comes from.
+I have sketched some arguments, and hope to fill out the details in
+the future.
 
 ## References
 
