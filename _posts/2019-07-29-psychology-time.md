@@ -10,8 +10,8 @@ date:  2019-07-29
 **July 29, 2019.** *Modern physics suggests a view of time called
   four-dimensionalism: just as all places exist simultaneously, all
   times should exist simultaneously. I examine some consequences for
-  the psychology of time, and contrast with the (more intuitive)
-  philosophy of time called presentism.*
+  the psychology of time, and contrast with the (more intuitive but
+  ultimately incoherent) philosophy of time called presentism.*
 
 ## Introduction
 
