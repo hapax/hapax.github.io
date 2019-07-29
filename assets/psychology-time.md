@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Presentism and the psychology of time"
+title:  "Four-dimensionalism and the psychology of time"
 categories: Philosophy
 date:  2019-07-29
 ---
