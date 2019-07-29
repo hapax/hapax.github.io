@@ -358,6 +358,11 @@ of our experience of time comes from.
 I have sketched some arguments, and hope to fill out the details in
 the future.
 
+Four-dimensionalism therefore suggests an extreme version of
+Nietzsche's doctrine of eternal recurrence: we are, and will always,
+be living all of our live, in temporal succession, simply by virtue of
+the properties of each brain state.
+
 ## References
 
 - [*Permutation City*](https://www.gregegan.net/PERMUTATION/Permutation.html)
