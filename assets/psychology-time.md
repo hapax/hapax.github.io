@@ -229,9 +229,8 @@ exist at the same time.
 (These faulty demiurges are partially inspired by Greg Egan's
 ["dust theory"](https://www.gregegan.net/PERMUTATION/FAQ/FAQ.html),
 featuring in his novel *Permutation City*.
-The flavour of these objects is similar to Augustine's argument
-against duration in his *Confessions*.
-)
+The use of demiurges has a similar flavour to Augustine's argument
+against duration in the *Confessions*.)
 
 ## Mental states and processes
 
@@ -341,7 +340,13 @@ with how efficiently they can stored in sensory and short-term memory.
 
 ## Conclusion
 
-Have 
+To reconcile our experience of time with four-dimensionalism, we seem
+to be driven to some strange conclusions.
+Every brain state $B_n$ in the history of a thinking being always
+exists, by four-dimensionalism.
+If we are physicalists about sensation, then those brain states are
+*always* accompanied by sensations.
+The brain states always feel.
 
 ## References
 
