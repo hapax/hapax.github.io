@@ -198,6 +198,8 @@ Perhaps, like the choice of spacelike slices, the
 presentist can appeal to God, in this case as a sort of limit or union of demiurges, $D =
 \lim_{n\to\infty} \cup_n D_n$.
 
+I don't think this helps, but let us suppose for the sake of argument
+that it is possible to fix the regress.
 But what if our demiurges make errors, as demiurges are wont to do?
 Perhaps they slices $\Sigma_4$ and $\Sigma_5$ actually coexist for
 at some time $t^{(1)}$, or different slices of the demiurge
@@ -226,7 +228,9 @@ exist at the same time.
 
 ## Personhood and causation
 
-
+Perhaps, like I have argued, presentism is not a sensible picture of
+time.
+But the claims of our qualia are not to be lightly dismissed.
 
 ## References
 
