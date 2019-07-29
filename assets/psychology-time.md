@@ -192,10 +192,18 @@ But then we need *another* demiurge $D_2$, with time $t^{(2)}_n$, to
 program the slices for the demiurge $D_1$.
 And so on.
 I think this a bad regress since no demiurge explains what "present"
-actually means. Perhaps, like the choice of spacelike slices, the
+actually means.
+Perhaps, like the choice of spacelike slices, the
 presentist can appeal to God as a sort of limit of demiurges.
+I'm not sure.
 
-
+But what if our demiurges make errors, as demiurges are wont to do?
+Perhaps they slices $\Sigma_4$ and $\Sigma_5$ actually coexist for
+at some time $t^{(1)}_{n}$, or different slices of the demiurge
+themself coexist at some time due to a lapse of attention in one of
+the higher demiurges!
+Even worse, demiurges could get the order *wrong*, making
+$\Sigma_{12}$ before they make $\Sigma_3$.
 
 ## Personhood and causation
 
