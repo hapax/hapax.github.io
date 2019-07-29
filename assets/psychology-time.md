@@ -164,8 +164,8 @@ A subtler problem is *change*.
 Presentism claims that *what is real*, i.e. the present slice
 $\Sigma$, is changing.
 But changing with respect to what?
-If I am label or define slices with respect to some type of
-"universal proper time" $\lambda$ (such as cosmological time), the
+If I label or define slices with respect to some type of
+"universal proper time" $\lambda$ (e.g. cosmological time), the
 answer seems to be: with respect to $\lambda$, at a rate of 1 unit of
 $\lambda$ per unit of $\lambda$.
 As people often joke, we are moving into the future at 1 second per
