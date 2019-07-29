@@ -312,6 +312,8 @@ special relativity.
 Similarly, a brain state $B_n$ has various properties, such as
 short-term memory traces, which can be viewed as some function of the
 preceding brain states $M_n = f(\{B_m: m<n\})$.
+Modulo the neurological details, this explains the feeling of
+succession; it is baked into the brain state by short-term memory.
 
 ## Conclusion
 
