@@ -322,15 +322,20 @@ The previous states $B_{m<n}$ are in fact stored and represented in
 $B_n$ via *memory*, but at an abstract level, succession is just the
 statement that causal relations are mirrored in cognitive ones.
 
-Duration is somewhat trickier, but all I want to argue is that it is
-plausibly explained by intrinsic properties of a brain state.
-The brain has various ways it can measure sensory inputs.
-It has natural physiological means (such as circulation) for measuring
-time, and intensity thresholds, channel capacities, and so forth, for
-measuring strength.
-How long a moment seems like to last is likely to be connected to the
-rate at which these data are acquired and stored in various systems
-for short-term memory.
+Duration is trickier, but not so different from the velocity
+of an arrow.
+The velocity is the rate at which the arrow acquires distance, but
+both the distance and time must be given units, i.e. a physical basis
+for measurement.
+Similarly, the duration of an experience cannot make any sense without
+units.
+Luckily, our brains are naturally equipped with physiological process
+(such as circulation) which can be used to measure time, and input
+channels (with thresholds, capacities, and so forth) which can be used
+to measure intensity.
+It seems plausible, to me, that the subjective "speed" of experience
+is connected to the strength, nature and speed of sensory input
+relative to these physiologically defined units of measurement.
 
 ## Conclusion
 
@@ -356,3 +361,13 @@ generally.
 But the precise mechanism is unimportant; my only purpose here is to
 show that it is plausible that subjective duration can be explained by
 intrinsic properties of a brain state.
+
+I want to argue is that it is
+plausibly explained by intrinsic properties of a brain state.
+The brain has various ways it can measure sensory inputs.
+It has natural physiological means (such as circulation) for measuring
+time, and intensity thresholds, channel capacities, and so forth, for
+measuring strength.
+How long a moment seems like to last is likely to be connected to the
+rate at which these data are acquired and stored in various systems
+for short-term memory.
