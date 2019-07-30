@@ -369,7 +369,7 @@ the future.
 
 #### Arrest
 
-For a different take on these issues, see my short sci-fi story
+For a different take on these issues, see my sci-fi short story
 ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf).
 It was originally submitted to the
 [Ubyssey sci-fi competition 2019](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/)
