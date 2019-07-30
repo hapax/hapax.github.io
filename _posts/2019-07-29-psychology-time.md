@@ -367,7 +367,13 @@ of our experience of time comes from.
 I have sketched some arguments, and hope to fill out the details in
 the future.
 
-For a different take on these issues, see my short sci-fi story ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf).
+#### Arrest
+
+For a different take on these issues, see my short sci-fi story
+["Arrest"]({{hapax.github.io}}/assets/arrest.pdf).
+It was originally submitted to the
+[Ubyssey sci-fi competition 2019](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/)
+under a different name.
 
 ## References
 
