@@ -150,8 +150,10 @@ real?"
 I don't think the presentist can help, since the natural operational
 definitions (e.g. I can send a message to the slice) are *causal*, and
 therefore take me out of the set of timelike slices $\Sigma$.
-(Here, I am ignoring the issue of global hyperbolicity, but it is not
-really relevant since the same issues arise near a star.)
+(In fact, in the presence of a black hole there can be global
+obstructions to the definition of $\Sigma$, but I will ignore these.
+I do not want my objections to presentism to depend on exotic
+features of spacetime.)
 
 One suspects that, in asking these questions about the person falling
 into a black hole, language has "gone on holiday" (Wittgenstein).
