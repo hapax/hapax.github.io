@@ -366,7 +366,7 @@ of our experience of time comes from.
 I have sketched some arguments, and hope to fill out the details in
 the future.
 
-#### Arrest
+#### "Arrest"
 
 For a different take on these issues, see my sci-fi short story
 ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf).
