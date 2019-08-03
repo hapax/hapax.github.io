@@ -51,7 +51,13 @@ $$
   \end{align}
 $$
   
-From (\ref{zeta3}) and the elementary identity $\det A = e^{\mathrm{Tr} \log A}$, we also have
+  From (\ref{zeta3}) and the elementary identity
+
+$$
+\det A = \prod_i a_i = e^{\Sum_i \log a_i} =  e^{\mathrm{Tr} \log A},
+$$
+
+where $a_i$ are the eigenvalues of $A$, we also have
 
 $$
 \begin{equation}
