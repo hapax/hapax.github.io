@@ -84,6 +84,8 @@ $$
   \end{align}
 $$
 
+This is our nice, simple final result.
+
 ## Applications
 
 We can now use (\ref{final}) to regularise the constants $\mathcal{N}$ in part (b) and $\mathcal{M}$ in part (d):
