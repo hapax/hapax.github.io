@@ -11,7 +11,7 @@ date:  2019-08-03
 
 ## Motivation
 
-## Techn
+## The maths
 
 Define the *Hurwitz function* by
 
