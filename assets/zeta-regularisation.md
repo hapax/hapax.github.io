@@ -28,7 +28,7 @@ $$
 \end{align}
 $$
 	
-Consider an operator $\mathcal{X}_{\xi,a}$ with spectrum $\lambda_k = \xi(k+a)$, $k \in \mathbb{Z}_{\geq 0}$.
+Consider an operator $\mathcal{X}_{\xi}^a$ with spectrum $\lambda_k = \xi(k+a)$, $k \in \mathbb{Z}_{\geq 0}$.
 We can define the associated \emph{spectral zeta function}
 
 $$
@@ -70,7 +70,7 @@ Setting $s = 0$ in (\ref{zeta4}), using (\ref{zeta0}), and equating with (\ref{z
 
 $$
 \begin{align}
-    \det \mathcal{X}_{\xi,a} & = \prod_{k=a}  \xi (k+a) \notag \\& = \exp \left[\zeta'(0, a) -
+    \det \mathcal{X}^a_{\xi} & = \prod_{k=a}  \xi (k+a) \notag \\& = \exp \left[\zeta'(0, a) -
                                      \log \xi
                                 \cdot \zeta(0,a)\right] \notag \\
   & = \exp \left[-\ln \left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right) +\log
