@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Zeta regularisation black magic"
+title:  "Hurwitz regularisation black magic"
 categories: [Mathematics, Physics]
 date:  2019-08-03
 ---
@@ -19,6 +19,9 @@ $$
 \zeta(s, a) = \sum_{k \geq 0}\frac{1}{(k+a)^s}, \quad a > 0, \quad |\Re(s)| > 1.
 $$
 	
+This is a generalisation of the
+[Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function),
+since $\zeta_\text{Riemann}(s) = \zeta(s, 1)$.
 We can analytically continue so that this is defined at $s = 0$, and from the [DLMF](https://dlmf.nist.gov/25.11) (or otherwise), it obeys
 
 $$
