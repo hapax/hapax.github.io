@@ -20,8 +20,9 @@ $$
 $$
 	
 This is a generalisation of the
-[Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function),
-since $\zeta_\text{Riemann}(s) = \zeta(s, 1)$.
+[Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+$\zeta_\text{R}$,
+since $\zeta_\text{R}(s) = \zeta(s, 1)$.
 We can analytically continue so that this is defined at $s = 0$, and from the [DLMF](https://dlmf.nist.gov/25.11) (or otherwise), it obeys
 
 $$
