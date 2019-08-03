@@ -18,10 +18,8 @@ $$
 We can analytically continue so that this is defined at $s = 0$, and from the [DLMF](https://dlmf.nist.gov/25.11) (or otherwise), it obeys
 
 $$
-\begin{equation}
 \zeta(0, a)= \frac{1}{2} - a, \quad \zeta'(0, a) = \ln
-\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right).\{zeta0}
-\end{equation}
+\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right).\label{zeta0}
 $$
 	
 Consider an operator $\mathcal{X}_{\xi,a}$ with spectrum $\lambda_k = \xi(k+a)$, $k \in \mathbb{Z}_{\geq 0}$.
