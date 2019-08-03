@@ -36,21 +36,30 @@ $$
 $$
   
 We can differentiate (\ref{zeta1}), (\ref{zeta2}) with respect to $s$, and equate them
-  to get
+to get
+
+$$
   \begin{align}
     \zeta'_\mathcal{X}(s) & = -\sum_{k \geq 0}
                             \lambda_k^{-s}\log\lambda_k \label{zeta3}\\ 
    & = \xi^{-s}\zeta'(s,a) - \xi^{-s}\log \xi \cdot \zeta(s,
      a). \label{zeta4}
   \end{align}
-  From (\ref{zeta3}) and the elementary identity $\det A = e^{\mathrm{Tr} \log A}$, we also have
-  \begin{equation}
+$$
+  
+From (\ref{zeta3}) and the elementary identity $\det A = e^{\mathrm{Tr} \log A}$, we also have
+
+$$
+\begin{equation}
     \zeta'_\mathcal{X}(0) = -\sum_{k \geq 0} \log \lambda_k = -\log
     \det \mathcal{X}. \label{zeta5} 
- \end{equation}
-  Setting $s = 0$ in (\ref{zeta4}), using (\ref{zeta0}), and equating
-  with (\ref{zeta5}), we find
-  \begin{align}
+\end{equation}
+$$
+	
+Setting $s = 0$ in (\ref{zeta4}), using (\ref{zeta0}), and equating with (\ref{zeta5}), we find
+
+$$
+\begin{align}
     \det \mathcal{X}_{\xi,a} & = \prod_{k=a}  \xi (k+a) \notag \\& = \exp \left[\zeta'(0, a) -
                                      \log \xi
                                 \cdot \zeta(0,a)\right] \notag \\
@@ -58,11 +67,15 @@ We can differentiate (\ref{zeta1}), (\ref{zeta2}) with respect to $s$, and equat
     \xi\left(\frac{1}{2} - a\right) \right] \notag \\
   & = \frac{\sqrt{2\pi}}{\Gamma(a) }\xi^{1/2-a}. \label{final}
   \end{align}
-  We can now use (\ref{final}) to regularise the constants $\mathcal{N}$ in part (b) and
-  $\mathcal{M}$ in part (d):
-  \begin{align}
+$$
+  
+We can now use (\ref{final}) to regularise the constants $\mathcal{N}$ in part (b) and $\mathcal{M}$ in part (d):
+
+$$
+\begin{align}
     \mathcal{N} & = \big[\det \mathcal{X}_{2\pi/\beta, 1}\big]^4 =
     \left[\sqrt{2\pi}\cdot\sqrt{\beta/2\pi}\right]^4 = \beta^2 \label{N}\\
 \mathcal{M} & = \big[\det \mathcal{X}_{2\pi/\beta, 1/2}\big]^2 =
               \left(\frac{\sqrt{2\pi}}{\sqrt{\pi}}\right)^2 = 2.\label{M}
   \end{align}
+$$
