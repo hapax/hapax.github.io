@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Hurwitz regularisation black magic"
+title:  "Zeta regularisation black magic"
 categories: [Mathematics, Physics]
 date:  2019-08-03
 ---
@@ -11,7 +11,7 @@ date:  2019-08-03
 
 ## Motivation
 
-## The nitty gritty
+## Techn
 
 Define the *Hurwitz function* by
 
@@ -27,12 +27,14 @@ We can analytically continue so that this is defined at $s = 0$, and from the [D
 $$
 \begin{align}
 \zeta(0, a)= \frac{1}{2} - a, \quad \zeta'(0, a) = \ln
-\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right).\label{zeta0}
+\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right),\label{zeta0}
 \end{align}
 $$
-	
-Consider an operator $\mathcal{X}_{\xi}^a$ with spectrum $\lambda_k = \xi(k+a)$, $k \in \mathbb{Z}_{\geq 0}$.
-We can define the associated \emph{spectral zeta function}
+
+where $\Gamma$ is the [Gamma function](https://en.wikipedia.org/wiki/Gamma_function).
+Consider an operator $\mathcal{X}^a_\xi$
+with spectrum $\lambda_k = \xi(k+a)$, $k \in \mathbb{Z}_{\geq 0}$.
+We can define the associated *spectral zeta function*
 
 $$
   \begin{align}
@@ -57,7 +59,7 @@ $$
   From (\ref{zeta3}) and the elementary identity
 
 $$
-\det A = \prod_i a_i = e^{\Sum_i \log a_i} =  e^{\mathrm{Tr} \log A},
+\det A = \prod_i a_i = e^{\sum_i \log a_i} =  e^{\mathrm{Tr} \log A},
 $$
 
 where $a_i$ are the eigenvalues of $A$, we also have
