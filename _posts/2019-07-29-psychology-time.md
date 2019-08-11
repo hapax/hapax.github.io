@@ -214,7 +214,7 @@ And so on.
 I think this a bad infinite regress since no demiurge grounds what "present"
 actually means.
 Perhaps, like the choice of spacelike slices, the
-presentist can appeal to God (Dei), in this case as a sort of limit or union of demiurges, $D =
+presentist can appeal to God (Dei or $D$), in this case as a sort of limit or union of demiurges, $D =
 \lim_{n\to\infty} \cup_n D_n$.
 
 I don't think this helps, but let us suppose for the sake of argument
