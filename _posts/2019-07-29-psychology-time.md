@@ -414,12 +414,9 @@ This is the fundamental error of the presentist.
 
 Four-dimensionalism therefore suggests an extreme version of
 Nietzsche's doctrine of eternal recurrence: we are, and will always,
-live all moments of our life simultaneously, but with the impression
-of "nowness" and temporal succession by virtue of the physical
-properties of brain states.
-But these brain states are tied together coherently, like the
-oscillating particles in a wave, and can transmit a continued sense of
-personal identity into the future.
+live all moments of our life simultaneously.
+These brain states are tied together coherently, like the
+oscillating particles in a wave, and transmit a sense of personal identity into the future.
 
 I find it comforting to think that death is not the final
 and irrevocable destruction of my brain slice, but just another point
