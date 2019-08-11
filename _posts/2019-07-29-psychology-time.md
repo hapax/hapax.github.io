@@ -128,7 +128,7 @@ Two points are not comparable, or causally ordered, just in case
 they are spacelike separated.
 Note that $\prec$ captures the *possibility* of causal influence,
 rather than actual causal influence.
-In principle, I can send a message to (causally influence) my
+In principle, I can write letters to (causally influence) my
 neighbour's dog, but I choose not to.
 
 #### Presentism defined
