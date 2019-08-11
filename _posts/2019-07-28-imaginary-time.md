@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Imaginary time"
+title:  "Imaginary time and black holes"
 categories: Physics
 date:  2019-07-28
 ---
