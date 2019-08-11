@@ -4,12 +4,16 @@ mathjax: true
 comments: true
 title:  "Zeta regularisation black magic"
 categories: [Mathematics, Physics]
-date:  2019-08-03
+date:  2019-08-04
 ---
 
-**August 4, 2019.** *A quick, technical post on zeta function regularisation.*
+**August 4, 2019.** *A quick technical post on zeta function regularisation.*
 
 ## Motivation
+
+*Prerequisites: quantum field theory, path integrals.* 
+
+The partition function of a quantum statistical system is 
 
 ## The maths
 
@@ -23,8 +27,8 @@ This is a generalisation of the
 [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
 $\zeta_\text{R}$,
 since $\zeta_\text{R}(s) = \zeta(s, 1)$.
-Although the definition above blows up at $s = 0$, we can analytically
-continue the Hurwitz function so that it is defined at $s = 0$. From the [DLMF](https://dlmf.nist.gov/25.11) (or otherwise), it obeys
+Although the definition of the Hurwitz function above blows up at $s = 0$, we can analytically
+continue so that it is defined at $s = 0$. From the [DLMF](https://dlmf.nist.gov/25.11) (or otherwise), it obeys
 
 $$
 \begin{align}
@@ -86,7 +90,7 @@ $$
   \end{align}
 $$
 
-This is our nice, simple final result.
+This is our nice, simple final result!
 
 ## Applications
 
@@ -95,9 +99,16 @@ part (b) and $\mathcal{M}$ bla bla
 
 $$
 \begin{align}
-    \mathcal{N} & = \big[\det \mathcal{X}_{2\pi/\beta, 1}\big]^4 =
+    \mathcal{N} & = \big[\det \mathcal{X}^1_{2\pi/\beta}\big]^4 =
     \left[\sqrt{2\pi}\cdot\sqrt{\beta/2\pi}\right]^4 = \beta^2 \label{N}\\
-\mathcal{M} & = \big[\det \mathcal{X}_{2\pi/\beta, 1/2}\big]^2 =
+\mathcal{M} & = \big[\det \mathcal{X}^{1/2}_{2\pi/\beta}\big]^2 =
               \left(\frac{\sqrt{2\pi}}{\sqrt{\pi}}\right)^2 = 2.\label{M}
   \end{align}
 $$
+
+## References
+
+- *Geometry, Topology and Physics* (2003), Mikio Nakahara.
+- *An Introduction to Quantum Field Theory* (1995), Michael Peskin and
+Daniel Schroeder.
+- *Quantum Field Theory and the Standard Model* (2013), Matthew Schwartz.
