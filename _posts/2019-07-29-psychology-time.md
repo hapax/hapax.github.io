@@ -368,7 +368,7 @@ The sense of succession and time's flow are not merely of
 phenomenological interest, but deeply bound up with the way we think
 about personal identity.
 A life, it seems, is a state of mental flux which is created at birth,
-has some (hopefully pleasant) set of experiences, and is destroyed
+has some experiences, and is destroyed
 at death.
 "Present David" undertakes actions (e.g. exercising) on the
 understanding that "future David" will benefit, and curses "past
@@ -388,11 +388,11 @@ transmit energy, and by analogy, we can transmit a sense of identity
 forward in time with individual mental slices that are temporally
 fixed.
 
-Instead of viewing personal identity as a changing mental state, we define it as
+Instead of viewing personal identity as a changing mental state, it is
 the *thing transmitted by the states*.
 What exactly is transmitted is a
 [complicated and different question](https://plato.stanford.edu/entries/identity-personal/);
-all we have done is adjust the metaphysical parameters of
+all we have done is tweak the metaphysical parameters of
 that debate.
 I am still connected by the chains of causation to past and future
 David, even if the current mental slice was not originally one, and
@@ -421,6 +421,14 @@ But these brain states are tied together coherently, like the
 oscillating particles in a wave, and can transmit a continued sense of
 personal identity into the future.
 
+I find it comforting to think that death is not the final
+and irrevocable destruction of my brain slice, but just another point
+on the worldline.
+Then again, I suppose that all my experiences, good and bad, will be preserved
+like some sort of experiential jam, which someone is forever in the
+act of tasting.
+I should consider carefully what flavours I choose.
+
 #### Postscript: "Arrest"
 
 For a different take on these issues, see my sci-fi short story
@@ -437,9 +445,3 @@ under a slightly different name.
   (2018), Nick Huggett. *Stanford Encyclopedia of Philosophy*.
 - ["The Experience and Perception of Time"](https://plato.stanford.edu/entries/time-experience/) (2019), Robin Le Poidevin. *Stanford Encyclopedia of Philosophy*.
 - ["Personal identity"](https://plato.stanford.edu/entries/identity-personal/) (2015), Eric Olson.
-
-[//]: # title:  "Four-dimensionalism and the psychology of time
-[//]: # Still, some work is required to see where the duration and succession
-[//]: # of our experience of time comes from.
-[//]: # I have sketched some arguments, and hope to fill out the details in
-[//]: # the future.
