@@ -15,7 +15,7 @@ date:  2019-08-05
 The eye is the best of artists.
 </span>
 
-<div style="text-align: right"> *Ralph Waldo Emerson* </div>
+<div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
 ## References
 
