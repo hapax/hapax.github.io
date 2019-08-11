@@ -421,10 +421,10 @@ oscillating particles in a wave, and transmit a sense of personal identity into 
 I find it comforting to think that death is not the final
 and irrevocable destruction of my brain slice, but just another point
 on the worldline.
-Then again, I suppose that all my experiences, good and bad, will be preserved
-like some sort of experiential jam, which someone is forever in the
+Then again, I suppose that all our experiences, good and bad, will be preserved
+like some sort of experiential jam which someone is forever in the
 act of tasting.
-I should consider carefully what flavours I choose.
+We should consider carefully what flavours we choose.
 
 #### Postscript: "Arrest"
 
