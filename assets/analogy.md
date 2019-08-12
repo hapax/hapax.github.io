@@ -12,21 +12,23 @@ date:  2019-08-11
 ## Introduction
 
 <span style="padding-left: 20px; display:block">
-Time flies like an arrow. Fruit flies like a banana.
+I suddenly realized that in the language, or at any rate in the spirit
+of the Glass Bead Game, everything actually was all-meaningful, that
+every symbol and combination of symbols led not hither and yon, not to
+single examples, experiments, and proofs, but into the center, the
+mystery and innermost heart of the world, into primal knowledge.
 </span>
 
-<div style="text-align: right"><i> Anonymous</i> </div>
+<div style="text-align: right">Herman Hesse, <i>The Glass
+Bead Game</i>.</div>
 
-Herman Hesse's magnum opus, *The Glass Bead Game*, is one of my
-favourite novels.
-It combines science fiction, Bildungsroman, and Jungian psychodrama
-into one juicy package.
-But as the [Nobel committee pointed out](https://www.nobelprize.org/prizes/literature/1946/ceremony-speech/)
-when they awarded Hesse the Nobel Prize for literature in 1946, it can
-strike some readers as "recondite".
-Why?
+<span style="padding-left: 20px; display:block">
+"Quaerendo invenietis" is my advice to the reader.
+</span>
 
-At its heart, and 
+<div style="text-align: right">Douglas Hofstadter, <i>Gödel, Escher, Bach</i>.</div>
+
+I want to 
 
 ## Isomorphism
 
@@ -40,10 +42,22 @@ Time flies like an arrow. Fruit flies like a banana.
 
 ## References
 
-- *The Glass Bead Game* (1943), Herman Hesse.
+- *The Glass Bead Game (or: Magister Ludi)* (1943), Herman Hesse.
+- *Gödel, Escher, Bach: An Eternal Golden Braid* (1979), Douglas Hofstadter.
 
 ## Extra
 
 When Hesse won the Nobel Prize for Literature in 1946, the [committee
 singled it out](https://www.nobelprize.org/prizes/literature/1946/ceremony-speech/)
 for its "special position" in his work.
+
+Herman Hesse's magnum opus, *The Glass Bead Game*, is one of my
+favourite novels.
+It combines science fiction, Bildungsroman, and Jungian psychodrama
+into a fun and surprisingly readable package.
+But as the [Nobel committee pointed out](https://www.nobelprize.org/prizes/literature/1946/ceremony-speech/)
+when they awarded Hesse the Nobel Prize for literature in 1946, it can
+strike some readers as "recondite".
+Why?
+
+At its heart, the novel is about play.
