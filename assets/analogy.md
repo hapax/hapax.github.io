@@ -19,18 +19,21 @@ single examples, experiments, and proofs, but into the center, the
 mystery and innermost heart of the world, into primal knowledge.
 </span>
 
-<div style="text-align: right">Herman Hesse, <i>The Glass
-Bead Game</i>.</div>
+<div style="text-align: right"><i>Herman Hesse</i>, in <i>The Glass
+Bead Game</i></div>
+
+In 1943, Herman Hesse published his magnum opus, *The Glass Bead Game*.
+Part Bildungsroman, part science fiction, part Jungian psychodrama,
+the novel tells the life story of Joseph Knecht, a gifted young man
+who join a scholarly 
+
+## Pattern recognition
 
 <span style="padding-left: 20px; display:block">
 "Quaerendo invenietis" is my advice to the reader.
 </span>
 
-<div style="text-align: right">Douglas Hofstadter, <i>Gödel, Escher, Bach</i>.</div>
-
-I want to 
-
-## Isomorphism
+<div style="text-align: right"><i>Douglas Hofstadter</i>, in <i>Gödel, Escher, Bach</i></div>
 
 ## Bananalogy
 
@@ -47,6 +50,8 @@ Time flies like an arrow. Fruit flies like a banana.
 
 ## Extra
 
+https://www.physixfan.com/wp-content/files/GEBen.pdf
+
 When Hesse won the Nobel Prize for Literature in 1946, the [committee
 singled it out](https://www.nobelprize.org/prizes/literature/1946/ceremony-speech/)
 for its "special position" in his work.
@@ -61,3 +66,7 @@ strike some readers as "recondite".
 Why?
 
 At its heart, the novel is about play.
+
+In high school, a family friend introduced me to *Gödel, Escher,
+Bach*, a sprawling, idiosyncratic "pop science" book about the nature
+of consciousness, logic, 

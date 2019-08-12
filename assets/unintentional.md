@@ -22,6 +22,8 @@ The eye is the best of artists.
 - [*Nature*](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/nature.html)
   (1836), Ralph Waldo Emerson.
 
+https://en.wikipedia.org/wiki/Transparent_eyeball
+
 [//]: # - unintentionality in art:
 [//]: #   - "the greatest artist is the eye", semiotics, state of mind
 [//]: #   - transparent eyeball
