@@ -290,10 +290,10 @@ classical coordinates for the fermion.
    $Z[\beta]$.
 4. Simplify using black magic and the product formula
 
-  $$
+   $$
     \cosh \left(\frac{x}{2}\right) = \prod_{k \geq 0}
     \left[1+ \frac{x^2}{\pi^2(2n+1)^2}\right].
-	$$
+   $$
 	
 5. Check your result agrees with the fermionic oscillator Hamiltonian,
    which has energy eigenvalues $E_\pm = \pm \omega/2$.
