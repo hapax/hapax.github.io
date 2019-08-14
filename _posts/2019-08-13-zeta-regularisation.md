@@ -318,12 +318,14 @@ phase $e^{2\pi i a}$.
    reproduce the result of
    [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf)
    for the determinant of $\mathcal{J}$ with these boundary
-   conditions, but using black magic rather than Green's functions:
+   conditions,
 
    $$
 	\det\mathcal{J} = 4
 	\left[\cosh^2 \left(\frac{\beta\omega}{2}\right) - \sin^2(\pi a)\right].
    $$
+
+   using black magic rather than Green's functions.
 
 2. (Open) Determine whether the anyonic path integral can be written
 
