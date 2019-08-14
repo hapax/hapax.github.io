@@ -317,8 +317,8 @@ phase $e^{2\pi i a}$.
 1. Determine the natural boundary conditions for spin $a$, and
    reproduce the result of
    [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf)
-   for the determinant of $\mathcal{J}$ with these boundary conditions
-   using black magic:
+   for the determinant of $\mathcal{J}$ with these boundary
+   conditions, but using black magic rather than Green's functions:
 
    $$
 	\det\mathcal{J} = 4
