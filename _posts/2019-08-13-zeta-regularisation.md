@@ -78,8 +78,8 @@ $$
 \det \mathcal{X}^a_{\xi} = \prod_{k=a}  \xi (k+a),
 $$
 
-and show how to regulate them using a family of functions related to
-Riemann's zeta.
+and show how to regulate them using a generalisation of the Riemann
+zeta function.
 We finish with some simple applications to quantum statistical mechanics.
 
 ## The maths
