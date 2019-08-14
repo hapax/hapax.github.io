@@ -7,8 +7,9 @@ categories: [Mathematics, Physics]
 date:  2019-08-04
 ---
 
-**August 4, 2019.** *A quick technical post on zeta function
-  regularisation of infinite products, and an application to.*
+**August 4, 2019.** *A technical post on zeta function
+  regularisation of infinite products, and an application to the hot
+  harmonic oscillators.*
 
 ## Motivation
 
