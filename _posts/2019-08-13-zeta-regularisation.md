@@ -262,7 +262,7 @@ Here, the two approaches automatically agree!
 
 ---
 
-**Exercise 1.** *Fermionic oscillator.*
+**Exercise 1.** *Hot fermionic oscillator.*
 
 A Fermionic oscillator has the "square root" Lagrangian
 
