@@ -195,10 +195,10 @@ The partition function is a Gaussian:
 $$
 Z[\beta] =
 \exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)\mathcal{J} x(\mu)\right]
-= \frac{1}{\sqrt{\det \mathcal{J}}.
+= \frac{1}{\sqrt{\det \mathcal{J}}}.
 $$
 
-Let's find the regulated determinant of the operator $\mathcal{J}$.
+Let's calculate the regulated determinant of the operator $\mathcal{J}$.
 To find the eigenvalues, we first determine the eigenfunctions $f$,
 recalling they are subject to the periodicity constraint $f(0) = f(\beta)$:
 
