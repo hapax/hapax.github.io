@@ -20,7 +20,7 @@ evaluate Gaussian integrals.
 The simplest integral is one-dimensional:
 
 $$
-\int_{-\infty}^\infty e^{-\tfrac{1}{2}\alpha x^2}  \, \frac{dx}{\sqrt{2\pi}} = \frac{1}{\sqrt{\alpha}}
+\int_{-\infty}^\infty \frac{dx}{\sqrt{2\pi}} \, e^{-\tfrac{1}{2}\alpha x^2}  = \frac{1}{\sqrt{\alpha}}
 $$
 
 We have written an extra factor of $1/\sqrt{\pi}$ in the measure $dx$
@@ -31,7 +31,7 @@ By diagonalising $A$, the one-dimensional result immediately
 generalises to
 
 $$
-\int_{-\infty}^\infty e^{-x_i A_{ij} x_j} \, \frac{dx}{(2\pi)^{n/2}} =
+\int_{-\infty}^\infty \frac{dx}{(2\pi)^{n/2}} \,e^{-x_i A_{ij} x_j} =
 \frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2},
 $$
 
