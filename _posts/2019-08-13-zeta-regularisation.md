@@ -39,25 +39,25 @@ In some fields, such as quantum field theory, we frequently take
 things even further, and evaluate the integral for an
 *infinite-dimensional* vector space.
 In this case, we replace the discretely indexed vector $x_i$ with a
-continously indexed function $x(\lambda)$, for say $x \in [0, L]$, and the integral over all
-vectors $x_i$ becomes an integral over all *paths* $x(\lambda)$.
+continously indexed function $x(\tau)$, for say $x \in [0, L]$, and the integral over all
+vectors $x_i$ becomes an integral over all *paths* $x(\tau)$.
 This is called a *path integral*.
 
 Let's define the integral measure for the path as the limit of the discretisations of the
-path $x(\lambda)$ into chunks evaluated at $\lambda_n := nL/N$, or
+path $x(\tau)$ into chunks evaluated at $\tau_n := nL/N$, or
 
 $$
-\mathcal{D}x(\lambda) := \lim_{N\to\infty}(2\pi)^{-N/2}\prod_{n=1}^N
-dx(\lambda_n).
+\mathcal{D}x(\tau) := \lim_{N\to\infty}(2\pi)^{-N/2}\prod_{n=1}^N
+dx(\tau_n).
 $$
 
 We might cross our fingers and hope that the infinite-dimensional
-Gaussian path integral, for a bilinear operator $A$, has exactly the
+Gaussian path integral, for a bilinear operator $A(\tau, \tau')$, has exactly the
 same expression as above:
 
 $$
 \int \mathcal{D}x \,
-\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)A x(\mu)\right] =
+\exp\left[-\int_0^L d\tau\, d\tau'\, x(\tau)A(\tau,\tau') x(\tau')\right] =
 \frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2}.
 $$
 
