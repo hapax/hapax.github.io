@@ -39,7 +39,7 @@ In some fields, such as quantum field theory, we frequently take
 things even further, and evaluate the integral for an
 *infinite-dimensional* vector space.
 In this case, we replace the discretely indexed vector $x_i$ with a
-continously indexed function $x(\tau)$, for say $x \in [0, L]$, and the integral over all
+continously indexed function $x(\tau)$, for say $\tau \in [0, L]$, and the integral over all
 vectors $x_i$ becomes an integral over all *paths* $x(\tau)$.
 This is called a *path integral*.
 
