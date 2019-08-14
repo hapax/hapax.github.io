@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Summing the natural numbers"
-categories: [Mathematics, Teaching]
+categories: Mathematics
 date:   2015-04-01
 ---
 

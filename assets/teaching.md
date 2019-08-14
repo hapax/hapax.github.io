@@ -2,8 +2,8 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Charm of the Unintentional"
-categories: [Philosophy]
+title:  "Beauty, truth and use"
+categories: [Maths, Physics, Teaching]
 date:  2019-08-03
 ---
 
