@@ -4,12 +4,11 @@ mathjax: true
 comments: true
 title:  "Zeta regularisation black magic"
 categories: [Mathematics, Physics]
-date:  2019-08-04
+date:  2019-08-13
 ---
 
-**August 4, 2019.** *A technical post on zeta function
-  regularisation of infinite products, and an application to the hot
-  harmonic oscillators.*
+**August 13, 2019.** *A technical post on path integrals, zeta function
+  regularisation of determinants, and an application to hot oscillators.*
 
 ## Motivation
 
