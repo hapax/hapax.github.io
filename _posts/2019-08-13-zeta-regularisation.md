@@ -318,18 +318,18 @@ phase $e^{2\pi i a}$.
    reproduces the result of
    [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf):
 
-  $$
+   $$
 	\det\mathcal{J} = 4
 	\left[\sinh^2 \left(\frac{\beta\omega}{2}\right) - \cosh^2(\pi a)\right].
-  $$
+   $$
 
 2. (Open) Determine whether the anyonic path integral can be written
 
-  $$
-  Z_a[\beta] = \det^{p(a)} \mathcal{J}
-  $$
+   $$
+   Z_a[\beta] = \det^{p(a)} \mathcal{J}
+   $$
 
-  for some power $p(a)$. For bonus points, what is $p(a)$?
+   for some power $p(a)$. For bonus points, what is $p(a)$?
 
 ## References
 
