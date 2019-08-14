@@ -61,11 +61,11 @@ $$
 \frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2}.
 $$
 
-Hopefully it's clear now why we shifted the $\sqrt{\pi}$ onto the
-left!
-But there is a problem.
-In general, the infinite product of eigenvalue $\lambda_i$ will not
-converge!
+We now see why we shifted the $\sqrt{2\pi}$ onto the left: in the
+infinite-dimensional limit, it is a nuisance factors which blows up
+unless absorbed into the path integral.
+But we can still get infinities!
+In general, the infinite product of eigenvalue $\lambda_i$ will not converge.
 
 But quantum physicists are not cowed by infinities.
 The usual trick is to *regulate* the divergence in some way,
