@@ -173,7 +173,7 @@ which are [periodic in imaginary time]({{
 hapax.github.io }}/physics/imaginary-time/),
 
 $$
-Z[\beta] = \int_{x(0)=x(\beta)} \int_{x(0)=x(\beta)}
+Z[\beta] = \int_{x(0)=x(\beta)}
 \mathcal{D}x(\tau) \, e^{-S_E[x(\tau)]}
 $$
 
