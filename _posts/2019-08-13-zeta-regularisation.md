@@ -184,11 +184,10 @@ oscillator, with
 $$
 S_E[x(\tau)] = \int_0^\beta d\tau\,
 \frac{1}{2}\left(\dot{x}(\tau)^2+\omega^2 x^2\right) = \int_0^\beta d\tau\,
-\frac{1}{2}x(\tau)\mathcal{J} x(\tau), \quad \mathcal{J} =
--\partial_\tau^2 + \omega^2
+\frac{1}{2}x(\tau)\mathcal{J} x(\tau),
 $$
 
-after integrating by parts.
+where $\mathcal{J} =-\partial_\tau^2 + \omega^2$ after integrating by parts.
 The partition function is a Gaussian:
 
 $$
@@ -202,10 +201,12 @@ To find the eigenvalues, we first determine the eigenfunctions $f$,
 recalling they are subject to the periodicity constraint $f(0) = f(\beta)$:
 
 $$
-\mathcal{J} f(\tau) = -\ddot{f} + \omega^2 f = \lambda f, \quad f(0) =
-f(\beta)\quad
-\Longrightarrow \quad f_k(\tau) = e^{2\pi k \tau/\beta}, \quad
-\lambda_k = \left(\frac{2\pi k}{\beta}\right)^2+\omega^2
+\begin{align}
+\mathcal{J} f(\tau) & = -\ddot{f} + \omega^2 f = \lambda f, \quad f(0) =
+f(\beta) \notag \\
+\Longrightarrow \quad f_k(\tau) &= e^{2\pi k \tau/\beta}, \quad
+\lambda_k = \left(\frac{2\pi k}{\beta}\right)^2+\omega^2 \notag
+\end{align}
 $$
 
 for any integer $k$.
@@ -213,9 +214,8 @@ But then
 
 $$
 \begin{align}
-\det \mathcal{J} &= \prod_{k\in\mathbb{Z}} \lambda_k\\
-	& =
-	\omega^2\prod_{k\geq 1}\left(\frac{2\pi k}{\beta}\right)^4 \cdot \prod_{k\geq 1}\left[1 + \left(\frac{\beta\omega}{2\pi k}\right)^2\right]^2,
+\det \mathcal{J} &= \prod_{k\in\mathbb{Z}} \lambda_k =
+	\omega^2\prod_{k\geq 1}\left(\frac{2\pi k}{\beta}\right)^4 \cdot \prod_{k\geq 1}\left[1 + \left(\frac{\beta\omega}{2\pi k}\right)^2\right]^2,\notag
 \end{align}
 $$
 
