@@ -177,7 +177,7 @@ the problem of selecting the correct $\Sigma$ to the axiom of choice,
 or God, or some comparable higher power.
 What can we say then?
 
-#### Incompetent demiurges and the reality of change
+#### Incompetent demiurges
 
 A subtler problem is *change*.
 Presentism claims that *what is real*, i.e. the present slice
@@ -362,7 +362,7 @@ is some function of the strength, nature and speed of sensory input,
 relative to these physiologically defined units of measurement, along
 with how efficiently they can stored in sensory and short-term memory.
 
-#### The identity wave train and eternal recurrence
+#### The identity wave train
 
 The sense of succession and time's flow are not merely of
 phenomenological interest, but deeply bound up with the way we think
