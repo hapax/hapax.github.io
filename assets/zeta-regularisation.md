@@ -255,10 +255,11 @@ Z[\beta] = \sum_{n\geq 0} e^{-\beta E_n} =
     \frac{1}{2\sinh(\beta\omega/2)}.
 $$
 
-This is not exactly an advertisment for path integrals, but for the
-regularisation method.
-Usually, one has to insert factors by hand, but here, the two
-approaches automatically agree!
+This is not exactly an advertisment for path integrals, but it is a
+small advertisment for the regularisation method.
+Usually, one has to insert factors by hand to get the Hamiltonian and
+path integral method to agree.
+Here, the two approaches automatically agree!
 
 ---
 
@@ -294,14 +295,8 @@ classical coordinates for the fermion.
     \cosh \left(\frac{x}{2}\right) = \prod_{k \geq 0}
     \left[1+ \frac{x^2}{\pi^2(2n+1)^2}\right].
   $$
-
-   You should find it agrees with simple result from the fermionic oscillator Hamiltonian:
-
-  $$
-    Z[\beta] = \mathrm{Tr}[e^{-\beta \hat{H}}] = \sum_{n=0,1} \langle
-    n|e^{-\beta\hat{H}}|n\rangle = e^{-\beta \omega/2} + e^{\beta
-      \omega/2} = 2\cosh \left(\frac{\beta\omega}{2}\right).
-  $$
+5. Check your result agrees with the fermionic oscillator Hamiltonian,
+   which has energy eigenvalues $E_\pm = \pm \omega/2$.
 
 ## References
 
