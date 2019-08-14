@@ -284,7 +284,7 @@ classical coordinates for the fermion.
   argue that
 
   $$
-  Z[\beta] = \int \mathbf{D}\bar{\psi}(\tau)\, \mathbf{D}\psi(\tau)\, e^{-S_E[\bar{\psi},\psi]} = \det\mathcal{Q}.
+  Z[\beta] = \int \mathcal{D}\bar{\psi}(\tau)\, \mathcal{D}\psi(\tau)\, e^{-S_E[\bar{\psi},\psi]} = \det\mathcal{Q}.
   $$
   
 2. What are the boundary conditions for the fields $\bar{\psi}, \psi$?
