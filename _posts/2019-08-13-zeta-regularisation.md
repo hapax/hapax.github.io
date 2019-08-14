@@ -159,7 +159,7 @@ $$
 
 This is our nice, simple final result!
 
-## Harmonic oscillator the hard way
+## Hot harmonic oscillators
 
 A simple example is single boson in a thermal state.
 The physics is governed by the *partition function* for the system,
