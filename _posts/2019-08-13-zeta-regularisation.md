@@ -254,11 +254,11 @@ Z[\beta] = \sum_{n\geq 0} e^{-\beta E_n} =
     \frac{1}{2\sinh(\beta\omega/2)}.
 $$
 
-This is not exactly an advertisment for path integrals, but it is a
-small advertisment for the regularisation method.
+While this is not exactly an advertisment for path integrals, it is a
+small advertisment for black magic.
 Usually, one has to insert factors by hand to get the Hamiltonian and
 path integral method to agree.
-Here, the two approaches automatically agree!
+Now the two approaches automatically agree!
 
 ---
 
