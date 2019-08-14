@@ -57,7 +57,7 @@ same expression as above:
 
 $$
 \int \mathcal{D}x \,
-\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)A x(\mu)right] =
+\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)A x(\mu)\right] =
 \frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2}.
 $$
 
@@ -193,7 +193,7 @@ The partition function is a Gaussian:
 
 $$
 Z[\beta] =
-\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)\mathcal{J} x(\mu)right]
+\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)\mathcal{J} x(\mu)\right]
 = \frac{1}{\sqrt{\det \mathcal{J}}.
 $$
 
@@ -220,11 +220,10 @@ $$
 $$
 
 where we pick up the $\omega^2$ from the $k = 0$ term.
-The second product can be evaluated using residue calculus techniques,
-which show that
+The second product can be evaluated using the result from residue calculus,
 
 $$
-\left[\prod_{k\geq 1}\left[1 + \left(\frac{z}{n\pi}\right)^2\right] =
+\prod_{k\geq 1}\left[1 + \left(\frac{z}{n\pi}\right)^2\right] =
 \frac{\sinh z}{z}.
 $$
 
@@ -269,6 +268,7 @@ A Fermionic oscillator has the "square root" Lagrangian
 $$
 L_E = -\bar{\psi}\mathcal{Q}\psi, \quad \mathcal{Q} = \partial_\tau + \omega,
 $$
+
 where $\bar{\psi}$ and $\psi$ are *Grassman* (anticommuting)
 classical coordinates for the fermion.
 
@@ -280,16 +280,13 @@ classical coordinates for the fermion.
    \alpha,
    $$
 
-  argue that $Z[\beta] = \det\mathcal{Q}$.
-	
+   argue that $Z[\beta] = \det\mathcal{Q}$.	
 2. What are the boundary conditions for the fields $\bar{\psi}, \psi$?
    *Hint*. Consider two identical fermions on the thermal circle. What
    happens if they are exchanged?
-
 3. Find the eigenvalues of $\mathcal{Q}$, subject to the boundary
    conditions you found in the previous question, and write a product expression for
    $Z[\beta]$.
-
 4. Simplify using black magic and the product formula
 
   $$
@@ -297,24 +294,13 @@ classical coordinates for the fermion.
     \left[1+ \frac{x^2}{\pi^2(2n+1)^2}\right].
   $$
 
-  You should find it agrees with simple result from the fermionic oscillator Hamiltonian:
+   You should find it agrees with simple result from the fermionic oscillator Hamiltonian:
 
   $$
     Z[\beta] = \mathrm{Tr}[e^{-\beta \hat{H}}] = \sum_{n=0,1} \langle
     n|e^{-\beta\hat{H}}|n\rangle = e^{-\beta \omega/2} + e^{\beta
       \omega/2} = 2\cosh \left(\frac{\beta\omega}{2}\right).
   $$
-
-**Exercise 2.** *Anyone for anyons?*
-
-*Anyons* are particles of *fractional* spin $a$ which occur in two
- spatial dimensions only.
-
-1. Based on the results for the boson (spin $s = 1$) and fermion (spin
-   $s=1/2$), make a conjecture about the thermal partition function
-   for finite-temperature anyons of spin $a$.
-
-2. (*Open*) Prove your conjecture.
 
 ## References
 
