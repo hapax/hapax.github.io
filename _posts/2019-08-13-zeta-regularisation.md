@@ -281,11 +281,11 @@ classical coordinates for the fermion.
    \alpha,
    $$
 
-  argue that
+   argue that
 
-  $$
-  Z[\beta] = \int \mathcal{D}\bar{\psi}(\tau)\, \mathcal{D}\psi(\tau)\, e^{-S_E[\bar{\psi},\psi]} = \det\mathcal{Q}.
-  $$
+   $$
+   Z[\beta] = \int \mathcal{D}\bar{\psi}(\tau)\, \mathcal{D}\psi(\tau)\, e^{-S_E[\bar{\psi},\psi]} = \det\mathcal{Q}.
+   $$
   
 2. What are the boundary conditions for the fields $\bar{\psi}, \psi$?
    *Hint*. Consider two identical fermions on the thermal circle. What
