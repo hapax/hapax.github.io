@@ -72,7 +72,7 @@ The usual trick is to *regulate* the divergence in some way,
 essentially, finding some way to smoothly ignore the behaviour of very
 large eigenvalues which are typically non-physical (i.e. they
 occur where we expect the model, or the experiment, to break down).
-Here, we will consider a very specific class of infinite products,
+Here, we will consider a class of infinite products,
 
 $$
 \det \mathcal{X}^a_{\xi} = \prod_{k=a}  \xi (k+a),
@@ -314,9 +314,11 @@ Anyons are particles with *fractional* spin $a$.
 This means that after going around the thermal loop, they pick up a
 phase $e^{2\pi i a}$.
 
-1. Show that, with boundary conditions for spin $a$, black magic
-   reproduces the result of
-   [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf):
+1. Determine the natural boundary conditions for spin $a$, and
+   reproduce the result of
+   [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf)
+   for the determinant of $\mathcal{J}$ with these boundary conditions
+   using black magic:
 
    $$
 	\det\mathcal{J} = 4
