@@ -281,7 +281,12 @@ classical coordinates for the fermion.
    \alpha,
    $$
 
-   argue that $Z[\beta] = \det\mathcal{Q}$.	
+  argue that
+
+  $$
+  Z[\beta] = \int \mathbf{D}\bar{\psi}(\tau)\, \mathbf{D}\psi(\tau)\, e^{-S_E[\bar{\psi},\psi]} = \det\mathcal{Q}.
+  $$
+  
 2. What are the boundary conditions for the fields $\bar{\psi}, \psi$?
    *Hint*. Consider two identical fermions on the thermal circle. What
    happens if they are exchanged?
@@ -296,7 +301,35 @@ classical coordinates for the fermion.
    $$
 	
 5. Check your result agrees with the fermionic oscillator Hamiltonian,
-   which has energy eigenvalues $E_\pm = \pm \omega/2$.
+  which has energy eigenvalues $E_\pm = \pm \omega/2$.
+  You should find in both cases that
+
+  $$
+  Z[\beta]=2\cosh \left[\frac{\beta\omega}{2}\right].
+  $$
+
+**Exercise 2.** (For the author) *Anyone for anyons?*
+
+Anyons are particles with *fractional* spin $a$.
+This means that after going around the thermal loop, they pick up a
+phase $e^{2\pi i a}$.
+
+1. Show that, with boundary conditions for spin $a$, black magic
+   reproduces the result of
+   [Boschi-Filho and Farina (1994)](https://arxiv.org/pdf/hep-th/9410098.pdf):
+
+  $$
+	\det\mathcal{J} = 4
+	\left[\sinh^2 \left(\frac{\beta\omega}{2}\right) - \cosh^2(\pi a)\right].
+  $$
+
+2. (Open) Determine whether the anyonic path integral can be written
+
+  $$
+  Z_a[\beta] = \det^{p(a)} \mathcal{J}
+  $$
+
+  for some power $p(a)$. For bonus points, what is $p(a)$?
 
 ## References
 

@@ -10,6 +10,10 @@ date:  2019-08-03
 **August 13, 2019.** *A short manifesto on teaching maths and
   science.*
 
+Also,
+maths rant! Examples from text and how they could be better? Maybe try
+and take something and enliven it, a "real example" if you will.
+
 ## Introduction
 
 <span style="padding-left: 20px; display:block">
