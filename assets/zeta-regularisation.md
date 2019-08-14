@@ -7,13 +7,80 @@ categories: [Mathematics, Physics]
 date:  2019-08-04
 ---
 
-**August 4, 2019.** *A quick technical post on zeta function regularisation.*
+**August 4, 2019.** *A quick technical post on zeta function
+  regularisation of infinite products, and an application to.*
 
 ## Motivation
 
-*Prerequisites: quantum field theory, path integrals.* 
+*Prerequisites: quantum field theory, path integrals.*
 
-The partition function of a quantum statistical system is 
+In physics, mathematics, and life in general, we often need to
+evaluate Gaussian integrals.
+The simplest integral is one-dimensional:
+
+$$
+\int_{-\infty}^\infty e^{-\tfrac{1}{2}\alpha x^2}  \, \frac{dx}{\sqrt{2\pi}} = \frac{1}{\sqrt{\alpha}}
+$$
+
+We have written an extra factor of $1/\sqrt{\pi}$ in the measure $dx$
+for reasons that will become clear in a moment.
+In $n$ dimensions, we can replace $\alpha x^2$ with any bilinear $x_i
+A_{ij} x_j$, where $A_{ij}$ is a diagonalisable matrix.
+By diagonalising $A$, the one-dimensional result immediately
+generalises to
+
+$$
+\int_{-\infty}^\infty e^{-x_i A_{ij} x_j} \, \frac{dx}{(2\pi)^{n/2}} =
+\frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2},
+$$
+
+where the $\lambda_i$ are eigenvalues of $A$.
+In some fields, such as quantum field theory, we frequently take
+things even further, and evaluate the integral for an
+*infinite-dimensional* vector space.
+In this case, we replace the discretely indexed vector $x_i$ with a
+continously indexed function $x(\lambda)$, for say $x \in [0, L]$, and the integral over all
+vectors $x_i$ becomes an integral over all *paths* $x(\lambda)$.
+This is called a *path integral*.
+
+Let's define the integral measure for the path as the limit of the discretisations of the
+path $x(\lambda)$ into chunks evaluated at $\lambda_n := nL/N$, or
+
+$$
+\mathcal{D}x(\lambda) := \lim_{N\to\infty}(2\pi)^{-N/2}\prod_{n=1}^N
+dx(\lambda_n).
+$$
+
+We might cross our fingers and hope that the infinite-dimensional
+Gaussian path integral, for a bilinear operator $A$, has exactly the
+same expression as above:
+
+$$
+\int \mathcal{D}x \,
+\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)A x(\mu)right] =
+\frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2}.
+$$
+
+Hopefully it's clear now why we shifted the $\sqrt{\pi}$ onto the
+left!
+But there is a problem.
+In general, the infinite product of eigenvalue $\lambda_i$ will not
+converge!
+
+But quantum physicists are not cowed by infinities.
+The usual trick is to *regulate* the divergence in some way,
+essentially, finding some way to smoothly ignore the behaviour of very
+large eigenvalues which are typically non-physical (i.e. they
+occur where we expect the model, or the experiment, to break down).
+Here, we will consider a very specific class of infinite products,
+
+$$
+\det \mathcal{X}^a_{\xi} = \prod_{k=a}  \xi (k+a),
+$$
+
+and show how to regulate them using a family of functions related to
+Riemann's zeta.
+We finish with some simple applications to quantum statistical mechanics.
 
 ## The maths
 
@@ -92,19 +159,162 @@ $$
 
 This is our nice, simple final result!
 
-## Applications
+## Harmonic oscillator the hard way
 
-We can use (\ref{final}) to regularise the constants $\mathcal{N}$ in
-part (b) and $\mathcal{M}$ bla bla
+A simple example is single boson in a thermal state.
+The physics is governed by the *partition function* for the system,
+
+$$
+Z[\beta] = \mathrm{Tr}[e^{\beta \hat{H}}].
+$$
+
+One can show that this is equivalent to a weighted sum over paths
+which are [periodic in imaginary time]({{
+hapax.github.io }}/physics/imaginary-time/),
+
+$$
+Z[\beta] = \int_{x(0)=x(\beta)} \int_{x(0)=x(\beta)}
+\mathcal{D}x(\tau) \, e^{-S_E[x(\tau)]}
+$$
+
+where $S_E$ is the *Euclidean action*.
+To specialise, we can consider the simplest case of a bosonic harmonic
+oscillator, with
+
+$$
+S_E[x(\tau)] = \int_0^\beta d\tau\,
+\frac{1}{2}\left(\dot{x}(\tau)^2+\omega^2 x^2\right) = \int_0^\beta d\tau\,
+\frac{1}{2}x(\tau)\mathcal{J} x(\tau), \quad \mathcal{J} =
+-\partial_\tau^2 + \omega^2
+$$
+
+after integrating by parts.
+The partition function is a Gaussian:
+
+$$
+Z[\beta] =
+\exp\left[-\int_0^L d\lambda\, d\mu\, x(\lambda)\mathcal{J} x(\mu)right]
+= \frac{1}{\sqrt{\det \mathcal{J}}.
+$$
+
+Let's find the regulated determinant of the operator $\mathcal{J}$.
+To find the eigenvalues, we first determine the eigenfunctions $f$,
+recalling they are subject to the periodicity constraint $f(0) = f(\beta)$:
+
+$$
+\mathcal{J} f(\tau) = -\ddot{f} + \omega^2 f = \lambda f, \quad f(0) =
+f(\beta)\quad
+\Longrightarrow \quad f_k(\tau) = e^{2\pi k \tau/\beta}, \quad
+\lambda_k = \left(\frac{2\pi k}{\beta}\right)^2+\omega^2
+$$
+
+for any integer $k$.
+But then
 
 $$
 \begin{align}
-    \mathcal{N} & = \big[\det \mathcal{X}^1_{2\pi/\beta}\big]^4 =
-    \left[\sqrt{2\pi}\cdot\sqrt{\beta/2\pi}\right]^4 = \beta^2 \label{N}\\
-\mathcal{M} & = \big[\det \mathcal{X}^{1/2}_{2\pi/\beta}\big]^2 =
-              \left(\frac{\sqrt{2\pi}}{\sqrt{\pi}}\right)^2 = 2.\label{M}
-  \end{align}
+\det \mathcal{J} &= \prod_{k\in\mathbb{Z}} \lambda_k\\
+	& =
+	\omega^2\prod_{k\geq 1}\left(\frac{2\pi k}{\beta}\right)^4 \cdot \prod_{k\geq 1}\left[1 + \left(\frac{\beta\omega}{2\pi k}\right)^2\right]^2,
+\end{align}
 $$
+
+where we pick up the $\omega^2$ from the $k = 0$ term.
+The second product can be evaluated using residue calculus techniques,
+which show that
+
+$$
+\left[\prod_{k\geq 1}\left[1 + \left(\frac{z}{n\pi}\right)^2\right] =
+\frac{\sinh z}{z}.
+$$
+
+The first product diverges, but can be evaluated by black magic for
+$\xi = 2\pi/\beta$ and $a = 1$:
+
+$$
+\prod_{k\geq 1}\left(\frac{2\pi k}{\beta}\right) = \det
+\mathcal{X}^1_{2\pi/\beta} = \sqrt{2\pi}\cdot \sqrt{\beta/2\pi} = \sqrt{\beta}.
+$$
+
+Combining these results, we find
+
+$$
+Z[\beta] = \frac{1}{\sqrt{\det \mathcal{J}}} =
+    \frac{1}{\beta\omega}\prod_{k\geq 1} \left[1 +
+      \left(\frac{\beta\omega}{2\pi k}\right)^2\right]^{-1} =
+    \frac{1}{2\sinh (\beta\omega/2)}.
+$$
+
+Of course, it is much simpler to go the traditional route!
+We have
+
+$$
+Z[\beta] = \sum_{n\geq 0} e^{-\beta E_n} =
+    e^{-\beta\omega/2}\sum_{n\geq 0} e^{-\beta \omega n} =
+\frac{e^{-\beta\omega/2}}{1-e^{-\beta \omega}} =
+    \frac{1}{2\sinh(\beta\omega/2)}.
+$$
+
+This is not exactly an advertisment for path integrals, but for the
+regularisation method.
+Usually, one has to insert factors by hand, but here, the two
+approaches automatically agree!
+
+---
+
+**Exercise 1.** *Fermionic oscillator.*
+
+A Fermionic oscillator has the "square root" Lagrangian
+
+$$
+L_E = -\bar{\psi}\mathcal{Q}\psi, \quad \mathcal{Q} = \partial_\tau + \omega,
+$$
+where $\bar{\psi}$ and $\psi$ are *Grassman* (anticommuting)
+classical coordinates for the fermion.
+
+1. Starting with the one-dimensional Gaussian integral for Grassman
+   numbers $\bar{\theta}, \theta$,
+
+   $$
+   \int d\bar{\theta} \, d\theta \, e^{-\alpha \bar{\theta}\theta} =
+   \alpha,
+   $$
+
+  argue that $Z[\beta] = \det\mathcal{Q}$.
+	
+2. What are the boundary conditions for the fields $\bar{\psi}, \psi$?
+   *Hint*. Consider two identical fermions on the thermal circle. What
+   happens if they are exchanged?
+
+3. Find the eigenvalues of $\mathcal{Q}$, subject to the boundary
+   conditions you found in the previous question, and write a product expression for
+   $Z[\beta]$.
+
+4. Simplify using black magic and the product formula
+
+  $$
+    \cosh \left(\frac{x}{2}\right) = \prod_{k \geq 0}
+    \left[1+ \frac{x^2}{\pi^2(2n+1)^2}\right].
+  $$
+
+  You should find it agrees with simple result from the fermionic oscillator Hamiltonian:
+
+  $$
+    Z[\beta] = \mathrm{Tr}[e^{-\beta \hat{H}}] = \sum_{n=0,1} \langle
+    n|e^{-\beta\hat{H}}|n\rangle = e^{-\beta \omega/2} + e^{\beta
+      \omega/2} = 2\cosh \left(\frac{\beta\omega}{2}\right).
+  $$
+
+**Exercise 2.** *Anyone for anyons?*
+
+*Anyons* are particles of *fractional* spin $a$ which occur in two
+ spatial dimensions only.
+
+1. Based on the results for the boson (spin $s = 1$) and fermion (spin
+   $s=1/2$), make a conjecture about the thermal partition function
+   for finite-temperature anyons of spin $a$.
+
+2. (*Open*) Prove your conjecture.
 
 ## References
 
