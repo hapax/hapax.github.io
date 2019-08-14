@@ -177,7 +177,7 @@ Z[\beta] = \int_{x(0)=x(\beta)}
 \mathcal{D}x(\tau) \, e^{-S_E[x(\tau)]}
 $$
 
-where $S_E$ is the *Euclidean action*.
+where $S_E$ is the action in Euclidean signature.
 To specialise, we can consider the simplest case of a bosonic harmonic
 oscillator, with
 
@@ -293,7 +293,8 @@ classical coordinates for the fermion.
   $$
     \cosh \left(\frac{x}{2}\right) = \prod_{k \geq 0}
     \left[1+ \frac{x^2}{\pi^2(2n+1)^2}\right].
-  $$
+	$$
+	
 5. Check your result agrees with the fermionic oscillator Hamiltonian,
    which has energy eigenvalues $E_\pm = \pm \omega/2$.
 
