@@ -62,7 +62,7 @@ $$
 $$
 
 We now see why we shifted the $\sqrt{2\pi}$ onto the left: in the
-infinite-dimensional limit, it is a nuisance factors which blows up
+infinite-dimensional limit, it is a nuisance factor which blows up
 unless absorbed into the path integral.
 But we can still get infinities!
 In general, the infinite product of eigenvalue $\lambda_i$ will not converge.
