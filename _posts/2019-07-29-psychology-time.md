@@ -2,8 +2,8 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The timeless way"
-categories: Philosophy
+title:  "Four-dimensionalism and the psychology of time"
+categories: [Philosophy, Physics]
 date:  2019-07-29
 ---
 

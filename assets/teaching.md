@@ -3,13 +3,13 @@ Layout: post
 mathjax: true
 comments: true
 title:  "The Charm of the Unintentional"
-categories: [Art, Philosophy]
-date:  2019-08-05
+categories: [Philosophy]
+date:  2019-08-03
 ---
 
-**August 5, 2019.** *Unintentionality in art.*
+**August 13, 2019.** *Some stuff*
 
-## What "makes" art?
+## Introduction
 
 <span style="padding-left: 20px; display:block">
 The eye is the best of artists.
