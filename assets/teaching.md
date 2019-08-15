@@ -27,9 +27,9 @@ and later identifying as people who hated hiking?
 Of course not!
 The problem is that, for most people, walking is not an intrinsically
 interesting activity.
-Unless they are taught to love hiking, they will have no thought of
-walking for hours every day; if it becomes joyless, a sort of routine
-torture, they will avoid it in future.
+Unless they are taught to love hiking, they'll have no thought of
+walking for hours every day.
+If it becomes a joyless, meaningless chore, they'll do everything they can to avoid it!
 
 There seem to be two ways to fix the situation. The first is to
 lower our ambitions, and train students for small walks, jaunts around
