@@ -67,7 +67,7 @@ They would learn that, at the end of the day, hiking was not about the
 act of walking, but rather, using walking to
 experience the world.
 
-## Hiking vs walking
+## A scrubland specimen
 
 You've probably realised by now that I'm not talking about hiking, I'm
 talking about *maths education*.
@@ -81,18 +81,48 @@ using formal systems.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
-In case you think I'm being bombastic, let me give you a snapshot of the scrubland.
-The following exercise are taken from an Australian textbook for the
-most advanced high school maths subject:
+#### Dead shrubs
+
+In case you think I'm being bombastic, let me give you a snapshot.
+I'm going to pick on an Australian textbook for the most advanced high
+school subject.
+But, in its defense, all of the textbooks are like this.
+The following exercises are from the section on rates of change:
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist1.png"
     width="75%" />
-		    <figcaption><i>The scrubland.</i></figcaption>
+		    <figcaption><i>A typical scrubland specimen.</i></figcaption>
 	</div>
 	</figure>
 
+These are completely formal, plug-and-chug problems, and students are
+forced to do hundreds of them.
 
+I don't know about you, but these problems fill me with a sort of
+existential horror.
+Why do I care about the derivative of $\sin^{-1}(5x/4)$?
+Let alone its second derivative?
+Why am I doing any of this?
+Why am I here?
+This is what I mean by the scrubland.
+It's an endless plain of withered, ankle-height shrubs.
+There are no landmarks, nothing for the eye to latch onto.
+
+#### Landmarks ahoy?
+
+Now, conventional wisdom states that students need to master these problems
+before they can go to do interesting things.
+Maybe there are some landmarks in the distance, once we get past all
+the dead shrubs.
+What could they look like?
+
+<figure>
+    <div style="text-align:center"><img src ="/images/specialist2.png"
+    width="75%" />
+		    <figcaption><i>.</i></figcaption>
+	</div>
+	</figure>
 
 ## Guides
 
