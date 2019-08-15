@@ -109,7 +109,7 @@ This is what I mean by the scrubland.
 It's an endless plain of withered, ankle-height shrubs.
 There are no landmarks, nothing for the eye to latch onto.
 
-#### Landmarks ahoy?
+#### Truth and beauty
 
 Now, conventional wisdom states that students need to master basic
 skills, through drill, before they can go to do interesting things.
@@ -119,12 +119,19 @@ What could they look like?
 
 There are two directions we could go, which reflect the structure of
 mathematics itself.
-On the one hand, we have *pure* mathematics, focused on discovering
-properties of formal structures.
-This is realm of abstraction, of generalisation, of proof, and it
-does require excellent walking skills.
-So what does our textbook have by way of theoretical landmarks?
-Let's see.
+On the one hand, we have *pure* mathematics, which is all about
+playing with interesting formal structures and discovering their
+properties.
+This is the realm of abstraction, of generalisation, of
+proof, but most importantly, of beauty.
+The philosopher Bertrand Russell said that maths had a "beauty cold
+and austere, like that of sculpture", and was "capable of a stern
+perfection such as only the greatest art can show".
+He was talking about pure maths.
+Along similar lines, the English mathematician G. H. Hardy said
+"Beauty is the first test: there is no permanent place in the world
+for ugly mathematics."
+
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist2.png"
