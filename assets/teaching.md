@@ -229,8 +229,20 @@ points, or draw the graph different, so that there are *no* points at
 which the purple line just touches.
 They should find that, if they draw nice smooth lines, the answer is
 no!
+But what does it mean to "just touch"?
+You can convince students that the blue and purple lines
+have the *same slope* at the point of intersection.
+Imagine zooming in infinitely close, so that the blue line becomes
+straight (which is actually what we mean by the slope).
+If they had different slopes
 
-What does it mean for 
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt5.png"
+    width="60%" />
+		    <figcaption><i>At infinite magnification, the purple and
+    blue lines are parallel.</i></figcaption>
+	</div>
+</figure>
 
 #### Useful landmarks
 
