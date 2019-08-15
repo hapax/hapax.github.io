@@ -7,7 +7,7 @@ categories: [Maths, Physics, Teaching]
 date:  2019-08-03
 ---
 
-**August 13, 2019.** *A short manifesto on maths education.*
+**August 13, 2019.** *A manifesto on maths education.*
 
 ## A perambulatory parable
 
@@ -16,40 +16,41 @@ you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-When the class complained that the walk was boring and pointless, the
-teacher would defensively reply that walking was an important life
+If the class complained that the walk was boring and pointless, the
+teacher would reply, somewhat defensively, that walking was an important life
 skill you needed to get by as an adult.
 Heck, if you can't walk, how do you expect to get a job!
 
 Would you have enjoyed this hiking class?
-Or would you have lost interest, and started lagging behind?
-Maybe, in time, you would even come to proudly identify as someone who was bad
-at hiking.
+Or, more likely, would you have lost interest, and started lagging behind?
+Maybe in time you would even come to proudly identify as someone who
+hated hiking.
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity.
 There needs to be some motivation to walk, something to walk towards
 or to look at.
 If there isn't, it becomes a chore, and rather than being trained to
-walk, you will be trained to *avoid walking*.
+walk, you will learn to *avoid walking*.
 
 There are a few different ways to fix the situation.
-The first is to lower ambitions and go on smaller hikes, closer to the
+The first is to lower our ambitions and go on smaller hikes, closer to the
 walking most students do as adults.
-That makes it easier to motivate the whole enterprise, and less likely
-to lead to resentment.
+The connection between practice and real life is then clear, and less
+likely to lead to resentment.
 But what if a whole sector of the economy
-depended on advanced hiking skills?
+depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
-Not everywhere can be reached by car.
 If we lower our sights, society as a whole could lose out.
 
-A second way is to stream the hiking classes, selecting for longer
-walks the people who seem to enjoy walking.
-These people, we might reason, are much more likely to become advanced
-hikers.
-They will trudge, without complaint, without wondering what it all
-means, and 
+Perhaps, then, we should select for hiking classes those who naturally
+seem to enjoy walking.
+These people, we reason, will become the best hikers.
+But is this reasonble?
+These natural walkers trudge without complaint, they have stamina,
+they have grit.
+But sometimes they trudge without purpose, almost too willing to
+follow the path, or the teacher, gazing contentedly at their own feet.
 
 We need to hike through interesting terrain, between meadows and swamps,
 and from valleys to mountains.
@@ -155,3 +156,8 @@ everything they can to avoid it!
 Perhaps, also, there are general cultural benefits when everyone
 enjoys hiking, for instance, a higher level of average physical fitness, or a
 closer connection to nature.
+
+That makes it easier to motivate the whole enterprise, and less likely
+to lead to resentment.
+
+Not everywhere can be reached by car.
