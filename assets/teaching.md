@@ -83,14 +83,19 @@ Sure, you can't hike without walking, and you need plenty of practice
 if you want to become a good hiker.
 The best way to bring students along is to provide motivation, to
 provide interest, and to empower them.
-But high school maths curricula, at least in Australia and North
+But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/specialist1.png" />
+    <div style="text-align:center"><img src ="/images/specialist1.png"
+    /> width="80%"
 		    <figcaption><i>The scrubland.</i></figcaption>
 	</div>
-	</figure>
+</figure>
+
+## Guides
+
+Adroit
 
 ## References
 
