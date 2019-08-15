@@ -67,7 +67,30 @@ They would learn that, at the end of the day, hiking was not about the
 act of walking, but rather, using walking to
 experience the world.
 
-## The intuition pump
+## Hiking vs walking
+
+You've probably realised by now that I'm not talking about hiking, I'm
+talking about *maths*.
+In this thinly-veiled analogy, walking is the ability to manipulate
+symbols, to follow rules, to play with formal structures.
+For most people, this is not an intrisically interesting activity.
+For most mathematicians, it's particularly boring!
+This is because maths is not walking; it's hiking.
+It's a way of encountering and understanding and exploring the world
+using formal systems.
+
+Sure, you can't hike without walking, and you need plenty of practice
+if you want to become a good hiker.
+The best way to bring students along is to provide motivation, to
+provide interest, and to empower them.
+But high school maths curricula, at least in Australia and North
+America, insist on marching students through the scrubland.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/specialist1.png" />
+		    <figcaption><i>The scrubland.</i></figcaption>
+	</div>
+	</figure>
 
 ## References
 
