@@ -9,7 +9,7 @@ date:  2019-08-03
 
 **August 13, 2019.** *A short manifesto on maths education.*
 
-## Hiking class
+## A fable
 
 I want you to imagine a reality, not so different from our own, where
 you were force to take *hiking classes* in high school.
@@ -54,7 +54,9 @@ of the scrubland and owns its purpose.
 
 ## Changing the landscape
 
-#### References
+## References
+
+## Extra
 
 Of course, this is a thinly veiled analogy to high school maths class.
 Doing maths, by itself, for itself, is not intrinsically interesting
