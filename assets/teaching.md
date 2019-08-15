@@ -78,11 +78,6 @@ For most mathematicians, it's particularly boring!
 This is because maths is not walking; it's hiking.
 It's a way of encountering and understanding and exploring the world
 using formal systems.
-
-Sure, you can't hike without walking, and you need plenty of practice
-if you want to become a good hiker.
-The best way to bring students along is to provide motivation, to
-provide interest, and to empower them.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
@@ -108,6 +103,11 @@ Adroit
 ## References
 
 ## Extra
+
+Sure, you can't hike without walking, and you need plenty of practice
+if you want to become a good hiker.
+The best way to bring students along is to provide motivation, to
+provide interest, and to empower them.
 
 Hopefully, by now you've realised this is a thinly veiled analogy for
 maths class.
