@@ -19,7 +19,7 @@ peaks, and no apparent goal other than the hike itself.
 When the class complained that the walk was boring and pointless, the
 teacher would defensively reply that walking is an important life
 skill needed to get as an adult.
-Heck, if you can't walk, how do you expect to get a job!
+Heck, if you can't walk, how do you expect to get a job when you graduate!
 
 Do you think you would have enjoyed this hiking class?
 Would you blame most students for losing interest and lagging behind,
