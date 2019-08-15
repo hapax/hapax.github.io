@@ -239,7 +239,7 @@ being tangent!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
-    width="60%" />
+    width="50%" />
 		    <figcaption><i>At infinite magnification, the purple and
     blue lines coincide.</i></figcaption>
 	</div>
