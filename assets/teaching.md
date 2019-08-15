@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The long trudge: how to fix"
+title:  "Stuck in the scrubland"
 categories: [Maths, Physics, Teaching]
 date:  2019-08-03
 ---
@@ -11,24 +11,26 @@ date:  2019-08-03
 
 ## Stuck in the scrubland
 
-Imagine that, in high school, you had hiking classes.
+I want you to imagine a reality, not so different from our own, where
+students in high school are forced to tak *hiking classes*.
 Every day, for a couple of hours, you and your classmates would trudge
-joylessly through a flat and featureless scrubland, with no views, no
+joylessly through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-The point, replies the teacher defensively, whenever a student asks, is to
-help you get better at walking, an important life skill you will need as an adult.
-Heck, if you can't walk, how do you expect to get a job when you
-graduate!
+When the class complains that the walk is boring and pointless, the
+teacher defensively replies that walking is an important life skill
+they will need as an adult.
+Heck, if you can't walk, how do you expect to get a job!
 
-But do you think you would enjoy hiking class?
-Would you blame students for losing interest and lagging behind, or
+Do you think you would enjoy this hiking class?
+Would you blame students for losing interest and lagging behind, and
 for later identifying as people who hated hiking?
 The problem is that, for most people, walking is not an intrinsically
 interesting activity.
-And the students could legitimately object: in the future, I'm just
-going to be walking from my house to the my car.
-Why do I need to spend hours doing this each week?
-Heck, I'm going to avoid jobs that require a lot of walking.
+And students they have no intention of walking for hours every day
+when they graduate.
+They plan to walk from the house to the car, and from the car to work,
+and maybe take the dog around the block every now and again.
+A job that requires hours of walking? No thank you!
 
 There seem to be two ways to fix the situation. The first is to
 dramatically lower our ambitions, and train students to walk from
@@ -94,3 +96,8 @@ bustle of every life.
 Perhaps it's the lure of exploration, or the call of that mountain
 summit in the distance.
 Whatever it is, when a students asks: why are we doing this?
+
+And the students could legitimately object that in the future, I'm just
+going to be walking from my house to the my car.
+Why do I need to spend hours doing this each week?
+Heck, I'm going to avoid jobs that require a lot of walking.
