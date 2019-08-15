@@ -92,7 +92,7 @@ The following exercises are from the section on rates of change:
 <figure>
     <div style="text-align:center"><img src ="/images/specialist1.png"
     width="75%" />
-		    <figcaption><i>A typical scrubland specimen.</i></figcaption>
+		    <figcaption><i>Dead shrubs in the scrubland.</i></figcaption>
 	</div>
 	</figure>
 
@@ -111,16 +111,25 @@ There are no landmarks, nothing for the eye to latch onto.
 
 #### Landmarks ahoy?
 
-Now, conventional wisdom states that students need to master these problems
-before they can go to do interesting things.
-Maybe there are some landmarks in the distance, once we get past all
+Now, conventional wisdom states that students need to master basic
+skills, through drill, before they can go to do interesting things.
+Maybe there are some landmarks in the distance after all, once we get past
 the dead shrubs.
 What could they look like?
+
+There are two directions we could go, which reflect the structure of
+mathematics itself.
+On the one hand, we have *pure* mathematics, focused on discovering
+properties of formal structures.
+This is realm of abstraction, of generalisation, of proof, and it
+does require excellent walking skills.
+So what does our textbook have by way of theoretical landmarks?
+Let's see.
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist2.png"
     width="75%" />
-		    <figcaption><i>.</i></figcaption>
+		    <figcaption><i>Landmark or scrubland?</i></figcaption>
 	</div>
 	</figure>
 
