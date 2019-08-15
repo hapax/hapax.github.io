@@ -192,7 +192,7 @@ This is pictured on the Cartesian plane below.
 Now suppose that we 
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/mvt1.png"
+    <div style="text-align:center"><img src ="/images/posts/mvt2.png"
     width="60%" />
 		    <figcaption><i>Drawing a purple line between the endpoints
     of the graph.</i></figcaption>
