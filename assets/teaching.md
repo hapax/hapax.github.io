@@ -54,7 +54,7 @@ with the potential to be great hikers, if only they had the interest?
 Really, we should *make things interesting*, and let the students
 decide for themselves if they want to hike.
 
-This is the solution I think many readers will have immediately suggested.
+This is the solution the astute reader will have guessed immediately.
 We need to hike through interesting terrain, through meadows and swamps,
 between valleys and mountains, at dawn and sunset when the prospects are good.
 At first, hikes would be along the comfortable and well-trodden routes
