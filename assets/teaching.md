@@ -9,52 +9,47 @@ date:  2019-08-03
 
 **August 13, 2019.** *A short manifesto on maths education.*
 
-## Stuck in the scrubland
+## Hiking class
 
 I want you to imagine a reality, not so different from our own, where
-students in high school are forced to tak *hiking classes*.
+you were force to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
-joylessly through a featureless scrubland, with no views, no
+through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-When the class complains that the walk is boring and pointless, the
-teacher defensively replies that walking is an important life skill
-they will need as an adult.
+When the class complained that the walk was boring and pointless, the
+teacher defensively replied that walking is an important life skill
+you would need as an adult.
 Heck, if you can't walk, how do you expect to get a job!
 
-Do you think you would enjoy this hiking class?
-Would you blame students for losing interest and lagging behind, and
-for later identifying as people who hated hiking?
+Do you think you would have enjoyed this hiking class?
+Would you blame most students for losing interest and lagging behind,
+and later identifying as people who hated hiking?
+Of course not!
 The problem is that, for most people, walking is not an intrinsically
 interesting activity.
-And students they have no intention of walking for hours every day
-when they graduate.
-They plan to walk from the house to the car, and from the car to work,
-and maybe take the dog around the block every now and again.
-A job that requires hours of walking? No thank you!
+Unless they are taught to love hiking, they will have no thought of
+walking for hours every day; if it becomes joyless, a sort of routine
+torture, they will avoid it in future.
 
 There seem to be two ways to fix the situation. The first is to
-dramatically lower our ambitions, and train students to walk from
-their house to their car. But what if a whole sector of the economy
-depends on good hiking skills? Without the longer classes, schools
-will not produce walkers of the calibre needed to fill those
-roles. There are good economic reasons, in this case, to provide
-students with opportunities to develop advanced hiking skills.
+lower our ambitions, and train students for small walks, jaunts around
+the block or to the shops.
+But what if a whole sector of the economy
+depends on advanced hiking skills?
+What if there is a need for wayfarers, explorers and hunters?
+If we lower our ambitions, society as a whole loses out.
+Perhaps there are general cultural benefits when everyone enjoys a
+hike, for instance, a higher level of physical fitness, or a closer
+connection to nature.
 
-There may also be benefits to a society where more people hike for
-fun. For instance, it would reduce carbon emissions, and might make
-for a less frantic, more contemplative culture. This involves some
-value judgements, but teachers and curricular authorities are in the
-position to make this, and make similar judgements when they put
-Shakespeare on the syllabus.
-
-The solution then is simple.
-They need to hike interesting terrain, from meadows to swamps to
-forests, at first along the comfortable and well-trodden routes. But
-by degrees, they should conquer summits, explore uncharted wastes, and
-camp in the wilderness.
+The solution is simple.
+We need to hike through interesting terrain, from meadows to swamps to
+mountains, at first along the comfortable and well-trodden routes, but
+later, by degrees, to camp in the wilderness, explore uncharted
+wastes, and conquer summits.
 At the end of the day, hiking is not about the act of walking, but a
-way to experience the world. The walking is a means to this end. And
-the class will remain a dead letter, pure trudgery, until it gets out
+way to experience the world.
+And the class will remain a dead letter until it gets out
 of the scrubland and owns its purpose.
 
 ## Changing the landscape
@@ -101,3 +96,28 @@ And the students could legitimately object that in the future, I'm just
 going to be walking from my house to the my car.
 Why do I need to spend hours doing this each week?
 Heck, I'm going to avoid jobs that require a lot of walking.
+
+They plan to walk from the house to the car, and from the car to work,
+and maybe take the dog around the block every now and again.
+A job that requires hours of walking? No thank you!
+
+Without the longer classes, schools
+will not produce walkers of the calibre needed to fill those
+roles. There are good economic reasons, in this case, to provide
+students with opportunities to develop advanced hiking skills.
+
+There may also be benefits to a society where more people hike for
+fun. For instance, it would reduce carbon emissions, and might make
+for a less frantic, more contemplative culture. This involves some
+value judgements, but teachers and curricular authorities are in the
+position to make this, and make similar judgements when they put
+Shakespeare on the syllabus.
+
+We need to change hiking classes so that walks go through interesting
+terrain, from meadows to swamps and valleys to forests; at first, along the comfortable and well-trodden routes. But
+by degrees, they should conquer summits, explore uncharted wastes, and
+camp in the wilderness.
+At the end of the day, hiking is not about the act of walking, but a
+way to experience the world. The walking is a means to this end. And
+the class will remain a dead letter, pure trudgery, until it gets out
+of the scrubland and owns its purpose.
