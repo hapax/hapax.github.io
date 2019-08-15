@@ -9,7 +9,7 @@ date:  2019-08-03
 
 **August 13, 2019.** *A manifesto on maths education.*
 
-## A perambulatory parable
+## A preamble
 
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
@@ -174,3 +174,5 @@ But it is more credible that people
 At the end of the day, hiking is not about the act of walking itself,
 which can be pure drudgery, but rather, to use walking as a way of experiencing
 the world.
+
+Perambulatory parable
