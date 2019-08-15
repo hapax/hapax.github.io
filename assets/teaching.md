@@ -38,9 +38,10 @@ the block or to the shops.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if there is a need for wayfarers, explorers and hunters?
+Not everywhere can be reached by car.
 If we lower our ambitions, society as a whole loses out.
-You can imagine there are also general cultural benefits when everyone enjoys a
-hike, for instance, a higher level of average physical fitness, or a
+Perhaps, also, there are general cultural benefits when everyone
+enjoys hiking, for instance, a higher level of average physical fitness, or a
 closer connection to nature.
 
 The solution is simple.
@@ -59,7 +60,12 @@ of the scrubland and owns its purpose.
 ## The intuition pump
 
 Hopefully, by now you've realised this is a thinly veiled analogy for
-maths education.
+maths class.
+For so many students, it feels like a pointless trudge through a
+landscape without interest, without life, which is stuck in the
+scrubland, with a guide who can't explain where they're going or why
+they're doing it.
+I know because that was my experience in high school.
 
 ## References
 
