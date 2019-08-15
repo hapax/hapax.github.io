@@ -31,13 +31,14 @@ activity.
 There needs to be some motivation to walk, something to walk towards
 or to look at.
 If there isn't, it becomes a chore, and rather than being trained to
-walk, you will be trained to avoid walking.
+walk, you will be trained to *avoid walking*.
 
-There seem to be two ways to fix the situation. The first is to
-lower our ambitions, and train students for small walks, jaunts around
-the block or to the shops.
+There are two ways to fix the situation.
+The first is to lower ambitions and go on smaller walks, closer to the
+walking most students really do as adults.
+It's not hiking at all!
 But what if a whole sector of the economy
-depends on advanced hiking skills?
+depended on advanced hiking skills?
 What if there is a need for wayfarers, explorers and hunters?
 Not everywhere can be reached by car.
 If we lower our ambitions, society as a whole loses out.
