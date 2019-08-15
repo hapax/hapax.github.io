@@ -81,7 +81,7 @@ using formal systems.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
-#### Dead shrubs
+#### Endless shrubs
 
 In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
@@ -98,7 +98,6 @@ The following exercises are from the section on rates of change:
 
 These are completely formal, plug-and-chug problems, and students are
 forced to do hundreds of them.
-
 I don't know about you, but these problems fill me with a sort of
 existential horror.
 Why do I care about the derivative of $\sin^{-1}(5x/4)$?
@@ -109,7 +108,7 @@ This is what I mean by the scrubland.
 It's an endless plain of withered, ankle-height shrubs.
 There are no landmarks, nothing for the eye to latch onto.
 
-#### Beautiful landmarks
+#### Aesthetic landmarks
 
 Now, conventional wisdom states that students need to master basic
 skills, through drill, before they can go to do interesting things.
@@ -142,7 +141,7 @@ almost as an afterthought, bringing them back to civilisation.
 This is an activity we should be modelling and advertising and making accessible.
 
 But this is not what happens.
-Here's an example of what passes for pure mathematics in our advanced textbook:
+Here's an example of what passes for pure mathematics in our "advanced" textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist2.png"
@@ -151,10 +150,14 @@ Here's an example of what passes for pure mathematics in our advanced textbook:
 	</div>
 	</figure>
 
-This is more scrubland, just with shrubs of a different colour.
-There is nothing beautiful about these results; there is nothing
-surprising.
-They have no aesthetic value.
+This is more scrubland, but the shrubs are coloured differently.
+There is nothing beautiful about these results, nothing surprising.
+As presented here, they have no aesthetic value; they are just brute
+formal facts.
+
+#### Pure mathematics: an example
+
+The tradition is 
 
 #### Useful landmarks
 
