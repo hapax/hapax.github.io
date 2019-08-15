@@ -12,7 +12,7 @@ date:  2019-08-03
 ## A fable
 
 I want you to imagine a reality, not so different from our own, where
-you were force to take *hiking classes* in high school.
+you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
@@ -43,12 +43,14 @@ hike, for instance, a higher level of physical fitness, or a closer
 connection to nature.
 
 The solution is simple.
-We need to hike through interesting terrain, from meadows to swamps to
-mountains, at first along the comfortable and well-trodden routes, but
-later, by degrees, to camp in the wilderness, explore uncharted
-wastes, and conquer summits.
-At the end of the day, hiking is not about the act of walking, but a
-way to experience the world.
+We need to hike through interesting terrain, from meadows to swamps,
+from valleys to mountains.
+At first, hikes would be along the comfortable and well-trodden routes, but
+later, by degrees, students would learn to camp in the wilderness,
+explore uncharted wastes, and conquer summits.
+At the end of the day, hiking is not about the act of walking itself,
+which can be drudgery, but using that walking as a way if experiencing
+the world.
 And the class will remain a dead letter until it gets out
 of the scrubland and owns its purpose.
 
