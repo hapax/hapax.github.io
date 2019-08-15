@@ -70,7 +70,7 @@ experience the world.
 ## Hiking vs walking
 
 You've probably realised by now that I'm not talking about hiking, I'm
-talking about *maths*.
+talking about *maths education*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, to play with formal structures.
 For most people, this is not an intrisically interesting activity.
