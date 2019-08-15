@@ -19,18 +19,16 @@ peaks, and no apparent goal other than the hike itself.
 When the class complained that the walk was boring and pointless, the
 teacher would defensively reply that walking was an important life
 skill you needed to get by as an adult.
-Heck, if you can't walk, how do you expect to get a job when you graduate!
+Heck, if you can't walk, how do you expect to get a job!
 
-Do you think you would have enjoyed this hiking class?
-Would you blame most students for losing interest and lagging behind,
-and later identifying as people who hated hiking?
-Of course not!
+Would you have enjoyed this hiking class?
+Or would you have lost interest, and started lagging behind?
+Maybe you would even come to proudly identify as someone who was bad
+at hiking!
 The problem is that, for most people, walking is not an intrinsically
 interesting activity.
-Unless they are taught to love hiking, they'll have no thought of
-walking for hours every day.
-Not to mention if it becomes a joyless chore, in which case they'll do
-everything they can to avoid it!
+They need some motivation to walk.
+If walking becomes a chore, 
 
 There seem to be two ways to fix the situation. The first is to
 lower our ambitions, and train students for small walks, jaunts around
@@ -136,3 +134,12 @@ At the end of the day, hiking is not about the act of walking, but a
 way to experience the world. The walking is a means to this end. And
 the class will remain a dead letter, pure trudgery, until it gets out
 of the scrubland and owns its purpose.
+
+Would you blame most students for losing interest and lagging behind,
+and later identifying as people who hated hiking?
+Of course not!
+
+Unless they are taught to love hiking, they'll have no thought of
+walking for hours every day.
+Not to mention if it becomes a joyless chore, in which case they'll do
+everything they can to avoid it!
