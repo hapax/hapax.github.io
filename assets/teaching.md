@@ -86,9 +86,13 @@ provide interest, and to empower them.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
+In case you think I'm being bombastic, let me give you a typical
+snapshot of the scrubland.
+These 
+
 <figure>
     <div style="text-align:center"><img src ="/images/specialist1.png"
-    /> width="80%"
+    width="80%" />
 		    <figcaption><i>The scrubland.</i></figcaption>
 	</div>
 </figure>
