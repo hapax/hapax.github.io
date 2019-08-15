@@ -38,7 +38,7 @@ There are a few different ways to fix the situation.
 The first is to lower our ambitions and go on smaller hikes, closer to the
 walking students do as adults.
 The connection between practice and real life is then clear, and less
-likely to lead to resentment.
+likely to lead to resentment; the teacher can justify the exercise.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
@@ -47,7 +47,8 @@ If we lower our sights, society as a whole could lose out.
 Perhaps, then, we should restrict hiking classes to those who naturally enjoy
 walking and don't mind the drudgery.
 These people, one could reason, will obviously become the best hikers.
-But is this true?
+We can get them running laps through the scrubland and they'll love it!
+But is it true that they will become the best hikers?
 What if walking is a skill that can be developed?
 What if, by restricting our attention to these natural walkers, we
 miss out on a huge pool of talent, those who have the potential to be
