@@ -33,7 +33,7 @@ or to look at.
 If there isn't, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
 
-There are two ways to fix the situation.
+There are a few different ways to fix the situation.
 The first is to lower ambitions and go on smaller hikes, closer to the
 walking most students do as adults.
 That makes it easier to motivate the whole enterprise, and less likely
@@ -42,12 +42,15 @@ But what if a whole sector of the economy
 depended on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
 Not everywhere can be reached by car.
-If we lower our ambitions, society as a whole loses out.
-Perhaps, also, there are general cultural benefits when everyone
-enjoys hiking, for instance, a higher level of average physical fitness, or a
-closer connection to nature.
+If we lower our sights, society as a whole could lose out.
 
-The solution is simple.
+A second way is to stream the hiking classes, selecting for longer
+walks the people who seem to enjoy walking.
+These people, we might reason, are much more likely to become advanced
+hikers.
+They will trudge, without complaint, without wondering what it all
+means, and 
+
 We need to hike through interesting terrain, between meadows and swamps,
 and from valleys to mountains.
 At first, hikes would be along the comfortable and well-trodden routes
@@ -148,3 +151,7 @@ Unless they are taught to love hiking, they'll have no thought of
 walking for hours every day.
 Not to mention if it becomes a joyless chore, in which case they'll do
 everything they can to avoid it!
+
+Perhaps, also, there are general cultural benefits when everyone
+enjoys hiking, for instance, a higher level of average physical fitness, or a
+closer connection to nature.
