@@ -154,7 +154,7 @@ This is more scrubland, but the shrubs are coloured differently.
 There is nothing beautiful about these results, nothing surprising.
 They are presented as brute formal facts, with no aesthetic value.
 
-#### Curves and kinks: an example
+#### MVT and infinite kinks: an example
 
 Once again, there is some conventional wisdom at work here.
 Students find proofs hard.
@@ -235,7 +235,8 @@ straight, and look at the slope (more or less what we mean by the
 derivative).
 You can convince students that the blue and purple lines
 have the *same slope* at the point of intersection.
-If they had different slopes
+If they had different slopes, they would cross each other rather than
+being tangent!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
@@ -244,6 +245,21 @@ If they had different slopes
     blue lines are parallel.</i></figcaption>
 	</div>
 </figure>
+
+But since the purple line is straight line, we can easily calculate
+its slope:
+
+$$
+\text{slope} = \frac{\text{rise}}{\text{run}} = \frac{f(b)-f(a)}{b-a}.
+$$
+
+We have just proved (at least heuristically) the *mean value theorem*:
+a function $f(x)$ from $a$ to $b$ has some point $x^*$ where the derivative
+equals the "mean" slope between its endpoints,
+
+$$
+f'(x^*) = \frac{f(b)-f(a)}{b-a}.
+$$
 
 #### Useful landmarks
 
