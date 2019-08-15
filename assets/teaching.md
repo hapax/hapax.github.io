@@ -109,7 +109,7 @@ This is what I mean by the scrubland.
 It's an endless plain of withered, ankle-height shrubs.
 There are no landmarks, nothing for the eye to latch onto.
 
-#### Truth and beauty
+#### Beautiful landmarks
 
 Now, conventional wisdom states that students need to master basic
 skills, through drill, before they can go to do interesting things.
@@ -119,30 +119,50 @@ What could they look like?
 
 There are two directions we could go, which reflect the structure of
 mathematics itself.
-On the one hand, we have *pure* mathematics, which is all about
-playing with interesting formal structures and discovering their
+The first direction is *pure* mathematics, which is all about
+playing with formal structures and discovering their
 properties.
 This is the realm of abstraction, of generalisation, of
-proof, but most importantly, of beauty.
-The philosopher Bertrand Russell said that maths had a "beauty cold
+proof, and most importantly, of beauty.
+Aesthetic consideration are famously important to pure mathematicians.
+The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
-He was talking about pure maths.
 Along similar lines, the English mathematician G. H. Hardy said
-"Beauty is the first test: there is no permanent place in the world
+"beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
 
+Perhaps we should show our students some beautiful mathematics.
+In my analogy, this could a mountain peak with a particularly glorious view of sunrise.
+You need to be a good walker to get there, and the trail may wind
+through some shrubby foothills.
+More generally, pure mathematicians are like Indiana Jones, venturing
+into trackless realms and finding objects of great beauty, before,
+almost as an afterthought, bringing them back to civilisation.
+This is an activity we should be modelling and advertising and making accessible.
+
+But this is not what happens.
+Here's an example of what passes for pure mathematics in our advanced textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist2.png"
     width="75%" />
-		    <figcaption><i>Landmark or scrubland?</i></figcaption>
+		    <figcaption><i>Mountain or scrubland?</i></figcaption>
 	</div>
 	</figure>
 
-## Guides
+This is more scrubland, just with shrubs of a different colour.
+There is nothing beautiful about these results; there is nothing
+surprising.
+They have no aesthetic value.
 
-Adroit
+#### Useful landmarks
+
+A second type of landmark is 
+
+## The role of the teacher
+
+Adroit guide
 
 ## References
 
