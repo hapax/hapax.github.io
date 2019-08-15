@@ -23,12 +23,15 @@ Heck, if you can't walk, how do you expect to get a job!
 
 Would you have enjoyed this hiking class?
 Or would you have lost interest, and started lagging behind?
-Maybe you would even come to proudly identify as someone who was bad
-at hiking!
-The problem is that, for most people, walking is not an intrinsically
-interesting activity.
-They need some motivation to walk.
-If walking becomes a chore, 
+Maybe, in time, you would even come to proudly identify as someone who was bad
+at hiking.
+The problem with the class is obvious.
+For most people, walking is not an intrinsically interesting
+activity.
+There needs to be some motivation to walk, something to walk towards
+or to look at.
+If there isn't, it becomes a chore, and rather than being trained to
+walk, you will be trained to avoid walking.
 
 There seem to be two ways to fix the situation. The first is to
 lower our ambitions, and train students for small walks, jaunts around
