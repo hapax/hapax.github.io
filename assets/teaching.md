@@ -39,9 +39,9 @@ But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if there is a need for wayfarers, explorers and hunters?
 If we lower our ambitions, society as a whole loses out.
-Perhaps there are general cultural benefits when everyone enjoys a
-hike, for instance, a higher level of physical fitness, or a closer
-connection to nature.
+You can imagine there are also general cultural benefits when everyone enjoys a
+hike, for instance, a higher level of average physical fitness, or a
+closer connection to nature.
 
 The solution is simple.
 We need to hike through interesting terrain, from meadows to swamps,
