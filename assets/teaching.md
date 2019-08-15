@@ -54,18 +54,17 @@ with the potential to be great hikers, if only they had the interest?
 Really, we should *make things interesting*, and let the students
 decide for themselves if they want to hike.
 
-This is the solution I think the astute reader will have guessed immediately.
+This is the solution I think many readers will have immediately suggested.
 We need to hike through interesting terrain, through meadows and swamps,
-between valleys and mountains.
+between valleys and mountains, at dawn and sunset when the prospects are good.
 At first, hikes would be along the comfortable and well-trodden routes
 while students found their feet and developed confidence, but
-later, by degrees, they would learn to camp in the wilderness,
+with time, by degrees, they could learn to camp in the wilderness,
 to explore uncharted wastes and conquer summits.
 At the end of the day, hiking is not about the act of walking itself,
-which can be pure drudgery, but rather, to use walking as a way of experiencing
-the world.
-Hiking class will remain a dead letter until it gets out
-of the scrubland and owns its purpose.
+but rather, using walking to experience the world.
+And these hiking classes will obviously remain a dead letter until it
+they get out of the scrubland and own their purpose.
 
 ## The intuition pump
 
@@ -171,3 +170,7 @@ But sometimes they trudge without purpose, almost too willing to
 follow the path, or the teacher, gazing contentedly at their own feet.
 These people may make the best hikers, who knows?
 But it is more credible that people
+
+At the end of the day, hiking is not about the act of walking itself,
+which can be pure drudgery, but rather, to use walking as a way of experiencing
+the world.
