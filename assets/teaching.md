@@ -17,8 +17,8 @@ Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
 When the class complained that the walk was boring and pointless, the
-teacher defensively replied that walking is an important life skill
-you would need as an adult.
+teacher would defensively reply that walking is an important life
+skill needed to get as an adult.
 Heck, if you can't walk, how do you expect to get a job!
 
 Do you think you would have enjoyed this hiking class?
