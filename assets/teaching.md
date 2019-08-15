@@ -171,7 +171,8 @@ of the hill.
 So we need to teach proofs better.
 We need to use examples which pique student interest, and teach them
 how to reason mathematically step by step.
-Start with visual proofs, intuition pumps, heuristics, cut corners.
+Start with examples, visual proofs, intuition pumps, heuristics, and
+judiciously cut corners.
 If you start with Euclid's axioms, that's probably where the student's
 relationship with the deductive method is going to end.
 
@@ -189,16 +190,47 @@ This is pictured on the Cartesian plane below.
 	</div>
 	</figure>
 
-Now suppose that we 
+Now draw a line between the endpoints of the graph.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt2.png"
     width="60%" />
-		    <figcaption><i>Drawing a purple line between the endpoints
+		    <figcaption><i>Drawing a line (purple) between the endpoints
     of the graph.</i></figcaption>
 	</div>
 	</figure>
 
+What happens if we shift the purple line (without tilting) up or down?
+There will be two points at which it *just touches* (is tangent to)
+the curve.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt3.png"
+    width="60%" />
+		    <figcaption><i>There are two points at which the line just
+    touches the graph.</i></figcaption>
+	</div>
+	</figure>
+
+Is it possible choose different points, or to draw a different graph,
+so that it "just touches" at one point?
+Indeed there is.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt4.png"
+    width="60%" />
+		    <figcaption><i>An example where the purple line is tangent
+    at a single point.</i></figcaption>
+	</div>
+	</figure>
+
+Students could be asked to see if there is any way to change the
+points, or draw the graph different, so that there are *no* points at
+which the purple line just touches.
+They should find that, if they draw nice smooth lines, the answer is
+no!
+
+What does it mean for 
 
 #### Useful landmarks
 
