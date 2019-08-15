@@ -183,19 +183,19 @@ This is pictured on the Cartesian plane below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt1.png"
-    width="75%" />
-		    <figcaption><i>A function $f(x)$ defined for $a \leq x
+    width="60%" />
+		    <figcaption><i>Graphing a function $f(x)$ for $a \leq x
     \leq b$.</i></figcaption>
 	</div>
 	</figure>
 
-Now image
+Now suppose that we 
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt1.png"
-    width="75%" />
-		    <figcaption><i>A function $f(x)$ defined for $a \leq x
-    \leq b$.</i></figcaption>
+    width="60%" />
+		    <figcaption><i>Drawing a purple line between the endpoints
+    of the graph.</i></figcaption>
 	</div>
 	</figure>
 
