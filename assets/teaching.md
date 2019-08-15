@@ -34,12 +34,13 @@ If there isn't, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
 
 There are two ways to fix the situation.
-The first is to lower ambitions and go on smaller walks, closer to the
-walking most students really do as adults.
-It's not hiking at all!
+The first is to lower ambitions and go on smaller hikes, closer to the
+walking most students do as adults.
+That makes it easier to motivate the whole enterprise, and less likely
+to lead to resentment.
 But what if a whole sector of the economy
 depended on advanced hiking skills?
-What if there is a need for wayfarers, explorers and hunters?
+What if there was a need for wayfarers, explorers and hunters?
 Not everywhere can be reached by car.
 If we lower our ambitions, society as a whole loses out.
 Perhaps, also, there are general cultural benefits when everyone
