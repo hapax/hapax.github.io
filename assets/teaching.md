@@ -157,7 +157,12 @@ formal facts.
 
 #### Pure mathematics: an example
 
-The tradition is 
+Once again, there is some conventional wisdom at work here.
+Students find proofs hard.
+If you've ever tried to teach Euclid to high school students, you
+might have noticed this.
+But I don't think is because proofs are inherently difficult.
+Rather, I think it's because the learning curve is much too steep, and 
 
 #### Useful landmarks
 
@@ -166,6 +171,8 @@ A second type of landmark is
 ## The role of the teacher
 
 Adroit guide
+
+## The research
 
 ## References
 
@@ -281,3 +288,9 @@ Perambulatory parable
 
 And these hiking classes will remain a dead letter until they get out
 of the scrubland and own their purpose.
+
+
+Do we really expect them to become devotees of the deductive method
+after fifteen theorems abut triangles?
+Of course, there will be people who naturally love Euclid.
+But proving facts about plane figures leaves most of us cold.
