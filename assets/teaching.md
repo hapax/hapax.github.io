@@ -48,14 +48,14 @@ Perhaps, then, we should restrict hiking classes to those who naturally enjoy
 walking and don't mind the drudgery.
 These people, one could reason, will obviously become the best hikers.
 We can get them running laps through the scrubland and they'll love it!
-But is it true that they will become the best hikers?
+But is it true that they'll become the best hikers?
 What if walking is a skill that can be developed?
 What if, by restricting our attention to these natural walkers, we
 miss out on a huge pool of talent, those who have the potential to be
-great hikers, if only they had the interest.
+great hikers, if only they developed the walking skills.
+
 Really, we should *make things interesting*, and let the students
 decide for themselves whether they want to hike.
-
 This is the solution the astute reader will have guessed immediately.
 If you want to make the classes good, you need to hike through interesting terrain, through meadows and swamps,
 into valleys and up mountains, at dawn and sunset when the prospects are good.
