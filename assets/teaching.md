@@ -213,8 +213,8 @@ the curve.
 	</figure>
 
 Is it possible choose different points, or to draw a different graph,
-so that it "just touches" at one point?
-Indeed there is.
+so that it is tangent at one point?
+After some experimentation, they should find it is:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt4.png"
@@ -224,12 +224,11 @@ Indeed there is.
 	</div>
 	</figure>
 
-Students could be asked to see if there is any way to change the
-points, or draw the graph different, so that there are *no* points at
-which the purple line just touches.
-They should find that, if they draw nice smooth lines, the answer is
-no!
-But what does it mean to "just touch"?
+What about *no points* where the graphs are tangent?
+With some time to play around, students should discover that the
+answer is no, as long as they draw a smooth line.
+How can they prove it?
+This lies in the definition of "just touching".
 Imagine zooming in infinitely close, so that the blue line becomes
 straight, and look at the slope (more or less what we mean by the
 derivative).
@@ -242,11 +241,29 @@ being tangent!
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
     width="60%" />
 		    <figcaption><i>At infinite magnification, the purple and
-    blue lines are parallel.</i></figcaption>
+    blue lines coincide.</i></figcaption>
 	</div>
 </figure>
 
-But since the purple line is straight line, we can easily calculate
+This suggests a visual proof you could either tell the students, or
+let them discover (with some prompting) for themselves.
+Some of the blue curve should lie above the purple line, or below the
+purple line, otherwise it *is* the purple line and we are done.
+If it lies below, for instance, move the purple line down until it
+can't go further without touching the blue line at all.
+If the purple line wasn't tangent to the blue, the blue would cross
+*through* the purple and we could continue moving it up.
+So it has to just touch at that point!
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt6.png"
+    width="60%" />
+		    <figcaption><i>A visual "proof"/algorithm to find where
+    the purple line is tangent to the blue curve.</i></figcaption>
+	</div>
+	</figure>
+
+Since the purple line is straight line, we can easily calculate
 its slope:
 
 $$
@@ -260,6 +277,8 @@ equals the "mean" slope between its endpoints,
 $$
 f'(x^*) = \frac{f(b)-f(a)}{b-a}.
 $$
+
+This is not beyond 
 
 #### Useful landmarks
 
