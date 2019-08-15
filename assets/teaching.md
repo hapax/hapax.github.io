@@ -40,7 +40,7 @@ That makes it easier to motivate the whole enterprise, and less likely
 to lead to resentment.
 But what if a whole sector of the economy
 depended on advanced hiking skills?
-What if there was a need for wayfarers, explorers and hunters?
+What if we need wayfarers, explorers and hunters?
 Not everywhere can be reached by car.
 If we lower our ambitions, society as a whole loses out.
 Perhaps, also, there are general cultural benefits when everyone
