@@ -24,18 +24,19 @@ Heck, if you can't walk, how do you expect to get a job!
 Would you have enjoyed this hiking class?
 Or, more likely, would you have lost interest, and started lagging behind?
 Maybe in time you would even come to proudly identify as someone who
-hated hiking.
+sucked at hiking and hated it.
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity.
 There needs to be some motivation to walk, something to walk towards
-or to look at.
-If there isn't, it becomes a chore, and rather than being trained to
-walk, you will learn to *avoid walking*.
+or to look at while you walk.
+That's the point of a proper hike.
+If there's no motivation, it becomes a chore, and rather than being trained to
+walk, you will be trained to *avoid walking*.
 
 There are a few different ways to fix the situation.
 The first is to lower our ambitions and go on smaller hikes, closer to the
-walking most students do as adults.
+walking students do as adults.
 The connection between practice and real life is then clear, and less
 likely to lead to resentment.
 But what if a whole sector of the economy
@@ -43,30 +44,33 @@ depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
 If we lower our sights, society as a whole could lose out.
 
-Perhaps, then, we should select for hiking classes those who naturally
-seem to enjoy walking.
-These people, we reason, will become the best hikers.
-But is this reasonable?
+Perhaps, then, we should restrict hiking classes to those who naturally enjoy
+walking and don't mind the drudgery.
+These people, one could reason, will obviously become the best hikers.
+But is this true?
 What if walking is a skill that can be developed?
-What if, by restricting our attention to those who require less
-development, we are failing to tap a huge pool of talent, namely those
-with the potential to be great hikers, if only they had the interest?
+What if, by restricting our attention to these natural walkers, we
+miss out on a huge pool of talent, those who have the potential to be
+great hikers, if only they had the interest.
 Really, we should *make things interesting*, and let the students
-decide for themselves if they want to hike.
+decide for themselves whether they want to hike.
 
 This is the solution the astute reader will have guessed immediately.
-We need to hike through interesting terrain, through meadows and swamps,
-between valleys and mountains, at dawn and sunset when the prospects are good.
-At first, hikes would be along the comfortable and well-trodden routes
+If you want to make the classes good, you need to hike through interesting terrain, through meadows and swamps,
+into valleys and up mountains, at dawn and sunset when the prospects are good.
+At first, hikes would be along the comfortable and well-trodden routes,
 while students found their feet and developed confidence, but
 with time, by degrees, they could learn to camp in the wilderness,
 to explore uncharted wastes and conquer summits.
-At the end of the day, hiking is not about the act of walking itself,
-but rather, using walking to experience the world.
-And these hiking classes will obviously remain a dead letter until it
-they get out of the scrubland and own their purpose.
+They would learn that, at the end of the day, hiking was not about the
+act of walking, but rather, using walking to
+experience the world.
 
 ## The intuition pump
+
+## References
+
+## Extra
 
 Hopefully, by now you've realised this is a thinly veiled analogy for
 maths class.
@@ -75,10 +79,6 @@ landscape without interest, without life, which is stuck in the
 scrubland, with a guide who can't explain where they're going or why
 they're doing it.
 I know because that was my experience in high school.
-
-## References
-
-## Extra
 
 Of course, this is a thinly veiled analogy to high school maths class.
 Doing maths, by itself, for itself, is not intrinsically interesting
@@ -93,8 +93,6 @@ My point is not that trigonometry or the quadratic formula are
 useless, but that the stated aim of basic numeracy doesn't match what
 we teach in the curriculum.
 Clearly, there's some other value system at play.
-
-## References
 
 <span style="padding-left: 20px; display:block">
 The eye is the best of artists.
@@ -176,3 +174,6 @@ which can be pure drudgery, but rather, to use walking as a way of experiencing
 the world.
 
 Perambulatory parable
+
+And these hiking classes will remain a dead letter until they get out
+of the scrubland and own their purpose.
