@@ -44,18 +44,22 @@ hike, for instance, a higher level of average physical fitness, or a
 closer connection to nature.
 
 The solution is simple.
-We need to hike through interesting terrain, from meadows to swamps,
-from valleys to mountains.
-At first, hikes would be along the comfortable and well-trodden routes, but
-later, by degrees, students would learn to camp in the wilderness,
-explore uncharted wastes, and conquer summits.
+We need to hike through interesting terrain, between meadows and swamps,
+and from valleys to mountains.
+At first, hikes would be along the comfortable and well-trodden routes
+while students found their feet and developed confidence, but
+later, by degrees, they would learn to camp in the wilderness,
+to explore uncharted wastes and conquer summits.
 At the end of the day, hiking is not about the act of walking itself,
-which can be drudgery, but using that walking as a way if experiencing
+which can be pure drudgery, but rather, to use walking as a way of experiencing
 the world.
-And the class will remain a dead letter until it gets out
+Hiking class will remain a dead letter until it gets out
 of the scrubland and owns its purpose.
 
-## Changing the landscape
+## The intuition pump
+
+Hopefully, by now you've realised this is a thinly veiled analogy for
+maths education.
 
 ## References
 
