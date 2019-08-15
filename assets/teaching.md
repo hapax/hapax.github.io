@@ -9,7 +9,7 @@ date:  2019-08-03
 
 **August 13, 2019.** *A short manifesto on maths education.*
 
-## A fable
+## A perambulatory parable
 
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
