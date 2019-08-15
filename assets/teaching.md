@@ -230,10 +230,11 @@ which the purple line just touches.
 They should find that, if they draw nice smooth lines, the answer is
 no!
 But what does it mean to "just touch"?
+Imagine zooming in infinitely close, so that the blue line becomes
+straight, and look at the slope (more or less what we mean by the
+derivative).
 You can convince students that the blue and purple lines
 have the *same slope* at the point of intersection.
-Imagine zooming in infinitely close, so that the blue line becomes
-straight (which is actually what we mean by the slope).
 If they had different slopes
 
 <figure>
