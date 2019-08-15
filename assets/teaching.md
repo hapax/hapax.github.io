@@ -88,14 +88,18 @@ America, insist on marching students through the scrubland.
 
 In case you think I'm being bombastic, let me give you a typical
 snapshot of the scrubland.
-These 
+The following exercise are taken from a popular Australian textbook
+(which shall remain nameless) for the most advanced high school maths
+subject:
 
 <figure>
     <div style="text-align:center"><img src ="/images/specialist1.png"
-    width="80%" />
+    width="75%" />
 		    <figcaption><i>The scrubland.</i></figcaption>
 	</div>
-</figure>
+	</figure>
+
+
 
 ## Guides
 
