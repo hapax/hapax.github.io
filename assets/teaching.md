@@ -46,14 +46,17 @@ If we lower our sights, society as a whole could lose out.
 Perhaps, then, we should select for hiking classes those who naturally
 seem to enjoy walking.
 These people, we reason, will become the best hikers.
-But is this reasonble?
-These natural walkers trudge without complaint, they have stamina,
-they have grit.
-But sometimes they trudge without purpose, almost too willing to
-follow the path, or the teacher, gazing contentedly at their own feet.
+But is this reasonable?
+What if walking is a skill that can be developed?
+What if, by restricting our attention to those who require less
+development, we are failing to tap a huge pool of talent, namely those
+with the potential to be great hikers, if only they had the interest?
+Really, we should *make things interesting*, and let the students
+decide for themselves if they want to hike.
 
-We need to hike through interesting terrain, between meadows and swamps,
-and from valleys to mountains.
+This is the solution I think the astute reader will have guessed immediately.
+We need to hike through interesting terrain, through meadows and swamps,
+between valleys and mountains.
 At first, hikes would be along the comfortable and well-trodden routes
 while students found their feet and developed confidence, but
 later, by degrees, they would learn to camp in the wilderness,
@@ -161,3 +164,10 @@ That makes it easier to motivate the whole enterprise, and less likely
 to lead to resentment.
 
 Not everywhere can be reached by car.
+
+These natural walkers trudge without complaint, they have stamina,
+they have grit.
+But sometimes they trudge without purpose, almost too willing to
+follow the path, or the teacher, gazing contentedly at their own feet.
+These people may make the best hikers, who knows?
+But it is more credible that people
