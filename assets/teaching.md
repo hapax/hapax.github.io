@@ -81,7 +81,7 @@ using formal systems.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
 
-#### Endless shrubs
+#### Shrubs
 
 In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
@@ -90,7 +90,7 @@ But, in its defense, all of the textbooks are like this.
 The following exercises are from the section on rates of change:
 
 <figure>
-    <div style="text-align:center"><img src ="/images/specialist1.png"
+    <div style="text-align:center"><img src ="/images/posts/specialist1.png"
     width="75%" />
 		    <figcaption><i>Dead shrubs in the scrubland.</i></figcaption>
 	</div>
@@ -144,7 +144,7 @@ But this is not what happens.
 Here's an example of what passes for pure mathematics in our "advanced" textbook:
 
 <figure>
-    <div style="text-align:center"><img src ="/images/specialist2.png"
+    <div style="text-align:center"><img src ="/images/posts/specialist2.png"
     width="75%" />
 		    <figcaption><i>Mountain or scrubland?</i></figcaption>
 	</div>
@@ -152,17 +152,53 @@ Here's an example of what passes for pure mathematics in our "advanced" textbook
 
 This is more scrubland, but the shrubs are coloured differently.
 There is nothing beautiful about these results, nothing surprising.
-As presented here, they have no aesthetic value; they are just brute
-formal facts.
+They are presented as brute formal facts, with no aesthetic value.
 
-#### Pure mathematics: an example
+#### Curves and kinks: an example
 
 Once again, there is some conventional wisdom at work here.
 Students find proofs hard.
-If you've ever tried to teach Euclid to high school students, you
-might have noticed this.
-But I don't think is because proofs are inherently difficult.
-Rather, I think it's because the learning curve is much too steep, and 
+If you've ever tried to teach Euclid at a high school level, as many
+countries do, you might have noticed this.
+You feel like a dentist.
+But I don't think it's because proofs are inherently difficult.
+Rather, I think it's because throwing Euclid at them, without any
+preparation, is a terrible idea.
+Most people are not excited by sundry factoids about triangles.
+It's a steep learning curve if you don't care about what's at the top
+of the hill.
+
+So we need to teach proofs better.
+We need to use examples which pique student interest, and teach them
+how to reason mathematically step by step.
+Start with visual proofs, intuition pumps, heuristics, cut corners.
+If you start with Euclid's axioms, that's probably where the student's
+relationship with the deductive method is going to end.
+
+Let's do an example to see what this could look like in practice.
+We're going to return to the scrubland of derivatives we encountered
+earlier.
+Suppose we have some function $f(x)$ defined for $a \leq x \leq b$.
+This is pictured on the Cartesian plane below.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt1.png"
+    width="75%" />
+		    <figcaption><i>A function $f(x)$ defined for $a \leq x
+    \leq b$.</i></figcaption>
+	</div>
+	</figure>
+
+Now image
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt1.png"
+    width="75%" />
+		    <figcaption><i>A function $f(x)$ defined for $a \leq x
+    \leq b$.</i></figcaption>
+	</div>
+	</figure>
+
 
 #### Useful landmarks
 
@@ -171,6 +207,8 @@ A second type of landmark is
 ## The role of the teacher
 
 Adroit guide
+
+## Do we need scrubland?
 
 ## The research
 
