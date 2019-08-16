@@ -73,7 +73,9 @@ aren't.
 But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they do not
 constitute it.
-
+The mathematical world has all sorts of interesting features,
+landmarks, and even resources we can use, and they must be arrived at
+using play with formal systems.
 
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
