@@ -58,7 +58,7 @@ At first, they would hike along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
 This would turn natural walkers into good hikers, and bring others
-along who may, with practice, become just as good.
+along who may, with practice, become just as good or better.
 
 The scrubland is an empty philosophy.
 We are best served, as individuals and as a society, by showing
