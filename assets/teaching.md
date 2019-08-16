@@ -201,7 +201,7 @@ Now draw a line between the endpoints of the graph.
 	</figure>
 
 What happens if we shift the purple line (without tilting) up or down?
-There will be two points at which it *just touches* (is tangent to)
+In this example, there are two shifts where the line *just touches* (is tangent to)
 the curve.
 
 <figure>
