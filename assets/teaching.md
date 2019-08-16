@@ -16,29 +16,29 @@ you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-If the class complained that the walk was boring and pointless, the
-teacher would reply, somewhat defensively, that walking was an important life
-skill you needed to get by as an adult.
+If the class complained that the walk was boring or pointless, the
+teacher would defensively reply that walking was an important life
+skill, and you needed it to get by as an adult.
 Heck, if you can't walk, how do you expect to get a job!
 
 Would you have enjoyed this hiking class?
 Or, more likely, would you have lost interest, and started lagging behind?
 Maybe in time you would even come to proudly identify as someone who
-sucked at hiking and hated it.
+sucked at hiking.
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity.
 There needs to be some motivation to walk, something to walk towards
-or to look at while you walk.
-That's the point of a proper hike.
-If there's no motivation, it becomes a chore, and rather than being trained to
+or to look at while en route.
+That's what *hiking* should be about.
+But if there's no motivation, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
 
 There are a few different ways to fix the situation.
-The first is to lower our ambitions and go on smaller hikes, closer to the
-walking students do as adults.
+The first is to lower our ambitions and go on short walks.
 The connection between practice and real life is then clear, and less
-likely to lead to resentment; the teacher can justify the exercise.
+likely to lead to resentment; the teacher can justify the whole
+enterprise.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
