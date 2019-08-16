@@ -208,13 +208,14 @@ the curve.
     <div style="text-align:center"><img src ="/images/posts/mvt3v2.png"
     width="60%" />
 		    <figcaption><i>There are two points at which the line just
-    touches the graph.</i></figcaption>
+    touches the curve.</i></figcaption>
 	</div>
 	</figure>
 
 Is it possible choose different points, or to draw a different graph,
-so that it is tangent at one point?
-After some experimentation, they should find it is:
+so that it is tangent at *one* point?
+You could let students experiment until they find examples like the
+following:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt4.png"
