@@ -51,8 +51,7 @@ What if, by restricting our attention to natural walkers, we
 miss out on a huge pool of talent, namely those with the potential to
 be great hikers if they practice walking?
 
-Both of these solutions are unsatisfying, particularly since the
-answer is obvious.
+Both of these solutions are unsatisfying because the answer is obvious.
 We should stop marching students through the scrubland!
 We should take them through varied, stimulating terrain, through swamps and
 meadows, into forests, along streams and canyons.
