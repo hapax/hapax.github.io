@@ -246,7 +246,7 @@ being tangent!
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
     width="35%" />
 		    <figcaption><i>At infinite magnification, the purple and
-    blue lines coincide.</i></figcaption>
+    blue lines must coincide.</i></figcaption>
 	</div>
 </figure>
 
