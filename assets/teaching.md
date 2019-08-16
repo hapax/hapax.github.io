@@ -241,7 +241,7 @@ being tangent!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
-    width="40%" />
+    width="35%" />
 		    <figcaption><i>At infinite magnification, the purple and
     blue lines coincide.</i></figcaption>
 	</div>
