@@ -252,7 +252,7 @@ being tangent!
 
 This suggests a visual proof, which with judicious guidance students
 could discover for themselve.
-Some of the blue curve should lie above the purple line, or below the
+First of all, some of the blue curve should lie above the purple line, or below the
 purple line, otherwise it *is* the purple line and we are done.
 If it lies below, for instance, move the purple line down until it
 can't go further without touching the blue line at all.
