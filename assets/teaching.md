@@ -231,8 +231,8 @@ examples like the following:
 	</figure>
 
 What about *no points* where the graphs are tangent?
-With some time to play around, students should come to doubt the
-existence of such curves.
+With some time to play around, students should come to doubt that such
+curves exist.
 How can they prove it?
 One approach lies in the definition of "just touching".
 Imagine zooming in infinitely close, so that the blue line becomes
