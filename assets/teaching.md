@@ -17,8 +17,8 @@ Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
 If the class complained that the walk was boring or pointless, the
-teacher would defensively reply that walking was an important life
-skill, and you needed it to get by as an adult.
+teacher would reply defensively that walking was an important life
+skill.
 Heck, if you can't walk, how do you expect to get a job!
 
 Would you have enjoyed this hiking class?
@@ -30,15 +30,13 @@ For most people, walking is not an intrinsically interesting
 activity.
 There needs to be some motivation to walk, something to walk towards
 or to look at while en route.
-That's what *hiking* should be about.
+That's what *hiking* (as opposed to *walking*) is all about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
 
-There are a few different ways to fix the situation.
-The first is to lower our ambitions and go on short walks.
-The connection between practice and real life is then clear, and less
-likely to lead to resentment; the teacher can justify the whole
-enterprise.
+There are a few different ways we could fix this situation.
+The first is to go on short walks, tightening the connection between
+practice and real life.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters?
@@ -423,3 +421,10 @@ But proving facts about plane figures leaves most of us cold.
 which is all about
 playing with formal structures and discovering their
 properties
+
+skill, and you needed it to get by as an adult.
+
+The first is to lower our ambitions and go on short walks.
+The connection between practice and real life is then clear, and less
+likely to lead to resentment; the teacher can justify the whole
+enterprise.
