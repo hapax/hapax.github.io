@@ -250,8 +250,8 @@ being tangent!
 	</div>
 </figure>
 
-This suggests a visual proof you could either tell the students, or
-let them discover (with some prompting) for themselves.
+This suggests a visual proof, which with judicious guidance students
+could discover for themselve.
 Some of the blue curve should lie above the purple line, or below the
 purple line, otherwise it *is* the purple line and we are done.
 If it lies below, for instance, move the purple line down until it
@@ -586,3 +586,6 @@ We don't usually need to scale the mountain to appreciate some of what
 makes these things beautiful.
 If the mountain is too steep, find a nearby hill with a gentler slope
 and a partial view of the summit.
+
+you could either tell the students, or
+let them discover (with some prompting) for themselves.
