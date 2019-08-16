@@ -49,8 +49,10 @@ restrict advanced classes to those who enjoy, the "natural walkers"
 who trudge tirelessly and without complaint for hours.
 These students seem to have the most hiking potential.
 But if walking is a skill that can be *developed*, rather than a
-natural ability (like double-jointedness) you either have or don't,
-then we have just cut ourselves off from a huge reservoir of talent.
+natural ability, like double-jointedness, you're either born with or not?
+If it can be developing, then just taking natural walkers cuts us off
+from a huge reservoir of talent: the students who could become good
+hikers if they were motivated to walk.
 
 There is a simple way to develop good hikers and maximise access to
 talent: stop marching students through the scrubland!
