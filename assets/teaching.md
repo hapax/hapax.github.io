@@ -296,7 +296,7 @@ guarantees a tangency point as output.
 (The idea that a proof treats an *infinite* number of examples is, I
 think, a good way to introduce it in these contexts.)
 
-#### Useful landmarks
+## Useful landmarks
 
 A second type of landmark is 
 
