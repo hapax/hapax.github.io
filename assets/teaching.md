@@ -42,8 +42,11 @@ depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole?
 If we lower our sights, everyone loses.
-Perhaps, then, we should focus on training *natural walkers*
-those who walk tirelessly and without complaint through the scrubland.
+
+It looks like we need to prepare some students to do advanced hiking.
+But if most students hate walking through scrubland, maybe we should
+restrict advanced classes to those who enjoy, the "natural walkers"
+who trudge tirelessly and without complaint for hours.
 These students seem to have the most hiking potential.
 But if walking is a skill that can be *developed*, rather than a
 natural ability (like double-jointedness) you either have or don't,
@@ -498,3 +501,7 @@ follow your nose.
 
 We should take them through varied and stimulating terrain, into
 forests, along streams, down canyons, and up slopes.
+
+
+Perhaps, then, we should focus on training *natural walkers*
+those who walk tirelessly and without complaint through the scrubland.
