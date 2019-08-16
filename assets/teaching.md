@@ -179,8 +179,6 @@ a partial view of the summit.
 #### Example: the mean value theorem
 
 Let's do an example to see what this could look like in practice.
-We're going to return to the scrubland of derivatives we encountered
-earlier.
 Suppose we have some function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
 
