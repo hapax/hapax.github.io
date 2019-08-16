@@ -45,11 +45,10 @@ If we lower our sights, everyone loses.
 Perhaps, then, we should only take *natural walkers* into the scrubland,
 those who walk tirelessly and without complaint.
 These students would seem to have the most hiking potential.
-But this all depends: what if walking is a skill that can be
-developed?
-What if, by restricting our attention to natural walkers, we
-miss out on a huge pool of talent, namely those with the potential to
-be great hikers if they practice walking?
+But this all depends on whether walking is a skill that can be developed.
+If so, then by focusing on natural walkers, we lose access to a huge
+pool of talent, namely those who have the potential to be great hikers
+if motivated to walk.
 
 Both of these solutions are unsatisfying because the answer is obvious.
 We should stop marching students through the scrubland!
@@ -454,3 +453,7 @@ into valleys and
 up mountains, through meadows, swamps and forests.
 ,
 while students found their feet
+
+What if, by restricting our attention to natural walkers, we
+miss out on a huge pool of talent, namely those with the potential to
+be great hikers if they practice walking?
