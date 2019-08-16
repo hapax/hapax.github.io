@@ -176,7 +176,7 @@ The shrubs may be painted blue, but they are still shrubs.
 Instead of dressing up shrubs, we should find a mountain to scale.
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), and
-important examples.
+important definitions or examples.
 "Important", here, can mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is one of the principal criteria.
 Some mountains can only be scaled by professionals.
