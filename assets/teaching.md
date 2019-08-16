@@ -24,7 +24,7 @@ Heck, if you can't walk, how do you expect to get a job!
 <figure>
     <div style="text-align:center"><img src
     ="https://upload.wikimedia.org/wikipedia/commons/d/d8/Scrubland_-_geograph.org.uk_-_326909.jpg"
-    width="60%" />
+    width="70%" />
 		    <figcaption><i>Trudging through scrubland. (Wikimedia Commons)</i></figcaption>
 	</div>
 	</figure>
