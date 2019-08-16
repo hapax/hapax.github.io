@@ -82,11 +82,18 @@ These activities are necessary to mathematics, but they do not
 constitute it.
 The topography of the mathematical world is vast, with a huge variety
 of features and landforms, and precious resources scattered
-throughout; it can only be traversed and navigated using formal systems.
+throughout.
+It can only be traversed and navigated using formal systems, but
+formal systems are not themselves the goal.
 
-But maths curricula, at least in Australia and North
-America, insist on marching students through the scrubland, turning
-what should be a voyage of discovery and empowerment into a joyless plod.
+But if you look at most high school textbooks, in Australia or North
+America, you could be forgiven for thinking that maths is just a
+collection of brute formal facts and symbol pushing, without context,
+without use, without beauty; a scrubland.
+What should be a voyage of discovery and empowerment, a journey into
+the mathematical world, is a joyless plod for most students.
+I know because that was my experience of high school maths.
+
 Let me give you a snapshot of the scrubland to show I'm not being
 bombastic.
 The following exercises are taken from a popular Australian textbook
@@ -509,3 +516,6 @@ forests, along streams, down canyons, and up slopes.
 
 Perhaps, then, we should focus on training *natural walkers*
 those who walk tirelessly and without complaint through the scrubland.
+
+But maths curricula, at least in Australia and North
+America, insist on marching students through the scrubland, turning
