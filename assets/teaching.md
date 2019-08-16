@@ -172,8 +172,8 @@ important examples.
 "Important", here, can mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is one of the principal criteria.
 Some mountains can only be scaled by professionals.
-But we don't need to scale the mountain to appreciate and enjoy
-important results; we can find a nearby hill with a gentler slope and
+But we don't need to scale the mountain to appreciate and get a
+flavour of important results; we can find a nearby hill with a gentler slope and
 a partial view of the summit.
 
 #### Example: the mean value theorem
