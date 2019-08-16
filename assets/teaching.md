@@ -154,7 +154,7 @@ textbook I'm picking on:
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist2.png"
     width="75%" />
-		    <figcaption><i>Painted shrubs.</i></figcaption>
+		    <figcaption><i>Painting shrubs blue.</i></figcaption>
 	</div>
 	</figure>
 
@@ -163,7 +163,7 @@ before, but with letters instead of numbers.
 There is nothing beautiful or deep here, just the same manipulations
 in disguise!
 It is the wrong sort of generalisation.
-The shrubs may be painted a different colour, but they are still shrubs.
+The shrubs may be painted blue, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
 In pure mathematics, mountains are things like theorems (important
