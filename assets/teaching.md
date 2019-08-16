@@ -268,7 +268,7 @@ So it has to just touch at that point!
 	</div>
 	</figure>
 
-Since the purple line is straight line, we can easily calculate
+Since the purple line is straight, we can easily calculate
 its slope:
 
 $$
