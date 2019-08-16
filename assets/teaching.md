@@ -250,8 +250,8 @@ being tangent!
 	</div>
 </figure>
 
-This suggests a visual proof, which with judicious guidance students
-could discover for themselve.
+This suggests a visual proof, which students could discover for
+themselves with judicious guidance.
 First of all, some of the blue curve should lie above the purple line, or below the
 purple line, otherwise it *is* the purple line and we are done.
 If it lies below, for instance, move the purple line down until it
