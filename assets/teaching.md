@@ -283,8 +283,8 @@ $$
 f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
-Another nice feature of our "proof" is that it doubles as an algorithm
-for finding the point $c$.
+Another nice feature of our proof is that (combined with root-finding
+methods) it suggests an algorithm for finding the point $c$.
 
 This is a beautiful result, which is within the means of ordinary
 students to discover for themselves with some judicious guidance.
