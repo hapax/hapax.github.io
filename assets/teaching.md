@@ -168,7 +168,11 @@ The shrubs may be painted a different colour, but they are still shrubs.
 Instead of dressing up shrubs, we should find a mountain to scale.
 If the mountain is too steep, find a nearby hill with a gentler slope
 and a partial view of the summit.
-In pure mathematics, the mountains are *theorems*, m
+In pure mathematics, mountains are things like theorems (important
+proven results), conjectures (important unproven results), and
+examples.
+Like Hardy says, one of the principle criteria for being "important"
+is being *beautiful*.
 
 #### Example: the mean value theorem
 
