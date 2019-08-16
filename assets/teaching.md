@@ -53,7 +53,7 @@ be great hikers if they practice walking?
 
 Both of these solutions are unsatisfying because the answer is obvious.
 We should stop marching students through the scrubland!
-We should take them through varied, stimulating terrain, through swamps and
+We should take them through varied, stimulating terrain, past swamps and
 meadows, into forests, along streams and canyons.
 At first, they would hike along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
