@@ -17,14 +17,14 @@ Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
 If the class complained that the walk was boring or pointless, the
-teacher would reply defensively that walking was an important life
+teacher would reply that walking was an important life
 skill.
 Heck, if you can't walk, how do you expect to get a job!
 
 Would you have enjoyed this hiking class?
-Or, more likely, would you have lost interest, and started lagging behind?
-Maybe in time you would even come to proudly identify as someone who
-sucked at hiking.
+Or would you have lost interest, and started lagging behind?
+Maybe, in time, you would come to proudly identify as someone who
+sucked at hiking!
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity.
@@ -36,22 +36,21 @@ walk, you will be trained to *avoid walking*.
 
 There are a few different ways we could fix this situation.
 The first is to tighten the connection between practice and real life,
-and go on small, unambitious walks.
+and go on small, unambitious strolls.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
-What if we need wayfarers, explorers and hunters, to help meet the
+What if we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole?
 If we lower our sights, everyone loses.
-Perhaps, then, we should only take *natural walkers* into the scrubland,
-those who walk tirelessly and without complaint.
-These students would seem to have the most hiking potential.
-But this all depends on whether walking is a skill that can be developed.
-If so, then by focusing on natural walkers, we lose access to a huge
-pool of talent, namely those with the potential to be great hikers
-if only they had the motivation to walk.
+Perhaps, then, we should focus on training *natural walkers*
+those who walk tirelessly and without complaint through the scrubland.
+These students seem to have the most hiking potential.
+But if walking is a skill that can be *developed*, rather than a
+natural ability (like double-jointedness) you either have or don't,
+then we have just cut ourselves off from a huge reservoir of talent.
 
-There is an obvious way to develop good hikers and maximise access to talent.
-We should stop marching students through the scrubland!
+There is a simple way to develop good hikers and maximise access to
+talent: stop marching students through the scrubland!
 We should take them through varied and stimulating terrain, into
 forests, along streams, down canyons, and up slopes.
 At first, they would hike along well-marked trails, but with time,
@@ -59,11 +58,9 @@ they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
 This would turn natural walkers into good hikers, and bring others
 along who may, with practice, become just as good or better.
-
-The scrubland is an empty philosophy.
-We are best served, as individuals and as a society, by showing
-students that hiking is not about walking, but rather, using
-walking to experience and understand the world.
+By taking them on real hikes, students would learn that hiking is not
+about the act of walking, but rather *using walking* to experience and
+understand the world.
 
 ## A view of the scrubland
 
@@ -480,3 +477,13 @@ walking to experience and understand the world.
 I'm going to pick on an Australian textbook for the most advanced high
 school subject.
 But, in its defense, all of the textbooks are like this.
+
+But this all depends on whether walking is a skill that can be developed.
+If so, then by focusing on natural walkers, we lose access to a huge
+pool of talent, namely those with the potential to be great hikers
+if only they had the motivation to walk.
+
+The scrubland is an empty philosophy.
+We are best served, as individuals and as a society, by showing
+students that hiking is not about walking, but rather, using
+walking to experience and understand the world.
