@@ -68,13 +68,16 @@ You've probably realised that I'm not really talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, and to play with formal structures.
+Some people are naturally drawn to playing with symbols, some people
+aren't.
+But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they do not
 constitute it.
-Maths is not symbol manipulation any more than hiking is walking!
+
+
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
 what should be a voyage of discovery and empowerment into a joyless plod.
-
 Let me give you a snapshot of the scrubland to show I'm not being
 bombastic.
 The following exercises are taken from a popular Australian textbook
@@ -487,3 +490,6 @@ The scrubland is an empty philosophy.
 We are best served, as individuals and as a society, by showing
 students that hiking is not about walking, but rather, using
 walking to experience and understand the world.
+
+Walking takes you to interesting places, if you do some planning and
+follow your nose.
