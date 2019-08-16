@@ -70,26 +70,25 @@ understand the world.
 
 ## A view of the scrubland
 
-That's the end of my little preamble, and oou've probably realised
+That's the end of my little preamble, and by now you've probably realised
 that I'm not really talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
-symbols, to follow rules, and to play with formal structures.
+symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
 But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they do not
 constitute it.
-The topography of the mathematical world is vast, with a huge variety
-of features and landforms, and precious resources scattered
-throughout.
-It can only be traversed and navigated using formal systems, but
-formal systems are not themselves the goal.
+Mathematics has its own world, a vast topography of features and
+landforms, that can only be traversed and navigated by manipulating
+symbols; but manipulating symbols is not itself the goal.
+And like walking, symbol manipulation is a skill that can be developed.
 
 But if you look at most high school textbooks, in Australia or North
 America, you could be forgiven for thinking that maths is just a
-collection of brute formal facts and symbol pushing, without context,
-without use, without beauty; a scrubland.
+collection of brute formal facts, without context,
+without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 I know because that was my experience of high school maths.
@@ -111,14 +110,13 @@ What is this for?
 Why am I doing any of this?
 Why am I even here?
 This is what I mean by the scrubland.
-It's an endless plain of withered, ankle-height shrubs.
-There are no landmarks, nothing for the eye to latch onto, just
-endless, pointless drill.
+There are no landmarks, nothing for the eye to latch onto, just an
+endless plain of withered, ankle-height shrubs.
 
 ## Aesthetic landmarks
 
-Now, conventional wisdom states that students need to master basic
-skills, through drill, before they can go to do interesting things.
+Conventional wisdom states that students need to master basic
+skills through drill before they can reach any landmakr.s
 Maybe there are some landmarks in the distance after all, once we get past
 the dead shrubs.
 What could they look like?
