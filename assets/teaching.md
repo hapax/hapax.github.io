@@ -42,11 +42,9 @@ depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters, to help meet the
 needs of society as a whole?
 If we lower our sights, everyone loses.
-
-Perhaps we should only take *natural walkers* into the scrubland,
+Perhaps, then, we should only take *natural walkers* into the scrubland,
 those who walk tirelessly and without complaint.
-These students, we might reason, clearly have the potential to be the
-best hikers.
+These students would seem to have the most hiking potential.
 But this all depends: what if walking is a skill that can be
 developed?
 What if, by restricting our attention to natural walkers, we
