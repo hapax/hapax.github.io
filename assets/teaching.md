@@ -235,7 +235,7 @@ With some time to play around, students should come to doubt that such
 curves exist.
 How can they prove it?
 One approach lies in the definition of "just touching".
-Imagine zooming in infinitely close to the point of tangency, so the blue line becomes
+Imagine zooming in infinitely close to the point of tangency, so the blue curve becomes
 straight (more or less what we mean by the derivative).
 You can convince students that the blue and purple lines
 must have the *same slope* at this point of intersection.
@@ -255,7 +255,7 @@ themselves with judicious guidance.
 First of all, some of the blue curve should lie above the purple line, or below the
 purple line, otherwise it *is* the purple line and we are done.
 If it lies below, for instance, move the purple line down until it
-can't go further without touching the blue line at all.
+can't go further without touching the blue curve at all.
 If the purple line wasn't tangent to the blue, the blue would cross
 *through* the purple and we could continue moving it up.
 So it has to just touch at that point!
