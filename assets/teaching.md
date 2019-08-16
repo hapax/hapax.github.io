@@ -66,12 +66,12 @@ experience the world.
 
 ## A view of the scrubland
 
-You've probably realised by now that I'm not talking about hiking, I'm
+You've probably realised by now that I'm not talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, to play with formal structures.
 For most people, this is not an intrisically interesting activity.
-For most mathematicians, it's particularly boring!
+In fact, it's particularly boring for mathematicians!
 This is because maths is not walking; it's hiking.
 It's a way of encountering and understanding and exploring the world
 using formal systems.
