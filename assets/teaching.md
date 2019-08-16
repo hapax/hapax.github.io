@@ -104,7 +104,7 @@ What does the textbook make of it?
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
     width="75%" />
-		    <figcaption><i>A great landmark of human thought is shrubbified.</i></figcaption>
+		    <figcaption><i>Calculus "shrubbified".</i></figcaption>
 	</div>
 	</figure>
 
@@ -121,17 +121,17 @@ endless plain of withered, ankle-height shrubs.
 It's perversely impressive, in a way, how these textbooks take a
 milestone of Western civilisation and "shrubbify" it.
 
-## Pure 
+## The role of beauty
 
 Perhaps I'm being unfair; conventional wisdom states that students
 need to master basic skills by drill before they can move on to more
-interesting.
-They need to learn to walk before they can hike a mountain trail.
-This seems reasonable, and I'll come back to drill below, but one can
-ask: what are the landmarks they hike towards, now that they
-differentiate inverse sine with their eyes closed?
+interesting tasks.
+They need to learn to walk before they can hike a mountain trail!
+This sounds reasonable, and I'll come back to drill below, but one can
+ask: what are the landmarks they're meant to hike towards, now that
+they differentiate inverse sine with their eyes closed?
 
-It seems like there are two different paths heading into the
+There are two different paths heading into the
 mathematical landscape.
 The first path is *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
@@ -148,40 +148,29 @@ Sound like any high school maths class you ever took?
 It's almost as if people knew about the Hardy quote, but it got it
 backwards: there seems to be no permanent place in the classroom for
 beautiful mathematics.
-Let me show what passes for pure mathematics in our advanced textbook:
+Let me show you what passes for pure mathematics in the advanced
+textbook I'm picking on:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist2.png"
     width="75%" />
-		    <figcaption><i>Mountain or scrubland?</i></figcaption>
+		    <figcaption><i>Painted shrubs.</i></figcaption>
 	</div>
 	</figure>
 
-This is more scrubland, but the shrubs are coloured differently.
-There is nothing beautiful about these results, nothing surprising.
-They are presented as brute formal facts, with no aesthetic value.
+These look different, until you notice they are the *same* questions as
+before, but with letters instead of numbers.
+There is nothing beautiful or deep here, just the same manipulations
+in disguise!
+It is the wrong sort of generalisation.
+The shrubs may be painted a different colour, but they are still shrubs.
+
+Instead of dressing up shrubs, we should find a mountain to scale.
+If the mountain is too steep, find a nearby hill with a gentler slope
+and a partial view of the summit.
+In pure mathematics, the mountains are *theorems*, m
 
 #### Example: the mean value theorem
-
-Once again, there is some conventional wisdom at work here.
-Students find proofs hard.
-If you've ever tried to teach Euclid at a high school level, as many
-countries do, you might have noticed this.
-You feel like a dentist.
-But I don't think it's because proofs are inherently difficult.
-Rather, I think it's because throwing Euclid at them, without any
-preparation, is a terrible idea.
-Most people are not excited by sundry factoids about triangles.
-It's a steep learning curve if you don't care about what's at the top
-of the hill.
-
-So we need to teach proofs better.
-We need to use examples which pique student interest, and teach them
-how to reason mathematically step by step.
-Start with examples, visual proofs, intuition pumps, heuristics, and
-judiciously cut corners.
-If you start with Euclid's axioms, that's probably where the student's
-relationship with the deductive method is going to end.
 
 Let's do an example to see what this could look like in practice.
 We're going to return to the scrubland of derivatives we encountered
@@ -554,3 +543,32 @@ This is an activity we should be modelling and advertising and making accessible
 
 But this is not what happens.
 Here's an example of what passes for pure mathematics in our "advanced" textbook:
+
+This is more scrubland, but the shrubs are coloured differently.
+There is nothing beautiful about these results, nothing surprising.
+They are presented as brute formal facts, with no aesthetic value.
+
+These sort of look like the other problems; in fact, I have a sneaking
+suspicion that they are *exactly* the same, but they've replaced numbers with
+letters.
+These are just shrubs of a different color.
+
+Once again, there is some conventional wisdom at work here.
+Students find proofs hard.
+If you've ever tried to teach Euclid at a high school level, as many
+countries do, you might have noticed this.
+You feel like a dentist.
+But I don't think it's because proofs are inherently difficult.
+Rather, I think it's because throwing Euclid at them, without any
+preparation, is a terrible idea.
+Most people are not excited by sundry factoids about triangles.
+It's a steep learning curve if you don't care about what's at the top
+of the hill.
+
+So we need to teach proofs better.
+We need to use examples which pique student interest, and teach them
+how to reason mathematically step by step.
+Start with examples, visual proofs, intuition pumps, heuristics, and
+judiciously cut corners.
+If you start with Euclid's axioms, that's probably where the student's
+relationship with the deductive method is going to end.
