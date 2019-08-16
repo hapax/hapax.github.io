@@ -166,13 +166,15 @@ It is the wrong sort of generalisation.
 The shrubs may be painted a different colour, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
-If the mountain is too steep, find a nearby hill with a gentler slope
-and a partial view of the summit.
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), and
-examples.
-Like Hardy says, one of the principle criteria for being "important"
-is being *beautiful*.
+important examples.
+"Important", here, can mean a variety of things, but as Hardy and
+Russell suggest, *beauty* is one of the principal criteria.
+Some mountains can only be scaled by professionals.
+But we don't need to scale the mountain to appreciate and enjoy
+important results; we can find a nearby hill with a gentler slope and
+a partial view of the summit.
 
 #### Example: the mean value theorem
 
@@ -576,3 +578,8 @@ Start with examples, visual proofs, intuition pumps, heuristics, and
 judiciously cut corners.
 If you start with Euclid's axioms, that's probably where the student's
 relationship with the deductive method is going to end.
+
+We don't usually need to scale the mountain to appreciate some of what
+makes these things beautiful.
+If the mountain is too steep, find a nearby hill with a gentler slope
+and a partial view of the summit.
