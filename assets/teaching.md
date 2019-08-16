@@ -214,8 +214,7 @@ the curve.
 
 Is it possible choose different points, or to draw a different graph,
 so that it is tangent at *one* point?
-You could let students experiment until they find examples like the
-following:
+After some experimentation, you find that it is:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt4.png"
