@@ -35,11 +35,11 @@ But if there's no motivation, it becomes a chore, and rather than being trained 
 walk, you will be trained to *avoid walking*.
 
 There are a few different ways we could fix this situation.
-The first is to go on short walks, tightening the connection between
-practice and real life.
+The first is tighten the connection between practice and real life,
+and go on small, unambitious walks instead of hikes.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
-What if we need wayfarers, explorers and hunters?
+What if we need wayfarers, explorers and hunters to function effectively?
 If we lower our sights, society as a whole could lose out.
 
 Perhaps, then, we should restrict hiking classes to those who naturally enjoy
