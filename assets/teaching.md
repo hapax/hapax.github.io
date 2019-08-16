@@ -70,10 +70,13 @@ walking to experience and understand the world.
 You've probably realised that I'm not really talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
-symbols, to follow rules, to play with formal structures.
+symbols, to follow rules, and to play with formal structures.
 These activities are necessary to mathematics, but they do not
 constitute it.
-Maths is not symbol manipulation any more than hiking is walking.
+Maths is not symbol manipulation any more than hiking is walking!
+But maths curricula, at least in Australia and North
+America, insist on marching students through the scrubland, turning
+what should be a voyage of discovery, and empowerment, into a joyless plod.
 
 In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
