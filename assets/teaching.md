@@ -239,7 +239,7 @@ being tangent!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt5.png"
-    width="45%" />
+    width="40%" />
 		    <figcaption><i>At infinite magnification, the purple and
     blue lines coincide.</i></figcaption>
 	</div>
@@ -257,7 +257,7 @@ So it has to just touch at that point!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt6.png"
-    width="60%" />
+    width="65%" />
 		    <figcaption><i>A visual "proof"/algorithm to find where
     the purple line is tangent to the blue curve.</i></figcaption>
 	</div>
@@ -270,7 +270,7 @@ $$
 \text{slope} = \frac{\text{rise}}{\text{run}} = \frac{f(b)-f(a)}{b-a}.
 $$
 
-We have just proved (at least heuristically) the *mean value theorem*:
+We have just heuristically proved the *mean value theorem*:
 a function $f(x)$ from $a$ to $b$ has some point $c$ where the derivative
 equals the "mean" slope between its endpoints,
 
@@ -278,7 +278,8 @@ $$
 f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
-This is not beyond 
+Another nice feature of our "proof" is that it doubles as an algorithm
+for finding the point $c$.
 
 #### Useful landmarks
 
