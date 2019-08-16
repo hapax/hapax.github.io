@@ -231,10 +231,10 @@ examples like the following:
 	</figure>
 
 What about *no points* where the graphs are tangent?
-With some time to play around, students should discover that the
-answer is no, as long as they draw a smooth line.
+With some time to play around, students should come to doubt the
+existence of such curves.
 How can they prove it?
-This lies in the definition of "just touching".
+One approach lies in the definition of "just touching".
 Imagine zooming in infinitely close, so that the blue line becomes
 straight, and look at the slope (more or less what we mean by the
 derivative).
