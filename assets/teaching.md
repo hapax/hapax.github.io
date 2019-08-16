@@ -212,10 +212,10 @@ the curve.
 	</div>
 	</figure>
 
-Is it possible choose different points, or to draw a different graph,
-so that it is tangent at *one* point?
-You could let students experiment until they find examples like the
-following:
+Is it possible to draw a different graph so the purple line is tangent
+at *one* point?
+If you give students some time to experiment, they should find
+examples like the following:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt4.png"
