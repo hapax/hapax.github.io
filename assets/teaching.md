@@ -56,8 +56,9 @@ hikers if they were motivated to walk.
 
 There is a simple way to develop good hikers and maximise access to
 talent: stop marching students through the scrubland!
-We should take them through varied and stimulating terrain, towards
-the strange rock formations in the distance or .
+We should take them through varied and stimulating terrain, into the
+forest, or towards
+the strange rock formations in the distance.
 At first, lessons would be along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
