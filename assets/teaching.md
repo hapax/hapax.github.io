@@ -16,7 +16,7 @@ you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-If the class complained that the walk was boring or pointless, the
+If the class complained that the walk was boring or pointless or too long, the
 teacher would reply that walking was an important life
 skill.
 Heck, if you can't walk, how do you expect to get a job!
@@ -27,10 +27,10 @@ Maybe, in time, you would come to proudly identify as someone who
 sucked at hiking!
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
-activity.
+activity, particularly if the walk is long!
 There needs to be some motivation to walk, something to walk towards
 or to look at en route.
-That's what *hiking* (as opposed to *walking*) is all about.
+That's what *hiking* (as opposed to *walking*) should be about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
 
