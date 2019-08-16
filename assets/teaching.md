@@ -179,6 +179,11 @@ a partial view of the summit.
 #### Example: the mean value theorem
 
 Let's do an example to see what this could look like in practice.
+Our mountain will be the *mean value theorem*, an important result
+about derivatives.
+Instead of scaling the mountain and giving a fully rigorous proof, we
+will content ourselves with a good prospect from much lower elevations.
+
 Suppose we have some function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
 
