@@ -51,9 +51,9 @@ then we have just cut ourselves off from a huge reservoir of talent.
 
 There is a simple way to develop good hikers and maximise access to
 talent: stop marching students through the scrubland!
-We should take them through varied and stimulating terrain, into
-forests, along streams, down canyons, and up slopes.
-At first, they would hike along well-marked trails, but with time,
+We should take them through varied and stimulating terrain, towards
+the strange rock formations in the distance or .
+At first, lessons would be along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
 This would turn natural walkers into good hikers, and bring others
@@ -73,8 +73,8 @@ aren't.
 But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they do not
 constitute it.
-The mathematical world has all sorts of interesting features,
-landmarks, and even resources we can use, and they must be arrived at
+The topography of the mathematical world is vast, with 
+landmarks, and even resources we can utilise, and they must be arrived at
 using play with formal systems.
 
 But maths curricula, at least in Australia and North
@@ -495,3 +495,6 @@ walking to experience and understand the world.
 
 Walking takes you to interesting places, if you do some planning and
 follow your nose.
+
+We should take them through varied and stimulating terrain, into
+forests, along streams, down canyons, and up slopes.
