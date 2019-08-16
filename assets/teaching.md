@@ -292,17 +292,7 @@ f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
 Another nice feature of our proof is that (combined with root-finding
-methods) it suggests an algorithm for finding the point $c$.
-
-This is a beautiful result, which is within the means of ordinary
-students to discover for themselves with some judicious guidance.
-It illustrates some basic principles of mathematical reasoning ---
-play, building intuition from examples, induction from the specific to
-the general, posing and answering questions.
-The proof appears as a sort of *mechanism* which takes any input and
-guarantees a tangency point as output.
-(The idea that a proof treats an *infinite* number of examples is, I
-think, a good way to introduce it in these contexts.)
+methods) it can be turned into an algorithm for finding the point $c$.
 
 ## Useful landmarks
 
@@ -597,3 +587,13 @@ and a partial view of the summit.
 
 you could either tell the students, or
 let them discover (with some prompting) for themselves.
+
+This is a beautiful result, which is within the means of ordinary
+students to discover for themselves with some judicious guidance.
+It illustrates some basic principles of mathematical reasoning ---
+play, building intuition from examples, induction from the specific to
+the general, posing and answering questions.
+The proof appears as a sort of *mechanism* which takes any input and
+guarantees a tangency point as output.
+(The idea that a proof treats an *infinite* number of examples is, I
+think, a good way to introduce it in these contexts.)
