@@ -52,7 +52,7 @@ if only they had the motivation to walk.
 
 There is an obvious way to develop good hikers and maximise access to talent.
 We should stop marching students through the scrubland!
-We should take them through varied and stimulating terrain, through
+We should take them through varied and stimulating terrain, into
 forests, along streams, down canyons, and up slopes.
 At first, they would hike along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
