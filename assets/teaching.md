@@ -21,6 +21,12 @@ teacher would reply that walking was an important life
 skill.
 Heck, if you can't walk, how do you expect to get a job!
 
+<figure>
+    <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/d/d8/Scrubland_-_geograph.org.uk_-_326909.jpg" />
+		    <figcaption><i>Trudging through scrubland.</i></figcaption>
+	</div>
+	</figure>
+
 Would you have enjoyed this hiking class?
 Or would you have lost interest, and started lagging behind?
 Maybe, in time, you would come to proudly identify as someone who
