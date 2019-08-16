@@ -73,9 +73,9 @@ aren't.
 But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they do not
 constitute it.
-The topography of the mathematical world is vast, with 
-landmarks, and even resources we can utilise, and they must be arrived at
-using play with formal systems.
+The topography of the mathematical world is vast, with a huge variety
+of features and landforms, and precious resources scattered
+throughout; it can only be traversed and navigated using formal systems.
 
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
