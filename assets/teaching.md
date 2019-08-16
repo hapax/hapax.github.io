@@ -50,17 +50,19 @@ If so, then by focusing on natural walkers, we lose access to a huge
 pool of talent, namely those with the potential to be great hikers
 if only they had the motivation to walk.
 
-Both of these solutions are unsatisfying because the answer is obvious.
+There is an obvious way to develop good hikers and maximise access to talent.
 We should stop marching students through the scrubland!
-We should take them through varied, stimulating terrain, past swamps and
-meadows, into forests, along streams and canyons.
+We should take them through varied and stimulating terrain, through
+forests, along streams, down canyons, and up slopes.
 At first, they would hike along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
-This would not only turn natural walkers into good hikers, but
-identify others with hiking talent who need more motivation.
-The greatest success, in this new paradigm, would be the moment a
-student realised that hiking was not about walking, but rather, using
+This would turn natural walkers into good hikers, and bring others
+along who may, with practice, become just as good.
+
+The scrubland is an empty philosophy.
+We are best served, as individuals and as a society, by showing
+students that hiking is not about walking, but rather, using
 walking to experience and understand the world.
 
 ## A view of the scrubland
@@ -70,15 +72,8 @@ talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, and to play with formal structures.
 These activities are necessary to mathematics, but they do not
-constitute mathematics.
-
-For most people, this is not an intrisically interesting activity.
-In fact, it's particularly boring for mathematicians!
-This is because maths is not walking; it's hiking.
-It's a way of encountering and understanding and exploring the world
-using formal systems.
-But maths curricula, at least in Australia and North
-America, insist on marching students through the scrubland.
+constitute it.
+Maths is not walking; it is hiking.
 
 In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
@@ -459,3 +454,23 @@ while students found their feet
 What if, by restricting our attention to natural walkers, we
 miss out on a huge pool of talent, namely those with the potential to
 be great hikers if they practice walking?
+
+For most people, this is not an intrisically interesting activity.
+In fact, it's particularly boring for mathematicians!
+This is because maths is not walking; it's hiking.
+It's a way of encountering and understanding and exploring the world
+using formal systems.
+But maths curricula, at least in Australia and North
+America, insist on marching students through the scrubland.
+
+Both of these solutions are unsatisfying because the answer is obvious.
+
+past swamps and
+meadows, into forests, along streams and canyons.
+
+This would not only turn natural walkers into good hikers, but
+identify others with hiking talent who need more motivation.
+
+The greatest success, in this new paradigm, would be the moment a
+student realised that hiking was not about walking, but rather, using
+walking to experience and understand the world.
