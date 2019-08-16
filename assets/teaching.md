@@ -281,6 +281,16 @@ $$
 Another nice feature of our "proof" is that it doubles as an algorithm
 for finding the point $c$.
 
+This is a beautiful result, which is within the means of ordinary
+students to discover for themselves with some judicious guidance.
+It illustrates some basic principles of mathematical reasoning ---
+play, building intuition from examples, induction from the specific to
+the general, posing and answering questions.
+The proof appears as a sort of *mechanism* which takes any input and
+guarantees a tangency point as output.
+(The idea that a proof treats an *infinite* number of examples is, I
+think, a good way to introduce it in these contexts.)
+
 #### Useful landmarks
 
 A second type of landmark is 
