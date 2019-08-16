@@ -257,7 +257,7 @@ purple line, otherwise it *is* the purple line and we are done.
 If it lies below, for instance, move the purple line down until it
 can't go further without touching the blue curve at all.
 If the purple line wasn't tangent to the blue, the blue would cross
-*through* the purple and we could continue moving it up.
+*through* the purple and we could continue moving it down.
 So it has to just touch at that point!
 
 <figure>
