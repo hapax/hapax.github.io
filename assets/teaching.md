@@ -275,7 +275,7 @@ $$
 \text{slope} = \frac{\text{rise}}{\text{run}} = \frac{f(b)-f(a)}{b-a}.
 $$
 
-We have just heuristically proved the *mean value theorem*:
+We have just heuristically proved the mean value theorem:
 a function $f(x)$ from $a$ to $b$ has some point $c$ where the derivative
 equals the "mean" slope between its endpoints,
 
