@@ -53,11 +53,9 @@ What if, by restricting our attention to natural walkers, we
 miss out on a huge pool of talent, namely those with the potential to
 be great hikers if they practice walking?
 
-Really, we should *make things interesting*, and let the students
-decide for themselves whether they want to hike.
-This is the solution the astute reader will have guessed immediately.
-If you want to make the classes good, you need to hike through interesting terrain, through meadows and swamps,
-into valleys and up mountains, at dawn and sunset when the prospects are good.
+Clearly, we should stop taking students into the scrubland!
+We should hike through interesting terrain, through meadows and swamps,
+into valleys and up mountains.
 At first, hikes would be along the comfortable and well-trodden routes,
 while students found their feet and developed confidence, but
 with time, by degrees, they could learn to camp in the wilderness,
@@ -440,3 +438,9 @@ We can get them running laps through the scrubland and they'll love it!
 But is it true that they'll become the best hikers?
 
 be great hikers, if only they developed the walking skills.
+
+Really, we should *make things interesting*, and let the students
+decide for themselves whether they want to hike.
+This is the solution the astute reader will have guessed immediately.
+
+into valleys and up mountains, at dawn and sunset when the prospects are good.
