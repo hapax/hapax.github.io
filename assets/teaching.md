@@ -67,7 +67,7 @@ They would learn that, at the end of the day, hiking was not about the
 act of walking, but rather, using walking to
 experience the world.
 
-## A scrubland specimen
+## A view of the scrubland
 
 You've probably realised by now that I'm not talking about hiking, I'm
 talking about *maths education*.
@@ -80,8 +80,6 @@ It's a way of encountering and understanding and exploring the world
 using formal systems.
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland.
-
-#### Shrubs
 
 In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
@@ -108,13 +106,13 @@ This is what I mean by the scrubland.
 It's an endless plain of withered, ankle-height shrubs.
 There are no landmarks, nothing for the eye to latch onto.
 
-#### Aesthetic landmarks
-
 Now, conventional wisdom states that students need to master basic
 skills, through drill, before they can go to do interesting things.
 Maybe there are some landmarks in the distance after all, once we get past
 the dead shrubs.
 What could they look like?
+
+## Aesthetic landmarks
 
 There are two directions we could go, which reflect the structure of
 mathematics itself.
