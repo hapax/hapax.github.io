@@ -94,37 +94,34 @@ What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 I know because that was my experience of high school maths.
 
-Let me give you a snapshot of the scrubland to show I'm not being
-bombastic.
-The following exercises are taken from a popular Australian textbook
-for the most advanced maths class:
+Let me give you a snapshot of the scrubland.
+Here are some exercises from a popular Australian textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
     width="75%" />
-		    <figcaption><i>Dead shrubs in the scrubland.</i></figcaption>
+		    <figcaption><i>Dead shrubs.</i></figcaption>
 	</div>
 	</figure>
 
-These are repetitive, mindless, plug-and-chug problems, and students are
-forced to do hundreds of them.
-I don't know about you, but these problems fill me with a sort of
-existential horror.
+I don't know about you, but these problems fill me with existential horror.
 Why do I care about the derivative of $\sin^{-1}(5x/4)$?
 Let alone its second derivative?
+What is this for?
 Why am I doing any of this?
-Why am I here?
+Why am I even here?
 This is what I mean by the scrubland.
 It's an endless plain of withered, ankle-height shrubs.
-There are no landmarks, nothing for the eye to latch onto.
+There are no landmarks, nothing for the eye to latch onto, just
+endless, pointless drill.
+
+## Aesthetic landmarks
 
 Now, conventional wisdom states that students need to master basic
 skills, through drill, before they can go to do interesting things.
 Maybe there are some landmarks in the distance after all, once we get past
 the dead shrubs.
 What could they look like?
-
-## Aesthetic landmarks
 
 There are two directions we could go, which reflect the structure of
 mathematics itself.
@@ -519,3 +516,6 @@ those who walk tirelessly and without complaint through the scrubland.
 
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
+
+These are repetitive, mindless, plug-and-chug problems, and students are
+forced to do hundreds of them.
