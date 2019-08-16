@@ -43,15 +43,15 @@ What if we need wayfarers, explorers and hunters, to help meet the
 needs of society as a whole?
 If we lower our sights, everyone loses.
 
-Perhaps, then, we should restrict hiking classes to those who naturally enjoy
-walking and don't mind the drudgery.
-These people, one could reason, will obviously become the best hikers.
-We can get them running laps through the scrubland and they'll love it!
-But is it true that they'll become the best hikers?
-What if walking is a skill that can be developed?
-What if, by restricting our attention to these natural walkers, we
-miss out on a huge pool of talent, those who have the potential to be
-great hikers, if only they developed the walking skills.
+Perhaps we should only take *natural walkers* into the scrubland,
+those who walk tirelessly and without complaint.
+These students, we might reason, clearly have the potential to be the
+best hikers.
+But this all depends: what if walking is a skill that can be
+developed?
+What if, by restricting our attention to natural walkers, we
+miss out on a huge pool of talent, namely those with the potential to
+be great hikers if they practice walking?
 
 Really, we should *make things interesting*, and let the students
 decide for themselves whether they want to hike.
@@ -431,3 +431,12 @@ likely to lead to resentment; the teacher can justify the whole
 enterprise.
 
 If we lower our sights, society as a whole could lose out.
+
+Perhaps, then, we should restrict hiking classes to those who naturally enjoy
+walking and don't mind the drudgery.
+
+These people, one could reason, will obviously become the best hikers.
+We can get them running laps through the scrubland and they'll love it!
+But is it true that they'll become the best hikers?
+
+be great hikers, if only they developed the walking skills.
