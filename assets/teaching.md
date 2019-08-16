@@ -47,8 +47,8 @@ those who walk tirelessly and without complaint.
 These students would seem to have the most hiking potential.
 But this all depends on whether walking is a skill that can be developed.
 If so, then by focusing on natural walkers, we lose access to a huge
-pool of talent, namely those who have the potential to be great hikers
-if motivated to walk.
+pool of talent, namely those with the potential to be great hikers
+if only they had the motivation to walk.
 
 Both of these solutions are unsatisfying because the answer is obvious.
 We should stop marching students through the scrubland!
@@ -57,6 +57,8 @@ meadows, into forests, along streams and canyons.
 At first, they would hike along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
+This would not only turn natural walkers into good hikers, but
+identify others with hiking talent who need more motivation.
 The greatest success, in this new paradigm, would be the moment a
 student realised that hiking was not about walking, but rather, using
 walking to experience and understand the world.
