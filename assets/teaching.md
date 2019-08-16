@@ -68,7 +68,7 @@ By taking them on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
-## A view of the scrubland
+## A snapshot of the scrubland
 
 That's the end of my little preamble, and by now you've probably realised
 that I'm not really talking about hiking. I'm
@@ -92,41 +92,51 @@ without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 I know because that was my experience of high school maths.
+It bored me senseless.
+I scraped by with passes, but I didn't understand anything.
 
-Let me give you a snapshot of the scrubland.
-Here are some exercises from a popular Australian textbook:
+To help convey the boredom that I experienced, let me give you a snapshot of the scrubland.
+Here are some exercises from a popular Australian textbook for the
+advanced maths class.
+The subject is calculus, in particular rates of change, which is one of the great landmarks of human thought.
+What does the textbook make of it?
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
     width="75%" />
-		    <figcaption><i>Dead shrubs.</i></figcaption>
+		    <figcaption><i>A great landmark of human thought is shrubbified.</i></figcaption>
 	</div>
 	</figure>
 
-I don't know about you, but these problems fill me with existential horror.
-Why do I care about the derivative of $\sin^{-1}(5x/4)$?
-Let alone its second derivative?
-What is this for?
-Why am I doing any of this?
-Why am I even here?
+We're finding... rates of change of ... some functions, I guess.
+Why am I doing this again?
+I mean, what is inverse sine when it finished work?
+Could I get a beer with it?
+I may as well be looking at a barcode!
+That's how indistinguishable and dull these questions are.
+They fill me, and I hope you, with existential horror.
 This is what I mean by the scrubland.
 There are no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
+It's perversely impressive, in a way, how these textbooks take a
+milestone of Western civilisation and "shrubbify" it.
 
-## Aesthetic landmarks
+## Pure 
 
-Conventional wisdom states that students need to master basic
-skills through drill before they can reach any landmakr.s
-Maybe there are some landmarks in the distance after all, once we get past
-the dead shrubs.
-What could they look like?
+Perhaps I'm being unfair; conventional wisdom states that students
+need to master basic skills by drill before they can move on to more
+interesting.
+They need to learn to walk before they can hike a mountain trail.
+This seems reasonable, and I'll come back to drill below, but one can
+ask: what are the landmarks they hike towards, now that they
+differentiate inverse sine with their eyes closed?
 
-There are two directions we could go, which reflect the structure of
-mathematics itself.
-The first direction is *pure* mathematics.
+It seems like there are two different paths heading into the
+mathematical landscape.
+The first path is *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
-proof, and most importantly, of beauty.
-Aesthetic consideration are famously important to pure mathematicians.
+proof, and most importantly, beauty.
+Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
@@ -134,17 +144,11 @@ Along similar lines, the English mathematician G. H. Hardy said
 "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
 
-Perhaps we should show our students some beautiful mathematics.
-In my analogy, this could a mountain peak with a particularly glorious view of sunrise.
-You need to be a good walker to get there, and the trail may wind
-through some shrubby foothills.
-More generally, pure mathematicians are like Indiana Jones, venturing
-into trackless realms and finding objects of great beauty, before,
-almost as an afterthought, bringing them back to civilisation.
-This is an activity we should be modelling and advertising and making accessible.
-
-But this is not what happens.
-Here's an example of what passes for pure mathematics in our "advanced" textbook:
+Sound like any high school maths class you ever took?
+It's almost as if people knew about the Hardy quote, but it got it
+backwards: there seems to be no permanent place in the classroom for
+beautiful mathematics.
+Let me show what passes for pure mathematics in our advanced textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist2.png"
@@ -517,3 +521,36 @@ America, insist on marching students through the scrubland, turning
 
 These are repetitive, mindless, plug-and-chug problems, and students are
 forced to do hundreds of them.
+
+I don't know about you, but these problems fill me with existential horror.
+Why do I care about the derivative of $\sin^{-1}(5x/4)$?
+Let alone its second derivative?
+What is this for?
+Why am I doing any of this?
+Why am I even here?
+This is what I mean by the scrubland.
+There are no landmarks, nothing for the eye to latch onto, just an
+endless plain of withered, ankle-height shrubs.
+
+Maybe there are some landmarks in the distance after all, once we get past
+the dead shrubs.
+What could they look like?
+
+hike into the foothills, armed
+only with a compass and a sense of adventure.
+
+There are two directions we could go, which reflect the structure of
+mathematics itself.
+
+Perhaps we should show our students some beautiful mathematics.
+In my analogy, this could a mountain peak with a particularly glorious view of sunrise.
+You need to be a good walker to get there, and the trail may wind
+through some shrubby foothills.
+More generally, pure mathematicians are like Indiana Jones, venturing
+into trackless realms and finding objects of great beauty, before,
+almost as an afterthought, bringing them back to civilisation.
+This is an activity we should be modelling and advertising and making accessible.
+
+
+But this is not what happens.
+Here's an example of what passes for pure mathematics in our "advanced" textbook:
