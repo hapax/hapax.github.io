@@ -78,11 +78,10 @@ But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
 what should be a voyage of discovery and empowerment into a joyless plod.
 
-Let me give you some examples to show I'm not being bombastic.
-I'm going to pick on an Australian textbook for the most advanced high
-school subject.
-But, in its defense, all of the textbooks are like this.
-The following exercises are from the section on derivatives:
+Let me give you a snapshot of the scrubland to show I'm not being
+bombastic.
+The following exercises are taken from a popular Australian textbook
+for the most advanced maths class:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
@@ -477,3 +476,7 @@ identify others with hiking talent who need more motivation.
 The greatest success, in this new paradigm, would be the moment a
 student realised that hiking was not about walking, but rather, using
 walking to experience and understand the world.
+
+I'm going to pick on an Australian textbook for the most advanced high
+school subject.
+But, in its defense, all of the textbooks are like this.
