@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Stuck in the scrubland"
-categories: [Maths, Physics, Teaching]
+categories: [Maths, Teaching]
 date:  2019-08-03
 ---
 
@@ -70,7 +70,7 @@ experience the world.
 ## A view of the scrubland
 
 You've probably realised by now that I'm not talking about hiking, I'm
-talking about *maths education*.
+talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, to play with formal structures.
 For most people, this is not an intrisically interesting activity.
@@ -85,7 +85,7 @@ In case you think I'm being bombastic, let me give you a snapshot.
 I'm going to pick on an Australian textbook for the most advanced high
 school subject.
 But, in its defense, all of the textbooks are like this.
-The following exercises are from the section on rates of change:
+The following exercises are from the section on derivatives:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
@@ -94,7 +94,7 @@ The following exercises are from the section on rates of change:
 	</div>
 	</figure>
 
-These are completely formal, plug-and-chug problems, and students are
+These are repetitive, mindless, plug-and-chug problems, and students are
 forced to do hundreds of them.
 I don't know about you, but these problems fill me with a sort of
 existential horror.
@@ -116,9 +116,7 @@ What could they look like?
 
 There are two directions we could go, which reflect the structure of
 mathematics itself.
-The first direction is *pure* mathematics, which is all about
-playing with formal structures and discovering their
-properties.
+The first direction is *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
 proof, and most importantly, of beauty.
 Aesthetic consideration are famously important to pure mathematicians.
@@ -421,3 +419,7 @@ Do we really expect them to become devotees of the deductive method
 after fifteen theorems abut triangles?
 Of course, there will be people who naturally love Euclid.
 But proving facts about plane figures leaves most of us cold.
+
+which is all about
+playing with formal structures and discovering their
+properties
