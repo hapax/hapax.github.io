@@ -70,7 +70,8 @@ understand the world.
 
 ## A view of the scrubland
 
-You've probably realised that I'm not really talking about hiking. I'm
+That's the end of my little preamble, and oou've probably realised
+that I'm not really talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
 symbols, to follow rules, and to play with formal structures.
