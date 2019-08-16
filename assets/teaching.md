@@ -154,7 +154,7 @@ This is more scrubland, but the shrubs are coloured differently.
 There is nothing beautiful about these results, nothing surprising.
 They are presented as brute formal facts, with no aesthetic value.
 
-#### MVT and infinite kinks: an example
+#### Example: the mean value theorem
 
 Once again, there is some conventional wisdom at work here.
 Students find proofs hard.
@@ -205,7 +205,7 @@ There will be two points at which it *just touches* (is tangent to)
 the curve.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/mvt3.png"
+    <div style="text-align:center"><img src ="/images/posts/mvt3v2.png"
     width="60%" />
 		    <figcaption><i>There are two points at which the line just
     touches the graph.</i></figcaption>
@@ -271,11 +271,11 @@ $$
 $$
 
 We have just proved (at least heuristically) the *mean value theorem*:
-a function $f(x)$ from $a$ to $b$ has some point $x^*$ where the derivative
+a function $f(x)$ from $a$ to $b$ has some point $c$ where the derivative
 equals the "mean" slope between its endpoints,
 
 $$
-f'(x^*) = \frac{f(b)-f(a)}{b-a}.
+f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
 This is not beyond 
