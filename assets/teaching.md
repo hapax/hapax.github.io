@@ -235,11 +235,10 @@ With some time to play around, students should come to doubt that such
 curves exist.
 How can they prove it?
 One approach lies in the definition of "just touching".
-Imagine zooming in infinitely close, so that the blue line becomes
-straight, and look at the slope (more or less what we mean by the
-derivative).
+Imagine zooming in infinitely close to the point of tangency, so the blue line becomes
+straight (more or less what we mean by the derivative).
 You can convince students that the blue and purple lines
-have the *same slope* at the point of intersection.
+must have the *same slope* at this point of intersection.
 If they had different slopes, they would cross each other rather than
 being tangent!
 
