@@ -76,7 +76,7 @@ constitute it.
 Maths is not symbol manipulation any more than hiking is walking!
 But maths curricula, at least in Australia and North
 America, insist on marching students through the scrubland, turning
-what should be a voyage of discovery, and empowerment, into a joyless plod.
+what should be a voyage of discovery and empowerment into a joyless plod.
 
 Let me give a you an example to show I'm not being bombastic.
 I'm going to pick on an Australian textbook for the most advanced high
