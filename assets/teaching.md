@@ -39,8 +39,9 @@ The first is tighten the connection between practice and real life,
 and go on small, unambitious walks instead of hikes.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
-What if we need wayfarers, explorers and hunters to function effectively?
-If we lower our sights, society as a whole could lose out.
+What if we need wayfarers, explorers and hunters, to help meet the
+needs of society as a whole?
+If we lower our sights, everyone loses.
 
 Perhaps, then, we should restrict hiking classes to those who naturally enjoy
 walking and don't mind the drudgery.
@@ -428,3 +429,5 @@ The first is to lower our ambitions and go on short walks.
 The connection between practice and real life is then clear, and less
 likely to lead to resentment; the teacher can justify the whole
 enterprise.
+
+If we lower our sights, society as a whole could lose out.
