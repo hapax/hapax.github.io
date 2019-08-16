@@ -53,23 +53,27 @@ What if, by restricting our attention to natural walkers, we
 miss out on a huge pool of talent, namely those with the potential to
 be great hikers if they practice walking?
 
-Clearly, we should stop taking students into the scrubland!
-We should hike through interesting terrain, through meadows and swamps,
-into valleys and up mountains.
-At first, hikes would be along the comfortable and well-trodden routes,
-while students found their feet and developed confidence, but
-with time, by degrees, they could learn to camp in the wilderness,
-to explore uncharted wastes and conquer summits.
-They would learn that, at the end of the day, hiking was not about the
-act of walking, but rather, using walking to
-experience the world.
+Both of these solutions are unsatisfying, particularly since the
+answer is obvious.
+We should stop marching students through the scrubland!
+We should take them through varied, stimulating terrain, through swamps and
+meadows, into forests, along streams and canyons.
+At first, they would hike along well-marked trails, but with time,
+they could learn to camp in the wilderness, explore uncharted wastes
+and conquer summits.
+The greatest success, in this new paradigm, would be the moment a
+student realised that hiking was not about walking, but rather, using
+walking to experience and understand the world.
 
 ## A view of the scrubland
 
-You've probably realised by now that I'm not talking about hiking. I'm
+You've probably realised that I'm not really talking about hiking. I'm
 talking about *maths*.
 In this thinly-veiled analogy, walking is the ability to manipulate
-symbols, to follow rules, to play with formal structures.
+symbols, to follow rules, and to play with formal structures.
+These activities are necessary to mathematics, but they do not
+constitute mathematics.
+
 For most people, this is not an intrisically interesting activity.
 In fact, it's particularly boring for mathematicians!
 This is because maths is not walking; it's hiking.
@@ -444,3 +448,12 @@ decide for themselves whether they want to hike.
 This is the solution the astute reader will have guessed immediately.
 
 into valleys and up mountains, at dawn and sunset when the prospects are good.
+
+They would learn that, at the end of the day, hiking was not about the
+act of walking, but rather, using walking to
+experience the world.
+
+into valleys and
+up mountains, through meadows, swamps and forests.
+,
+while students found their feet
