@@ -29,7 +29,7 @@ The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity.
 There needs to be some motivation to walk, something to walk towards
-or to look at while en route.
+or to look at en route.
 That's what *hiking* (as opposed to *walking*) is all about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
 walk, you will be trained to *avoid walking*.
