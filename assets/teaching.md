@@ -140,7 +140,7 @@ But wait a second!
 Conventional pedagogical wisdom tells us that scrubland drill is
 necessary to develop basic walking skills, for students to find their
 feet and get somewhere interesting.
-Maybe we can disagree about the best to develop facility, but the
+Maybe we can disagree about the best way to practice walking, but the
 bottom line is that if students never get anywhere, this claim is made
 in bad faith.
 They drill in order to drill some more.
