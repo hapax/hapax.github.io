@@ -96,7 +96,7 @@ without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 I know because that was my experience in high school.
-Maths bored me senseless.
+I was not a natural symbol manipulator, so maths bored me senseless.
 
 Let me illustrate with a snapshot of the scrubland.
 Here are some exercises from a popular Australian textbook for the
