@@ -162,6 +162,16 @@ colours, than to chart a new course into the mathematical world.
 That would take a lot of money, a lot of time, and a lot of
 collaboration with the professional navigators, people who know the
 landscape and use the trails.
+I can see why they're reluctant.
+
+But as in my hiking analogy, good mathematical skills are hugely
+important to society as a whole.
+I'm not talking about basic numeracy, like the ability to
+understand your tax returns or compute a tip.
+I'm talking about dealing with the ongoing effects of climate change,
+big data, artificial intelligence, personalised medicine, to name a
+few.
+The stakes couldn't be higher.
 
 ## The role of beauty
 
