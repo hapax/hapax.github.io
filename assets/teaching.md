@@ -137,7 +137,7 @@ What appear to be features on the horizon are just shrubs of a
 different colour, and I'll give some examples below.
 
 But wait a second!
-The conventional pedagogical wisdom is that scrubland drill is
+Conventional pedagogical wisdom tells us that scrubland drill is
 necessary to develop basic walking skills, and get somewhere interesting.
 Maybe we can disagree about the best to develop facility, but the
 bottom line is that if students never get anywhere, this claim is made
