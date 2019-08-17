@@ -95,9 +95,8 @@ Australia, you could be forgiven for thinking that maths is just a collection of
 without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
-I know because that was my experience of high school maths.
-It bored me senseless.
-I scraped by with passes, but I didn't understand or care about it.
+I know because that was my experience in high school.
+Maths bored me senseless.
 
 Let me give you a snapshot of the scrubland.
 Here are some exercises from a popular Australian textbook for the
@@ -691,3 +690,5 @@ who trudge tirelessly and without complaint for hours.
 Mathematics has its own world, a vast topography of features and
 landforms that must be traversed by manipulating
 symbols, but manipulating symbols is not itself the goal.
+
+I scraped by with passes, but I didn't understand or care about it.
