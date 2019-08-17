@@ -53,10 +53,8 @@ What if we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole?
 If we lower our sights, everyone loses.
 
-It looks like we need to prepare some students to do advanced hiking.
-But if most students hate walking through scrubland, maybe we should
-restrict advanced classes to those who enjoy it, the "natural walkers"
-who trudge tirelessly and without complaint for hours.
+Perhaps we should restrict classes to the "natural walkers", the
+students who trudge tirelessly and without complaint through the scrubland.
 They appear to have the most potential.
 But what if walking is a skill that can be *developed*, rather than a
 natural ability, like double-jointedness, you're either born with or not?
@@ -685,3 +683,8 @@ Find 15 distinct problems, and you have yourself a textbook.
 and a lot of
 collaboration with the professional navigators, people who know the
 landscape and use the trails.
+
+It looks like we need to prepare some students to do advanced hiking.
+But if most students hate walking through scrubland, maybe we should
+restrict advanced classes to those who enjoy it, the "natural walkers"
+who trudge tirelessly and without complaint for hours.
