@@ -60,8 +60,8 @@ who trudge tirelessly and without complaint for hours.
 They appear to have the most potential.
 But what if walking is a skill that can be *developed*, rather than a
 natural ability, like double-jointedness, you're either born with or not?
-If so, then just taking natural walkers ignores a huge reservoir of talent: the students who could become good
-hikers if they were motivated to walk.
+If so, then just taking natural walkers ignores a huge reservoir of
+talent: the students who could become good hikers if they were motivated to walk.
 
 There is a simple way to develop good hikers and maximise access to
 talent: stop marching students through the scrubland!
@@ -77,7 +77,7 @@ By taking them on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
-#### A snapshot of the scrubland
+#### A snapshot
 
 I'm not really talking about hiking; I'm talking about *maths*.
 In this tortured analogy, walking is the ability to manipulate
@@ -154,7 +154,15 @@ You don't need to be a good hiker to guide students through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with minor variants of the same problem.
 
-
+But the responsibility for getting us out of the scrubland lies with
+the people who write the curriculum.
+And from their perspective, it's much easier to maintain the
+scrubland, to ride around in a pickup truck and paint things different
+colours, than to chart a new course into the mathematical world.
+That would take a lot of money, a lot of time, and a lot of
+collaboration with the professional navigators, people who know the
+landscape and use the trails.
+I certainly haven't done this work, and I 
 
 ## The role of beauty
 
