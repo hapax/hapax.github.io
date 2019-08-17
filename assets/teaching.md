@@ -166,12 +166,12 @@ I'm talking about dealing with the ongoing effects of climate change,
 big data, artificial intelligence, and personalised medicine.
 These issues call for explorers with higher-order hiking skills and a
 taste for the unknown.
-The stakes couldn't be higher.
-So while reluctance is understandable, I think curriculum writers need to get out of
-the pickup trucks and talk to the professionals, people who know the
-landscape and use the trails,.
+The stakes couldn't be higher, so while reluctance is understandable,
+I think curriculum writers need to get out of their pickup trucks,
+drop their paintbrushes, and talk to the professionals, people who
+know the landscape and use the trails,.
 They need to move mathematics out of the scrubland, and into the 21st
-century with all its challenges and complexities.
+century with all its grand challenges and complexities.
 
 ## The role of beauty
 
