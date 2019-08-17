@@ -77,7 +77,7 @@ understand the world.
 
 #### A snapshot
 
-I'm not really talking about hiking; I'm talking about *maths*.
+Of course, I'm not really talking about hiking; I'm talking about *maths*.
 In this tortured analogy, walking is the ability to manipulate
 symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
