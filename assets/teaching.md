@@ -45,8 +45,8 @@ But if there's no motivation, it becomes a chore, and rather than being trained 
 walk, you will be trained to *avoid walking*.
 
 There are a few different ways we could fix this situation.
-The first is to tighten the connection between practice and real life,
-and go on small, unambitious strolls.
+The first is to make the connection between practice and real life closer,
+exchanging hikes for small, unambitious strolls.
 But what if a whole sector of the economy
 depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters to help meet the
