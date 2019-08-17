@@ -162,7 +162,6 @@ colours, than to chart a new course into the mathematical world.
 That would take a lot of money, a lot of time, and a lot of
 collaboration with the professional navigators, people who know the
 landscape and use the trails.
-I certainly haven't done this work, and I 
 
 ## The role of beauty
 
