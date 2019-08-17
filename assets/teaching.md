@@ -151,8 +151,8 @@ You don't need to be a good hiker to guide students through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with minor variants of the same problem.
 
-But the responsibility for getting us out of the scrubland lies with
-the people who write the curriculum.
+But the responsibility for getting us out of the scrubland doesn't lie
+with teachers, or even textbook writers, but the authorities who write the curriculum.
 And from their perspective, it's much easier to maintain the
 scrubland, to ride around in a pickup truck and paint things different
 colours, than to chart a new course into the mathematical world.
