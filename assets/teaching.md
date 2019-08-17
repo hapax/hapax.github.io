@@ -58,7 +58,7 @@ students who trudge tirelessly and without complaint through the scrubland.
 They appear to have the most potential.
 But what if walking is a skill that can be *developed*, rather than a
 natural ability, like double-jointedness, you're either born with or not?
-If so, then just taking natural walkers ignores a huge reservoir of
+If so, then just taking natural walkers cuts us off from a huge reservoir of
 talent: the students who could become good hikers if they were motivated to walk.
 
 There is a simple way to develop good hikers and maximise access to
