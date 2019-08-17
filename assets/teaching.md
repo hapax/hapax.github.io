@@ -99,10 +99,8 @@ I know because that was my experience in high school.
 I was not a natural symbol manipulator, so maths bored me senseless.
 
 Let me illustrate with a snapshot of the scrubland.
-Here are some exercises from a popular Australian textbook for the
-most advanced maths class.
-The subject is calculus, one of the great landmarks not only of
-mathematics, but of human thought.
+Here are some calculus exercises from a popular Australian textbook.
+Calculus is, without exaggeration, one of the great landmarks of human thought.
 What does the textbook make of it?
 
 <figure>
@@ -692,3 +690,6 @@ landforms that must be traversed by manipulating
 symbols, but manipulating symbols is not itself the goal.
 
 I scraped by with passes, but I didn't understand or care about it.
+
+Here are some calculus exercises from a popular Australian textbook for the
+most advanced maths class.
