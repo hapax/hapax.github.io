@@ -141,19 +141,19 @@ But the real problem here is that the scrubland never ends.
 What appear to be features on the horizon are just shrubs of a
 different colour, and I'll give some examples below.
 
-But wait a sec: conventional pedagogical wisdom states that this sort
+But wait a second: conventional pedagogical wisdom states that this sort
 of scrubland drill is necessary to get somewhere interesting.
 Maybe we can disagree about the best to develop facility, but the
 bottom line is that if students never get anywhere, this claim is made
 in bad faith.
 They drill in order to drill some more.
 So where does the claim come form?
-The truth is that scrubland is easy for teachers, it's easy for
-textbook writers, it's easy for curricular authorities.
+The truth is that scrubland is easy for teachers and easy for
+textbook writers.
 You don't need to be a good hiker to guide students through the
-scrubland.
-If you want to write a textbook, just "shrubbify" and fill the book
-with minor variants of the same problem.
+scrubland, and if you want to write a textbook, just "shrubbify" and
+fill the book with minor variants of the same problem.
+
 
 
 ## The role of beauty
