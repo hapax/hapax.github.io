@@ -160,7 +160,7 @@ That would take a lot of time and a lot of money, so I can see why they're reluc
 
 But as in the hiking analogy, good mathematical skills are
 important to society as a whole.
-I'm not talking about basic numeracy, like the ability to
+I'm not talking about basic numeracy, the ability to
 understand your tax returns or compute a tip.
 I'm talking about dealing with the ongoing effects of climate change,
 big data, artificial intelligence, and personalised medicine.
