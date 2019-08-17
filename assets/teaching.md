@@ -58,10 +58,9 @@ But if most students hate walking through scrubland, maybe we should
 restrict advanced classes to those who enjoy it, the "natural walkers"
 who trudge tirelessly and without complaint for hours.
 They appear to have the most potential.
-But if walking is a skill that can be *developed*, rather than a
+But what if walking is a skill that can be *developed*, rather than a
 natural ability, like double-jointedness, you're either born with or not?
-If it can be developing, then just taking natural walkers cuts us off
-from a huge reservoir of talent: the students who could become good
+If so, then just taking natural walkers ignores a huge reservoir of talent: the students who could become good
 hikers if they were motivated to walk.
 
 There is a simple way to develop good hikers and maximise access to
@@ -80,19 +79,17 @@ understand the world.
 
 #### A snapshot of the scrubland
 
-That's the end of my little preamble, and by now you've probably realised
-that I'm not really talking about hiking. I'm
-talking about *maths*.
-In this thinly-veiled analogy, walking is the ability to manipulate
+I'm not really talking about hiking; I'm talking about *maths*.
+In this tortured analogy, walking is the ability to manipulate
 symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
 But maths is not symbol manipulation any more than hiking is walking!
-These activities are necessary to mathematics, but they do not
+These activities are necessary to mathematics, but they don't
 constitute it.
 Mathematics has its own world, a vast topography of features and
-landforms, that can only be traversed and navigated by manipulating
-symbols; but manipulating symbols is not itself the goal.
+landforms that must be traversed by manipulating
+symbols, but manipulating symbols is not itself the goal.
 And like walking, symbol manipulation is a skill that can be developed.
 
 But if you look at most high school textbooks, in Australia or North
@@ -103,12 +100,13 @@ What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 I know because that was my experience of high school maths.
 It bored me senseless.
-I scraped by with passes, but I didn't understand anything.
+I scraped by with passes, but I didn't understand or care about it.
 
-To help convey the boredom that I experienced, let me give you a snapshot of the scrubland.
+Let me give you a snapshot of the scrubland.
 Here are some exercises from a popular Australian textbook for the
-advanced maths class.
-The subject is calculus, in particular rates of change, which is one of the great landmarks of human thought.
+most advanced maths class.
+The subject is calculus, one of the great landmarks not only of
+mathematics, but of human thought.
 What does the textbook make of it?
 
 <figure>
@@ -123,24 +121,40 @@ Why am I doing this again?
 I mean, what is inverse sine on a Saturday?
 Could I get a beer with it?
 I may as well be looking at a barcode!
-That's how indistinguishable and dull these questions are.
+That's how indistinguishable and repetitive these questions are.
 They fill me, and I hope you, with existential horror.
 This is what I mean by the scrubland.
 There are no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
-It's perversely impressive, in a way, how these textbooks take a
+In a way, it's perversely impressive how these textbooks take a
 milestone of Western thought and "shrubbify" it.
 
-## Drill vs scrubland
+#### What 
 
-This isn't to say students don't need to practice.
-Of course they do.
-But 
+Perhaps I'm being unfair.
+Students need to walk before they can hike, or in mathematical
+terms, to become handy symbol manipulators before they can do real
+maths.
+But the problem with the scrubland is that it never ends.
+What appear
+to be features on the horizon are just shrubs of a different colour,
+and I'll give examples of this below.
+
+The traditional claim that students
+need to drill in order to *get somewhere interesting* is usually made in bad
+faith.
+They never go anywhere.
+So make these
+claims?
+The truth is that scrubland is easy.
+You can take anything and shrubbify it, because all you do is generate
+minor variants of the same problem.
+Find 15 distinct problems, and you have yourself a textbook.
 
 ## The role of beauty
 
-There are two different paths heading off into the
-mathematical landscape.
+There are two different roads winding off into the mathematical
+distance.
 The first is the way of *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
 proof, and most importantly, beauty.
@@ -612,3 +626,27 @@ interesting tasks.
 This sounds reasonable, and I'll come back to drill below, but one can
 ask: what are the landmarks they're meant to hike towards, now that
 they differentiate inverse sine with their eyes closed?
+
+That's the end of my little preamble, and by now you've probably realised
+that I'm not really talking about hiking. I'm
+talking about *maths*.
+In this thinly-veiled analogy, walking is the ability to manipulate
+symbols, to follow rules, to find your way around a formal structure.
+
+Mathematics has its own world, a vast topography of features and
+landforms, that can only be traversed and navigated by manipulating
+symbols; but manipulating symbols is not itself the goal.
+
+To help convey this boredom, let me give you a
+snapshot of the scrubland.
+
+There are two different paths heading off into the
+mathematical landscape.
+
+it's easy to generate minor variants of the same
+question, the same two or three ideas, and make that a chapter of your
+textbook.
+
+It's true that students need to practice symbol manipulation somehow,
+and I'll say more below about how to do that in a way that doesn't
+inspire existential horror.
