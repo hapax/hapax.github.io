@@ -78,21 +78,20 @@ understand the world.
 #### A snapshot
 
 Of course, I'm not really talking about hiking; I'm talking about *maths*.
-In this tortured analogy, walking is the ability to manipulate
+In this slightly tortured analogy, walking is the ability to manipulate
 symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
 But maths is not symbol manipulation any more than hiking is walking!
 These activities are necessary to mathematics, but they don't
 constitute it.
-Mathematics has its own world, a vast topography of features and
-landforms that must be traversed by manipulating
-symbols, but manipulating symbols is not itself the goal.
+Put a different way, the mathematical world, with its vast topography
+of features and landforms, must be traversed by manipulating symbols,
+but manipulating symbols is not itself the goal.
 And like walking, symbol manipulation is a skill that can be developed.
 
-But if you look at most high school textbooks, in Australia or North
-America, you could be forgiven for thinking that maths is just a
-collection of brute formal facts, without context,
+If you look at most high school textbooks, in North America or
+Australia, you could be forgiven for thinking that maths is just a collection of brute formal facts, without context,
 without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
@@ -688,3 +687,7 @@ It looks like we need to prepare some students to do advanced hiking.
 But if most students hate walking through scrubland, maybe we should
 restrict advanced classes to those who enjoy it, the "natural walkers"
 who trudge tirelessly and without complaint for hours.
+
+Mathematics has its own world, a vast topography of features and
+landforms that must be traversed by manipulating
+symbols, but manipulating symbols is not itself the goal.
