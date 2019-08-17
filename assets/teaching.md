@@ -132,7 +132,7 @@ terms, to become handy symbol manipulators before they can do real
 maths.
 I don't debate this, though I think there are better ways to do it
 than walking through scrubland. 
-But the real problem here is that the scrubland never ends.
+But the real problem here is that *the scrubland never ends*.
 What appear to be features on the horizon are just shrubs of a
 different colour, and I'll give some examples below.
 
