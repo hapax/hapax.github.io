@@ -143,7 +143,7 @@ feet and get somewhere interesting.
 Maybe we can disagree about the best way to practice walking, but the
 bottom line is that if students never get anywhere, this claim is made
 in bad faith.
-They drill in order to drill some more.
+They drill in order to drill.
 So where does the claim come form?
 The truth is that scrubland is easy for teachers and easy for
 textbook writers.
