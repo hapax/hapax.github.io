@@ -158,7 +158,7 @@ scrubland, to ride around in a pickup truck and paint things different
 colours, than to chart a new course into the mathematical world.
 That would take a lot of time and a lot of money, so I can see why they're reluctant.
 
-But as in the hiking analogy, good mathematical skills are hugely
+But as in the hiking analogy, good mathematical skills are
 important to society as a whole.
 I'm not talking about basic numeracy, like the ability to
 understand your tax returns or compute a tip.
