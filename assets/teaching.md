@@ -98,7 +98,7 @@ the mathematical world, is a joyless plod for most students.
 I know because that was my experience in high school.
 Maths bored me senseless.
 
-Let me give you a snapshot of the scrubland.
+Let me illustrate with a snapshot of the scrubland.
 Here are some exercises from a popular Australian textbook for the
 most advanced maths class.
 The subject is calculus, one of the great landmarks not only of
