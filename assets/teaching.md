@@ -159,19 +159,20 @@ the people who write the curriculum.
 And from their perspective, it's much easier to maintain the
 scrubland, to ride around in a pickup truck and paint things different
 colours, than to chart a new course into the mathematical world.
-That would take a lot of money, a lot of time, and a lot of
-collaboration with the professional navigators, people who know the
-landscape and use the trails.
-I can see why they're reluctant.
+That would take a lot of money and a lot of time, so I can see why they're reluctant.
 
 But as in my hiking analogy, good mathematical skills are hugely
 important to society as a whole.
 I'm not talking about basic numeracy, like the ability to
 understand your tax returns or compute a tip.
 I'm talking about dealing with the ongoing effects of climate change,
-big data, artificial intelligence, personalised medicine, to name a
-few.
+big data, artificial intelligence, and personalised medicine.
 The stakes couldn't be higher.
+So while reluctance is understandable, I think they need to get out of
+the pickup trucks and talk to professional hikers, people who know the
+landscape, use the trails.
+They need to move mathematics out of the scrubland, and into the 21st
+century with all its challenges and complexities.
 
 ## The role of beauty
 
@@ -680,3 +681,7 @@ faith.
 You can take anything and shrubbify it, because all you do is generate
 minor variants of the same problem.
 Find 15 distinct problems, and you have yourself a textbook.
+
+and a lot of
+collaboration with the professional navigators, people who know the
+landscape and use the trails.
