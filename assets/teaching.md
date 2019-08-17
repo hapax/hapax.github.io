@@ -9,7 +9,9 @@ date:  2019-08-03
 
 **August 13, 2019.** *A manifesto on maths education.*
 
-## A preamble
+## Introduction
+
+#### A preamble
 
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
@@ -25,7 +27,7 @@ Heck, if you can't walk, how do you expect to get a job!
     <div style="text-align:center"><img src
     ="https://upload.wikimedia.org/wikipedia/commons/d/d8/Scrubland_-_geograph.org.uk_-_326909.jpg"
     width="70%" />
-		    <figcaption><i>Trudging through scrubland. (Wikimedia Commons)</i></figcaption>
+		    <figcaption><i>Trudging through the scrubland. (Wikimedia Commons)</i></figcaption>
 	</div>
 	</figure>
 
@@ -53,9 +55,9 @@ If we lower our sights, everyone loses.
 
 It looks like we need to prepare some students to do advanced hiking.
 But if most students hate walking through scrubland, maybe we should
-restrict advanced classes to those who enjoy, the "natural walkers"
+restrict advanced classes to those who enjoy it, the "natural walkers"
 who trudge tirelessly and without complaint for hours.
-These students seem to have the most hiking potential.
+They appear to have the most potential.
 But if walking is a skill that can be *developed*, rather than a
 natural ability, like double-jointedness, you're either born with or not?
 If it can be developing, then just taking natural walkers cuts us off
@@ -76,7 +78,7 @@ By taking them on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
-## A snapshot of the scrubland
+#### A snapshot of the scrubland
 
 That's the end of my little preamble, and by now you've probably realised
 that I'm not really talking about hiking. I'm
@@ -118,7 +120,7 @@ What does the textbook make of it?
 
 We're finding... rates of change of ... some functions, I guess.
 Why am I doing this again?
-I mean, what is inverse sine when it finished work?
+I mean, what is inverse sine on a Saturday?
 Could I get a beer with it?
 I may as well be looking at a barcode!
 That's how indistinguishable and dull these questions are.
@@ -127,21 +129,19 @@ This is what I mean by the scrubland.
 There are no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 It's perversely impressive, in a way, how these textbooks take a
-milestone of Western civilisation and "shrubbify" it.
+milestone of Western thought and "shrubbify" it.
+
+## Drill vs scrubland
+
+This isn't to say students don't need to practice.
+Of course they do.
+But 
 
 ## The role of beauty
 
-Perhaps I'm being unfair; conventional wisdom states that students
-need to master basic skills by drill before they can move on to more
-interesting tasks.
-They need to learn to walk before they can hike a mountain trail!
-This sounds reasonable, and I'll come back to drill below, but one can
-ask: what are the landmarks they're meant to hike towards, now that
-they differentiate inverse sine with their eyes closed?
-
-There are two different paths heading into the
+There are two different paths heading off into the
 mathematical landscape.
-The first path is *pure* mathematics.
+The first is the way of *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
 proof, and most importantly, beauty.
 Aesthetic considerations are famously important to pure mathematicians.
@@ -153,11 +153,10 @@ Along similar lines, the English mathematician G. H. Hardy said
 for ugly mathematics."
 
 Sound like any high school maths class you ever took?
-It's almost as if people knew about the Hardy quote, but it got it
-backwards: there seems to be no permanent place in the classroom for
-beautiful mathematics.
-Let me show you what passes for pure mathematics in the advanced
-textbook I'm picking on:
+It's almost as if people got the Hardy quote backwards: there seems to
+be no permanent place in the classroom for *beautiful* mathematics.
+Let me show you what passes for pure mathematics in our advanced
+textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist2.png"
@@ -260,13 +259,17 @@ being tangent!
 
 This suggests a visual proof, which students could discover for
 themselves with judicious guidance.
-First of all, some of the blue curve should lie above the purple line, or below the
-purple line, otherwise it *is* the purple line and we are done.
-If it lies below, for instance, move the purple line down until it
-can't go further without touching the blue curve at all.
-If the purple line wasn't tangent to the blue, the blue would cross
-*through* the purple and we could continue moving it down.
-So it has to just touch at that point!
+First of all, it's clear that some of the blue curve should lie above
+the purple line, or below the purple line, otherwise it *is* the
+purple line and we have (infinitely) many points of tangency.
+But let's assume that some of the blue curve lies below the original
+purple line.
+Now, move the purple line down until it can't go further without
+missing the blue curve altogether.
+If the purple line wasn't tangent to the blue at this extreme point,
+the blue would cross *through* the purple and we could continue moving
+it down.
+From our earlier discussion, this means they have to be tangent!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt6.png"
@@ -294,15 +297,20 @@ $$
 Another nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
-## Useful landmarks
+
+## The role of application
 
 A second type of landmark is 
 
-## The role of the teacher
+## Fine points
+
+#### The evidence
+
+#### The role of the teacher
 
 Adroit guide
 
-## Do we need scrubland?
+#### Do we need scrubland?
 
 ## The research
 
@@ -597,3 +605,10 @@ The proof appears as a sort of *mechanism* which takes any input and
 guarantees a tangency point as output.
 (The idea that a proof treats an *infinite* number of examples is, I
 think, a good way to introduce it in these contexts.)
+
+Conventional wisdom states that students
+need to master basic skills by drill before they can move on to more
+interesting tasks.
+This sounds reasonable, and I'll come back to drill below, but one can
+ask: what are the landmarks they're meant to hike towards, now that
+they differentiate inverse sine with their eyes closed?
