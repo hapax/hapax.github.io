@@ -156,9 +156,9 @@ with teachers, or even textbook writers, but the authorities who write the curri
 And from their perspective, it's much easier to maintain the
 scrubland, to ride around in a pickup truck and paint things different
 colours, than to chart a new course into the mathematical world.
-That would take a lot of money and a lot of time, so I can see why they're reluctant.
+That would take a lot of time and a lot of money, so I can see why they're reluctant.
 
-But as in my hiking analogy, good mathematical skills are hugely
+But as in the hiking analogy, good mathematical skills are hugely
 important to society as a whole.
 I'm not talking about basic numeracy, like the ability to
 understand your tax returns or compute a tip.
