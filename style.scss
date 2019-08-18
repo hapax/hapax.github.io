@@ -19,12 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+	/* font: 18px/1.4 $helvetica; */
+	font-family: "Times New Roman", Times, serif;
   color: $darkGray;
-}
-
-body {
-      font-family: "Times New Roman", Times, serif;
 }
 
 .container {
