@@ -177,9 +177,9 @@ century with all its challenges and complexities.
 
 To conclude my little manifesto, I want to suggest a couple of
 directions out of the scrubland.
-The first is the way of *pure* mathematics.
+The first is the way of *pure mathematics*.
 This is the realm of abstraction, of generalisation, of
-proof, and most importantly, beauty.
+proof, and most importantly, *beauty8.
 Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
