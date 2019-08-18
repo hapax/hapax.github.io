@@ -9,7 +9,7 @@ date:  2019-08-03
 
 **August 13, 2019.** *A manifesto on maths education.*
 
-## Introduction
+## The scrubland manifesto
 
 #### A preamble
 
@@ -171,7 +171,7 @@ I think curriculum writers need to get out of their pickup trucks,
 drop their paintbrushes, and talk to the professionals, people who
 know the landscape and use the trails,.
 They need to move mathematics out of the scrubland, and into the 21st
-century with all its grand challenges and complexities.
+century with all its challenges and complexities.
 
 ## The role of beauty
 
