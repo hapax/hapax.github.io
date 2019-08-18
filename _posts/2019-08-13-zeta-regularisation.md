@@ -258,7 +258,7 @@ While this is not exactly an advertisment for path integrals, it is a
 small advertisment for black magic.
 Usually, one has to insert factors by hand to get the Hamiltonian and
 path integral method to agree.
-Now the two approaches automatically agree!
+Now the two approaches agree automatically!
 
 ---
 
@@ -322,7 +322,7 @@ phase $e^{2\pi i a}$.
 
    $$
 	\det\mathcal{J} = 4
-	\left[\cosh^2 \left(\frac{\beta\omega}{2}\right) - \sin^2(\pi a)\right].
+	\left[\cosh^2 \left(\frac{\beta\omega}{2}\right) - \sin^2(\pi a)\right]
    $$
 
    using black magic rather than Green's functions.
