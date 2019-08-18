@@ -175,8 +175,11 @@ century with all its challenges and complexities.
 
 ## The role of beauty
 
-There are two different roads winding off into the mathematical
-distance.
+To conclude my little manifesto, I want to provide some concrete ideas
+about how to make maths education better.
+These are far from complete 
+out two different roads winding off into the mathematical distance.
+
 The first is the way of *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
 proof, and most importantly, beauty.
@@ -698,3 +701,5 @@ I scraped by with passes, but I didn't understand or care about it.
 
 Here are some calculus exercises from a popular Australian textbook for the
 most advanced maths class.
+
+two different roads winding off into the mathematical distance.
