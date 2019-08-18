@@ -175,11 +175,8 @@ century with all its challenges and complexities.
 
 ## The role of beauty
 
-To conclude my little manifesto, I want to provide some concrete ideas
-about how to make maths education better.
-These are far from complete 
-out two different roads winding off into the mathematical distance.
-
+To conclude my little manifesto, I want to suggest a couple of
+directions out of the scrubland.
 The first is the way of *pure* mathematics.
 This is the realm of abstraction, of generalisation, of
 proof, and most importantly, beauty.
