@@ -21,9 +21,8 @@ For instance, a 3D black hole can be simulated on a 2D quantum computer!
 	</div>
 	</figure>
 
-At the moment, I'm thinking about how to simulate black holes with
-*half* a quantum computer.
-This can potentially tell us what goes on *inside* the black hole!
+*Coming soon*: a [5 levels](https://video.wired.com/series/5-levels)
+ style explanation of my research.
 
 #### Papers
 
@@ -50,7 +49,7 @@ This can potentially tell us what goes on *inside* the black hole!
 ### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
-  quickly". A talk on both notions, to the neutron star
+  quickly". A talk on both notions to the neutron star
   group at the University of Melbourne.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). In string
