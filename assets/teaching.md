@@ -137,13 +137,13 @@ What appear to be features on the horizon are just shrubs of a
 different colour.
 
 But wait a second!
-Conventional pedagogical wisdom tells us that scrubland drill is
+Conventional pedagogical wisdom tells us that drill is
 necessary to develop basic walking skills, for students to find their
-feet and get somewhere interesting.
-Maybe we can disagree about the best way to practice walking, but the
-bottom line is that if students never get anywhere, this claim is made
+feet before they walk off into the foothills.
+Maybe we can disagree about the best way to learn to walk, but the
+bottom line is that if students *never get anywhere*, this claim is made
 in bad faith.
-They drill in order to drill.
+They drill in order to keep drilling.
 So where does the claim come form?
 The truth is that scrubland is easy for teachers and easy for
 textbook writers.
