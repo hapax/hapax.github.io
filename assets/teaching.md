@@ -124,7 +124,7 @@ endless plain of withered, ankle-height shrubs.
 In a way, it's perversely impressive how these textbooks take a
 milestone of Western thought and "shrubbify" it.
 
-#### The appeal of scrubland
+#### Roads to nowhere
 
 Perhaps I'm being unfair.
 Students need to walk before they can hike, or in mathematical
@@ -144,7 +144,7 @@ Maybe we can disagree about the best way to learn to walk, but the
 bottom line is that if students *never get anywhere*, this claim is made
 in bad faith.
 They drill in order to keep drilling.
-So where does the claim come form?
+So where does this claim come form?
 The truth is that scrubland is easy for teachers and easy for
 textbook writers.
 You don't need to be a good hiker to guide students through the
@@ -152,11 +152,12 @@ scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with minor variants of the same problem.
 
 But the responsibility for getting us out of the scrubland doesn't lie
-with teachers, or even textbook writers, but the authorities who write the curriculum.
+with teachers, or even textbook writers, but the apparatchiks who write the curriculum.
 And from their perspective, it's much easier to maintain the
 scrubland, to ride around in a pickup truck and paint things different
 colours, than to chart a new course into the mathematical world.
-That would take a lot of time and a lot of money, so I can see why they're reluctant.
+That would take time, money, and vision, and these are perennially in
+short supply.
 
 But as in the hiking analogy, good mathematical skills are
 important to society as a whole.
@@ -173,13 +174,13 @@ know the landscape and use the trails,.
 They need to move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-## The role of beauty
+## The way of beauty
 
 To conclude my little manifesto, I want to suggest a couple of
 directions out of the scrubland.
-The first is the way of *pure mathematics*.
-This is the path of abstraction, of generalisation, of
-proof, and most importantly, *beauty*.
+The first is the path of *pure mathematics*: this way lies
+abstraction, generalisation, proof, and most importantly, *beauty*.
+
 Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
@@ -210,14 +211,13 @@ The shrubs may be painted blue, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
 In pure mathematics, mountains are things like theorems (important
-proven results), conjectures (important unproven results), and
-important definitions or examples.
+proven results), conjectures (important unproven results), and non-trivial examples.
 "Important", here, can mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is one of the principal criteria.
 Some mountains can only be scaled by professionals.
-But we don't need to scale the mountain to appreciate and get a
-flavour of important results; we can find a nearby hill with a gentler slope and
-a partial view of the summit.
+But we don't always need to scale a mountain to appreciate important
+results; we can often find a nearby hill with a gentler slope and a
+partial view of the summit.
 
 #### Example: the mean value theorem
 
@@ -333,8 +333,9 @@ $$
 Another nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
+#### Example: a kink in the argument
 
-## The role of application
+## The way of power
 
 A second type of landmark is 
 
@@ -346,9 +347,7 @@ A second type of landmark is
 
 Adroit guide
 
-#### Do we need scrubland?
-
-## The research
+#### Active learning and other pedagogical improvements
 
 ## References
 
