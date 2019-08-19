@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align:center"><img src ="/images/selfie5.png" width="300px" /></div>
+<div style="text-align:center"><img src ="/images/selfie1.png" width="250px" /></div>
 
 I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
@@ -33,7 +33,7 @@ uses [Jekyll Now](https://github.com/barryclark/jekyll-now), a
 Images appearing on the site are my own, usually made in
 [Inkscape](https://inkscape.org/en/)/[GIMP](https://www.gimp.org/).
 [Lexend](https://fonts.google.com/specimen/Lexend+Deca) and
-[Nunito](https://fonts.google.com/specimen/Nunito) courtesy of [Google Fonts](https://fonts.google.com/).
+[Nunito](https://fonts.google.com/specimen/Nunito)) courtesy of [Google Fonts](https://fonts.google.com/).
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
