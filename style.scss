@@ -198,7 +198,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $lexend; /*$helveticaNeue;*/
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -217,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $lexend; /*$helveticaNeue;*/
   font-size: 18px;
 
   @include mobile {
