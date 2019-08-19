@@ -91,7 +91,8 @@ but manipulating symbols is not itself the goal.
 And like walking, symbol manipulation is a skill that can be developed.
 
 If you look at most high school textbooks, in North America or
-Australia, you could be forgiven for thinking that maths is just a collection of brute formal facts, without context,
+Australia, you could be forgiven for thinking that maths is just a
+collection of exercises in symbol manipulation, without context,
 without use, without beauty: a scrubland.
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
