@@ -138,20 +138,25 @@ milestone of Western thought and "shrubbify" it.
 ### Roads to nowhere
 
 Perhaps I'm being unfair.
-Students need to walk before they can hike, or in mathematical
-terms, to become handy symbol manipulators before they can do real
-maths.
-I don't debate this, though I think there are better ways to do it
-than walking through scrubland, and a lot of newfangled pedagogy is
-focused on trying to make this process more engaging and inclusive.
-But the real problem here is that *the scrubland never ends*.
+First of all, you might say it's the role of the teacher to enliven the lesson, to
+provide context and motivation.
+But if these aren't hardcoded into the curriculum and the textbooks,
+then every class with a teacher who is inexperienced, underqualified,
+or lazy, gets shortchanged.
+It's a recipe for massive inequality.
+Spicing up the textbook won't solve this problem, but it can alleviate it.
+
+A second objects is that students need to walk before they can hike,
+or in mathematical terms, to become handy symbol manipulators before
+they can do real maths.
+There are better ways to do this than looking at shrubs.
+But the real problem is that *the scrubland never ends*.
 What appear to be features on the horizon are just shrubs of a
 different colour.
 And if students *never get anywhere*, the claim that they have to
-drill, before they can get anywhere interesting, is made in bad faith.
+drill, before they can go somewhere interesting, is made in bad faith.
 They drill in order to keep drilling.
 
-So where does this claim come form?
 The truth is that scrubland is easy for teachers and easy for
 textbook writers.
 You don't need to be a good hiker to guide students through the
@@ -752,3 +757,9 @@ along who may, with practice, become just as good or better.
 By taking them on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
+
+I don't debate this, though I think there are better ways to do it
+than walking through scrubland, and a lot of newfangled pedagogy is
+focused on trying to make this process more engaging and inclusive.
+
+So where does this claim come form?
