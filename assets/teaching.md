@@ -14,7 +14,7 @@ date:  2019-08-03
   interesting! This calls for collaboration between practicing
   scientists and educators. Together, they can plot a route out of the
   scrubland, and into realms where the beauty and power of
-  mathematical thought are evident*
+  mathematical thought are evident.*
 
 ## Stuck in the scrubland
 
