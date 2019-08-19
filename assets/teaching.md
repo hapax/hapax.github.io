@@ -11,7 +11,7 @@ date:  2019-08-03
 
 ## The scrubland manifesto
 
-#### A preamble
+### A preamble
 
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
@@ -75,7 +75,7 @@ By taking them on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
-#### A snapshot
+### A snapshot
 
 Of course, I'm not really talking about hiking; I'm talking about *maths*.
 In this slightly tortured analogy, walking is the ability to manipulate
@@ -124,7 +124,7 @@ endless plain of withered, ankle-height shrubs.
 In a way, it's perversely impressive how these textbooks take a
 milestone of Western thought and "shrubbify" it.
 
-#### Roads to nowhere
+### Roads to nowhere
 
 Perhaps I'm being unfair.
 Students need to walk before they can hike, or in mathematical
