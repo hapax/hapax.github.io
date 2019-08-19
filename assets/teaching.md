@@ -7,7 +7,11 @@ categories: [Maths, Teaching]
 date:  2019-08-03
 ---
 
-**August 13, 2019.** *A manifesto on maths education.*
+**August 13, 2019.** *In the 21st century, higher-order mathematical
+  skills are more important than ever before. How do we stop
+  alienating students, and plug some of the holes in the pipeline? By
+  making maths interesting! This calls for collaboration between
+  practicing scientists and educators.*
 
 ## Stuck in the scrubland
 
@@ -25,7 +29,7 @@ Heck, if you can't walk, how do you expect to get a job!
 But privately, teach had to admit: two hours in the scrubland
 every day for six years did seem excessive.
 But that's how they'd been doing things forever, and it was hard to
-imagine a different way.
+see a different way.
 
 <figure>
     <div style="text-align:center"><img src
