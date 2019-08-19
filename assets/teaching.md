@@ -114,7 +114,7 @@ What does the textbook make of it?
 We're finding... rates of change of ... some functions, I guess.
 Why am I doing this again?
 I mean, what is inverse sine on a Saturday?
-I may as well be looking at a barcode!
+I may as well be looking at a barcode.
 That's how indistinguishable and repetitive these questions are.
 
 They fill me, and I hope you, with existential horror.
@@ -131,19 +131,15 @@ Students need to walk before they can hike, or in mathematical
 terms, to become handy symbol manipulators before they can do real
 maths.
 I don't debate this, though I think there are better ways to do it
-than walking through scrubland. 
+than walking through scrubland, and a lot of newfangled pedagogy is
+focused on trying to make this process more engaging and inclusive.
 But the real problem here is that *the scrubland never ends*.
 What appear to be features on the horizon are just shrubs of a
 different colour.
-
-But wait a second!
-Conventional pedagogical wisdom tells us that drill is
-necessary to develop basic walking skills, for students to find their
-feet before they walk off into the foothills.
-Maybe we can disagree about the best way to learn to walk, but the
-bottom line is that if students *never get anywhere*, this claim is made
-in bad faith.
+And if students *never get anywhere*, the claim that they have to
+drill, before they can get anywhere interesting, is made in bad faith.
 They drill in order to keep drilling.
+
 So where does this claim come form?
 The truth is that scrubland is easy for teachers and easy for
 textbook writers.
@@ -702,3 +698,11 @@ two different roads winding off into the mathematical distance.
 
 I mean, what is inverse sine on a Saturday?
 Could I get a beer with it?
+
+But wait a second!
+Conventional pedagogical wisdom tells us that drill is
+necessary to develop basic walking skills, for students to find their
+feet before they walk off into the foothills.
+Maybe we can disagree about the best way to learn to walk, but the
+bottom line is that if students *never get anywhere*, this claim is made
+in bad faith.
