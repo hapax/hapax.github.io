@@ -24,7 +24,7 @@ in a monotone that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
 But privately, teach had to admit: two hours in the scrubland
 every day for six years did seem excessive.
-But that's how they'd been doing it forever, and it seemed hard to
+But that's how they'd been doing things forever, and it was hard to
 imagine a different way.
 
 <figure>
