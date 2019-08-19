@@ -146,11 +146,13 @@ textbook writers.
 You don't need to be a good hiker to guide students through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with minor variants of the same problem.
+I think this is the sad reality underlying a lot of conventional
+wisdom about maths teaching.
 
 But the responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the apparatchiks who write the curriculum.
 And from their perspective, it's much easier to maintain the
-scrubland, to ride around in a pickup truck and paint things different
+scrubland, and maybe ride around in a pickup truck painting things different
 colours, than to chart a new course into the mathematical world.
 That would take time, money, and vision, and these are perennially in
 short supply.
