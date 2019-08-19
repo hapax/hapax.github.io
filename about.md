@@ -32,6 +32,10 @@ uses [Jekyll Now](https://github.com/barryclark/jekyll-now), a
 [Jekyll](https://jekyllrb.com/) theme by Barry Clark.
 Images appearing on the site are my own, usually made in
 [Inkscape](https://inkscape.org/en/)/[GIMP](https://www.gimp.org/).
+Fonts (currently
+[Lexend](https://fonts.google.com/specimen/Lexend+Deca) and
+[Nunito](https://fonts.google.com/specimen/Nunito)) are hosted by
+[Google Fonts](https://fonts.google.com/).
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
