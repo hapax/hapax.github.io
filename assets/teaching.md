@@ -8,10 +8,11 @@ date:  2019-08-03
 ---
 
 **August 13, 2019.** *In the 21st century, higher-order mathematical
-  skills are more important than ever before. How do we stop
-  alienating students, and plug some of the holes in the pipeline? By
-  making maths interesting! This calls for collaboration between
-  practicing scientists and educators.*
+  skills are more important, across a range of disciplines and
+  problems, than ever before. How do we stop alienating students, and
+  plug some of the holes in the pipeline? I propose that we make maths
+  interesting! This calls for more collaboration between practicing
+  scientists and educators.*
 
 ## Stuck in the scrubland
 
