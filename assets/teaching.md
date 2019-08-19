@@ -24,6 +24,8 @@ in a monotone that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
 But privately, teach had to admit: two hours in the scrubland
 every day for six years did seem excessive.
+But that's how they'd been doing it forever, and it seemed hard to
+imagine a different way.
 
 <figure>
     <div style="text-align:center"><img src
@@ -38,7 +40,8 @@ Or would you have lost interest (if you were lucky enough to have any)
 and started lagging behind?
 Maybe, in time, you would come to proudly identify as someone who
 sucked at hiking!
-(I'm hoping this is starting to ring bells, but let's continue.)
+(I'm hoping this is starting to ring bells, but let's continue with
+the fable.)
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
 activity; there needs to be some motivation to walk, something to walk towards
@@ -65,10 +68,14 @@ students who naturally love walking, who trudge
 tirelessly and without complaint through miles of scrubland.
 And some teachers will say: good!
 These are the students with talent and natural potential for hiking.
-But walking is a skill that be developed.
+But walking is a skill that be developed, and if hiking looks like
+fun, it will motivate some kids to practice walking and get better at it.
+And what do you know? The pool of talent feeding into our hiking
+sector just got a lot bigger.
+Everyone wins.
 
-There is a simple way to develop good hikers and maximise access to
-talent: stop marching students through the scrubland!
+The way to fix these classes, and make hiking fun, is kind of obvious:
+we should stop marching through the scrubland!
 We should take them through varied and stimulating terrain, into the
 forest, or towards
 the strange rock formations in the distance.
