@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Stuck in the scrubland"
+title:  "The scrubland manifesto"
 categories: [Maths, Teaching]
 date:  2019-08-03
 ---
 
 **August 13, 2019.** *A manifesto on maths education.*
 
-## The scrubland manifesto
+## Stuck in the scrubland
 
 ### A preamble
 
@@ -190,7 +190,6 @@ To conclude my little manifesto, I want to suggest a couple of
 directions out of the scrubland.
 The first is the path of *pure mathematics*: this way lies
 abstraction, generalisation, proof, and most importantly, *beauty*.
-
 Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
@@ -212,22 +211,19 @@ textbook:
 	</div>
 	</figure>
 
-These look different, until you notice they are the *same* questions as
-before, but with letters instead of numbers.
-There is nothing beautiful or deep here, just the same manipulations
-in disguise!
-It is the wrong sort of generalisation.
+These look different from the barcode exercises earlier, until you
+notice they're the *same* questions with letters instead of numbers.
 The shrubs may be painted blue, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), and non-trivial examples.
-"Important", here, can mean a variety of things, but as Hardy and
+"Important" and "non-trivial" mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is one of the principal criteria.
-Some mountains can only be scaled by professionals.
+Now, some mountains can only be scaled by professionals.
 But we don't always need to scale a mountain to appreciate important
-results; we can often find a nearby hill with a gentler slope and a
-partial view of the summit.
+results; with a bit of ingenuity, we can usually find a nearby hill
+with a gentler slope and a partial view of the summit.
 
 #### Example: the mean value theorem
 
@@ -344,6 +340,8 @@ Another nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
 #### Example: a kink in the argument
+
+#### Example: adding natural numbers
 
 ## The way of power
 
@@ -759,3 +757,7 @@ than walking through scrubland, and a lot of newfangled pedagogy is
 focused on trying to make this process more engaging and inclusive.
 
 So where does this claim come form?
+
+There is nothing beautiful or deep here, just the same manipulations
+in disguise!
+It is the wrong sort of generalisation.
