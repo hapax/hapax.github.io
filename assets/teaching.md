@@ -56,17 +56,17 @@ Why don't we just teach students how to walk to the store, or the bus stop, or
 around the block with a dog, the sort of walking most adults actually
 do.
 Maybe this would have made sense a hundred years ago.
-But what if a whole sector of the economy depends on advanced hiking skills?
-What if we need wayfarers, explorers and hunters to help meet the
-needs of society as a whole?
-Hiking classes should be advertising these career choices, and
-preparing students who decide to pursue them.
+But now a whole sector of the economy depends on advanced hiking
+skills: we need wayfarers, explorers and hunters to help meet the
+needs of society as a whole.
+So hiking classes should act as an intake mechanism, advertising these
+career choices and preparing students who take an interest.
 
-If the classes are boring, the only people to stick around will be the
-students who naturally love walking, who trudge
-tirelessly and without complaint through miles of scrubland.
+Now, if the classes are boring, the only people to stick around will
+be the ones who naturally love walking, who trudge
+tirelessly and without complaint across miles of scrubland.
 And some teachers will say: good!
-These are the students with talent and natural potential for hiking.
+These are the students with natural talent and real potential for hiking.
 But walking is a skill that be developed, and if hiking looks like
 fun, it will motivate some kids to practice walking and get better at it.
 And what do you know? The pool of talent feeding into our hiking
