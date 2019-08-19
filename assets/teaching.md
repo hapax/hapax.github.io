@@ -18,10 +18,12 @@ you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-If the class complained that the walk was boring or pointless or too long, the
-teacher would reply that walking was an important life
-skill.
+Whenever the class complained that the walk was boring or pointless or
+too long, and who hikes in real life anyway, the teacher would reply
+in a monotone that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
+But privately, teach had to admit: two hours in the scrubland
+every day for six years did seem excessive.
 
 <figure>
     <div style="text-align:center"><img src
@@ -32,34 +34,38 @@ Heck, if you can't walk, how do you expect to get a job!
 	</figure>
 
 Would you have enjoyed this hiking class?
-Or would you have lost interest, and started lagging behind?
+Or would you have lost interest (if you were lucky enough to have any)
+and started lagging behind?
 Maybe, in time, you would come to proudly identify as someone who
 sucked at hiking!
+(I'm hoping this is starting to ring bells, but let's continue.)
 The problem with the class is obvious.
 For most people, walking is not an intrinsically interesting
-activity, particularly if the walk is long!
-There needs to be some motivation to walk, something to walk towards
+activity; there needs to be some motivation to walk, something to walk towards
 or to look at en route.
 That's what *hiking* (as opposed to *walking*) should be about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
-walk, you will be trained to *avoid walking*.
+hike, you will be trained to *avoid hiking*.
+In other words, these hiking classes effectively kill interest in hiking.
 
-There are a few different ways we could fix this situation.
-The first is to make the connection between practice and real life closer,
-exchanging hikes for small, unambitious strolls.
-But what if a whole sector of the economy
-depends on advanced hiking skills?
+How do we fix them?
+A radical fix is to stop teach hiking altogether.
+Instead, teach students how to walk to the store, or the bus stop, or
+around the block with a dog, the sort of walking most adults actually
+do.
+And maybe this would have made sense a hundred years ago.
+But what if a whole sector of the economy depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole?
-If we lower our sights, everyone loses.
+Hiking classes should be advertising these career choices, and
+preparing students who decide to pursue them.
 
-Perhaps we should restrict classes to the "natural walkers", the
-students who trudge tirelessly and without complaint through the scrubland.
-They appear to have the most potential.
-But what if walking is a skill that can be *developed*, rather than a
-natural ability, like double-jointedness, you're either born with or not?
-If so, then just taking natural walkers cuts us off from a huge reservoir of
-talent: the students who could become good hikers if they were motivated to walk.
+If the classes are boring, the only people to stick around will be the
+students who naturally love walking, who trudge
+tirelessly and without complaint through miles of scrubland.
+And some teachers will say: good!
+These are the students with talent and natural potential for hiking.
+But walking is a skill that be developed.
 
 There is a simple way to develop good hikers and maximise access to
 talent: stop marching students through the scrubland!
@@ -160,16 +166,16 @@ short supply.
 But as in the hiking analogy, good mathematical skills are
 important to society as a whole.
 I'm not talking about basic numeracy, e.g. the ability to
-understand your tax returns or compute a tip.
+understand your tax returns or compute a tip, though these skills are
+essential.
 I'm talking about dealing with the ongoing effects of climate change,
-big data, artificial intelligence, and personalised medicine.
-These issues call for explorers with higher-order hiking skills and a
-taste for the unknown.
-The stakes couldn't be higher, so while reluctance is understandable,
+big data, artificial intelligence, personalised medicine, issues which
+call for explorers with higher-order hiking skills and a taste for the unknown.
+The stakes couldn't be higher.
 I think curriculum writers need to get out of their pickup trucks,
 drop their paintbrushes, and talk to the professionals, people who
-know the landscape and use the trails,.
-They need to move mathematics out of the scrubland, and into the 21st
+know the landscape and use the trails.
+Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
 ## The way of beauty
@@ -708,3 +714,36 @@ feet before they walk off into the foothills.
 Maybe we can disagree about the best way to learn to walk, but the
 bottom line is that if students *never get anywhere*, this claim is made
 in bad faith.
+
+Or would you have lost interest, and started lagging behind?
+
+There are a few different ways we could fix this situation.
+The first is to make the connection between practice and real life closer,
+exchanging hikes for small, unambitious strolls.
+
+But what if a whole sector of the economy
+depends on advanced hiking skills?
+
+If we lower our sights, everyone loses.
+
+Perhaps we should restrict classes to the "natural walkers", the
+students who trudge tirelessly and without complaint through the scrubland.
+They appear to have the most potential.
+But what if walking is a skill that can be *developed*, rather than a
+natural ability, like double-jointedness, you're either born with or not?
+If so, then just taking natural walkers cuts us off from a huge reservoir of
+talent: the students who could become good hikers if they were motivated to walk.
+
+There is a simple way to develop good hikers and maximise access to
+talent: stop marching students through the scrubland!
+We should take them through varied and stimulating terrain, into the
+forest, or towards
+the strange rock formations in the distance.
+At first, lessons would be along well-marked trails, but with time,
+they could learn to camp in the wilderness, explore uncharted wastes
+and conquer summits.
+This would turn natural walkers into good hikers, and bring others
+along who may, with practice, become just as good or better.
+By taking them on real hikes, students would learn that hiking is not
+about the act of walking, but rather *using walking* to experience and
+understand the world.
