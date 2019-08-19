@@ -68,7 +68,7 @@ tirelessly and without complaint across miles of scrubland.
 And some teachers will say: good!
 These are the students with natural talent and real potential for hiking.
 But walking is a skill that be developed, and if hiking looks like
-fun, it will motivate some kids to practice walking and get better at it.
+fun, it will motivate kids to practice walking and get better at it.
 And what do you know? The pool of talent feeding into our hiking
 sector just got a lot bigger.
 Everyone wins.
