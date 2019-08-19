@@ -74,7 +74,8 @@ sector just got a lot bigger.
 Everyone wins.
 
 The way to fix these classes, and make hiking fun, is kind of obvious:
-we should stop marching student through the scrubland!
+we should stop marching student through the scrubland, even if that's
+what's been done for time immemorial.
 We should take them through varied and stimulating terrain, into the
 forest, through a canyon, and towards
 the strange rock formations in the distance.
