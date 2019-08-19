@@ -86,7 +86,7 @@ By going on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
-### A snapshot
+### Shrubbification
 
 Of course, I'm not really talking about hiking; I'm talking about *maths*.
 In this slightly tortured analogy, walking is the ability to manipulate
@@ -105,12 +105,13 @@ If you look at most high school textbooks, in North America or
 Australia, you could be forgiven for thinking that maths is just a
 collection of exercises in symbol manipulation, without context,
 without use, without beauty: a scrubland.
-What should be a voyage of discovery and empowerment, a journey into
-the mathematical world, is a joyless plod for most students.
+What should be a journey into
+the mathematical world is a joyless plod.
 I know because that was my experience in high school.
-I was not a natural symbol manipulator, so maths bored me senseless.
+I was not a natural symbol manipulator, and scraped by with passes
+until learning that maths could be *used* for things.
 
-Let me give you a snapshot of the scrubland.
+Let's look at an example.
 These calculus exercises are taken from a popular Australian textbook.
 Calculus is, without exaggeration, one of the great landmarks of human thought.
 What does the textbook make of it?
@@ -761,3 +762,6 @@ So where does this claim come form?
 There is nothing beautiful or deep here, just the same manipulations
 in disguise!
 It is the wrong sort of generalisation.
+
+What should be a voyage of discovery and empowerment, a journey into
+the mathematical world, is a joyless plod for most students.
