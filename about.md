@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align:center"><img src ="/images/selfie1.png" width="250px" /></div>
+<div style="text-align:center"><img src ="/images/selfie5.png" width="250px" /></div>
 
 I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
