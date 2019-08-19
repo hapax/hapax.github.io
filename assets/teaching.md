@@ -51,12 +51,11 @@ But if there's no motivation, it becomes a chore, and rather than being trained 
 hike, you will be trained to *avoid hiking*.
 In other words, these hiking classes effectively kill interest in hiking.
 
-How do we fix them?
-A radical fix is to stop teach hiking altogether.
-Instead, teach students how to walk to the store, or the bus stop, or
+Why have hiking classes anyway?
+Why don't we just teach students how to walk to the store, or the bus stop, or
 around the block with a dog, the sort of walking most adults actually
 do.
-And maybe this would have made sense a hundred years ago.
+Maybe this would have made sense a hundred years ago.
 But what if a whole sector of the economy depends on advanced hiking skills?
 What if we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole?
