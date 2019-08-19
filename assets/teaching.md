@@ -75,16 +75,14 @@ sector just got a lot bigger.
 Everyone wins.
 
 The way to fix these classes, and make hiking fun, is kind of obvious:
-we should stop marching through the scrubland!
+we should stop marching student through the scrubland!
 We should take them through varied and stimulating terrain, into the
-forest, or towards
+forest, through a canyon, and towards
 the strange rock formations in the distance.
-At first, lessons would be along well-marked trails, but with time,
+At first, hikes would be along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
-This would turn natural walkers into good hikers, and bring others
-along who may, with practice, become just as good or better.
-By taking them on real hikes, students would learn that hiking is not
+By going on real hikes, students would learn that hiking is not
 about the act of walking, but rather *using walking* to experience and
 understand the world.
 
