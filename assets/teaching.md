@@ -99,8 +99,8 @@ the mathematical world, is a joyless plod for most students.
 I know because that was my experience in high school.
 I was not a natural symbol manipulator, so maths bored me senseless.
 
-Let me illustrate with a snapshot of the scrubland.
-Here are some calculus exercises from a popular Australian textbook.
+Let me give you a snapshot of the scrubland.
+These calculus exercises are taken from a popular Australian textbook.
 Calculus is, without exaggeration, one of the great landmarks of human thought.
 What does the textbook make of it?
 
@@ -114,7 +114,6 @@ What does the textbook make of it?
 We're finding... rates of change of ... some functions, I guess.
 Why am I doing this again?
 I mean, what is inverse sine on a Saturday?
-Could I get a beer with it?
 I may as well be looking at a barcode!
 That's how indistinguishable and repetitive these questions are.
 
@@ -701,3 +700,6 @@ Here are some calculus exercises from a popular Australian textbook for the
 most advanced maths class.
 
 two different roads winding off into the mathematical distance.
+
+I mean, what is inverse sine on a Saturday?
+Could I get a beer with it?
