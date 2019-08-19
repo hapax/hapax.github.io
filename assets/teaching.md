@@ -31,8 +31,7 @@ in a monotone that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
 But privately, teach had to admit: two hours in the scrubland
 every day for six years did seem excessive.
-But that's how they'd been doing things forever, and it was hard to
-see a different way.
+But that's how they'd been doing things forever.
 
 <figure>
     <div style="text-align:center"><img src
@@ -49,27 +48,26 @@ Maybe, in time, you would come to proudly identify as someone who
 sucked at hiking!
 (I'm hoping this is starting to ring bells, but let's continue with
 the fable.)
-The problem with the class is obvious.
+The problem with the class is clear.
 For most people, walking is not an intrinsically interesting
 activity; there needs to be some motivation to walk, something to walk towards
 or to look at en route.
 That's what *hiking* (as opposed to *walking*) should be about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
 hike, you will be trained to *avoid hiking*.
-In other words, these hiking classes effectively kill interest in hiking.
 
 Why have hiking classes anyway?
-Why don't we just teach students how to walk to the store, or the bus stop, or
-around the block with a dog, the sort of walking most adults actually
-do.
-Maybe this would have made sense a hundred years ago.
+Why don't we just teach students how to walk to the corner store, or the bus stop, or
+around the block with a dog in tow, the sort of walking most adults actually
+do?
+This would have made sense a hundred years ago.
 But now a whole sector of the economy depends on advanced hiking
 skills: we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole.
-So hiking classes should act as an intake mechanism, advertising these
-career choices and preparing students who take an interest.
+So hiking classes should act as an intake mechanism, drawing students
+into the field and equipping them to explore.
 
-Now, if the classes are boring, the only people to stick around will
+If the classes are boring, the only people to stick around will
 be the ones who naturally love walking, who trudge
 tirelessly and without complaint across miles of scrubland.
 And some teachers will say: good!
@@ -77,7 +75,7 @@ These are the students with natural talent and real potential for hiking.
 But walking is a skill that be developed, and if hiking looks like
 fun, it will motivate kids to practice walking and get better at it.
 And what do you know? The pool of talent feeding into our hiking
-sector just got a lot bigger.
+sector just got a lot bigger, the pipeline less leaky.
 Everyone wins.
 
 The way to fix these classes, and make hiking fun, is kind of obvious:
@@ -777,3 +775,5 @@ It is the wrong sort of generalisation.
 
 What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
+
+In other words, these hiking classes effectively kill interest in hiking.
