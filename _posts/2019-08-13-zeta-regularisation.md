@@ -58,7 +58,7 @@ same expression as above:
 $$
 \int \mathcal{D}x \,
 \exp\left[-\int_0^L d\tau\, d\tau'\, x(\tau)A(\tau,\tau') x(\tau')\right] =
-\frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2}.
+\frac{1}{\sqrt{\det A}} = \prod_i \lambda_i^{-1/2}.
 $$
 
 We now see why we shifted the $\sqrt{2\pi}$ onto the left: in the
