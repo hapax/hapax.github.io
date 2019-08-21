@@ -22,20 +22,20 @@ $$
 \int_{-\infty}^\infty \frac{dx}{\sqrt{2\pi}} \, e^{-\tfrac{1}{2}\alpha x^2}  = \frac{1}{\sqrt{\alpha}}
 $$
 
-We have written an extra factor of $1/\sqrt{\pi}$ in the measure $dx$
+We have written an extra factor of $1/\sqrt{2\pi}$ in the measure $dx$
 for reasons that will become clear in a moment.
 In $n$ dimensions, we can replace $\alpha x^2$ with any bilinear $x_i
 A_{ij} x_j$, where $A_{ij}$ is a diagonalisable matrix.
-By diagonalising $A$, the one-dimensional result immediately
+By going to the eigenbasis of $A$, the one-dimensional result immediately
 generalises to
 
 $$
 \int_{-\infty}^\infty \frac{dx}{(2\pi)^{n/2}} \,e^{-x_i A_{ij} x_j} =
-\frac{1}{\sqrt{\det A}} = \left(\prod_i \lambda_i\right)^{-1/2},
+\frac{1}{\sqrt{\det A}} = \prod_i \lambda_i^{-1/2},
 $$
 
 where the $\lambda_i$ are eigenvalues of $A$.
-In some fields, such as quantum field theory, we frequently take
+In quantum field theory, we take
 things even further, and evaluate the integral for an
 *infinite-dimensional* vector space.
 In this case, we replace the discretely indexed vector $x_i$ with a
