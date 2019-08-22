@@ -23,15 +23,15 @@ date:  2019-08-03
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
-through a featureless scrubland, with no views, no
+through a barren, featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
-Whenever the class complained that the walk was boring or pointless or
-too long, and who hikes in real life anyway, the teacher would reply
-in a monotone that walking was an important life skill.
+Whenever the class complained that the walk was boring or pointless
+(and who hikes in real life anyway?) the teacher would intone that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
-But privately, teach had to admit: two hours in the scrubland
-every day for six years did seem excessive.
-But that's how they'd been doing things forever.
+But privately, teach had to admit: two monotonous hours in the scrubland,
+every day for six years, did seem excessive.
+But that's how they'd been doing things forever, so that's the way
+things were.
 
 <figure>
     <div style="text-align:center"><img src
@@ -351,6 +351,8 @@ methods) it can be turned into an algorithm for finding the point $c$.
 #### Example: a kink in the argument
 
 #### Example: adding natural numbers
+
+#### Example: arithmetic-geometric inequality
 
 ## The way of power
 

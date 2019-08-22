@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Zeta regularisation black magic"
+title:  "Zeta regularisation voodoo"
 categories: [Mathematics, Physics]
 date:  2019-08-13
 ---
@@ -227,7 +227,7 @@ $$
 \frac{\sinh z}{z}.
 $$
 
-The first product diverges, but can be evaluated by black magic for
+The first product diverges, but can be evaluated by voodoo for
 $\xi = 2\pi/\beta$ and $a = 1$:
 
 $$
@@ -255,7 +255,7 @@ Z[\beta] = \sum_{n\geq 0} e^{-\beta E_n} =
 $$
 
 While this is not exactly an advertisment for path integrals, it is a
-small advertisment for black magic.
+small advertisment for voodoo.
 Usually, one has to insert factors by hand to get the Hamiltonian and
 path integral method to agree.
 Now the two approaches agree automatically!
@@ -293,7 +293,7 @@ classical coordinates for the fermion.
 3. Find the eigenvalues of $\mathcal{Q}$, subject to the boundary
    conditions you found in the previous question, and write a product expression for
    $Z[\beta]$.
-4. Simplify using black magic and the product formula
+4. Simplify using voodoo and the product formula
 
    $$
     \cosh \left(\frac{x}{2}\right) = \prod_{k \geq 0}
@@ -325,7 +325,7 @@ phase $e^{2\pi i a}$.
 	\left[\cosh^2 \left(\frac{\beta\omega}{2}\right) - \sin^2(\pi a)\right]
    $$
 
-   using black magic rather than Green's functions.
+   using voodoo rather than Green's functions.
 
 2. (Open) Determine whether the anyonic path integral can be written
 
