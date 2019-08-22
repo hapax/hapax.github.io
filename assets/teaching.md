@@ -205,7 +205,7 @@ Along similar lines, the English mathematician G. H. Hardy said
 for ugly mathematics."
 For a fuller discussion of the role of aesthetics in mathematics, see
 for instance
-["Aesthetic Considerations in Mathematics" (2011)][(https://pdfs.semanticscholar.org/c01f/1b7cdbe2b9a649d09311f7b3e5e1bcb88310.pdf) by Nathalie Sinclair.
+["Aesthetic Considerations in Mathematics" (2011)](https://pdfs.semanticscholar.org/c01f/1b7cdbe2b9a649d09311f7b3e5e1bcb88310.pdf) by Nathalie Sinclair.
 
 Sound like any high school maths class you ever took?
 It's almost as if people got the Hardy quote backwards: there seems to
