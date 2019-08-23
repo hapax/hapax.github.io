@@ -64,7 +64,7 @@ dictum that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
 Privately, thought, teach had to admit: two monotonous hours in the
 scrubland, every day for six years, did seem excessive.
-But that's the way things were.
+But that's just the way things things were done.
 
 <figure>
     <div style="text-align:center"><img src
