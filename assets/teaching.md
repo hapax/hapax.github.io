@@ -111,19 +111,23 @@ What if studies revealed that most of these "natural walkers" had
 pivotal experiences of non-scrubland hiking?
 
 The way to fix these classes is obvious: we should stop marching
-student through the scrubland.
-We should guide them through varied and stimulating terrain, into the
-forest, through a canyon, and towards
-the strange rock formations in the distance.
+students through the scrubland.
+Instead, we should guide them into varied and stimulating terrain, through
+forests, along canyons, and towards the strange rock formations in
+the distance.
 With time, they could learn to camp in the wilderness, explore
 uncharted wastes and conquer summits.
-By going on real hikes, students would learn that hiking is not
+We would stop dividing the class into those with and without ability,
+but rather, those with and without *interest*, since we would see that
+this is the primary determinant of walking skill.
+But hopefully, interest would flower.
+By going on real hikes, students would discover that hiking is not
 about the act of walking, but rather using walking to experience and
-understand the world.
+understand a world rich in wonder.
 
 ### Shrubbification
 
-I hope the analogy to maths education, and its traditional shortcomings, is clear.
+I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
 symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
