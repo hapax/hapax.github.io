@@ -118,13 +118,13 @@ uncharted wastes and conquer summits.
 I think interest would blossom in unexpected places.
 This would stop wasting student time, improve social outcomes by
 attracting more students into the field, and perhaps most importantly,
-show them that there is a whole natural world out there to be
-explored and relished.
+show them that all of nature was out there, waiting to be relished and
+explored.
 And they don't need to become a professional hiker to enjoy the odd
 stroll, any more than they need to be a professional writer to read
 the odd book.
-Some students would still hate hiking, probably, but so many more
-would be enriched.
+Some students would probably still hate hiking.
+But so many more would be immeasurably enriched.
 
 #### Shrubbification
 
