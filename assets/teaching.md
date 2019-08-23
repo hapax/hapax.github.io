@@ -42,9 +42,8 @@ highly evolved monkeys.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
-I was lucky, stumbling later in life onto what felt like a hidden
-realm, a world of extraordinary beauty and power whose existence I had
-never suspected.
+I was lucky, stumbling later in life into a hidden realm of
+extraordinary beauty and power.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that *there is a
