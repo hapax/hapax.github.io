@@ -35,8 +35,8 @@ Different sorts of infinity, Russell's paradox, Cantor's
 diagonalisation argument --- all of this not only tickled my
 philosophical fancy, but a dormant *aesthetic appreciation* for
 mathematics.
-It could be beautiful, and just as deep as philosophy proper.
-I had a recreational interest in physics, and to paraphrase Galileo,
+It could be beautiful, and just as deep as philosophy.
+I also had a recreational interest in physics, and to paraphrase Galileo,
 began to appreciate that maths was a formal game played by nature
 also.
 Eventually, I switched from philosophy to maths and physics, and never
