@@ -823,3 +823,6 @@ the fable.)
 
 I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
+
+(In fact, it seemed like a sort of toy version of philosophy where
+everything really obeyed its definition.)
