@@ -50,7 +50,7 @@ How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that *there is a
 mathematical world* out there?
 The problem, I believe, is that maths education is stuck in a sort of
-scrubland, separated from that world.
+scrubland with no views into that world.
 To help make the problem more vivid, and its solution clearer, let's
 consider an analogy to *hiking*.
 
