@@ -17,9 +17,32 @@ date:  2019-08-03
 
 ## Stuck in the scrubland
 
+In high school, I thought maths was boring.
+I was skeptical that trigonometry or algebra would help me in real
+life, and found the endless drill mind-numbing.
+Sure, there are an infinite number of equations to solve!
+But why should I care about any of them?
+I could cram for tests and copy examples well enough to pass, but I
+thought of maths class as a formal game I wasn't interested in
+playing, and I never bothered to internalise rules beyond the next test.
+For instance, I remember at age 15 teaching myself how to add
+fractions and multiply negative numbers!
+
+Learning set theory in philosophy class a few years later, I
+discovered to my surprise that maths could be beautiful.
+Different sorts of infinity, Russell's paradox, Cantor's
+diagonalisation argument --- all of this tickled my philosophical
+fancy.
+And a recreational interest in physics showed that (to paraphrase
+Galileo) maths was a formal game played by nature.
+I began to get interested, and eventually switched careers from
+philosophy to maths and physics.
+
+I was lucky, stumbling onto 
+
 ### A preamble
 
-I want you to imagine a reality, not so different from our own, where
+To help make the problem vivid, I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a barren, featureless scrubland, with no views, no
