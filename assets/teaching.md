@@ -51,12 +51,12 @@ copying just enough to pass tests, never seeing that *there is a
 mathematical world* out there?
 The problem, I believe, is that maths education is stuck in a sort of
 scrubland with no views into that world.
-To help make the problem more vivid, and its solution clearer, let's
-consider an analogy to *hiking*.
 
 ### A preamble
 
-I want you to imagine a reality where, instead of maths,
+To help make the problem more vivid, and its solution clearer, let's
+consider an analogy to *hiking*.
+Imagine a reality where, instead of maths,
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a barren, featureless scrubland, with no views, no
