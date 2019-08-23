@@ -8,10 +8,9 @@ date:  2019-08-03
 ---
 
 **August 13, 2019.** *In the 21st century, higher-order mathematical
-  skills are more important, across a range of disciplines and
-  problems, than ever before. How do we stop alienating students, and
-  plug some of the holes in the pipeline? I propose that we make maths
-  interesting! This calls for collaboration between practicing
+  skills are more important than ever before. How do we stop
+  alienating students and plug some of the holes in the pipeline? It's
+  simple: make maths interesting! This calls for collaboration between practicing
   scientists and educators. Together, they can plot a route out of the
   scrubland, and into realms where the beauty and power of
   mathematical thought are evident.*
@@ -46,8 +45,6 @@ Or would you have lost interest (if you were lucky enough to have any)
 and started lagging behind?
 Maybe, in time, you would come to proudly identify as someone who
 sucked at hiking!
-(I'm hoping this is starting to ring bells, but let's continue with
-the fable.)
 The problem with the class is clear.
 For most people, walking is not an intrinsically interesting
 activity; there needs to be some motivation to walk, something to walk towards
@@ -73,7 +70,7 @@ tirelessly and without complaint across miles of scrubland.
 And some teachers will say: good!
 These are the students with natural talent and real potential for hiking.
 But walking is a skill that be developed, and if hiking looks like
-fun, it will motivate kids to practice walking and get better at it.
+fun, it will motivate kids to get better at walking.
 And what do you know? The pool of talent feeding into our hiking
 sector just got a lot bigger, the pipeline less leaky.
 Everyone wins.
@@ -93,8 +90,8 @@ understand the world.
 
 ### Shrubbification
 
-Of course, I'm not really talking about hiking; I'm talking about *maths*.
-In this slightly tortured analogy, walking is the ability to manipulate
+I hope the analogy to maths education, and its traditional shortcomings, is clear.
+Walking is the ability to manipulate
 symbols, to follow rules, to find your way around a formal structure.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
@@ -203,9 +200,6 @@ perfection such as only the greatest art can show".
 Along similar lines, the English mathematician G. H. Hardy said
 "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
-For a fuller discussion of the role of aesthetics in mathematics, see
-for instance
-["Aesthetic Considerations in Mathematics" (2011)](https://pdfs.semanticscholar.org/c01f/1b7cdbe2b9a649d09311f7b3e5e1bcb88310.pdf) by Nathalie Sinclair.
 
 Sound like any high school maths class you ever took?
 It's almost as if people got the Hardy quote backwards: there seems to
@@ -779,3 +773,12 @@ What should be a voyage of discovery and empowerment, a journey into
 the mathematical world, is a joyless plod for most students.
 
 In other words, these hiking classes effectively kill interest in hiking.
+
+For a fuller discussion of the role of aesthetics in mathematics, see
+for instance
+["Aesthetic Considerations in Mathematics" (2011)](https://pdfs.semanticscholar.org/c01f/1b7cdbe2b9a649d09311f7b3e5e1bcb88310.pdf) by Nathalie Sinclair.
+
+In this slightly tortured analogy, 
+
+(I'm hoping this is starting to ring bells, but let's continue with
+the fable.)
