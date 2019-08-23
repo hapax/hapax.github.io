@@ -56,7 +56,7 @@ scrubland with no views into that world.
 
 To help make the problem more vivid, and its solution clearer, let's
 consider an analogy to *hiking*.
-Imagine a reality where, instead of maths,
+Imagine that, instead of maths,
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a barren, featureless scrubland, with no views, no
