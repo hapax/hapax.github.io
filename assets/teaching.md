@@ -37,8 +37,8 @@ philosophical fancy, but a dormant *aesthetic appreciation* for
 mathematics.
 It could be beautiful, and just as deep as philosophy.
 I also had a recreational interest in physics, and to paraphrase Galileo,
-began to appreciate that maths was a formal game played by nature
-also.
+began to see that maths was a formal game played by nature as well as
+highly evolved monkeys.
 Eventually, I switched from philosophy to maths and physics, and never
 looked back.
 
