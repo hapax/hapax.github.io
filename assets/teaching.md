@@ -33,13 +33,13 @@ negative numbers --- at age 15!
 In a philosophy class a few years later, I was introduced to set theory.
 Different sorts of infinity, Russell's paradox, Cantor's
 diagonalisation argument --- all of this not only tickled my
-philosophical fancy, but a dormant *aesthetic appreciation* for
+philosophical fancy, but a long dormant *aesthetic appreciation* for
 mathematics.
 It could be beautiful, and just as deep as philosophy.
 I also had a recreational interest in physics, and to paraphrase Galileo,
 began to see that maths was a formal game played by nature as well as
 highly evolved monkeys.
-Eventually, I switched from philosophy to maths and physics, and never
+Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
 I was lucky, stumbling later in life onto what felt like a hidden
@@ -48,7 +48,7 @@ never suspected.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that *there is a
-mathematical world* out there?
+mathematical world out there*!
 The problem, I believe, is that maths education is stuck in a sort of
 scrubland with no views into that world.
 
@@ -141,8 +141,8 @@ but manipulating symbols is not itself the goal.
 And like walking, symbol manipulation is a skill that can be developed.
 
 If you look at most high school textbooks, in North America or
-Australia, you could be forgiven for thinking that maths is just a
-collection of exercises in symbol manipulation, without context,
+Australia, you could be forgiven for thinking otherwise, and for
+identifying of exercises in symbol manipulation, without context,
 without use, without beauty: a scrubland.
 What should be a journey into
 the mathematical world is a joyless plod.
