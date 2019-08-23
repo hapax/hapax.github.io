@@ -60,7 +60,7 @@ featureless scrubland, with no views, no peaks, and no apparent goal
 other than the hike itself.
 Whenever the class complained that the walk was boring or pointless
 (and who hikes in real life anyway?) the teacher would recite the
-dictum that walking was an important life skill.
+dictum that *walking was an important life skill*.
 Heck, if you can't walk, how do you expect to get a job!
 Privately, thought, teach had to admit: two monotonous hours in the
 scrubland, every day for six years, did seem excessive.
@@ -76,9 +76,8 @@ But that's just the way things things were done.
 
 Would you have enjoyed this hiking class?
 Or would you have lost interest and started lagging behind?
-Maybe, in time, you would have come to proudly identify as someone who
-sucked at hiking!
-The problem is clear.
+Maybe, in time, you would have come to proudly identify as a bad hiker.
+The problem with these classes is clear.
 For most of us, walking is not an intrinsically interesting
 activity; there needs to be a motivation to walk, something to walk
 towards or to look at en route.
@@ -100,27 +99,32 @@ into the field and equipping them to explore.
 Some students seem to have a natural yen for walking.
 They can walk faster, and for longer distances; some hike outside of
 class, run the school club, and participate in competitions.
-Should we channel our resources towards these "natural walkers"?
-What if we were to learn that walking was a skill that could be
-developed, and natural ability mattered much less than the
-motivation to develop it?
-What if studies revealed that most of these "natural walkers" had
-pivotal experiences of non-scrubland hiking?
+Maybe we should channel our resources towards these "natural walkers"
+and let the rest opt out.
+But walking is a skill that can be developed, and most of these
+"natural walkers" are in fact *motivated by non-scrubland experiences*.
+Their parents took them out into nature, or they read about inspiring
+walks in a book with pictures.
+They don't visit the scrubland in their free time!
+These non-scrubland experiences, rather than natural ability, pushed
+them to develop their walking skills.
 
-The way to fix these classes is obvious: we should stop marching
-students through the scrubland.
-Instead, we should guide them into varied and stimulating terrain, through
-forests, along canyons, and towards the strange rock formations in
-the distance.
+The fix is clear: we should stop marching students through the scrubland.
+Instead, we should guide them into varied and stimulating terrain,
+through forests, along canyons, and towards the strange rock
+formations in the distance.
 With time, they could learn to camp in the wilderness, explore
 uncharted wastes and conquer summits.
-We would stop dividing the class into those with and without ability,
-but rather, those with and without *interest*, since we would see that
-this is the primary determinant of walking skill.
-But I think interest would blossom in unexpected places.
-By going on real hikes, students would discover that hiking is not
-about the act of walking, but rather using walking to experience and
-understand a world rich in wonder.
+I think interest would blossom in unexpected places.
+This would stop wasting student time, improve social outcomes by
+attracting more students into the field, and perhaps most importantly,
+show them that there is a whole natural world out there to be
+explored and relished.
+And they don't need to become a professional hiker to enjoy the odd
+stroll, any more than they need to be a professional writer to read
+the odd book.
+Some students would still hate hiking, probably, but so many more
+would be enriched.
 
 #### Shrubbification
 
@@ -856,3 +860,17 @@ what tradition dictates.
 
 To help make the problem more vivid, and its solution clearer,
 consider an analogy to *hiking*.
+
+But what if we were to learn that walking was a skill that could be
+developed, and natural ability mattered much less than the
+motivation to develop it?
+What if studies revealed that most of these "natural walkers" had
+pivotal experiences of non-scrubland hiking?
+
+We would stop dividing the class into those with and without ability,
+but rather, those with and without *interest*, since we would see that
+this is the primary determinant of walking skill.
+
+By going on real hikes, students would discover that hiking is not
+about the act of walking, but rather using walking to experience and
+understand a world rich in wonder.
