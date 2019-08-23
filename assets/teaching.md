@@ -120,7 +120,7 @@ uncharted wastes and conquer summits.
 We would stop dividing the class into those with and without ability,
 but rather, those with and without *interest*, since we would see that
 this is the primary determinant of walking skill.
-But hopefully, interest would flower.
+But I think interest would blossom in unexpected places.
 By going on real hikes, students would discover that hiking is not
 about the act of walking, but rather using walking to experience and
 understand a world rich in wonder.
