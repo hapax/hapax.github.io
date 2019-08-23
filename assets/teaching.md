@@ -30,8 +30,7 @@ bothered internalising beyond the next test.
 I even remember teaching myself how to add fractions and multiply
 negative numbers --- at age 15!
 
-In a philosophy class a few years later, the lecturer gave a short
-introduction to set theory.
+In a philosophy class a few years later, I was introduced to set theory.
 Different sorts of infinity, Russell's paradox, Cantor's
 diagonalisation argument --- all of this not only tickled my
 philosophical fancy, but a dormant *aesthetic appreciation* for
