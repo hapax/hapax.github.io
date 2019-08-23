@@ -90,30 +90,28 @@ But if there's no motivation, it becomes a chore, and rather than being trained 
 hike, you will be trained to *avoid hiking*.
 
 Why have hiking classes anyway?
-Why don't we just teach students how to walk to the corner store, or the bus stop, or
-around the block with a dog in tow, the sort of walking most adults actually
-do?
+Why don't we ditch the hikes, and teach students how to walk to the
+corner store, the bus stop, or around the block with a dog in tow, the
+sort of walking most adults actually do?
 This would have made sense a hundred years ago.
 But now a whole sector of the economy depends on advanced hiking
 skills: we need wayfarers, explorers and hunters to help meet the
 needs of society as a whole.
-So hiking classes should act as an intake mechanism, drawing students
+We need hiking classes to act as an intake mechanism, drawing students
 into the field and equipping them to explore.
 
-If classes are boring, only the kids with endurace and a natural yen
-for walking will stick around.
-And many teachers will say: good!
-These are the students with talent and real potential for hiking.
-But walking is a skill that be developed, and if hiking looks like
-fun, it will motivate students to get better at walking.
-And what do you know?
-The pool of talent feeding into our hiking sector just got a lot
-bigger, the pipeline less leaky.
-Everyone wins.
+Some students seem to have a natural yen for walking.
+They can walk faster, and for longer distances; some hike outside of
+class, run the school club, and participate in competitions.
+Should we channel our resources towards these "natural walkers"?
+What if we were to learn that walking was a skill that could be
+developed, and natural ability mattered much less than the
+motivation to develop it?
+What if studies revealed that most of these "natural walkers" had
+pivotal experiences of non-scrubland hiking?
 
-The way to fix these classes, and make hiking fun, is obvious:
-we should stop marching student through the scrubland, even if that is
-what tradition dictates.
+The way to fix these classes is obvious: we should stop marching
+student through the scrubland.
 We should guide them through varied and stimulating terrain, into the
 forest, through a canyon, and towards
 the strange rock formations in the distance.
@@ -839,3 +837,18 @@ But that's how they'd been doing things forever, so that's the way
 things were.
 
 That's what *hiking* (as opposed to *walking*) should be about.
+
+If classes are boring, only the kids with endurace and a natural yen
+for walking will stick around.
+And many teachers will say: good!
+These are the students with talent and real potential for hiking.
+But walking is a skill that be developed, and if hiking looks like
+fun, it will motivate students to get better at walking.
+And what do you know?
+The pool of talent feeding into our hiking sector just got a lot
+bigger, the pipeline less leaky.
+Everyone wins.
+
+The way to fix these classes, and make hiking fun, is obvious:
+we should stop marching student through the scrubland, even if that is
+what tradition dictates.
