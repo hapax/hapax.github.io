@@ -18,31 +18,46 @@ date:  2019-08-03
 ## Stuck in the scrubland
 
 In high school, I thought maths was boring.
-I was skeptical that trigonometry or algebra would help me in real
-life, and found the endless drill mind-numbing.
-Sure, there are an infinite number of equations to solve!
-But why should I care about any of them?
-I could cram for tests and copy examples well enough to pass, but I
-thought of maths class as a formal game I wasn't interested in
-playing, and I never bothered to internalise rules beyond the next test.
-For instance, I remember at age 15 teaching myself how to add
-fractions and multiply negative numbers!
+I was skeptical about claims it would help me in real
+life --- you don't need trigonometry for your tax returns, or to solve
+simultaneous equations at the grocery store --- and found the endless
+drill mind-numbing.
+There are an infinite number of equations to solve!
+Why should I care about any particular one?
+I scraped by with passes, copying examples and cramming for tests, but
+I thought of maths class as a formal game whose rules I couldn't be
+bothered internalising beyond the next test.
+I even remember teaching myself how to add fractions and multiply
+negative numbers --- at age 15!
 
-Learning set theory in philosophy class a few years later, I
-discovered to my surprise that maths could be beautiful.
+In a philosophy class a few years later, the lecturer gave a short
+introduction to set theory.
 Different sorts of infinity, Russell's paradox, Cantor's
-diagonalisation argument --- all of this tickled my philosophical
-fancy.
-And a recreational interest in physics showed that (to paraphrase
-Galileo) maths was a formal game played by nature.
-I began to get interested, and eventually switched careers from
-philosophy to maths and physics.
+diagonalisation argument --- all of this not only tickled my
+philosophical fancy, but a dormant *aesthetic appreciation* for
+mathematics.
+It could be beautiful, and just as deep as philosophy proper.
+I had a recreational interest in physics, and to paraphrase Galileo,
+began to appreciate that maths was a formal game played by nature
+also.
+Eventually, I switched from philosophy to maths and physics, and never
+looked back.
 
-I was lucky, stumbling onto 
+I was lucky, stumbling later in life onto what felt like a hidden
+realm, a world of extraordinary beauty and power whose existence I had
+never suspected.
+But how many students are unlucky?
+How many go through high school, numbed by repetition, cramming and
+copying just enough to pass tests, never seeing that *there is a
+mathematical world* out there?
+The problem, I believe, is that maths education is stuck, in a sort of
+scrubland where these views into the world are unavailable.
+To help make the problem more vivid, and its solution clearer, let's
+consider an analogy to *hiking*.
 
 ### A preamble
 
-To help make the problem vivid, I want you to imagine a reality, not so different from our own, where
+I want you to imagine a reality, not so different from our own, where
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a barren, featureless scrubland, with no views, no
