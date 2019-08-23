@@ -52,7 +52,7 @@ mathematical world* out there?
 The problem, I believe, is that maths education is stuck in a sort of
 scrubland with no views into that world.
 
-### A preamble
+#### A preamble
 
 To help make the problem more vivid, and its solution clearer,
 consider an analogy to *hiking*.
@@ -125,7 +125,7 @@ By going on real hikes, students would discover that hiking is not
 about the act of walking, but rather using walking to experience and
 understand a world rich in wonder.
 
-### Shrubbification
+#### Shrubbification
 
 I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
@@ -175,7 +175,7 @@ endless plain of withered, ankle-height shrubs.
 In a way, it's perversely impressive how these textbooks take a
 milestone of Western thought and "shrubbify" it.
 
-### Roads to nowhere
+#### Roads to nowhere
 
 Perhaps I'm being unfair.
 First of all, you might say it's the role of the teacher to enliven the lesson, to
