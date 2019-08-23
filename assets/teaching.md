@@ -48,15 +48,13 @@ But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that *there is a
 mathematical world out there*!
-The problem, I believe, is that maths education is stuck in a sort of
-scrubland with no views into that world.
+The problem, I will argue, is that maths education is stuck in a sort of
+*scrubland* with no views into that world.
+We can make the problem more vivid with an (admittedly tendentious) analogy.
 
 #### A preamble
 
-To help make the problem more vivid, and its solution clearer,
-consider an analogy to *hiking*.
-Instead of maths,
-imagine you were forced to take *hiking classes* in high school.
+Instead of maths, imagine you were forced to take *hiking classes* in high school.
 Every day, you and your classmates would trudge through a barren,
 featureless scrubland, with no views, no peaks, and no apparent goal
 other than the hike itself.
@@ -855,3 +853,6 @@ Everyone wins.
 The way to fix these classes, and make hiking fun, is obvious:
 we should stop marching student through the scrubland, even if that is
 what tradition dictates.
+
+To help make the problem more vivid, and its solution clearer,
+consider an analogy to *hiking*.
