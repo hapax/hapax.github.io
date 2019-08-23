@@ -102,28 +102,27 @@ needs of society as a whole.
 So hiking classes should act as an intake mechanism, drawing students
 into the field and equipping them to explore.
 
-If the classes are boring, the only people to stick around will
-be the ones who naturally love walking, who trudge
-tirelessly and without complaint across miles of scrubland.
-And some teachers will say: good!
-These are the students with natural talent and real potential for hiking.
+If classes are boring, only the kids with endurace and a natural yen
+for walking will stick around.
+And many teachers will say: good!
+These are the students with talent and real potential for hiking.
 But walking is a skill that be developed, and if hiking looks like
-fun, it will motivate kids to get better at walking.
-And what do you know? The pool of talent feeding into our hiking
-sector just got a lot bigger, the pipeline less leaky.
+fun, it will motivate students to get better at walking.
+And what do you know?
+The pool of talent feeding into our hiking sector just got a lot
+bigger, the pipeline less leaky.
 Everyone wins.
 
-The way to fix these classes, and make hiking fun, is kind of obvious:
-we should stop marching student through the scrubland, even if that's
-what's been done for time immemorial.
-We should take them through varied and stimulating terrain, into the
+The way to fix these classes, and make hiking fun, is obvious:
+we should stop marching student through the scrubland, even if that is
+what tradition dictates.
+We should guide them through varied and stimulating terrain, into the
 forest, through a canyon, and towards
 the strange rock formations in the distance.
-At first, hikes would be along well-marked trails, but with time,
-they could learn to camp in the wilderness, explore uncharted wastes
-and conquer summits.
+With time, they could learn to camp in the wilderness, explore
+uncharted wastes and conquer summits.
 By going on real hikes, students would learn that hiking is not
-about the act of walking, but rather *using walking* to experience and
+about the act of walking, but rather using walking to experience and
 understand the world.
 
 ### Shrubbification
@@ -826,3 +825,14 @@ you were forced to take *hiking classes* in high school.
 
 (In fact, it seemed like a sort of toy version of philosophy where
 everything really obeyed its definition.)
+
+If classes are boring, the only people to stick around will
+be the ones who naturally love walking, who trudge
+tirelessly and without complaint across miles of scrubland.
+
+we should stop marching student through the scrubland, even if that's
+what's been done for time immemorial.
+
+At first, hikes would be along well-marked trails, but with time,
+they could learn to camp in the wilderness, explore uncharted wastes
+and conquer summits.
