@@ -22,7 +22,7 @@ I was skeptical about claims it would help me in real
 life --- you don't need trigonometry for your tax returns, or to solve
 simultaneous equations at the grocery store --- and found the endless
 drill mind-numbing.
-There are an infinite number of equations to solve!
+There were an infinite number of equations to solve.
 Why should I care about any particular one?
 I scraped by with passes, copying examples and cramming for tests, but
 I thought of maths class as a formal game whose rules I couldn't be
@@ -57,15 +57,16 @@ consider an analogy to *hiking*.
 
 ### A preamble
 
-I want you to imagine a reality, not so different from our own, where
+I want you to imagine a reality where, instead of maths,
 you were forced to take *hiking classes* in high school.
 Every day, for a couple of hours, you and your classmates would trudge
 through a barren, featureless scrubland, with no views, no
 peaks, and no apparent goal other than the hike itself.
 Whenever the class complained that the walk was boring or pointless
-(and who hikes in real life anyway?) the teacher would intone that walking was an important life skill.
-Heck, if you can't walk, how do you expect to get a job!
-But privately, teach had to admit: two monotonous hours in the scrubland,
+(and who hikes in real life anyway?) the teacher would recite the
+dictum that walking was an important life skill.
+If you can't walk, how do you expect to get a job!
+Privately, teach had to admit: two monotonous hours in the scrubland,
 every day for six years, did seem excessive.
 But that's how they'd been doing things forever, so that's the way
 things were.
@@ -820,3 +821,6 @@ In this slightly tortured analogy,
 
 (I'm hoping this is starting to ring bells, but let's continue with
 the fable.)
+
+I want you to imagine a reality, not so different from our own, where
+you were forced to take *hiking classes* in high school.
