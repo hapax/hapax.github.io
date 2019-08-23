@@ -49,8 +49,8 @@ But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that *there is a
 mathematical world* out there?
-The problem, I believe, is that maths education is stuck, in a sort of
-scrubland where these views into the world are unavailable.
+The problem, I believe, is that maths education is stuck in a sort of
+scrubland, separated from that world.
 To help make the problem more vivid, and its solution clearer, let's
 consider an analogy to *hiking*.
 
