@@ -54,21 +54,20 @@ scrubland with no views into that world.
 
 ### A preamble
 
-To help make the problem more vivid, and its solution clearer, let's
+To help make the problem more vivid, and its solution clearer,
 consider an analogy to *hiking*.
-Imagine that, instead of maths,
-you were forced to take *hiking classes* in high school.
-Every day, for a couple of hours, you and your classmates would trudge
-through a barren, featureless scrubland, with no views, no
-peaks, and no apparent goal other than the hike itself.
+Instead of maths,
+imagine you were forced to take *hiking classes* in high school.
+Every day, you and your classmates would trudge through a barren,
+featureless scrubland, with no views, no peaks, and no apparent goal
+other than the hike itself.
 Whenever the class complained that the walk was boring or pointless
 (and who hikes in real life anyway?) the teacher would recite the
 dictum that walking was an important life skill.
-If you can't walk, how do you expect to get a job!
-Privately, teach had to admit: two monotonous hours in the scrubland,
-every day for six years, did seem excessive.
-But that's how they'd been doing things forever, so that's the way
-things were.
+Heck, if you can't walk, how do you expect to get a job!
+Privately, thought, teach had to admit: two monotonous hours in the
+scrubland, every day for six years, did seem excessive.
+But that's the way things were.
 
 <figure>
     <div style="text-align:center"><img src
@@ -79,15 +78,14 @@ things were.
 	</figure>
 
 Would you have enjoyed this hiking class?
-Or would you have lost interest (if you were lucky enough to have any)
-and started lagging behind?
-Maybe, in time, you would come to proudly identify as someone who
+Or would you have lost interest and started lagging behind?
+Maybe, in time, you would have come to proudly identify as someone who
 sucked at hiking!
-The problem with the class is clear.
-For most people, walking is not an intrinsically interesting
-activity; there needs to be some motivation to walk, something to walk towards
-or to look at en route.
-That's what *hiking* (as opposed to *walking*) should be about.
+The problem is clear.
+For most of us, walking is not an intrinsically interesting
+activity; there needs to be a motivation to walk, something to walk
+towards or to look at en route.
+That's what *hiking* proper is all about.
 But if there's no motivation, it becomes a chore, and rather than being trained to
 hike, you will be trained to *avoid hiking*.
 
@@ -836,3 +834,8 @@ what's been done for time immemorial.
 At first, hikes would be along well-marked trails, but with time,
 they could learn to camp in the wilderness, explore uncharted wastes
 and conquer summits.
+
+But that's how they'd been doing things forever, so that's the way
+things were.
+
+That's what *hiking* (as opposed to *walking*) should be about.
