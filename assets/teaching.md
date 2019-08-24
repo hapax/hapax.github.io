@@ -364,7 +364,7 @@ From our earlier discussion, this means they have to be tangent!
     <div style="text-align:center"><img src ="/images/posts/mvt6.png"
     width="65%" />
 		    <figcaption><i>A visual proof that
-    the purple line is parallel to the blue curve.</i></figcaption>
+    the translated purple line is tangent to the blue curve.</i></figcaption>
 	</div>
 	</figure>
 
@@ -389,7 +389,7 @@ methods) it can be turned into an algorithm for finding the point $c$.
 #### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as this theorem is to prove, it's even more fun to break.
-If the students draw a sharp kink the function, the theorem fails:
+If the students draw a sharp kink in the curve, the theorem fails:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
@@ -398,11 +398,26 @@ If the students draw a sharp kink the function, the theorem fails:
 	</div>
 	</figure>
 
-The reason is simply that the blue lies entirely on one side of the
-purple curve, but is never straight, even when we zoom in infinitely.
+Although the blue curve lies entirely on one side of the shifted
+purple line, the kink means the two never coincide, even when we zoom
+in infinitely.
+The slope isn't even well-defined!
 This tells us an important technical condition on the mean value
-theorem: the curve is required to be *straight at infinite zoom*, also
-known as *differentiable*.
+theorem: at every point, the curve must be *straight at infinite
+zoom*, aka *differentiable*.
+
+We could leave it there, but for kicks, let's try and *maximally
+break* the theorem.
+In the single-kink case, we can simply shift on the endpoints to
+define the function on a subinterval $a' \leq x \leq b'$ where the
+mean value theorem *does* hold. We just avoid the kink!
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt8.png"
+    width="60%" />
+		    <figcaption><i>Shifting an endpoint to avoid the kink.</i></figcaption>
+	</div>
+	</figure>
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
