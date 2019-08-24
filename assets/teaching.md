@@ -208,11 +208,18 @@ The [Australian Council for Education Research](https://www.acer.org/au/) is
 but the vagueness of the 2018 recommendations suggests that curricular
 change is a ways off.)
 
-## The way of beauty
+## Paths: beauty
 
-To conclude my little manifesto, I want to suggest a couple of
-directions out of the scrubland.
-The first is the path of *pure mathematics*: this way lies
+To conclude my little manifesto, I want to suggest two directions out of the scrubland.
+I will give concrete examples, based on the (randomly selected)
+snippet of calculus above.
+This is a final year topic, and my examples will be designed for final
+year students.
+But I will provide a couple of earlier-year treatments to provide
+evidence that forays into the mathematical world with earlier-year
+students is also possible.
+
+The first path is *pure mathematics*, the realm of
 abstraction, generalisation, proof, and most importantly, *beauty*.
 Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
