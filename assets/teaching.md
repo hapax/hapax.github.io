@@ -23,7 +23,7 @@ date:  2019-08-03
    3. <a href="#sec-1-3">Roads to nowhere</a>
    4. <a href="#sec-1-4">The evidence </a>
 2. <a href="#sec-2">Roads to beauty</a>
-   1. <a href="#sec-2-1">The Mean Value Theorem</a>
+   1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Adding natural numbers</a>
    4. <a href="#sec-2-4">Arithmetic-geometric inequality</a>
@@ -274,7 +274,7 @@ Beauty in maths, as in art, is subjective, so we are left the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 
-#### Example: the Mean Value Theorem <a id="sec-2-1" name="sec-2-1"></a>
+#### Example: the mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
 Our first mountain will be the *mean value theorem*.
 Instead of scaling the mountain and giving a fully rigorous proof, we
@@ -389,8 +389,7 @@ methods) it can be turned into an algorithm for finding the point $c$.
 #### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as this theorem is to prove, it's even more fun to break.
-Even if restricted to drawing continuous curves ("the pen doesn't leave
-the page"), they may discover a way for the theorem to fail:
+If the students draw a sharp kink the function, the theorem fails:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
@@ -399,7 +398,11 @@ the page"), they may discover a way for the theorem to fail:
 	</div>
 	</figure>
 
-If they draw a kink
+The reason is simply that the blue lies entirely on one side of the
+purple curve, but is never straight, even when we zoom in infinitely.
+This tells us an important technical condition on the mean value
+theorem: the curve is required to be *straight at infinite zoom*, also
+known as *differentiable*.
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
