@@ -261,11 +261,10 @@ Hopefully one of them sticks!
 
 #### Example: the mean value theorem
 
-Let's do an example to see what this could look like in practice.
-Our mountain will be the *mean value theorem*, an important result
-about derivatives.
+Our first mountain will be the *mean value theorem*.
 Instead of scaling the mountain and giving a fully rigorous proof, we
-will content ourselves with a good prospect from lower elevations.
+will content ourselves with a good prospect from lower elevations, in
+the form of a *visual proof*.
 
 Suppose we have some function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
