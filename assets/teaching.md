@@ -388,6 +388,17 @@ methods) it can be turned into an algorithm for finding the point $c$.
 
 #### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
+As fun as this theorem is to prove, it's even more fun to break.
+Even if restricted to drawing continuous curves ("the pen doesn't leave
+the page"), they may discover a way for the theorem to fail:
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt7.png"
+    width="65%" />
+		    <figcaption><i>A kink in the curve.</i></figcaption>
+	</div>
+	</figure>
+
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
 #### Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
