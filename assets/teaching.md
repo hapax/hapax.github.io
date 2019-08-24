@@ -177,7 +177,7 @@ They drill in order to keep drilling.
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
-fill the book with minor variants of the same problem.
+fill the book with barcode variants of the same problem.
 This is the sad reality underneath a lot of conventional wisdom.
 But the responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the apparatchiks who write the curriculum.
