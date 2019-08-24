@@ -116,15 +116,12 @@ formations in the distance.
 With time, they could learn to camp in the wilderness, explore
 uncharted wastes and conquer summits.
 I think interest would blossom in unexpected places.
-This would stop wasting student time, improve social outcomes by
-attracting more students into the field, and perhaps most importantly,
-show them that all of nature was out there, waiting to be relished and
-explored.
-And they don't need to become a professional hiker to enjoy the odd
-stroll, any more than they need to be a professional writer to read
-the odd book.
+By going on real hikes, we would stop wasting student time, improve
+social outcomes by attracting more students into the field, and
+perhaps most importantly, show them that all of nature is out there,
+waiting to be relished and explored.
 Some students would probably still hate hiking.
-But so many more would be immeasurably enriched.
+But so many more would be enriched.
 
 #### Shrubbification
 
@@ -874,3 +871,7 @@ this is the primary determinant of walking skill.
 By going on real hikes, students would discover that hiking is not
 about the act of walking, but rather using walking to experience and
 understand a world rich in wonder.
+
+And they don't need to become a professional hiker to enjoy the odd
+stroll, any more than they need to be a professional writer to read
+the odd book.
