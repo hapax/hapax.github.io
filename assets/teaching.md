@@ -20,6 +20,7 @@ date:  2019-08-03
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. Stuck in the scrubland</a></li>
+</ul>
 <ul>
 <li><a href="#sec-1-1">1.1. A preamble</a></li>
 <li><a href="#sec-1-2">1.2. A patch of scrubland</a></li>
@@ -32,7 +33,6 @@ date:  2019-08-03
 <li><a href="#sec-2-2">2.2. A kink in the argument</a></li>
 <li><a href="#sec-2-3">2.3. Adding natural numbers</a></li>
 <li><a href="#sec-2-4">2.4. Arithmetic-geometric inequality</a></li>
-</ul>
 </ul>
 </div>
 </div>
