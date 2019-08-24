@@ -427,19 +427,19 @@ Since we can apply the theorem whenever we can avoid a kink, we need
 *every subinterval to contain a kink* t make them unavoidable.
 In technical parlance, we need the kinks to be dense.
 
-After the students stew on this for a bit, you can give them a hint:
+You can let the students stew on this a bit.
+Physically drawing the curve, it seems impossible to avoid graphs with
+short smooth segments ("piecewise differentiable").
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
 #### Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
 
-## Paths: power
+## Roads to power
 
-A second type of landmark is
+A second type of landmark is 
 
-## Paths: an elementary example
-
-#### Saddles and spheres
+## An elementary example
 
 #### Saddles and spheres
 
