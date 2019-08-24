@@ -331,7 +331,7 @@ being tangent!
 </figure>
 
 This suggests a visual proof, which students could discover for
-themselves with judicious guidance.
+themselves with a little guidance.
 First of all, it's clear that some of the blue curve should lie above
 the purple line, or below the purple line, otherwise it *is* the
 purple line and we have (infinitely) many points of tangency.
