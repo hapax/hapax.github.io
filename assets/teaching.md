@@ -424,9 +424,8 @@ this is impossible.
 This will maximally break the theorem in the sense that it holds for *no
 subinterval* of $[a, b]$.
 Since we can apply the theorem whenever we can avoid a kink, we need
-*every subinterval to contain a kink*.
-In technical parlance, we need the kinks to be *dense*.
-Then they will be unavoidable.
+*every subinterval to contain a kink* t make them unavoidable.
+In technical parlance, we need the kinks to be dense.
 
 After the students stew on this for a bit, you can give them a hint:
 
