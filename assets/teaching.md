@@ -203,7 +203,7 @@ century with all its challenges and complexities.
 represent a major effort at curricular reform, though the notion of
 "real world problem" being used here does not seem to correspond to
 what people ordinarily mean by "real world".
-The Australian Council for Education Research is
+The [Australian Council for Education Research](https://www.acer.org/au/) is
 [aware of issues with STEM education](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1028&context=policy_analysis_misc),
 but the vagueness of the 2018 recommendations suggests that curricular
 change is a ways off.)
