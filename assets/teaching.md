@@ -151,7 +151,7 @@ beauty: a scrubland.
 
 Here's a randomly chosen patch of scrubland from an Australian
 textbook.
-The topic is calculus, one of the jewels of human thought.
+The topic is calculus, one of the jewels in the crown of mathematics.
 But here, we're finding... rates of change of ... some functions, I
 guess.
 Where are we?
