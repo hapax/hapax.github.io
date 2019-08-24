@@ -18,9 +18,7 @@ date:  2019-08-03
 <div id="table-of-contents">
 <h3>Contents</h3>
 <div id="text-table-of-contents">
-<ul>
 <li><a href="#sec-1">1. Stuck in the scrubland</a></li>
-</ul>
 <ul>
 <li><a href="#sec-1-1">1.1. A preamble</a></li>
 <li><a href="#sec-1-2">1.2. A patch of scrubland</a></li>
