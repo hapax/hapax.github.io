@@ -15,9 +15,7 @@ date:  2019-08-03
   scrubland, and into realms where the beauty and power of
   mathematical thought are evident.*
 
-<div id="table-of-contents">
 <h3>Contents</h3>
-<div id="text-table-of-contents">
 <ol>
 <li><a href="#sec-1">Stuck in the scrubland</a></li>
 <ol>
@@ -32,8 +30,7 @@ date:  2019-08-03
 <li><a href="#sec-2-2">A kink in the argument</a></li>
 <li><a href="#sec-2-3">Adding natural numbers</a></li>
 <li><a href="#sec-2-4">Arithmetic-geometric inequality</a></li>
-</ol></ol>
-</div> </div>
+</ol>
 
 ## Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
