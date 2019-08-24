@@ -135,8 +135,7 @@ These activities might be necessary to mathematics, but they don't
 constitute it.
 And like walking, symbol manipulation is a skill that can be developed.
 
-If you look at most high school textbooks, in North America or
-Australia, you could be forgiven for thinking otherwise.
+If you look at most high school textbooks, you could be forgiven for thinking otherwise.
 What should be a journey into
 the mathematical world is, in most cases, a joyless plod through
 symbol manipulation exercises without context, without use, without
@@ -179,7 +178,7 @@ You don't need to be a good hiker to guide a class through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with barcode variants of the same problem.
 But the responsibility for getting us out of the scrubland doesn't lie
-with teachers, or even textbook writers, but the apparatchiks who write the curriculum.
+with teachers, or even textbook writers, but the people who write the curriculum.
 And from their perspective, it's much easier to maintain the
 scrubland, and maybe ride around in a pickup truck painting shrubs different
 colours, than to chart a new course into the mathematical world.
@@ -199,6 +198,16 @@ drop their paintbrushes, and start talking to professionals, people who
 know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
+
+(In the US, the
+[Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
+represent a major effort at curricular reform, though the notion of
+"real world problem" being used here does not seem to correspond to
+what people ordinarily mean by "real world".
+The Australian Council for Education Research is
+[aware of issues with STEM education](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1028&context=policy_analysis_misc),
+but the vagueness of the 2018 recommendations suggests that curricular
+change is a ways off.)
 
 ## The way of beauty
 
