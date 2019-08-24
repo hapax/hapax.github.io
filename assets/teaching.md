@@ -150,12 +150,17 @@ beauty: a scrubland.
 	</figure>
 
 Here's a randomly chosen example of the scrubland from an Australian
-textbook; the topic is calculus, one of the jewels of human thought.
-We're finding... rates of change of ... some functions, I guess.
-Why am I doing this again?
-I mean, what is inverse sine on a Saturday?
-I may as well be looking at a barcode, or .
-They fill me, and I hope you, with existential horror.
+textbook.
+The topic, calculus, is like a jewelled diamond in a precision watch:
+both gorgeous and supremely useful.
+But here, we're finding... rates of change of ... some functions, I
+guess.
+Where are we?
+What do these functions do?
+Why do I care?
+These questions are unforgivably boring when there is so much rich
+material to draw on.
+But they also fill me with existential horror.
 This is what I mean by the scrubland.
 There are no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
@@ -881,3 +886,6 @@ That's how indistinguishable and repetitive these questions are.
 
 In a way, it's perversely impressive how these textbooks take a
 milestone of Western thought and "shrubbify" it.
+
+I mean, what is inverse sine on a Saturday?
+I may as well be looking at a barcode.
