@@ -160,8 +160,7 @@ Why do I care?
 These questions are unforgivably boring when there is so much rich
 material to draw on.
 But they also fill me with existential horror.
-This is what I mean by the scrubland.
-There are no landmarks, nothing for the eye to latch onto, just an
+This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
 #### Roads to nowhere
