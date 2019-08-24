@@ -419,6 +419,11 @@ mean value theorem *does* hold. We just avoid the kink!
 	</div>
 	</figure>
 
+So here is the challenge: draw (or otherwise define) a curve where
+this is impossible.
+This maximally breaks the theorem in the sense that it holds for *no
+subinterval* of $[a, b]$.
+
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
 #### Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
