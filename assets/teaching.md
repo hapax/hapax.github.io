@@ -34,7 +34,6 @@ date:  2019-08-03
 <li><a href="#sec-2-4">2.4. Arithmetic-geometric inequality</a></li>
 </ul>
 </div>
-</div>
 
 ## Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
