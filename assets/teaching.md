@@ -256,8 +256,8 @@ proven results), conjectures (important unproven results), and non-trivial examp
 "Important" and "non-trivial" mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is perhaps the principal criteria.
 Beauty in maths, as in art, is subjective, so we are left the enviable
-task of choosing *multiple beautiful things* for students to look at
-hope that one of them sticks!
+task of choosing *multiple beautiful things* for students to look at.
+Hopefully one of them sticks!
 
 #### Example: the mean value theorem
 
