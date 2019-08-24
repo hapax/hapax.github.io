@@ -215,9 +215,9 @@ I will give concrete examples, based on the (randomly selected)
 snippet of calculus above.
 This is a final year topic, and my examples will be designed for final
 year students.
-But I will provide a couple of earlier-year treatments to provide
-evidence that forays into the mathematical world with earlier-year
-students is also possible.
+I will provide supplementary examples for a more elementary topic to
+provide evidence that the simple-minded approach of making maths
+interesting should work at other grade levels.
 
 The first path is *pure mathematics*, the realm of
 abstraction, generalisation, proof, and most importantly, *beauty*.
@@ -376,9 +376,11 @@ methods) it can be turned into an algorithm for finding the point $c$.
 
 #### Example: arithmetic-geometric inequality
 
-## The way of power
+## Paths: power
 
-A second type of landmark is 
+A second type of landmark is
+
+## Early year example
 
 ## Fine points
 
