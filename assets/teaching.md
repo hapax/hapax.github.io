@@ -151,8 +151,7 @@ beauty: a scrubland.
 
 Here's a randomly chosen example of the scrubland from an Australian
 textbook.
-The topic, calculus, is like a jewelled diamond in a precision watch:
-both gorgeous and supremely useful.
+The topic is calculus, one of the jewels of human thought.
 But here, we're finding... rates of change of ... some functions, I
 guess.
 Where are we?
@@ -889,3 +888,6 @@ milestone of Western thought and "shrubbify" it.
 
 I mean, what is inverse sine on a Saturday?
 I may as well be looking at a barcode.
+
+The topic, calculus, is like a jewelled diamond in a precision watch:
+both gorgeous and supremely useful.
