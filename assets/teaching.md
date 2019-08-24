@@ -214,9 +214,9 @@ I will give concrete examples, based on the (randomly selected)
 snippet of calculus above.
 This is a final year topic, and my examples will be designed for final
 year students.
-I will provide supplementary examples for a more elementary topic to
-provide evidence that the simple-minded approach of making maths
-interesting should work at other grade levels.
+To provide evidence that the simple-minded approach of making maths
+interesting works for other grade levels, I'll give a supplementary
+set of examples for trigonometry.
 
 The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
