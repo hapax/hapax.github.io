@@ -264,7 +264,6 @@ Our first mountain will be the *mean value theorem*.
 Instead of scaling the mountain and giving a fully rigorous proof, we
 will content ourselves with a good prospect from lower elevations, in
 the form of a *visual proof*.
-
 Suppose we have some function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
 
