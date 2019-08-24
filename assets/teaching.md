@@ -26,7 +26,6 @@ date:  2019-08-03
 <li><a href="#sec-1-3">1.3. Roads to nowhere</a></li>
 <li><a href="#sec-1-4">1.4. The evidence </a></li>
 </ul>
-</li>
 <li><a href="#sec-2">2. Roads to beauty</a>
 <ul>
 <li><a href="#sec-2-1">2.1. The Mean Value Theorem</a></li>
