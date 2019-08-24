@@ -163,31 +163,21 @@ endless plain of withered, ankle-height shrubs.
 
 #### Roads to nowhere
 
-Perhaps I'm being unfair.
-First of all, you might say it's the role of the teacher to enliven the lesson, to
-provide context and motivation.
-But if these aren't hardcoded into the curriculum and the textbooks,
-then every class with a teacher who is inexperienced, underqualified,
-or lazy, gets shortchanged.
-It's a recipe for massive inequality.
-Spicing up the textbook won't solve this problem, but it can alleviate it.
-
-A second objects is that students need to walk before they can hike,
-or in mathematical terms, to become handy symbol manipulators before
-they can do real maths.
-There are better ways to do this than looking at shrubs.
-But the real problem is that *the scrubland never ends*.
-What appear to be features on the horizon are just shrubs of a
-different colour.
-And if students *never get anywhere*, the claim that they have to
-drill, before they can go somewhere interesting, is made in bad faith.
+Of course, students need to practice walking before they wander off
+into the foothills, armed only with a compass and a sense of adventure.
+Similarly, students need to learn how to manipulate symbols, and that
+takes practice.
+There are better ways to practice than looking at shrubs.
+But the real problem is that *the scrubland never ends*, and what
+appear to be features on the horizon are just shrubs of a different
+colour.
 They drill in order to keep drilling.
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
 fill the book with minor variants of the same problem.
-This is the sad reality underlying a lot of conventional wisdom about maths teaching.
+This is the sad reality underneath a lot of conventional wisdom.
 But the responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the apparatchiks who write the curriculum.
 And from their perspective, it's much easier to maintain the
