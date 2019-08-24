@@ -421,8 +421,14 @@ mean value theorem *does* hold. We just avoid the kink!
 
 So here is the challenge: draw (or otherwise define) a curve where
 this is impossible.
-This maximally breaks the theorem in the sense that it holds for *no
+This will maximally break the theorem in the sense that it holds for *no
 subinterval* of $[a, b]$.
+Since we can apply the theorem whenever we can avoid a kink, we need
+*every subinterval to contain a kink*.
+In technical parlance, we need the kinks to be *dense*.
+Then they will be unavoidable.
+
+After the students stew on this for a bit, you can give them a hint:
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
