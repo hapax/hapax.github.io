@@ -242,19 +242,23 @@ textbook:
 	</div>
 	</figure>
 
-These look different from the barcode exercises earlier, until you
-notice they're the *same* questions with letters instead of numbers.
-The shrubs may be painted blue, but they are still shrubs.
+These initially look different from the barcode exercises, until you
+notice they're more or less the *same* questions with letters instead
+of numbers. The shrubs are painted blue, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
-In pure mathematics, mountains are things like theorems (important
-proven results), conjectures (important unproven results), and non-trivial examples.
-"Important" and "non-trivial" mean a variety of things, but as Hardy and
-Russell suggest, *beauty* is one of the principal criteria.
 Now, some mountains can only be scaled by professionals.
 But we don't always need to scale a mountain to appreciate important
 results; with a bit of ingenuity, we can usually find a nearby hill
 with a gentler slope and a partial view of the summit.
+
+In pure mathematics, mountains are things like theorems (important
+proven results), conjectures (important unproven results), and non-trivial examples.
+"Important" and "non-trivial" mean a variety of things, but as Hardy and
+Russell suggest, *beauty* is perhaps the principal criteria.
+Beauty in maths, as in art, is subjective, so we are left the enviable
+task of choosing *multiple beautiful things* for students to look at
+hope that one of them sticks!
 
 #### Example: the mean value theorem
 
