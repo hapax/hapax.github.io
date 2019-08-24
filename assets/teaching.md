@@ -127,31 +127,20 @@ But so many more would be enriched.
 
 I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
-symbols, to follow rules, to find your way around a formal structure.
+symbols.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
 But maths is not symbol manipulation any more than hiking is walking!
-These activities are necessary to mathematics, but they don't
+These activities might be necessary to mathematics, but they don't
 constitute it.
-Put a different way, the mathematical world, with its vast topography
-of features and landforms, must be traversed by manipulating symbols,
-but manipulating symbols is not itself the goal.
 And like walking, symbol manipulation is a skill that can be developed.
 
 If you look at most high school textbooks, in North America or
-Australia, you could be forgiven for thinking otherwise, and for
-identifying of exercises in symbol manipulation, without context,
-without use, without beauty: a scrubland.
+Australia, you could be forgiven for thinking otherwise.
 What should be a journey into
-the mathematical world is a joyless plod.
-I know because that was my experience in high school.
-I was not a natural symbol manipulator, and scraped by with passes
-until learning that maths could be *used* for things.
-
-Let's look at an example.
-These calculus exercises are taken from a popular Australian textbook.
-Calculus is, without exaggeration, one of the great landmarks of human thought.
-What does the textbook make of it?
+the mathematical world is, in most cases, a joyless plod through
+symbol manipulation exercises without context, without use, without
+beauty: a scrubland.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
@@ -160,18 +149,16 @@ What does the textbook make of it?
 	</div>
 	</figure>
 
+Here's a randomly chosen example of the scrubland from an Australian
+textbook; the topic is calculus, one of the jewels of human thought.
 We're finding... rates of change of ... some functions, I guess.
 Why am I doing this again?
 I mean, what is inverse sine on a Saturday?
-I may as well be looking at a barcode.
-That's how indistinguishable and repetitive these questions are.
-
+I may as well be looking at a barcode, or .
 They fill me, and I hope you, with existential horror.
 This is what I mean by the scrubland.
 There are no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
-In a way, it's perversely impressive how these textbooks take a
-milestone of Western thought and "shrubbify" it.
 
 #### Roads to nowhere
 
@@ -875,3 +862,22 @@ understand a world rich in wonder.
 And they don't need to become a professional hiker to enjoy the odd
 stroll, any more than they need to be a professional writer to read
 the odd book.
+
+
+Put a different way, the mathematical world, with its vast topography
+of features and landforms, must be traversed by manipulating symbols,
+but manipulating symbols is not itself the goal.
+
+I know because that was my experience in high school.
+I was not a natural symbol manipulator, and scraped by with passes
+until learning that maths could be *used* for things.
+
+Let's look at an example.
+These calculus exercises are taken from a popular Australian textbook.
+Calculus is, without exaggeration, one of the great landmarks of human thought.
+What does the textbook make of it?
+
+That's how indistinguishable and repetitive these questions are.
+
+In a way, it's perversely impressive how these textbooks take a
+milestone of Western thought and "shrubbify" it.
