@@ -33,6 +33,7 @@ date:  2019-08-03
 <li><a href="#sec-2-3">2.3. Adding natural numbers</a></li>
 <li><a href="#sec-2-4">2.4. Arithmetic-geometric inequality</a></li>
 </ul>
+</ul>
 </div>
 </div>
 
