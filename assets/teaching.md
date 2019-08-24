@@ -242,9 +242,9 @@ textbook:
 	</div>
 	</figure>
 
-These initially look different from the barcode exercises, until you
-notice they're more or less the *same* questions with letters instead
-of numbers. The shrubs are painted blue, but they are still shrubs.
+This looks different from the earlier patch of scrubland until you
+notice these are more or less the *same* questions with letters
+instead of numbers. The shrubs are painted blue, but they are still shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
 Now, some mountains can only be scaled by professionals.
