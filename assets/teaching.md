@@ -19,18 +19,19 @@ date:  2019-08-03
 <h3>Contents</h3>
 <ol>
 <li><a href="#sec-1">Stuck in the scrubland</a></li>
-<ol>
-<li><a href="#sec-1-1">A preamble</a></li>
-<li><a href="#sec-1-2">A patch of scrubland</a></li>
-<li><a href="#sec-1-3">Roads to nowhere</a></li>
-<li><a href="#sec-1-4">The evidence </a></li>
-</ol>
+	<ol>
+	<li><a href="#sec-1-1">A preamble</a></li>
+	<li><a href="#sec-1-2">A patch of scrubland</a></li>
+	<li><a href="#sec-1-3">Roads to nowhere</a></li>
+	<li><a href="#sec-1-4">The evidence </a></li>
+	</ol>
 <li><a href="#sec-2">Roads to beauty</a>
-<ol>
-<li><a href="#sec-2-1">The Mean Value Theorem</a></li>
-<li><a href="#sec-2-2">A kink in the argument</a></li>
-<li><a href="#sec-2-3">Adding natural numbers</a></li>
-<li><a href="#sec-2-4">Arithmetic-geometric inequality</a></li>
+	<ol>
+	<li><a href="#sec-2-1">The Mean Value Theorem</a></li>
+	<li><a href="#sec-2-2">A kink in the argument</a></li>
+	<li><a href="#sec-2-3">Adding natural numbers</a></li>
+	<li><a href="#sec-2-4">Arithmetic-geometric inequality</a></li>
+	</ol>
 </ol>
 </div>
 
