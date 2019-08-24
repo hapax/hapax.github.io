@@ -30,15 +30,14 @@ bothered internalising beyond the next test.
 I even remember teaching myself how to add fractions and multiply
 negative numbers --- at age 15!
 
-In a philosophy class a few years later, I was introduced to set theory.
+In philosophy class a few years later, I was introduced to set theory.
 Different sorts of infinity, Russell's paradox, Cantor's
 diagonalisation argument --- all of this not only tickled my
 philosophical fancy, but a long dormant *aesthetic appreciation* for
 mathematics.
 It could be beautiful, and just as deep as philosophy.
 I also had a recreational interest in physics, and to paraphrase Galileo,
-began to see that maths was a formal game played by nature as well as
-highly evolved monkeys.
+began to see that maths was a formal game played by nature as well.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
