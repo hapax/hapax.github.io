@@ -157,9 +157,8 @@ guess.
 What do these functions do?
 Why do I care?
 Where are we?
-These questions are unforgivably dull when there is so much rich
-material to draw on.
-But they also fill me with existential horror.
+These questions are unforgivably dull when there is literally hundreds
+of years of rich material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
@@ -890,3 +889,5 @@ I may as well be looking at a barcode.
 
 The topic, calculus, is like a jewelled diamond in a precision watch:
 both gorgeous and supremely useful.
+
+But they also fill me with existential horror.
