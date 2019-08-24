@@ -186,9 +186,8 @@ That would take time, money, and vision, and these are perennially in
 short supply.
 
 But good mathematical skills are important to society as a whole.
-I'm not talking about basic numeracy, e.g. the ability to
-understand your tax returns or compute a tip, though these skills are
-essential.
+I'm not talking about basic numeracy, e.g. the ability to calculate a
+tip or scale up a recipe.
 I'm talking about dealing with the ongoing effects of climate change,
 big data, artificial intelligence, or personalised medicine, issues which
 call for explorers with higher-order hiking skills and a taste for the unknown.
