@@ -123,7 +123,7 @@ waiting to be relished and explored.
 Some students would probably still hate hiking.
 But so many more would be enriched.
 
-#### Shrubbification
+#### A patch of scrubland
 
 I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
@@ -149,7 +149,7 @@ beauty: a scrubland.
 	</div>
 	</figure>
 
-Here's a randomly chosen example of the scrubland from an Australian
+Here's a randomly chosen patch of scrubland from an Australian
 textbook.
 The topic is calculus, one of the jewels of human thought.
 But here, we're finding... rates of change of ... some functions, I
