@@ -156,7 +156,6 @@ But here, we're finding... rates of change of ... some functions, I
 guess.
 What do these functions do?
 Why do I care?
-Where are we?
 These questions are unforgivably dull when there is literally hundreds
 of years of rich material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
