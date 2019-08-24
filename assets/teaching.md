@@ -149,10 +149,9 @@ beauty: a scrubland.
 	</div>
 	</figure>
 
-Here's a randomly chosen patch of scrubland from an Australian
-textbook.
-The topic is calculus, one of the jewels in the crown of mathematics.
-But here, we're finding... rates of change of ... some functions, I
+Here's a patch of scrubland, courtesy of an anonymous Australian textbook.
+The topic is calculus, one the great milestones of Western thought.
+And here, we're finding... rates of change of ... some functions, I
 guess.
 What do these functions do?
 Why do I care?
@@ -891,3 +890,23 @@ The topic, calculus, is like a jewelled diamond in a precision watch:
 both gorgeous and supremely useful.
 
 But they also fill me with existential horror.
+
+Perhaps I'm being unfair.
+First of all, you might say it's the role of the teacher to enliven the lesson, to
+provide context and motivation.
+But if these aren't hardcoded into the curriculum and the textbooks,
+then every class with a teacher who is inexperienced, underqualified,
+or lazy, gets shortchanged.
+It's a recipe for massive inequality.
+Spicing up the textbook won't solve this problem, but it can alleviate it.
+
+A second objects is that students need to walk before they can hike,
+or in mathematical terms, to become handy symbol manipulators before
+they can do real maths.
+There are better ways to do this than looking at shrubs.
+But the real problem is that *the scrubland never ends*.
+What appear to be features on the horizon are just shrubs of a
+different colour.
+And if students *never get anywhere*, the claim that they have to
+drill, before they can go somewhere interesting, is made in bad faith.
+They drill in order to keep drilling.
