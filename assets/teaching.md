@@ -219,7 +219,7 @@ I will provide supplementary examples for a more elementary topic to
 provide evidence that the simple-minded approach of making maths
 interesting should work at other grade levels.
 
-The first path is *pure mathematics*, the realm of
+The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
 Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
