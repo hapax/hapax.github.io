@@ -15,7 +15,29 @@ date:  2019-08-03
   scrubland, and into realms where the beauty and power of
   mathematical thought are evident.*
 
-## Stuck in the scrubland
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Stuck in the scrubland</a></li>
+<ul>
+<li><a href="#sec-1-1">1.1. A preamble</a></li>
+<li><a href="#sec-1-2">1.2. A patch of scrubland</a></li>
+<li><a href="#sec-1-3">1.3. Roads to nowhere</a></li>
+<li><a href="#sec-1-4">1.4. The evidence </a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Roads to beauty</a>
+<ul>
+<li><a href="#sec-2-1">2.1. The Mean Value Theorem</a></li>
+<li><a href="#sec-2-2">2.2. A kink in the argument</a></li>
+<li><a href="#sec-2-3">2.3. Adding natural numbers</a></li>
+<li><a href="#sec-2-4">2.4. Arithmetic-geometric inequality</a></li>
+</ul>
+</div>
+</div>
+
+## Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
 In high school, I thought maths was boring.
 I was skeptical about claims it would help me in real
@@ -51,9 +73,9 @@ The problem, I will argue, is that maths education is stuck in a sort of
 *scrubland* with no views into that world.
 We can make the problem more vivid with an (admittedly tendentious) analogy.
 
-#### A preamble
+#### A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
-Instead of maths, imagine you were forced to take *hiking classes* in high school.
+ Instead of maths, imagine you were forced to take *hiking classes* in high school.
 Every day, you and your classmates would trudge through a barren,
 featureless scrubland, with no views, no peaks, and no apparent goal
 other than the hike itself.
@@ -122,7 +144,7 @@ waiting to be relished and explored.
 Some students would probably still hate hiking.
 But so many more would be enriched.
 
-#### A patch of scrubland
+#### A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
 
 I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
@@ -136,8 +158,7 @@ And like walking, symbol manipulation is a skill that can be developed.
 
 If you look at most high school textbooks, you could be forgiven for thinking otherwise.
 What should be a journey into
-the mathematical world is, in most cases, a joyless plod through
-symbol manipulation exercises without context, without use, without
+the mathematical world is, in most cases, a joyless plod without context, without use, without
 beauty: a scrubland.
 
 <figure>
@@ -159,7 +180,7 @@ of years of material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
-#### Roads to nowhere
+#### Roads to nowhere <a id="sec-1-3" name="sec-1-3"></a>
 
 Of course, students need to practice walking before they wander off
 into the foothills, armed only with a compass and a sense of adventure.
@@ -197,7 +218,9 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-(In the US, the
+#### The evidence <a id="sec-1-4" name="sec-1-4"></a>
+
+In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
 represent a major effort at curricular reform, though the notion of
 "real world problem" being used here does not seem to correspond to
@@ -205,9 +228,11 @@ what people ordinarily mean by "real world".
 The [Australian Council for Education Research](https://www.acer.org/au/) is
 [aware of issues with STEM education](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1028&context=policy_analysis_misc),
 but the vagueness of the 2018 recommendations suggests that curricular
-change is a ways off.)
+change is a ways off.
 
-## Paths: beauty
+UNFINISHED
+
+## Roads to beauty <a id="sec-2" name="sec-2"></a>
 
 To conclude my little manifesto, I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
@@ -258,7 +283,7 @@ Beauty in maths, as in art, is subjective, so we are left the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 
-#### Example: the mean value theorem
+#### Example: the Mean Value Theorem <a id="sec-2-1" name="sec-2-1"></a>
 
 Our first mountain will be the *mean value theorem*.
 Instead of scaling the mountain and giving a fully rigorous proof, we
@@ -370,17 +395,23 @@ $$
 Another nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
-#### Example: a kink in the argument
+#### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
-#### Example: adding natural numbers
+#### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
-#### Example: arithmetic-geometric inequality
+#### Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
 
 ## Paths: power
 
 A second type of landmark is
 
 ## Paths: an elementary example
+
+#### Saddles and spheres
+
+#### Saddles and spheres
+
+#### Measuring the Earth
 
 ## Fine points
 
