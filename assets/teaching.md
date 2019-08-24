@@ -154,9 +154,9 @@ textbook.
 The topic is calculus, one of the jewels in the crown of mathematics.
 But here, we're finding... rates of change of ... some functions, I
 guess.
-Where are we?
 What do these functions do?
 Why do I care?
+Where are we?
 These questions are unforgivably boring when there is so much rich
 material to draw on.
 But they also fill me with existential horror.
