@@ -15,7 +15,6 @@ date:  2019-08-03
   scrubland, and into realms where the beauty and power of
   mathematical thought are evident.*
 
-<div>
 <h3>Contents</h3>
 <ol>
 <li><a href="#sec-1">Stuck in the scrubland</a></li>
@@ -33,7 +32,6 @@ date:  2019-08-03
 	<li><a href="#sec-2-4">Arithmetic-geometric inequality</a></li>
 	</ol>
 </ol>
-</div>
 
 ## Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
