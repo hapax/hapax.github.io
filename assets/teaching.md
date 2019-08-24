@@ -157,7 +157,7 @@ guess.
 What do these functions do?
 Why do I care?
 Where are we?
-These questions are unforgivably boring when there is so much rich
+These questions are unforgivably dull when there is so much rich
 material to draw on.
 But they also fill me with existential horror.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
