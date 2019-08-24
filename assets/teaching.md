@@ -225,8 +225,8 @@ Aesthetic considerations are famously important to pure mathematicians.
 The philosopher Bertrand Russell said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
-Along similar lines, the English mathematician G. H. Hardy said
-"beauty is the first test: there is no permanent place in the world
+English mathematician G. H. Hardy elevated this to a *requirement*,
+stating that "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
 
 Sound like any high school maths class you ever took?
