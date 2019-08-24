@@ -16,7 +16,7 @@ date:  2019-08-03
   mathematical thought are evident.*
 
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h3>Contents</h3>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. Stuck in the scrubland</a></li>
