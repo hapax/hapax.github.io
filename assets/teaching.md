@@ -380,7 +380,7 @@ methods) it can be turned into an algorithm for finding the point $c$.
 
 A second type of landmark is
 
-## Early year example
+## Paths: an elementary example
 
 ## Fine points
 
