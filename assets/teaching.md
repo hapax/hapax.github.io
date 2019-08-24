@@ -363,8 +363,8 @@ From our earlier discussion, this means they have to be tangent!
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt6.png"
     width="65%" />
-		    <figcaption><i>A visual "proof"/algorithm to find where
-    the purple line is tangent to the blue curve.</i></figcaption>
+		    <figcaption><i>A visual proof that
+    the purple line is parallel to the blue curve.</i></figcaption>
 	</div>
 	</figure>
 
@@ -394,10 +394,12 @@ the page"), they may discover a way for the theorem to fail:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
-    width="65%" />
-		    <figcaption><i>A kink in the curve.</i></figcaption>
+    width="60%" />
+		    <figcaption><i>The proof fails for "kinks".</i></figcaption>
 	</div>
 	</figure>
+
+If they draw a kink
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
