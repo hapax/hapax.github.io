@@ -165,7 +165,8 @@ endless plain of withered, ankle-height shrubs.
 
 Of course, students need to practice walking before they wander off
 into the foothills, armed only with a compass and a sense of adventure.
-Similarly, students need to learn how to manipulate symbols, and that
+Similarly, students need to learn how to manipulate symbols in order
+to do real mathematics, and that
 takes practice.
 There are better ways to practice than looking at shrubs.
 But the real problem is that *the scrubland never ends*, and what
