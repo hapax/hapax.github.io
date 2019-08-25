@@ -276,7 +276,7 @@ Hopefully one of them sticks!
 
 #### Example: the mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
-Our first mountain will be the *mean value theorem*.
+Our first mountain will be the *mean value theorem* (MVT).
 Instead of scaling the mountain and giving a fully rigorous proof, we
 will content ourselves with a good prospect from lower elevations, in
 the form of a *visual proof*.
@@ -375,7 +375,6 @@ $$
 \text{slope} = \frac{\text{rise}}{\text{run}} = \frac{f(b)-f(a)}{b-a}.
 $$
 
-We have just heuristically proved the mean value theorem.
 For a function $f(x)$ on $a\leq x \leq b$, there is a point $c$ where
 the derivative equals the "mean" slope between its endpoints:
 
@@ -383,13 +382,15 @@ $$
 f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
+This statement is the mean value theorem, and we have just
+heuristically proved it.
 Another nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
 #### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as this theorem is to prove, it's even more fun to break.
-If the students draw a sharp kink in the curve, the theorem fails:
+If the students draw a sharp kink in the curve, they should see that the theorem fails:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
@@ -398,13 +399,13 @@ If the students draw a sharp kink in the curve, the theorem fails:
 	</div>
 	</figure>
 
-Although the blue curve lies entirely on one side of the shifted
-purple line, the kink means the two never coincide, even when we zoom
-in infinitely.
-The slope isn't even well-defined!
-This tells us an important technical condition on the mean value
-theorem: at every point, the curve must be *straight at infinite
-zoom*, aka *differentiable*.
+Although the blue curve lies entirely on one side of the
+purple line, the two never coincide, even when we zoom in.
+Put a different way, since the tangent to the blue curve isn't even
+well-defined, it cannot equal the purple line!
+This places an important technical condition on the mean value
+theorem: at every point, the curve must be differentiable, aka
+*straight at infinite zoom*.
 
 We could leave it there, but for kicks, let's try and *maximally
 break* the theorem.
@@ -419,17 +420,14 @@ mean value theorem *does* hold. We just avoid the kink!
 	</div>
 	</figure>
 
-So here is the challenge: draw (or otherwise define) a curve where
-this is impossible.
-This will maximally break the theorem in the sense that it holds for *no
-subinterval* of $[a, b]$.
-Since we can apply the theorem whenever we can avoid a kink, we need
-*every subinterval to contain a kink* t make them unavoidable.
+So here is the challenge: draw (or otherwise define) a curve where the
+mean value theorem is not applicable in any subinterval.
+Since we can apply the theorem whenever we can select a subinterval
+without kinks, we need *every subinterval to contain a kink* to make
+them unavoidable.
 In technical parlance, we need the kinks to be dense.
 
 You can let the students stew on this a bit.
-Physically drawing the curve, it seems impossible to avoid graphs with
-short smooth segments ("piecewise differentiable").
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
@@ -982,3 +980,11 @@ drill, before they can go somewhere interesting, is made in bad faith.
 They drill in order to keep drilling.
 
 This is the sad reality underneath a lot of conventional wisdom.
+
+Physically drawing the curve, it seems impossible to avoid graphs a
+finite number of kinks connected by short smooth segments ("piecewise
+differentiable").
+But we can proceed by steps.
+
+This will maximally break the theorem in the sense that it holds for *no
+subinterval* of $[a, b]$.
