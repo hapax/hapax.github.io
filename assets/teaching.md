@@ -28,7 +28,7 @@ date:  2019-08-03
    3. <a href="#sec-2-3">Adding natural numbers</a>
    4. <a href="#sec-2-4">Arithmetic-geometric inequality</a>
 
-## Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
+## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
 In high school, I thought maths was boring.
 I was skeptical about claims it would help me in real
@@ -64,7 +64,7 @@ The problem, I will argue, is that maths education is stuck in a sort of
 *scrubland* with no views into that world.
 We can make the problem more vivid with an (admittedly tendentious) analogy.
 
-#### A preamble <a id="sec-1-1" name="sec-1-1"></a>
+#### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
  Instead of maths, imagine you were forced to take *hiking classes* in high school.
 Every day, you and your classmates would trudge through a barren,
@@ -135,7 +135,7 @@ waiting to be relished and explored.
 Some students would probably still hate hiking.
 But so many more would be enriched.
 
-#### A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
+#### 1.2. A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
 
 I hope the analogy to maths education and its shortcomings is clear.
 Walking is the ability to manipulate
@@ -171,7 +171,7 @@ of years of material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
-#### Roads to nowhere <a id="sec-1-3" name="sec-1-3"></a>
+#### 1.3. Roads to nowhere <a id="sec-1-3" name="sec-1-3"></a>
 
 Of course, students need to practice walking before they wander off
 into the foothills, armed only with a compass and a sense of adventure.
@@ -209,7 +209,7 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-#### The evidence <a id="sec-1-4" name="sec-1-4"></a>
+#### 1.4. The evidence <a id="sec-1-4" name="sec-1-4"></a>
 
 In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
@@ -223,7 +223,7 @@ change is a ways off.
 
 UNFINISHED
 
-## Roads to beauty <a id="sec-2" name="sec-2"></a>
+## 2. Roads to beauty <a id="sec-2" name="sec-2"></a>
 
 To conclude my little manifesto, I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
@@ -274,7 +274,7 @@ Beauty in maths, as in art, is subjective, so we are left the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 
-#### Example: the mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
+#### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
 Our first mountain will be the *mean value theorem* (MVT).
 Instead of scaling the mountain and giving a fully rigorous proof, we
@@ -386,7 +386,7 @@ This statement is the MVT!
 A nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
-#### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as this theorem is to prove, it's even more fun to break.
 If the students draw a sharp kink in the curve, they should see that the theorem fails:
@@ -419,31 +419,31 @@ mean value theorem *does* hold. We just avoid the kink!
 	</div>
 	</figure>
 
-So here is the challenge: draw (or otherwise define) a curve where the
+So here is the challenge: draw (or otherwise define) a continuous curve where the
 mean value theorem is not applicable in any subinterval.
 Since we can apply the theorem whenever we can select a subinterval
-without kinks, we need *every subinterval to contain a kink* to make
-them unavoidable.
-In technical parlance, we need the kinks to be dense.
+without kinks, we need *every subinterval to contain a kink*.
+In technical parlance, we need the kinks to be dense in $[a, b]$.
 
 It's hard to imagine (or draw) such an infinitely jittery curve.
 But it's easier if we proceed step-by-step.
 First, let's set $a = 0$ and $b= 1$; we lose nothing by making this
 choice, since we can always scale and shift our answer to recover the
-result for an arbitrary interval $[a, b]$.
-Let's start with a trangle-shaped function with a single kink at $x = 1/2$.
-We can apply the MVT to any subinterval to the left of the midpoint,
-or the right of the midpoint.
-Call this a *good subinterval*.
-For this triangle function, good intervals have maximum length $1/2$.
+result for an arbitrary interval.
+Let's start with a trangle-shaped function with a single kink at $x =
+1/2$, though most functions with a single kink will do.
+For the triange, we can apply the MVT to any subinterval entirely to the left of the midpoint,
+or entirely the right of the midpoint.
+Call these intervals, where the MVT applies, *good subintervals*.
+They have maximum length $1/2$.
 
-Our strategy will be to try gradually reducing the maximum length of
-good subintervals until they disappear altogether!
-For instance, we can introduce kinks at $x = 1/4, 3/4$ so that the
+Our strategy will be to iteratively add kinks, and reduce the length
+of good subintervals by half each time, until they disappear altogether!
+Let's place kinks at $x = 1/4, 3/4$ so that the
 maximum length is $1/4$.
 A simple way to do this is to *scale down* the triangle function by a
 factor of 2, put two copies side by side, and add them to the big
-triangle, depicted below.
+triangle, as depicted below.
 We label steps in the process by $n$, with $n = 0$ the big triangle
 with a single kink, and $n = 1$ the sum of big triangle and two
 smaller triangles.
@@ -451,33 +451,29 @@ smaller triangles.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
     width="80%" />
-		    <figcaption><i>Iteratively cooking a blancmange. The
+		    <figcaption><i>Baking a blancmange. The
     previous iteration is light green, the triangles we are adding are
     blue, and the sum is full green.</i></figcaption>
 	</div>
 	</figure>
 
-Similarly, to obtain the $n = 2$ curve, we scale down the big triangle
-by a factor of $4 = 2^2$, and place $4$ copies side by side, before
-adding to the $n = 1$ result.
-Now the maximum length of a good subinterval is $2^{-2} = 1/4$.
-We can continue in this fashion, iteratively building up a fractal
-called the *blancmange function*, since it resembles the jellied
-mounds of the French dessert.
-At step $n$, we shrink the original triangle by a factor of $2^n$,
+We can repeat this to obtain the $n = 2$ curve, shrinking the big
+triangle by a factor of $4 = 2^2$, making four copies, and adding adding to the $n = 1$ result.
+Now the maximum length of a good subinterval is $2^{-3} = 1/8$.
+Continuing in this fashion, at step $n$, we shrink the original triangle by a factor of $2^n$,
 spam $2^n$ copies, and add them to the results of the previous step.
+This iteratively builds up a fractal called the *blancmange function*,
+since it resembles the jellied mounds of the French dessert.
 
-Good subintervals have maximum length $2^{-n}$.
-As $n$ gets larger and larger, this length shrinks, and in the limit
-$n \to \infty$, they cannot have any length at all.
-This shows, informally, that *there are no good subintervals* if we
-allow the blancmange-cooking process to go forever.
-A neat way of seeing this is by labelling the kinks with their binary
-notation.
-The first kink (for $n = 0$) is at $x = 0.1$.
-The kinks for $n = 1$ (including the middle kink) are at $x
-= 0.01, 0.10, 0.11$.
-The kinks for $n= 2$ (including the $n = 1$ kinks) are at
+Good subintervals have maximum length $2^{-(1+n)}$.
+As $n$ gets larger and larger, this allowed length gets smaller and smaller, and in the limit
+$n \to \infty$, they have no length at all!
+Informally, this shows that for the blancmange function, there are no good subintervals.
+To make this slightly neater, we can label with their "decimal"
+expansions in base 2.
+The initialy kink is at $x = 0.1$.
+The kinks for $n = 1$ are at $x = 0.01, 0.10, 0.11$.
+The kinks for $n= 2$ are at
 
 $$
 n = 0.001, 0.010, 0.011, 0.100, 0.101, 0.110, 0.111.
@@ -488,21 +484,57 @@ You get the idea: at stage $n$, there are kinks at all numbers $x\in
 In the limit $n \to \infty$, there will be a kink at every number $x
 \in (0,1)$ with a finite binary expansion, i.e. *every rational
 number*.
-The rational numbers are indeed dense in the reals.
+The rational numbers, and hence the kinks, are dense in the reals.
 
-UNIFNISHED
-One final technical point is whether it makes sense to take the limit
-$n \to \infty$.
-You can run a computer program, which convincingly demonstrates that
-the program converges; for more advanced students, a quick technical
-argument from the geometric series and the comparison test (which I
-will omit here) shows both pointwise and uniform convergence.
+There are a few loose ends here.
+First, there is the question of *pointwise convergence*: is the
+blancmange function well-defined?
+If the students know the geometric series and the comparison test,
+they can see this themselves.
+A more delicate question is whether the function is *continuous*: this
+requires the more advanced tool of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence).
+In a classroom setting, I think it is probably best to raise both
+these problems, but answer them "experimentally": simply graph the
+function at different values of $n$, or get the students to program it themselves.
+(Here is an example [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
+by David Richeson.)
+This is not a proof, but it does provide a convincing numerical
+demonstration both of convergence and continuity.
+Either way, students discover that the blancmange function is
+*continuous but nowhere differentiable*.
 
-#### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
+Another loose end you can pose to students is whether this procedure
+can be simplified.
+The $2^n$ small triangles have the *same kinks* as the $n$th step of the
+blancmange, so why do we need to add them?
+Couldn't we just take the shrunken triangles in the limit $n\to\infty$
+and use those instead?
+Let students play around and see what happens.
 
-#### Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt10.png"
+    width="60%" />
+		    <figcaption><i>The limit of small triangles is just a
+    constant function.</i></figcaption>
+	</div>
+	</figure>
 
-## Roads to power
+They should come to suspect one of two things: first, it is somehow
+made of infinitely small, jagged triangles; or the subtler, correct view that is just a straight line.
+The technical tool to address this is the
+[Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
+sets, but you can make do with a simple intuition pump: how tall are
+the triangles in the $n\to\infty$ limit?
+Well, whatever height $h$ the first triangle is, at the $n$th step
+they are height $h/2^n$.
+As $n$ gets large, this goes very quickly to $0$.
+
+They may or may not like this "pathological" function.
+Mathematician Charles Hermite wrote, “I turn with terror and horror from this
+lamentable scourge of functions with no derivatives.”
+But this is 
+
+## 3. Roads to power
 
 A second type of landmark is 
 
@@ -1057,3 +1089,7 @@ But we can proceed by steps.
 
 This will maximally break the theorem in the sense that it holds for *no
 subinterval* of $[a, b]$.
+
+#### 2.3. Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
+
+#### 2.4. Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
