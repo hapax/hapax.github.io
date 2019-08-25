@@ -466,7 +466,16 @@ called the *blancmange function*, since it resembles the jellied
 mounds of the French dessert.
 At step $n$, we shrink the original triangle by a factor of $2^n$,
 spam $2^n$ copies, and add them to the results of the previous step.
+
 Good subintervals have maximum length $2^{-n}$.
+As $n$ gets larger and larger, this length shrinks, and in the limit
+$n \to \infty$, they cannot have any length at all.
+This shows, informally, that *there are no good subintervals* if we
+allow the blancmange-cooking process to go forever.
+You can run a computer program, which convincingly demonstrates that
+the program converges; for more advanced students, a quick technical
+argument from the geometric series and the comparison test (which I
+will omit here) shows both pointwise and uniform convergence.
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
