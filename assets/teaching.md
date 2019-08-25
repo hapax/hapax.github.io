@@ -449,9 +449,7 @@ smaller triangles.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
     width="80%" />
-		    <figcaption><i>Baking a blancmange. The
-    previous iteration is light green, the triangles we are adding are
-    blue, and the sum is full green.</i></figcaption>
+		    <figcaption><i>Baking a blancmange.</i></figcaption>
 	</div>
 	</figure>
 
@@ -511,7 +509,7 @@ Let students play around and see what happens.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt10.png"
-    width="60%" />
+    width="70%" />
 		    <figcaption><i>The limit of small triangles is a straight
     line made of points.</i></figcaption>
 	</div>
@@ -525,13 +523,44 @@ sets, but you can make do with a simple intuition pump: how tall are
 the triangles in the $n\to\infty$ limit?
 Put a different way, what does an infinitely small triangle look like?
 It is just a point.
+
 Hopefully someone will work out how to "fix" this problem: keep the
 triangles height $h$, but squeeze $2^n$ copies together!
+This is no longer a line.
+But what is the $n\to\infty$ limit now?
+Let's call it $D(x)$.
 
-They may or may not like this "pathological" function.
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt11.png"
+    width="70%" />
+		    <figcaption><i>A limit of squeezed triangles makes the
+    Dirichlet function.</i></figcaption>
+	</div>
+	</figure>
+
+Using binary expansions, the argument which told us there were kinks
+at each rational number in the blancmange function, now tells us that
+the function $D(x)$ will equal the original height of the triangle,
+$h$, at every rational $x$, and cannot be $h$ anywhere else.
+What is it elsewhere?
+Once again, use the intutition pump of "infinitely thin" triangles.
+The sides will become vertical as $n \to \infty$, and so 
+
+$$
+D(x) =
+\begin{cases}
+   h & x \in \mathbb{Q} \\
+	0 & x \notin \mathbb{Q}.
+\end{cases}
+$$
+
+This is the
+[Dirichlet function](https://en.wikipedia.org/wiki/Nowhere_continuous_function#Dirichlet_function).
+It is not continuous, unlike the blacmange, so it does not meet our criteria.
+But like the blancmange, it is a famous "pathological" function.
+Students may or may not find these aesthetically appealing.
 Mathematician Charles Hermite wrote, “I turn with terror and horror from this
 lamentable scourge of functions with no derivatives.”
-But this is 
 
 ## 3. Roads to power
 
