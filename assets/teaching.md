@@ -478,9 +478,9 @@ $$
 You get the idea: at stage $n$, there are kinks at all numbers $x\in
 (0, 1)$ with binary expansions of length $n+1$.
 In the limit $n \to \infty$, there will be a kink at every number $x
-\in (0,1)$ with a finite binary expansion, i.e. *every rational
-number*.
-The rational numbers, and hence the kinks, are dense in the reals.
+\in (0,1)$ with a finite binary expansion.
+Like the finite decimal expansions we are used to working with, these
+binary expansions are indeed dense in the reals.
 
 There are a few loose ends here.
 First, there is the question of *pointwise convergence*: is the
@@ -492,75 +492,23 @@ requires the more advanced tool of [uniform convergence](https://en.wikipedia.or
 In a classroom setting, I think it is probably best to raise both
 these problems, but answer them "experimentally": simply graph the
 function at different values of $n$, or get the students to program it themselves.
-(Here is an example [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
-by David Richeson.)
-This is not a proof, but it does provide a convincing numerical
+(See [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
+by David Richeson for example.)
+This may not be a proof, but it does give a convincing numerical
 demonstration both of convergence and continuity.
-Either way, students discover that the blancmange function is
-*continuous but nowhere differentiable*.
+Whether you use the proof or the numerics, students discover that the
+blancmange function is *continuous but nowhere differentiable*.
 
-Another loose end you can pose to students is whether this procedure
-can be simplified.
-The $2^n$ small triangles have the *same kinks* as the $n$th step of the
-blancmange, so why do we need to add them?
-Couldn't we just take the shrunken triangles in the limit $n\to\infty$
-and use those instead?
-Let students play around and see what happens.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/posts/mvt10.png"
-    width="70%" />
-		    <figcaption><i>The limit of small triangles is a straight
-    line made of points.</i></figcaption>
-	</div>
-	</figure>
-
-They should come to suspect one of two things: first, it is somehow
-made of infinitely small, jagged triangles; or the subtler, correct view that is just a straight line.
-The technical tool to address this is the
-[Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
-sets, but you can make do with a simple intuition pump: how tall are
-the triangles in the $n\to\infty$ limit?
-Put a different way, what does an infinitely small triangle look like?
-It is just a point.
-
-Hopefully someone will work out how to "fix" this problem: keep the
-triangles height $h$, but squeeze $2^n$ copies together!
-This is no longer a line.
-But what is the $n\to\infty$ limit now?
-Let's call it $D(x)$.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/posts/mvt11.png"
-    width="70%" />
-		    <figcaption><i>A limit of squeezed triangles makes the
-    Dirichlet function.</i></figcaption>
-	</div>
-	</figure>
-
-Using binary expansions, the argument which told us there were kinks
-at each rational number in the blancmange function, now tells us that
-the function $D(x)$ will equal the original height of the triangle,
-$h$, at every rational $x$, and cannot be $h$ anywhere else.
-What is it elsewhere?
-Once again, use the intutition pump of "infinitely thin" triangles.
-The sides will become vertical as $n \to \infty$, and so 
-
-$$
-D(x) =
-\begin{cases}
-   h & x \in \mathbb{Q} \\
-	0 & x \notin \mathbb{Q}.
-\end{cases}
-$$
-
-This is the
-[Dirichlet function](https://en.wikipedia.org/wiki/Nowhere_continuous_function#Dirichlet_function).
-It is not continuous, unlike the blacmange, so it does not meet our criteria.
-But like the blancmange, it is a famous "pathological" function.
-Students may or may not find these aesthetically appealing.
+Students may or may not find the blancmange aesthetically appealing.
 Mathematician Charles Hermite wrote, “I turn with terror and horror from this
-lamentable scourge of functions with no derivatives.”
+lamentable scourge of functions with no derivatives”.
+[Some](https://store.doverpublications.com/0486428753.html)
+[mathematicians](https://en.wikipedia.org/wiki/Counterexamples_in_Topology)
+enjoy searching for these monsters in the badlands of mathematics.
+There is also a connection to fractals that can be developed.
+But perhaps the lesson, here, is that following boldly asking
+questons, following loose threads, and expressing doubt, can lead to
+strange and beautiful results.
 
 ## 3. Roads to power
 
@@ -1129,3 +1077,68 @@ name="sec-2-4"></a>
 Well, whatever height $h$ the first triangle is, at the $n$th step
 they are height $h/2^n$.
 As $n$ gets large, this goes very quickly to $0$. 
+
+Using binary expansions, the argument which told us there were kinks
+at each rational number in the blancmange function, now tells us that
+the function $D(x)$ will equal the original height of the triangle,
+$h$, at every rational $x$, and cannot be $h$ anywhere else.
+What is it elsewhere?
+Once again, use the intutition pump of "infinitely thin" triangles.
+The sides will become vertical as $n \to \infty$, and so 
+
+$$
+D(x) =
+\begin{cases}
+   h & x \in \mathbb{Q} \\
+	0 & x \notin \mathbb{Q}.
+\end{cases}
+$$
+
+This is the
+[Dirichlet function](https://en.wikipedia.org/wiki/Nowhere_continuous_function#Dirichlet_function).
+Unlike the blacmange, it is not continuous *anywhere* and
+therefore doesn't meet our original criteria.
+But like the blancmange, it is infamously "pathological", an entry in
+a sort of Gothic Victorian garden of monstrous functions.
+Students may or may not find these aesthetically appealing.
+Mathematician Charles Hermite wrote, “I turn with terror and horror from this
+lamentable scourge of functions with no derivatives.”
+
+Another loose end you can pose to students is whether this procedure
+can be simplified.
+The $2^n$ small triangles have the *same kinks* as the $n$th step of the
+blancmange, so why do we need to add them?
+Couldn't we just take the shrunken triangles in the limit $n\to\infty$
+and use those instead?
+Let students play around and see what happens.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt10.png"
+    width="70%" />
+		    <figcaption><i>The limit of small triangles is a straight
+    line made of points.</i></figcaption>
+	</div>
+	</figure>
+
+They should come to suspect one of two things: first, it is somehow
+made of infinitely small, jagged triangles; or the subtler, correct view that is just a straight line.
+The technical tool to address this is the
+[Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
+sets, but you can make do with a simple intuition pump: how tall are
+the triangles in the $n\to\infty$ limit?
+Put a different way, what does an infinitely small triangle look like?
+It is just a point.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt11.png"
+    width="70%" />
+		    <figcaption><i>A limit of squeezed triangles?</i></figcaption>
+	</div>
+	</figure>
+
+Similarly, if a student tries to get around this problem by squeezing
+triangles horizontally, but leaving them height $h$, it is a nice
+exercise to check that this function is not well-defined (except at
+numbers with finite binary expansions, where it will be $0$).
+Roughly, as we zoom in, the "tail" of the expansion will cause the
+value to jump around with a limit as $n$ increases.
