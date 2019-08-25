@@ -435,7 +435,7 @@ Let's start with a trangle-shaped function with a single kink at $x = 1/2$.
 We can apply the MVT to any subinterval to the left of the midpoint,
 or the right of the midpoint.
 Call this a *good subinterval*.
-Importantly, for this function, good intervals have maximum length $1/2$.
+For this triangle function, good intervals have maximum length $1/2$.
 
 Our strategy will be to try gradually reducing the maximum length of
 good subintervals until they disappear altogether!
