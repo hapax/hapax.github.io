@@ -504,8 +504,7 @@ Students may or may not find the blancmange aesthetically appealing.
 lamentable scourge of functions with no derivatives”.
 On the other hand, [some](https://store.doverpublications.com/0486428753.html)
 [mathematicians](https://en.wikipedia.org/wiki/Counterexamples_in_Topology)
-enjoy searching for these monsters in the badlands of mathematics.
-There is also a connection to fractals that can be developed.
+enjoy searching for these monsters in the badlands.
 But perhaps the lesson, here, is that following boldly asking
 questons, following loose threads, and expressing doubt, can lead to
 strange and beautiful results.
