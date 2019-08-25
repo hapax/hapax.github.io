@@ -25,8 +25,6 @@ date:  2019-08-03
 2. <a href="#sec-2">Roads to beauty</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
-   3. <a href="#sec-2-3">Adding natural numbers</a>
-   4. <a href="#sec-2-4">Arithmetic-geometric inequality</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -514,8 +512,8 @@ Let students play around and see what happens.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt10.png"
     width="60%" />
-		    <figcaption><i>The limit of small triangles is just a
-    constant function.</i></figcaption>
+		    <figcaption><i>The limit of small triangles is a straight
+    line made of points.</i></figcaption>
 	</div>
 	</figure>
 
@@ -525,9 +523,10 @@ The technical tool to address this is the
 [Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
 sets, but you can make do with a simple intuition pump: how tall are
 the triangles in the $n\to\infty$ limit?
-Well, whatever height $h$ the first triangle is, at the $n$th step
-they are height $h/2^n$.
-As $n$ gets large, this goes very quickly to $0$.
+Put a different way, what does an infinitely small triangle look like?
+It is just a point.
+Hopefully someone will work out how to "fix" this problem: keep the
+triangles height $h$, but squeeze $2^n$ copies together!
 
 They may or may not like this "pathological" function.
 Mathematician Charles Hermite wrote, “I turn with terror and horror from this
@@ -1092,4 +1091,12 @@ subinterval* of $[a, b]$.
 
 #### 2.3. Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
-#### 2.4. Arithmetic-geometric inequality <a id="sec-2-4" name="sec-2-4"></a>
+#### 2.4. Arithmetic-geometric inequality <a id="sec-2-4"
+name="sec-2-4"></a>
+
+   3. <a href="#sec-2-3">Adding natural numbers</a>
+   4. <a href="#sec-2-4">Arithmetic-geometric inequality</a>
+
+Well, whatever height $h$ the first triangle is, at the $n$th step
+they are height $h/2^n$.
+As $n$ gets large, this goes very quickly to $0$. 
