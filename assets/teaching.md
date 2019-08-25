@@ -235,10 +235,10 @@ set of examples for trigonometry.
 The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
 Aesthetic considerations are famously important to pure mathematicians.
-The philosopher Bertrand Russell said that pure maths had a "beauty cold
+The philosopher [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
-English mathematician G. H. Hardy elevated this to a *requirement*,
+English mathematician [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy) elevated this to a *requirement*,
 stating that "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
 
@@ -500,9 +500,9 @@ Whether you use the proof or the numerics, students discover that the
 blancmange function is *continuous but nowhere differentiable*.
 
 Students may or may not find the blancmange aesthetically appealing.
-Mathematician Charles Hermite wrote, “I turn with terror and horror from this
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) wrote, “I turn with terror and horror from this
 lamentable scourge of functions with no derivatives”.
-[Some](https://store.doverpublications.com/0486428753.html)
+On the other hand, [some](https://store.doverpublications.com/0486428753.html)
 [mathematicians](https://en.wikipedia.org/wiki/Counterexamples_in_Topology)
 enjoy searching for these monsters in the badlands of mathematics.
 There is also a connection to fractals that can be developed.
