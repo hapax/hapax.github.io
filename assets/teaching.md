@@ -427,7 +427,15 @@ without kinks, we need *every subinterval to contain a kink* to make
 them unavoidable.
 In technical parlance, we need the kinks to be dense.
 
-You can let the students stew on this a bit.
+It's hard to imagine (or draw) such an infinitely jittery curve.
+But it's easier if we proceed step-by-step.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt9.png"
+    width="80%" />
+		    <figcaption><i>Iteratively cooking a blancmange.</i></figcaption>
+	</div>
+	</figure>
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
