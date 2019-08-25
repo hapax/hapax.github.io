@@ -382,9 +382,8 @@ $$
 f'(c) = \frac{f(b)-f(a)}{b-a}.
 $$
 
-This statement is the mean value theorem, and we have just
-heuristically proved it.
-Another nice feature of our proof is that (combined with root-finding
+This statement is the MVT!
+A nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
 
 #### A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
@@ -429,6 +428,25 @@ In technical parlance, we need the kinks to be dense.
 
 It's hard to imagine (or draw) such an infinitely jittery curve.
 But it's easier if we proceed step-by-step.
+First, let's set $a = 0$ and $b= 1$; we lose nothing by making this
+choice, since we can always scale and shift our answer to recover the
+result for an arbitrary interval $[a, b]$.
+Let's start with a trangle-shaped function with a single kink at $x = 1/2$.
+We can apply the MVT to any subinterval to the left of the midpoint,
+or the right of the midpoint.
+Call this a *good subinterval*.
+Importantly, for this function, good intervals have maximum length $1/2$.
+
+Our strategy will be to try gradually reducing the maximum length of
+good subintervals until they disappear altogether!
+For instance, we can introduce kinks at $x = 1/4, 3/4$ so that the
+maximum length is $1/4$.
+A simple way to do this is to *scale down* the triangle function by a
+factor of 2, put two copies side by side, and add them to the big
+triangle, depicted below.
+We label steps in the process by $n$, with $n = 0$ the big triangle
+with a single kink, and $n = 1$ the sum of big triangle and two
+smaller triangles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
@@ -436,6 +454,13 @@ But it's easier if we proceed step-by-step.
 		    <figcaption><i>Iteratively cooking a blancmange.</i></figcaption>
 	</div>
 	</figure>
+
+Similarly, to obtain the $n = 2$ curve, we scale down the big triangle
+by a factor of $4 = 2^2$, and place $4$ copies side by side, before
+adding to the $n = 1$ result.
+We can continue in this fashion, iteratively building up what is
+called the *blancmange function*, due to its resemblance to the
+jellied mounds of the French dessert.
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
