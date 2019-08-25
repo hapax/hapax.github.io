@@ -459,8 +459,8 @@ Similarly, to obtain the $n = 2$ curve, we scale down the big triangle
 by a factor of $4 = 2^2$, and place $4$ copies side by side, before
 adding to the $n = 1$ result.
 We can continue in this fashion, iteratively building up what is
-called the *blancmange function*, due to its resemblance to the
-jellied mounds of the French dessert.
+called the *blancmange function*, since it resembles the jellied
+mounds of the French dessert.
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
