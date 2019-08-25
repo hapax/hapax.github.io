@@ -458,9 +458,13 @@ smaller triangles.
 Similarly, to obtain the $n = 2$ curve, we scale down the big triangle
 by a factor of $4 = 2^2$, and place $4$ copies side by side, before
 adding to the $n = 1$ result.
+Now the maximum length of a good subinterval is $2^{-2} = 1/4$.
 We can continue in this fashion, iteratively building up what is
 called the *blancmange function*, since it resembles the jellied
 mounds of the French dessert.
+At step $n$, we shrink the original triangle by a factor of $2^n$,
+spam $2^n$ copies, and add them to the results of the previous step.
+Good subintervals have maximum length $2^{-n}$.
 
 #### Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
