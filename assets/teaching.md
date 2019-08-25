@@ -451,7 +451,9 @@ smaller triangles.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
     width="80%" />
-		    <figcaption><i>Iteratively cooking a blancmange.</i></figcaption>
+		    <figcaption><i>Iteratively cooking a blancmange. The
+    previous iteration is light green, the triangles we are adding are
+    blue, and the sum is full green.</i></figcaption>
 	</div>
 	</figure>
 
