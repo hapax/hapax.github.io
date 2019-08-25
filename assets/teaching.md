@@ -472,6 +472,27 @@ As $n$ gets larger and larger, this length shrinks, and in the limit
 $n \to \infty$, they cannot have any length at all.
 This shows, informally, that *there are no good subintervals* if we
 allow the blancmange-cooking process to go forever.
+A neat way of seeing this is by labelling the kinks with their binary
+notation.
+The first kink (for $n = 0$) is at $x = 0.1$.
+The kinks for $n = 1$ (including the middle kink) are at $x
+= 0.01, 0.10, 0.11$.
+The kinks for $n= 2$ (including the $n = 1$ kinks) are at
+
+$$
+n = 0.001, 0.010, 0.011, 0.100, 0.101, 0.110, 0.111.
+$$
+
+You get the idea: at stage $n$, there are kinks at all numbers $x\in
+(0, 1)$ with binary expansions of length $n+1$.
+In the limit $n \to \infty$, there will be a kink at every number $x
+\in (0,1)$ with a finite binary expansion, i.e. *every rational
+number*.
+The rational numbers are indeed dense in the reals.
+
+UNIFNISHED
+One final technical point is whether it makes sense to take the limit
+$n \to \infty$.
 You can run a computer program, which convincingly demonstrates that
 the program converges; for more advanced students, a quick technical
 argument from the geometric series and the comparison test (which I
