@@ -24,6 +24,7 @@ date:  2019-08-03
 2. <a href="#sec-2">Roads to beauty</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
+   3. <a href="#sec-2-3">Slice of pi*</a>
 3. <a href="#sec-3">Roads to power</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -257,6 +258,8 @@ Russell suggest, *beauty* is perhaps the principal criteria.
 Beauty in maths, as in art, is subjective, so we are left the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
+I'll give a couple of different examples, "inspired" by the patches of
+scrubland we've seen so far.
 
 #### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
@@ -386,7 +389,7 @@ This is an elegant and nontrivial result!
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as the MVT is to prove, it's even more fun to break.
-If the students draw a sharp kink in the curve, they should see that the theorem fails:
+If the students draw a sharp kink in the curve, they will find that the theorem fails:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
@@ -420,7 +423,7 @@ So here is the challenge: define a continuous curve where the
 mean value theorem is not applicable in any subinterval.
 Since we can apply the theorem whenever we can select a subinterval
 without kinks, we need *every subinterval to contain a kink*.
-In technical parlance, we need the kinks to be dense in $[a, b]$.
+In technical parlance, the kinks must be dense in $[a, b]$.
 
 It's hard to imagine (or draw) an infinitely jittery curve.
 But it's easier if we proceed step-by-step.
@@ -492,8 +495,7 @@ In a classroom setting, I think it's probably best to raise both
 problems, but answer them "experimentally": simply graph the function
 at different values of $n$, or get the students to program it
 themselves.
-They should see as $n$ gets large that the function settles down to
-the final blancmange shape.
+They should see the function settle down to something continuous as as $n$ gets large.
 (See [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
 by David Richeson for example.)
 This is not be a proof, but it does give a convincing numerical
@@ -507,7 +509,7 @@ This will have kinks at the same places.
     <div style="text-align:center"><img src ="/images/posts/mvt10.png"
     width="70%" />
 		    <figcaption><i>The limit of small triangles is a straight
-    line made of points.</i></figcaption>
+    line.</i></figcaption>
 	</div>
 	</figure>
 
@@ -518,13 +520,14 @@ The technical tool to prove this is the
 sets, but a simple intuition pump is simply to ask: how tall are the
 triangles as $n\to\infty$?
 If $f_n$ is the function consisting of $2^n$ triangles scaled down by
-$2^n$, what is the value of $f_n(x)$ as $n$ gets large?
-Everything just gets squished to $0$.
+$2^n$, what is the value of $f_n(x)$, for any $x$, as $n$ gets large?
+Everything just gets squished onto the red line.
 
 To summarise, the blancmange function is *continuous but nowhere
-differentiable*.
+differentiable*, and a similar iterative construction for any single-kink curve
+gives a function with the same property.
 Some students will savour this pathological dessert, while others will not.
-And they are not for everyone; mathematician
+The latter will not be alone; mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
 instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
@@ -532,6 +535,14 @@ But the moral is that, by trying to break theorems, ask bold
 questions, and follow loose
 threads, we often find something amazing lurking in the undergrowth.
 In their own way, these monsters are beautiful.
+
+#### 2.3. Slice of pi* <a id="sec-2-3" name="sec-2-3"></a>
+
+I will do one more example, unrelated to the MVT, but returning once
+more to the properties of inverse sine and its derivative.
+The goal is to *do something* with the derivative, rather than simply
+replacing numbers by letters!
+In particular, I want to introduce infinite series.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
