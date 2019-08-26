@@ -665,7 +665,9 @@ These questions have promise: they're about objects in the real world
 which change with time.
 But because the objects are chosen arbitrarily, and the questions are
 uninsightful, they feel contrived and lifeless.
-We're still in a scrubland of unmotivated drill.
+We're still in a scrubland of unmotivated drill, where instead of
+replacing numbers with letters, we've replaced them with words about
+randomly chosen objects.
 
 ## An elementary example
 
