@@ -624,8 +624,9 @@ So what? Well, we know from "special triangles" that $\sin^{-1}(1/2) = \pi/6$.
 This yields the pleasing formula
 
 $$
-\frac{\pi}{6} = 1 + \frac{1}{2}\frac{1}{3\cdot 2^3} + \frac{1\cdot
-3}{2\cdot 4} \frac{1}{5\cdot 2^5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot 6}\frac{1}{7\cdot 2^7} + \cdots
+\frac{\pi}{6} = 1 + \frac{1}{2\cdot 3\cdot 2^3} + \frac{1\cdot
+3}{2\cdot 4\cdot 5\cdot 2^5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot
+6\cdot 7\cdot 2^7} + \cdots
 $$
 
 The series converges rapidly to $\pi/6$, as students can confirm
@@ -647,15 +648,15 @@ why the professional climbers need it, but do not ourselves need to
 gear up.
 Instead, I've tried to show in the preceding examples how visual aids,
 heuristics, and numerical evidence can be used to orient students in
-the landscape and protect them against mishaps.
+the landscape and protect them from misadventure.
 
 ## 3. The real world <a id="sec-3" name="sec-3"></a>
 
 A second direction out of the scrubland is the application of
 mathematics to problems in the real world.
 Unlike beauty, which never gets much of a rhetorical look in, the phrase
-"real world" is bandied about almost recklessly in maths class.
-The "real world" is the home of word problems.
+"real world" is bandied about almost recklessly, since it is the home
+(or perhaps graveyard) of *word problems*.
 Here is an example from our textbook:
 
 <figure>
@@ -665,7 +666,8 @@ Here is an example from our textbook:
 	</div>
 	</figure>
 
-These are slightly better than the 
+These are certainly more "real" than the purely formal exercises we've
+already seen.
 
 ## An elementary example
 
