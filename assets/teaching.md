@@ -372,17 +372,16 @@ methods) it can be turned into an algorithm for finding the point $c$.
 We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
-With the MVT in hand, we can ask real questions about
-the inverse sine.
-For instance, students can show that it always increases the distance
-between its arguments:
+Let's return to inverse sine, and see if we can do better than
+palette-swapped shrubs.
+With the MVT in hand, students can prove it always increases the
+distance between its arguments:
 
 $$
 |\sin^{-1}(x) - \sin^{-1}(y)| \geq |x-y|.
 $$
 
-This is not a palette-swapped shrub, but a nontrivial propety of the
-function!
+This is an elegant and nontrivial result!
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
