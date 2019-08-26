@@ -510,7 +510,7 @@ instance, writing "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
 But the lesson is that, by trying to break things and following loose
 threads we might see something surprising.
-There are not only mountains, but *monsters* in the badlands.
+In their own way, monsters can be beautiful.
 
 ## 3. Roads to power
 
