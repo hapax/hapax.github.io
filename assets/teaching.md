@@ -499,8 +499,9 @@ demonstration both of convergence and continuity.
 Whether you use the proof or the numerics, students discover that the
 blancmange function is *continuous but nowhere differentiable*.
 
-Students may or may not find the blancmange appealing.
-French mathematician [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
+Students may or may not find the blancmange appealing, and even
+mathematicians first reacted with revulsion.
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
 wrote "I turn with terror and horror from this
 lamentable scourge of functions with no derivatives".
 They may not want to hunt monsters in the badlands.
