@@ -433,7 +433,7 @@ smaller triangles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
-    width="80%" />
+    width="90%" />
 		    <figcaption><i>Baking a blancmange.</i></figcaption>
 	</div>
 	</figure>
