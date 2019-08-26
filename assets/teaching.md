@@ -648,8 +648,8 @@ A second direction out of the scrubland is *applied mathematics*,
 understood broadly as the use of mathematics to solve problems in the
 real world.
 Unlike beauty, which never gets much of a rhetorical look in, the
-"real world" is bandied about almost recklessly, since it's the lair
-of many a dreaded *word problem*.
+"real world" is bandied about almost recklessly, since the real world
+where many *word problems* are purported to live.
 To illustrate, here are some word problems from our textbook:
 
 <figure>
@@ -1346,3 +1346,6 @@ We have "world problems": contrived, lifeless exercises which provide
 no insight or motivation.
 They grow in a region of the scrubland, unironically marked by a
 little cardboard sign saying "real world".
+
+since it's the lair
+of many a dreaded *word problem*.
