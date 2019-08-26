@@ -639,7 +639,7 @@ But as with the blancmange, I think it is more convincing for students
 to check numerically that the sum converges than to get lost in a
 quagmire of technical conditions.
 
-On a final propagandistic note, should rigour be cultivated at the high school level?
+Should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
 helpful: rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
