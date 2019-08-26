@@ -484,6 +484,25 @@ demonstration both of convergence and continuity.
 Whether you use the proof or the numerics, students discover that the
 blancmange function is *continuous but nowhere differentiable*.
 
+Another question is why we bother *adding* the triangles iteratively.
+Why don't we just take the limit of small, jagged triangles?
+This will have kinks at the same places.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt10.png"
+    width="70%" />
+		    <figcaption><i>The limit of small triangles is a straight
+    line made of points.</i></figcaption>
+	</div>
+	</figure>
+
+It turns out that the limit of an infinitely small triangle is just a
+point, and the $2^n$ triangles make a *line* as $n\to\infty$.
+The technical tool to prove this is the
+[Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
+sets, but you can make do with a simple intuition pump: how tall are
+the triangles in the $n\to\infty$ limit?
+
 Students may or may not find the blancmange appealing.
 Even mathematicians first reacted with revulsion, with
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) writing
