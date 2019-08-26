@@ -557,7 +557,7 @@ of a corn field.
 For instance, how could the formula
 
 $$
-\frac{\pi^2}{6}  = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
+\frac{\pi^2}{6}  = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
 $$
 
 possibly be true? Or any of the extraordinary results of
