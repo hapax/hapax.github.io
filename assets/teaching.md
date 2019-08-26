@@ -208,7 +208,7 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-## 2. A view of the summit <a id="sec-2" name="sec-2"></a>
+## 2. View of the summit <a id="sec-2" name="sec-2"></a>
 
 I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
@@ -385,14 +385,6 @@ $$
 
 assuming $x \neq y$.
 This is an elegant and nontrivial result.
-A simple consequence is that, if you
-apply $\sin^{-1}$ repeatedly, you will eventually hit $\pm \pi/2$:
-
-$$
-\sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x))) = \pm \frac{\pi}{2},
-$$
-
-which is perhaps a little surprising.
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -561,21 +553,18 @@ $$
 \frac{\pi^2}{6}  = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
 $$
 
-possibly be true? Or the extraordinary results of
-[Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan), such
-as
+possibly be true? Who could dream up extraordinary results like
 
 $$
 \frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty
-\frac{(4n)!(1103+26390n)}{(n!)^4 396^{4n}}.
+\frac{(4n)!(1103+26390n)}{(n!)^4 396^{4n}},
 $$
 
-Although many of Ramanujan's identities still strike me as
-semi-mystical, a sizeable collection of infinite series, equally baffling and exciting to
-the outsider, are low-hanging fruit with calculus.
-(On a different propagandistic note, the history of mathematics is a
-wonderful source of motivation, colour, and character, and we do
-students a disservice by not telling them more.)
+which [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan)
+seemed to do on a daily basis?
+Although Ramanujan's work still strikes me as
+semi-mystical, many results on infinite series, equally baffling and exciting to
+the outsider, are low-hanging fruit with calculus at our disposal.
 
 We will find an infinite series for $\pi$ based on inverse sine (first
 discovered by Isaac Newton).
@@ -653,28 +642,29 @@ the landscape and protect them from misadventure.
 
 ## 3. The real world <a id="sec-3" name="sec-3"></a>
 
-A second direction out of the scrubland is the application of
-mathematics to problems in the real world.
+A second direction out of the scrubland is *applied mathematics*,
+understood broadly.
 Unlike beauty, which never gets much of a rhetorical look in, the phrase
 "real world" is bandied about almost recklessly, since it is the home
-(or perhaps graveyard) of *word problems*.
+(or perhaps graveyard) of the dreaded *word problem*.
 Here are some word problems from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
     width="80%" />
-		    <figcaption><i>World problems.</i></figcaption>
+		    <figcaption><i>"World" problems.</i></figcaption>
 	</div>
 	</figure>
 
-Questions about objects the students have encountered and can
-visualise (mothballs, sandpiles) are good.
-Connecting rates of change to geometry is also good.
-But somehow, the end result is still more shrubs!
-We have "world problems": contrived, lifeless exercises which provide
-no insight or motivation.
-They grow in a region of the scrubland, unironically marked by a
-little cardboard sign saying "real world".
+These illustrate some of the pitfalls of word problems and textbook
+efforts at "real world" mathematics.
+They are not without promise.
+They feature real objects, like mothballs and sandpiles, and connect
+rates of change to geometry.
+But they are still contrived and lifeless; there is no motivation, no
+insight.
+We are still in the scrubland, and not in the real world at all.
+If you'll pardon the pun, they have a *world* problem.
 
 ## An elementary example
 
@@ -1343,3 +1333,13 @@ applied mathematics is more contingent; in
 [the words of George Box](https://en.wikipedia.org/wiki/All_models_are_wrong),
 "all models are wrong, but some are useful".
 But
+
+(On a different propagandistic note, the history of mathematics is a
+wonderful source of motivation, colour, and character, and we do
+students a disservice by not telling them more.)
+
+They feature objects, like mothballs and sandpiles, which students
+We have "world problems": contrived, lifeless exercises which provide
+no insight or motivation.
+They grow in a region of the scrubland, unironically marked by a
+little cardboard sign saying "real world".
