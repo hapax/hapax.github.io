@@ -629,14 +629,15 @@ $$
 $$
 
 To arrive at this point, we have thrown rigour to the wind, ignoring
-the radius of convergene, the uniform convergence of the sum needed to
+the radius of convergence, the uniform convergence of the sum needed to
 integrate term-by-term, or
 [Abel's theorem](https://en.wikipedia.org/wiki/Abel%27s_theorem)
 needed to apply the power series at the endpoint $x = 1$.
 These are all important issues, since at the end of the day our
 identity may not be true!
 But as with the blancmange, I think it is more convincing for students
-to check numerically that the sum converges to $\pi/2$.
+to check numerically that the sum converges than to get lost in a
+quagmire of technical conditions.
 
 One final propagandistic note: should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
