@@ -369,6 +369,17 @@ $$
 This statement is the MVT!
 A nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
+We didn't need real analysis or anything fancy, just some pictures and
+a solid feeling for what the definitions *mean*.
+
+With the MVT in hand, we can ask much more interesting questions about
+inverse sine.
+For instance, we could ask students to prove that, for $0 \leq a \leq
+b \leq 1$, we have the nontrivial inequality
+
+$$
+b-a \leq \sqrt{1-a^2} \left[\sin^{-1}(b)-\sin^{-1}(a)\right].
+$$
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -503,23 +514,25 @@ It turns out that an infinitely small triangle is just a
 point, and $2^n$ small triangles make a *line* as $n\to\infty$.
 The technical tool to prove this is the
 [Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
-sets, but a simple inutition pump is simply to ask: how tall are the
+sets, but a simple intuition pump is simply to ask: how tall are the
 triangles as $n\to\infty$?
+If $f_n$ is the function consisting of $2^n$ triangles scaled down by
+$2^n$, what is the value of $f_n(x)$ as $n$ gets large?
 
 To summarise, the blancmange function is *continuous but nowhere
 differentiable*.
 Some students will savour this pathological dessert, while others will not.
-Even mathematicians at first reacted with revulsion, with
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) for
-instance writing: "I turn with terror and horror from this lamentable
+They are not for everyone;
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
+instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
-But the moral is that, by trying to break theorems and follow loose
-threads, we discover something amazing lurking in the undergrowth.
+But the moral is that, by trying to break theorems and following loose
+threads, we often discover something amazing lurking in the undergrowth.
 In their own way, monsters are beautiful.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
-A second type of landmark is 
+A second direction out of the scrubland,
 
 ## An elementary example
 
@@ -1159,3 +1172,21 @@ exercise to check that this function is not well-defined (except at
 numbers with finite binary expansions, where it will be $0$).
 Roughly, as we zoom in, the "tail" of the expansion will cause the
 value to jump around with a limit as $n$ increases.
+
+As a simple application, we can show something a little more
+interesting about inverse sine.
+Since the derivative of $\sin^{-1}x$ is $1/\sqrt{1-x^2}$, the MVT
+tells us that, for $-1 \leq a \leq b \leq 1$, we have
+
+$$
+\frac{b-a}{\sqrt{1-c^2}} = \sin^{-1}(b)-\sin^{-1}(a).
+$$
+
+Since $1/\sqrt{1-c^2}$ is increasing for $c \geq 0$, it follows that
+for $a \geq 0$,
+
+$$
+\frac{b-a}{\sqrt{1-a^2}} \leq \sin^{-1}(b)-\sin^{-1}(a).
+$$
+
+This is the sort 
