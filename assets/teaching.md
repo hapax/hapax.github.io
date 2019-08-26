@@ -21,11 +21,11 @@ date:  2019-08-03
    1. <a href="#sec-1-1">A preamble</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
    3. <a href="#sec-1-3">Roads to nowhere</a>
-2. <a href="#sec-2">Roads to beauty</a>
+2. <a href="#sec-2">View of the summit</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
-3. <a href="#sec-3">Roads to power</a>
+3. <a href="#sec-3">The real world</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -208,7 +208,7 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-## 2. Roads to beauty <a id="sec-2" name="sec-2"></a>
+## 2. A view of the summit <a id="sec-2" name="sec-2"></a>
 
 I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
@@ -646,10 +646,24 @@ helpful: rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up.
+Instead, I've tried to show in the preceding examples how visual aids,
+heuristics, and numerical evidence can be used to orient students in
+the landscape and protect them against mishaps.
 
-## 3. Roads to power <a id="sec-3" name="sec-3"></a>
+## 3. The real world <a id="sec-3" name="sec-3"></a>
 
-The second direction out of the scrubland is *applied mathematics*.
+A second direction out of the scrubland is applications of mathematics
+in the real world.
+Unlike beauty, which never even gets a rhetorical look in, the phrase
+"real world" is bandied about 
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/specialist3.png"
+    width="75%" />
+		    <figcaption><i>Real world?</i></figcaption>
+	</div>
+	</figure>
+
 In contrast to pure mathematics, we now choose mathematical objects
 which represent or *model* non-mathematical objects, and use our
 powers of symbolic manipulation to try and learn things about the real
@@ -658,6 +672,7 @@ While pure mathematics seems to have privileged access to truth,
 applied mathematics is more contingent; in
 [the words of George Box](https://en.wikipedia.org/wiki/All_models_are_wrong),
 "all models are wrong, but some are useful".
+But
 
 ## An elementary example
 
