@@ -381,10 +381,17 @@ With the MVT in hand, students can prove it always increases the
 distance between its arguments:
 
 $$
-|\sin^{-1}(x) - \sin^{-1}(y)| \geq |x-y|.
+|\sin^{-1}(x) - \sin^{-1}(y)| > |x-y|,
 $$
 
-This is an elegant and nontrivial result!
+assuming $x \neq y$.
+This is an elegant and nontrivial result.
+A simple consequence is that, if you
+apply $\sin^{-1}$ repeatedly, you will eventually hit $\pm 1$:
+
+$$
+\lim \sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x)\cdots )) = \pm 1.
+$$
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -539,10 +546,51 @@ In their own way, these monsters are beautiful.
 #### 2.3. Slice of pi* <a id="sec-2-3" name="sec-2-3"></a>
 
 I will do one more example, unrelated to the MVT, but returning once
-more to the properties of inverse sine and its derivative.
-The goal is to *do something* with the derivative, rather than simply
-replacing numbers by letters!
-In particular, I want to introduce infinite series.
+more to inverse sine and its derivative.
+This requires a little more symbolic facility from students, but the
+payoff is a beautiful infinite series identity.
+On a broader note, I think infinite series are one of the great
+propaganda tools for calculus, and deserve a greater place in the high
+school syllabus.
+When I first encountered them, I was astounded: they were beautiful
+but otherworldly, like a glittering chunk of meteorite found in the middle
+of a corn field.
+For instance, how could the formula
+
+$$
+\frac{\pi^2}{6}  = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
+$$
+
+possibly be true? Or any of the extraordinary results of
+[Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan), such
+as his bizarre formua
+
+$$
+\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty
+\frac{(4n)!(1103+26390n)}{(n!)^4 396^{4n}}.
+$$
+
+How could anyone possibly discover these results?
+Although many of Ramanujan's discoveries still strike me as
+semi-mystical, many infinite series, equally baffling and exciting to
+the outsider, turn out to be low-hanging fruit with calculus.
+(On a different propagandistic note, the history of mathematics is a
+wonderful source of motivation, colour, and character, and we do
+students a disservice by not telling them more.)
+
+We will find an infinite series for $\pi$ based on inverse sine.
+It converges much too slowly to be practical, but the argument has
+some nice features.
+First, we recall the derivative:
+
+$$
+\frac{d}{dx} \sin^{-1} x = (1-x^2)^{-1/2}.
+$$
+
+The derivative on the RHS can be expanded using the
+[binomial series](https://en.wikipedia.org/wiki/Binomial_series).
+This may seem way too advanced!
+But 
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
