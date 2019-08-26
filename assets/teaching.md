@@ -501,9 +501,9 @@ blancmange function is *continuous but nowhere differentiable*.
 
 Students may or may not find the blancmange appealing, and even
 mathematicians first reacted with revulsion.
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
-wrote "I turn with terror and horror from this
-lamentable scourge of functions with no derivatives".
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) wrote
+"I turn with terror and horror from this lamentable scourge of
+functions with no derivatives".
 They may not want to hunt monsters in the badlands.
 But the lesson, here, is that by asking bold questions, following
 loose threads, and trying to break things, we can find strange
