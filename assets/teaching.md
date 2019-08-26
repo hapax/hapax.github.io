@@ -623,7 +623,7 @@ $$
 $$
 
 So what? Well, by definition, $\sin^{-1}(1) = \pi/2$.
-Hence, we have the result
+This yields the pleasing formula
 
 $$
 \frac{\pi}{2} = 1 + \frac{1}{2\cdot 3} + \frac{1\cdot 3}{2\cdot 4\cdot
