@@ -644,7 +644,7 @@ I think this is a subtle question, but the hiking analogy is
 helpful: rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
-gear up and baggage ourselves for the less demanding trek.
+gear up.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
