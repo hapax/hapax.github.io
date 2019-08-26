@@ -525,7 +525,7 @@ $2^n$, what is the value of $f_n(x)$ as $n$ gets large?
 To summarise, the blancmange function is *continuous but nowhere
 differentiable*.
 Some students will savour this pathological dessert, while others will not.
-They are not for everyone;
+And they are not for everyone; mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
 instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
