@@ -372,13 +372,13 @@ methods) it can be turned into an algorithm for finding the point $c$.
 We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
-With the MVT in hand, we can ask much more interesting questions about
+With the MVT in hand, we can ask real questions about
 inverse sine.
-For instance, we could ask students to prove that, for $0 \leq a \leq
-b \leq 1$, we have the nontrivial inequality
+For instance, without evaluating any trigonometric functions, students
+could prove that, for $1 \geq x \geq 0.6$,
 
 $$
-b-a \leq \sqrt{1-a^2} \left[\sin^{-1}(b)-\sin^{-1}(a)\right].
+\sin^{-1}(x) \geq \frac{5x-3}{4} + \sin^{-1}(0.6).
 $$
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
@@ -1189,4 +1189,5 @@ $$
 \frac{b-a}{\sqrt{1-a^2}} \leq \sin^{-1}(b)-\sin^{-1}(a).
 $$
 
-This is the sort 
+This is the sort
+b-a \leq \sqrt{1-a^2} \left[\sin^{-1}(b)-\sin^{-1}(a)\right].
