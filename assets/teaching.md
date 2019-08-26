@@ -24,7 +24,7 @@ date:  2019-08-03
 2. <a href="#sec-2">Roads to beauty</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
-   3. <a href="#sec-2-3">Slice of pi*</a>
+   3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">Roads to power</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -543,7 +543,7 @@ questions, and follow loose
 threads, we often find something amazing lurking in the undergrowth.
 In their own way, these monsters are beautiful.
 
-#### 2.3. Slice of pi* <a id="sec-2-3" name="sec-2-3"></a>
+#### 2.3. Slice of pi <a id="sec-2-3" name="sec-2-3"></a>
 
 I will do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
 This requires a little more symbolic facility from students, but the
