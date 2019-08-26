@@ -654,8 +654,11 @@ the landscape and protect them against mishaps.
 
 A second direction out of the scrubland is applications of mathematics
 in the real world.
-Unlike beauty, which never even gets a rhetorical look in, the phrase
-"real world" is bandied about 
+Unlike beauty, which never gets much of a rhetorical look in, the phrase
+"real world" is bandied about almost recklessly in maths classes.
+Word problems, for instance, are often supposed to be set in the real
+world, though I'm not sure I live in the same world as these problems.
+Here is an example from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
@@ -664,15 +667,7 @@ Unlike beauty, which never even gets a rhetorical look in, the phrase
 	</div>
 	</figure>
 
-In contrast to pure mathematics, we now choose mathematical objects
-which represent or *model* non-mathematical objects, and use our
-powers of symbolic manipulation to try and learn things about the real
-world.
-While pure mathematics seems to have privileged access to truth,
-applied mathematics is more contingent; in
-[the words of George Box](https://en.wikipedia.org/wiki/All_models_are_wrong),
-"all models are wrong, but some are useful".
-But
+If "word problem" continues to mean "contrived and irrelevant"
 
 ## An elementary example
 
@@ -1331,3 +1326,13 @@ $$
 
 This is the sort
 b-a \leq \sqrt{1-a^2} \left[\sin^{-1}(b)-\sin^{-1}(a)\right].
+
+In contrast to pure mathematics, we now choose mathematical objects
+which represent or *model* non-mathematical objects, and use our
+powers of symbolic manipulation to try and learn things about the real
+world.
+While pure mathematics seems to have privileged access to truth,
+applied mathematics is more contingent; in
+[the words of George Box](https://en.wikipedia.org/wiki/All_models_are_wrong),
+"all models are wrong, but some are useful".
+But
