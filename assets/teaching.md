@@ -577,9 +577,8 @@ the outsider, are low-hanging fruit with calculus.
 wonderful source of motivation, colour, and character, and we do
 students a disservice by not telling them more.)
 
-We will find an infinite series for $\pi$ based on inverse sine.
-It converges much too slowly to be practical, but the argument has
-some nice features.
+We will find an infinite series for $\pi$ based on inverse sine (first
+discovered by Isaac Newton).
 First, we recall the derivative:
 
 $$
@@ -615,30 +614,30 @@ $$
 
 Here, the constant of integration is set to zero since inverse sine
 vanishes at $x = 0$.
-Finally, we plug in a specific value, $x = 1$:
+Finally, we plug in a specific value, $x = 1/2$:
 
 $$
-\sin^{-1}(1) = \sum_{n-0}^\infty \frac{(2n)!}{2^{2n}(n!)^2} \frac{1}{2n+1},
+\sin^{-1}(\tfrac{1}{2}) = \sum_{n-0}^\infty \frac{(2n)!}{2^{4n+1}(n!)^2} \frac{1}{2n+1},
 $$
 
-So what? Well, by definition, $\sin^{-1}(1) = \pi/2$.
+So what? Well, we know from "special triangles" that $\sin^{-1}(1/2) = \pi/6$.
 This yields the pleasing formula
 
 $$
-\frac{\pi}{2} = 1 + \frac{1}{2\cdot 3} + \frac{1\cdot 3}{2\cdot 4\cdot
-5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot 6\cdot 7} + \cdots
+\frac{\pi}{6} = 1 + \frac{1}{2}\frac{1}{3\cdot 2^3} + \frac{1\cdot
+3}{2\cdot 4} \frac{1}{5\cdot 2^5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot 6}\frac{1}{7\cdot 2^7} + \cdots
 $$
 
+The series converges rapidly to $\pi/6$, as students can confirm
+numerically.
+
 To arrive at this point, we have thrown rigour to the wind, ignoring
-the radius of convergence, the uniform convergence of the sum needed to
-integrate term-by-term, or
-[Abel's theorem](https://en.wikipedia.org/wiki/Abel%27s_theorem)
-needed to apply the power series at the endpoint $x = 1$.
-These are all important issues, since at the end of the day our
+the radius of the power series, and the uniform convergence of the sum
+needed to integrate term-by-term.
+These are important issues, since at the end of the day our
 identity may not be true!
-But as with the blancmange, I think it is more convincing for students
-to check numerically that the sum converges than to get lost in a
-quagmire of technical conditions.
+But as with the blancmange, I think a numerical check of convergence
+is more persuasive that a quagmire of technical conditions.
 
 Should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
@@ -655,7 +654,7 @@ the landscape and protect them against mishaps.
 A second direction out of the scrubland is the application of
 mathematics to problems in the real world.
 Unlike beauty, which never gets much of a rhetorical look in, the phrase
-"real world" is bandied about almost recklessly in maths classes.
+"real world" is bandied about almost recklessly in maths class.
 The "real world" is the home of word problems.
 Here is an example from our textbook:
 
@@ -666,7 +665,7 @@ Here is an example from our textbook:
 	</div>
 	</figure>
 
-These are 
+These are slightly better than the 
 
 ## An elementary example
 
