@@ -617,7 +617,8 @@ vanishes at $x = 0$.
 Finally, we plug in a specific value, $x = 1/2$:
 
 $$
-\sin^{-1}(\tfrac{1}{2}) = \sum_{n-0}^\infty \frac{(2n)!}{2^{4n+1}(n!)^2} \frac{1}{2n+1},
+\sin^{-1}(\tfrac{1}{2}) = \sum_{n-0}^\infty \frac{(2n)!}{2^{2n}(n!)^2}
+\frac{1}{2^{2n+1} (2n+1)}.
 $$
 
 So what? Well, we know from "special triangles" that $\sin^{-1}(1/2) = \pi/6$.
