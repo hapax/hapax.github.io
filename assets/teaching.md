@@ -616,9 +616,9 @@ So what? Well, we know from "special triangles" that $\sin^{-1}(1/2) = \pi/6$.
 This yields the pleasing formula
 
 $$
-\frac{\pi}{6} = 1 + \frac{1}{2\cdot 3\cdot 2^3} + \frac{1\cdot
-3}{2\cdot 4\cdot 5\cdot 2^5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot
-6\cdot 7\cdot 2^7} + \cdots
+\frac{\pi}{6} = 1 + \frac{1}{2}\left(\frac{1}{3\cdot 2^3}\right) + \frac{1\cdot
+3}{2\cdot 4}\left(\frac{1}{5\cdot 2^5}\right) + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot
+6}\left(\frac{1}{7\cdot 2^7}\right) + \cdots
 $$
 
 The series converges rapidly to $\pi/6$, as students can confirm
