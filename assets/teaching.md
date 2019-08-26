@@ -637,9 +637,8 @@ integrate term-by-term, or
 needed to apply the power series at the endpoint $x = 1$.
 These are all important issues, since at the end of the day our
 identity may not be true!
-But as with the blancmange, I think that while these issues should be
-mentioned, it is more convincing for students to simply to check
-numerically that the sum converges to $\pi/2$.
+But as with the blancmange, I think it is more convincing for students
+to check numerically that the sum converges to $\pi/2$.
 
 Should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
