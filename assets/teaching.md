@@ -529,9 +529,10 @@ And they are not for everyone; mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
 instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
-But the moral is that, by trying to break theorems and following loose
-threads, we often discover something amazing lurking in the undergrowth.
-In their own way, monsters are beautiful.
+But the moral is that, by trying to break theorems, ask bold
+questions, and follow loose
+threads, we often find something amazing lurking in the undergrowth.
+In their own way, these monsters are beautiful.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
