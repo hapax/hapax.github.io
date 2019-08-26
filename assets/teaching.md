@@ -509,8 +509,8 @@ Some mathematicians reacted with revulsion, with
 instance, writing "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
 But the lesson is that, by trying to break things and following loose
-threads we might see something surprising.
-In their own way, monsters can be beautiful.
+threads we might see something amazing lurking in the undergrowth.
+And in their own way, monsters are beautiful.
 
 ## 3. Roads to power
 
