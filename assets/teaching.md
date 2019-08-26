@@ -503,13 +503,14 @@ The technical tool to prove this is the
 sets, but a simple inutition pump is simply to ask: how tall are the
 triangles as $n\to\infty$?
 
-Students may or may not find the blancmange appealing.
-Even mathematicians first reacted with revulsion, with
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) writing
-"I turn with terror and horror from this lamentable scourge of
-functions with no derivatives".
-But the lesson is that, by trying to ask interesting questions, break things and follow loose
-threads, we can 
+Students may or may not like the blancmange.
+Some mathematicians reacted with revulsion, with
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for
+instance, writing "I turn with terror and horror from this lamentable
+scourge of functions with no derivatives".
+But the lesson is that, by trying to break things and following loose
+threads we might see something surprising.
+There are not only mountains, but *monsters* in the badlands.
 
 ## 3. Roads to power
 
