@@ -390,7 +390,7 @@ A simple consequence is that, if you
 apply $\sin^{-1}$ repeatedly, you will eventually hit $\pm 1$:
 
 $$
-\lim \sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x)\cdots )) = \pm 1.
+\sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x))) = \pm 1.
 $$
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
