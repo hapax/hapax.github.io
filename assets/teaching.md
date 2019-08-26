@@ -499,15 +499,14 @@ demonstration both of convergence and continuity.
 Whether you use the proof or the numerics, students discover that the
 blancmange function is *continuous but nowhere differentiable*.
 
-Students may or may not find the blancmange aesthetically appealing.
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) wrote, “I turn with terror and horror from this
-lamentable scourge of functions with no derivatives”.
-On the other hand, [some](https://store.doverpublications.com/0486428753.html)
-[mathematicians](https://en.wikipedia.org/wiki/Counterexamples_in_Topology)
-enjoy searching for these monsters in the badlands.
-But perhaps the lesson, here, is that following boldly asking
-questons, following loose threads, and expressing doubt, can lead to
-strange and beautiful results.
+Students may or may not find the blancmange appealing.
+French mathematician [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
+wrote "I turn with terror and horror from this
+lamentable scourge of functions with no derivatives".
+They may not want to hunt monsters in the badlands.
+But the lesson, here, is that by asking bold questions, following
+loose threads, and trying to break things, we can find strange
+creatures shambling.
 
 ## 3. Roads to power
 
