@@ -647,10 +647,10 @@ the landscape and protect them from misadventure.
 A second direction out of the scrubland is *applied mathematics*,
 understood broadly as the use of mathematics to solve problems in the
 real world.
-Unlike beauty, which never gets much of a rhetorical look in, the phrase
-"real world" is bandied about almost recklessly, since it is the home
-(or perhaps graveyard) of the dreaded *word problem*.
-Here are some word problems from our textbook:
+Unlike beauty, which never gets much of a rhetorical look in, the
+"real world" is bandied about almost recklessly, since it's the lair
+of many a dreaded *word problem*.
+To illustrate, here are some word problems from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
@@ -661,11 +661,11 @@ Here are some word problems from our textbook:
 
 We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
-These problems have promise; they're about objects in the real world
+These questions have promise: they're about objects in the real world
 which change with time.
 But because the objects are chosen arbitrarily, and the questions are
-uninsightful, the problems feel contrived and lifeless.
-We're still very much in a scrubland of unmotivated drill.
+uninsightful, they feel contrived and lifeless.
+We're still in a scrubland of unmotivated drill.
 
 ## An elementary example
 
