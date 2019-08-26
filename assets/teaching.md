@@ -570,10 +570,10 @@ $$
 \frac{(4n)!(1103+26390n)}{(n!)^4 396^{4n}}.
 $$
 
-How could anyone possibly discover these results?
-Although many of Ramanujan's discoveries still strike me as
-semi-mystical, many infinite series, equally baffling and exciting to
-the outsider, turn out to be low-hanging fruit with calculus.
+How could anyone discover this?
+Although many of Ramanujan's identities still strike me as
+semi-mystical, a sizeable collection of infinite series, equally baffling and exciting to
+the outsider, are low-hanging fruit with calculus.
 (On a different propagandistic note, the history of mathematics is a
 wonderful source of motivation, colour, and character, and we do
 students a disservice by not telling them more.)
