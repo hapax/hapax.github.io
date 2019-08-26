@@ -545,8 +545,7 @@ In their own way, these monsters are beautiful.
 
 #### 2.3. Slice of pi* <a id="sec-2-3" name="sec-2-3"></a>
 
-I will do one more example, unrelated to the MVT, but returning once
-more to inverse sine and its derivative.
+I will do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
 This requires a little more symbolic facility from students, but the
 payoff is a beautiful infinite series identity.
 On a broader note, I think infinite series are one of the great
