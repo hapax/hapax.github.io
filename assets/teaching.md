@@ -560,16 +560,15 @@ $$
 \frac{\pi^2}{6}  = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
 $$
 
-possibly be true? Or any of the extraordinary results of
+possibly be true? Or the extraordinary results of
 [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan), such
-as his bizarre formula
+as
 
 $$
 \frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty
 \frac{(4n)!(1103+26390n)}{(n!)^4 396^{4n}}.
 $$
 
-How could anyone discover this?
 Although many of Ramanujan's identities still strike me as
 semi-mystical, a sizeable collection of infinite series, equally baffling and exciting to
 the outsider, are low-hanging fruit with calculus.
