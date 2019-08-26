@@ -21,7 +21,6 @@ date:  2019-08-03
    1. <a href="#sec-1-1">A preamble</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
    3. <a href="#sec-1-3">Roads to nowhere</a>
-   4. <a href="#sec-1-4">The evidence </a>
 2. <a href="#sec-2">Roads to beauty</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
@@ -207,23 +206,9 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-#### 1.4. The evidence <a id="sec-1-4" name="sec-1-4"></a>
-
-In the US, the
-[Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
-represent a major effort at curricular reform, though the notion of
-"real world problem" being used here does not seem to correspond to
-what people ordinarily mean by "real world".
-The [Australian Council for Education Research](https://www.acer.org/au/) is
-[aware of issues with STEM education](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1028&context=policy_analysis_misc),
-but the vagueness of the 2018 recommendations suggests that curricular
-change is a ways off.
-
-UNFINISHED
-
 ## 2. Roads to beauty <a id="sec-2" name="sec-2"></a>
 
-To conclude my little manifesto, I want to suggest two directions out of the scrubland.
+I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
 snippet of calculus above.
 This is a final year topic, and my examples will be designed for final
@@ -499,15 +484,13 @@ demonstration both of convergence and continuity.
 Whether you use the proof or the numerics, students discover that the
 blancmange function is *continuous but nowhere differentiable*.
 
-Students may or may not find the blancmange appealing, and even
-mathematicians first reacted with revulsion.
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) wrote
+Students may or may not find the blancmange appealing.
+Even mathematicians first reacted with revulsion, with
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) writing
 "I turn with terror and horror from this lamentable scourge of
 functions with no derivatives".
-They may not want to hunt monsters in the badlands.
-But the lesson, here, is that by asking bold questions, following
-loose threads, and trying to break things, we can find strange
-creatures shambling.
+But the lesson is that, by trying to ask interesting questions, break things and follow loose
+threads, we can 
 
 ## 3. Roads to power
 
@@ -521,7 +504,17 @@ A second type of landmark is
 
 ## Fine points
 
-#### The evidence
+#### 1.4. The evidence <a id="sec-1-4" name="sec-1-4"></a>
+
+In the US, the
+[Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
+represent a major effort at curricular reform, though the notion of
+"real world problem" being used here does not seem to correspond to
+what people ordinarily mean by "real world".
+The [Australian Council for Education Research](https://www.acer.org/au/) is
+[aware of issues with STEM education](https://research.acer.edu.au/cgi/viewcontent.cgi?article=1028&context=policy_analysis_misc),
+but the vagueness of the 2018 recommendations suggests that curricular
+change is a ways off.
 
 #### The role of the teacher
 
