@@ -213,10 +213,9 @@ century with all its challenges and complexities.
 I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
 snippet of calculus above.
-This is a final year topic, and my examples will be designed for final
-year students.
-To provide evidence that the simple-minded approach of making maths
-interesting works for other grade levels, I'll give a supplementary
+This is a topic for advanced students, and my examples will be chosen accordingly.
+But to provide evidence that the simple-minded approach of making maths
+fun works at other grade levels, I'll give a supplementary
 set of examples for trigonometry.
 
 The first direction is *pure mathematics*, towards
@@ -650,7 +649,15 @@ gear up.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
-A second direction out of the scrubland,
+The second direction out of the scrubland is *applied mathematics*.
+In contrast to pure mathematics, we now choose mathematical objects
+which represent or *model* non-mathematical objects, and use our
+powers of symbolic manipulation to try and learn things about the real
+world.
+While pure mathematics seems to have privileged access to truth,
+applied mathematics is more contingent; in
+[the words of George Box](https://en.wikipedia.org/wiki/All_models_are_wrong),
+"all models are wrong, but some are useful".
 
 ## An elementary example
 
