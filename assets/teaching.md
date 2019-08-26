@@ -657,14 +657,11 @@ Here are some word problems from our textbook:
 	</figure>
 
 These illustrate some of the pitfalls of word problems and textbook
-efforts at "real world" mathematics.
-They are not without promise.
-They feature real objects, like mothballs and sandpiles, and connect
-rates of change to geometry.
-But they are still contrived and lifeless; there is no motivation, no
-insight.
-We are still in the scrubland, and not in the real world at all.
-If you'll pardon the pun, they have a *world* problem.
+efforts at "real life" mathematics.
+They are not without promise, featuring real objects, like mothballs
+and sandpiles, and connecting rates of change to geometry.
+But somehow, they are still contrived and lifeless, just another
+species of shrub.
 
 ## An elementary example
 
