@@ -387,11 +387,13 @@ $$
 assuming $x \neq y$.
 This is an elegant and nontrivial result.
 A simple consequence is that, if you
-apply $\sin^{-1}$ repeatedly, you will eventually hit $\pm 1$:
+apply $\sin^{-1}$ repeatedly, you will eventually hit $\pm \pi/2$:
 
 $$
-\sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x))) = \pm 1.
+\sin^{-1} (\sin^{-1} (\sin^{-1} (\cdots x))) = \pm \frac{\pi}{2},
 $$
+
+which is perhaps a little surprising.
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
