@@ -642,7 +642,7 @@ quagmire of technical conditions.
 On a final propagandistic note, should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
 helpful: rigour is something like a *safety harness* for mountain climbing.
-From the safer vantage of our hill, we can mention rigour and explain
+From the less dangerous vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up and baggage ourselves for the less demanding trek.
 
