@@ -21,7 +21,7 @@ date:  2019-08-03
    1. <a href="#sec-1-1">A preamble</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
    3. <a href="#sec-1-3">Roads to nowhere</a>
-2. <a href="#sec-2">View of the summit</a>
+2. <a href="#sec-2">Views of the summit</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
@@ -208,7 +208,7 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
-## 2. View of the summit <a id="sec-2" name="sec-2"></a>
+## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
 I want to suggest two directions out of the scrubland.
 I will give concrete examples, based on the (randomly selected)
