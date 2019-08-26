@@ -409,7 +409,7 @@ Although the blue curve lies entirely on one side of the
 purple line, the two never coincide, even when we zoom in.
 Put a different way, since the tangent to the blue curve isn't even
 well defined, it cannot equal the purple line!
-This places an important technical condition on the mean value
+This places an important technical constraint on the mean value
 theorem: at every point, the curve must be differentiable, aka
 *straight at infinite zoom*.
 
