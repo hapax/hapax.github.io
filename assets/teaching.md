@@ -667,13 +667,14 @@ Here are some word problems from our textbook:
 	</div>
 	</figure>
 
-Writing questions about objects the students have encountered and can
-visualise (mothballs, sandpiles) is good.
-Connecting rates of change to geometric questions is also good.
+Questions about objects the students have encountered and can
+visualise (mothballs, sandpiles) are good.
+Connecting rates of change to geometry is also good.
 But somehow, the end result is still more shrubs!
-We have *world problems*: these are not processes that occur in the
-world, and solving them does not provide insight.
-They are artificial and lifeless.
+We have "world problems": contrived, lifeless exercises which provide
+no insight or motivation.
+They grow in a region of the scrubland, unironically marked by a
+little cardboard sign saying "real world".
 
 ## An elementary example
 
