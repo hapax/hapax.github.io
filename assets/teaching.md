@@ -639,7 +639,7 @@ needed to integrate term-by-term.
 These are important issues, since at the end of the day our
 identity may not be true!
 But as with the blancmange, I think a numerical check of convergence
-is more persuasive that a quagmire of technical conditions.
+is more persuasive than wading into a quagmire of technical conditions.
 
 Should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
@@ -647,7 +647,7 @@ helpful: rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up.
-Instead, I've tried to show in the preceding examples how visual aids,
+Instead, as I've tried to show in the preceding examples, visual aids,
 heuristics, and numerical evidence can be used to orient students in
 the landscape and protect them from misadventure.
 
@@ -658,17 +658,22 @@ mathematics to problems in the real world.
 Unlike beauty, which never gets much of a rhetorical look in, the phrase
 "real world" is bandied about almost recklessly, since it is the home
 (or perhaps graveyard) of *word problems*.
-Here is an example from our textbook:
+Here are some word problems from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
     width="80%" />
-		    <figcaption><i>Real world?</i></figcaption>
+		    <figcaption><i>World problems.</i></figcaption>
 	</div>
 	</figure>
 
-These are certainly more "real" than the purely formal exercises we've
-already seen.
+Writing questions about objects the students have encountered and can
+visualise (mothballs, sandpiles) is good.
+Connecting rates of change to geometric questions is also good.
+But somehow, the end result is still more shrubs!
+We have *world problems*: these are not processes that occur in the
+world, and solving them does not provide insight.
+They are artificial and lifeless.
 
 ## An elementary example
 
