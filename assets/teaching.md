@@ -496,8 +496,8 @@ This will have kinks at the same places.
 	</div>
 	</figure>
 
-It turns out that the limit of an infinitely small triangle is just a
-point, and the $2^n$ triangles make a *line* as $n\to\infty$.
+It turns out that an infinitely small triangle is just a
+point, and $2^n$ small triangles make a *line* as $n\to\infty$.
 The technical tool to prove this is the
 [Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
 sets, but a simple inutition pump is simply to ask: how tall are the
