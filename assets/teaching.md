@@ -24,6 +24,7 @@ date:  2019-08-03
 2. <a href="#sec-2">Roads to beauty</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
+3. <a href="#sec-3">Roads to power</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -402,7 +403,7 @@ mean value theorem *does* hold. We just avoid the kink!
 	</div>
 	</figure>
 
-So here is the challenge: draw (or otherwise define) a continuous curve where the
+So here is the challenge: define a continuous curve where the
 mean value theorem is not applicable in any subinterval.
 Since we can apply the theorem whenever we can select a subinterval
 without kinks, we need *every subinterval to contain a kink*.
@@ -471,18 +472,20 @@ There are a few loose ends here.
 First, there is the question of *pointwise convergence*: is the
 blancmange function well-defined?
 If the students know the geometric series and the comparison test,
-they can see this themselves.
-A more delicate question is whether the function is *continuous*: this
-requires the more advanced tool of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence).
-In a classroom setting, I think it is probably best to raise both
-these problems, but answer them "experimentally": simply graph the
-function at different values of $n$, or get the students to program it themselves.
+they can prove this.
+A more delicate question is whether the function is *continuous*,
+requiring the more advanced notion of
+[uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence).
+In a classroom setting, I think it's probably best to raise both
+problems, but answer them "experimentally": simply graph the function
+at different values of $n$, or get the students to program it
+themselves.
+They should see as $n$ gets large that the function settles down to
+the final blancmange shape.
 (See [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
 by David Richeson for example.)
-This may not be a proof, but it does give a convincing numerical
+This is not be a proof, but it does give a convincing numerical
 demonstration both of convergence and continuity.
-Whether you use the proof or the numerics, students discover that the
-blancmange function is *continuous but nowhere differentiable*.
 
 Another question is why we bother *adding* the triangles iteratively.
 Why don't we just take the limit of small, jagged triangles?
@@ -503,16 +506,18 @@ The technical tool to prove this is the
 sets, but a simple inutition pump is simply to ask: how tall are the
 triangles as $n\to\infty$?
 
-Students may or may not like the blancmange.
-Some mathematicians reacted with revulsion, with
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for
-instance, writing: "I turn with terror and horror from this lamentable
+To summarise, the blancmange function is *continuous but nowhere
+differentiable*.
+Some students will savour this pathological dessert, while others will not.
+Even mathematicians at first reacted with revulsion, with
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite) for
+instance writing: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
-But the moral is that, by trying to break things and follow loose
-threads, we might see something amazing lurking in the undergrowth.
+But the moral is that, by trying to break theorems and follow loose
+threads, we discover something amazing lurking in the undergrowth.
 In their own way, monsters are beautiful.
 
-## 3. Roads to power
+## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
 A second type of landmark is 
 
