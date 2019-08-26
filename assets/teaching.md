@@ -500,8 +500,8 @@ It turns out that the limit of an infinitely small triangle is just a
 point, and the $2^n$ triangles make a *line* as $n\to\infty$.
 The technical tool to prove this is the
 [Hausdorff limit](https://en.wikipedia.org/wiki/Hausdorff_distance) of
-sets, but you can make do with a simple intuition pump: how tall are
-the triangles in the $n\to\infty$ limit?
+sets, but a simple inutition pump is simply to ask: how tall are the
+triangles as $n\to\infty$?
 
 Students may or may not find the blancmange appealing.
 Even mathematicians first reacted with revulsion, with
