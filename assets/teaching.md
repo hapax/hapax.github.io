@@ -398,7 +398,7 @@ If the students draw a sharp kink in the curve, they should see that the theorem
 Although the blue curve lies entirely on one side of the
 purple line, the two never coincide, even when we zoom in.
 Put a different way, since the tangent to the blue curve isn't even
-well-defined, it cannot equal the purple line!
+well defined, it cannot equal the purple line!
 This places an important technical condition on the mean value
 theorem: at every point, the curve must be differentiable, aka
 *straight at infinite zoom*.
@@ -422,7 +422,7 @@ Since we can apply the theorem whenever we can select a subinterval
 without kinks, we need *every subinterval to contain a kink*.
 In technical parlance, we need the kinks to be dense in $[a, b]$.
 
-It's hard to imagine (or draw) such an infinitely jittery curve.
+It's hard to imagine (or draw) an infinitely jittery curve.
 But it's easier if we proceed step-by-step.
 First, let's set $a = 0$ and $b= 1$; we lose nothing by making this
 choice, since we can always scale and shift our answer to recover the
