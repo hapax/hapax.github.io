@@ -591,7 +591,9 @@ It can be motivated as an extension of the usual binomial theorem, and
 
 $$
 (1+x)^\alpha = \sum_{n=0}^\infty \binom{\alpha}{n} x^n, \quad
-\binom{\alpha}{n} = \frac{1}{n!} \frac{d^n}{dx^n}(1+x)^\alpha\big|_{x=0}.
+\binom{\alpha}{n} = \frac{1}{n!}
+\frac{d^n}{dx^n}(1+x)^\alpha\big|_{x=0} =
+\frac{\alpha\cdot(\alpha-1)\cdots (\alpha-n+1)}{n!}.
 $$
 
 At any rate, now "anti-differentiate" term-by-term:
