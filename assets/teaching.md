@@ -563,7 +563,7 @@ $$
 
 possibly be true? Or any of the extraordinary results of
 [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan), such
-as his bizarre formua
+as his bizarre formula
 
 $$
 \frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty
@@ -588,9 +588,65 @@ $$
 $$
 
 The derivative on the RHS can be expanded using the
-[binomial series](https://en.wikipedia.org/wiki/Binomial_series).
-This may seem way too advanced!
-But 
+[binomial series](https://en.wikipedia.org/wiki/Binomial_series):
+
+$$
+(1-x^2)^{-1/2} = 1 + \frac{1}{2}x^2 + \frac{1\cdot 3}{2\cdot 4} x^4 +
+\cdots = \sum_{n-0}^\infty
+\frac{(2n)!}{2^{2n}(n!)^2} x^{2n}.
+$$
+
+Is this too advanced for students?
+I don't think so.
+It can be motivated as an extension of the usual binomial theorem, and
+"proved" (without worrying too much about convergence) via the
+[Maclaurin series](https://en.wikipedia.org/wiki/Taylor_series):
+
+$$
+(1+x)^\alpha = \sum_{n=0}^\infty \binom{\alpha}{n} x^n, \quad
+\binom{\alpha}{n} = \frac{1}{n!} \frac{d^n}{dx^n}(1+x)^\alpha\big|_{x=0}.
+$$
+
+At any rate, now "anti-differentiate" term-by-term:
+
+$$
+\sin^{-1}x = x + \frac{1}{2}\frac{x^3}{3} + \frac{1\cdot 3}{2\cdot 4} \frac{x^5}{5} +
+\cdots = \sum_{n-0}^\infty \frac{(2n)!}{2^{2n}(n!)^2} \frac{x^{2n+1}}{2n+1}.
+$$
+
+Here, the constant of integration is set to zero since inverse sine
+vanishes at $x = 0$.
+Finally, we plug in a specific value, $x = 1$:
+
+$$
+\sin^{-1}(1) = \sum_{n-0}^\infty \frac{(2n)!}{2^{2n}(n!)^2} \frac{1}{2n+1},
+$$
+
+So what? Well, by definition, $\sin^{-1}(1) = \pi/2$.
+Hence, we have the result
+
+$$
+\frac{\pi}{2} = 1 + \frac{1}{2\cdot 3} + \frac{1\cdot 3}{2\cdot 4\cdot
+5} + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot 6\cdot 7} + \cdots
+$$
+
+To arrive at this point, we have thrown rigour to the wind, ignoring
+the radius of convergene, the uniform convergence of the sum needed to
+integrate term-by-term, or
+[Abel's theorem](https://en.wikipedia.org/wiki/Abel%27s_theorem)
+needed to apply the power series at the endpoint $x = 1$.
+These are all important issues, since at the end of the day our
+identity may not be true!
+But as with the blancmange, I think that while these issues should be
+mentioned, it is more convincing for students to simply to check
+numerically that the sum converges to $\pi/2$.
+
+Should rigour be cultivated at the high school level?
+I think this is a subtle question, but the hiking analogy is
+helpful: rigour is something like a *safety harness* for mountain climbing.
+From the safer vantage of our hill, we can mention rigour and explain
+why the professional climbers need it, but do not ourselves need to
+gear up and baggage ourselves for the less demanding trek.
 
 ## 3. Roads to power <a id="sec-3" name="sec-3"></a>
 
