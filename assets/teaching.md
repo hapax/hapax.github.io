@@ -488,7 +488,7 @@ blancmange function well-defined?
 If the students know the geometric series and the comparison test,
 they can prove this.
 A more delicate question is whether the function is *continuous*,
-requiring the machinery of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence).
+requiring the [M-test](https://en.wikipedia.org/wiki/Weierstrass_M-test).
 In a classroom setting, I think it's probably best to raise both
 problems, but answer them "experimentally": simply graph the function
 at different values of $n$, or get the students to program it
