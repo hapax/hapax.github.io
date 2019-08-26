@@ -520,6 +520,7 @@ sets, but a simple intuition pump is simply to ask: how tall are the
 triangles as $n\to\infty$?
 If $f_n$ is the function consisting of $2^n$ triangles scaled down by
 $2^n$, what is the value of $f_n(x)$ as $n$ gets large?
+Everything just gets squished to $0$.
 
 To summarise, the blancmange function is *continuous but nowhere
 differentiable*.
