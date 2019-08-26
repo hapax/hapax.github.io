@@ -374,12 +374,14 @@ a solid feeling for what the definitions *mean*.
 
 With the MVT in hand, we can ask real questions about
 inverse sine.
-For instance, without evaluating any trigonometric functions, students
-could prove that, for $1 \geq x \geq 0.6$,
+For instance, students can show that it always increases the distance
+between its arguments:
 
 $$
-\sin^{-1}(x) \geq \frac{5x-3}{4} + \sin^{-1}(0.6).
+|\sin^{-1}(x) - \sin^{-1}(y)| \geq |x-y|.
 $$
+
+This is not a palette-swapped shrub, but a nontrivial propety of the function!
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
