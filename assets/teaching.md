@@ -373,7 +373,7 @@ We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
 With the MVT in hand, we can ask real questions about
-inverse sine.
+the inverse sine.
 For instance, students can show that it always increases the distance
 between its arguments:
 
@@ -381,11 +381,12 @@ $$
 |\sin^{-1}(x) - \sin^{-1}(y)| \geq |x-y|.
 $$
 
-This is not a palette-swapped shrub, but a nontrivial propety of the function!
+This is not a palette-swapped shrub, but a nontrivial propety of the
+function!
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
-As fun as this theorem is to prove, it's even more fun to break.
+As fun as the MVT is to prove, it's even more fun to break.
 If the students draw a sharp kink in the curve, they should see that the theorem fails:
 
 <figure>
@@ -436,7 +437,7 @@ They have maximum length $1/2$.
 
 Our strategy will be to iteratively add kinks, and reduce the length
 of good subintervals by half each time, until they disappear altogether!
-Let's place kinks at $x = 1/4, 3/4$ so that the
+To begin with, let's place kinks at $x = 1/4, 3/4$ so that the
 maximum length is $1/4$.
 A simple way to do this is to *scale down* the triangle function by a
 factor of 2, put two copies side by side, and add them to the big
@@ -453,7 +454,7 @@ smaller triangles.
 	</figure>
 
 We can repeat this to obtain the $n = 2$ curve, shrinking the big
-triangle by a factor of $4 = 2^2$, making four copies, and adding adding to the $n = 1$ result.
+triangle by a factor of $4 = 2^2$, making four copies, and adding to the $n = 1$ result.
 Now the maximum length of a good subinterval is $2^{-3} = 1/8$.
 Continuing in this fashion, at step $n$, we shrink the original triangle by a factor of $2^n$,
 spam $2^n$ copies, and add them to the results of the previous step.
@@ -500,7 +501,7 @@ by David Richeson for example.)
 This is not be a proof, but it does give a convincing numerical
 demonstration both of convergence and continuity.
 
-Another question is why we bother *adding* the triangles iteratively.
+Another question is why we bother *adding* the triangles.
 Why don't we just take the limit of small, jagged triangles?
 This will have kinks at the same places.
 
