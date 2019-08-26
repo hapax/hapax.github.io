@@ -153,7 +153,7 @@ beauty: a scrubland.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
-    width="75%" />
+    width="80%" />
 		    <figcaption><i>Calculus "shrubbified".</i></figcaption>
 	</div>
 	</figure>
@@ -236,7 +236,7 @@ textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist2.png"
-    width="75%" />
+    width="80%" />
 		    <figcaption><i>Painting shrubs blue.</i></figcaption>
 	</div>
 	</figure>
@@ -652,22 +652,21 @@ the landscape and protect them against mishaps.
 
 ## 3. The real world <a id="sec-3" name="sec-3"></a>
 
-A second direction out of the scrubland is applications of mathematics
-in the real world.
+A second direction out of the scrubland is the application of
+mathematics to problems in the real world.
 Unlike beauty, which never gets much of a rhetorical look in, the phrase
 "real world" is bandied about almost recklessly in maths classes.
-Word problems, for instance, are often supposed to be set in the real
-world, though I'm not sure I live in the same world as these problems.
+The "real world" is the home of word problems.
 Here is an example from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
-    width="75%" />
+    width="80%" />
 		    <figcaption><i>Real world?</i></figcaption>
 	</div>
 	</figure>
 
-If "word problem" continues to mean "contrived and irrelevant"
+These are 
 
 ## An elementary example
 
