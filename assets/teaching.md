@@ -623,17 +623,17 @@ $$
 $$
 
 The series converges rapidly to $\pi/6$, as students can confirm
-numerically.
+numerically. Newton used this formula to calculate $\pi$ to 15 decimal places.
 
 To arrive at this point, we have thrown rigour to the wind, ignoring
-the radius of the power series, and the uniform convergence of the sum
+the radius of the power series and the uniform convergence of the sum
 needed to integrate term-by-term.
 These are important issues, since at the end of the day our
 identity may not be true!
-But as with the blancmange, I think a numerical check of convergence
-is more persuasive than wading into a quagmire of technical conditions.
+But as with the blancmange, a numerical check of convergence
+is more persuasive in a classroom setting than a quagmire of technical conditions.
 
-Should rigour be cultivated at the high school level?
+On that note, should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
 helpful: rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
@@ -681,8 +681,7 @@ From compound interest to chaos, planets to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, or calculus
-really come from?
-And show them just how powerful the tools are, applied in the real world!
+really come from, and show them just how powerful the tools are?
 
 ## An elementary example
 
