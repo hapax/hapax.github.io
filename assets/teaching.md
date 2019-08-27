@@ -664,25 +664,25 @@ To illustrate, here are some word problems from our textbook:
 We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
 These questions have promise: they're about objects in the real world
-which change with time.
-But they don't deliver on that promise, since everything in sight is arbitrary!
+that change with time.
+But everything in sight is arbitrary!
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 None of it means anything, or provides any insight.
-We're still in a scrubland of lifeless, unmotivated drill, where
-numbers have been replaced by random objects.
+We're still in scrubland, and numbers have been replaced by random objects.
 
-Instead of choosing random objects in a dead world of mathematical
-facts, we should connect students to the living, breathing sources of
-non-mathematical inspiration.
-From compound interest to chaos, and soap bubbles to
-the secret codes, mathematics is inspired by real problems, and
-provides extraordinarily potent tools to deal with them.
+Instead of a dead world of mathematical facts, we should connect
+students to the living, breathing sources of non-mathematical inspiration.
+From compound interest to chaos, planets to poker, and soap bubbles to
+secret codes, mathematics is inspired by real problems.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, logarithms, or calculus
 *really* come from?
-Or show them how powerful they really are when they master these tools?
+In the same way that the material needs of civilisation spur an explorer
+and frame her quest, the needs of other scientists, industry, and
+everyday life spur mathematicians to go out into world and dig up
+structures fit for purpose.
 
 ## An elementary example
 
