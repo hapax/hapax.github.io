@@ -766,7 +766,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
     second shell (at radius $r+w$), per unit area, is proportional to
 
    $$
-   F(r+w) \propto \frac{c(r+W)-c(r)}{w}.
+   F(r+w) \propto \frac{c(r+w)-c(r)}{w}.
    $$
 
 2. By taking the limit of zero width, show that the
@@ -780,13 +780,13 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
     constant*.
 
 3. Suppose the napthalene cloud diffuses very slowly, with a steady
-   outward flow of molecules. Argue that the function
+   outward flow of molecules. Argue that, for a steady flow, the function
 
    $$
    G(r) = 4\pi r^2 F(r)
    $$
 
-   is constant.
+   must be constant.
 
 4. Let $R$ be the radius of the moth ball. From problem 3, deduce that
 
@@ -794,14 +794,16 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    c(r) = \frac{c(R) R}{r}.
    $$
 
----
+5. Since the moth ball is gradually turning into gas, the radius
+   $R(t)$ depends on time.
+   It is a little easier to calculate how the *mass* of the ball changes
+   with time.
+   First, show that if $m_\text{N}$ is the mass of a napthalene molecule, and
+   $M$ the mass of the moth ball, then
 
-Since the moth ball is gradually turning into gas, the radius $R(t)$
-depends on time.
-
-----
-
-3. How 
+   $$
+   \frac{dM}{dt} = -m_\text{N}G(R).
+   $$
 
 ----
 
