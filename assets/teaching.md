@@ -554,7 +554,7 @@ $$
 \frac{\pi^2}{6}  = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots
 $$
 
-possibly be true? Who could dream up extraordinary results like
+possibly be true? And who could dream up a gewgaw like
 
 $$
 \frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty
@@ -566,7 +566,7 @@ seemed to do on a daily basis?
 
 Although Ramanujan's work still strikes me as
 semi-mystical, many results on infinite series, equally baffling and exciting to
-the outsider, are low-hanging fruit with calculus at our disposal.
+the outsider, are easy pickings with the long arm of calculus.
 In our case, we'll cook up an infinite series for $\pi$ based on the
 inverse sine.
 First, recall the derivative:
@@ -662,7 +662,7 @@ Here are some examples from our textbook:
 
 We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
-These questions have promise: they're about objects in the real world
+This is promising subject matter: objects in the real world
 that change with time.
 But everything in sight is arbitrary!
 Why does the mothball decrease at a constant rate?
