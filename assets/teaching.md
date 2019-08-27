@@ -700,7 +700,7 @@ If not, you have shrubs.
 And shrubs kill interest.
 Note that pretty much *anything* can be a shrub: a problem, a chapter,
 an assignment.
-The shrub test is meant to be a helpful guide for 
+In fact, the shrub test can be applied rather broadly, but 
 
 This makes the failure of the word problems
 sharper. No one would do the question on the mothballs or the triangle

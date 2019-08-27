@@ -6,7 +6,7 @@ categories: [Literature]
 date:   2018-07-19
 ---
 
-**June 19, 2018.** *Review of **D'Alembert's Principle**, a playful novel about love, loss, and logic by Andrew Crumey.*
+**June 19, 2018.** *Review of* D'Alembert's Principle, *a playful novel about love, loss, and logic by Andrew Crumey.*
 
 <i>D'Alembert's Principle: A Novel in Three Panels</i> is less a triptych than three distinct novellas, united by a loose framing device and a simple thesis: humans are complicated, and imagination (in the form of storytelling) is the best way of dealing with them.<br />
 <br />
