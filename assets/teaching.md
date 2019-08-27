@@ -27,7 +27,7 @@ date:  2019-08-03
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">The real world</a>
    1. <a href="#sec-3-1">The shrub test</a>
-
+4. <a href="#sec-4">A pre-calculus example</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -188,7 +188,7 @@ They drill in order to keep drilling.
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
 scrubland, and if you want to write a textbook, just "shrubbify" and
-fill the book with barcode variants of the same problem.
+fill the book with lifeless variants of the same problem.
 But the responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the people who write the curriculum.
 And from their perspective, it's much easier to maintain the
@@ -196,6 +196,8 @@ scrubland, and maybe ride around in a pickup truck painting shrubs different
 colours, than to chart a new course into the mathematical world.
 That would take time, money, and vision, and these are perennially in
 short supply.
+(I'll discuss some of the pedagogical assumptions underlying the
+scrubland in <a href="#sec-3-1">.)
 
 But good mathematical skills are important to society as a whole.
 I'm not talking about basic numeracy, e.g. the ability to calculate a
@@ -212,13 +214,11 @@ century with all its challenges and complexities.
 
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
-I want to suggest two directions out of the scrubland.
-I will give concrete examples, based on the (randomly selected)
-snippet of calculus above.
-This is a topic for advanced students, and my examples will be chosen accordingly.
-But to provide evidence that the simple-minded approach of making maths
-fun works at other grade levels, I'll give a supplementary
-set of examples for trigonometry.
+I want to suggest two directions we could take, and illustrate them with
+examples.
+Since we've landed in the calculus patch of the scrubland, I'll give
+examples for calculus.
+In section <a href="#sec-4">, I'll give a pre-calculus example.
 
 The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
@@ -685,7 +685,7 @@ Why not tell them where algebra, trigonometry, or calculus
 really come from?
 And show them how powerful these tools are?
 
-#### 3.1. The shrub test <a id="sec-3-1" name="sec-3-1"></a>
+#### 3.1. Shrubs and funnels <a id="sec-3-1" name="sec-3-1"></a>
 
 Before I go on to examples, let's try and clarify what makes these
 word problems bad.
@@ -700,13 +700,15 @@ No one wants to spend hours looking at shrubs.
 If you force them to, in order to pass an exam, they'll resent
 it because you're wasting their time.
 Except for the question about the volume of a cone, all the word
-problems manifestly the shrub test.
-It's hard to imagine anyone reading these unless preparing for a quiz.
+problems above manifestly fail the shrub test.
+It's hard to imagine anyone reading them unless they were desparate
+not to flunk the next quiz.
 
-The fact that I've used "anyone" rather than "everyone" in the shrub
-test is important.
+The shrub test is a pretty low bar.
+All we ask is that *somebody* might conceivably read it for fun.
+But this can lead to another sort of failure, where 
 
-## An elementary example
+## 4. A pre-calculus example <a id="sec-4" name="sec-4"></a>
 
 #### Saddles and spheres
 
@@ -1405,3 +1407,10 @@ sources of mathematical inspiration.
 
 Calculus is a case in point, since Newton invented it to formulate his
 laws of mechanics!
+
+I will give concrete examples, based on the (randomly selected)
+snippet of calculus above.
+This is a topic for advanced students, and my examples will be chosen accordingly.
+But to provide evidence that the simple-minded approach of making maths
+fun works at other grade levels, I'll give a supplementary
+set of examples for trigonometry.
