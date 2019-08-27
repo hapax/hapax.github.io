@@ -831,6 +831,16 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    t_\text{life} = \frac{\rho R_0^2}{2D c_\text{sub} m_\text{N}}.
    $$
 
+8. (Experiment) A single molecule of napthalene weighs around
+	$m_\text{N} = 2.1 \times 10^{-22} \text{ g}$.
+	At room temperature, the surface concentration of napthalene is
+	$c_\text{sub} = 3.3 \times 10^{22} \text{ m}^{-3}$.
+    Buy some moth balls, and measure their initial radius $R_0$ and
+	density $\rho$.
+    Leave them in a cool dry place and see how long they take to
+	disappear, i.e. determine $t_\text{life}$.
+	From problem 7, estimate the diffusion constant for napthalene in air.
+
 ----
 
 #### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
