@@ -874,6 +874,13 @@ other from the vertices of an equilateral triangle of side length $\ell$.
 Missile $1$ is homing in on missile $2$, $2$ on $3$, and $3$ on $1$.
 All travel at fixed speed $v$.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/missiles.png"
+    width="70%" />
+		    <figcaption><i>Three homing missiles lock onto each other.</i></figcaption>
+	</div>
+	</figure>
+
 ----
 
 1. Argue that all three missiles remain on the vertices of an equilateral triangle.
@@ -884,7 +891,7 @@ All travel at fixed speed $v$.
 	Use this to show they collide in time $t_\text{collide} =
 	2\ell/3v$.
 
-4. What is the rate of change of triangle's (a) area and (b) height?
+4. What is the rate of change of the triangle's (a) area and (b) height?
 
 ----
 
