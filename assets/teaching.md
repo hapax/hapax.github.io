@@ -674,15 +674,15 @@ We're still in scrubland, and numbers have been replaced by random objects.
 
 Instead of a dead world of mathematical facts, we should connect
 students to the living, breathing sources of non-mathematical inspiration.
-From compound interest to chaos, planets to poker, and soap bubbles to
-secret codes, mathematics is inspired by real problems.
-Why not let students in on the secret?
-Why not tell them where algebra, trigonometry, logarithms, or calculus
-*really* come from?
 In the same way that the material needs of civilisation spur an explorer
 and frame her quest, the needs of other scientists, industry, and
 everyday life spur mathematicians to go out into world and dig up
 structures fit for purpose.
+From compound interest to chaos, planets to poker, and soap bubbles to
+secret codes, mathematics is inspired by *real problems*.
+Why not let students in on the secret?
+Why not tell them where algebra, trigonometry, logarithms, or calculus
+really come from?
 
 ## An elementary example
 
