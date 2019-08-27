@@ -26,6 +26,8 @@ date:  2019-08-03
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">The real world</a>
+   1. <a href="#sec-3-1">The mean value theorem</a>
+
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -562,9 +564,9 @@ $$
 $$
 
 which [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan)
-seemed to do on a daily basis?
+seemed to produce on a daily basis?
 
-Although Ramanujan's work still strikes me as
+Although Ramanujan still strikes me as
 semi-mystical, many results on infinite series, equally baffling and exciting to
 the outsider, are easy pickings with the long arm of calculus.
 In our case, we'll cook up an infinite series for $\pi$ based on the
@@ -668,7 +670,7 @@ But everything in sight is arbitrary!
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-None of it means anything, or provides any insight.
+None of it means anything, provides any insight, or would .
 We're still in the scrubland, with numbers replaced by random objects.
 
 Instead of a world of lifeless objects, we should connect
@@ -681,7 +683,9 @@ From compound interest to chaos, planets to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, or calculus
-really come from, and show them just how powerful the tools are?
+really come from, and show them how powerful the tools can be?
+
+#### 3.1. Traffice police <a id="sec-3-1" name="sec-3-1"></a>
 
 ## An elementary example
 
