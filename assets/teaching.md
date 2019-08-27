@@ -753,20 +753,42 @@ ball, spreading outward or *diffusing* due to the random movement of the molecul
 
 ---
 
-1. If $c(r)$ is the concentration of gas around the ball as a function
-   of radial distance $r$ from the centre of the ball, what is the amount of gas
-   $C(r)$ in an infinitely thin shell at $r$?
-2. If the gas diffuses very slowly, at any moment in time $C(r)$ is a
-   linear function, since any "lumps" in the distribution of gas will
-   spread out. Argue that
+1. Let $c(r)$ be the concentration of gas (number of molecules) around the ball as a function
+    of radial distance $r$ from the centre.
+	How many molecules $C(r)$ are in a thin spherical shell of radius
+    $r$ and width $w$?
+	("Thin" means you can treat $c(r)$ as constant over the shell.)
+2. The rate at which molecules leave each spherical shell is
+    proportional to the total number of molecules in the shell, and
+    their velocity.
+	Consider two thin shells, one at radius $r$ and another at
+    radius $r + w$.
+	Assuming the velocity of molecules is fixed for all shells,
+    explain why the *net* rate $F$ of molecules leaving the
+    second shell (at radius $r+w$) is proportional to
 
    $$
-   c(r) = \frac{A}{r}
+   F(r+w) \propto \frac{C(r+w)-C(r)}{w}.
    $$
 
-   for $A = c(R)R$, where $R$ is the radius of the moth ball.
+3. By taking the limit of zero width, show that
 
+   $$
+   F(r) = D \frac{dC}{dr},
+   $$
+
+	where $D$ is a constant of proportionality called the *diffusion constant*.
+	
 ---
+
+Since the moth ball is gradually turning into gas, the radius $R(t)$
+depends on time.
+
+----
+
+3. How 
+
+----
 
 #### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
 
