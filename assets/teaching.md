@@ -650,9 +650,9 @@ the landscape and protect them from misadventure.
 A second direction out of the scrubland is *applied mathematics*,
 understood broadly as the use of mathematics to solve problems in the
 real world.
-Unlike beauty, which never gets much of a rhetorical look in, the
-"real world" is bandied about almost recklessly by maths teachers,
-since this is where *word problems* are supposed to live.
+Unlike beauty, which never gets much of a rhetorical look in, the term
+"real world" is bandied about almost recklessly by maths teachers.
+In particular, the "real world" is the home (or perhaps graveyard) of *word problems*.
 Here are some examples from our textbook:
 
 <figure>
@@ -665,47 +665,40 @@ Here are some examples from our textbook:
 We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
 This is promising subject matter: objects in the real world
-that change with time.
-But everything in sight is arbitrary and unmotivated.
+which change with time.
+But everything in sight is arbitrary!
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 We're still in the scrubland, with numbers replaced by random objects.
 
-We should connect
-students to the living, breathing sources of mathematical
-inspiration, rather than the lifeless world of facts and objects found in
-textbooks.
-Maths comes from the real world.
+Maths comes from the real world, and we should connect
+students to its living, breathing sources of inspiration.
 In the same way that the material needs of civilisation spur an explorer
 and frame her quest, the needs of science, industry, and
 everyday life spur mathematicians to go out into the landscape and dig up
-structures fit for purpose.
+structures and patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, or calculus
-really come from, and show them how powerful these tools are?
+really come from?
+And show them how powerful these tools are?
 
 #### 3.1. The shrub test <a id="sec-3-1" name="sec-3-1"></a>
 
-To help clarify what makes these word problems bad, I'd like to
-propose a **shrub test**. It's very simple:
+Before I go on to examples, let's try and clarify what makes these
+word problems bad.
+They fail a very simple test, which I'll call the *shrub test*, namely:
 
 <span style="padding-left: 20px; display:block">
 <i>Would anyone bother to read this in their own time?</i>
 </span>
 
-If not, you have shrubs.
-And shrubs kill interest.
-Note that pretty much *anything* can be a shrub: a problem, a chapter,
-an assignment, a footnote.
-A shrub is anything which wastes someone's time.
-
-This makes the failure of the word problems
-sharper. No one would do the question on the mothballs or the triangle
-for fun. The cone, on the other hand, passes the shrub test, but only
-by virtue of its first part. The second part is pure shrub.
+If not, you have shrubs, and shrubs kill interest.
+No one wants to spend hours looking at shrubs.
+If you force them to do it, in order to pass an exam, they will resent
+it because you're wasting their time.
 
 ## An elementary example
 
