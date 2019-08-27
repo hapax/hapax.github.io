@@ -650,7 +650,7 @@ understood broadly as the use of mathematics to solve problems in the
 real world.
 Unlike beauty, which never gets much of a rhetorical look in, the
 "real world" is bandied about almost recklessly by maths teachers,
-since the real world is where many a dreaded *word problem* is purported to
+since this is where many a dreaded *word problem* is purported to
 live.
 To illustrate, here are some word problems from our textbook:
 
@@ -676,13 +676,13 @@ numbers have been replaced by random objects.
 Instead of choosing random objects in a dead world of mathematical
 facts, we should connect students to the living, breathing sources of
 non-mathematical inspiration.
-From compound interest to the motion of the stars, and soap bubbles to
-the leopard's spots, mathematics is inspired by real problems, and
+From compound interest to chaos, and soap bubbles to
+the secret codes, mathematics is inspired by real problems, and
 provides extraordinarily potent tools to deal with them.
 Why not let students in on the secret?
 Why not tell them where algebea, trigonometry, logarithms, or calculus
-*really* come from, and what problems they solve?
-
+*really* come from?
+And show they 
 
 ## An elementary example
 
