@@ -675,7 +675,7 @@ Instead of a dead world of mathematical facts, we should connect
 students to the living, breathing sources of non-mathematical inspiration.
 In the same way that the material needs of civilisation spur an explorer
 and frame her quest, the needs of other scientists, industry, and
-everyday life spur mathematicians to go out into world and dig up
+everyday life spur mathematicians to go out into the landscape and dig up
 structures fit for purpose.
 From compound interest to chaos, planets to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
