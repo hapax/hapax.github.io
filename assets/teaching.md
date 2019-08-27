@@ -749,6 +749,14 @@ We can then use this information to experimentally determine
 microscopic properties of air, just by waiting to see how long it
 takes for a moth ball to decay!
 
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/moth-ball.png"
+    width="60%" />
+		    <figcaption><i>A moth ball generates a cloud of napthalene
+    as it sublimes.</i></figcaption>
+	</div>
+	</figure>
+
 Moth balls are made out of a chemical called *napthalene*
 ($\text{C}_{10}\text{H}_8$).
 A sphere of napthalene will shrink as the molecules on the surface
