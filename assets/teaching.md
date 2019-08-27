@@ -651,7 +651,7 @@ real world.
 Unlike beauty, which never gets much of a rhetorical look in, the
 "real world" is bandied about almost recklessly by maths teachers,
 since this is where *word problems* are supposed to live.
-Here are some word problems from our textbook:
+Here are some examples from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
