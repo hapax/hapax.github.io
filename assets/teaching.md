@@ -258,9 +258,9 @@ test**, which supersedes the shrub test:
 This is an extremely stringent test, and difficult to implement
 in practice.
 But I think it's the right design principle!
-As with social good, ther should be a trickle up effect where everyone
-becomes more engaged.
-Leaving the scrubland is the first step towards passing the maximin test.
+As with social good, there should be a trickle up effect with more
+engagement across the board.
+And leaving the scrubland is the first step towards passing the maximin test.
 
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
