@@ -682,7 +682,7 @@ provides extraordinarily potent tools to deal with them.
 Why not let students in on the secret?
 Why not tell them where algebea, trigonometry, logarithms, or calculus
 *really* come from?
-And show they 
+Or show them how powerful they really are when they master these tools?
 
 ## An elementary example
 
