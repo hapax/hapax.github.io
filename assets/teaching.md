@@ -680,7 +680,7 @@ From compound interest to chaos, and soap bubbles to
 the secret codes, mathematics is inspired by real problems, and
 provides extraordinarily potent tools to deal with them.
 Why not let students in on the secret?
-Why not tell them where algebea, trigonometry, logarithms, or calculus
+Why not tell them where algebra, trigonometry, logarithms, or calculus
 *really* come from?
 Or show them how powerful they really are when they master these tools?
 
