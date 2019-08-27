@@ -256,8 +256,8 @@ with a gentler slope and a partial view of the summit.
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), and non-trivial examples.
 "Important" and "non-trivial" mean a variety of things, but as Hardy and
-Russell suggest, *beauty* is perhaps the principal criteria.
-Beauty in maths, as in art, is subjective, so we are left the enviable
+Russell suggest, *beauty* is perhaps the principal criterion.
+Beauty in maths, as in art, is subjective, so we are left with the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 I'll give a couple of different examples, "inspired" by the patches of
@@ -672,28 +672,39 @@ What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 We're still in the scrubland, with numbers replaced by random objects.
 
-Instead of random objects, we should connect
-students to the living, breathing sources of non-mathematical inspiration.
+We should connect
+students to the living, breathing sources of mathematical
+inspiration, rather than the lifeless world of facts and objects found in
+textbooks.
+Maths comes from the real world.
 In the same way that the material needs of civilisation spur an explorer
 and frame her quest, the needs of science, industry, and
 everyday life spur mathematicians to go out into the landscape and dig up
 structures fit for purpose.
-From compound interest to chaos, planets to poker, and soap bubbles to
+From compound interest to chaos, planetary motion to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, or calculus
-really come from, and show them how powerful the tools can be?
+really come from, and show them how powerful these tools are?
 
 #### 3.1. The shrub test <a id="sec-3-1" name="sec-3-1"></a>
 
-Before giving examples, I want to propose a concrete test for
-scrubland.
-It's fairly simple:
+To help clarify what makes these word problems bad, I'd like to
+propose a **shrub test**. It's very simple:
 
-<blockquote>
-    <p>Would you bother reading the question if you didn't need to for
-    a test.</p>
-</blockquote>
+<span style="padding-left: 20px; display:block">
+Would anyone bother to read this in their own time?
+</span>
+
+If not, you have shrubs.
+And shrubs
+
+If the only possible motivation to do a problem, or to read a chapter,
+is to pass a class, then you have shrubs. And shrubs kill interest
+... (Something) This makes the failure of the word problems
+sharper. No one would do the question on the mothballs or the triangle
+for fun. The cone, on the other hand, passes the shrub test, but only
+by virtue of its first part. The second part is pure shrub.
 
 ## An elementary example
 
