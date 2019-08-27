@@ -751,7 +751,7 @@ takes for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball.png"
-    width="60%" />
+    width="70%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
 	</div>
