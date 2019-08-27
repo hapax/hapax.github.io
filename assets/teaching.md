@@ -693,7 +693,7 @@ To help clarify what makes these word problems bad, I'd like to
 propose a **shrub test**. It's very simple:
 
 <span style="padding-left: 20px; display:block">
-Would anyone bother to read this in their own time?
+<i>Would anyone bother to read this in their own time?</i>
 </span>
 
 If not, you have shrubs.

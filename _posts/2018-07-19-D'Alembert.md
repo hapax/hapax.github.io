@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Book review: D'Alembert's Principle (Andrew Crumey)"
+title:  "Book review: D'Alembert's Principle"
 categories: [Literature]
 date:   2018-07-19
 ---
