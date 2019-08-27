@@ -697,7 +697,7 @@ They fail a very simple test, which I'll call the *shrub test*, namely:
 
 If not, you have shrubs, and shrubs kill interest.
 No one wants to spend hours looking at shrubs.
-If you force them to do it, in order to pass an exam, they will resent
+If you force them to do it, in order to pass an exam, they'll resent
 it because you're wasting their time.
 
 ## An elementary example
