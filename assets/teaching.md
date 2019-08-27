@@ -597,7 +597,7 @@ $$
 \frac{\alpha\cdot(\alpha-1)\cdots (\alpha-n+1)}{n!}.
 $$
 
-At any rate, now "anti-differentiate" term-by-term:
+Now "anti-differentiate" term-by-term:
 
 $$
 \sin^{-1}x = x + \frac{1}{2}\frac{x^3}{3} + \frac{1\cdot 3}{2\cdot 4} \frac{x^5}{5} +
