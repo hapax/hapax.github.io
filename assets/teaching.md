@@ -795,6 +795,9 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    c(r) = \frac{c(R) R}{r}.
    $$
 
+	Since the rate of sublimation is uniform, the concentration $c(R)=
+    c_\text{sub}$ at the surface of the moth ball is *independent* of $R$.
+
 5. Since the moth ball is gradually turning into gas, the radius
    $R(t)$ depends on time.
    It is a little easier to calculate how the *mass* of the ball changes
@@ -803,7 +806,29 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    $M$ the mass of the moth ball, then
 
    $$
-   \frac{dM}{dt} = -m_\text{N}G(R) = -4 \pi m_\text{N} D c(R) R.
+   \frac{dM}{dt} = -m_\text{N}G(R) = -4 \pi m_\text{N} D c_\text{sub} R.
+   $$
+
+6. If $\rho$ is the mass density of the moth ball, show that we can
+   rewrite the rate of change of mass in problem 5 as a rate of change
+   of radius:
+
+   $$
+   \frac{dR}{dt} = -\frac{D c_\text{sub} m_\text{N}}{\rho R}.
+   $$
+
+7. By explicit differentiation, check that the equation in problem 6
+   is solved by
+
+   $$
+   R(t) = \sqrt{R_0^2 - \left(\frac{2D c_\text{sub} m_\text{N}}{\rho}\right) t}.
+   $$
+
+	where $R_0$ is the radius at time $0$.
+	Infer that the lifetime of the moth ball is
+
+   $$
+   t_\text{life} = \frac{\rho R_0^2}{2D c_\text{sub} m_\text{N}}.
    $$
 
 ----
