@@ -27,8 +27,7 @@ date:  2019-08-03
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">Mining for patterns</a>
-   1. <a href="#sec-3-1">Eh</a>   
-4. <a href="#sec-4">A pre-calculus example</a>
+   1. <a href="#sec-3-1">Sublime moth balls</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -710,12 +709,12 @@ Here are some examples from our textbook:
 	</div>
 	</figure>
 
-We have a shrinking mothball, a growing triangle, and sand being
+We have a shrinking moth ball, a growing triangle, and sand being
 poured into a conical pile.
 This is promising subject matter: objects in the real world
 which change with time.
 But nothing passes the shrub test!
-Why does the mothball decrease at a constant rate?
+Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 We're now in a Dalí-esque scrubland of random objects.
@@ -725,16 +724,21 @@ students to its living, breathing sources of inspiration and
 application.
 They should see where it all comes from!
 In the same way that the material needs of civilisation spur an explorer
-and frame her quest, the needs of *science, industry, and
-everyday life* spur mathematicians to go out into the landscape and dig
+and frame her quest, the needs of science, industry, and
+everyday life spur mathematicians to go out into the landscape and dig
 up patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
-ciphers, mathematics is inspired by these real world needs.
+ciphers, mathematics are inspired by these real world needs.
 Why not let students in on the secret?
+To bring the point home, I'm going to redo the three word problems in turn.
 
-#### 3.1. A preamble <a id="sec-3-1" name="sec-3-1"></a>
+#### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
+
+Moth balls are made out of a chemical called *napthalene* $\text{C}_{10}\text{H}_8$.
 
 ## 4. A pre-calculus example <a id="sec-4" name="sec-4"></a>
+
+4. <a href="#sec-4">A pre-calculus example</a>
 
 In section <a href="#sec-4">, I'll give a pre-calculus example.
 
