@@ -28,6 +28,8 @@ date:  2019-08-03
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
+   2. <a href="#sec-3-2">Growing triangles</a>
+   3. <a href="#sec-3-3">Sandpiles and criticality</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -730,11 +732,35 @@ up patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
 ciphers, mathematics are inspired by these real world needs.
 Why not let students in on the secret?
-To bring the point home, I'm going to redo the three word problems in turn.
+
+There is an even grander secret.
+Almost everything has pattern and structure on which mathematical
+tools can be brought to bear.
+To bring the point home, I'm going to redo each of the three calculus
+word problems above, starting with moth balls.
 
 #### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
-Moth balls are made out of a chemical called *napthalene* $\text{C}_{10}\text{H}_8$.
+Moth balls are made out of a chemical called *napthalene*
+($\text{C}_{10}\text{H}_8$).
+A sphere of napthalene will shrink as the molecules on the surface
+layer *sublime*, i.e. turn directly from solid to gas.
+Assuming the rate of sublimation is uniform over the surface, the moth
+ball remains approximately spherical.
+
+The sublimed napthalene forms a spherical cloud of gas around the moth
+ball, spreading outward due to the random movement of the molecules.
+
+---
+
+1. If $c(r)$ is the concentration of gas as a function of distance
+from the centre of the ball,
+
+---
+
+#### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
+
+#### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
 ## 4. A pre-calculus example <a id="sec-4" name="sec-4"></a>
 
