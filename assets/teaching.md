@@ -697,11 +697,12 @@ propose a **shrub test**. It's very simple:
 </span>
 
 If not, you have shrubs.
-And shrubs
+And shrubs kill interest.
+Note that pretty much *anything* can be a shrub: a problem, a chapter,
+an assignment.
+The shrub test is meant to be a helpful guide for 
 
-If the only possible motivation to do a problem, or to read a chapter,
-is to pass a class, then you have shrubs. And shrubs kill interest
-... (Something) This makes the failure of the word problems
+This makes the failure of the word problems
 sharper. No one would do the question on the mothballs or the triangle
 for fun. The cone, on the other hand, passes the shrub test, but only
 by virtue of its first part. The second part is pure shrub.
