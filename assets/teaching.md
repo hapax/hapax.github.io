@@ -869,9 +869,9 @@ related rates calculations, analytically similar to the original but
 
 Our next problem, a variant of the changing triangle, is from
 [Igor Irodov's book on general physics](https://archive.org/details/IrodovProblemsInGeneralPhysics).
-Imagine that three homing missiles are fired at each
+Imagine that three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle of side length $\ell$.
-Missile $1$ is homing in on missile $2$, $2$ on $3$, and $3$ on $1$.
+Missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and $M_3$ on $M_1$.
 All travel at fixed speed $v$.
 
 <figure>
