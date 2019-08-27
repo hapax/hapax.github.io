@@ -749,36 +749,51 @@ Assuming the rate of sublimation is uniform over the surface, the moth
 ball remains approximately spherical.
 
 The sublimed napthalene forms a spherical cloud of gas around the moth
-ball, spreading outward or *diffusing* due to the random movement of the molecules.
+ball, spreading outward or *diffusing* due to the random motion of the molecules.
+Let $c(r)$ be the concentration of gas (number of
+molecules per unit volume) around the ball, defined as a function of
+radial distance $r$ from the ball's centre.
+For a very thin spherical shell of width $w$ (where $c$ is effectively
+constant over the shell), the rate at which molecules diffuse out of
+the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ---
 
-1. Let $c(r)$ be the concentration of gas (number of molecules) around the ball as a function
-    of radial distance $r$ from the centre.
-	How many molecules $C(r)$ are in a thin spherical shell of radius
-    $r$ and width $w$?
-	("Thin" means you can treat $c(r)$ as constant over the shell.)
-2. The rate at which molecules leave each spherical shell is
-    proportional to the total number of molecules in the shell, and
-    their velocity.
-	Consider two thin shells, one at radius $r$ and another at
+1. Consider two thin shells, one at radius $r$ and another at
     radius $r + w$.
 	Assuming the velocity of molecules is fixed for all shells,
     explain why the *net* rate $F$ of molecules leaving the
-    second shell (at radius $r+w$) is proportional to
+    second shell (at radius $r+w$), per unit area, is proportional to
 
    $$
-   F(r+w) \propto \frac{C(r+w)-C(r)}{w}.
+   F(r+w) \propto \frac{c(r+W)-c(r)}{w}.
    $$
 
-3. By taking the limit of zero width, show that
+2. By taking the limit of zero width, show that the
+   net outward flow of molecules from the shell at radius $r$ is
 
    $$
-   F(r) = D \frac{dC}{dr},
+   F(r) = D \frac{dc(r)}{dr},
    $$
 
-	where $D$ is a constant of proportionality called the *diffusion constant*.
-	
+	where $D>0$ is a constant of proportionality called the *diffusion
+    constant*.
+
+3. Suppose the napthalene cloud diffuses very slowly, with a steady
+   outward flow of molecules. Argue that the function
+
+   $$
+   G(r) = 4\pi r^2 F(r)
+   $$
+
+   is constant.
+
+4. Let $R$ be the radius of the moth ball. From problem 3, deduce that
+
+   $$
+   c(r) = \frac{c(R) R}{r}.
+   $$
+
 ---
 
 Since the moth ball is gradually turning into gas, the radius $R(t)$
