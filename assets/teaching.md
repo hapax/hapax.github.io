@@ -26,7 +26,7 @@ date:  2019-08-03
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">The real world</a>
-   1. <a href="#sec-3-1">The mean value theorem</a>
+   1. <a href="#sec-3-1">The shrub test</a>
 
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -537,11 +537,11 @@ scourge of functions with no derivatives".
 But the moral is that, by trying to break theorems, ask bold
 questions, and follow loose
 threads, we often find something amazing lurking in the undergrowth.
-In their own way, these monsters are beautiful.
+In their own way, monsters can be beautiful.
 
 #### 2.3. Slice of pi <a id="sec-2-3" name="sec-2-3"></a>
 
-I will do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
+I'll do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
 This requires a little more symbolic facility from students, but the
 payoff is a beautiful infinite series identity.
 On a broader note, I think infinite series are one of the great
@@ -577,7 +577,7 @@ $$
 \frac{d}{dx} \sin^{-1} x = (1-x^2)^{-1/2}.
 $$
 
-The derivative on the RHS can be expanded using the
+The RHS can be expanded using the
 [binomial series](https://en.wikipedia.org/wiki/Binomial_series):
 
 $$
@@ -666,14 +666,13 @@ We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
 This is promising subject matter: objects in the real world
 that change with time.
-But everything in sight is arbitrary!
+But everything in sight is arbitrary and unmotivated.
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-None of it means anything, provides any insight, or would .
 We're still in the scrubland, with numbers replaced by random objects.
 
-Instead of a world of lifeless objects, we should connect
+Instead of random objects, we should connect
 students to the living, breathing sources of non-mathematical inspiration.
 In the same way that the material needs of civilisation spur an explorer
 and frame her quest, the needs of science, industry, and
@@ -685,7 +684,16 @@ Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, or calculus
 really come from, and show them how powerful the tools can be?
 
-#### 3.1. Traffice police <a id="sec-3-1" name="sec-3-1"></a>
+#### 3.1. The shrub test <a id="sec-3-1" name="sec-3-1"></a>
+
+Before giving examples, I want to propose a concrete test for
+scrubland.
+It's fairly simple:
+
+<blockquote>
+    <p>Would you bother reading the question if you didn't need to for
+    a test.</p>
+</blockquote>
 
 ## An elementary example
 
