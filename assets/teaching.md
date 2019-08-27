@@ -563,13 +563,13 @@ $$
 
 which [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan)
 seemed to do on a daily basis?
+
 Although Ramanujan's work still strikes me as
 semi-mystical, many results on infinite series, equally baffling and exciting to
 the outsider, are low-hanging fruit with calculus at our disposal.
-
-We will find an infinite series for $\pi$ based on inverse sine (first
-discovered by Isaac Newton).
-First, we recall the derivative:
+In our case, we'll cook up an infinite series for $\pi$ based on the
+inverse sine.
+First, recall the derivative:
 
 $$
 \frac{d}{dx} \sin^{-1} x = (1-x^2)^{-1/2}.
