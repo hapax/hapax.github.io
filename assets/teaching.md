@@ -650,14 +650,13 @@ understood broadly as the use of mathematics to solve problems in the
 real world.
 Unlike beauty, which never gets much of a rhetorical look in, the
 "real world" is bandied about almost recklessly by maths teachers,
-since this is where many a dreaded *word problem* is purported to
-live.
+and this is where many a dreaded *word problem* stalks its prey.
 To illustrate, here are some word problems from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
     width="80%" />
-		    <figcaption><i>Real world problems?</i></figcaption>
+		    <figcaption><i>Here be word problems.</i></figcaption>
 	</div>
 	</figure>
 
