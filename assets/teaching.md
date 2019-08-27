@@ -671,7 +671,9 @@ $$
 $$
 
 The series converges rapidly to $\pi/6$, as students can confirm
-numerically. Newton used this formula to calculate $\pi$ to 15 decimal places.
+numerically. Newton used this formula to calculate $\pi$ to 15 decimal
+places.
+They can try this feat themselves!
 
 To arrive at this point, we have thrown rigour to the wind, ignoring
 the radius of the power series and the uniform convergence of the sum
