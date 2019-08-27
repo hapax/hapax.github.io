@@ -243,13 +243,14 @@ textbook:
 
 This looks different from the earlier patch of scrubland until you
 notice these are more or less the *same* questions with letters
-replacing numbers. The shrubs are painted blue, but they are still shrubs.
+replacing numbers. The shrubs are painted blue, but they are still
+shrubs.
+
 Instead of dressing up shrubs, we should find a mountain to scale.
 Now, some mountains can only be scaled by professionals.
 But we don't always need to scale a mountain to appreciate important
 results; with a bit of ingenuity, we can usually find a nearby hill
 with a gentler slope and a partial view of the summit.
-
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), and non-trivial examples.
 "Important" and "non-trivial" mean a variety of things, but as Hardy and
@@ -648,14 +649,16 @@ A second direction out of the scrubland is *applied mathematics*,
 understood broadly as the use of mathematics to solve problems in the
 real world.
 Unlike beauty, which never gets much of a rhetorical look in, the
-"real world" is bandied about almost recklessly, since the real world
-where many *word problems* are purported to live.
+"real world" is bandied about almost recklessly by maths teachers,
+since the real world is where many *word problems* are purported to
+live.
+
 To illustrate, here are some word problems from our textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
     width="80%" />
-		    <figcaption><i>"World" problems.</i></figcaption>
+		    <figcaption><i>Real world problems?</i></figcaption>
 	</div>
 	</figure>
 
@@ -663,11 +666,28 @@ We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
 These questions have promise: they're about objects in the real world
 which change with time.
-But because the objects are chosen arbitrarily, and the questions are
-uninsightful, they feel contrived and lifeless.
-We're still in a scrubland of unmotivated drill, where instead of
-replacing numbers with letters, we've replaced them with words about
-randomly chosen objects.
+But they don't deliver on that promise, since everything in sight is arbitrary!
+Why does the mothball decrease at a constant rate?
+What causes the triangle to get bigger?
+Why is the conical angle of the sand pile precisely $71.57^\circ$?
+None of it means anything, or provides insight.
+We're still in a scrubland of lifeless, unmotivated drill, where
+numbers have been replaced by random objects.
+How can we do better?
+
+The natural world isn't just beautiful; it's also chock full of
+resources, from basic things like air and food and shelter, to rarer
+materials like gold or petroleum.
+Similarly, the mathematical world is full of resources.
+And in the same way that the material needs of civilisation can
+inspire the explorer and shape her quest, the needs of other
+scientists have long been a source of inspiration for mathematics.
+Instead of writing confusing problems about random objects in a world
+of dead facts, we should connect students to the living, breathing
+sources of mathematical inspiration.
+
+Calculus is a case in point, since Newton invented it to formulate his
+laws of mechanics!
 
 ## An elementary example
 
@@ -1349,3 +1369,8 @@ little cardboard sign saying "real world".
 
 since it's the lair
 of many a dreaded *word problem*.
+
+But the objects and the numbers are chosen arbitrarily, and the questions are uninsightful, they feel contrived and lifeless.
+We're still in a scrubland of unmotivated drill, where instead of
+replacing numbers with letters, we've replaced them with words about
+randomly chosen objects.
