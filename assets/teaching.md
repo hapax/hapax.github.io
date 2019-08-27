@@ -28,7 +28,7 @@ date:  2019-08-03
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
-   2. <a href="#sec-3-2">Growing triangles</a>
+   2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sandpiles and criticality</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -734,7 +734,7 @@ ciphers, mathematics are inspired by these real world needs.
 Why not let students in on the secret?
 
 There is an even grander secret.
-Almost everything has pattern and structure on which mathematical
+*Almost everything* has pattern and structure on which mathematical
 tools can be brought to bear.
 For maximum rhetorical impact, I'm going to show this by redoing each
 of the three calculus word problems above.
@@ -749,7 +749,7 @@ Students can use this information to experimentally determine
 microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/moth-ball.png"
+    <div style="text-align:center"><img src ="/images/posts/moth-ball2.png"
     width="70%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
@@ -865,7 +865,28 @@ out what needs to be calculated, we are left with some reasonably simple
 related rates calculations, analytically similar to the original but
 (I hope) less shrubby.
 
-#### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
+
+Our next problem, a variant of the changing triangle, is from
+[Igor Irodov's book on general physics](https://archive.org/details/IrodovProblemsInGeneralPhysics).
+Imagine that three homing missiles are fired at each
+other from the vertices of an equilateral triangle of side length $\ell$.
+Missile $1$ is homing in on missile $2$, $2$ on $3$, and $3$ on $1$.
+All travel at fixed speed $v$.
+
+----
+
+1. Argue that all three missiles remain on the vertices of an equilateral triangle.
+
+2. Using problem 1, explain why the angle between the velocities of the missiles is always $\pi/3$.
+
+3. From the perspective of missile $1$, how fast is missile $2$ moving towards it?
+	Use this to show they collide in time $t_\text{collide} =
+	2\ell/3v$.
+
+4. What is the rate of change of triangle's (a) area and (b) height?
+
+----
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
