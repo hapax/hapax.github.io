@@ -670,24 +670,14 @@ But they don't deliver on that promise, since everything in sight is arbitrary!
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-None of it means anything, or provides insight.
+None of it means anything, or provides any insight.
 We're still in a scrubland of lifeless, unmotivated drill, where
 numbers have been replaced by random objects.
-How can we do better?
 
-The natural world isn't just beautiful; it's also chock full of
-resources, from basic things like air and food and shelter, to rarer
-materials like gold or petroleum.
-Similarly, the mathematical world is full of resources.
-And in the same way that the material needs of civilisation can
-inspire the explorer and shape her quest, the needs of other
-scientists have long been a source of inspiration for mathematics.
-Instead of writing confusing problems about random objects in a world
-of dead facts, we should connect students to the living, breathing
-sources of mathematical inspiration.
-
-Calculus is a case in point, since Newton invented it to formulate his
-laws of mechanics!
+Instead of choosing random objects in a dead world of mathematical
+facts, we should connect students to the living, breathing sources of
+non-mathematical inspiration.
+From compound interest to the motion of the stars, 
 
 ## An elementary example
 
@@ -1374,3 +1364,17 @@ But the objects and the numbers are chosen arbitrarily, and the questions are un
 We're still in a scrubland of unmotivated drill, where instead of
 replacing numbers with letters, we've replaced them with words about
 randomly chosen objects.
+
+The natural world isn't just beautiful; it's also chock full of
+resources, from basic things like air and food and shelter, to rarer
+materials like gold or petroleum.
+Similarly, the mathematical world is full of resources.
+And in the same way that the material needs of civilisation can
+inspire the explorer and shape her quest, the needs of other
+scientists have long been a source of inspiration for mathematics.
+Instead of writing confusing problems about random objects in a world
+of dead facts, we should connect students to the living, breathing
+sources of mathematical inspiration.
+
+Calculus is a case in point, since Newton invented it to formulate his
+laws of mechanics!
