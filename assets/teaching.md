@@ -737,9 +737,17 @@ There is an even grander secret.
 Almost everything has pattern and structure on which mathematical
 tools can be brought to bear.
 To bring the point home, I'm going to redo each of the three calculus
-word problems above, starting with moth balls.
+word problems above.
 
 #### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
+
+We start with moth balls. I'll adapt and simplify the lovely article by
+[Tennakone and Pieris (1978)](https://eric.ed.gov/?id=EJ180235).
+We'll see how the size of spherical moth balls really changes with
+time.
+We can then use this information to experimentally determine
+microscopic properties of air, just by waiting to see how long it
+takes for a moth ball to decay!
 
 Moth balls are made out of a chemical called *napthalene*
 ($\text{C}_{10}\text{H}_8$).
