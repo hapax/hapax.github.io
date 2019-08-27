@@ -679,10 +679,11 @@ and frame her quest, the needs of other scientists, industry, and
 everyday life spur mathematicians to go out into world and dig up
 structures fit for purpose.
 From compound interest to chaos, planets to poker, and soap bubbles to
-secret codes, mathematics is inspired by *real problems*.
+secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
 Why not tell them where algebra, trigonometry, logarithms, or calculus
 really come from?
+And show them why the tools are powerful and fit for purpose?
 
 ## An elementary example
 
