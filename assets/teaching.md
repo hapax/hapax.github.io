@@ -745,9 +745,8 @@ We start with moth balls, adapting and simplifying the lovely article by
 [Tennakone and Pieris (1978)](https://eric.ed.gov/?id=EJ180235).
 We'll see how the size of spherical moth balls really changes with
 time.
-We can then use this information to experimentally determine
-microscopic properties of air, just by waiting to see how long it
-takes for a moth ball to decay!
+Students can use this information to experimentally determine
+microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball.png"
@@ -859,15 +858,15 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ----
 
+This is obviously longer and more conceptually challenging than the
+original moth ball question.
+But the physics and chemistry has been "precomputed"; the remaining
+blanks are mathematical, and analytically speaking, not much harder
+than the original problem.
+
 #### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
-
-## 4. A pre-calculus example <a id="sec-4" name="sec-4"></a>
-
-4. <a href="#sec-4">A pre-calculus example</a>
-
-In section <a href="#sec-4">, I'll give a pre-calculus example.
 
 #### Saddles and spheres
 
