@@ -859,10 +859,11 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 ----
 
 This is obviously longer and more conceptually challenging than the
-original moth ball question.
-But the physics and chemistry has been "precomputed"; the remaining
-blanks are mathematical, and analytically speaking, not much harder
-than the original problem.
+first moth ball question.
+But the physics and chemistry has been "precomputed"; after sorting
+out what needs to be calculated, we are left with some reasonably simple
+related rates calculations, analytically similar to the original but
+(I hope) less shrubby.
 
 #### 3.2. Growing triangles <a id="sec-3-2" name="sec-3-2"></a>
 
