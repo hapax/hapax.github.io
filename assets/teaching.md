@@ -669,20 +669,20 @@ Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 None of it means anything, or provides any insight.
-We're still in the scrubland, and numbers have been replaced by random objects.
+We're still in the scrubland, with numbers replaced by random objects.
 
-Instead of a dead world of mathematical facts, we should connect
+Instead of a world of lifeless objects, we should connect
 students to the living, breathing sources of non-mathematical inspiration.
 In the same way that the material needs of civilisation spur an explorer
-and frame her quest, the needs of other scientists, industry, and
+and frame her quest, the needs of science, industry, and
 everyday life spur mathematicians to go out into the landscape and dig up
 structures fit for purpose.
 From compound interest to chaos, planets to poker, and soap bubbles to
 secret codes, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
-Why not tell them where algebra, trigonometry, logarithms, or calculus
+Why not tell them where algebra, trigonometry, or calculus
 really come from?
-And show them why the tools are powerful and fit for purpose?
+And show them just how powerful the tools are, applied in the real world!
 
 ## An elementary example
 
