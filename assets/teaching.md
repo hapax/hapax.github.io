@@ -26,7 +26,7 @@ date:  2019-08-03
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
-3. <a href="#sec-3">Mining for structures</a>
+3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Eh</a>   
 4. <a href="#sec-4">A pre-calculus example</a>
 
@@ -693,7 +693,7 @@ Instead, as I've tried to show in the preceding examples, visual aids,
 heuristics, and numerical evidence can be used to orient students in
 the landscape and protect them from misadventure.
 
-## 3. Mining for structures <a id="sec-3" name="sec-3"></a>
+## 3. Mining for patterns <a id="sec-3" name="sec-3"></a>
 
 A second direction out of the scrubland is *applied mathematics*,
 understood broadly as the use of mathematics to solve problems in the
