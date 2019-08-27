@@ -770,7 +770,8 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    $$
 
 2. By taking the limit of zero width, show that the
-   net outward flow of molecules from the shell at radius $r$ is
+   net outward flow of molecules from the shell at radius $r$, per
+   unit area, is
 
    $$
    F(r) = D \frac{dc(r)}{dr},
@@ -802,7 +803,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    $M$ the mass of the moth ball, then
 
    $$
-   \frac{dM}{dt} = -m_\text{N}G(R).
+   \frac{dM}{dt} = -m_\text{N}G(R) = -4 \pi m_\text{N} D c(R) R.
    $$
 
 ----
