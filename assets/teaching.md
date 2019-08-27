@@ -21,12 +21,13 @@ date:  2019-08-03
    1. <a href="#sec-1-1">A preamble</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
    3. <a href="#sec-1-3">Roads to nowhere</a>
+   4. <a href="#sec-1-4">Shrubs and maximin</a>
 2. <a href="#sec-2">Views of the summit</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
    3. <a href="#sec-2-3">Slice of pi</a>
 3. <a href="#sec-3">The real world</a>
-   1. <a href="#sec-3-1">The shrub test</a>
+   1. <a href="#sec-3-1">Eh</a>   
 4. <a href="#sec-4">A pre-calculus example</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -196,8 +197,8 @@ scrubland, and maybe ride around in a pickup truck painting shrubs different
 colours, than to chart a new course into the mathematical world.
 That would take time, money, and vision, and these are perennially in
 short supply.
-(I'll discuss some of the pedagogical assumptions underlying the
-scrubland in <a href="#sec-3-1">.)
+(There is the thornier pedagogical issue of fairness, which I discuss
+in the next section.)
 
 But good mathematical skills are important to society as a whole.
 I'm not talking about basic numeracy, e.g. the ability to calculate a
@@ -212,13 +213,60 @@ know the landscape and use the trails.
 Together, they can move mathematics out of the scrubland, and into the 21st
 century with all its challenges and complexities.
 
+#### 1.4. Shrubs and maximin <a id="sec-1-4" name="sec-1-4"></a>
+
+What makes the questions above bad?
+They fail a very simple check, which I'll call the **shrub test**:
+
+<span style="padding-left: 20px; display:block">
+<i>Would anyone bother to read this in their own time?</i>
+</span>
+
+If not, you have shrubs, and shrubs kill interest.
+No one wants to spend hours looking at shrubs.
+If you force them to, in order to pass an exam, they'll resent
+it because you're wasting their time.
+
+The shrub test is a pretty low bar.
+All we ask is that *somebody* might conceivably read it for fun.
+And this leads to a different failure mode: when questions only appeal
+to a minority of students.
+I think this is the pedagogical "wisdom" behind the scrubland: write
+material which is *uniformly unappealing* so that nobody is left out.
+We can all share in the joy of looking at shrubs.
+
+How do we pass the shrub test but remain fair to students?
+I think we should borrow some ideas from political theory.
+American philosopher
+[John Rawls](https://en.wikipedia.org/wiki/John_Rawls) was the
+pre-eminent thinker on *fairness* in a political context.
+Instead of using average utility (roughly, "personal good") as an
+organising social principle, he
+suggests the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
+maximise the outcomes for those who are least well-off.
+He argues there should be a sort of "trickle up" effect where everyone
+benefits, but from a game theory perspective, this is the right
+strategy when you have extreme uncertainty.
+
+For maths teaching, I'd like to propose a similar **maximin
+test**, which supersedes the shrub test:
+
+<span style="padding-left: 20px; display:block">
+<i>Would the least-engaged students bother to read this in their own time?</i>
+</span>
+
+This is an extremely stringent test, and difficult to implement
+in practice.
+But I think it's the right design principle!
+As with social good, ther should be a trickle up effect where everyone
+becomes more engaged.
+Leaving the scrubland is the first step towards passing the maximin test.
+
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
-I want to suggest two directions we could take, and illustrate them with
-examples.
-Since we've landed in the calculus patch of the scrubland, I'll give
-examples for calculus.
-In section <a href="#sec-4">, I'll give a pre-calculus example.
+I want to suggest two directions out of the scrubland.
+Since we're currently in the scrubland of calculus, I'll illustrate
+with examples for calculus.
 
 The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
@@ -260,8 +308,6 @@ Russell suggest, *beauty* is perhaps the principal criterion.
 Beauty in maths, as in art, is subjective, so we are left with the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
-I'll give a couple of different examples, "inspired" by the patches of
-scrubland we've seen so far.
 
 #### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
@@ -685,30 +731,11 @@ Why not tell them where algebra, trigonometry, or calculus
 really come from?
 And show them how powerful these tools are?
 
-#### 3.1. Shrubs and funnels <a id="sec-3-1" name="sec-3-1"></a>
-
-Before I go on to examples, let's try and clarify what makes these
-word problems bad.
-They fail a very simple test, which I'll call the **shrub test**, namely:
-
-<span style="padding-left: 20px; display:block">
-<i>Would anyone bother to read this in their own time?</i>
-</span>
-
-If not, you have shrubs, and shrubs kill interest.
-No one wants to spend hours looking at shrubs.
-If you force them to, in order to pass an exam, they'll resent
-it because you're wasting their time.
-Except for the question about the volume of a cone, all the word
-problems above manifestly fail the shrub test.
-It's hard to imagine anyone reading them unless they were desparate
-not to flunk the next quiz.
-
-The shrub test is a pretty low bar.
-All we ask is that *somebody* might conceivably read it for fun.
-But this can lead to another sort of failure, where 
+#### 3.1. A preamble <a id="sec-3-1" name="sec-3-1"></a>
 
 ## 4. A pre-calculus example <a id="sec-4" name="sec-4"></a>
+
+In section <a href="#sec-4">, I'll give a pre-calculus example.
 
 #### Saddles and spheres
 
