@@ -741,7 +741,7 @@ of the three calculus word problems above.
 
 #### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
-We start with moth balls. I'll adapt and simplify the lovely article by
+We start with moth balls, adapting and simplifying the lovely article by
 [Tennakone and Pieris (1978)](https://eric.ed.gov/?id=EJ180235).
 We'll see how the size of spherical moth balls really changes with
 time.
