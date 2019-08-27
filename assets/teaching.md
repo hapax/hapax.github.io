@@ -736,8 +736,8 @@ Why not let students in on the secret?
 There is an even grander secret.
 Almost everything has pattern and structure on which mathematical
 tools can be brought to bear.
-To bring the point home, I'm going to redo each of the three calculus
-word problems above.
+For maximum rhetorical impact, I'm going to show this by redoing each
+of the three calculus word problems above.
 
 #### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
