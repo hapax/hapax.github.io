@@ -669,7 +669,7 @@ Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
 None of it means anything, or provides any insight.
-We're still in scrubland, and numbers have been replaced by random objects.
+We're still in the scrubland, and numbers have been replaced by random objects.
 
 Instead of a dead world of mathematical facts, we should connect
 students to the living, breathing sources of non-mathematical inspiration.
