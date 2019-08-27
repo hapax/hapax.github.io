@@ -749,12 +749,22 @@ Assuming the rate of sublimation is uniform over the surface, the moth
 ball remains approximately spherical.
 
 The sublimed napthalene forms a spherical cloud of gas around the moth
-ball, spreading outward due to the random movement of the molecules.
+ball, spreading outward or *diffusing* due to the random movement of the molecules.
 
 ---
 
-1. If $c(r)$ is the concentration of gas as a function of distance
-from the centre of the ball,
+1. If $c(r)$ is the concentration of gas around the ball as a function
+   of radial distance $r$ from the centre of the ball, what is the amount of gas
+   $C(r)$ in an infinitely thin shell at $r$?
+2. If the gas diffuses very slowly, at any moment in time $C(r)$ is a
+   linear function, since any "lumps" in the distribution of gas will
+   spread out. Argue that
+
+   $$
+   c(r) = \frac{A}{r}
+   $$
+
+   for $A = c(R)R$, where $R$ is the radius of the moth ball.
 
 ---
 
