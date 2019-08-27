@@ -699,8 +699,8 @@ propose a **shrub test**. It's very simple:
 If not, you have shrubs.
 And shrubs kill interest.
 Note that pretty much *anything* can be a shrub: a problem, a chapter,
-an assignment.
-In fact, the shrub test can be applied rather broadly, but 
+an assignment, a footnote.
+A shrub is anything which wastes someone's time.
 
 This makes the failure of the word problems
 sharper. No one would do the question on the mothballs or the triangle
