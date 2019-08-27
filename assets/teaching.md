@@ -750,7 +750,7 @@ microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball2.png"
-    width="70%" />
+    width="60%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
 	</div>
@@ -876,7 +876,7 @@ All travel at fixed speed $v$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/missiles.png"
-    width="70%" />
+    width="60%" />
 		    <figcaption><i>Three homing missiles lock onto each other.</i></figcaption>
 	</div>
 	</figure>
