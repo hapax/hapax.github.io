@@ -706,7 +706,7 @@ Here are some examples from our textbook:
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist3.png"
     width="80%" />
-		    <figcaption><i>Here be word problems.</i></figcaption>
+		    <figcaption><i>Problems from the real world?</i></figcaption>
 	</div>
 	</figure>
 
@@ -714,24 +714,23 @@ We have a shrinking mothball, a growing triangle, and sand being
 poured into a conical pile.
 This is promising subject matter: objects in the real world
 which change with time.
-But everything in sight is arbitrary!
+But nothing passes the shrub test!
 Why does the mothball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-We're still in the scrubland, with numbers replaced by random objects.
+We're now in a Dalí-esque scrubland of random objects.
 
 Maths comes from the real world, and we should connect
-students to its living, breathing sources of inspiration.
+students to its living, breathing sources of inspiration and
+application.
+They should see where it all comes from!
 In the same way that the material needs of civilisation spur an explorer
-and frame her quest, the needs of science, industry, and
-everyday life spur mathematicians to go out into the landscape and dig up
-structures and patterns fit for purpose.
+and frame her quest, the needs of *science, industry, and
+everyday life* spur mathematicians to go out into the landscape and dig
+up patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
-secret codes, mathematics is inspired by these real world needs.
+ciphers, mathematics is inspired by these real world needs.
 Why not let students in on the secret?
-Why not tell them where algebra, trigonometry, or calculus
-really come from?
-And show them how powerful these tools are?
 
 #### 3.1. A preamble <a id="sec-3-1" name="sec-3-1"></a>
 
@@ -1443,3 +1442,7 @@ This is a topic for advanced students, and my examples will be chosen accordingl
 But to provide evidence that the simple-minded approach of making maths
 fun works at other grade levels, I'll give a supplementary
 set of examples for trigonometry.
+
+Why not tell them where algebra, trigonometry, or calculus
+really come from?
+And show them how powerful these tools are?
