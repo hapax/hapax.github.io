@@ -689,7 +689,7 @@ And show them how powerful these tools are?
 
 Before I go on to examples, let's try and clarify what makes these
 word problems bad.
-They fail a very simple test, which I'll call the *shrub test*, namely:
+They fail a very simple test, which I'll call the **shrub test**, namely:
 
 <span style="padding-left: 20px; display:block">
 <i>Would anyone bother to read this in their own time?</i>
@@ -697,8 +697,14 @@ They fail a very simple test, which I'll call the *shrub test*, namely:
 
 If not, you have shrubs, and shrubs kill interest.
 No one wants to spend hours looking at shrubs.
-If you force them to do it, in order to pass an exam, they'll resent
+If you force them to, in order to pass an exam, they'll resent
 it because you're wasting their time.
+Except for the question about the volume of a cone, all the word
+problems manifestly the shrub test.
+It's hard to imagine anyone reading these unless preparing for a quiz.
+
+The fact that I've used "anyone" rather than "everyone" in the shrub
+test is important.
 
 ## An elementary example
 
