@@ -935,12 +935,11 @@ This allows us to actually work out the curves!
     and set $\alpha = 0$, to find that
 
    $$
-   \begin{equation}
-   f(\varphi) = -f'(\varphi) c'(0).\label{self2}
-   \end{equation}
+   f(\varphi) = -f'(\varphi) c'(0).
    $$
 
-7. Verify directly (or solve a separable DE to show) that (\ref{self2}) is
+7. Verify directly (or solve a separable DE to show) that this
+   equation is
    solved by
 
    $$
@@ -966,7 +965,7 @@ This allows us to actually work out the curves!
     *Hint*. The derivative $r'(\varphi)$ at $\varphi = 0$ tells us the
     direction the missile points.
 
-9. (Bonus) Determine the spirals for a polygon of homing missiles.
+9. (Bonus) Determine the spirals for a polygon of $n$ homing missiles.
 
 ---
 
