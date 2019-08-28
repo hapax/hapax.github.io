@@ -891,8 +891,7 @@ in [Igor Irodov's](https://en.wikipedia.org/wiki/Igor_Irodov)
 and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by [Martin Gardner](https://en.wikipedia.org/wiki/Martin_gardner).
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle.
-The triangle has side length
-$\ell$, with missile $M_1$ homing in on $M_2$, $M_2$ on $M_3$, and
+The triangle has side $\ell$, and missile $M_1$ homes in on $M_2$, $M_2$ on $M_3$, and
 $M_3$ on $M_1$.
 
 <figure>
