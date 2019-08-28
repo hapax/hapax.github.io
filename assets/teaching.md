@@ -968,7 +968,7 @@ This allows us to actually work out the curves!
    f(\phi) = C e^{-c'(0)\phi}
    $$
 
-   for any constant $C$.
+   for some constant $C$.
    Thus, any self-similar curve in polar coordinates takes the form of
    a *logarithmic spiral*,
 
