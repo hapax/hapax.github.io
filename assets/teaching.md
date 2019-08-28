@@ -979,15 +979,16 @@ from self-similarity, and determining parameters for the path of
 the missiles.
 On a historical note, Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
-called this curve the *spira mirabilis* (miraculous spiral) since he
+called this curve the *spira mirabilis* (marvellous spiral) since he
 was so struck by its property of self-similarity.
-His gravestone even refers to it, bearing the enigmatic Latin phrase
+His gravestone even refers to it, bearing the enigmatic Latin phrase:
 
 <span style="padding-left: 20px; display:block">
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-Tragically, an Archimedean spiral, rather than a logarithmic spiral, was erroneously carved next to this saying.
+In an unfortunate snafu, an Archimedean rather than a logarithmic
+spiral was carved next to it.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
