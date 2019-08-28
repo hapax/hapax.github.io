@@ -931,12 +931,12 @@ fact about the path of the missiles: it is *self-similar*, in the
 sense that as we zoom in, the shape is the same.
 Set up polar coordinates $(r, \phi)$ with the origin at the centre of
 the danger zone.
-A path $r = f(\varphi)$ in polar coordinates is self-similar if
+A path $r = f(\phi)$ in polar coordinates is self-similar if
 zooming in (multipling $r$ by a constant) only shifts the angle:
 
 $$
 \begin{equation}
-\alpha r = f(\varphi - c),\label{self}
+\alpha r = f(\phi - c),\label{self}
 \end{equation}
 $$
 
@@ -949,7 +949,7 @@ This allows us to actually work out the curves!
     and set $\alpha = 0$, to find that
 
    $$
-   f(\varphi) = -f'(\varphi) c'(0).
+   f(\phi) = -f'(\phi) c'(0).
    $$
 
 7. Verify directly (or solve a separable DE to show) that this
@@ -957,7 +957,7 @@ This allows us to actually work out the curves!
    solved by
 
    $$
-   f(\varphi) = C e^{-c'(0)\varphi}
+   f(\phi) = C e^{-c'(0)\phi}
    $$
 
    for any constant $C$.
@@ -965,18 +965,18 @@ This allows us to actually work out the curves!
    a *logarithmic spiral*,
 
    $$
-   r = C e^{-k\varphi},
+   r = C e^{-k\phi},
    $$
 
    for constants $C$ and $k$.
 
 8. Choose coordinates so that the missiles initially lie at angles
-    $\varphi = 0, \pi/3, 2\pi/3$.
-	Show that the curve associated to the first missile (at $\varphi =
+    $\phi = 0, \pi/3, 2\pi/3$.
+	Show that the curve associated to the first missile (at $\phi =
     0$) is a logarithmic spiral with $C = \ell/\sqrt{3}$ and $k =
     \sqrt{3}$.
 
-    *Hint*. The derivative $r'(\varphi)$ at $\varphi = 0$ tells us the
+    *Hint*. The derivative $r'(\phi)$ at $\phi = 0$ tells us the
     direction the missile points.
 
 9. (Bonus) Determine the spirals for a polygon of $n$ homing missiles.
@@ -1000,7 +1000,7 @@ His gravestone even refers to it, bearing the enigmatic Latin phrase:
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-In an unfortunate snafu, an Archimedean spiral ($r = C\varphi) rather than a logarithmic
+In an unfortunate snafu, an Archimedean spiral ($r = C\phi) rather than a logarithmic
 spiral was carved next to it.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
