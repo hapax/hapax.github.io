@@ -1000,7 +1000,7 @@ extracting the
 [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)
 from self-similarity, and determining parameters for the path of
 the missiles.
-On a historical note, Swiss mathematician
+Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* (marvellous spiral) since he
 was so struck by this self-resemblance property.
