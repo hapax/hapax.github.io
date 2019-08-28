@@ -905,7 +905,9 @@ is where you might get hit!
 	When do the missiles collide?
 
 5. Generalise your result to $n$ homing missiles on the vertices of an
-   equilateral polygon, with $n$ sides of length $\ell$.
+    equilateral polygon, with $n$ sides of length $\ell$.
+	What happens in the limit as $n\to\infty$?
+	Does you answer make sense?
 
 ----
 
