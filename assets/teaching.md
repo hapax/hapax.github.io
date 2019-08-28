@@ -82,10 +82,9 @@ scrubland, every day for six years, did seem excessive.
 But that's just the way things things were done.
 
 <figure>
-    <div style="text-align:center"><img src
-    ="https://upload.wikimedia.org/wikipedia/commons/d/d8/Scrubland_-_geograph.org.uk_-_326909.jpg"
-    width="70%" />
-		    <figcaption><i>The scrubland. (Wikimedia Commons)</i></figcaption>
+    <div style="text-align:center"><img src ="/images/posts/scrubland.png"
+    width="65%" />
+		    <figcaption><i>The scrubland, far from the mountains of mathematics.</i></figcaption>
 	</div>
 	</figure>
 
