@@ -986,7 +986,7 @@ His gravestone even bears an enigmatic Latin phrase in reference to it:
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-Tragically, an Archimedean spiral was engraved, in error, next to this saying.
+Tragically, an Archimedean spiral, rather than a logarithmic spiral, was erroneously carved next to this saying.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
