@@ -256,38 +256,34 @@ test**, which supersedes the shrub test:
 </span>
 
 This is an extremely stringent test, but I think it's the right design
-principle even though it's hard to implement.
+principle!
 Why?
 First of all, it's *fair*.
+The students who are already engaged and making progress have
+something the students at the margins don't.
 And as with social good, by making maths engaging, there should be a
-"trickle up" effect in engagement across the board.
-This is not the same as writing dull, easy questions for "weak"
-students!
-No one benefits from these, since the "weak" students are made to feel
-weak, and the "strong" students will hold the question (and perhaps
-the students!) in contempt.
+"trickle up" effect across the board.
+This is different from trying to include "weak" students by making
+things dull and easy!
+No one benefits, since it reinforces stereotypes and turns everyone off.
 
-Secondly, getting maths classes to work is a highly uncertain
-business!
-Besides the choice of material (which I am emphasising here), there are
-a myriad of other variables to consider, with learning
-techniques, lesson planning, student background, technology, and even
-class size, all playing a role in success or failure.
-Given the difficulty of playing the numbers, game theory tells us we
-should focus on maximising the minimum outcome.
-Here, that means addressing the least-engaged students in an effort to
-stop them being permanently alienated (as so many are) from
-mathematics and its sister sciences.
-I know from personal experience that these students are not
-necessarily bad at maths!
-Leaving the scrubland is the first step towards passing the maximin test.
+Secondly, teaching is a wildly complex business.
+Besides the choice of material (which I am emphasising here), there is
+a whole host of other variables to consider, from pedagogy and lesson planning,
+demographics and student background, classroom management, technology,
+and so on, all playing a role in success or failure.
+Strategising for average student outcome is very hard!
+Given the uncertainties, game theory tells us we should focus on
+maximising the minimum outcome.
+Here, I think this should mean addressing the least-engaged students,
+those at greatest risk of being permanently turned off mathematics
+and its sister sciences.
+And leaving the scrubland is the first step towards including these
+students.
 
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
 I want to suggest two directions out of the scrubland.
-Since we're currently in the scrubland of calculus, I'll illustrate
-with examples for calculus.
-
 The first direction is *pure mathematics*, towards
 abstraction, generalisation, proof, and most importantly, *beauty*.
 Aesthetic considerations are famously important to pure mathematicians.
@@ -329,12 +325,18 @@ Beauty in maths, as in art, is subjective, so we are left with the enviable
 task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 
+Since we have spent a little time looking at calculus, I will
+illustrate a way out of the scrubland here: a neat little summit of
+generalisation called the *mean value theorem*; a monster dwelling in
+the badlands called the *blancmange function*; and finally, a much
+nobler use of inverse sine to provide a scheme for approximating $\pi$.
+
 #### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
-Our first mountain will be the *mean value theorem* (MVT).
+Our first example will be the *mean value theorem* (MVT).
 Instead of scaling the mountain and giving a fully rigorous proof, we
-will content ourselves with a good prospect from lower elevations, in
-the form of a *visual proof*.
+will content ourselves with a good prospect from lower elevations
+using heuristics and visual aids.
 Suppose we have a function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
 
