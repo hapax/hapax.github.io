@@ -624,7 +624,7 @@ $$
 $$
 
 which [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan)
-seemed to produce on a daily basis?
+seemed to do on a daily basis?
 
 Although Ramanujan's work still strikes me as
 semi-mystical, many results on infinite series, equally baffling and exciting to
