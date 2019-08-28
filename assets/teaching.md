@@ -565,13 +565,13 @@ This is not be a proof, but it does give a convincing numerical
 demonstration both of convergence and continuity.
 
 Another question is why we bother *adding* the triangles.
-Why don't we just take the limit of small, jagged triangles?
-This will have kinks at the same places.
+Why don't we just take the limit of small triangles spammed together?
+This will have kinks at the same places as the blancmange.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt10.png"
     width="70%" />
-		    <figcaption><i>The limit of small triangles is a straight
+		    <figcaption><i>The limit of spammed triangles is a straight
     line.</i></figcaption>
 	</div>
 	</figure>
