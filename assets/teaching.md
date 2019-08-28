@@ -238,8 +238,8 @@ We can all share in the joy of shrubs!
 How do we pass the shrub test but remain fair to students?
 I think we should borrow some ideas from political theory.
 American philosopher
-[John Rawls](https://en.wikipedia.org/wiki/John_Rawls) was the
-pre-eminent thinker on *fairness* in a political context.
+[John Rawls](https://en.wikipedia.org/wiki/John_Rawls) was the 20th century's
+pre-eminent theorist of *fairness* in the political context.
 Instead of using average utility (roughly, "personal good") as an
 organising social principle, he
 suggests the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
