@@ -890,7 +890,7 @@ and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-ga
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle.
 The triangle has side length
-$\ell$, with missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and
+$\ell$, with missile $M_1$ homing in on $M_2$, $M_2$ on $M_3$, and
 $M_3$ on $M_1$.
 
 <figure>
