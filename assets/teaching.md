@@ -976,7 +976,7 @@ solves the problem for us.
 We still need derivatives, but they now have the nontrivial role of
 extracting the
 [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)
-from self-similarity, and determining the parameters for the curve of
+from self-similarity, and determining parameters for the path of
 the missiles.
 On a historical note, Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
