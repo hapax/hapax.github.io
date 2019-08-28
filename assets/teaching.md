@@ -705,15 +705,16 @@ $\pi/6$.
 Newton used this formula to calculate $\pi$ to 15 decimal places, and
 students can reproduce this feat themselves!
 
-On that note, should rigour be cultivated at the high school level?
-I think this is a subtle question, but the hiking analogy is
-helpful: rigour is something like a *safety harness* for mountain climbing.
+Is our neglect of rigour dangerous?
+The hiking analogy is helpful: rigour is something like a *safety
+harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up.
-Instead, as I've tried to show in the preceding examples, visual aids,
-heuristics, and numerical evidence can be used to orient students in
-the landscape and protect them from misadventure.
+There are other ways to orient students in the landscape and protect
+them from misadventure, though I see no reason that an advanced class
+should not try climbing a small-ish mountain here or there, and
+prepare accordingly.
 
 ## 3. Mining for patterns <a id="sec-3" name="sec-3"></a>
 
