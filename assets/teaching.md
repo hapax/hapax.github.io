@@ -981,6 +981,8 @@ This allows us to actually work out the curves!
 	Show that the curve associated to the first missile (at $\phi =
     0$) is a logarithmic spiral with $C = \ell/\sqrt{3}$ and $k =
     \sqrt{3}$.
+	The remaining two curves are simply rotated by $\pm\theta$ around the
+    origin.
 
     *Hint*. The derivative $r'(\phi)$ at $\phi = 0$ tells us the
     direction the missile points.
