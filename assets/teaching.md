@@ -858,8 +858,8 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ----
 
-This more conceptually challenging than the first moth ball question,
-but the physics and chemistry has been "precomputed".
+This is more conceptually challenging than the first moth ball question,
+but we are not straying from mathematics since the physics and chemistry has been "precomputed".
 Once they figure out what to calculate, it is just a related rates problem.
 Asking students to think more about what they are doing, and why they
 are doing it, doesn't seem like a bad idea!
