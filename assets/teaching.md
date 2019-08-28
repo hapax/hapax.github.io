@@ -804,7 +804,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
    must be constant.
 
-4. Let $R$ be the radius of the moth ball. From problem 3, deduce that
+4. Let $R$ be the radius of the moth ball. From Problem 3, deduce that
 
    $$
    c(r) = \frac{c(R) R}{r}.
@@ -825,14 +825,14 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    $$
 
 6. If $\rho$ is the mass density of the moth ball, show that we can
-   rewrite the rate of change of mass in problem 5 as a rate of change
+   rewrite the rate of change of mass in Problem 5 as a rate of change
    of radius:
 
    $$
    \frac{dR}{dt} = -\frac{D c_\text{sub} m_\text{N}}{\rho R}.
    $$
 
-7. By explicit differentiation, check that the equation in problem 6
+7. By explicit differentiation, check that the equation in Problem 6
    is solved by
 
    $$
@@ -854,44 +854,53 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 	density $\rho$.
     Leave them in a cool dry place and see how long they take to
 	disappear, i.e. determine $t_\text{life}$.
-	From problem 7, estimate the diffusion constant for napthalene in air.
+	From Problem 7, estimate the diffusion constant for napthalene in air.
 
 ----
 
 This is obviously longer and more conceptually challenging than the
 first moth ball question.
 But the physics and chemistry has been "precomputed"; after sorting
-out what needs to be calculated, we are left with some reasonably simple
-related rates calculations, analytically similar to the original but
-(I hope) less shrubby.
+out what needs to be calculated, we are left with simple
+related rates calculations, similar to the original but (I hope) less shrubby.
 
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
-Our next problem, a variant of the changing triangle, is from
-[Igor Irodov's book on general physics](https://archive.org/details/IrodovProblemsInGeneralPhysics).
-Imagine that three homing missiles $M_1, M_2, M_3$ are fired at each
-other from the vertices of an equilateral triangle of side length $\ell$.
-Missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and $M_3$ on $M_1$.
-All travel at fixed speed $v$.
+Our next problem is adapted from a classic problem by
+[Igor Irodov](https://archive.org/details/IrodovProblemsInGeneralPhysics).
+Three homing missiles $M_1, M_2, M_3$ are fired at each
+other from the vertices of an equilateral triangle of side length
+$\ell$, with missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and
+$M_3$ on $M_1$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/missiles.png"
-    width="60%" />
+    width="70%" />
 		    <figcaption><i>Three homing missiles lock onto each other.</i></figcaption>
 	</div>
 	</figure>
 
+Assume the missiles always move at the same speed $v(t)$.
+The *danger zone* is the triangle formed by three missiles.
+
 ----
 
-1. Argue that all three missiles remain on the vertices of an equilateral triangle.
+1. Argue that the danger zone (pictured above) is always an equilateral triangle.
+   
+2. Using Problem 1, explain why the missiles always point in
+   directions separated by angle $\theta = \pi/3$.
 
-2. Using problem 1, explain why the angle between the velocities of the missiles is always $\pi/3$.
+3. From Problem 2, show that the relative speed at which $M_1$ and
+   $M_2$ approach each other is
 
-3. From the perspective of missile $1$, how fast is missile $2$ moving towards it?
-	Use this to show they collide in time $t_\text{collide} =
-	2\ell/3v$.
+   $$
+   v_{12}(t) = [1 + \cos\theta]v(t).
+   $$
 
-4. What is the rate of change of the triangle's (a) area and (b) height?
+4. Suppose the missiles accelerate from rest at constant rate $a$.
+	How do the side length and the area of the danger zone change with
+    time?
+	When do the missiles collide?
 
 ----
 
