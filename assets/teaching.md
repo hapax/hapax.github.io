@@ -8,8 +8,8 @@ date:  2019-08-03
 ---
 
 **August 13, 2019.** *In the 21st century, higher-order mathematical
-  skills are more important than ever before, but maths classes are
-  typically dull and alienating. How do we improve them, and plug some
+  skills are more important than ever before, but high school maths
+  classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! This calls for collaboration between practicing
   scientists and educators. Together, they can plot a route out of the
   scrubland, and into realms where the beauty and power of
