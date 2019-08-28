@@ -268,10 +268,16 @@ weak, and the "strong" students will hold the question (and perhaps
 the students!) in contempt.
 
 Secondly, getting maths classes to work is a highly uncertain
-business.
-When we can't play the numbers, we should maximise the minimum
-outcome, and focus on preventing the least-engaged students from
-becoming alienated.
+business!
+Besides the choice of material (which I am emphasising here), there are
+a myriad of other variables to consider, with learning
+techniques, lesson planning, student background, technology, and even
+class size, all playing a role in success or failure.
+Given the difficulty of playing the numbers, game theory tells us we
+should focus on maximising the minimum outcome.
+Here, that means addressing the least-engaged students in an effort to
+stop them being permanently alienated (as so many are) from
+mathematics and its sister sciences.
 I know from personal experience that these students are not
 necessarily bad at maths!
 Leaving the scrubland is the first step towards passing the maximin test.
