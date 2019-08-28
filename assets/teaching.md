@@ -730,7 +730,7 @@ and frame her quest, the needs of science, industry, and
 everyday life spur mathematicians to go out into the landscape and dig
 up patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
-ciphers, mathematics are inspired by these real world needs.
+ciphers, mathematics arises from real world needs.
 Why not let students in on the secret?
 
 There is an even grander secret.
