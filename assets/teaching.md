@@ -982,7 +982,7 @@ On a historical note, Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* (miraculous spiral) since he
 was so struck by its property of self-similarity.
-His gravestone even bears an enigmatic Latin phrase in reference to it:
+His gravestone even refers to it, bearing the enigmatic Latin phrase
 
 <span style="padding-left: 20px; display:block">
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
