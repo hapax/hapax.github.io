@@ -875,7 +875,7 @@ $M_3$ on $M_1$.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/missiles.png"
-    width="65%" />
+    width="68%" />
 		    <figcaption><i>Three homing missiles lock onto each other
     and eventually collide.</i></figcaption>
 	</div>
