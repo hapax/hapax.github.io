@@ -865,9 +865,9 @@ Once they figure out what to calculate, it is just a related rates problem.
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
 Our next problem elaborates on a classic pursuit puzzle, first posed
-in Igor Irodov's
+in [Igor Irodov's](https://en.wikipedia.org/wiki/Igor_Irodov)
 [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by Martin Gardner.
+and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by [Martin Gardner](https://en.wikipedia.org/wiki/Martin_gardner).
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle of side length
 $\ell$, with missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and
