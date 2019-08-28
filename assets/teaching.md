@@ -671,18 +671,18 @@ $$
 6}\left(\frac{1}{7\cdot 2^7}\right) + \cdots
 $$
 
-The series converges rapidly to $\pi/6$, as students can confirm
-numerically. Newton used this formula to calculate $\pi$ to 15 decimal
-places.
-They can try this feat themselves!
-
 To arrive at this point, we have thrown rigour to the wind, ignoring
 the radius of the power series and the uniform convergence of the sum
 needed to integrate term-by-term.
 These are important issues, since at the end of the day our
 identity may not be true!
 But as with the blancmange, a numerical check of convergence
-is more persuasive in a classroom setting than a quagmire of technical conditions.
+is more persuasive in a classroom setting than a quagmire of technical
+conditions.
+And in fact, as students can confirm, the series converges rapidly to
+$\pi/6$.
+Newton used this formula to calculate $\pi$ to 15 decimal places, and
+students can reproduce this feat themselves!
 
 On that note, should rigour be cultivated at the high school level?
 I think this is a subtle question, but the hiking analogy is
