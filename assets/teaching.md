@@ -976,7 +976,6 @@ extracting the
 [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)
 from self-similarity, and determining the parameters for the curve of
 the missiles.
-
 On a historical note, Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* (miraculous spiral) since he
@@ -987,8 +986,7 @@ He even has a reference to it on his gravestone, in the enigmatic Latin phrase
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-Sadly, an Archimedean spiral ($r = C\theta$) was incorrectly engraved
-next to this saying.
+Tragically, an Archimedean spiral was engraved, in error, next to this saying.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
