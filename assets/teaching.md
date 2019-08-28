@@ -962,7 +962,9 @@ This allows us to actually work out the curves!
     $\varphi = 0, \pi/3, 2\pi/3$.
 	Show that the curve associated to the first missile (at $\varphi =
     0$) is a logarithmic spiral with $C = \ell/\sqrt{3}$ and $k =
-    \sqrt{3}$. *Hint*. The derivative $r'(\varphi)$ at $\varphi = 0$ tells us the
+    \sqrt{3}$.
+
+    *Hint*. The derivative $r'(\varphi)$ at $\varphi = 0$ tells us the
     direction the missile points.
 
 9. (Bonus) Determine the spirals for a polygon of homing missiles.
