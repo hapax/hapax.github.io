@@ -248,7 +248,7 @@ He argues there should be a sort of "trickle up" effect where everyone
 benefits, but from a game theory perspective, this is the right
 strategy when you have extreme uncertainty.
 
-For maths teaching, I'd like to propose a similar **maximin
+For maths teaching, I'd like to propose a **maximin
 test**, which supersedes the shrub test:
 
 <span style="padding-left: 20px; display:block">
