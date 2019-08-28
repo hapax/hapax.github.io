@@ -1008,8 +1008,8 @@ His gravestone even bears the enigmatic Latin phrase
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-In an unfortunate snafu, an Archimedean spiral ($r = C\phi) rather than a logarithmic
-spiral was carved next to it.
+In an unfortunate carving snafu, the Archimedean spiral ($r = C\phi$) rather than the logarithmic
+spiral was inscribed next to it.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
