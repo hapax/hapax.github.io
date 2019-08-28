@@ -876,12 +876,14 @@ $M_3$ on $M_1$.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/missiles.png"
     width="70%" />
-		    <figcaption><i>Three homing missiles lock onto each other.</i></figcaption>
+		    <figcaption><i>Three homing missiles lock onto each other
+    and eventually collide.</i></figcaption>
 	</div>
 	</figure>
 
 Assume the missiles always move at the same speed $v(t)$.
-The *danger zone* is the triangle formed by three missiles.
+The *danger zone* is the triangle formed by three missiles, since this
+is where you might get hit!
 
 ----
 
@@ -901,6 +903,9 @@ The *danger zone* is the triangle formed by three missiles.
 	How do the side length and the area of the danger zone change with
     time?
 	When do the missiles collide?
+
+5. Generalise your result to $n$ homing missiles on the vertices of an
+   equilateral polygon, with $n$ sides of length $\ell$.
 
 ----
 
