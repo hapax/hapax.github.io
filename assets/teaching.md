@@ -244,9 +244,9 @@ Instead of using average utility (roughly, "personal good") as an
 organising social principle, he
 suggests the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
 maximise the outcomes for those who are least well-off.
-He argues there should be a sort of "trickle up" effect where everyone
-benefits, but from a game theory perspective, this is the right
-strategy when you have extreme uncertainty.
+He argued this would lead to a "trickle up" effect where everyone
+benefited; from a game theory perspective, maximin is the right
+strategy for decision making under extreme uncertainty.
 
 For maths teaching, I'd like to propose a **maximin
 test**, which supersedes the shrub test:
@@ -255,12 +255,26 @@ test**, which supersedes the shrub test:
 <i>Would the least-engaged students bother to read this in their own time?</i>
 </span>
 
-This is an extremely stringent test, and difficult to implement
-in practice.
-But I think it's the right design principle!
-As with social good, there should be a trickle up effect with more
-engagement across the board.
-And leaving the scrubland is the first step towards passing the maximin test.
+This is an extremely stringent test, but I think it's the right design
+principle even though it's hard to implement.
+Why?
+First of all, it's *fair*.
+And as with social good, by making maths engaging, there should be a
+"trickle up" effect in engagement across the board.
+This is not the same as writing dull, easy questions for "weak"
+students!
+No one benefits from these, since the "weak" students are made to feel
+weak, and the "strong" students will hold the question (and perhaps
+the students!) in contempt.
+
+Secondly, getting maths classes to work is a highly uncertain
+business.
+When we can't play the numbers, we should maximise the minimum
+outcome, and focus on preventing the least-engaged students from
+becoming alienated.
+I know from personal experience that these students are not
+necessarily bad at maths!
+Leaving the scrubland is the first step towards passing the maximin test.
 
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
