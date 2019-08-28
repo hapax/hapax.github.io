@@ -233,7 +233,7 @@ And this leads to a different failure mode: when questions only appeal
 to a minority of students.
 I think this is the pedagogical "wisdom" behind the scrubland: write
 material which is *uniformly unappealing* so that nobody is left out.
-We can all share in the joy of looking at shrubs.
+We can all share in the joy of shrubs!
 
 How do we pass the shrub test but remain fair to students?
 I think we should borrow some ideas from political theory.
