@@ -993,8 +993,8 @@ the missiles.
 On a historical note, Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* (marvellous spiral) since he
-was so struck by its property of self-similarity.
-His gravestone even refers to it, bearing the enigmatic Latin phrase:
+was so struck by this self-resemblance property.
+His gravestone even bears the enigmatic Latin phrase
 
 <span style="padding-left: 20px; display:block">
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
