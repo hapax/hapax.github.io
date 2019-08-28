@@ -866,8 +866,9 @@ are doing it, doesn't seem like a bad idea!
 
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
-Our next problem is adapted from a classic problem by
-[Igor Irodov](https://archive.org/details/IrodovProblemsInGeneralPhysics).
+Our next problem is adapted from the classic pursuit puzzle in
+Igor Irodov's [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics),
+later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by Martin Gardner.
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle of side length
 $\ell$, with missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and
@@ -882,8 +883,8 @@ $M_3$ on $M_1$.
 	</figure>
 
 Assume the missiles always move at the same speed $v(t)$.
-The *danger zone* is the triangle formed by three missiles, since this
-is where you might get hit!
+The *danger zone* is the triangle formed by three missiles.
+This is where you might get hit!
 
 ----
 
@@ -899,17 +900,95 @@ is where you might get hit!
    v_{12}(t) = [1 + \cos\theta]v(t).
    $$
 
-4. Suppose the missiles accelerate from rest at constant rate $a$.
-	How do the side length and the area of the danger zone change with
-    time?
-	When do the missiles collide?
+4. How far does each missile travel before colliding at the centre?
+   (No calculus needed.)
 
-5. Generalise your result to $n$ homing missiles on the vertices of an
+5. Extending your observation in Problem 4, explain why the paths
+   traced by the missiles do not depend on the velocity.
+
+6. (Bonus) Generalise your result to $n$ homing missiles on the vertices of an
     equilateral polygon, with $n$ sides of length $\ell$.
 	What happens in the limit as $n\to\infty$?
 	Does you answer make sense?
 
 ----
+
+The fact that the danger zone remains equilateral tells us a beautiful
+fact about the path of the missiles: it is *self-similar*, in the
+sense that as we zoom in, the shape is the same.
+Set up polar coordinates $(r, \phi)$ with the origin at the centre of
+the danger zone.
+A path $r = f(\varphi)$ in polar coordinates is self-similar if
+zooming in (multipling $r$ by a constant) only shifts the angle:
+
+$$
+\begin{equation}
+\alpha r = f(\varphi - c),\label{self}
+\end{equation}
+$$
+
+where $c = c(\alpha)$ depends on $\alpha$.
+This allows us to actually work out the curves!
+
+---
+
+6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
+    and set $\alpha = 0$, to find that
+
+   $$
+   \begin{equation}
+   f(\varphi) = -f'(\varphi) c'(0).\label{self2}
+   \end{equation}
+   $$
+
+7. Verify directly (or solve a separable DE to show) that (\ref{self2}) is
+   solved by
+
+   $$
+   f(\varphi) = C e^{-c'(0)\varphi}
+   $$
+
+   for any constant $C$.
+   Thus, any self-similar curve in polar coordinates takes the form of
+   a *logarithmic spiral*,
+
+   $$
+   r = C e^{-k\varphi},
+   $$
+
+   for constants $C$ and $k$.
+
+8. Choose coordinates so that the missiles initially lie at angles
+    $\varphi = 0, \pi/3, 2\pi/3$.
+	Show that the curve associated to the first missile (at $\varphi =
+    0$) is a logarithmic spiral with $C = \ell/\sqrt{3}$ and $k =
+    \sqrt{3}$. *Hint*. The derivative $r'(\varphi)$ at $\varphi = 0$ tells us the
+    direction the missile points.
+
+9. (Bonus) Determine the spirals for a polygon of homing missiles.
+
+---
+
+This problem is beautiful because symmetry (rotational and scaling)
+solves the problem for us.
+We still need derivatives, but they now have the nontrivial role of
+extracting the
+[logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)
+from self-similarity, and determining the parameters for the curve of
+the missiles.
+
+On a historical note, Swiss mathematician
+[Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
+called this curve the *spira mirabilis* (miraculous spiral) since he
+was so struck by its property of self-similarity.
+He even has a reference to it on his gravestone, in the enigmatic Latin phrase
+
+<span style="padding-left: 20px; display:block">
+<i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
+</span>
+
+Sadly, an Archimedean spiral ($r = C\theta$) was incorrectly engraved
+next to this saying.
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
