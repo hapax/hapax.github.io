@@ -905,7 +905,7 @@ This is where you might get hit!
    (No calculus needed.)
 
 5. Extending your observation in Problem 4, explain why the paths
-   traced by the missiles do not depend on the velocity.
+   traced by the missiles do not depend on their velocity.
 
 6. (Bonus) Generalise your result to $n$ homing missiles on the vertices of an
     equilateral polygon, with $n$ sides of length $\ell$.
