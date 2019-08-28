@@ -858,11 +858,11 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ----
 
-This is obviously longer and more conceptually challenging than the
-first moth ball question.
-But the physics and chemistry has been "precomputed"; after sorting
-out what needs to be calculated, we are left with simple
-related rates calculations, similar to the original but (I hope) less shrubby.
+This more conceptually challenging than the first moth ball question,
+but the physics and chemistry has been "precomputed".
+Once they figure out what to calculate, it is just a related rates problem.
+Asking students to think more about what they are doing, and why they
+are doing it, doesn't seem like a bad idea!
 
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
