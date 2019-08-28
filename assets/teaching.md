@@ -866,9 +866,10 @@ are doing it, doesn't seem like a bad idea!
 
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
-Our next problem is adapted from the classic pursuit puzzle in
-Igor Irodov's [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics),
-later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by Martin Gardner.
+Our next problem elaborates on a classic pursuit puzzle, first posed
+in Igor Irodov's
+[*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
+and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by Martin Gardner.
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle of side length
 $\ell$, with missile $M_1$ is homing in on $M_2$, $M_2$ on $M_3$, and
