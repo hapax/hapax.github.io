@@ -721,7 +721,7 @@ Below, I've plotted the first six partial sums.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine.png"
     width="70%" />
-		    <figcaption><i>The series converges to $pi$ rapidly.</i></figcaption>
+		    <figcaption><i>The series converges to π rapidly.</i></figcaption>
 	</div>
 	</figure>
 
