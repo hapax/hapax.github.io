@@ -144,7 +144,7 @@ With time, they could learn to camp in the wilderness, explore
 uncharted wastes and conquer summits.
 I think interest would blossom in unexpected places.
 By going on real hikes, we would stop wasting student time, improve
-social outcomes by attracting more students into the field, and
+social outcomes by attracting more students into that sector, and
 perhaps most importantly, show them that all of nature is out there,
 waiting to be relished and explored.
 Some students would probably still hate hiking.
