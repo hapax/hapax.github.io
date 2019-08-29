@@ -457,6 +457,13 @@ $$
 assuming $x \neq y$.
 This is an elegant and nontrivial result.
 
+Here's a more practical application to cheap traffic enforcement.
+Suppose traffic police monitor a stretch of roadway of length $L$.
+They clock a car entering the stretch and leaving a time $t$ later.
+Without using a radar gun, they know from the MVT that the car was at
+some point travelling at speed $v = t/L$.
+If this is greater than the speed limit, they can issue a fine!
+
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as the MVT is to prove, it's even more fun to break.
@@ -912,13 +919,13 @@ This is where you might get hit!
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
    
 2. Using Problem 1, explain why the missiles always point in
-   directions separated by angle $\theta = \pi/3$.
+   directions separated by angle $\theta = 2\pi/3$.
 
 3. From Problem 2, show that the relative speed at which $M_1$ and
    $M_2$ approach each other is
 
    $$
-   v_{12}(t) = [1 + \cos\theta]v(t).
+   v_{12}(t) = [1 - \cos\theta]v(t).
    $$
 
 4. How far does each missile travel before colliding at the centre?
@@ -979,11 +986,11 @@ This allows us to actually work out the curves!
    for constants $C$ and $k$.
 
 8. Choose coordinates so that the missiles initially lie at angles
-    $\phi = 0, \pi/3, 2\pi/3$.
+    $\phi = 0, 2\pi/3, 4\pi/3$.
 	Show that the curve associated to the first missile (at $\phi =
     0$) is a logarithmic spiral with $C = \ell/\sqrt{3}$ and $k =
     \sqrt{3}$.
-	The remaining two curves are simply rotated by $\pm\theta$ around the
+	The remaining two curves are simply rotated by $\pm 2\pi/3 around the
     origin.
 
     *Hint*. The derivative $r'(\phi)$ at $\phi = 0$ tells us the
