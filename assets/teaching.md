@@ -33,9 +33,11 @@ date:  2019-08-03
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
-In high school, I was one of those kids.
-I thought maths was about as boring as watching paint
-dry, except that a fresh coat of paint could in some cases be useful
+I'm a theoretical physicist, which means that I use mathematics on a
+daily basis, and love it; I'm a big fan.
+But in high school, I was one of those kids.
+I thought maths class was about as boring as watching paint
+dry, except that a fresh coat of paint can in some cases be useful
 and add a bit of colour to the world.
 I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
