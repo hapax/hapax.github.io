@@ -35,8 +35,8 @@ date:  2019-08-03
 
 In high school, I was one of those kids.
 I thought maths was about as boring as watching paint
-dry, except that a fresh coat of paint might be useful and add a bit
-of colour to the world.
+dry, except that a fresh coat of paint could in some cases be useful
+and add a bit of colour to the world.
 I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
