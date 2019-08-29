@@ -758,8 +758,6 @@ given number of digits.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine-2.png"
     width="77%" />
-		    <figcaption><i>The number of terms is linear in the
-    number of digits of π.</i></figcaption>
 	</div>
 	</figure>
 
