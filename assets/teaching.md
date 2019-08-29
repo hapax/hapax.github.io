@@ -218,23 +218,23 @@ I think we should borrow some ideas from political theory.
 American philosopher
 [John Rawls](https://en.wikipedia.org/wiki/John_Rawls) was the 20th century's
 pre-eminent theorist of *fairness* in the political context.
-Instead of using average utility (roughly, "personal good") as an
+Instead of using average utility (roughly, average personal good) as an
 organising social principle, he
-suggests the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
+suggested something called the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
 maximise the outcomes for those who are least well-off.
 He argued this would lead to a "trickle up" effect where everyone
-benefited; from a game theory perspective, maximin is the right
-strategy for decision making under extreme uncertainty.
+benefited; from a game theory perspective, maximin (maximising the
+minimum outcome) is the right strategy when there is extreme
+uncertainty and you can't play the numbers.
 
-For maths teaching, I'd like to propose a **maximin
-test**, which supersedes the shrub test:
+Of the various design principle we could adopt, I think the **maximin
+test** should supersede the shrub test:
 
 <span style="padding-left: 20px; display:block">
 <i>Would the least-engaged students bother to read this in their own time?</i>
 </span>
 
-This is an extremely stringent test, but I think it's the right design
-principle!
+This is extremely stringent test, but I think it's right.
 Why?
 First of all, it's *fair*.
 The students who are already engaged and making progress have
