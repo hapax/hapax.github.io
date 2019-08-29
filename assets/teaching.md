@@ -904,7 +904,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 This is more conceptually challenging than the first moth ball question,
 but we are not straying from mathematics since the physics and chemistry has been "precomputed".
-Once they figure out what to calculate, it is just a related rates problem.
+It's a related rates problem embedded in a real world application.
 
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
@@ -1024,7 +1024,7 @@ from self-similarity, and determining parameters for the path of
 the missiles.
 Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
-called this curve the *spira mirabilis* (marvellous spiral) since he
+called this curve the *spira mirabilis* ("marvellous spiral") since he
 was so struck by this self-resemblance property.
 His gravestone even bears the enigmatic Latin phrase
 
@@ -1032,8 +1032,8 @@ His gravestone even bears the enigmatic Latin phrase
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-In an unfortunate carving snafu, the Archimedean spiral ($r = C\phi$) rather than the logarithmic
-spiral was inscribed next to it.
+In a carving snafu, the Archimedean spiral ($r = C\phi$) rather than the logarithmic
+spiral got inscribed next to it!
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
