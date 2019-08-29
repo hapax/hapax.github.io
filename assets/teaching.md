@@ -465,15 +465,15 @@ This is elegant and nontrivial result is pictured below.
 	</figure>
 
 Here's a more practical application: *cheap traffic enforcement*.
-Suppose traffic police monitor a stretch of roadway of length $L$.
-They clock a car entering the stretch and leaving a time $T$ later.
+Suppose traffic police monitor a stretch of highway of length $L$.
+They clock a car entering the stretch, and leaving a time $T$ later.
 Without using a radar gun, they know from the MVT that the car was
 travelling at speed $v = L/T$ at some point along the stretch.
 If this is greater than the speed limit, they can issue a fine!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt13.png"
-    width="65%" />
+    width="60%" />
 		    <figcaption><i>The MVT lets police replace a radar gun
     with a watch.</i></figcaption>
 	</div>
