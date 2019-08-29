@@ -40,12 +40,12 @@ What's my motivation for finding $x$?
 Let somebody else solve those equations!
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
-to know beyond the next test.
+to know beyond the next exam.
 The situation was so bad that, it wasn't until a physics class, at age 15,
 made me realise that I didn't know how to add fractions or
 multiply negative numbers.
-I had just never internalised those rules, and they weren't really
-needed on subsequent tests.
+I had just never internalised those rules, and apparently they weren't
+needed to pass subsequent tests.
 
 A few years later, studying philosophy at university, I
 encountered set theory.
