@@ -1086,7 +1086,7 @@ This means "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
-#### 3.3. Sandpiles and criticality <a id="sec-3-3"name="sec-3-3"></a>
+#### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
