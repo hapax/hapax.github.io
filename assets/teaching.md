@@ -240,12 +240,12 @@ Why?
 First of all, it's *fair*.
 The students who are already engaged and making progress have
 something the students at the margins don't.
-We're trying to ensure that everyone a basic of this social good, engagement.
-And as with social good in the broader political context, by making
+We should try to ensure that everyone has a basic level of this social good, engagement.
+And as with social good in the Rawlsian model, by making
 maths engaging, there should be a "trickle up" effect across the
 board.
-Making maths class more interesting for the least-engaged will
-probably make it more interesting for everyone!
+Making maths class more interesting for the least-engaged will make it
+more interesting for everyone!
 
 Secondly, teaching is a wildly complex business.
 Besides the choice of material (which I'm emphasising here), there's
