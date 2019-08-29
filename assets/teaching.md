@@ -546,7 +546,7 @@ choice, since we can always scale and shift our answer to recover the
 result for an arbitrary interval.
 We can start with a trangle-shaped function possessing a single kink at $x =
 1/2$, though most functions with a single kink will do.
-For the triange, we can apply the MVT to any subinterval entirely to the left of the midpoint,
+For the triangle, we can apply the MVT to any subinterval entirely to the left of the midpoint,
 or entirely the right of the midpoint.
 Call these intervals, where the MVT applies, *good subintervals*.
 They have maximum length $1/2$.
