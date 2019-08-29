@@ -459,7 +459,7 @@ This is elegant and nontrivial result is pictured below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt12.png"
-    width="75%" />
+    width="70%" />
 		    <figcaption><i>The MVT implies inverse sine is distance-increasing.</i></figcaption>
 	</div>
 	</figure>
@@ -470,6 +470,14 @@ They clock a car entering the stretch and leaving a time $T$ later.
 Without using a radar gun, they know from the MVT that the car was
 travelling at speed $v = L/T$ at some point along the stretch.
 If this is greater than the speed limit, they can issue a fine!
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt13.png"
+    width="75%" />
+		    <figcaption><i>The MVT lets police replace a radar gun
+    with a watch.</i></figcaption>
+	</div>
+	</figure>
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
