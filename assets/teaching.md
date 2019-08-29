@@ -164,8 +164,9 @@ And like walking, symbol manipulation is a skill that can be developed.
 
 Then again, if you look at most high school textbooks, you could be forgiven for thinking otherwise.
 What should be a journey into
-the mathematical world is, in most cases, a joyless plod without context, without use, without
-beauty: a scrubland.
+the mathematical world is, in most cases, a joyless plod through a
+scrubland without context, without use, and without beauty.
+Here's a patch of scrubland, courtesy of an anonymous Australian textbook:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/specialist1.png"
@@ -174,7 +175,6 @@ beauty: a scrubland.
 	</div>
 	</figure>
 
-Here's a patch of scrubland, courtesy of an anonymous Australian textbook.
 The topic is calculus, one the great milestones of Western thought.
 And here, we're finding... rates of change of ... some functions, I
 guess.
