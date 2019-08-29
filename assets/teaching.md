@@ -716,11 +716,40 @@ $$
 
 As students can check themselves, this formula converges extremely
 rapidly.
-Newton arrived at this 
-"I am ashamed to tell you to how many figures I carried these
-computations, having no other business at the time."
+Below, I've plotted the first six partial sums.
 
-To arrive at this point, we have thrown rigour to the wind, ignoring
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine.png"
+    width="70%" />
+		    <figcaption><i>The series converges to $pi$ rapidly.</i></figcaption>
+	</div>
+	</figure>
+
+Newton derived this formula (using geometry rather than calculus) and
+exploited the rapid convergence to compute $\pi$ to $15$ decimal
+places in 1666.
+He later wrote, "I am ashamed to tell you to how many figures I carried these
+computations, having no other business at the time."
+Students can reproduce this feat themselves!
+In fact, you can explore precisely *how many* terms are needed for a
+given number of digits.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine-2.png"
+    width="70%" />
+		    <figcaption><i>The number of terms needed is linear in the
+    number of digits we want for our approximation of $\pi$.</i></figcaption>
+	</div>
+	</figure>
+
+For $15$ decimal places in $\pi$, you need the first $19$ terms in the
+sum.
+More generally, the relationship between terms and decimal places is
+*linear*, as the graph above shows.
+Students don't need to understand the subtleties of rates of
+convergence to see the linear relationship emerge from the numbers!
+
+To derive the formula, we have thrown rigour to the wind, ignoring
 the radius of the power series and the uniform convergence of the sum
 needed to integrate term-by-term.
 These are important issues, since at the end of the day our
