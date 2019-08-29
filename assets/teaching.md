@@ -978,9 +978,8 @@ Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
+##### Part II
 ----
-
-##### Part I
 
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
    
@@ -1025,9 +1024,8 @@ $$
 where $c = c(\alpha)$ depends on $\alpha$.
 This allows us to actually work out the curves!
 
----
-
 ##### Part II
+---
 
 6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
     and set $\alpha = 0$, to find that
@@ -1106,8 +1104,7 @@ layer* of loose grains running down the slope.
 	</div>
 	</figure>
 
-We work with two-dimensional piles for simplicity.
-
+We work with two-dimensional piles for simplicity, with 
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
