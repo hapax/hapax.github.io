@@ -33,9 +33,7 @@ date:  2019-08-03
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
-I'm a theoretical physicist, which means that I use mathematics on a
-daily basis, and love it; I'm a big fan.
-But in high school, I was one of those kids.
+In high school, I was one of those kids.
 I thought maths class was about as boring as watching paint
 dry, except that a fresh coat of paint can in some cases be useful
 and add a bit of colour to the world.
@@ -46,9 +44,8 @@ Finding $x$ was somebody else's business.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
-The situation was so bad that, it wasn't until a physics class, at age 15,
-that I realised I didn't know how to add fractions or
-multiply negative numbers.
+The situation was so bad that, at age 15, I remember realising that I
+didn't know how to add fractions or multiply negative numbers.
 I had just never internalised those rules.
 
 A few years later, taking philosophy at university, I
@@ -1796,3 +1793,6 @@ set of examples for trigonometry.
 Why not tell them where algebra, trigonometry, or calculus
 really come from?
 And show them how powerful these tools are?
+
+I'm a theoretical physicist, which means that I use mathematics on a
+daily basis, and love it; I'm a big fan.
