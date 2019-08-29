@@ -62,8 +62,9 @@ argument that there are different sorts of infinity!
 This is a sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths was deep and beautiful.
-At the same time, I was pop science books about relativity and quantum
-mechanics.
+
+At the same time, I was reading pop science books about physics,
+fun things like relativity and quantum mechanics.
 I began to see that maths was a formal game played by nature as well.
 To paraphrase Galileo, it's the language in which the book of the
 universe is written.
