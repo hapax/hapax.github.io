@@ -210,8 +210,6 @@ scrubland, and maybe ride around in a pickup truck painting shrubs different
 colours, than to chart a new course into the mathematical world.
 That would take time, money, and vision, and these are perennially in
 short supply.
-(There is the thornier pedagogical issue of fairness, which I discuss
-in the next section.)
 
 But good mathematical skills are important to society as a whole.
 I'm not talking about basic numeracy, e.g. the ability to calculate a
