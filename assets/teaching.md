@@ -27,7 +27,7 @@ date:  2019-08-03
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
-   3. <a href="#sec-3-3">Sandpiles and criticality</a>
+   3. <a href="#sec-3-3">Rolling down the pile</a>
    4. <a href="#sec-3-4">Drilling for patterns</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -980,6 +980,8 @@ This is where you might get hit!
 
 ----
 
+##### Part I
+
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
    
 2. Using Problem 1, explain why the missiles always point in
@@ -1024,6 +1026,8 @@ where $c = c(\alpha)$ depends on $\alpha$.
 This allows us to actually work out the curves!
 
 ---
+
+##### Part II
 
 6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
     and set $\alpha = 0$, to find that
@@ -1086,7 +1090,7 @@ This means "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
-#### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
+#### 3.3. Rolling down the pile <a id="sec-3-3" name="sec-3-3"></a>
 
 Our final redo is the sandpile, taking inspiration from
 [Hadeler and Kuttler (1999)](https://link.springer.com/article/10.1007/s100350050029).
