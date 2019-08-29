@@ -794,7 +794,7 @@ microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball2.png"
-    width="65%" />
+    width="70%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
 	</div>
