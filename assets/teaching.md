@@ -473,9 +473,10 @@ If this is greater than the speed limit, they can issue a fine!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt13.png"
-    width="75%" />
+    width="70%" />
 		    <figcaption><i>The MVT lets police replace a radar gun
-    with a watch.</i></figcaption>
+    with a watch. They can tell the car attains speed $v = L/T$ at
+    some point (dark purple).</i></figcaption>
 	</div>
 	</figure>
 
