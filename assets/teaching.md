@@ -459,9 +459,9 @@ This is an elegant and nontrivial result.
 
 Here's a more practical application: *cheap traffic enforcement*.
 Suppose traffic police monitor a stretch of roadway of length $L$.
-They clock a car entering the stretch and leaving a time $t$ later.
+They clock a car entering the stretch and leaving a time $T$ later.
 Without using a radar gun, they know from the MVT that the car was
-travelling at speed $v = L/t$ at some point along the stretch.
+travelling at speed $v = L/T$ at some point along the stretch.
 If this is greater than the speed limit, they can issue a fine!
 
 #### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
