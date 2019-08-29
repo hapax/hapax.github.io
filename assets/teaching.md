@@ -475,8 +475,8 @@ $$
 |\sin^{-1}(x) - \sin^{-1}(y)| > |x-y|,
 $$
 
-assuming $x \neq y$.
-This is elegant and nontrivial result is pictured below.
+assuming $x \neq y$, since the derivative $f'(c) = 1/\sqrt{1-c^2} > 1$.
+This elegant and nontrivial result is pictured below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt12.png"
