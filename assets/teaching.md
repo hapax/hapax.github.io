@@ -11,9 +11,7 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach with some examples for calculus: the mean value theorem, continuous but
-  nowhere-differentiable functions, the approximations of π, disappearing
-  mothballs, self-similar missile trajectories, and collapsing sandpiles.*
+  illustrate this approach with some examples for calculus.*
 
 ### Contents
 
@@ -762,12 +760,12 @@ given number of digits.
 	</div>
 	</figure>
 
-For $15$ decimal places in $\pi$, you need the first $19$ terms in the
+For $15$ decimal places in $\pi$, you need only $19$ terms in the
 sum.
 More generally, the relationship between terms and decimal places is
 *linear*, as the graph above shows.
 You can get students to fit a line and predict how many terms they
-need for, say, the first $100$ digits.
+need for, say, the first $1000$ digits.
 They can add up terms and check that it's right!
 
 To derive Newton's formula for $\pi$, we have thrown rigour to the
@@ -776,12 +774,11 @@ As with the blancmange, I think it is worth mentioning the convergence
 issues at play (power series radius of convergence, uniform
 convergence for term-by-term differentiation) without belabouring them.
 On a first exposure, a quagmire of technical conditions will spoil the magic!
-A numerical check is just as persuasive, and in this case, useful if
-we want to actually approximate $\pi$.
-
+A numerical check will do, particularly since it can be used to
+motivate the relation between terms and digits.
 Is this pedagogically sound?
 I find the hiking analogy helpful here.
-Rigour is something like a *safety harness* for mountain climbing.
+Rigour is something like a heavy *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up.
@@ -894,7 +891,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
     constant*.
 
 3. Suppose the napthalene cloud diffuses very slowly, with a steady
-   outward flow of molecules. Argue that, for a steady flow, the function
+   outward flow of molecules. Argue that, for this steady flow, the function
 
    $$
    G(r) = 4\pi r^2 F(r)
@@ -915,11 +912,11 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
    $R(t)$ depends on time.
    It is a little easier to calculate how the *mass* of the ball changes
    with time.
-   First, show that if $m_\text{N}$ is the mass of a napthalene molecule, and
+   Show that if $m_\text{N}$ is the mass of a napthalene molecule, and
    $M$ the mass of the moth ball, then
 
    $$
-   \frac{dM}{dt} = -m_\text{N}G(R) = -4 \pi m_\text{N} D c_\text{sub} R.
+   \frac{dM}{dt} = -m_\text{N}G(R) = -4 \pi m_\text{N} c_\text{sub}D R.
    $$
 
 6. If $\rho$ is the mass density of the moth ball, show that we can
@@ -956,16 +953,14 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ----
 
-This is more conceptually challenging than the first moth ball question,
-but we are not straying from mathematics since the physics and chemistry has been "precomputed".
-It's a related rates problem embedded in a real world application.
-
 #### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
 Our next problem elaborates on a classic pursuit puzzle, first posed
 in [Igor Irodov's](https://en.wikipedia.org/wiki/Igor_Irodov)
 [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-and later [popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/) by [Martin Gardner](https://en.wikipedia.org/wiki/Martin_gardner).
+and later
+[popularised](http://www.cambridgeblog.org/2008/10/win-a-new-martin-gardner-book-5/)
+by [Martin Gardner](https://en.wikipedia.org/wiki/Martin_gardner).
 Three homing missiles $M_1, M_2, M_3$ are fired at each
 other from the vertices of an equilateral triangle.
 The triangle has side $\ell$, and missile $M_1$ homes in on $M_2$, $M_2$ on $M_3$, and
@@ -1080,27 +1075,24 @@ the missiles.
 Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* ("marvellous spiral") since he
-was so struck by this property of self-resemblance.
-His gravestone even bears the enigmatic Latin phrase
+was so struck by its property of self-resemblance.
+His gravestone even bears the enigmatic Latin reference
 
 <span style="padding-left: 20px; display:block">
-<i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
+<i>Eadem mutato resurgo.</i>
 </span>
 
-In a carving snafu, the Archimedean spiral ($r = C\phi$) rather than the logarithmic
-spiral got inscribed next to it!
+This means "Although changed, I shall arise the same".
+In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
+spiral was inscribed next to it!
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3"name="sec-3-3"></a>
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
-#### Saddles and spheres
+## 4. Research <a id="sec-4" name="sec-4"></a>
 
-#### Measuring the Earth
-
-## Fine points
-
-#### 1.4. The evidence <a id="sec-1-4" name="sec-1-4"></a>
+#### 4.1. The evidence <a id="sec-4-1" name="sec-4-1"></a>
 
 In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
@@ -1120,7 +1112,6 @@ Adroit guide
 
 ## References
 
-- Nathalie Sinclair
 
 ## Extra
 
@@ -1812,3 +1803,7 @@ But so many more would be enriched.
 This is different from trying to include "weak" students by making
 things dull and easy!
 No one benefits, since it reinforces stereotypes and turns everyone off.
+
+This is more conceptually challenging than the first moth ball question,
+but we are not straying from mathematics since the physics and chemistry has been "precomputed".
+It's a related rates problem embedded in a real world application.
