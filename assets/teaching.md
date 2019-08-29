@@ -61,7 +61,7 @@ Even more surprisingly, Russell's paradox can be jerry-rigged into a clever
 argument that there are different sorts of infinity!
 This is a sort of power that philosophers, using mere words, could
 only dream of.
-I saw that maths was deep and beautiful.
+I saw that maths was deep and strangely beautiful.
 
 At the same time, I was reading pop science books about physics,
 fun things like relativity and quantum mechanics.
