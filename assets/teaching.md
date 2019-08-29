@@ -11,7 +11,7 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach with some examples for calculus.*
+  illustrate this approach for teaching differentiation.*
 
 ### Contents
 
@@ -70,7 +70,8 @@ and colourful examples.
 But I began to suspect that I was missing something, and that to
 really get to the bottom of things, I would need to know some mathematics.
 To paraphrase Galileo, if I wanted to speak with the universe, to
-become "conversant", then I needed to learn its language, which seemed to be maths and not colourful analogies.
+become "conversant", then I needed to learn its language, which seemed
+to be maths and not colourful analogies.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
@@ -79,7 +80,8 @@ extraordinary beauty and power.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that there's a
-mathematical world out there, which also describes our world?
+mathematical world out there, which happens to exquisitely describe
+the real world?
 The problem, I'll argue, is that maths education is stuck in a sort of
 *scrubland* with no views into this enchanted realm.
 
@@ -155,7 +157,7 @@ there, waiting to be relished and explored.
 
 #### 1.2. A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
 
-I hope the analogy to maths education and its shortcomings is clear.
+The analogy to maths education and its shortcomings is fanciful but hopefully clear.
 Walking is the ability to manipulate
 symbols.
 Some people are naturally drawn to playing with symbols, some people
