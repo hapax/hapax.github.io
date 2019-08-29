@@ -749,7 +749,7 @@ More generally, the relationship between terms and decimal places is
 Students don't need to understand the subtleties of rates of
 convergence to see this from the numbers!
 
-To derive Newton's formula for $pi$, we have thrown rigour to the
+To derive Newton's formula for $\pi$, we have thrown rigour to the
 wind.
 As with the blancmange, I think it is worth mentioning the convergence
 issues at play (power series radius of convergence, uniform
