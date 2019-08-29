@@ -457,7 +457,7 @@ $$
 assuming $x \neq y$.
 This is an elegant and nontrivial result.
 
-Here's a more practical application to cheap traffic enforcement.
+Here's a more practical application: *cheap traffic enforcement*.
 Suppose traffic police monitor a stretch of roadway of length $L$.
 They clock a car entering the stretch and leaving a time $t$ later.
 Without using a radar gun, they know from the MVT that the car was at
