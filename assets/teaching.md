@@ -956,7 +956,7 @@ $M_3$ on $M_1$.
 	</div>
 	</figure>
 
-Assume the missiles always move at the same speed $v(t)$.
+Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v_3(t)=v(t)$.
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
