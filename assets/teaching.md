@@ -43,10 +43,9 @@ I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
 The situation was so bad that, it wasn't until a physics class, at age 15,
-made me realise that I didn't know how to add fractions or
+that I realised I didn't know how to add fractions or
 multiply negative numbers.
-I had just never internalised those rules, and apparently they weren't
-needed to pass subsequent tests.
+I had just never internalised those rules.
 
 A few years later, taking philosophy at university, I
 encountered set theory.
