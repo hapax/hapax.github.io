@@ -235,13 +235,12 @@ test** should supersede the shrub test:
 <i>Would the least-engaged students bother to read this in their own time?</i>
 </span>
 
-This is extremely stringent test, but I think it's right.
+This is extremely stringent, but I think it's right.
 Why?
 First of all, it's *fair*.
 The students who are already engaged and making progress have
-something the students at the margins don't.
-We should try to ensure that everyone has a basic level of this social good, engagement.
-And as with social good in the Rawlsian model, by making
+a basic level of social good the students at the margins don't.
+And as with social good in the broader Rawlsian context, by making
 maths engaging, there should be a "trickle up" effect across the
 board.
 Making maths class more interesting for the least-engaged will make it
@@ -251,16 +250,16 @@ Secondly, teaching is a wildly complex business.
 Besides the choice of material (which I'm emphasising here), there's
 a whole host of other variables to consider, from pedagogy and lesson planning,
 demographics, classroom management, technology,
-and so on, all playing a role in the effectives of a class.
-How do you maximise average student outcomes in this multidimensional
+and so on, which all play a role in the effectiveness of a class.
+How do you optimise average student outcomes in this multidimensional
 landscape?
+It looks like an intractable problem for a regular class.
 Given the uncertainties, game theory tells us we should focus on
 maximising the minimum outcome.
-Here, I think this should mean addressing the least-engaged students,
-those at greatest risk of being permanently turned off mathematics
-and its sister sciences.
-And leaving the scrubland is the first step towards including these
-students.
+I think the worst outcome is permanently turning students off
+mathematics and its sister sciences, and hence we should address the
+students at greatest risk.
+Leaving the scrubland is the first step.
 
 #### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
@@ -656,9 +655,8 @@ In their own way, monsters can be beautiful.
 I'll do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
 This requires a little more symbolic facility from students, but the
 payoff is a beautiful infinite series identity.
-On a broader note, I think infinite series are one of the great
-propaganda tools for calculus, and deserve a greater place in the high
-school syllabus.
+I think infinite series are one of the great propaganda tools for
+calculus, and deserve a greater place in the high school syllabus.
 When I first encountered them, I was astounded: they were beautiful
 but otherworldly, like a glittering chunk of meteorite found in the middle
 of a corn field.
@@ -743,7 +741,7 @@ Below, I've plotted the first six partial sums.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine.png"
     width="70%" />
-		    <figcaption><i>The series converges to π rapidly.</i></figcaption>
+		    <figcaption><i>The series converges to π ≈ 3.14 rapidly.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1089,6 +1087,23 @@ In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
 #### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
+
+Our final redo is the sandpile, taking inspiration from
+[Hadeler and Kuttler (1999)](https://link.springer.com/article/10.1007/s100350050029).
+A pile of sand has two components: a *standing layer*, which is the
+large blob of stable sand at the bottom of the pile, and a *rolling
+layer* of loose grains running down the slope.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/sandpile.png"
+    width="68%" />
+		    <figcaption><i>A sandpile, consisting of a standing layer
+    and a rolling layer.</i></figcaption>
+	</div>
+	</figure>
+
+We work with two-dimensional piles for simplicity.
+
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
