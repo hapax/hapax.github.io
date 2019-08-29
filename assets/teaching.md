@@ -544,7 +544,7 @@ But it's easier if we proceed step-by-step.
 First, let's set $a = 0$ and $b= 1$; we lose nothing by making this
 choice, since we can always scale and shift our answer to recover the
 result for an arbitrary interval.
-Let's start with a trangle-shaped function with a single kink at $x =
+We can start with a trangle-shaped function possessing a single kink at $x =
 1/2$, though most functions with a single kink will do.
 For the triange, we can apply the MVT to any subinterval entirely to the left of the midpoint,
 or entirely the right of the midpoint.
