@@ -455,7 +455,14 @@ $$
 $$
 
 assuming $x \neq y$.
-This is an elegant and nontrivial result.
+This is elegant and nontrivial result is pictured below.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/mvt12.png"
+    width="85%" />
+		    <figcaption><i>The MVT implies inverse sine is distance-increasing.</i></figcaption>
+	</div>
+	</figure>
 
 Here's a more practical application: *cheap traffic enforcement*.
 Suppose traffic police monitor a stretch of roadway of length $L$.
