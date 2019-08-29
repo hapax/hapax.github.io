@@ -766,8 +766,9 @@ For $15$ decimal places in $\pi$, you need the first $19$ terms in the
 sum.
 More generally, the relationship between terms and decimal places is
 *linear*, as the graph above shows.
-Students don't need to understand the subtleties of rates of
-convergence to see this from the numbers!
+You can get students to fit a line and predict how many terms they
+need for, say, the first $100$ digits.
+They can add up terms and check that it's right!
 
 To derive Newton's formula for $\pi$, we have thrown rigour to the
 wind.
