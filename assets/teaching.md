@@ -53,8 +53,10 @@ It totally blew my gourd.
 First of all, there was this wonderful paradox of Bertrand Russell about
 the set of all sets which don't contain themselves.
 Is this big set a member of itself or not?
-It turns out that neither can be true, so the big set can't exist without
-breaking the universe.
+If it is a member of itself, by definition it's not a member of
+itself; and if it's not a member of itself, by definition it is a
+member of itself.
+Neither can be true, so the big set can't exist without breaking the universe.
 Even more surprisingly, Russell's paradox is related to a very clever
 argument that there are different sorts of infinity.
 This is a sort of power that philosophers, using mere words, could
