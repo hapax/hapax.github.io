@@ -75,13 +75,13 @@ But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that there's a
 mathematical world out there, which also describes our world?
-The problem, I will argue, is that maths education is stuck in a sort of
-*scrubland* with no views into that world.
-We can make the problem more vivid with an (admittedly tendentious) analogy.
+The problem, I'll argue, is that maths education is stuck in a sort of
+*scrubland* with no views into this enchanted world.
 
 #### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
- Instead of maths, imagine you were forced to take *hiking classes* in high school.
+To make the problem more vivid, I'm going to ask you to imagine a
+ reality where, instead of maths, you were forced to take *hiking classes* in high school.
 Every day, you and your classmates would trudge through a barren,
 featureless scrubland, with no views, no peaks, and no apparent goal
 other than the hike itself.
