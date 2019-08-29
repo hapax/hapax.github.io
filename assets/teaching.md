@@ -47,7 +47,7 @@ multiply negative numbers.
 I had just never internalised those rules, and apparently they weren't
 needed to pass subsequent tests.
 
-A few years later, studying philosophy at university, I
+A few years later, taking philosophy at university, I
 encountered set theory.
 It totally blew my gourd.
 First of all, there was this wonderful paradox of Bertrand Russell about
@@ -57,8 +57,8 @@ If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
 Neither can be true, so the big set can't exist without breaking the universe.
-Even more surprisingly, Russell's paradox is related to a very clever
-argument that there are different sorts of infinity.
+Even more surprisingly, Russell's paradox can be jerry-rigged into a clever
+argument that there are different sorts of infinity!
 This is a sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths was powerful and deep and beautiful.
