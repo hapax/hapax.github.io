@@ -48,8 +48,8 @@ The situation was so bad that, at age 15, I remember realising that I
 didn't know how to add fractions or multiply negative numbers.
 I had just never internalised those rules.
 
-A few years later, taking philosophy at university, I
-encountered set theory.
+A few years later, taking a philosophy course, I
+encountered set theory for the first time.
 It totally blew my gourd.
 First of all, there was this wonderful paradox of Bertrand Russell about
 the set of all sets which don't contain themselves.
@@ -58,9 +58,9 @@ If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
 Neither can be true, so the big set can't exist without breaking the universe.
-Even more surprisingly, Russell's paradox can be jerry-rigged into a clever
+This is more than a novelty; Russell's paradox can be jerry-rigged into an
 argument that there are different sorts of infinity!
-This is a sort of power that philosophers, using mere words, could
+This is the sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths could be deep and bewitchingly strange.
 
@@ -69,10 +69,9 @@ fun things like relativity, black holes and quantum mechanics.
 These pop science books were great, filled with pictures and metaphors
 and colourful examples.
 But I began to suspect that I was missing something, and that to
-really understand these things, I would need to know some mathematics.
+really get to the bottom of things, I would need to know some mathematics.
 To paraphrase Galileo, if I wanted to speak with the universe, to
-become "conversant", then I needed to learn its language, which turns
-out to be maths and not colourful analogies.
+become "conversant", then I needed to learn its language, which seemed to be maths and not colourful analogies.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
@@ -123,8 +122,9 @@ Why don't we ditch the hikes, and teach students how to walk to the
 corner store, the bus stop, or around the block with a dog in tow, the
 sort of walking most adults actually do?
 This would have made sense a hundred years ago.
-But now a whole sector of the economy depends on advanced hiking
-skills: we need wayfarers, explorers and hunters to help meet the
+But let's imagine that there's now a whole sector of the economy which
+depends on advanced hiking
+skills, a need for wayfarers, explorers and hunters to meet the
 needs of society as a whole.
 We need hiking classes to act as an intake mechanism, drawing students
 into the field and equipping them to explore.
@@ -137,7 +137,7 @@ and let the rest opt out.
 But walking is a skill that can be developed, and most of these
 "natural walkers" are in fact *motivated by non-scrubland experiences*.
 Their parents took them out into nature, or they read about inspiring
-walks in a book with pictures.
+walks in a book with pictures, something like the pop science books I mentioned.
 They don't visit the scrubland in their free time!
 These non-scrubland experiences, rather than natural ability, pushed
 them to develop their walking skills.
@@ -150,11 +150,9 @@ With time, they could learn to camp in the wilderness, explore
 uncharted wastes and conquer summits.
 I think interest would blossom in unexpected places.
 By going on real hikes, we would stop wasting student time, improve
-social outcomes by attracting more students into that sector, and
-perhaps most importantly, show them that all of nature is out there,
-waiting to be relished and explored.
-Some students would probably still hate hiking.
-But so many more would be enriched.
+social outcomes by attracting more students into the hiking sector, and
+perhaps most importantly, show them that there's a whole world out
+there, waiting to be relished and explored.
 
 #### 1.2. A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
 
@@ -185,8 +183,8 @@ The topic is calculus, one the great milestones of Western thought.
 And here, we're finding... rates of change of ... some functions, I
 guess.
 What do these functions do?
+Who is inverse sine on a Saturday?
 Why do I care?
-I may as well be looking at a barcode.
 These questions are unforgivably dull when there is literally hundreds
 of years of material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
@@ -1796,3 +1794,6 @@ And show them how powerful these tools are?
 
 I'm a theoretical physicist, which means that I use mathematics on a
 daily basis, and love it; I'm a big fan.
+
+Some students would probably still hate hiking.
+But so many more would be enriched.
