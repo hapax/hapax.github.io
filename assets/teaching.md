@@ -239,18 +239,20 @@ Why?
 First of all, it's *fair*.
 The students who are already engaged and making progress have
 something the students at the margins don't.
-And as with social good, by making maths engaging, there should be a
-"trickle up" effect across the board.
-This is different from trying to include "weak" students by making
-things dull and easy!
-No one benefits, since it reinforces stereotypes and turns everyone off.
+We're trying to ensure that everyone a basic of this social good, engagement.
+And as with social good in the broader political context, by making
+maths engaging, there should be a "trickle up" effect across the
+board.
+Making maths class more interesting for the least-engaged will
+probably make it more interesting for everyone!
 
 Secondly, teaching is a wildly complex business.
-Besides the choice of material (which I am emphasising here), there is
+Besides the choice of material (which I'm emphasising here), there's
 a whole host of other variables to consider, from pedagogy and lesson planning,
-demographics and student background, classroom management, technology,
-and so on, all playing a role in success or failure.
-Strategising for average student outcome is very hard!
+demographics, classroom management, technology,
+and so on, all playing a role in the effectives of a class.
+How do you maximise average student outcomes in this multidimensional
+landscape?
 Given the uncertainties, game theory tells us we should focus on
 maximising the minimum outcome.
 Here, I think this should mean addressing the least-engaged students,
@@ -264,13 +266,14 @@ students.
 Of course, students need to practice walking before they wander off
 into the foothills, armed only with a compass and a sense of adventure.
 Similarly, students need to learn how to manipulate symbols in order
-to do real mathematics, and that
-takes practice.
-There are better ways to practice than looking at shrubs.
-But the real problem is that *the scrubland never ends*, and what
-appear to be features on the horizon are just shrubs of a different
-colour.
+to do fun, engaging mathematics, and that takes practice.
+But if we tell them where we're headed, and all the amazing things
+we'll be able to see and do when we get there, maybe they won't mind
+practicing.
+And this is the real problem: not that students dril, but that *the
+scrubland never ends*.
 They drill in order to keep drilling.
+They study shrubs here, so they classify some other shrubs down the road.
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
@@ -1799,3 +1802,7 @@ daily basis, and love it; I'm a big fan.
 
 Some students would probably still hate hiking.
 But so many more would be enriched.
+
+This is different from trying to include "weak" students by making
+things dull and easy!
+No one benefits, since it reinforces stereotypes and turns everyone off.
