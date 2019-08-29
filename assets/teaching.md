@@ -199,9 +199,11 @@ To help capture this, I'm going to propose that they fail the **shrub test**:
 <i>Would anyone bother to read this in their own time?</i>
 </span>
 
+In other words, would they read it, and do the problems, if they
+didn't have to in order to pass the next quiz.
 If not, you have shrubs, and shrubs kill interest.
 No one wants to spend hours looking at shrubs.
-If you force them to, in order to pass an exam, you're wasting their time.
+If you force them to, you're wasting their time.
 
 The shrub test is a pretty low bar.
 All we ask is that *somebody* might conceivably read it for fun.
