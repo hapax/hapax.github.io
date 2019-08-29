@@ -736,7 +736,7 @@ given number of digits.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/pi-inverse-sine-2.png"
-    width="70%" />
+    width="74%" />
 		    <figcaption><i>The number of terms needed is linear in the
     number of digits we want for our approximation of $\pi$.</i></figcaption>
 	</div>
