@@ -11,8 +11,8 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach with examples: the mean value theorem, continuous but
-  nowhere-differentiable functions, approximations of π, disappearing
+  illustrate this approach with some examples for calculus: the mean value theorem, continuous but
+  nowhere-differentiable functions, the approximations of π, disappearing
   mothballs, self-similar missile trajectories, and collapsing sandpiles.*
 
 ### Contents
@@ -34,36 +34,47 @@ date:  2019-08-03
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
 In high school, I thought maths was boring.
-I was skeptical about claims it would help me in real
-life --- you don't need trigonometry for your tax returns, or to solve
-simultaneous equations at the grocery store --- and found the endless
-drill mind-numbing.
-There were an infinite number of equations to solve.
-Why should I care about any particular one?
-I scraped by with passes, copying examples and cramming for tests, but
-I thought of maths class as a tedious game with rules I didn't need to
-know beyond the next test.
-The situation was so bad that, swotting for an exam at age 15, I
-remember teaching myself how to add fractions and multiply negative
-numbers properly.
+I scoffed at the idea I would use it in real life --- you don't need
+trigonometry for your tax returns, or algebra to apply for a home loan
+--- and found the endless drill soul-destroying.
+What's my motivation for finding $x$?
+Let somebody else solve those equations!
+I scraped by with passes, aping textbook examples and cramming for
+tests, but maths class was a meaningless game with rules I didn't need
+to know beyond the next test.
+The situation was so bad that, it wasn't until a physics class, at age 15,
+made me realise that I didn't know how to add fractions or
+multiply negative numbers.
+I had just never internalised those rules, and they weren't really
+needed on subsequent tests.
 
-In a philosophy class a few years later, I was introduced to set theory.
-Different sorts of infinity, Russell's paradox, Cantor's
-diagonalisation argument --- all of this tickled my
-philosophical fancy, but also a long dormant *aesthetic sensitivity* to
-mathematics.
-It could be beautiful, and just as deep as philosophy.
-I also had a recreational interest in physics, and to paraphrase Galileo,
+A few years later, studying philosophy at university, I
+encountered set theory.
+It totally blew my gourd.
+First of all, there was this wonderful paradox of Bertrand Russell about
+the set of all sets which don't contain themselves.
+Is this big set a member of itself or not?
+It turns out that neither can be true, so the big set can't exist without
+breaking the universe.
+Even more surprisingly, Russell's paradox is related to a very clever
+argument that there are different sorts of infinity.
+This is a sort of power that philosophers, using mere words, could
+only dream of.
+I saw that maths was powerful and deep and beautiful.
+At the same time, I was pop science books about relativity and quantum
+mechanics.
 I began to see that maths was a formal game played by nature as well.
+To paraphrase Galileo, it's the language in which the book of the
+universe is written.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
 
-I was lucky, stumbling later in life into a hidden realm of
+I was lucky, stumbling later in life onto a hidden realm of
 extraordinary beauty and power.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
-copying just enough to pass tests, never seeing that *there is a
-mathematical world out there*!
+copying just enough to pass tests, never seeing that there's a
+mathematical world out there, which also describes our world?
 The problem, I will argue, is that maths education is stuck in a sort of
 *scrubland* with no views into that world.
 We can make the problem more vivid with an (admittedly tendentious) analogy.
