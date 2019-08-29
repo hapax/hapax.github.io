@@ -277,7 +277,7 @@ They study shrubs here, so they classify some other shrubs down the road.
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
-scrubland, and if you want to write a textbook, just "shrubbify" and
+scrubland, and if you want to write a textbook, just
 fill the book with lifeless, shrub-like variants of the same problem.
 But the responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the people who write the curriculum.
