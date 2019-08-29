@@ -37,7 +37,8 @@ In high school, I thought maths was boring.
 I scoffed at the suggestion I would use it in real life --- you don't need
 trigonometry for your tax returns --- and found the endless drill soul-destroying.
 What's my motivation for finding $x$?
-Let somebody else solve those equations!
+You go find it!
+Let somebody else solve those equations.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
