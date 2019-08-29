@@ -535,9 +535,9 @@ mean value theorem *does* hold. We just avoid the kink!
 
 So here is the challenge: define a continuous curve where the
 mean value theorem is not applicable in any subinterval.
-Since we can apply the theorem whenever we can select a subinterval
+Since we can apply the theorem to any subinterval
 without kinks, we need *every subinterval to contain a kink*.
-In technical parlance, the kinks must be dense in $[a, b]$.
+In technical parlance, the kinks must be *dense* in $[a, b]$.
 
 It's hard to imagine (or draw) an infinitely jittery curve.
 But it's easier if we proceed step-by-step.
