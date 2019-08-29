@@ -10,10 +10,10 @@ date:  2019-08-03
 **August 13, 2019.** *In the 21st century, higher-order mathematical
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
-  of the holes in the pipeline? I propose we make maths interesting! This calls for collaboration between practicing
-  scientists and educators. Together, they can plot a route out of the
-  scrubland, and into realms where the beauty and power of
-  mathematical thought are evident.*
+  of the holes in the pipeline? I propose we make maths interesting! I
+  illustrate this approach with examples: the mean value theorem, continuous but
+  nowhere-differentiable functions, approximations of π, disappearing
+  mothballs, self-similar missile trajectories, and collapsing sandpiles.*
 
 ### Contents
 
@@ -466,15 +466,15 @@ This is elegant and nontrivial result is pictured below.
 
 Here's a more practical application: *cheap traffic enforcement*.
 Suppose traffic police monitor a stretch of highway of length $L$.
-They clock a car entering the stretch, and leaving a time $T$ later.
-Without using a radar gun, they know from the MVT that the car was
+They clock a car entering the stretch and leaving a time $T$ later.
+Without using a radar gun, they know from the MVT (see graph below) that the car was
 travelling at speed $v = L/T$ at some point along the stretch.
 If this is greater than the speed limit, they can issue a fine!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt13.png"
-    width="60%" />
-		    <figcaption><i>The MVT lets police replace a radar gun
+    width="63%" />
+		    <figcaption><i>The MVT replaces a radar gun
     with a watch.</i></figcaption>
 	</div>
 	</figure>
@@ -591,7 +591,7 @@ themselves.
 They should see the function settle down to something continuous as as $n$ gets large.
 (See [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
 by David Richeson for example.)
-This is not be a proof, but it does give a convincing numerical
+This is not a proof, but it does give a convincing numerical
 demonstration both of convergence and continuity.
 
 Another question is why we bother *adding* the triangles.
@@ -668,7 +668,7 @@ $$
 $$
 
 The RHS can be expanded using the
-[binomial series](https://en.wikipedia.org/wiki/Binomial_series):
+[binomial series](https://en.wikipedia.org/wiki/Binomial_series) discovered by [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton):
 
 $$
 (1-x^2)^{-1/2} = 1 + \frac{1}{2}x^2 + \frac{1\cdot 3}{2\cdot 4} x^4 +
@@ -714,6 +714,12 @@ $$
 6}\left(\frac{1}{7\cdot 2^7}\right) + \cdots
 $$
 
+As students can check themselves, this formula converges extremely
+rapidly.
+Newton arrived at this 
+"I am ashamed to tell you to how many figures I carried these
+computations, having no other business at the time."
+
 To arrive at this point, we have thrown rigour to the wind, ignoring
 the radius of the power series and the uniform convergence of the sum
 needed to integrate term-by-term.
@@ -722,12 +728,7 @@ identity may not be true!
 But as with the blancmange, a numerical check of convergence
 is more persuasive in a classroom setting than a quagmire of technical
 conditions.
-And in fact, as students can confirm, the series converges rapidly to
-$\pi/6$.
-Newton used this formula to calculate $\pi$ to 15 decimal places, and
-students can reproduce this feat themselves!
-
-Is our neglect of rigour dangerous?
+On that note, is our neglect of rigour dangerous?
 The hiking analogy is helpful: rigour is something like a *safety
 harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
