@@ -20,8 +20,8 @@ date:  2019-08-03
 1. <a href="#sec-1">Stuck in the scrubland</a>
    1. <a href="#sec-1-1">A preamble</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
-   3. <a href="#sec-1-3">Roads to nowhere</a>
-   4. <a href="#sec-1-4">Shrubs and maximin</a>
+   3. <a href="#sec-1-3">Shrubs and maximin</a>
+   4. <a href="#sec-1-4">Roads to nowhere</a>
 2. <a href="#sec-2">Views of the summit</a>
    1. <a href="#sec-2-1">The mean value theorem</a>
    2. <a href="#sec-2-2">A kink in the argument</a>
@@ -186,46 +186,7 @@ of years of material to draw on.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
-#### 1.3. Roads to nowhere <a id="sec-1-3" name="sec-1-3"></a>
-
-Of course, students need to practice walking before they wander off
-into the foothills, armed only with a compass and a sense of adventure.
-Similarly, students need to learn how to manipulate symbols in order
-to do real mathematics, and that
-takes practice.
-There are better ways to practice than looking at shrubs.
-But the real problem is that *the scrubland never ends*, and what
-appear to be features on the horizon are just shrubs of a different
-colour.
-They drill in order to keep drilling.
-
-The truth is that scrubland is easy for everyone but the students.
-You don't need to be a good hiker to guide a class through the
-scrubland, and if you want to write a textbook, just "shrubbify" and
-fill the book with lifeless, shrub-like variants of the same problem.
-But the responsibility for getting us out of the scrubland doesn't lie
-with teachers, or even textbook writers, but the people who write the curriculum.
-And from their perspective, it's much easier to maintain the
-scrubland, and maybe ride around in a pickup truck painting shrubs different
-colours, than to chart a new course into the mathematical world.
-That would take time, money, and vision, and these are perennially in
-short supply.
-
-But good mathematical skills are important to society as a whole, just
-like in the hiking analogy.
-I'm not talking about basic numeracy, e.g. the ability to calculate a
-tip or scale up a recipe.
-I'm talking about dealing with the ongoing effects of climate change,
-big data, artificial intelligence, or personalised medicine, issues which
-call for explorers with higher-order hiking skills and a taste for the unknown.
-The stakes couldn't be higher.
-Curriculum writers need to get out of their pickup trucks,
-drop their paintbrushes, and start talking to professionals, people who
-know the landscape and use the trails.
-Together, they can move mathematics out of the scrubland, and into the 21st
-century with all its challenges and complexities.
-
-#### 1.4. Shrubs and maximin <a id="sec-1-4" name="sec-1-4"></a>
+#### 1.3. Shrubs and maximin <a id="sec-1-3" name="sec-1-3"></a>
 
 What makes the questions above bad?
 They fail a very simple check, which I'll call the **shrub test**:
@@ -291,6 +252,45 @@ those at greatest risk of being permanently turned off mathematics
 and its sister sciences.
 And leaving the scrubland is the first step towards including these
 students.
+
+#### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
+
+Of course, students need to practice walking before they wander off
+into the foothills, armed only with a compass and a sense of adventure.
+Similarly, students need to learn how to manipulate symbols in order
+to do real mathematics, and that
+takes practice.
+There are better ways to practice than looking at shrubs.
+But the real problem is that *the scrubland never ends*, and what
+appear to be features on the horizon are just shrubs of a different
+colour.
+They drill in order to keep drilling.
+
+The truth is that scrubland is easy for everyone but the students.
+You don't need to be a good hiker to guide a class through the
+scrubland, and if you want to write a textbook, just "shrubbify" and
+fill the book with lifeless, shrub-like variants of the same problem.
+But the responsibility for getting us out of the scrubland doesn't lie
+with teachers, or even textbook writers, but the people who write the curriculum.
+And from their perspective, it's much easier to maintain the
+scrubland, and maybe ride around in a pickup truck painting shrubs different
+colours, than to chart a new course into the mathematical world.
+That would take time, money, and vision, and these are perennially in
+short supply.
+
+But good mathematical skills are important to society as a whole, just
+like in the hiking analogy.
+I'm not talking about basic numeracy, e.g. the ability to calculate a
+tip or scale up a recipe.
+I'm talking about dealing with the ongoing effects of climate change,
+big data, artificial intelligence, or personalised medicine, issues which
+call for explorers with higher-order hiking skills and a taste for the unknown.
+The stakes couldn't be higher.
+Curriculum writers need to get out of their pickup trucks,
+drop their paintbrushes, and start talking to professionals, people who
+know the landscape and use the trails.
+Together, they can move mathematics out of the scrubland, and into the 21st
+century with all its challenges and complexities.
 
 ## 2. Views of the summit <a id="sec-2" name="sec-2"></a>
 
