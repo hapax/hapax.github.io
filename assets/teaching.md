@@ -61,7 +61,7 @@ Even more surprisingly, Russell's paradox can be jerry-rigged into a clever
 argument that there are different sorts of infinity!
 This is a sort of power that philosophers, using mere words, could
 only dream of.
-I saw that maths was deep and strangely beautiful.
+I saw that maths could be deep and bewitchingly strange.
 
 At the same time, I was reading pop science books about physics,
 fun things like relativity and quantum mechanics.
@@ -70,7 +70,6 @@ To paraphrase Galileo, it's the language in which the book of the
 universe is written.
 Eventually, I switched from philosophy to maths and physics and never
 looked back.
-
 I was lucky, stumbling later in life onto a hidden realm of
 extraordinary beauty and power.
 But how many students are unlucky?
