@@ -77,7 +77,7 @@ How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, never seeing that there's a
 mathematical world out there, which also describes our world?
 The problem, I'll argue, is that maths education is stuck in a sort of
-*scrubland* with no views into this enchanted world.
+*scrubland* with no views into this enchanted realm.
 
 #### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
