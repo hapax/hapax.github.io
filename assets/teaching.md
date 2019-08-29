@@ -747,7 +747,7 @@ sum.
 More generally, the relationship between terms and decimal places is
 *linear*, as the graph above shows.
 Students don't need to understand the subtleties of rates of
-convergence to see the linear relationship!
+convergence to see this from the numbers!
 
 To derive Newton's formula for $pi$, we have thrown rigour to the
 wind.
