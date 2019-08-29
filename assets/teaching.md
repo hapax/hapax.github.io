@@ -30,6 +30,7 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sandpiles and criticality</a>
+   4. <a href="#sec-3-4">Drilling for patterns</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -833,6 +834,8 @@ There is an even grander secret.
 tools can be brought to bear.
 For maximum rhetorical impact, I'm going to show this by redoing each
 of the three calculus word problems above.
+Afterwards, I'll comment on the somewhat obvious tension with the
+maximin test.
 
 #### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
@@ -998,7 +1001,8 @@ This is where you might get hit!
    (No calculus needed.)
 
 5. Extending your observation in Problem 4, explain why the paths
-   traced by the missiles do not depend on their velocity.
+   traced by the missiles do not depend on their velocity (provided
+   the speed profiles agree).
 
 6. (Bonus) Generalise your result to $n$ homing missiles on the vertices of an
     equilateral polygon, with $n$ sides of length $\ell$.
@@ -1086,7 +1090,9 @@ His gravestone even bears the enigmatic Latin phrase
 In a carving snafu, the Archimedean spiral ($r = C\phi$) rather than the logarithmic
 spiral got inscribed next to it!
 
-#### 3.3. Sandpiles and criticality <a id="sec-3-3" name="sec-3-3"></a>
+#### 3.3. Sandpiles and criticality <a id="sec-3-3"name="sec-3-3"></a>
+
+#### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
 #### Saddles and spheres
 
