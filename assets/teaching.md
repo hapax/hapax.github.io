@@ -35,8 +35,7 @@ date:  2019-08-03
 
 In high school, I thought maths was boring.
 I scoffed at the suggestion I would use it in real life --- you don't need
-trigonometry for your tax returns, or algebra to apply for a home loan
---- and found the endless drill soul-destroying.
+trigonometry for your tax returns --- and found the endless drill soul-destroying.
 What's my motivation for finding $x$?
 Let somebody else solve those equations!
 I scraped by with passes, aping textbook examples and cramming for
