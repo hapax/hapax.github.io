@@ -747,26 +747,27 @@ sum.
 More generally, the relationship between terms and decimal places is
 *linear*, as the graph above shows.
 Students don't need to understand the subtleties of rates of
-convergence to see the linear relationship emerge from the numbers!
+convergence to see the linear relationship!
 
-To derive the formula, we have thrown rigour to the wind, ignoring
-the radius of the power series and the uniform convergence of the sum
-needed to integrate term-by-term.
-These are important issues, since at the end of the day our
-identity may not be true!
-But as with the blancmange, a numerical check of convergence
-is more persuasive in a classroom setting than a quagmire of technical
-conditions.
-On that note, is our neglect of rigour dangerous?
-The hiking analogy is helpful: rigour is something like a *safety
-harness* for mountain climbing.
+To derive Newton's formula for $pi$, we have thrown rigour to the
+wind.
+As with the blancmange, I think it is worth mentioning the convergence
+issues at play (power series radius of convergence, uniform
+convergence for term-by-term differentiation) without belabouring them.
+On a first exposure, a quagmire of technical conditions will spoil the magic!
+A numerical check is just as persuasive, and in this case, useful if
+we want to actually approximate $\pi$.
+
+Is this pedagogically sound?
+I find the hiking analogy helpful here.
+Rigour is something like a *safety harness* for mountain climbing.
 From the sheltered vantage of our hill, we can mention rigour and explain
 why the professional climbers need it, but do not ourselves need to
 gear up.
 There are other ways to orient students in the landscape and protect
-them from misadventure, though I see no reason that an advanced class
-should not try climbing a small-ish mountain here or there, and
-prepare accordingly.
+them from misadventure.
+That said, I see no reason that an advanced class should not try
+climbing a mountain here or there, and prepare accordingly.
 
 ## 3. Mining for patterns <a id="sec-3" name="sec-3"></a>
 
