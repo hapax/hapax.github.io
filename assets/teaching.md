@@ -33,13 +33,14 @@ date:  2019-08-03
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
-In high school, I thought maths was boring.
-I was one of those kids.
-I scoffed at the suggestion I would use it in real life --- you don't need
-trigonometry for your tax returns --- and found the endless drill soul-destroying.
-What's my motivation for finding $x$?
-You go find it!
-Let somebody else solve those equations.
+In high school, I was one of those kids.
+I thought maths was about as boring as watching paint
+dry, except that a fresh coat of paint might be useful and add a bit
+of colour to the world.
+I harboured no such illusions about mathematics.
+Would I use trigonometry on my tax returns?
+Or solve simultaneous equations at the supermarket?
+Finding $x$ was somebody else's business.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
