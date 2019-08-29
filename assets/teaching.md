@@ -1056,7 +1056,7 @@ the missiles.
 Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* ("marvellous spiral") since he
-was so struck by this self-resemblance property.
+was so struck by this property of self-resemblance.
 His gravestone even bears the enigmatic Latin phrase
 
 <span style="padding-left: 20px; display:block">
