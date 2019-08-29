@@ -211,7 +211,8 @@ colours, than to chart a new course into the mathematical world.
 That would take time, money, and vision, and these are perennially in
 short supply.
 
-But good mathematical skills are important to society as a whole.
+But good mathematical skills are important to society as a whole, just
+like in the hiking analogy.
 I'm not talking about basic numeracy, e.g. the ability to calculate a
 tip or scale up a recipe.
 I'm talking about dealing with the ongoing effects of climate change,
