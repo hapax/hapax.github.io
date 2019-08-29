@@ -459,7 +459,7 @@ This is elegant and nontrivial result is pictured below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt12.png"
-    width="85%" />
+    width="75%" />
 		    <figcaption><i>The MVT implies inverse sine is distance-increasing.</i></figcaption>
 	</div>
 	</figure>
