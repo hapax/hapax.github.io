@@ -664,7 +664,7 @@ inverse sine.
 First, recall the derivative:
 
 $$
-\frac{d}{dx} \sin^{-1} x = (1-x^2)^{-1/2}.
+\frac{d}{dx} \sin^{-1} x = \frac{1}{\sqrt{1-x^2}}.
 $$
 
 The RHS can be expanded using the
