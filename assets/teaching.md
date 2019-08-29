@@ -158,11 +158,11 @@ symbols.
 Some people are naturally drawn to playing with symbols, some people
 aren't.
 But maths is not symbol manipulation any more than hiking is walking!
-These activities might be necessary to mathematics, but they don't
-constitute it.
+Manipulating symbols is *how* mathematics is done, but it's not *why* we
+do it.
 And like walking, symbol manipulation is a skill that can be developed.
 
-If you look at most high school textbooks, you could be forgiven for thinking otherwise.
+Then again, if you look at most high school textbooks, you could be forgiven for thinking otherwise.
 What should be a journey into
 the mathematical world is, in most cases, a joyless plod without context, without use, without
 beauty: a scrubland.
