@@ -34,6 +34,7 @@ date:  2019-08-03
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
 In high school, I thought maths was boring.
+I was one of those kids.
 I scoffed at the suggestion I would use it in real life --- you don't need
 trigonometry for your tax returns --- and found the endless drill soul-destroying.
 What's my motivation for finding $x$?
