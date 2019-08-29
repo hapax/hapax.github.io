@@ -81,7 +81,7 @@ The problem, I'll argue, is that maths education is stuck in a sort of
 
 #### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
-To make the problem more vivid, I'm going to ask you to imagine a
+To make the problem more vivid, imagine a
  reality where, instead of maths, you were forced to take *hiking classes* in high school.
 Every day, you and your classmates would trudge through a barren,
 featureless scrubland, with no views, no peaks, and no apparent goal
