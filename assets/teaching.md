@@ -1168,11 +1168,19 @@ of the patch, at $x$.
 4. Using Problems 2 and 3, argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
+   \frac{dh}{dt} = -v\kappa.
+   $$
+
+5. Finally, imagine we begin pouring sand from a bucket into the patch
+    at some rate $bw$.
+	If all this sand rolls, show that the change in height becomes
+
+   $$
    \begin{equation}
-   \frac{dh}{dt} = -v\kappa. \label{dh/dt}
+   \frac{dh}{dt} = -v\kappa + b. \label{dh/dt}
    \end{equation}
    $$
-	
+
 ---
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
