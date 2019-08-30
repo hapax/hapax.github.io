@@ -1130,11 +1130,13 @@ grains onto the pile.
 	</div>
 	</figure>
 
-Zoom in on a patch of sandpile, width $w$ and centred at $x$.
-The standing pile has slope $m$ here.
-Assuming that this rate of loss or gain is proportional to (a) the
-current thickness $r$ of the rolling layer, and (b) the difference
-from the angle of repose, we find that
+Zoom in on a patch of sandpile centred at $x$, width $w$, small enough
+that both the standing and rolling layer have constant slope, $m$ and
+$\kappa$ respectively.
+Assuming that the rate of exchange of sand grains between layers is
+proportional to (a) the current thickness $r$ of the rolling layer,
+and (b) the difference between the standing slope and the angle of
+repose, we have
 
 $$
 \begin{equation}
@@ -1142,18 +1144,15 @@ $$
 \end{equation}
 $$
 
-where $\gamma$ is a constant of proportionality depending on how
-"sticky" the grains are.
-(Since we will shortly assume that $r$ actually has a slope as well,
-we pick the value of $r$ in (\ref{ds/dt}) to be precisely in the
-middle, at $x$.)
-We assume that grains in the rolling layer fall down the slope at
-constant velocity $v$.
+for some constant of proportionality $\gamma$ indicating how "sticky"
+the grains are.
+Note that the value of $r$ here is evaluated precisely in the middle
+of the patch, at $x$.
 
 ---
 
-1. Explain why the change in the standing pile height $s$ doesn't
-   affect the *total* height $h$. 
+1. Assume the density of sand is the same in the standing and rolling layer.
+   Explain why a change in $s$ doesn't change the *total* height $h$. 
 
 2. The only way for $h$ to change is for more grains to roll in than out.
     Let $\kappa$ be the slope of the rolling layer, measured (as in the
