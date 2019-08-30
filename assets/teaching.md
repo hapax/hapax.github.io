@@ -1267,7 +1267,7 @@ This limits the size of the standing pile.
 
    $$
    h(x, t) = \tan\alpha\left(\frac{1}{2}B - x\right) +
-   \frac{1}{2}c\left(t - \frac{x}{v}\right).
+   \frac{1}{2}c(t-x/v).
 	$$
 
 ---
