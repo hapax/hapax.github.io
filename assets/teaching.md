@@ -1198,7 +1198,7 @@ of the patch at $x$, as is the value of $s$.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile3.png"
-    width="68%" />
+    width="60%" />
 		    <figcaption><i>A child pours sand onto a triangular sandpile.</i></figcaption>
 	</div>
 	</figure>
