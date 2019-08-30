@@ -1206,7 +1206,7 @@ These are called the *tailings*.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile4.png"
-    width="50%" />
+    width="40%" />
 		    <figcaption><i>Tailings from a mine, forming a triangular mound.</i></figcaption>
 	</div>
 	</figure>
