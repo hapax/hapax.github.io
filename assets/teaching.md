@@ -1212,9 +1212,10 @@ These are called the *tailings*.
 	</figure>
 
 The angle of repose for the tailings is $\alpha$, and any rolling
-grains of gangue travel at speed $v$.
-The pile sits in the middle of a base of width $B$, limiting the total
-size of the (standing) triangle.
+grains of gangue travel down the sides at speed $v$.
+The pile sits in the middle of a base of width $B$, with a large drop
+to either side.
+This limits the size of the standing pile.
 
 ##### Part II: Triangular tailings
 
