@@ -978,7 +978,7 @@ Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
-##### Part II
+##### Part I: Explosive meeting
 ----
 
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
@@ -1024,7 +1024,7 @@ $$
 where $c = c(\alpha)$ depends on $\alpha$.
 This allows us to actually work out the curves!
 
-##### Part II
+##### Part II: Marvellous spirals
 ---
 
 6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
@@ -1084,7 +1084,7 @@ His gravestone even bears the enigmatic Latin reference
 <i>Eadem mutato resurgo.</i>
 </span>
 
-This means "Although changed, I shall arise the same".
+This translates to "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
@@ -1111,12 +1111,29 @@ thickness of the rolling layer is $r(x, t)$.
 The total height of the sandpile is therefore
 
 $$
-h(x,t) = s(x, t) + r(x, t).
+h = s + r.
 $$
+
+The *angle of repose* $\alpha$ is the maximum slope of a stable
+sandpile.
+If a patch on the standing layer has slope greater than $\alpha$, it
+will shed grains into the rolling layer.
+If it has slope less than $\alpha$, the rolling layer will deposit
+grains onto the pile.
+Zoom in on a patch of sandpile at location $x$, with slope $m$.
+Assuming that this rate of loss or gain is proportional to (a) the
+current thickness $r$ of the rolling layer, and (b) the difference
+from the angle of repose, we find that
+
+$$
+\frac{dh}{dt} = \gamma r(\alpha - m),
+$$
+
+where $\gamma$ is a constant of proportionality.
 
 ---
 
-1. Suppose that 
+1. Suppose we can control 
 
 ---
 
