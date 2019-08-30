@@ -1152,11 +1152,12 @@ of the patch, at $x$.
 ---
 
 1. Assume the density of sand is the same in the standing and rolling layer.
-   Explain why a change in $s$ doesn't change the *total* height $h$. 
+   Explain why a change in $s$ doesn't affect the *total* height $h$. 
 
-2. The only way for $h$ to change is for more grains to roll in than out.
-    Let $\kappa$ be the slope of the rolling layer, measured (as in the
-   picture) with 
+2. Given the result of Problem 1, the only way to change $h$ is for
+    the size of the rolling layer to change.
+    Let $\kappa$ be the slope of the rolling layer, defined as in the
+   picture.
    Argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
@@ -1164,6 +1165,8 @@ of the patch, at $x$.
    \frac{dh}{dt} = -v\kappa. \label{dh/dt}
    \end{equation}
    $$
+
+	*Hint*.
 	
 ---
 
