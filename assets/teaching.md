@@ -1090,7 +1090,8 @@ spiral was inscribed next to it!
 
 #### 3.3. Rolling down the pile <a id="sec-3-3" name="sec-3-3"></a>
 
-Our final redo is the sandpile, taking inspiration from
+Our final redo is the sandpile, taking inspiration from "Dynamical
+models for granular matter" by
 [Hadeler and Kuttler (1999)](https://link.springer.com/article/10.1007/s100350050029).
 A pile of sand has two components: a *standing layer*, which is the
 large blob of stable sand at the bottom of the pile, and a *rolling
