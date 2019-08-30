@@ -1121,6 +1121,14 @@ If a patch on the standing layer has slope greater than $\alpha$, it
 will shed grains into the rolling layer.
 If it has slope less than $\alpha$, the rolling layer will deposit
 grains onto the pile.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
+    width="60%" />
+		    <figcaption><i>Zooming in on a patch of sandpile.</i></figcaption>
+	</div>
+	</figure>
+
 Zoom in on a patch of sandpile at location $x$, with slope $m$.
 Assuming that this rate of loss or gain is proportional to (a) the
 current thickness $r$ of the rolling layer, and (b) the difference
