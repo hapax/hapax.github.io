@@ -1200,9 +1200,10 @@ We have just derived the simple sandpile model of [Pierre-Gilles de Gennes](http
 In Problem 6, we solved the simplest case, but in general,
 solving equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard, since they
 (secretly) constitute a system of partial differential equations.
-Although they are too simple to capture the real behaviour of
-sandpiles, they provide a good starting point.
-See Hadeler and Kuttler (1999) for improvements.
+Even then, they are too simple to capture the real behaviour of
+sandpiles.
+They provide a good starting point, however, with improvements
+discussed in Hadeler and Kuttler (1999).
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
