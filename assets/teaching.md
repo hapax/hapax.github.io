@@ -1124,7 +1124,7 @@ grains onto the pile.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
     width="60%" />
-		    <figcaption><i>Zooming in on a patch of sandpile. The
+		    <figcaption><i>A small patch of sandpile. The
     rolling layer moves to the right at speed $v$, with slope κ defined with
     respect to a horizontal standing layer.</i></figcaption>
 	</div>
