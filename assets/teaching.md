@@ -1125,7 +1125,7 @@ grains onto the pile.
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
     width="60%" />
 		    <figcaption><i>Zooming in on a patch of sandpile. The
-    rolling layer moves to the right, with slope κ defined with
+    rolling layer moves to the right at speed $v$, with slope κ defined with
     respect to a horizontal standing layer.</i></figcaption>
 	</div>
 	</figure>
@@ -1154,13 +1154,18 @@ of the patch, at $x$.
 1. Assume the density of sand is the same in the standing and rolling layer.
    Explain why a change in $s$ doesn't affect the *total* height $h$. 
 
-2. Given the result of Problem 1, the only way to change $h$ is for
-    the size of the rolling layer to change.
-    Let $\kappa$ be the slope of the rolling layer, defined as in the
+2. Let $\kappa$ be the slope of the rolling layer, defined as in the
 	picture.
-	In a short time $t$, show that $$
+	In a short time $\Delta t$ (short enough that $\kappa$ remains
+	approximately constant), show that the area of rolling
+    sand above our patch changes by $\Delta A = -vw\kappa\Delta t$.
 
-3. Using the previous problem, argue that the *total* height of the sandpile at $x$ changes according to
+3. Given the result of Problem 1, the only way to change $h$ is for
+    the size of the rolling layer to change.
+	Show that $h$ is related to the total area of sand above the patch
+    by $A = hw$.
+
+4. Using Problems 2 and 3, argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
    \begin{equation}
