@@ -1124,7 +1124,7 @@ grains onto the pile.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
-    width="60%" />
+    width="40%" />
 		    <figcaption><i>Zooming in on a patch of sandpile.</i></figcaption>
 	</div>
 	</figure>
