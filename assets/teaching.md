@@ -1156,6 +1156,10 @@ where $\gamma$ is a constant of proportionality depending on how
    \end{equation}
    $$
 
+	*Hint*. Since the change in $s$ is due to grains moving between
+     the standing and rolling layers, the only way to change the total
+     number of grains in the patch is for them to roll to the right!
+	
 ---
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
