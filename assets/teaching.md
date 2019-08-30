@@ -1106,10 +1106,9 @@ layer* of loose grains running down the slope.
 	</figure>
 
 We work with two-dimensional piles for simplicity.
-The sandpile depends on both position, $x$, and time $t$.
-The height of the standing layer is $s(x, t)$, and the additional
-thickness of the rolling layer is $r(x, t)$.
-The total height of the sandpile is therefore
+The height of the standing layer is $s$, and the additional
+thickness of the rolling layer is $r$.
+The total height of the sandpile is therefore the sum
 
 $$
 h = s + r.
@@ -1124,8 +1123,10 @@ grains onto the pile.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
-    width="35%" />
-		    <figcaption><i>Zooming in on a patch of sandpile.</i></figcaption>
+    width="60%" />
+		    <figcaption><i>Zooming in on a patch of sandpile. On the
+    right, we rotate the standing layer to make horizontal, and
+    define the slope κ of the rolling layer.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1142,13 +1143,12 @@ $$
 
 where $\gamma$ is a constant of proportionality depending on how
 "sticky" the grains are.
+We assume that grains in the rolling layer fall down the slope at
+constant velocity $v$.
 
 ---
 
-1. Suppose that grains roll down the slope with *constant* velocity
-    $v$.
-	Argue that, if the slope of the rolling layer at point $x$ is
-    $\kappa$, the *total* height at $x$ changes according to
+1. Argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
    \begin{equation}
