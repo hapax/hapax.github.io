@@ -1183,6 +1183,9 @@ of the patch, at $x$.
 
 ---
 
+We have just derived (with only minor simplifications) the sandpile of
+Nobel prize-winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
+
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
