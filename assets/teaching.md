@@ -1126,14 +1126,26 @@ current thickness $r$ of the rolling layer, and (b) the difference
 from the angle of repose, we find that
 
 $$
-\frac{dh}{dt} = \gamma r(\alpha - m),
+\begin{equation}
+\frac{ds}{dt} = \gamma r(\alpha - m), \label{ds/dt}
+\end{equation}
 $$
 
-where $\gamma$ is a constant of proportionality.
+where $\gamma$ is a constant of proportionality depending on how
+"sticky" the grains are.
 
 ---
 
-1. Suppose we can control 
+1. Suppose that grains roll down the slope with *constant* velocity
+    $v$.
+	Argue that, if the slope of the rolling layer at point $x$ is
+    $\kappa$, the *total* height at $x$ changes according to
+
+   $$
+   \begin{equation}
+   \frac{dh}{dt} = -v\kappa. \label{dh/dt}
+   \end{equation}
+   $$
 
 ---
 
