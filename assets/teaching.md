@@ -1176,7 +1176,7 @@ of the patch, at $x$.
 	If all this sand rolls, show that the change in height becomes
 
    $$
-   \begin{equation}
+
    \frac{dh}{dt} = -v\kappa + b. \label{dh/dt}
    \end{equation}
    $$
@@ -1184,7 +1184,7 @@ of the patch, at $x$.
    Show that in this case, the rolling layer thins out at the rate
 
 	$$
-	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m). \label{dh/dt}
+	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m).
 	$$
 
 6. (Bonus) A triangular pile of sand, height $H$, is centred at $x=0$.
@@ -1197,7 +1197,7 @@ of the patch, at $x$.
 ---
 
 We have just derived the simple sandpile model of Nobel prize-winner
-[Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes)!
+[Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
 In Question 6, we have solved the simplest case, but in general,
 solving equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard, since they
 (secretly) constitute a system of partial differential equations.
