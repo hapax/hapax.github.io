@@ -1130,7 +1130,8 @@ grains onto the pile.
 	</div>
 	</figure>
 
-Zoom in on a patch of sandpile at location $x$, with slope $m$.
+Zoom in on a patch of sandpile, width $w$ and centred at $x$.
+The standing pile has slope $m$ here.
 Assuming that this rate of loss or gain is proportional to (a) the
 current thickness $r$ of the rolling layer, and (b) the difference
 from the angle of repose, we find that
@@ -1143,22 +1144,27 @@ $$
 
 where $\gamma$ is a constant of proportionality depending on how
 "sticky" the grains are.
+(Since we will shortly assume that $r$ actually has a slope as well,
+we pick the value of $r$ in (\ref{ds/dt}) to be precisely in the
+middle, at $x$.)
 We assume that grains in the rolling layer fall down the slope at
 constant velocity $v$.
 
 ---
 
-1. Argue that the *total* height of the sandpile at $x$ changes according to
+1. Explain why the change in the standing pile height $s$ doesn't
+   affect the *total* height $h$. 
+
+2. The only way for $h$ to change is for more grains to roll in than out.
+    Let $\kappa$ be the slope of the rolling layer, measured (as in the
+   picture) with 
+   Argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
    \begin{equation}
    \frac{dh}{dt} = -v\kappa. \label{dh/dt}
    \end{equation}
    $$
-
-	*Hint*. Since the change in $s$ is due to grains moving between
-     the standing and rolling layers, the only way to change the total
-     number of grains in the patch is for them to roll to the right!
 	
 ---
 
