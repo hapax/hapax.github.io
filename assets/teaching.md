@@ -1157,16 +1157,16 @@ of the patch, at $x$.
 2. Given the result of Problem 1, the only way to change $h$ is for
     the size of the rolling layer to change.
     Let $\kappa$ be the slope of the rolling layer, defined as in the
-   picture.
-   Argue that the *total* height of the sandpile at $x$ changes according to
+	picture.
+	In a short time $t$, show that $$
+
+3. Using the previous problem, argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
    \begin{equation}
    \frac{dh}{dt} = -v\kappa. \label{dh/dt}
    \end{equation}
    $$
-
-	*Hint*. 
 	
 ---
 
