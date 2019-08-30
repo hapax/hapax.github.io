@@ -1125,8 +1125,8 @@ grains onto the pile.
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
     width="60%" />
 		    <figcaption><i>Zooming in on a patch of sandpile. The
-    slope κ of the rolling layer is defined with respect to a
-    horizontal standing layer.</i></figcaption>
+    rolling layer moves to the right, with slope κ defined with
+    respect to a horizontal standing layer.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1166,7 +1166,7 @@ of the patch, at $x$.
    \end{equation}
    $$
 
-	*Hint*.
+	*Hint*. 
 	
 ---
 
