@@ -1251,10 +1251,22 @@ size of the (standing) triangle.
    Prove that this moves to the right with speed $v$ as time evolves.
    This is just what we expect for the rolling layer!
 
-4. The gangue comes in from the chute at some time-dependent rate
+4. The gangue comes in from the chute, dumping a small column of
+    height $c(t)$ onto the top of the pile.
+	Assuming this splits evenly into two cascades down either side of
+    the triangle, this sets the initial height of the rolling layer:
 
    $$
-   h(x, t) = \tan\alpha\left(\frac{1}{2}B - x\right) + 
+   r(0, t) = \frac{1}{2}c(t),
+	$$
+
+	where the factor $1/2$ is due to the split.
+	Show using the preceding problems that the height of the tailings,
+	as a function of both time $t$ and position $x$, is given by
+
+   $$
+   h(x, t) = \tan\alpha\left(\frac{1}{2}B - x\right) +
+   \frac{1}{2}c\left(t - \frac{x}{v}\right).
 	$$
 
 ---
