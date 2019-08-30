@@ -1191,8 +1191,9 @@ of the patch, at $x$.
 
 We have just derived the sandpile model of Nobel prize-winner
 [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes)!
-Actually solving qquations (\ref{ds/dt}) and (\ref{dh/dt}) is hard,
-since the 
+Solving equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard, since these
+are *partial differential equations*, which couple derivatives in both
+space (the slopes) and time (rates of change).
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
