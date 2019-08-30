@@ -1148,7 +1148,7 @@ $$
 $$
 
  for some constant of proportionality $\gamma$ depending on the properties of the sand.
-Note that the value of $r$ here is evaluated precisely in the middle
+Note that the value of $r$ here is evaluated in the middle
 of the patch at $x$, as is the value of $s$.
 
 ---
