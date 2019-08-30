@@ -1124,9 +1124,9 @@ grains onto the pile.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
     width="60%" />
-		    <figcaption><i>Zooming in on a patch of sandpile. On the
-    right, we rotate the standing layer to make horizontal, and
-    define the slope κ of the rolling layer.</i></figcaption>
+		    <figcaption><i>Zooming in on a patch of sandpile. The
+    slope κ of the rolling layer is defined with respect to a
+    horizontal standing layer.</i></figcaption>
 	</div>
 	</figure>
 
