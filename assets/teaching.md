@@ -27,7 +27,7 @@ date:  2019-08-03
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
-   3. <a href="#sec-3-3">Rolling down the pile</a>
+   3. <a href="#sec-3-3">Slopes and sandpiles</a>
    4. <a href="#sec-3-4">Drilling for patterns</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -188,6 +188,7 @@ Who is inverse sine on a Saturday?
 Why do I care?
 These questions are unforgivably dull when there is literally hundreds
 of years of material to draw on.
+I wish I was cherry picking, but we will see below that the rest of the chapter is the same.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
@@ -238,9 +239,9 @@ test** should supersede the shrub test:
 This is extremely stringent, but I think it's right.
 Why?
 First of all, it's *fair*.
-The students who are already engaged and making progress have
-a basic level of social good the students at the margins don't.
-And as with social good in the broader Rawlsian context, by making
+The students who are already already involved and making progress have
+a basic level of a particular social good, engagement, that students
+on the margins don't. And as Rawls argues for social goods generally, by making
 maths engaging, there should be a "trickle up" effect across the
 board.
 Making maths class more interesting for the least-engaged will make it
@@ -253,27 +254,27 @@ demographics, classroom management, technology,
 and so on, which all play a role in the effectiveness of a class.
 How do you optimise average student outcomes in this multidimensional
 landscape?
-It looks like an intractable problem for a regular class.
+It looks intractable for any class which isn't also a research project.
 Given the uncertainties, game theory tells us we should focus on
 maximising the minimum outcome.
 I think the worst outcome is permanently turning students off
-mathematics and its sister sciences, and hence we should address the
-students at greatest risk.
-Leaving the scrubland is the first step.
+mathematics and its sister sciences.
+Hence, we should address the students at greatest risk, and leaving
+the scrubland is the first step.
 
 #### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
-Of course, students need to practice walking before they wander off
+Of course, you need to practice walking before you can wander off
 into the foothills, armed only with a compass and a sense of adventure.
-Similarly, students need to learn how to manipulate symbols in order
-to do fun, engaging mathematics, and that takes practice.
-But if we tell them where we're headed, and all the amazing things
-we'll be able to see and do when we get there, maybe they won't mind
-practicing.
-And this is the real problem: not that students dril, but that *the
+Similarly, you need to get good at basic manipulations before you can
+do really interesting mathematics.
+But if we head towards interesting things, and tell the students where
+we're headed and all the amazing things they'll be able to see when
+they get there, maybe they won't mind practicing.
+And this is the real problem: not that students drill, but that *the
 scrubland never ends*.
 They drill in order to keep drilling.
-They study shrubs here, so they classify some other shrubs down the road.
+They study shrubs here, so they can classify some other shrubs down the road.
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
@@ -289,7 +290,7 @@ I'll talk later about efforts at curricular reform, but the bottom
 line is that it takes time, money, and vision, and these are
 perennially in short supply.
 
-But just like the hiking analogy, good mathematical skills are important to society as a whole.
+But as in the hiking analogy, good mathematical skills are important to society as a whole.
 I'm not talking about basic numeracy, e.g. the ability to calculate a
 tip or scale up a recipe.
 I'm talking about dealing with the ongoing effects of climate change,
@@ -641,7 +642,7 @@ To summarise, the blancmange function is *continuous but nowhere
 differentiable*, and a similar iterative construction for any single-kink curve
 gives a function with the same property.
 Some students will savour this pathological dessert, while others will not.
-The latter will not be alone; mathematician
+The latter will be in good company; mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
 instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
@@ -729,9 +730,9 @@ So what? Well, we know from "special triangles" that $\sin^{-1}(1/2) = \pi/6$.
 This yields the pleasing formula
 
 $$
-\pi = 6\left(1 + \frac{1}{2}\left(\frac{1}{3\cdot 2^3}\right) + \frac{1\cdot
+\pi = 6\left[1 + \frac{1}{2}\left(\frac{1}{3\cdot 2^3}\right) + \frac{1\cdot
 3}{2\cdot 4}\left(\frac{1}{5\cdot 2^5}\right) + \frac{1\cdot 3 \cdot 5}{2\cdot 4\cdot
-6}\left(\frac{1}{7\cdot 2^7}\right) + \cdots\right).
+6}\left(\frac{1}{7\cdot 2^7}\right) + \cdots\right].
 $$
 
 As students can check themselves, this formula converges extremely
@@ -774,8 +775,8 @@ As with the blancmange, I think it is worth mentioning the convergence
 issues at play (power series radius of convergence, uniform
 convergence for term-by-term differentiation) without belabouring them.
 On a first exposure, a quagmire of technical conditions will spoil the magic!
-A numerical check will do, particularly since it can be used to
-motivate the relation between terms and digits.
+A numerical check can be just as convincing.
+
 Is this pedagogically sound?
 I find the hiking analogy helpful here.
 Rigour is something like a heavy *safety harness* for mountain climbing.
@@ -851,7 +852,7 @@ microscopic properties of air, just by waiting for a moth ball to decay!
 	</div>
 	</figure>
 
-Moth balls are made out of a chemical called *napthalene*
+Moth balls are made out of a chemical called napthalene
 ($\text{C}_{10}\text{H}_8$).
 A sphere of napthalene will shrink as the molecules on the surface
 layer *sublime*, i.e. turn directly from solid to gas.
@@ -978,7 +979,7 @@ Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
-##### Part I: Explosive meeting
+##### Part I: Meeting in the middle
 ----
 
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
@@ -1024,7 +1025,7 @@ $$
 where $c = c(\alpha)$ depends on $\alpha$.
 This allows us to actually work out the curves!
 
-##### Part II: Marvellous spirals
+##### Part II: Self-similar spirals
 ---
 
 6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
@@ -1088,7 +1089,7 @@ This translates to "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
-#### 3.3. Rolling down the pile <a id="sec-3-3" name="sec-3-3"></a>
+#### 3.3. Slopes and sandpiles <a id="sec-3-3" name="sec-3-3"></a>
 
 Our final redo is the sandpile, taking inspiration from "Dynamical
 models for granular matter" by
@@ -1105,10 +1106,10 @@ layer* of loose grains running down the slope.
 	</div>
 	</figure>
 
-We work with two-dimensional piles for simplicity.
-The height of the standing layer is $s$, and the additional
+We work with sandpiles in the plane, rather than in three
+dimensions. The height of the standing layer is denoted $s$, and the additional
 thickness of the rolling layer is $r$.
-The total height of the sandpile is therefore the sum
+The total height of the sandpile is then
 
 $$
 h = s + r.
@@ -1118,7 +1119,7 @@ The *angle of repose* $\alpha$ is the maximum slope of a stable
 sandpile.
 If a patch on the standing layer has slope greater than $\alpha$, it
 will shed grains into the rolling layer.
-If it has slope less than $\alpha$, the rolling layer will deposit
+If it has slope less than $\alpha$, a rolling layer can deposit
 grains onto the pile.
 
 <figure>
@@ -1133,10 +1134,12 @@ grains onto the pile.
 Zoom in on a patch of sandpile centred at $x$, width $w$, small enough
 that both the standing and rolling layer have constant slope, $m$ and
 $\kappa$ respectively.
-Assuming that the rate of exchange of sand grains between layers is
+Let's see how the height of the standing layer changes with time. A
+reasonable guess is that sand grains move between the layers at a rate
 proportional to (a) the current thickness $r$ of the rolling layer,
 and (b) the difference between the standing slope and the angle of
-repose, we have
+repose.
+This means we can write the rate of change of $s$ as
 
 $$
 \begin{equation}
@@ -1144,15 +1147,14 @@ $$
 \end{equation}
 $$
 
-for some constant of proportionality $\gamma$ indicating how "sticky"
-the grains are.
+ for some constant of proportionality $\gamma$ depending on the properties of the sand.
 Note that the value of $r$ here is evaluated precisely in the middle
-of the patch, at $x$.
+of the patch at $x$, as is the value of $s$.
 
 ---
 
 1. Assume the density of sand is the same in the standing and rolling layer.
-   Explain why a change in $s$ doesn't affect the *total* height $h$. 
+   Explain physically why a change in $s$ doesn't affect the *total* height $h$. 
 
 2. Let $\kappa$ be the slope of the rolling layer, defined as in the
 	picture.
@@ -1173,7 +1175,7 @@ of the patch, at $x$.
 
 5. Suppose we begin pouring sand from a bucket into the patch
     at some rate $bw$.
-	If all this sand rolls, show that the change in height becomes
+	If this sand starts rolling immediately, show that the change in height becomes
 
    $$
    \begin{equation}
@@ -1191,25 +1193,31 @@ of the patch, at $x$.
    The sides lie at the angle of repose $\alpha$.
    A child pours a thin stream of sand from a bucket onto the top of
    the triangle, at some time-dependent rate $b(t)w$.
-   Assuming the sand cascades down each side evenly, describe the
+   If the sand splits into two equal cascades on either side of the triangle, describe the
    profile of the sandpile $h(x, t)$ at any time and position.
 
 ---
 
-We have just derived the simple sandpile model of [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
-In Problem 6, we solved the simplest case, but in general,
-solving equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard, since they
-(secretly) constitute a system of partial differential equations.
+This is the simple sandpile model of
+[Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
+Problem 6 describes the easiest case, but in general,
+solving the (partial differential) equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard.
 Even then, they are too simple to capture the real behaviour of
-sandpiles.
+sandpiles!
 They provide a good starting point, however, with improvements
-discussed in Hadeler and Kuttler (1999).
+discussed by Hadeler and Kuttler.
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
-#### 4.1. The evidence <a id="sec-4-1" name="sec-4-1"></a>
+- Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
+- Second subsec on existing curricular reform.
+- Last subsec on (my ignorance of) how best to implement this in a classroom, discussion of strengths/weaknesses.
+
+#### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
+
+#### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
 In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
