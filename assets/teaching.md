@@ -1203,7 +1203,7 @@ of the patch at $x$, as is the value of $s$.
 	</div>
 	</figure>
 
-	The volume of sand deposited on top of the pile per unit time is $v(t)$.
+	The volume of sand deposited on top of the pile per unit time is $V(t)$.
    If this cascade splits into two equal streams on either side of the
    triangle, rolling down at speed $v$, what does the sandpile look
    like at any time $t$? Express this using a height profile $h(x, t)$.
