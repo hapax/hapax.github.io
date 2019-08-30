@@ -1190,9 +1190,19 @@ of the patch at $x$, as is the value of $s$.
 	$$
 
 6. (Bonus) A triangular pile of sand, height $H$, is centred at $x=0$.
-   The sides lie at the angle of repose $\alpha$.
-   A child pours a thin stream of sand from a bucket onto the top of
-   the triangle, at some time-dependent rate $b(t)w$.
+   The sides lie at the angle of repose $\alpha$, and there is a
+   "moat" around the pile, so that the rolling layer simply falls off
+   rather than piling up.
+   A child pours a thin stream of sand from a bucket onto the apex of
+   the pile, at some time-dependent rate $b(t)w$.
+
+   <figure>
+    <div style="text-align:center"><img src ="/images/posts/sandpile3.png"
+    width="68%" />
+		    <figcaption><i>A child pours sand onto a triangular sandpile.</i></figcaption>
+	</div>
+	</figure>
+
    If the sand splits into two equal cascades on either side of the triangle, describe the
    profile of the sandpile $h(x, t)$ at any time and position.
 
