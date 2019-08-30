@@ -1176,7 +1176,7 @@ of the patch, at $x$.
 	If all this sand rolls, show that the change in height becomes
 
    $$
-
+   \begin{equation}
    \frac{dh}{dt} = -v\kappa + b. \label{dh/dt}
    \end{equation}
    $$
