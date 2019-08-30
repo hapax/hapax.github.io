@@ -1104,7 +1104,21 @@ layer* of loose grains running down the slope.
 	</div>
 	</figure>
 
-We work with two-dimensional piles for simplicity, with 
+We work with two-dimensional piles for simplicity.
+The sandpile depends on both position, $x$, and time $t$.
+The height of the standing layer is $s(x, t)$, and the additional
+thickness of the rolling layer is $r(x, t)$.
+The total height of the sandpile is therefore
+
+$$
+h(x,t) = s(x, t) + r(x, t).
+$$
+
+---
+
+1. Suppose that 
+
+---
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
