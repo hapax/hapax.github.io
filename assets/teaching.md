@@ -1171,7 +1171,7 @@ of the patch, at $x$.
    \frac{dh}{dt} = -v\kappa.
    $$
 
-5. Finally, imagine we begin pouring sand from a bucket into the patch
+5. Suppose we begin pouring sand from a bucket into the patch
     at some rate $bw$.
 	If all this sand rolls, show that the change in height becomes
 
@@ -1186,6 +1186,13 @@ of the patch, at $x$.
 	$$
 	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m). \label{dh/dt}
 	$$
+
+6. (Bonus) A triangular pile of sand, height $H$, is centred at $x=0$.
+   The sides lie at the angle of repose $\alpha$.
+   A child pours a thin stream of sand from a bucket onto the top of
+   the triangle, at some time-dependent rate $b(t)w$.
+   Assuming the sand cascades down each side evenly, describe the
+   profile of the sandpile $h(x, t)$ at any time and position.
 
 ---
 
