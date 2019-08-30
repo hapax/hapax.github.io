@@ -28,7 +28,6 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Slopes and sandpiles</a>
-   4. <a href="#sec-3-4">Drilling for patterns</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1151,6 +1150,8 @@ $$
 Note that the value of $r$ here is evaluated in the middle
 of the patch at $x$, as is the value of $s$.
 
+##### Part I: Simple sandpiles
+
 ---
 
 1. Assume the density of sand is the same in the standing and rolling layer.
@@ -1189,41 +1190,74 @@ of the patch at $x$, as is the value of $s$.
 	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m).
 	$$
 
-6. (Bonus) A triangular pile of sand, height $H$, is centred at $x=0$.
-   The sides lie at the angle of repose $\alpha$, and there is a
-   "moat" around the pile, so that the rolling layer simply falls off
-   rather than building up around the edges.
-   A child pours a thin stream of sand from a bucket onto the apex of
-   the pile.
-
-   <figure>
-    <div style="text-align:center"><img src ="/images/posts/sandpile3.png"
-    width="50%" />
-		    <figcaption><i>A child pours sand onto a triangular sandpile.</i></figcaption>
-	</div>
-	</figure>
-
-   The volume of sand deposited on top of the pile in a short time
-   $\Delta t$ is $V(t) \Delta t$.
-   If this cascade splits into two equal streams on either side of the
-   triangle, rolling down at speed $v$, what does the sandpile look
-   like at any time $t$? Express this using a height profile $h(x,
-   t)$.
-
-   *Hint*. The total volume of sand is conserved.
-
 ---
 
 This is the simple sandpile model of
 [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
-Problem 6 describes the easiest case, but in general,
-solving the (partial differential) equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard.
+The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to solve in
+general, since they constitute a set of coupled partial differential equations.
 Even then, they are too simple to capture the real behaviour of
 sandpiles!
-They provide a good starting point, however, with improvements
-discussed by Hadeler and Kuttler.
+But let's try to solve the simplest case.
 
-#### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
+At a mine, copper ore is crushed to extract the copper, and the remaining
+material or "gangue" is dumped from a chute into a triangular pile.
+These are called the *tailings*.
+
+   <figure>
+    <div style="text-align:center"><img src ="/images/posts/sandpile4.png"
+    width="50%" />
+		    <figcaption><i>Tailings from a mine, forming a triangular mound.</i></figcaption>
+	</div>
+	</figure>
+
+The angle of repose for the tailings is $\alpha$, and any rolling
+grains of gangue travel at speed $v$.
+The pile sits in the middle of a base of width $B$, limiting the total
+size of the (standing) triangle.
+
+##### Part II: Triangular tailings
+
+---
+
+1. At first, material is dumped from the chute at a constant rate $V$
+	(volume per unit time).
+	Suppose the triangle forms slowly enough that there is effectively no
+	rolling layer, with sides always at the angle of repose $\alpha$.
+
+   (a) How does the height of the tailings change with time?
+
+   (b) When do the sides hit the edge of the base?
+
+2. Once the tailings cover the base, any additional gangue will form a
+    rolling layer travelling at speed $v$.
+	We now focus on the right side of the triangle (the left side will
+    be the same by symmetry).
+	Since the standing layer is at the angle of repose $\alpha$, show
+    that, away from the chute (where $b \neq 0$), the sandpile
+    equations imply
+
+	$$
+    r(x, t) = r(x - vt).
+    $$
+
+	In other words, the height of the rolling layer is not a function
+    of position and time independently, but only the combination
+    $x+vt$.
+
+	*Hint*. The slope $\kappa = dr/dx$.
+
+3. Consider a point on the rolling layer with *fixed* $x - vt$.
+   Prove that this moves to the right with speed $v$ as time evolves.
+   This is just what we expect for the rolling layer!
+
+4. The gangue comes in from the chute at some time-dependent rate
+
+   $$
+   h(x, t) = \tan\alpha\left(\frac{1}{2}B - x\right) + 
+	$$
+
+---
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
