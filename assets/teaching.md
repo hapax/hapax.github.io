@@ -1000,7 +1000,7 @@ This is where you might get hit!
    traced by the missiles do not depend on their velocity (provided
    the speed profiles agree).
 
-6. (Bonus) Generalise your result to $n$ homing missiles on the vertices of an
+6. (Extension) Generalise your result to $n$ homing missiles on the vertices of an
     equilateral polygon, with $n$ sides of length $\ell$.
 	What happens in the limit as $n\to\infty$?
 	Does you answer make sense?
@@ -1063,7 +1063,7 @@ This allows us to actually work out the curves!
     *Hint*. The derivative $r'(\phi)$ at $\phi = 0$ tells us the
     direction the missile points.
 
-9. (Bonus) Determine the spirals for a polygon of $n$ homing missiles.
+9. (Extension) Determine the spirals for a polygon of $n$ homing missiles.
 
 ---
 
@@ -1150,6 +1150,8 @@ $$
 Note that the value of $r$ here is evaluated in the middle
 of the patch at $x$, as is the value of $s$.
 
+FIX/CHECK X VS ARCLENGTH THING!
+
 ##### Part I: Simple sandpiles
 
 ---
@@ -1201,13 +1203,14 @@ sandpiles!
 But let's try to solve the simplest case.
 
 At a mine, copper ore is crushed to extract the copper, and the remaining
-material or "gangue" is dumped from a chute into a triangular pile.
+material or *gangue* is dumped from a chute into a triangular pile.
 These are called the *tailings*.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile4.png"
     width="45%" />
-		    <figcaption><i>Tailings from a mine, forming a triangular mound.</i></figcaption>
+		    <figcaption><i>Tailings from a mine, slowly forming a triangular
+    mound.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1252,23 +1255,28 @@ This limits the size of the standing pile.
    Prove that this moves to the right with speed $v$ as time evolves.
    This is just what we expect for the rolling layer!
 
-4. The gangue comes in from the chute, dumping a small column of
-    height $c(t)$ onto the top of the pile.
-	Assuming this splits evenly into two cascades down either side of
-    the triangle, this sets the initial height of the rolling layer:
+4. The chute dumps a small column of gangue, height $c(t)$, onto the
+   top of the pile at each moment of time.
+	Note that, unlike the formation of the stable pile in Problem 1,
+   this height now depends on time!
+	If this splits evenly into two cascades down either side of
+    the triangle, the initial height of the rolling layer will be
 
    $$
-   r(0, t) = \frac{1}{2}c(t),
-	$$
-
-	where the factor $1/2$ is due to the split.
-	Show using the preceding problems that the height of the tailings,
+   r(0, t) = \frac{1}{2}c(t).
+   $$
+   
+	Show using the preceding problems that the height of the tailings pile,
 	as a function of both time $t$ and position $x$, is given by
 
    $$
-   h(x, t) = \tan\alpha\left(\frac{1}{2}B - x\right) +
-   \frac{1}{2}c(t-x/v).
+   h(x, t) = \tan\alpha\left(\frac{1}{2}B - |x|\right) +
+   \frac{1}{2}c(t-|x|/v).
 	$$
+
+5. (Extension) Redo Problem 1 for a genuine *conical* sandpile on a
+   circular base of diameter $B$.
+   Determine how the 
 
 ---
 
@@ -1276,7 +1284,10 @@ This limits the size of the standing pile.
 
 - Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
 - Second subsec on existing curricular reform.
-- Last subsec on (my ignorance of) how best to implement this in a classroom, discussion of strengths/weaknesses.
+- Last subsec on (my ignorance of) how best to implement this in a
+classroom, discussion of strengths/weaknesses.
+- Guided discovery, chunking, anxiety, bonus questions
+- "Need to know math well"
 
 #### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
 
