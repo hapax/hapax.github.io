@@ -1183,8 +1183,8 @@ of the patch, at $x$.
 
 ---
 
-Equations (\ref{ds/dt}) and (\ref{dh/dt}) together make the sandpile
-model of Nobel prize-winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes)!
+We have just derived the sandpile model of Nobel prize-winner
+[Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes)!
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
