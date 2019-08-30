@@ -1181,10 +1181,18 @@ of the patch, at $x$.
    \end{equation}
    $$
 
+   Show that in this case, the rolling layer thins out at the rate
+
+	$$
+	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m). \label{dh/dt}
+	$$
+
 ---
 
 We have just derived the sandpile model of Nobel prize-winner
 [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes)!
+Actually solving qquations (\ref{ds/dt}) and (\ref{dh/dt}) is hard,
+since the 
 
 #### 3.4. Drilling for patterns <a id="sec-3-4" name="sec-3-4"></a>
 
