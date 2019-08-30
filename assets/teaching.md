@@ -1196,8 +1196,8 @@ of the patch, at $x$.
 
 ---
 
-We have just derived a simple sandpile model due to [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
-In Question 6, we have solved the simplest case, but in general,
+We have just derived the simple sandpile model of [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
+In Problem 6, we solved the simplest case, but in general,
 solving equations (\ref{ds/dt}) and (\ref{dh/dt}) is hard, since they
 (secretly) constitute a system of partial differential equations.
 Although they are too simple to capture the real behaviour of
