@@ -1192,9 +1192,9 @@ of the patch at $x$, as is the value of $s$.
 6. (Bonus) A triangular pile of sand, height $H$, is centred at $x=0$.
    The sides lie at the angle of repose $\alpha$, and there is a
    "moat" around the pile, so that the rolling layer simply falls off
-   rather than piling up.
+   rather than building up around the edges.
    A child pours a thin stream of sand from a bucket onto the apex of
-   the pile, at some time-dependent rate $b(t)w$.
+   the pile.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile3.png"
@@ -1203,8 +1203,10 @@ of the patch at $x$, as is the value of $s$.
 	</div>
 	</figure>
 
-   If the sand splits into two equal cascades on either side of the triangle, describe the
-   profile of the sandpile $h(x, t)$ at any time and position.
+	The volume of sand deposited on top of the pile per unit time is $v(t)$.
+   If this cascade splits into two equal streams on either side of the
+   triangle, rolling down at speed $v$, what does the sandpile look
+   like at any time $t$? Express this using a height profile $h(x, t)$.
 
 ---
 
