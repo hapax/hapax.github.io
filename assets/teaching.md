@@ -1276,11 +1276,10 @@ to either side which limits the maximum size of the standing layer.
 
 5. (Extension) Instead of a triangle, we can increase the dimension and
     consider a conical sandpile at the angle of repose, on a circular base of diameter $B$.
-	Suppose that the column height $C(t)$ pouring from the chute
-    splits into a *ring* of material that rolls down the
-    sides of the cone at constant speed.
-	If $r$ is the radial variable on the plane beneath the cone,
-   argue from the conservation of volume that for $r \leq B/2$,
+	Suppose that the column $C(t)$ splits into a symmetric *ring* of
+    material that rolls down the cone at speed $v$.
+	If $r$ is the radial variable (on the plane), argue from
+    conservation of volume that for $r \leq B/2$,
 
    $$
    H(r, t) = \left(\frac{1}{2}B - r\right) \tan\alpha +
