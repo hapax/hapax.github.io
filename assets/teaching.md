@@ -1259,8 +1259,8 @@ to either side limiting the maximum size of the standing layer.
    R(0, t) = \frac{1}{2}C(t).
    $$
    
-	Show using the preceding problems that the height of the tailings pile,
-	as a function of both time $t$ and position $x$, is
+	Show using the preceding problems that the height profile of the
+    tailings is
 
    $$
    H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
