@@ -1106,12 +1106,12 @@ layer* of loose grains running down the slope.
 	</figure>
 
 We work with sandpiles in the plane, rather than in three
-dimensions. The height of the standing layer is denoted $s$, and the additional
-thickness of the rolling layer is $r$.
+dimensions. The height of the standing layer is denoted $S$, and the additional
+thickness of the rolling layer is $R$.
 The total height of the sandpile is then
 
 $$
-h = s + r.
+H = S + R.
 $$
 
 The *angle of repose* $\alpha$ is the maximum slope of a stable
@@ -1135,20 +1135,20 @@ that both the standing and rolling layer have constant slope, $m$ and
 $\kappa$ respectively.
 Let's see how the height of the standing layer changes with time. A
 reasonable guess is that sand grains move between the layers at a rate
-proportional to (a) the current thickness $r$ of the rolling layer,
+proportional to (a) the current thickness $R$ of the rolling layer,
 and (b) the difference between the standing slope and the angle of
 repose.
-This means we can write the rate of change of $s$ as
+This means we can write the rate of change of $S$ as
 
 $$
 \begin{equation}
-\frac{ds}{dt} = \gamma r(\alpha - m), \label{ds/dt}
+\frac{dS}{dt} = \gamma r(\alpha - m), \label{ds/dt}
 \end{equation}
 $$
 
  for some constant of proportionality $\gamma$ depending on the properties of the sand.
-Note that the value of $r$ here is evaluated in the middle
-of the patch at $x$, as is the value of $s$.
+Note that the value of $R$ here is evaluated in the middle
+of the patch at $x$, as is the value of $S$.
 
 FIX/CHECK X VS ARCLENGTH THING!
 
@@ -1157,7 +1157,7 @@ FIX/CHECK X VS ARCLENGTH THING!
 ---
 
 1. Assume the density of sand is the same in the standing and rolling layer.
-   Explain physically why a change in $s$ doesn't affect the *total* height $h$. 
+   Explain physically why a change in $S$ doesn't affect the *total* height $H$. 
 
 2. Let $\kappa$ be the slope of the rolling layer, defined as in the
 	picture.
@@ -1165,7 +1165,7 @@ FIX/CHECK X VS ARCLENGTH THING!
 	approximately constant), show that the area of rolling
     sand above our patch changes by $\Delta A = -vw\kappa\Delta t$.
 
-3. Given the result of Problem 1, the only way to change $h$ is for
+3. Given the result of Problem 1, the only way to change $H$ is for
     the size of the rolling layer to change.
 	Show that $h$ is related to the total area of sand above the patch
     by $A = hw$.
@@ -1173,7 +1173,7 @@ FIX/CHECK X VS ARCLENGTH THING!
 4. Using Problems 2 and 3, argue that the *total* height of the sandpile at $x$ changes according to
 
    $$
-   \frac{dh}{dt} = -v\kappa.
+   \frac{dH}{dt} = -v\kappa.
    $$
 
 5. Suppose we begin pouring sand from a bucket into the patch
@@ -1182,27 +1182,26 @@ FIX/CHECK X VS ARCLENGTH THING!
 
    $$
    \begin{equation}
-   \frac{dh}{dt} = -v\kappa + b. \label{dh/dt}
+   \frac{dH}{dt} = -v\kappa + b. \label{dh/dt}
    \end{equation}
    $$
 
    Show that in this case, the rolling layer thins out at the rate
 
 	$$
-	\frac{dr}{dt} = -v\kappa + b-\gamma r(\alpha - m).
+	\frac{dR}{dt} = -v\kappa + b-\gamma R(\alpha - m).
 	$$
 
 ---
 
 This is the simple sandpile model of
 [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
-The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to solve in
-general, since they constitute a set of coupled partial differential equations.
-Even then, they are too simple to capture the real behaviour of
-sandpiles!
-But let's try to solve the simplest case.
+The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
+solve in general, and even when you can solve them, they are too
+simple to capture the behaviour of real sandpiles!
+But let's try to understand the simplest case.
 
-At a mine, copper ore is crushed to extract the copper, and the remaining
+At a mine, copper ore is crushed, copper metal is extracted, and the remaining
 material or *gangue* is dumped from a chute into a triangular pile.
 These are called the *tailings*.
 
@@ -1242,20 +1241,20 @@ This limits the size of the standing pile.
     equations imply
 
 	$$
-    r(x, t) = r(x - vt).
+    R(x, t) = R(x - vt).
     $$
 
 	In other words, the height of the rolling layer is not a function
     of position and time independently, but only the combination
     $x+vt$.
 
-	*Hint*. The slope $\kappa = dr/dx$.
+	*Hint*. The slope $\kappa = dR/dx$.
 
 3. Consider a point on the rolling layer with *fixed* $x - vt$.
    Prove that this moves to the right with speed $v$ as time evolves.
    This is just what we expect for the rolling layer!
 
-4. The chute dumps a small column of gangue, height $c(t)$, onto the
+4. The chute dumps a small column of gangue, height $C(t)$, onto the
    top of the pile at each moment of time.
 	Note that, unlike the formation of the stable pile in Problem 1,
    this height now depends on time!
@@ -1263,22 +1262,37 @@ This limits the size of the standing pile.
     the triangle, the initial height of the rolling layer will be
 
    $$
-   r(0, t) = \frac{1}{2}c(t).
+   R(0, t) = \frac{1}{2}C(t).
    $$
    
 	Show using the preceding problems that the height of the tailings pile,
 	as a function of both time $t$ and position $x$, is given by
 
    $$
-   h(x, t) = \tan\alpha\left(\frac{1}{2}B - |x|\right) +
-   \frac{1}{2}c(t-|x|/v).
+   H(x, t) = \tan\alpha\left(\frac{1}{2}B - |x|\right) +
+   \frac{1}{2}C(t-|x|/v).
 	$$
 
-5. (Extension) Redo Problem 1 for a genuine *conical* sandpile on a
-   circular base of diameter $B$.
-   Determine how the 
+5. (Extension) Modify the results of this equation for a *conical*
+    sandpile on a circular base of diameter $B$.
+	Assuming the rolling layer has circular symmetry, argue that
+
+   $$
+   H(r, t) = \tan\alpha\left(\frac{1}{2}B - r\right) +
+   \frac{1}{2\pi r}C(t-r/v).
+	$$
 
 ---
+
+According to
+[Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
+there is a famous MIT exam which simply reads:
+
+<span style="padding-left: 20px; display:block">
+You have a pile of warm metal shavings in the shape of a cone. Discuss.
+</span>
+
+This 
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
