@@ -1150,8 +1150,6 @@ $$
 Note that the value of $R$ here is evaluated in the middle
 of the patch at $x$, as is the value of $S$.
 
-FIX/CHECK X VS ARCLENGTH THING!
-
 ##### Part I: Simple sandpiles
 
 ---
@@ -1200,24 +1198,20 @@ The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
 simple to capture the behaviour of real sandpiles!
 But let's try to understand the simplest case.
-
-At a mine, copper ore is crushed, copper metal is extracted, and the remaining
-material or *gangue* is dumped from a chute into a triangular pile.
-These are called the *tailings*.
+Imagine a mine where copper ore is crushed to extract the metal, with
+the remaining material or *gangue* dumped from a chute into a triangular pile.
+This pile is called the *tailings*.
 
    <figure>
-    <div style="text-align:center"><img src ="/images/posts/sandpile4.png"
+    <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
     width="45%" />
 		    <figcaption><i>Tailings from a mine, slowly forming a triangular
     mound.</i></figcaption>
 	</div>
 	</figure>
 
-The angle of repose for the tailings is $\alpha$, and any rolling
-grains of gangue travel down the sides at speed $v$.
-The pile sits in the middle of a base of width $B$, with a large drop
-to either side.
-This limits the size of the standing pile.
+The tailings sit in the middle of a base of width $B$, with a large drop
+to either side which limits the maximum size of the standing layer.
 
 ##### Part II: Triangular tailings
 
@@ -1228,16 +1222,17 @@ This limits the size of the standing pile.
 	Suppose the triangle forms slowly enough that there is effectively no
 	rolling layer, with sides always at the angle of repose $\alpha$.
 
-   (a) How does the height of the tailings change with time?
+   (a) When do the sides hit the edge of the base?
 
-   (b) When do the sides hit the edge of the base?
+   (b) If the gangue starts piling at $t = 0$, write the profile of
+   the sandpile, $h(x, t)$, as a function of time $t$ and position
+   $x$, until it achieves its maximum size.
 
 2. Once the tailings cover the base, any additional gangue will form a
     rolling layer travelling at speed $v$.
-	We now focus on the right side of the triangle (the left side will
-    be the same by symmetry).
-	Since the standing layer is at the angle of repose $\alpha$, show
-    that, away from the chute (where $b \neq 0$), the sandpile
+	We now focus on the right side of the triangle, since the left side will
+    be the same by symmetry.
+	Show that, away from the chute (where $b \neq 0$), the sandpile
     equations imply
 
 	$$
@@ -1246,20 +1241,21 @@ This limits the size of the standing pile.
 
 	In other words, the height of the rolling layer is not a function
     of position and time independently, but only the combination
-    $x+vt$.
+    $x-vt$.
 
-	*Hint*. The slope $\kappa = dR/dx$.
+	*Hint*. The slope is given by $\kappa = dR/dx$.
 
-3. Consider a point on the rolling layer with *fixed* $x - vt$.
+3. Consider a point on the rolling layer with *fixed* $\xi=x - vt$.
    Prove that this moves to the right with speed $v$ as time evolves.
    This is just what we expect for the rolling layer!
+   A profile which simply shifts over time is called a *wave*.
 
 4. The chute dumps a small column of gangue, height $C(t)$, onto the
    top of the pile at each moment of time.
 	Note that, unlike the formation of the stable pile in Problem 1,
-   this height now depends on time!
-	If this splits evenly into two cascades down either side of
-    the triangle, the initial height of the rolling layer will be
+   we will now let the height depend on time.
+	If the column splits evenly into two cascades down either side of
+    the triangle, the initial height of the rolling layer is
 
    $$
    R(0, t) = \frac{1}{2}C(t).
@@ -1269,13 +1265,22 @@ This limits the size of the standing pile.
 	as a function of both time $t$ and position $x$, is given by
 
    $$
-   H(x, t) = \tan\alpha\left(\frac{1}{2}B - |x|\right) +
-   \frac{1}{2}C(t-|x|/v).
+   H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
+   \frac{1}{2}C(t-|x|/v)
 	$$
 
-5. (Extension) Modify the results of this equation for a *conical*
-    sandpile on a circular base of diameter $B$.
-	Assuming the rolling layer has circular symmetry, argue that
+    for $|x| \leq B/2$.
+	Since $C(t) \, dx$ can be viewed as the volume of the column, the
+	fact that $C(t - |x|/v)$ shifts can be interpreted as following
+	from *conservation* of the volume of tailings.
+
+5. (Extension) Instead of a triangle, we can increase the dimension and
+    consider a conical sandpile at the angle of repose, on a circular base of diameter $B$.
+	Suppose that the columb of gangue $C(t)$ pouring from the chute
+    splits into a *ring* of material that rolls down the
+    sides of the cone at constant speed.
+	If $r$ is the radial variable on the plane beneath the cone,
+    argue from the conservation of volume that for $r \leq B/2$,
 
    $$
    H(r, t) = \tan\alpha\left(\frac{1}{2}B - r\right) +
@@ -1286,13 +1291,13 @@ This limits the size of the standing pile.
 
 According to
 [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
-there is a famous MIT exam which simply reads:
+there is an infamous MIT exam which simply reads:
 
 <span style="padding-left: 20px; display:block">
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-This 
+The bonus problem for our pile of tailings gives a nice
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
