@@ -1198,9 +1198,6 @@ The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
 simple to capture the behaviour of real sandpiles!
 But let's try to understand the simplest case.
-Imagine a mine where copper ore is crushed to extract the metal, with
-the remaining material or *gangue* dumped from a chute into a triangular pile.
-This pile is called the *tailings*.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
@@ -1210,6 +1207,9 @@ This pile is called the *tailings*.
 	</div>
 	</figure>
 
+Imagine a mine where copper ore is crushed to extract the metal, with
+the remaining material or *gangue* dumped from a chute into a triangular pile.
+This pile is called the *tailings*.
 The tailings sit in the middle of a base of width $B$, with a large drop
 to either side which limits the maximum size of the standing layer.
 
