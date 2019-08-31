@@ -1285,7 +1285,8 @@ to either side limiting the maximum size of the standing layer.
    \frac{1}{2\pi r}C(t-r/v)
    $$
 
-	for $r \leq B/2$.
+   for $r \leq B/2$.
+   In this case, the rolling gangue spreads as a *circular wave*.
 
 ---
 
