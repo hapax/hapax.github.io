@@ -1270,9 +1270,9 @@ to either side which limits the maximum size of the standing layer.
 	$$
 
     for $|x| \leq B/2$.
-	Since $C(t) \, dx$ can be viewed as the volume of the column, the
-	fact that $C(t - |x|/v)$ shifts can be interpreted as following
-	from *conservation* of the volume of tailings.
+	Since $C(t) \, dx$ can be viewed as the volume of a very thin column, the
+	fact that $C(t - |x|/v)$ is simply shifted can be interpreted as
+	the *conservation of the volume* of tailings.
 
 5. (Extension) Instead of a triangle, we can increase the dimension and
     consider a conical sandpile at the angle of repose, on a circular base of diameter $B$.
