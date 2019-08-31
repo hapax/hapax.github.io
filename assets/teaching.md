@@ -1200,8 +1200,8 @@ But let's understand the easiest case.
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
     width="45%" />
-		    <figcaption><i>Tailings from a mine, slowly forming a triangular
-    mound.</i></figcaption>
+		    <figcaption><i>Gangue from a mine, slowly forming a triangular
+    mound of tailings.</i></figcaption>
 	</div>
 	</figure>
 
