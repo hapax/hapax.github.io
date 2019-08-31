@@ -1283,7 +1283,7 @@ to either side which limits the maximum size of the standing layer.
    argue from the conservation of volume that for $r \leq B/2$,
 
    $$
-   H(r, t) = \tan\alpha\left(\frac{1}{2}B - r\right) +
+   H(r, t) = \left(\frac{1}{2}B - r\right) \tan\alpha +
    \frac{1}{2\pi r}C(t-r/v).
 	$$
 
