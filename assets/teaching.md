@@ -1220,14 +1220,13 @@ to either side limiting the maximum size of the standing layer.
 	Suppose the triangle forms slowly enough that there is effectively no
 	rolling layer, with sides always at the angle of repose $\alpha$.
 
-   (a) If gangue starts piling up at $t = 0$, when do the sides hit
+   (a) If gangue starts piling up at $t = 0$, at what time $t_\text{edge}$ do the sides hit
    the edge of the base?
 
-   (b) Write the profile of
-   the sandpile, $h(x, t)$, as a function of time $t$ and position
-   $x$, before it achieves its maximum size.
+   (b) Write the profile of the sandpile, $h(x, t)$, as a function of time $t$ and position
+   $x$ for $t < t_\text{edge}$.
 
-2. Once the tailings cover the base, any additional gangue will form a
+2. After $t_\text{edge}$, any additional gangue will form a
     rolling layer travelling at speed $v$.
 	We now focus on the right side of the triangle, since the left side will
     be the same by symmetry.
@@ -1298,7 +1297,8 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse answers than an essay on sandpile dynamics.
+I can think of worse things to write about than the granular dynamics
+of metal shavings.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
