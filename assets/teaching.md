@@ -1209,9 +1209,11 @@ objects, so let's study crushed rock instead of sand.
 
 In a copper mine, ore is crushed to extract the metal, with
 the remaining material, called *gangue*, dumped from a chute into a
-triangular pile of *tailings*.
+triangular pile of tailings.
 Suppose the tailings sit in the middle of a base of width $B$, with a large drop
 to either side limiting the maximum size of the standing layer.
+We'll first consider slowly building a triangular standing layer, and
+then see how the rolling layer moves over it.
 
 #### Part II: Triangular tailings
 
@@ -1299,8 +1301,9 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse things to write about than the granular dynamics
-of metal shavings!
+Without context this is a ridiculous question, and even with context,
+probably still a terrible exam. Even so, I can think of worse things to write about than the granular dynamics of metal shavings!
+
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
