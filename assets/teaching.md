@@ -1197,7 +1197,7 @@ This is the simple sandpile model of
 The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
 simple to capture the behaviour of real sandpiles!
-But let's try to understand the simplest case.
+But let's understand the easiest case.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
@@ -1208,10 +1208,10 @@ But let's try to understand the simplest case.
 	</figure>
 
 Imagine a mine where copper ore is crushed to extract the metal, with
-the remaining material or *gangue* dumped from a chute into a triangular pile.
-This pile is called the *tailings*.
+the remaining material, called *gangue*, dumped from a chute into a
+triangular pile of *tailings*.
 The tailings sit in the middle of a base of width $B$, with a large drop
-to either side which limits the maximum size of the standing layer.
+to either side limiting the maximum size of the standing layer.
 
 #### Part II: Triangular tailings
 
@@ -1296,7 +1296,7 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse answers than a disquisition on sandpile dynamics.
+I can think of worse answers than an essay on sandpile dynamics.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
