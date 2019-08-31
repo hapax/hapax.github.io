@@ -84,7 +84,7 @@ the real world?
 The problem, I'll argue, is that maths education is stuck in a sort of
 *scrubland* with no views into this enchanted realm.
 
-#### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
+##### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
 
 To make the problem more vivid, imagine a
  reality where, instead of maths, you were forced to take *hiking classes* in high school.
@@ -154,7 +154,7 @@ social outcomes by attracting more students into the hiking sector, and
 perhaps most importantly, show them that there's a whole world out
 there, waiting to be relished and explored.
 
-#### 1.2. A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
+##### 1.2. A patch of scrubland <a id="sec-1-2" name="sec-1-2"></a>
 
 The analogy to maths education and its shortcomings is fanciful but hopefully clear.
 Walking is the ability to manipulate
@@ -191,7 +191,7 @@ I wish I was cherry picking, but we will see below that the rest of the chapter 
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
 endless plain of withered, ankle-height shrubs.
 
-#### 1.3. Shrubs and maximin <a id="sec-1-3" name="sec-1-3"></a>
+##### 1.3. Shrubs and maximin <a id="sec-1-3" name="sec-1-3"></a>
 
 What makes these questions so bad?
 To help capture this, I'm going to propose that they fail the **shrub test**:
@@ -261,7 +261,7 @@ mathematics and its sister sciences.
 Hence, we should address the students at greatest risk, and leaving
 the scrubland is the first step.
 
-#### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
+##### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
 Of course, you need to practice walking before you can wander off
 into the foothills, armed only with a compass and a sense of adventure.
@@ -352,7 +352,7 @@ generalisation called the *mean value theorem*; a monster dwelling in
 the badlands called the *blancmange function*; and finally, a much
 nobler use of inverse sine to provide a scheme for approximating $\pi$.
 
-#### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
+##### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
 Our first example will be the *mean value theorem* (MVT).
 Instead of scaling the mountain and giving a fully rigorous proof, we
@@ -500,7 +500,7 @@ If this is greater than the speed limit, they can issue a fine!
 	</div>
 	</figure>
 
-#### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
+##### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as the MVT is to prove, it's even more fun to break.
 If the students draw a sharp kink in the curve, they will find that the theorem fails:
@@ -650,7 +650,7 @@ questions, and follow loose
 threads, we often find something amazing lurking in the undergrowth.
 In their own way, monsters can be beautiful.
 
-#### 2.3. Slice of pi <a id="sec-2-3" name="sec-2-3"></a>
+##### 2.3. Slice of pi <a id="sec-2-3" name="sec-2-3"></a>
 
 I'll do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
 This requires a little more symbolic facility from students, but the
@@ -834,7 +834,7 @@ of the three calculus word problems above.
 Afterwards, I'll comment on the somewhat obvious tension with the
 maximin test.
 
-#### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
+##### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
 We start with moth balls, adapting and simplifying the lovely article by
 [Tennakone and Pieris (1978)](https://eric.ed.gov/?id=EJ180235).
@@ -953,7 +953,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ----
 
-#### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
+##### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
 Our next problem elaborates on a classic pursuit puzzle, first posed
 in [Igor Irodov's](https://en.wikipedia.org/wiki/Igor_Irodov)
@@ -978,7 +978,7 @@ Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
-##### Part I: Meeting in the middle
+#### Part I: Meeting in the middle
 ----
 
 1. Argue that the danger zone (pictured above) is always an equilateral triangle.
@@ -1024,7 +1024,7 @@ $$
 where $c = c(\alpha)$ depends on $\alpha$.
 This allows us to actually work out the curves!
 
-##### Part II: Self-similar spirals
+#### Part II: Self-similar spirals
 ---
 
 6. Differentiate both sides of (\ref{self}) with respect to $\alpha$,
@@ -1088,7 +1088,7 @@ This translates to "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
-#### 3.3. Slopes and sandpiles <a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Slopes and sandpiles <a id="sec-3-3" name="sec-3-3"></a>
 
 Our final redo is the sandpile, taking inspiration from "Dynamical
 models for granular matter" by
@@ -1150,7 +1150,7 @@ $$
 Note that the value of $R$ here is evaluated in the middle
 of the patch at $x$, as is the value of $S$.
 
-##### Part I: Simple sandpiles
+#### Part I: Simple sandpiles
 
 ---
 
@@ -1213,7 +1213,7 @@ This pile is called the *tailings*.
 The tailings sit in the middle of a base of width $B$, with a large drop
 to either side which limits the maximum size of the standing layer.
 
-##### Part II: Triangular tailings
+#### Part II: Triangular tailings
 
 ---
 
@@ -1308,9 +1308,9 @@ classroom, discussion of strengths/weaknesses.
 - Guided discovery, chunking, anxiety, bonus questions
 - "Need to know math well"
 
-#### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
+##### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
 
-#### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
+##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
 In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
@@ -1322,11 +1322,11 @@ The [Australian Council for Education Research](https://www.acer.org/au/) is
 but the vagueness of the 2018 recommendations suggests that curricular
 change is a ways off.
 
-#### The role of the teacher
+##### The role of the teacher
 
 Adroit guide
 
-#### Active learning and other pedagogical improvements
+##### Active learning and other pedagogical improvements
 
 ## References
 
@@ -1863,9 +1863,9 @@ But we can proceed by steps.
 This will maximally break the theorem in the sense that it holds for *no
 subinterval* of $[a, b]$.
 
-#### 2.3. Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
+##### 2.3. Adding natural numbers <a id="sec-2-3" name="sec-2-3"></a>
 
-#### 2.4. Arithmetic-geometric inequality <a id="sec-2-4"
+##### 2.4. Arithmetic-geometric inequality <a id="sec-2-4"
 name="sec-2-4"></a>
 
    3. <a href="#sec-2-3">Adding natural numbers</a>
