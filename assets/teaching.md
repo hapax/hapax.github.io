@@ -27,7 +27,7 @@ date:  2019-08-03
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
-   3. <a href="#sec-3-3">Slopes and sandpiles</a>
+   3. <a href="#sec-3-3">Slopes and sand piles</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1088,9 +1088,9 @@ This translates to "Although changed, I shall arise the same".
 In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
 spiral was inscribed next to it!
 
-##### 3.3. Slopes and sandpiles <a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Slopes and sand piles <a id="sec-3-3" name="sec-3-3"></a>
 
-Our final redo is the sandpile, taking inspiration from "Dynamical
+Our final redo is the sand pile, taking inspiration from "Dynamical
 models for granular matter" by
 [Hadeler and Kuttler (1999)](https://link.springer.com/article/10.1007/s100350050029).
 A pile of sand has two components: a *standing layer*, which is the
@@ -1100,22 +1100,22 @@ layer* of loose grains running down the slope.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile.png"
     width="68%" />
-		    <figcaption><i>A sandpile, consisting of a standing layer
+		    <figcaption><i>A sand pile, consisting of a standing layer
     and a rolling layer.</i></figcaption>
 	</div>
 	</figure>
 
-We work with sandpiles in the plane, rather than in three
+We work with sand piles in the plane, rather than in three
 dimensions. The height of the standing layer is denoted $S$, and the additional
 thickness of the rolling layer is $R$.
-The total height of the sandpile is then
+The total height of the sand pile is then
 
 $$
 H = S + R.
 $$
 
 The *angle of repose* $\alpha$ is the maximum slope of a stable
-sandpile.
+sand pile.
 If a patch on the standing layer has slope greater than $\alpha$, it
 will shed grains into the rolling layer.
 If it has slope less than $\alpha$, a rolling layer can deposit
@@ -1124,13 +1124,13 @@ grains onto the pile.
 <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile2.png"
     width="60%" />
-		    <figcaption><i>A small patch of sandpile. The
+		    <figcaption><i>A small patch of sand pile. The
     rolling layer moves to the right at speed $v$, with slope κ defined with
     respect to a horizontal standing layer.</i></figcaption>
 	</div>
 	</figure>
 
-Zoom in on a patch of sandpile centred at $x$, width $w$, small enough
+Zoom in on a patch of sand pile centred at $x$, width $w$, small enough
 that both the standing and rolling layer have constant slope, $m$ and
 $\kappa$ respectively.
 Let's see how the height of the standing layer changes with time. A
@@ -1150,7 +1150,7 @@ $$
 Note that the value of $R$ here is evaluated in the middle
 of the patch at $x$, as is the value of $S$.
 
-#### Part I: Simple sandpiles
+#### Part I: Simple sand piles
 
 ---
 
@@ -1168,7 +1168,7 @@ of the patch at $x$, as is the value of $S$.
 	Show that $h$ is related to the total area of sand above the patch
     by $A = hw$.
 
-4. Using Problems 2 and 3, argue that the *total* height of the sandpile at $x$ changes according to
+4. Using Problems 2 and 3, argue that the *total* height of the sand pile at $x$ changes according to
 
    $$
    \frac{dH}{dt} = -v\kappa.
@@ -1192,16 +1192,18 @@ of the patch at $x$, as is the value of $S$.
 
 ---
 
-The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
+The sand pile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
-simple to capture the behaviour of real sandpiles!
+simplistic to capture the behaviour of real sand piles!
 But let's understand the easiest case.
+The equations apply to any *granular material* made of small, rigid
+objects, so let's study crushed rock instead of sand.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
     width="45%" />
-		    <figcaption><i>Gangue from a mine, slowly forming a triangular
-    mound of tailings.</i></figcaption>
+		    <figcaption><i>Gangue from a coper mine, slowly forming a triangular
+    mound.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1223,14 +1225,14 @@ to either side limiting the maximum size of the standing layer.
    (a) If gangue starts piling up at $t = 0$, at what time $t_\text{edge}$ do the sides hit
    the edge of the base?
 
-   (b) Write the profile of the sandpile, $H(x, t)$, as a function of time $t$ and position
+   (b) Write the profile of the sand pile, $H(x, t)$, as a function of time $t$ and position
    $x$ for $t < t_\text{edge}$.
 
 2. After $t_\text{edge}$, any additional gangue will form a
     rolling layer travelling at speed $v$.
 	We now focus on the right side of the triangle, since the left side will
     be the same by symmetry.
-	Show that, away from the chute (where $b \neq 0$), the sandpile
+	Show that, away from the chute (where $b \neq 0$), the sand pile
     equations imply
 
 	$$
@@ -1273,7 +1275,7 @@ to either side limiting the maximum size of the standing layer.
 	the *conservation of volume* of gangue.
 
 5. (Extension) Instead of a triangle, we can increase the dimension and
-    consider a conical sandpile at the angle of repose $\alpha$ on a circular base of diameter $B$.
+    consider a cone of tailings at the angle of repose $\alpha$ on a circular base of diameter $B$.
 	Suppose that the column $C(t)$ splits into a symmetric *ring* of
     material that rolls down the cone at speed $v$.
 	If $r$ is the radial variable on the plane, with $r = 0$ the
