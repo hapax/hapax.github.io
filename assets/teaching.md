@@ -1276,7 +1276,7 @@ to either side which limits the maximum size of the standing layer.
 
 5. (Extension) Instead of a triangle, we can increase the dimension and
     consider a conical sandpile at the angle of repose, on a circular base of diameter $B$.
-	Suppose that the columb of gangue $C(t)$ pouring from the chute
+	Suppose that the column height $C(t)$ pouring from the chute
     splits into a *ring* of material that rolls down the
     sides of the cone at constant speed.
 	If $r$ is the radial variable on the plane beneath the cone,
