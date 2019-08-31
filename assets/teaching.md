@@ -1262,7 +1262,7 @@ to either side which limits the maximum size of the standing layer.
    $$
    
 	Show using the preceding problems that the height of the tailings pile,
-	as a function of both time $t$ and position $x$, is given by
+	as a function of both time $t$ and position $x$, is
 
    $$
    H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
