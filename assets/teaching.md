@@ -1223,7 +1223,7 @@ to either side limiting the maximum size of the standing layer.
    (a) If gangue starts piling up at $t = 0$, at what time $t_\text{edge}$ do the sides hit
    the edge of the base?
 
-   (b) Write the profile of the sandpile, $h(x, t)$, as a function of time $t$ and position
+   (b) Write the profile of the sandpile, $H(x, t)$, as a function of time $t$ and position
    $x$ for $t < t_\text{edge}$.
 
 2. After $t_\text{edge}$, any additional gangue will form a
