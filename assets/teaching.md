@@ -1192,8 +1192,6 @@ of the patch at $x$, as is the value of $S$.
 
 ---
 
-This is the simple sandpile model of
-[Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
 The sandpile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
 simple to capture the behaviour of real sandpiles!
