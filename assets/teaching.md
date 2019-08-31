@@ -1280,7 +1280,7 @@ to either side which limits the maximum size of the standing layer.
     splits into a *ring* of material that rolls down the
     sides of the cone at constant speed.
 	If $r$ is the radial variable on the plane beneath the cone,
-    argue from the conservation of volume that for $r \leq B/2$,
+   argue from the conservation of volume that for $r \leq B/2$,
 
    $$
    H(r, t) = \tan\alpha\left(\frac{1}{2}B - r\right) +
@@ -1297,7 +1297,7 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-The bonus problem for our pile of tailings gives a nice
+I can think of worse answers than a disquisition on sandpile dynamics.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
