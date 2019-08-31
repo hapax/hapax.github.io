@@ -1207,10 +1207,10 @@ objects, so let's study crushed rock instead of sand.
 	</div>
 	</figure>
 
-Imagine a mine where copper ore is crushed to extract the metal, with
+In a copper mine, ore is crushed to extract the metal, with
 the remaining material, called *gangue*, dumped from a chute into a
 triangular pile of *tailings*.
-The tailings sit in the middle of a base of width $B$, with a large drop
+Suppose the tailings sit in the middle of a base of width $B$, with a large drop
 to either side limiting the maximum size of the standing layer.
 
 #### Part II: Triangular tailings
