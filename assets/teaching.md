@@ -1290,8 +1290,7 @@ to either side limiting the maximum size of the standing layer.
 
 ---
 
-According to
-[Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
+According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
 
 <span style="padding-left: 20px; display:block">
@@ -1299,7 +1298,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
 I can think of worse things to write about than the granular dynamics
-of metal shavings.
+of metal shavings!
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
