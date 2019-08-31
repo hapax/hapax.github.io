@@ -1207,7 +1207,7 @@ but we'll just try to understand the easiest case.
 	</figure>
 
 The equations apply to any *granular material* made of small, rigid
-objects, so let's study crushed rock instead of sand.
+objects, so they apply just as well to crushed rock as sand.
 In a copper mine, ore is crushed to extract the metal, with
 the remaining material, called *gangue*, dumped from a chute into a
 triangular pile of tailings.
