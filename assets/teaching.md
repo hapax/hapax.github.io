@@ -11,7 +11,7 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach for teaching differentiation.*
+  illustrate this approach with differentiation.*
 
 ### Contents
 
@@ -1195,18 +1195,19 @@ of the patch at $x$, as is the value of $S$.
 The sand pile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
 solve in general, and even when you can solve them, they are too
 simplistic to capture the behaviour of real sand piles!
-But let's understand the easiest case.
-The equations apply to any *granular material* made of small, rigid
-objects, so let's study crushed rock instead of sand.
+Hadeler and Kuttler discuss some improvements to this simple model,
+but we'll just try to understand the easiest case.
 
    <figure>
     <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
     width="45%" />
-		    <figcaption><i>Gangue from a coper mine, slowly forming a triangular
+		    <figcaption><i>Gangue from a copper mine, slowly forming a triangular
     mound.</i></figcaption>
 	</div>
 	</figure>
 
+The equations apply to any *granular material* made of small, rigid
+objects, so let's study crushed rock instead of sand.
 In a copper mine, ore is crushed to extract the metal, with
 the remaining material, called *gangue*, dumped from a chute into a
 triangular pile of tailings.
@@ -1301,8 +1302,8 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-Without context this is a ridiculous question, and even with context,
-probably still a terrible exam. Even so, I can think of worse things to write about than the granular dynamics of metal shavings!
+This may be a ridiculous exam.
+But I can think of worse things to write about than the granular dynamics of metal shavings!
 
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
