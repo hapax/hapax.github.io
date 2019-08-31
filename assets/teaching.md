@@ -1228,7 +1228,7 @@ then see how the rolling layer moves over it.
    (a) If gangue starts piling up at $t = 0$, at what time $t_\text{edge}$ do the sides hit
    the edge of the base?
 
-   (b) Write the profile of the sand pile, $H(x, t)$, as a function of time $t$ and position
+   (b) Write the profile of the tailings, $H(x, t)$, as a function of time $t$ and position
    $x$ for $t < t_\text{edge}$.
 
 2. After $t_\text{edge}$, any additional gangue will form a
