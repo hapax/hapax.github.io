@@ -1203,7 +1203,7 @@ the remaining material or *gangue* dumped from a chute into a triangular pile.
 This pile is called the *tailings*.
 
    <figure>
-    <div style="text-align:center"><img src ="/images/posts/sandpile4.png"
+    <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
     width="45%" />
 		    <figcaption><i>Tailings from a mine, slowly forming a triangular
     mound.</i></figcaption>
