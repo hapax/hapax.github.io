@@ -1272,19 +1272,22 @@ to either side limiting the maximum size of the standing layer.
     for $|x| \leq B/2$.
 	Since $C(t) \, dx$ can be viewed as the volume of a very thin column, the
 	fact that $C(t - |x|/v)$ is simply shifted can be interpreted as
-	the *conservation of the volume* of tailings.
+	the *conservation of volume* of gangue.
 
 5. (Extension) Instead of a triangle, we can increase the dimension and
-    consider a conical sandpile at the angle of repose, on a circular base of diameter $B$.
+    consider a conical sandpile at the angle of repose $\alpha$ on a circular base of diameter $B$.
 	Suppose that the column $C(t)$ splits into a symmetric *ring* of
     material that rolls down the cone at speed $v$.
-	If $r$ is the radial variable (on the plane), argue from
-    conservation of volume that for $r \leq B/2$,
+	If $r$ is the radial variable on the plane, with $r = 0$ the
+    centre of the tailings, argue from
+    conservation of volume that
 
    $$
    H(r, t) = \left(\frac{1}{2}B - r\right) \tan\alpha +
-   \frac{1}{2\pi r}C(t-r/v).
-	$$
+   \frac{1}{2\pi r}C(t-r/v)
+   $$
+
+	for $r \leq B/2$.
 
 ---
 
