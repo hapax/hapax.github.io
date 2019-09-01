@@ -1184,7 +1184,7 @@ of the patch at $x$, as is the value of $S$.
    \end{equation}
    $$
 
-   In this case, demonstrate that the rolling layer in the patch thins out at rate
+   Conclude that the rolling layer of the patch thins out at rate
 
 	$$
 	\frac{dR}{dt} = -v\kappa + b-\gamma R(\alpha - m).
