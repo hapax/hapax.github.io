@@ -1209,7 +1209,7 @@ but we'll just try to understand the easiest case.
 The equations apply to any *granular material* made of small, rigid
 objects, so they apply just as well to crushed rock as sand.
 In a copper mine, ore is crushed to extract the metal, with
-the remaining material, called *gangue*, dumped from a chute into a
+the remaining material, or *gangue* (pronounced "gang"), dumped from a chute into a
 triangular pile of tailings.
 Suppose the tailings sit in the middle of a base of width $B$, with a large drop
 to either side limiting the maximum size of the standing layer.
@@ -1235,7 +1235,7 @@ then see how the rolling layer moves over it.
     rolling layer travelling at speed $v$.
 	We now focus on the right side of the triangle, since the left side will
     be the same by symmetry.
-	Show that, away from the chute (where $b \neq 0$), the sand pile
+	Show that when $b = 0$ (away from the chute), the sand pile
     equations imply
 
 	$$
@@ -1250,11 +1250,12 @@ then see how the rolling layer moves over it.
 
 3. Consider a point on the rolling layer with *fixed* $\xi=x - vt$.
    Prove that this moves to the right with speed $v$ as time evolves.
-   This is just what we expect for the rolling layer!
-   A profile which simply shifts over time is called a *wave*.
+   This is the mathematical definition of a *wave*: a profile which,
+   over time, translates without changing.
+   
 
 4. The chute dumps a small column of gangue, height $C(t)$, onto the
-   top of the pile at each moment of time.
+   top of the pile at time $t$.
 	Note that, unlike the formation of the stable pile in Problem 1,
    we will now let the height depend on time.
 	If the column splits evenly into two cascades down either side of
