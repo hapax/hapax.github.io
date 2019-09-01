@@ -1277,21 +1277,22 @@ then see how the rolling layer moves over it.
 
     for $|x| \leq B/2$.
 	The column height $C(t)$ is a bit like the moving needle on a lie
-	detector or a seismograph, tracing a curve on paper moving at
-	speed $v$ down the triangle.
+	detector or a seismograph, tracing a curve on paper moving beneath
+	it at speed $v$.
 
-5. (Extension) The product $C(t) \, dx$ can be viewed as the volume
-    of a very thin column dumped on top of the column at time $t$.
-	Show that in (\ref{tailings1}), the volume of gangue is
-    *conserved* as it flows down the pile.
+EEK CONES AND SUCH
 
-6. (Extension) Instead of a triangle, we can increase the dimension and
-    consider a cone of tailings at the angle of repose $\alpha$ on a circular base of diameter $B$.
+5. (Extension) Suppose we have a three-dimensional pile with has
+   circular symmetry, i.e. can be written as a profile $H(r, t)$,
+   where $r$ is the radial variable.
+   The sandpile equations are the same, but 
+	 
 	If it falls precisely at the apex of the cone, the column $C(t)$
-    splits into a symmetric *ring* of material that rolls down at speed $v$.
+    splits into a symmetric *ring* of material that rolls down at
+    speed $v$.
+	Assume this now 
 	If $r$ is the radial variable on the plane, with $r = 0$ the
-    centre of the tailings, argue from
-    conservation of volume that
+    centre of the tailings, argue that
 
    $$
    H(r, t) = \left(\frac{1}{2}B - r\right) \tan\alpha +
