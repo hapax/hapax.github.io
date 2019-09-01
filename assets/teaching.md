@@ -1269,19 +1269,26 @@ then see how the rolling layer moves over it.
     tailings is
 
    $$
+   \begin{equation}
    H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
-   \frac{1}{2}C(t-|x|/v)
-	$$
+   \frac{1}{2}C(t-|x|/v)\label{tailings1}
+   \end{equation}
+   $$
 
     for $|x| \leq B/2$.
-	Since $C(t) \, dx$ can be viewed as the volume of a very thin column, the
-	fact that $C(t - |x|/v)$ is simply shifted can be interpreted as
-	the *conservation of volume* of gangue.
+	The column height $C(t)$ is a bit like the moving needle on a lie
+	detector or a seismograph, tracing a curve on paper moving at
+	speed $v$ down the triangle.
 
-5. (Extension) Instead of a triangle, we can increase the dimension and
+5. (Extension) The product $C(t) \, dx$ can be viewed as the volume
+    of a very thin column dumped on top of the column at time $t$.
+	Show that in (\ref{tailings1}), the volume of gangue is
+    *conserved* as it flows down the pile.
+
+6. (Extension) Instead of a triangle, we can increase the dimension and
     consider a cone of tailings at the angle of repose $\alpha$ on a circular base of diameter $B$.
-	Suppose that the column $C(t)$ splits into a symmetric *ring* of
-    material that rolls down the cone at speed $v$.
+	If it falls precisely at the apex of the cone, the column $C(t)$
+    splits into a symmetric *ring* of material that rolls down at speed $v$.
 	If $r$ is the radial variable on the plane, with $r = 0$ the
     centre of the tailings, argue from
     conservation of volume that
@@ -1305,7 +1312,6 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 This may be a ridiculous exam.
 But I can think of worse things to write about than the granular dynamics of metal shavings!
-
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
