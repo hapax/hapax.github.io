@@ -1165,8 +1165,8 @@ of the patch at $x$, as is the value of $S$.
 
 3. Given the result of Problem 1, the only way to change $H$ is for
     the size of the rolling layer to change.
-	Show that $h$ is related to the total area of sand above the patch
-    by $A = hw$.
+	Show that $H$ is related to the total area of sand above the patch
+    by $A = Hw$.
 
 4. Using Problems 2 and 3, argue that the *total* height of the sand pile at $x$ changes according to
 
