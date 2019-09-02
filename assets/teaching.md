@@ -1249,14 +1249,15 @@ when run for long enough:
 	</div>
 	</figure>
 
-This fractal is connected to a deeper property called
-[*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
-with the sandpile "tuning" itself to remaining in a delicate
-equilibrium between order (no avalanches) and disorder (too many
-avalanches).
+This fractal is related to the deeper property of [*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
+where the sandpile "tunes" itself to maintain a delicate balance
+between order (no avalanches) and disorder (too many avalanches).
+This is revealed by counting the size and frequency of avalanches, but
+that is beyond our present scope!
 Many other systems are (somewhat controversially) thought to exhibit
-this self-organised criticality, such as forest fires, earthquakes,
-evolution, and [even the human brain](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile).
+self-organised criticality, such as forest fires, earthquakes,
+evolution, and
+[even the human brain](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile).
 
 According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
