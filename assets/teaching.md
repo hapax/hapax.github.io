@@ -1234,7 +1234,7 @@ cascades if any of these neighbours currently has four grains.
 
 <figure>
     <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/a/a3/Backtang2.png"
-    width="80%" />
+    width="65%" />
 		    <figcaption><i>A Bak–Tang–Wiesenfeld sand pile of 28
     million grains. (Wikipedia)</i></figcaption>
 	</div>
