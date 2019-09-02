@@ -831,8 +831,6 @@ There is an even grander secret.
 tools can be brought to bear.
 For maximum rhetorical impact, I'm going to show this by redoing each
 of the three calculus word problems above.
-Afterwards, I'll comment on the somewhat obvious tension with the
-maximin test.
 
 ##### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
@@ -1078,17 +1076,16 @@ Swiss mathematician
 [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 called this curve the *spira mirabilis* ("marvellous spiral") since he
 was so struck by its property of self-resemblance.
-His gravestone even bears the enigmatic Latin reference
+His gravestone even bears the enigmatic Latin phrase
 
 <span style="padding-left: 20px; display:block">
 <i>Eadem mutato resurgo.</i>
 </span>
 
-This translates to "Although changed, I shall arise the same".
-In a carving snafu, an Archimedean ($r = C\phi$) rather than a logarithmic
-spiral was inscribed next to it!
+This means "Although changed, I shall arise the same", a clear
+reference to the spiral.
 
-##### 3.3. Slopes and sand piles <a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Slopes, sand piles and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
 
 Our final redo is the sand pile, taking inspiration from the model of
 [Bouchard, Cates, Prakesh and Edwards (1994)](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html).
@@ -1132,7 +1129,8 @@ To make life easy, we just deal with one-dimensional piles.
 Zoom in on a patch of sand pile centred at $x$, width $w$, small enough
 that both the standing and rolling layer have constant slope, $m$ and
 $\kappa$ respectively.
-Let's see how the height of the standing layer changes with time. A
+
+Let's first see how the height of the standing layer changes with time. A
 reasonable guess is that sand grains move between the layers at a rate
 proportional to (a) the current thickness $R$ of the rolling layer,
 and (b) the difference between the standing slope and the angle of
@@ -1148,6 +1146,8 @@ $$
  for some constant of proportionality $\gamma$ depending on the properties of the sand.
 Note that the value of $R$ here is evaluated in the middle
 of the patch at $x$, as is the value of $S$.
+Now we turn to the rolling layer, and use our equations to solve for
+the shape of a simple triangular sand pile.
 
 ---
 
@@ -1222,15 +1222,27 @@ of the patch at $x$, as is the value of $S$.
 
 ---
 
-The BCPE sand pile model provides a good example of the physical
-relevance of slopes, both in time and space.
-On a tantalising side note, there are also *discrete* sand pile models, most famously the ["Abelian
-sand pile"](https://en.wikipedia.org/wiki/Abelian_sandpile_model) of
-[Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
-This is a very simple model where sand grains are randomly dropped onto a
-grid of sites.
-If too many grains build up at a point, they spill onto neighbouring
-sites, an *avalanche* process which can cascade if nearby sites are full.
+The BCPE sand pile model provides a good illustration of how slopes in
+time and space can interact, and leads to the insight that (at
+least when the model is valid) the rolling layer travels like a wave
+down a slope at the angle of repose.
+Although this result is (in my opinion) well and truly beyond the
+scrubland, there is a tantalising twist to the story of sand piles
+when we consider *discrete* instead of continuous models.
+Since the details are less apposite to our differential theme, I'll
+just sketch the basics.
+
+Imagine dropping sand grains at random onto a grid of points.
+If too many grains build up at a single point, they spill onto neighbouring
+sites.
+If any of these neighbouring sites are full, they too can spill, and
+the result is that a single grain can cause an *avalanche* which
+redistributes some large portion of grains in the sand pile.
+This is the
+[famous sand pile](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
+of
+[Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf),
+and it has many remarkable properties.
 After running it for a long time, the sand pile takes on a remarkable
 *fractal* structure:
 
@@ -1268,6 +1280,8 @@ granular media and the human brain.
 classroom, discussion of strengths/weaknesses.
 - Guided discovery, chunking, anxiety, bonus questions
 - "Need to know math well"
+Afterwards, I'll comment on the somewhat obvious tension with the
+maximin test.
 
 [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert)
 , AI
