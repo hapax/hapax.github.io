@@ -1252,8 +1252,8 @@ in the distribution of grains (when run for a long time):
 This fractal is related to the deeper property of [*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
 where the sandpile "tunes" itself to maintain a delicate balance
 between order (no avalanches) and disorder (too many avalanches).
-This is revealed by counting the size and frequency of avalanches, but
-that is beyond our present scope!
+This is revealed by counting the size and frequency of avalanches,
+though the details are beyond our present scope.
 Many other systems are (somewhat controversially) thought to exhibit
 self-organised criticality, such as forest fires, earthquakes,
 evolution, and
