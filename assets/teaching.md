@@ -1226,10 +1226,10 @@ The BCPE sand pile model shows how slopes in
 time and space interact, and leads to the insight that the rolling
 layer travels like a wave down a standing cone at the angle of repose.
 I think this is rather nice, and clearly outside the scrubland, but
-there's a spectacular twist to the story of sand piles when we
-consider *discrete* sand pile models.
-I won't delve into the details here, though I think they could form
-the basis of a nice programming project for a keen class.
+there's a spectacular twist to the story of sand piles if we
+consider *discrete* models.
+I won't delve into the details, though I think they could form
+the basis of a meaty programming project for a keen class.
 
 Imagine dropping sand grains at random onto a discrete grid of points.
 If too many grains build up at a single site, they spill onto neighbouring
@@ -1240,7 +1240,7 @@ This is, in brief, the [Abelian sand pile](https://en.wikipedia.org/wiki/Abelian
 of
 [Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
 It has many remarkable properties, such as a pretty fractal structure
-when run for long enough:
+in the distribution of grains (when run for a long time):
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/bak-corner.png"/>
