@@ -1223,12 +1223,8 @@ of the patch at $x$, as is the value of $S$.
 ---
 
 The BCPE sand pile model provides a good example of the physical
-relevance of slopes, both in time and space, without (explicitly)
-involving the student in the intricacies of partial differential
-equations.
-
-We have been considering a continuous sand pile model.
-On a tantalising side note, we note there are also *discrete* sand pile models, most famously the ["Abelian
+relevance of slopes, both in time and space.
+On a tantalising side note, there are also *discrete* sand pile models, most famously the ["Abelian
 sand pile"](https://en.wikipedia.org/wiki/Abelian_sandpile_model) of
 [Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
 This is a very simple model where sand grains are randomly dropped onto a
