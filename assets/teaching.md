@@ -1224,16 +1224,17 @@ the shape of a simple triangular sand pile.
 
 The BCPE sand pile model shows how slopes in
 time and space interact, and leads to the insight that the rolling
-layer travels like a wave down a slope at the angle of repose.
-Although I think we've succeeded in our task of taking the problem out
-of the scrubland, there's an even more spectacular twist to the story
-of sand piles I can resist mentioning.
+layer travels like a wave down a standing cone at the angle of repose.
+I think this is rather nice, and clearly outside the scrubland, but
+there's a spectacular twist to the story of sand piles when we
+consider *discrete* sand pile models.
+I won't delve into the details here, though I think they could form
+the basis of a nice programming project for a keen class.
 
-Imagine dropping sand grains at random onto a grid of points.
-If too many grains build up at a single point, they spill onto neighbouring
+Imagine dropping sand grains at random onto a discrete grid of points.
+If too many grains build up at a single site, they spill onto neighbouring
 sites.
-If any of these neighbouring sites are full, they too can spill, and
-the result is that a single grain can cause an *avalanche* which
+If any of these neighbouring sites are full, they too can spill, with the result that a single grain can cause an *avalanche* which
 redistributes some large portion of grains in the sand pile.
 This is, in brief, the [Abelian sand pile](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
 of
@@ -1248,7 +1249,7 @@ when run for long enough:
 	</div>
 	</figure>
 
-This fractal structure is connected to a deeper property called
+This fractal is connected to a deeper property called
 [*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
 with the sandpile "tuning" itself to remaining in a delicate
 equilibrium between order (no avalanches) and disorder (too many
