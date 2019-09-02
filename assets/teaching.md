@@ -564,7 +564,7 @@ smaller triangles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt9.png"
-    width="90%" />
+    width="95%" />
 		    <figcaption><i>Baking a blancmange.</i></figcaption>
 	</div>
 	</figure>
@@ -1210,7 +1210,7 @@ of the patch at $x$, as is the value of $S$.
 	R(0, t) = C(t),
 	$$
 
-	Assuming $b = 0$ for $x > 0$, show that the profile of the sand
+	Assuming $b = 0$ for $|x| > 0$, show that the profile of the sand
     pile (on the base) is
 
    $$
@@ -1221,6 +1221,8 @@ of the patch at $x$, as is the value of $S$.
    $$
 
 ---
+
+Sand piles provide a wonderful example of the importance of slopes.
 
 This *continuous* approach to sand pile modelling has its advantages,
 but even more famous is the discrete sand pile of
