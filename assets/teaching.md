@@ -1112,8 +1112,8 @@ $$
 H = S + R.
 $$
 
-The *angle of repose* $\theta is the maximum angle of a stable
-sand pile; for simplicity we use the *slope* $\alpha = \tan\theta$.
+The *angle of repose* $\theta_\text{rep}$ is the maximum angle of a stable
+sand pile; for simplicity we use the *slope* $\alpha = \tan\theta_\text{rep}$.
 If a patch on the standing layer has slope greater than $\alpha$, it
 will shed grains into the rolling layer.
 If it has slope less than $\alpha$, a rolling layer can deposit
@@ -1222,29 +1222,37 @@ of the patch at $x$, as is the value of $S$.
 
 ---
 
-Sand piles provide a wonderful example of the importance of slopes.
+The BCPE sand pile model provides a good example of the physical
+relevance of slopes, both in time and space, without (explicitly)
+involving the student in the intricacies of partial differential
+equations.
 
-This *continuous* approach to sand pile modelling has its advantages,
-but even more famous is the discrete sand pile of
+We have been considering a continuous sand pile model.
+On a tantalising side note, we note there are also *discrete* sand pile models, most famously the ["Abelian
+sand pile"](https://en.wikipedia.org/wiki/Abelian_sandpile_model) of
 [Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
-It would take us too far from calculus to discuss this in any detail,
-but the basic idea is simple: drop grains at random onto a square
-lattice of sand pile sites.
-If a site gets four grains, an *avalanche* occurs, and the four grains
-are donated to the site's four neighbours, which can cause additional
-cascades if any of these neighbours currently has four grains.
+This is a very simple model where sand grains are randomly dropped onto a
+grid of sites.
+If too many grains build up at a point, they spill onto neighbouring
+sites, an *avalanche* process which can cascade if nearby sites are full.
+After running it for a long time, the sand pile takes on a remarkable
+*fractal* structure:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/bak-corner.png"/>
 		    <figcaption><i>A corner of the Bak-Tang-Weisenfeld sand
-    pile. (Wikipedia)</i></figcaption>
+    pile (from Wikipedia).</i></figcaption>
 	</div>
 	</figure>
 
-This model has various remarkable properties, which appear to be
-interrelated.
-The structure of the sandpile, after many grains are dropped, is
-*fractal*, as illustrated by the image ([source code](https://commons.wikimedia.org/wiki/File:Backtang2.png)) above.
+This fractal structure is connected to a deeper property called
+[*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
+with the sandpile "tuning" itself to remaining in a delicate
+equilibrium between order (no avalanches) and disorder (too many
+avalanches).
+Many other systems are (somewhat controversially) thought to exhibit
+this self-organised criticality, such as forest fires, earthquakes,
+evolution, and [even the human brain](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile).
 
 According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
@@ -1253,8 +1261,8 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-This may be a ridiculous exam.
-But I can think of worse things to write about than the granular dynamics of metal shavings!
+I can think of worse topics than the connection between self-organised
+granular media and the human brain.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
