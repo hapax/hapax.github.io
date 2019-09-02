@@ -1150,8 +1150,6 @@ $$
 Note that the value of $R$ here is evaluated in the middle
 of the patch at $x$, as is the value of $S$.
 
-#### Part I: Simple sand piles
-
 ---
 
 1. Assume the density of sand is the same in the standing and rolling layer.
@@ -1190,83 +1188,29 @@ of the patch at $x$, as is the value of $S$.
 	\frac{dR}{dt} = -v\kappa + b-\gamma R(\alpha - m).
 	$$
 
----
 
-The sand pile equations (\ref{ds/dt}) and (\ref{dh/dt}) are hard to
-solve in general, and even when you can solve them, they are too
-simplistic to capture the behaviour of real sand piles!
-Hadeler and Kuttler discuss some improvements to this simple model,
-but we'll just try to understand the easiest case.
+6. (Extension) Consider a triangular pile of sand on a base of width
+   $B$, with a steep drop on either side so the rolling layer falls
+   off rather than building up.
+   Suppose the standing layer is at the angle of repose.
+   We focus on the right side of the triangle by symmetry.
 
-   <figure>
-    <div style="text-align:center"><img src ="/images/posts/sandpile5.png"
-    width="45%" />
-		    <figcaption><i>Gangue from a copper mine, slowly forming a triangular
-    mound.</i></figcaption>
-	</div>
-	</figure>
-
-The equations apply to any *granular material* made of small, rigid
-objects, so they apply just as well to crushed rock as sand.
-In a copper mine, ore is crushed to extract the metal, with
-the remaining material, or *gangue* (pronounced "gang"), dumped from a chute into a
-triangular pile of tailings.
-Suppose the tailings sit in the middle of a base of width $B$, with a large drop
-to either side limiting the maximum size of the standing layer.
-We'll first consider slowly building a triangular standing layer, and
-then see how the rolling layer moves over it.
-
-#### Part II: Triangular tailings
-
----
-
-1. At first, material is dumped from the chute at a constant rate $V$
-	(volume per unit time).
-	Suppose the triangle forms slowly enough that there is effectively no
-	rolling layer, with sides always at the angle of repose $\alpha$.
-
-   (a) If gangue starts piling up at $t = 0$, at what time $t_\text{edge}$ do the sides hit
-   the edge of the base?
-
-   (b) Write the profile of the tailings, $H(x, t)$, as a function of time $t$ and position
-   $x$ for $t < t_\text{edge}$.
-
-2. After $t_\text{edge}$, any additional gangue will form a
-    rolling layer travelling at speed $v$.
-	We now focus on the right side of the triangle, since the left side will
-    be the same by symmetry.
-	Show that when $b = 0$ (away from the chute), the sand pile
-    equations imply
+	(a) Show that when $b = 0$, the sand pile equations imply
 
 	$$
     R(x, t) = R(x - vt).
     $$
 
-	In other words, the height of the rolling layer is not a function
-    of position and time independently, but only the combination
-    $x-vt$.
+	(b) A child now pours a thin stream of sand onto the top of the
+    pile.
+	This sets the initial value of the rolling layer:
 
-	*Hint*. The slope is given by $\kappa = dR/dx$.
+	$$
+	R(0, t) = C(t),
+	$$
 
-3. Consider a point on the rolling layer with *fixed* $\xi=x - vt$.
-   Prove that this moves to the right with speed $v$ as time evolves.
-   This is the mathematical definition of a *wave*: a profile which,
-   over time, translates without changing.
-   
-
-4. The chute dumps a small column of gangue, height $C(t)$, onto the
-   top of the pile at time $t$.
-	Note that, unlike the formation of the stable pile in Problem 1,
-   we will now let the height depend on time.
-	If the column splits evenly into two cascades down either side of
-    the triangle, the initial height of the rolling layer is
-
-   $$
-   R(0, t) = \frac{1}{2}C(t).
-   $$
-   
-	Show using the preceding problems that the height profile of the
-    tailings is
+	Assuming $b = 0$ for $x > 0$, show that the profile of the sand
+    pile is
 
    $$
    \begin{equation}
@@ -1276,31 +1220,6 @@ then see how the rolling layer moves over it.
    $$
 
     for $|x| \leq B/2$.
-	The column height $C(t)$ is a bit like the moving needle on a lie
-	detector or a seismograph, tracing a curve on paper moving beneath
-	it at speed $v$.
-
-EEK CONES AND SUCH
-
-5. (Extension) Suppose we have a three-dimensional pile with has
-   circular symmetry, i.e. can be written as a profile $H(r, t)$,
-   where $r$ is the radial variable.
-   The sandpile equations are the same, but 
-	 
-	If it falls precisely at the apex of the cone, the column $C(t)$
-    splits into a symmetric *ring* of material that rolls down at
-    speed $v$.
-	Assume this now 
-	If $r$ is the radial variable on the plane, with $r = 0$ the
-    centre of the tailings, argue that
-
-   $$
-   H(r, t) = \left(\frac{1}{2}B - r\right) \tan\alpha +
-   \frac{1}{2\pi r}C(t-r/v)
-   $$
-
-   for $r \leq B/2$.
-   In this case, the rolling gangue spreads as a *circular wave*.
 
 ---
 
