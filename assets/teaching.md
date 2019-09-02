@@ -1202,21 +1202,21 @@ of the patch at $x$, as is the value of $S$.
 
 	This dependence on $x-vt$ is the mathematical definition of a *wave*.
 
-	(b) A child now pours a thin stream of sand onto the top of the
+	(b) A child now pours a thin, time-dependent stream of sand onto the top of the
     pile.
-	This sets the initial value of the rolling layer:
+	This sets the height of the rolling layer at the top of the pile for each time $t$:
 
 	$$
-	R(0, t) = C(t),
+	R(0, t) = C(t).
 	$$
 
-	Assuming $b = 0$ for $|x| > 0$, show that the profile of the sand
-    pile (on the base) is
+	Assuming $b = 0$ for $x > 0$, show that the profile of the sand
+    pile for $B/2 \geq x \geq 0$ is
 
    $$
    \begin{equation}
-   H(x, t) = \frac{1}{2}\alpha B - \alpha|x|+
-   C(t-|x|/v).\label{tailings1}
+   H(x, t) = \frac{1}{2}\alpha B - \alpha x+
+   C(t-x/v).\label{tailings1}
    \end{equation}
    $$
 
