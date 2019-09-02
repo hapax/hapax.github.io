@@ -1210,16 +1210,14 @@ of the patch at $x$, as is the value of $S$.
 	$$
 
 	Assuming $b = 0$ for $x > 0$, show that the profile of the sand
-    pile is
+    pile (on the base) is
 
    $$
    \begin{equation}
    H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
-   \frac{1}{2}C(t-|x|/v)\label{tailings1}
+   \frac{1}{2}C(t-|x|/v).\label{tailings1}
    \end{equation}
    $$
-
-    for $|x| \leq B/2$.
 
 ---
 
