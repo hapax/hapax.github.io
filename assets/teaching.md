@@ -953,7 +953,7 @@ the shell is proportional to the concentration $c(r)$ and the velocity $v$.
 
 ##### 3.2. Irodov's triangle <a id="sec-3-2" name="sec-3-2"></a>
 
-Our next problem elaborates on a classic pursuit puzzle, first posed
+Our next problem extends the classic pursuit puzzle first posed
 in [Igor Irodov's](https://en.wikipedia.org/wiki/Igor_Irodov)
 [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
 and later
