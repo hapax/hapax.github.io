@@ -1114,8 +1114,8 @@ $$
 H = S + R.
 $$
 
-The *angle of repose* $\alpha$ is the maximum slope of a stable
-sand pile.
+The *angle of repose* $\theta is the maximum angle of a stable
+sand pile; for simplicity we use the *slope* $\alpha = \tan\theta$.
 If a patch on the standing layer has slope greater than $\alpha$, it
 will shed grains into the rolling layer.
 If it has slope less than $\alpha$, a rolling layer can deposit
@@ -1214,8 +1214,8 @@ of the patch at $x$, as is the value of $S$.
 
    $$
    \begin{equation}
-   H(x, t) = \left(\frac{1}{2}B - |x|\right) \tan\alpha +
-   \frac{1}{2}C(t-|x|/v).\label{tailings1}
+   H(x, t) = \alpha\left(\frac{1}{2}B - |x|\right) +
+   C(t-|x|/v).\label{tailings1}
    \end{equation}
    $$
 
