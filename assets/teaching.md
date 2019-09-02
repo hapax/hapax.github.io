@@ -1215,7 +1215,7 @@ of the patch at $x$, as is the value of $S$.
 
    $$
    \begin{equation}
-   H(x, t) = \alpha\left(\frac{1}{2}B - |x|\right) +
+   H(x, t) = \frac{1}{2}\alpha B - \alpha|x|+
    C(t-|x|/v).\label{tailings1}
    \end{equation}
    $$
