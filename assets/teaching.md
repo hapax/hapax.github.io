@@ -27,7 +27,7 @@ date:  2019-08-03
 3. <a href="#sec-3">Mining for patterns</a>
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
-   3. <a href="#sec-3-3">Slopes and sand piles</a>
+   3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1085,7 +1085,7 @@ His gravestone even bears the enigmatic Latin phrase
 This means "Although changed, I shall arise the same", a clear
 reference to the spiral.
 
-##### 3.3. Slopes, sand piles and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Sand piles, slopes and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
 
 Our final redo is the sand pile, taking inspiration from the model of
 [Bouchard, Cates, Prakesh and Edwards (1994)](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html).
@@ -1251,14 +1251,15 @@ in the distribution of grains (when run for a long time):
 
 This fractal is related to the deeper property of [*self-organised criticality*](https://en.wikipedia.org/wiki/Self-organized_criticality),
 where the sandpile "tunes" itself to maintain a delicate balance
-between order (no avalanches) and disorder (too many avalanches).
-This is revealed by counting the size and frequency of avalanches,
-though the details are beyond our present scope.
+between total order (no avalanches) and disorder (too many avalanches).
+The technical tool to assess the balance the statistical relation
+between size and frequency of avalanches, which can be assayed
+computationally, but once again this is beyond our scope.
+
 Many other systems are (somewhat controversially) thought to exhibit
 self-organised criticality, such as forest fires, earthquakes,
-evolution, and
+co-evolution, and
 [even the human brain](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile).
-
 According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
 
@@ -1266,8 +1267,8 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse topics than the connection between self-organised
-granular media and the human brain.
+I can think of worse topics than this extraordinary connection between
+granular media and a self-tuning system like the brain.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
