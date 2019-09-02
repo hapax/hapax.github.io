@@ -1233,8 +1233,7 @@ are donated to the site's four neighbours, which can cause additional
 cascades if any of these neighbours currently has four grains.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/bak-corner.png"
-    width="80%" />
+    <div style="text-align:center"><img src ="/images/posts/bak-corner.png"/>
 		    <figcaption><i>A corner of the Bak-Tang-Weisenfeld sand
     pile. (Wikipedia)</i></figcaption>
 	</div>
