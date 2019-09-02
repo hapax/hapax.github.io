@@ -1201,6 +1201,8 @@ of the patch at $x$, as is the value of $S$.
     R(x, t) = R(x - vt).
     $$
 
+	This dependence on $x-vt$ is the mathematical definition of a *wave*.
+
 	(b) A child now pours a thin stream of sand onto the top of the
     pile.
 	This sets the initial value of the rolling layer:
@@ -1220,6 +1222,7 @@ of the patch at $x$, as is the value of $S$.
    $$
 
 ---
+
 
 According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
