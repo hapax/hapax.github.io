@@ -1222,15 +1222,12 @@ the shape of a simple triangular sand pile.
 
 ---
 
-The BCPE sand pile model provides a good illustration of how slopes in
-time and space can interact, and leads to the insight that (at
-least when the model is valid) the rolling layer travels like a wave
-down a slope at the angle of repose.
-Although this result is (in my opinion) well and truly beyond the
-scrubland, there is a tantalising twist to the story of sand piles
-when we consider *discrete* instead of continuous models.
-Since the details are less apposite to our differential theme, I'll
-just sketch the basics.
+The BCPE sand pile model shows how slopes in
+time and space interact, and leads to the insight that the rolling
+layer travels like a wave down a slope at the angle of repose.
+Although I think we've succeeded in our task of taking the problem out
+of the scrubland, there's an even more spectacular twist to the story
+of sand piles I can resist mentioning.
 
 Imagine dropping sand grains at random onto a grid of points.
 If too many grains build up at a single point, they spill onto neighbouring
@@ -1238,13 +1235,11 @@ sites.
 If any of these neighbouring sites are full, they too can spill, and
 the result is that a single grain can cause an *avalanche* which
 redistributes some large portion of grains in the sand pile.
-This is the
-[famous sand pile](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
+This is, in brief, the [Abelian sand pile](https://en.wikipedia.org/wiki/Abelian_sandpile_model)
 of
-[Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf),
-and it has many remarkable properties.
-After running it for a long time, the sand pile takes on a remarkable
-*fractal* structure:
+[Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
+It has many remarkable properties, such as a pretty fractal structure
+when run for long enough:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/bak-corner.png"/>
