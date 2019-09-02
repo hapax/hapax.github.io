@@ -1090,10 +1090,9 @@ spiral was inscribed next to it!
 
 ##### 3.3. Slopes and sand piles <a id="sec-3-3" name="sec-3-3"></a>
 
-Our final redo is the sand pile, taking inspiration from "Dynamical
-models for granular matter" by
-[Hadeler and Kuttler (1999)](https://link.springer.com/article/10.1007/s100350050029).
-A pile of sand has two components: a *standing layer*, which is the
+Our final redo is the sand pile, taking inspiration from the model of
+[Bouchard, Cates, Prakesh and Edwards (1994)](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html).
+They split a pile of sand into two components: a *standing layer*, which is the
 large blob of stable sand at the bottom of the pile, and a *rolling
 layer* of loose grains running down the slope.
 
@@ -1105,9 +1104,8 @@ layer* of loose grains running down the slope.
 	</div>
 	</figure>
 
-We work with sand piles in the plane, rather than in three
-dimensions. The height of the standing layer is denoted $S$, and the additional
-thickness of the rolling layer is $R$.
+The height of the standing layer is denoted $S$, and the thickness of
+the rolling layer on top is called $R$.
 The total height of the sand pile is then
 
 $$
@@ -1130,6 +1128,7 @@ grains onto the pile.
 	</div>
 	</figure>
 
+To make life easy, we just deal with one-dimensional piles.
 Zoom in on a patch of sand pile centred at $x$, width $w$, small enough
 that both the standing and rolling layer have constant slope, $m$ and
 $\kappa$ respectively.
@@ -1223,6 +1222,28 @@ of the patch at $x$, as is the value of $S$.
 
 ---
 
+This *continuous* approach to sand pile modelling has its advantages,
+but even more famous is the discrete sand pile of
+[Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
+It would take us too far from calculus to discuss this in any detail,
+but the basic idea is simple: drop grains at random onto a square
+lattice of sand pile sites.
+If a site gets four grains, an *avalanche* occurs, and the four grains
+are donated to the site's four neighbours, which can cause additional
+cascades if any of these neighbours currently has four grains.
+
+<figure>
+    <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/a/a3/Backtang2.png"
+    width="80%" />
+		    <figcaption><i>A Bak–Tang–Wiesenfeld sand pile of 28
+    million grains. (Wikipedia)</i></figcaption>
+	</div>
+	</figure>
+
+This model has various remarkable properties, which appear to be
+interrelated.
+The structure of the sandpile, after many grains are dropped, is
+*fractal*, as illustrated by the image ([source code](https://commons.wikimedia.org/wiki/File:Backtang2.png)) above.
 
 According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
