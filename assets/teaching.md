@@ -1233,10 +1233,10 @@ are donated to the site's four neighbours, which can cause additional
 cascades if any of these neighbours currently has four grains.
 
 <figure>
-    <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/a/a3/Backtang2.png"
-    width="65%" />
-		    <figcaption><i>A Bak–Tang–Wiesenfeld sand pile of 28
-    million grains. (Wikipedia)</i></figcaption>
+    <div style="text-align:center"><img src ="/images/posts/bak-corner.png"
+    width="80%" />
+		    <figcaption><i>A corner of the Bak-Tang-Weisenfeld sand
+    pile. (Wikipedia)</i></figcaption>
 	</div>
 	</figure>
 
@@ -1263,6 +1263,12 @@ But I can think of worse things to write about than the granular dynamics of met
 classroom, discussion of strengths/weaknesses.
 - Guided discovery, chunking, anxiety, bonus questions
 - "Need to know math well"
+
+[Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert)
+, AI
+pioneer and inventor of the Logo pro (and incidentally Lego mindstorms!)
+wonderful essay, "The Mathematical Unconscious", deals with the
+relation between learning mathematics, aesthetics, and intuition.
 
 ##### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
 
