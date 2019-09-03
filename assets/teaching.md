@@ -10,7 +10,10 @@ date:  2019-08-03
 **August 13, 2019.** *In the 21st century, higher-order mathematical
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
-  of the holes in the pipeline? I propose we make maths interesting!*
+  of the holes in the pipeline? I propose we make maths interesting! I
+  illustrate this approach using beauty (pure mathematics) and
+  application (applied mathematics), and discuss how this can be
+  realistically implemented.*
 
 ### Contents
 
@@ -61,6 +64,15 @@ argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument) that there
 This is the sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths could be deep and bewitchingly strange.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/russell.png"/>
+		    <figcaption><i>The joy of sets: solid arrows indicate
+    membership and dotted arrow non-membership. Set A is not a
+    self-member while D is. R contains all and only sets which do not
+    contain themselves. But does it contain itself? </i></figcaption>
+	</div>
+	</figure>
 
 At the same time, I was reading pop science books about physics,
 fun things like relativity, black holes and quantum mechanics.
@@ -350,7 +362,8 @@ Since we have spent a little time looking at calculus, I will
 illustrate a way out of the scrubland here: a neat little summit of
 generalisation called the *mean value theorem*; a monster dwelling in
 the badlands called the *blancmange function*; and finally, a much
-nobler use of inverse sine to provide a scheme for approximating $\pi$.
+nobler use of inverse sine to provide a scheme for approximating
+$\pi$.
 
 ##### 2.1. The mean value theorem <a id="sec-2-1" name="sec-2-1"></a>
 
@@ -1079,15 +1092,14 @@ was so struck by its property of self-resemblance.
 His gravestone even bears the enigmatic Latin phrase
 
 <span style="padding-left: 20px; display:block">
-<i>Eadem mutato resurgo.</i>
+<i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-This means "Although changed, I shall arise the same", a clear
-reference to the marvellous spiral.
+This is a clear reference to the marvellous spiral.
 
 ##### 3.3. Sand piles, slopes and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
 
-Our final redo is the sand pile, taking inspiration from the model of
+Our final revision is the sand pile, taking inspiration from the model of
 [Bouchard, Cates, Prakesh and Edwards (1994)](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html).
 They split a pile of sand into two components: a *standing layer*, which is the
 large blob of stable sand at the bottom of the pile, and a *rolling
@@ -1271,12 +1283,9 @@ piles of granular matter and self-organising fractals.
 
 ## 4. Beyond the manifesto <a id="sec-4" name="sec-4"></a>
 
-I've called this a "manifesto" since many details of the programme
-need to be fleshed out, kinks ironed, and objections addressed.
-To get the ball rolling, I want to start thinking about how the <a
-href="#sec-2">explorations</a> and <a href="#sec-3">word problems</a>
-fit into a broader classroom framework, and consider the related
-question of the best way to develop basic symbolic facility.
+This is a manifesto since, despite the call to arms, many details of the programme
+need to be fleshed out.
+Here, I want to address two s
 
 ##### 4.1. Guided discovery <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1326,9 +1335,9 @@ human brain.
 These are results which should motivate at least some students to
 attempt them.
 
-##### 4.2. Drill sergeant <a id="sec-4-1" name="sec-4-2"></a>
+##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
 
-##### 4.3. The evidence <a id="sec-4-2" name="sec-4-3"></a>
+##### 4.3. Imagery and motivation <a id="sec-4-3" name="sec-4-3"></a>
 
 - Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
 - Second subsec on existing curricular reform.
