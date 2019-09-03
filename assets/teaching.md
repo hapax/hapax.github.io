@@ -59,11 +59,6 @@ If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
 Neither can be true, so the big set can't exist without breaking the universe.
-This is more than a novelty; Russell's paradox can be jerry-rigged into [an
-argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument) that there are different sorts of infinity!
-This is the sort of power that philosophers, using mere words, could
-only dream of.
-I saw that maths could be deep and bewitchingly strange.
 
 <figure>
     <div style="text-align:center"><img src
@@ -74,6 +69,12 @@ I saw that maths could be deep and bewitchingly strange.
     contain themselves. But does it contain itself? </i></figcaption>
 	</div>
 	</figure>
+
+This is more than a novelty; Russell's paradox can be jerry-rigged into [an
+argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument) that there are different sorts of infinity!
+This is the sort of power that philosophers, using mere words, could
+only dream of.
+I saw that maths could be deep and bewitchingly strange.
 
 At the same time, I was reading pop science books about physics,
 fun things like relativity, black holes and quantum mechanics.
