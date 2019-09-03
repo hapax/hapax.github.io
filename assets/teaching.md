@@ -1302,7 +1302,8 @@ piles of granular matter and self-organising fractals.
 I've called this a manifesto since it is a call to arms rather than a
 detailed programme.
 In this last section, however, I want to start considering some
-techniques for implementation and the pedagogical issues at play.
+techniques for implementation and the pedagogical nitty gritty to go
+with them.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1337,7 +1338,7 @@ More generally, I think
 [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning),
 [play](http://www.child-encyclopedia.com/play-based-learning/according-experts/playing-learn-mathematics)
  and a [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
- philosophy problem-writing could well *replace* drill.
+ philosophy of problem-writing could well *replace* drill.
 Although these tools are well-known in primary mathematics teaching
 circles, why not secondary or even tertiary?
 I hope the examples show (or at least gesture in the direction of) the
