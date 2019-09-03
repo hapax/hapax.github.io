@@ -784,7 +784,7 @@ gear up.
 There are other ways to orient students in the landscape and protect
 them from misadventure.
 That said, I see no reason that an advanced class should not try
-climbing a small mountain, and prepare accordingly.
+climbing a mountain every now and again, and prepare accordingly.
 
 ## 3. Mining for patterns <a id="sec-3" name="sec-3"></a>
 
