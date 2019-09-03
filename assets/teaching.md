@@ -1266,8 +1266,8 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse topics than this extraordinary (if still speculative) connection between
-granular media and a self-tuning system like the brain.
+I can think of worse topics than this extraordinary connection between
+piles of granular matter and self-organising fractals.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
 
