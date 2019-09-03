@@ -640,8 +640,8 @@ Everything just gets squished onto the red line.
 To summarise, the blancmange function is *continuous but nowhere
 differentiable*, and a similar iterative construction for any single-kink curve
 gives a function with the same property.
-Some students will savour this pathological dessert, while others will not.
-The latter will be in good company; mathematician
+Some students will savour this pathological dessert, while others will
+not and be in good company. Mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
 instance, wrote: "I turn with terror and horror from this lamentable
 scourge of functions with no derivatives".
