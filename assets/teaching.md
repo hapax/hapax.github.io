@@ -811,7 +811,8 @@ But nothing passes the shrub test!
 Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-We're now in a Dalí-esque scrubland of random objects.
+We're now in a Dalí-esque scrubland of random objects, scattered and
+melting and labelled by meaningless numbers.
 
 Maths comes from the real world, and we should connect
 students to its living, breathing sources of inspiration and
