@@ -91,8 +91,8 @@ looked back.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/universe.png" width="65%"/>
-		    <figcaption><i>Trying to speak to the universe
-    (personified as a great dodecahedron).</i></figcaption>
+		    <figcaption><i>Trying to speak to the Great Dodecahedron
+    in the sky.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1306,14 +1306,55 @@ techniques for implementation and the pedagogical issues at play.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
-<a href="#sec-1-4">Earlier</a>, I alluded to the fact that students
-need to learn how to walk before they, say, do a solo hike.
-And our <a href="#sec-3">revised problems</a> really are solo hikes,
-even if clearly signposted and with gorgeous views on offer.
-On the other end of the spectrum, our <a
-href="#sec-2">explorations</a> of the MVT are invitations into the
-landscape, more like a walk from the car park to the waterfall.
-How do we bridge the gap?
+In the sections on <a href="#sec-2">pure</a> and <a
+href="#sec-3">applied</a> mathematics, I've tried to sketch directions
+out of the scrubland.
+Although these invite students into the landscape, and showcase the
+power of mathematics, neither is suited to *developing basic facility*.
+Students need to learn to walk before they can hike.
+
+How do develop these walking skills?
+As discussed <a href="#sec-1-4">earlier</a>, one of the arguments in
+favour of drill --- by which I mean small variations of the same
+problem type --- is that it teaches some students how to do that
+problem type.
+But does it really make them into mathematical thinkers?
+All of my experience suggests that, at best, it makes students good at
+mindlessly executing algorithms.
+At worse, it turns them off mathematics.
+According to the maximin test, we therefore need to rethink our
+approach to drill.
+
+The <a href="#sec-3">revised questions</a> may be solo hikes, but they
+are long because they are "chunked" into a small, achievable steps,
+rather than leaps of insight or tedious calculation.
+I hope they clearly signpost and lead students to the gorgeous views
+on offer.
+More generally, I think
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
+ and a [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
+ approach to problem-writing could well *replace* drill.
+ Model what the students know and don't know.
+ Design material to build on those models of student knowledge,
+ providing both conceptual and computational exercises in the
+[zone of proximal developement](https://en.wikipedia.org/wiki/Zone_of_proximal_development).
+Be aware that student attention is not something you are owed, and try
+to satisfy the maximin test.
+
+On that note, the maximin test does not say there should be no spread
+in the difficulty of questions.
+John Mighton, founder of the
+[JUMP math program](https://www.jumpmath.org), discusses the powerful
+incentive that bonus questions provide in his book,
+[*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability).
+He even recalls breaking up a fight by threatening to withhold this
+bonus question!
+Extension problems, when marked as such, does not appear to trigger
+[mathematics anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
+or self-doubt in the students who can't (yet) understand it.
+When students trust the teacher, and know that questions are designed
+with a careful mental model and their best interests in mind, they are
+likely to be *incentivised* by extension problems.
 
 ##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
 
