@@ -28,6 +28,7 @@ date:  2019-08-03
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
 4. <a href="#sec-4">Beyond the manifesto</a>
+   1. <a href="#sec-4-1">Guided discovery</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1082,7 +1083,7 @@ His gravestone even bears the enigmatic Latin phrase
 </span>
 
 This means "Although changed, I shall arise the same", a clear
-reference to the spiral.
+reference to the marvellous spiral.
 
 ##### 3.3. Sand piles, slopes and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
 
@@ -1275,7 +1276,32 @@ need to be fleshed out, kinks ironed, and objections addressed.
 But to get the ball rolling, I've collected here what I deem to be the
 major issues.
 
-##### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
+##### 4.1. Guided discovery <a id="sec-4-1" name="sec-4-1"></a>
+
+The <a href="#sec-3">redone problems</a> are long and seemingly challenging.
+Do they really pass the maximin test?
+Is a student who is barely engaged going to get sufficiently
+excited by moth balls, or spirals, or sand piles, to reach the end of
+the problem?
+
+There are two answers to this.
+First of all, I think these problems will only work with students who
+have a basic level of engangement and trust in the teacher.
+This is not because they are particularly hard, but because they look
+long, involved, and unfamiliar, they are likely to trigger
+[mathematical anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety).
+The gentler, exploratory approach for <a href="#sec-2">pure
+mathematics</a> can lead to engagement, and build trust.
+These could be accompanied by simpler, "one-off" questions, designed
+to reinforce student confidence and let them figure out small details
+in the argument.
+
+At the same time, the <a href="#sec-3">problems</a> are easier than
+they look.
+This is because they are "chunked" into small parts, each of which is
+formally straightforward.
+I view this as a form of
+[guided discovery learning](http://edutechwiki.unige.ch/en/Guided_discovery_learning).
 
 ##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
