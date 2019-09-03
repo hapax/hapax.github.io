@@ -31,7 +31,7 @@ date:  2019-08-03
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
 4. <a href="#sec-4">Beyond the manifesto</a>
-   1. <a href="#sec-4-1">Guided discovery</a>
+   1. <a href="#sec-4-1">Learning to walk</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1287,7 +1287,11 @@ This is a manifesto since, despite the call to arms, many details of the program
 need to be fleshed out.
 Here, I want to address two s
 
-##### 4.1. Guided discovery <a id="sec-4-1" name="sec-4-1"></a>
+##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
+
+##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
+
+##### 4.3. Imagery and motivation <a id="sec-4-3" name="sec-4-3"></a>
 
 The <a href="#sec-3">revised problems</a> seem challenging.
 Do they really pass the maximin test?
@@ -1334,10 +1338,6 @@ real pile of sand behaves, and perhaps even what it has to do with the
 human brain.
 These are results which should motivate at least some students to
 attempt them.
-
-##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
-
-##### 4.3. Imagery and motivation <a id="sec-4-3" name="sec-4-3"></a>
 
 - Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
 - Second subsec on existing curricular reform.
