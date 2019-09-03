@@ -1273,40 +1273,46 @@ piles of granular matter and self-organising fractals.
 
 I've called this a "manifesto" since many details of the programme
 need to be fleshed out, kinks ironed, and objections addressed.
-But to get the ball rolling, I've collected here what I deem to be the
-major issues.
+To get the ball rolling, I want to start thinking about how the <a
+href="#sec-2">explorations</a> and <a href="#sec-3">word problems</a>
+fit into a broader classroom framework, and consider the related
+question of the best way to develop basic symbolic facility.
 
 ##### 4.1. Guided discovery <a id="sec-4-1" name="sec-4-1"></a>
 
-The <a href="#sec-3">redone problems</a> are long and seemingly challenging.
+The <a href="#sec-3">revised problems</a> seem challenging.
 Do they really pass the maximin test?
-Is a student who is barely engaged going to get sufficiently
-excited by moth balls, or spirals, or sand piles, to reach the end of
-the problem?
+Is a student who is barely engaged going to get excited by long
+questions on moth balls, spirals, or sand piles?
+I think these questions require some level of engagement and
+trust in the teacher, and a level of facility for formal manipulations.
+A student who lacks these things is likely to experience
+[mathematics anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
+when confronted with them.
 
-There are two answers to this.
-First of all, I think these problems will only work with students who
-have a basic level of engangement and trust in the teacher.
-This is not because they are particularly hard, but because they look
-long, involved, and unfamiliar, they are likely to trigger
-[mathematical anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety).
-The gentler, exploratory approach for <a href="#sec-2">pure
-mathematics</a> can lead to engagement, and build trust.
-These could be accompanied by simpler, "one-off" questions, designed
-to reinforce student confidence and let them figure out small details
-in the argument.
+First of all, how do we develop trust and basic engagement?
+I think the gentler, exploratory approach, illustrated for <a
+href="#sec-2">pure mathematics</a>, can build both of these.
+A teacher can guide students through a topic displaying the
+beauty, intrigue, or applicability of mathematics, some window into
+the landscape, in a way that shows they will not treat the students
+like idiots or waste their time.
+They are on a journey together.
+To build confidence, these explorations could be accompanied by short
+conceptual questions and formal exercises.
+These help develop facility, but I will discuss this more in the next section.
 
-At the same time, the <a href="#sec-3">problems</a> are less
-challenging than they first appear.
-They are long because they take the path to an interesting result, and
-"chunk" into small, reasonably friendly steps.
-If students have *trust* in the teacher, and familiarity with this
-type of question, they will more likely to attempt it since they know
-that length is a sign that the question is *carefully designed to
-facilite discovery*.
-At least, that is my goal in writing the problems this way!
-I therefore view these long-form, "chunked" problems as a type of
-[guided discovery technique](http://edutechwiki.unige.ch/en/Guided_discovery_learning).
+A student with some facility and engagement will have more confidence
+in themselves to attempt a difficult question.
+But *confidence in the teacher* is just as important.
+Long questions can be the sign of a sadistic assessor, but they can
+also indicate a careful, constructivist approach.
+The <a href="#sec-3">revised problems</a> are long because the path to
+an interesting destination has been carefully broken into small,
+achievable steps.
+
+In fact, I view these long-form, "chunked" problems as a form of
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning).
 
 Another aspect is that students should, in fact, discover something.
 We are not asking them to jump through hoops for no reason, or to
@@ -1320,7 +1326,9 @@ human brain.
 These are results which should motivate at least some students to
 attempt them.
 
-##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
+##### 4.2. Drill sergeant <a id="sec-4-1" name="sec-4-2"></a>
+
+##### 4.3. The evidence <a id="sec-4-2" name="sec-4-3"></a>
 
 - Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
 - Second subsec on existing curricular reform.
