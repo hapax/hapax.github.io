@@ -280,8 +280,14 @@ Given the uncertainties, game theory tells us we should focus on
 maximising the minimum outcome.
 I think the worst outcome is permanently turning students off
 mathematics and its sister sciences.
-Hence, we should address the students at greatest risk, and leaving
-the scrubland is the first step.
+
+If we were hiking, the maximin test would translate into the simple
+requirement that the students at the back of the group want to hike,
+and aren't left behind.
+If interest, rather than inborn mathematical ability, is the key to
+success, then instead of marching slowly through featureless terrain,
+our best bet to get these students involved is to pick an exciting
+destination with diversions and enticements along the way.
 
 ##### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
@@ -1295,22 +1301,23 @@ piles of granular matter and self-organising fractals.
 
 I've called this a manifesto since it is a call to arms rather than a
 detailed programme.
-In this last section, however, I want to start considering some of the
-implementation details and pedagogical issues at play.
+In this last section, however, I want to start considering some
+techniques for implementation and the pedagogical issues at play.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
-The <a href="#sec-3">revised problems</a> above are challenging.
-They would bomb the maximin test in most classrooms, and are more
-suited to students who already have some confidence and basic facility.
-What is the best way to develop facility?
-A traditional argument for scrubland, which I alluded to <a
-href="#sec-1-4">earlier</a> without really addressing, is that
-students need to drill to get
+<a href="#sec-1-4">Earlier</a>, I alluded to the fact that students
+need to learn how to walk before they, say, do a solo hike.
+And our <a href="#sec-3">revised problems</a> really are solo hikes,
+even if clearly signposted and with gorgeous views on offer.
+On the other end of the spectrum, our <a
+href="#sec-2">explorations</a> of the MVT are invitations into the
+landscape, more like a walk from the car park to the waterfall.
+How do we bridge the gap?
 
 ##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
 
-##### 4.3. Imagery and motivation <a id="sec-4-3" name="sec-4-3"></a>
+##### 4.3. Guide on the side <a id="sec-4-3" name="sec-4-3"></a>
 
 The <a href="#sec-3">revised problems</a> seem challenging.
 Do they really pass the maximin test?
