@@ -1296,12 +1296,29 @@ These could be accompanied by simpler, "one-off" questions, designed
 to reinforce student confidence and let them figure out small details
 in the argument.
 
-At the same time, the <a href="#sec-3">problems</a> are easier than
-they look.
-This is because they are "chunked" into small parts, each of which is
-formally straightforward.
-I view this as a form of
-[guided discovery learning](http://edutechwiki.unige.ch/en/Guided_discovery_learning).
+At the same time, the <a href="#sec-3">problems</a> are less
+challenging than they first appear.
+They are long because they take the path to an interesting result, and
+"chunk" into small, reasonably friendly steps.
+If students have *trust* in the teacher, and familiarity with this
+type of question, they will more likely to attempt it since they know
+that length is a sign that the question is *carefully designed to
+facilite discovery*.
+At least, that is my goal in writing the problems this way!
+I therefore view these long-form, "chunked" problems as a type of
+[guided discovery technique](http://edutechwiki.unige.ch/en/Guided_discovery_learning).
+
+Another aspect is that students should, in fact, discover something.
+We are not asking them to jump through hoops for no reason, or to
+drill in order to do more drill.
+They are reasoning about a sphere of gas so that, at the end of
+the day, they can deduce nontrivial properties of napthalene by
+measuring a moth ball; or discovering a spiral that Bernoulli thought
+beautiful enough to reference on his gravestone; or learning how a
+real pile of sand behaves, and perhaps even what it has to do with the
+human brain.
+These are results which should motivate at least some students to
+attempt them.
 
 ##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
