@@ -100,9 +100,9 @@ I was lucky, stumbling later in life onto a hidden realm of
 extraordinary beauty and power.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
-copying just enough to pass tests, never seeing that there's a
-mathematical world out there, which happens to exquisitely describe
-the real world?
+copying just enough to pass tests, but never seeing that there's a
+mathematical world out there which happens to exquisitely describe our
+world too?
 The problem, I'll argue, is that maths education is stuck in a sort of
 *scrubland* with no views into this enchanted realm.
 
