@@ -1339,12 +1339,13 @@ More generally, I think
 [play](http://www.child-encyclopedia.com/play-based-learning/according-experts/playing-learn-mathematics)
  and a [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
  philosophy of problem-writing could well *replace* drill.
-Although these tools are well-known in primary mathematics teaching
-circles, why not secondary or even tertiary?
-I hope the examples show (or at least gesture in the direction of) the
-relevance of these principles to non-scrubland mathematics teaching.
+Although these tools are well-known in primary mathematics teaching,
+they are almost unknown (it seems) in secondary and tertiary circles.
+I hope my examples show (or at least gesture in the direction of) the
+utility of these principles for non-scrubland maths at a higher level.
 
-How does this actually look?
+What does this philosophy look like?
+Here are a few tentative thoughts.
  Model what the students know and don't know.
  Take these models, and address discussion and questions to the
 [zone of proximal developement](https://en.wikipedia.org/wiki/Zone_of_proximal_development).
