@@ -1317,14 +1317,17 @@ As discussed <a href="#sec-1-4">earlier</a>, one of the arguments in
 favour of drill --- by which I mean small variations of the same
 problem type --- is that it seems to be good at developing basic
 facility (if nothing else).
-But does it really make them good at manipulating symbols, or finding
+
+But does drill of this sort really help students to become
+mathematical thinkers, to be comfortable with symbols and able to find
 their way around a formal structure?
-My experience, as a student and teacher, suggests that, at best, it
-makes students good at mindlessly executing algorithms.
+My experience, as a student and teacher, suggests that at best it
+makes students good at mindlessly executing algorithms and copying
+solutions.
 At worst, it turns them off mathematics.
 According to the maximin test, we should rethink our approach to
 drill.
-I'll discuss evidence for this viewpoint in the next section.
+(I'll discuss evidence for this viewpoint in the next section.)
 
 In both sets of examples, I've tried to "chunk" discussion and
 problems into small, achievable steps, rather than leaps of insight or
