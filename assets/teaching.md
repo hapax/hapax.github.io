@@ -62,7 +62,7 @@ Neither can be true, so the big set can't exist without breaking the universe.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/russell.png" width="60%"/>
+    ="/images/posts/russell.png" width="40%"/>
 		    <figcaption><i>The joy of sets: solid arrows indicate
     membership and dotted arrows non-membership. Set A is not a
     self-member while D is. The Russell set R contains all and only sets which do not
@@ -87,6 +87,14 @@ looked like I needed to learn the lanaguage of mathematics rather than colourful
 These two developments led me to switch from philosophy to maths and
 physics, and I never
 looked back.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/universe.png" width="60%"/>
+		    <figcaption><i>Trying to speak to the universe
+    (personified as a great dodecahedron).</i></figcaption>
+	</div>
+	</figure>
 
 I was lucky, stumbling later in life onto a hidden realm of
 extraordinary beauty and power.
@@ -858,7 +866,7 @@ microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball2.png"
-    width="70%" />
+    width="75%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
 	</div>
@@ -1294,9 +1302,11 @@ implementation details and pedagogical issues at play.
 
 The <a href="#sec-3">revised problems</a> above are challenging.
 They would bomb the maximin test in most classrooms, and are more
-suited to students who are engaged and already have some confidence
-and basic facility.
-How is this facility to be developed?
+suited to students who already have some confidence and basic facility.
+What is the best way to develop facility?
+A traditional argument for scrubland, which I alluded to <a
+href="#sec-1-4">earlier</a> without really addressing, is that
+students need to drill to get
 
 ##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
 
