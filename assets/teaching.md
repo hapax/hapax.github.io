@@ -770,12 +770,11 @@ They can add up terms and check that it's right!
 
 To derive Newton's formula for $\pi$, we have thrown rigour to the
 wind.
-As with the blancmange, I think it is worth mentioning the convergence
+As with the blancmange, I think it's worth mentioning the convergence
 issues at play (power series radius of convergence, uniform
 convergence for term-by-term differentiation) without belabouring them.
 On a first exposure, a quagmire of technical conditions will spoil the magic!
 A numerical check can be just as convincing.
-
 Is this pedagogically sound?
 I find the hiking analogy helpful here.
 Rigour is something like a heavy *safety harness* for mountain climbing.
