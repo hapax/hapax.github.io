@@ -1240,7 +1240,7 @@ This is, in brief, the [Abelian sand pile](https://en.wikipedia.org/wiki/Abelian
 of
 [Bak, Tang and Weisenfeld (1987)](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf).
 It has many remarkable properties, such as a pretty fractal structure
-in the distribution of grains (when run for a long time):
+in the distribution of grains when run for long enough:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/bak-corner.png"/>
