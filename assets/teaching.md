@@ -63,14 +63,14 @@ I saw that maths could be deep and bewitchingly strange.
 
 At the same time, I was reading pop science books about physics,
 fun things like relativity, black holes and quantum mechanics.
-These pop science books were great, filled with pictures and metaphors
-and colourful examples.
-But I began to suspect that I was missing something, and that to
-really get to the bottom of things, I would need to know some mathematics.
-To paraphrase Galileo, if I wanted to speak with the universe, to
-become "conversant", then I needed to learn its language, which seemed
-to be maths and not colourful analogies.
-Eventually, I switched from philosophy to maths and physics and never
+The books were mysterious but inviting, filled with pictures and metaphors
+and colourful examples that gave tantalising hints about the subject
+without ever really explaining it.
+I began to suspect that I was missing something.
+To paraphrase Galileo, if I wanted to speak with the universe, it
+looked like I needed to learn the lanaguage of mathematics rather than colourful analogies.
+These two developments led me to switch from philosophy to maths and
+physics, and I never
 looked back.
 
 I was lucky, stumbling later in life onto a hidden realm of
