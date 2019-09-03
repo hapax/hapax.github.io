@@ -90,7 +90,7 @@ looked back.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/universe.png" width="60%"/>
+    ="/images/posts/universe.png" width="65%"/>
 		    <figcaption><i>Trying to speak to the universe
     (personified as a great dodecahedron).</i></figcaption>
 	</div>
