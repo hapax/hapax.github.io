@@ -66,7 +66,8 @@ only dream of.
 I saw that maths could be deep and bewitchingly strange.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/russell.png"/>
+    <div style="text-align:center"><img src
+    ="/images/posts/russell.png" width="80%"/>
 		    <figcaption><i>The joy of sets: solid arrows indicate
     membership and dotted arrow non-membership. Set A is not a
     self-member while D is. R contains all and only sets which do not
@@ -1283,11 +1284,18 @@ piles of granular matter and self-organising fractals.
 
 ## 4. Beyond the manifesto <a id="sec-4" name="sec-4"></a>
 
-This is a manifesto since, despite the call to arms, many details of the programme
-need to be fleshed out.
-Here, I want to address two s
+I've called this a manifesto since it is a call to arms rather than a
+detailed programme.
+In this last section, however, I want to start considering some of the
+implementation details and pedagogical issues at play.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
+
+The <a href="#sec-3">revised problems</a> above are challenging.
+They would bomb the maximin test in most classrooms, and are more
+suited to students who are engaged and already have some confidence
+and basic facility.
+How is this facility to be developed?
 
 ##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
 
