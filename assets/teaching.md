@@ -1312,37 +1312,42 @@ out of the scrubland.
 Although these invite students into the landscape, and showcase the
 power of mathematics, neither is suited to *developing basic facility*.
 Students need to learn to walk before they can hike.
-
-How do develop these walking skills?
+How should we develop these walking skills?
 As discussed <a href="#sec-1-4">earlier</a>, one of the arguments in
 favour of drill --- by which I mean small variations of the same
-problem type --- is that it teaches some students how to do that
-problem type.
-But does it really make them into mathematical thinkers?
-All of my experience suggests that, at best, it makes students good at
-mindlessly executing algorithms.
-At worse, it turns them off mathematics.
-According to the maximin test, we therefore need to rethink our
-approach to drill.
+problem type --- is that it seems to be good at developing basic
+facility (if nothing else).
+But does it really make them good at manipulating symbols, or finding
+their way around a formal structure?
+My experience, as a student and teacher, suggests that, at best, it
+makes students good at mindlessly executing algorithms.
+At worst, it turns them off mathematics.
+According to the maximin test, we should rethink our approach to
+drill.
+I'll discuss evidence for this viewpoint in the next section.
 
-The <a href="#sec-3">revised questions</a> may be solo hikes, but they
-are long because they are "chunked" into a small, achievable steps,
-rather than leaps of insight or tedious calculation.
-I hope they clearly signpost and lead students to the gorgeous views
-on offer.
+In both sets of examples, I've tried to "chunk" discussion and
+problems into small, achievable steps, rather than leaps of insight or
+tedious calculation.
+I hope they clearly signpost and lead students to the gorgeous views on offer.
 More generally, I think
-[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning),
+[play](http://www.child-encyclopedia.com/play-based-learning/according-experts/playing-learn-mathematics)
  and a [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
- approach to problem-writing could well *replace* drill.
- Model what the students know and don't know.
- Design material to build on those models of student knowledge,
- providing both conceptual and computational exercises in the
-[zone of proximal developement](https://en.wikipedia.org/wiki/Zone_of_proximal_development).
-Be aware that student attention is not something you are owed, and try
-to satisfy the maximin test.
+ philosophy problem-writing could well *replace* drill.
+Although these tools are well-known in primary mathematics teaching
+circles, why not secondary or even tertiary?
+I hope the examples show (or at least gesture in the direction of) the
+relevance of these principles to non-scrubland mathematics teaching.
 
-On that note, the maximin test does not say there should be no spread
-in the difficulty of questions.
+How does this actually look?
+ Model what the students know and don't know.
+ Take these models, and address discussion and questions to the
+[zone of proximal developement](https://en.wikipedia.org/wiki/Zone_of_proximal_development).
+Be aware that student attention is not something you are owed, but
+must *earn*, and try to satisfy the maximin test.
+
+On that note, maximin does not say there should be no spread in the difficulty of questions.
 John Mighton, founder of the
 [JUMP math program](https://www.jumpmath.org), discusses the powerful
 incentive that bonus questions provide in his book,
