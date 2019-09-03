@@ -62,7 +62,7 @@ Neither can be true, so the big set can't exist without breaking the universe.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/russell.png" width="40%"/>
+    ="/images/posts/russell.png" width="45%"/>
 		    <figcaption><i>The joy of sets: solid arrows indicate
     membership and dotted arrows non-membership. Set A is not a
     self-member while D is. The Russell set R contains all and only sets which do not
