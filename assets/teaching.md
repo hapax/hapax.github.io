@@ -70,7 +70,7 @@ Neither can be true, so the big set can't exist without breaking the universe.
 	</div>
 	</figure>
 
-This is more than a novelty; Russell's paradox can be jerry-rigged into [an
+This is more than a novelty: Russell's paradox can be jerry-rigged into [an
 argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument) that there are different sorts of infinity!
 This is the sort of power that philosophers, using mere words, could
 only dream of.
