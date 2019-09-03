@@ -10,8 +10,7 @@ date:  2019-08-03
 **August 13, 2019.** *In the 21st century, higher-order mathematical
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
-  of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach with differentiation.*
+  of the holes in the pipeline? I propose we make maths interesting!*
 
 ### Contents
 
@@ -28,36 +27,36 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
+4. <a href="#sec-4">Beyond the manifesto</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
 In high school, I was one of those kids.
 I thought maths class was about as boring as watching paint
-dry, except that a fresh coat of paint can in some cases be useful
-and add a bit of colour to the world.
-I harboured no such illusions about mathematics.
+dry, except that a fresh coat of paint can add colour to the world.
+I harboured no such illusions about mathematics!
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
 Finding $x$ was somebody else's business.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
-The situation was so bad that, at age 15, I remember realising that I
-didn't know how to add fractions or multiply negative numbers.
+The situation was so bad that, at age 15, I realised I
+didn't know how to add fractions or multiply negative numbers, and had
+to teach myself from scratch.
 I had just never internalised those rules.
 
 A few years later, taking a philosophy course, I
-encountered set theory for the first time.
-It totally blew my gourd.
-First of all, there was this wonderful paradox of Bertrand Russell about
+encountered set theory for the first time, and it blew my gourd.
+First of all, there was the [wonderful paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) of Bertrand Russell about
 the set of all sets which don't contain themselves.
 Is this big set a member of itself or not?
 If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
 Neither can be true, so the big set can't exist without breaking the universe.
-This is more than a novelty; Russell's paradox can be jerry-rigged into an
-argument that there are different sorts of infinity!
+This is more than a novelty; Russell's paradox can be jerry-rigged into [an
+argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument) that there are different sorts of infinity!
 This is the sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths could be deep and bewitchingly strange.
@@ -811,8 +810,7 @@ But nothing passes the shrub test!
 Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-We're now in a Dalí-esque scrubland of random objects, scattered and
-melting and labelled by meaningless numbers.
+It's as if we've entered a Dalí-esque scrubland of random 
 
 Maths comes from the real world, and we should connect
 students to its living, breathing sources of inspiration and
@@ -1269,7 +1267,16 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 I can think of worse topics than this extraordinary connection between
 piles of granular matter and self-organising fractals.
 
-## 4. Research <a id="sec-4" name="sec-4"></a>
+## 4. Beyond the manifesto <a id="sec-4" name="sec-4"></a>
+
+I've called this a "manifesto" since many details of the programme
+need to be fleshed out, kinks ironed, and objections addressed.
+But to get the ball rolling, I've collected here what I deem to be the
+major issues.
+
+##### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
+
+##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
 - Final section on pedagogy. First section on drill, chunking, anxiety, whether my problems really satisfy minimax. Look at jump stuff?
 - Second subsec on existing curricular reform.
@@ -1285,10 +1292,6 @@ maximin test.
 pioneer and inventor of the Logo pro (and incidentally Lego mindstorms!)
 wonderful essay, "The Mathematical Unconscious", deals with the
 relation between learning mathematics, aesthetics, and intuition.
-
-##### 4.1. Chunking <a id="sec-4-1" name="sec-4-1"></a>
-
-##### 4.2. The evidence <a id="sec-4-2" name="sec-4-2"></a>
 
 In the US, the
 [Common Core](http://www.corestandards.org/wp-content/uploads/Math_Standards1.pdf) math standards
