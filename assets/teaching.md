@@ -1267,7 +1267,7 @@ there is an infamous MIT exam which simply reads:
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 
-I can think of worse topics than this extraordinary connection between
+I can think of worse topics than this extraordinary (if still speculative) connection between
 granular media and a self-tuning system like the brain.
 
 ## 4. Research <a id="sec-4" name="sec-4"></a>
