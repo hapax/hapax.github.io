@@ -37,7 +37,7 @@ dry, except that a fresh coat of paint can add colour to the world.
 I harboured no such illusions about mathematics!
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
-Finding $x$ was somebody else's business.
+Finding $x$ was not my problem.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a meaningless game with rules I didn't need
 to know beyond the next quiz.
@@ -810,7 +810,8 @@ But nothing passes the shrub test!
 Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-It's as if we've entered a Dalí-esque scrubland of random 
+It's as if we've entered a Dalí-esque scrubland of random, melting
+objects, labelled by meaningless numbers.
 
 Maths comes from the real world, and we should connect
 students to its living, breathing sources of inspiration and
