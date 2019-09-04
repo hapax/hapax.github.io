@@ -29,8 +29,7 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
-4. <a href="#sec-4">Beyond the manifesto</a>
-   1. <a href="#sec-4-1">Learning to walk</a>
+4. <a href="#sec-4">Miscellaneous objections</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1296,12 +1295,17 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 I can think of worse topics than this extraordinary connection between
 piles of granular matter and self-organising fractals.
 
-## 4. Beyond the manifesto <a id="sec-4" name="sec-4"></a>
+## 4. Miscellaneous objections <a id="sec-4" name="sec-4"></a>
 
-I've called this a manifesto since it is a call to arms rather than a
-detailed programme.
-In this last section, however, I want to start considering
-how this approach could be implemented in a classroom setting.
+In this last section
+
+#### How can students develop basic skills?
+
+#### Do the examples in sections <a href="#sec-2">2</a> and <a href="#sec-3">3</a> pass the maximin test?
+
+#### Can teachers without advanced qualifications use this material?
+
+#### Does this approach work for elementary topics?
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
