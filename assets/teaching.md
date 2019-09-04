@@ -1344,7 +1344,7 @@ maximin test.
 But bonus questions are not a blank cheque!
 They still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
-into small, achievable steps, consistent with the guided discovery mindset.
+into small, achievable steps, consistent with guided discovery.
 I have tried to chunk the <a href="#sec-3">applied questions</a>, and
 to aim for relatively low prerequisites.
 But this raises the question: how *do* students develop basic skills,
@@ -1352,32 +1352,40 @@ if we are to abandon the scrubland?
 
 #### How do students develop basic skills?
 
-There appear to be a number of ways to go.
-First, we could treat the applied and aesthetic highlights as bonus
-material, enticing students through more repetitious, facility-building
-exercises.
+As with JUMP, we can treat the aesthetic and applied highlights as
+bonus material, enticing students through more repetitious,
+facility-building exercises.
 But do these have to be shrubs?
-I think the JUMP program shows that, with a careful constructivist
-ethic, building basic skills need not be an interest-killing affair.
-Consider the following two questions, which I think achieve similar
-aims.
+The JUMP program shows that, with a careful constructivist
+mindset, building basic skills need not be an interest-killing affair.
+Let's try a similar thing with our patch of scrubland, and consider
+two approaches to the same material.
 
 ---
 
 1. Differentiate the following and state the maximal domain:
 
-	(a) $\sin^{-1}(x/3)$ (b) $\cos^{-1}(x^2)$ (c) $\tan^{-1}(\sqrt{x})$.
+	(a) $\sin^{-1}(x/3)\qquad$ (b) $\cos^{-1}(x^2)\qquad$ (c) $\tan^{-1}(\sqrt{x})$.
 
-2. (a) Using the chain rule, find the derivative of $f(x) = \cos(sin^{-1}(x))$.
+2. (a) Using the chain rule, find the derivative of $f(x) = \cos(\sin^{-1}(x))$.
 
-	(b) Deduce from trigonometric identities that $f(x) =  \sqrt{1-x^2}$.
+	(b) Deduce from trigonometric identities that $f(x) =
+    \sqrt{1-x^2}$.
+	Do the domains match?
 	Differentiate and check that your answer agrees with (a).
 
     (c) Implicitly differentiate $\cos^{-1} y = \sin^{-1} x$ and
     isolate the expression for $dy/dx$.
-	Does this agree with your previous answers?
+	Is this consistent with your previous answers?
 
 ---
+
+Which is more interesting?
+I would argue that the second passes the shrub test while the first
+does not, though they develop the same skills: differentiating inverse
+trigonometric functions, using the chain rule, and identifying domains.
+
+Is there *any* virtue to the first question?
 
 #### Is it possible to find interesting pre-calculus examples?
 
