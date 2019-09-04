@@ -1465,7 +1465,8 @@ Enthusiasm is infectious!
 A single blog post is not going to overthrow secondary maths
 education.
 Instead of *replacing* the curriculum (an ambitious and long-term
-goal), paths into the landscape can be offered as enrichment or complement.
+goal), paths into the landscape can be offered as enrichment for the
+conventional curriculum.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the future, I hope to start assembling a database of exciting topics,
 carefully embedded in a constructivist understanding of how people
