@@ -1358,8 +1358,9 @@ facility-building exercises.
 But do these have to be shrubs?
 The JUMP program shows that, with a careful constructivist
 mindset, building basic skills need not be an interest-killing affair.
-Let's try a similar thing with our patch of scrubland, and consider
-two approaches to the same material.
+Let's try a similar thing with our <a href="#sec-1-2">earlier patch of
+scrubland</a>.
+Consider these two questions.
 
 ---
 
@@ -1386,10 +1387,17 @@ does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
 Is there *any* virtue to the first question?
+Students doing many of these questions will become very good at
+executing algorithms.
+This is part of the logic of drill.
+But I think the usual methods of assessment place far too much
+emphasis on quickly implementing algorithms, and far too little on
+genuine mathematical thinking.
+The scrubland of drill trains students for the scrubland of assessment.
 
 #### Is it possible to find interesting pre-calculus examples?
 
-Absolutely.
+Of course!
 
 #### What is the teacher's role?
 
