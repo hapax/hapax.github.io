@@ -66,7 +66,7 @@ Neither can be true, so the big set can't exist without breaking the universe.
 		    <figcaption><i>The joy of sets: solid arrows indicate
     membership and dotted arrows non-membership. Set A is not a
     self-member while D is. The Russell set R contains all and only sets which do not
-    contain themselves. But does it contain itself? </i></figcaption>
+    contain themselves. Does it contain itself? </i></figcaption>
 	</div>
 	</figure>
 
