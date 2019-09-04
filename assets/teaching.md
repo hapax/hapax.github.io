@@ -1398,6 +1398,17 @@ The scrubland of drill trains students for the scrubland of assessment.
 #### Is it possible to find interesting pre-calculus examples?
 
 Of course!
+I literally chose calculus at random from the textbook.
+*Any* mathematical topic has gorgeous theorems, freakish specimens,
+and a rich history of real-world motivation and use.
+Teaching trigonometry?
+Perhaps Euclid is a little dry, though at the rate time it is a revelation.
+But what about *non-Euclidean* geometry?
+This is a wonderful place for guided discovery and exploration.
+And what could be more empowering than determining the size of the
+earth from the shadow of a stick, as
+[Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
+did in 100 BC?
 
 #### What is the teacher's role?
 
