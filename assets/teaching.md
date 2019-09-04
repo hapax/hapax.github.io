@@ -1312,16 +1312,27 @@ Although these invite students into the landscape, and showcase the
 power of mathematics, neither is suited to
 *developing basic facility*.
 Following a visual argument for the MVT will not teach students to
-differentiate trigonometric functions, and if they cannot do this,
-they are unlikely to make it through the intricacies of the sandpile
-problem.
-
+differentiate trigonometric functions.
+If they can't different simple functions, they're unlikely to make it
+through the intricacies of the sandpile problem.
 How do we develop this facility without marching students through
 scrubland?
-There are a couple of different approaches one could use.
-Closer to existing methods is a *dovetail* approach, where
-repetitious, facility-building exercises alternate with short
-applications.
+
+I can see a number of viable options.
+One is a *dovetail* approach, where repetitious,
+facility-building exercises (shrubs) alternate with applications or other
+highlights.
+This is closer in spirit to current textbooks.
+A second approach *embeds* shrubs in
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning),
+such as the <a href="#sec-3">reworked problems</a> above.
+This is the option I personally prefer, though I admit it has its flaws.
+The final, most radical approach is to replace textbook shrubs by
+algorthmically-generated problems (and solutions) which students can
+draw on if they have some area they want to develop.
+This could be paired with diagnostic tests so that students can
+identify weak points.
+I'll give short examples of each.
 
 #### Dovetail approach: example
 
@@ -1333,6 +1344,8 @@ applications.
 
 
 #### Embedded approach: example
+
+#### Random problem approach: example
 
 Students need to learn to walk before they can hike.
 How should we develop these walking skills?
