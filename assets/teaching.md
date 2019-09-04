@@ -1471,7 +1471,7 @@ update for the 21st century it richly deserves.
 - ["Self-organised criticality: an explanation of 1/*f* noise"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
   (1987), Per Bak, Chao Tang and Kurt Weisenfeld.
 - ["A model for the dynamics of sandpile surfaces"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
-  (1994), J.-P.Bouchard, M. E. Cates, J. Ravi Prakesh and S. F. Edwards.
+  (1994), J.-P. Bouchard, M. E. Cates, J. Ravi Prakesh and S. F. Edwards.
 - "Darwin's *Tree of Nature* and other images of wide scope" (1981),
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler.
 - [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) (1940), G. H. Hardy.
