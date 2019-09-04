@@ -56,7 +56,8 @@ Is this big set a member of itself or not?
 If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
-Neither can be true, so the big set can't exist without breaking logic.
+Neither can be true, so the big set can't exist without breaking logic
+(i.e. generating a contradiction).
 
 <figure>
     <div style="text-align:center"><img src
@@ -78,7 +79,7 @@ At the same time, I was reading pop science books about fun topics
 like relativity, black holes and quantum mechanics.
 The books were mysterious but inviting, filled with pictures and metaphors
 and colourful examples that tantalised but did not, ultimately,
-enlighten me.
+enlighten.
 I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
 looked like I needed to learn its lanaguage, which was mathematics rather than colourful analogies.
@@ -89,7 +90,7 @@ looked back.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/universe.png" width="70%"/>
-		    <figcaption><i>The Eldritch Dodecahedron speaks in maths and not analogies.</i></figcaption>
+		    <figcaption><i>The Great Dodecahedron speaks in maths and not analogies.</i></figcaption>
 	</div>
 	</figure>
 
