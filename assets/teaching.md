@@ -123,7 +123,7 @@ But that's just the way things things were done.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/scrubland.png"
-    width="100%" />
+    width="90%" />
 		    <figcaption><i>The scrubland, far from the mountains of real mathematics.</i></figcaption>
 	</div>
 	</figure>
