@@ -871,7 +871,7 @@ microscopic properties of air, just by waiting for a moth ball to decay!
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/moth-ball2.png"
-    width="75%" />
+    width="70%" />
 		    <figcaption><i>A moth ball generates a cloud of napthalene
     as it sublimes.</i></figcaption>
 	</div>
@@ -1319,8 +1319,7 @@ How do we develop this facility without marching students through
 scrubland?
 
 I can see a number of viable options.
-One is a *dovetail* approach, where repetitious,
-facility-building exercises (shrubs) alternate with applications or other
+One is a *dovetail* approach, where facility-building exercises () alternate with applications or other
 highlights.
 This is closer in spirit to current textbooks.
 A second approach *embeds* shrubs in
@@ -1334,23 +1333,30 @@ This could be paired with diagnostic tests so that students can
 identify weak points.
 I'll give short examples of each.
 
-#### Dovetail: example
+#### Examples
 
 ---
 
-1. 
+1. (a) Using the chain rule, find the derivative of $f(x) = \cos(sin^{-1}(x))$.
+
+	(b) Deduce from trigonometric identities that $f(x) =  \sqrt{1-x^2}$.
+	Differentiate and check that your answer agrees with (a).
+
+    (c) Implicitly differentiate $\cos^{-1} y = \sin^{-1} x$ and
+    isolate the expression for $dy/dx$.
+	Does this agree with your previous answers?
+
+2. 
+
+3. 
 
 ---
 
-#### Guided discovery: example
 
----
 
-1. 
+##### 4.2. Guide on the side <a id="sec-4-2" name="sec-4-2"></a>
 
----
-
-#### Algorithm: example
+##### 4.3. Guide on the side <a id="sec-4-3" name="sec-4-3"></a>
 
 Students need to learn to walk before they can hike.
 How should we develop these walking skills?
@@ -1405,10 +1411,6 @@ or self-doubt in the students who can't (yet) understand it.
 When students trust the teacher, and know that questions are designed
 with a careful mental model and their best interests in mind, they are
 likely to be *incentivised* by extension problems.
-
-##### 4.2. Drill, play, <a id="sec-4-2" name="sec-4-2"></a>
-
-##### 4.3. Guide on the side <a id="sec-4-3" name="sec-4-3"></a>
 
 The <a href="#sec-3">revised problems</a> seem challenging.
 Do they really pass the maximin test?
