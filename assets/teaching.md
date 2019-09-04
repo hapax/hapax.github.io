@@ -1335,7 +1335,7 @@ There is no need for streaming!
 
 The <a href="#sec-3">revised questions</a> seem challenging, but I
 intend them to be taken in the spirit of JUMP's bonus questions.
-In JUMP, the [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)
+In JUMP, the [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
 and "non-abilitarian" philosophy appears to lead to globally engaged
 cohorts.
 In such a cohort, bonus problems can certainly pass the
