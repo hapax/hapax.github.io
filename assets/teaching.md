@@ -1408,6 +1408,12 @@ And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
 did in 100 BC?
+Algebra?
+Try the unsolvability of the quintic, compass and straightedge
+constructions, and applications to dimensional analysis.
+Logarithms?
+What about the density of prime numbers, power laws, or utilisation
+for Fermi estimates?
 
 I could go on, but I think the conclusion is clear.
 Pick a topic, any topic.
@@ -1415,8 +1421,8 @@ Figure out its history, where it comes from, what it's really used for
 and what mathematicians or scientists find beautiful about it.
 Now incorporate *that* material into the syllabus.
 Mathematical skills live in a big constructivist framework, and
-attention needs to be paid to developing that framework so that all
-students can benefit, according to the maximin test.
+according to the maximin test, attention needs to be paid to
+developing that framework so that all students can benefit.
 But these goals are not at odds!
 
 #### What is the teacher's role?
