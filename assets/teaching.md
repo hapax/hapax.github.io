@@ -11,7 +11,8 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach for teaching derivatives.*
+  give a precise criterion for interest based on the Rawlsian theory of fairness,
+  and illustrate the approach for teaching derivatives.*
 
 ### Contents
 
@@ -219,8 +220,7 @@ To help capture this, I'm going to propose that they fail the **shrub test**:
 <i>Would anyone bother to read this in their own time?</i>
 </span>
 
-In other words, would they read it, and do the problems, if they
-didn't have to in order to pass the next quiz.
+Would they read it if they didn't have to pass a quiz?
 If not, you have shrubs, and shrubs kill interest.
 No one wants to spend hours looking at shrubs.
 If you force them to, you're wasting their time.
@@ -1250,7 +1250,7 @@ the shape of a simple triangular sand pile.
 The BCPE sand pile model shows how slopes in
 time and space interact, and leads to the insight that the rolling
 layer travels like a wave down a standing cone at the angle of repose.
-I think this is rather nice, and clearly outside the scrubland, but
+I think this is rather nice, and clearly beyond the scrubland. But
 there's a spectacular twist to the story of sand piles if we
 consider *discrete* models.
 I won't delve into the details, though I think they could form
@@ -1298,25 +1298,115 @@ piles of granular matter and self-organising fractals.
 
 I've called this a manifesto since it is more a call to arms than a
 detailed program.
-But in this final section, I want to address some obvious problems
-with the approach, and sketch some ideas about classroom
-implementation along the way.
+But in this final section, I want to address some objections and
+develop ideas about classroom implementation along the way.
 
 #### Does this approach actually work?
 
-#### Does this approach work for less advanced topics?
+The [JUMP math program](https://www.jumpmath.org), founded by John
+Mighton, is a primary level mathematical enrichment
+program running on similar principles to those I am advocating here,
+namely [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning), play, and the core ethic that *every child
+can learn mathematics and love it*.
+The [data unambiguously show](https://www.jumpmath.org/jump/en/research_reports) that, at least for primary students, this
+approach works wonders.
+I am proposing a change in how we teach *secondary* mathematics, with
+various other tweaks in emphasis and technique, in particular on
+aesthetics and application.
+There may be wrinkles that arise from this difference in emphasis, but I would be surprised if the results were dramatically different.
+
+#### What about engaged students?
+
+Maximin does not forbid writing questions for engaged students, but it
+does forbit questions which *only* engaged students can enjoy.
+But bonus questions can help engage the class as a whole.
+In the JUMP program, bonus questions are used as a carrot, dangled
+just beyond the standard material, enticing students to finish that
+material and move onto something "fun".
+In his book [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability),
+John Mighton even recalls breaking up a fight by threatening to
+withhold one of these bonus questions!
+The point is that bonus questions can be for everyone, both the least
+engaged students (who will be incentivised) and the most enganged
+students (who will be challenged).
+There is no need for streaming!
+
+#### Do your examples pass the maximin test?
+
+The <a href="#sec-3">revised questions</a> seem challenging, but I
+intend them to be taken in the spirit of JUMP's bonus questions.
+In JUMP, the [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)
+and "non-abilitarian" philosophy appears to lead to globally engaged
+cohorts.
+In such a cohort, bonus problems can certainly pass the
+maximin test.
+
+But bonus questions are not a blank cheque!
+They still need to be designed carefully, building on skills the
+students already have, and chunking a difficult passage of reasoning
+into small, achievable steps, consistent with the guided discovery mindset.
+I have tried to chunk the <a href="#sec-3">applied questions</a>, and
+to aim for relatively low prerequisites.
+But this raises the question: how *do* students develop basic skills,
+if we are to abandon the scrubland?
 
 #### How do students develop basic skills?
 
-#### Do the examples pass the maximin test?
+There appear to be a number of ways to go.
+First, we could treat the applied and aesthetic highlights as bonus
+material, enticing students through more repetitious, facility-building
+exercises.
+But do these have to be shrubs?
+I think the JUMP program shows that, with a careful constructivist
+ethic, building basic skills need not be an interest-killing affair.
+Consider the following two questions, which I think achieve similar
+aims.
+
+---
+
+1. Differentiate the following:
+
+	(a) $\sin^{-1}(x/3)$ (b) $\cos^{-1}(x/4)$ (c) $\tan^{-1}(x/3)$.
+
+2. (a) Using the chain rule, find the derivative of $f(x) = \cos(sin^{-1}(x))$.
+
+	(b) Deduce from trigonometric identities that $f(x) =  \sqrt{1-x^2}$.
+	Differentiate and check that your answer agrees with (a).
+
+    (c) Implicitly differentiate $\cos^{-1} y = \sin^{-1} x$ and
+    isolate the expression for $dy/dx$.
+	Does this agree with your previous answers?
+
+---
+
+#### Is it possible to find interesting pre-calculus examples?
+
+Absolutely.
 
 #### What is the teacher's role?
 
-#### Is this approach scaleable?
+#### What's next?
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
 ## References
+
+-
+  ["Self-organised criticality: an explanation of 1/*f* noise"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
+  (1987), Per Bak, Chao Tang and Kurt Weisenfeld.
+- ["A model for the dynamics of sandpile surfaces"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
+  (1994), J.-P.Bouchard, M. E. Cates, J. Ravi Prakesh and S. F. Edwards.
+- "Darwin's *Tree of Nature* and other images of wide scope" (1981),
+  Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler.
+- [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) (1940), G. H. Hardy.
+- [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
+-(1981), Igor Irodov.
+- [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability) (2003), John Mighton.
+- ["Sublimation of moth balls"](https://eric.ed.gov/?id=EJ180235)
+  (1978), M. G. C. Peiris and K. Tennakone.
+- *A Theory of Justice* (1971), John Rawls.
+- "The Mathematical Unconscious" (1981), Seymour Papert. In
+  *Aesthetics in Science*, ed. Judith Weschler.
 
 ## Extra
 
