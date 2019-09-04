@@ -90,9 +90,9 @@ looked back.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/universe.png" width="60%"/>
-		    <figcaption><i>Trying to speak to the Great Dodecahedron
-    in the sky.</i></figcaption>
+    ="/images/posts/universe.png" width="65%"/>
+		    <figcaption><i>Attempting to speak with the universe
+    (personified as an eldritch dodecahedron).</i></figcaption>
 	</div>
 	</figure>
 
@@ -1302,7 +1302,7 @@ piles of granular matter and self-organising fractals.
 I've called this a manifesto since it is a call to arms rather than a
 detailed programme.
 In this last section, however, I want to start considering
-implementation and pedagogical fine points.
+how this approach could be implemented in a classroom setting.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1323,29 +1323,17 @@ There are a couple of different approaches one could use.
 Closer to existing methods is a *dovetail* approach, where
 repetitious, facility-building exercises alternate with short
 applications.
-Longer applications like the <a href="#sec-3">revised problems</a>
-would occur with slightly less frequency.
-Here is an example.
 
-#### Dovetail approach
+#### Dovetail approach: example
 
 ---
 
-1. (a) Differentiate $\tan^{-1}(\cos x)$, using the chain rule.
-
-   (b) Differentiate $\tan^{-1}(\cos x)$ again, first rewriting as an algebraic expression.
-   Check it agrees with (a).
-
-	(c) Finally, implicitly differentiate $tan y = \cos x$ and check
-    the results agree with (a) and (b).
-
-2. 
 
 ---
 
 
 
-#### Embedded approach
+#### Embedded approach: example
 
 Students need to learn to walk before they can hike.
 How should we develop these walking skills?
