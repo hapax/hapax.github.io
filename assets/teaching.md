@@ -1340,7 +1340,6 @@ and "non-abilitarian" philosophy appears to lead to globally engaged
 cohorts.
 In such a cohort, bonus problems can certainly pass the
 maximin test.
-
 But bonus questions are not a blank cheque!
 They still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
@@ -1412,8 +1411,7 @@ Algebra?
 Try the unsolvability of the quintic, compass and straightedge
 constructions, and applications to dimensional analysis.
 Logarithms?
-What about the density of prime numbers, power laws, or utilisation
-for Fermi estimates?
+What about the density of prime numbers, power laws, or Fermi estimates?
 
 I could go on, but I think the conclusion is clear.
 Pick a topic, any topic.
@@ -1426,6 +1424,36 @@ developing that framework so that all students can benefit.
 But these goals are not at odds!
 
 #### What is the teacher's role?
+
+In the approach I'm suggesting, the role of the teacher seems to
+be supplanted by a curriculum full of sparkling ideas and
+fancy constructivist praxis.
+But learning is a relational endeavour, and the teacher remains an
+essential part of the process.
+It is through the teacher that trust is established, students are
+engaged, and the subject comes alive.
+For all of this to happen, teachers need to be on top of the material.
+If the syllabus now encompasses continuous but nowhere differentiable
+functions, numerical approximation, diffusion, or self-organised
+criticality, it seems like a huge ask unless they have scientific
+training.
+
+But here's the thing: if students can learn it, so can teachers!
+And if the syllabus is designed in an inviting, constructivist fashion
+to reduce
+[maths anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
+in students, it should also reduce anxiety in teachers.
+Perhaps, once out of the scrubland, more teachers will be genuinely
+enthusiastic about what they are teaching.
+Enthusiasm is infectious!
+
+#### Who writes the syllabus?
+
+Teachers and curriculum writers are experts on cognitively
+modelling what students know and how they learn.
+Scientists and mathematicians are domain experts, with specialised
+knowledge, taste, and judgment.
+
 
 #### What's next?
 
