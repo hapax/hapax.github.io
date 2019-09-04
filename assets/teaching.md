@@ -29,7 +29,7 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
-4. <a href="#sec-4">Miscellaneous objections</a>
+4. <a href="#sec-4">Miscellaneous issues</a>
 5. <a href="#sec-4">Conclusion</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -1403,11 +1403,21 @@ I literally chose calculus at random from the textbook.
 and a rich history of real-world motivation and use.
 Teaching trigonometry?
 Perhaps Euclid is a little dry, but what about *non-Euclidean* geometry?
-This is a wonderful place for guided discovery and exploration.
+This is a wonderful place for the guided discovery of beautiful results.
 And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
 did in 100 BC?
+
+I could go on, but I think the conclusion is clear.
+Pick a topic, any topic.
+Figure out its history, where it comes from, what it's really used for
+and what mathematicians or scientists find beautiful about it.
+Now incorporate *that* material into the syllabus.
+Mathematical skills live in a big constructivist framework, and
+attention needs to be paid to developing that framework so that all
+students can benefit, according to the maximin test.
+But these goals are not at odds!
 
 #### What is the teacher's role?
 
