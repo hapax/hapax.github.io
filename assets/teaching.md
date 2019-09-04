@@ -11,8 +11,7 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate the approach for derivatives, and discuss how it can
-  realistically implemented.*
+  illustrate this approach for teaching derivatives.*
 
 ### Contents
 
@@ -1298,19 +1297,23 @@ piles of granular matter and self-organising fractals.
 
 ## 4. Miscellaneous objections <a id="sec-4" name="sec-4"></a>
 
-In this last section
+I've called this a manifesto since it is more a call to arms than a
+detailed program.
+But in this final section, I want to address some obvious problems
+with the approach, and sketch some ideas about classroom
+implementation along the way.
 
-#### Does this approach work in the classroom?
+#### Does this approach actually work?
 
-#### Does this approach work for other topics?
-
-#### Is this approach scaleable?
+#### Does this approach work for less advanced topics?
 
 #### How do students develop basic skills?
 
 #### Do the examples pass the maximin test?
 
 #### What is the teacher's role?
+
+#### Is this approach scaleable?
 
 ## 5. Conclusion <a id="sec-5 name="sec-5"></a>
 
