@@ -81,7 +81,7 @@ and colourful examples that tantalised but did not, ultimately,
 enlighten me.
 I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
-looked like I needed to learn the lanaguage of mathematics rather than colourful analogies.
+looked like I needed to learn its lanaguage, which was mathematics rather than colourful analogies.
 These two developments led me to switch from philosophy to maths and
 physics, and I never
 looked back.
