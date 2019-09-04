@@ -91,8 +91,8 @@ looked back.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/universe.png" width="65%"/>
-		    <figcaption><i>Attempting to speak with the universe
-    (personified as an eldritch dodecahedron).</i></figcaption>
+		    <figcaption><i>The universe
+    (personified as an eldritch dodecahedron) speaks in maths and not analogies.</i></figcaption>
 	</div>
 	</figure>
 
