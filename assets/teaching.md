@@ -37,7 +37,7 @@ date:  2019-08-03
 In high school, I was one of those kids.
 I thought maths class was about as boring as watching paint
 dry, except that a fresh coat of paint can add colour to the world.
-I harboured no such illusions about mathematics!
+I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
 Finding $x$ was not my problem.
