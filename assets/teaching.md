@@ -28,7 +28,7 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
-   4. <a href="#sec-4">Miscellaneous objections</a>
+4. <a href="#sec-4">Miscellaneous objections</a>
 5. <a href="#sec-4">Conclusion</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
@@ -89,8 +89,7 @@ looked back.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/universe.png" width="70%"/>
-		    <figcaption><i>The universe (personified as an eldritch
-    Great Dodecahedron) speaks in maths and not analogies.</i></figcaption>
+		    <figcaption><i>The universe speaks in maths and not analogies.</i></figcaption>
 	</div>
 	</figure>
 
