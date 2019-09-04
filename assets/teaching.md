@@ -29,7 +29,8 @@ date:  2019-08-03
    1. <a href="#sec-3-1">Sublime moth balls</a>
    2. <a href="#sec-3-2">Irodov's triangle</a>
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
-4. <a href="#sec-4">Miscellaneous objections</a>
+   4. <a href="#sec-4">Miscellaneous objections</a>
+5. <a href="#sec-4">Conclusion</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1299,13 +1300,23 @@ piles of granular matter and self-organising fractals.
 
 In this last section
 
-#### How can students develop basic skills?
+#### Does this approach work in the classroom?
 
-#### Do the examples in sections <a href="#sec-2">2</a> and <a href="#sec-3">3</a> pass the maximin test?
+#### Does this approach work for other topics?
 
-#### Can teachers without advanced qualifications use this material?
+#### Is this approach scaleable?
 
-#### Does this approach work for elementary topics?
+#### How do students develop basic skills?
+
+#### Do the examples pass the maximin test?
+
+#### What is the teacher's role?
+
+## 5. Conclusion <a id="sec-5 name="sec-5"></a>
+
+## References
+
+## Extra
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1492,11 +1503,6 @@ change is a ways off.
 Adroit guide
 
 ##### Active learning and other pedagogical improvements
-
-## References
-
-
-## Extra
 
 Sure, you can't hike without walking, and you need plenty of practice
 if you want to become a good hiker.
