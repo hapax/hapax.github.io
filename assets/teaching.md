@@ -1519,4 +1519,5 @@ century.
   influential book on political philosophy of the 20th century.
 - "The Mathematical Unconscious" (1981), Seymour Papert. In
   *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
-  aesthetics and mathematical intuition from an AI giant.
+  aesthetics and mathematical intuition from one of the giants of
+  old-school AI.
