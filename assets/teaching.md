@@ -11,8 +11,7 @@ date:  2019-08-03
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
-  illustrate this approach using beauty (pure mathematics) and
-  application (applied mathematics), and discuss how this can be
+  illustrate the approach for derivatives, and discuss how it can
   realistically implemented.*
 
 ### Contents
@@ -58,7 +57,7 @@ Is this big set a member of itself or not?
 If it is a member of itself, by definition it's not a member of
 itself; and if it's not a member of itself, by definition it is a
 member of itself.
-Neither can be true, so the big set can't exist without breaking the universe.
+Neither can be true, so the big set can't exist without breaking logic.
 
 <figure>
     <div style="text-align:center"><img src
@@ -76,11 +75,11 @@ This is the sort of power that philosophers, using mere words, could
 only dream of.
 I saw that maths could be deep and bewitchingly strange.
 
-At the same time, I was reading pop science books about physics,
-fun things like relativity, black holes and quantum mechanics.
+At the same time, I was reading pop science books about fun topics
+like relativity, black holes and quantum mechanics.
 The books were mysterious but inviting, filled with pictures and metaphors
-and colourful examples that gave tantalising hints about the subject
-without ever really explaining it.
+and colourful examples that tantalised but did not, ultimately,
+enlighten me.
 I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
 looked like I needed to learn the lanaguage of mathematics rather than colourful analogies.
@@ -91,7 +90,8 @@ looked back.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/universe.png" width="70%"/>
-		    <figcaption><i>The universe speaks in maths and not analogies.</i></figcaption>
+		    <figcaption><i>The universe (personified as an eldritch
+    Great Dodecahedron) speaks in maths and not analogies.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1334,18 +1334,23 @@ This could be paired with diagnostic tests so that students can
 identify weak points.
 I'll give short examples of each.
 
-#### Dovetail approach: example
+#### Dovetail: example
 
 ---
 
+1. 
 
 ---
 
+#### Guided discovery: example
 
+---
 
-#### Embedded approach: example
+1. 
 
-#### Random problem approach: example
+---
+
+#### Algorithm: example
 
 Students need to learn to walk before they can hike.
 How should we develop these walking skills?
