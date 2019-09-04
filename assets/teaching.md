@@ -1294,11 +1294,11 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 I can think of worse topics than this extraordinary connection between
 piles of granular matter and self-organising fractals.
 
-## 4. Miscellaneous objections <a id="sec-4" name="sec-4"></a>
+## 4. Miscellaneous issues <a id="sec-4" name="sec-4"></a>
 
 I've called this a manifesto since it is more a call to arms than a
 detailed program.
-But in this final section, I want to address some objections and
+But in this final section, I want to address some possible issues and
 develop ideas about classroom implementation along the way.
 
 #### Does this approach actually work?
