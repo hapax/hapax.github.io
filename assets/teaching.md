@@ -1391,7 +1391,7 @@ But I think the usual methods of assessment place far too much
 emphasis on quickly performing algorithms, and far too little on
 understanding and genuine mathematical thinking.
 The following assignment question appeared in a graph theory class I
-took with [David Wood](http://users.monash.edu.au/~davidwo/):
+took from [David Wood](http://users.monash.edu.au/~davidwo/):
 
 ---
 
