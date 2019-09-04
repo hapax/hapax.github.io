@@ -1301,9 +1301,8 @@ piles of granular matter and self-organising fractals.
 
 I've called this a manifesto since it is a call to arms rather than a
 detailed programme.
-In this last section, however, I want to start considering some
-techniques for implementation and the pedagogical nitty gritty to go
-with them.
+In this last section, however, I want to start considering
+implementation and pedagogical fine points.
 
 ##### 4.1. Learning to walk <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1311,7 +1310,43 @@ In the sections on <a href="#sec-2">pure</a> and <a
 href="#sec-3">applied</a> mathematics, I've tried to sketch directions
 out of the scrubland.
 Although these invite students into the landscape, and showcase the
-power of mathematics, neither is suited to *developing basic facility*.
+power of mathematics, neither is suited to
+*developing basic facility*.
+Following a visual argument for the MVT will not teach students to
+differentiate trigonometric functions, and if they cannot do this,
+they are unlikely to make it through the intricacies of the sandpile
+problem.
+
+How do we develop this facility without marching students through
+scrubland?
+There are a couple of different approaches one could use.
+Closer to existing methods is a *dovetail* approach, where
+repetitious, facility-building exercises alternate with short
+applications.
+Longer applications like the <a href="#sec-3">revised problems</a>
+would occur with slightly less frequency.
+Here is an example.
+
+#### Dovetail approach
+
+---
+
+1. (a) Differentiate $\tan^{-1}(\cos x)$, using the chain rule.
+
+   (b) Differentiate $\tan^{-1}(\cos x)$ again, first rewriting as an algebraic expression.
+   Check it agrees with (a).
+
+	(c) Finally, implicitly differentiate $tan y = \cos x$ and check
+    the results agree with (a) and (b).
+
+2. 
+
+---
+
+
+
+#### Embedded approach
+
 Students need to learn to walk before they can hike.
 How should we develop these walking skills?
 As discussed <a href="#sec-1-4">earlier</a>, one of the arguments in
