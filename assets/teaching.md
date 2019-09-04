@@ -1333,13 +1333,10 @@ There is no need for streaming!
 #### Do your examples pass the maximin test?
 
 The <a href="#sec-3">revised questions</a> seem challenging, but I
-intend them to be taken in the spirit of JUMP's bonus questions.
-In JUMP, the [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
-and "non-abilitarian" philosophy appears to lead to globally engaged
-cohorts.
-In such a cohort, bonus problems can certainly pass the
-maximin test.
-But bonus questions are not a blank cheque!
+intend them to be taken in the spirit of JUMP's bonus questions, a
+carrot for a cohort which is already engaged.
+We need to develop engagement and self-confidence first.
+And bonus questions are not a blank cheque!
 They still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
 into small, achievable steps, consistent with guided discovery.
@@ -1354,7 +1351,7 @@ As with JUMP, we can treat the aesthetic and applied highlights as
 bonus material, enticing students through more repetitious,
 facility-building exercises.
 But do these have to be shrubs?
-The JUMP program shows that, with a careful constructivist
+The JUMP program shows that, with a careful [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
 mindset, building basic skills need not be an interest-killing affair.
 Let's try a similar thing with our <a href="#sec-1-2">earlier patch of
 scrubland</a>.
