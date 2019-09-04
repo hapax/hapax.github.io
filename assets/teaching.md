@@ -1384,13 +1384,25 @@ does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
 Is there *any* virtue to the first question?
-Students doing many of these questions will become very good at
-executing algorithms.
-This is part of the logic of drill.
+Doing many variations of the same thing make you good at quickly executing algorithms.
+This is the logic of drill.
 But I think the usual methods of assessment place far too much
-emphasis on quickly implementing algorithms, and far too little on
+emphasis on quickly performing algorithms, and far too little on
 genuine mathematical thinking.
-The scrubland of drill trains students for the scrubland of assessment.
+One of the best assignments I have ever received simply read:
+
+---
+
+Define a numeric measure of the complexity of a graph. Compute it for
+several examples, and prove some properties about your measure. You
+do not need to write more than 1 or 2 pages to get full marks.
+
+---
+
+This would be difficult to mark, but that does not make it a bad
+question.
+The scrubland of drill trains students for the scrubland of
+assessment.
 
 #### Does this work for pre-calculus topics?
 
@@ -1450,7 +1462,7 @@ Enthusiasm is infectious!
 A single blog post is not going to overthrow secondary maths
 education.
 But instead of *replacing* the curriculum, paths into the landscape
-can be offered as an *alternative*.
+can be offered as enrichment for students and teachers who are interested.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the future, I hope to build a database of exciting topics,
 carefully embedded in a constuctivist matrix.
