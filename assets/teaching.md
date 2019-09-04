@@ -90,9 +90,8 @@ looked back.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/universe.png" width="65%"/>
-		    <figcaption><i>The universe
-    (personified as an eldritch dodecahedron) speaks in maths and not analogies.</i></figcaption>
+    ="/images/posts/universe.png" width="70%"/>
+		    <figcaption><i>The universe speaks in maths and not analogies.</i></figcaption>
 	</div>
 	</figure>
 
