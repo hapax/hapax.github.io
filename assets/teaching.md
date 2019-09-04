@@ -1456,9 +1456,9 @@ And if the syllabus is designed in an inviting, constructivist fashion
 to reduce
 [maths anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
 in students, it should also reduce anxiety in teachers.
-Perhaps, once out of the scrubland, more teachers will be genuinely
+Perhaps, once they've left the scrubland, more teachers will be genuinely
 enthusiastic about what they are teaching.
-Enthusiasm is infectious!
+And enthusiasm is infectious!
 
 #### What's next?
 
