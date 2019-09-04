@@ -1364,9 +1364,9 @@ aims.
 
 ---
 
-1. Differentiate the following:
+1. Differentiate the following and state the maximal domain:
 
-	(a) $\sin^{-1}(x/3)$ (b) $\cos^{-1}(x/4)$ (c) $\tan^{-1}(x/3)$.
+	(a) $\sin^{-1}(x/3)$ (b) $\cos^{-1}(x^2)$ (c) $\tan^{-1}(\sqrt{x})$.
 
 2. (a) Using the chain rule, find the derivative of $f(x) = \cos(sin^{-1}(x))$.
 
