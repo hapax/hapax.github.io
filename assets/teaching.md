@@ -1310,8 +1310,7 @@ can learn mathematics and love it*.
 The [data unambiguously show](https://www.jumpmath.org/jump/en/research_reports) that, at least for primary students, this
 approach works wonders.
 I am proposing a change in how we teach *secondary* mathematics, with
-various other tweaks in emphasis and technique, in particular on
-aesthetics and application.
+various other tweaks in emphasis and technique.
 There may be wrinkles that arise from this difference in emphasis, but I would be surprised if the results were dramatically different.
 
 #### What about engaged students?
