@@ -1314,7 +1314,7 @@ implementation along the way.
 
 #### Is this approach scaleable?
 
-## 5. Conclusion <a id="sec-5 name="sec-5"></a>
+## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
 ## References
 
