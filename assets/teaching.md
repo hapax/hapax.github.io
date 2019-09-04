@@ -1342,7 +1342,7 @@ But bonus questions are not a blank cheque!
 They still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
 into small, achievable steps, consistent with guided discovery.
-I have tried to chunk the <a href="#sec-3">applied questions</a>, and
+I've tried to chunk the <a href="#sec-3">applied questions</a>, and
 to aim for relatively low prerequisites.
 But this raises the question: how *do* students develop basic skills,
 if we are to abandon the scrubland?
@@ -1384,12 +1384,14 @@ does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
 Is there *any* virtue to the first question?
-Doing many variations of the same thing make you good at quickly executing algorithms.
+Doing many variations of the same thing make you good at doing the
+thing, though you do not necessarily need to understand it.
 This is the logic of drill.
 But I think the usual methods of assessment place far too much
 emphasis on quickly performing algorithms, and far too little on
-genuine mathematical thinking.
-One of the best assignments I have ever received simply read:
+understanding and genuine mathematical thinking.
+The following assignment question appeared in a graph theory class I
+took with [David Wood](http://users.monash.edu.au/~davidwo/):
 
 ---
 
@@ -1399,10 +1401,10 @@ do not need to write more than 1 or 2 pages to get full marks.
 
 ---
 
-This would be difficult to mark, but that does not make it a bad
-question.
-The scrubland of drill trains students for the scrubland of
-assessment.
+This is exactly the sort of exploratory, open-ended thinking we need
+to encourage.
+A scrubland of drill trains students for the scrubland of assessment,
+and not the variety, complexity, and open-endedness of real life.
 
 #### Does this work for pre-calculus topics?
 
@@ -1464,7 +1466,7 @@ education.
 But instead of *replacing* the curriculum, paths into the landscape
 can be offered as enrichment for students and teachers who are interested.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
-in the future, I hope to build a database of exciting topics,
+in the future, I hope to start assembling a database of exciting topics,
 carefully embedded in a constuctivist matrix.
 Watch this space!
 
@@ -1474,8 +1476,7 @@ Teachers and curriculum writers are experts on modelling what students
 know and how they learn.
 Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
-If they collaborate, they can give mathematics education a firmware
-update for the 21st century it richly deserves.
+A map-making expedition is in order.
 
 ## References
 
