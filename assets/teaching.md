@@ -1423,9 +1423,10 @@ Algebra?
 Try the unsolvability of the quintic, compass and straightedge
 constructions, and applications to dimensional analysis.
 Logarithms?
-What about the density of prime numbers, power laws, or Fermi estimates?
+What about the density of prime numbers, slide rules, algorithmic
+complexity or Fermi estimates?
 
-I could go on, but I think the conclusion is clear.
+I could go on, but I think the idea is hopefully clear.
 Pick a topic, any topic.
 Figure out its history, where it comes from, what it's really used for
 and what mathematicians or scientists find beautiful about it.
@@ -1463,35 +1464,59 @@ Enthusiasm is infectious!
 
 A single blog post is not going to overthrow secondary maths
 education.
-But instead of *replacing* the curriculum, paths into the landscape
-can be offered as enrichment for students and teachers who are interested.
+Instead of *replacing* the curriculum (an ambitious and long-term
+goal), paths into the landscape can be offered as enrichment or complement.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the future, I hope to start assembling a database of exciting topics,
-carefully embedded in a constuctivist matrix.
+carefully embedded in a constructivist understanding of how people
+learn mathematics.
 Watch this space!
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
 Teachers and curriculum writers are experts on modelling what students
-know and how they learn.
+know and how they come to know it.
 Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
-A map-making expedition is in order.
+We need to stop marching students through the scrubland, and introduce
+them to the vast topography of the real mathematical world, with its
+majestic summits, calm valleys, and monsters lurking in the badlands.
+From its fertile soil, they can grow new plants, or mine for old
+patterns, which will answer the unknown mathematical needs of the 21st
+century.
 
-## References
+## Annotated bibliography
 
 - ["Self-organised criticality: an explanation of 1/*f* noise"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
-  (1987), Per Bak, Chao Tang and Kurt Weisenfeld.
+  (1987), Per Bak, Chao Tang and Kurt Weisenfeld. The explosive paper
+  that started a whole new field of study. Unfortunately, real sand
+  piles don't seem to behave this way, but the model remains
+  provocative and useful.
 - ["A model for the dynamics of sandpile surfaces"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
-  (1994), J.-P. Bouchard, M. E. Cates, J. Ravi Prakesh and S. F. Edwards.
+  (1994), J.-P. Bouchard, M. E. Cates, J. Ravi Prakesh and
+  S. F. Edwards. A simple model of sand piles, building on the work of
+  Nobel-prize winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
 - "Darwin's *Tree of Nature* and other images of wide scope" (1981),
-  Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler.
-- [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) (1940), G. H. Hardy.
+  Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
+  beautiful essay about scientific imagery, intuition, and the aesthetics of complexity.
+- [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
+  (1940), G. H. Hardy. The classic defense of pure mathematics.
 - [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
--(1981), Igor Irodov.
-- [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability) (2003), John Mighton.
+  (1981), Igor Irodov. Concise, elementary physics in the Soviet
+  school of education.
+- *Out of the Labyrinth* (2007), Ellen and Robert Kaplan. A playful
+  book about the Harvard math circle and its philosophy, discovered
+  near the end of writing this post. A very similar message about
+  discovery and play.
+- [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability)
+  (2003), John Mighton. An exposition of the JUMP method and the
+  philosophy behind it, very similar (though at a primary level) to
+  what I have suggested here. Also discovered midway through the post!
 - ["Sublimation of moth balls"](https://eric.ed.gov/?id=EJ180235)
-  (1978), M. G. C. Peiris and K. Tennakone.
-- *A Theory of Justice* (1971), John Rawls.
+  (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
+  thermodynamics of moth ball sublimation.
+- *A Theory of Justice* (1971), John Rawls. Perhaps the most
+  influential book on political philosophy of the 20th century.
 - "The Mathematical Unconscious" (1981), Seymour Papert. In
-  *Aesthetics in Science*, ed. Judith Weschler.
+  *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
+  aesthetics and mathematical intuition from an AI giant.
