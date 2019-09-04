@@ -1416,15 +1416,16 @@ This is a wonderful place for guided discovery and exploration.
 And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
-did in 100 BC?
+did in 100 BC.
 What about algebra?
 Try the unsolvability of the quintic, compass and straightedge
 constructions, and applications to dimensional analysis.
 Logarithms?
-What about the density of prime numbers, slide rules, algorithmic
-complexity or Fermi estimates?
+Here we have the density of prime numbers, slide rules, algorithmic
+complexity and Fermi estimates.
+The list goes on.
 
-I could go on, but I think the idea is hopefully clear.
+Hopefully the idea is clear.
 Pick a topic, any topic.
 Figure out its history, where it comes from, what it's really used for
 and what mathematicians or scientists find beautiful about it.
