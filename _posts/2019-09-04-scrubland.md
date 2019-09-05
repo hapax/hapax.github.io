@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The scrubland manifesto"
 categories: [Maths, Teaching]
-date:  2019-08-03
+date:  2019-09-04
 ---
 
-**August 13, 2019.** *In the 21st century, higher-order mathematical
+**September 04, 2019.** *In the 21st century, higher-order mathematical
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
   of the holes in the pipeline? I propose we make maths interesting! I
