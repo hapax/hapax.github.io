@@ -296,8 +296,8 @@ enticements along the way.
 
 Students need practice before they can wander off
 into the foothills, armed only with a compass and a sense of adventure.
-Similarly, maths classes need to develop basic skills (a point I
-consider more <a href="#sec-4">below</a>).
+Similarly, young mathematicians probably need to build their chops before
+they can do real maths.
 But if we show them where we're headed, and all the amazing things
 they'll be able to do when they get there, they won't mind practicing.
 And this brings us to the real problem: not that students drill, but that *the
@@ -306,6 +306,7 @@ They drill in order to keep drilling.
 They study shrubs here, so they can classify some other shrubs down
 the road.
 Nobody is enlightened, empowered, or entertained.
+(I'll discuss alternatives to drill <a href="#sec-4">below</a>.)
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
@@ -1284,7 +1285,7 @@ This fractal is related to the deeper property of [*self-organised criticality*]
 where the sandpile ["tunes" itself](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile) to maintain a delicate balance
 between total order (no avalanches) and disorder (too many avalanches).
 The technical tool to assess this balance is the statistical relation
-between size and frequency of avalanches, but this is once again this is beyond our scope.
+between size and frequency of avalanches, but once again, this is beyond our scope.
 
 Many other systems are (somewhat controversially) thought to exhibit
 self-organised criticality, such as forest fires, earthquakes,
