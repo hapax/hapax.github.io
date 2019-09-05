@@ -36,14 +36,14 @@ date:  2019-09-04
 
 In high school, I was one of those kids.
 I thought maths class was about as boring as watching paint
-dry, except that a fresh coat of paint can add colour to the world.
+dry, except that a fresh coat of paint could add colour to the world.
 I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
-Finding $x$ was not my problem.
+Finding $x$ was somebody else's problem.
 I scraped by with passes, aping textbook examples and cramming for
-tests, but maths class was a meaningless game with rules I didn't need
-to know beyond the next quiz.
+tests, but maths class was a particularly dull game, with rules I
+didn't care about beyond the next quiz.
 The situation was so bad that, at age 15, I had to teach myself from
 scratch how to add fractions and multiply negative numbers.
 I had just never internalised those rules.
