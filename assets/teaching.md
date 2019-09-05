@@ -1340,10 +1340,13 @@ engagement.
 Even then, they still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
 into small, achievable steps, consistent with guided discovery.
-I've tried to chunk the <a href="#sec-3">applied questions</a>, and
-to aim for relatively low prerequisites.
-But this raises the question: how *do* students develop basic skills,
-if we are to abandon the scrubland?
+I've tried to chunk my questions this way, and aim for relatively low
+prerequisites.
+Without embedding them in a broader classroom context, perhaps the
+only thing they demonstrate clearly is that high-school calculus has
+exciting and nontrivial applications.
+But this raises the question: if we abandon the scrubland, how *will*
+students develop basic skills necessary to do bonus problems?
 
 #### How do students develop basic skills?
 
