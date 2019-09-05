@@ -1351,7 +1351,7 @@ students develop basic skills necessary to do bonus problems?
 #### How do students develop basic skills?
 
 As with JUMP, we can treat the aesthetic and real-world highlights as
-bonus material, enticing students through more repetitious,
+bonus material, motivating them to get through the more repetitious,
 facility-building exercises.
 But do these have to be shrubs?
 The JUMP program shows that, with a careful [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
