@@ -1333,7 +1333,7 @@ There is no need for streaming!
 
 The <a href="#sec-3">revised questions</a> seem challenging, but I
 intend them to be taken in the spirit of JUMP's bonus questions, a
-carrot for a cohort which is already engaged.
+carrot for a globally engaged cohort who trust the teacher or text.
 We need to develop engagement and self-confidence first.
 And bonus questions are not a blank cheque!
 They still need to be designed carefully, building on skills the
