@@ -1325,9 +1325,8 @@ material and move onto something "fun".
 In his book [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability),
 John Mighton even recalls breaking up a fight by threatening to
 withhold one of these bonus questions!
-The point is that bonus questions can be for everyone, both the least
-engaged students (who will be incentivised) and the most enganged
-students (who will be challenged).
+The point is that bonus questions can be for everyone, from the least
+engaged (who will be incentivised) to the most enganged (who will be challenged).
 There is no need for streaming!
 
 #### Do your examples pass the maximin test?
