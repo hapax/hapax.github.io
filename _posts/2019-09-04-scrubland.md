@@ -285,12 +285,12 @@ I think the worst outcome is permanently turning students off
 mathematics and its sister sciences.
 
 If we were hiking, the maximin test would translate into the simple
-requirement that the students at the back of the group want to hike,
-and aren't left behind.
-If interest, rather than inborn mathematical ability, is the key to
+requirement that we choose hikes even the students at the back of the
+group want to go on, and we don't leave them behind.
+If interest, rather than inborn ability, is the key to
 success, then instead of marching slowly through featureless terrain,
-our best bet to get these students involved is to pick an exciting
-destination with diversions and enticements along the way.
+our best bet is to pick an exciting destination with diversions and
+enticements along the way.
 
 ##### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
