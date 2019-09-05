@@ -6,7 +6,7 @@ categories: [Literature]
 date:   2013-09-04
 ---
 
-**September 04, 2013.** *Review of* The Savage Detectives (1998), *Roberto
+**September 4, 2013.** *Review of* The Savage Detectives (1998), *Roberto
   Bolaño's ironic love letter to his youth.*
 
 Roberto Bolaño occupies an interesting position in the Latin American
