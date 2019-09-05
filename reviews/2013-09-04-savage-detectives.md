@@ -1,9 +1,13 @@
 ---
 layout: post
 comments: true
-title:  "The Savage Detectives (Roberto Bolaño)"
+title:  "Book review: *The Savage Detectives*"
+categories: [Literature]
 date:   2013-09-04
 ---
+
+**June 19, 2018.** *Review of* The Savage Detectives (1998), *Roberto
+  Bolaño's ironic love letter to his youth.*
 
 Roberto Bolaño occupies an interesting position in the Latin American
 republic of letters. On the one hand, we have the enfant terrible, the
@@ -38,8 +42,9 @@ But it also feels like a celebration of their vitality. Indeed, in his
 papers, Bolaño indicated that Arturo Belano was the narrator of *2666*
 and suggested that the novel finish with the postscript
 
-> And that’s it, friends. I’ve done it all, I’ve lived it all. If I
-> had the strength, I’d cry. I bid you all goodbye, Arturo Belano.
+<span style="padding-left: 20px; display:block">
+<i>And that’s it, friends. I’ve done it all, I’ve lived it all. If I had the strength, I’d cry. I bid you all goodbye, Arturo Belano.</i>
+</span>
 
 The Savage Detectives is a melancholy 500-page metafictional footnote
 to these lines.
