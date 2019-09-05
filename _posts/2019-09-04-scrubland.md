@@ -10,9 +10,7 @@ date:  2019-09-04
 **September 04, 2019.** *In the 21st century, higher-order mathematical
   skills are more important than ever before, but high school maths
   classes are dull, alienating and disempower students. How do we improve them, and plug some
-  of the holes in the pipeline? I propose we make maths interesting! I
-  give a precise criterion for interest based on the Rawlsian theory of fairness,
-  and illustrate the approach for teaching derivatives.*
+  of the holes in the pipeline? I propose we make maths interesting! I illustrate the approach for teaching derivatives.*
 
 ### Contents
 
