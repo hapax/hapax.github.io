@@ -1334,9 +1334,10 @@ There is no need for streaming!
 The <a href="#sec-3">revised questions</a> seem challenging, but I
 intend them to be taken in the spirit of JUMP's bonus questions, a
 carrot for a globally engaged cohort who trust the teacher or text.
-We need to develop engagement and self-confidence first.
-And bonus questions are not a blank cheque!
-They still need to be designed carefully, building on skills the
+But bonus questions are not a blank cheque.
+They only work once students have a basic level of self-efficacy and
+engagement.
+Even then, they still need to be designed carefully, building on skills the
 students already have, and chunking a difficult passage of reasoning
 into small, achievable steps, consistent with guided discovery.
 I've tried to chunk the <a href="#sec-3">applied questions</a>, and
