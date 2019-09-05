@@ -1511,11 +1511,11 @@ knowledge, taste, and judgment.
 We need to stop marching students through the scrubland, and introduce
 them to the vast topography of the real mathematical world, with its
 majestic summits, calm valleys, and bestiary of strange creatures.
-From this fertile soil, students can grow new plants, or mine for old
-patterns, which will answer the as-yet-unknown mathematical needs of the 21st
-century.
-Or instead, they can enjoy the simple pleasures of mathematics which
-have for so long, and so unjustly and unnecessarily, been denied to them.
+From this fertile soil, students can grow new plants, or mine for
+patterns in its caves, which will answer the as-yet-unknown
+mathematical needs of the 21st century.
+And just as important, they can enjoy the simple pleasures of mathematics which
+have for so long, so unjustly and unnecessarily, been denied to them.
 
 ## Annotated bibliography
 
