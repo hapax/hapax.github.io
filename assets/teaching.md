@@ -1317,7 +1317,7 @@ There may be wrinkles that arise from this difference in emphasis, but I would b
 #### What about engaged students?
 
 Maximin does not forbid writing questions for engaged students.
-It only forbits questions which *only* engaged students can enjoy.
+It only forbids questions which *only* engaged students can enjoy.
 But bonus questions can help engage the class as a whole.
 In the JUMP program, bonus questions are used as a carrot, dangled
 just beyond the standard material, enticing students to finish that
