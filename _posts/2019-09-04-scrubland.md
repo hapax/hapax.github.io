@@ -162,6 +162,8 @@ walks in a book with pictures, something like the pop science books I mentioned.
 They don't visit the scrubland in their free time!
 These non-scrubland experiences, rather than natural ability, pushed
 them to develop their walking skills.
+There may be natural differences in ability, but they do not explain
+most variation in performance.
 
 The fix is clear: we should stop marching students through the scrubland.
 Instead, we should guide them into varied and stimulating terrain,
