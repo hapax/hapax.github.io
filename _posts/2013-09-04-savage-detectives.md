@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Book review: *The Savage Detectives*"
+title:  "Book review: The Savage Detectives"
 categories: [Literature]
 date:   2013-09-04
 ---
