@@ -1332,7 +1332,7 @@ There is no need for streaming!
 #### Do your examples pass the maximin test?
 
 The <a href="#sec-3">revised questions</a> seem challenging, but I
-intend them to be taken in the spirit of JUMP's bonus questions, a
+intend them to be taken in the spirit of JUMP's bonus questions: a
 carrot for a globally engaged cohort who trust the teacher or text.
 But bonus questions are not a blank cheque.
 They only work once students have a basic level of self-efficacy and
