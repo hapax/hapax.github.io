@@ -287,7 +287,7 @@ mathematics and its sister sciences.
 If we were hiking, the maximin test would translate into the simple
 requirement that we choose hikes even the students at the back of the
 group want to go on, and we don't leave them behind.
-If interest, rather than inborn ability, is the key to
+If interest, rather than inborn ability, determines
 success, then instead of marching slowly through featureless terrain,
 our best bet is to pick an exciting destination with diversions and
 enticements along the way.
