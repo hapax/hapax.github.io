@@ -147,6 +147,8 @@ skills, a need for wayfarers, explorers and hunters to meet the
 needs of society as a whole.
 We need hiking classes to act as an intake mechanism, drawing students
 into the field and equipping them to explore.
+And maybe we just want them to enjoy the natural world!
+This is a statement about *value* rather than *utility*.
 
 Some students seem to have a natural yen for walking.
 They can walk faster, and for longer distances; some hike outside of
@@ -319,9 +321,25 @@ colours, than to chart a new course into the mathematical world.
 That takes time, money, and vision, and these are
 perennially in short supply.
 
-But as in the hiking analogy, good mathematical skills are important to society as a whole.
-I'm not talking about basic numeracy, e.g. the ability to calculate a
-tip or scale up a recipe.
+But as in the hiking analogy, we don't make mathematics compulsory for
+10 years just to build up basic numeracy.
+This doesn't match what we actually teach!
+Otherwise, why is geometry in the curriculum, logarithms, or
+combinatorics?
+These are not tools most adults have recourse to in their daily lives.
+Clearly, kicking around in the system is the assumption that *mathematical
+thinking is valuable*.
+In the
+[Australian maths curriculum](https://www.australiancurriculum.edu.au/f-10-curriculum/mathematics/),
+for instance, "Critical and Creative Thinking" is one of the target
+general capabilities, and 
+A corollary, I think, is that we should value the simple pleasure that
+doing mathematics can bring, though
+
+Even if we do not value it for its own sake, or the pleasure it
+brings, mathematical skills are essential to society as a whole.
+I'm not talking about the ability to calculate a
+tip or sniff out a dodgy lease-purchase scheme.
 I'm talking about dealing with the ongoing effects of climate change,
 big data, artificial intelligence, or personalised medicine, issues which
 call for explorers with higher-order hiking skills and a taste for the unknown.
