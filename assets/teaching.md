@@ -257,7 +257,7 @@ test** should supersede the shrub test:
 This is extremely stringent, but I think it's right.
 Why?
 First of all, it's *fair*.
-The students who are already already involved and making progress have
+The students who are already involved and making progress have
 a basic level of a particular social good, engagement, that students
 on the margins don't. And as Rawls argues for social goods generally, by making
 maths engaging, there should be a "trickle up" effect across the
