@@ -245,13 +245,16 @@ Instead of using average utility (roughly, average personal good) as an
 organising social principle, he
 suggested something called the [**maximin rule**](https://plato.stanford.edu/entries/original-position/#ArgMaxCriTJSec262):
 maximise the outcomes for those who are least well-off.
-He argued this would lead to a "trickle up" effect where everyone
-benefited; from a game theory perspective, maximin (maximising the
-minimum outcome) is the right strategy when there is extreme
-uncertainty and you can't play the numbers.
+From a game theory perspective, maximin (maximising the
+minimum outcome) is the right strategy when you can't play the numbers
+due to extreme uncertainty (in his framework, associated with a form
+of social contract called the *original position*).
+A subsidiary argument was that, due to a sort of proximity in the space of
+social goods, maximin would lead to a "trickle up" effect where *everyone* benefited.
 
-Of the various design principle we could adopt, I think the **maximin
-test** should supersede the shrub test:
+Of the various design principle we could adopt, I think there is a
+similar **maximin
+test** which should supersede the shrub test:
 
 <span style="padding-left: 20px; display:block">
 <i>Would the least-engaged students bother to read this in their own time?</i>
