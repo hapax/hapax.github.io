@@ -214,7 +214,7 @@ endless plain of withered, ankle-height shrubs.
 ##### 1.3. Shrubs and maximin <a id="sec-1-3" name="sec-1-3"></a>
 
 What makes these questions so bad?
-To help capture this, I'm going to propose that they fail the **shrub test**:
+I propose that they fail the **shrub test**:
 
 <span style="padding-left: 20px; display:block">
 <i>Would anyone bother to read this in their own time?</i>
