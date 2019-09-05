@@ -1384,13 +1384,17 @@ I would argue that the second passes the shrub test while the first
 does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
-Is there *any* virtue to the first question?
-Doing many variations of the same thing make you good at doing the
-thing, though you do not necessarily need to understand it.
+Does the first question have any virtues?
+Doing the same thing over and over again makes you good at doing the
+thing.
 This is the logic of drill.
+But it rarely guarantees that you know what you 
 But I think the usual methods of assessment place far too much
 emphasis on quickly performing algorithms, and far too little on
 understanding and genuine mathematical thinking.
+What is the point of being able to differentiate inverse trigonometric
+functions quickly?
+This is not an important skill.
 The following assignment question appeared in a graph theory class I
 took from [David Wood](http://users.monash.edu.au/~davidwo/):
 
@@ -1403,7 +1407,7 @@ do not need to write more than 1 or 2 pages to get full marks.
 ---
 
 This is exactly the sort of exploratory, open-ended thinking we need
-to encourage.
+to encourage, where skills are entrained in the service of a real problem.
 A scrubland of drill trains students for the scrubland of assessment,
 and not the variety, complexity, and open-endedness of real life.
 
