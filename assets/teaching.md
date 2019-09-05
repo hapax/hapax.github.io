@@ -1,4 +1,4 @@
----
+s---
 Layout: post
 mathjax: true
 comments: true
@@ -1389,12 +1389,12 @@ I would argue that the second passes the shrub test while the first
 does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
-#### What should we optimise for?
+#### What should we assess?
 
 The first question has its own dubious virtues.
-The format (that is, lack of content) leads to easy scaleability, which as
-we noted earlier, explains its appeal to textbook writers.
-But it has two pedagogical virtues: the psychological hack of
+The format (that is, lack of content!) leads to easy scaleability, which as
+noted earlier, explains its appeal to textbook writers.
+But it has two apparent pedagogical virtues: the psychological hack of
 [associative learning](https://en.wikipedia.org/wiki/Learning#Associative_learning)
 by repetition, and its functional manifestation, the speedy execution of algorithms.
 This is the logic of drill.
@@ -1402,15 +1402,15 @@ This is the logic of drill.
 But what is the point of memorising inverse trigonometric derivatives?
 Or being able to perform the differentiation quickly?
 It's not clear.
-I don't know, or need to know them by heart; I use them rarely enough
-in my research that I just derive them whenever I need them.
-This is the much more useful skill!
-In general, I think we place far too much emphasis on memorising
-useless facts, and reproducing them (or performing the associated
+I don't know these derivatives by heart, and I don't *need* to; I use
+them rarely enough in my research that I just derive them if required.
+Being able to derive them is the more useful skill!
+In general, we place far too much emphasis on memorising
+useless facts and reproducing them (or performing the associated
 algorithms) quickly under exam conditions.
 
-What should we optimise for?
-An inspiring example is the following assignment question (from a
+How should assessment look?
+Consider this inspiring assignment question (from a
 graph theory class with [David Wood](http://users.monash.edu.au/~davidwo/)):
 
 ---
@@ -1466,11 +1466,11 @@ But learning is a relational endeavour, and the teacher remains an
 essential part of the process.
 It is through the teacher that trust is established, students are
 engaged, and the subject comes alive.
-For all of this to happen, teachers need to be on top of the material.
+For all of this to happen, teachers need to be on top of the material!
 If the syllabus now encompasses continuous but nowhere differentiable
-functions, numerical approximation, diffusion, or self-organised
-criticality, it seems like a huge ask unless they have scientific
-training.
+functions, numerical approximation, diffusion, and self-organised
+criticality, it seems like an impossible ask for all but the most
+specialised of high school maths teachers.
 
 But here's the thing: if students can learn it, so can teachers!
 And if the syllabus is designed in an inviting, constructivist fashion
@@ -1479,7 +1479,7 @@ to reduce
 in students, it should also reduce anxiety in teachers.
 Perhaps, once they've left the scrubland, more teachers will be genuinely
 enthusiastic about what they are teaching.
-And enthusiasm is infectious!
+Their enthusiasm will be infectious.
 
 #### What's next?
 
@@ -1489,9 +1489,10 @@ Instead of *replacing* the curriculum (an ambitious and long-term
 goal), paths into the landscape can be offered as a complement to
 traditional textbooks.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
-in the future, I hope to start assembling a database of exciting topics,
-carefully embedded in a constructivist understanding of how people
-learn mathematics.
+in the near future, I hope to start assembling a database of
+extensions, theorems and applications, with reference to the real
+curriculum, but more importantly, embedded in a constructivist
+understanding of how people learn mathematics.
 Watch this space!
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
@@ -1502,10 +1503,12 @@ Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
 We need to stop marching students through the scrubland, and introduce
 them to the vast topography of the real mathematical world, with its
-majestic summits, calm valleys, and monsters lurking in the badlands.
-From this fertile soil, they can grow new plants, or mine for old
-patterns, which will answer the as yet unknown mathematical needs of the 21st
+majestic summits, calm valleys, and bestiary of strange creatures.
+From this fertile soil, students can grow new plants, or mine for old
+patterns, which will answer the as-yet-unknown mathematical needs of the 21st
 century.
+Or instead, they can enjoy the simple pleasures of mathematics which
+have for so long, and so unjustly and unnecessarily, been denied to them.
 
 ## Annotated bibliography
 
@@ -1522,14 +1525,13 @@ century.
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
   beautiful essay about scientific imagery, intuition, and the aesthetics of complexity.
 - [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
-  (1940), G. H. Hardy. The classic defense of pure mathematics.
+  (1940), G. H. Hardy. The classic apologia for pure mathematics.
 - [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. Concise, elementary physics in the Soviet
-  school of education.
+  (1981), Igor Irodov. A concise introduction to physics in the Soviet style.
 - *Out of the Labyrinth* (2007), Ellen and Robert Kaplan. A playful
-  book about the Harvard math circle and its philosophy, discovered
+  book about the Harvard maths circle and its philosophy, discovered
   near the end of writing this post. A very similar message about
-  discovery and play.
+  exploration and play.
 - [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method and the
   philosophy behind it, very similar (though at a primary level) to
@@ -1538,7 +1540,7 @@ century.
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
   thermodynamics of moth ball sublimation.
 - *A Theory of Justice* (1971), John Rawls. Perhaps the most
-  influential book on political philosophy of the 20th century.
+  influential book on political philosophy in the 20th century.
 - "The Mathematical Unconscious" (1981), Seymour Papert. In
   *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
   aesthetics and mathematical intuition from one of the giants of
