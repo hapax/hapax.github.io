@@ -206,8 +206,8 @@ The topic is calculus, one the great milestones of Western thought.
 And here, we're finding... rates of change of ... some functions, I
 guess.
 What do these functions do?
-Who is inverse sine on a Saturday?
 Why do I care?
+Who is inverse sine to me?
 These questions are unforgivably dull when there is literally hundreds
 of years of material to draw on.
 I wish I was cherry picking, but we will see below that the rest of the chapter is the same.
