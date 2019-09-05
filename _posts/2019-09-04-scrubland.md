@@ -1537,7 +1537,7 @@ have for so long, so unjustly and unnecessarily, been denied them.
   (1981), Igor Irodov. A concise introduction to physics in the Soviet style.
 - *Out of the Labyrinth* (2007), Ellen and Robert Kaplan. A playful
   book about the Harvard maths circle and its philosophy, discovered
-  near the end of writing this post. A very similar message about
+  near the end of writing this post. A spiritually related message about
   exploration and play.
 - [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method and the
