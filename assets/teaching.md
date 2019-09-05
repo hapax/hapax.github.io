@@ -1350,7 +1350,7 @@ students develop basic skills necessary to do bonus problems?
 
 #### How do students develop basic skills?
 
-As with JUMP, we can treat the aesthetic and applied highlights as
+As with JUMP, we can treat the aesthetic and real-world highlights as
 bonus material, enticing students through more repetitious,
 facility-building exercises.
 But do these have to be shrubs?
