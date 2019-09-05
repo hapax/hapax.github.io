@@ -15,6 +15,14 @@ date:  2019-07-29
 
 ## Introduction
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/yeti.png"/>
+		    <figcaption>From <i>A Lesson is Learned but the Damage is
+    Irreversible</i>. David Hellman and Dale Beran, 2004. </figcaption>
+	</div>
+	</figure>
+
 If physics is to be believed, there is nothing special about the
 present.
 "Right now" is similar to the statement "right here", but it refers to
