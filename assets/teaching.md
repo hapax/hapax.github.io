@@ -1337,9 +1337,14 @@ carrot for a globally engaged cohort who trust the teacher or text.
 But bonus questions are not a blank cheque.
 They only work once students have a basic level of self-efficacy and
 engagement.
-Even then, they still need to be designed carefully, building on skills the
-students already have, and chunking a difficult passage of reasoning
-into small, achievable steps, consistent with guided discovery.
+Even then, they still need to be designed deliberately, using a
+careful model of what students know and where their zone of proximal
+development is, chunking a difficult passage of reasoning
+into small, achievable steps.
+This is consistent with guided discovery and the
+[constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
+philosophy of teaching.
+
 I've tried to chunk my questions this way, and aim for relatively low
 prerequisites.
 Without embedding them in a broader classroom context, perhaps the
@@ -1354,7 +1359,7 @@ As with JUMP, we can treat the aesthetic and real-world highlights as
 bonus material, motivating students to slog through repetitious,
 facility-building exercises.
 But do these have to be shrubs?
-The JUMP program shows that, with a careful [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
+The JUMP program shows that, with a careful constructivist
 mindset, building basic skills need not be an interest-killing affair.
 Let's try a similar thing with our <a href="#sec-1-2">earlier patch of
 scrubland</a>.
@@ -1379,24 +1384,34 @@ Consider these two questions.
 
 ---
 
-Which is more interesting?
+Which is better?
 I would argue that the second passes the shrub test while the first
 does not, though they develop the same skills: differentiating inverse
 trigonometric functions, using the chain rule, and identifying domains.
 
-Does the first question have any virtues?
-Doing the same thing over and over again makes you good at doing the
-thing.
+#### What should we optimise for?
+
+The first question has its own dubious virtues.
+The format (that is, lack of content) leads to easy scaleability, which as
+we noted earlier, explains its appeal to textbook writers.
+But it has two pedagogical virtues: the psychological hack of
+[associative learning](https://en.wikipedia.org/wiki/Learning#Associative_learning)
+by repetition, and its functional manifestation, the speedy execution of algorithms.
 This is the logic of drill.
-But it rarely guarantees that you know what you 
-But I think the usual methods of assessment place far too much
-emphasis on quickly performing algorithms, and far too little on
-understanding and genuine mathematical thinking.
-What is the point of being able to differentiate inverse trigonometric
-functions quickly?
-This is not an important skill.
-The following assignment question appeared in a graph theory class I
-took from [David Wood](http://users.monash.edu.au/~davidwo/):
+
+But what is the point of memorising inverse trigonometric derivatives?
+Or being able to perform the differentiation quickly?
+It's not clear.
+I don't know, or need to know them by heart; I use them rarely enough
+in my research that I just derive them whenever I need them.
+This is the much more useful skill!
+In general, I think we place far too much emphasis on memorising
+useless facts, and reproducing them (or performing the associated
+algorithms) quickly under exam conditions.
+
+What should we optimise for?
+An inspiring example is the following assignment question (from a
+graph theory class with [David Wood](http://users.monash.edu.au/~davidwo/)):
 
 ---
 
@@ -1407,9 +1422,9 @@ do not need to write more than 1 or 2 pages to get full marks.
 ---
 
 This is exactly the sort of exploratory, open-ended thinking we need
-to encourage, where skills are entrained in the service of a real problem.
-A scrubland of drill trains students for the scrubland of assessment,
-and not the variety, complexity, and open-endedness of real life.
+to encourage.
+A scrubland of drill trains students for the scrubland of assessment.
+It does nothing to prepare them for the variety, complexity, and open-endedness of real life.
 
 #### Does this work for pre-calculus topics?
 
@@ -1471,8 +1486,8 @@ And enthusiasm is infectious!
 A single blog post is not going to overthrow secondary maths
 education.
 Instead of *replacing* the curriculum (an ambitious and long-term
-goal), paths into the landscape can be offered as enrichment for the
-conventional curriculum.
+goal), paths into the landscape can be offered as a complement to
+traditional textbooks.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the future, I hope to start assembling a database of exciting topics,
 carefully embedded in a constructivist understanding of how people
@@ -1488,8 +1503,8 @@ knowledge, taste, and judgment.
 We need to stop marching students through the scrubland, and introduce
 them to the vast topography of the real mathematical world, with its
 majestic summits, calm valleys, and monsters lurking in the badlands.
-From its fertile soil, they can grow new plants, or mine for old
-patterns, which will answer the unknown mathematical needs of the 21st
+From this fertile soil, they can grow new plants, or mine for old
+patterns, which will answer the as yet unknown mathematical needs of the 21st
 century.
 
 ## Annotated bibliography
