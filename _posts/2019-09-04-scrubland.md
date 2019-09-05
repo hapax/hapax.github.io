@@ -232,7 +232,7 @@ The shrub test is a pretty low bar.
 All we ask is that *somebody* might conceivably read it for fun.
 And this leads to a different failure mode: when questions only appeal
 to a minority of students.
-I think this is the pedagogical "wisdom" behind the scrubland: write
+This is part of the pedagogical "wisdom" behind the scrubland: write
 material which is *uniformly unappealing* so that nobody is left out.
 We can all share in the joy of shrubs!
 
