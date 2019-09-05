@@ -397,7 +397,7 @@ The preceding argument is cute, but gravity is not Newtonian!
 We can fix it up using some tools from general relativity, focusing on
 spherically symmetric black holes for simplicity.
 When we Wick rotate, the signature of the metric becomes Euclidean
-$(-+++) \to (++++)$, so this version of general relativity is called
+$(-,+,+,+) \to (+,+,+,+)$, so this version of general relativity is called
 *Euclidean gravity*.
 
 Imagine an observer far from the black hole, who has proper time $t$
