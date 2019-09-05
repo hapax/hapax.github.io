@@ -46,7 +46,6 @@ and suggested that the novel finish with the postscript
 <i>And that’s it, friends. I’ve done it all, I’ve lived it all. If I had the strength, I’d cry. I bid you all goodbye, Arturo Belano.</i>
 </span>
 
-The Savage Detectives is a melancholy 500-page metafictional footnote
-to these lines.
+The Savage Detectives is a melancholy 500-page metafictional footnote.
 
 ★★★★★
