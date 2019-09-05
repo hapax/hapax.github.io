@@ -48,7 +48,7 @@ The situation was so bad that, at age 15, I had to teach myself from
 scratch how to add fractions and multiply negative numbers.
 I had just never internalised those rules.
 
-A few years later, taking a philosophy course, I
+A few years later in a philosophy course, I
 encountered set theory for the first time, and it blew my gourd.
 First of all, there was the [wonderful paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) of Bertrand Russell about
 the set of all sets which don't contain themselves.
@@ -100,7 +100,7 @@ But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, but never seeing that there's a
 mathematical world out there which happens to exquisitely describe our
-world too?
+world?
 The problem, I'll argue, is that maths education is stuck in a sort of
 *scrubland* with no views into this enchanted realm.
 
@@ -113,10 +113,11 @@ featureless scrubland, with no views, no peaks, and no apparent goal
 other than the hike itself.
 Whenever the class complained that the walk was boring or pointless
 (and who hikes in real life anyway?) the teacher would recite the
-dictum that *walking was an important life skill*.
+dictum that walking was an important life skill.
 Heck, if you can't walk, how do you expect to get a job!
 Privately, teach had to admit: two monotonous hours in the
-scrubland, every day for six years, did seem excessive.
+scrubland, every day for six years, did seem excessive, and they hated
+ it too.
 But that's just the way things things were done.
 
 <figure>
