@@ -294,30 +294,30 @@ enticements along the way.
 
 ##### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
-Of course, you need to practice walking before you can wander off
+Students need practice before they can wander off
 into the foothills, armed only with a compass and a sense of adventure.
-Similarly, you need to get good at basic manipulations before you can
-do really interesting mathematics.
-But if we head towards interesting things, and tell the students where
-we're headed and all the amazing things they'll be able to see when
-they get there, maybe they won't mind practicing.
-And this is the real problem: not that students drill, but that *the
+Similarly, maths classes need to develop basic skills (a point I
+consider more <a href="#sec-4">below</a>).
+But if we show them where we're headed, and all the amazing things
+they'll be able to do when they get there, they won't mind practicing.
+And this brings us to the real problem: not that students drill, but that *the
 scrubland never ends*.
 They drill in order to keep drilling.
-They study shrubs here, so they can classify some other shrubs down the road.
+They study shrubs here, so they can classify some other shrubs down
+the road.
+Nobody is enlightened, empowered, or entertained.
 
 The truth is that scrubland is easy for everyone but the students.
 You don't need to be a good hiker to guide a class through the
 scrubland, and if you want to write a textbook, just
 fill it with lifeless, shrub-like variants of the same problem,
 sprinkled from that bag of shrub seeds you got at the nursery.
-But the responsibility for getting us out of the scrubland doesn't lie
+The responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the people who write the curriculum.
-And from their perspective, it's much easier to maintain the
+From their perspective, it's much easier to maintain the
 scrubland, and maybe ride around in a pickup truck painting shrubs different
 colours, than to chart a new course into the mathematical world.
-I'll talk later about efforts at curricular reform, but the bottom
-line is that it takes time, money, and vision, and these are
+That takes time, money, and vision, and these are
 perennially in short supply.
 
 But as in the hiking analogy, good mathematical skills are important to society as a whole.
