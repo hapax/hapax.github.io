@@ -1515,7 +1515,7 @@ From this fertile soil, students can grow new plants, or mine for
 patterns in its caves, which will answer the as-yet-unknown
 mathematical needs of the 21st century.
 And just as important, they can enjoy the simple pleasures of mathematics which
-have for so long, so unjustly and unnecessarily, been denied to them.
+have for so long, so unjustly and unnecessarily, been denied them.
 
 ## Annotated bibliography
 
