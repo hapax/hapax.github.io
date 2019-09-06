@@ -29,6 +29,7 @@ date:  2019-09-04
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
 4. <a href="#sec-4">Miscellaneous issues</a>
 5. <a href="#sec-4">Conclusion</a>
+-  <a href="#sec-5">Annotated bibliography</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
@@ -1534,7 +1535,7 @@ mathematical needs of the 21st century.
 And just as important, they can enjoy the simple pleasures of mathematics which
 have for so long, so unjustly and unnecessarily, been denied them.
 
-## Annotated bibliography
+## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
 Here are some resources which informed my ideas, used for illustrative
 examples, or both. I've briefly annotated them.
