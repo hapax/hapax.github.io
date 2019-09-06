@@ -80,7 +80,8 @@ and colourful examples that tantalised but did not, ultimately,
 enlighten.
 I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
-looked like I needed to learn its lanaguage, which was mathematics rather than colourful analogies.
+looked like I needed to learn its lanaguage, which was mathematics
+rather than colourful analogies.
 These two developments led me to switch from philosophy to maths and
 physics, and I never
 looked back.
@@ -1535,6 +1536,9 @@ have for so long, so unjustly and unnecessarily, been denied them.
 
 ## Annotated bibliography
 
+Here are some resources which informed my ideas, used for illustrative
+examples, or both. I've briefly annotated them.
+
 - ["Self-organised criticality: an explanation of 1/*f* noise"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
   (1987), Per Bak, Chao Tang and Kurt Weisenfeld. The explosive paper
   that started a whole new field of study. Unfortunately, real sand
@@ -1559,6 +1563,10 @@ have for so long, so unjustly and unnecessarily, been denied them.
   (2003), John Mighton. An exposition of the JUMP method and the
   philosophy behind it, very similar (though at a primary level) to
   what I have suggested here. Also discovered midway through the post!
+- ["Reinventing explanation"](http://michaelnielsen.org/reinventing_explanation/)
+  (2014), Michael Nielsen. An inspiring and comprehensive look at
+  explaining science using representations fit for purpose, or
+  "cognitive media". See also Bret Victor.
 - ["Sublimation of moth balls"](https://eric.ed.gov/?id=EJ180235)
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
   thermodynamics of moth ball sublimation.
@@ -1568,3 +1576,15 @@ have for so long, so unjustly and unnecessarily, been denied them.
   *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
   aesthetics and mathematical intuition from one of the giants of
   old-school AI.
+- ["Up and down the ladder of abstraction"](http://worrydream.com/LadderOfAbstraction/)
+  (2011), Bret Victor. A brilliant essay on the use of interactive
+  media (as opposed to symbols) to facilitate abstraction. I
+  fundamentally disagree with Victor's claim that a
+  [select few have the "freakish knack"](http://worrydream.com/KillMath/)
+  for manipulating symbols, but agree with Nielsen that interactive
+  media can and should provide a rich complement to traditional
+  symbolic methods.
+- ["Abstraction, intuition, and the monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+  (2009), Brent Yorgey. Analogies are great, but not a silver bullet
+  for understanding. Yorgey argues that intuition-building should
+  precede analogy-making.
