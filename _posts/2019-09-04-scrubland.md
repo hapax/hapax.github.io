@@ -1540,44 +1540,44 @@ have for so long, so unjustly and unnecessarily, been denied them.
 Here are some resources which informed my ideas, used for illustrative
 examples, or both. I've briefly annotated them.
 
-- ["Self-organised criticality: an explanation of 1/*f* noise"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
+- ["**Self-organised criticality: an explanation of 1/*f* noise**"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
   (1987), Per Bak, Chao Tang and Kurt Weisenfeld. The explosive paper
   that started a whole new field of study. Unfortunately, real sand
   piles don't seem to behave this way, but the model remains
   provocative and useful.
-- ["A model for the dynamics of sandpile surfaces"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
+- ["**A model for the dynamics of sandpile surfaces**"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
   (1994), J.-P. Bouchard, M. E. Cates, J. Ravi Prakesh and
   S. F. Edwards. A simple model of sand piles, developing the insights
   of Nobel-prize winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
-- "Darwin's *Tree of Nature* and other images of wide scope" (1981),
+- "**Darwin's *Tree of Nature* and other images of wide scope**" (1981),
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
   beautiful essay about scientific imagery, intuition, and the aesthetics of complexity.
-- [*A Mathematician's Apology*](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
+- [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
   (1940), G. H. Hardy. The classic apologia for pure mathematics.
-- [*Problems in General Physics*](https://archive.org/details/IrodovProblemsInGeneralPhysics)
+- [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
   (1981), Igor Irodov. A concise introduction to physics in the Soviet style.
-- *Out of the Labyrinth* (2007), Ellen and Robert Kaplan. A playful
+- **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. A playful
   book about the Harvard maths circle and its philosophy, discovered
   near the end of writing this post. A spiritually related message about
   exploration and play.
-- [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability)
+- [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method and the
   philosophy behind it, very similar (though at a primary level) to
   what I have suggested here. Also discovered midway through the post!
-- ["Reinventing explanation"](http://michaelnielsen.org/reinventing_explanation/)
+- ["**Reinventing explanation**"](http://michaelnielsen.org/reinventing_explanation/)
   (2014), Michael Nielsen. An inspiring and comprehensive look at
   explaining science using representations fit for purpose, or
   "cognitive media". See also Bret Victor.
-- ["Sublimation of moth balls"](https://eric.ed.gov/?id=EJ180235)
+- ["**Sublimation of moth balls**"](https://eric.ed.gov/?id=EJ180235)
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
   thermodynamics of moth ball sublimation.
-- *A Theory of Justice* (1971), John Rawls. Perhaps the most
+- **_A Theory of Justice_** (1971), John Rawls. Perhaps the most
   influential book on political philosophy in the 20th century.
-- "The Mathematical Unconscious" (1981), Seymour Papert. In
+- "**The Mathematical Unconscious**" (1981), Seymour Papert. In
   *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
   aesthetics and mathematical intuition from one of the giants of
   old-school AI.
-- ["Up and down the ladder of abstraction"](http://worrydream.com/LadderOfAbstraction/)
+- ["**Up and down the ladder of abstraction**"](http://worrydream.com/LadderOfAbstraction/)
   (2011), Bret Victor. A brilliant essay on the use of interactive
   media (as opposed to symbols) to facilitate abstraction. I
   fundamentally disagree with Victor's claim that a
@@ -1585,7 +1585,7 @@ examples, or both. I've briefly annotated them.
   for manipulating symbols, but agree with Nielsen that interactive
   media can and should provide a rich complement to traditional
   symbolic methods.
-- ["Abstraction, intuition, and the monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+- ["**Abstraction, intuition, and the monad tutorial fallacy**"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
   (2009), Brent Yorgey. Analogies are great, but not a silver bullet
   for understanding. Yorgey argues that intuition-building should
   precede analogy-making.
