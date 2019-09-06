@@ -1537,8 +1537,8 @@ have for so long, so unjustly and unnecessarily, been denied them.
 
 ## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
-Here are some resources which informed my ideas, used for illustrative
-examples, or both. I've briefly annotated them.
+Here are some resources which informed my ideas, were used for illustrative
+examples, or both. I've included some brief annotations.
 
 - ["**Self-organised criticality: an explanation of 1/*f* noise**"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
   (1987), Per Bak, Chao Tang and Kurt Weisenfeld. The explosive paper
