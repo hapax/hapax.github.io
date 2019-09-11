@@ -514,7 +514,7 @@ $$
 This statement is the MVT!
 A nice feature of our proof is that (combined with root-finding
 methods) it can be turned into an algorithm for finding the point $c$.
-We didn't need real analysis or anything fancy, just some pictures and
+We didn't need anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
 ---
