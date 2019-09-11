@@ -538,7 +538,7 @@ functions.
 For instance,
 
 $$
-|\tan^{-1}(x) - \tan^{-1}(y)| = \frac{|x - y|}{|c^2 + 1|} \leq |x - y|.
+|\tan^{-1}(x) - \tan^{-1}(y)| = \left|\frac{x - y}{c^2 + 1}\right| \leq |x - y|.
 $$
 
 With a little more work, students can be introduced to
