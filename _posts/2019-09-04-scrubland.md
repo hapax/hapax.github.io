@@ -547,7 +547,7 @@ and use this fact about inverse tan to approximate solutions to
 transcendental equations like
 
 $$
-x = 0.1 + \tan^{-1} x := f(x) \quad \Longrightarrow \quad x \approx 0.73.
+x = 0.1 + \tan^{-1} x \quad \Longrightarrow \quad x \approx 0.73.
 $$
 
 This approximation scheme is infinitely more powerful than any of the
