@@ -527,7 +527,7 @@ derivative on firm footing:
 - A continuous function $f: [a, b] \to \mathbb{R}$ with $f' > 0$ on $(a,b)$ is *increasing*.
 - A continuous function $f: [a, b] \to \mathbb{R}$ with $f' < 0$ on $(a,b)$ is *decreasing*.
 
-Each of these statements can be proved by a reductio where assume the
+Each of these statements can be proved by *reductio ad absurdum*: assume the
 consequent doesn't hold, zoom in on a subinterval whose endpoints
 exhibit this failure, and apply the MVT.
 
