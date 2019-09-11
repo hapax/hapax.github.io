@@ -517,6 +517,8 @@ methods) it can be turned into an algorithm for finding the point $c$.
 We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
+---
+
 What can we do with this?
 One use of the MVT is to put intuitions about the *sign* of the
 derivative on firm footing:
@@ -528,6 +530,9 @@ derivative on firm footing:
 Each of these statements can be proved by a reductio where assume the
 consequent doesn't hold, zoom in on a subinterval whose endpoints
 exhibit this failure, and apply the MVT.
+
+---
+
 It also leads to elegant, nontrivial inequalities about familiar
 functions.
 For instance,
@@ -547,6 +552,8 @@ $$
 
 This approximation scheme is infinitely more powerful than any of the
 palette-swapped shrubs parading as pure maths in the textbook!
+
+---
 
 Finally, here's a practical application to cheap traffic enforcement.
 Suppose traffic police monitor a stretch of highway of length $L$.
