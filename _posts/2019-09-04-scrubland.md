@@ -518,41 +518,35 @@ We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
 What can we do with this?
-One of the main uses of the MVT is to formalise intuitions
-about the *sign* of the derivative:
+One use of the MVT is to put intuitions about the *sign* of the
+derivative on firm footing:
 
--  A continuous function $f: [a, b] \to \mathbb{R}$ with *zero*
-   derivative $f' = 0$ on $(a,b)$ must be *constant*.
-- A continuous function $f: [a, b] \to \mathbb{R}$ with *positive*
-   derivative $f' > 0$ on $(a,b)$ is *increasing*.
-- A continuous function $f: [a, b] \to \mathbb{R}$ with *negative*
-   derivative $f' < 0$ on $(a,b)$ is *decreasing*.
+-  A continuous function $f: [a, b] \to \mathbb{R}$ with $f' = 0$ on $(a,b)$ must be *constant*.
+- A continuous function $f: [a, b] \to \mathbb{R}$ with $f' > 0$ on $(a,b)$ is *increasing*.
+- A continuous function $f: [a, b] \to \mathbb{R}$ with $f' < 0$ on $(a,b)$ is *decreasing*.
 
-Each of these states can be proved by a reductio: assume the claimed
-property doesn't hold, zoom in on a subinterval whose endpoints
+Each of these statements can be proved by a reductio where assume the
+consequent doesn't hold, zoom in on a subinterval whose endpoints
 exhibit this failure, and apply the MVT.
-
 It also leads to elegant, nontrivial inequalities about familiar
 functions.
-For instance, using their knowledge of derivatives of inverse
-trigonometric functions, students can show that
+For instance,
 
 $$
-|\tan^{-1}(x) - \tan^{-1}(y)| \leq |x - y|.
+|\tan^{-1}(x) - \tan^{-1}(y)| = \frac{|x - y|}{|c^2 + 1|} \leq |x - y|.
 $$
 
-I can't resist mentioning that, with a little more work, students
-could be introduced to
+With a little more work, students can be introduced to
 [contraction mappings](https://en.wikipedia.org/wiki/Contraction_mapping),
 and use this fact about inverse tan to approximate solutions to
 transcendental equations like
 
 $$
-x = 0.1 + \tan^{-1} x.
+x = 0.1 + \tan^{-1} x := f(x) \quad \Longrightarrow \quad x \approx 0.73.
 $$
 
-This is infinitely more powerful than any of the
-palette-swapped shrubs offered in the textbook.
+This approximation scheme is infinitely more powerful than any of the
+palette-swapped shrubs parading as pure maths in the textbook!
 
 Finally, here's a practical application to cheap traffic enforcement.
 Suppose traffic police monitor a stretch of highway of length $L$.
