@@ -726,7 +726,8 @@ I'll do one more example, unrelated to the MVT, but returning to
 inverse trig derivatives.
 This requires a little more symbolic facility from students, but the
 payoff is a gorgeous (and useful) infinite series identity.
-Infinite series are one of the great propaganda tools for
+On that note, I want to make the bold and unconventional claim that
+infinite series are a powerful propaganda tool for
 calculus, and deserve a greater place in the high school syllabus.
 When I first encountered them, I was astounded: they were beautiful
 but otherworldly, like a glittering chunk of meteorite found in the middle
@@ -1535,9 +1536,9 @@ goal), paths into the landscape can be offered as a complement to
 traditional textbooks.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the near future, I hope to start assembling a database of
-extensions, theorems and applications, with reference to the real
-curriculum, but more importantly, embedded in a constructivist
-understanding of how people learn mathematics.
+extensions, theorems and applications, embedded in a constructivist
+understanding of how people learn mathematics but cross-referenced
+with real curricula.
 Watch this space!
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
