@@ -722,10 +722,11 @@ In their own way, monsters can be beautiful.
 
 ##### 2.3. Slice of pi <a id="sec-2-3" name="sec-2-3"></a>
 
-I'll do one more example, unrelated to the MVT, but returning to inverse sine and its derivative.
+I'll do one more example, unrelated to the MVT, but returning to
+inverse trig derivatives.
 This requires a little more symbolic facility from students, but the
-payoff is a beautiful infinite series identity.
-I think infinite series are one of the great propaganda tools for
+payoff is a gorgeous (and useful) infinite series identity.
+Infinite series are one of the great propaganda tools for
 calculus, and deserve a greater place in the high school syllabus.
 When I first encountered them, I was astounded: they were beautiful
 but otherworldly, like a glittering chunk of meteorite found in the middle
