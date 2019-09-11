@@ -517,26 +517,44 @@ methods) it can be turned into an algorithm for finding the point $c$.
 We didn't need real analysis or anything fancy, just some pictures and
 a solid feeling for what the definitions *mean*.
 
-Let's return to inverse sine, and see if we can do better than
-palette-swapped shrubs.
-With the MVT in hand, students can prove it always increases the
-distance between its arguments:
+What can we do with this?
+One of the main uses of the MVT is to formalise intuitions
+about the *sign* of the derivative:
+
+-  A continuous function $f: [a, b] \to \mathbb{R}$ with *zero*
+   derivative $f' = 0$ on $(a,b)$ must be *constant*.
+- A continuous function $f: [a, b] \to \mathbb{R}$ with *positive*
+   derivative $f' > 0$ on $(a,b)$ is *increasing*.
+- A continuous function $f: [a, b] \to \mathbb{R}$ with *negative*
+   derivative $f' < 0$ on $(a,b)$ is *decreasing*.
+
+Each of these states can be proved by a reductio: assume the claimed
+property doesn't hold, zoom in on a subinterval whose endpoints
+exhibit this failure, and apply the MVT.
+
+It also leads to elegant, nontrivial inequalities about familiar
+functions.
+For instance, using their knowledge of derivatives of inverse
+trigonometric functions, students can show that
 
 $$
-|\sin^{-1}(x) - \sin^{-1}(y)| > |x-y|,
+|\tan^{-1}(x) - \tan^{-1}(y)| \leq |x - y|.
 $$
 
-assuming $x \neq y$, since the derivative $f'(c) = 1/\sqrt{1-c^2} > 1$.
-This elegant and nontrivial result is pictured below.
+I can't resist mentioning that, with a little more work, students
+could be introduced to
+[contraction mappings](https://en.wikipedia.org/wiki/Contraction_mapping),
+and use this fact about inverse tan to approximate solutions to
+transcendental equations like
 
-<figure>
-    <div style="text-align:center"><img src ="/images/posts/mvt12.png"
-    width="70%" />
-		    <figcaption><i>The MVT implies inverse sine is distance-increasing.</i></figcaption>
-	</div>
-	</figure>
+$$
+x = 0.1 + \tan^{-1} x.
+$$
 
-Here's a more practical application: *cheap traffic enforcement*.
+This is infinitely more powerful than any of the
+palette-swapped shrubs offered in the textbook.
+
+Finally, here's a practical application to cheap traffic enforcement.
 Suppose traffic police monitor a stretch of highway of length $L$.
 They clock a car entering the stretch and leaving a time $T$ later.
 Without using a radar gun, they know from the MVT (see graph below) that the car was
@@ -1555,15 +1573,13 @@ examples, or both. I've included some brief annotations.
 - [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
   (1940), G. H. Hardy. The classic apologia for pure mathematics.
 - [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. A concise introduction to physics in the Soviet style.
+  (1981), Igor Irodov. A concise, Soviet introduction to physics.
 - **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. A playful
-  book about the Harvard maths circle and its philosophy, discovered
-  near the end of writing this post. A spiritually related message about
-  exploration and play.
+  book about the Harvard maths circle, with a very similar philosophy of
+  maths teaching, learning, and doing.
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method and the
-  philosophy behind it, very similar (though at a primary level) to
-  what I have suggested here. Also discovered midway through the post!
+  philosophy behind it. Also discovered midway through the post!
 - ["**Reinventing explanation**"](http://michaelnielsen.org/reinventing_explanation/)
   (2014), Michael Nielsen. An inspiring and comprehensive look at
   explaining science using representations fit for purpose, or
