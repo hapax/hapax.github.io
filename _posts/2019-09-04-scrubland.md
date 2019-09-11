@@ -555,7 +555,7 @@ palette-swapped shrubs parading as pure maths in the textbook!
 
 ---
 
-Finally, here's a practical application to cheap traffic enforcement.
+Finally, here's a practical application: *cheap traffic enforcement*.
 Suppose traffic police monitor a stretch of highway of length $L$.
 They clock a car entering the stretch and leaving a time $T$ later.
 Without using a radar gun, they know from the MVT (see graph below) that the car was
