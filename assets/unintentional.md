@@ -28,7 +28,7 @@ time, make all matter gay.
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-Recently
+Joseph Cornell made boxes of junk.
 
 <figure>
     <div style="text-align:center"><img src

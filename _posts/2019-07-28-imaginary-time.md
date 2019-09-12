@@ -106,7 +106,7 @@ diagonalisable operator as a sum of projectors onto its eigenvectors,
 weighted by its eigenvalues:
 
 $$
-\hat{H} = \sum_E E |E\rangle \langle E.
+\hat{H} = \sum_E E |E\rangle \langle E|.
 $$
 
 It follows that
