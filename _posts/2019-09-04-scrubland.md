@@ -1480,8 +1480,8 @@ Here are some resources which informed my ideas, were used for illustrative
 examples, or both. I've included some brief annotations.
 
 - ["**Self-organised criticality: an explanation of 1/*f* noise**"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
-  (1987), Per Bak, Chao Tang and Kurt Weisenfeld. The explosive paper
-  that started a whole new field of study. Unfortunately, real sand
+  (1987), Per Bak, Chao Tang and Kurt Weisenfeld. An explosive paper
+  which started a new field of study. Unfortunately, real sand
   piles don't seem to behave this way, but the model remains
   provocative and useful.
 - ["**A model for the dynamics of sandpile surfaces**"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
