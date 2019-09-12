@@ -46,3 +46,5 @@ https://en.wikipedia.org/wiki/Transparent_eyeball
 [//]: #   - can machines make art? lovelace "no pretensions to create
 [//]: #   - texture, decay, industrial ruin
 [//]: #   - appeal of "bad" art (carrot poem), children's language/drawings, mishearings
+
+The eye is the best of artists... And as the eye is the best composer, so light is the first of painters.
