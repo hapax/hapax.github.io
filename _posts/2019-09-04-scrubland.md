@@ -32,6 +32,12 @@ date:  2019-09-04
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
+<span style="padding-left: 20px; display:block">
+Mathematics is freedom.
+</span>
+
+<div style="text-align: right"><i>Georg Cantor</i> </div>
+
 In high school, I was one of those kids.
 I thought maths class was about as boring as watching paint
 dry, except that a fresh coat of paint could add colour to the world.
