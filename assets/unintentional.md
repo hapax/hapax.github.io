@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "White magic"
+title:  "White magic and the music of objects"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
@@ -13,7 +13,8 @@ date:  2019-08-05
 
 <span style="padding-left: 20px; display:block">
 The eye is the best of artists.
-
+</span>
+<span style="padding-left: 20px; display:block">
 There is no object so foul that
 intense light will not make beautiful. And the stimulus it affords to
 the sense, and a sort of infinitude which it hath, like space and
