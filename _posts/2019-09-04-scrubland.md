@@ -1427,23 +1427,15 @@ essential part of the process.
 It is through the teacher that trust is established, students are
 engaged, and the subject comes alive, not to mention careful
 guidance through the process of developing basic skills.
+
 For all of this to happen, teachers need to be on top of the material!
 If the syllabus now encompasses continuous but nowhere differentiable
 functions, numerical approximation, diffusion, and self-organised
 criticality, it seems like an impossible ask for all but the most
 specialised of high school maths teachers.
-
-But here's the thing: if students can learn it, so can teachers!
-And if the syllabus is designed in an inviting, constructivist fashion
-to reduce
-[maths anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
-in students, it should also reduce anxiety in teachers.
-John Mighton observes a similar phenemon in
-[*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability),
-his expose of the [JUMP](https://www.jumpmath.org) mathematical
-enrichment program.
-Perhaps, once they've left the scrubland, more teachers will be genuinely
-enthusiastic about what they are teaching.
+But here's the trick: if students can learn it, so can teachers!
+Once they've left the scrubland, teachers can stop trotting out the
+same dubious cliches and get genuinely excited about mathematics.
 Their enthusiasm will be infectious.
 
 #### What's next?
