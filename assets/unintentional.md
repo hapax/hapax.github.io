@@ -20,16 +20,16 @@ variations. All I want to perform is white magic.
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 <span style="padding-left: 20px; display:block">
-The eye is the best of artists...
-There is no object so foul that
-intense light will not make beautiful. And the stimulus it affords to
+And the stimulus it affords to
 the sense, and a sort of infinitude which it hath, like space and
 time, make all matter gay.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-
+What could connect Kantian philosophy, rubbish, travel literature, and
+Surralism? Very little, it might seem.
+But 
 
 <figure>
     <div style="text-align:center"><img src
@@ -74,3 +74,7 @@ don’t know, and only a fraction of what we can imagine.
 </span>
 
 <div style="text-align: right"><i>William Least Heat-Moon</i> </div>
+
+The eye is the best of artists...
+There is no object so foul that
+intense light will not make beautiful. 
