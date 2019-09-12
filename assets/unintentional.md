@@ -2,20 +2,32 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Charm of the Unintentional"
+title:  "White magic"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
 
-**August 5, 2019.** *Unintentionality in art.*
+**September 11, 2019.** *Unintentionality in art.*
 
 ## What "makes" art?
 
 <span style="padding-left: 20px; display:block">
 The eye is the best of artists.
+
+There is no object so foul that
+intense light will not make beautiful. And the stimulus it affords to
+the sense, and a sort of infinitude which it hath, like space and
+time, make all matter gay.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
+
+<span style="padding-left: 20px; display:block">
+White is just what I mean. Not monstrously, but in wonderful
+variations. All I want to perform is white magic.
+</span>
+
+<div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 ## References
 
