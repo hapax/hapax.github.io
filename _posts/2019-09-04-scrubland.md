@@ -1486,7 +1486,7 @@ examples, or both. I've included some brief annotations.
   provocative and useful.
 - ["**A model for the dynamics of sandpile surfaces**"](https://jp1.journaldephysique.org/articles/jp1/abs/1994/10/jp1v4p1383/jp1v4p1383.html)
   (1994), J.-P. Bouchard, M. E. Cates, J. Ravi Prakesh and
-  S. F. Edwards. A simple model of sand piles, developing the insights
+  S. F. Edwards. A simple model of sand piles, fleshing out the insights
   of Nobel-prize winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
 - "**Darwin's *Tree of Nature* and other images of wide scope**" (1981),
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
