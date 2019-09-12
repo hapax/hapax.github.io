@@ -1490,27 +1490,29 @@ examples, or both. I've included some brief annotations.
   of Nobel-prize winner [Pierre-Gilles de Gennes](https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes).
 - "**Darwin's *Tree of Nature* and other images of wide scope**" (1981),
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
-  beautiful essay about scientific imagery, intuition, and the aesthetics of complexity.
+  beautiful essay about scientific imagery, intuition, and the
+  aesthetics of complexity.
+  I think the blancmange shows us that mathematicians are not immune
+  to the charms of the complex.
 - [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
   (1940), G. H. Hardy. The classic apologia for pure mathematics.
 - [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. A concise, Soviet introduction to physics.
+  (1981), Igor Irodov. A concise, Soviet-school introduction to physics.
 - **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. A playful
   book about the Harvard maths circle, with a very similar philosophy of
-  maths teaching, learning, and doing.
+  maths teaching via
+  [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
+  and play.
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
-  (2003), John Mighton. An exposition of the JUMP method and the
-  philosophy behind it. Mighton has a similar attitude to the
-  universality of mathematical ability (and the data to back it up!),
-  has a maximin "leave no child behind" policy, and uses bonus
-  questions as an incentive.
+  (2003), John Mighton. An exposition of the JUMP method.
 - ["**Reinventing explanation**"](http://michaelnielsen.org/reinventing_explanation/)
   (2014), Michael Nielsen. An inspiring and comprehensive look at
-  explaining science using representations fit for purpose, or
+  new ways to explain science using representations which encourage
+  the right types of intuition, exploration, and insight; aka
   "cognitive media". See also Bret Victor.
 - ["**Sublimation of moth balls**"](https://eric.ed.gov/?id=EJ180235)
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
-  thermodynamics of moth ball sublimation.
+  moth ball sublimation.
 - **_A Theory of Justice_** (1971), John Rawls. Perhaps the most
   influential book on political philosophy in the 20th century.
 - "**The Mathematical Unconscious**" (1981), Seymour Papert. In
@@ -1518,14 +1520,14 @@ examples, or both. I've included some brief annotations.
   aesthetics and mathematical intuition from one of the giants of
   old-school AI.
 - ["**Up and down the ladder of abstraction**"](http://worrydream.com/LadderOfAbstraction/)
-  (2011), Bret Victor. A brilliant essay on the use of interactive
-  media (as opposed to symbols) to facilitate abstraction. I
-  fundamentally disagree with Victor's claim that a
-  [select few have the "freakish knack"](http://worrydream.com/KillMath/)
-  for manipulating symbols, but agree with Nielsen that interactive
-  media can and should provide a rich complement to traditional
-  symbolic methods.
+  (2011), Bret Victor. A brilliant essay on the use of interactive (or
+  cognitive) media to facilitate abstraction. I
+  fundamentally disagree with Victor's claim that only a select few have the
+  ["freakish knack"](http://worrydream.com/KillMath/)
+  for manipulating symbols, but agree with Victor and Nielsen that
+  cognitive media can and should provide a rich complement to
+  traditional symbolic methods.
 - ["**Abstraction, intuition, and the monad tutorial fallacy**"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
-  (2009), Brent Yorgey. Analogies are great, but not a silver bullet
-  for understanding. Yorgey argues that intuition-building should
+  (2009), Brent Yorgey. Analogies are great, but not a silver
+  bullet. Yorgey argues that intuition-building and play should
   precede analogy-making.
