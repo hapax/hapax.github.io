@@ -1385,12 +1385,14 @@ domains.
 There is much more to say about how we teach basic skills.
 I think a
 [constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
-approach which breaks material into small, bite-sized steps, which
-takes different learning styles into account and uses heuristics,
+approach which breaks material into small, bite-sized pieces (see
+[JUMP math](https://www.jumpmath.org) for an example at the primary level), which
+takes different learning styles into account, and which uses heuristics,
 visual aids, computers, and colourful analogies, could dramatically
 improve engagement and retention.
-But my goal here has been to focus on non-scrubland highlights, rather
-than the best way to develop walking skills.
+But my focus here has been on how to leave the scrubland,
+rather than the best way to develop walking skills.
+I intend to return to this in a later post!
 
 #### Does this work for pre-calculus topics?
 
