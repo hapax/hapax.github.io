@@ -1345,7 +1345,7 @@ some ideas about classroom implementation.
 
 #### Do your examples pass the maximin test?
 
-This is of course a classroom-dependent question.
+This is a classroom-dependent question.
 The <a href="#sec-3">pure</a> and <a href="#sec-3">applied
 mathematics</a> "highlights" are designed for a classroom where
 students are self-confident, motivated, and trust the teacher.
