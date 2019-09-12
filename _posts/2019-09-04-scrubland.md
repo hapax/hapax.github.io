@@ -651,7 +651,7 @@ Good subintervals have maximum length $2^{-(1+n)}$.
 As $n$ gets larger and larger, this allowed length gets smaller and smaller, and in the limit
 $n \to \infty$, they have no length at all!
 Informally, this shows that for the blancmange function, there are no good subintervals.
-To make this slightly neater, we can label with their "decimal"
+To make this slightly neater, we can label kinks with their "decimal"
 expansions in base 2.
 The initialy kink is at $x = 0.1$.
 The kinks for $n = 1$ are at $x = 0.01, 0.10, 0.11$.
