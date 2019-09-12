@@ -7,7 +7,8 @@ categories: [Art, Philosophy]
 date:  2019-08-05
 ---
 
-**September 11, 2019.** *A ramble into the aesthetics of objects.*
+**September 11, 2019.** *A rambling journey into the aesthetics of
+  ordinary objects.*
 
 ## Introduction
 
