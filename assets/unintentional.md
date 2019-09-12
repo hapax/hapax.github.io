@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "White magic and the music of objects"
+title:  "Quoz and white magic"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
 
-**September 11, 2019.** *Unintentionality in art.*
+**September 11, 2019.** *A ramble into the *
 
-## What "makes" art?
+## Introduction
 
 <span style="padding-left: 20px; display:block">
 There is no object so foul that
@@ -26,6 +26,28 @@ variations. All I want to perform is white magic.
 </span>
 
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
+
+<span style="padding-left: 20px; display:block">
+I’m speaking about a quest for quoz, of which I’ll say more as we go
+along, but until then, you might want to see Quoz as a realm filled
+with itself as a cosmos is with all that’s there, not just suns and
+planets and comets but dust and gas, darkness and light, and all we
+don’t know, and only a fraction of what we can imagine. 
+</span>
+
+<div style="text-align: right"><i>William Least Heat-Moon</i> </div>
+
+Recently
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/russell.png" width="45%"/>
+		    <figcaption><i>The joy of sets: solid arrows indicate
+    membership and dotted arrows non-membership. Set A is not a
+    self-member while D is. The Russell set R contains all and only sets which do not
+    contain themselves. Does it contain itself? </i></figcaption>
+	</div>
+	</figure>
 
 ## References
 
