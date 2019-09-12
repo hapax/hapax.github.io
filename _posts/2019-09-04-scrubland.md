@@ -1425,8 +1425,8 @@ be supplanted by a curriculum full of sparkling ideas.
 But learning is a relational endeavour, and the teacher remains an
 essential part of the process.
 It is through the teacher that trust is established, students are
-engaged, and the subject comes alive, not to mention the careful
-troubleshooting during the process of learning basic skills.
+engaged, and the subject comes alive, not to mention careful
+guidance through the process of developing basic skills.
 For all of this to happen, teachers need to be on top of the material!
 If the syllabus now encompasses continuous but nowhere differentiable
 functions, numerical approximation, diffusion, and self-organised
