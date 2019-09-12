@@ -20,6 +20,7 @@ variations. All I want to perform is white magic.
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 <span style="padding-left: 20px; display:block">
+The eye is the best of artists...
 There is no object so foul that
 intense light will not make beautiful. And the stimulus it affords to
 the sense, and a sort of infinitude which it hath, like space and
@@ -28,7 +29,6 @@ time, make all matter gay.
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-Joseph Cornell made boxes of junk.
 
 <figure>
     <div style="text-align:center"><img src
