@@ -12,7 +12,6 @@ date:  2019-08-05
 ## What "makes" art?
 
 <span style="padding-left: 20px; display:block">
-The eye is the best of artists.... And as the eye is the best composer, so light is the first of painters.
 There is no object so foul that
 intense light will not make beautiful. And the stimulus it affords to
 the sense, and a sort of infinitude which it hath, like space and
