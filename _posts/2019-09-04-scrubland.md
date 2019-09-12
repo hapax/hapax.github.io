@@ -1460,8 +1460,6 @@ Their enthusiasm will be infectious.
 
 #### What's next?
 
-A single blog post is not going to overthrow secondary maths
-education.
 Instead of *replacing* the curriculum (an ambitious and long-term
 goal), paths into the landscape can be offered as a complement to
 traditional textbooks.
