@@ -27,9 +27,6 @@ time, make all matter gay.
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-What could connect Kantian philosophy, rubbish, travel literature, and
-Surralism? Very little, it might seem.
-But 
 
 <figure>
     <div style="text-align:center"><img src

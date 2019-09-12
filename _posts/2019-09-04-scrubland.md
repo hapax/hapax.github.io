@@ -1324,13 +1324,11 @@ This fractal is related to the deeper property of [*self-organised criticality*]
 where the sandpile ["tunes" itself](http://nautil.us/issue/23/dominoes/the-amazing-autotuning-sandpile) to maintain a delicate balance
 between total order (no avalanches) and disorder (too many avalanches).
 The technical tool to assess this balance is the statistical relation
-between size and frequency of avalanches, but once again, this is beyond our scope.
+between size and frequency of avalanches.
+I won't discuss it here, but this is something students can easily see
+for themselves in computer simulations.
 
-Many other systems are (somewhat controversially) thought to exhibit
-self-organised criticality, such as forest fires, earthquakes,
-co-evolution, and
-[even the human brain](https://www.quantamagazine.org/brains-may-teeter-near-their-tipping-point-20180614/).
-According to mathematician [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
+According to [Steven Krantz](http://math.bu.edu/people/changer/teasem/w04.pdf),
 there is an infamous MIT exam which simply reads:
 
 <span style="padding-left: 20px; display:block">
@@ -1342,74 +1340,29 @@ piles of granular matter and self-organising fractals.
 
 ## 4. Miscellaneous issues <a id="sec-4" name="sec-4"></a>
 
-I've called this a manifesto since it is more a call to arms than a
-detailed program.
-But in this final section, I want to address some possible issues and
-develop ideas about classroom implementation along the way.
-
-#### Does this approach actually work?
-
-The [JUMP math program](https://www.jumpmath.org), founded by John
-Mighton, is a primary level mathematical enrichment
-program running on similar principles to those I am advocating here,
-namely [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning), play, and the core ethic that *every child
-can learn mathematics and love it*.
-The [data unambiguously show](https://www.jumpmath.org/jump/en/research_reports) that, at least for primary students, this
-approach works wonders.
-I am proposing a change in how we teach *secondary* mathematics, with
-various other tweaks in emphasis and technique.
-There may be wrinkles that arise from this difference in emphasis, but I would be surprised if the results were dramatically different.
-
-#### What about engaged students?
-
-Maximin does not forbid writing questions for engaged students.
-It only forbids questions which *only* engaged students can enjoy.
-But bonus questions can help engage the class as a whole.
-In the JUMP program, bonus questions are used as a carrot, dangled
-just beyond the standard material, enticing students to finish that
-material and move onto something "fun".
-In his book [*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability),
-John Mighton even recalls breaking up a fight by threatening to
-withhold one of these bonus questions!
-The point is that bonus questions can be for everyone, from the least
-engaged (who will be incentivised) to the most enganged (who will be challenged).
-There is no need for streaming!
+In this final section, I want to address a few pitfalls and sketch
+some ideas about classroom implementation.
 
 #### Do your examples pass the maximin test?
 
-The <a href="#sec-3">revised questions</a> seem challenging, but I
-intend them to be taken in the spirit of JUMP's bonus questions: a
-carrot for a globally engaged cohort who trust the teacher or text.
-But bonus questions are not a blank cheque.
-They only work once students have a basic level of self-efficacy and
-engagement.
-Even then, they still need to be designed deliberately, using a
-careful model of what students know and where their zone of proximal
-development is, chunking a difficult passage of reasoning
-into small, achievable steps.
-This is consistent with guided discovery and the
-[constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
-philosophy of teaching.
-
-I've tried to chunk my questions this way, and aim for relatively low
-prerequisites.
-Without embedding them in a broader classroom context, perhaps the
-only thing they demonstrate clearly is that high-school calculus has
-exciting and nontrivial applications.
-But this raises the question: if we abandon the scrubland, how *will*
-students develop basic skills necessary to do bonus problems?
+This is of course a classroom-dependent question.
+The <a href="#sec-3">pure</a> and <a href="#sec-3">applied
+mathematics</a> "highlights" are designed for a classroom where
+students are self-confident, motivated, and trust the teacher.
+Even given these prerequisites, a question could still fail.
+But the examples are chunked into small, achievable steps, consistent
+with a
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
+approach.
 
 #### How do students develop basic skills?
 
-As with JUMP, we can treat the aesthetic and real-world highlights as
-bonus material, motivating students to slog through repetitious,
-facility-building exercises.
-But do these have to be shrubs?
-The JUMP program shows that, with a careful constructivist
-mindset, building basic skills need not be an interest-killing affair.
-Let's try a similar thing with our <a href="#sec-1-2">earlier patch of
-scrubland</a>.
-Consider these two questions.
+Of course, this raises the question: how do students develop basic
+skills?
+As mentioned earlier, drill is much more bearable when there are real
+applications on the horizon.
+But I suspect even drill can be made more palatable with a little effort.
+Consider these two examples.
 
 ---
 
@@ -1433,44 +1386,18 @@ Consider these two questions.
 Which is better?
 I would argue that the second passes the shrub test while the first
 does not, though they develop the same skills: differentiating inverse
-trigonometric functions, using the chain rule, and identifying domains.
+trigonometric functions, using the chain rule, and identifying
+domains.
 
-#### What should we assess?
-
-The first question has its own dubious virtues.
-The format (that is, lack of content!) leads to easy scaleability, which as
-noted earlier, explains its appeal to textbook writers.
-But it has two apparent pedagogical virtues: the psychological hack of
-[associative learning](https://en.wikipedia.org/wiki/Learning#Associative_learning)
-by repetition, and its functional manifestation, the speedy execution of algorithms.
-This is the logic of drill.
-
-But what is the point of memorising inverse trigonometric derivatives?
-Or being able to perform the differentiation quickly?
-It's not clear.
-I don't know these derivatives by heart, and I don't *need* to; I use
-them rarely enough in my research that I just derive them if required.
-Being able to derive them is the more useful skill!
-In general, we place far too much emphasis on memorising
-useless facts and reproducing them (or performing the associated
-algorithms) quickly under exam conditions.
-
-How should assessment look?
-Consider this inspiring assignment question (from a
-graph theory class with [David Wood](http://users.monash.edu.au/~davidwo/)):
-
----
-
-Define a numeric measure of the complexity of a graph. Compute it for
-several examples, and prove some properties about your measure. You
-do not need to write more than 1 or 2 pages to get full marks.
-
----
-
-This is exactly the sort of exploratory, open-ended thinking we need
-to encourage.
-A scrubland of drill trains students for the scrubland of assessment.
-It does nothing to prepare them for the variety, complexity, and open-endedness of real life.
+There is much more to say about how we teach basic skills.
+I think a
+[constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
+approach which breaks material into small, bite-sized steps, which
+takes different learning styles into account and uses heuristics,
+visual aids, computers, and colourful analogies, could dramatically
+improve engagement and retention.
+But my goal here has been to focus on non-scrubland highlights, rather
+than the best way to develop walking skills.
 
 #### Does this work for pre-calculus topics?
 
@@ -1523,6 +1450,10 @@ And if the syllabus is designed in an inviting, constructivist fashion
 to reduce
 [maths anxiety](https://www.cne.psychol.cam.ac.uk/math-memory/what-is-mathematics-anxiety)
 in students, it should also reduce anxiety in teachers.
+John Mighton observes a similar phenemon in
+[*The Myth of Ability*](https://jumpmath.org/jump/en/book_myth_ability),
+his expose of the [JUMP](https://www.jumpmath.org) mathematical
+enrichment program.
 Perhaps, once they've left the scrubland, more teachers will be genuinely
 enthusiastic about what they are teaching.
 Their enthusiasm will be infectious.
@@ -1537,8 +1468,8 @@ traditional textbooks.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the near future, I hope to start assembling a database of
 extensions, theorems and applications, embedded in a constructivist
-understanding of how people learn mathematics but cross-referenced
-with real curricula.
+framwork and cross-referenced
+against real curricula.
 Watch this space!
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
@@ -1547,9 +1478,9 @@ Teachers and curriculum writers are experts on modelling what students
 know and how they come to know it.
 Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
-We need to stop marching students through the scrubland, and introduce
-them to the vast topography of the real mathematical world, with its
-majestic summits, calm valleys, and bestiary of strange creatures.
+By working together, they can decide how to lead students out of the
+scrubland, and into the vast topography of the real mathematical world, with its
+majestic summits, calm valleys, and menagerie of strange creatures.
 From this fertile soil, students can grow new plants, and in its caves
 mine for patterns, fir for the as-yet-unknown
 mathematical needs of the 21st century.
@@ -1582,7 +1513,10 @@ examples, or both. I've included some brief annotations.
   maths teaching, learning, and doing.
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method and the
-  philosophy behind it. Also discovered midway through the post!
+  philosophy behind it. Mighton has a similar attitude to the
+  universality of mathematical ability (and the data to back it up!),
+  has a maximin "leave no child behind" policy, and uses bonus
+  questions as an incentive.
 - ["**Reinventing explanation**"](http://michaelnielsen.org/reinventing_explanation/)
   (2014), Michael Nielsen. An inspiring and comprehensive look at
   explaining science using representations fit for purpose, or
