@@ -1468,11 +1468,11 @@ knowledge, taste, and judgment.
 By working together, they can decide how to lead students out of the
 scrubland, and into the vast topography of the real mathematical world, with its
 majestic summits, calm valleys, and menagerie of strange creatures.
-From this fertile soil, students can grow new plants, and in its caves
-mine for patterns, fir for the as-yet-unknown
+From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
-And just as important, they can enjoy the simple pleasures of mathematics which
-have for so long, so unjustly and unnecessarily, been denied them.
+And even more importantly, they can enjoy the simple pleasures of
+mathematics which have for so long, and so unnecessarily, been denied to
+the majority.
 
 ## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
