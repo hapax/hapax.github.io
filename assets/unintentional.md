@@ -30,6 +30,7 @@ time, make all matter gay.
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
 
+
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/russell.png" width="45%"/>
