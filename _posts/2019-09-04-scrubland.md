@@ -330,12 +330,6 @@ combinatorics?
 These are not tools most adults have recourse to in their daily lives.
 Clearly, kicking around in the system is the assumption that *mathematical
 thinking is valuable*.
-In the
-[Australian maths curriculum](https://www.australiancurriculum.edu.au/f-10-curriculum/mathematics/),
-for instance, "Critical and Creative Thinking" is one of the target
-general capabilities, and 
-A corollary, I think, is that we should value the simple pleasure that
-doing mathematics can bring, though
 
 Even if we do not value it for its own sake, or the pleasure it
 brings, mathematical skills are essential to society as a whole.
@@ -529,6 +523,7 @@ derivative on firm footing:
 Each of these statements can be proved by *reductio ad absurdum*: assume the
 consequent doesn't hold, zoom in on a subinterval whose endpoints
 exhibit this failure, and apply the MVT.
+
 For instance, if $f' = 0$ on $[a, b]$, but $f$ is not constant, then
 there is a subinterval $[a_1, b_1] \subseteq [a ,b]$, where $f$
 assumes different values at either end, $f(a_1) \neq f(b_1)$.

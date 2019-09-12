@@ -279,3 +279,9 @@ But the examples are chunked into small, achievable steps, consistent
 with a
 [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
 approach.
+
+In some cases this is even made explicit.
+In the [Australian maths curriculum](https://www.australiancurriculum.edu.au/f-10-curriculum/mathematics/),
+for instance, "Critical and Creative Thinking" is one of the general capabilities, and 
+A corollary, I think, is that we should value the simple pleasure that
+doing mathematics can bring, though
