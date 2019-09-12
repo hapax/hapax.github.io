@@ -266,3 +266,16 @@ examples, or both. I've included some brief annotations.
   (2009), Brent Yorgey. Analogies are great, but not a silver bullet
   for understanding. Yorgey argues that intuition-building should
   precede analogy-making.
+
+#### Do your examples pass the maximin test?
+
+This is a classroom-dependent question.
+The <a href="#sec-3">pure</a> and <a href="#sec-3">applied
+mathematics</a> sections are designed as motivating higlights for a
+classroom of self-confident who are comfortable, conceptually and
+computationally, with derivatives.
+But even given these prerequisites, a question could still fail.
+But the examples are chunked into small, achievable steps, consistent
+with a
+[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
+approach.

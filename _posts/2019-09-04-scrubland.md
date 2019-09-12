@@ -1343,21 +1343,9 @@ piles of granular matter and self-organising fractals.
 In this final section, I want to address a few pitfalls and sketch
 some ideas about classroom implementation.
 
-#### Do your examples pass the maximin test?
-
-This is a classroom-dependent question.
-The <a href="#sec-3">pure</a> and <a href="#sec-3">applied
-mathematics</a> "highlights" are designed for a classroom where
-students are self-confident, motivated, and trust the teacher.
-Even given these prerequisites, a question could still fail.
-But the examples are chunked into small, achievable steps, consistent
-with a
-[guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
-approach.
-
 #### How do students develop basic skills?
 
-Of course, this raises the question: how do students develop basic
+How do students develop basic
 skills?
 As mentioned earlier, drill is much more bearable when there are real
 applications on the horizon.
