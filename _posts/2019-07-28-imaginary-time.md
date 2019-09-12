@@ -347,8 +347,8 @@ such as photons and any other fields that happen to be around.
 Black holes are attractive, and therefore induce acceleration at the event horizon.
 The Unruh effect, combined with the equivalence principle, then
 *implies* the existence of Hawking radiation.
-In the next section, we will show this a bit more carefully using a
-few basic ideas from general relativity.
+(There is an optional appendix showing this a bit more carefully using
+basic ideas from general relativity.)
 Here, we will content ourselves with a *Newtonian* argument which,
 although it is physically misleading, gives the right answer.
 
@@ -391,7 +391,7 @@ sleight-of-hand) to the incredible conclusion that black holes are
 hot, spewing out a thermal spectrum of particles just like flat space
 does for an accelerating observer.
 
-## Hawking radiation from Euclidean gravity*
+## Appendix: Hawking radiation from Euclidean gravity
 
 The preceding argument is cute, but gravity is not Newtonian!
 We can fix it up using some tools from general relativity, focusing on
