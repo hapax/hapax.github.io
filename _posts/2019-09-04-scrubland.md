@@ -1434,17 +1434,18 @@ be supplanted by a curriculum full of sparkling ideas.
 But learning is a relational endeavour, and the teacher remains an
 essential part of the process.
 It is through the teacher that trust is established, students are
-engaged, and the subject comes alive, not to mention careful
-guidance through the process of developing basic skills.
+engaged, and the subject comes alive, not to mention the careful
+guidance they provide through the process of learning to walk.
 
-For all of this to happen, teachers need to be on top of the material!
+For all of this to happen, teachers need to be on top of the material.
 If the syllabus now encompasses continuous but nowhere differentiable
 functions, numerical approximation, diffusion, and self-organised
 criticality, it seems like an impossible ask for all but the most
 specialised of high school maths teachers.
 But here's the trick: if students can learn it, so can teachers!
 Once they've left the scrubland, teachers can stop trotting out the
-same dubious cliches and get genuinely excited about mathematics.
+same dubious cliches about using maths in real life, and get genuinely
+excited about what they teach.
 Their enthusiasm will be infectious.
 
 #### What's next?
