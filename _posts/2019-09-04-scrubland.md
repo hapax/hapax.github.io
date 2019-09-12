@@ -29,7 +29,6 @@ date:  2019-09-04
    3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
 4. <a href="#sec-4">Miscellaneous issues</a>
 5. <a href="#sec-4">Conclusion</a>
--  <a href="#sec-5">Annotated bibliography</a>
 
 ## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
 
