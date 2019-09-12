@@ -534,7 +534,7 @@ $$
 f'(c) = \frac{f(a_1)-f(b_1)}{a_1 - b_1} \neq 0.
 $$
 
-This contradicts our assumption that $f' = 0$ throughout $[a,b]$!
+This contradicts our assumption that $f' = 0$ throughout $[a,b]$.
 
 ---
 
