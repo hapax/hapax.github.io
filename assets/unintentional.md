@@ -43,7 +43,9 @@ time, make all matter gay.
 ## References
 
 - [*Nature*](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/nature.html)
-  (1836), Ralph Waldo Emerson.
+(1836), Ralph Waldo Emerson.
+- ["How to do nothing"](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
+  (2017), Jenny Odell.
 
 https://en.wikipedia.org/wiki/Transparent_eyeball
 
