@@ -1416,7 +1416,9 @@ Now incorporate *that* material into the syllabus.
 Mathematical skills live in a big constructivist framework, and
 according to the maximin test, attention needs to be paid to
 developing that framework so that all students can benefit.
-But these goals are not at odds!
+But if we can productively interleave the two, with basic skills
+giving access to highlights, and highlights motivating the practice of
+new skills, these goals are not at odds!
 
 #### What is the teacher's role?
 
