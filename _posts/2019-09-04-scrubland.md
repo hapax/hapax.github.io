@@ -1473,7 +1473,7 @@ Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
 By working together, they can decide how to lead students out of the
 scrubland, and into the vast topography of the real mathematical world, with its
-majestic summits, calm valleys, and menagerie of strange creatures.
+majestic summits, calm valleys, and menagerie of extraordinary creatures.
 From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
 And even more importantly, they can enjoy the simple pleasures of
