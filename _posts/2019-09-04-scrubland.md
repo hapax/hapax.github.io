@@ -256,8 +256,8 @@ From a game theory perspective, maximin (maximising the
 minimum outcome) is the right strategy when you can't play the numbers
 due to extreme uncertainty (in his framework, associated with a form
 of social contract called the *original position*).
-A subsidiary argument was that, due to a sort of proximity in the space of
-social goods, maximin would lead to a "trickle up" effect where *everyone* benefited.
+A secondary argument is that maximin should lead to a "trickle up"
+effect where *everyone* benefits.
 
 Of the various design principle we could adopt, I think there is a
 similar **maximin
@@ -272,13 +272,12 @@ Why?
 First of all, it's *fair*.
 The students who are already involved and making progress have
 a basic level of a particular social good, engagement, that students
-on the margins don't. And as Rawls argues for social goods generally, by making
-maths engaging, there should be a "trickle up" effect across the
-board.
-Making maths class more interesting for the least-engaged will make it
-more interesting for everyone!
+on the margins don't.
+It also seems plausible that by making class more interesting for the
+least-engaged, we make it more interesting for everyone, the "trickle
+up" effect Rawls thought applied to social goods generally.
 
-Secondly, teaching is a wildly complex business.
+A game-theoretic argument for the maximin test is the complexity of teaching.
 Besides the choice of material (which I'm emphasising here), there's
 a whole host of other variables to consider, from pedagogy and lesson planning,
 demographics, classroom management, technology,
@@ -396,7 +395,7 @@ task of choosing *multiple beautiful things* for students to look at.
 Hopefully one of them sticks!
 
 Since we have spent a little time looking at calculus, I will
-illustrate a way out of the scrubland here: a neat little summit of
+illustrate how we can do this for derivatives: a neat little summit of
 generalisation called the *mean value theorem*; a monster dwelling in
 the badlands called the *blancmange function*; and finally, a much
 nobler use of inverse sine to provide a scheme for approximating
@@ -408,7 +407,7 @@ Our first example will be the *mean value theorem* (MVT).
 Instead of scaling the mountain and giving a fully rigorous proof, we
 will content ourselves with a good prospect from lower elevations
 using heuristics and visual aids.
-Suppose we have a function $f(x)$ defined for $a \leq x \leq b$.
+Suppose we have a continuous function $f(x)$ defined for $a \leq x \leq b$.
 This is pictured on the Cartesian plane below.
 
 <figure>
