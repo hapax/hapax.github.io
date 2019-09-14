@@ -2,13 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "White magic and the music of objects"
+title:  "The music of objects"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
 
-**September 11, 2019.** *A rambling journey into the aesthetics of
-  ordinary objects.*
+**September 11, 2019.** *TODO*
 
 ## Introduction
 
@@ -59,6 +58,7 @@ https://en.wikipedia.org/wiki/Transparent_eyeball
 [//]: #   - can machines make art? lovelace "no pretensions to create
 [//]: #   - texture, decay, industrial ruin
 [//]: #   - appeal of "bad" art (carrot poem), children's language/drawings, mishearings
+[//]: # - disquieting muses
 
 The eye is the best of artists... And as the eye is the best composer, so light is the first of painters.
 
