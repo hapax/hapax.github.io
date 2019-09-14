@@ -387,7 +387,8 @@ But we don't always need to scale a mountain to appreciate important
 results; with a bit of ingenuity, we can usually find a nearby hill
 with a gentler slope and a partial view of the summit.
 In pure mathematics, mountains are things like theorems (important
-proven results), conjectures (important unproven results), and non-trivial examples.
+proven results), conjectures (important unproven results), definitions
+and examples.
 "Important" and "non-trivial" mean a variety of things, but as Hardy and
 Russell suggest, *beauty* is perhaps the principal criterion.
 Beauty in maths, as in art, is subjective, so we are left with the enviable
