@@ -12,30 +12,18 @@ date:  2019-08-05
 ## Introduction
 
 <span style="padding-left: 20px; display:block">
-White is just what I mean. Not monstrously, but in wonderful
-variations. All I want to perform is white magic.
+All I want to perform is white magic.
 </span>
 
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 <span style="padding-left: 20px; display:block">
-And the stimulus it affords to
-the sense, and a sort of infinitude which it hath, like space and
-time, make all matter gay.
+The eye is the best of artists.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/russell.png" width="45%"/>
-		    <figcaption><i>The joy of sets: solid arrows indicate
-    membership and dotted arrows non-membership. Set A is not a
-    self-member while D is. The Russell set R contains all and only sets which do not
-    contain themselves. Does it contain itself? </i></figcaption>
-	</div>
-	</figure>
 
 ## References
 
@@ -75,3 +63,18 @@ don’t know, and only a fraction of what we can imagine.
 The eye is the best of artists...
 There is no object so foul that
 intense light will not make beautiful. 
+
+<span style="padding-left: 20px; display:block">
+White is just what I mean. Not monstrously, but in wonderful
+variations. All I want to perform is white magic.
+</span>
+
+<div style="text-align: right"><i>Joseph Cornell</i> </div>
+
+<span style="padding-left: 20px; display:block">
+...the stimulus it affords to
+the sense, and a sort of infinitude which it hath, like space and
+time, make all matter gay.
+</span>
+
+<div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
