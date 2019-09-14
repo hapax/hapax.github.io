@@ -1531,7 +1531,7 @@ examples, or both. I've included some brief annotations.
   fundamentally disagree with Victor's claim that only a select few have the
   ["freakish knack"](http://worrydream.com/KillMath/)
   for manipulating symbols, but agree with Victor and Nielsen that
-  cognitive media can and should provide a rich complement to
+  cognitive media can and should provide a complementary approach to
   traditional symbolic methods.
 - ["**Abstraction, intuition, and the monad tutorial fallacy**"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
   (2009), Brent Yorgey. Analogies are great, but not a silver
