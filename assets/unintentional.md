@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The music of objects"
+title:  "White magic and the music of objects"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
