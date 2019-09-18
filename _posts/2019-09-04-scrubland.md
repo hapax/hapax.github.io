@@ -88,8 +88,11 @@ I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
 looked like I needed to learn its lanaguage, which was mathematics
 rather than colourful analogies.
-These two developments led me to switch from philosophy to maths and
-physics, and I never
+(See Brent Yorgey's
+[blog post](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+on the temptation of analogies.)
+I switched from philosophy to maths and
+physics and never
 looked back.
 
 <figure>
@@ -915,6 +918,8 @@ We will see that applied and pure maths are not mutually
 exclusive.
 When we dig up structures for real-world use, they often contain puzzles and
 extensions that lead to pure mathematical progress.
+This is a grand secret of mathematics: *almost everything* has pattern
+and structure on which mathematical tools can be brought to bear.
 (I hope to return to this theme at length in the future.)
 
 ##### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
@@ -946,9 +951,10 @@ ball, spreading outward or *diffusing* due to the random motion of the molecules
 Let $c(r)$ be the concentration of gas (number of
 molecules per unit volume) around the ball, defined as a function of
 radial distance $r$ from the ball's centre.
-For a very thin spherical shell of width $w$ (where $c$ is effectively
+For a very thin spherical shell of width $w$ (where $c(r)$ is effectively
 constant over the shell), the rate at which molecules diffuse out of
-the shell is proportional to the concentration $c(r)$ and the velocity $v$.
+the shell is proportional to the concentration $c(r)$ and velocity $v$
+of molecules.
 
 ---
 
@@ -1057,7 +1063,7 @@ $M_3$ on $M_1$.
 	</div>
 	</figure>
 
-Assume the missiles move have the same speed profile over time, $v_1(t)=v_2(t)=v_3(t)=v(t)$.
+Assume the missiles have the same speed profile over time, $v_1(t)=v_2(t)=v_3(t)=v(t)$.
 The *danger zone* is the triangle formed by three missiles.
 This is where you might get hit!
 
@@ -1080,12 +1086,13 @@ This is where you might get hit!
    (No calculus needed.)
 
 5. Extending your observation in Problem 4, explain why the paths
-   traced by the missiles do not depend on their velocity (provided
-   the speed profiles agree).
+   traced by the missiles do not depend on their velocity, provided
+   the speed profiles agree.
 
 6. (Extension) Generalise your result to $n$ homing missiles on the vertices of an
     equilateral polygon, with $n$ sides of length $\ell$.
-	What happens in the limit as $n\to\infty$?
+	What happens in the limit as $n\to\infty$, if we shrink the sides
+    as $\ell/n$?
 	Does you answer make sense?
 
 ----
@@ -1477,7 +1484,7 @@ Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
 By working together, they can decide how to lead students out of the
 scrubland, and into the vast topography of the real mathematical world, with its
-majestic summits, calm valleys, and menagerie of extraordinary creatures.
+majestic summits, calm valleys, and extraordinary creatures.
 From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
 And even more importantly, they can enjoy the simple pleasures of
@@ -1502,12 +1509,12 @@ examples, or both. I've included some brief annotations.
   Howard Gruber. In *Aesthetics in Science*, ed. Judith Weschler. A
   beautiful essay about scientific imagery, intuition, and the
   aesthetics of complexity.
-  I think the blancmange shows us that mathematicians are not immune
-  to the charms of the complex.
+  I think the fascination of the blancmange and other "pathological"
+  examples is related to this aesthetic.
 - [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
   (1940), G. H. Hardy. The classic apologia for pure mathematics.
 - [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. A concise, Soviet-school introduction to physics.
+  (1981), Igor Irodov. A concise, Soviet-style introduction to physics.
 - **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. A playful
   book about the Harvard maths circle, with a very similar philosophy of
   maths teaching via
@@ -1521,8 +1528,7 @@ examples, or both. I've included some brief annotations.
   the right types of intuition, exploration, and insight; aka
   "cognitive media". See also Bret Victor.
 - ["**Sublimation of moth balls**"](https://eric.ed.gov/?id=EJ180235)
-  (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on the
-  moth ball sublimation.
+  (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on moth ball sublimation.
 - **_A Theory of Justice_** (1971), John Rawls. Perhaps the most
   influential book on political philosophy in the 20th century.
 - "**The Mathematical Unconscious**" (1981), Seymour Papert. In
@@ -1532,11 +1538,10 @@ examples, or both. I've included some brief annotations.
 - ["**Up and down the ladder of abstraction**"](http://worrydream.com/LadderOfAbstraction/)
   (2011), Bret Victor. A brilliant essay on the use of interactive (or
   cognitive) media to facilitate abstraction. I
-  fundamentally disagree with Victor's claim that only a select few have the
+  disagree with Victor's claim that only a select few have the
   ["freakish knack"](http://worrydream.com/KillMath/)
   for manipulating symbols, but agree with Victor and Nielsen that
-  cognitive media can and should provide a complementary approach to
-  traditional symbolic methods.
+  cognitive media can and should complement traditional symbolic methods.
 - ["**Abstraction, intuition, and the monad tutorial fallacy**"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
   (2009), Brent Yorgey. Analogies are great, but not a silver
   bullet. Yorgey argues that intuition-building and play should
