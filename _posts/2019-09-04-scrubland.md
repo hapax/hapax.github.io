@@ -529,8 +529,9 @@ derivative on firm footing:
 Each of these statements can be proved by *reductio ad absurdum*: assume the
 consequent doesn't hold, zoom in on a subinterval whose endpoints
 exhibit this failure, and apply the MVT.
+Let's do the first one.
 
-For instance, if $f' = 0$ on $[a, b]$, but $f$ is not constant, then
+If $f' = 0$ on $[a, b]$, but $f$ is not constant, then
 there is a subinterval $[a_1, b_1] \subseteq [a ,b]$, where $f$
 assumes different values at either end, $f(a_1) \neq f(b_1)$.
 But applying the MVT to this subinterval shows that, at some point $c
@@ -540,7 +541,7 @@ $$
 f'(c) = \frac{f(a_1)-f(b_1)}{a_1 - b_1} \neq 0.
 $$
 
-This contradicts our assumption that $f' = 0$ throughout $[a,b]$.
+This contradicts our assumption that $f' = 0$ throughout $[a,b]$. Done!
 
 ---
 
