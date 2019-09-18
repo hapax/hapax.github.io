@@ -741,9 +741,8 @@ I'll do one more example, unrelated to the MVT, but returning to
 inverse trig derivatives.
 This requires a little more symbolic facility from students, but the
 payoff is a gorgeous (and useful) infinite series identity.
-On that note, I want to make the bold and unconventional claim that
-infinite series are a powerful propaganda tool for
-calculus, and deserve a greater place in the high school syllabus.
+
+Infinite series deserve a greater place in the high school syllabus.
 When I first encountered them, I was astounded: they were beautiful
 but otherworldly, like a glittering chunk of meteorite found in the middle
 of a corn field.
@@ -860,8 +859,9 @@ wind.
 As with the blancmange, I think it's worth mentioning the convergence
 issues at play (power series radius of convergence, uniform
 convergence for term-by-term differentiation) without belabouring them.
-On a first exposure, a quagmire of technical conditions will spoil the magic!
-A numerical check can be just as convincing.
+On a first exposure, a quagmire of technical conditions will spoil the
+magic, and a numerical check can be just as convincing.
+
 Is this pedagogically sound?
 I find the hiking analogy helpful here.
 Rigour is something like a heavy *safety harness* for mountain climbing.
@@ -898,8 +898,7 @@ But nothing passes the shrub test!
 Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-It's as if we've entered a Dalí-esque scrubland of random, melting
-objects, labelled by meaningless numbers.
+We've entered a surrealist landscape of melting objects, labelled by irrelevant numbers.
 
 Maths comes from the real world, and we should connect
 students to its living, breathing sources of inspiration and
