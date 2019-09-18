@@ -43,7 +43,7 @@ I thought maths class was about as fun as watching paint
 dry, except that a fresh coat of paint might add colour to the world.
 I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
-Or solve simultaneous equations at the supermarket?
+Or solve simultaneous equations for recreation?
 Finding $x$ was somebody else's problem.
 I scraped by with passes, aping textbook examples and cramming for
 tests, but maths class was a particularly dull game, with rules I
@@ -52,8 +52,8 @@ The situation was so bad that, at age 15, I had to teach myself from
 scratch how to add fractions and multiply negative numbers.
 I had just never internalised those rules.
 
-A few years later in a philosophy course, I
-encountered set theory for the first time, and it blew my gourd.
+Taking philosophy a few years later, I
+encountered set theory for the first time and it blew my gourd.
 First of all, there was the [wonderful paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) of Bertrand Russell about
 the set of all sets which don't contain themselves.
 Is this big set a member of itself or not?
