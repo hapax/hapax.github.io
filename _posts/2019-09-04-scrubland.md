@@ -722,12 +722,15 @@ Everything just gets squished onto the red line.
 To summarise, the blancmange function is *continuous but nowhere
 differentiable*, and a similar iterative construction for any single-kink curve
 gives a function with the same property.
-Some students will savour this pathological dessert, while others will
-not and be in good company. Mathematician
-[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite), for 
-instance, wrote: "I turn with terror and horror from this lamentable
-scourge of functions with no derivatives".
-But the moral is that, by trying to break theorems, ask bold
+Some students will savour this pathological dessert, while others may
+not.
+They will be in good company.
+Towards the end of the 19th century, the mathematician
+[Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
+wrote, with typical French bombast, "I turn with terror and
+horror from this lamentable scourge of functions with no derivatives".
+
+The moral is that, by trying to break theorems, ask bold
 questions, and follow loose
 threads, we often find something amazing lurking in the undergrowth.
 In their own way, monsters can be beautiful.
