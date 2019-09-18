@@ -898,25 +898,24 @@ But nothing passes the shrub test!
 Why does the moth ball decrease at a constant rate?
 What causes the triangle to get bigger?
 Why is the conical angle of the sand pile precisely $71.57^\circ$?
-We've entered a surrealist landscape of melting objects, labelled by irrelevant numbers.
+We've entered a surrealist fresco of melting objects labelled by irrelevant numbers.
 
-Maths comes from the real world, and we should connect
-students to its living, breathing sources of inspiration and
-application.
-They should see where it all comes from!
-In the same way that the material needs of civilisation spur an explorer
-and frame her quest, the needs of science, industry, and
-everyday life spur mathematicians to go out into the landscape and dig
+Maths comes from the real world.
+In the same way that the material needs of civilisation spur on an
+explorer and frame her quest, the needs of
+science, industry, and everyday life spur mathematicians to go out into the landscape and dig
 up patterns fit for purpose.
 From compound interest to chaos, planetary motion to poker, and soap bubbles to
 ciphers, mathematics arises from real world needs.
 Why not let students in on the secret?
 
-There is an even grander secret.
-*Almost everything* has pattern and structure on which mathematical
-tools can be brought to bear.
-For maximum rhetorical impact, I'm going to show this by redoing each
-of the three calculus word problems above.
+For maximum rhetorical impact, I'm going to redo the three word
+problems above.
+We will see that applied and pure maths are not mutually
+exclusive.
+When we dig up structures for real-world use, they often contain puzzles and
+extensions that lead to pure mathematical progress.
+(I hope to return to this theme at length in the future.)
 
 ##### 3.1. Sublime moth balls <a id="sec-3-1" name="sec-3-1"></a>
 
