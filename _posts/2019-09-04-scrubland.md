@@ -39,8 +39,8 @@ Mathematics is freedom.
 <div style="text-align: right"><i>Georg Cantor</i> </div>
 
 In high school, I was one of those kids.
-I thought maths class was about as boring as watching paint
-dry, except that a fresh coat of paint could add colour to the world.
+I thought maths class was about as fun as watching paint
+dry, except that a fresh coat of paint might add colour to the world.
 I harboured no such illusions about mathematics.
 Would I use trigonometry on my tax returns?
 Or solve simultaneous equations at the supermarket?
