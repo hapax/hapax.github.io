@@ -553,17 +553,17 @@ $$
 |\tan^{-1}(x) - \tan^{-1}(y)| = \left|\frac{x - y}{c^2 + 1}\right| \leq |x - y|.
 $$
 
-With a little more work, students can be introduced to
-[contraction mappings](https://en.wikipedia.org/wiki/Contraction_mapping),
-and use this fact about inverse tan to approximate solutions to
-transcendental equations like
+If we introduce
+[contraction mappings](https://en.wikipedia.org/wiki/Contraction_mapping)
+(another conceptually simple and computationally tractable idea), we
+can turn this fact about inverse tan into a scheme for finding
+approximate solutions to transcendental equations like
 
 $$
 x = 0.1 + \tan^{-1} x \quad \Longrightarrow \quad x \approx 0.73.
 $$
 
-This approximation scheme is infinitely more powerful than any of the
-palette-swapped shrubs parading as pure maths in the textbook!
+This is infinitely more powerful than any of the palette-swapped shrubs in the textbook!
 
 ---
 
