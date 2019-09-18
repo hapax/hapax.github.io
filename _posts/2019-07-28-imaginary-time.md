@@ -400,17 +400,6 @@ When we Wick rotate, the signature of the metric becomes Euclidean
 $(-,+,+,+) \to (+,+,+,+)$, so this version of general relativity is called
 *Euclidean gravity*.
 
-Another wrinkle is the fact that the
-resemblance between the black hole and flat space breaks down as we
-move away from the horizon.
-This means that, although the radiation comes out of the black hole as
-if it were a hot lump of coal, by the time it reaches a far-away
-observer the distribution has been altered due to the effects of
-gravity.
-These alterations are called *greybody factors*.
-We won't discuss these any further here, and continue to focus on the
-near-horizon region where the analogy to Rindler space is good.
-
 Imagine an observer far from the black hole, who has proper time $t$
 and sets up spherical coordinates with radial coordinate $r$ and the
 black hole at $r = 0$.
@@ -464,6 +453,15 @@ Substituting these back into the metric, we get
 $$
 ds^2 = \rho^2 \, d\theta^2 + d\rho^2 + \cdots
 $$
+
+The $\cdots$ mean that, as we move away from the horizon, the
+resemblance between the black hole and flat space breaks down.
+Although the black hole looks just like a hot lump of coal at the
+horizon, for an observer far away, spacetime curvature chances the
+observed distribution of radiations.
+These alterations are called *greybody factors*.
+We won't discuss these any further here, and continue to focus on the
+near-horizon region where the analogy to Rindler space is good.
 
 ---
 
