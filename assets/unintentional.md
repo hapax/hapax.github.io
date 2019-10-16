@@ -23,11 +23,12 @@ The eye is the best of artists... A sort of infinitude which it hath, like space
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-I want to extol a certain *aesthetic mood*, based on combinatorial
+I want to extol a certain aesthetic mood, based on combinatorial
 play, coincidence, and an effort to encounter objects in themselves.
-It is a mood which frames aesthetic phenomena as the universe at play.
-I think this is closely related to creativity and science, as I will
-explain below.
+It is a mood which frames aesthetic phenomena (as distinct from art) as the universe at play.
+I think this attitude is closely related to creativity more broadly,
+and scientific creativity in particular.
+It is also closely connected to Nature and natural beauty, but 
 
 This attitudes contrasts with the way we usually treat objects --- as
 *symbols* (or more properly signs) pointing to absent referents.
