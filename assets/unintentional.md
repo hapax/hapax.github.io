@@ -28,7 +28,8 @@ play, coincidence, and an effort to encounter objects in themselves.
 It is a mood which frames aesthetic phenomena (as distinct from art) as the universe at play.
 I think this attitude is closely related to creativity more broadly,
 and scientific creativity in particular.
-It is also closely connected to Nature and natural beauty, but 
+There is a close connection to natural beauty and the sublime, but for
+reasons of space I will softpedal this link.
 
 This attitudes contrasts with the way we usually treat objects --- as
 *symbols* (or more properly signs) pointing to absent referents.
