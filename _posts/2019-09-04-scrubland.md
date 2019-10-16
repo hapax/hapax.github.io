@@ -36,7 +36,7 @@ date:  2019-09-04
 Mathematics is freedom.
 </span>
 
-<div style="text-align: right"><i>Georg Cantor</i> </div>
+<div style="text-align: right"><i>Robert and Ellen Kaplan</i> </div>
 
 In high school, I was one of those kids.
 I thought maths class was about as fun as watching paint

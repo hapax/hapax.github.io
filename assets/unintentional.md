@@ -2,28 +2,29 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The music of objects"
+title:  "White magic"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
 
-**September 11, 2019.** *TODO*
+**October 15, 2019.**
 
 ## Introduction
 
 <span style="padding-left: 20px; display:block">
-All I want to perform is white magic.
+Not monstrously, but in wonderful variations. All I want to perform is white magic.
 </span>
 
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 <span style="padding-left: 20px; display:block">
-The eye is the best of artists.
+A sort of infinitude which it hath, like space and time, make all matter gay.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-
+Joseph Cornell made art from rubbish.
+organising found object
 
 ## References
 
@@ -78,3 +79,7 @@ time, make all matter gay.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
+
+<span style="padding-left: 20px; display:block">
+The eye is the best of artists.
+</span>
