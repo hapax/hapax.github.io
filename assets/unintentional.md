@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The white magic of the commonplace"
+title:  "Everyday white magic"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
