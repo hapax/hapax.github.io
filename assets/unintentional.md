@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "White magic"
+title:  "The white magic of the commonplace"
 categories: [Art, Philosophy]
 date:  2019-08-05
 ---
@@ -24,7 +24,16 @@ A sort of infinitude which it hath, like space and time, make all matter gay.
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
 Joseph Cornell made art from rubbish.
-organising found object
+He laboriously collected used books, postcards, toys, household
+objects, some
+
+
+<figure>
+    <div style="text-align:center"><img src
+    ="https://www.ibiblio.org/wm/paint/auth/cornell/cornell.cassiopeia-1r.jpg" width="45%"/>
+		    <figcaption><i>Cassiopeia 1</i> (1960).</figcaption>
+	</div>
+	</figure>
 
 ## References
 
