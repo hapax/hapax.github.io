@@ -23,9 +23,10 @@ A sort of infinitude which it hath, like space and time, make all matter gay.
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-Joseph Cornell made art from rubbish.
-He laboriously collected used books, postcards, toys, household
-objects, and turned them into three-dimensional collage or *assemblage*.
+Joseph Cornell made art from leftovers.
+Over a lifetime, mostly spent living with his mother and disabled
+brother in a small apartment in Queens, he collected used books,
+postcards, toys, household objects, and turned them into three-dimensional collage or *assemblage*.
 
 
 <figure>
