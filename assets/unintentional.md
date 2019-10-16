@@ -25,15 +25,13 @@ The eye is the best of artists... A sort of infinitude which it hath, like space
 
 I want to extol a certain aesthetic mood, based on combinatorial
 play, coincidence, and an effort to encounter objects in themselves.
-In this light, aesthetic phenomena can be framed as the universe at play.
-This attitude is closely related to creativity, and scientific
-creativity in particular, as well as natural beauty and the sublime.
+In this light, aesthetic phenomena can be framed as *the universe at play*.
+This attitude is closely related to creativity (scientific creativity
+in particular) as well as natural beauty and the sublime.
 For reasons of space, I will focus on the former, but nature will
 be one of our leitmotifs.
 
-Object usually stand for something else.
-They are *signs*, pointing to an absent referent established by
-convention, 
+When disposed by human artists, objects usually stand for something else.
 
 ## White magic
 
