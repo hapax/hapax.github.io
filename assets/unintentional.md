@@ -25,12 +25,12 @@ A sort of infinitude which it hath, like space and time, make all matter gay.
 
 Joseph Cornell made art from rubbish.
 He laboriously collected used books, postcards, toys, household
-objects, some
+objects, and turned them into three-dimensional collage or *assemblage*.
 
 
 <figure>
     <div style="text-align:center"><img src
-    ="https://www.ibiblio.org/wm/paint/auth/cornell/cornell.cassiopeia-1r.jpg" width="45%"/>
+    ="https://www.ibiblio.org/wm/paint/auth/cornell/cornell.cassiopeia-1r.jpg" width="70%"/>
 		    <figcaption><i>Cassiopeia 1</i> (1960).</figcaption>
 	</div>
 	</figure>
