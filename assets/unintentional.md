@@ -31,7 +31,11 @@ in particular) as well as natural beauty and the sublime.
 For reasons of space, I will focus on the former, but nature will
 be one of our leitmotifs.
 
-When disposed by human artists, objects usually stand for something else.
+When disposed by human artists, objects usually stand for something
+else.
+For Proust, the
+[madeleine](https://en.wikipedia.org/wiki/Madeleine_(cake)) symbolised
+memory; 
 
 ## White magic
 
