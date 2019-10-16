@@ -18,16 +18,20 @@ Not monstrously, but in wonderful variations. All I want to perform is white mag
 <div style="text-align: right"><i>Joseph Cornell</i> </div>
 
 <span style="padding-left: 20px; display:block">
-A sort of infinitude which it hath, like space and time, make all matter gay.
+The eye is the best of artists... A sort of infinitude which it hath, like space and time, make all matter gay.
 </span>
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
+
+I want to argue for a certain aesthetic mood.
+It is related
+
+## White magic
 
 Joseph Cornell made art from leftovers.
 Over a lifetime, mostly spent living with his mother and disabled
 brother in a small apartment in Queens, he collected used books,
 postcards, toys, household objects, and turned them into three-dimensional collage or *assemblage*.
-
 
 <figure>
     <div style="text-align:center"><img src
