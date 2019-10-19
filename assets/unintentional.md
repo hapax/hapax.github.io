@@ -23,19 +23,18 @@ The eye is the best of artists... A sort of infinitude which it hath, like space
 
 <div style="text-align: right"><i> Ralph Waldo Emerson</i> </div>
 
-I want to extol a certain aesthetic mood, based on combinatorial
-play, coincidence, and an effort to encounter objects in themselves.
-In this light, aesthetic phenomena can be framed as *the universe at play*.
+I want to extol a certain aesthetic mood. based on combinatorial
+play, coincidence, and a philosophy of encounter objects in themselves.
+Viewed in this light, aesthetic phenomena can be seen as *the universe at play*.
 This attitude is closely related to creativity (scientific creativity
 in particular) as well as natural beauty and the sublime.
-For reasons of space, I will focus on the former, but nature will
-be one of our leitmotifs.
 
 When disposed by human artists, objects usually stand for something
 else.
-For Proust, the
-[madeleine](https://en.wikipedia.org/wiki/Madeleine_(cake)) symbolised
-memory; 
+
+<span style="padding-left: 20px; display:block">
+It is a symbol of Irish art. The cracked looking glass of the servant.
+</span>
 
 ## White magic
 
@@ -108,3 +107,12 @@ time, make all matter gay.
 <span style="padding-left: 20px; display:block">
 The eye is the best of artists.
 </span>
+
+## Extra
+
+For reasons of space, I will focus on the former, but nature will
+be one of our leitmotifs.
+
+For Proust, the
+[madeleine](https://en.wikipedia.org/wiki/Madeleine_(cake)) symbolised
+memory;

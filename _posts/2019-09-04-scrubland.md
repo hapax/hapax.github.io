@@ -279,6 +279,8 @@ on the margins don't.
 It also seems plausible that by making class more interesting for the
 least-engaged, we make it more interesting for everyone, the "trickle
 up" effect Rawls thought applied to social goods generally.
+The best statistical evidence that it works is the
+[JUMP method](https://jumpmath.org/), pioneered by John Mighton.
 
 A game-theoretic argument for the maximin test is the complexity of teaching.
 Besides the choice of material (which I'm emphasising here), there's
@@ -1365,8 +1367,6 @@ some ideas about classroom implementation.
 
 #### How do students develop basic skills?
 
-How do students develop basic
-skills?
 As mentioned earlier, drill is much more bearable when there are real
 applications on the horizon.
 But I suspect even drill can be made more palatable with a little effort.
@@ -1419,12 +1419,15 @@ and a rich history of real-world motivation and use.
 Teaching trigonometry?
 Perhaps Euclid is a little dry, but what about *non-Euclidean* geometry?
 This is a wonderful place for guided discovery and exploration.
+(Robert and Ellen Kaplan, on the other hand, have designed some Math
+Circle courses around the special properties of triangles. See their
+book *Out of
+the Labyrinth*.)
 And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
 did in 100 BC.
-What about algebra?
-Try the unsolvability of the quintic, compass and straightedge
+For algebra, try the unsolvability of the quintic, compass and straightedge
 constructions, and applications to dimensional analysis.
 Logarithms?
 Here we have the density of prime numbers, slide rules, algorithmic
@@ -1448,10 +1451,10 @@ new skills, these goals are not at odds!
 In the approach I'm suggesting, the role of the teacher seems to
 be supplanted by a curriculum full of sparkling ideas.
 But learning is a relational endeavour, and the teacher remains an
-essential part of the process.
+essential part --- probably *the* essential part --- of the process.
 It is through the teacher that trust is established, students are
-engaged, and the subject comes alive, not to mention the careful
-guidance they provide through the process of learning to walk.
+engaged, and the subject comes alive.
+They also provide careful guidance and feedback during the process of learning to walk.
 
 For all of this to happen, teachers need to be on top of the material.
 If the syllabus now encompasses continuous but nowhere differentiable
@@ -1467,8 +1470,8 @@ Their enthusiasm will be infectious.
 #### What's next?
 
 Instead of *replacing* the curriculum (an ambitious and long-term
-goal), paths into the landscape can be offered as a complement to
-traditional textbooks.
+goal), paths out of the scrubland can be offered as a complement to
+standard material.
 I'm currently [busy with a PhD](https://hapax.github.io/research), but
 in the near future, I hope to start assembling a database of
 extensions, theorems and applications, embedded in a constructivist
@@ -1484,17 +1487,17 @@ Scientists and mathematicians are domain experts, with specialised
 knowledge, taste, and judgment.
 By working together, they can decide how to lead students out of the
 scrubland, and into the vast topography of the real mathematical world, with its
-majestic summits, calm valleys, and extraordinary creatures.
+majestic summits, calm valleys and extraordinary wildlife.
 From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
 And even more importantly, they can enjoy the simple pleasures of
-mathematics which have for so long, and so unnecessarily, been denied to
+mathematics, which have for so long, and so unnecessarily, been denied to
 the majority.
 
 ## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
-Here are some resources which informed my ideas, were used for illustrative
-examples, or both. I've included some brief annotations.
+Here are some books and articles I found useful or inspiring while
+writing this post. I've included some brief annotations.
 
 - ["**Self-organised criticality: an explanation of 1/*f* noise**"](http://cqb.pku.edu.cn/tanglab/pdf/1987-8.pdf)
   (1987), Per Bak, Chao Tang and Kurt Weisenfeld. An explosive paper
@@ -1510,23 +1513,27 @@ examples, or both. I've included some brief annotations.
   beautiful essay about scientific imagery, intuition, and the
   aesthetics of complexity.
   I think the fascination of the blancmange and other "pathological"
-  examples is related to this aesthetic.
+  examples holds the same appeal as the tangle of roots on a riverbank
+  (motivating the analogy of "wildlife").
 - [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
-  (1940), G. H. Hardy. The classic apologia for pure mathematics.
+  (1940), G. H. Hardy. The classic apologia for pure
+  mathematics. Hardy somewhat amusingly insists on the uselessness of
+  special relativity (atomic energy) and number theory (cryptography),
+  which I think goes to show that use and beauty will always be intertwined.
 - [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. A concise, Soviet-style introduction to physics.
-- **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. A playful
-  book about the Harvard maths circle, with a very similar philosophy of
-  maths teaching via
-  [guided discovery](http://edutechwiki.unige.ch/en/Guided_discovery_learning)
-  and play.
+  (1981), Igor Irodov. A concise, Soviet-style introduction to mechanics.
+- **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. An
+  inspiring manifesto on the Kaplans'
+  method for teaching mathematics via play and exploration in the
+  Harvard Maths Circle. It is much
+  more radical than the approach I am suggesting here.
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
-  (2003), John Mighton. An exposition of the JUMP method.
+  (2003), John Mighton. An exposition of the JUMP method, a
+  constructivist framework for teaching everyone how to walk.
+  The data from the JUMP method shows that a maximin ethic really does benefit everyone.
 - ["**Reinventing explanation**"](http://michaelnielsen.org/reinventing_explanation/)
   (2014), Michael Nielsen. An inspiring and comprehensive look at
-  new ways to explain science using representations which encourage
-  the right types of intuition, exploration, and insight; aka
-  "cognitive media". See also Bret Victor.
+  new ways to explain science using "cognitive media". (See also Bret Victor.)
 - ["**Sublimation of moth balls**"](https://eric.ed.gov/?id=EJ180235)
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on moth ball sublimation.
 - **_A Theory of Justice_** (1971), John Rawls. Perhaps the most

@@ -308,6 +308,8 @@ classical coordinates for the fermion.
   Z[\beta]=2\cosh \left[\frac{\beta\omega}{2}\right].
   $$
 
+---
+
 **Exercise 2.** (For the author) *Anyone for anyons?*
 
 Anyons are particles with *fractional* spin $a$.

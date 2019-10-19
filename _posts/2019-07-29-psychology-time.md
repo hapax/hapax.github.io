@@ -15,14 +15,6 @@ date:  2019-07-29
 
 ## Introduction
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/yeti.png"/>
-		    <figcaption><i>A Lesson is Learned but the Damage is
-    Irreversible</i>. David Hellman and Dale Beran, 2004. </figcaption>
-	</div>
-	</figure>
-
 If physics is to be believed, there is nothing special about the
 present.
 "Right now" is similar to the statement "right here", but it refers to
@@ -46,6 +38,14 @@ closely bound up with *causation*.
 Since experience is a causal affair, with earlier brain states
 influencing later ones and not the other way round, this is as it
 should be.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/yeti.png"/>
+		    <figcaption>From <i>A Lesson is Learned but the Damage is
+    Irreversible</i>. David Hellman and Dale Beran. </figcaption>
+	</div>
+	</figure>
 
 But there is more to the peculiar psychology of the present.
 While the direction of our movement through time is easily explained,
@@ -439,8 +439,7 @@ We should consider carefully what flavours we choose.
 For a different take on these issues, see my sci-fi short story
 ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf).
 It was originally submitted to the
-[Ubyssey sci-fi competition 2019](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/)
-under a slightly different name.
+[Ubyssey sci-fi competition 2019](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 
 ## References
 
