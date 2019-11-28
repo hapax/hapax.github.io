@@ -4,6 +4,24 @@
 [//]: # permalink: /research/
 ---
 
+I study string theory and quantum gravity, with a particular focus
+on the AdS/CFT correspondence.
+This is the crazy-sounding proposition that
+quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
+equivalent to a regular quantum theory in *d* dimensions.
+For instance, a 3D black hole can be simulated on a 2D quantum computer!
+
+<figure>
+    <div style="text-align:center"><img src ="/images/er=epr.png"
+    width="55%" />
+		    <figcaption><i>A 3D black hole and a 2D quantum
+    computer.</i></figcaption>
+	</div>
+	</figure>
+
+*Coming soon*: a [5 levels](https://video.wired.com/series/5-levels)
+ style explanation of my research.
+
 ### Technical overview
 
 - [*Black hole microstate cosmology*](https://arxiv.org/abs/1810.10601)

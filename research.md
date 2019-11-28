@@ -8,24 +8,29 @@ permalink: /research/
 
 I study string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
-This is the crazy-sounding proposition that
-quantum gravity in (*d*+1)-dimensional, saddle-shaped space is exactly
-equivalent to a regular quantum theory in *d* dimensions.
+This is the wacky proposition that
+gravity in certain (*d*+1)-dimensional spacetimes can be
+described by non-gravitational quantum mechanics in *d* dimensions.
 For instance, a 3D black hole can be simulated on a 2D quantum computer!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
     width="55%" />
-		    <figcaption><i>A 3D black hole and a 2D quantum
+		    <figcaption><i>A 3D black hole on a 2D quantum
     computer.</i></figcaption>
 	</div>
 	</figure>
 
-*Coming soon*: a [5 levels](https://video.wired.com/series/5-levels)
- style explanation of my research.
+Right now, I'm interested in how this correspondence changes when we
+add boundaries to the quantum mechanical system, and what insights
+this can provide into various puzzles regarding black holes.
 
 #### Papers
 
+- ["Information radiation in BCFT models of black holes"](https://arxiv.org/abs/1910.12836)
+  (2019). Moshe Rozali,
+  [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
+  Mark Van Raamsdonk, Christopher Waddell, David Wakeham.
 - ["Black hole microstate cosmology"](https://link.springer.com/article/10.1007/JHEP07(2019)065)
   (2018). [Sean Cooper](https://seancooper.info/),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/),
