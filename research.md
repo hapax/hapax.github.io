@@ -51,7 +51,7 @@ this can provide into various puzzles regarding black holes.
   [gravitational wavers](https://www.ozgrav.org/),
   at the University of Melbourne.
 
-### Other technical notes and talks
+### Technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A talk on both notions to the neutron star
@@ -61,13 +61,6 @@ hapax.github.io }}/assets/strings-project.pdf) (2018). In string
 theory, loop diagrams are Riemann surfaces, leading to a beautiful
 connection between scattering and geometry. Final project for a string
 theory course.
-- [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
-  (2018). There is a (sort of) practical quantum algorithm for
-  extracting information from a black hole. UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
-- [*Safely falling into black holes*](assets/uncomplexity.md)
-  (2017). Thinking of black holes as quantum computers, the
-  remaining amount of useful computation equals the volume of "safe"
-  spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
 - [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). Early quantum wrinkles equal
   late-time structure! Notes on inflation for a student seminar at the University of Melbourne.

@@ -90,3 +90,11 @@ Here are a few accessible articles on the group's activities:
 - [Quantum entanglement and the geometry of spacetime](https://arxiv.org/pdf/1807.08790.pdf), Matthew Headrick (2018)
 - [Tangled Up in Spacetime](https://www.scientificamerican.com/article/tangled-up-in-spacetime/), Clara Moskowitz, *Scientific American* (2016)
 - [How Quantum Pairs Stitch Space-Time](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428/), Jennifer Ouellette, *Quanta* (2015)
+
+- [*Unscrambling Hawking radiation*](assets/kitaev-yoshida.md)
+  (2018). There is a (sort of) practical quantum algorithm for
+  extracting information from a black hole. UBC strings group meeting on [Kitaev and Yoshida (2017)](https://arxiv.org/pdf/1710.03363.pdf).
+- [*Safely falling into black holes*](assets/uncomplexity.md)
+  (2017). Thinking of black holes as quantum computers, the
+  remaining amount of useful computation equals the volume of "safe"
+  spacetime left to jump into. UBC strings group presentation on [Zhao (2017)](https://arxiv.org/pdf/1711.03125.pdf).
