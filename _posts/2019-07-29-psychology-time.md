@@ -363,8 +363,8 @@ Like the moving arrow, a "mental velocity" cannot make sense without
 units.
 Luckily, our brains are equipped with a bevy of physiological
 processes which can be used to measure time (circulation, transduction
-networks, and so forth), and input channels with thresholds,
-capacities, and so forth, which measure the amount of sensation.
+networks, and so forth), along with input channels whose thresholds
+and capacities can measure the amount of sensation.
 It seems plausible that the subjective rate of experience
 is some function of the strength, nature and speed of sensory input,
 relative to these physiologically defined units of measurement, along
