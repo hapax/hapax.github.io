@@ -109,7 +109,9 @@ $$
 
 We call the $\sigma_i$ the *blocks* of $\sigma$. We label the collection of all such partitions $P(S)$. If $\sigma, \tau \in P(S)$, and each $\sigma_i \subseteq \tau_j$ for some $j$ (so each block of $\sigma$ is in a block of $\tau$) we say that $\sigma$ is *finer* than $\tau$, or $\tau$ is *coarser* than $\sigma$, and write $\sigma \leq \tau$. This relation turns $P(S)$ into a special algebraic object called a lattice.
 
-A *lattice* $(\mathcal{L}, \leq)$ is a partially ordered set where any two elements have a greatest lower bound and a least upper bound, also called the *meet* and *join *respectively. We recall that a partial order $\leq$ is *reflexive*, *transitive* and *antisymmetric:*
+A *lattice* $(\mathcal{L}, \leq)$ is a partially ordered set where any
+two elements have a greatest lower bound and a least upper bound, also
+called the *meet* and *join* respectively. We recall that a partial order $\leq$ is *reflexive*, *transitive* and *antisymmetric:*
 
 $$
 \begin{align*}
