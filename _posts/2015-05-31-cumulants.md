@@ -24,7 +24,7 @@ $$
 M_X(t) = \mathbb{E}(e^{tX}) = \sum_{k=0}^\infty \mathbb{E}(X^k)\frac{t^k}{k!} = \sum_{k=0}^\infty m_k\frac{t^k}{k!}.
 $$
 
-The Taylor coefficient $m_k$ is called the $k$th* moment* of the distribution. Integral combinations of moments give us the mean, variance, skew, kurtosis, etc, of the distribution. A closely related object is the *cumulant-generating function</i> $g_X(t)$, given by
+The Taylor coefficient $m_k$ is called the $k$th *moment* of the distribution. Integral combinations of moments give us the mean, variance, skew, kurtosis, etc, of the distribution. A closely related object is the *cumulant-generating function* $g_X(t)$, given by
 
 $$
 g_X(t) = \log M_X(t) = \sum_{k=0}^\infty \kappa_k\frac{t^k}{k!}.
