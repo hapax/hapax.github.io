@@ -38,19 +38,6 @@ this can provide into various puzzles regarding black holes.
   [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv: [1810.10601](https://arxiv.org/abs/1810.10601).
 
-#### Posters and talks
-
-- [*Black holes and large c BCFTs*](assets/bcft2-poster.pdf) (2019). Poster for
-  [Quantum Information and String Theory 2019](https://www2.yukawa.kyoto-u.ac.jp/~qist2019/index.php),
-  held at the
-  [YITP](https://www.kyoto-u.ac.jp/en/research/fields/research-institutes/yukawa-institute-for-theoretical-physics-yitp.html),
-  Kyoto University, Japan.
-- [*Boundary state black holes*](assets/melb-18-slides-short.pdf)
-  (2018). Seminar delivered once to
-  [particle theorists](http://www.coepp.org.au/), and again to
-  [gravitational wavers](https://www.ozgrav.org/),
-  at the University of Melbourne.
-
 ### Technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
