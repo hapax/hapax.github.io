@@ -367,8 +367,7 @@ networks, and so forth), along with input channels whose thresholds
 and capacities can measure the amount of sensation.
 It seems plausible that the subjective rate of experience
 is some function of the strength, nature and speed of sensory input,
-relative to these physiologically defined units of measurement, along
-with how efficiently they can stored in sensory and short-term memory.
+relative to these physiologically defined units of measurement and how efficiently they can stored in memory.
 
 #### The identity wave train
 
