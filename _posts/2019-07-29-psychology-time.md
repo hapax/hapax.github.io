@@ -378,8 +378,8 @@ A life, it seems, is a state of mental flux which is created at birth,
 has some experiences, and is destroyed
 at death.
 "Present David" undertakes actions (e.g. exercising) on the
-understanding that "future David" will benefit, and curses "past
-David" for his lack of foresight.
+understanding that "future David" will benefit, and congratulates
+himself for the beneficial actions of "past David", like flossing his teeth.
 The current slice expects to become the future slice, and believes it
 was once the past slice.
 
