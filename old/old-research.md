@@ -4,6 +4,12 @@
 [//]: # permalink: /research/
 ---
 
+- [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
+  contributed to the UBC high school
+  [Physics Olympics](https://physoly.phas.ubc.ca/). My problems featured in a local
+  [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
+  on the event!
+
 I study string theory and quantum gravity, with a particular focus
 on the AdS/CFT correspondence.
 This is the crazy-sounding proposition that

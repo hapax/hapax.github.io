@@ -57,11 +57,6 @@ I co-run the
 
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
   gravity and black holes for interested laypeople.
-- [*Quizzics*](assets/quzzics.pdf) (2019). Multiple choice questions
-  contributed to the UBC high school
-  [Physics Olympics](https://physoly.phas.ubc.ca/). My problems featured in a local
-  [newspaper article](https://thetyee.ca/Culture/2019/03/13/Physics-Olympics-Spectating/)
-  on the event!
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
   (2017). An introduction to quantum mechanics and quantum key
   distribution, given at the
