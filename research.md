@@ -11,8 +11,8 @@ Quantum mechanics describes small, fuzzy things like electrons
 orbiting the nucleus, or [cats trapped in radioactive boxes](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat).
 But if we add many of these small fuzzy things together, they must be
 described by *both* gravity and quantum mechanics.
-It turns out these theories are very hard to reconcile, and the
-combined theory, *quantum gravity*, remains one of the holy grails of
+It turns out these theories are very hard to reconcile, and a
+combined theory of *quantum gravity* remains one of the holy grails of
 theoretical physics.
 
 Although quantum gravity in full generality is still very hard and mysterious,
