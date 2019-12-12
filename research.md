@@ -15,11 +15,15 @@ It turns out these theories are very hard to reconcile, and the
 combined theory, *quantum gravity*, remains one of the holy grails of
 theoretical physics.
 
-We actually have a toy model of quantum gravity called the *AdS/CFT
+Although quantum gravity in full generality is still very hard and mysterious,
+we have a simple, somewhat miraculous example called the *AdS/CFT
 correspondence*.
 It tells us that quantum gravity in (*d+1*)-dimensions (AdS) can sometimes
 be reduced quantum mechanics in *d* dimensions (CFT).
 For instance, a 3D black hole can be run on a 2D quantum computer!
+Although this is expected to be a general feature of quantum gravity,
+in AdS/CFT it is realised in a simple and beautiful way: the quantum
+mechanical system lives on the *boundary* of spacetime.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -29,32 +33,28 @@ For instance, a 3D black hole can be run on a 2D quantum computer!
 	</div>
 	</figure>
 
-Although it is much simple than our universe, AdS/CFT is a gift that
-keeps on giving.
-Often, we use it to learn about quantum gravity, asking questions
-like: what goes on inside a black hole? how did the universe come into
-being? and what is spacetime anyway?
-Sometimes, we twiddle some knobs in the correspondence, and use it to
-learn about *classical* gravity.
+AdS/CFT is a gift that keeps on giving.
+It helps us approach deep questions in quantum gravity, like: what
+goes on inside a black hole? and what is spacetime anyway?
+But as we twiddle knobs in the correspondence, we end up getting new
+and surprising insights into *classical* gravity.
 And finally, because it's easier to do calculations in classical
-gravity than quantum mechanics, we can even use AdS/CFT to learn about
-regular quantum mechanics!
+gravity than quantum mechanics, we use AdS/CFT to do our quantum
+mechanics homework!
 
-But though it is the simplest setting for quantum gravity, AdS/CFT is
-far from understood.
-At the moment, there are two related questions I'm pursuing:
-1. What can AdS/CFT tell us about black holes and physics behind the horizon?
-2. What happens if we add boundaries to the quantum mechanical system
-   used in the correspondence?
-The first question is interesting because black holes are cool but
-puzzling.
-The second question may sound random, but turns out to be a simple
+AdS/CFT is still far from understood, and with many mysterious and
+exciting frontiers for adventurous young theorists.
+At the moment, I'm focused on two related questions:
+1. What can AdS/CFT tell us about black holes and physics behind the
+   horizon?
+2. What happens if we add boundaries to the quantum mechanical system?
 
-For more details, check out these introductory notes, which come in
-both technical and non-technical flavours:
-
-- [Coming soon!](assets/hol-informal)
-- [Coming soon!](assets/hol-formal)
+The first question is obviously interesting; black holes are cool.
+The second question turns out to be related to the first in surprising
+ways, since adding a boundary can lead to simple models of various
+puzzling aspects of black hole physics.
+For more details, watch this space: introductory notes (in technical
+and non-technical flavours) coming soon!
 
 #### Papers
 
