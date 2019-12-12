@@ -16,7 +16,7 @@ combined theory of *quantum gravity* remains one of the holy grails of
 theoretical physics.
 
 Although quantum gravity in full generality is quite mysterious,
-we have a simple, somewhat miraculous example called the *AdS/CFT
+we have a somewhat miraculous example called the *AdS/CFT
 correspondence*.
 It tells us that quantum gravity in a special (*d+1*)-dimensional
 spacetime (AdS) is exactly equivalent to quantum mechanics in *d* dimensions (CFT).
