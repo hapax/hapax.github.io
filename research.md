@@ -41,7 +41,7 @@ and surprising insights into *classical* gravity.
 And because classical gravity calculations are easier than quantum ones, we can use AdS/CFT to sneakily do our
 quantum mechanics homework!
 
-AdS/CFT is still far from understood.
+AdS/CFT is still far from understood, with many active frontiers.
 At the moment, I'm focused on two related questions:
 1. What can AdS/CFT tell us about black holes and physics behind the
    horizon?
