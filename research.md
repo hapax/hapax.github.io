@@ -18,8 +18,8 @@ theoretical physics.
 Although quantum gravity in full generality is still very hard and mysterious,
 we have a simple, somewhat miraculous example called the *AdS/CFT
 correspondence*.
-It tells us that quantum gravity in (*d+1*)-dimensions (AdS) can sometimes
-be reduced quantum mechanics in *d* dimensions (CFT).
+It tells us that quantum gravity in a special (*d+1*)-dimensional
+spacetime (AdS) is exactly equivalent to quantum mechanics in *d* dimensions (CFT).
 For instance, a 3D black hole can be run on a 2D quantum computer!
 Although this is expected to be a general feature of quantum gravity,
 in AdS/CFT it is realised in a simple and beautiful way: the quantum
