@@ -15,7 +15,7 @@ It turns out these theories are very hard to reconcile, and a
 combined theory of *quantum gravity* remains one of the holy grails of
 theoretical physics.
 
-Although quantum gravity in full generality is still very hard and mysterious,
+Although quantum gravity in full generality is quite mysterious,
 we have a simple, somewhat miraculous example called the *AdS/CFT
 correspondence*.
 It tells us that quantum gravity in a special (*d+1*)-dimensional
