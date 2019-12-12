@@ -27,12 +27,21 @@ this can provide into various puzzles regarding black holes.
 
 #### Papers
 
-- "Brane dynamics from the first law of entanglement" (2019). [Sean Cooper](https://seancooper.info/), [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0), [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David Wakeham.
-- ["Information radiation in BCFT models of black holes"](https://arxiv.org/abs/1910.12836)
+- **Brane dynamics from the first law of entanglement**
+  (2019). [Sean Cooper](https://seancooper.info/),
+  [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David Wakeham. *In
+  brief*: A quantum generalisation of the first law of thermodynamics
+  can be used, via holography, to constrain the behaviour of
+  gravitational boundaries.
+- [**Information radiation in BCFT models of black holes**](https://arxiv.org/abs/1910.12836)
   (2019). Moshe Rozali,
   [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
-  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html), Christopher Waddell, David Wakeham.
-- ["Black hole microstate cosmology"](https://link.springer.com/article/10.1007/JHEP07(2019)065)
+  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
+  Christopher Waddell, David Wakeham. arXiv: 1910.12836. *In brief*:
+  We explore some simple examples of black hole-like spacetimes built
+  using boundaries, 
+- [**Black hole microstate cosmology**](https://link.springer.com/article/10.1007/JHEP07(2019)065)
   (2018). Sean Cooper,
   Moshe Rozali,
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
