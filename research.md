@@ -51,10 +51,10 @@ At the moment, I'm focused on two related questions:
 The first question is obviously interesting; black holes are cool and
 super weird.
 While the second question sounds technical, it turns out to be
-related: adding a boundary can provides simple, tractable models of
+related to the first: adding a boundary often provides simple, tractable models of
 puzzling aspects of black hole physics.
 So by answering the second question, we get technical tools which help
-us with the first!
+us learn more about black holes!
 
 #### Papers
 
