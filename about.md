@@ -13,7 +13,7 @@ I'm interested in gravity, quantum information and black holes.
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
 
-Before moving to Vancouver in Fall 2017, I finished a masters degree
+Before moving to Vancouver in Fall 2017, I completed a masters degree
 in particle physics at the
 [University of Melbourne](https://www.unimelb.edu.au/).
 Further details can be found in my CV (available on request).
