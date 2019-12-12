@@ -74,7 +74,7 @@ us with the first!
  Mark Van Raamsdonk,
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv: [1810.10601](https://arxiv.org/abs/1810.10601).
 
-### Technical notes and talks
+### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A talk on both notions to the neutron star
