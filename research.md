@@ -43,7 +43,7 @@ gravity than quantum mechanics, we use AdS/CFT to secretly do our quantum
 mechanics homework!
 
 AdS/CFT is still far from understood, and with many mysterious and
-exciting frontiers for adventurous young theorists.
+exciting frontiers.
 At the moment, I'm focused on two related questions:
 1. What can AdS/CFT tell us about black holes and physics behind the
    horizon?
