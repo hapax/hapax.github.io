@@ -13,8 +13,8 @@ I co-run the
   Email me if you'd like to get involved!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/donut.png" width="70%" />
-    <figcaption><i>Perturbed by Jupiter, the Earth moves in a donut-shaped orbit.</i></figcaption>
+    <div style="text-align:center"><img src ="/images/cow.png" width="70%" />
+    <figcaption><i>Spherical cows may happen.</i></figcaption>
 	</div>
 </figure>
 
