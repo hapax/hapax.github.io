@@ -49,12 +49,13 @@ At the moment, I'm focused on two related questions:
    horizon?
 2. What happens if we add boundaries to the quantum mechanical system?
 
-The first question is obviously interesting; black holes are cool.
-The second question turns out to be related to the first in surprising
-ways, since adding a boundary can lead to simple models of various
+The first question is obviously interesting; black holes are cool and
+super weird.
+While the second question sounds technical, it turns out to be
+related: adding a boundary can provides simple, tractable models of
 puzzling aspects of black hole physics.
-For more details, watch this space: introductory notes (in technical
-and non-technical flavours) coming soon!
+So by answering the second question, we get technical tools which help
+us with the first!
 
 #### Papers
 
