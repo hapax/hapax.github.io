@@ -38,8 +38,8 @@ It helps us approach deep questions in quantum gravity, like: what
 goes on inside a black hole? and what is spacetime anyway?
 But as we twiddle knobs in the correspondence, we end up getting new
 and surprising insights into *classical* gravity.
-And finally, because it's easier to do calculations in classical
-gravity than quantum mechanics, we use AdS/CFT to do our quantum
+And because it's easier to do calculations in classical
+gravity than quantum mechanics, we use AdS/CFT to secretly do our quantum
 mechanics homework!
 
 AdS/CFT is still far from understood, and with many mysterious and
