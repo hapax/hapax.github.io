@@ -32,10 +32,6 @@ I co-run the
 
 ### Teaching
 
-- [*Random walks with hungry bacteria*]({{
-  hapax.github.io}}/assets/random.pdf) (2018). A long problem set
-  on random walks, from the perspective of a hungry *E. coli*
-  bacterium.
 - *Physical systems* (2016). A
   [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on wave mechanics and Fourier analysis. I wrote the tutorials and
@@ -56,7 +52,10 @@ I co-run the
 ### Other outreach
 
 - [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
-  gravity and black holes for interested laypeople.
+gravity and black holes for interested laypeople.
+- [*Random walks with hungry bacteria*]({{
+  hapax.github.io}}/assets/random.pdf) (2018). A long problem set
+  on random walks, from the perspective of a hungry *E. coli* bacterium.
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
   (2017). An introduction to quantum mechanics and quantum key
   distribution, given at the
