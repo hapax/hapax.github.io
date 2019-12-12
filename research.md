@@ -45,7 +45,7 @@ AdS/CFT is still far from understood, with many active research frontiers.
 At the moment, I'm interested in two related questions:
 1. What can AdS/CFT tell us about black holes and physics behind the
    horizon?
-2. What happens if we add boundaries to the quantum mechanical system?
+2. What happens if we add boundaries to the quantum mechanical (CFT) system?
 
 The first question is obviously interesting because black holes are cool and
 super weird.
