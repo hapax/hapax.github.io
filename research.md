@@ -47,7 +47,7 @@ At the moment, I'm focused on two related questions:
    horizon?
 2. What happens if we add boundaries to the quantum mechanical system?
 
-The first question is obviously interesting; black holes are cool and
+The first question is obviously interesting because black holes are cool and
 super weird.
 While the second question sounds technical, it turns out to be
 related to the first: adding a boundary often provides simple, tractable models of
