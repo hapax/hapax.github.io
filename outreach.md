@@ -13,7 +13,7 @@ I co-run the
   Email me if you'd like to get involved!
 
 <figure>
-    <div style="text-align:center"><img src ="/images/cow.png" width="70%" />
+    <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
     <figcaption><i>Spherical cows may happen.</i></figcaption>
 	</div>
 </figure>
