@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-### What do I do?
-
 I study gravity, conformal field theory, and black holes.
 For technical details, see my papers.
 For a light-hearted lay summary, see below.
