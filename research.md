@@ -6,6 +6,28 @@ permalink: /research/
 
 ### What do I do?
 
+#### Papers
+
+- [*Brane dynamics from the first law of entanglement*](https://arxiv.org/abs/1912.05746)
+  (2019). [Sean Cooper](https://seancooper.info/),
+  [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David
+  Wakeham. arXiv: 1912.05746.
+- [*Information radiation in BCFT models of black holes*](https://arxiv.org/abs/1910.12836)
+  (2019). Moshe Rozali,
+  [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
+  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
+  Christopher Waddell, David Wakeham. arXiv: 1910.12836.
+- [*Black hole microstate cosmology*](https://link.springer.com/article/10.1007/JHEP07(2019)065)
+  (2018). Sean Cooper,
+  Moshe Rozali,
+  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
+ Mark Van Raamsdonk,
+  Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
+  [1810.10601](https://arxiv.org/abs/1810.10601).
+
+#### Lay summary
+
 Gravity describes large, heavy objects like planets, galaxies and black holes.
 Quantum mechanics describes small, fuzzy things like electrons
 orbiting the nucleus, or [cats trapped in radioactive boxes](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat).
@@ -62,25 +84,6 @@ related to the first: adding a boundary often provides simple, tractable models 
 puzzling aspects of black hole physics.
 So by answering the second question, we get technical tools which help
 us learn more about black holes!
-
-#### Papers
-
-- [*Brane dynamics from the first law of entanglement*](https://arxiv.org/abs/1912.05746)
-  (2019). [Sean Cooper](https://seancooper.info/),
-  [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
-  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David
-  Wakeham. arXiv: 1912.05746.
-- [*Information radiation in BCFT models of black holes*](https://arxiv.org/abs/1910.12836)
-  (2019). Moshe Rozali,
-  [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
-  [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-  Christopher Waddell, David Wakeham. arXiv: 1910.12836.
-- [*Black hole microstate cosmology*](https://link.springer.com/article/10.1007/JHEP07(2019)065)
-  (2018). Sean Cooper,
-  Moshe Rozali,
-  [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
- Mark Van Raamsdonk,
-  Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv: [1810.10601](https://arxiv.org/abs/1810.10601).
 
 ### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
