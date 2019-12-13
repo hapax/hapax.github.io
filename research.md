@@ -15,6 +15,11 @@ Because they describe such different realms, gravity and quantum
 mechanics are hard to reconcile, and a combined theory of *quantum
 gravity* remains one of the holy grails of theoretical physics.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/qg-in-a-box4.png" width="60%" />
+	</div>
+</figure>
+
 Although quantum gravity in full generality is quite mysterious,
 we have a somewhat miraculous example called the *AdS/CFT
 correspondence*.
