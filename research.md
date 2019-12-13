@@ -16,7 +16,10 @@ mechanics are hard to reconcile, and a combined theory of *quantum
 gravity* remains one of the holy grails of theoretical physics.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/qg-in-a-box4.png" width="60%" />
+    <div style="text-align:center"><img src
+    ="/images/qg-in-a-box4.png" width="60%" />
+			    <figcaption><i>Throwing Schrödinger's cat into a black
+    hole.</i></figcaption>
 	</div>
 </figure>
 
