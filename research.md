@@ -57,10 +57,11 @@ us learn more about black holes!
 
 #### Papers
 
-- *Brane dynamics from the first law of entanglement*
+- [*Brane dynamics from the first law of entanglement*](https://arxiv.org/abs/1912.05746)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
-  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David Wakeham.
+  [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David
+  Wakeham. arXiv: 1912.05746.
 - [*Information radiation in BCFT models of black holes*](https://arxiv.org/abs/1910.12836)
   (2019). Moshe Rozali,
   [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
