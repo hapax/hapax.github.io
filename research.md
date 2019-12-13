@@ -6,6 +6,10 @@ permalink: /research/
 
 ### What do I do?
 
+I study gravity, conformal field theory, and black holes.
+For technical details, see my papers.
+For a light-hearted lay summary, see below.
+
 #### Papers
 
 - [*Brane dynamics from the first law of entanglement*](https://arxiv.org/abs/1912.05746)
