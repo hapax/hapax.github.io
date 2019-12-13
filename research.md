@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-I study gravity, conformal field theory, and black holes.
+I study *quantum gravity*, with a particular focus on something called
+the AdS/CFT correspondence.
 For technical details, see my papers.
 For a light-hearted lay summary, see below.
 
@@ -28,7 +29,21 @@ For a light-hearted lay summary, see below.
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
   [1810.10601](https://arxiv.org/abs/1810.10601).
 
-#### Lay summary
+### Other technical notes and talks
+- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
+  mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
+  quickly". A talk on both notions to the neutron star
+  group at the University of Melbourne.
+- [*String perturbation theory and Riemann surfaces*]({{
+hapax.github.io }}/assets/strings-project.pdf) (2018). In string
+theory, loop diagrams are Riemann surfaces, leading to a beautiful
+connection between scattering and geometry. Final project for a string
+theory course.
+- [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
+  }}/assets/inflation-notes.pdf) (2016). Early quantum wrinkles equal
+  late-time structure! Notes on inflation for a student seminar at the University of Melbourne.
+
+#### Lay research summary
 
 Gravity describes large, heavy objects like planets, galaxies and black holes.
 Quantum mechanics describes small, fuzzy things like electrons
@@ -86,17 +101,3 @@ related to the first: adding a boundary often provides simple, tractable models 
 puzzling aspects of black hole physics.
 So by answering the second question, we get technical tools which help
 us learn more about black holes!
-
-### Other technical notes and talks
-- [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
-  mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
-  quickly". A talk on both notions to the neutron star
-  group at the University of Melbourne.
-- [*String perturbation theory and Riemann surfaces*]({{
-hapax.github.io }}/assets/strings-project.pdf) (2018). In string
-theory, loop diagrams are Riemann surfaces, leading to a beautiful
-connection between scattering and geometry. Final project for a string
-theory course.
-- [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Early quantum wrinkles equal
-  late-time structure! Notes on inflation for a student seminar at the University of Melbourne.
