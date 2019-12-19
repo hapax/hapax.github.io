@@ -18,7 +18,7 @@ I co-run the
 	</div>
 </figure>
 
-  Here are some talks and problems I've contributed:
+  Here are some talks and problems I've written for the physics circle:
 
 - *Fermi estimates: from Harry Potter to ET* (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
@@ -27,8 +27,10 @@ I co-run the
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf) (2018--). The versions
-    here may differ from those on the official site.
+- [*Circle problems*](assets/circle-probs.pdf) (2018--). A medley of
+  topics from black holes and string theory to waves, teacups, and
+  cubesats launched by sneeze. Requires only high school physics,
+  pre-calculus maths, and a strong constitution.
 
 ### Teaching
 
