@@ -9,14 +9,14 @@ permalink: /about/
 I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
 [University of British Columbia](https://www.ubc.ca/) (UBC).
-I'm interested in gravity, conformal field theory and black holes.
+I'm interested in [gravity, conformal field theory and black holes](https://hapax.github.io/research).
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
 Further academic details can be found in my CV (available on request).
 
 When I'm not working on technical physics, I enjoy science outreach,
 art, recreational coding, and philosophy (among other things). Check
-out my blog for more!
+out my [blog](https://hapax.github.io) for more!
 
 ### Contact me
 
