@@ -57,7 +57,7 @@ gravity* is one of the holy grails of theoretical physics.
 <figure>
     <div style="text-align:center"><img src
     ="/images/qg-in-a-box4.png" width="60%" />
-			    <figcaption><i>Combine enough radioactive cats and you
+			    <figcaption><i>Throw enough radioactive cats together and you
     get a black hole.</i></figcaption>
 	</div>
 </figure>
