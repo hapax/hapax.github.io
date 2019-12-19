@@ -4,10 +4,10 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-### UBC Physics circle
+### UBC Physics Circle
 
 I co-run the
-  [UBC physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
+  [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for talented high school students in the
   Vancouver area.
   Email me if you'd like to get involved!
