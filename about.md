@@ -9,18 +9,16 @@ permalink: /about/
 I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
 [University of British Columbia](https://www.ubc.ca/) (UBC).
-I'm interested in gravity, quantum information and black holes.
+I'm interested in gravity, conformal field theory and black holes.
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
+Further academic details can be found in my CV (available on request).
 
-Before moving to Vancouver in Fall 2017, I completed a masters degree
-in particle physics at the
-[University of Melbourne](https://www.unimelb.edu.au/).
-Further details can be found in my CV (available on request).
+I'm also interested in science outreach, art, and writing.
 
 ### Contact me
 
-- *Room*: Hennings, 418 (UBC Vancouver)
+- *Desk*: Hennings, 418 (UBC Vancouver)
 - *Email*: david.a.wakeham(at)gmail.com
 
 - - -
