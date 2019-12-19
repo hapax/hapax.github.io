@@ -1469,11 +1469,10 @@ Their enthusiasm will be infectious.
 
 #### What's next?
 
-Instead of *replacing* the curriculum (an ambitious and long-term
+Instead of *replacing* the curriculum (an overambitious and long-term
 goal), paths out of the scrubland can be offered as a complement to
 standard material.
-I'm currently [busy with a PhD](https://hapax.github.io/research), but
-in the near future, I hope to start assembling a database of
+In the near future, I hope to start assembling a database of
 extensions, theorems and applications, embedded in a constructivist
 framwork and cross-referenced
 against real curricula.
