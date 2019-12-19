@@ -1474,7 +1474,7 @@ goal), paths out of the scrubland can be offered as a complement to
 standard material.
 In the near future, I hope to start assembling a database of
 extensions, theorems and applications, embedded in a constructivist
-framwork and cross-referenced
+framework and cross-referenced
 against real curricula.
 Watch this space!
 
