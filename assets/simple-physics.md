@@ -33,12 +33,14 @@ date:  2019-12-18
 
 Our best theories of nature seem to involve hard mathematics.
 We have electromagnetism, formulated in the language of vector
+\[
 \begin{align*}
 \nabla \cdot \mathbf{E} & = \frac{1}{\epsilon}\rho \\
 \nabla \cdot \mathbf{B} & = 0 \\
 \nabla \times \mathbf{E} & = -\mu\dot{\mathbf{B}} \\
 \nabla \times \mathbf{B} & = \mu\mathbf{J} + \epsilon\dot{\mathbf{E}}
 \end{align*}
+\]
 to Schrödinger
 \[
 i\frac{\partial}{\partial t}|\psi\rangle = \left(-\frac{\hbar^2}{2m}\nabla^2 + \hat{V}\right)|\psi\rangle
