@@ -102,4 +102,4 @@ The second question sounds technical, but turns out to be
 related to the first: adding a boundary often provides simple, tractable models of
 puzzling aspects of black hole physics.
 So by answering the second question, we get technical tools which help
-us learn more about the (obviously fun) second question!
+us learn more about our (obviously fun) first question!
