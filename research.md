@@ -50,9 +50,9 @@ Quantum mechanics describes small, fuzzy things like electrons
 orbiting the nucleus, or [cats trapped in radioactive boxes](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat).
 But if we add many of these small fuzzy things together, they must be
 described by *both* gravity and quantum mechanics.
-Because they describe such different realms, gravity and quantum
-mechanics are hard to reconcile, and a combined theory of *quantum
-gravity* remains one of the holy grails of theoretical physics.
+Because gravity and quantum
+mechanics usually apply to such radically different domains, they are hard to reconcile, and a combined theory of *quantum
+gravity* is one of the holy grails of theoretical physics.
 
 <figure>
     <div style="text-align:center"><img src
@@ -62,14 +62,15 @@ gravity* remains one of the holy grails of theoretical physics.
 	</div>
 </figure>
 
-Although quantum gravity in full generality is quite mysterious,
-we have a somewhat miraculous example called the *AdS/CFT
+Although quantum gravity in full generality remains mysterious,
+we have a simple but miraculous example called the *AdS/CFT
 correspondence*.
 It tells us that quantum gravity in a special (*d+1*)-dimensional
-spacetime (AdS) is exactly equivalent to quantum mechanics in *d* dimensions (CFT).
+spacetime (Anti-de Sitter = AdS) is exactly equivalent to quantum
+mechanics in *d* dimensions (conformal field theory = CFT).
 For instance, a 3D black hole can be run on a 2D quantum computer!
 Although this strange change in dimension (*d* + 1 → *d*) is expected as a general feature of quantum gravity,
-in AdS/CFT it is realised in a simple and beautiful way: the quantum
+in AdS/CFT it is realised in a beautiful way: the quantum
 mechanical system lives on the *boundary* of spacetime.
 
 <figure>

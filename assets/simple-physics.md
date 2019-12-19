@@ -8,11 +8,9 @@ date:  2019-12-18
 ---
 
 **December 18, 2019.** *Physics is often presented as the most arcane
-  and mathematically challenging of natural sciences. But simple,
-  pre-calculus physics is mind-bogglingly powerful. I give several
-  examples, proving (hopefully) that simple physics gives more insight
-  into both real life and the heady realms of theory than standard textbook
-  treatments suggest.*
+  and mathematically challenging of natural sciences. But simple physical
+  ideas, combined with pre-calculus mathematics, can be
+  mind-bogglingly powerful. I give several examples.*
 
 ### Contents
 
