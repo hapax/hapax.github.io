@@ -28,7 +28,7 @@ I co-run the
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
 - [*Circle problems*](assets/circle-probs.pdf) (2018--). A medley of
-  topics from black holes and string theory to waves, teacups, and
+  topics from black holes and string theory to teacups and
   cubesats launched by sneeze. Requires only high school physics,
   pre-calculus maths, and a strong constitution.
 
