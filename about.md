@@ -14,7 +14,9 @@ I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
 Further academic details can be found in my CV (available on request).
 
-I'm also interested in science outreach, art, and writing.
+When I'm not working on technical physics, I enjoy science outreach,
+art, recreational coding, and philosophy (among other things). Check
+out my blog for more!
 
 ### Contact me
 
