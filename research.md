@@ -57,8 +57,8 @@ gravity* is one of the holy grails of theoretical physics.
 <figure>
     <div style="text-align:center"><img src
     ="/images/qg-in-a-box4.png" width="60%" />
-			    <figcaption><i>Throwing Schrödinger's cat into a black
-    hole.</i></figcaption>
+			    <figcaption><i>Combine enough radioactive cats and you
+    get a black hole.</i></figcaption>
 	</div>
 </figure>
 
@@ -69,9 +69,10 @@ It tells us that quantum gravity in a special (*d+1*)-dimensional
 spacetime (Anti-de Sitter = AdS) is exactly equivalent to quantum
 mechanics in *d* dimensions (conformal field theory = CFT).
 For instance, a 3D black hole can be run on a 2D quantum computer!
-Although this strange change in dimension (*d* + 1 → *d*) is expected as a general feature of quantum gravity,
-in AdS/CFT it is realised in a beautiful way: the quantum
-mechanical system lives on the *boundary* of spacetime.
+Although this change in dimension (*d* + 1 → *d*) seems impossible, it
+is actually *expected* as a general feature of quantum gravity, and in
+AdS/CFT it is realised in a beautiful way: the CFT system lives on the
+*boundary* of AdS spacetime.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -96,9 +97,9 @@ At the moment, I'm interested in two related questions:
 2. What happens if we add boundaries to the quantum mechanical (CFT) system?
 
 The first question is obviously interesting because black holes are cool and
-super weird.
-While the second question sounds technical, it turns out to be
+weird and confusing.
+The second question sounds technical, but turns out to be
 related to the first: adding a boundary often provides simple, tractable models of
 puzzling aspects of black hole physics.
 So by answering the second question, we get technical tools which help
-us learn more about black holes!
+us learn more about the (obviously fun) second question!
