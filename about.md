@@ -15,7 +15,7 @@ I am generously supported by a UBC
 Further academic details can be found in my CV (available on request).
 
 When I'm not working on technical physics, I enjoy science outreach,
-art, recreational coding, and philosophy (among other things). Check
+art, literature, recreational coding, and philosophy (among other things). Check
 out my [blog](https://hapax.github.io) for more!
 
 ### Contact me
