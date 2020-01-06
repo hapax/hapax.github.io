@@ -131,7 +131,7 @@ Suppose you want to build a spring-driven clock, using a mass attached
 to a spring.
 When the spring is compressed or extended, you take measurements of
 the restoring force $F$ and notice that it is proportional to the
-displacement $x$ from equilbrium:
+displacement $x$ from equilbrium ([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
 
 $$
 F = kx.
@@ -198,6 +198,20 @@ period $t_\text{period}$ means this is *exactly* correct, numbers and
 all.
 (If we stuck with period we would be off by a factor of $2\pi$, which
 is not idea if we want to design a precision timepiece.)
+So, if your high school physics lab has springs of stiffness $k = 10^2 \text{
+N/m}$ ($100$ Newtons for every meter displaced), then to obtain an
+oscillation period of $ t_\text{period} =1$ second, you should attach
+a mass
+
+$$
+m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2}{4\pi^2} \text{
+kg} \approx 2.5 \text{ kg}.
+$$
+
+You might wonder if the *amount* of displacement $x$ should be
+involved as well.
+I'll leave it as an extension to show (using dimensional analysis)
+that it is not relevant to the period of oscillation.
 
 #### Usage notes
 
