@@ -125,54 +125,79 @@ Since we throw away numbers when we take dimensions, these answers
 from dimensional analysis are usually only good up to an overall
 numerical factor.
 
-#### Example: pendulum
+#### Example: spring-mass system
 
-Suppose you want to build a pendulum-driven grandfather clock, with
-the mass suspended on a light rod $\ell = 1.5$ metres long.
-Approximately how heavy should the pendulum itself be if you want it
-to swing back and forth with a period of $t = 1$ second?
-We can answer this with dimensional analysis.
+Suppose you want to build a spring-driven clock, using a mass attached
+to a spring.
+When the spring is compressed or extended, you take measurements of
+the restoring force $F$ and notice that it is proportional to the
+displacement $x$ from equilbrium:
+
+$$
+F = kx.
+$$
+
+This constant $k$ is called the *stiffness*, and it has dimensions
+
+$$
+[k] = \frac{[F]}{[x]} = \frac{[ma]}{[x]} = \frac{ML}{T^2L} = \frac{M}{T^2}.
+$$
+
+To make our clock, we want the mass to oscillate with a period of $t_\text{period} =
+1$ second.
+If you are familiar with harmonic motion, you know that a more natural
+quantity than period is *angular frequency*
+
+$$
+\omega =
+\frac{2\pi}{t_\text{period}},
+$$
+
+with dimensions $1/T$.
+To help design the clock, we want to know how the angular frequency $\omega$
+depends on the stiffness $k$ of the spring and mass $m$.
+
+The general procedure is as follows.
 We first identify a *target* quantity: the thing we are trying to
 control, predict or measure.
-In this case, it is the *mass* of the pendulum $m$, which has the
-dimension $M$:
-
-$$
-[m] = M.
-$$
-
-We then list the *relevant parameters* which physically determine our
-target quantity.
-In this case, they are the period of the pendulum $t$, the length of the
-rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}^2$, without
-which the pendulum will not oscillate!
-From the units, this has dimension
-
-$$
-[g] = [9.8 \text{ m/s}^2] = \frac{[\text{m}]}{[\text{s}^2]} = \frac{L}{T^2}.
-$$
-
-In summary, the relevant parameters and dimensions are:
-- period, $[t] = T$;
-- length, $[\ell] = L$;
-- gravitational acceleration, $[g] = L/T^2$.
+In this case, it is the period.
+We then list the *relevant parameters* which our target quantity should
+depend on.
+In this case, these are the stiffness $k$ and mass $m$, with dimensions
+- stiffness, $[k] = M/T^2$;
+- mass $[m] = M$;
 We now guess that the target quantity is some *product of powers* of
-the relevant parameters,
+the relevant parameters:
 
 $$
-m = t^a \ell^b g^c,
+\omega = k^a m^b.
 $$
 
-and by analysing the dimensions on both sides, figure out
-what those powers are.
-On the LHS, we have dimension $m$.
-On the RHS, we have dimensions
+We can find the powers $a$ and $b$ from the requirement that the
+dimensions on both sides are equal.
+The LHS has dimensions of $1/T$, while for the RHS:
 
 $$
 \begin{align*}
-[t^a \ell^b g^c] & = T^a L^b \cdot \frac{L^c}{T^{2c}}  = \frac{T}{}
+[k^a m^b] = \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}}.
 \end{align*}
 $$
+
+Since the LHS has *no* factors of mass, the powers of mass should
+cancel, with $a+b = 0$.
+This leaves $[(k/m)^a] = T^{-2a} = 1/T$, or $a = 1/2$.
+Thus, dimensional analysis predicts that
+
+$$
+\omega \sim \sqrt{\frac{k}{m}},
+$$
+
+where $\sim$ indicates that some numbers may have gone astray.
+In fact, our sneaky choice of angular frequency $\omega$ instead of
+period $t_\text{period}$ means this is *exactly* correct, numbers and
+all.
+(If we stuck with period we would be off by a factor of $2\pi$, which
+is not idea if we want to design a precision timepiece.)
 
 #### Usage notes
 
@@ -251,3 +276,50 @@ to appreciate mathematically.
 
 
 https://web.archive.org/web/20160129142844/http://www.eftaylor.com/exploringblackholes/GravWaves150909v1.pdf
+
+Suppose you want to build a pendulum-driven grandfather clock, with
+the mass suspended on a light rod $\ell = 1.5$ metres long.
+Approximately how heavy should the pendulum itself be if you want it
+to swing back and forth with a period of $t = 1$ second?
+We can answer this with dimensional analysis.
+We first identify a *target* quantity: the thing we are trying to
+control, predict or measure.
+In this case, it is the *mass* of the pendulum $m$, which has the
+dimension $M$:
+
+$$
+[m] = M.
+$$
+
+We then list the *relevant parameters* which physically determine our
+target quantity.
+In this case, they are the period of the pendulum $t$, the length of the
+rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}^2$, without
+which the pendulum will not oscillate!
+From the units, this has dimension
+
+$$
+[g] = [9.8 \text{ m/s}^2] = \frac{[\text{m}]}{[\text{s}^2]} = \frac{L}{T^2}.
+$$
+
+In summary, the relevant parameters and dimensions are:
+- period, $[t] = T$;
+- length, $[\ell] = L$;
+- gravitational acceleration, $[g] = L/T^2$.
+We now guess that the target quantity is some *product of powers* of
+the relevant parameters,
+
+$$
+m = t^a \ell^b g^c,
+$$
+
+and by analysing the dimensions on both sides, figure out
+what those powers are.
+On the LHS, we have dimension $m$.
+On the RHS, we have dimensions
+
+$$
+\begin{align*}
+[t^a \ell^b g^c] & = T^a L^b \cdot \frac{L^c}{T^{2c}}  = \frac{T}{}
+\end{align*}
+$$
