@@ -40,7 +40,7 @@ tediously intricate mechanics problems, with a smattering of circuits,
 optics, and other random elementary topics.
 
 I decided to view this as a challenge: do more with less, i.e. find
-ways to introduce advanced topics with tedious algebra.
+ways to introduce advanced topics without pages of tedious algebra.
 As a theoretical physicist used to employing a full arsenal of
 mathematical tools, this was a strict constraint!
 But perversely, creative outcomes are often optimised by *adding* constraints.
