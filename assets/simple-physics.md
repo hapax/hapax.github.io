@@ -20,7 +20,6 @@ date:  2020-01-06
    2. <a href="#sec-2-2">Fermi estimates</a>
    3. <a href="#sec-2-3">Random walks</a>
    4. <a href="#sec-2-4">Scaling</a>
-3. <a href="#sec-3">Caveat emptor</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -107,11 +106,21 @@ $$
 \frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
 $$
 
-Now, one of the goals of physics is to tell us how measurements depend
+One of the goals of physics is to tell us how measurements depend
 on each other.
 Newton's second law $F = ma$ tells us that if we measure a given force
 $F$ on an object whose mass is measured to be $m$, it will accelerate
-at rate $a = F/m$.
+at a rate $a = F/m$.
+Now, it's a simple observation, but if the two sides of $F = ma$ are
+equal, the dimensions must agree.
+
+In fact, this is often enough to *determine* how quantities in a
+physical system depend on each other!
+Since we throw away numbers when we take dimensions, these answers
+from dimensional analysis are usually only good up to an overall
+numerical factor.
+
+### Example: 
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
