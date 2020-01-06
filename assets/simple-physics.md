@@ -34,7 +34,7 @@ In a physics circle (or high school physics competition more
 generally), the mandate is to write problems that high school students
 will find challenging but fair given their limited background knowledge.
 In particular, problems should avoid calculus, which is not part of
-the high school curriculum in Canada.
+Canada's high school curriculum.
 
 Judging from competition problems, this should restrict us to
 tediously intricate mechanics problems, with a smattering of circuits,
@@ -54,9 +54,14 @@ The goal of this post is to share a few of these hacks.
 Hopefully, you'll be convinced of the awesome power of simple physics!
 
 To keep things interesting, I've avoided overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
+and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
 though feel free to check these out if you want more examples than you
 can dangle a plumb bob at.
+I also recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
+I only discovered recently!) for a
+more in-depth treatment of some of these tools.
 
 ## 2. Hacks <a id="sec-2" name="sec-2"></a>
 
