@@ -15,7 +15,7 @@ date:  2020-01-06
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Examples</a>
+2. <a href="#sec-2">Hacks</a>
    1. <a href="#sec-2-1">Dimensional analysis</a>
    2. <a href="#sec-2-2">Fermi estimates</a>
    3. <a href="#sec-2-3">Random walks</a>
@@ -36,9 +36,26 @@ will find challenging but fair given their limited background knowledge.
 In particular, problems should avoid calculus, which is not part of
 the high school curriculum in Canada.
 
-Although 
+Judging from competition problems, this should restrict us to
+tediously intricate mechanics problems, with a smattering of circuits,
+optics, and other random elementary topics.
+But there is nothing like a constraint to get the creative juices
+flowing.
+In trying to introduce more advanced topics, I was led to reappraise
+basic physics hacks like dimensional analysis, Fermi estimates, and
+other simple tools.
+Though I am not above writing tediously intricate mechanics problems,
+I found it most exciting to use these simple tools to teach myself
+(and occasionally our students!) something new.
+The goal of this post is to share a few of these hacks.
+Hopefully, you'll be convinced of the awesome power of simple physics!
 
-## 2. Examples <a id="sec-2" name="sec-2"></a>
+To keep things interesting, I've avoided overlap with my
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
+though feel free to check these out if you want more examples than you
+can dangle a plumb bob at.
+
+## 2. Hacks <a id="sec-2" name="sec-2"></a>
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
