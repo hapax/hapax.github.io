@@ -27,12 +27,16 @@ date:  2020-01-06
 I've been heavily involved in running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
 for over a year now.
-I've learned a lot about logistics, managing people, and leadership.
+I've learned a lot about logistics, leadership, and balancing leaning
+towers of pizza.
 But surprisingly, the biggest lesson has been about *physics itself*.
-In a physics circle, the mandate is to write problems that high school
-students will find challenging but fair, given their limited
-background knowledge.
-In particular, we do not use calculus in our problems.
+In a physics circle (or high school physics competition more
+generally), the mandate is to write problems that high school students
+will find challenging but fair given their limited background knowledge.
+In particular, problems should avoid calculus, which is not part of
+the high school curriculum in Canada.
+
+Although 
 
 ## 2. Examples <a id="sec-2" name="sec-2"></a>
 
