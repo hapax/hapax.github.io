@@ -130,15 +130,25 @@ For more details, see the usage notes below.
 
 #### Example: pendulum
 
-Suppose you have designed a pendulum-driven grandfather clock, with
-the mass suspended on a light rod $1.5$ metres long.
+Suppose you want to build a pendulum-driven grandfather clock, with
+the mass suspended on a light rod $\ell = 1.5$ metres long.
 Approximately how heavy should the pendulum itself be if you want it
-to swing back and forth with a period of $1$ second?
-The *target* quantity is the thing we are trying to control, predict
-or measure.
-In this case, it is the *period*, which has the dimension of time,
-$T$.
-We are going to list 
+to swing back and forth with a period of $t = 1$ second?
+We can answer this with dimensional analysis.
+We first identify a *target* quantity: the thing we are trying to
+control, predict or measure.
+In this case, it is the *period* of the pendulum $t$, which has the
+dimensions of time $T$:
+$$
+[t] = T.
+$$
+We then list the *relevant parameters* which physically determine our
+target quantity.
+In this case, they are the mass of the pendulum $m$, the length of the
+rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}$, without
+which the pendulum will not oscillate!
+In sum:
+
 
 #### Usage notes
 
