@@ -81,11 +81,21 @@ Note that to find the dimension, we can throw away the number out
 front and focus on the unit, asking: what aspect of the system does it
 measure?
 
-Other dimensions can be built from these basic dimensions.
-For instance,
+Other dimensions can be built from these basic dimensions, using
+simple algebraic rules.
+These are easier to show than to tell.
+Area, for example, has dimensions $L^2$:
 \[
-[]
+[1 \text{ cm}^2] = [1 \text{ cm} \times 1 \text{ cm}] = [1 \text{ cm}]
+\times [1 \text{ cm}] = L^2.
 \]
+A more direct way to see this is to use a general result, e.g. the
+area of a rectangle:
+\[
+[\text{area}] = [\text{width}\times \text{height}] = [\text{width}]
+\times [\text{height}] = L^2.
+\]
+Similarly, 
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
