@@ -39,8 +39,11 @@ the high school curriculum in Canada.
 Judging from competition problems, this should restrict us to
 tediously intricate mechanics problems, with a smattering of circuits,
 optics, and other random elementary topics.
-But there is nothing like a constraint to get the creative juices
-flowing.
+So, I saw this as a challenge: find ways to do more with less.
+As a theoretical physicist used to employing a full arsenal of
+mathematical tools, this was a strict constraint.
+But perversely, creativity often flourishes when most constrained.
+
 In trying to introduce more advanced topics, I was led to reappraise
 basic physics hacks like dimensional analysis, Fermi estimates, and
 other simple tools.
