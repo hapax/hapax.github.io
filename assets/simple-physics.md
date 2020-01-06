@@ -128,7 +128,7 @@ Suppose you want to build a spring-driven clock, with time marked off
 by the oscillations of a mass stuck to the spring.
 When the spring is compressed or extended, you measure the restoring
 force $F$ and notice that it is proportional to the displacement $x$
-from equilbrium
+from the spring's equilbrium position
 ([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
 
 $$
@@ -222,6 +222,17 @@ Dimensional analysis let us skip straight to the answer!
 #### 2.3. Example: spring-mass system <a id="sec-2-3" name="sec-2-3"></a>
 
 The spring-mass example is neat, but not particularly exciting.
+We can make it more interesting by adding some quantum mechanics into
+the mix.
+The *fundamental constant* appearing in quantum mechanics is *Planck's
+constant*, with SI value
+
+$$
+\hbar = 1.05 \times 10^{-34} \text{ J s}.
+$$
+
+(Technically, this is the "reduced" Planck constant favoured by
+theoretical physicists. The original constant is $h = 2\pi \hbar$.)
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
