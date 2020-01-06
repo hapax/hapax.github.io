@@ -159,7 +159,7 @@ depends on the stiffness $k$ of the spring and mass $m$.
 The general procedure is as follows.
 We first identify a *target* quantity: the thing we are trying to
 control, predict or measure.
-In this case, it is the period.
+In this case, it is the angular frequency.
 We then list the *relevant parameters* which our target quantity should
 depend on.
 In this case, these are the stiffness $k$ and mass $m$, with dimensions
