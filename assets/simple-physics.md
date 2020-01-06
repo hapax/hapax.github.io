@@ -68,8 +68,8 @@ The goal generally is not
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
 Physics involve measuring physical systems.
-The *dimension* of a measurement is property of a system probed by the
-measurement.
+The *dimension* of a measurement is the physical property of a system
+probed by the measurement.
 Basic examples include *length* ($L$), *time* ($T$) and *mass* ($M$).
 We use brackets $[\cdot]$ to extract the dimension from a measurement,
 so that for instance
@@ -101,7 +101,7 @@ area of a rectangle:
 \times [\text{height}] = L^2.
 \]
 
-Similarly, 
+More interesting examples are 
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
