@@ -51,6 +51,8 @@ something new, with the added benefits that genuine enthusiasm brings.
 
 The goal of this post is to share a few of these hacks.
 Hopefully, you'll be convinced of the awesome power of simple physics!
+Of course, like every tool, there are quirks and quagmires to be aware
+of, and I will comment on these in turn.
 To keep things interesting, I've avoided overlap with my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
@@ -62,7 +64,11 @@ I only discovered recently!) which covers similar ground in greater depth.
 
 ## 2. Hacks <a id="sec-2" name="sec-2"></a>
 
-The goal generally is not 
+The hacks are in no particular order except for the "fundamental hacks" of
+dimensional analysis and Fermi estimation.
+Everything else can be read independently and in any order.
+For each hack, I quickly outline the physics, do some examples,
+and finish with usage notes.
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
@@ -120,7 +126,7 @@ Since we throw away numbers when we take dimensions, these answers
 from dimensional analysis are usually only good up to an overall
 numerical factor.
 
-### Example: 
+#### Example: 
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
