@@ -35,24 +35,23 @@ generally), the mandate is to write problems that high school students
 will find challenging but fair given their limited background knowledge.
 In particular, problems should avoid calculus, which is not part of
 Canada's high school curriculum.
-
 Judging from competition problems, this should restrict us to
 tediously intricate mechanics problems, with a smattering of circuits,
 optics, and other random elementary topics.
-So, I saw this as a challenge: find ways to do more with less.
-As a theoretical physicist used to employing a full arsenal of
-mathematical tools, this was a strict constraint.
-But perversely, creativity often flourishes when most constrained.
 
-In trying to introduce more advanced topics, I was led to reappraise
-basic physics hacks like dimensional analysis, Fermi estimates, and
-other simple tools.
+I decided to view this as a challenge: do more with less, i.e. find
+ways to introduce advanced topics with tedious algebra.
+As a theoretical physicist used to employing a full arsenal of
+mathematical tools, this was a strict constraint!
+But perversely, creative outcomes are often optimised by *adding* constraints.
+In trying to get at more advanced topics, I was led to reappraise
+basic physics hacks like dimensional analysis.
 Though I am not above writing tediously intricate mechanics problems,
-I found it most exciting to use these simple tools to teach myself
-(and occasionally our students!) something new.
+it was much more exciting to use these simple tools to teach myself
+something new, with the added benefits that genuine enthusiasm brings.
+
 The goal of this post is to share a few of these hacks.
 Hopefully, you'll be convinced of the awesome power of simple physics!
-
 To keep things interesting, I've avoided overlap with my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
@@ -60,12 +59,15 @@ though feel free to check these out if you want more examples than you
 can dangle a plumb bob at.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
-I only discovered recently!) for a
-more in-depth treatment of some of these tools.
+I only discovered recently!) for an excellent treatment of some of
+these hacks.
 
 ## 2. Hacks <a id="sec-2" name="sec-2"></a>
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
+
+*Dimensional analysis* is a very powerful tool which hinges on the
+ fact that physical 
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
