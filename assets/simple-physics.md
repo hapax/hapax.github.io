@@ -9,8 +9,8 @@ date:  2020-01-06
 
 **January 6, 2020.** *Physics is often presented as the most arcane,
   mathematically impenetrable of natural sciences. Here, we illustrate
-  how some simple physics hacks, involving on pre-calculus
-  mathematics, can still be awesomely powerful.*
+  how simple physics hacks using only pre-calculus
+  mathematics can still be awesomely powerful.*
 
 ### Contents
 
@@ -74,12 +74,11 @@ and finish with usage notes.
 
 #### The hack
 
-Physics involve measuring physical systems.
+Physics is ultimately about experimental measurements.
 The *dimension* of a measurement is the physical property of a system
 probed by the measurement.
 Basic examples include *length* ($L$), *time* ($T$) and *mass* ($M$).
-We use brackets $[\cdot]$ to extract the dimension from a measurement,
-so that for instance
+We use brackets $[\cdot]$ to extract the dimension from a measurement, e.g.
 
 $$
 [1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
@@ -88,7 +87,6 @@ $$
 Note that to find the dimension, we can throw away the number out
 front and focus on the unit, asking: what aspect of the system does it
 measure?
-
 Other dimensions can be built from these basic dimensions, using
 simple algebraic rules.
 These are easier to show than to tell.
@@ -114,7 +112,7 @@ $$
 \frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
 $$
 
-One of the goals of physics is to tell us how measurements depend
+Physics is to tell us how measurements depend
 on each other.
 Newton's second law $F = ma$ tells us that if we measure a given force
 $F$ on an object whose mass is measured to be $m$, it will accelerate
@@ -126,7 +124,6 @@ physical system depend on each other!
 Since we throw away numbers when we take dimensions, these answers
 from dimensional analysis are usually only good up to an overall
 numerical factor.
-For more details, see the usage notes below.
 
 #### Example: pendulum
 
@@ -173,7 +170,7 @@ On the RHS, we have dimensions
 
 $$
 \begin{align*}
-[t^a \ell^b g^c] & = 
+[t^a \ell^b g^c] & = T^a L^b \cdot \frac{L^c}{T^{2c}}  = \frac{T}{}
 \end{align*}
 $$
 
