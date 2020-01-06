@@ -112,18 +112,17 @@ $$
 \frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
 $$
 
-Physics is to tell us how measurements depend
+Physical laws tell us how measurements depend
 on each other.
-Newton's second law $F = ma$ tells us that if we measure a given force
+For example, Newton's second law $F = ma$ tells us that if we measure a given force
 $F$ on an object whose mass is measured to be $m$, it will accelerate
 at a rate $a = F/m$.
-Now, it's a simple observation, but if the two sides of $F = ma$ are
+It's a very simple observation, but if the two sides of $F = ma$ are
 equal, the dimensions must agree.
-In fact, this is often enough to *determine* how quantities in a
-physical system depend on each other!
-Since we throw away numbers when we take dimensions, these answers
-from dimensional analysis are usually only good up to an overall
-numerical factor.
+Sometimes, this observation is enough to *determine* relationships
+between measurements!
+Since we throw away numbers, dimensional analysis will usually only be
+good up to an overall numerical factor.
 
 #### Example: spring-mass system
 
