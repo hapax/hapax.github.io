@@ -174,19 +174,18 @@ $$
 $$
 
 We can find the powers $a$ and $b$ from the requirement that the
-dimensions on both sides are equal.
-The LHS has dimensions of $1/T$, while for the RHS:
+dimensions on both sides are equal:
 
 $$
 \begin{align*}
-[k^a m^b] = \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}}.
+[k^a m^b] = \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}} =
+\frac{1}{T} = [\omega].
 \end{align*}
 $$
 
-Since the LHS has *no* factors of mass, the powers of mass should
-cancel, with $a+b = 0$.
-This leaves $[(k/m)^a] = T^{-2a} = 1/T$, or $a = 1/2$.
-Thus, dimensional analysis predicts that
+Since there are no factors of mass for the RHS, we have $b = -a$, and
+hence $T^{2a} = T$, or $a = 1/2$.
+Thus, dimensional analysis gives
 
 $$
 \omega \sim \sqrt{\frac{k}{m}},
@@ -198,6 +197,7 @@ period $t_\text{period}$ means this is *exactly* correct, numbers and
 all.
 (If we stuck with period we would be off by a factor of $2\pi$, which
 is not ideal if we want to design a precision timepiece.)
+
 So, if your high school physics lab has springs of stiffness $k = 10^2 \text{
 N/m}$ ($100$ Newtons for every meter displaced), then to obtain an
 oscillation period of $ t_\text{period} =1$ second, you should attach
