@@ -164,7 +164,8 @@ We then list the *relevant parameters* which our target quantity should
 depend on.
 In this case, these are the stiffness $k$ and mass $m$, with dimensions
 - stiffness, $[k] = M/T^2$;
-- mass $[m] = M$;
+- mass $[m] = M$.
+
 We now guess that the target quantity is some *product of powers* of
 the relevant parameters:
 
