@@ -74,10 +74,9 @@ Basic examples include *length* ($L$), *time* ($T$) and *mass* ($M$).
 We use brackets $[\cdot]$ to extract the dimension from a measurement,
 so that for instance
 
-\[
-[1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad
-[400 \text{ lb}] = M.
-\]
+$$
+[1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
+$$
 
 Note that to find the dimension, we can throw away the number out
 front and focus on the unit, asking: what aspect of the system does it
@@ -101,7 +100,7 @@ area of a rectangle:
 \times [\text{height}] = L^2.
 \]
 
-More interesting examples are 
+
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
