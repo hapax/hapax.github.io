@@ -59,10 +59,11 @@ though feel free to check these out if you want more examples than you
 can dangle a plumb bob at.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
-I only discovered recently!) for an excellent treatment of some of
-these hacks.
+I only discovered recently!) which covers similar ground in greater depth.
 
 ## 2. Hacks <a id="sec-2" name="sec-2"></a>
+
+The goal generally is not 
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
