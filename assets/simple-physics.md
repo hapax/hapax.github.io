@@ -124,11 +124,12 @@ good up to an overall numerical factor.
 
 #### 2.2. Example: spring-mass system <a id="sec-2-2" name="sec-2-2"></a>
 
-Suppose you want to build a spring-driven clock, using a mass attached
-to a spring.
-When the spring is compressed or extended, you take measurements of
-the restoring force $F$ and notice that it is proportional to the
-displacement $x$ from equilbrium ([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
+Suppose you want to build a spring-driven clock, with time marked off
+by the oscillations of a mass stuck to the spring.
+When the spring is compressed or extended, you measure the restoring
+force $F$ and notice that it is proportional to the displacement $x$
+from equilbrium
+([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
 
 $$
 F = kx.
@@ -142,8 +143,8 @@ $$
 
 To make our clock, we want the mass to oscillate with a period of $t_\text{period} =
 1$ second.
-If you are familiar with harmonic motion, you know that a more natural
-quantity than period is *angular frequency*
+If you are familiar with harmonic motion, you know that a nicer
+quantity than period is *angular frequency*:
 
 $$
 \omega =
@@ -154,7 +155,7 @@ with dimensions $1/T$.
 To help design the clock, we want to know how the angular frequency $\omega$
 depends on the stiffness $k$ of the spring and mass $m$.
 
-The general procedure is as follows.
+The general procedure for dimensional analysis is as follows.
 We first identify a *target* quantity: the thing we are trying to
 control, predict or measure.
 In this case, it is the angular frequency.
@@ -164,20 +165,21 @@ In this case, these are the stiffness $k$ and mass $m$, with dimensions
 - stiffness, $[k] = M/T^2$;
 - mass $[m] = M$.
 
-We now guess that the target quantity is some *product of powers* of
-the relevant parameters:
+We now guess that the target quantity is a *product of powers* of
+the relevant parameters, taking the form:
 
 $$
 \omega = k^a m^b.
 $$
 
+(I'll comment on how this assumption can break down in the usage notes.)
 We can find the powers $a$ and $b$ from the requirement that the
 dimensions on both sides are equal:
 
 $$
 \begin{align*}
-[k^a m^b] = \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}} =
-\frac{1}{T} = [\omega].
+[k^a m^b] &= \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}} \\
+[\omega] &= \frac{1}{T}.
 \end{align*}
 $$
 
@@ -206,13 +208,20 @@ m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2 \text{
 kg}}{4\pi^2} \approx 2.5 \text{ kg}.
 $$
 
+Woot! We didn't need to analyse any forces, solve a differential
+equation, or even deal with numbers.
+Dimensional analysis let us skip straight to the answer!
+
 ---
-#### Exercise: length
 
 1. Using dimensional analysis, show that the angular frequency does
    not depend on the initial displacement $x$ of the mass.
 
 ---
+
+#### 2.3. Example: spring-mass system <a id="sec-2-3" name="sec-2-3"></a>
+
+The spring-mass example is neat, but not particularly exciting.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
