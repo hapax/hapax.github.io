@@ -15,11 +15,11 @@ date:  2020-01-06
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Hacks</a>
-   1. <a href="#sec-2-1">Dimensional analysis</a>
-   2. <a href="#sec-2-2">Fermi estimates</a>
-   3. <a href="#sec-2-3">Random walks</a>
-   4. <a href="#sec-2-4">Scaling</a>
+2. <a href="#sec-2">Dimensional analysis</a>
+   1. <a href="#sec-2-1">The hack</a>
+   2. <a href="#sec-2-2">Example: spring-mass system</a>
+   4. <a href="#sec-2-4">Usage notes</a>
+3. <a href="#sec-3">Fermi estimates</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -62,17 +62,15 @@ I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
 I only discovered recently!) which covers similar ground in greater depth.
 
-## 2. Hacks <a id="sec-2" name="sec-2"></a>
-
 The hacks are in no particular order except for the "fundamental hacks" of
 dimensional analysis and Fermi estimation.
 Everything else can be read independently and in any order.
 For each hack, I quickly outline the physics, do some examples,
 and finish with usage notes.
 
-##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
+## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
-#### The hack
+#### 2.1. The hack <a id="sec-2-1" name="sec-2-1"></a>
 
 Physics is ultimately about experimental measurements.
 The *dimension* of a measurement is the physical property of a system
@@ -124,7 +122,7 @@ between measurements!
 Since we throw away numbers, dimensional analysis will usually only be
 good up to an overall numerical factor.
 
-#### Example: spring-mass system
+#### 2.2. Example: spring-mass system <a id="sec-2-2" name="sec-2-2"></a>
 
 Suppose you want to build a spring-driven clock, using a mass attached
 to a spring.
@@ -211,22 +209,21 @@ $$
 ---
 #### Exercise: length
 
-1. Using dimensional analysis, show that the initial displacement $x$
-of the mass is not relevant to the period of oscillation.
+1. Using dimensional analysis, show that the angular frequency does
+   not depend on the initial displacement $x$ of the mass.
 
 ---
 
-#### Usage notes
+#### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
 [notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
-##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
+## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
-##### 2.3. Random walks <a id="sec-2-3" name="sec-2-3"></a>
+##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
-##### 2.4. Scaling <a id="sec-2-4" name="sec-2-4"></a>
+##### 5. Scaling <a id="sec-5" name="sec-5"></a>
 
-## 3. Caveat emptor <a id="sec-3" name="sec-3"></a>
 
 ## Extra
 
