@@ -72,6 +72,8 @@ and finish with usage notes.
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
+#### The hack
+
 Physics involve measuring physical systems.
 The *dimension* of a measurement is the physical property of a system
 probed by the measurement.
@@ -119,14 +121,28 @@ $F$ on an object whose mass is measured to be $m$, it will accelerate
 at a rate $a = F/m$.
 Now, it's a simple observation, but if the two sides of $F = ma$ are
 equal, the dimensions must agree.
-
 In fact, this is often enough to *determine* how quantities in a
 physical system depend on each other!
 Since we throw away numbers when we take dimensions, these answers
 from dimensional analysis are usually only good up to an overall
 numerical factor.
+For more details, see the usage notes below.
 
-#### Example: 
+#### Example: pendulum
+
+Suppose you have designed a pendulum-driven grandfather clock, with
+the mass suspended on a light rod $1.5$ metres long.
+Approximately how heavy should the pendulum itself be if you want it
+to swing back and forth with a period of $1$ second?
+The *target* quantity is the thing we are trying to control, predict
+or measure.
+In this case, it is the *period*, which has the dimension of time,
+$T$.
+We are going to list 
+
+#### Usage notes
+
+[notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -198,3 +214,6 @@ R_{\mu\nu} -\frac{1}{2}R g_{\mu\nu} = 8\pi G T_{\mu\nu}.
 \]
 This is a startingly beautiful result, but requires years of training
 to appreciate mathematically.
+
+
+https://web.archive.org/web/20160129142844/http://www.eftaylor.com/exploringblackholes/GravWaves150909v1.pdf
