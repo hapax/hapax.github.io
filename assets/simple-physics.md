@@ -204,14 +204,17 @@ oscillation period of $ t_\text{period} =1$ second, you should attach
 a mass
 
 $$
-m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2}{4\pi^2} \text{
-kg} \approx 2.5 \text{ kg}.
+m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2 \text{
+kg}}{4\pi^2} \approx 2.5 \text{ kg}.
 $$
 
-You might wonder if the *amount* of displacement $x$ should be
-involved as well.
-I'll leave it as an extension to show (using dimensional analysis)
-that it is not relevant to the period of oscillation.
+---
+#### Exercise: length
+
+1. Using dimensional analysis, show that the initial displacement $x$
+of the mass is not relevant to the period of oscillation.
+
+---
 
 #### Usage notes
 
