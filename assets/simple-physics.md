@@ -67,8 +67,25 @@ The goal generally is not
 
 ##### 2.1. Dimensional analysis <a id="sec-2-1" name="sec-2-1"></a>
 
-*Dimensional analysis* is a very powerful tool which hinges on the
- fact that physical 
+Physics involve measuring physical systems.
+The *dimension* of a measurement is property of a system probed by the
+measurement.
+Basic examples include *length* ($L$), *time* ($T$) and *mass* ($M$).
+We use brackets $[\cdot]$ to extract the dimension from a measurement,
+so that for instance
+\[
+[1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad
+[400 \text{ lb}] = M.
+\]
+Note that to find the dimension, we can throw away the number out
+front and focus on the unit, asking: what aspect of the system does it
+measure?
+
+Other dimensions can be built from these basic dimensions.
+For instance,
+\[
+[]
+\]
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
