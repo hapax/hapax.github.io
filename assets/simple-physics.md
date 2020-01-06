@@ -87,20 +87,31 @@ simple algebraic rules.
 These are easier to show than to tell.
 Area, for example, has dimensions $L^2$:
 
-\[
+$$
 [1 \text{ cm}^2] = [1 \text{ cm} \times 1 \text{ cm}] = [1 \text{ cm}]
 \times [1 \text{ cm}] = L^2.
-\]
+$$
 
 A more direct way to see this is to use a general result, e.g. the
 area of a rectangle:
 
-\[
+$$
 [\text{area}] = [\text{width}\times \text{height}] = [\text{width}]
 \times [\text{height}] = L^2.
-\]
+$$
 
+Similarly, we can divide out dimensions:
 
+$$
+[\text{velocity}] = \left[\frac{\text{distance}}{\text{time}}\right] =
+\frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
+$$
+
+Now, one of the goals of physics is to tell us how measurements depend
+on each other.
+Newton's second law $F = ma$ tells us that if we measure a given force
+$F$ on an object whose mass is measured to be $m$, it will accelerate
+at rate $a = F/m$.
 
 ##### 2.2. Fermi estimates <a id="sec-2-2" name="sec-2-2"></a>
 
