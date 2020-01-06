@@ -197,7 +197,7 @@ In fact, our sneaky choice of angular frequency $\omega$ instead of
 period $t_\text{period}$ means this is *exactly* correct, numbers and
 all.
 (If we stuck with period we would be off by a factor of $2\pi$, which
-is not idea if we want to design a precision timepiece.)
+is not ideal if we want to design a precision timepiece.)
 So, if your high school physics lab has springs of stiffness $k = 10^2 \text{
 N/m}$ ($100$ Newtons for every meter displaced), then to obtain an
 oscillation period of $ t_\text{period} =1$ second, you should attach
