@@ -137,18 +137,24 @@ to swing back and forth with a period of $t = 1$ second?
 We can answer this with dimensional analysis.
 We first identify a *target* quantity: the thing we are trying to
 control, predict or measure.
-In this case, it is the *period* of the pendulum $t$, which has the
-dimensions of time $T$:
+In this case, it is the *mass* of the pendulum $m$, which has the
+dimension $M$:
 $$
-[t] = T.
+[m] = M.
 $$
 We then list the *relevant parameters* which physically determine our
 target quantity.
-In this case, they are the mass of the pendulum $m$, the length of the
-rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}$, without
+In this case, they are the period of the pendulum $t$, the length of the
+rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}^2$, without
 which the pendulum will not oscillate!
-In sum:
-
+From the units, this has dimension
+$$
+[g] = [9.8 \text{ m/s}^2] = \frac{[\text{m}]}{[\text{s}^2]} = \frac{L}{T^2}.
+$$
+In summary, the relevant parameters and dimensions are:
+- period, $[t] = T$;
+- length, $[\ell] = L$;
+- gravitational acceleration, $[g] = L/T^2$.
 
 #### Usage notes
 
