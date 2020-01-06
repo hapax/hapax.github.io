@@ -139,22 +139,43 @@ We first identify a *target* quantity: the thing we are trying to
 control, predict or measure.
 In this case, it is the *mass* of the pendulum $m$, which has the
 dimension $M$:
+
 $$
 [m] = M.
 $$
+
 We then list the *relevant parameters* which physically determine our
 target quantity.
 In this case, they are the period of the pendulum $t$, the length of the
 rod $\ell$, and the strength of gravity $g = 9.8 \text{ m/s}^2$, without
 which the pendulum will not oscillate!
 From the units, this has dimension
+
 $$
 [g] = [9.8 \text{ m/s}^2] = \frac{[\text{m}]}{[\text{s}^2]} = \frac{L}{T^2}.
 $$
+
 In summary, the relevant parameters and dimensions are:
 - period, $[t] = T$;
 - length, $[\ell] = L$;
 - gravitational acceleration, $[g] = L/T^2$.
+We now guess that the target quantity is some *product of powers* of
+the relevant parameters,
+
+$$
+m = t^a \ell^b g^c,
+$$
+
+and by analysing the dimensions on both sides, figure out
+what those powers are.
+On the LHS, we have dimension $m$.
+On the RHS, we have dimensions
+
+$$
+\begin{align*}
+[t^a \ell^b g^c] & = 
+\end{align*}
+$$
 
 #### Usage notes
 
