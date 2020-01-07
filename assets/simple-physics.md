@@ -80,8 +80,7 @@ We throw away the number out front and focus on the unit, asking: what
 aspect of the system does it measure? Centimetres measure length,
 hours measure time, and pounds measure mass.
 More complicated dimensions follow from the basic ones according to
-simple algebraic rules.
-These are easier to show than tell.
+simple algebraic rules, easier to show than tell.
 Area, for example, has dimensions $L^2$:
 
 $$
