@@ -66,7 +66,7 @@ Physics is ultimately about experimental measurements.
 We take some system, e.g., an old pumpkin, and poke or prod it with a
 measuring device, thereby obtaining a number.
 The *dimension* of the measurement is not the number, but the
-*physical property* of a system probed by the device.
+*physical property* probed by that device.
 If we compare the width of the pumpkin to a ruler, for instance, the
 dimension is the *length*.
 
