@@ -69,20 +69,21 @@ measuring device, which returns a number.
 The *dimension* of the measurement is not the number, but the
 *physical property* of a system probed by the measurement.
 If we compare the width of the pumpkin to a ruler, for instance, the
-dimension of that measurement is *length*.
+dimension is the *length*.
 
 Length ($L$) is one of the basic dimensions we can use to build other
-dimensions out of.
+dimensions.
 The two other basic dimensions are *time* ($T$) and *mass* ($M$).
 In general, we apply brackets $[\cdot]$ to a measurement to extract
-the dimension:
+the dimension, for instance
 
 $$
 [1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
 $$
 
 We throw away the number out front and focus on the unit, asking: what
-aspect of the system does it measure?
+aspect of the system does it measure? Centimetres measure length,
+hours measure time, and pounds measure mass.
 
 Other dimensions can be built from these basic dimensions, using
 simple algebraic rules.
