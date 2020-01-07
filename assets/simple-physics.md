@@ -188,7 +188,8 @@ one second.
 Then we should suspend the old pumpkin from a string of length
 
 $$
-\ell = \frac{g}{\omega^2} = \frac{g t^2}{(2\pi)^2} = \frac{9.8 }{\pi^2}\text{ m} \approx 1
+\ell = \frac{g}{\omega^2} = \frac{g t^2}{(2\pi)^2} = \frac{9.8 \text{
+m}}{\pi^2} \approx 1
 \text{ m}.
 $$
 
