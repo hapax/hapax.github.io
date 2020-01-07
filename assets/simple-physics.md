@@ -204,9 +204,10 @@ In order to make the clock, we need a ruler to measure out the length
 of string.
 But for maximal whimsy, we can turn a stopwatch, pumpkin and spool of
 string *into* a ruler!
-Use the string as a ruler, snip off the corresponding amount, attach
+Use the string as a ruler, snip off the corresponding length, attach
 the pumpkin and gently wobble.
-By timing the period of the wobble, we can infer the length!
+By timing the period of the wobble with the stopwatch, we can figure
+out how long the string is!
 
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
