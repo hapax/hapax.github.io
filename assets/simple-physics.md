@@ -300,12 +300,20 @@ Let's start by working out the terminal velocity in general.
 A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
 If it falls through a fluid of viscosity $\mu$, then there will be a
 drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
-These two forces will balance at the terminal velocity:
+At the terminal velocity $ v_{\text{term}}$, these two forces
+balance out:
 
 $$
-F_w = mg = 6\pi \mu r v_{\text{terminal}} = F_d \quad \Longrightarrow
-\quad v_{\text{terminal}} = \frac{mg}{6\pi \mu r}.
+F_w = mg = 6\pi \mu r v_{\text{term}} = F_d \quad \Longrightarrow
+\quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu},
 $$
+
+where we traded in the mass of the sphere for its average density
+$\rho$ via $m = (4\pi/3)\rho r^3$.
+
+Neither raindrops nor hailstones are perfectly spherical, but it's not a bad
+approximation.
+Let's start with raindrops
 
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
 
