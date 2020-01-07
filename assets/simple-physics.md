@@ -212,7 +212,7 @@ out how long the string is!
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
 In case pumpkin timepieces aren't your thing, we'll ratchet down the
-whimsy and investigate the aeorodynamics of spheres.
+whimsy and turn to a more serious subject: the aeorodynamics of spheres.
 In realistic fluids, adjacent layers of flow like to stick together, and will
 resist *shearing* forces which try to pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
@@ -294,9 +294,9 @@ This is called *Stokes' law* in honour of its discoverer.
 But we got pretty darn close with only a few lines of algebra!
 
 Stokes' law has some wonderful applications, with the simplest being
-to the *terminal velocity* of a sphere falling through a fluid.
-This may sound rather artificial, but it lets us estimate the speed at
-which raindrops and hailstones strike the ground!
+to the *terminal velocity* of a sphere falling slowly through a fluid.
+This may sound rather artificial, but it lets us explain why clouds
+stay in the air, despite being made of droplets much denser than air.
 Let's start by working out the terminal velocity in general.
 A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
 If it falls through a fluid of viscosity $\mu$, then there will be a
@@ -311,12 +311,22 @@ $$
 
 where we traded in the mass of the sphere for its average density
 $\rho$ via $m = (4\pi/3)\rho r^3$.
+We will ignore buoyancy forces, since these will turn out to be negligible.
 
-Neither raindrops nor hailstones are perfectly spherical, but it's not a bad
-approximation.
-Let's start with raindrops
+The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
+[typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
+has a radius around $r = 10^{-5} \text{ m}$.
+Finally, the viscosity of air is $\mu \approx 2\times 10^{-5} \text{
+kg/m s}$.
+The terminal speed of a cloud droplet is therefore
 
-https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
+$$
+v_{\text{term}} = \frac{2\rho r^2 g}{9\mu} = \frac{2(10^{-5} \text{ m})^2(10^3 \text{
+kg/m}^3)(9.8 \text{ m/s}^2)}{9(2\times 10^{-5} \text{
+kg/m s})} \approx 0.01 \text{ m/s},
+$$
+
+or $1$ centimetre per second.
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
