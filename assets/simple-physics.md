@@ -17,7 +17,7 @@ date:  2020-01-06
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">The hack</a>
-   2. <a href="#sec-2-2">Example: spring-mass system</a>
+   2. <a href="#sec-2-2">Example: the wobbly pumpkin</a>
    3. <a href="#sec-2-3">Example: </a>
    4. <a href="#sec-2-4">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
@@ -121,20 +121,18 @@ By assembling some physical quantities with known dimensions, we can
 *determine* the physical laws connecting them!
 Once again, this is easier to show with examples than abstract descriptions.
 
-#### 2.3. Example: spring-mass system <a id="sec-2-3" name="sec-2-3"></a>
+#### 2.2. Example: the wobbly pumpkin <a id="sec-2-2" name="sec-2-2"></a>
 
-The spring-mass example is neat, but not particularly exciting.
-We can make it more interesting by adding some quantum mechanics into
-the mix.
-The *fundamental constant* appearing in quantum mechanics is *Planck's
-constant*, with SI value
-
-$$
-\hbar = 1.05 \times 10^{-34} \text{ J s}.
-$$
-
-(Technically, this is the "reduced" Planck constant favoured by
-theoretical physicists. The original constant is $h = 2\pi \hbar$.)
+Suppose we attach the old pumpkin to a length of string and give it a
+kick.
+Gravity will pull on the pumpkin, causing it to oscillate back and
+forth with some period of oscillation $t$.
+If we know how the period of oscillation depends on other properties
+of the system, we can utilise this knowledge to make a pumpkin clock!
+Let's start by listing the possibly relevant properties of the system:
+- the mass of the pumpkin $m$, with dimension $[m] = M$;
+- the length of the string $\ell$, dimension $[\ell] = L$;
+- gravitational acceleration $g = 9.8 \text{ m/s}^2$, dimension $[g] = LT^{-2}$.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
@@ -360,3 +358,18 @@ MAKE MORE INTERESTING
    not depend on the initial displacement $x$ of the mass.
 
 ---
+
+#### 2.3. Example: the wobbling pupm <a id="sec-2-3" name="sec-2-3"></a>
+
+The spring-mass example is neat, but not particularly exciting.
+We can make it more interesting by adding some quantum mechanics into
+the mix.
+The *fundamental constant* appearing in quantum mechanics is *Planck's
+constant*, with SI value
+
+$$
+\hbar = 1.05 \times 10^{-34} \text{ J s}.
+$$
+
+(Technically, this is the "reduced" Planck constant favoured by
+theoretical physicists. The original constant is $h = 2\pi \hbar$.)
