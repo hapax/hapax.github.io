@@ -18,6 +18,7 @@ date:  2020-01-06
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">The hack</a>
    2. <a href="#sec-2-2">Example: spring-mass system</a>
+   3. <a href="#sec-2-3">Example: </a>
    4. <a href="#sec-2-4">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
 
@@ -121,103 +122,6 @@ Sometimes, this observation is enough to *determine* relationships
 between measurements!
 Since we throw away numbers, dimensional analysis will usually only be
 good up to an overall numerical factor.
-
-#### 2.2. Example: spring-mass system <a id="sec-2-2" name="sec-2-2"></a>
-
-Suppose you want to build a spring-driven clock, with time marked off
-by the oscillations of a mass stuck to the spring.
-When the spring is compressed or extended, you measure the restoring
-force $F$ and notice that it is proportional to the displacement $x$
-from the spring's equilbrium position
-([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
-
-$$
-F = kx.
-$$
-
-This constant $k$ is called the *stiffness*, and it has dimensions
-
-$$
-[k] = \frac{[F]}{[x]} = \frac{[ma]}{[x]} = \frac{ML}{T^2L} = \frac{M}{T^2}.
-$$
-
-To make our clock, we want the mass to oscillate with a period of $t_\text{period} =
-1$ second.
-If you are familiar with harmonic motion, you know that a nicer
-quantity than period is *angular frequency*:
-
-$$
-\omega =
-\frac{2\pi}{t_\text{period}},
-$$
-
-with dimensions $1/T$.
-To help design the clock, we want to know how the angular frequency $\omega$
-depends on the stiffness $k$ of the spring and mass $m$.
-
-The general procedure for dimensional analysis is as follows.
-We first identify a *target* quantity: the thing we are trying to
-control, predict or measure.
-In this case, it is the angular frequency.
-We then list the *relevant parameters* which our target quantity should
-depend on.
-In this case, these are the stiffness $k$ and mass $m$, with dimensions
-- stiffness, $[k] = M/T^2$;
-- mass $[m] = M$.
-
-We now guess that the target quantity is a *product of powers* of
-the relevant parameters, taking the form:
-
-$$
-\omega = k^a m^b.
-$$
-
-(I'll comment on how this assumption can break down in the usage notes.)
-We can find the powers $a$ and $b$ from the requirement that the
-dimensions on both sides are equal:
-
-$$
-\begin{align*}
-[k^a m^b] &= \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}} \\
-[\omega] &= \frac{1}{T}.
-\end{align*}
-$$
-
-Since there are no factors of mass for the RHS, we have $b = -a$, and
-hence $T^{2a} = T$, or $a = 1/2$.
-Thus, dimensional analysis gives
-
-$$
-\omega \sim \sqrt{\frac{k}{m}},
-$$
-
-where $\sim$ indicates that some numbers may have gone astray.
-In fact, our sneaky choice of angular frequency $\omega$ instead of
-period $t_\text{period}$ means this is *exactly* correct, numbers and
-all.
-(If we stuck with period we would be off by a factor of $2\pi$, which
-is not ideal if we want to design a precision timepiece.)
-
-So, if your high school physics lab has springs of stiffness $k = 10^2 \text{
-N/m}$ ($100$ Newtons for every meter displaced), then to obtain an
-oscillation period of $ t_\text{period} =1$ second, you should attach
-a mass
-
-$$
-m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2 \text{
-kg}}{4\pi^2} \approx 2.5 \text{ kg}.
-$$
-
-Woot! We didn't need to analyse any forces, solve a differential
-equation, or even deal with numbers.
-Dimensional analysis let us skip straight to the answer!
-
----
-
-1. Using dimensional analysis, show that the angular frequency does
-   not depend on the initial displacement $x$ of the mass.
-
----
 
 #### 2.3. Example: spring-mass system <a id="sec-2-3" name="sec-2-3"></a>
 
@@ -357,3 +261,101 @@ $$
 [t^a \ell^b g^c] & = T^a L^b \cdot \frac{L^c}{T^{2c}}  = \frac{T}{}
 \end{align*}
 $$
+
+#### 2.2. Example: spring-mass system <a id="sec-2-2" name="sec-2-2"></a>
+
+Suppose you want to build a spring-driven clock, with time marked off
+by the oscillations of a mass stuck to the spring.
+When the spring is compressed or extended, you measure the restoring
+force $F$ and notice that it is proportional to the displacement $x$
+from the spring's equilbrium position
+([Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law)):
+
+$$
+F = kx.
+$$
+
+This constant $k$ is called the *stiffness*, and it has dimensions
+
+$$
+[k] = \frac{[F]}{[x]} = \frac{[ma]}{[x]} = \frac{ML}{T^2L} = \frac{M}{T^2}.
+$$
+
+To make our clock, we want the mass to oscillate with a period of $t_\text{period} =
+1$ second.
+If you are familiar with harmonic motion, you know that a nicer
+quantity than period is *angular frequency*:
+
+$$
+\omega =
+\frac{2\pi}{t_\text{period}},
+$$
+
+with dimensions $1/T$.
+To help design the clock, we want to know how the angular frequency $\omega$
+depends on the stiffness $k$ of the spring and mass $m$.
+
+The general procedure for dimensional analysis is as follows.
+We first identify a *target* quantity: the thing we are trying to
+control, predict or measure.
+In this case, it is the angular frequency.
+We then list the *relevant parameters* which our target quantity should
+depend on.
+In this case, these are the stiffness $k$ and mass $m$, with dimensions
+- stiffness, $[k] = M/T^2$;
+- mass $[m] = M$.
+
+We now guess that the target quantity is a *product of powers* of
+the relevant parameters, taking the form:
+
+$$
+\omega = k^a m^b.
+$$
+
+(I'll comment on how this assumption can break down in the usage notes.)
+We can find the powers $a$ and $b$ from the requirement that the
+dimensions on both sides are equal:
+
+$$
+\begin{align*}
+[k^a m^b] &= \frac{M^a}{T^{2a}}\cdot M^b = \frac{M^{a+b}}{T^{2a}} \\
+[\omega] &= \frac{1}{T}.
+\end{align*}
+$$
+
+Since there are no factors of mass for the RHS, we have $b = -a$, and
+hence $T^{2a} = T$, or $a = 1/2$.
+Thus, dimensional analysis gives
+
+$$
+\omega \sim \sqrt{\frac{k}{m}},
+$$
+
+where $\sim$ indicates that some numbers may have gone astray.
+In fact, our sneaky choice of angular frequency $\omega$ instead of
+period $t_\text{period}$ means this is *exactly* correct, numbers and
+all.
+(If we stuck with period we would be off by a factor of $2\pi$, which
+is not ideal if we want to design a precision timepiece.)
+We didn't need to analyse any forces, solve a differential
+equation, or even deal with numbers.
+Dimensional analysis let us skip straight to the answer!
+
+So, if your high school physics lab has springs of stiffness $k = 10^2 \text{
+N/m}$ ($100$ Newtons for every meter displaced), then to obtain an
+oscillation period of $ t_\text{period} =1$ second, you should attach
+a mass
+
+$$
+m = \frac{k t_\text{period}^2}{4\pi^2} = \frac{10^2 \text{
+kg}}{4\pi^2} \approx 2.5 \text{ kg}.
+$$
+
+MAKE MORE INTERESTING
+
+---
+
+1. Using dimensional analysis, show that the angular frequency does
+   not depend on the initial displacement $x$ of the mass.
+
+---
