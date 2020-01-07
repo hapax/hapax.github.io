@@ -138,8 +138,8 @@ Go grab a string, a pumpkin, and a stop watch, and you'll find that
 (at least for small kicks) the period is independent of the size of
 initial kick.
 That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
-You can also eliminate the pumpkin mass empirically, but to show off
-the power of dimensional analysis, we'll live it in for the moment.
+You can also eliminate the pumpkin mass empirically, but as we'll see,
+we can leave it in and let dimensional analysis *tell us* it's irrelevant.
 
 I'm going to do something a bit sneaky that will seem natural if
 you've dealt with oscillations before.
