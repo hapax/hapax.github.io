@@ -166,17 +166,20 @@ T^{-1} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
 $$
 
 Requiring the leftmost and rightmost expression to be equal, we can immediately read off the powers:
-$a = 0$, $2c = 1$, $b = -c$, and hence
-
-$$
-\omega \sim \sqrt{\frac{g}{\ell}},
-$$
-
-where $\sim$ means "up to numerical factors".
-In fact, my earlier piece of sneakiness (replacing period with angular
-frequency) means this is *exactly* correct!
+$a = 0$, $2c = 1$, $b = -c$, and hence $\omega \sim (g/c)^{1/2}$, where $\sim$ means "up to numerical factors".
 As promised, dimensional analysis also kindly informs us that the mass
 is irrelevant.
+In fact, my earlier piece of sneakiness (replacing period with angular
+frequency) means this is *exactly* correct (for small kicks):
+
+$$
+\omega = \sqrt{\frac{g}{\ell}}.
+$$
+
+Let me emphase how powerful this is.
+We didn't need to analyse any forces, solve a differential
+equation, or even deal with numbers.
+Dimensional analysis let us skip straight to the answer!
 
 Suppose we want to make a pumpkin clock with the conventional
 grandfather-clock period of $t = 2 \text{
@@ -194,14 +197,17 @@ Incidentally, this explains why grandfather clocks are so large!
 They need to house a large (usually non-cucurbitar) pendulum of
 length around one metre.
 
-Let me emphase how powerful this is.
-We didn't need to analyse any forces, solve a differential
-equation, or even deal with numbers.
-Dimensional analysis let us skip straight to the answer!
+In order to make the clock, we need a ruler to measure out the length
+of string.
+But for maximal whimsy, we can turn a stopwatch, pumpkin and spool of
+string *into* a ruler!
+Use the string as a ruler, snip off the corresponding length, attach
+the pumpkin and start it gently wobbling.
+The period tells us the length!
 
 #### 2.2. Drag and drop<a id="sec-2-3" name="sec-2-3"></a>
 
-Maybe pumpkin pendulums aren't your jam.
+Maybe turning pumpkins into timekeepers isn't 
 Instead, imagine
 
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
