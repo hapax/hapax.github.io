@@ -183,12 +183,12 @@ is irrelevant.
 
 Suppose we want to make a pumpkin clock with the conventional
 grandfather-clock period of $t = 2 \text{
-s}$, or $\omega = \pi \text{ s}^{-1}$, so that each half swing takes
+s}$, so that each half swing takes
 one second.
 Then the length of the string we suspend our pumpkin from should be
 
 $$
-\ell = \frac{g}{\omega^2} = \frac{9.8 }{\pi^2}\text{ m} \approx 1
+\ell = \frac{g}{\omega^2} = \frac{g t^2}{(2\pi)^2} = \frac{9.8 }{\pi^2}\text{ m} \approx 1
 \text{ m}.
 $$
 
