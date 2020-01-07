@@ -176,10 +176,10 @@ $$
 $$
 
 where $\sim$ means "up to numerical factors".
-In fact, my earlier piece of sneakiness, replacing period with angular
-frequency, means this is *exactly* correct!
-We have also learnt, en route, that the mass of the pumpkin is
-irrelevant.
+In fact, my earlier piece of sneakiness (replacing period with angular
+frequency) means this is *exactly* correct!
+As promised, dimensional analysis also kindly informs us that the mass
+is irrelevant.
 
 Suppose we want to make a pumpkin clock with the conventional
 grandfather-clock period of $t = 2 \text{
