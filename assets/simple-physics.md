@@ -118,7 +118,7 @@ Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating some quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
-#### 2.1. Pendulous pumpkins <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
 
 Suppose we attach the old pumpkin to a length of string and give it a
 kick.
@@ -209,13 +209,13 @@ Use the string as a ruler, snip off the corresponding amount, attach
 the pumpkin and gently wobble.
 By timing the period of the wobble, we can infer the length!
 
-#### 2.3. Drag and drop<a id="sec-2-3" name="sec-2-3"></a>
+#### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
 Let's do something less whimsical and consider the aeorodynamics of spheres.
 In realistic fluids, adjacent layers of flow like to stick together, and will
 resist *shearing* forces which try to pull them apart.
-This resistance to shearing is called *viscosity*.
+This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 Dragging an object through a fluid takes work because, as we plough
 through, we necessarily displace these layers.
 
@@ -281,10 +281,20 @@ $$
 F_d \sim \mu r v.
 $$
 
-https://en.wikipedia.org/wiki/Viscosity
+As usual, there may be a number in front, and with considerably more
+work,
+[George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
+showed that
+
+$$
+F_d = 6\pi \mu r v.
+$$
+
+This is called *Stokes' law* in honour of its discoverer.
+
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
 
-#### 2.3. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
+#### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
 Since we throw away numbers, dimensional analysis will usually only be
 good up to an overall numerical factor.
