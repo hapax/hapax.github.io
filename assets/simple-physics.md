@@ -336,12 +336,12 @@ $$
 or $4$ centimetres per second.
 It requires only mild updrafts of warm air (rising from the warmer
 regions near the ground) to keep the cloud aloft.
-Stokes' law also explains why rain falls when droplets get large enough.
+Stokes' law also explains why rain falls.
 The terminal velocity $v_\text{term} \propto r^2$, increasing quickly
 as droplets get larger.
-If droplets coalesce with vapour arriving in an updraft, they speed up
-and fall out of the cloud.
-This is rain!
+If droplets coalesce (for example, with water vapour arriving in an
+updraft) they will speed up and fall out of the cloud.
+Voilà, rain!
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
