@@ -132,7 +132,7 @@ Let's start by listing the possibly relevant properties of the system:
 - the initial displacement of the pumpkin $x$, dimension $[x] = L$.
 
 Not all of these quantities will turn out to be relevant.
-The first one we can get rid of is the size of the initial kick, $x$.
+For instance, the size of the initial kick $x$ can be discarded.
 Why?
 Go grab a string, a pumpkin, and a stop watch, and you'll find that
 (at least for small kicks) the period is independent of the size of
