@@ -51,7 +51,7 @@ though feel free to check these out if you want more examples than you
 can dangle a plumb bob at.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
-I only discovered recently!) which covers similar ground in greater depth.
+I only discovered recently!), covering similar ground in greater depth.
 The hacks are in no particular order except for the "fundamental hacks" of
 dimensional analysis and Fermi estimation.
 Everything else can be read independently and in any order.
