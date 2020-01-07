@@ -210,8 +210,8 @@ By timing the period of the wobble, we can infer the length!
 
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
-Maybe pumpkin timepieces aren't your thing.
-Let's do something less whimsical and consider the aeorodynamics of spheres.
+In case pumpkin timepieces aren't your thing, we'll ratchet down the
+whimsy and investigate the aeorodynamics of spheres.
 In realistic fluids, adjacent layers of flow like to stick together, and will
 resist *shearing* forces which try to pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
