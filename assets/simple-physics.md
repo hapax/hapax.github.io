@@ -275,6 +275,11 @@ On the LHS, $M$ appears as $M^1$, so $c = 1$.
 The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
 Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
 a = 1$.
+This leads to the rather simple answer
+
+$$
+F_d \sim \mu r v.
+$$
 
 https://en.wikipedia.org/wiki/Viscosity
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
