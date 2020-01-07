@@ -256,6 +256,26 @@ f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu]
 \left[\frac{dF}{Av}\right] = \frac{L(ML/T^2)}{L^2(L/T)} = \frac{M}{LT}.
 $$
 
+We can now proceed with our dimensional analysis.
+Let's write the drag force on the sphere $F_d$ as a product of powers
+of the remaining factors,
+
+$$
+F_d = r^a v^b \mu^c.
+$$
+
+Then
+
+$$
+\frac{ML}{T^2} = [F_d] = [r^a v^b \mu^c] = L^a \cdot
+\left(\frac{L}{T}\right)^b \cdot \left(\frac{M}{LT}\right)^c = \frac{L^{a+b-c}M^c}{T^{b+c}}.
+$$
+
+On the LHS, $M$ appears as $M^1$, so $c = 1$.
+The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
+Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
+a = 1$.
+
 https://en.wikipedia.org/wiki/Viscosity
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
 
