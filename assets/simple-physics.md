@@ -17,7 +17,7 @@ date:  2020-01-06
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">The hack</a>
-   2. <a href="#sec-2-2">Example: the wobbly pumpkin</a>
+   2. <a href="#sec-2-2">Pendulous pumpkins</a>
    3. <a href="#sec-2-3">Example: </a>
    4. <a href="#sec-2-4">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
@@ -116,7 +116,7 @@ Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating some quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
-#### 2.2. Example: the wobbly pumpkin <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. Pendulous pumpkins <a id="sec-2-2" name="sec-2-2"></a>
 
 Suppose we attach the old pumpkin to a length of string and give it a
 kick.
@@ -181,6 +181,22 @@ In fact, my earlier piece of sneakiness, replacing period with angular
 frequency, means this is *exactly* correct!
 We have also learnt, en route, that the mass of the pumpkin is
 irrelevant.
+
+Suppose we want to make a pumpkin clock with the conventional
+grandfather-clock period of $t = 2 \text{
+s}$, or $\omega = \pi \text{ s}^{-1}$, so that each half swing takes
+one second.
+Then the length of the string we suspend our pumpkin from should be
+
+$$
+\ell = \frac{g}{\omega^2} = \frac{9.8 }{\pi^2}\text{ m} \approx 1
+\text{ m}.
+$$
+
+Thus, for a conventional clock, we should suspend the pumpkin from a
+string around one meter long.
+Incidentally, this explains why grandfather clocks are so large!
+They need to house a large (generically non-pumpkin) pendulum.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
