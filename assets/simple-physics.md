@@ -192,10 +192,9 @@ $$
 \text{ m}.
 $$
 
-Thus, for a conventional clock, we should suspend the pumpkin from a
-string around one meter long.
 Incidentally, this explains why grandfather clocks are so large!
-They need to house a large (generically non-pumpkin) pendulum.
+They need to house a large (generically non-pumpkin) pendulum of
+length around one metre.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
