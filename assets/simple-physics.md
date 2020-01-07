@@ -185,7 +185,7 @@ Suppose we want to make a pumpkin clock with the conventional
 grandfather-clock period of $t = 2 \text{
 s}$, so that each half swing takes
 one second.
-Then the length of the string we suspend our pumpkin from should be
+Then we should suspend the old pumpkin from a string of length
 
 $$
 \ell = \frac{g}{\omega^2} = \frac{g t^2}{(2\pi)^2} = \frac{9.8 }{\pi^2}\text{ m} \approx 1
