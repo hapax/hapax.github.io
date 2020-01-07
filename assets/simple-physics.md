@@ -193,7 +193,7 @@ $$
 $$
 
 Incidentally, this explains why grandfather clocks are so large!
-They need to house a large (generically non-pumpkin) pendulum of
+They need to house a large (usually non-cucurbitar) pendulum of
 length around one metre.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
