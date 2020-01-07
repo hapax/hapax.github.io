@@ -42,9 +42,9 @@ I am not above writing tediously intricate mechanics problems.
 But it was much more instructive to master the basic hacks and use
 them to teach myself some new things.
 I'm not sure about the students, but it certainly made me a better physicist!
-
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
+
 To keep things interesting, I've avoided overlap with my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
@@ -53,7 +53,6 @@ can dangle a plumb bob at.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
 I only discovered recently!) which covers similar ground in greater depth.
-
 The hacks are in no particular order except for the "fundamental hacks" of
 dimensional analysis and Fermi estimation.
 Everything else can be read independently and in any order.
