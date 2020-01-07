@@ -230,9 +230,9 @@ The possibly relevant parameters are:
 - the density of the fluid $\rho$, dimension $[\rho] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
-In principle, all of these factors will be involved, but this is too many
-factors for dimensional analysis to work.
-(See <a href="#sec-2-4">the usage notes</a> to understand why.)
+In principle, all of these factors will be involved; this is too many
+for dimensional analysis to work.
+(See the <a href="#sec-2-4">usage notes</a> to understand why.)
 But it turns out that the mass of the fluid and sphere are only
 relevant when the fluid flow is [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
 If the sphere moves through the fluid slowly enough, only the
@@ -291,12 +291,12 @@ F_d = 6\pi \mu r v.
 $$
 
 This is called *Stokes' law* in honour of its discoverer.
-But we got pretty darn close with only a few lines of algebra!
+We got pretty darn close with only a few lines of algebra!
 
 We'll conclude by applying Stokes' law to the *terminal velocity* of
 water droplets in a cloud.
-This will help explain why clouds float, and rain falls!
-Let's consider the general case first.
+This will help explain why clouds float and rain falls!
+Let's consider the general case of a slowly falling sphere first.
 A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
 If it falls through a fluid of viscosity $\mu$, then there will be a
 drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
@@ -309,16 +309,16 @@ F_w = mg = 6\pi \mu r v_{\text{term}} = F_d \quad \Longrightarrow
 $$
 
 To make life a little simpler, we can express the mass of the sphere
-in terms of its volume and average density $\rho$:
+in terms of its volume $V$ and average density $\rho$:
 
 $$
-m = \frac{4\pi}{r} \p r^3 \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
+m = V\rho = \frac{4\pi}{3} r^3 \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
 $$
 
-If we like, we can also take buoyancy forces into account; these
-simply replace $\rho$ with $\rho - \rho_{\text{fluid}}$, where
-$\rho_{\text{fluid}}$ is the density of the fluid.
-Since water is much denser than air, we can ignore buoyancy forces here.
+If we like, we can also take buoyancy forces $F_b = V
+\rho_\text{fluid}$ into account, where $\rho_{\text{fluid}}$ is the density of the fluid.
+This just replaces $\rho$ with $\rho - \rho_{\text{fluid}}$.
+Since water is much denser than air, the buoyancy forces in our case are negligible.
 
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
