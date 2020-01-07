@@ -332,9 +332,9 @@ regions near the ground) to keep the cloud aloft.
 Stokes' law also explains why rain falls when droplets get large enough.
 The terminal velocity $v_\text{term} \propto r^2$, increasing quickly
 as droplets get larger.
-If droplets coalesce with vapour arriving in an updraft, they get
-large enough to fall out of the cloud.
-Rain!
+If droplets coalesce with vapour arriving in an updraft, they speed up
+and fall out of the cloud.
+This is rain!
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
