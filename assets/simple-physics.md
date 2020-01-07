@@ -127,7 +127,60 @@ of the system, we can utilise this knowledge to make a pumpkin clock!
 Let's start by listing the possibly relevant properties of the system:
 - the mass of the pumpkin $m$, with dimension $[m] = M$;
 - the length of the string $\ell$, dimension $[\ell] = L$;
-- gravitational acceleration $g = 9.8 \text{ m/s}^2$, dimension $[g] = LT^{-2}$.
+- gravitational acceleration $g = 9.8 \text{ m/s}^2$, dimension $[g] =
+  LT^{-2}$ (from the units);
+- the initial displacement of the pumpkin $x$, dimension $[x] = L$.
+
+Not all of these quantities will turn out to be relevant.
+The first one we can get rid of is the size of the initial kick, $x$.
+Why?
+Go grab a string, a pumpkin, and a stop watch, and you'll find that
+(at least for small kicks) the period is independent of the size of
+initial kick.
+That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
+You can also eliminate the pumpkin mass empirically, but to show off
+the power of dimensional analysis, we'll live it in for the moment.
+
+I'm going to do something a bit sneaky that will seem natural if
+you've dealt with oscillations before.
+Instead of period $t$, a more natural quantity is *angular frequency*:
+
+$$
+\omega = \frac{2\pi}{t}.
+$$
+
+(If we imagine the oscillations as being measured on a clock of unit
+radius, with one cycle per period, this is the velocity of the hand.)
+Dimensional analysis is nothing fancier than guess that $\omega$ is related to $m$,
+$\ell$ and $g$ by a physical law of the form
+
+$$
+\omega = m^a \ell^b g^c,
+$$
+
+for some powers $a, b, c$.
+We can determine the powers by calculating the dimensions of both sides:
+
+$$
+\begin{align*}
+T^{-1} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
+\end{align*}
+$$
+
+On the LHS, we have $T^{-1}$.
+On the RHS, we have $M^a L^{b+c}T^{-2c}$.
+Requiring the two to be equal, we can immediately read off the powers:
+$a = 0$, $2c = 1$, $b = -c$, and hence
+
+$$
+\omega \sim \sqrt{\frac{g}{\ell}},
+$$
+
+where $\sim$ means "up to numerical factors".
+In fact, my earlier piece of sneakiness, replacing period with angular
+frequency, means this is *exactly* correct!
+We have also learnt, en route, that the mass of the pumpkin is
+irrelevant.
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
