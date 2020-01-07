@@ -7,19 +7,18 @@ categories: [Physics, Teaching]
 date:  2020-01-06
 ---
 
-**January 6, 2020.** *Physics is often presented as the most arcane,
+**January 6, 2020.** *Physics is often presented as the most arcane and
   mathematically impenetrable of natural sciences. Here, we illustrate
-  how simple physics hacks using only pre-calculus
-  mathematics can still be awesomely powerful.*
+  how simple physical ideas, back up by pre-calculus
+  mathematics, can be awesomely powerful.*
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Dimensional analysis</a>
-   1. <a href="#sec-2-1">The hack</a>
-   2. <a href="#sec-2-2">Pendulous pumpkins</a>
-   3. <a href="#sec-2-3">Example: </a>
-   4. <a href="#sec-2-4">Usage notes</a>
+   1. <a href="#sec-2-1">Pendulous pumpkins</a>
+   2. <a href="#sec-2-2">Drag and drop</a>
+   3. <a href="#sec-2-3">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -59,8 +58,6 @@ For each hack, I quickly outline the physics, do some examples,
 and finish with usage notes.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
-
-#### 2.1. The hack <a id="sec-2-1" name="sec-2-1"></a>
 
 Physics is ultimately about experimental measurements.
 We take some system, e.g., an old pumpkin, and poke or prod it with a
@@ -116,7 +113,7 @@ Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating some quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
-#### 2.2. Pendulous pumpkins <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.1. Pendulous pumpkins <a id="sec-2-2" name="sec-2-2"></a>
 
 Suppose we attach the old pumpkin to a length of string and give it a
 kick.
@@ -197,7 +194,19 @@ Incidentally, this explains why grandfather clocks are so large!
 They need to house a large (usually non-cucurbitar) pendulum of
 length around one metre.
 
-#### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
+Let me emphase how powerful this is.
+We didn't need to analyse any forces, solve a differential
+equation, or even deal with numbers.
+Dimensional analysis let us skip straight to the answer!
+
+#### 2.2. Drag and drop<a id="sec-2-3" name="sec-2-3"></a>
+
+Maybe pumpkin pendulums aren't your jam.
+Instead, imagine
+
+https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
+
+#### 2.3. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
 
 Since we throw away numbers, dimensional analysis will usually only be
 good up to an overall numerical factor.
