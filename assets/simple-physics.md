@@ -293,11 +293,10 @@ $$
 This is called *Stokes' law* in honour of its discoverer.
 But we got pretty darn close with only a few lines of algebra!
 
-Stokes' law has some wonderful applications, with the simplest being
-to the *terminal velocity* of a sphere falling slowly through a fluid.
-This may sound rather artificial, but it lets us explain why clouds
-stay in the air, despite being made of droplets much denser than air.
-Let's start by working out the terminal velocity in general.
+We'll conclude by applying Stokes' law to the *terminal velocity* of
+water droplets in a cloud.
+This will help explain why clouds float, and rain falls!
+Let's consider the general case first.
 A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
 If it falls through a fluid of viscosity $\mu$, then there will be a
 drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
@@ -306,11 +305,20 @@ balance out:
 
 $$
 F_w = mg = 6\pi \mu r v_{\text{term}} = F_d \quad \Longrightarrow
-\quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu},
+\quad v_{\text{term}} = \frac{mg}{6\pi \mu r}.
 $$
 
-where we traded in the mass of the sphere for its average density
-$\rho$ via $m = (4\pi/3)\rho r^3$.
+To make life a little simpler, we can express the mass of the sphere
+in terms of its volume and average density $\rho$:
+
+$$
+m = \frac{4\pi}{r} \p r^3 \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
+$$
+
+If we like, we can also take buoyancy forces into account; these
+simply replace $\rho$ with $\rho - \rho_{\text{fluid}}$, where
+$\rho_{\text{fluid}}$ is the density of the fluid.
+Since water is much denser than air, we can ignore buoyancy forces here.
 
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
@@ -328,7 +336,6 @@ $$
 or $4$ centimetre per second.
 It requires only mild updrafts of warm air (which rise from the warmer
 regions near the ground) to keep the cloud aloft.
-
 Stokes' law also explains why rain falls when droplets get large enough.
 The terminal velocity $v_\text{term} \propto r^2$, increasing quickly
 as droplets get larger.
@@ -581,3 +588,8 @@ through we must push the fluid aside.
 In realistic fluids, adjacent layers like to stick together, so they
 resist the shearing; a phenomenon called *viscosity*.
 This is measured by a number $\mu$, 
+
+with the simplest being
+to the *terminal velocity* of a sphere falling slowly through a fluid.
+This may sound rather artificial, but it lets us explain why clouds
+stay in the air, despite being made of droplets much denser than air.
