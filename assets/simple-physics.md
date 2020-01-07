@@ -24,7 +24,7 @@ date:  2020-01-06
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-For over a year, I've been heavily involved in running a
+For the last year or so, I've been heavily involved in running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 I've learned a lot about logistics, leadership, and balancing leaning
 towers of pizza.
