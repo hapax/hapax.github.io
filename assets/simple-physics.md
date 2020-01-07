@@ -234,7 +234,7 @@ In principle, all of these factors will be involved; this is too many
 for dimensional analysis to work.
 (See the <a href="#sec-2-4">usage notes</a> to understand why.)
 But it turns out that the mass of the fluid and sphere are only
-relevant when the fluid flow is [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
+relevant when the fluid flow is partly [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
 If the sphere moves through the fluid slowly enough, only the
 geometry of the sphere and viscosity are relevant.
 This is called "laminar" (layered) flow because, in contrast to
