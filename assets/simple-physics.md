@@ -27,8 +27,7 @@ date:  2020-01-06
 For the last year or so, I've been heavily involved in running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 I've learned a lot about logistics, leadership, and balancing leaning
-towers of pizza.
-But surprisingly, the biggest lesson has been about *physics itself*.
+towers of pizza, but surprisingly, the biggest lesson has been about *physics itself*.
 In a physics circle, the mandate is to write problems that high school
 students find challenging but fair given their limited background
 knowledge.
