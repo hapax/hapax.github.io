@@ -85,9 +85,9 @@ We throw away the number out front and focus on the unit, asking: what
 aspect of the system does it measure? Centimetres measure length,
 hours measure time, and pounds measure mass.
 
-Other dimensions can be built from these basic dimensions, using
+More complicated dimensions follow from the basic ones according to
 simple algebraic rules.
-These are easier to show than to tell.
+These are easier to show than tell.
 Area, for example, has dimensions $L^2$:
 
 $$
@@ -95,8 +95,7 @@ $$
 \times [1 \text{ cm}] = L^2.
 $$
 
-A more direct way to see this is to use a general result, e.g. the
-area of a rectangle:
+Rather than use the units, we can use general formulas, e.g. for the area of a rectangle:
 
 $$
 [\text{area}] = [\text{width}\times \text{height}] = [\text{width}]
@@ -112,15 +111,15 @@ $$
 
 Physical laws tell us how measurements depend
 on each other.
-For example, Newton's second law $F = ma$ tells us that if we measure a given force
-$F$ on an object whose mass is measured to be $m$, it will accelerate
-at a rate $a = F/m$.
-It's a very simple observation, but if the two sides of $F = ma$ are
-equal, the dimensions must agree.
-Sometimes, this observation is enough to *determine* relationships
-between measurements!
-Since we throw away numbers, dimensional analysis will usually only be
-good up to an overall numerical factor.
+For example, Newton's second law $F = ma$ tells us how measurements of
+the force ($F$) applied to an old pumpkin (of mass $m$) are related to its
+acceleration ($a$).
+But here is a simple observation.
+If the two sides of $F = ma$ are equal, the dimensions must agree.
+Sometimes, we can actually go backwards.
+By assembling some physical quantities with known dimensions, we can
+*determine* the physical laws connecting them!
+Once again, this is easier to show with examples than abstract descriptions.
 
 #### 2.3. Example: spring-mass system <a id="sec-2-3" name="sec-2-3"></a>
 
@@ -138,6 +137,9 @@ $$
 theoretical physicists. The original constant is $h = 2\pi \hbar$.)
 
 #### 2.4. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
+
+Since we throw away numbers, dimensional analysis will usually only be
+good up to an overall numerical factor.
 
 [notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
