@@ -111,7 +111,6 @@ Physical laws tell us how measurements depend
 on each other.
 For example, Newton's second law $F = ma$ tells us how measurements of
 force, mass and acceleration are related.
-But here is a simple observation.
 If the two sides of $F = ma$ are equal, the dimensions must agree.
 Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating some quantities from their dimensions!
