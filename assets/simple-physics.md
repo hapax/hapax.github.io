@@ -134,9 +134,9 @@ Let's start by listing the possibly relevant properties of the system:
 Not all of these quantities will turn out to be relevant.
 For instance, the size of the initial kick $x$ can be discarded.
 Why?
-Go grab a string, a pumpkin, and a stop watch, and you'll find that
+Go grab a string, a pumpkin, and a stopwatch, and you'll find that
 (at least for small kicks) the period is independent of the size of
-initial kick.
+the kick.
 That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
 we can leave it in and let dimensional analysis *tell us* it's irrelevant.
