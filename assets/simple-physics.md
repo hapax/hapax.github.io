@@ -311,22 +311,30 @@ $$
 
 where we traded in the mass of the sphere for its average density
 $\rho$ via $m = (4\pi/3)\rho r^3$.
-We will ignore buoyancy forces, since these will turn out to be negligible.
 
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
-has a radius around $r = 10^{-5} \text{ m}$.
+has a radius around $r = 2\times 10^{-5} \text{ m}$.
 Finally, the viscosity of air is $\mu \approx 2\times 10^{-5} \text{
 kg/m s}$.
 The terminal speed of a cloud droplet is therefore
 
 $$
-v_{\text{term}} = \frac{2\rho r^2 g}{9\mu} = \frac{2(10^{-5} \text{ m})^2(10^3 \text{
+v_{\text{term}} = \frac{2\rho r^2 g}{9\mu} = \frac{2(2\times 10^{-5} \text{ m})^2(10^3 \text{
 kg/m}^3)(9.8 \text{ m/s}^2)}{9(2\times 10^{-5} \text{
-kg/m s})} \approx 0.01 \text{ m/s},
+kg/m s})} \approx 0.04 \text{ m/s},
 $$
 
-or $1$ centimetre per second.
+or $4$ centimetre per second.
+It requires only mild updrafts of warm air (which rise from the warmer
+regions near the ground) to keep the cloud aloft.
+
+Stokes' law also explains why rain falls when droplets get large enough.
+The terminal velocity $v_\text{term} \propto r^2$, increasing quickly
+as droplets get larger.
+If droplets coalesce with vapour arriving in an updraft, they get
+large enough to fall out of the cloud.
+Rain!
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
