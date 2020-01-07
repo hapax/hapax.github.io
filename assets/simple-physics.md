@@ -37,9 +37,8 @@ tediously intricate mechanics problems, with a smattering of circuits,
 optics, and other elementary topics.
 
 I decided to view this as a challenge: do more with less.
-I am not above writing tediously intricate mechanics problems.
-But it was much more instructive to master the basic hacks and use
-them to teach myself some new things.
+I am not above writing tediously intricate mechanics problems, but it
+was much more instructive to master the basic hacks and use them to teach myself new things.
 I'm not sure about the students, but it certainly made me a better physicist!
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
@@ -108,7 +107,13 @@ Physical laws tell us how measurements depend
 on each other.
 For example, Newton's second law $F = ma$ tells us how measurements of
 force, mass and acceleration are related.
-If the two sides of $F = ma$ are equal, the dimensions must agree.
+If the two sides of $F = ma$ are equal, the dimensions must agree,
+with
+
+$$
+[F] = [m a] = [m]\times \left[\frac{v}{t}\right] = \frac{ML}{T^2}.
+$$
+
 Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating some quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
@@ -196,20 +201,62 @@ $$
 Incidentally, this explains why grandfather clocks are so large!
 They need to house a large (usually non-cucurbitar) pendulum of
 length around one metre.
-
 In order to make the clock, we need a ruler to measure out the length
 of string.
 But for maximal whimsy, we can turn a stopwatch, pumpkin and spool of
 string *into* a ruler!
-Use the string as a ruler, snip off the corresponding length, attach
-the pumpkin and start it gently wobbling.
-The period tells us the length!
+Use the string as a ruler, snip off the corresponding amount, attach
+the pumpkin and gently wobble.
+By timing the period of the wobble, we can infer the length!
 
-#### 2.2. Drag and drop<a id="sec-2-3" name="sec-2-3"></a>
+#### 2.3. Drag and drop<a id="sec-2-3" name="sec-2-3"></a>
 
-Maybe turning pumpkins into timekeepers isn't 
-Instead, imagine
+Maybe pumpkin timepieces aren't your thing.
+Let's do something less whimsical and consider the aeorodynamics of spheres.
+In realistic fluids, adjacent layers of flow like to stick together, and will
+resist *shearing* forces which try to pull them apart.
+This resistance to shearing is called *viscosity*.
+Dragging an object through a fluid takes work because, as we plough
+through, we necessarily displace these layers.
 
+We're now going to determine the *drag force* on a sphere being
+dragged through a viscous fluid.
+As above, we're going to use dimensional analysis to write this drag force
+as a function of other parameters.
+The possibly relevant parameters are:
+- the radius of the sphere $r$, dimension $[r] = L$;
+- the speed of the sphere $v$, dimension $[v] = LT^{-1}$;
+- the mass of the sphere $m$, dimension $[m] = M$;
+- the density of the fluid $\rho$, dimension $[\rho] = ML^{-3}$;
+- the viscosity of the fluid $\mu$.
+
+In principle, all of these factors will be involved, but this is too many
+factors for dimensional analysis to work.
+(See <a href="#sec-2-4">the usage notes</a> to understand why.)
+But it turns out that the mass of the fluid and sphere are only
+relevant when the fluid flow is [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
+If the sphere moves through the fluid slowly enough, then only the
+geometry of the sphere and the viscosity of the fluid are relevant.
+This is called "laminar" (layered) flow because, in contrast to
+turbulent flow, the fluid remains in well-defined layers.
+
+I haven't told you the dimensions of viscosity yet, but we can
+determine them easily enough.
+Imagine two layers separated by a distance $d$.
+Suppose I try to separate them by simply moving one layer, parallel to
+the second, but at a speed $v$.
+Experiment shows that the fluid will resist with some force $f = F/A$ per
+unit area, proportional to $v$ and inversely proportional to the
+separation $d$.
+The constant of the proportionality is the viscosity $\mu$, and we can
+use this to determine the dimensions:
+
+$$
+f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu] =
+\left[\frac{dF}{Av}\right] = \frac{L(ML/T^2)}{L^2(L/T)} = \frac{M}{LT}.
+$$
+
+https://en.wikipedia.org/wiki/Viscosity
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
 
 #### 2.3. Usage notes<a id="sec-2-4" name="sec-2-4"></a>
@@ -451,3 +498,9 @@ $$
 
 (Technically, this is the "reduced" Planck constant favoured by
 theoretical physicists. The original constant is $h = 2\pi \hbar$.)
+
+Pushing an object through a fluid takes work, since as we plough
+through we must push the fluid aside.
+In realistic fluids, adjacent layers like to stick together, so they
+resist the shearing; a phenomenon called *viscosity*.
+This is measured by a number $\mu$, 
