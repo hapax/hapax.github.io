@@ -212,7 +212,7 @@ out how long the string is!
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
 In case pumpkin timepieces aren't your thing, we'll ratchet down the
-whimsy and turn to a more serious subject: the aeorodynamics of spheres.
+whimsy and turn to the aeorodynamics of spheres.
 In realistic fluids, adjacent layers of flow like to stick together, and will
 resist *shearing* forces which try to pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
