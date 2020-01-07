@@ -274,13 +274,13 @@ On the LHS, $M$ appears as $M^1$, so $c = 1$.
 The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
 Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
 a = 1$.
-This leads to the rather simple answer
+Dimensional analysis has led us to the rather simple answer
 
 $$
 F_d \sim \mu r v.
 $$
 
-As usual, there may be a number in front, and with considerably more
+As usual, we can't determine if there is a number out fornt. With considerably more
 work,
 [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 showed that
@@ -290,6 +290,22 @@ F_d = 6\pi \mu r v.
 $$
 
 This is called *Stokes' law* in honour of its discoverer.
+But we got pretty darn close with only a few lines of algebra!
+
+Stokes' law has some wonderful applications, with the simplest being
+to the *terminal velocity* of a sphere falling through a fluid.
+This may sound rather artificial, but it lets us estimate the speed at
+which raindrops and hailstones strike the ground!
+Let's start by working out the terminal velocity in general.
+A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
+If it falls through a fluid of viscosity $\mu$, then there will be a
+drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
+These two forces will balance at the terminal velocity:
+
+$$
+F_w = mg = 6\pi \mu r v_{\text{terminal}} = F_d \quad \Longrightarrow
+\quad v_{\text{terminal}} = \frac{mg}{6\pi \mu r}.
+$$
 
 https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/
 
