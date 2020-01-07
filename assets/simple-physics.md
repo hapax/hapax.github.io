@@ -141,17 +141,18 @@ That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
 we can leave it in and let dimensional analysis *tell us* it's irrelevant.
 
-I'm going to do something a bit sneaky that will seem natural if
+I'm going to do something a bit sneaky, though it will seem natural if
 you've dealt with oscillations before.
-Instead of period $t$, a more natural quantity is *angular frequency*:
+Instead of period $t$, we will deal with the *angular frequency*
 
 $$
 \omega = \frac{2\pi}{t}.
 $$
 
-(If we imagine the oscillations as being measured on a clock of unit
-radius, with one cycle per period, this is the velocity of the hand.)
-Dimensional analysis is nothing fancier than guess that $\omega$ is related to $m$,
+If we imagine the oscillations as being ticked off on a clock of unit
+radius, with one cycle per period, then this is just the velocity of
+the tip of the hand.
+Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
 $\ell$ and $g$ by a physical law of the form
 
 $$
@@ -159,7 +160,7 @@ $$
 $$
 
 for some powers $a, b, c$.
-We can determine the powers by calculating the dimensions of both sides:
+We can determine the powers from the dimensions of each side:
 
 $$
 \begin{align*}
