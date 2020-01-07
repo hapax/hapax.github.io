@@ -111,13 +111,11 @@ $$
 Physical laws tell us how measurements depend
 on each other.
 For example, Newton's second law $F = ma$ tells us how measurements of
-the force ($F$) applied to an old pumpkin (of mass $m$) are related to its
-acceleration ($a$).
+force, mass and acceleration are related.
 But here is a simple observation.
 If the two sides of $F = ma$ are equal, the dimensions must agree.
-Sometimes, we can actually go backwards.
-By assembling some physical quantities with known dimensions, we can
-*determine* the physical laws connecting them!
+Remarkably, we can sometimes *reverse* this process, and determine the
+physical laws relating some quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
 #### 2.2. Example: the wobbly pumpkin <a id="sec-2-2" name="sec-2-2"></a>
