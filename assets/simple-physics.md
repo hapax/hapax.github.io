@@ -24,36 +24,28 @@ date:  2020-01-06
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-I've been heavily involved in running a
-[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-for over a year now.
+For over a year, I've been heavily involved in running a
+[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 I've learned a lot about logistics, leadership, and balancing leaning
 towers of pizza.
 But surprisingly, the biggest lesson has been about *physics itself*.
-In a physics circle (or high school physics competition more
-generally), the mandate is to write problems that high school students
-will find challenging but fair given their limited background knowledge.
+In a physics circle, the mandate is to write problems that high school
+students find challenging but fair given their limited background
+knowledge.
 In particular, problems should avoid calculus, which is not part of
 Canada's high school curriculum.
 Judging from competition problems, this should restrict us to
 tediously intricate mechanics problems, with a smattering of circuits,
-optics, and other random elementary topics.
+optics, and other elementary topics.
 
-I decided to view this as a challenge: do more with less, i.e. find
-ways to introduce advanced topics without pages of tedious algebra.
-As a theoretical physicist used to employing a full arsenal of
-mathematical tools, this was a strict constraint!
-But perversely, creative outcomes are often optimised by *adding* constraints.
-In trying to get at more advanced topics, I was led to reappraise
-basic physics hacks like dimensional analysis.
-Though I am not above writing tediously intricate mechanics problems,
-it was much more exciting to use these simple tools to teach myself
-something new, with the added benefits that genuine enthusiasm brings.
+I decided to view this as a challenge: do more with less.
+I am not above writing tediously intricate mechanics problems.
+But it was much more instructive to master the basic hacks and use
+them to teach myself some new things.
+I'm not sure about the students, but it certainly made me a better physicist!
 
-The goal of this post is to share a few of these hacks.
-Hopefully, you'll be convinced of the awesome power of simple physics!
-Of course, like every tool, there are quirks and quagmires to be aware
-of, and I will comment on these in turn.
+The goal of this post is to share a few of these hacks and convince
+you of their awesome power.
 To keep things interesting, I've avoided overlap with my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
