@@ -333,8 +333,8 @@ kg/m}^3)(9.8 \text{ m/s}^2)}{9(2\times 10^{-5} \text{
 kg/m s})} \approx 0.04 \text{ m/s},
 $$
 
-or $4$ centimetre per second.
-It requires only mild updrafts of warm air (which rise from the warmer
+or $4$ centimetres per second.
+It requires only mild updrafts of warm air (rising from the warmer
 regions near the ground) to keep the cloud aloft.
 Stokes' law also explains why rain falls when droplets get large enough.
 The terminal velocity $v_\text{term} \propto r^2$, increasing quickly
