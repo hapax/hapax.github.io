@@ -168,9 +168,7 @@ T^{-1} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
 \end{align*}
 $$
 
-On the LHS, we have $T^{-1}$.
-On the RHS, we have $M^a L^{b+c}T^{-2c}$.
-Requiring the two to be equal, we can immediately read off the powers:
+Requiring the leftmost and rightmost expression to be equal, we can immediately read off the powers:
 $a = 0$, $2c = 1$, $b = -c$, and hence
 
 $$
