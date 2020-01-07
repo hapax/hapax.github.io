@@ -64,18 +64,26 @@ and finish with usage notes.
 #### 2.1. The hack <a id="sec-2-1" name="sec-2-1"></a>
 
 Physics is ultimately about experimental measurements.
-The *dimension* of a measurement is the physical property of a system
-probed by the measurement.
-Basic examples include *length* ($L$), *time* ($T$) and *mass* ($M$).
-We use brackets $[\cdot]$ to extract the dimension from a measurement, e.g.
+We take some system, e.g., an old pumpkin, and poke or prod it with a
+measuring device, which returns a number.
+The *dimension* of the measurement is not the number, but the
+*physical property* of a system probed by the measurement.
+If we compare the width of the pumpkin to a ruler, for instance, the
+dimension of that measurement is *length*.
+
+Length ($L$) is one of the basic dimensions we can use to build other
+dimensions out of.
+The two other basic dimensions are *time* ($T$) and *mass* ($M$).
+In general, we apply brackets $[\cdot]$ to a measurement to extract
+the dimension:
 
 $$
 [1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
 $$
 
-Note that to find the dimension, we can throw away the number out
-front and focus on the unit, asking: what aspect of the system does it
-measure?
+We throw away the number out front and focus on the unit, asking: what
+aspect of the system does it measure?
+
 Other dimensions can be built from these basic dimensions, using
 simple algebraic rules.
 These are easier to show than to tell.
