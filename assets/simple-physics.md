@@ -45,9 +45,8 @@ I'm not sure about the students, but it certainly made me a better physicist!
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
 
-To keep things interesting, I've avoided overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-and [notes](https://hapax.github.io/assets/dimensional-analysis.pdf),
+To keep things interesting, I avoid overlap with my
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
 though feel free to check these out if you want more examples than you
 can dangle a plumb bob at.
 I also recommend Sanjoy Mahajan's book
