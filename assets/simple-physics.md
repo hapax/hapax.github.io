@@ -347,11 +347,13 @@ Voilà, rain!
 Dimensional analysis has its limits.
 First of all, since we throw away numbers, it only good up
 to an overall numerical factor.
-In the first example involving pumpkins, I sneakily chose quantities so that the
-missing numerical factor was $1$, but in the second, we were off by
+In the first example, I sneakily chose angular frequency so that the
+missing numerical factor was $1$, but in the second example, we were off by
 $6\pi \approx 20$.
+That said, nature is bountiful, and more often than not the missing
+number is close to $1$.
 
-A more serious problem is posed by an overabundance of parameters.
+A more serious problem is the overabundance of parameters.
 For instance, if we included the mass of the sphere in the calculation
 above, we would not be able to solve the equations for $a, b$ and $c$,
 or rather, there would be an *infinite* number of solutions.
