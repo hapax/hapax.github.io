@@ -48,11 +48,6 @@ To keep things interesting, I avoid overlap with my
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
 I only discovered recently!), covering similar ground in greater depth.
-The hacks are in no particular order except for the "fundamental hacks" of
-dimensional analysis and Fermi estimates.
-Everything else can be read independently.
-For each hack, I quickly outline the physics, do some examples,
-and finish with usage notes.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -718,3 +713,10 @@ with the simplest being
 to the *terminal velocity* of a sphere falling slowly through a fluid.
 This may sound rather artificial, but it lets us explain why clouds
 stay in the air, despite being made of droplets much denser than air.
+
+
+The hacks are in no particular order except for the "fundamental hacks" of
+dimensional analysis and Fermi estimates.
+Everything else can be read independently.
+For each hack, I quickly outline the physics, do some examples,
+and finish with usage notes.
