@@ -347,8 +347,8 @@ to an overall numerical factor.
 In the first example involving pumpkins, I sneakily chose quantities so that the
 missing numerical factor was $1$, but in the second, we were off by
 $6\pi \approx 20$.
-Nature is bountiful, and the missing numerical factor is more often
-closer to $1$ than to $20$!
+Nature is bountiful, and the missing number is more often closer to
+$1$!
 
 A more serious problem is posed by an overabundance of parameters.
 For instance, if we included the mass of the sphere in the calculation
