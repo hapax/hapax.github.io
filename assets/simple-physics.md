@@ -209,7 +209,7 @@ things are!
 
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
-<Maybe pumpkin timepieces aren't your thing.
+Maybe pumpkin timepieces aren't your thing.
 Let's ratchet down the
 whimsy and turn to the aeorodynamics of spheres.
 In realistic fluids, nearby layers like to stick together, and will
@@ -350,24 +350,28 @@ $6\pi \approx 20$.
 Nature is bountiful, and the missing numerical factor is more often
 closer to $1$ than to $20$!
 
-A more serious problem is when there are too relevant parameters, for
-instance, if we include the mass of the sphere in calculation of
-Stokes' law.
-It's not hard to see that, when we use the basic dimensions $M, L, T$,
-we can have at most three relevant parameters!
-That will give three equations (the dimensions $M, L, T$) for three
-unknowns ($a, b, c$).
-More generally, if you can write everything in terms of $n$ basic
-units, dimensional analysis will work for at most $n$ relevant
-parameters.
-Otherwise, you don't have enough equations to determine
+A more serious problem is posed by an overabundance of parameters.
+For instance, if we included the mass of the sphere in the calculation
+above, we would not be able to solve the equations for $a, b$ and $c$,
+or rather, there would be an *infinite* number of solutions.
+Which one do we pick?
+With three basic dimensions $M, L, T$, you can have at most three
+relevant parameters, since each parameter comes with an unknown $(a,
+b,c)$ and each dimension gives us an equation.
+Three equations is just right for three unknowns.
+Any more, and you don't have enough equations to determine
 your unknowns!
+
+More generally, if you can write everything in terms of $n$
+independent basic units, you can have at most $n$ physical parameters
+in your dimensional guess.
+This is for exactly the same reason: making sure we have enough
+equations for the unknowns.
 This observation is called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
-
-Dimensional analysis is a beautiful and quirky subject, and you can
-read more about it in my
-[notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
+For more details, check out my
+[notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
+*Street-Fighting Mathematics*.
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
