@@ -452,6 +452,12 @@ instance, are well within a factor of $3$.
 Now you know what a Fermi estimate is, let's talk about some methods
 for doing them.
 
+#### Averaging
+
+#### Factorising
+
+#### Units
+
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
