@@ -342,7 +342,7 @@ Voilà, rain!
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
 Dimensional analysis has its limits.
-First of all, since we throw away numbers, it is usually only good up
+First of all, since we throw away numbers, it only good up
 to an overall numerical factor.
 In the first example involving pumpkins, I sneakily chose quantities so that the
 missing numerical factor was $1$, but in the second, we were off by
