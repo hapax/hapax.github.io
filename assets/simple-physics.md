@@ -8,8 +8,9 @@ date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is often presented as the most arcane and
-  mathematically impenetrable of natural sciences. Here, we show how
-  simple physical ideas and a dash of pre-calculus mathematics can be
+  mathematically impenetrable of natural sciences. Here, we show that
+  simple physical ideas, with a dash of pre-calculus mathematics, can
+  still be
   awesomely powerful.*
 
 ### Contents
