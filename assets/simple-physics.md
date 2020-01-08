@@ -413,8 +413,8 @@ A *Fermi estimate* is a guess accurate to the nearest order of
 magnitude, i.e. rounded to the nearest power of $10$.
 So, viewed through this generous lens, there are $10$ planets, $100$
 countries, and $10$ billion people on the planet.
-The finer points of planetary science, geopolitics, and the global
-census do not affect these guesses!
+The finer points of planetary science, contemporary geopolitics, and global
+demographics do not affect these guesses!
 
 The nearest power of $10$ is actually a subtle concept.
 For instance, is $4$ closer to $1$ or $10$?
@@ -438,10 +438,10 @@ Anyway, on a linear ruler, if there is a tick for every whole number,
 rounding to the nearest tick means there is a possible error of $0.5$.
 In the same way, rounding to the nearest tick on a logarithmic ruler
 has an error of half a tick.
-But this really means *half a power of $10$*, or
+But this really means *half a power of $10$*:
 
 $$
-10^0.5 \approx 3.2
+10^{0.5} \approx 3.2.
 $$
 
 A Fermi estimate should be accurate up to a factor of around $3.2$,
@@ -449,14 +449,31 @@ i.e. the real answer can be around $3$ times bigger or smaller and the
 estimate is still correct.
 Our earlier counts of planets, countries, and global population, for
 instance, are well within a factor of $3$.
-Now you know what a Fermi estimate is, let's talk about some methods
-for doing them.
+Now you know what a Fermi estimate is, let's learn how to do them.
 
-#### Averaging
+#### Averages
+
+On a linear ruler, we average two numbers $a$ and $b$ by adding and
+dividing by $2$, $(a+b)/2$.
+On a logarithmic ruler, we *take logs first*, then average.
+But what does this correspond to when we undo the logs?
+Let's check, using log laws.
+First, using $\log x + \log y = \log xy$ and $n \log x = \log (x^n)$,
+we have
+
+$$
+\frac{1}{2}(\log_{10} a + \log_{10} b) = \frac{1}{2}\log_{10} ab = \log_{10}\sqrt{ab}.
+$$
+
+It follows that
+
+$$
+10^{(\log a + \log b)/2} = 10^{\log \sqrt{ab}} = \sqrt{ab}.
+$$
+
+This is called the *geometric mean*.
 
 #### Factorising
-
-#### Units
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
