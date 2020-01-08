@@ -217,6 +217,7 @@ letting it wobble back and forth.
 When the spring is moved from equilibrium a distance $x$, there is a
 [restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
 proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
+
 If the hardware store only stocks springs of stiffness $k = 100 \text{
 N/m}$, how heavy should the pumpkin be for a period of $t = 2$ s?
 
