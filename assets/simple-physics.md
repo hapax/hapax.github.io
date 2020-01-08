@@ -488,9 +488,22 @@ mean* $(a+b)/2$.
 Geometric means are useful for averaging an underestimate and an
 overestimate.
 For instance, if we wanted to guess how many people have been to the
-moon, $1$ is clearly an underestimate, and $100$ is clearly 
+moon, $1$ is clearly an underestimate, and $100$ seems like an
+overestimate.
+The geometric mean is
+
+$$
+\text{moon people} \sim \sqrt{1 \cdot 100} \approx 10.
+$$
+
+The answer is actually $12$, so our guess is more or less right!
 
 #### Factorising
+
+For more complicated Fermi estimates, a good strategy is to break the
+number into *subestimates* which are then multiplied together.
+
+#### Facts and figures
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
