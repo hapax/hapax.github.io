@@ -560,7 +560,8 @@ I obtained the number of fish per species by lazily taking the mean of an obscen
 $\sim 10^{10}$) and a species on the brink of extinction ($\sim 1$).
 Similarly, for the density, I just took the average of $1$ species per
 $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
-Pretty slapdash, but as often happens, it works out in the end!
+I don't really trust my intuitions about areal fish density, but as
+often happens with Fermi estimates, you land on your feet!
 
 #### KISS
 
