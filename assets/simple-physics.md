@@ -437,7 +437,19 @@ Anyway, on a linear ruler, if there is a tick for every whole number,
 rounding to the nearest tick means there is a possible error of $0.5$.
 In the same way, rounding to the nearest tick on a logarithmic ruler
 has an error of half a tick.
-But 
+But this really means *half a power of $10$*, or
+
+$$
+10^0.5 \approx 3.2
+$$
+
+A Fermi estimate should be accurate up to a factor of around $3.2$,
+i.e. the real answer can be around $3$ times bigger or smaller and the
+estimate is still correct.
+Our earlier counts of planets, countries, and global population, for
+instance, are well within a factor of $3$.
+Now you know what a Fermi estimate is, let's talk about some methods
+for doing them.
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
