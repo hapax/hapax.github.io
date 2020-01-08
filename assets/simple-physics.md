@@ -558,8 +558,8 @@ r^2$, and the factoid that $70\%$ of the earth is covered by water.
 I have no idea if my remaining guesses are accurate.
 I obtained the number of fish per species by lazily taking the mean of an obscenely successful species (humans, population
 $\sim 10^{10}$) and a species on the brink of extinction ($\sim 1$).
-Similarly, for the density, I just took the average of $1 \text{
-km}^2$ (seems too small) and $100 \text{ km}^2$ (seems too big).
+Similarly, for the density, I just took the average of $1$ species per
+$1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
 Pretty slapdash, but as often happens, it works out in the end!
 
 #### KISS
