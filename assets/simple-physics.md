@@ -499,12 +499,57 @@ $$
 
 The answer is actually $12$, so our guess is more or less right!
 
-#### Factorising
+#### Subestimates
 
 For more complicated Fermi estimates, a good strategy is to break the
 number into *subestimates* which are then multiplied together.
+For instance, if I want to estimate the number of fish in the sea, I
+might factorise it into the total number of fish species and the
+number of fish per species:
 
-#### Facts and figures
+$$
+\text{total fish} \sim \text{species} \times \text{fish per
+species}.
+$$
+
+This sort of factorisation is crying out to be expressed in some sort
+of "generalised units":
+
+$$
+\frac{\text{fish}}{\text{world}} \sim
+\frac{\text{species}}{\text{world}}\times \frac{\text{fish}}{\text{species}}.
+$$
+
+This not only lets us check that our estimate makes sense (units
+cancel on the RHS to give the LHS) but can suggest further
+factorisation.
+The total number of fish species is hard to estimate, but maybe we
+have a better feeling for how many species there are in a given *area*
+of ocean:
+
+$$
+\frac{\text{species}}{\text{world}} \sim
+\frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of ocean}}{\text{world}}.
+$$
+
+The total amount of ocean surface is around 350$ million km$^2$.
+(You can calculate this from the radius of the earth $r_\oplus = 6300$
+km mand the factoid
+that $70\%$ of the earth is covered by water.)
+It seems reasonable to guess that there is a different species for
+every 100 km$^2$ or so, and that a species of fish has on average
+$10^5$ members.
+This gives an estimate of
+
+$$
+\frac{\text{fish}}{\text{world}} \sim
+\frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of
+ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \sim
+\frac{1}{10 \text{ km}^2} \times (350 \times 10^6 \text{ km}^2) \times
+10^5 = 35 \times 10^{11}.
+$$
+
+#### KISS
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
