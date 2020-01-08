@@ -362,8 +362,8 @@ With three basic dimensions $M, L, T$, you can have at most three
 relevant parameters, since each parameter comes with an unknown $(a,
 b,c)$ and each dimension gives us an equation.
 Three equations is just right for three unknowns.
-Any more, and you don't have enough equations to determine
-your unknowns!
+Any more unknowns, and you don't have enough equations to determine
+them all!
 
 More generally, if you can write everything in terms of $n$
 independent basic units, you can have at most $n$ physical parameters
