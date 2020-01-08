@@ -293,7 +293,7 @@ $$
 F_d \sim \mu r v.
 $$
 
-As usual, we can't determine if there is a number out fornt. With considerably more
+As usual, we can't determine if there is a number out front. With considerably more
 work,
 [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 showed that
