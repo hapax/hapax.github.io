@@ -17,7 +17,7 @@ date:  2020-01-06
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
-   2. <a href="#sec-2-2">Drag and drop</a>
+   2. <a href="#sec-2-2">Drag and drop: Stokes' law</a>
    3. <a href="#sec-2-3">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
 
@@ -207,7 +207,7 @@ the pumpkin and gently wobble.
 By timing the period with the stopwatch, you can figure out how long
 things are!
 
-#### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. Drag and drop: Stokes' law<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
 Let's ratchet down the
