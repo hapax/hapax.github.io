@@ -547,7 +547,7 @@ $$
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of
 ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \\ & \sim
 \frac{1}{10 \text{ km}^2} \times (350 \times 10^6 \text{ km}^2) \times
-10^5 = 3.5 \times 10^{12}.
+10^5 \\ & = 3.5 \times 10^{12}.
 \end{align*}
 $$
 
