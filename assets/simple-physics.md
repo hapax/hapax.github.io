@@ -8,9 +8,9 @@ date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is often presented as the most arcane and
-  mathematically impenetrable of natural sciences. Here, we illustrate
-  how simple physical ideas, back up by pre-calculus
-  mathematics, can be awesomely powerful.*
+  mathematically impenetrable of natural sciences. Here, we show how
+  simple physical ideas and a dash of pre-calculus mathematics can be
+  awesomely powerful.*
 
 ### Contents
 
@@ -44,15 +44,13 @@ The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
 
 To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
-though feel free to check these out if you want more examples than you
-can dangle a plumb bob at.
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf).
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
 I only discovered recently!), covering similar ground in greater depth.
 The hacks are in no particular order except for the "fundamental hacks" of
-dimensional analysis and Fermi estimation.
-Everything else can be read independently and in any order.
+dimensional analysis and Fermi estimates.
+Everything else can be read independently.
 For each hack, I quickly outline the physics, do some examples,
 and finish with usage notes.
 
@@ -198,58 +196,54 @@ m}}{\pi^2} \approx 1
 $$
 
 Incidentally, this explains why grandfather clocks are so large!
-They need to house a large (usually non-cucurbitar) pendulum of
-length around one metre.
+They need to house a large (usually non-cucurbitar) pendulum with
+$\ell \approx 1$ m.
 In order to make the clock, we need a ruler to measure out the length
 of string.
-But for maximal whimsy, we can turn a stopwatch, pumpkin and spool of
-string *into* a ruler!
-Use the string as a ruler, snip off the corresponding length, attach
+But for maximal whimsy, we can switch things up, and turn a stopwatch,
+pumpkin and spool of string into a ruler!
+Measure with the string, snip off the corresponding length, attach
 the pumpkin and gently wobble.
-By timing the period of the wobble with the stopwatch, we can figure
-out how long the string is!
+By timing the period with the stopwatch, you can figure out how long
+things are!
 
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
-In case pumpkin timepieces aren't your thing, we'll ratchet down the
+<Maybe pumpkin timepieces aren't your thing.
+Let's ratchet down the
 whimsy and turn to the aeorodynamics of spheres.
-In realistic fluids, adjacent layers of flow like to stick together, and will
+In realistic fluids, nearby layers like to stick together, and will
 resist *shearing* forces which try to pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
-Dragging an object through a fluid takes work because, as we plough
-through, we necessarily displace these layers.
+Dragging an object through a fluid takes work because the fluid shears as
+it moves around the object.
 
-We're now going to determine the *drag force* on a sphere being
-dragged through a viscous fluid.
-As above, we're going to use dimensional analysis to write this drag force
-as a function of other parameters.
-The possibly relevant parameters are:
+Our goal will be to determine the *drag force* on a sphere moving slowly through a viscous fluid.
+Here are some possibly relevant features of the system:
 - the radius of the sphere $r$, dimension $[r] = L$;
 - the speed of the sphere $v$, dimension $[v] = LT^{-1}$;
 - the mass of the sphere $m$, dimension $[m] = M$;
 - the density of the fluid $\rho$, dimension $[\rho] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
-In principle, all of these factors will be involved; this is too many
-for dimensional analysis to work.
+In principle, all of these factors are involved, but this is too much
+for dimensional analysis to handle.
 (See the <a href="#sec-2-4">usage notes</a> to understand why.)
 But it turns out that the mass of the fluid and sphere are only
-relevant when the fluid flow is partly [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
-If the sphere moves through the fluid slowly enough, only the
-geometry of the sphere and viscosity are relevant.
-This is called "laminar" (layered) flow because, in contrast to
-turbulent flow, the fluid remains in well-defined layers.
+relevant when the fluid flow is fast-moving, [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
+But if the sphere moves slowly enough, the fluid remains in
+well-defined layers ("laminar flow") and the mass $m$ and density
+$\rho$ become irrelevant.
 
-I haven't told you the dimensions of viscosity yet, but we can
-determine them easily enough.
+I haven't told you the dimensions of viscosity yet, but we can find
+them fairly easily.
 Imagine two layers separated by a distance $d$.
 Suppose I try to separate them by simply moving one layer, parallel to
-the second, but at a speed $v$.
+the second but at speed $v$.
 Experiment shows that the fluid will resist with some force $f = F/A$ per
 unit area, proportional to $v$ and inversely proportional to the
 separation $d$.
-The constant of the proportionality is the viscosity $\mu$, and we can
-use this to determine the dimensions:
+The viscosity $\mu$ is the constant of the proportionality, so
 
 $$
 f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu] =
@@ -258,7 +252,7 @@ $$
 
 We can now proceed with our dimensional analysis.
 Let's write the drag force on the sphere $F_d$ as a product of powers
-of the remaining factors,
+of sphere's size speed and the viscosity:
 
 $$
 F_d = r^a v^b \mu^c.
@@ -275,7 +269,7 @@ On the LHS, $M$ appears as $M^1$, so $c = 1$.
 The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
 Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
 a = 1$.
-Dimensional analysis has led us to the rather simple answer
+Dimensional analysis thus gives the rather simple answer
 
 $$
 F_d \sim \mu r v.
@@ -291,34 +285,36 @@ F_d = 6\pi \mu r v.
 $$
 
 This is called *Stokes' law* in honour of its discoverer.
-We got pretty darn close with only a few lines of algebra!
+But we got pretty darn close with only a few lines of algebra!
 
-We'll conclude by applying Stokes' law to the *terminal velocity* of
+We finish this example by calculating the *terminal velocity* of
 water droplets in a cloud.
 This will help explain why clouds float and rain falls!
-Let's consider the general case of a slowly falling sphere first.
+First, consider the general case of a slowly falling sphere.
 A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
-If it falls through a fluid of viscosity $\mu$, then there will be a
-drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
-At the terminal velocity $ v_{\text{term}}$, these two forces
-balance out:
+As it falls, it is slowed by a drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
+The terminal velocity $ v_{\text{term}}$ is the speed at which these
+two forces balance out:
 
 $$
 F_w = mg = 6\pi \mu r v_{\text{term}} = F_d \quad \Longrightarrow
 \quad v_{\text{term}} = \frac{mg}{6\pi \mu r}.
 $$
 
-To make life a little simpler, we can express the mass of the sphere
+The sphere accelerates until it reaches $v_{\text{term}}$; if it
+starts off faster for some reason, it will slow until it reaches $v_{\text{term}}$.
+To make life simpler, we can express the mass of the sphere
 in terms of its volume $V$ and average density $\rho$:
 
 $$
-m = V\rho = \frac{4\pi}{3} r^3 \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
+m = V\rho = \frac{4\pi r^3}{3} \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
 $$
 
 If we like, we can also take buoyancy forces $F_b = V
 \rho_\text{fluid}$ into account, where $\rho_{\text{fluid}}$ is the density of the fluid.
 This just replaces $\rho$ with $\rho - \rho_{\text{fluid}}$.
-Since water is much denser than air, the buoyancy forces in our case are negligible.
+Since water is much denser than air, the buoyancy forces in our case
+are negligible, so we will ignore them.
 
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
@@ -345,12 +341,20 @@ Voilà, rain!
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
-Since we throw away numbers, dimensional analysis will usually only be
-good up to an overall numerical factor.
+Dimensional analysis has its limits.
+First of all, since we throw away numbers, it is usually only good up
+to an overall numerical factor.
+In the first example involving pumpkins, I sneakily chose quantities so that the
+missing numerical factor was $1$, but in the second, we were off by
+$6\pi \approx 20$.
+Nature is forgiving, and the missing numerical factor is more often
+closer to $1$ than to $20$!
 
 [notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
+
+#### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
