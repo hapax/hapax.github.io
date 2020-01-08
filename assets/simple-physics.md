@@ -211,9 +211,12 @@ things are!
 
 Maybe pumpkin timepieces aren't your thing.
 Let's ratchet down the
-whimsy and turn to the aeorodynamics of spheres.
-In realistic fluids, nearby layers like to stick together, and will
-resist *shearing* forces which try to pull them apart.
+whimsy and turn to the aerodynamics of spheres.
+So, imagine a sphere moving through a fluid, e.g. a
+[Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
+the ocean floor.
+In realistic fluids, nearby layers like to stick together and will
+resist *shearing* forces pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 Dragging an object through a fluid takes work because the fluid shears as
 it moves around the object.
