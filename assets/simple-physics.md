@@ -445,7 +445,20 @@ i.e. the real answer can be around $3$ times bigger or smaller and the
 estimate is still correct.
 Our earlier counts of planets, countries, and global population, for
 instance, are well within a factor of $3$.
-Now you know what a Fermi estimate is, let's learn how to do them.
+
+In general, it makes life a bit easier if instead of restricting to
+order of magnitude per se ($1, 10, 100, \ldots$) we allow for
+arbitrary numbers, with the understanding *that they are only accurate
+up to a factor of* $10^{0.5}$.
+We can denote this using a twiddle, so that
+
+$$
+\text{number of countries} \sim 200
+$$
+
+means "we guess the number of countries is $200$, possibly up to a
+factor of $3$".
+Now you know what a Fermi estimate is, let's learn how to do them!
 
 #### Averages
 
@@ -468,6 +481,14 @@ $$
 $$
 
 This is called the *geometric mean*.
+Whenever you are dealing with estimates spread across different orders
+of magnitude, this is a better average to use than the *arithmetic
+mean* $(a+b)/2$.
+
+Geometric means are useful for averaging an underestimate and an
+overestimate.
+For instance, if we wanted to guess how many people have been to the
+moon, $1$ is clearly an underestimate, and $100$ is clearly 
 
 #### Factorising
 
