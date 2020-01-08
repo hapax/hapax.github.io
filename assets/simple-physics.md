@@ -215,13 +215,13 @@ whimsy and turn to the aerodynamics of spheres.
 So, imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
-In realistic fluids, nearby layers like to stick together and will
-resist *shearing* forces pull them apart.
+In realistic fluids, nearby layers of flow like to stick together and will
+resist *shearing* forces which pull them apart.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 Dragging an object through a fluid takes work because the fluid shears as
 it moves around the object.
 
-Our goal will be to determine the *drag force* on a sphere moving slowly through a viscous fluid.
+Our goal will be to determine the drag force on a sphere due to viscosity.
 Here are some possibly relevant features of the system:
 - the radius of the sphere $r$, dimension $[r] = L$;
 - the speed of the sphere $v$, dimension $[v] = LT^{-1}$;
@@ -232,11 +232,9 @@ Here are some possibly relevant features of the system:
 In principle, all of these factors are involved, but this is too much
 for dimensional analysis to handle.
 (See the <a href="#sec-2-4">usage notes</a> to understand why.)
-But it turns out that the mass of the fluid and sphere are only
-relevant when the fluid flow is fast-moving, [*turbulent*](https://en.wikipedia.org/wiki/Turbulence) and unsteady.
-But if the sphere moves slowly enough, the fluid remains in
-well-defined layers ("laminar flow") and the mass $m$ and density
-$\rho$ become irrelevant.
+When the sphere moves slowly enough, however, its mass $m$ and the
+density of the fluid $\rho$ are irrelevant.
+Only the viscosity, and size and speed of the sphere, matter.
 
 I haven't told you the dimensions of viscosity yet, but we can find
 them fairly easily.
@@ -377,7 +375,8 @@ For more details, check out my
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
-A *Fermi estimate* is an estimate to the nearest order of magnitude.
+A *Fermi estimate* is a guess accurate to the nearest order of
+magnitude.
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
