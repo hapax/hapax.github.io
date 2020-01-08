@@ -532,7 +532,7 @@ $$
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of ocean}}{\text{world}}.
 $$
 
-The total amount of ocean surface is around 350$ million $\text{km}^2$.
+The total amount of ocean surface is around $350$ million $\text{km}^2$.
 (You can calculate this from the radius of the earth $r_\oplus = 6300$
 km and the factoid
 that $70\%$ of the earth is covered by water.)
