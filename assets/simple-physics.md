@@ -463,8 +463,7 @@ Now you know what a Fermi estimate is, let's learn how to do them!
 
 #### Averages
 
-On a linear ruler, we average two numbers $a$ and $b$ by adding and
-dividing by $2$, $(a+b)/2$.
+On a linear ruler, we average two numbers $a$ and $b$ by halving the sum, $(a+b)/2$.
 On a logarithmic ruler, we *take logs first*, then average.
 But what does this correspond to when we undo the logs?
 Let's check, using log laws.
