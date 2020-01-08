@@ -348,8 +348,10 @@ to an overall numerical factor.
 In the first example, I sneakily chose angular frequency so that the
 missing numerical factor was $1$, but in the second example, we were off by
 $6\pi \approx 20$.
+It is perhaps better to think of dimensional analysis as giving
+system-dependent *scales* rather than answers to specific questions.
 That said, nature is bountiful, and more often than not the missing
-number is close to $1$.
+number is close to $1$!
 
 A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
@@ -375,8 +377,7 @@ For more details, check out my
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
-A *Fermi estimate* is a guess accurate to the nearest order of
-magnitude.
+A *Fermi estimate* is a guess accurate to the nearest power of $10$.
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
