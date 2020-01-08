@@ -534,10 +534,10 @@ $$
 
 The total amount of ocean surface is around 350$ million km$^2$.
 (You can calculate this from the radius of the earth $r_\oplus = 6300$
-km mand the factoid
+km and the factoid
 that $70\%$ of the earth is covered by water.)
 It seems reasonable to guess that there is a different species for
-every 100 km$^2$ or so, and that a species of fish has on average
+every 10 km$^2$ or so, and that a species of fish has on average
 $10^5$ members.
 This gives an estimate of
 
@@ -546,8 +546,12 @@ $$
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of
 ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \sim
 \frac{1}{10 \text{ km}^2} \times (350 \times 10^6 \text{ km}^2) \times
-10^5 = 35 \times 10^{11}.
+10^5 = 3.5 \times 10^{12}.
 $$
+
+Somewhat unexpectedly, this is
+[exactly equal](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html)
+to the number I found in a random, non-peer-reviewed article. Huh!
 
 #### KISS
 
