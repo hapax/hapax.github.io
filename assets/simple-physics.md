@@ -354,9 +354,9 @@ That said, nature is bountiful, and more often than not the missing
 number is close to $1$.
 
 A more serious problem is the overabundance of parameters.
-For instance, if we included the mass of the sphere in the calculation
-above, we would not be able to solve the equations for $a, b$ and $c$,
-or rather, there would be an *infinite* number of solutions.
+If we included the mass of the sphere in the second example,
+dimensional analysis would fail: we would not be able to solve the
+equations for $a, b$ and $c$, or rather, there would be an *infinite* number of solutions.
 Which one do we pick?
 With three basic dimensions $M, L, T$, you can have at most three
 relevant parameters, since each parameter comes with an unknown $(a,
@@ -378,8 +378,7 @@ For more details, check out my
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
-A *Fermi estimate* is an estimate to the nearest order of magnitude,
-or 
+A *Fermi estimate* is an estimate to the nearest order of magnitude.
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
