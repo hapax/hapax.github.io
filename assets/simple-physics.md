@@ -362,7 +362,7 @@ Voilà, rain!
 **Exercise 2 (sinking bathysphere).**
 The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
-It weighed $2.25$ tons above water, and had a diamater of $1.45$ m.
+It weighed $2.25$ tons above water, and had a diameter of $1.45$ m.
 Roughly how long would it take to sink to the bottom of the Mariana Trench?
 The Mariana Trench is $11$ km deep, and filled with cold water of
 viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
