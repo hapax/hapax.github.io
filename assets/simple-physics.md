@@ -568,8 +568,9 @@ often happens with Fermi estimates, you land on your feet!
 
 #### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
 
-*KISS* stands for "Keep It Simple, Stupid".
-If you want fast, robust Fermi estimates, forget about finesse; just
+*KISS* is the proverbial exhortation to "Keep It Simple, Stupid", and
+applies to Fermi estimates just as it applies to real life.
+If you want fast, robust estimates, forget about finesse; just
 focus on the *single most important* mechanism.
 This is especially true for physics, where you will often have to make
 simplifying assumptions, ignore subtleties, to strip away distractions
