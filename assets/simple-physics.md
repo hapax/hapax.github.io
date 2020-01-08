@@ -347,9 +347,26 @@ to an overall numerical factor.
 In the first example involving pumpkins, I sneakily chose quantities so that the
 missing numerical factor was $1$, but in the second, we were off by
 $6\pi \approx 20$.
-Nature is forgiving, and the missing numerical factor is more often
+Nature is bountiful, and the missing numerical factor is more often
 closer to $1$ than to $20$!
 
+A more serious problem is when there are too relevant parameters, for
+instance, if we include the mass of the sphere in calculation of
+Stokes' law.
+It's not hard to see that, when we use the basic dimensions $M, L, T$,
+we can have at most three relevant parameters!
+That will give three equations (the dimensions $M, L, T$) for three
+unknowns ($a, b, c$).
+More generally, if you can write everything in terms of $n$ basic
+units, dimensional analysis will work for at most $n$ relevant
+parameters.
+Otherwise, you don't have enough equations to determine
+your unknowns!
+This observation is called the
+[Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
+
+Dimensional analysis is a beautiful and quirky subject, and you can
+read more about it in my
 [notes](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
