@@ -551,9 +551,8 @@ ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \\ & \sim
 \end{align*}
 $$
 
-Somewhat unexpectedly, this is
-[exactly equal](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html)
-to the number I found in a random, non-peer-reviewed article. Huh!
+Somewhat unexpectedly, this is exactly the number quoted in a
+[random, non-peer-reviewed article](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html). Huh!
 
 #### KISS
 
