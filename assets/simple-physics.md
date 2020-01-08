@@ -224,9 +224,9 @@ N/m}$, what mass should you attach for a period of $2$ s?
 #### 2.2. Drag and drop: Stokes' law<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
-Let's ratchet down the
+So, let's ratchet down the
 whimsy and turn to the aerodynamics of spheres.
-So, imagine a sphere moving through a fluid, e.g. a
+Imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
 (You can explore this example in Exercise 2.)
