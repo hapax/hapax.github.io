@@ -563,10 +563,20 @@ I obtained the number of fish per species by lazily taking the mean of an obscen
 $\sim 10^{10}$) and a species on the brink of extinction ($\sim 1$).
 Similarly, for the density, I just took the average of $1$ species per
 $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
-I don't really trust my intuitions about areal fish density, but as
+I don't really trust my intuitions about areal biodiversity, but as
 often happens with Fermi estimates, you land on your feet!
 
 #### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
+
+*KISS* stands for "Keep It Simple, Stupid".
+If you want fast, robust Fermi estimates, forget about finesse; just
+focus on the *single most important* mechanism.
+This is especially true for physics, where you will often have to make
+simplifying assumptions, ignore subtleties, to strip away distractions
+from that key mechanism.
+Remembering the old saw about the
+[spherical cow in a vacuum](https://en.wikipedia.org/wiki/Spherical_cow),
+KISS could instead stand for "Keep It Spherical, Stupid".
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
