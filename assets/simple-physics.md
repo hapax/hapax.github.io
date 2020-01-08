@@ -532,7 +532,7 @@ $$
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of ocean}}{\text{world}}.
 $$
 
-The total amount of ocean surface is around 350$ million km$^2$.
+The total amount of ocean surface is around 350$ million $\text{km}^2$.
 (You can calculate this from the radius of the earth $r_\oplus = 6300$
 km and the factoid
 that $70\%$ of the earth is covered by water.)
@@ -542,11 +542,13 @@ $10^5$ members.
 This gives an estimate of
 
 $$
-\frac{\text{fish}}{\text{world}} \sim
+\begin{align*}
+\frac{\text{fish}}{\text{world}} & \sim
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of
-ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \sim
+ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \\ & \sim
 \frac{1}{10 \text{ km}^2} \times (350 \times 10^6 \text{ km}^2) \times
 10^5 = 3.5 \times 10^{12}.
+\end{align*}
 $$
 
 Somewhat unexpectedly, this is
