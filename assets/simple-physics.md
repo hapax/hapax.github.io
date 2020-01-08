@@ -350,8 +350,6 @@ to an overall numerical factor.
 In the first example involving pumpkins, I sneakily chose quantities so that the
 missing numerical factor was $1$, but in the second, we were off by
 $6\pi \approx 20$.
-Nature is bountiful, and the missing number is more often closer to
-$1$!
 
 A more serious problem is posed by an overabundance of parameters.
 For instance, if we included the mass of the sphere in the calculation
@@ -370,13 +368,16 @@ independent basic units, you can have at most $n$ physical parameters
 in your dimensional guess.
 This is for exactly the same reason: making sure we have enough
 equations for the unknowns.
-This observation is called the
+This basic observation is called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 For more details, check out my
 [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
 *Street-Fighting Mathematics*.
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
+
+A *Fermi estimate* is an estimate to the nearest order of magnitude,
+or 
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
