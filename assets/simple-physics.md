@@ -340,6 +340,21 @@ If droplets coalesce (for example, with water vapour arriving in an
 updraft) they will speed up and fall out of the cloud.
 Voilà, rain!
 
+---
+
+**Exercise 1 (sinking bathysphere).**
+The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
+hollow ball of steel designed for deep-sea exploration.
+It weighed $2.25$ tons above water, and had a diamater of $1.45$ m.
+Roughly how long would it take to sink to the bottom of the Mariana Trench?
+The Mariana Trench is $11$ km deep, and filled with cold water of
+viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
+
+*Hint.* Assume it is travelling at terminal velocity, and Stokes' law
+ applies. You should also take buoyancy forces into account!
+
+---
+
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
 Dimensional analysis has its limits.
