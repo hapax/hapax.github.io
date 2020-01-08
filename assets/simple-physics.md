@@ -207,6 +207,20 @@ the pumpkin and gently wobble.
 By timing the period with the stopwatch, you can figure out how long
 things are!
 
+---
+
+**Exercise 1 (spring clocks).**
+Suppose you want to build a spring-driven clock, with time marked off
+by the oscillations of a mass attached to a spring (oscillating
+horizontally, so you can ignore gravity).
+When the spring is moved from equilibrium a distance $x$, there is a
+[restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
+proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
+If the hardware stores stocks springs of stiffness $k = 100 \text{
+N/m}$, what mass should you attach for a period of $2$ s?
+
+---
+
 #### 2.2. Drag and drop: Stokes' law<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
@@ -215,6 +229,7 @@ whimsy and turn to the aerodynamics of spheres.
 So, imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
+(You can explore this example in Exercise 2.)
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
 Dragging an object through a fluid takes work because the fluid shears as
@@ -342,7 +357,7 @@ Voilà, rain!
 
 ---
 
-**Exercise 1 (sinking bathysphere).**
+**Exercise 2 (sinking bathysphere).**
 The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
 It weighed $2.25$ tons above water, and had a diamater of $1.45$ m.
