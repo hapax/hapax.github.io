@@ -367,9 +367,8 @@ them all!
 
 More generally, if you can write everything in terms of $n$
 independent basic units, you can have at most $n$ physical parameters
-in your dimensional guess.
-This is for exactly the same reason: making sure we have enough
-equations for the unknowns.
+in your dimensional guess; otherwise you have too many unknowns to
+determine with your equations.
 This basic observation is called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 For more details, check out my
