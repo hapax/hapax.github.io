@@ -21,6 +21,9 @@ date:  2020-01-06
    2. <a href="#sec-2-2">Drag and drop: Stokes' law</a>
    3. <a href="#sec-2-3">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
+   1. <a href="#sec-3-1">Geometric means</a>
+   2. <a href="#sec-3-2">Subestimates</a>
+   3. <a href="#sec-3-3">KISS</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -461,7 +464,7 @@ means "we guess the number of countries is $200$, possibly up to a
 factor of $3$".
 Now you know what a Fermi estimate is, let's learn how to do them!
 
-#### Averages
+#### 3.1. Geometric means<a id="sec-3-1" name="sec-3-1"></a>
 
 On a linear ruler, we average two numbers $a$ and $b$ by halving the sum, $(a+b)/2$.
 On a logarithmic ruler, we *take logs first*, then average.
@@ -498,7 +501,7 @@ $$
 
 The answer is actually $12$, so our guess is more or less on the mooney!
 
-#### Subestimates
+#### 3.2. Subestimates<a id="sec-3-2" name="sec-3-2"></a>
 
 For more complicated Fermi estimates, a good strategy is to break the
 number into *subestimates* which are then multiplied together.
@@ -563,9 +566,7 @@ $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
 I don't really trust my intuitions about areal fish density, but as
 often happens with Fermi estimates, you land on your feet!
 
-#### KISS
-
-#### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
+#### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
