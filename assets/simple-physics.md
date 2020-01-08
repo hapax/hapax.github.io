@@ -416,7 +416,7 @@ census do not affect these guesses!
 
 The nearest power of $10$ is actually a subtle concept.
 For instance, is $4$ closer to $1$ or $10$?
-If we use a normal ruler, the answer is clearly $1$.
+If we use a normal or *linear* ruler, the answer is clearly $1$.
 But when we are rounding to the nearest power of ten, we do not have
 ticks at $0$, $1$, $2$, and so on, but at *powers*:
 
@@ -429,7 +429,14 @@ base $10$ and round to the nearest tick, where a tick now represents a
 power.
 In our case, $\log_{10}4 \approx 0.6$ is closer to $1$ than to $0$,
 and hence $4$ actually rounds to $10^1 = 10$!
-This is a bit surprising, but the way things work when we use logs.
+This is a bit surprising, but the way things work when you think in
+Fermi ... termies.
+
+Anyway, on a linear ruler, if there is a tick for every whole number,
+rounding to the nearest tick means there is a possible error of $0.5$.
+In the same way, rounding to the nearest tick on a logarithmic ruler
+has an error of half a tick.
+But 
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
