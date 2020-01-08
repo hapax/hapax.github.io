@@ -195,8 +195,8 @@ m}}{\pi^2} \approx 1
 \text{ m}.
 $$
 
-Incidentally, this explains why grandfather clocks are so large!
-They need to house a large (usually non-cucurbitar) pendulum with
+Incidentally, this explains why grandfather clocks are so large.
+They will house a large (typically non-cucurbitar) pendulum with
 $\ell \approx 1$ m.
 In order to make the clock, we need a ruler to measure out the length
 of string.
@@ -217,9 +217,9 @@ So, imagine a sphere moving through a fluid, e.g. a
 the ocean floor.
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
-This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 Dragging an object through a fluid takes work because the fluid shears as
 it moves around the object.
+This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 
 Our goal will be to determine the drag force on a sphere due to viscosity.
 Here are some possibly relevant features of the system:
@@ -286,7 +286,7 @@ F_d = 6\pi \mu r v.
 $$
 
 This is called *Stokes' law* in honour of its discoverer.
-But we got pretty darn close with only a few lines of algebra!
+But we got pretty darn close with a few lines of algebra!
 
 We finish this example by calculating the *terminal velocity* of
 water droplets in a cloud.
