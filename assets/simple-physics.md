@@ -497,7 +497,7 @@ $$
 \text{moon people} \sim \sqrt{1 \cdot 100} \approx 10.
 $$
 
-The answer is actually $12$, so our guess is more or less right!
+The answer is actually $12$, so our guess is more or less on the mooney!
 
 #### Subestimates
 
