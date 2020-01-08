@@ -377,7 +377,29 @@ For more details, check out my
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
-A *Fermi estimate* is a guess accurate to the nearest power of $10$.
+A *Fermi estimate* is a guess accurate to the nearest order of
+magnitude, i.e. rounded to the nearest power of $10$.
+So, viewed through this generous lens, there are $10$ planets, $100$
+countries, and $10$ billion people on the planet.
+The finer points of planetary science, geopolitics, and the global
+census do not affect these guesses!
+
+The nearest power of $10$ is actually a subtle concept.
+For instance, is $4$ closer to $1$ or $10$?
+If we use a normal ruler, the answer is clearly $1$.
+But when we are rounding to the nearest power of ten, we do not have
+ticks at $0$, $1$, $2$, and so on, but at *powers*:
+
+$$
+10^0 = 1, 10^1 = 10, 10^2 = 100, \ldots
+$$
+
+We should therefore use a *logarithmic ruler*, where we take logs in
+base $10$ and round to the nearest tick, where a tick now represents a
+power.
+In our case, $\log_{10}4 \approx 0.6$ is closer to $1$ than to $0$,
+and hence $4$ actually rounds to $10^1 = 10$!
+This is a bit surprising, but the way things work when we use logs.
 
 #### 3.1. The Webster theatre<a id="sec-3-1" name="sec-3-1"></a>
 
