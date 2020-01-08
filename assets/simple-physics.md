@@ -533,9 +533,6 @@ $$
 $$
 
 The total amount of ocean surface is around $350$ million $\text{km}^2$.
-(You can calculate this from the radius of the earth $r_\oplus = 6300$
-km and the factoid
-that $70\%$ of the earth is covered by water.)
 It seems reasonable to guess that there is a different species for
 every 10 km$^2$ or so, and that a species of fish has on average
 $10^5$ members.
@@ -553,6 +550,19 @@ $$
 
 Somewhat unexpectedly, this is exactly the number quoted in a
 [random, non-peer-reviewed article](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html). Huh!
+
+*Notes.* In case you're suspicious about where the intermediate numbers come
+from, I'll tell you where they come from.
+First, you can calculate the total ocean surface from the radius of
+the earth $r_\oplus = 6300$ km, the surface area of a sphere $4\pi
+r^2$, and the factoid that $70\%$ of the earth is covered by water.
+I have no idea if my remaining guesses are accurate.
+I obtained the number of fish per species by very lazily taking an average of the
+population of an obscenely successful species (humans, population
+$\sim 10^{10}$) and a species on the brink of extinction ($\sim 1$).
+Similarly, for the density, I just took the average of $1 \text{
+km}^2$ (seems to small) and $100 \text{ km}^2$ (seems too big).
+Pretty slapdash, but as often happens, it works out!
 
 #### KISS
 
