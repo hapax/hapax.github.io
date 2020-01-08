@@ -213,7 +213,7 @@ things are!
 You can build a clock out of a spring and an old pumpkin by attaching the
 pumpkin to one end and fixing the other, compressing the spring, and
 letting it oscillate.
-(Do this horizontally so you can ignore gravity.)
+(If we do this horizontally, we can ignore gravity.)
 When the spring is moved from equilibrium a distance $x$, there is a
 [restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
 proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
