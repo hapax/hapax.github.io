@@ -210,15 +210,15 @@ things are!
 ---
 
 **Exercise 1 (spring-driven clock).**
-You can build a clock out of a spring and a pumpkin by attaching the
-pumpkin to the spring, compressing the spring, and letting the system
-oscillate.
+You can build a clock out of a spring and an old pumpkin by attaching the
+pumpkin to one end and fixing the other, compressing the spring, and
+letting it oscillate.
 (Do this horizontally so you can ignore gravity.)
 When the spring is moved from equilibrium a distance $x$, there is a
 [restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
 proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
 
-If the hardware stores stocks springs of stiffness $k = 100 \text{
+If the hardware store only stocks springs of stiffness $k = 100 \text{
 N/m}$, how heavy should the pumpkin be for a period of $t = 2$ s?
 
 ---
