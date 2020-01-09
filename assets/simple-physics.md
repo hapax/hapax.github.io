@@ -702,8 +702,8 @@ For instance, if you guess that the Canadian budget is CAD$10$^{14}$,
 and you know Canada's population is around $30$ million, you see that
 is equivalent to spending CAD3 million on each person. That seems
 like way too much!
-But if all else fails, act like a crowd: generate some over- and
-underestimates by intuition, and average them.
+But if all else fails, act like a crowd, and try to intuit some over-
+and underestimates you can average.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
