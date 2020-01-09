@@ -605,15 +605,53 @@ Vancouver area.
 (This is an actual question from my
 PhD [comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf)!)
 We could consider all sorts of separate contributions,
-e.g. households, businesses, universities, heavy industry, transport,
-etc.
-But typically, household usage makes up some small fraction of the
-total, say $10\%$.
-We will just estimate household usage, and multiply by $10$!
+e.g. households, small businesses, heavy industry, agriculture,
+transport, and so on, all
+of which would involve different estimation strategies.
+Instead, let's focus on a single, simple estimate: *household* power
+usage.
+This will make up some fixed fraction of the whole, perhaps $10\%$ or
+so, so we just multiply by $10$ at the end.
 
-The population of the greater Vancouver area (I happen to know) is
-around $2.5$ million.
-Canadians use a lot of energy.
+Let's start by writing some subestimates, factorising our guess using
+*people* (rather than households) as an intermediate unit:
+
+$$
+\frac{\text{power}}{\text{Vancouver}} \sim
+\frac{\text{power}}{\text{person}}\times \frac{\text{person}}{\text{Vancouver}}.
+$$
+
+The term "person/Vancouver" is just the population of greater
+Vancouver, which I happen to know is around $2.5$ million.
+To estimate individual power usage, we can compare to something
+familiar like a good ol' $60$ W globe.
+I would guess that with light, heat, household appliances, and
+electronic devices, an individual would use the equivalent of $10$
+light bulbs, or around $600$ W.
+Thus,
+
+$$
+\frac{\text{power}}{\text{Vancouver}} \sim 600 \text{W} \times 2.5
+\times 10^6 = 1.5 \text{GW}.
+$$
+
+To find the total electricity usage, we multiply by the length of a
+year, and add an additional factor of $10$ to account for industry.
+In gigawatt hours (GWh), this gives a total energy of
+
+$$
+\begin{align}
+\text{yearly energy use} & \sim 10 \times (365 \times 24 \text{ h})
+\times (1.5 \text{GW}) \approx 1.3 \times 10^5 \text{ GWh}.
+\end{align}
+$$
+
+How did we do?
+This translates to around $500$ PJ (petajoules), and according to
+[this report](https://pics.uvic.ca/sites/default/files/uploads/publications/Energy_Data_Report_2010_1.pdf),
+the province of British Columbia uses around $850--1000$ PJ per year.
+Since greater Vancouver makes up about half of British Coumbia's
+population, we are right 
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
@@ -623,6 +661,8 @@ When choosing a list of relevant parameters, for instance, we
 neglected things that we did not expect , our answers are usually only
 correct to within an order of magnitude because we cannot determine
 the numbers out front.
+
+https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
