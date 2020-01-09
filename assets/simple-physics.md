@@ -631,8 +631,8 @@ light bulbs, or around $600$ W.
 Thus,
 
 $$
-\frac{\text{power}}{\text{Vancouver}} \sim 600 \text{W} \times 2.5
-\times 10^6 = 1.5 \text{GW}.
+\frac{\text{power}}{\text{Vancouver}} \sim 600 \text{W} \times (2.5
+\times 10^6) = 1.5 \text{GW}.
 $$
 
 To find the total electricity usage, we multiply by the length of a
@@ -647,11 +647,11 @@ $$
 $$
 
 How did we do?
-This translates to around $500$ PJ (petajoules), and according to
+Our guess translates to around $500$ PJ (petajoules), and according to
 [this report](https://pics.uvic.ca/sites/default/files/uploads/publications/Energy_Data_Report_2010_1.pdf),
-the province of British Columbia uses around $850--1000$ PJ per year.
-Since greater Vancouver makes up about half of British Coumbia's
-population, we should be spot on, or at least within a factor of $3$.
+British Columbia uses around $850--1000$ PJ per year.
+Since greater Vancouver has about half the population of the province,
+we should be spot on!
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
