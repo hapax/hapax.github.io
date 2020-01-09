@@ -698,12 +698,18 @@ As
 the best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
-For instance, if you guess that the Canadian budget is CAD$\$10^{14}$,
+For instance, if you guess that the Canadian budget is CAD$10^{14}$,
 and you know Canada's population is around $30$ million, you see that
-is equivalent to spending CAD$\$3$ million on each person. That seems
+is equivalent to spending CAD$3$ million on each person. That seems
 like way too much!
-But if all else fails, act like a crowd, and try to intuit some over-
-and underestimates you can average.
+
+This draws attention to an oft-neglected aspect of Fermi
+approximation.
+You need to know stuff!
+You need a web of facts, figures, and intuitions you can use to
+triangulate your position in estimate space.
+
+Another failure mode (also described)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -990,3 +996,6 @@ the numbers out front.
 
 If you are estimating "in real life" (rather than in a test) check
 Google.
+
+But if for whatever reason, act like a crowd, and try to intuit some over-
+and underestimates you can average.
