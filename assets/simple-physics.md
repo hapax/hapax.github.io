@@ -544,7 +544,7 @@ $$
 \frac{\text{species}}{\text{area of ocean}}\times \frac{\text{area of ocean}}{\text{world}}.
 $$
 
-The total surface area of ocean is $350$ million km$^2$.
+The total surface area of ocean is $350$ million km^2.
 It seems reasonable to guess that there is a different species for
 every 10 km$^2$ or so, and that a species of fish has on average
 $10^5$ members.
