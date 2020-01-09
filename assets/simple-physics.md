@@ -698,9 +698,9 @@ As
 the best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
-For instance, if you guess that the Canadian budget is CAD$10^{14}$,
-and you know Canada's population is around $30$ million, you see that
-is equivalent to spending CAD$3$ million on each person. That seems
+For instance, if you estimate that Canada's budget is CAD$10^{14}$,
+and you know the population is around $30$ million, means the
+government is spending CAD$3$ million on each person. That seems
 like way too much!
 
 This draws attention to an oft-neglected aspect of Fermi
