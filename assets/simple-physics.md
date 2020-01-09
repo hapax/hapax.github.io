@@ -666,7 +666,7 @@ we should be spot on!
 
 ---
 
-**Exercise 5 (Canadian budget).** Guess the size of Canada's 2019 budget.
+**Exercise 5 (Canadian budget).** Estimate the size of the Canadian government's 2019 budget.
 
 ---
 
