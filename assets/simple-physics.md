@@ -499,7 +499,14 @@ $$
 \text{moon people} \sim \sqrt{1 \cdot 100} \approx 10.
 $$
 
-The answer is actually $12$, so our guess is more or less on the mooney!
+The answer is actually $12$, so our guess is more or less on the
+mooney!
+
+---
+
+**Exercise 3 (lunar radius).** Fermi estimate the radius of the moon.
+
+---
 
 #### 3.2. Subestimates<a id="sec-3-2" name="sec-3-2"></a>
 
@@ -566,6 +573,14 @@ $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
 I don't really trust my intuitions about areal biodiversity, but as
 often happens with Fermi estimates, you land on your feet!
 
+---
+
+**Exercise 4 (churches in the US).** Guess the number of churches in the US.
+
+*Hint.* The US has a population of around $300$ million.
+
+---
+
 #### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
 
 *KISS* is the proverbial exhortation to "Keep It Simple, Stupid", and it
@@ -577,7 +592,8 @@ distractions to get at the key mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
-
+Let's see how this works in practice.
+Suppose
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
