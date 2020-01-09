@@ -737,9 +737,11 @@ coming up heads, the answer is $2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
 But here's the rub: I only need to be wrong by two quarters to be off
 by an order of magnitude!
-With this sort of dependence, you can make a guess, but it probably
-doesn't make sense to expect it to be accurate to an order of
-magnitude.
+With this sort of dependence, you can use Fermi estimate techniques to
+make a guess, but I don't think the answer is even well-defined to
+within an order of magnitude.
+(In fact, with problems like these, you should use a *doubly
+logarithmic* ruler, but that's a story for another time!)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
