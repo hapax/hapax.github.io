@@ -713,9 +713,8 @@ It may feel like cheating, but if you are doing a Fermi
 problem in real life, remember that you can make your web of facts
 dramatically larger using Google!
 
-Another failure mode
-([pointed out](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
-by lukeprog) is *nonlinearity* in a Fermi problem.
+Another failure mode is *nonlinearity* in a Fermi problem.
+(I was first alerted to this problem in the [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
 When we write our guess as a product of subestimates, we are assuming
 the final answer is *proportional* to each subestimate, e.g. power
 usage in Vancouer is proportional to the number of people.
