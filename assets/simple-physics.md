@@ -24,6 +24,7 @@ date:  2020-01-06
    1. <a href="#sec-3-1">Geometric means</a>
    2. <a href="#sec-3-2">Subestimates</a>
    3. <a href="#sec-3-3">KISS</a>
+   4. <a href="#sec-3-4">Usage notes</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -598,16 +599,20 @@ Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
-The mother of all Fermi estimates was by
-[Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) himself, who
-guessed the strength of the
+The mother of all Fermi estimates was is due to
+[Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) himself,
+who estimated the strength of the
 [Trinity nuclear test](https://en.wikipedia.org/wiki/Trinity_(nuclear_test))
 by dropping a few pieces of paper.
 Fermi doesn't explain his precise reasoning, but
-[stated that](http://www.dannen.com/decision/fermi.html) he dropped
-them from about $6$ feet, and observed a displacement of $2.5$ m due
-to the blast wave (with no wind to interfere with the observation).
+[states that](http://www.dannen.com/decision/fermi.html) he dropped
+the paper from a height of around $6$ feet ($1.8$ m) and observed a
+displacement of $2.5$ m as the blast wave passed, $40$ seconds after detonation.
+Fermi was $16$ km away from the detonation point.
 
+What is the key physical mechanism?
+
+#### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
