@@ -715,18 +715,15 @@ dramatically larger using Google!
 
 Another failure mode
 ([pointed out](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
-by lukeprog) is *nonlinearity*.
-In less fancy language, we assume that our final answer is
-*proportional* to each factor.
+by lukeprog) is *nonlinearity* in a Fermi problem.
+When we write our guess as a product of subestimates, we are assuming
+the final answer is *proportional* to each subestimate, e.g. power
+usage in Vancouer is proportional to the number of people.
 This is not always the case!
-Here's a simple example.
-Suppose I throw a fistful of quarters onto the ground.
-What's the chance they all come up heads?
-Well, if there are $n$ quarters, and each has a $1/2$ probability of
-coming up heads, the answer is $2^{-n}$.
-It seems like all I need to do is count the quarters in a fistful.
-But here's the rub: I only need to be wrong by two quarters to be off
-by an order of magnitude!
+For instance, with power, there may be economies of scale which
+*reduce* the average power usage when there are more people.
+Or maybe larger cities will have more amenities, and average power
+usage will increase.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -1016,3 +1013,13 @@ Google.
 
 But if for whatever reason, act like a crowd, and try to intuit some over-
 and underestimates you can average.
+
+
+Here's a simple example.
+Suppose I throw a fistful of quarters onto the ground.
+What's the chance they all come up heads?
+Well, if there are $n$ quarters, and each has a $1/2$ probability of
+coming up heads, the answer is $2^{-n}$.
+It seems like all I need to do is count the quarters in a fistful.
+But here's the rub: I only need to be wrong by two quarters to be off
+by an order of magnitude!
