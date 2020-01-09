@@ -692,7 +692,13 @@ This is an example of the
 averaging different types of ignorance yields wisdom.
 In this case, the crowd is made up of subestimates.
 
-https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates
+But like crowds, Fermi estimates are not foolproof.
+A single charismatic fool can sway a crowd away from the truth, and
+similarly, a particularly bad subestimate can ruin your approximation.
+As
+[described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
+the best way to avoid foolish subestimates is to *sanity check* them.
+Compare to known
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
