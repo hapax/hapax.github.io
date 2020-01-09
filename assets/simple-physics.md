@@ -36,22 +36,23 @@ students find challenging but fair given their limited background
 knowledge.
 In particular, problems should avoid calculus, which is not part of
 Canada's high school curriculum.
-Judging from competition problems, this should restrict us to
-tediously intricate mechanics problems, with a smattering of circuits,
+Judging from competition problems, this restricts us to
+tediously intricate mechanics problems with a smattering of circuits,
 optics, and other elementary topics.
 
 I decided to view this as a challenge: do more with less.
 I am not above writing tediously intricate mechanics problems, but it
-was much more instructive to master the basic hacks and use them to teach myself new things.
-I'm not sure about the students, but it certainly made me a better physicist!
+was much more instructive to master some simple physics hacks and use
+them to discover new things.
+I'm not sure about the students, but it has certainly made me a better physicist!
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
 
 To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf).
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
+though I encourage you to have a look if you want more examples.
 I also recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/) (which
-I only discovered recently!), covering similar ground in greater depth.
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/), covering similar ground in greater depth.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
