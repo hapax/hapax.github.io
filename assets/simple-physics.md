@@ -698,9 +698,9 @@ As
 the best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
-For instance, if you guess that the Canadian budget is CAD$10$^{14}$,
+For instance, if you guess that the Canadian budget is CAD$\$10^{14}$,
 and you know Canada's population is around $30$ million, you see that
-is equivalent to spending CAD3 million on each person. That seems
+is equivalent to spending CAD$\$3$ million on each person. That seems
 like way too much!
 But if all else fails, act like a crowd, and try to intuit some over-
 and underestimates you can average.
