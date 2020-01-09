@@ -730,7 +730,7 @@ We'll discuss power laws below, but I'll finish with the much more
 severe example of *exponential* nonlinearity.
 
 Suppose I throw a fistful of quarters onto the ground.
-What's the chance they all come up heads?
+What's the probability they all come up heads?
 Well, if there are $n$ quarters, and each has a $1/2$ probability of
 coming up heads, the answer is $2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
@@ -743,8 +743,7 @@ within an order of magnitude.
 magnitude, i.e. it could be around $3n$ or $n/3$.
 So our estimate of the probability is likely to be good up to a cube
 or square root!
-Put differently, we should use ticks on a doubly logarithmic ruler.
-)
+Put differently, we should use ticks on a doubly logarithmic ruler.)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
