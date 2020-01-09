@@ -705,9 +705,13 @@ like way too much!
 
 This draws attention to an oft-neglected aspect of Fermi
 approximation: you need to know stuff!
-Sanity-checking, and doing subestimates generally, requires a web of
-facts, figures, and intuitions you can use to triangulate your
-position in estimate space.
+You need a web of facts, figures, and intuitions to
+triangulate your position in estimate space.
+For this reason, books on Fermi problems,
+e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)
+by Weinstein and Adam, have a list of handy numbers in the appendix.
+If you are doing Fermi problems in real life, though, you can always
+use Google!
 
 Another failure mode (also described)
 
