@@ -580,7 +580,8 @@ often happens with Fermi estimates, you land on your feet!
 **Exercise 4 (churches in the US).** Guess the number of churches in
 the US.
 
-*Hint.* A particularly useful intermediate factor is *people*.
+*Hint.* A particularly useful intermediate factor is *people*, both in
+ this problem and in general.
  The US has a population of around $300$ million.
 
 ---
