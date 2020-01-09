@@ -614,7 +614,7 @@ Let's see how this works in practice.
 Suppose we want to estimate the annual electricity usage in the greater
 Vancouver area.
 (This is an actual question from my
-PhD [comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf)!)
+PhD [comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf).)
 We could consider all sorts of separate contributions,
 e.g. households, small businesses, heavy industry, agriculture,
 transport, and so on, all
@@ -682,24 +682,28 @@ quite a bit going on under the hood to ensure it works.
 First of all, somewhat counterintuitively, *more subestimates is
 better*.
 Roughly, our under- and overestimates will tend to balance each other
-out.
-This is the same reason geometric means work!
+out, which is also the reason we use geometric means.
 If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 \sqrt{x^2} = x$ is the true value.
 This is an example of the
-[wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd):
-averaging different types of ignorance yields wisdom.
+[wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
+averaging over different types of ignorance yields wisdom.
 In this case, the crowd is made up of subestimates.
 
-But like crowds, Fermi estimates are not foolproof.
-A single charismatic fool can bias a crowd, and
-similarly, a bad subestimate can ruin your approximation.
+But just as a single charismatic fool can bias a crowd, and a foolish
+subestimate can ruin your approximation.
 As
 [described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
 the best way to avoid foolish subestimates is to *sanity check* them.
-Compare to things you know, and if you are estimating "in real life",
-check Google.
+Compare to things you know, or *manipulate* your guess until you can
+make that comparison.
+For instance, if you guess that the Canadian budget is CAD$\S10^{14}$,
+and you know Canada's population is around $30$ million, you see that
+is equivalent to spending CAD$\S3$ million on each person. That seems
+like way too much!
+But if all else fails, act like a crowd: generate some over- and
+underestimates by intuition, and average them.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -983,3 +987,6 @@ When choosing a list of relevant parameters, for instance, we
 neglected things that we did not expect , our answers are usually only
 correct to within an order of magnitude because we cannot determine
 the numbers out front.
+
+If you are estimating "in real life" (rather than in a test) check
+Google.
