@@ -693,8 +693,8 @@ averaging different types of ignorance yields wisdom.
 In this case, the crowd is made up of subestimates.
 
 But like crowds, Fermi estimates are not foolproof.
-A single charismatic fool can sway a crowd away from the truth, and
-similarly, a particularly bad subestimate can ruin your approximation.
+A single charismatic fool can bias a crowd, and
+similarly, a bad subestimate can ruin your approximation.
 As
 [described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
 the best way to avoid foolish subestimates is to *sanity check* them.
