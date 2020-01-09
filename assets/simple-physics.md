@@ -722,6 +722,11 @@ This is not always the case!
 Here's a simple example.
 Suppose I throw a fistful of quarters onto the ground.
 What's the chance they all come up heads?
+Well, if there are $n$ quarters, and each has a $1/2$ probability of
+coming up heads, the answer is $2^{-n}$.
+It seems like all I need to do is count the quarters in a fistful.
+But here's the rub: I only need to be wrong by two quarters to be off
+by an order of magnitude!
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
