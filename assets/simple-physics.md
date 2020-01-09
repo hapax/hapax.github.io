@@ -650,10 +650,10 @@ year, and add an additional factor of $10$ to account for industry.
 In gigawatt hours (GWh), this gives a total energy of
 
 $$
-\begin{align}
+\begin{align*}
 \text{yearly energy use} & \sim 10 \times (365 \times 24 \text{ h})
 \times (1.5 \text{GW}) \approx 1.3 \times 10^5 \text{ GWh}.
-\end{align}
+\end{align*}
 $$
 
 How did we do?
