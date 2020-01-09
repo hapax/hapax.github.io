@@ -693,9 +693,7 @@ In this case, the crowd is made up of subestimates.
 
 But just as a single charismatic fool can bias a crowd, and a foolish
 subestimate can ruin your approximation.
-As
-[described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
-the best way to avoid foolish subestimates is to *sanity check* them.
+The best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
 For instance, if you estimate that Canada's budget is CAD$10^{14}$,
@@ -703,18 +701,19 @@ and you know the population is around $30$ million, means the
 government is spending CAD$3$ million on each person. That seems
 like way too much!
 
-This draws attention to an oft-neglected aspect of Fermi
-approximation: you need to know stuff!
-You need a web of facts, figures, and intuitions to
-triangulate your position in estimate space.
-For this reason, books on Fermi problems,
+Aliens cannot perform this sanity check because they don't know
+enough about our world.
+In general, to be a good estimator, you need a web of facts, figures,
+and intuitions to triangulate your position in estimate space.
+Books on Fermi problems,
 e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)
-by Weinstein and Adam, have a list of handy numbers in the appendix.
+by Weinstein and Adam, have a list of handy numbers in the appendix
+for just this reason.
 It may feel like cheating, but remember that if you are doing a Fermi
 problem in real life, though, you can make your web of facts
 dramatically larger using Google!
 
-Another failure mode (also described)
+Another failure mode ([described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates))
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
