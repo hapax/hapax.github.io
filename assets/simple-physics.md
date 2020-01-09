@@ -647,7 +647,8 @@ $$
 $$
 
 To find the total electricity usage, we multiply by the length of a
-year, and add an additional factor of $10$ to account for industry.
+year, and add an additional factor of $10$ to account for
+non-household use.
 In gigawatt hours (GWh), this gives a total energy of
 
 $$
