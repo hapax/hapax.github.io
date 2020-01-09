@@ -690,6 +690,7 @@ factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd):
 averaging different types of ignorance yields wisdom.
+In this case, the crowd is made up of subestimates.
 
 https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates
 
