@@ -698,7 +698,8 @@ similarly, a bad subestimate can ruin your approximation.
 As
 [described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
 the best way to avoid foolish subestimates is to *sanity check* them.
-Compare to known
+Compare to things you know, and if you are estimating "in real life",
+check Google.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
