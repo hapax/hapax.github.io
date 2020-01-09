@@ -577,6 +577,7 @@ Similarly, for the density, I just took the average of $1$ species per
 $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
 I don't really trust my intuitions about areal biodiversity, but as
 often happens with Fermi estimates, you land on your feet!
+(There is actually a statistical reason for this, discussed more in <a href="#sec-3-4">usage</a>.)
 
 ---
 
