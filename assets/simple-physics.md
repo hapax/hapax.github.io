@@ -684,7 +684,7 @@ better*.
 Roughly, our under- and overestimates will tend to balance each other
 out.
 This is the same reason geometric means work!
-More explicitly, if the true value is $x$, and $a$ underestimates by a
+If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 \sqrt{x^2} = x$, the true value.
 
