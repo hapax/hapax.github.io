@@ -704,10 +704,10 @@ is equivalent to spending CAD$3$ million on each person. That seems
 like way too much!
 
 This draws attention to an oft-neglected aspect of Fermi
-approximation.
-You need to know stuff!
-You need a web of facts, figures, and intuitions you can use to
-triangulate your position in estimate space.
+approximation: you need to know stuff!
+Sanity-checking, and doing subestimates generally, requires a web of
+facts, figures, and intuitions you can use to triangulate your
+position in estimate space.
 
 Another failure mode (also described)
 
