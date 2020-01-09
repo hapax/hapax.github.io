@@ -689,8 +689,8 @@ factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
 averaging over different types of ignorance yields wisdom.
-In this case, the crowd is made up of subestimates.
 
+In this case, the crowd is made up of subestimates.
 But just as a single charismatic fool can bias a crowd, and a foolish
 subestimate can ruin your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
