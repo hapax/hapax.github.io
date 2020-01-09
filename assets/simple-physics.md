@@ -9,9 +9,8 @@ date:  2020-01-06
 
 **January 6, 2020.** *Physics is often presented as the most arcane and
   mathematically impenetrable of natural sciences. Here, we show how
-  simple physical ideas, and a dash of pre-calculus mathematics, can
-  still be
-  awesomely powerful.*
+  simple physical ideas, with a dash of pre-calculus mathematics, can
+  still be awesomely powerful.*
 
 ### Contents
 
@@ -201,7 +200,7 @@ $\ell \approx 1$ m.
 In order to make the clock, we need a ruler to measure out the length
 of string.
 But for maximal whimsy, we can switch things up, and turn a stopwatch,
-pumpkin and spool of string into a ruler!
+pumpkin and spool into a ruler!
 Measure with the string, snip off the corresponding length, attach
 the pumpkin and gently wobble.
 By timing the period with the stopwatch, you can figure out how long
@@ -577,7 +576,6 @@ Similarly, for the density, I just took the average of $1$ species per
 $1 \text{ km}^2$ (seems too large) and $100 \text{ km}^2$ (seems too small).
 I don't really trust my intuitions about areal biodiversity, but as
 often happens with Fermi estimates, you land on your feet!
-(There is actually a statistical reason for this, discussed more in <a href="#sec-3-4">usage</a>.)
 
 ---
 
@@ -597,11 +595,16 @@ is especially true for Fermi estimates.
 If you want fast, robust estimates, forget about finesse; just
 focus on the *single most important mechanism*.
 Make simplifying assumptions, ignore subtleties, and strip away
-distractions to get at the key mechanism.
+distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
-Let's see how this works in practice.
+We've already seen examples of KISS when performing dimensional
+analysis.
+When choosing a list of relevant parameters, we were focusing on the
+key physical mechanism, and indeed, our answers are usually only
+correct to within an order of magnitude because we cannot determine
+the numbers out front.
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
