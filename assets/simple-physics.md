@@ -598,7 +598,16 @@ Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
-Suppose
+The mother of all Fermi estimates was by
+[Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) himself, who
+guessed the strength of the
+[Trinity nuclear test](https://en.wikipedia.org/wiki/Trinity_(nuclear_test))
+by dropping a few pieces of paper.
+Fermi doesn't explain his precise reasoning, but
+[stated that](http://www.dannen.com/decision/fermi.html) he dropped
+them from about $6$ feet, and observed a displacement of $2.5$ m due
+to the blast wave (with no wind to interfere with the observation).
+
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
