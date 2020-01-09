@@ -667,18 +667,26 @@ we should be spot on!
 
 ---
 
-**Exercise 5 (Canadian budget).** Estimate the size of the Canadian government's 2019 budget.
+**Exercise 5 (Canadian budget).** Estimate Canada's 2019 budget.
+
+*Hint.* You may need to use all three techniques!
 
 ---
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
-We've already seen examples of KISS when performing dimensional
-analysis.
-When choosing a list of relevant parameters, for instance, we
-neglected things that we did not expect , our answers are usually only
-correct to within an order of magnitude because we cannot determine
-the numbers out front.
+So far, I've described what I think are the key methods for doing
+Fermi estimates.
+But it's a subtle art, and just like dimensional analysis, there is
+quite a bit going on under the hood to ensure it works.
+First of all, somewhat counterintuitively, *more subestimates is
+better*.
+Roughly, our under- and overestimates will tend to balance each other
+out.
+This is the same reason geometric means work!
+More explicitly, if the true value is $x$, and $a$ underestimates by a
+factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
+\sqrt{x^2} = x$, the true value.
 
 https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates
 
@@ -957,3 +965,10 @@ proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
 If the hardware store only stocks springs of stiffness $k = 100 \text{
 N/m}$, and you want a period of $t = 2$ s, how heavy should your
 pumpkin be?
+
+We've already seen examples of KISS when performing dimensional
+analysis.
+When choosing a list of relevant parameters, for instance, we
+neglected things that we did not expect , our answers are usually only
+correct to within an order of magnitude because we cannot determine
+the numbers out front.
