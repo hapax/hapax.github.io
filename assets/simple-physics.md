@@ -8,7 +8,7 @@ date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is often presented as the most arcane and
-  mathematically impenetrable of natural sciences. Here, we show how
+  mathematical of natural sciences. Here, we show how
   simple physical ideas, with a dash of pre-calculus mathematics, can
   still be awesomely powerful.*
 
@@ -213,11 +213,12 @@ things are!
 measure very large objects as well.
 Place the sun at one end of the object, and the pumpkin at the other.
 If you kick the pumpkin with enough energy and in the right direction,
-it will orbit the sun in a circle with angular frequency $\omega$.
+it will orbit the sun in a circle of radius $r$ (the length of the
+object) with angular frequency $\omega$.
 Using dimensional analysis, show that
 
 $$
-r \sim \sqrt{\frac{GM}{\omega^2}},
+r \sim \left[\frac{GM}{\omega^2}\right]^{1/3},
 $$
 
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
@@ -516,7 +517,7 @@ mooney!
 
 **Exercise 3 (lunar radius).** Fermi estimate the radius of the moon.
 
-*Hint.* Take a geometric mean of an overestimate and an underestimate.
+*Hint.* Take the geometric mean of an overestimate and an underestimate.
 For an overestimate, you could try the radius of
  the earth, $r_\oplus = 6300 \text{ km}$.
 
@@ -605,7 +606,7 @@ If you want fast, robust estimates, forget about finesse; just
 focus on a *single important mechanism*.
 You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
-Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
+Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
@@ -661,6 +662,12 @@ Our guess translates to around $500$ PJ (petajoules) per year, and according to
 British Columbia uses $850--1000$ PJ.
 Since greater Vancouver has about half the population of the province,
 we should be spot on!
+
+---
+
+**Exercise 5 (churches in the US).** 
+
+---
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
