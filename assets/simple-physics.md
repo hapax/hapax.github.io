@@ -638,12 +638,12 @@ To estimate individual power usage, we can compare to something
 familiar like a good ol' $60$ W globe.
 I would guess that with light, heat, household appliances, and
 electronic devices, an individual would use the equivalent of $10$
-light bulbs, or around $600$ W.
+light bulbs on average, or around $600$ W.
 Thus,
 
 $$
 \frac{\text{power}}{\text{Vancouver}} \sim 600 \text{W} \times (2.5
-\times 10^6) = 1.5 \text{GW}.
+\times 10^6) = 1.5 \text{ GW}.
 $$
 
 To find the total electricity usage, we multiply by the length of a
@@ -654,7 +654,7 @@ In gigawatt hours (GWh), this gives a total energy of
 $$
 \begin{align*}
 \text{yearly energy use} & \sim 10 \times (365 \times 24 \text{ h})
-\times (1.5 \text{GW}) \approx 1.3 \times 10^5 \text{ GWh}.
+\times (1.5 \text{ GW}) \approx 1.3 \times 10^5 \text{ GWh}.
 \end{align*}
 $$
 
