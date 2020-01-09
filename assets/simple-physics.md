@@ -593,18 +593,27 @@ the US.
 *KISS* is the proverbial exhortation to "Keep It Simple, Stupid", and it
 is especially true for Fermi estimates.
 If you want fast, robust estimates, forget about finesse; just
-focus on the *single most important mechanism*.
-Make simplifying assumptions, ignore subtleties, and strip away
+focus on a *single important mechanism*.
+You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
-Suppose I want to estimate the annual electricity usage in the greater
+Suppose we want to estimate the annual electricity usage in the greater
 Vancouver area.
-(This is a real question from my
-[comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf)!)
-I could consider all sorts 
+(This is an actual question from my
+PhD [comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf)!)
+We could consider all sorts of separate contributions,
+e.g. households, businesses, universities, heavy industry, transport,
+etc.
+But typically, household usage makes up some small fraction of the
+total, say $10\%$.
+We will just estimate household usage, and multiply by $10$!
+
+The population of the greater Vancouver area (I happen to know) is
+around $2.5$ million.
+Canadians use a lot of energy.
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
