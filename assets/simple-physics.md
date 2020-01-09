@@ -505,10 +505,9 @@ mooney!
 
 **Exercise 3 (lunar radius).** Fermi estimate the radius of the moon.
 
-*Hint.* Take a geometric mean of an overestimate and an underestimate,
- which seems smaller by roughly the same amount the overestimate is
- bigger. For an overestimate, for instance, you can use the radius of
- the earth $r_\oplus = 6300 \text{ km}$.
+*Hint.* Take a geometric mean of an overestimate and an underestimate.
+For an overestimate, you could try the radius of
+ the earth, $r_\oplus = 6300 \text{ km}$.
 
 ---
 
