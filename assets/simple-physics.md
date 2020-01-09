@@ -396,12 +396,14 @@ b,c)$ and each dimension gives us an equation.
 Three equations is just right for three unknowns.
 Any more unknowns, and you don't have enough equations to determine
 them all!
-
 More generally, if you can write everything in terms of $n$
 independent basic units, you can have at most $n$ physical parameters
 in your dimensional guess; otherwise you have too many unknowns to
 determine with your equations.
-This basic observation is called the
+
+There are other ways dimensional analysis can break down, e.g. if you
+have two relevant quantities (say, two lengths) with the same dimension.
+All these subtleties are captured in something called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 For more details, check out my
 [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
@@ -599,18 +601,6 @@ Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
-The mother of all Fermi estimates was is due to
-[Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) himself,
-who estimated the strength of the
-[Trinity nuclear test](https://en.wikipedia.org/wiki/Trinity_(nuclear_test))
-by dropping a few pieces of paper.
-Fermi doesn't explain his precise reasoning, but
-[states that](http://www.dannen.com/decision/fermi.html) he dropped
-the paper from a height of around $6$ feet ($1.8$ m) and observed a
-displacement of $2.5$ m as the blast wave passed, $40$ seconds after detonation.
-Fermi was $16$ km away from the detonation point.
-
-What is the key physical mechanism?
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
@@ -862,3 +852,17 @@ dimensional analysis and Fermi estimates.
 Everything else can be read independently.
 For each hack, I quickly outline the physics, do some examples,
 and finish with usage notes.
+
+The mother of all Fermi estimates was is due to
+[Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) himself,
+who estimated the strength of the
+[Trinity nuclear test](https://en.wikipedia.org/wiki/Trinity_(nuclear_test))
+by dropping a few pieces of paper.
+Fermi doesn't explain his precise reasoning, but
+[states that](http://www.dannen.com/decision/fermi.html) he dropped
+the paper from a height of around $6$ feet ($1.8$ m) and observed a
+displacement of $2.5$ m as the blast wave passed.
+Fermi was $16$ km away from the detonation point.
+
+What is the key physical mechanism?
+The paper moved because the air around it was displaced.
