@@ -573,9 +573,9 @@ is especially true for Fermi estimates.
 If you want fast, robust estimates, forget about finesse; just
 focus on the *single most important mechanism*.
 Make simplifying assumptions, ignore subtleties, and strip away
-distractions to get at the key mechanism; embrace the
-[spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
-(KISS could instead stand for "Keep It Spherical, Stupid".)
+distractions to get at the key mechanism.
+Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
+Perhaps KISS should stand for "Keep It Spherical, Stupid"!
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
