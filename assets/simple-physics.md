@@ -227,7 +227,7 @@ of gravity.
 
 *Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
-i.e. because objects respond the same way to gravitational fields, whatever
+i.e. because objects fall the same way in gravitational fields, whatever
 their mass.
 
 ---
