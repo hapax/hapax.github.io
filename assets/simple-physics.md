@@ -665,7 +665,7 @@ we should be spot on!
 
 ---
 
-**Exercise 5 (churches in the US).** 
+**Exercise 5 (Canadian budget).** Guess the size of Canada's 2019 budget.
 
 ---
 
