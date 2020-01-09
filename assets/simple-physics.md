@@ -525,8 +525,7 @@ $$
 species}.
 $$
 
-This sort of factorisation is crying out to be expressed in some sort
-of "generalised units":
+This sort of factorisation is crying out to be expressed in terms of "generalised units":
 
 $$
 \frac{\text{fish}}{\text{world}} \sim
