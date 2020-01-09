@@ -710,8 +710,9 @@ triangulate your position in estimate space.
 For this reason, books on Fermi problems,
 e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)
 by Weinstein and Adam, have a list of handy numbers in the appendix.
-If you are doing Fermi problems in real life, though, you can always
-use Google!
+It may feel like cheating, but remember that if you are doing a Fermi
+problem in real life, though, you can make your web of facts
+dramatically larger using Google!
 
 Another failure mode (also described)
 
