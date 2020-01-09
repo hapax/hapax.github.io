@@ -222,7 +222,8 @@ r \sim \left[\frac{GM}{\omega^2}\right]^{1/3},
 $$
 
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
-m}^3 \text{/kg s}^2$.
+m}^3 \text{/kg s}^2$ is *Newton's constant*, controlling the strength
+of gravity.
 
 *Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
