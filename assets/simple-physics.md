@@ -478,10 +478,10 @@ $$
 \frac{1}{2}(\log_{10} a + \log_{10} b) = \frac{1}{2}\log_{10} ab = \log_{10}\sqrt{ab}.
 $$
 
-It follows that
+From the log law $10^{\log_{10} x} = x$, it follows that
 
 $$
-10^{(\log a + \log b)/2} = 10^{\log \sqrt{ab}} = \sqrt{ab}.
+10^{(\log_{10} a + \log_{10} b)/2} = 10^{\log_{10} \sqrt{ab}} = \sqrt{ab}.
 $$
 
 This is called the *geometric mean*.
