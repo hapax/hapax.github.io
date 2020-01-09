@@ -580,7 +580,10 @@ often happens with Fermi estimates, you land on your feet!
 ---
 
 **Exercise 4 (churches in the US).** Guess the number of churches in
-  the US. *Hint.* The US has a population of around $300$ million.
+the US.
+
+*Hint.* A particularly useful intermediate factor is *people*.
+ The US has a population of around $300$ million.
 
 ---
 
