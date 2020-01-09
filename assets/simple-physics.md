@@ -599,14 +599,21 @@ distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
-We've already seen examples of KISS when performing dimensional
-analysis.
-When choosing a list of relevant parameters, we were focusing on the
-key physical mechanism, and indeed, our answers are usually only
-correct to within an order of magnitude because we cannot determine
-the numbers out front.
+Let's see how this works in practice.
+Suppose I want to estimate the annual electricity usage in the greater
+Vancouver area.
+(This is a real question from my
+[comprehensive exam](https://www.phas.ubc.ca/sites/phas/files/comp_aug2018.pdf)!)
+I could consider all sorts 
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
+
+We've already seen examples of KISS when performing dimensional
+analysis.
+When choosing a list of relevant parameters, for instance, we
+neglected things that we did not expect , our answers are usually only
+correct to within an order of magnitude because we cannot determine
+the numbers out front.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
