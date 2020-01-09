@@ -572,12 +572,10 @@ often happens with Fermi estimates, you land on your feet!
 is especially true for Fermi estimates.
 If you want fast, robust estimates, forget about finesse; just
 focus on the *single most important mechanism*.
-This is especially true for physics, where you often have to make
-simplifying assumptions, ignore subtleties, and strip away distractions
-to get at the key mechanism.
-Remembering the old saw about the
-[spherical cow in a vacuum](https://en.wikipedia.org/wiki/Spherical_cow),
-KISS could instead stand for "Keep It Spherical, Stupid".
+Make simplifying assumptions, ignore subtleties, and strip away
+distractions to get at the key mechanism; embrace the
+[spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
+(KISS could instead stand for "Keep It Spherical, Stupid".)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
