@@ -725,11 +725,11 @@ For instance, with power, there may be economies of scale which
 Or maybe larger cities will have more amenities, and average power
 usage will increase.
 Who knows?
-
 Whatever the answer, it is probably a fairly mild *power law*
 nonlinearity.
 We'll discuss power laws below, but I'll finish with the much more
 severe example of *exponential* nonlinearity.
+
 Suppose I throw a fistful of quarters onto the ground.
 What's the chance they all come up heads?
 Well, if there are $n$ quarters, and each has a $1/2$ probability of
@@ -740,8 +740,12 @@ by an order of magnitude!
 With this sort of dependence, you can use Fermi estimate techniques to
 make a guess, but I don't think the answer is even well-defined to
 within an order of magnitude.
-(In fact, with problems like these, you should use a *doubly
-logarithmic* ruler, but that's a story for another time!)
+(Our estimate of $n$ will probably be accurate up to an order of
+magnitude, i.e. it could be around $3n$ or $n/3$.
+So our estimate of the probability is likely to be good up to a cube
+or square root!
+Put differently, we should use ticks on a doubly logarithmic ruler.
+)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
