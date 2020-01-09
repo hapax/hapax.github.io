@@ -724,6 +724,22 @@ For instance, with power, there may be economies of scale which
 *reduce* the average power usage when there are more people.
 Or maybe larger cities will have more amenities, and average power
 usage will increase.
+Who knows?
+
+Whatever the answer, it is probably a fairly mild *power law*
+nonlinearity.
+We'll discuss power laws below, but I'll finish with the much more
+severe example of *exponential* nonlinearity.
+Suppose I throw a fistful of quarters onto the ground.
+What's the chance they all come up heads?
+Well, if there are $n$ quarters, and each has a $1/2$ probability of
+coming up heads, the answer is $2^{-n}$.
+It seems like all I need to do is count the quarters in a fistful.
+But here's the rub: I only need to be wrong by two quarters to be off
+by an order of magnitude!
+With this sort of dependence, you can make a guess, but it probably
+doesn't make sense to expect it to be accurate to an order of
+magnitude.
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -1016,10 +1032,3 @@ and underestimates you can average.
 
 
 Here's a simple example.
-Suppose I throw a fistful of quarters onto the ground.
-What's the chance they all come up heads?
-Well, if there are $n$ quarters, and each has a $1/2$ probability of
-coming up heads, the answer is $2^{-n}$.
-It seems like all I need to do is count the quarters in a fistful.
-But here's the rub: I only need to be wrong by two quarters to be off
-by an order of magnitude!
