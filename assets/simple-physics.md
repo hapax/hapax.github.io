@@ -17,7 +17,7 @@ date:  2020-01-06
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
-   2. <a href="#sec-2-2">Drag and drop: Stokes' law</a>
+   2. <a href="#sec-2-2">Drag and drop</a>
    3. <a href="#sec-2-3">Usage notes</a>
 3. <a href="#sec-3">Fermi estimates</a>
    1. <a href="#sec-3-1">Geometric means</a>
@@ -223,14 +223,14 @@ $$
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
 m}^3 \text{/kg s}^2$.
 
-\text{Hint.} You can ignore the mass of the pumpkin due to the
+*Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
-i.e. objects respond the same way to gravitational fields, whatever
+i.e. because objects respond the same way to gravitational fields, whatever
 their mass.
 
 ---
 
-#### 2.2. Drag and drop: Stokes' law<a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
 Let's ratchet down the
@@ -278,7 +278,7 @@ $$
 
 We can now proceed with our dimensional analysis.
 Let's write the drag force on the sphere $F_d$ as a product of powers
-of sphere's size speed and the viscosity:
+of the remaining factors:
 
 $$
 F_d = r^a v^b \mu^c.
@@ -620,9 +620,9 @@ of which would involve different estimation strategies.
 Instead, let's focus on a single, simple estimate: *household* power
 usage.
 This will make up some fixed fraction of the whole, perhaps $10\%$ or
-so, so we just multiply by $10$ at the end.
+so, so we just multiply by $10$ at the end of the day.
 
-Let's start by writing some subestimates, factorising our guess using
+We start by writing some subestimates, factorising our guess using
 *people* (rather than households) as an intermediate unit:
 
 $$
@@ -630,7 +630,7 @@ $$
 \frac{\text{power}}{\text{person}}\times \frac{\text{person}}{\text{Vancouver}}.
 $$
 
-The term "person/Vancouver" is just the population of greater
+The factor "person/Vancouver" is just the population of greater
 Vancouver, which I happen to know is around $2.5$ million.
 To estimate individual power usage, we can compare to something
 familiar like a good ol' $60$ W globe.
