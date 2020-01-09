@@ -686,7 +686,10 @@ out.
 This is the same reason geometric means work!
 If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
-\sqrt{x^2} = x$, the true value.
+\sqrt{x^2} = x$ is the true value.
+This is an example of the
+[wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd):
+averaging different types of ignorance yields wisdom.
 
 https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates
 
