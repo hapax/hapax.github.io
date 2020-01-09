@@ -651,7 +651,7 @@ This translates to around $500$ PJ (petajoules), and according to
 [this report](https://pics.uvic.ca/sites/default/files/uploads/publications/Energy_Data_Report_2010_1.pdf),
 the province of British Columbia uses around $850--1000$ PJ per year.
 Since greater Vancouver makes up about half of British Coumbia's
-population, we are right 
+population, we should be spot on, or at least within a factor of $3$.
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
