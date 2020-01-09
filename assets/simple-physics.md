@@ -209,26 +209,34 @@ things are!
 
 ---
 
-**Exercise 1 (spring-driven clock).**
-You can build a clock out of a spring and an old pumpkin by attaching the
-pumpkin to one end and fixing the other, compressing the spring, and
-letting it wobble back and forth.
-(If you do this horizontally, you can ignore gravity.)
-When the spring is moved from equilibrium a distance $x$, there is a
-[restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
-proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
-If the hardware store only stocks springs of stiffness $k = 100 \text{
-N/m}$, and you want a period of $t = 2$ s, how heavy should your
-pumpkin be?
+**Exercise 1 (large pumpkin ruler).** You can use an old pumpkin to
+measure very large objects as well.
+Place the sun at one end of the object, and the pumpkin at the other.
+If you kick the pumpkin with enough energy and in the right direction,
+it will orbit the sun in a circle with angular frequency $\omega$.
+Using dimensional analysis, show that
+
+$$
+r \sim \sqrt{\frac{GM}{\omega^2}},
+$$
+
+where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
+m}^3 \text{/kg s}^2$.
+
+\text{Hint.} You can ignore the mass of the pumpkin due to the
+[equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
+i.e. objects respond the same way to gravitational fields, whatever
+their mass.
 
 ---
 
 #### 2.2. Drag and drop: Stokes' law<a id="sec-2-2" name="sec-2-2"></a>
 
 Maybe pumpkin timepieces aren't your thing.
-So, let's ratchet down the
-whimsy and turn to the aerodynamics of spheres.
-Imagine a sphere moving through a fluid, e.g. a
+Let's ratchet down the
+whimsy and turn to something that sounds a little more serious: the
+aerodynamics of spheres.
+So, imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
 (You can explore this example in Exercise 2.)
@@ -927,3 +935,16 @@ Fermi was $16$ km away from the detonation point.
 
 What is the key physical mechanism?
 The paper moved because the air around it was displaced.
+
+
+**Exercise 1 (spring-driven clock).**
+You can build a clock out of a spring and an old pumpkin by attaching the
+pumpkin to one end and fixing the other, compressing the spring, and
+letting it wobble back and forth.
+(If you do this horizontally, you can ignore gravity.)
+When the spring is moved from equilibrium a distance $x$, there is a
+[restoring force](https://en.wikipedia.org/wiki/Hooke%27s_law)
+proportional to displacement, $F = kx$, where $k$ is the *stiffness*.
+If the hardware store only stocks springs of stiffness $k = 100 \text{
+N/m}$, and you want a period of $t = 2$ s, how heavy should your
+pumpkin be?
