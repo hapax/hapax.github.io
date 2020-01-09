@@ -710,10 +710,18 @@ e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Proble
 by Weinstein and Adam, have a list of handy numbers in the appendix
 for just this reason.
 It may feel like cheating, but if you are doing a Fermi
-problem in real life, you can also make your web of facts
+problem in real life, remember that you can make your web of facts
 dramatically larger using Google!
 
-Another failure mode ([described by lukeprog](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates))
+Another failure mode
+([pointed out](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
+by lukeprog) is *nonlinearity*.
+In less fancy language, we assume that our final answer is
+*proportional* to each factor.
+This is not always the case!
+Here's a simple example.
+Suppose I throw a fistful of quarters onto the ground.
+What's the chance they all come up heads?
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
