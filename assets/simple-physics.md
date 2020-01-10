@@ -741,8 +741,8 @@ It seems like all I need to do is count the quarters in a fistful.
 But here's the rub: if I'm wrong by three quarters, l'll be off by a
 factor of $8 \approx 10$, a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
-slowly from the probability and stick to estimating the number of
-quarters in a fistful.
+slowly from exponentials.
+(In this case, though, it seems reasonable to Fermi estimate $n$.)
 
 ---
 
