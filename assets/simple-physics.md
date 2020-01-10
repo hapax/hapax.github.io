@@ -729,7 +729,7 @@ Thus, changing one factor (population of a city) will change another
 Sometimes you can take this dependence into account with extra
 factors, sometimes you can't.
 
-Assumption (b) can fail when the final answer has a different
+Assumption (b) fails when the final answer has a different
 functional dependence on subestimates.
 A particularly severe example is *exponential* dependence.
 Suppose I throw a fistful of quarters onto the ground.
