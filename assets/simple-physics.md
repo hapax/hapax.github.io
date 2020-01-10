@@ -209,7 +209,7 @@ things are!
 
 ---
 
-**Exercise 1 (large pumpkin ruler).** You can use an old pumpkin to
+**Exercise 1 (interplanetary pumpkins).** You can use an old pumpkin to
 measure very large objects as well.
 Place the sun at one end of the object, and the pumpkin at the other.
 If you kick the pumpkin with enough energy and in the right direction,
