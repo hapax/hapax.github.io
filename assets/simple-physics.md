@@ -669,8 +669,6 @@ we should be spot on!
 
 **Exercise 5 (Canadian budget).** Estimate Canada's 2019 budget.
 
-*Hint.* You may need to use all three techniques!
-
 ---
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
@@ -682,21 +680,26 @@ quite a bit going on under the hood to ensure it works.
 First of all, somewhat counterintuitively, *more subestimates is
 better*.
 Roughly, our under- and overestimates will tend to balance each other
-out, which is also the reason we use geometric means.
+out.
+This is also the reason we use geometric means.
 If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 \sqrt{x^2} = x$ is the true value.
+
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
 averaging over different types of ignorance yields wisdom.
-
-*Sanity checks.* In this case, the crowd is made up of subestimates.
+In this case, the crowd is made up of subestimates.
 But just as a single charismatic fool can bias a crowd, a foolish
 subestimate can scuttle your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
-For instance, if you're trying to count the stars in the universe, 
+For instance, perhaps we guess the Canadian budget is CAD`$`30
+billion.
+But if we also know the population (30 million or so) we see this
+corresponds to `$`1000 per person.
+This seems too low!
 
 *Web of facts.* Aliens cannot perform this sanity check because they don't know
 enough about our world.
@@ -714,38 +717,27 @@ dramatically larger using Google!
 problem.
 (I was first alerted to this by
 [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
-Our method of splitting the estimate into factors assumes that (a)
-factors are independent, and (b) the final answer is proportional to
-the factor.
-But (a) can easily fail.
+Our method of splitting the estimate into factors assumes that factors
+are (a) independent and (b) multiplied to give the final answer.
+Assumption (a) can easily fail.
 For instance, in our energy usage calculation, we assumed that average
 power usage was independent of population.
 But average power usage tends to be
 [lower](https://www.eia.gov/consumption/residential/)
-in urban areas due to the centralisation of energy infrastructure.
+in urban areas because the energy infrastructure is all in one place.
 Thus, changing one factor (population of a city) will change another
 (per capita power usage).
 
 Assumption (b) can fail when the final answer has some more
-complicated type of functional dependence on subestimates.
+complicated type of functional dependence.
 A particularly severe example is *exponential* dependence.
 Suppose I throw a fistful of quarters onto the ground.
 What's the probability they all come up heads?
-Well, if there are $n$ quarters, and each has a $1/2$ probability of
+Well, if there are $n$ quarters, and each has a $50\%$ chance of
 coming up heads, the answer is $(1/2)^n = 2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
-But here's the rub: I only need to be wrong by two quarters to be off
-by an order of magnitude!
-With this sort of dependence, you can use Fermi estimate techniques to
-make a guess, but the answer isn't really well-defined to an order of
-magnitude.
-Different fists will differ by more than two quarters!
-(Our estimate of $n$ will probably be accurate up to an order of
-magnitude, i.e. it could be around $3n$ or $n/3$.
-So our estimate of the probability is likely to be good up to a cube
-or cube root!
-We could view this as ticks on a *doubly* logarithmic ruler, but it's
-a bit mind-boggling.)
+But here's the rub: if I'm wrong by two quarters, l'll be off by a
+factor of $4$, which is a whole order of magnitude!
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -1068,3 +1060,14 @@ $$
 $$
 
 for some number $\gamma$.
+
+With this sort of dependence, you can use Fermi estimate techniques to
+make a guess, but the answer isn't really well-defined to an order of
+magnitude.
+Different fists will differ by more than two quarters!
+(Our estimate of $n$ will probably be accurate up to an order of
+magnitude, i.e. it could be around $3n$ or $n/3$.
+So our estimate of the probability is likely to be good up to a cube
+or cube root!
+We could view this as ticks on a *doubly* logarithmic ruler, but it's
+a bit mind-boggling.)
