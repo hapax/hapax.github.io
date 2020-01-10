@@ -678,9 +678,8 @@ Fermi estimates.
 But it's a subtle art, and just like dimensional analysis, there is
 quite a bit going on under the hood to ensure it works.
 First of all, somewhat counterintuitively, *more subestimates is
-better*.
-Roughly, our under- and overestimates will tend to balance each other
-out.
+better* because our under- and overestimates will tend to balance each
+other out.
 This is also the reason we use geometric means.
 If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
