@@ -726,8 +726,8 @@ in urban areas due to the centralisation of energy infrastructure.
 Thus, changing one factor (population of a city) will change another
 (per capita power usage).
 
-Assumption (b) can fail when the final answer depends on factors in
-some other.
+Assumption (b) can fail when the final answer has some more
+complicated type of functional dependence on subestimates.
 A particularly severe example is *exponential* dependence.
 Suppose I throw a fistful of quarters onto the ground.
 What's the probability they all come up heads?
