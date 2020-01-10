@@ -699,7 +699,8 @@ For instance, perhaps we guess the Canadian budget is CAD`$`30
 billion.
 But if we also know the population (30 million or so) we see this
 corresponds to `$`1000 per person.
-This seems too low!
+Since the government typically spends thousands of dollars per student
+on public education (let alone everything else!) this number seems too low.
 
 *Web of facts.* Aliens cannot perform this sanity check because they don't know
 enough about our world.
@@ -727,6 +728,8 @@ But average power usage tends to be
 in urban areas because the energy infrastructure is all in one place.
 Thus, changing one factor (population of a city) will change another
 (per capita power usage).
+Sometimes you can take this dependence into account with extra
+factors, sometimes you can't.
 
 Assumption (b) can fail when the final answer has some more
 complicated type of functional dependence.
@@ -736,8 +739,17 @@ What's the probability they all come up heads?
 Well, if there are $n$ quarters, and each has a $50\%$ chance of
 coming up heads, the answer is $(1/2)^n = 2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
-But here's the rub: if I'm wrong by two quarters, l'll be off by a
-factor of $4$, which is a whole order of magnitude!
+But here's the rub: if I'm wrong by three quarters, l'll be off by a
+factor of $8 \approx 10$, a whole order of magnitude!
+If you want a well-defined order of magnitude estimate, back away
+slowly from the probability and stick to estimating the number of
+quarters in a fistful.
+
+---
+
+**Exercise 6 (quarters).** How many quarters in a fistful?
+
+---
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
