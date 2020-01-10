@@ -717,7 +717,7 @@ dramatically larger using Google!
 problem.
 (I was first alerted to this by
 [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
-Our method of splitting the estimate into factors assumes that factors
+Our method of factorising the guess assumes that subestimates
 are (a) independent and (b) multiplied to give the final answer.
 Assumption (a) can easily fail.
 For instance, in our energy usage calculation, we assumed that average
