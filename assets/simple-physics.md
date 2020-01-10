@@ -737,8 +737,9 @@ It seems like all I need to do is count the quarters in a fistful.
 But here's the rub: I only need to be wrong by two quarters to be off
 by an order of magnitude!
 With this sort of dependence, you can use Fermi estimate techniques to
-make a guess, but the answer isn't well-defined to
-within an order of magnitude.
+make a guess, but the answer isn't really well-defined to an order of
+magnitude.
+Different fists will differ by more than two quarters!
 (Our estimate of $n$ will probably be accurate up to an order of
 magnitude, i.e. it could be around $3n$ or $n/3$.
 So our estimate of the probability is likely to be good up to a cube
