@@ -690,16 +690,13 @@ This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
 averaging over different types of ignorance yields wisdom.
 
-*Reality checks.* In this case, the crowd is made up of subestimates.
+*Sanity checks.* In this case, the crowd is made up of subestimates.
 But just as a single charismatic fool can bias a crowd, a foolish
 subestimate can scuttle your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
-For instance, if you estimate that Canada's budget is CAD$10^{14}$,
-and you know the population is around $30$ million, the
-government is spending CAD$3$ million on each person.
-That seems like way too much!
+For instance, if you're trying to count the stars in the universe, 
 
 *Web of facts.* Aliens cannot perform this sanity check because they don't know
 enough about our world.
@@ -713,38 +710,41 @@ It may feel like cheating, but if you are doing a Fermi
 problem in real life, remember that you can make your web of facts
 dramatically larger using Google!
 
-*Nonlinearity.* Another failure mode is *nonlinearity* in a Fermi problem.
-(I was first alerted to this problem in the
+*Nonlinearity.* Another failure mode is "nonlinearity" in a Fermi
+problem.
+(I was first alerted to this problem in
 [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
-When we write our guess as a product of subestimates, we are assuming
-the final answer is *proportional* to each subestimate.
-A very prosaic instance of nonlinearity is when we should use the usual
-*arithmetic* mean, $(a+b)/2$.
-For instance, with power, there may be economies of scale which
-*reduce* the average power usage when there are more people.
-Or maybe larger cities will have more amenities, and average power
-usage will increase.
-Who knows?
-Whatever the answer, it is probably a fairly mild *power law*
-nonlinearity.
-We'll discuss power laws below, but I'll finish with the much more
-severe example of *exponential* nonlinearity.
+Our method of splitting the estimate into factors assumes that (a)
+factors are independent, and (b) the final answer is proportional to
+the factor.
+But (a) can easily fail.
+For instance, in our energy usage calculation, we assumed that average
+power usage was independent of population.
+But average power usage tends to be
+[lower](https://www.eia.gov/consumption/residential/)
+in urban areas due to the centralisation of energy infrastructure.
+Thus, changing one factor (population of a city) will change another
+(per capita power usage).
 
+Assumption (b) can fail when the final answer depends on factors in
+some other.
+A particularly severe example is *exponential* dependence.
 Suppose I throw a fistful of quarters onto the ground.
 What's the probability they all come up heads?
 Well, if there are $n$ quarters, and each has a $1/2$ probability of
-coming up heads, the answer is $2^{-n}$.
+coming up heads, the answer is $(1/2)^n = 2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
 But here's the rub: I only need to be wrong by two quarters to be off
 by an order of magnitude!
 With this sort of dependence, you can use Fermi estimate techniques to
-make a guess, but I don't think the answer is even well-defined to
+make a guess, but the answer isn't well-defined to
 within an order of magnitude.
 (Our estimate of $n$ will probably be accurate up to an order of
 magnitude, i.e. it could be around $3n$ or $n/3$.
 So our estimate of the probability is likely to be good up to a cube
-or square root!
-Put differently, we should use ticks on a *doubly* logarithmic ruler.)
+or cube root!
+We could view this as ticks on a *doubly* logarithmic ruler, but it's
+a bit mind-boggling.)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
@@ -1037,3 +1037,33 @@ and underestimates you can average.
 
 
 Here's a simple example.
+
+When we write our guess as a product of subestimates, we are assuming
+the final answer is *proportional* to each subestimate.
+A very prosaic instance of nonlinearity is when we should use the usual
+*arithmetic* mean, $(a+b)/2$.
+For instance, with power, there may be economies of scale which
+*reduce* the average power usage when there are more people.
+Or maybe larger cities will have more amenities, and average power
+usage will increase.
+Who knows?
+Whatever the answer, it is probably a fairly mild *power law*
+nonlinearity.
+We'll discuss power laws below, but I'll finish with the much more
+severe example of *exponential* nonlinearity.
+
+When we write our guess as a product of subestimates, we are assuming
+the final answer is *proportional* to each subestimate, e.g. that the
+power usage in Vancouver is proportional to the number of people.
+But this may not be true!
+For instance, with power usage, there may be economies of scale which
+*reduce* the average power usage when there are more people.
+Conversely, maybe larger cities have more amenities, and average power usage increases.
+Examples like this usually obey
+[*power laws*](https://en.wikipedia.org/wiki/Power_law), where
+
+$$
+\text{final guess} \propto (\text{factor})^\gamma,
+$$
+
+for some number $\gamma$.
