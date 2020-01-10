@@ -713,14 +713,13 @@ It may feel like cheating, but if you are doing a Fermi
 problem in real life, remember that you can make your web of facts
 dramatically larger using Google!
 
-*Nonlinearity.* Another failure mode is "nonlinearity" in a Fermi
-problem.
-(I was first alerted to this by
+*Nonlinearity.* Another failure mode is "nonlinearity".
+(I first learned about this in
 [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
-Our method of factorising the guess assumes that subestimates
-are (a) independent and (b) multiplied to give the final answer.
+Our method of factorising assumes that subestimates
+are (a) independent and (b) multiply to give the final answer.
 Assumption (a) can easily fail.
-For instance, in our energy usage calculation, we assumed that average
+For instance, in our electricity calculation, we assumed that average
 power usage was independent of population.
 But average power usage tends to be
 [lower](https://www.eia.gov/consumption/residential/)
