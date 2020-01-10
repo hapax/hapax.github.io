@@ -747,7 +747,7 @@ quarters in a fistful.
 
 ---
 
-**Exercise 6 (quarters).** How many quarters in a fistful?
+**Exercise 6 (fistful of quarters).** How many quarters in a fistful?
 
 ---
 
