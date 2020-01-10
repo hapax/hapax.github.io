@@ -712,7 +712,7 @@ dramatically larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity" in a Fermi
 problem.
-(I was first alerted to this problem in
+(I was first alerted to this by
 [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
 Our method of splitting the estimate into factors assumes that (a)
 factors are independent, and (b) the final answer is proportional to
