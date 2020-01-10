@@ -742,7 +742,7 @@ But here's the rub: if I'm wrong by three quarters, l'll be off by a
 factor of $8 \approx 10$, a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
 slowly from exponentials.
-(In this case, though, it seems reasonable to Fermi estimate $n$.)
+Not all is lost, however, since it is reasonable to Fermi estimate $n$.
 
 ---
 
