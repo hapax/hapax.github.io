@@ -384,7 +384,7 @@ viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
 
 #### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
-Dimensional analysis has its limits.
+*Numbers.* Dimensional analysis has its limits.
 First of all, since we throw away numbers, it only good up
 to an overall numerical factor.
 In the first example, I sneakily chose angular frequency so that the
@@ -395,7 +395,7 @@ system-dependent *scales* rather than answers to specific questions.
 That said, nature is bountiful, and more often than not the missing
 number is close to $1$!
 
-A more serious problem is the overabundance of parameters.
+*Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
 dimensional analysis would fail: we would not be able to solve the
 equations for $a, b$ and $c$, or rather, there would be an *infinite* number of solutions.
@@ -675,7 +675,7 @@ we should be spot on!
 
 #### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
-So far, I've described what I think are the key methods for doing
+*Why it works.* So far, I've described what I think are the key methods for doing
 Fermi estimates.
 But it's a subtle art, and just like dimensional analysis, there is
 quite a bit going on under the hood to ensure it works.
@@ -690,18 +690,18 @@ This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
 averaging over different types of ignorance yields wisdom.
 
-In this case, the crowd is made up of subestimates.
+*Reality checks.* In this case, the crowd is made up of subestimates.
 But just as a single charismatic fool can bias a crowd, a foolish
 subestimate can scuttle your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
 Compare to things you know, or *manipulate* your guess until you can
 make that comparison.
 For instance, if you estimate that Canada's budget is CAD$10^{14}$,
-and you know the population is around $30$ million, means the
-government is spending CAD$3$ million on each person. That seems
-like way too much!
+and you know the population is around $30$ million, the
+government is spending CAD$3$ million on each person.
+That seems like way too much!
 
-Aliens cannot perform this sanity check because they don't know
+*Web of facts.* Aliens cannot perform this sanity check because they don't know
 enough about our world.
 In general, to be a good estimator, you need a web of facts, figures,
 and intuitions to triangulate your position in estimate space.
@@ -713,12 +713,13 @@ It may feel like cheating, but if you are doing a Fermi
 problem in real life, remember that you can make your web of facts
 dramatically larger using Google!
 
-Another failure mode is *nonlinearity* in a Fermi problem.
-(I was first alerted to this problem in the [lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
+*Nonlinearity.* Another failure mode is *nonlinearity* in a Fermi problem.
+(I was first alerted to this problem in the
+[lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
 When we write our guess as a product of subestimates, we are assuming
-the final answer is *proportional* to each subestimate, e.g. power
-usage in Vancouer is proportional to the number of people.
-This is not always the case!
+the final answer is *proportional* to each subestimate.
+A very prosaic instance of nonlinearity is when we should use the usual
+*arithmetic* mean, $(a+b)/2$.
 For instance, with power, there may be economies of scale which
 *reduce* the average power usage when there are more people.
 Or maybe larger cities will have more amenities, and average power
@@ -743,7 +744,7 @@ within an order of magnitude.
 magnitude, i.e. it could be around $3n$ or $n/3$.
 So our estimate of the probability is likely to be good up to a cube
 or square root!
-Put differently, we should use ticks on a doubly logarithmic ruler.)
+Put differently, we should use ticks on a *doubly* logarithmic ruler.)
 
 ##### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
