@@ -32,16 +32,16 @@ sensible choices yield the same result when there are many particles.
 	</div>
 	</figure>
 
-It's easiest to work with the *canonical ensemble*, where the
-temperature $T$ is fixed,
+It's easiest to work in the *canonical ensemble*, where the
+temperature $T$ is fixed.
 High energy states are exponentially unlikely, with
 
 $$
 p_\beta(E) \propto e^{-\beta E}
 $$
 
-where $\beta = 1/k_B T$.
-This exponential is often called a *Boltzmann factor*.
+for $\beta = 1/k_B T$.
+This exponential is called a *Boltzmann factor*.
 We can immediately write down the full probability distribution over
 energy eigenstates, using the fact it is unit normalised:
 
@@ -49,12 +49,12 @@ $$
 p_\beta(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} n(E) e^{-\beta E}.
 $$
 
-Here, $n(E)$ is the *density of states*, telling us roughly how
-many ways the system can be at energy $E$ (more precisely, what
-volume of classical phase space they occupy).
+Here, $n(E)$ is the *density of states*, telling us how
+many states have energy $E$.
 The normalisation factor $Z[\beta]$ is called the *partition
-function*, and it captures all the statistical properties of the system.
-For instance, we can extract the average energy of the system using a derivative:
+function*, and it neatly encodes all the statistical properties of the system.
+For instance, the average energy of the system is a derivative of the
+partition function:
 
 $$
 \langle E \rangle = \sum_E n(E) p_\beta(E) E = \frac{\sum_E n(E) e^{-\beta E}
@@ -63,16 +63,14 @@ E}{\sum_E \rho(E) e^{-\beta}} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
 $$
 
 Another example is the *Helmholtz free energy* $F = -k_\text{B} T \ln
-Z[\beta]$, which is minimised in equilibrium.
-Free energy tells us at which point the density of states balances
-exponential suppression of high energy states.
+Z[\beta]$, which captures the tradeoff between energy and entropy, and is
+minimised in equilibrium.
 
 ## Quantum statistical mechanics
 
-The partition function also controls the statistics of *quantum*
-thermodynamic systems.
-Instead of a probability distribution $p_\beta$ over classical
-configurations, we have a probability distribution over *quantum
+The canonical ensemble also describes a quantum mechanical system at
+finite temperature,
+This is now a probability distribution over *quantum
 states*, with high energy states suppressed by Boltzmann factors:
 
 $$
@@ -80,19 +78,18 @@ $$
 $$
 
 Here, we are using Dirac's bra-ket notation, and $|E\rangle\langle
-E|$ projects onto the energy eigenstate $|E\rangle$ (assumed
-non-degenerate for simplicity of notation).
+E|$ projects onto the energy eigenstate $|E\rangle$.
 Instead of having unit norm, the density $\hat{\rho}_\beta$ is defined to have unit
-*trace*:
+trace:
 
 $$
 1 = \mbox{Tr}[\hat{\rho}_\beta] = \frac{1}{Z[\beta]}\sum_E e^{-\beta
-E}\mbox{Tr}|E\rangle\langle E|]= \frac{1}{Z[\beta]}\sum_E e^{-\beta
+E}\mbox{Tr}|E\rangle\langle E|= \frac{1}{Z[\beta]}\sum_E e^{-\beta
 E}.
 $$
 
 The normalisation $Z[\beta] = \sum_E E^{-\beta E}$ is just the
-classical sum over Boltzmann factors as before.
+classical sum over Boltzmann factors, just like the classical case.
 
 There is a nicer way to write the density $\hat{\rho}_\beta$.
 What is an energy eigenstate?
@@ -112,12 +109,12 @@ $$
 \hat{\rho}_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
 $$
 
-So the density and partition function can be written simply in terms
+So the density and partition function have simple expressions in terms
 of the Hamiltonian.
 
 ## Amplitudes and Wick rotation
 
-The Hamiltonian provides the connection to imaginary time.
+The bridge between thermodynamics and imaginary time is the Hamiltonian.
 First, recall that the *Schrödinger equation* tells us how to evolve a
 state $|\psi\rangle$ of the system using the Hamiltonian.
 This is simple to solve when the Hamiltonian itself is time-independent:
@@ -145,12 +142,12 @@ $$
 \langle\phi|U(t)|\phi\rangle.
 $$
 
-We can give things a turn of the screw now.
-Instead of regular time, we can do something unexpected, and consider
-*imaginary time*, defined by $\tau = i\tau$.
+Let's turn the screw, and define
+*imaginary time* by $\tau = i\tau$.
 This is called *Wick rotation*, since we can imagine multiplying by
-$i$ as rotating by $\pi/2$ on a sort of complex plane for time.
-The corresponding propagator actually suppresses things exponentially:
+$i$ as rotating by $\pi/2$ in the complex plane.
+The corresponding propagator produces an exponential suppression that
+looks like a Boltzmann factor:
 
 $$
 U(-i\tau) = U_\text{im}(\tau) =  e^{-\hat{H}\tau}.
@@ -165,7 +162,7 @@ $$
 
 We can reinterpret the density matrix in terms of
 these imaginary return amplitudes.
-Instead of viewing it as a probability distribution over energy eigenstates, we can view $\hat{\rho}_\beta$ as
+Instead of viewing it as a probability distribution over energy eigenstates, we can interpret $\hat{\rho}_\beta$ as
 projecting onto a system which always returns to itself after
 imaginary time $\beta$, i.e. is *periodic in imaginary time*.
 
