@@ -18,13 +18,11 @@ work, to Hawking radiation (black holes are hot since observers near the horizon
 *Prerequisites: quantum mechanics, statistical mechanics, special relativity.*
 
 Thermodynamic systems, like light bulb filaments, puddles, or stars, consist of many
-components sharing energy and interacting at random.
+components interacting at random.
 Rather than predict what will happen exactly, it
-makes more sense to consider a probability distribution over
-configurations of the system, also called an *ensemble*.
-There are different sensible choices, depending on experimental
-conditions, but they all yield the same answers when you have lots of
-particles.
+makes more sense to consider what will happen on average.
+"Average" implictly requires a probability distribution, but all
+sensible choices yield the same result when there are many particles.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/imaginary-time-1.png"
@@ -34,19 +32,18 @@ particles.
 	</div>
 	</figure>
 
-The easiest to work with is the *canonical ensemble*, where the
-temperature $T$ is fixed.
-The probability of seeing a state with energy $E$ dies off
-exponentially, and is controlled by the ratio of $E$ to the characteristic
-thermal energy, $k_B T$, where $k_\text{B}$ is Boltzmann's constant:
+It's easiest to work with the *canonical ensemble*, where the
+temperature $T$ is fixed,
+High energy states are exponentially unlikely, with
 
 $$
-p_\beta(E) \propto e^{-\beta E}.
+p_\beta(E) \propto e^{-\beta E}
 $$
 
+where $\beta = 1/k_B T$.
 This exponential is often called a *Boltzmann factor*.
-We can immediately write down the full probability distribution, using
-the fact that it must be unit normalised:
+We can immediately write down the full probability distribution over
+energy eigenstates, using the fact it is unit normalised:
 
 $$
 p_\beta(E) = \frac{1}{Z[\beta]}e^{-\beta E}, \quad Z[\beta] = \sum_{E} n(E) e^{-\beta E}.

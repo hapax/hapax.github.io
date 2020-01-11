@@ -24,6 +24,8 @@ date:  2020-01-06
    2. <a href="#sec-3-2">Subestimates</a>
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
+4. <a href="#sec-4">Miscellaneous math hacks</a>
+5. <a href="#sec-5">Miscellaneous physics hacks</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -37,19 +39,23 @@ knowledge.
 In particular, problems should avoid calculus, which is not part of
 Canada's high school curriculum.
 Judging from competition problems, this restricts us to
-tediously intricate mechanics problems with a smattering of circuits,
-optics, and other elementary topics.
+tediously intricate mechanics problems and a other elementary topics.
+
+But preparing for my PhD
+[comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students),
+I realised that it was possible to do more with less.
 
 I decided to view this as a challenge: do more with less.
 I am not above writing tediously intricate mechanics problems, but it
 was much more instructive to master some simple physics hacks and use
 them to discover new things.
-I'm not sure about the students, but it has certainly made me a better physicist!
+I'm not sure about the students, but it has certainly made me a better
+physicist!
+
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
-
 To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 though I encourage you to have a look if you want more examples.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/), covering similar ground in greater depth.
@@ -749,9 +755,9 @@ Not all is lost, however; it is reasonable to Fermi estimate $n$ itself.
 
 ---
 
-##### 4. Random walks <a id="sec-4" name="sec-4"></a>
+##### 4. Miscellaneous math hacks<a id="sec-4" name="sec-4"></a>
 
-##### 5. Scaling <a id="sec-5" name="sec-5"></a>
+##### 5. Miscellaneous physics hacks<a id="sec-5" name="sec-5"></a>
 
 
 ## Extra
