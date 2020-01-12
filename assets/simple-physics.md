@@ -41,8 +41,7 @@ Surprisingly, the answer is still none!
 As we'll see below, high school math and some simple physics hacks
 are sufficient to solve these problems *quantitatively*.
 
-As a string theorist, I am by no means of the opinion that advanced
-mathematics is useless.
+As a string theorist, I'm a fan of advanced maths
 But preparing for my
 [PhD comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students)
 and running a
