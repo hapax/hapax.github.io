@@ -8,7 +8,7 @@ date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is an awesomely powerful
-  discipline. Contrary to popular opinion, you don't need to master
+  discipline. Contrary to popular opinion, you don't need
   arcane mathematics to experience this power! Simple physical
   insights, with a dash of pre-calculus mathematics, make a
   surprisingly potent combination. We illustrate with examples from
@@ -26,21 +26,27 @@ date:  2020-01-06
    2. <a href="#sec-3-2">Subestimates</a>
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
-4. <a href="#sec-5">Scaling</a>
+4. <a href="#sec-4">Scaling</a>
    1. <a href="#sec-4-1">Random walks</a>
    2. <a href="#sec-4-2">Fractals</a>
    3. <a href="#sec-4-3">Power laws</a>
-5. <a href="#sec-5">Math hacks</a>
-   1. <a href="#sec-5-1">Stefan-Boltzmann law</a>
-   2. <a href="#sec-5-2">Simple series</a>
+5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-How much advanced mathematics does it take to discover
-Kepler's third law, why clouds float, or the number of fish in the
-sea?
+How much advanced mathematics does it take to work out the period of a
+pendulum, why clouds float, or the number of fish in the sea?
 The suprising answer is *none*.
-A few 
+As we will see below, high school math and some simple physics hacks
+are enough to give quantitative answers to these problems.
+
+As a string theorist, I am by no means of the opinion that advanced
+mathematics is useless.
+But preparing for my
+[PhD comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students)
+and running a
+[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
+led me to realise that you can do more with less!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
