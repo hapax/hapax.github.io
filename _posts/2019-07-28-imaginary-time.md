@@ -63,7 +63,7 @@ E}{\sum_E \rho(E) e^{-\beta}} = \frac{-\partial_\beta Z[\beta]}{Z[\beta]} =
 $$
 
 Another example is the *Helmholtz free energy* $F = -k_\text{B} T \ln
-Z[\beta]$, which captures the tradeoff between energy and entropy, and is
+Z[\beta]$, which quantifies the tradeoff between energy and entropy and is
 minimised in equilibrium.
 
 ## Quantum statistical mechanics
@@ -88,16 +88,16 @@ E}\mbox{Tr}|E\rangle\langle E|= \frac{1}{Z[\beta]}\sum_E e^{-\beta
 E}.
 $$
 
-The normalisation $Z[\beta] = \sum_E E^{-\beta E}$ is just the
+The normalisation $Z[\beta] = \sum_E E^{-\beta E}$ is a
 classical sum over Boltzmann factors, just like the classical case.
 
 There is a nicer way to write the density $\hat{\rho}_\beta$.
-What is an energy eigenstate?
-Well, it's just an eigenvector of the system's *Hamiltonian*
+An energy eigenstate is an eigenvector of the system's *Hamiltonian*
+(energy operator)
 $\hat{H}$, with $\hat{H}|E\rangle = E|E\rangle$.
 But by a standard linear algebra trick, we can write any
 diagonalisable operator as a sum of projectors onto its eigenvectors,
-weighted by its eigenvalues:
+weighted by eigenvalues:
 
 $$
 \hat{H} = \sum_E E |E\rangle \langle E|.
@@ -115,12 +115,17 @@ of the Hamiltonian.
 ## Amplitudes and Wick rotation
 
 The bridge between thermodynamics and imaginary time is the Hamiltonian.
-First, recall that the *Schrödinger equation* tells us how to evolve a
-state $|\psi\rangle$ of the system using the Hamiltonian.
+First, recall the *Schrödinger equation* for the evolution of a state
+$|\psi\rangle$,
+
+$$
+i\hbar \partial_t |\psi(t)\rangle
+$$
+
 This is simple to solve when the Hamiltonian itself is time-independent:
 
 $$
-i\hbar \partial_t |\psi(t)\rangle = \hat{H}|\psi(t)\rangle \quad
+ \hat{H}|\psi(t)\rangle \quad
 \Longrightarrow \quad |\psi(t)\rangle  = e^{-i\hat{H}t}|\psi(0)\rangle.
 $$
 
@@ -132,29 +137,30 @@ $$
 \langle\phi|U(t)|\varphi\rangle,
 $$
 
-since the $U(t)$ updates the state, and the overlap with the bra
+since $U(t)$ updates the state, and the overlap with the bra
 $\langle\phi|$ tells us "how much" of $|\phi\rangle$ is in the evolved
 state $|\varphi(t)\rangle$.
 The *return amplitude* for a state $|\phi\rangle$ is just the
-amplitude for returning to the state a time $t$ later,
+amplitude for returning to the state a time $t$ later:
 
 $$
 \langle\phi|U(t)|\phi\rangle.
 $$
 
-Let's turn the screw, and define
+Now for a turn the screw.
+Define
 *imaginary time* by $\tau = i\tau$.
 This is called *Wick rotation*, since we can imagine multiplying by
-$i$ as rotating by $\pi/2$ in the complex plane.
-The corresponding propagator produces an exponential suppression that
-looks like a Boltzmann factor:
+$i$ as rotating by $\pi/2$ in a complex plane for time.
+The propagator in imaginary time exponentially suppresses things:
 
 $$
 U(-i\tau) = U_\text{im}(\tau) =  e^{-\hat{H}\tau}.
 $$
 
-For an energy eigenstate $|E\rangle$, the *imaginary return amplitude* is just a
-Boltzmann weight:
+This smells like a Boltzmann weight!
+In fact, for an energy eigenstate $|E\rangle$, the *imaginary return
+amplitude* is precisely a Boltzmann weight:
 
 $$
 \langle E| U_\text{im}(\tau) | E\rangle = e^{-E \tau}.
@@ -175,11 +181,10 @@ $$
 
 The numerator is the sum of expectations over all ways the system can return to its
 initial state after imaginary time $\beta$.
-The denominator is the amplitude for this imaginary periodicity
+The normalisation is the amplitude for this imaginary periodicity
 property.
 The whole expectation, then, takes the form of a *conditional
-expectation* in a state with imaginary periodicity.
-You can see this by analogy with the conditional probability,
+expectation* in a state with imaginary periodicity, using an analogy with conditional probabilities:
 
 $$
 \mathbb{P}(A|B) = \frac{\mathbb{P}(A\cap B)}{\mathbb{P}(B)}.
@@ -202,7 +207,7 @@ $$
    This explains the more common definition of Helmholtz free energy as $F =
    E - TS$.
 
-2. Show that
+2. Prove the claim about the canonical density matrix above, i.e.
 
    $$
    \hat{\rho}_\beta = \frac{1}{Z[\beta]}e^{-\beta \hat{H}}, \quad \mbox{Tr}[e^{-\beta \hat{H}}] = Z[\beta].
