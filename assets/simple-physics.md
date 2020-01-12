@@ -7,10 +7,12 @@ categories: [Physics, Teaching]
 date:  2020-01-06
 ---
 
-**January 6, 2020.** *Physics is often presented as the most arcane and
-  mathematical of natural sciences. Here, we show how
-  simple physical ideas, with a dash of pre-calculus mathematics, can
-  still be awesomely powerful.*
+**January 6, 2020.** *Physics is an awesomely powerful
+  discipline. Contrary to popular opinion, you don't need to master
+  arcane mathematics to experience this power! Simple physical
+  insights, with a dash of pre-calculus mathematics, make a
+  surprisingly potent combination. We illustrate with examples from
+  dimensional analysis, Fermi approximation, and scaling laws.*
 
 ### Contents
 
@@ -24,48 +26,28 @@ date:  2020-01-06
    2. <a href="#sec-3-2">Subestimates</a>
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
-4. <a href="#sec-4">Miscellaneous math hacks</a>
-5. <a href="#sec-5">Miscellaneous physics hacks</a>
+4. <a href="#sec-5">Scaling</a>
+   1. <a href="#sec-4-1">Random walks</a>
+   2. <a href="#sec-4-2">Fractals</a>
+   3. <a href="#sec-4-3">Power laws</a>
+5. <a href="#sec-5">Math hacks</a>
+   1. <a href="#sec-5-1">Stefan-Boltzmann law</a>
+   2. <a href="#sec-5-2">Simple series</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-For the last year or so, I've been heavily involved in running a
-[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-I've learned a lot about logistics, leadership, and leaning
-towers of pizza, but surprisingly, the biggest lesson has been about *physics itself*.
-In a physics circle, the mandate is to write problems that high school
-students find challenging but fair given their limited background
-knowledge.
-In particular, problems should avoid calculus, which is not part of
-Canada's high school curriculum.
-Judging from competition problems, this restricts us to
-tediously intricate mechanics problems and a other elementary topics.
-
-But preparing for my PhD
-[comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students),
-I realised that it was possible to do more with less.
-
-I decided to view this as a challenge: do more with less.
-I am not above writing tediously intricate mechanics problems, but it
-was much more instructive to master some simple physics hacks and use
-them to discover new things.
-I'm not sure about the students, but it has certainly made me a better
-physicist!
-
-The goal of this post is to share a few of these hacks and convince
-you of their awesome power.
-To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-though I encourage you to have a look if you want more examples.
-I also recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/), covering similar ground in greater depth.
+How much advanced mathematics does it take to discover
+Kepler's third law, why clouds float, or the number of fish in the
+sea?
+The suprising answer is *none*.
+A few 
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
 Physics is ultimately about experimental measurements.
 We take some system, e.g., an old pumpkin, and poke or prod it with a
-measuring device, thereby obtaining a number.
-The *dimension* of the measurement is not the number, but the
+measuring device which returns a number.
+The *dimension* of the measurement is not the number, but rather the
 *physical property* probed by that device.
 If we compare the width of the pumpkin to a ruler, for instance, the
 dimension is the *length*.
@@ -230,6 +212,7 @@ $$
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
 m}^3 \text{/kg s}^2$ is *Newton's constant*, controlling the strength
 of gravity.
+This relation is [Kepler's third law!](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law)
 
 *Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
@@ -755,10 +738,9 @@ Not all is lost, however; it is reasonable to Fermi estimate $n$ itself.
 
 ---
 
-##### 4. Miscellaneous math hacks<a id="sec-4" name="sec-4"></a>
+##### 4. Scaling<a id="sec-4" name="sec-4"></a>
 
-##### 5. Miscellaneous physics hacks<a id="sec-5" name="sec-5"></a>
-
+##### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
 ## Extra
 
@@ -1087,3 +1069,41 @@ So our estimate of the probability is likely to be good up to a cube
 or cube root!
 We could view this as ticks on a *doubly* logarithmic ruler, but it's
 a bit mind-boggling.)
+
+## 1. Introduction <a id="sec-1" name="sec-1"></a>
+
+For the last year or so, I've been heavily involved in running a
+[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+I've learned a lot about logistics, leadership, and leaning
+towers of pizza, but surprisingly, the biggest lesson has been about *physics itself*.
+In a physics circle, the mandate is to write problems that high school
+students find challenging but fair given their limited background
+knowledge.
+In particular, problems should avoid calculus, which is not part of
+Canada's high school curriculum.
+Judging from competition problems, this restricts us to
+tediously intricate mechanics problems and a other elementary topics.
+
+But preparing for my PhD
+[comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students),
+I realised that it was possible to do more with less.
+
+I decided to view this as a challenge: do more with less.
+I am not above writing tediously intricate mechanics problems, but it
+was much more instructive to master some simple physics hacks and use
+them to discover new things.
+I'm not sure about the students, but it has certainly made me a better
+physicist!
+
+The goal of this post is to share a few of these hacks and convince
+you of their awesome power.
+To keep things interesting, I avoid overlap with my
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
+though I encourage you to have a look if you want more examples.
+I also recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/), covering similar ground in greater depth.
+
+**January 6, 2020.** *Physics is often presented as the most arcane and
+  mathematical of natural sciences. Here, we show how
+  simple physical ideas, with a dash of pre-calculus mathematics, can
+  still be awesomely powerful.*
