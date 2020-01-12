@@ -8,11 +8,10 @@ date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is an awesomely powerful
-  discipline. Contrary to popular opinion, you don't need
-  arcane mathematics to experience this power! Simple physical
-  insights, with a dash of pre-calculus mathematics, make a
-  surprisingly potent combination. We illustrate with examples from
-  dimensional analysis, Fermi approximation, and scaling laws.*
+  science. Contrary to popular opinion, you don't need
+  years of advanced mathematical training to taste this power! Simple
+  physics hacks, with a dash of pre-calculus mathematics, are
+  enough.*
 
 ### Contents
 
