@@ -34,6 +34,7 @@ date:  2020-01-06
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
+How many calculus courses does it take to change a light bulb?
 How much advanced mathematics does it take to work out the period of a
 pendulum, why clouds float, or the number of fish in the sea?
 The suprising answer is *none*.
