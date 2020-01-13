@@ -486,13 +486,14 @@ A periodic system has a cycle, which we track using an arrow
 (sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
-If $[360^\circ] = \Omicron$ is the dimension of angle, then
-$[t_\text{period}] = T/\Omicron$.
+If $[360^\circ] = \Xi is the dimension of angle, then
+$[t_\text{period}] = T/\Xi$.
 
-To eliminate any factors of $\Omicron$ floating around,
+This will leave factors of $\Xi$ floating around.
+To cancel them, we can use 
 
 (a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
-T/\Omicron$ and $2\pi$ as a conversion factor.
+T/\Xi and $2\pi$ as a conversion factor.
 You should obtain the same results!
 
 ---
