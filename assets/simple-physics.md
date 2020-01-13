@@ -485,12 +485,11 @@ factors of $\pi$ that keep appearing by introducing a dimension for angle.
 A periodic system has a cycle, which we track using an arrow
 (sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
-period, so really, a period should be viewed as time per $360^\circ$.
+period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 If $[360^\circ] = \Omicron$ is the dimension of angle, then
 $[t_\text{period}] = T/\Omicron$.
-Now we do somethng odd: we treat $\pi$ as a constant with dimension
-$\Omicron$!
-It should appear in the dimensional analysis with some power as well.
+
+To eliminate any factors of $\Omicron$ floating around,
 
 (a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
 T/\Omicron$ and $2\pi$ as a conversion factor.
