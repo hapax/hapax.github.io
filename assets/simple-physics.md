@@ -61,10 +61,9 @@ predicted by string theory.
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 if you want to learn how.)
 
-This post focuses on a set of extraordinarily powerful and related
-tools: *dimensional analysis*, *Fermi approximation*, and *scaling
+This post focuses on a set of standalone tools: *dimensional analysis*, *Fermi approximation*, and *scaling
 laws*.
-It is less oriented towards problem-solving heuristics (e.g. limiting
+It is not oriented towards problem-solving heuristics (e.g. limiting
 arguments) or specific physical laws (e.g. Stefan-Boltzmann), though
 there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
