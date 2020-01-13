@@ -60,8 +60,8 @@ predicted by string theory.
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
 To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-but you can the examples in the previous paragraph there.
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
+but you can find the examples from the previous paragraph there.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
