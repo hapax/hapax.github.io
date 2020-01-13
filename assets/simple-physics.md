@@ -797,7 +797,7 @@ In this case, the crowd is made up of subestimates.
 But just as a single charismatic fool can bias a crowd, a foolish
 subestimate can scuttle your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
-Compare to things you know, or *manipulate* your guess until you can
+Compare to things you know, or manipulate your guess until you can
 make that comparison.
 For instance, perhaps we guess the Canadian budget is CAD`$`30
 billion.
