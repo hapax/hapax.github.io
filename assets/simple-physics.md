@@ -853,7 +853,7 @@ slowly from exponentials.
   that household usage accounts for $10\%$ of total power
   consumption. Let's check this a few different ways.
 
-(a) Ask two (or more) friends to guess the fraction, and
+(a) Ask some friends to guess the fraction, and
 take the geometric mean of their answers.
 
 (b) Next, sanity check my figure of $10\%$ (or the answer from (a) if
