@@ -891,16 +891,17 @@ $$
 $$
 
 Instead of trying to completely factorise the answer, we can zoom in
-on a single factor, leading to a proportional relation:
+on a single factor, leading to a proportionality relation:
 
 $$
-\text{answer} \sim \text{factor}^p.
+\text{answer} \propto \text{factor}^p.
 $$
 
-Often, we can nail down how our answer depends on a factor without
-considering any of the others!
-This *scaling* (or *scaling law*) can be used as an input to a
-dimensional analysis or Fermi estimate.
+Importantly, we are ignoring all the other factors, and not just
+dimensionless numbers, which is why we use the symbol $\propto$.
+Sometime, we can nail down a proportionality relation, and in
+particular the *scaling exponent* $p$, without considering any other
+factors.
 Let's illustrate with an example.
 
 *Square-cube law.* Tissue density is roughly the same for different
