@@ -486,7 +486,8 @@ $$
 **Exercise 4 (factors of $\pi$).** We can account for some of the
 factors of $\pi$ that keep appearing by introducing a dimension for
 angle.
-(Sadly, this trick doesn't work for Stokes' law.)
+(Sadly, this trick doesn't work for Stokes' law, where the $6\pi$
+comes from hard math we are ignoring.)
 A periodic system has a cycle, which we track using an arrow rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
