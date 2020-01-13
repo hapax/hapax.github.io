@@ -40,6 +40,8 @@ pendulum, why clouds float, or the number of fish in the sea?
 Surprisingly, the answer is still none!
 As we'll see below, high school math and some simple physics hacks
 are sufficient to solve these problems *quantitatively*.
+The goal of this post is to share a few of these hacks and convince
+you of their awesome power.
 
 I'm a string theorist, so by necessity a user (and abuser!) of
 advanced mathematics.
@@ -57,9 +59,7 @@ and even the number of
 [extra dimensions](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions)
 predicted by string theory.
 
-The goal of this post is to share a few of these hacks and convince
-you of their awesome power.
-This is not meant to be an exhaustive list, but rather, a fun and
+This post is not meant to be encyclopedic, but rather, a fun and
 illustrative selection.
 I have stuck to methods accessible to high school and first year
 students, though it is probably to fair to say that some scientific
