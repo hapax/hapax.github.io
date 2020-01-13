@@ -933,8 +933,8 @@ $$
 
 An organism cannot get too large without reaching this maximum
 pressure and collapsing under its own weight.
-This means there is no need to worry about giant ants from outer
-space!
+There is no need to worry about giant ants from outer space!
+Or, indeed, King Kong, Godzilla, and other [kaiju](https://en.wikipedia.org/wiki/Kaiju).
 
 ---
 
