@@ -417,6 +417,14 @@ That said, more often than not the missing number is close to $1$, and
 we can even account for some factors of $\pi$ by adding an extra
 dimension for angles (Exercise 4).
 
+*Constants.* Numbers are dimensionless constants.
+However, *dimensionful* constants play a very important role, and
+secretly encode important physical insights.
+Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
+constant $k_B$ (Exercise 3).
+See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
+for more on the role these constants play in dimensional analysis.
+
 *Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
 dimensional analysis would fail: we would not be able to solve the
@@ -438,7 +446,7 @@ have two relevant quantities (say, two lengths) with the same dimension.
 All these subtleties are captured in something called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 For an elementary treatment, check out my
-[notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
+[notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
 *Street-Fighting Mathematics*.
 
 *Extra dimensions.* Length, mass and time are not
