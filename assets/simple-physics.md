@@ -722,7 +722,7 @@ focus on a *single important mechanism*.
 You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
-(Perhaps KISS should stand for "Keep It Spherical, Stupid".)
+Perhaps KISS should stand for "Keep It Spherical, Stupid".
 
 Let's see how this works in practice.
 Suppose we want to estimate the annual electricity usage in the greater
@@ -881,6 +881,23 @@ fistful?
 
 ## 4. Scaling<a id="sec-4" name="sec-4"></a>
 
+Both dimensional analysis and Fermi approximation assume the answer
+to a physical question can be written as a *product of powers* of some
+other factors:
+
+$$
+\text{answer} \sim (\text{factor 1})^a \times (\text{factor 1})^b
+\times \cdots.
+$$
+
+Instead of trying to completely factorise the answer, we can zoom in
+on a single factor, leading to a proportional relation:
+
+$$
+\text{answer} \sim \text{factor}^a.
+$$
+
+We say that the answer *scales with* $\text{factor}^a$.
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
