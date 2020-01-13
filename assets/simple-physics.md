@@ -905,15 +905,50 @@ Let's illustrate with an example.
 
 *Square-cube law.* Tissue density is roughly the same for different
  species (up to the usual order of magnitude numbers).
-If an organism has length around $L$, then the mass of the organism
+If an organism has length around $\ell$, then the mass of the organism
 should scale as
 
 $$
-M \propto L^3.
+M \propto \ell^3.
 $$
 
-The surface area, on the other hand, should scale as $L^2$.
-(In both cases, we are assuming the organism has a fairly simple shape.)
+The surface area, on the other hand, should scale as $\ell^2$.
+(In both cases, we are assuming the organism has a simple shape.)
+The fact that these things scale differently is called the
+*square-cube law*, and was first observed by Galileo.
+It may seem trivial, but it has important consequences!
+
+For instance, materials like bone and wood will break when subject to
+too much pressure.
+This maximum pressure $P_\text{max}$ does not scale with $\ell$, but depends only on the
+material.
+Since mass goes as $\ell^3$, the weight force also goes as $\ell^3$.
+On the other hand, the cross-section of a weight-bearing element (like
+legs or a tree trunk) goes as $\ell^2$.
+It follows that the pressure will scale with
+
+$$
+P = \frac{F}{A} \propto \frac{\ell^3}{\ell^2} = \ell.
+$$
+
+An organism cannot get too large without reaching this maximum
+pressure and collapsing under its own weight.
+This means there is no need to worry about giant ants from outer
+space!
+
+---
+
+**Exercise 11 (General Sherman).** (a) Argue that the *radius*
+    $r$ of a weight-bearing element should scale as $r \propto
+    M^{1/2}$ if it wants to support the organism's weight.
+
+(b) General Sherman is a giant sequoia tree in California's
+    Sequoia National Park.
+    The diameter of the trunk is $7.7 \text{ m}$.
+    Estimate its mass by comparing to the human thighbone ($r = $ 2.3
+    cm) and using the radius scaling.
+
+---
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
