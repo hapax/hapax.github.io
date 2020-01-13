@@ -48,7 +48,7 @@ But preparing for a
 [comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students) and running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
 convinced me that *you can do more with less*.
-Without calculus or any particularly deep physics,
+Without calculus or any deep physical lore,
 you can still discover
 [black hole entropy](https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Overview),
 the [dark energy](https://en.wikipedia.org/wiki/Dark_energy) density
