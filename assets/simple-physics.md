@@ -61,8 +61,9 @@ predicted by string theory.
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 if you want to learn how.)
 
-This post is meant to be a fun and illustrative grab bag of tricks,
-rather than an encyclopedia.
+This post is an illustrative compendium of hacks, too long for a
+tutorial and too short (and incomplete) to be an encyclopedia.
+It should be used as such!
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
@@ -487,8 +488,7 @@ $$
 factors of $\pi$ that keep appearing by introducing a dimension for
 angle.
 (Sadly, this trick doesn't work for Stokes' law.)
-A periodic system has a cycle, which we track using an arrow
-(sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
+A periodic system has a cycle, which we track using an arrow rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 If $[360^\circ] = \Xi$ is the dimension of angle, then
