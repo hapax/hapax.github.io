@@ -39,7 +39,7 @@ pendulum, why clouds float, or the number of fish in the sea?
 Surprisingly, the answer is still none!
 As we'll see below, high school math and some simple physics hacks
 are sufficient to solve these problems *quantitatively*.
-The goal of this post is to share a few of these hacks and convince
+The goal of this post is to explain these hacks and convince
 you of their awesome power.
 
 I'm a string theorist, so by necessity a user (and abuser!) of
