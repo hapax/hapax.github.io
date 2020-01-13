@@ -595,9 +595,9 @@ $$
 \frac{a_1+a_2+\cdots + a_m}{m}.
 $$
 
-By taking an arithmetic mean of the logs $\log_{10} a_1, \ldots,
+By taking an arithmetic mean on the logarithmic ruler, i.e. of $\log_{10} a_1, \ldots,
 \log_{10} a_m$, then plugging your answer into the index, show that
-the geometric mean is
+the geometric mean of $m$ numbers is
 
 $$
 \sqrt[m]{a_1 \times a_2 \times \cdots a_m}.
