@@ -916,9 +916,9 @@ The surface area, on the other hand, should scale as $\ell^2$.
 (In both cases, we are assuming the organism has a simple shape.)
 The fact that these things scale differently is called the
 *square-cube law*, and was first observed by Galileo.
-It may seem trivial, but it has important consequences!
+It may seem trivial, but it has important biological consequences!
 
-For instance, materials like bone and wood will break when subject to
+Galileo realised that materials like bone and wood will break when subject to
 too much pressure.
 This maximum pressure $P_\text{max}$ does not scale with $\ell$, but depends only on the
 material.
@@ -947,6 +947,7 @@ Or, indeed, King Kong, Godzilla, and other [kaiju](https://en.wikipedia.org/wiki
     The diameter of the trunk is $7.7 \text{ m}$.
     Estimate its mass by comparing to the human thighbone ($r = $ 2.3
     cm) and using the radius scaling.
+	Assume trees and humans have the same density.
 
 ---
 
