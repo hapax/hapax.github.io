@@ -932,14 +932,17 @@ $$
 P = \frac{F}{A} \propto \frac{\ell^3}{\ell^2} = \ell.
 $$
 
-An organism cannot get too large without reaching this maximum
-pressure and collapsing under its own weight.
-There is no need to worry about giant ants from outer space!
-Or, indeed, King Kong, Godzilla, and other [kaiju](https://en.wikipedia.org/wiki/Kaiju).
+An organism cannot get too large without exceeding this maximum
+pressure.
+There is no need to worry about giant ants from outer space: they will
+collapse under their own weight as soon as they try to invade earth!
 
 ---
 
-**Exercise 11 (General Sherman).** (a) Argue that the *radius*
+**Exercise 11 (walking speed).** Estimate how walking speed depends on
+leg length $\ell$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
+
+**Exercise 12 (General Sherman).** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
     M^{1/2}$ if it wants to support the organism's weight.
 
@@ -948,7 +951,7 @@ Or, indeed, King Kong, Godzilla, and other [kaiju](https://en.wikipedia.org/wiki
     The diameter of the trunk is $7.7 \text{ m}$.
     Estimate its mass by comparing to the human thighbone ($r = $ 2.3
     cm) and using the radius scaling.
-	Assume trees and humans have the same density.
+	(Assume trees and humans have similar density.)
 
 ---
 
