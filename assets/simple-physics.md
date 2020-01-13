@@ -3,13 +3,13 @@ Layout: post
 mathjax: true
 comments: true
 title:  "The awesome power of simple physics"
-categories: [Physics, Teaching]
+categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
 
 **January 6, 2020.** *Physics is awesomely powerful. Contrary to popular opinion, you don't need
-  years of advanced mathematical training to taste this power! Simple
-  physics hacks, with a dash of pre-calculus mathematics, are
+  years of advanced mathematics to taste this power! Simple
+  physics hacks and pre-calculus mathematics are
   enough, as I copiously illustrate.*
 
 ### Contents
