@@ -399,7 +399,7 @@ viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
 applies. You should also take buoyancy forces into account!
 
 (b) Keeping with our theme of whimsical rulers, explain how you can
-use Stokes' law to determine the size of iron spheres dropped in water.
+use Stokes' law to determine the size of small iron spheres dropped in water.
 
 ---
 
@@ -417,7 +417,7 @@ That said, more often than not the missing number is close to $1$, and
 we can even account for some factors of $\pi$ by adding an extra
 dimension for angles (Exercise 4).
 
-*Constants.* Numbers are dimension*less* constants.
+*Constants.* Numbers are dimensionless constants.
 However, *dimensionful* constants secretly encode important physical
 insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
@@ -455,7 +455,7 @@ Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are crucial in atomic physics, thermodynamics and
-chemistry.
+chemistry, and you can see an application in Exercise 3.
 But there are no real restrictions on this list of basic dimensions.
 For instance, imagine that artistic taste was objective and did not
 vary between individuals.
