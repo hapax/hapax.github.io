@@ -234,13 +234,15 @@ object) with angular frequency $\omega$.
 Using dimensional analysis, show that
 
 $$
-r = \left[\frac{GM}{\omega^2}\right]^{1/3},
+r \sim \left[\frac{GM}{\omega^2}\right]^{1/3},
 $$
 
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
 m}^3 \text{/kg s}^2$ is *Newton's constant*, controlling the strength
 of gravity.
-This relation is [Kepler's third law!](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law)
+(This relation is
+[Kepler's third law!](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law),
+and the $\sim$ is in fact an $=$.)
 
 *Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
@@ -759,7 +761,7 @@ billion.
 But if we also know the population (30 million or so) we see this
 corresponds to `$`1000 per person.
 Since the government typically spends thousands of dollars per student
-on public education (let alone everything else!) this number seems too low.
+on public education (let alone everything else!) this number is too low.
 
 *Web of facts.* Aliens cannot perform this sanity check because they don't know
 enough about our world.
@@ -806,7 +808,39 @@ probability will be less reliable.
 
 ---
 
-**Exercise 7 (fistful of quarters).** How many quarters in a fistful?
+**Exercise 8 (geometric means).** Suppose I want to ask a bunch of people for
+  their opinion, and take the geometric rather than the arithmetic
+  mean.
+  Recall that the usual average of $m$ numbers $a_1, a_2, \ldots, a_m$ is
+
+$$
+\frac{a_1+a_2+\cdots + a_m}{m}.
+$$
+
+By taking an arithmetic mean of the logs $\log_{10} a_1, \ldots,
+\log_{10} a_m$, then plugging your answer into the index, show that
+the geometric mean is
+
+$$
+\sqrt[m]{a_1 \times a_2 \times \cdots a_m}.
+$$
+
+**Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
+  that household usage accounts for around $10\%$ of total power
+  consumption. Let's check this a few different ways.
+
+(a) Try asking two (or more) friends what the fraction is, and
+take the geometric mean of their answers.
+
+(b) Next, sanity check my figure of $10\%$, or the answer from (a) if
+you prefer.
+
+(c) Use Google to find an authoritative answer. How did I do? How did
+your friends do?
+
+**Exercise 10 (fistful of quarters).** (a) How many quarters ($n$) in a
+  fistful? (b) Given that $n$ can vary by a factor of $3$, how does
+  your estimate of the "all head" probability vary?
 
 ---
 
