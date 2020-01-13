@@ -863,7 +863,8 @@ you prefer).
 your friends do?
 
 **Exercise 10 (fistful of quarters).** (a) How many quarters in a
-  fistful? (b) Given that $n$ can vary by a factor of $3$, how does
+fistful?
+(b) Given that $n$ can vary by a factor of $3$, how does
   the estimate of the "all heads" probability vary?
 
 ---
