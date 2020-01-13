@@ -228,8 +228,8 @@ things are!
 **Exercise 1 (interplanetary pumpkins).** You can use an old pumpkin to
 measure very large objects as well.
 Place the sun at one end of the object, and the pumpkin at the other.
-If you kick the pumpkin with enough energy and in the right direction,
-it will orbit the sun in a circle of radius $r$ (the length of the
+If you kick the pumpkin with enough energy tangent to the sun,
+it will orbit in a circle of radius $r$ (the length of the
 object) with angular frequency $\omega$.
 Using dimensional analysis, show that
 
