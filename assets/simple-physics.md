@@ -417,9 +417,9 @@ That said, more often than not the missing number is close to $1$, and
 we can even account for some factors of $\pi$ by adding an extra
 dimension for angles (Exercise 4).
 
-*Constants.* Numbers are dimensionless constants.
-However, *dimensionful* constants play a very important role, and
-secretly encode important physical insights.
+*Constants.* Numbers are dimension*less* constants.
+However, *dimensionful* constants secretly encode important physical
+insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
 See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
