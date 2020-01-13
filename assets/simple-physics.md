@@ -461,7 +461,7 @@ For instance, imagine that artistic taste was objective and did not
 vary between individuals.
 Humans could "measure" a painting by rating it out of $10$.
 The dimension would be the aesthetic merit of a painting, and (as
-far as I can tell) there is no reasonable way to express this in terms
+far as I can tell) there is no way to express this in terms
 of other basic dimensions.
 
 ---
