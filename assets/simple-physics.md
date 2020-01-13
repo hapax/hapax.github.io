@@ -261,7 +261,7 @@ the ocean floor.
 (You can explore this example in Exercise 2.)
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
-Dragging an object through a fluid wil then take work, because the
+Dragging an object through a fluid will then take work, because the
 fluid has to shear as it moves around the object.
 This resistance to shearing is called [*viscosity*](https://en.wikipedia.org/wiki/Viscosity).
 
@@ -409,8 +409,7 @@ missing numerical factor was $1$, but in the second example, we were off by
 $6\pi \approx 20$.
 It is perhaps better to think of dimensional analysis as giving
 system-dependent *scales* rather than answers to specific questions.
-That said, nature is bountiful, and more often than not the missing
-number is close to $1$!
+That said, more often than not the missing number is close to $1$.
 
 *Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
@@ -438,7 +437,7 @@ For an elementary treatment, check out my
 
 *Extra dimensions.* I lied when I said length, mass and time were
 the only basic dimensions.
-Two other important dimensions are *temperature* $\Omicron (measured in
+Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are very important in atomic physics, thermodynamics and
@@ -453,13 +452,35 @@ of other basic dimensions.
 
 ---
 
-**Exercise 3 (factors of $\pi$).** We keep running into factors of $2\pi$.
-We can usually account for these by giving a dimension $\Theta$ to *angle*.
-In a periodic system, we can keep track of where it is in its cycle
-using an angle on the unit circle, with equal times corresponding to
-equal angles.
-Viewed this way, a period has dimension $T/\Theta$.
-We can convert 
+**Exercise 3 (ideal gas law).** A hot gas of $n$ particles has various
+  experimental properties, such as pressure $P$, volume $V$, and
+  temperature $\mathcal{T}$.
+  These properties are not independent, a fact we can deduce from
+  dimensional analysis.
+
+(a) Explain why volume should have dimension $[V] = L^3N$, w
+
+(b) Show that pressure has dimension $[P] = M/LT^2$.
+
+(c) In thermodynamics, there is a fundamental constant called
+*Boltzmann's constant*,
+
+$$
+k_B = 1.38 \times 10^{-23} \text{ J/K},
+$$
+
+where $\text{K}$ stands for Kelvin.
+Calculate the dimension
+
+$$
+[k_B] = \frac{ML^2}{T^2\Theta}.
+$$
+
+(d) Finally, use dimensional analysis to deduce the *ideal gas law*:
+
+$$
+PV = nk_B\mathcal{T}.
+$$
 
 ---
 
@@ -1162,3 +1183,7 @@ I also recommend Sanjoy Mahajan's book
   mathematical of natural sciences. Here, we show how
   simple physical ideas, with a dash of pre-calculus mathematics, can
   still be awesomely powerful.*
+
+, and
+we can actually use dimensional analysis to account for some factors of $\pi$
+(see *Extra dimensions*).
