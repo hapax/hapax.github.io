@@ -240,8 +240,7 @@ where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
 m}^3 \text{/kg s}^2$ is *Newton's constant*, controlling the strength
 of gravity.
 (This relation is
-[Kepler's third law!](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law),
-and the $\sim$ is in fact an $=$.)
+[Kepler's third law!](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law))
 
 *Hint.* You can ignore the mass of the pumpkin due to the
 [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle),
@@ -491,6 +490,8 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
+---
+
 **Exercise 4 (factors of $\pi$).** We can account for some of the
 factors of $\pi$ that keep appearing by introducing a dimension for
 angle.
@@ -619,7 +620,9 @@ mooney!
 For an overestimate, you could try the radius of
 the earth, $r_\oplus = 6300 \text{ km}$.
 
-**Exercise 6 (living beyond your means).** Suppose I want to ask a bunch of people for
+---
+
+**Exercise 6 (beyond your means).** Suppose I want to ask a bunch of people for
   their opinion, and take the geometric rather than the arithmetic
   mean.
   Recall that the usual average of $m$ numbers $a_1, a_2, \ldots, a_m$ is
@@ -872,6 +875,8 @@ take the geometric mean of their answers.
 (c) Finally, ask Google. How did I do?
 How did your friends do?
 
+---
+
 **Exercise 10 (fistful of quarters).** (a) How many quarters in a
 fistful?
 (b) Given that $n$ can vary by a factor of $3$, how does
@@ -939,10 +944,15 @@ collapse under their own weight as soon as they try to invade earth!
 
 ---
 
-**Exercise 11 (walking speed).** Estimate how walking speed depends on
-$\ell$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
+**Exercise 11 (walking speed).** (a)
+Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
-**Exercise 12 (General Sherman).** (a) Argue that the *radius*
+(b) Average human walking speed is around $1.4$ m/s.
+	Estimate the average walking speed of a horse.
+
+---
+
+**Exercise 12 ().** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
     M^{1/2}$ if it wants to support the organism's weight.
 
@@ -951,7 +961,7 @@ $\ell$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
     The diameter of the trunk is $7.7 \text{ m}$.
     Estimate its mass by comparing to the human thighbone ($r = $ 2.3
     cm) and using the radius scaling.
-	(Assume trees and humans have similar density.)
+	Assume trees and humans have similar density.
 
 ---
 
