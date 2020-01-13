@@ -495,7 +495,6 @@ The arrow subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 If $[360^\circ] = \Xi$ is the dimension of angle, then
 $[t_\text{period}] = T/\Xi$.
-
 This will leave factors of $\Xi$ floating around.
 To cancel them, we can view $2\pi$ as a "fundamental physical
 constant" with dimension $\Xi$.
