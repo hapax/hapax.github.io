@@ -815,12 +815,13 @@ e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Proble
 by Weinstein and Adam, have a list of handy numbers in the appendix
 for just this reason.
 It may feel like cheating, but if you are doing a Fermi
-problem in real life, remember that you can make your web of facts
+problem in real life, also remember that you can make your web of facts
 dramatically larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity".
-(I first learned about this in
-[lukeprog's great introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
+(I first saw this highlighted in lukeprog's
+[great introduction](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
+to Fermi estimates.)
 Our method of factorising assumes that subestimates
 are (a) independent and (b) multiply to give the final answer.
 Assumption (a) can easily fail.
