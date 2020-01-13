@@ -80,8 +80,7 @@ The *dimension* of the measurement is not the number, but rather the
 If we compare the width of the pumpkin to a ruler, for instance, the
 dimension is the *length*.
 
-Length ($L$) is one of the basic dimensions we can use to build other
-dimensions.
+Length ($L$) is a basic dimension.
 The two other basic dimensions are *time* ($T$) and *mass* ($M$).
 In general, we apply brackets $[\cdot]$ to a measurement to extract
 the dimension, for instance
@@ -251,7 +250,7 @@ their mass.
 
 #### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
-Maybe pumpkins aren't your thing.
+*Stokes' law.* Maybe pumpkins aren't your thing.
 Let's ratchet down the
 whimsy and turn to something more high-minded: the
 aerodynamics of spheres.
@@ -332,7 +331,7 @@ $$
 This is called *Stokes' law* in honour of its discoverer.
 But we got pretty darn close with a few lines of algebra!
 
-We finish this example by calculating the *terminal velocity* of
+*Why clouds float.* We finish this example by calculating the *terminal velocity* of
 water droplets in a cloud.
 This will help explain why clouds float and rain falls!
 First, consider the general case of a slowly falling sphere.
@@ -423,18 +422,39 @@ b,c)$ and each dimension gives us an equation.
 Three equations is just right for three unknowns.
 Any more unknowns, and you don't have enough equations to determine
 them all!
+
 More generally, if you can write everything in terms of $n$
 independent basic units, you can have at most $n$ physical parameters
 in your dimensional guess; otherwise you have too many unknowns to
 determine with your equations.
-
 There are other ways dimensional analysis can break down, e.g. if you
 have two relevant quantities (say, two lengths) with the same dimension.
 All these subtleties are captured in something called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
-For more details, check out my
+For an elementary treatment, check out my
 [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
 *Street-Fighting Mathematics*.
+
+*Extra dimensions.* I lied when I said length, mass and time were
+the only basic dimensions.
+Two other important dimensions are *temperature* $\Theta$ (measured in
+Celsius or Kelvin for instance) and *amount
+of stuff* $N$ (usually measured in mol).
+These are very important in atomic physics, thermodynamics and
+chemistry.
+But there are no real restrictions on this list of basic dimensions.
+For instance, imagine that artistic taste was objective and did not
+vary between individuals.
+Humans would "measure" a painting by rating it out of 10.
+The dimension would be the aesthetic merit of a painting, and (as
+far as I can tell) there is no reasonable way to express this in terms
+of basic physical dimensions.
+
+---
+
+**Exercise 3 ().** 
+
+---
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
 
@@ -533,7 +553,7 @@ mooney!
 
 ---
 
-**Exercise 3 (lunar radius).** Fermi estimate the radius of the moon.
+**Exercise 4 (lunar radius).** Fermi estimate the radius of the moon.
 
 *Hint.* Take the geometric mean of an overestimate and an underestimate.
 For an overestimate, you could try the radius of
@@ -607,7 +627,7 @@ often happens with Fermi estimates, you land on your feet!
 
 ---
 
-**Exercise 4 (churches in the US).** Guess the number of churches in
+**Exercise 5 (churches in the US).** Guess the number of churches in
 the US.
 
 *Hint.* A particularly useful intermediate factor is *people*, both in
@@ -684,7 +704,7 @@ we should be spot on!
 
 ---
 
-**Exercise 5 (Canadian budget).** Estimate Canada's 2019 budget.
+**Exercise 6 (Canadian budget).** Estimate Canada's 2019 budget.
 
 ---
 
@@ -762,7 +782,7 @@ Not all is lost, however; it is reasonable to Fermi estimate $n$ itself.
 
 ---
 
-**Exercise 6 (fistful of quarters).** How many quarters in a fistful?
+**Exercise 7 (fistful of quarters).** How many quarters in a fistful?
 
 ---
 
