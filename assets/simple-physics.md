@@ -129,7 +129,7 @@ $$
 $$
 
 Remarkably, we can sometimes *reverse* this process, and determine the
-physical laws relating some quantities from their dimensions!
+physical laws relating quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
 #### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
