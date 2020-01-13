@@ -64,12 +64,12 @@ if you want to learn how.)
 This post focuses on a set of generic problem-solving tools: *dimensional analysis*, *Fermi approximation*, and *scaling
 laws*.
 It is not oriented towards problem-solving heuristics (e.g. limiting
-arguments) or specific physical laws (e.g. Stefan-Boltzmann), though
+arguments) or surprisingly useful physical laws (e.g. Stefan-Boltzmann), though
 there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
-The different sections can more or less be read independently.
+The different sections can more or less be dipped into independently.
 Have fun!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
@@ -866,7 +866,7 @@ slowly from exponentials.
 ---
 
 **Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
-  that individuals use around $600$ W (or $10$ light bulks) on
+  that individuals use around $600$ W (or $10$ light bulbs) on
   average. Let's check this a few different ways.
 
 (a) Ask some friends to guess individual power usage, and
@@ -961,16 +961,55 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 (b) General Sherman is a giant sequoia tree in California's
     Sequoia National Park.
     The diameter of the trunk is $7.7 \text{ m}$.
-    Estimate its mass by comparing to the human thighbone ($r = $ 2.3
-    cm) and using the radius scaling.
+    Estimate its mass by comparing to the thickness of the human
+    thighbone ($r = 2.3$ cm) and using the radius scaling.
 
 ---
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
-A
+Random motion often leads to surprising scaling laws.
+Perhaps the most ubiquitous is the *random walk*, whose myriad
+physical applications include proof of the existence of atoms (as we
+will see below).
+Before we learn about random walks, we need to review some basic
+probability.
+
+**Probability review.** Suppose we toss a coin, and move a counter
+left or right one unit depending on whether we gets heads or tails.
+Label the outcome of the $n$th toss $X_n$, where $X_n = -1$ for heads
+and $X_n = +1$ for tails.
+If we start at $0$, the position $X$ after $n$ tosses is the sum of steps:
+
+$$
+R = X_1 + X_2 + \cdots + X_n.
+$$
+
+This is a random process, so what do we expect to happen on average?
+We can calculate this with an *expectation*: a weighted average over all the things
+that can happen, where the weights are probabilities.
+We denote this by $\langle f(X_1, \ldots, X_n)\rangle$, where $f$ is
+any function of the steps.
+For instance, if the coin is fair, then on average an individual step
+is zero:
+
+$$
+\langle X\rangle = P(X=-1)(-1) + P(X=+1)(+1) = \frac{1}{2}-\frac{1}{2}
+= 0.
+$$
+
+On the other hand, on average the *square* of a step is $1$:
+
+$$
+\langle X^2\rangle = P(X=-1)(-1)^2 + P(X=+1)(+1)^2 =
+\frac{1}{2}+\frac{1}{2} = 1.
+$$
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
+
+It's mysterious to me that these techniques are not usually taught
+in either high school or first year physics.
+Lack of mathematical background is not the problem.
 
 #### References
 
@@ -1351,3 +1390,29 @@ we can actually use dimensional analysis to account for some factors of $\pi$
 We say that the answer *scales as* $\text{factor}^p$, or *with power* $p$.
 
 http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
+
+Suppose we have some random process, like tossing a coin, whose
+outcome we label by $X = \text{H, T}$ (heads and tails).
+The *expectation* of a function $f(X)$, denoted $\langle f(X)\rangle$,
+is the average over outcomes, weighted by their probability.
+For a fair coin, this is just
+
+$$
+\langle f(X)\rangle = \frac{1}{2}[f(\text{H}) + f(\text{T})],
+$$
+
+but if the coin is biased, and heads has probability $p$, then
+
+$$
+\langle f(X)\rangle = pf(\text{H}) + (1-p)f(\text{T}).
+$$
+
+Suppose we toss two coins independently, labelling the first outcome
+$X$ and the second $Y$.
+"Independent" means that the probability of $X$ and $Y$ is always a product of the
+single-coin probability of $X$, and the single-coin probability of
+$Y$:
+
+$$
+P(X, Y) = P(X)P(Y).
+$$
