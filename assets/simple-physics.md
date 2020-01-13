@@ -497,8 +497,9 @@ angle.
 (Sadly, this trick doesn't work for Stokes' law, where the $6\pi$
 comes from hard math we are ignoring.)
 A periodic system has a cycle, which we track using an arrow rotating at a uniform speed around the unit circle.
-The arrow subtends an angle of $360^\circ$ over the course of a single
+The arrow (called a *phasor* if you want to be fancy) subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
+
 If $[360^\circ] = \Xi$ is the dimension of angle, then
 $[t_\text{period}] = T/\Xi$.
 This will leave factors of $\Xi$ floating around.
