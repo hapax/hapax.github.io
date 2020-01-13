@@ -66,7 +66,7 @@ rather than an encyclopedia.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
-Finally, I also recommend Sanjoy Mahajan's book
+Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
 
