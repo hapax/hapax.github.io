@@ -58,15 +58,15 @@ of the universe,
 and even the number of
 [extra dimensions](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions)
 predicted by string theory.
+(See my
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
+if you want to learn how.)
 
 This post is not meant to be encyclopedic, but rather, a fun and
 illustrative selection.
 I have stuck to methods accessible to high school and first year
 students, though it is probably to fair to say that some scientific
 maturity is required of the former.
-To keep things interesting, I avoid overlap with my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
-but you can find the examples from the previous paragraph there.
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
