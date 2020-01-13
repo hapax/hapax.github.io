@@ -448,7 +448,7 @@ vary between individuals.
 Humans would "measure" a painting by rating it out of 10.
 The dimension would be the aesthetic merit of a painting, and (as
 far as I can tell) there is no reasonable way to express this in terms
-of basic physical dimensions.
+of other basic dimensions.
 
 ---
 
