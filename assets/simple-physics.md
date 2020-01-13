@@ -882,7 +882,7 @@ fistful?
 ## 4. Scaling<a id="sec-4" name="sec-4"></a>
 
 Both dimensional analysis and Fermi approximation assume the answer
-to a physical question can be written as a *product of powers* of some
+to a question can be written as a *product of powers* of some
 other factors:
 
 $$
