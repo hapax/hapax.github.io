@@ -490,7 +490,9 @@ If $[360^\circ] = \Xi is the dimension of angle, then
 $[t_\text{period}] = T/\Xi$.
 
 This will leave factors of $\Xi$ floating around.
-To cancel them, we can use 
+To cancel them, we can view $2\pi$ as a *fundamental physical
+constant* with dimension $\Xi$.
+It is just $360^\circ$ in radian!
 
 (a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
 T/\Xi and $2\pi$ as a conversion factor.
