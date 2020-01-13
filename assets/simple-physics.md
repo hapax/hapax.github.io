@@ -282,7 +282,7 @@ Only the viscosity, and size and speed of the sphere, matter.
 
 I haven't told you the dimensions of viscosity yet, but we can find
 them fairly easily.
-Imagine two layers separated by a distance $d$.
+Imagine two layers of fluid flow separated by a distance $d$.
 Suppose I try to separate them by simply moving one layer, parallel to
 the second but at speed $v$.
 Experiment shows that the fluid will resist with some force $f = F/A$ per
