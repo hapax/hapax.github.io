@@ -452,11 +452,11 @@ of other basic dimensions.
 
 ---
 
-**Exercise 3 (ideal gas law).** A hot gas of $n$ particles has various
-  experimental properties, such as pressure $P$, volume $V$, and
-  temperature $\mathcal{T}$.
-  These properties are not independent, a fact we can deduce from
-  dimensional analysis.
+**Exercise 3 (ideal gas law).** A hot gas of $n$ particles takes up
+  space (with volume $V$), pushes on its container (with pressure
+  $P$), and it hot (with temperature $\mathcal{T}$).
+  These properties are not independent!
+  We can see how they are related from dimensional analysis.
 
 (a) Explain why volume should have dimension $[V] = L^3N$, w
 
