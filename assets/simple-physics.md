@@ -483,8 +483,6 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
----
-
 **Exercise 4 (factors of $\pi$).** We can account for some of the
 factors of $\pi$ that keep appearing by introducing a dimension for
 angle.
