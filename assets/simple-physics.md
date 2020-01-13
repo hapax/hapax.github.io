@@ -894,10 +894,26 @@ Instead of trying to completely factorise the answer, we can zoom in
 on a single factor, leading to a proportional relation:
 
 $$
-\text{answer} \sim \text{factor}^a.
+\text{answer} \sim \text{factor}^p.
 $$
 
-We say that the answer *scales with* $\text{factor}^a$.
+Often, we can nail down how our answer depends on a factor without
+considering any of the others!
+This *scaling* (or *scaling law*) can be used as an input to a
+dimensional analysis or Fermi estimate.
+Let's illustrate with an example.
+
+*Square-cube law.* Tissue density is roughly the same for different
+ species (up to the usual order of magnitude numbers).
+If an organism has length around $L$, then the mass of the organism
+should scale as
+
+$$
+M \propto L^3.
+$$
+
+The surface area, on the other hand, should scale as $L^2$.
+(In both cases, we are assuming the organism has a fairly simple shape.)
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
@@ -1270,3 +1286,5 @@ I also recommend Sanjoy Mahajan's book
 , and
 we can actually use dimensional analysis to account for some factors of $\pi$
 (see *Extra dimensions*).
+
+We say that the answer *scales as* $\text{factor}^p$, or *with power* $p$.
