@@ -155,9 +155,8 @@ That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
 we can leave it in and let dimensional analysis *tell us* it's irrelevant.
 
-I'm going to do something a bit sneaky, though it will seem natural if
-you've dealt with oscillations before.
-Instead of period $t$, we will deal with the *angular frequency*
+I'm going to do something a bit sneak (see Exercise 4 for a justification).
+Instead of period $t$, we will deal with the *angular velocity*
 
 $$
 \omega = \frac{2\pi}{t}.
@@ -188,7 +187,7 @@ $a = 0$, $2c = 1$, $b = -c$, and hence $\omega \sim (g/c)^{1/2}$, where $\sim$ m
 As promised, dimensional analysis also kindly informs us that the mass
 is irrelevant.
 In fact, my earlier piece of sneakiness (replacing period with angular
-frequency) means this is *exactly* correct (for small kicks):
+velocity) means this is *exactly* correct (for small kicks):
 
 $$
 \omega = \sqrt{\frac{g}{\ell}}.
@@ -230,7 +229,7 @@ measure very large objects as well.
 Place the sun at one end of the object, and the pumpkin at the other.
 If you kick the pumpkin with enough energy tangent to the sun,
 it will orbit in a circle of radius $r$ (the length of the
-object) with angular frequency $\omega$.
+object) with angular velocity $\omega$.
 Using dimensional analysis, show that
 
 $$
@@ -406,12 +405,14 @@ viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
 *Numbers.* Dimensional analysis has its limits.
 First of all, since we throw away numbers, it only good up
 to an overall numerical factor.
-In the first example, I sneakily chose angular frequency so that the
+In the first example, I sneakily chose angular velocity so that the
 missing numerical factor was $1$, but in the second example, we were off by
 $6\pi \approx 20$.
 It is perhaps better to think of dimensional analysis as giving
 system-dependent *scales* rather than answers to specific questions.
-That said, more often than not the missing number is close to $1$.
+That said, more often than not the missing number is close to $1$, and
+we can even account for some factors of $\pi$ by adding an extra
+dimension for angles (Exercise 4).
 
 *Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
@@ -479,7 +480,21 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
-**Exercise 4 (factors of $\pi$).** We can
+**Exercise 4 (factors of $\pi$).** We can account for some of the
+factors of $\pi$ that keep appearing by introducing a dimension for angle.
+A periodic system has a cycle, which we track using an arrow
+(sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
+The arrow subtends an angle of $360^\circ$ over the course of a single
+period, so really, a period should be viewed as time per $360^\circ$.
+If $[360^\circ] = \Omicron$ is the dimension of angle, then
+$[t_\text{period}] = T/\Omicron$.
+Now we do somethng odd: we treat $\pi$ as a constant with dimension
+$\Omicron$!
+It should appear in the dimensional analysis with some power as well.
+
+(a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
+T/\Omicron$ and $2\pi$ as a conversion factor.
+You should obtain the same results!
 
 ---
 
@@ -822,27 +837,25 @@ But here's the rub: if I'm wrong by three quarters, l'll be off by a
 factor of $8 \approx 10$, a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
 slowly from exponentials.
-It is still reasonable to Fermi estimate $n$ itself, but the
-probability will be less reliable.
 
 ---
 
 **Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
-  that household usage accounts for around $10\%$ of total power
+  that household usage accounts for $10\%$ of total power
   consumption. Let's check this a few different ways.
 
-(a) Try asking two (or more) friends what the fraction is, and
+(a) Ask two (or more) friends to guess the fraction, and
 take the geometric mean of their answers.
 
-(b) Next, sanity check my figure of $10\%$, or the answer from (a) if
-you prefer.
+(b) Next, sanity check my figure of $10\%$ (or the answer from (a) if
+you prefer).
 
 (c) Use Google to find an authoritative answer. How did I do? How did
 your friends do?
 
-**Exercise 10 (fistful of quarters).** (a) How many quarters ($n$) in a
+**Exercise 10 (fistful of quarters).** (a) How many quarters in a
   fistful? (b) Given that $n$ can vary by a factor of $3$, how does
-  your estimate of the "all head" probability vary?
+  the estimate of the "all heads" probability vary?
 
 ---
 
