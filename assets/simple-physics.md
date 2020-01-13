@@ -902,8 +902,8 @@ $$
 \text{answer} \propto \text{factor}^p.
 $$
 
-Importantly, we are ignoring all the other factors, and not just
-dimensionless numbers, which is why we use the symbol $\propto$.
+Importantly, the symbol $\propto$ we are ignoring all the other
+factors and not just dimensionless numbers.
 Sometime, we can nail down a proportionality relation, and in
 particular the *scaling exponent* $p$, without considering any other
 factors.
