@@ -486,7 +486,7 @@ $$
 **Exercise 4 (factors of $\pi$).** We can account for some of the
 factors of $\pi$ that keep appearing by introducing a dimension for
 angle.
-(Sadly, this trick does not work for Stokes' law.)
+(Sadly, this trick doesn't work for Stokes' law.)
 A periodic system has a cycle, which we track using an arrow
 (sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
@@ -772,7 +772,8 @@ we should be spot on!
 
 ---
 
-**Exercise 8 (Canadian budget).** Estimate the federal government's 2019 budget.
+**Exercise 8 (Canadian budget).** Guess the Canadian government's
+  federal budget for 2019.
 
 ---
 
