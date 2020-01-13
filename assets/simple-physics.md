@@ -59,6 +59,9 @@ predicted by string theory.
 
 The goal of this post is to share a few of these hacks and convince
 you of their awesome power.
+This is not meant to be an exhaustive list, but rather, a fun and
+illustrative selection of hacks accessible to high school and first year
+students.
 To keep things interesting, I avoid overlap with my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf),
 but you can find the examples from the previous paragraph there.
