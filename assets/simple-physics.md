@@ -470,7 +470,7 @@ k_B = 1.38 \times 10^{-23} \text{ J/K},
 $$
 
 where $\text{K}$ stands for Kelvin.
-Calculate the dimension
+Confirm that $k_B$ has dimension
 
 $$
 [k_B] = \frac{ML^2}{T^2\Theta}.
