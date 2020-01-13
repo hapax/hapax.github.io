@@ -234,7 +234,7 @@ object) with angular frequency $\omega$.
 Using dimensional analysis, show that
 
 $$
-r \sim \left[\frac{GM}{\omega^2}\right]^{1/3},
+r = \left[\frac{GM}{\omega^2}\right]^{1/3},
 $$
 
 where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
@@ -727,7 +727,7 @@ we should be spot on!
 
 ---
 
-**Exercise 6 (Canadian budget).** Estimate Canada's 2019 budget.
+**Exercise 6 (Canadian budget).** Estimate the federal government's 2019 budget.
 
 ---
 
@@ -775,7 +775,7 @@ dramatically larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity".
 (I first learned about this in
-[lukeprog's nice introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
+[lukeprog's great introduction to Fermi estimates](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).)
 Our method of factorising assumes that subestimates
 are (a) independent and (b) multiply to give the final answer.
 Assumption (a) can easily fail.
@@ -789,8 +789,8 @@ Thus, changing one factor (population of a city) will change another
 Sometimes you can take this dependence into account with extra
 factors, sometimes you can't.
 
-Assumption (b) fails when the final answer has a different
-functional dependence on subestimates.
+Assumption (b) fails when the final answer has a different type of
+functional dependence on its subestimates.
 A particularly severe example is *exponential* dependence.
 Suppose I throw a fistful of quarters onto the ground.
 What's the probability they all come up heads?
@@ -801,7 +801,8 @@ But here's the rub: if I'm wrong by three quarters, l'll be off by a
 factor of $8 \approx 10$, a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
 slowly from exponentials.
-Not all is lost, however; it is reasonable to Fermi estimate $n$ itself.
+It is still reasonable to Fermi estimate $n$ itself, but the
+probability will be less reliable.
 
 ---
 
