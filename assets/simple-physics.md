@@ -495,7 +495,7 @@ constant" with dimension $\Xi$.
 This isn't totally crazy, since $360^\circ = 2\pi$ radian!
 
 (a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
-T/\Xi and $2\pi$ as a conversion factor.
+T/\Xi$ and $2\pi$ as a conversion factor.
 You should obtain the same results!
 
 (b) If your system executes $n$ cycles in the process you're
