@@ -53,11 +53,18 @@ you can still discover
 the [dark energy](https://en.wikipedia.org/wiki/Dark_energy) density
 of the universe,
 [gravitational lensing](https://en.wikipedia.org/wiki/Gravitational_lens),
-and even the
-[number of extra dimensions predicted by string theory](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions).
-(See
-[my physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-if you're interested.)
+and even the number of
+[extra dimensions](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions)
+predicted by string theory.
+
+The goal of this post is to share a few of these hacks and convince
+you of their awesome power.
+To keep things interesting, I avoid overlap with my
+[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
+but you can the examples in the previous paragraph there.
+I also recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground in greater depth.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
