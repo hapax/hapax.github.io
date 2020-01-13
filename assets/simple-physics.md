@@ -452,23 +452,18 @@ of other basic dimensions.
 
 ---
 
-**Exercise 3 (ideal gas law).** A hot gas of $n$ particles takes up
+**Exercise 3 (ideal gas law).** A gas of $n$ particles takes up
   space (with volume $V$), pushes on its container (with pressure
-  $P$), and it hot (with temperature $\mathcal{T}$).
+  $P$), and is hot (with temperature $\mathcal{T}$).
   These properties are not independent!
-  We can see how they are related from dimensional analysis.
+  Their relationship is revealed by dimensional analysis.
 
-(a) Explain why volume should have dimension $[V] = L^3N$, w
+(a) Explain why volume should have dimension $[V] = L^3N$.
 
 (b) Show that pressure has dimension $[P] = M/LT^2$.
 
 (c) In thermodynamics, there is a fundamental constant called
-*Boltzmann's constant*,
-
-$$
-k_B = 1.38 \times 10^{-23} \text{ J/K},
-$$
-
+*Boltzmann's constant*, $k_B = 1.38 \times 10^{-23} \text{ J/K}$, 
 where $\text{K}$ stands for Kelvin.
 Confirm that $k_B$ has dimension
 
