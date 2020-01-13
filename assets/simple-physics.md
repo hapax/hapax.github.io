@@ -869,7 +869,7 @@ take the geometric mean of their answers.
 
 (b) Next, sanity check my guess or the answer you got in (a).
 
-(c) Finally, use Google to find an authoritative answer. How did I do?
+(c) Finally, ask Google. How did I do?
 How did your friends do?
 
 **Exercise 10 (fistful of quarters).** (a) How many quarters in a
