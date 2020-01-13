@@ -62,8 +62,7 @@ predicted by string theory.
 if you want to learn how.)
 
 This post is an illustrative compendium of hacks, too long for a
-tutorial and too short (and incomplete) for an encyclopedia.
-It should be used as such!
+tutorial and too short for an encyclopedia.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
