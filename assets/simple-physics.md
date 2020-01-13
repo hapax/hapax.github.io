@@ -41,12 +41,23 @@ Surprisingly, the answer is still none!
 As we'll see below, high school math and some simple physics hacks
 are sufficient to solve these problems *quantitatively*.
 
-As a string theorist, I'm a fan of advanced maths
+I'm a string theorist, so by necessity a user (and abuser!) of
+advanced mathematics.
 But preparing for my
-[PhD comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students)
-and running a
+[comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students) and running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-led me to realise that you can do more with less!
+revealed that *you can do more with less*.
+Without calculus or any particularly deep physics,
+you can still discover
+[black hole entropy](https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Overview),
+the [dark energy](https://en.wikipedia.org/wiki/Dark_energy) density
+of the universe,
+[gravitational lensing](https://en.wikipedia.org/wiki/Gravitational_lens),
+and even the
+[number of extra dimensions predicted by string theory](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions).
+(See
+[my physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
+if you're interested.)
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
