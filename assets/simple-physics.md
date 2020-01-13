@@ -44,10 +44,10 @@ you of their awesome power.
 
 I'm a string theorist, so by necessity a user (and abuser!) of
 advanced mathematics.
-But preparing for my
+But preparing for a
 [comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students) and running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-revealed that *you can do more with less*.
+convinced me that *you can do more with less*.
 Without calculus or any particularly deep physics,
 you can still discover
 [black hole entropy](https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Overview),
