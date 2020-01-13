@@ -861,17 +861,16 @@ slowly from exponentials.
 ---
 
 **Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
-  that household usage accounts for $10\%$ of total power
-  consumption. Let's check this a few different ways.
+  that individuals use around $600$ W (or $10$ light bulks) on
+  average. Let's check this a few different ways.
 
-(a) Ask some friends to guess the fraction, and
+(a) Ask some friends to guess individual power usage, and
 take the geometric mean of their answers.
 
-(b) Next, sanity check my figure of $10\%$ (or the answer from (a) if
-you prefer).
+(b) Next, sanity check my guess or the answer you got in (a).
 
-(c) Use Google to find an authoritative answer. How did I do? How did
-your friends do?
+(c) Finally, use Google to find an authoritative answer. How did I do?
+How did your friends do?
 
 **Exercise 10 (fistful of quarters).** (a) How many quarters in a
 fistful?
@@ -881,6 +880,7 @@ fistful?
 ---
 
 ## 4. Scaling<a id="sec-4" name="sec-4"></a>
+
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
