@@ -78,10 +78,10 @@ measuring device which returns a number.
 The *dimension* of the measurement is not the number, but rather the
 *physical property* probed by that device.
 If we compare the width of the pumpkin to a ruler, for instance, the
-dimension is the *length*.
+dimension is the length.
 
-Length ($L$) is a basic dimension.
-The two other basic dimensions are *time* ($T$) and *mass* ($M$).
+Length ($L$) is one basic dimension.
+Two other basic dimensions are *time* ($T$) and *mass* ($M$).
 In general, we apply brackets $[\cdot]$ to a measurement to extract
 the dimension, for instance
 
@@ -435,7 +435,7 @@ For an elementary treatment, check out my
 [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf) or
 *Street-Fighting Mathematics*.
 
-*Extra dimensions.* I lied when I said length, mass and time were
+*Extra dimensions.* Length, mass and time are not
 the only basic dimensions.
 Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
