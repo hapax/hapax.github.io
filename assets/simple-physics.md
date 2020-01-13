@@ -440,7 +440,7 @@ the only basic dimensions.
 Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
-These are very important in atomic physics, thermodynamics and
+These are crucial in atomic physics, thermodynamics and
 chemistry.
 But there are no real restrictions on this list of basic dimensions.
 For instance, imagine that artistic taste was objective and did not
