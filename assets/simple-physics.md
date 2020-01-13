@@ -961,7 +961,6 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
     The diameter of the trunk is $7.7 \text{ m}$.
     Estimate its mass by comparing to the human thighbone ($r = $ 2.3
     cm) and using the radius scaling.
-	Assume trees and humans have similar density.
 
 ---
 
