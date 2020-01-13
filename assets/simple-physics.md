@@ -387,8 +387,8 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (sinking bathysphere).**
-The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
+**Exercise 2 (sinking balls).**
+(a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
 It weighed $2.25$ tons (above water) and had a diameter of $1.45$ m.
 Roughly how long would it take to sink to the bottom of the Mariana Trench?
@@ -396,7 +396,10 @@ The Mariana Trench is $11$ km deep, and filled with cold water of
 viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
 
 *Hint.* Assume it is travelling at terminal velocity, and Stokes' law
- applies. You should also take buoyancy forces into account!
+applies. You should also take buoyancy forces into account!
+
+(b) Keeping with our theme of whimsical rulers, explain how you can
+use Stokes' law to determine the size of iron spheres dropped in water.
 
 ---
 
@@ -480,8 +483,12 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
+---
+
 **Exercise 4 (factors of $\pi$).** We can account for some of the
-factors of $\pi$ that keep appearing by introducing a dimension for angle.
+factors of $\pi$ that keep appearing by introducing a dimension for
+angle.
+(Sadly, this trick does not work for Stokes' law.)
 A periodic system has a cycle, which we track using an arrow
 (sometimes called a *phasor*) rotating at a uniform speed around the unit circle.
 The arrow subtends an angle of $360^\circ$ over the course of a single
