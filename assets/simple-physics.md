@@ -952,7 +952,7 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 ---
 
-**Exercise 12 ().** (a) Argue that the *radius*
+**Exercise 12 (thickness).** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
     M^{1/2}$ if it wants to support the organism's weight.
 
