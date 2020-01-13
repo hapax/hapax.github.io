@@ -65,7 +65,7 @@ This post focuses on a set of generic problem-solving tools: *dimensional analys
 laws*.
 It is not oriented towards problem-solving heuristics (e.g. limiting
 arguments) or specific physical laws (e.g. Stefan-Boltzmann), though
-there is nontrivial overlap between these categories.
+there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
