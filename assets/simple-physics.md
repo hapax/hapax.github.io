@@ -947,8 +947,8 @@ collapse under their own weight as soon as they try to invade earth!
 **Exercise 11 (walking speed).** (a)
 Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
-(b) Average human walking speed is around $1.4$ m/s.
-	Estimate the average walking speed of a horse.
+(b) Average human walking speed is $\sim 1.4$ m/s.
+	Estimate the walking speed of a horse.
 
 ---
 
