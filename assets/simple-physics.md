@@ -69,8 +69,7 @@ there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
-I usually illustrate opt for examples rather than formal discussion,
-and the different sections can more or less be read independently.
+The different sections can more or less be read independently.
 Have fun!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
