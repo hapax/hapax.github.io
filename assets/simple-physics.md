@@ -940,7 +940,7 @@ collapse under their own weight as soon as they try to invade earth!
 ---
 
 **Exercise 11 (walking speed).** Estimate how walking speed depends on
-leg length $\ell$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
+$\ell$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
 **Exercise 12 (General Sherman).** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
@@ -1328,3 +1328,5 @@ we can actually use dimensional analysis to account for some factors of $\pi$
 (see *Extra dimensions*).
 
 We say that the answer *scales as* $\text{factor}^p$, or *with power* $p$.
+
+http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
