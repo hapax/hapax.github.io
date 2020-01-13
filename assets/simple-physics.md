@@ -869,9 +869,9 @@ fistful?
 
 ---
 
-##### 4. Scaling<a id="sec-4" name="sec-4"></a>
+## 4. Scaling<a id="sec-4" name="sec-4"></a>
 
-##### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
+#### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
 ## Extra
 
