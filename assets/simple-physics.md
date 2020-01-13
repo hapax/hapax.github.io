@@ -479,6 +479,8 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
+**Exercise 4 (factors of $\pi$).** We can
+
 ---
 
 ## 3. Fermi estimates <a id="sec-3" name="sec-3"></a>
@@ -578,11 +580,28 @@ mooney!
 
 ---
 
-**Exercise 4 (lunar radius).** Fermi estimate the radius of the moon.
+**Exercise 5 (lunar radius).** Fermi estimate the radius of the moon.
 
 *Hint.* Take the geometric mean of an overestimate and an underestimate.
 For an overestimate, you could try the radius of
- the earth, $r_\oplus = 6300 \text{ km}$.
+the earth, $r_\oplus = 6300 \text{ km}$.
+
+**Exercise 6 (living beyond your means).** Suppose I want to ask a bunch of people for
+  their opinion, and take the geometric rather than the arithmetic
+  mean.
+  Recall that the usual average of $m$ numbers $a_1, a_2, \ldots, a_m$ is
+
+$$
+\frac{a_1+a_2+\cdots + a_m}{m}.
+$$
+
+By taking an arithmetic mean of the logs $\log_{10} a_1, \ldots,
+\log_{10} a_m$, then plugging your answer into the index, show that
+the geometric mean is
+
+$$
+\sqrt[m]{a_1 \times a_2 \times \cdots a_m}.
+$$
 
 ---
 
@@ -652,7 +671,7 @@ often happens with Fermi estimates, you land on your feet!
 
 ---
 
-**Exercise 5 (churches in the US).** Guess the number of churches in
+**Exercise 7 (churches in the US).** Guess the number of churches in
 the US.
 
 *Hint.* A particularly useful intermediate factor is *people*, both in
@@ -729,7 +748,7 @@ we should be spot on!
 
 ---
 
-**Exercise 6 (Canadian budget).** Estimate the federal government's 2019 budget.
+**Exercise 8 (Canadian budget).** Estimate the federal government's 2019 budget.
 
 ---
 
@@ -807,23 +826,6 @@ It is still reasonable to Fermi estimate $n$ itself, but the
 probability will be less reliable.
 
 ---
-
-**Exercise 8 (geometric means).** Suppose I want to ask a bunch of people for
-  their opinion, and take the geometric rather than the arithmetic
-  mean.
-  Recall that the usual average of $m$ numbers $a_1, a_2, \ldots, a_m$ is
-
-$$
-\frac{a_1+a_2+\cdots + a_m}{m}.
-$$
-
-By taking an arithmetic mean of the logs $\log_{10} a_1, \ldots,
-\log_{10} a_m$, then plugging your answer into the index, show that
-the geometric mean is
-
-$$
-\sqrt[m]{a_1 \times a_2 \times \cdots a_m}.
-$$
 
 **Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
   that household usage accounts for around $10\%$ of total power
