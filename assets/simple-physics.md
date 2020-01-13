@@ -61,14 +61,15 @@ predicted by string theory.
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 if you want to learn how.)
 
-This post is an illustrative compendium of hacks, too long for a
-tutorial and too short for an encyclopedia.
+This post focuses on a set of extraordinarily powerful and related
+tools: *dimensional analysis*, *Fermi approximation*, and *scaling
+laws*.
+It is less oriented towards problem-solving heuristics (e.g. limiting
+arguments) or specific physical laws (e.g. Stefan-Boltzmann), though
+there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
-Finally, I recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground in greater depth.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -965,6 +966,16 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 ---
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
+
+A
+
+## 5. Conclusion<a id="sec-5" name="sec-5"></a>
+
+#### References
+
+Finally, I recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground in greater depth.
 
 ## Extra
 
