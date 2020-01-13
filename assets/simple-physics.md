@@ -166,6 +166,7 @@ $$
 If we imagine the oscillations as being ticked off on a clock of unit
 radius, with one cycle per period, then this is just the velocity of
 the tip of the hand.
+(We will explain another way to get factors of $2\pi$ in Exercise 3.)
 Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
 $\ell$ and $g$ by a physical law of the form
 
@@ -437,7 +438,7 @@ For an elementary treatment, check out my
 
 *Extra dimensions.* I lied when I said length, mass and time were
 the only basic dimensions.
-Two other important dimensions are *temperature* $\Theta$ (measured in
+Two other important dimensions are *temperature* $\Omicron (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are very important in atomic physics, thermodynamics and
@@ -445,14 +446,20 @@ chemistry.
 But there are no real restrictions on this list of basic dimensions.
 For instance, imagine that artistic taste was objective and did not
 vary between individuals.
-Humans would "measure" a painting by rating it out of 10.
+Humans could "measure" a painting by rating it out of 10.
 The dimension would be the aesthetic merit of a painting, and (as
 far as I can tell) there is no reasonable way to express this in terms
 of other basic dimensions.
 
 ---
 
-**Exercise 3 ().** 
+**Exercise 3 (factors of $\pi$).** We keep running into factors of $2\pi$.
+We can usually account for these by giving a dimension $\Theta$ to *angle*.
+In a periodic system, we can keep track of where it is in its cycle
+using an angle on the unit circle, with equal times corresponding to
+equal angles.
+Viewed this way, a period has dimension $T/\Theta$.
+We can convert 
 
 ---
 
