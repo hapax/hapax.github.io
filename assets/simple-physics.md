@@ -61,12 +61,12 @@ predicted by string theory.
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 if you want to learn how.)
 
-This post is not meant to be encyclopedic, but rather, a fun and
-illustrative selection.
+This post is meant to be a fun and illustrative grab bag of tricks,
+rather than an encyclopedia.
 I have stuck to methods accessible to high school and first year
-students, though it is probably to fair to say that some scientific
+students, though it is fair to say some scientific
 maturity is required of the former.
-I also recommend Sanjoy Mahajan's book
+Finally, I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
 
