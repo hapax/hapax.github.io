@@ -1014,7 +1014,6 @@ This makes sense, since if the coin is unbiased, it has no preference
 between heads and tails.
 If $\langle R\rangle >0$, for instance, then the coin is exhibiting a
 bias towards tails.
-
 The story is different for the *square* of a step:
 
 $$
@@ -1030,9 +1029,7 @@ $$
 \frac{1}{4}\left[(-1)^2 + (-1)(+1) + (+1)(-1) + (+1)^2\right] = 0.
 $$
 
-Combining these two facts, we can calculate the *root mean square (rms)
-displacement*, $\sqrt{\langle R^2\rangle}$.
-It's a bit easier to compute the square:
+Combining these two facts, we can calculate the *variance*:
 
 $$
 \begin{align*}
@@ -1043,6 +1040,9 @@ X_n\rangle\right\} \\
 & = n \langle X^2\rangle = n.
 \end{align*}
 $$
+
+The *root mean square* (rms) displacement $\sqrt{\langle R^2\rangle} =
+\sqrt{n}$ is roughly the size of the region explored by the counter.
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
