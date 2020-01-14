@@ -64,7 +64,7 @@ if you want to learn how.)
 This post focuses on a set of generic problem-solving tools: *dimensional analysis*, *Fermi approximation*, and *scaling
 laws*.
 It is not oriented towards problem-solving heuristics (e.g. limiting
-arguments) or surprisingly useful physical laws (e.g. Stefan-Boltzmann), though
+arguments or symmetry) or surprisingly useful physical laws (e.g. Stefan-Boltzmann), though
 there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
@@ -968,10 +968,10 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 #### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
-Random motion often leads to surprising scaling laws.
-Perhaps the most ubiquitous is the *random walk*, whose myriad
-physical applications include proof of the existence of atoms (as we
-will see below).
+One of the most beautiful and surprising scaling laws is associated
+with *random walks*, whose myriad
+physical applications include Einstein's proof of the existence of
+atoms (as we will see below).
 Before we learn about random walks, we need to review some basic
 probability.
 
@@ -998,11 +998,50 @@ $$
 = 0.
 $$
 
-On the other hand, on average the *square* of a step is $1$:
+A very similar calculation shows that $R$ vanishes on average:
+
+$$
+\begin{align*}
+\langle R\rangle &= \langle X_1 + \cdots + X_n\rangle\\
+& = \langle X_1\rangle + \cdots + \langle X_n\rangle\\
+& = 0 + \cdots + 0 = 0,
+\end{align*}
+$$
+
+where we used the fact that expectation is *linear*, $\langle f +
+g\rangle = \langle f\rangle + \langle g\rangle$.
+This makes sense, since if the coin is unbiased, it has no preference
+between heads and tails.
+If $\langle R\rangle >0$, for instance, then the coin is exhibiting a
+bias towards tails.
+
+The story is different for the *square* of a step:
 
 $$
 \langle X^2\rangle = P(X=-1)(-1)^2 + P(X=+1)(+1)^2 =
 \frac{1}{2}+\frac{1}{2} = 1.
+$$
+
+What about a product of different coin flips?
+Each possible outcome --, -+, +-, ++ has chance $1/4$, and hence
+
+$$
+\langle X_i \times X_j\rangle =
+\frac{1}{4}\left[(-1)^2 + (-1)(+1) + (+1)(-1) + (+1)^2\right] = 0.
+$$
+
+Combining these two facts, we can calculate the *root mean square (rms)
+displacement*, $\sqrt{\langle R^2\rangle}$.
+It's a bit easier to compute the square:
+
+$$
+\begin{align*}
+\langle R^2\rangle & = \langle (X_1 + \cdots + X_n)^2\rangle \\
+& = \langle X_1^2\rangle + \cdots + \langle X_n^2\rangle +
+2\left\{\langle X_1\cdot X_2\rangle + \cdots + \langle X_{n-1}\cdot
+X_n\rangle\right\} \\
+& = n \langle X^2\rangle = n.
+\end{align*}
 $$
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
