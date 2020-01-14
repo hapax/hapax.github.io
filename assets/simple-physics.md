@@ -1150,18 +1150,21 @@ in any number of dimensions.
 
 ---
 
-**Exercise 13 (expectation).** Show that, $f(X)$ and $g(X)$ are
+**Exercise 13 (expectation).** Show that, if $f(X)$ and $g(X)$ are
 functions of a random variable $X$, then
 
 $$
 \langle f(X) + g(X)\rangle = \langle f(X)\rangle + \langle g(X)\rangle.
 $$
 
-<p align="justify">
+<p align="center">
   ⁂
 	  </p>
 
-**Exercise 14 (length in higher dimensions).**
+**Exercise 14 (length in higher dimensions).** In two dimensions,
+  Pythagoras' theorem famously states that $a^2 = b^2 + c^2$, where
+  $a$ is the hypotenuse of a right-angled triangle and $b, c$ the
+  lengths of the shorter sides.
 
 ---
 
