@@ -982,9 +982,7 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
  of the post.*
 
 One of the most beautiful and surprising scaling laws is associated
-with *random walks*, whose myriad
-physical applications include Einstein's proof of the existence of
-atoms (reproduced below).
+with *random walks*.
 Imagine a walker takes steps of average length $s$.
 If the steps are random, unbiased (all directions equally favoured),
 and independent (subseqent steps do not depend on previous ones) then
@@ -1196,8 +1194,6 @@ $$
 ### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
 
 In this section, we will see a few applications of 
-
-*Brownian motion.* Imagine a 
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
