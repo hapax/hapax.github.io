@@ -904,7 +904,7 @@ $$
 \text{answer} \propto \text{factor}^p.
 $$
 
-Importantly, the symbol $\propto$ we are ignoring all the other
+The symbol $\propto$ means we are ignoring all the other
 factors and not just dimensionless numbers.
 Sometime, we can nail down a proportionality relation, and in
 particular the *scaling exponent* $p$, without considering any other
