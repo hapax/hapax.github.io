@@ -987,7 +987,7 @@ from their origin after $n$ steps.
 
 Remarkably, it does not matter how many dimensions the walker moves
 in!
-The result just as true for a drunkard wandering a two-dimensional
+The result is just as true for a drunkard wandering a two-dimensional
 streetscape, an atom jiggling around in a three-dimensional gas, or an
 alien bacterium foraging in 216 dimensions.
 We will prove the result in this section, first in 1D, and then extend
