@@ -1132,7 +1132,7 @@ X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
 \rangle \\
 & = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
 (X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]\\
-& = \langle |\vec{X}_1|^2\rangle + \cdots \langle
+& = \langle |\vec{X}_1|^2\rangle + \cdots +\langle
 |\vec{X}_n|^2\rangle\\
 & = n s^2,
 \end{align*}
