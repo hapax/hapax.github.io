@@ -978,6 +978,9 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 #### 4.1. Random walks (proof)<a id="sec-4-1" name="sec-4-1"></a>
 
+*Warning: this section is considerably more mathematical than the rest
+ of the post.*
+
 One of the most beautiful and surprising scaling laws is associated
 with *random walks*, whose myriad
 physical applications include Einstein's proof of the existence of
@@ -1147,6 +1150,8 @@ $$
 $$
 
 in any number of dimensions.
+Notice also that we do not need the steps to be the same length, or
+live on a lattice.
 
 ---
 
@@ -1161,10 +1166,8 @@ $$
   ⁂
 	  </p>
 
-**Exercise 14 (length in higher dimensions).** In two dimensions,
-  Pythagoras' theorem famously states that $a^2 = b^2 + c^2$, where
-  $a$ is the hypotenuse of a right-angled triangle and $b, c$ the
-  lengths of the shorter sides.
+**Exercise 14 (length in higher dimensions).** Consider a vector
+$\vec{X} = (X^1, \ldots, X^d)$ in $d$ dimensions.
 
 ---
 
