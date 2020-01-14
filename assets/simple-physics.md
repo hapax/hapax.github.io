@@ -493,7 +493,9 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
----
+<p align="justify">
+  ⁂
+</p>
 
 **Exercise 4 (factors of $\pi$).** We can account for some of the
 factors of $\pi$ that keep appearing by introducing a dimension for
@@ -623,7 +625,9 @@ mooney!
 For an overestimate, you could try the radius of
 the earth, $r_\oplus = 6300 \text{ km}$.
 
----
+<p align="justify">
+  ⁂
+</p>
 
 **Exercise 6 (beyond your means).** Suppose I want to ask a bunch of people for
   their opinion, and take the geometric rather than the arithmetic
@@ -878,7 +882,9 @@ take the geometric mean of their answers.
 (c) Finally, ask Google. How did I do?
 How did your friends do?
 
----
+<p align="justify">
+  ⁂
+</p>
 
 **Exercise 10 (fistful of quarters).** (a) How many quarters in a
 fistful?
@@ -954,7 +960,9 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 (b) Average human walking speed is $\sim 1.4$ m/s.
 	Estimate the walking speed of a horse.
 
----
+<p align="justify">
+  ⁂
+	  </p>
 
 **Exercise 12 (thickness).** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
@@ -986,10 +994,9 @@ $$
 from their origin after $n$ steps.
 
 Remarkably, it does not matter how many dimensions the walker moves
-in!
-The result is just as true for a drunkard wandering a two-dimensional
-streetscape, an atom jiggling around in a three-dimensional gas, or an
-alien bacterium foraging in 216 dimensions.
+in: the result is just as true for a drunkard wandering a two-dimensional
+streetscape, an atom jiggling around in a three-dimensional gas, or a
+virtual bacterium foraging in 216 dimensions.
 We will prove the result in this section, first in 1D, and then extend
 almost immediately to many dimensions.
 Although the math isn't hard, some may find it tedious, so feel free
@@ -1068,7 +1075,8 @@ square root of the variance, also called the *root mean square* (rms)
 displacement, $\sqrt{\langle R^2\rangle} = \sqrt{n}$.
 This is the distance from the origin the counter will tend to wander
 in the first $n$ steps.
-If instead of steps $\pm 1$, we have steps $\pm s$, the result becomes
+If instead of steps $\pm 1$, we have steps $\pm s$, then $\langle
+X^2\rangle = s^2$ and the rms displacement becomes
 
 $$
 \sqrt{\langle R^2\rangle} = s\sqrt{n}
@@ -1076,7 +1084,83 @@ $$
 
 as claimed above.
 
-*Proof (many D).*
+*Proof (many D).* The proof is almost identical in $d$ dimensions,
+ where a step can be written as a vector $\vec{X}$ with $d$ components:
+
+$$
+\vec{X} = (X^1, X^2\, \ldots, X^d).
+$$
+
+The length of $\vec{X}$ is given by a generalisation of Pythagoras' theorem:
+
+$$
+|\vec{X}| = \sqrt{(X^1)^2 + (X^2)^2 + \cdots + (X^d)^2}.
+$$
+
+Let's assume that the average step length is $s$, and steps are
+unbiased, so
+
+$$
+\langle \vec{X} \rangle = \vec{0} = (0, 0, \ldots, 0), \quad \langle |\vec{X}|^2 \rangle = s^2.
+$$
+
+Finally, we assume that steps are independent, so any two components of
+distinct steps satisfy
+
+$$
+\langle X_i^a \cdot X^b_j \rangle = 0,
+$$
+
+where $\vec{X}_i, \vec{X}_j$ are distinct steps, and $a, b$ labels
+components.
+Then, if $\vec{R} = \vec{X}_1 + \cdots + \vec{X}_n$, the random walk has variance
+
+$$
+\begin{align*}
+\langle |\vec{R}|^2\rangle & = \langle (X_1^1 + X_2^1 + \cdots
+X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
+	& = \langle [(X_1^1)^2 + (X_2^1)^2 + \cdots
+(X_n^1)^2] + \cdots +  [(X_1^n)^2 + (X_2^n)^2 + \cdots +(X_n^n)^2] \rangle \\
+& = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
+(X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]
+\rangle \\
+& = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
+(X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]\\
+& = \langle |\vec{X}_1|^2\rangle + \cdots \langle
+|\vec{X}_n|^2\rangle\\
+& = n s^2,
+\end{align*}
+$$
+
+where on the second line we used the fact that the components of
+different steps are independent, on the fourth line we reorganised the
+terms $(X_i^a)^2$ into individual steps, on the fifth line we used the
+definition of length and the linearity of expectation, and on the
+last line we used the assumption about average step length.
+Taking square roots, we find the rms displacement
+
+$$
+\sqrt{\langle |\vec{R}|^2\rangle} = s\sqrt{n},
+$$
+
+in any number of dimensions.
+
+---
+
+**Exercise 13 (expectation).** Show that, $f(X)$ and $g(X)$ are
+functions of a random variable $X$, then
+
+$$
+\langle f(X) + g(X)\rangle = \langle f(X)\rangle + \langle g(X)\rangle.
+$$
+
+<p align="justify">
+  ⁂
+	  </p>
+
+**Exercise 14 (length in higher dimensions).**
+
+---
 
 #### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
 
