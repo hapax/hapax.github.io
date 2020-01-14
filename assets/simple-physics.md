@@ -984,12 +984,13 @@ d \sim \ell \sqrt{n}
 $$
 
 from their origin after $n$ steps.
+
 Remarkably, it does not matter how many dimensions the walker moves
 in!
 The result just as true for a drunkard wandering a two-dimensional
 streetscape, an atom jiggling around in a three-dimensional gas, or an
 alien bacterium foraging in 216 dimensions.
-We will prove the result in this section, first in 1D, but then extend
+We will prove the result in this section, first in 1D, and then extend
 almost immediately to many dimensions.
 Although the math isn't hard, some may find it tedious, so feel free
 to skip to the next section on applications.
