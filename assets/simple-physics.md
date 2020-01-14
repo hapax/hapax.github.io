@@ -975,7 +975,7 @@ atoms (as we will see below).
 Before we learn about random walks, we need to review some basic
 probability.
 
-**Probability review.** Suppose we toss a coin, and move a counter
+*Probability review.* Suppose we toss a coin, and move a counter
 left or right one unit depending on whether we gets heads or tails.
 Label the outcome of the $n$th toss $X_n$, where $X_n = -1$ for heads
 and $X_n = +1$ for tails.
