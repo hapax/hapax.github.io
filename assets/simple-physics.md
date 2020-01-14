@@ -1000,7 +1000,7 @@ Remarkably, it does not matter how many dimensions the walker moves
 in: the result is just as true for a drunkard wandering a two-dimensional
 streetscape, an atom jiggling around in a three-dimensional gas, or a
 virtual bacterium foraging in 216 dimensions.
-We will prove the result in this section, first in 1D, and then extend
+We will prove the square root scaling in this section, first in 1D, and then extend
 almost immediately to many dimensions.
 Although the math isn't hard, some may find it tedious, so feel free
 to skip to the next section on applications.
@@ -1039,7 +1039,7 @@ $$
 $$
 
 where we used the fact that expectation is *linear*, $\langle f +
-g\rangle = \langle f\rangle + \langle g\rangle$.
+g\rangle = \langle f\rangle + \langle g\rangle$ (Exercise 13).
 This makes sense, since if the coin is unbiased, it has no preference
 between heads and tails.
 If $\langle R\rangle >0$, for instance, then the coin is exhibiting a
@@ -1094,7 +1094,8 @@ $$
 \vec{X} = (X^1, X^2\, \ldots, X^d).
 $$
 
-The length of $\vec{X}$ is given by a generalisation of Pythagoras' theorem:
+The length of $\vec{X}$ is given by a generalisation of Pythagoras'
+theorem (Exercise 14):
 
 $$
 |\vec{X}| = \sqrt{(X^1)^2 + (X^2)^2 + \cdots + (X^d)^2}.
