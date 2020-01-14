@@ -25,8 +25,7 @@ date:  2020-01-06
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Scaling</a>
-   1. <a href="#sec-4-1">Random walks (proof)</a>
-   2. <a href="#sec-4-2">Random walks (applications)</a>
+   1. <a href="#sec-4-1">Random walks</a>
    3. <a href="#sec-4-3">Fractals</a>
    4. <a href="#sec-4-4">Power laws</a>
 5. <a href="#sec-5">Conclusion</a>
@@ -976,13 +975,14 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 ---
 
-### 4.1. Random walks (proof)<a id="sec-4-1" name="sec-4-1"></a>
-
-*Warning: this section is considerably more mathematical than the rest
- of the post.*
+### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
 One of the most beautiful and surprising scaling laws is associated
-with *random walks*.
+with *random motion*.
+Remarkably, the scaling is doesn't matter how many dimensions the walker moves
+in: the result is just as true for a drunkard wandering a two-dimensional
+streetscape, an atom jiggling around in a three-dimensional gas, or a
+virtual bacterium foraging in 216 dimensions.
 Imagine a walker takes steps of average length $s$.
 If the steps are random, unbiased (all directions equally favoured),
 and independent (subseqent steps do not depend on previous ones) then
@@ -993,15 +993,26 @@ d \sim s \sqrt{n}
 $$
 
 from their origin after $n$ steps.
+For a straightforward if somewhat tedious proof requiring only basic
+probability theory, see the Appendix.
 
-Remarkably, it does not matter how many dimensions the walker moves
-in: the result is just as true for a drunkard wandering a two-dimensional
-streetscape, an atom jiggling around in a three-dimensional gas, or a
-virtual bacterium foraging in 216 dimensions.
-We will prove the square root scaling in this section, first in 1D, and then extend
+## 5. Conclusion<a id="sec-5" name="sec-5"></a>
+
+It's mysterious to me that these techniques are not usually taught
+in either high school or first year physics.
+Lack of mathematical background is not the problem.
+
+#### References
+
+Finally, I recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground in greater depth.
+
+### Appendix: random walks
+
+We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
-Although the math isn't hard, some may find it tedious, so feel free
-to skip to the next section on applications.
+The only prerequisite is a little probability theory and knowledge of vectors.
 
 *Proof (1D).* Suppose we toss a coin, and move a counter
 left or right one unit depending on whether we gets heads or tails.
@@ -1037,7 +1048,7 @@ $$
 $$
 
 where we used the fact that expectation is *linear*, $\langle f +
-g\rangle = \langle f\rangle + \langle g\rangle$ (Exercise 13).
+g\rangle = \langle f\rangle + \langle g\rangle$ (Exercise A.1).
 This makes sense, since if the coin is unbiased, it has no preference
 between heads and tails.
 If $\langle R\rangle >0$, for instance, then the coin is exhibiting a
@@ -1093,7 +1104,7 @@ $$
 $$
 
 The length of $\vec{X}$ is given by a generalisation of Pythagoras'
-theorem (Exercise 14):
+theorem (Exercise A.2):
 
 $$
 |\vec{X}| = \sqrt{(X^1)^2 + (X^2)^2 + \cdots + (X^d)^2}.
@@ -1154,7 +1165,7 @@ live on a lattice.
 
 ---
 
-**Exercise 13 (expectation).** Show that, if $f(X)$ and $g(X)$ are
+**Exercise A.1 (expectation).** Show that, if $f(X)$ and $g(X)$ are
 functions of a random variable $X$, then
 
 $$
@@ -1165,7 +1176,7 @@ $$
   ⁂
 	  </p>
 
-**Exercise 14 (length in higher dimensions).** Consider a vector
+**Exercise A.2 (length in higher dimensions).** Consider a vector
 $\vec{C} = (C^1, \ldots, C^d)$ in $d$ dimensions.
 
 (a) We can write the vector as a sum
@@ -1190,22 +1201,6 @@ $$
 $$
 
 ---
-
-### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
-
-In this section, we will see a few applications of 
-
-## 5. Conclusion<a id="sec-5" name="sec-5"></a>
-
-It's mysterious to me that these techniques are not usually taught
-in either high school or first year physics.
-Lack of mathematical background is not the problem.
-
-#### References
-
-Finally, I recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground in greater depth.
 
 ## Extra
 
@@ -1535,7 +1530,7 @@ or cube root!
 We could view this as ticks on a *doubly* logarithmic ruler, but it's
 a bit mind-boggling.)
 
-## 1. Introduction <a id="sec-1" name="sec-1"></a>
+### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 For the last year or so, I've been heavily involved in running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
