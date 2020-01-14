@@ -980,7 +980,7 @@ and independent (subseqent steps do not depend on previous ones) then
 the walker will tend to wander a distance
 
 $$
-d \sim \ell \sqrt{n}
+d \sim s \sqrt{n}
 $$
 
 from their origin after $n$ steps.
@@ -1065,14 +1065,16 @@ The counter moves back and forth, and on average $\langle R\rangle =
 0$.
 But the size of the region explored as it moves back and forth is the
 square root of the variance, also called the *root mean square* (rms)
-displacement,
-
-$$
-\sqrt{\langle R^2\rangle} = \sqrt{n}.
-$$
-
+displacement, $\sqrt{\langle R^2\rangle} = \sqrt{n}$.
 This is the distance from the origin the counter will tend to wander
 in the first $n$ steps.
+If instead of steps $\pm 1$, we have steps $\pm s$, the result becomes
+
+$$
+\sqrt{\langle R^2\rangle} = s\sqrt{n}
+$$
+
+as claimed above.
 
 *Proof (many D).*
 
