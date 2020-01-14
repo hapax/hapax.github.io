@@ -25,9 +25,10 @@ date:  2020-01-06
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Scaling</a>
-   1. <a href="#sec-4-1">Random walks</a>
-   2. <a href="#sec-4-2">Fractals</a>
-   3. <a href="#sec-4-3">Power laws</a>
+   1. <a href="#sec-4-1">Random walks (proof)</a>
+   2. <a href="#sec-4-2">Random walks (applications)</a>
+   3. <a href="#sec-4-3">Fractals</a>
+   4. <a href="#sec-4-4">Power laws</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -925,6 +926,7 @@ The surface area, on the other hand, should scale as $\ell^2$.
 The fact that these things scale differently is called the
 *square-cube law*, and was first observed by Galileo.
 It may seem trivial, but it has important biological consequences!
+Let's do the most famous example.
 
 Galileo realised that materials like bone and wood will break when subject to
 too much pressure.
@@ -966,15 +968,33 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 ---
 
-#### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
+#### 4.1. Random walks (proof)<a id="sec-4-1" name="sec-4-1"></a>
 
 One of the most beautiful and surprising scaling laws is associated
 with *random walks*, whose myriad
 physical applications include Einstein's proof of the existence of
 atoms (reproduced below).
-We will start with  will be easily the most mathematical section of these notes!
+Imagine a walker takes steps of average length $s$.
+If the steps are random, unbiased (all directions equally favoured),
+and independent (subseqent steps do not depend on previous ones) then
+the walker will tend to wander a distance
 
-*Probability review.* Suppose we toss a coin, and move a counter
+$$
+d \sim \ell \sqrt{n}
+$$
+
+from their origin after $n$ steps.
+Remarkably, it does not matter how many dimensions the walker moves
+in!
+The result just as true for a drunkard wandering a two-dimensional
+streetscape, an atom jiggling around in a three-dimensional gas, or an
+alien bacterium foraging in 216 dimensions.
+We will prove the result in this section, first in 1D, but then extend
+almost immediately to many dimensions.
+Although the math isn't hard, some may find it tedious, so feel free
+to skip to the next section on applications.
+
+*Proof (1D).* Suppose we toss a coin, and move a counter
 left or right one unit depending on whether we gets heads or tails.
 Label the outcome of the $n$th toss $X_n$, where $X_n = -1$ for heads
 and $X_n = +1$ for tails.
@@ -1050,7 +1070,12 @@ $$
 \sqrt{\langle R^2\rangle} = \sqrt{n}.
 $$
 
-*Scaling.*
+This is the distance from the origin the counter will tend to wander
+in the first $n$ steps.
+
+*Proof (many D).*
+
+#### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
