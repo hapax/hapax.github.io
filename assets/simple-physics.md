@@ -971,9 +971,8 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 One of the most beautiful and surprising scaling laws is associated
 with *random walks*, whose myriad
 physical applications include Einstein's proof of the existence of
-atoms (as we will see below).
-Before we learn about random walks, we need to review some basic
-probability.
+atoms (reproduced below).
+We will start with  will be easily the most mathematical section of these notes!
 
 *Probability review.* Suppose we toss a coin, and move a counter
 left or right one unit depending on whether we gets heads or tails.
@@ -1025,7 +1024,7 @@ What about a product of different coin flips?
 Each possible outcome --, -+, +-, ++ has chance $1/4$, and hence
 
 $$
-\langle X_i \times X_j\rangle =
+\langle X_i \cdot X_j\rangle =
 \frac{1}{4}\left[(-1)^2 + (-1)(+1) + (+1)(-1) + (+1)^2\right] = 0.
 $$
 
@@ -1041,8 +1040,17 @@ X_n\rangle\right\} \\
 \end{align*}
 $$
 
-The *root mean square* (rms) displacement $\sqrt{\langle R^2\rangle} =
-\sqrt{n}$ is roughly the size of the region explored by the counter.
+The counter moves back and forth, and on average $\langle R\rangle =
+0$.
+But the size of the region explored as it moves back and forth is the
+square root of the variance, also called the *root mean square* (rms)
+displacement,
+
+$$
+\sqrt{\langle R^2\rangle} = \sqrt{n}.
+$$
+
+*Scaling.*
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
