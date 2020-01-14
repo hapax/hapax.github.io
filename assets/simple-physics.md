@@ -1167,7 +1167,28 @@ $$
 	  </p>
 
 **Exercise 14 (length in higher dimensions).** Consider a vector
-$\vec{X} = (X^1, \ldots, X^d)$ in $d$ dimensions.
+$\vec{C} = (C^1, \ldots, C^d)$ in $d$ dimensions.
+
+(a) We can write the vector as a sum
+
+$$
+\vec{C} = (C^1, \ldots, C^{d-1}, 0) + (0, \ldots, 0, C^d) = \vec{A}+\vec{B}.
+$$
+
+Argue that these two summands are at right angles, and use Pythagoras'
+theorem (in the plane spanned by $\vec{A}$ and $\vec{B}$) to argue
+that
+
+$$
+|\vec{C}|^2 = |\vec{A}|^2 + |\vec{B}|^2 = |\vec{A}|^2 + (C^d)^2.
+$$
+
+(b) Now iteratively repeat this argument for $\vec{A}$, and deduce
+that, as we claimed above, length squared in $d$ dimensions is
+
+$$
+|\vec{C}|^2 = (C^1)^2 + \cdots + (C^d)^2.
+$$
 
 ---
 
