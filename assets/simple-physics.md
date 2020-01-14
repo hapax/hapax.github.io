@@ -133,7 +133,7 @@ Remarkably, we can sometimes *reverse* this process, and determine the
 physical laws relating quantities from their dimensions!
 Once again, this is easier to show with examples than abstract descriptions.
 
-#### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
 
 Suppose we attach the old pumpkin to a length of string and give it a
 kick.
@@ -252,7 +252,7 @@ their mass.
 
 ---
 
-#### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
 *Stokes' law.* Maybe pumpkins aren't your thing.
 Let's ratchet down the
@@ -405,7 +405,7 @@ use Stokes' law to determine the size of small iron spheres dropped in water.
 
 ---
 
-#### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
 *Numbers.* Dimensional analysis has its limits.
 First of all, since we throw away numbers, it only good up
@@ -579,7 +579,7 @@ means "we guess the number of countries is $200$, possibly up to a
 factor of $3$".
 Now you know what a Fermi estimate is, let's learn how to do them!
 
-#### 3.1. Geometric means<a id="sec-3-1" name="sec-3-1"></a>
+### 3.1. Geometric means<a id="sec-3-1" name="sec-3-1"></a>
 
 On a linear ruler, we average two numbers $a$ and $b$ by halving the sum, $(a+b)/2$.
 On a logarithmic ruler, we *take logs first*, then average.
@@ -648,7 +648,7 @@ $$
 
 ---
 
-#### 3.2. Subestimates<a id="sec-3-2" name="sec-3-2"></a>
+### 3.2. Subestimates<a id="sec-3-2" name="sec-3-2"></a>
 
 For more complicated Fermi estimates, a good strategy is to break the
 number into *subestimates* which are then multiplied together.
@@ -723,7 +723,7 @@ the US.
 
 ---
 
-#### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
+### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
 
 *KISS* is the proverbial exhortation to "Keep It Simple, Stupid", and it
 is especially true for Fermi estimates.
@@ -796,7 +796,7 @@ we should be spot on!
 
 ---
 
-#### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
+### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
 *Why it works.* So far, I've described what I think are the key methods for doing
 Fermi estimates.
@@ -976,7 +976,7 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 ---
 
-#### 4.1. Random walks (proof)<a id="sec-4-1" name="sec-4-1"></a>
+### 4.1. Random walks (proof)<a id="sec-4-1" name="sec-4-1"></a>
 
 *Warning: this section is considerably more mathematical than the rest
  of the post.*
@@ -1192,7 +1192,11 @@ $$
 
 ---
 
-#### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Random walks (applications)<a id="sec-4-2" name="sec-4-2"></a>
+
+In this section, we will see a few applications of 
+
+*Brownian motion.* Imagine a 
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
