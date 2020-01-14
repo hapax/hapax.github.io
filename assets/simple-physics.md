@@ -493,7 +493,7 @@ $$
 PV = nk_B\mathcal{T}.
 $$
 
-<p align="justify">
+<p align="center">
   ⁂
 </p>
 
@@ -625,7 +625,7 @@ mooney!
 For an overestimate, you could try the radius of
 the earth, $r_\oplus = 6300 \text{ km}$.
 
-<p align="justify">
+<p align="center">
   ⁂
 </p>
 
@@ -882,7 +882,7 @@ take the geometric mean of their answers.
 (c) Finally, ask Google. How did I do?
 How did your friends do?
 
-<p align="justify">
+<p align="center">
   ⁂
 </p>
 
@@ -960,7 +960,7 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 (b) Average human walking speed is $\sim 1.4$ m/s.
 	Estimate the walking speed of a horse.
 
-<p align="justify">
+<p align="center">
   ⁂
 	  </p>
 
