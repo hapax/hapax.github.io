@@ -1120,7 +1120,10 @@ $$
 \langle |\vec{R}|^2\rangle & = \langle (X_1^1 + X_2^1 + \cdots
 X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
 	& = \langle [(X_1^1)^2 + (X_2^1)^2 + \cdots
-(X_n^1)^2] + \cdots +  [(X_1^n)^2 + (X_2^n)^2 + \cdots +(X_n^n)^2] \rangle \\
+(X_n^1)^2] + \cdots +  [(X_1^n)^2 + (X_2^n)^2 + \cdots +(X_n^n)^2]
+\rangle \\
+& \qquad \qquad + 2 \langle
+[X_1^1 \cdot X_2^1 + \cdots + X_{n-1}^1\cdot X_n^1]+\cdots + [X_1^n \cdot X_2^n + \cdots + X_{n-1}^n\cdot X_n^n] \rangle\\
 & = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
 (X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]
 \rangle \\
@@ -1132,7 +1135,7 @@ X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
 \end{align*}
 $$
 
-where on the second line we used the fact that the components of
+where on the third line we used the fact that the components of
 different steps are independent, on the fourth line we reorganised the
 terms $(X_i^a)^2$ into individual steps, on the fifth line we used the
 definition of length and the linearity of expectation, and on the
