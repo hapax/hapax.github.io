@@ -1014,10 +1014,13 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
-\sqrt{\frac{\ell}{v}}\cdot \sqrt{t}.
+\sqrt{\frac{\ell}{v}}\cdot \sqrt{t},
 $$
 
-Even though the walker moves at constant velocity, distance travelled scales as $d \propto \sqrt{t}$!
+
+where $\ell/v = D$ is the *diffusion constant*.
+Even though the walker moves at constant velocity, the distance
+travelled scales as $d \propto \sqrt{t}$!
 It's also important to note that "average distance" is a bit of a
 misnomer.
 We really mean the *average spread* of distance travelled.
@@ -1092,32 +1095,23 @@ V = 4\pi r^2 \ell = U = \frac{1}{n} \quad \Longrightarrow \quad \ell =
 \frac{1}{4\pi r^2 n}.
 $$
 
-If the particles move at speed $v$, the mean time between collisions
-is $\tau = v/(4\pi r^2 n)$.
+More generally, particles are more interesting than rigid billiard balls,
+bouncing off each other elastically.
+They can attract and repel one another, and particle size is no longer
+the relevant parameter.
+Instead, this will be given by an effective area called the
+*cross-section* $\sigma$:
+
+$$
+\sigma \ell = U \quad \Longrightarrow \quad \sigma = \frac{1}{n\ell}.
+$$
+
+By definition, a collision cylinder of length $\ell$
+and cross-section $\sigma$ will contain one particle on average.
 
 ---
 
-**Exercise 13 (mid-air collision).**
-
-<p align="center">
-  ⁂
-  </p>
-
-**Exercise 14 (mid-air collision).** (a) Show that the ideal gas law
-(Exercise 3) implies an ideal gas has number density
-
-$$
-n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
-$$
-
-where $P$ is the pressure, $k_B$ is Boltzmann's constant, and
-$\mathcal{T}$ the temperature (in Kelvin).
-
-(b) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
-Using this data, estimate the density of air molecules around you
-right now.
-
-(c) Find the average distance between collisions of air molecules.
+**Exercise 13 (Stokes and Einstein).** 
 
 <p align="center">
   ⁂
@@ -1131,7 +1125,7 @@ $$
 \epsilon \sim k_B \mathcal{T}.
 $$
 
-This is called the *equipartition theorem*, and I think it gives
+This is called the *equipartition theorem*. I think it gives
 the most sensible way to think about heat.
 
 (a) Show that if our particles have mass $m$, the average speed is
@@ -1140,7 +1134,13 @@ $$
 v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
 $$
 
-(b) Using the collision cylinder method, show that particles of mass
+(b) Show using Exercise 3 that an ideal gas has number density
+
+$$
+n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}}.
+$$
+
+(c) Using the collision cylinder method, show that particles of mass
 $m$ and size $r$, in a gas with pressure $P$ and temperature
 $\mathcal{T}$, will spread out according to
 
@@ -1148,7 +1148,8 @@ $$
 d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
 $$
 
-(c) The average mass of an air molecule is $m = 4.8 \times 10^{-26}$ kg.
+(d) The average mass and size of air molecules is $m = 5 \times 10^{-26}$
+kg and $r = 4 \times 10^{-10}$ m.
 Estimate how long it takes an air molecule starting in the middle of a
 room to reach a wall.
 
@@ -1772,6 +1773,25 @@ For instance, if you drop dye into water, it will initially spread
 quickly before slowing, since it consists of many random walkers (dye
 molecules) obeying the $d \propto \sqrt{t}$ scaling.
 
+World Wide Web conference-2006, Bar-Yossef et a
+
+
+**Exercise 14 (mid-air collision).** (a) Show that the ideal gas law
+(Exercise 3) implies an ideal gas has number density
+
 $$
-d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
+n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
 $$
+
+where $P$ is the pressure, $k_B$ is Boltzmann's constant, and
+$\mathcal{T}$ the temperature (in Kelvin).
+
+(b) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Using this data, estimate the density of air molecules around you
+right now.
+
+(c) Find the average distance between collisions of air molecules.
+
+<p align="center">
+  ⁂
+  </p>
