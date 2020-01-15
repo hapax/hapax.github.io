@@ -1122,7 +1122,7 @@ right now.
   ⁂
   </p>
 
-**Exercise 15 (poison ).** Heat is just the kinetic energy of particles.
+**Exercise 15 (warm walks).** Heat is just the kinetic energy of particles.
 More precisely, the the average kinetic energy per particle,
 $\epsilon$, is proportional to temperature,
 
