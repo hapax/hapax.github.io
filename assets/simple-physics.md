@@ -1025,7 +1025,7 @@ walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
 For example, a drop of dye in water spreads quickly and then slows,
-since its size obeys a $\sqrt{t}$ scaling.
+with its size obeying a $\sqrt{t}$ scaling.
 
 ---
 
