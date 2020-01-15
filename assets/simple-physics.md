@@ -1098,31 +1098,22 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 13 ().**
+**Exercise 13 ().** (a) Show that that ideal gas law (Exercise 3)
+implies that the number density of an ideal gas is
+$$
+n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
+$$
+where $P$ is the pressure, $k_B$ Boltzmann's constant, and
+$\mathcal{T}$ the temperature (in Kelvin).
 
-The \emph{ideal gas law} tells us that, in a dilute gas,
-    number density depends on temperature and pressure:
-    \[
-      n = \frac{N}{V} = \frac{P}{k_BT}, \quad k_B = 1.4 \times
-      10^{-23}\, \frac{\text{m}^2 \cdot\text{kg}}{\text{s}^2 \cdot
-        \text{K}},
-    \]
-    where $k_B$ is \emph{Boltzmann's constant}.  The average air
-    molecule has size $r = 4 \times 10^{-10} \text{ m}$.  Using this
-    data, estimate the density of air molecules around you, and hence
-    the average distance between collisions.
-  % \item \textbf{Bonus.} The \emph{equipartition theorem} spells out the basic connection
-  % between the temperature of a gas and the kinetic energy of its
-  % particles:
-  % \[
-  %   \frac{1}{2}m v_\text{avg}^2 = \frac{3}{2}k_BT.
-  % \]
-  % Show that the jiggle distance of an air molecule, average mass
-  % $m_\text{avg}$, is given by
-  % \[
-  %   d = \left[\frac{3k_B^3T^33}{16\pi^2 r^4 m_\text{avg}P^2}\right]^{1/4} \sqrt{t}.
-  % \]
-  % \end{enumerate}
+(b) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Using this data, estimate the density of air molecules around you
+right now.
+
+(c) Using the collision cylinder method, find the average distance
+between collisions of air molecules.
+
+(d) Roughly how long would it take
 
 ---
 
