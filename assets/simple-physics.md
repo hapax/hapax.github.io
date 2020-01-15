@@ -981,7 +981,7 @@ with *random walks*.
 Imagine an atom jiggling around randomly in a hot gas.
 On average, it will travel some distance $\ell$ between collisions.
 Surprisingly, after $n$ collisions, the approximate distance $d$ from
-its origin is proportional to the *square root* of the number of steps:
+where it started is proportional to the *square root* of the number of steps:
 
 $$
 d \sim \ell \sqrt{n}.
@@ -992,24 +992,30 @@ The basic logic is that
 $$
 \begin{align*}
 d^2 & \sim (s_1 + s_2 + \cdots + s_n)^2 \\
-& = s_1^2 + s_2^2 + \cdots +
-s_n^2 + \text{correlations between steps},
+& = (s_1^2 + s_2^2 + \cdots +
+s_n^2) + \text{correlations between steps},
 \end{align*}
 $$
 
 where $d^2$ is the average distance squared, and the $s_i$ are
 individual steps.
-If the steps are independent, then the correlations vanish.
-Since the average step size is $\ell$, $s_i^2 = \ell^2$,
-it follows that $d^2 \sim n\ell^2$, and hence $d \sim \ell\sqrt{n}$ as
-we claimed above.
-For the mathematically inclined, the details of the proof are spelt
-out in the <a href="#app-1">appendix</a>.
+If the steps are uncorrelated, and average step size is $\ell$, then
+the second set of terms vanishes and the first set gives $d^2 \sim
+n\ell^2$.
+Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
+(For the mathematically inclined, the details of the proof are spelt
+out in the <a href="#app-1">appendix</a>.)
 
 Remarkably, the result does not depend on the number of dimensions.
-It is just as true for an atom jiggling in 3D, a drunkard wandering a
+It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
 two-dimensional streetscape, or a virtual bacterium foraging in a
 216-dimensional simulation.
+
+---
+
+**Exercise 13 ().**
+
+---
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
