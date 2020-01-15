@@ -1098,7 +1098,13 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 13 (mid-air collision).** (a) Show that the ideal gas law
+**Exercise 12 (mid-air collision).**
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (mid-air collision).** (a) Show that the ideal gas law
 (Exercise 3) implies an ideal gas has number density
 
 $$
@@ -1119,17 +1125,18 @@ between collisions of air molecules.
   ⁂
   </p>
 
-**Exercise 14 (poison ).** You may have heard that
-heat is nothing more or less than the motion of particles.
-The answer is actually very simple: the *average kinetic energy per particle*
-$\epsilon$ is
+**Exercise 15 (poison ).** Heat is just the kinetic energy of particles
+More precisely, the temperature tells us the average kinetic energy
+per particle, $\epsilon$, once we multiply by Boltzmann's constant:
 
 $$
-\epsilon \sim k_B \mathcal{T},
+\epsilon \sim k_B \mathcal{T}.
 $$
 
-where the $\sim$ denotes as usual a number which depends on details of
-the system.
+The $\sim$ denotes as usual a number which depends on details of the
+system.
+(This is called the *equipartition theorem*, but I think it is also
+the most sensible way to think about heat.)
 
 (a) Show that if our particles have mass $m$, the average speed is
 
@@ -1139,10 +1146,10 @@ $$
 
 (b) Using the collision cylinder method, show that particles of mass
 $m$ and size $r$ in a gas of density $n$, pressure $P$ and temperature
-$\mathcal{T}$ will spread
+$\mathcal{T}$ will spread out according to
 
 $$
-d \sim \left(\sqrt{\frac{k_B \mathcal{T}}{16\pi^2 n^2 r^4 m}}\right)^{1/4}\sqrt{t}.
+d \sim \left(\frac{k_B \mathcal{T}}{16\pi^2 n^2 r^4 m}\right)^{1/4}\sqrt{t}.
 $$
 
 ---
