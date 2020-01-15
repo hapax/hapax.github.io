@@ -1018,12 +1018,13 @@ $$
 Distance scales with the square root of *time*, $d \propto \sqrt{t}$.
 It's also important to note that "average distance" is a bit of a
 misnomer.
-We really mean *average spread* of distances, so that in time $t$, an individual
-walker usually explores a region of size $\propto \sqrt{t}$, while a
+We really mean *average spread* of distances.
+In time $t$, an individual
+walker usually will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
-the same region.
-A drop of dye in water spreads quickly, then slows, precisely because it
-obeys this $\sqrt{t}$ scaling.
+that same region.
+A drop of dye in water spreads quickly and then slows,
+precisely because it obeys this $\sqrt{t}$ scaling.
 
 ---
 
