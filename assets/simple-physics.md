@@ -1070,10 +1070,10 @@ of magnitude!
 particles, where random walks are due to collisions.
 There is a nice way to approximate the step length $\ell$ of the walk
 in terms of the size and density of colliding particles.
-
 Suppose our particles are spherical, with radius $r$.
 We assume the number of particles per unit volume is $n$, or
 equivalently, there is on average one particle in a volume $U = 1/n$.
+
 If another particle of the same size comes within $2r$ of the first,
 the particles will collide, since the edges just touch at that
 distance.
