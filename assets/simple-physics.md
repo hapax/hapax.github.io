@@ -59,7 +59,8 @@ and even the number of
 predicted by string theory.
 (See my
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-if you want to learn how.)
+if you want to learn how.
+They have very little overlap with the problems here.)
 
 This post focuses on a set of generic problem-solving tools: *dimensional analysis*, *Fermi approximation*, and *scaling
 laws*.
@@ -1012,10 +1013,9 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
-\sqrt{\frac{\ell t}{v}} = \sqrt{D t},
+\sqrt{\frac{\ell}{v}}\cdot \sqrt{t}.
 $$
 
-where $D = \ell/v$ is the *diffusion constant*.
 Even though the walker moves at constant velocity, distance travelled scales as $d \propto \sqrt{t}$!
 It's also important to note that "average distance" is a bit of a
 misnomer.
@@ -1026,9 +1026,44 @@ batch of walkers released from the same point will fan out to cover
 that region.
 For example, a drop of dye in water initially spreads quickly and then slows,
 with its size obeying a $\sqrt{t}$ scaling.
-These two perspectives --- individual vs collective walkers --- let us 
 
-*Osmotic?*
+*E. coli genome.* We start with a famous biological application of
+random walks.
+It turns out that when a cell nucleus ruptures, the tightly coiled DNA
+will spill out in a random fashion.
+The DNA can be modelled as a chain of approximately straight chunks of
+length $\ell = 48$ nm, each of which corresponds to about 140 base
+pairs.
+After the rupture, these chunks remain connected, but are
+more or less uncorrelated, forming the steps of a random walk.
+
+In the photo above, a single-celled *Escherichia coli* (E. coli) bacterium has
+ruptured.
+From the spill, we can estimate the length of the E. coli
+genome!
+The DNA covers a region with radius
+
+$$
+d \approx 5 \,\mu\text{m} = 5000 \text{ nm}.
+$$
+
+Then, using the chunk length $\ell = 48$ nm, we guess that the
+number of chunks is
+
+$$
+n \sim \frac{d^2}{\ell^2} \approx \left(\frac{5000}{48}\right)^2
+\approx 1.1 \times 10^5.
+$$
+
+Multiplying by the number of base pairs per chunk, we guess a genome length
+
+$$
+N_\text{bp} \sim 140 n \approx 1.5 \times 10^6,
+$$
+
+or a genome of $1.5$ Mbp.
+A much more careful count gives $4.6$ Mbp, but we are within an order
+of magnitude!
 
 ---
 
