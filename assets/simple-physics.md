@@ -1011,11 +1011,13 @@ $\tau = \ell/v$, and hence in time $t$ the walker tends to drift a
 distance
 
 $$
-d \sim \ell \sqrt{n} = \frac{\ell}{\sqrt{\tau}} \sqrt{t} =
+d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
 \sqrt{\frac{\ell t}{v}}.
 $$
 
-*Speed and time.* More often, this result is stated in 
+For this reason, random walks are often said to scale with the square
+root of *time*, $d \propto \sqrt{t}$.
+
 
 ---
 
