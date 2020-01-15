@@ -1098,9 +1098,8 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 13 (mid-air collision).** (a) Show that that ideal gas law
-(Exercise 3)
-implies that the number density of an ideal gas is
+**Exercise 13 (mid-air collision).** (a) Show that the ideal gas law
+(Exercise 3) implies an ideal gas has number density
 
 $$
 n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
