@@ -1012,11 +1012,11 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
-\sqrt{\frac{\ell t}{v}}.
+\sqrt{\frac{\ell t}{v}} = \sqrt{D t},
 $$
 
-Thus, distance travelled scales as $d \propto \sqrt{t}$, even though
-the walker moves at constant velocity!
+where $D = \ell/v$ is the *diffusion constant*.
+Even though the walker moves at constant velocity, distance travelled scales as $d \propto \sqrt{t}$!
 It's also important to note that "average distance" is a bit of a
 misnomer.
 We really mean the *average spread* of distance travelled.
@@ -1026,6 +1026,7 @@ batch of walkers released from the same point will fan out to cover
 that region.
 For example, a drop of dye in water initially spreads quickly and then slows,
 with its size obeying a $\sqrt{t}$ scaling.
+These two perspectives --- individual vs collective walkers --- let us 
 
 *Osmotic?*
 
