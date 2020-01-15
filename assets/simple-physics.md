@@ -1122,7 +1122,7 @@ right now.
   ⁂
   </p>
 
-**Exercise 15 (warm walks).** Heat is just the kinetic energy of particles.
+**Exercise 15 (air walk).** Heat is just the kinetic energy of particles.
 More precisely, the the average kinetic energy per particle,
 $\epsilon$, is proportional to temperature,
 
@@ -1146,6 +1146,11 @@ $\mathcal{T}$, will spread out according to
 $$
 d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
 $$
+
+(c) The average mass of an air molecule is $m = 4.8 \times 10^{-26}
+\text{ kg}$.
+Estimate how long an air molecule starting in the middle of a room
+will take to hit the walls.
 
 ---
 
@@ -1766,3 +1771,7 @@ two-dimensional streetscape, or a virtual bacterium foraging in a
 For instance, if you drop dye into water, it will initially spread
 quickly before slowing, since it consists of many random walkers (dye
 molecules) obeying the $d \propto \sqrt{t}$ scaling.
+
+$$
+d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
+$$
