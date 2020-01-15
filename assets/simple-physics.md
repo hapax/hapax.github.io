@@ -1116,8 +1116,7 @@ $\mathcal{T}$ the temperature (in Kelvin).
 Using this data, estimate the density of air molecules around you
 right now.
 
-(c) Using the collision cylinder method, find the average distance
-between collisions of air molecules.
+(c) Find the average distance between collisions of air molecules.
 
 <p align="center">
   ⁂
