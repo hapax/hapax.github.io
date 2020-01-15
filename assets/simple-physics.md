@@ -1096,7 +1096,7 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 12 (mid-air collision).**
+**Exercise 13 (mid-air collision).**
 
 <p align="center">
   ⁂
@@ -1133,7 +1133,7 @@ $$
 
 The $\sim$ denotes as usual a number which depends on details of the
 system.
-(This is called the *equipartition theorem*, but I think it is also
+(This is called the *equipartition theorem*, and I think it gives
 the most sensible way to think about heat.)
 
 (a) Show that if our particles have mass $m$, the average speed is
