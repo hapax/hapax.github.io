@@ -1006,10 +1006,16 @@ Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 (For the mathematically inclined, the details of the proof are spelt
 out in the <a href="#app-1">appendix</a>.)
 
-Remarkably, the result does not depend on the number of dimensions.
-It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
-two-dimensional streetscape, or a virtual bacterium foraging in a
-216-dimensional simulation.
+If the random walker moves with speed $v$, then a step takes time
+$\tau = \ell/v$, and hence in time $t$ the walker tends to drift a
+distance
+
+$$
+d \sim \ell \sqrt{n} = \frac{\ell}{\sqrt{\tau}} \sqrt{t} =
+\sqrt{\frac{\ell t}{v}}.
+$$
+
+*Speed and time.* More often, this result is stated in 
 
 ---
 
@@ -1624,3 +1630,8 @@ $Y$:
 $$
 P(X, Y) = P(X)P(Y).
 $$
+
+Remarkably, the result does not depend on the number of dimensions.
+It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
+two-dimensional streetscape, or a virtual bacterium foraging in a
+216-dimensional simulation.
