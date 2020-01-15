@@ -1074,23 +1074,27 @@ density of colliding particles.
 The idea is very simple.
 Suppose our particles are spherical, with radius $r$.
 We assume the number of particles per unit volume is $n$, or
-equivalently, there is on average one particle in a volume $v = 1/n$.
+equivalently, there is on average one particle in a volume $U = 1/n$.
 If another particle of the same size comes within $2r$ of the first,
 the particles will collide, since the edges just touch at that
 distance.
 
-So, as a particle moves, sweep out a cylinder of radius $2r$ around
+So, as a particle moves, sweep out a *collision cylinder* of radius $2r$ around
 it.
 For a distance $\ell$, the volume of this cylinder is $V = \pi(2r)^2
 \ell$.
-To guess the average distance $\ell$ between collisions, we simply
-assume that on average when the volume of this cylinder is large
-enough to contain one particle on average, a collision will occur, so
+To guess the average distance $\ell$ between collisions, we assume
+that when the cylinder volume $V$ is large enough to contain one
+particle on average, a collision will occur.
+Since $U = 1/n$ is the volume per particle, we find that
 
 $$
-V = 4\pi r^2 \ell = v = \frac{1}{n} \quad \Longrightarrow \quad \ell =
+V = 4\pi r^2 \ell = U = \frac{1}{n} \quad \Longrightarrow \quad \ell =
 \frac{1}{4\pi r^2 n}.
 $$
+
+If the particles move at speed $v$, the mean time between collisions
+is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
