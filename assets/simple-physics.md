@@ -70,7 +70,6 @@ I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
 The different sections can more or less be dipped into independently.
-Have fun!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -919,14 +918,14 @@ Let's illustrate with an example.
 
 *Square-cube law.* Tissue density is roughly the same for different
  species (up to the usual order of magnitude numbers).
-If an organism has length around $\ell$, then the mass of the organism
+If an organism has length around $\mathcal{L}$, then the mass of the organism
 should scale as
 
 $$
-M \propto \ell^3.
+M \propto \mathcal{L}^3.
 $$
 
-The surface area, on the other hand, should scale as $\ell^2$.
+The surface area, on the other hand, should scale as $\mathcal{L}^2$.
 (In both cases, we are assuming the organism has a simple shape.)
 The fact that these things scale differently is called the
 *square-cube law*, and was first observed by Galileo.
@@ -935,26 +934,26 @@ Let's do the most famous example.
 
 Galileo realised that materials like bone and wood will break when subject to
 too much pressure.
-This maximum pressure $P_\text{max}$ does not scale with $\ell$, but depends only on the
+This maximum pressure $P_\text{max}$ does not scale with $\mathcal{L}$, but depends only on the
 material.
-Since mass goes as $\ell^3$, the weight force also goes as $\ell^3$.
+Since mass goes as $\mathcal{L}^3$, the weight force also goes as $\mathcal{L}^3$.
 On the other hand, the cross-section of a weight-bearing element (like
-legs or a tree trunk) goes as $\ell^2$.
+legs or a tree trunk) goes as $\mathcal{L}^2$.
 It follows that the pressure will scale with
 
 $$
-P = \frac{F}{A} \propto \frac{\ell^3}{\ell^2} = \ell.
+P = \frac{F}{A} \propto \frac{\mathcal{L}^3}{\mathcal{L}^2} = \mathcal{L}.
 $$
 
 An organism cannot get too large without exceeding this maximum
 pressure.
-There is no need to worry about giant ants from outer space: they will
+Thus, there is no need to worry about giant ants from outer space: they will
 collapse under their own weight as soon as they try to invade earth!
 
 ---
 
 **Exercise 11 (walking speed).** (a)
-Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
+Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
 (b) Average human walking speed is $\sim 1.4$ m/s.
 	Estimate the walking speed of a horse.
@@ -977,24 +976,24 @@ Argue that walking speed scales as $\ell^{1/2}$. *Hint.* Model the leg as a <a h
 
 ### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
 
-One of the most beautiful and surprising scaling laws is associated
-with *random motion*.
-Remarkably, the scaling is doesn't matter how many dimensions the walker moves
-in: the result is just as true for a drunkard wandering a two-dimensional
-streetscape, an atom jiggling around in a three-dimensional gas, or a
-virtual bacterium foraging in 216 dimensions.
-Imagine a walker takes steps of average length $s$.
-If the steps are random, unbiased (all directions equally favoured),
-and independent (subseqent steps do not depend on previous ones) then
-the walker will tend to wander a distance
+One of the most beautiful scaling laws is associated
+with *random walks*.
+Imagine an atom jiggling around randomly in a hot gas.
+On average, it will travel some distance $\ell$ between collisions.
+Surprisingly, after $n$ collisions, the approximate distance $d$ from
+its origin is proportional to the *square root* of the number of steps:
 
 $$
-d \sim s \sqrt{n}
+d \sim \ell \sqrt{n}.
 $$
 
-from their origin after $n$ steps.
-For a straightforward if somewhat tedious proof requiring only basic
-probability theory, see the Appendix.
+(For the mathematically inclined, we prove this in the Appendix.)
+Remarkably, the result does not depend on the number of dimensions.
+It is just as true for an atom jiggling in 3D, a drunkard wandering a
+two-dimensional streetscape, or a virtual bacterium foraging in a
+216-dimensional simulation.
+
+
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
@@ -1007,6 +1006,10 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
+
+https://www.quora.com/Theoretically-how-tall-or-large-can-a-land-animal-evolve-What-would-happen-if-an-animal-exceeded-this-size
 
 ### Appendix: random walks
 
@@ -1573,8 +1576,6 @@ we can actually use dimensional analysis to account for some factors of $\pi$
 (see *Extra dimensions*).
 
 We say that the answer *scales as* $\text{factor}^p$, or *with power* $p$.
-
-http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
 
 Suppose we have some random process, like tossing a coin, whose
 outcome we label by $X = \text{H, T}$ (heads and tails).
