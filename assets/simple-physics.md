@@ -1098,7 +1098,7 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 13 (air walk).** (a) Show that that ideal gas law (Exercise 3)
+**Exercise 14 (air walk).** (a) Show that that ideal gas law (Exercise 3)
 implies that the number density of an ideal gas is
 $$
 n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
@@ -1112,8 +1112,6 @@ right now.
 
 (c) Using the collision cylinder method, find the average distance
 between collisions of air molecules.
-
-(d) Roughly how long would it take
 
 ---
 
