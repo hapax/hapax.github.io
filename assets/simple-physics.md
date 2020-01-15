@@ -466,7 +466,7 @@ of other basic dimensions.
 
 ---
 
-**Exercise 3 (ideal gas law).** A gas of $n$ particles takes up
+**Exercise 3 (ideal gas law).** A gas of $\mathcal{N}$ particles takes up
   space (with volume $V$), pushes on its container (with pressure
   $P$), and is hot (with temperature $\mathcal{T}$).
   These properties are not independent!
@@ -488,7 +488,7 @@ $$
 (d) Finally, use dimensional analysis to deduce the *ideal gas law*:
 
 $$
-PV = nk_B\mathcal{T}.
+PV = \mathcal{N}k_B\mathcal{T}.
 $$
 
 <p align="center">
@@ -1007,7 +1007,7 @@ Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 out in the <a href="#app-1">appendix</a>.)
 
 If a random walker moves with speed $v$, a step takes time
-$\tau = \ell/v$, so after time $t$ the walker tends to drift a
+$\tau = \ell/v$, so after time $t$ the walker tends to wander a
 distance
 
 $$
@@ -1024,8 +1024,10 @@ In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
-For example, a drop of dye in water spreads quickly and then slows,
+For example, a drop of dye in water initially spreads quickly and then slows,
 with its size obeying a $\sqrt{t}$ scaling.
+
+*Osmotic?*
 
 ---
 
