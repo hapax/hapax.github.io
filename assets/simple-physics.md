@@ -1142,11 +1142,11 @@ v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
 $$
 
 (b) Using the collision cylinder method, show that particles of mass
-$m$ and size $r$ in a gas of density $n$, pressure $P$ and temperature
-$\mathcal{T}$ will spread out according to
+$m$ and size $r$, in a gas with pressure $P$ and temperature
+$\mathcal{T}$, will spread out according to
 
 $$
-d \sim \left(\frac{k_B \mathcal{T}}{16\pi^2 n^2 r^4 m}\right)^{1/4}\sqrt{t}.
+d \sim \left(\frac{(k_B \mathcal{T})^2}{16\pi^2 P^2 r^4 m}\right)^{1/4}\sqrt{t}.
 $$
 
 ---
