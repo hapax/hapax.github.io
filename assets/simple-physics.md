@@ -1001,7 +1001,7 @@ where $d^2$ is the average distance squared, and the $s_i$ are
 individual steps.
 If the steps are uncorrelated, and average step size is $\ell$, then
 the second set of terms vanishes and the first set gives $d^2 \sim
-n\ell^2$, since $s_i^2 = \ell^2$.
+n\ell^2$, since each $s_i^2 = \ell^2$.
 Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 (For the mathematically inclined, the details of the proof are spelt
 out in the <a href="#app-1">appendix</a>.)
@@ -1015,7 +1015,7 @@ d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
 \sqrt{\frac{\ell t}{v}}.
 $$
 
-Distance scales with the square root of *time*, $d \propto \sqrt{t}$.
+Distance scales as $d \propto \sqrt{t}$.
 It's also important to note that "average distance" is a bit of a
 misnomer.
 We really mean *average spread* of distances.
