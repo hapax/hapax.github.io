@@ -1063,7 +1063,7 @@ L_\text{gen} \sim n \times (140 \text{ bp}) \approx 1.5 \times 10^6
 $$
 
 or $1.6$ Mbp.
-A much more careful count gives $4.6$ Mbp, but we are within an order
+A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
 *Collision cylinders.* In the example above, we've adopted a
