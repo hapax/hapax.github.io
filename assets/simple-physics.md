@@ -1058,10 +1058,11 @@ $$
 Multiplying by the number of base pairs per chunk, we guess a genome length
 
 $$
-N_\text{bp} \sim 140 n \approx 1.5 \times 10^6,
+L_\text{gen} \sim n \times (140 \text{ bp}) \approx 1.5 \times 10^6
+\text{ bp},
 $$
 
-or a genome of $1.5$ Mbp.
+or $1.6$ Mbp.
 A much more careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
