@@ -696,7 +696,7 @@ ocean}}{\text{world}}\times \frac{\text{fish}}{\text{species}} \\ & \sim
 $$
 
 Somewhat unexpectedly, this is exactly the number quoted in a
-[random, non-peer-reviewed article](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html). Huh!
+[non-peer-reviewed article](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html). Huh!
 
 *Full disclosure.* In case you're suspicious, here is where the
 intermediate numbers come from.
@@ -1065,6 +1065,32 @@ $$
 or $1.6$ Mbp.
 A much more careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
+
+*Collision cylinders.* In the example above, we've adopted a
+"collection of walkers" perspective.
+We now focus on individual walkers with random motion due to collisions.
+We can figure out the step length $\ell$ in terms of the size and
+density of colliding particles.
+The idea is very simple.
+Suppose our particles are spherical, with radius $r$.
+We assume the number of particles per unit volume is $n$, or
+equivalently, there is on average one particle in a volume $v = 1/n$.
+If another particle of the same size comes within $2r$ of the first,
+the particles will collide, since the edges just touch at that
+distance.
+
+So, as a particle moves, sweep out a cylinder of radius $2r$ around
+it.
+For a distance $\ell$, the volume of this cylinder is $V = \pi(2r)^2
+\ell$.
+To guess the average distance $\ell$ between collisions, we simply
+assume that on average when the volume of this cylinder is large
+enough to contain one particle on average, a collision will occur, so
+
+$$
+V = 4\pi r^2 \ell = v = \frac{1}{n} \quad \Longrightarrow \quad \ell =
+\frac{1}{4\pi r^2 n}.
+$$
 
 ---
 
