@@ -1066,19 +1066,17 @@ or $1.6$ Mbp.
 A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
-*Collision cylinders.* In the example above, we've adopted a
-"collection of walkers" perspective.
-We now focus on individual walkers with random motion due to collisions.
-We can figure out the step length $\ell$ in terms of the size and
-density of colliding particles.
-The idea is very simple.
+*Collision cylinders.* Let's now turn back to the physics of
+particles, where random walks are due to collisions.
+There is a nice way to approximate the step length $\ell$ of the walk
+in terms of the size and density of colliding particles.
+
 Suppose our particles are spherical, with radius $r$.
 We assume the number of particles per unit volume is $n$, or
 equivalently, there is on average one particle in a volume $U = 1/n$.
 If another particle of the same size comes within $2r$ of the first,
 the particles will collide, since the edges just touch at that
 distance.
-
 So, as a particle moves, sweep out a *collision cylinder* of radius $2r$ around
 it.
 For a distance $\ell$, the volume of this cylinder is $V = \pi(2r)^2
