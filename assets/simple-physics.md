@@ -70,7 +70,7 @@ there is nontrivial overlap and I hope to say more about these in future.
 I have stuck to methods accessible to high school and first year
 students, though it is fair to say some scientific
 maturity is required of the former.
-The different sections can more or less be dipped into independently.
+The different sections can be read more or less independently.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -801,13 +801,14 @@ we should be spot on!
 Fermi estimates.
 But it's a subtle art, and just like dimensional analysis, there is
 quite a bit going on under the hood to ensure it works.
-First of all, somewhat counterintuitively, *more subestimates is
-better* because our under- and overestimates will tend to balance each
+First of all, our under- and overestimates will tend to balance each
 other out.
 This is also the reason we use geometric means.
 If the true value is $x$, and $a$ underestimates by a
 factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 \sqrt{x^2} = x$ is the true value.
+Note that more subestimates will tend to *increase the variance* of
+our answers, so once again, we should KISS.
 
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
@@ -838,7 +839,7 @@ problem in real life, also remember that you can make your web of facts
 dramatically larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity".
-(I first saw this highlighted in lukeprog's
+(I first saw this in lukeprog's
 [great introduction](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
 to Fermi estimates.)
 Our method of factorising assumes that subestimates
