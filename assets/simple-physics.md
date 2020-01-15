@@ -1099,7 +1099,7 @@ More generally, particles are more interesting than rigid billiard balls,
 bouncing off each other elastically.
 They can attract and repel one another, and particle size is no longer
 the relevant parameter.
-Instead, this will be given by an effective area called the
+Instead, this will be given by an effective area or
 *cross-section* $\sigma$:
 
 $$
