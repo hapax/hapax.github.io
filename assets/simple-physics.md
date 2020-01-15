@@ -1098,7 +1098,7 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 14 (mid-air collision).** (a) Show that that ideal gas law
+**Exercise 13 (mid-air collision).** (a) Show that that ideal gas law
 (Exercise 3)
 implies that the number density of an ideal gas is
 
@@ -1106,7 +1106,7 @@ $$
 n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
 $$
 
-where $P$ is the pressure, $k_B$ Boltzmann's constant, and
+where $P$ is the pressure, $k_B$ is Boltzmann's constant, and
 $\mathcal{T}$ the temperature (in Kelvin).
 
 (b) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
@@ -1115,6 +1115,28 @@ right now.
 
 (c) Using the collision cylinder method, find the average distance
 between collisions of air molecules.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (molecular speed).** You may have heard that
+heat is nothing more or less than the motion of particles.
+The answer is actually very simple: the *average kinetic energy per particle*
+$\epsilon$ is
+
+$$
+\epsilon \sim k_B \mathcal{T},
+$$
+
+where the $\sim$ denotes as usual a number which depends on details of
+the system.
+
+(a) Show that if our particles have mass $m$, the average speed is
+
+$$
+v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
+$$
 
 ---
 
