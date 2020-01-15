@@ -1098,11 +1098,14 @@ is $\tau = v/(4\pi r^2 n)$.
 
 ---
 
-**Exercise 14 (mid-air collision).** (a) Show that that ideal gas law (Exercise 3)
+**Exercise 14 (mid-air collision).** (a) Show that that ideal gas law
+(Exercise 3)
 implies that the number density of an ideal gas is
+
 $$
 n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}},
 $$
+
 where $P$ is the pressure, $k_B$ Boltzmann's constant, and
 $\mathcal{T}$ the temperature (in Kelvin).
 
