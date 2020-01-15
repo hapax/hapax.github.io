@@ -1122,18 +1122,16 @@ right now.
   ⁂
   </p>
 
-**Exercise 15 (poison ).** Heat is just the kinetic energy of particles
-More precisely, the temperature tells us the average kinetic energy
-per particle, $\epsilon$, once we multiply by Boltzmann's constant:
+**Exercise 15 (poison ).** Heat is just the kinetic energy of particles.
+More precisely, the the average kinetic energy per particle,
+$\epsilon$, is proportional to temperature,
 
 $$
 \epsilon \sim k_B \mathcal{T}.
 $$
 
-The $\sim$ denotes as usual a number which depends on details of the
-system.
-(This is called the *equipartition theorem*, and I think it gives
-the most sensible way to think about heat.)
+This is called the *equipartition theorem*, and I think it gives
+the most sensible way to think about heat.
 
 (a) Show that if our particles have mass $m$, the average speed is
 
