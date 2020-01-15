@@ -956,7 +956,7 @@ collapse under their own weight as soon as they try to invade earth!
 Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
 (b) Average human walking speed is $\sim 1.4$ m/s.
-	Estimate the walking speed of a horse.
+	Estimate the walking speed of a horse and a garden spider.
 
 <p align="center">
   ⁂
@@ -990,17 +990,21 @@ $$
 The basic logic is that
 
 $$
-d^2 \sim (s_1 + s_2 + \cdots + s_n)^2 = s_1^2 + s_2^2 + \cdots + s_n^2 + \text{correlations between steps},
+\begin{align*}
+d^2 & \sim (s_1 + s_2 + \cdots + s_n)^2 \\
+& = s_1^2 + s_2^2 + \cdots +
+s_n^2 + \text{correlations between steps},
+\end{align*}
 $$
 
 where $d^2$ is the average distance squared, and the $s_i$ are
 individual steps.
-If the steps are independent, then the correlations vanish, and if the
-average step size is $\ell$, then $s_i^2 = \ell^2$.
-It follows that $d^2 \sim n\ell^2$, and hence $d \sim \ell\sqrt{n}$ as
-claimed.
+If the steps are independent, then the correlations vanish.
+Since the average step size is $\ell$, $s_i^2 = \ell^2$,
+it follows that $d^2 \sim n\ell^2$, and hence $d \sim \ell\sqrt{n}$ as
+we claimed above.
 For the mathematically inclined, the details of the proof are spelt
-out more carefully in the <a href="#app-1">appendix</a>.
+out in the <a href="#app-1">appendix</a>.
 
 Remarkably, the result does not depend on the number of dimensions.
 It is just as true for an atom jiggling in 3D, a drunkard wandering a
