@@ -1117,7 +1117,7 @@ and cross-section $\sigma$ will contain one particle on average.
   ⁂
   </p>
 
-**Exercise 15 (air walk).** Heat is just the kinetic energy of particles.
+**Exercise 14 (taking the air).** Heat is just the kinetic energy of particles.
 More precisely, the the average kinetic energy per particle,
 $\epsilon$, is proportional to temperature,
 
