@@ -1006,8 +1006,8 @@ Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 (For the mathematically inclined, the details of the proof are spelt
 out in the <a href="#app-1">appendix</a>.)
 
-If the random walker moves with speed $v$, a step takes time
-$\tau = \ell/v$, and in time $t$ the walker tends to drift a
+If a random walker moves with speed $v$, a step takes time
+$\tau = \ell/v$, so after time $t$ the walker tends to drift a
 distance
 
 $$
@@ -1015,16 +1015,17 @@ d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
 \sqrt{\frac{\ell t}{v}}.
 $$
 
-Distance scales as $d \propto \sqrt{t}$.
+Thus, distance travelled scales as $d \propto \sqrt{t}$, even though
+the walker moves at constant velocity!
 It's also important to note that "average distance" is a bit of a
 misnomer.
-We really mean *average spread* of distances.
+We really mean the *average spread* of distance travelled.
 In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
-A drop of dye in water spreads quickly and then slows,
-precisely because it obeys this $\sqrt{t}$ scaling.
+For example, a drop of dye in water spreads quickly and then slows,
+since its size obeys a $\sqrt{t}$ scaling.
 
 ---
 
