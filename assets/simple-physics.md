@@ -1017,7 +1017,14 @@ $$
 
 For this reason, random walks are often said to scale with the square
 root of *time*, $d \propto \sqrt{t}$.
-
+It's also important to note that "average distance" is a bit of a
+misnomer.
+It's closer to *average spread* of distances, so that for instance a
+cloud of random walkers released from the same point will spread a
+distance $d \propto \sqrt{t}$.
+For instance, if you drop dye into water, it will initially spread
+quickly before slowing, since it consists of many random walkers (dye
+molecules) obeying the $d \sim \sqrt{t}$ scaling.
 
 ---
 
