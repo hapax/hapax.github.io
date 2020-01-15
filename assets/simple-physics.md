@@ -1012,7 +1012,7 @@ $\tau = \ell/v$, so after time $t$ the walker tends to wander a
 distance
 
 $$
-d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
+d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
 \sqrt{\frac{\ell}{v}}\cdot \sqrt{t}.
 $$
 
