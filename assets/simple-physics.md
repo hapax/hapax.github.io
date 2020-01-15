@@ -1148,10 +1148,9 @@ $$
 d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
 $$
 
-(c) The average mass of an air molecule is $m = 4.8 \times 10^{-26}
-\text{ kg}$.
-Estimate how long an air molecule starting in the middle of a room
-will take to hit the walls.
+(c) The average mass of an air molecule is $m = 4.8 \times 10^{-26}$ kg.
+Estimate how long it takes an air molecule starting in the middle of a
+room to reach a wall.
 
 ---
 
