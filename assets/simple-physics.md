@@ -1022,7 +1022,7 @@ We really mean *average spread* of distances.
 In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
-that same region.
+that region.
 A drop of dye in water spreads quickly and then slows,
 precisely because it obeys this $\sqrt{t}$ scaling.
 
