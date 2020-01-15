@@ -1001,13 +1001,13 @@ where $d^2$ is the average distance squared, and the $s_i$ are
 individual steps.
 If the steps are uncorrelated, and average step size is $\ell$, then
 the second set of terms vanishes and the first set gives $d^2 \sim
-n\ell^2$.
+n\ell^2$, since $s_i^2 = \ell^2$.
 Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 (For the mathematically inclined, the details of the proof are spelt
 out in the <a href="#app-1">appendix</a>.)
 
-If the random walker moves with speed $v$, then a step takes time
-$\tau = \ell/v$, and hence in time $t$ the walker tends to drift a
+If the random walker moves with speed $v$, a step takes time
+$\tau = \ell/v$, and in time $t$ the walker tends to drift a
 distance
 
 $$
@@ -1015,16 +1015,15 @@ d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} \sqrt{t} =
 \sqrt{\frac{\ell t}{v}}.
 $$
 
-For this reason, random walks are often said to scale with the square
-root of *time*, $d \propto \sqrt{t}$.
+Distance scales with the square root of *time*, $d \propto \sqrt{t}$.
 It's also important to note that "average distance" is a bit of a
 misnomer.
-It's closer to *average spread* of distances, so that for instance a
-cloud of random walkers released from the same point will spread a
-distance $d \propto \sqrt{t}$.
-For instance, if you drop dye into water, it will initially spread
-quickly before slowing, since it consists of many random walkers (dye
-molecules) obeying the $d \sim \sqrt{t}$ scaling.
+We really mean *average spread* of distances, so that in time $t$, an individual
+walker usually explores a region of size $\propto \sqrt{t}$, while a
+batch of walkers released from the same point will fan out to cover
+the same region.
+A drop of dye in water spreads quickly, then slows, precisely because it
+obeys this $\sqrt{t}$ scaling.
 
 ---
 
@@ -1644,3 +1643,8 @@ Remarkably, the result does not depend on the number of dimensions.
 It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
 two-dimensional streetscape, or a virtual bacterium foraging in a
 216-dimensional simulation.
+
+
+For instance, if you drop dye into water, it will initially spread
+quickly before slowing, since it consists of many random walkers (dye
+molecules) obeying the $d \propto \sqrt{t}$ scaling.
