@@ -1000,7 +1000,7 @@ average step size is $\ell$, then $s_i^2 = \ell^2$.
 It follows that $d^2 \sim n\ell^2$, and hence $d \sim \ell\sqrt{n}$ as
 claimed.
 For the mathematically inclined, the details of the proof are spelt
-out more carefully in <a href="#app-1">Appendix 1</a>.
+out more carefully in the <a href="#app-1">appendix</a>.
 
 Remarkably, the result does not depend on the number of dimensions.
 It is just as true for an atom jiggling in 3D, a drunkard wandering a
@@ -1023,7 +1023,7 @@ http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_wa
 
 https://www.quora.com/Theoretically-how-tall-or-large-can-a-land-animal-evolve-What-would-happen-if-an-animal-exceeded-this-size
 
-## Appendix 1<a id="app-1" name="app-1"></a>
+## Appendix: random walks<a id="app-1" name="app-1"></a>
 
 We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
