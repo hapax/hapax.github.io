@@ -1120,7 +1120,7 @@ between collisions of air molecules.
   ⁂
   </p>
 
-**Exercise 14 (molecular speed).** You may have heard that
+**Exercise 14 (poison ).** You may have heard that
 heat is nothing more or less than the motion of particles.
 The answer is actually very simple: the *average kinetic energy per particle*
 $\epsilon$ is
@@ -1136,6 +1136,14 @@ the system.
 
 $$
 v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
+$$
+
+(b) Using the collision cylinder method, show that particles of mass
+$m$ and size $r$ in a gas of density $n$, pressure $P$ and temperature
+$\mathcal{T}$ will spread
+
+$$
+d \sim \left(\sqrt{\frac{k_B \mathcal{T}}{16\pi^2 n^2 r^4 m}}\right)^{1/4}\sqrt{t}.
 $$
 
 ---
