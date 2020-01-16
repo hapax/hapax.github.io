@@ -1165,8 +1165,8 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-The thing we can easily observe from look at the random walk of the
-pollen grains is the diffusion coefficient, $D = \ell v$.
+From observing the pollen grains, we can directly see the diffusion
+coefficient $D = \ell v$, since $d^2 \sim Dt$.
 We still need to work out the velocity, $v$, and here is the clever
 part: since our fluid was viscous, and assuming the grains move
 slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
