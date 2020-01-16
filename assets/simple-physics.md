@@ -1201,6 +1201,14 @@ found that they diffused precisely according to the ESS relation.
 Perrin (1926) and Einstein (1921) were awarded Nobel prizes for their
 efforts.
 
+---
+
+**Exercise 14 (?).**
+
+**Exercise 15 (?).**
+
+---
+
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
 It's mysterious to me that these techniques are not usually taught
