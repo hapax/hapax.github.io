@@ -1186,7 +1186,7 @@ $$
 
 This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
 three physicists who independently discovered it.
-Remarkably, the gravitational force $mg$ cancels, and the diffusion
+Remarkably, the gravitational force $mg$ cancels out altogether, and the diffusion
 depends only on the size $r$ of the grains.
 The grain jiggles the same way on Mars!
 
