@@ -1194,7 +1194,8 @@ The jiggling of grains in a fluid was first noted by Robert Brown, and
 though he was unable to explain it, the phenemenon is called *Brownian
 motion* in his honour.
 (It should perhaps be called *Lucretian motion*, since Lucretius
-observed zigzag dust particles, and explained it with atoms, in 60 BC!)
+observed the zigzag motion of dust particles and attributed it to
+atoms --- in 60 BC!)
 Although Brownian motion itself suggests the existence of atoms, it was Einstein who
 extracted a testable experimental prediction from the atomic
 hypothesis.
