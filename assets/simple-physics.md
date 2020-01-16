@@ -1196,9 +1196,8 @@ motion* in his honour.
 (It should perhaps be called *Lucretian motion*, since Lucretius
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
-Although Brownian motion itself suggests the existence of atoms, it was Einstein who
-extracted a testable experimental prediction from the atomic
-hypothesis.
+Although Brownian motion suggests the existence of atoms, Einstein
+(unlike Lucretius) extracted a specific and testable experimental prediction.
 In 1908, Jean Perrin measured the dance of pollen grains in water, and
 found that they diffused precisely according to the ESS relation,
 since all the parameters (except $D$) can be measured in other ways.
