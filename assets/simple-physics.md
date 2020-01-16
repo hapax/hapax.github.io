@@ -1189,7 +1189,7 @@ This is the *Einstein-Smoluchowski-Sutherland relation*, after the
 three physicists who independently discovered it.
 Remarkably, the gravitational force $mg$ cancels, and the diffusion
 depends only on the size $r$ of the grains.
-We should see the 
+The grain will jiggle in the same way on Mars!
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
