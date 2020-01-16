@@ -1105,10 +1105,8 @@ made of tiny, indivisible lumps was regarded with skepticism.
 But in 1905, long before we could see atoms with microscopes, a Swiss
 patent clerk came up with a brilliant method for proving their
 existence.
-The clerk was Einstein, and his proof used random walks.
+The clerk was none other than Albert Einstein, and his proof uses random walks.
 Let's see how he did it!
-We're going to take a few shortcuts, but we get the right answer at
-the end of the day.
 
 We start by pouring a viscous fluid into a tall container of volume
 $V$.
