@@ -1046,7 +1046,7 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
-\sqrt{\frac{\ell}{v}}\cdot \sqrt{t}.
+\sqrt{\ell v}\cdot \sqrt{t}.
 $$
 
 Even though the walker moves at constant velocity, the average distance
@@ -1099,6 +1099,58 @@ or $1.6$ Mbp.
 A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
+*Brownian motion.* Before the 20th century, the notion that matter was
+made of tiny, indivisible lumps was regarded with skepticism.
+But in 1905, long before we could see atoms with microscopes, a Swiss
+patent clerk came up with a brilliant method for proving their
+existence.
+The clerk was Einstein, and his proof used random walks.
+Let's see how he did it!
+
+Suppose we have a gas of $\mathcal{N}$ particles of temperature
+$\mathcal{T}$, in a tall container of volume $V$.
+We'll assume each particle is spherical, with radius $r$ and mass $m$.
+As particles collide, they will execute a random walk, and our first
+task will be to determine the step length $\ell$.
+Particles of radius $r$ will collide if the centres come within a
+distance $2r$ of each other (the edges touch), so as a particle moves,
+it sweeps out a *collision cylinder* of cross-section $\sigma = \pi(2r)^2$.
+If another particle enters the collision cylinder, a collision occurs!
+On average, there is a single particle per volume $V/\mathcal{N}$, and
+we can determine $\ell$ by assuming that when the collision cylinder
+has length $\ell$, it will on average contain a particle, so that
+
+$$
+\sigma \ell = \frac{V}{\mathcal{N}} \quad \Longrightarrow \quad \ell =
+\frac{V}{4\pi r^2 \mathcal{N}}.
+$$
+
+Counting the number of particles is hard, but measuring the
+temperature is easy.
+So we use the ideal gas law (Exercise 3) to swap volume and number for
+pressure and temperature:
+
+$$
+PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
+\ell = \frac{k_B\mathcal{T}}{4\pi P r^2}.
+$$
+
+Here is the clever part. If our container is tall, we can't neglect
+the effects of gravity, and the main contribution to *pressure* will
+be gravity pulling down on a particle.
+In fact, we can consider the effects of gravity on a single particle.
+Since pressure is force over area, and a particle has a horizontal
+cross-section of around $A = \pi r^2$, we guess that
+
+$$
+P = \frac{F}{A} = \frac{mg}{\pi r^2},
+$$
+
+and hence
+
+$$
+\ell \sim \frac{k_B\mathcal{T}}{mg}.
+$$
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
