@@ -1046,9 +1046,10 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
-\sqrt{\ell v}\cdot \sqrt{t}.
+\sqrt{\ell v}\cdot \sqrt{t} = \sqrt{Dt},
 $$
 
+where we will called $D = \ell v$ the *diffusion coefficient*.
 Even though the walker moves at constant velocity, the average distance
 travelled scales as $d \propto \sqrt{t}$!
 It's important to note that "average distance" is a bit of a
@@ -1106,28 +1107,39 @@ patent clerk came up with a brilliant method for proving their
 existence.
 The clerk was Einstein, and his proof used random walks.
 Let's see how he did it!
+We're going to take a few shortcuts, but we get the right answer at
+the end of the day.
 
-Suppose we have a gas of $\mathcal{N}$ particles of temperature
-$\mathcal{T}$, in a tall container of volume $V$.
-We'll assume each particle is spherical, with radius $r$ and mass $m$.
-As particles collide, they will execute a random walk, and our first
-task will be to determine the step length $\ell$.
-Particles of radius $r$ will collide if the centres come within a
-distance $2r$ of each other (the edges touch), so as a particle moves,
-it sweeps out a *collision cylinder* of cross-section $\sigma = \pi(2r)^2$.
-If another particle enters the collision cylinder, a collision occurs!
-On average, there is a single particle per volume $V/\mathcal{N}$, and
-we can determine $\ell$ by assuming that when the collision cylinder
-has length $\ell$, it will on average contain a particle, so that
+We start by pouring a viscous fluid into a tall container of volume
+$V$.
+The fluid is made up of $\mathcal{N}$ particles at temperature
+$\mathcal{T}$, and we assume it is dilute enough to be described by
+the ideal gas law (Exercise 3).
+Now plonk some larger, visible particles into this fluid, say some
+pollen grains of radius $r$ and mass $m$.
+The pollen grains will randomly collide with particles in the fluid,
+executing a random walk as they do so.
+
+Our first goal is to determine the step length $\ell$.
+If a fluid particle comes within a distance $r$ of the pollen, a
+collision will happen, so to help us keep track of possible collisions
+we draw a *collision cylinder* of cross-section $\sigma = \pi r^2$
+around the grain as it moves.
+On average, there is a single fluid particle in each volume
+$U = V/\mathcal{N}$ of fluid
+We can determine $\ell$ by assuming that when the collision cylinder
+has length $\ell$, it has volume $U$, and hence on average contains a
+fluid particle.
+This leads to
 
 $$
 \sigma \ell = \frac{V}{\mathcal{N}} \quad \Longrightarrow \quad \ell =
-\frac{V}{4\pi r^2 \mathcal{N}}.
+\frac{V}{\pi r^2 \mathcal{N}}.
 $$
 
 Counting the number of particles is hard, but measuring the
 temperature is easy.
-So we use the ideal gas law (Exercise 3) to swap volume and number for
+So we use the ideal gas law to swap volume and number for
 pressure and temperature:
 
 $$
@@ -1135,12 +1147,14 @@ PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
 \ell = \frac{k_B\mathcal{T}}{4\pi P r^2}.
 $$
 
-Here is the clever part. If our container is tall, we can't neglect
-the effects of gravity, and the main contribution to *pressure* will
-be gravity pulling down on a particle.
-In fact, we can consider the effects of gravity on a single particle.
-Since pressure is force over area, and a particle has a horizontal
-cross-section of around $A = \pi r^2$, we guess that
+Since the container is tall, the pressure profile $P$ can change with
+height.
+But if we leave the pollen grains alone for long enough, they will
+fall down and settle into *dynamic equilibrium* at the point where the
+pressure from the fluid balances the force of gravity.
+(We want the pollen grains to be light enough that this isn't the
+bottom of the container!)
+In other words, we guess that
 
 $$
 P = \frac{F}{A} = \frac{mg}{\pi r^2},
@@ -1149,8 +1163,33 @@ $$
 and hence
 
 $$
-\ell \sim \frac{k_B\mathcal{T}}{mg}.
+\ell = \frac{k_B\mathcal{T}}{mg}.
 $$
+
+The thing we can easily observe from look at the random walk of the
+pollen grains is the diffusion coefficient, $D = \ell v$.
+We still need to work out the velocity, $v$, and here is the clever
+part: since our fluid was viscous, and assuming the grains move
+slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
+If the grains are in equilibrium, it's reasonable to guess that their
+velocity is the terminal velocity we calculate earlier:
+
+$$
+v_{\text{term}} = \frac{mg}{6\pi \mu r},
+$$
+
+where $\mu$ is the viscosity of the fluid.
+Putting it all together, we predict a diffusion coefficient
+
+$$
+D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
+$$
+
+This is the *Einstein-Smoluchowski-Sutherland relation*, after the
+three physicists who independently discovered it.
+Remarkably, the gravitational force $mg$ cancels, and the diffusion
+depends only on the size $r$ of the grains.
+We should see the 
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
