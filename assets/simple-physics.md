@@ -1188,7 +1188,7 @@ This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
 three physicists who independently discovered it.
 Remarkably, the gravitational force $mg$ cancels, and the diffusion
 depends only on the size $r$ of the grains.
-The grain will jiggle in the same way on Mars!
+The grain jiggles the same way on Mars!
 
 The jiggling of grains in a fluid was first noted by Robert Brown,
 so it is called *Brownian motion*.
