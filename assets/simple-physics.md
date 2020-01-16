@@ -1111,7 +1111,7 @@ and cross-section $\sigma$ will contain one particle on average.
 
 ---
 
-**Exercise 13 (Stokes and Einstein).** 
+**Exercise 13 (chain).** A chain lies
 
 <p align="center">
   ⁂
@@ -1148,7 +1148,7 @@ $$
 d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
 $$
 
-(d) The average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
+(d) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
 kg and $r = 4 \times 10^{-10}$ m.
 Estimate how long it takes an air molecule starting in the middle of a
 room to reach a wall.
