@@ -25,7 +25,8 @@ date:  2020-01-06
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Scaling</a>
-   1. <a href="#sec-4-1">Random walks</a>
+   1. <a href="#sec-4-1">Allometry</a>
+   2. <a href="#sec-4-2">Random walks</a>
    3. <a href="#sec-4-3">Fractals</a>
    4. <a href="#sec-4-4">Power laws</a>
 5. <a href="#sec-5">Conclusion</a>
@@ -916,9 +917,35 @@ factors and not just dimensionless numbers.
 Sometime, we can nail down a proportionality relation, and in
 particular the *scaling exponent* $p$, without considering any other
 factors.
-Let's illustrate with an example.
 
-*Square-cube law.* Tissue density is roughly the same for different
+---
+
+**Exercise 11 (speed of sound).** Sound travels through a fluid (such
+as air) as longitudinal waves, which wobble particles back and forth.
+The two factors determining how fast this wobbling can propagating are
+(1) the *stiffness* of the fluid, measured using the bulk modulus $K$,
+with the same units as pressure; and (2) the *density* $\rho$ of the fluid.
+
+(a) Without performing a full dimensional analysis, show that the
+speed of sound $c_s$ scales with bulk modulus as
+
+$$
+c_s \propto \sqrt{K}.
+$$
+
+*Hint.* Find a dimensional factor in $c_s$ which only appears in $K$.
+
+(b) Now figure out how $c_s$ depends on $\rho$. Given that the bulk
+modulus of air depends on weakly on temperature, would you expect
+sound to travel faster or slower on a hot day?
+
+---
+
+### 4.1. Allometry <a id="sec-4-1" name="sec-4-1"></a>
+
+The study of scaling laws in biology is called *allometry*.
+Here, we give a few simple examples.
+Tissue density is roughly the same for different
  species (up to the usual order of magnitude numbers).
 If an organism has length around $\mathcal{L}$, then the mass of the organism
 should scale as
@@ -954,7 +981,7 @@ collapse under their own weight as soon as they try to invade earth!
 
 ---
 
-**Exercise 11 (walking speed).** (a)
+**Exercise 12 (walking speed).** (a)
 Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as a <a href="#sec-2-1">pendulum</a>.
 
 (b) Average human walking speed is $\sim 1.4$ m/s.
@@ -964,7 +991,7 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
   ⁂
 	  </p>
 
-**Exercise 12 (thickness).** (a) Argue that the *radius*
+**Exercise 13 (thickness).** (a) Argue that the *radius*
     $r$ of a weight-bearing element should scale as $r \propto
     M^{1/2}$ in order to support the organism's weight.
 
@@ -976,7 +1003,7 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 
 ---
 
-### 4.1. Random walks <a id="sec-4-1" name="sec-4-1"></a>
+### 4.2. Random walks <a id="sec-4-2" name="sec-4-2"></a>
 
 One of the most beautiful scaling laws is associated
 with *random walks*.
@@ -1114,7 +1141,7 @@ and cross-section $\sigma$ will contain one particle on average.
 
 ---
 
-**Exercise 13 (chain).** A chain lies
+**Exercise 15 (chain).** A chain lies
 
 <p align="center">
   ⁂
