@@ -936,7 +936,7 @@ $$
 *Hint.* Find a dimensional factor in $c_s$ which only appears in $K$.
 
 (b) Now figure out how $c_s$ depends on $\rho$. Given that the bulk
-modulus of air depends on weakly on temperature, would you expect
+modulus of air depends very weakly on temperature, would you expect
 sound to travel faster or slower on a hot day?
 
 ---
@@ -1035,6 +1035,11 @@ Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 (For the mathematically inclined, the details of the proof are spelt
 out in the <a href="#app-1">appendix</a>.)
 
+Remarkably, the scaling does not depend on the number of dimensions.
+It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
+two-dimensional streetscape, or a virtual bacterium foraging in a
+216-dimensional simulation.
+
 If a random walker moves with speed $v$, a step takes time
 $\tau = \ell/v$, so after time $t$ the walker tends to wander a
 distance
@@ -1053,16 +1058,10 @@ In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
-A drop of dye in water consists of many random walkers, and initially
-spreads quickly before slowing due to the $\sqrt{t}$ scaling.
+A drop of dye in water consists of many random walkers, spreading
+quickly before the $\sqrt{t}$ scaling slows it down.
 
-Remarkably, the result does not depend on the number of dimensions.
-It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
-two-dimensional streetscape, or a virtual bacterium foraging in a
-216-dimensional simulation.
-
-*DNA polymer.* We start with a biological application of
-random walks.
+*DNA polymer.* We start with a biological application.
 When a cell nucleus ruptures, the tightly coiled DNA
 will spill out in a random fashion.
 The DNA can be modelled as a chain of approximately straight chunks of
@@ -1100,90 +1099,6 @@ or $1.6$ Mbp.
 A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
-*Collision cylinders.* Let's now turn back to random walks of
-colliding particles.
-There is a nice way to approximate the step length $\ell$ of the walk
-in terms of the size and density of colliding particles.
-Suppose our particles are spherical, with radius $r$.
-We assume the number of particles per unit volume is $n$, or
-equivalently, there is on average one particle in a volume $U = 1/n$.
-
-If another particle of the same size comes within $2r$ of the first,
-the particles will collide, since the edges just touch at that
-distance.
-So, as a particle moves, sweep out a *collision cylinder* of radius $2r$ around
-it.
-For a distance $\ell$, the volume of this cylinder is $V = \pi(2r)^2
-\ell$.
-To guess the average distance $\ell$ between collisions, we assume
-that when the cylinder volume $V$ is large enough to contain one
-particle on average, a collision will occur.
-Since $U = 1/n$ is the volume per particle, we find that
-
-$$
-V = 4\pi r^2 \ell = U = \frac{1}{n} \quad \Longrightarrow \quad \ell =
-\frac{1}{4\pi r^2 n}.
-$$
-
-More generally, particles are more interesting than rigid billiard balls,
-bouncing off each other elastically.
-They can attract and repel one another, and particle size is no longer
-the relevant parameter.
-Instead, this will be given by an effective area or
-*cross-section* $\sigma$:
-
-$$
-\sigma \ell = U \quad \Longrightarrow \quad \sigma = \frac{1}{n\ell}.
-$$
-
-By definition, a collision cylinder of length $\ell$
-and cross-section $\sigma$ will contain one particle on average.
-
----
-
-**Exercise 15 (chain).** A chain lies
-
-<p align="center">
-  ⁂
-  </p>
-
-**Exercise 14 (taking the air).** Heat is just the kinetic energy of particles.
-More precisely, the the average kinetic energy per particle,
-$\epsilon$, is proportional to temperature,
-
-$$
-\epsilon \sim k_B \mathcal{T}.
-$$
-
-This is called the *equipartition theorem*. I think it gives
-the most sensible way to think about heat.
-
-(a) Show that if our particles have mass $m$, the average speed is
-
-$$
-v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
-$$
-
-(b) Show using Exercise 3 that an ideal gas has number density
-
-$$
-n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}}.
-$$
-
-(c) Using the collision cylinder method, show that particles of mass
-$m$ and size $r$, in a gas with pressure $P$ and temperature
-$\mathcal{T}$, will spread out according to
-
-$$
-d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
-$$
-
-(d) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
-kg and $r = 4 \times 10^{-10}$ m.
-Estimate how long it takes an air molecule starting in the middle of a
-room to reach a wall.
-
----
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
@@ -1820,3 +1735,88 @@ right now.
 <p align="center">
   ⁂
   </p>
+
+*Collision cylinders.* Let's now turn back to random walks of
+colliding particles.
+There is a nice way to approximate the step length $\ell$ of the walk
+in terms of the size and density of colliding particles.
+Suppose our particles are spherical, with radius $r$.
+We assume the number of particles per unit volume is $n$, or
+equivalently, there is on average one particle in a volume $U = 1/n$.
+
+If another particle of the same size comes within $2r$ of the first,
+the particles will collide, since the edges just touch at that
+distance.
+So, as a particle moves, sweep out a *collision cylinder* of radius $2r$ around
+it.
+For a distance $\ell$, the volume of this cylinder is $V = \pi(2r)^2
+\ell$.
+To guess the average distance $\ell$ between collisions, we assume
+that when the cylinder volume $V$ is large enough to contain one
+particle on average, a collision will occur.
+Since $U = 1/n$ is the volume per particle, we find that
+
+$$
+V = 4\pi r^2 \ell = U = \frac{1}{n} \quad \Longrightarrow \quad \ell =
+\frac{1}{4\pi r^2 n}.
+$$
+
+More generally, particles are more interesting than rigid billiard balls,
+bouncing off each other elastically.
+They can attract and repel one another, and particle size is no longer
+the relevant parameter.
+Instead, this will be given by an effective area or
+*cross-section* $\sigma$:
+
+$$
+\sigma \ell = U \quad \Longrightarrow \quad \sigma = \frac{1}{n\ell}.
+$$
+
+By definition, a collision cylinder of length $\ell$
+and cross-section $\sigma$ will contain one particle on average.
+
+---
+
+**Exercise 15 (chain).** A chain lies
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (taking the air).** Heat is just the kinetic energy of particles.
+More precisely, the the average kinetic energy per particle,
+$\epsilon$, is proportional to temperature,
+
+$$
+\epsilon \sim k_B \mathcal{T}.
+$$
+
+This is called the *equipartition theorem*. I think it gives
+the most sensible way to think about heat.
+
+(a) Show that if our particles have mass $m$, the average speed is
+
+$$
+v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
+$$
+
+(b) Show using Exercise 3 that an ideal gas has number density
+
+$$
+n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}}.
+$$
+
+(c) Using the collision cylinder method, show that particles of mass
+$m$ and size $r$, in a gas with pressure $P$ and temperature
+$\mathcal{T}$, will spread out according to
+
+$$
+d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
+$$
+
+(d) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
+kg and $r = 4 \times 10^{-10}$ m.
+Estimate how long it takes an air molecule starting in the middle of a
+room to reach a wall.
+
+---
