@@ -1190,10 +1190,12 @@ Remarkably, the gravitational force $mg$ cancels out altogether, and the diffusi
 depends only on the size $r$ of the grains.
 The grain jiggles the same way on Mars!
 
-The jiggling of grains in a fluid was first noted by Robert Brown,
-so it is called *Brownian motion*.
-Although Brownian motion itself suggests the existence of atoms (as
-suggested by Lucretius thousands of years ago!), it was Einstein who
+The jiggling of grains in a fluid was first noted by Robert Brown, and
+though he was unable to explain it, the phenemenon is called *Brownian
+motion* in his honour.
+(It should perhaps be called *Lucretian motion*, since Lucretius
+observed zigzag dust particles, and explained it with atoms, in 60 BC!)
+Although Brownian motion itself suggests the existence of atoms, it was Einstein who
 extracted a testable experimental prediction from the atomic
 hypothesis.
 In 1908, Jean Perrin measured the dance of pollen grains in water, and
