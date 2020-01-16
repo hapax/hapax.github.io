@@ -1103,9 +1103,10 @@ of magnitude!
 *Brownian motion.* Before the 20th century, the notion that matter was
 made of tiny, indivisible lumps was regarded with skepticism.
 But in 1905, long before we could see atoms with microscopes, a Swiss
-patent clerk came up with a brilliant method for proving their
+patent clerk came up with a brilliant indirect method for proving their
 existence.
-The clerk was none other than Albert Einstein, and his proof uses random walks.
+The clerk was none other than Albert Einstein, and his proof uses
+random walks.
 Let's see how he did it!
 
 We start by pouring a viscous fluid into a tall container of volume
@@ -1183,11 +1184,22 @@ $$
 D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
-This is the *Einstein-Smoluchowski-Sutherland relation*, after the
+This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
 three physicists who independently discovered it.
 Remarkably, the gravitational force $mg$ cancels, and the diffusion
 depends only on the size $r$ of the grains.
 The grain will jiggle in the same way on Mars!
+
+The jiggling of grains in a fluid was first noted by Robert Brown,
+so it is called *Brownian motion*.
+Although Brownian motion itself suggests the existence of atoms (as
+suggested by Lucretius thousands of years ago!), it was Einstein who
+extracted a testable experimental prediction from the atomic
+hypothesis.
+In 1908, Jean Perrin measured the dance of pollen grains in water, and
+found that they diffused precisely according to the ESS relation.
+Perrin (1926) and Einstein (1921) were awarded Nobel prizes for their
+efforts.
 
 ## 5. Conclusion<a id="sec-5" name="sec-5"></a>
 
