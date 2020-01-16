@@ -1153,7 +1153,7 @@ fall down and settle into *dynamic equilibrium* at the point where the
 pressure from the fluid balances the force of gravity.
 (We want the pollen grains to be light enough that this isn't the
 bottom of the container!)
-In other words, we guess that
+In other words, we have
 
 $$
 P = \frac{F}{A} = \frac{mg}{\pi r^2},
