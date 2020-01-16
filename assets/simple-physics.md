@@ -1014,37 +1014,40 @@ distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
-\sqrt{\frac{\ell}{v}}\cdot \sqrt{t},
+\sqrt{\frac{\ell}{v}}\cdot \sqrt{t}.
 $$
 
-
-where $\ell/v = D$ is the *diffusion constant*.
-Even though the walker moves at constant velocity, the distance
+Even though the walker moves at constant velocity, the average distance
 travelled scales as $d \propto \sqrt{t}$!
-It's also important to note that "average distance" is a bit of a
+It's important to note that "average distance" is a bit of a
 misnomer.
 We really mean the *average spread* of distance travelled.
 In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
-For example, a drop of dye in water initially spreads quickly and then slows,
-with its size obeying a $\sqrt{t}$ scaling.
+A drop of dye in water consists of many random walkers, and initially
+spreads quickly before slowing due to the $\sqrt{t}$ scaling.
 
-*E. coli genome.* We start with a famous biological application of
+Remarkably, the result does not depend on the number of dimensions.
+It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
+two-dimensional streetscape, or a virtual bacterium foraging in a
+216-dimensional simulation.
+
+*DNA polymer.* We start with a biological application of
 random walks.
-It turns out that when a cell nucleus ruptures, the tightly coiled DNA
+When a cell nucleus ruptures, the tightly coiled DNA
 will spill out in a random fashion.
 The DNA can be modelled as a chain of approximately straight chunks of
 length $\ell = 48$ nm, each of which corresponds to about 140 base
-pairs.
-After the rupture, these chunks remain connected, but are
-more or less uncorrelated, forming the steps of a random walk.
+pairs (bp).
+Put differently, after 140 bp the strand forgets which direction it
+was pointing.
+After the rupture, these chunks form a random walk.
 
 In the photo above, a single-celled *Escherichia coli* (E. coli) bacterium has
 ruptured.
-From the spill, we can estimate the length of the E. coli
-genome!
+From the spill, we can estimate the length of its genome!
 The DNA covers a region with radius
 
 $$
@@ -1070,8 +1073,8 @@ or $1.6$ Mbp.
 A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
-*Collision cylinders.* Let's now turn back to the physics of
-particles, where random walks are due to collisions.
+*Collision cylinders.* Let's now turn back to random walks of
+colliding particles.
 There is a nice way to approximate the step length $\ell$ of the walk
 in terms of the size and density of colliding particles.
 Suppose our particles are spherical, with radius $r$.
@@ -1762,11 +1765,6 @@ $Y$:
 $$
 P(X, Y) = P(X)P(Y).
 $$
-
-Remarkably, the result does not depend on the number of dimensions.
-It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
-two-dimensional streetscape, or a virtual bacterium foraging in a
-216-dimensional simulation.
 
 
 For instance, if you drop dye into water, it will initially spread
