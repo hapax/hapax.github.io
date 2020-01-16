@@ -1197,8 +1197,9 @@ suggested by Lucretius thousands of years ago!), it was Einstein who
 extracted a testable experimental prediction from the atomic
 hypothesis.
 In 1908, Jean Perrin measured the dance of pollen grains in water, and
-found that they diffused precisely according to the ESS relation.
-Perrin (1926) and Einstein (1921) were awarded Nobel prizes for their
+found that they diffused precisely according to the ESS relation,
+since all the parameters (except $D$) can be measured in other ways.
+Perrin (1926) and Einstein (1921) picked up Nobel prizes for their
 efforts.
 
 ---
