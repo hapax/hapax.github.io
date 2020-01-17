@@ -1204,12 +1204,15 @@ three physicists who independently discovered it.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
 size.
+Big particles jiggle less, hot fluids jiggle more, and things look the
+same on Mars!
+
 The jiggling of grains in a fluid was first observed by Robert Brown,
 hence the name *Brownian motion*.
 (It should perhaps be called *Lucretian motion*, since Lucretius
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
-Although Brownian motion suggests the existence of atoms, Einstein's
+Although Brownian motion is best explained by atoms, Einstein's
 genius was to extract specific and testable predictions, confirmed
 experimentally in 1908 by Jean Perrin.
 
