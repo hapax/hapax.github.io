@@ -1290,6 +1290,8 @@ Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
 
+https://dogfishtacklecompany.com/blogs/news/112355910-first-post
+
 https://www.ias.ac.in/article/fulltext/reso/011/01/0063-0078
 
 https://arxiv.org/pdf/physics/0504201.pdf
