@@ -1265,7 +1265,7 @@ where $c$ is the speed of light.
 Use this to estimate the average distance between collisions of air
 molecules in the room around you, $\ell = U/\sigma$.
 
-*Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
+*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
 of temperature and pressure.
 Atmospheric pressure is $101$ kPa.
 
