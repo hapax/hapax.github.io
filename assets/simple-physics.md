@@ -1234,8 +1234,8 @@ The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
 The mirrorballs are illuminated by laser light shot out from pointers
 on the dance floor.
-The giant glass sphere has radius $R$, while the mirror balls have
-radius $r$ and specific volume $U = V/\mathcal{N}$.
+The giant glass sphere has radius $R$, while the $\mathcal{N}$ mirror balls have
+radius $r$.
 Let's follow the trajectory of a single photon.
 
 (a) Argue that the collision cylinder around the photon has radius
