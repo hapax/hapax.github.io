@@ -1098,6 +1098,12 @@ or $1.6$ Mbp.
 A careful count gives $4.6$ Mbp, but we are within an order
 of magnitude!
 
+---
+
+**Exercise 14 (?).**
+
+---
+
 *Brownian motion.* Before the 20th century, the notion that matter was
 made of tiny, indivisible lumps was regarded with skepticism.
 But in 1905, long before we could see atoms with microscopes, a Swiss
@@ -1169,7 +1175,7 @@ We still need to work out the velocity, $v$, and here is the clever
 part: since our fluid was viscous, and assuming the grains move
 slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
 If the grains are in equilibrium, it's reasonable to guess that their
-velocity is the terminal velocity we calculate earlier:
+velocity is the terminal velocity we calculated earlier:
 
 $$
 v_{\text{term}} = \frac{mg}{6\pi \mu r},
@@ -1187,25 +1193,38 @@ three physicists who independently discovered it.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
 size.
-
 The jiggling of grains in a fluid was first observed by Robert Brown,
 hence the name *Brownian motion*.
 (It should perhaps be called *Lucretian motion*, since Lucretius
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
 Although Brownian motion suggests the existence of atoms, Einstein's
-genius was to extract a specific and testable prediction, confirmed in
+genius was to extract specific and testable predictions, confirmed in
 1908 by Jean Perrin.
 
 ---
 
-**Exercise 14 (?).**
+**Exercise 15 (randomness is slow).** Estimate how long it takes a
+  drop of dye to spread throughout a cup of water by Brownian motion.
+  Dye particles have size $\sim 1 \mu$m, much larger than water
+  molecules, and water at room temperature has viscosity $\eta = 10^{-3}$ km/m s.
 
-<p align="center">
-  ⁂
-</p>
+**Exercise 16 (mid-air collisions).** Particles of the same size, $r$,
+  collide when their centres come within $2r$ of each other (the edges
+  touch). To determine the mean free path, we should therefore draw a
+  collision cylinder with cross-section $\sigma = \pi(2r)^2$.
 
-**Exercise 15 ().**
+The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Use this to estimate the average distance between collisions of air
+molecules in the room around you,
+$$
+\ell = \frac{U}{\sigma}.
+$$
+*Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
+of temperature and pressure.
+Atmospheric pressure is around $101$ kPa.
+
+(c) Find the average distance between collisions of air molecules.
 
 ---
 
@@ -1220,6 +1239,12 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+https://www.ias.ac.in/article/fulltext/reso/011/01/0063-0078
+
+https://arxiv.org/pdf/physics/0504201.pdf
+
+http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1906_thesis.pdf
 
 http://physics.bu.edu/~duffy/HTML5/brownian_motion.html
 
