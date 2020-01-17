@@ -1241,7 +1241,7 @@ giant disco ball if there are $\mathcal{N}$ mirror balls.
 You should find
 
 $$
-t_\text{esc} \sim \frac{3\pi r^2 \mathcal{N}}{4\pi Rc},
+t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
 $$
 
 where $c$ is the speed of light.
