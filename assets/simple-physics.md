@@ -1212,7 +1212,7 @@ drop of dye to spread throughout a cup of water by Brownian motion.
 **Exercise 16 (same size).** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
-  To determine the mean free path of particles of the *same*
+  To find the average distance between colliding particles of the *same*
   size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
 
 (a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
@@ -1223,7 +1223,14 @@ molecules in the room around you, $\ell = U/\sigma$.
 of temperature and pressure.
 Atmospheric pressure is around $101$ kPa.
 
-(b) A crowd of drunkards is trying to get out of a beer garden.
+(b) A crowd of $100$ drunkards is trying to leave a beer garden of
+	radius $10$ m.
+	They wander around randomly at walking speed, bumping into each
+	other, mumbling an apology, and changing direction randomly.
+	Roughly how long will it take an individual drunkard to escape,
+	and how many apologies will they make?
+
+*Hint.* You need to use a *collision rectangle*.
 
 **Exercise 17 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
