@@ -1241,7 +1241,7 @@ where $c$ is the speed of light.
   ⁂
 </p>
 
-**Exercise 17 (more collisions.** Two spheres of radius $r$
+**Exercise 17 (more collisions).** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
   To find the average distance between colliding particles of the *same*
