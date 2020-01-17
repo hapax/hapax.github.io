@@ -1210,30 +1210,11 @@ drop of dye to spread throughout a cup of water by Brownian motion.
   temperature has viscosity $\eta = 10^{-3}$ km/m s.
 	You should find it is a rather long time!
 
-**Exercise 16 (more collisions.** Two spheres of radius $r$
-  collide when their centres come within $2r$ of each other, since the
-  edges touch.
-  To find the average distance between colliding particles of the *same*
-  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
+<p align="center">
+  ⁂
+</p>
 
-(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
-Use this to estimate the average distance between collisions of air
-molecules in the room around you, $\ell = U/\sigma$.
-
-*Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
-of temperature and pressure.
-Atmospheric pressure is around $101$ kPa.
-
-(b) A crowd of $100$ drunkards is trying to leave a beer garden of
-	radius $10$ m.
-	They wander around randomly at walking speed, bumping into each
-	other, mumbling an apology, and changing direction randomly.
-	Roughly how long will it take an individual drunkard to escape,
-	and how many apologies will they make?
-
-*Hint.* You need to use a *collision rectangle*.
-
-**Exercise 17 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 16 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1255,6 +1236,33 @@ t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
 $$
 
 where $c$ is the speed of light.
+
+<p align="center">
+  ⁂
+</p>
+
+**Exercise 17 (more collisions.** Two spheres of radius $r$
+  collide when their centres come within $2r$ of each other, since the
+  edges touch.
+  To find the average distance between colliding particles of the *same*
+  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
+
+(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Use this to estimate the average distance between collisions of air
+molecules in the room around you, $\ell = U/\sigma$.
+
+*Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
+of temperature and pressure.
+Atmospheric pressure is around $101$ kPa.
+
+(b) A crowd of $100$ drunkards is trying to leave a beer garden of
+	radius $10$ m.
+	They wander around randomly at walking speed, bumping into each
+	other, mumbling an apology, and changing direction randomly.
+	Roughly how long will it take an individual drunkard to escape,
+	and how many apologies will they make?
+
+*Hint.* You need to use a *collision rectangle*.
 
 ---
 
