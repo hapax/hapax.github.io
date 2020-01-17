@@ -27,7 +27,7 @@ I co-run the
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf) (2018--). A medley of
+- [*Circle problems*](assets/circle-probs.pdf) (2018--19). A medley of
   topics from string theory to teacups and
   sneeze-launched cubesats. Requires only high school physics,
   pre-calculus maths, and a strong constitution.
