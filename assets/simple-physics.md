@@ -1273,7 +1273,7 @@ Atmospheric pressure is $101$ kPa.
 	Roughly how long will it take an individual drunkard to escape,
 	and how many apologies will they make?
 
-*Hint.* You need to use a *collision rectangle* of width $d$, where
+*Hint.* Use a *collision rectangle* of width $d$, where
  $d$ is the diameter of a drunkard.
 
 ---
