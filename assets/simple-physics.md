@@ -1186,7 +1186,8 @@ This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
 three physicists who independently discovered it.
 Remarkably, the gravitational force $mg$ cancels out altogether, so the diffusion
 depends only on the size $r$ of the grains.
-The grain jiggles the same way on Mars!
+Grains of the same size jiggle the same way on earth as on Mars, and
+smaller grains jiggle further.
 
 The jiggling of grains in a fluid was first noted by Robert Brown, and
 though he was unable to explain it, the phenemenon is called *Brownian
@@ -1206,10 +1207,11 @@ efforts.
 
 **Exercise 14 (?).**
 
-**Exercise 15 (do or dye).** Dye particles are much larger than water
-  molecules, so a cloud of dye spreading in a glass of water is Brownian.
-  A drop of dye takes around 
-  The viscosity of water at room temperature is $\mu \approx 10^{-3}$ kg/m s.
+<p align="center">
+  ⁂
+</p>
+
+**Exercise 15 (?).**
 
 ---
 
@@ -1939,3 +1941,8 @@ room to reach a wall.
 
 A drop of dye in water consists of many random walkers, spreading
 quickly before the $\sqrt{t}$ scaling slows it down.
+
+Dye particles are much larger than water
+  molecules, so a cloud of dye spreading in a glass of water is Brownian.
+  A drop of dye takes around 
+  The viscosity of water at room temperature is $\mu \approx 10^{-3}$ kg/m s.
