@@ -1228,7 +1228,7 @@ Let's follow the trajectory of a single photon.
 $r$.
 
 (b) Compute the approximate time it will take the photon to escape the
-giant disco ball if there are $\mathcal{N}$ mirror balls.
+giant disco ball.
 You should find
 
 $$
