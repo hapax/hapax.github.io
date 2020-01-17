@@ -1257,7 +1257,7 @@ Atmospheric pressure is around $101$ kPa.
 
 (b) A crowd of $100$ drunkards is trying to leave a beer garden of
 	radius $10$ m.
-	They wander around randomly at walking speed, bumping into each
+	They wander around at walking speed, bumping into each
 	other, mumbling an apology, and changing direction randomly.
 	Roughly how long will it take an individual drunkard to escape,
 	and how many apologies will they make?
