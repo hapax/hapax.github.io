@@ -1264,12 +1264,12 @@ molecules in the room around you, $\ell = U/\sigma$.
 
 *Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
 of temperature and pressure.
-Atmospheric pressure is around $101$ kPa.
+Atmospheric pressure is $101$ kPa.
 
 (b) A crowd of $100$ drunkards is trying to leave a beer garden of
 	radius $10$ m.
 	They wander around at walking speed, bumping into each
-	other, mumbling an apology, and changing direction randomly.
+	other, mumbling an apology, then randomly changing direction.
 	Roughly how long will it take an individual drunkard to escape,
 	and how many apologies will they make?
 
