@@ -1208,8 +1208,9 @@ genius was to extract specific and testable predictions, confirmed in
 drop of dye to spread throughout a cup of water by Brownian motion.
   Dye particles have size $\sim 1\, \mu$m, and water at room
   temperature has viscosity $\eta = 10^{-3}$ km/m s.
+	You should find it is a rather long time!
 
-**Exercise 16 (same size).** Two spheres of radius $r$
+**Exercise 16 (more collisions.** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
   To find the average distance between colliding particles of the *same*
