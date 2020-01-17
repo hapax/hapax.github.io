@@ -1269,12 +1269,13 @@ molecules in the room around you, $\ell = U/\sigma$.
 of temperature and pressure.
 Atmospheric pressure is $101$ kPa.
 
-(b) A crowd of $100$ drunkards is trying to leave a beer garden of
-	radius $10$ m.
-	They wander around at walking speed, bumping into each
-	other, mumbling an apology, then randomly changing direction.
-	Roughly how long will it take an individual drunkard to escape,
-	and how many apologies will they make?
+(b) A group of $100$ drunkards crowds into beer garden of radius $5$
+	m.
+	A single drunkard decides to leave, moving in a straight line
+	until they hit another drunkard, when they will mumble an apology
+	and randomly change direction.
+	Roughly how long will it take them to escape,
+	and how many apologies will they issue?
 
 *Hint.* Use a *collision rectangle* of width $d$, where
  $d$ is the diameter of a drunkard.
