@@ -1199,8 +1199,8 @@ hence the name *Brownian motion*.
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
 Although Brownian motion suggests the existence of atoms, Einstein's
-genius was to extract specific and testable predictions, confirmed in
-1908 by Jean Perrin.
+genius was to extract specific and testable predictions, confirmed
+experimentally in 1908 by Jean Perrin.
 
 ---
 
