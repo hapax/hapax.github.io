@@ -1100,7 +1100,18 @@ of magnitude!
 
 ---
 
-**Exercise 14 (?).**
+**Exercise 14 (deep sea fishing).** Wandering the shipyards one day, you
+notice a rusty old anchor, probably from a decommissioned deep sea
+fishing vessel.
+The mooring chain is heaped randomly in a pile on the dock.
+
+(a) The links are around $7$ inches in length, and the piles is $4.7$
+m across.
+What is the approximate length of the mooring chain?
+
+(b) For deep sea vessels, a good rule of thumb is one foot of mooring
+chain per foot of boat length.
+Roughly how long was the vessel?
 
 ---
 
