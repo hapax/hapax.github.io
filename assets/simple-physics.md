@@ -1059,8 +1059,6 @@ In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
-A drop of dye in water consists of many random walkers, spreading
-quickly before the $\sqrt{t}$ scaling slows it down.
 
 *DNA polymer.* We start with a biological application.
 When a cell nucleus ruptures, the tightly coiled DNA
@@ -1196,8 +1194,8 @@ motion* in his honour.
 (It should perhaps be called *Lucretian motion*, since Lucretius
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
-Although Brownian motion suggests the existence of atoms, Einstein
-(unlike Lucretius) extracted a specific and testable experimental prediction.
+Although Brownian motion suggests the existence of atoms, Einstein's
+genius was to extract a specific and testable prediction.
 In 1908, Jean Perrin measured the dance of pollen grains in water, and
 found that they diffused precisely according to the ESS relation,
 since all the parameters (except $D$) can be measured in other ways.
@@ -1208,7 +1206,10 @@ efforts.
 
 **Exercise 14 (?).**
 
-**Exercise 15 (?).**
+**Exercise 15 (do or dye).** Dye particles are much larger than water
+  molecules, so a cloud of dye spreading in a glass of water is Brownian.
+  A drop of dye takes around 
+  The viscosity of water at room temperature is $\mu \approx 10^{-3}$ kg/m s.
 
 ---
 
@@ -1223,6 +1224,9 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1478-4408.1983.tb03728.x
 
 http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
 
@@ -1932,3 +1936,6 @@ Estimate how long it takes an air molecule starting in the middle of a
 room to reach a wall.
 
 ---
+
+A drop of dye in water consists of many random walkers, spreading
+quickly before the $\sqrt{t}$ scaling slows it down.
