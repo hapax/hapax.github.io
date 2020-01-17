@@ -1272,7 +1272,7 @@ Atmospheric pressure is $101$ kPa.
 (b) A group of $100$ drunkards crowds into beer garden of radius $5$
 	m.
 	A single drunkard decides to leave, moving in a straight line
-	until they hit another drunkard, when they will mumble an apology
+	until they hit another drunkard, at which point they mumble an apology
 	and randomly change direction.
 	Roughly how long will it take them to escape,
 	and how many apologies will they issue?
