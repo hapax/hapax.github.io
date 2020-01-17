@@ -1205,21 +1205,46 @@ genius was to extract specific and testable predictions, confirmed in
 ---
 
 **Exercise 15 (randomness is slow).** Estimate how long it takes a
-  drop of dye to spread throughout a cup of water by Brownian motion.
+drop of dye to spread throughout a cup of water by Brownian motion.
   Dye particles have size $\sim 1\, \mu$m, and water at room
   temperature has viscosity $\eta = 10^{-3}$ km/m s.
 
-**Exercise 16 (mid-air collisions).** Particles of the same size, $r$,
+**Exercise 16 (same size).** Particles of the same size, $r$,
   collide when their centres come within $2r$ of each other (the edges
   touch). To determine the mean free path of particles of the same
   size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
 
-The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
 Use this to estimate the average distance between collisions of air
 molecules in the room around you, $\ell = U/\sigma$.
 *Hint.* Use the ideal gas law to express $U = V/\mathcal{N}$ in terms
 of temperature and pressure.
 Atmospheric pressure is around $101$ kPa.
+
+(b) 
+
+**Exercise 17 (mirrorball madness).** An eccentric billionaire decides
+to have a disco in space.
+The dance floor lies at the centre of a huge glass sphere, with a
+"gas" of mirrorballs floating around it.
+The mirrorballs are illuminated by laser light shot out from pointers
+on the dance floor.
+The giant glass sphere has radius $R$, while the mirror balls have
+radius $r$ and specific volume $U = V/\mathcal{N}$.
+Let's follow the trajectory of a single photon.
+
+(a) Argue that the collision cylinder around the photon has radius
+$r$.
+
+(b) Compute the approximate time it will take the photon to escape the
+giant disco ball if there are $\mathcal{N}$ mirror balls.
+You should find
+
+$$
+t_\text{esc} \sim \frac{3\pi r^2 \mathcal{N}}{4\pi Rc},
+$$
+
+where $c$ is the speed of light.
 
 ---
 
