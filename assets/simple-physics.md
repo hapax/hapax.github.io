@@ -1184,24 +1184,18 @@ $$
 
 This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
 three physicists who independently discovered it.
-Remarkably, the gravitational force $mg$ cancels out altogether, so the diffusion
-depends only on the size $r$ of the grains.
-Grains of the same size jiggle the same way on earth as on Mars, and
-smaller grains jiggle further.
+The weight of the pollen cancels out, leaving a diffusion constant
+which grows with temperature but is inversely proportional to particle
+size.
 
-The jiggling of grains in a fluid was first noted by Robert Brown, and
-though he was unable to explain it, the phenemenon is called *Brownian
-motion* in his honour.
+The jiggling of grains in a fluid was first observed by Robert Brown,
+hence the name *Brownian motion*.
 (It should perhaps be called *Lucretian motion*, since Lucretius
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
 Although Brownian motion suggests the existence of atoms, Einstein's
-genius was to extract a specific and testable prediction.
-In 1908, Jean Perrin measured the dance of pollen grains in water, and
-found that they diffused precisely according to the ESS relation,
-since all the parameters (except $D$) can be measured in other ways.
-Perrin (1926) and Einstein (1921) picked up Nobel prizes for their
-efforts.
+genius was to extract a specific and testable prediction, confirmed in
+1908 by Jean Perrin.
 
 ---
 
@@ -1211,7 +1205,7 @@ efforts.
   ⁂
 </p>
 
-**Exercise 15 (?).**
+**Exercise 15 ().**
 
 ---
 
@@ -1227,6 +1221,7 @@ Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
 
+http://physics.bu.edu/~duffy/HTML5/brownian_motion.html
 
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1478-4408.1983.tb03728.x
 
@@ -1946,3 +1941,7 @@ Dye particles are much larger than water
   molecules, so a cloud of dye spreading in a glass of water is Brownian.
   A drop of dye takes around 
   The viscosity of water at room temperature is $\mu \approx 10^{-3}$ kg/m s.
+
+In 1908, Jean Perrin measured the dance of pollen grains in water.
+Perrin (1926) and Einstein (1921) picked up Nobel prizes for their
+efforts.
