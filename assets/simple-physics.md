@@ -1042,7 +1042,9 @@ N(\epsilon) \propto \epsilon^{-d}
 $$
 
 as $\epsilon$ gets small, the set has dimensions $L^d$.
-We also called $d$ the *box-counting dimension*.
+We also called $d$ the *box-counting dimension*, since we determine it
+by, well, counting with boxes.
+
 In maths, this relation is supposed to hold as $\epsilon$ gets
 infinitely small.
 In physics, this is not reasonable, since if we zoom in we eventually
