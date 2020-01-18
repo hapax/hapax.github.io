@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Napkin hacks"
+title:  "Physics hacks for the back of a napkin"
 categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
@@ -804,17 +804,11 @@ But it's a subtle art, and just like dimensional analysis, there is
 quite a bit going on under the hood to ensure it works.
 First of all, our under- and overestimates will tend to balance each
 other out.
-This is also the reason we use geometric means.
-If the true value is $x$, and $a$ underestimates by a
-factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
-\sqrt{x^2} = x$ is the true value.
-Note that more subestimates will tend to *increase the variance* of
-our answers, so once again, we should KISS.
-
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
 averaging over different types of ignorance yields wisdom.
 In this case, the crowd is made up of subestimates.
+
 But just as a single charismatic fool can bias a crowd, a foolish
 subestimate can scuttle your approximation.
 The best way to avoid foolish subestimates is to *sanity check* them.
@@ -1009,6 +1003,57 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 ---
 
 ### 4.2. Fractals <a id="sec-4-2" name="sec-4-2"></a>
+
+It's natural to expect that mass and surface area scale as simple
+powers of length, $\mathcal{L}^3$ and $\mathcal{L}^2$, because volume
+and area have dimensions $L^3$ and $L^2$ respectively.
+One way to justify this is to split a volume up into tiny cubes, and
+an area up into tiny squares, and use the fact that we can read off
+these dimensions of a cube and square from $V = s^3$ and $A = s^2$.
+
+But what if we tried to measure the surface area with cubes?
+Of course, we would that cubes always "fell outside" the surface area.
+It turns out, however, there is a clever method of determining the
+dimension anyway!
+To illustrate, let's consider a square of side length $s$, and try to
+cover it entirely with little cubes of side length $\epsilon$.
+It's easy to see that the number of cubes you need will be
+approximately
+
+$$
+N(\epsilon) \approx \left(\frac{s}{\epsilon}\right)^2 = A \epsilon^{-2}.
+$$
+
+In fact, this will be the answer for a general surface of area $A$,
+provided $\epsilon$ is small.
+The index of $\epsilon$ in the scaling $N \propto \epsilon^{-2}$ tells
+us that a surface has dimension $L^2$.
+In fact, we can do the same trick with a volume, and find that when we
+try to cover any volume with tiny cubes, we get an approximate relation
+
+$$
+N(\epsilon) \approx V\epsilon^{-3}.
+$$
+
+In general, if the number of cubes it takes to cover a set scales as
+
+$$
+N(\epsilon) \propto \epsilon^{-d}
+$$
+
+as $\epsilon$ gets small, the set has dimensions $L^d$.
+We also called $d$ the *box-counting dimension*.
+In maths, this relation is supposed to hold as $\epsilon$ gets
+infinitely small.
+In physics, this is not reasonable, since if we zoom in we eventually
+hit the atomic level, and everything turns out to be a volume.
+Instead, we will require the scaling $N \propto \epsilon^{-d}$ to hold
+for a large *range* of small boxes of size $\epsilon$.
+
+You might think the list of possibilities for $d$ is rather small: a
+volume has $d = 3$, a surface area has $d = 2$, and a curve has $d =
+1$.
+But nature has 
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
@@ -2035,3 +2080,10 @@ Dye particles are much larger than water
 In 1908, Jean Perrin measured the dance of pollen grains in water.
 Perrin (1926) and Einstein (1921) picked up Nobel prizes for their
 efforts.
+
+This is also the reason we use geometric means.
+If the true value is $x$, and $a$ underestimates by a
+factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
+\sqrt{x^2} = x$ is the true value.
+Note that more subestimates will tend to *increase the variance* of
+our answers, so once again, we should KISS.
