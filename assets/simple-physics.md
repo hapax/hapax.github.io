@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The awesome power of simple physics"
+title:  "Napkin hacks"
 categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
@@ -26,9 +26,9 @@ date:  2020-01-06
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Scaling</a>
    1. <a href="#sec-4-1">Allometry</a>
-   2. <a href="#sec-4-2">Random walks</a>
-   3. <a href="#sec-4-3">Fractals</a>
-   4. <a href="#sec-4-4">Power laws</a>
+   2. <a href="#sec-4-2">Fractals</a>
+   3. <a href="#sec-4-3">Power laws</a>
+   4. <a href="#sec-4-4">Random walks</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -935,9 +935,14 @@ $$
 
 *Hint.* Find a dimensional factor in $c_s$ which only appears in $K$.
 
-(b) Now figure out how $c_s$ depends on $\rho$. Given that the bulk
-modulus of air depends very weakly on temperature, would you expect
-sound to travel faster or slower on a hot day?
+(b) Complete the dimensional analysis and figure out how $c_s$ depends
+on $\rho$. Given that the bulk modulus of air depends very weakly on
+temperature, would you expect sound to travel faster or slower on a
+hot day?
+
+(c) Repeat your analysis to find the speed a disturbance travels along
+a string under tension $T$ (units of force) and mass density $\lambda$
+(mass per unit length).
 
 ---
 
@@ -1003,7 +1008,11 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 
 ---
 
-### 4.2. Random walks <a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Fractals <a id="sec-4-2" name="sec-4-2"></a>
+
+### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
+
+### 4.4. Random walks <a id="sec-4-4" name="sec-4-4"></a>
 
 One of the most beautiful scaling laws is associated
 with *random walks*.
@@ -1269,7 +1278,7 @@ molecules in the room around you, $\ell = U/\sigma$.
 of temperature and pressure.
 Atmospheric pressure is $101$ kPa.
 
-(b) A group of $100$ drunkards crowds into beer garden of radius $5$
+(b) A group of $100$ drunkards crowds into a beer garden of radius $5$
 	m.
 	A single drunkard decides to leave, moving in a straight line
 	until they hit another drunkard, at which point they mumble an apology

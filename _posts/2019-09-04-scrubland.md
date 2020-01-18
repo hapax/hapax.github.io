@@ -364,7 +364,9 @@ Aesthetic considerations are famously important to pure mathematicians.
 The philosopher [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
-English mathematician [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy) elevated this to a *requirement*,
+I think this underemphasises how much darn fun it is, but it conveys
+some of the appeal.
+English mathematician [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy) elevated beauty to a *requirement*,
 stating that "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
 
@@ -732,7 +734,7 @@ not.
 They will be in good company.
 Towards the end of the 19th century, the mathematician
 [Charles Hermite](https://en.wikipedia.org/wiki/Charles_Hermite)
-wrote, with typical French bombast, "I turn with terror and
+wrote, with typical fin de siècle bombast, "I turn with terror and
 horror from this lamentable scourge of functions with no derivatives".
 
 The moral is that, by trying to break theorems, ask bold
@@ -1426,7 +1428,7 @@ the Labyrinth*.)
 And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
 [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth's_circumference)
-did in 100 BC.
+did in 100 BC?
 For algebra, try the unsolvability of the quintic, compass and straightedge
 constructions, and applications to dimensional analysis.
 Logarithms?
@@ -1490,8 +1492,8 @@ majestic summits, calm valleys and extraordinary wildlife.
 From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
 And even more importantly, they can enjoy the simple pleasures of
-mathematics, which have for so long, and so unnecessarily, been denied to
-the majority.
+mathematics, which have for so long, and so unnecessarily, been out of
+reach.
 
 ## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
