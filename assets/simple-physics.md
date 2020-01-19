@@ -1054,6 +1054,8 @@ N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2},
 $$
 
 since a tiny cube will overlap the skin with area around $\epsilon^2$.
+(Actually, there are larger cross-sections if you tilt the cube, but
+the scaling $\propto 1/\epsilon^2$ remains the same.)
 Similarly, if you tried to replace the horse's whole body with boxes,
 the number would scale as
 
