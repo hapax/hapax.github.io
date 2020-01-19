@@ -1071,8 +1071,9 @@ $$
 N(\epsilon) \propto \epsilon^{-d}.
 $$
 
-Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
-\mathcal{L}$ (so the cubes are small relative to the object).
+Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see
+atoms, or whatever things constitute our object) and $\epsilon \ll
+\mathcal{L}$ (so the cubes are relatively small).
 Then the dimensional-analysis dimension will be $L^d$, and if we make
 the object bigger or smaller, it will scale as $\mathcal{L}^d$.
 
