@@ -1058,7 +1058,6 @@ $$
 Similarly, if you tried to cover the fly's *volume* with boxes, you
 would get a scaling $N(\epsilon) \propto 1/\epsilon^3$, and if you
 cover its proboscis, the number $N(\epsilon) \propto 1/\epsilon^1$.
-
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
 In general, a set has dimension $L^d$ if the number of tiny cubes
