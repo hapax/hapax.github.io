@@ -1019,10 +1019,12 @@ principle it settles the matter.
 Or does it?
 In reality, a horse or a garden spider is made out of
 atoms, not tiny cubes, and atoms are *point-like*.
-When you zoom in, everything resolves itself into a cloud of
+When you zoom in, any animal resolves itself into a cloud of
 $0$-dimensional objects!
-It seems like everything is really $0$-dimensional.
-The problem is that we looked too close.
+It seems like everything is really $0$-dimensional, and should scale
+as $L^0$.
+This is obviously nonsense, and the problem is that we are looking too
+close.
 If we zoom in enough, all we can see are the *constituents* of matter,
 losing sight of the forest for the trees.
 To reason about "coarse" properties like the dimension, we should make
