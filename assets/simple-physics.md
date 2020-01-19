@@ -1004,7 +1004,7 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 
 ### 4.2. Fractals <a id="sec-4-2" name="sec-4-2"></a>
 
-If $\mathcal{L}$ is some linear measure of an organism's size, it's
+*Box counting.* If $\mathcal{L}$ is some linear measure of an organism's size, it's
 natural to expect that volume and surface area scale as
 $\mathcal{L}^3$ and $\mathcal{L}^2$, respectively, because volume and
 area have dimensions $L^3$ and $L^2$.
@@ -1074,6 +1074,8 @@ $$
 
 Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
 \mathcal{L}$ (so the cubes are small relative to the object).
+
+*Coastlines.*
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
