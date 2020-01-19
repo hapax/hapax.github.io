@@ -1036,8 +1036,7 @@ So far, so good: don't look too close and you won't see atoms.
 But the surface and volume of a horse are both made of atoms.
 When I zoom out, how can I tell the difference without assuming the
 answer?
-There is an elegant method called *box counting* which will get the
-job done, and lead to some surprises.
+One elegant method is called *box counting*.
 Splitting a surface area into little squares requires we *already
 know* that it is a surface.
 Instead, we are going to measure everything with cubes!
