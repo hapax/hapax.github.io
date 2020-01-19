@@ -1085,7 +1085,7 @@ Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\
 
 *The Inbetweeners.* Box counting seems like a
 rather elaborate way to reproduce things we already know.
-And it doesn't seem likely to yield any surprises: we will just get $d
+And it doesn't seem likely to yield any surprises: we will get $d
 = 0$ for points, $d = 1$ for curves, $d = 2$ for areas and $d = 3$ for volumes.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
