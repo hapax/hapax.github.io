@@ -1065,15 +1065,15 @@ $$
 
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
-In general, a set has dimension $L^d$ if the number of tiny cubes
-needed to cover the set scales as
+In general, a set has *box counting dimension* $d$ (and dimensional
+analysis dimension $L^d$) if the number of tiny cubes needed to cover the set scales as
 
 $$
-N(\epsilon) \propto \epsilon^{-d},
+N(\epsilon) \propto \epsilon^{-d}.
 $$
 
-where we're assuming $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
-\mathcal{L}$ (so the cubes are tiny).
+Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
+\mathcal{L}$ (so the cubes are small relative to the object).
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
