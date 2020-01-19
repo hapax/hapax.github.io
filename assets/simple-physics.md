@@ -1026,36 +1026,35 @@ as $L^0$.
 This is obviously nonsense. The problem is that we are looking too
 close: if we zoom in enough, all we can see are the *constituents* of matter,
 losing sight of the forest for the trees.
-
 To reason about "coarse" properties like the dimension, we should make
 sure our resolution (the size of our cubes) is much larger than the
 length scale $\epsilon_\min$ associated with whatever constitutes a
 horse.
+
 So far, so good: don't look too close and you won't see atoms.
 But the surface and volume of a horse are both made of atoms, and
-splitting a surface area into little squares requires that we *already
+splitting a surface area into little squares, for instance, requires that we *already
 know* that it is a surface.
 That's cheating!
-How can I tell the difference without assuming the answer?
-
-One elegant method is called *box counting*.
-Instead, we are going to measure everything with cubes!
-So, fix a resolution, $\epsilon$, and generate a pile of (imaginary)
+How can I figure out the scaling without assuming the answer?
+One elegant method is called *box counting*, where we measure
+*everything* with cubes.
+First, fix a resolution, $\epsilon$, and generate a pile of (imaginary)
 cubes of size $\epsilon$.
-Now count how many cubes you need to superimpose to completely cover
-a spatial object of interest, whether it's the bulk of the fruit fly,
-its skin, or its proboscis.
+Now count how many cubes you need to cover a spatial object of
+interest, for instance, the bulk of a horse, or its surface area.
 
-So, let's map out the fruit fly. $A$,
-then for small $\epsilon$ (but much larger than an atom!), the number
-of cubes needed to cover it is
+Let's do an example.
+If the horse has surface area $A$, and $\epsilon$ is small
+compared to the size of the horse but much larger than an atom, then
+the number of cubes needed to cover its skin is
 
 $$
 N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2}.
 $$
 
-Similarly, if you tried to cover the fly's *volume* with boxes, you
-would get a scaling $N(\epsilon) \propto 1/\epsilon^3$, and if you
+Similarly, if you tried to replace the horse's whole body with boxes,
+the number will scale as $N(\epsilon) \propto 1/\epsilon^3$, and if you
 cover its proboscis, the number $N(\epsilon) \propto 1/\epsilon^1$.
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
