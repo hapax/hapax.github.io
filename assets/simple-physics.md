@@ -1075,7 +1075,8 @@ $$
 Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
 \mathcal{L}$ (so the cubes are small relative to the object).
 
-*Coastlines.*
+*The Inbetweeners.* Box counting seems like a
+ rather elaborate way to reproduce things we already know.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
