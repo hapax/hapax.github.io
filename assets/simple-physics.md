@@ -1068,7 +1068,8 @@ $$
 N(\epsilon) \propto \epsilon^{-d},
 $$
 
-for $\epsilon \gg \epsilon_\min$.
+for $\epsilon \gg \epsilon_\min$ (can't see atoms) and $\epsilon \ll
+\mathcal{L}$ (cubes are tiny).
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
