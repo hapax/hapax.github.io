@@ -1006,7 +1006,7 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 
 If $\mathcal{L}$ is some linear measure of an organism's size, it's
 natural to expect that volume and surface area scale as
-$\mathcal{L}^3$ and $\mathcal{L}^2$ respectively because volume and
+$\mathcal{L}^3$ and $\mathcal{L}^2$, respectively, because volume and
 area have dimensions $L^3$ and $L^2$.
 Now, it's obvious that a cube's volume has dimension $L^3$ from the formula $V_\text{cube}
 = s^3$ (for side length $s$), while a square's area has dimension
