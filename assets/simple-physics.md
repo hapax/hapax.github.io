@@ -934,8 +934,8 @@ on $\rho$. Given that the bulk modulus of air depends very weakly on
 temperature, would you expect sound to travel faster or slower on a
 hot day?
 
-(c) Repeat your analysis to find the speed a disturbance travels along
-a string under tension $T$ (units of force) and mass density $\lambda$
+(c) Repeat your analysis to find the speed a disturbance propagates along
+a string under tension $T$ (units of force) with mass density $\lambda$
 (mass per unit length).
 
 ---
@@ -1065,8 +1065,7 @@ $$
 
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
-In general, a set has *box counting dimension* $d$ (and dimensional
-analysis dimension $L^d$) if the number of tiny cubes needed to cover the set scales as
+In general, a set has *box counting dimension* $d$ if
 
 $$
 N(\epsilon) \propto \epsilon^{-d}.
@@ -1074,19 +1073,15 @@ $$
 
 Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
 \mathcal{L}$ (so the cubes are small relative to the object).
+Then the dimensional-analysis dimension will be $L^d$, and if we make
+the object bigger or smaller, it will scale as $\mathcal{L}^d$.
 
----
-
-**Exercise 14 ().** Show that a set of points has box counting
-	dimension $d = 0$.
-	Take $\epsilon_\text{min} = 0$.
-
----
-
-*The Inbetweeners.* Box counting seems like a
-rather elaborate way to reproduce things we already know.
-And it doesn't seem likely to yield any surprises: we will get $d
-= 0$ for points, $d = 1$ for curves, $d = 2$ for areas and $d = 3$ for volumes.
+*Interdimensional monsters.* Box counting seems like a
+rather elaborate way to reproduce things we already know: volumes have
+dimension $L^3$, areas $L^2$, curves $L$ and points $L^0$.
+Usually, we can tell what's going on immediately by drawing a picture!
+But there is more in heaven and earth than are dreamt of in your
+everyday experience.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
