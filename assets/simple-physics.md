@@ -1008,20 +1008,21 @@ If $\mathcal{L}$ is some linear measure of an organism's size, it's
 natural to expect that volume and surface area scale as
 $\mathcal{L}^3$ and $\mathcal{L}^2$ respectively because volume and
 area have dimensions $L^3$ and $L^2$.
-Now, it's obvious that a cube has dimension $L^3$ from the formula $V_\text{cube}
-= s^3$ (for side length $s$), and similarly, a square has dimension
+Now, it's obvious that a cube's volume has dimension $L^3$ from the formula $V_\text{cube}
+= s^3$ (for side length $s$), while a square's area has dimension
 $L^2$ from the formula $A_\text{square} = s^2$.
-To argue that in general a volume or area has these dimensions, you
-can imagine splitting a general volume into many tiny cubes, or an area
+To argue that a general volume or area has these dimensions, you
+can imagine splitting the volume into many tiny cubes, and the area
 into many tiny squares.
-This may be hard in practice, but in principle it settles the matter.
+This may be hard in practice (it requires integral calculus!), but in
+principle it settles the matter.
+
 Or does it?
 In reality, a horse or a garden spider is made out of
 atoms, not tiny cubes, and atoms are *point-like*.
 When you zoom in, everything resolves itself into a cloud of
 $0$-dimensional objects!
 It seems like everything is really $0$-dimensional.
-
 The problem is that we looked too close.
 If we zoom in enough, all we can see are the *constituents* of matter,
 losing sight of the forest for the trees.
@@ -1029,11 +1030,11 @@ To reason about "coarse" properties like the dimension, we should make
 sure our resolution (the size of our cubes) is much larger than the
 length scale $\epsilon_\min$ associated with whatever constitutes a
 horse.
+
 So far, so good: don't look too close and you won't see atoms.
 But the surface and volume of a horse are both made of atoms.
 When I zoom out, how can I tell the difference without assuming the
 answer?
-
 There is an elegant method called *box counting* which will get the
 job done, and lead to some surprises.
 Splitting a surface area into little squares requires we *already
