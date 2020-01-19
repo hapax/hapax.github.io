@@ -1005,57 +1005,53 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 ### 4.2. Fractals <a id="sec-4-2" name="sec-4-2"></a>
 
 It's natural to expect that mass and surface area scale as simple
-powers of length, $\mathcal{L}^3$ and $\mathcal{L}^2$, because volume
-and area have dimensions $L^3$ and $L^2$ respectively.
+powers of length because volume
+and area have simple dimensions ($L^3$ and $L^2$ respectively).
 One way to justify this is to split a volume up into tiny cubes, and
 an area up into tiny squares, and use the fact that we can read off
-these dimensions of a cube and square from $V = s^3$ and $A = s^2$.
+the dimensions of a cube and a square from the formulas $V = s^3$ and
+$A = s^2$.
+(We also use the fact that a sum of terms with dimension $X$ itself
+has dimension $X$.)
 
-But what if we tried to measure the surface area with cubes?
-Of course, we would that cubes always "fell outside" the surface area.
-It turns out, however, there is a clever method of determining the
-dimension anyway!
-To illustrate, let's consider a square of side length $s$, and try to
-cover it entirely with little cubes of side length $\epsilon$.
-It's easy to see that the number of cubes you need will be
-approximately
+That's true in the mathematical realm.
+But in physical reality, a horse or a garden spider is made out of
+atoms, and atoms are point-like.
+When you zoom in enough, surface area and volume are $0$-dimensional!
+How do we determine the correct dimension?
 
-$$
-N(\epsilon) \approx \left(\frac{s}{\epsilon}\right)^2 = A \epsilon^{-2}.
-$$
-
-In fact, this will be the answer for a general surface of area $A$,
-provided $\epsilon$ is small.
-The index of $\epsilon$ in the scaling $N \propto \epsilon^{-2}$ tells
-us that a surface has dimension $L^2$.
-In fact, we can do the same trick with a volume, and find that when we
-try to cover any volume with tiny cubes, we get an approximate relation
-
-$$
-N(\epsilon) \approx V\epsilon^{-3}.
-$$
-
-In general, if the number of cubes it takes to cover a set scales as
+The answer is to *change the resolution* of our microscope.
+Say we want to determine how the surface area of a fruit fly scales.
+If we zoom too far in, the fly resolves into a cloud of atomic points.
+But if we zoom out until we can't see these atoms, it will appear to
+have a continuous surface.
+To figure out how this surface scales with length, we can imagine
+trying to cover the surface with little boxes of side length
+$\epsilon$.
+Since each little cube will cover an area of around $\epsilon^2$ of
+the fruit fly's surface, the total number need will be
 
 $$
-N(\epsilon) \propto \epsilon^{-d}
+N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2}.
 $$
 
-as $\epsilon$ gets small, the set has dimensions $L^d$.
-We also called $d$ the *box-counting dimension*, since we determine it
-by, well, counting with boxes.
+Similarly, if you tried to cover the fly's *volume* with boxes, you
+would get a scaling $N(\epsilon) \propto 1/\epsilon^3$.
+Finally, if we zoom in too far, then we see that the fly (or its
+surface) is made out of some constant number of atoms $N \propto
+1/\epsilon^0$, no matter how small our cubes are.
 
-In maths, this relation is supposed to hold as $\epsilon$ gets
-infinitely small.
-In physics, this is not reasonable, since if we zoom in we eventually
-hit the atomic level, and everything turns out to be a volume.
-Instead, we will require the scaling $N \propto \epsilon^{-d}$ to hold
-for a large *range* of small boxes of size $\epsilon$.
+Provided we don't zoom in too much, the power of $\epsilon$ in $N \sim
+1/\epsilon^d$ correctly reveals the dimension: $d = 3$ for a volume
+and $d = 2$ for a surface area.
+In general, a set has dimension $L^d$ if the number of tiny cubes
+needed to cover the set scales as
 
-You might think the list of possibilities for $d$ is rather small: a
-volume has $d = 3$, a surface area has $d = 2$, and a curve has $d =
-1$.
-But nature has 
+$$
+N(\epsilon) \propto \epsilon^{-d},
+$$
+
+as long $\epsilon \gg \epsilon_\min$ is bigger than some minimum
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
