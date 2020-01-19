@@ -1050,12 +1050,17 @@ compared to the size of the horse but much larger than an atom, then
 the number of cubes needed to cover its skin is
 
 $$
-N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2}.
+N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2},
 $$
 
+since a tiny cube will overlap the skin with area around $\epsilon^2$.
 Similarly, if you tried to replace the horse's whole body with boxes,
-the number will scale as $N(\epsilon) \propto 1/\epsilon^3$, and if you
-cover its proboscis, the number $N(\epsilon) \propto 1/\epsilon^1$.
+the number would scale as
+
+$$
+N(\epsilon) \approx \frac{V}{\epsilon^3} \propto \frac{1}{\epsilon^3}.
+$$
+
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
 In general, a set has dimension $L^d$ if the number of tiny cubes
