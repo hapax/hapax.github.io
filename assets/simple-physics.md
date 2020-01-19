@@ -1081,7 +1081,37 @@ the object bigger or smaller, it will scale as $\mathcal{L}^d$.
 rather elaborate way to reproduce things we already know: volumes have
 dimension $L^3$, areas $L^2$, curves $L$ and points $L^0$.
 Usually, we can tell what's going on immediately by drawing a picture!
-But there are more things in heaven and earth than are dreamt of by your everyday experience.
+But there are *interdimensional monsters* lurking in between these
+familiar scalings.
+Let's catch one!
+
+You can build a simple example yourself with a pencil and eraser.
+Start by drawing a straight line segment, which we'll label with the
+unit interval $[0, 1]$.
+Then erase the middle third, leaving two small intervals of width
+$1/3$, from $[0, 1/3]$ and $[2/3, 1]$.
+Let's repeat this step for each remaining segment, erasing middle
+thirds and leaving $4 = 2^2$ segments of length $1/9 = 3^{-2}$.
+We can iterate this process of erasing middle thirds, and after the
+$n$th step, we will have $2^n$ segments of length $3^{-n}$.
+
+In real life, the process will eventually terminate when the segments
+reach the atomic length scale.
+But in the mathematical realm, $\epsilon_\text{min} = 0$, and we can
+let the process run forever!
+The *Cantor set* is the resulting, infinitely holey pencil line that
+remains.
+We can use the construction to easily find the box-counting dimension.
+Since the $n$th step is $2^n$ segments of length $3^{-n}$, and we only
+delete segments from then on, we can cover the Cantor set using these
+segments.
+Using log laws, we find that for $\epsilon = 3^{-n}$,
+
+$$
+N(\epsilon) = N(3^{-n}) = 2^{n} = 3^{n\log_3 2} = \epsilon^{-\log_3 2}.
+$$
+
+or $\$
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
