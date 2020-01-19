@@ -1014,25 +1014,23 @@ $L^2$ from the formula $A_\text{square} = s^2$.
 To argue that in general a volume or area has these dimensions, you
 can imagine splitting a general volume into many tiny cubes, or an area
 into many tiny squares.
-
 This may be hard in practice, but in principle it settles the matter.
 Or does it?
-But in reality, a horse or a garden spider is made out of
+In reality, a horse or a garden spider is made out of
 atoms, not tiny cubes, and atoms are *point-like*.
 When you zoom in, everything resolves itself into a cloud of
 $0$-dimensional objects!
-It seems like everything is $0$-dimensional after all.
+It seems like everything is really $0$-dimensional.
 
-This is clearly nonsense.
-Our problem is that we looked too close!
+The problem is that we looked too close.
 If we zoom in enough, all we can see are the *constituents* of matter,
 losing sight of the forest for the trees.
 To reason about "coarse" properties like the dimension, we should make
-sure the resolution of our microscope stays about some minimum length
-scale $\epsilon_\min$, associated with whatever our objects are made
-out of.
+sure our resolution (the size of our cubes) is much larger than the
+length scale $\epsilon_\min$ associated with whatever constitutes a
+horse.
 So far, so good: don't look too close and you won't see atoms.
-But the surface and volume of a fruit fly are both made of atoms.
+But the surface and volume of a horse are both made of atoms.
 When I zoom out, how can I tell the difference without assuming the
 answer?
 
@@ -1047,7 +1045,7 @@ Now count how many cubes you need to superimpose to completely cover
 a spatial object of interest, whether it's the bulk of the fruit fly,
 its skin, or its proboscis.
 
-For instance, if the fruit fly's surface area is $A$,
+So, let's map out the fruit fly. $A$,
 then for small $\epsilon$ (but much larger than an atom!), the number
 of cubes needed to cover it is
 
