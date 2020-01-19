@@ -1045,8 +1045,8 @@ Now count how many cubes you need to cover a spatial object of
 interest, for instance, the bulk of a horse, or its surface area.
 
 Let's do an example.
-If the horse has surface area $A$, and $\epsilon$ is very small
-compared to the horse but much larger than an atom, then
+If the horse has surface area $A$, and $\epsilon$ is small
+(but much larger than an atom), then
 the number of cubes needed to cover its skin is
 
 $$
