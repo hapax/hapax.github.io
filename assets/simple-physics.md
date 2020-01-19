@@ -1080,8 +1080,7 @@ the object bigger or smaller, it will scale as $\mathcal{L}^d$.
 rather elaborate way to reproduce things we already know: volumes have
 dimension $L^3$, areas $L^2$, curves $L$ and points $L^0$.
 Usually, we can tell what's going on immediately by drawing a picture!
-But there is more in heaven and earth than are dreamt of in your
-everyday experience.
+But there are more things in heaven and earth than are dreamt of by your everyday experience.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
