@@ -1004,46 +1004,63 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
 
 ### 4.2. Fractals <a id="sec-4-2" name="sec-4-2"></a>
 
-It's natural to expect that mass and surface area scale as simple
-powers of length because volume
-and area have simple dimensions ($L^3$ and $L^2$ respectively).
-One way to justify this is to split a volume up into tiny cubes, and
-an area up into tiny squares, and use the fact that we can read off
-the dimensions of a cube and a square from the formulas $V = s^3$ and
-$A = s^2$.
-(We also use the fact that a sum of terms with dimension $X$ itself
-has dimension $X$.)
+If $\mathcal{L}$ is some linear measure of an organism's size, it's
+natural to expect that volume and surface area scale as
+$\mathcal{L}^3$ and $\mathcal{L}^2$ respectively because volume and
+area have dimensions $L^3$ and $L^2$.
+Now, it's obvious that a cube has dimension $L^3$ from the formula $V_\text{cube}
+= s^3$ (for side length $s$), and similarly, a square has dimension
+$L^2$ from the formula $A_\text{square} = s^2$.
+To argue that in general a volume or area has these dimensions, you
+can imagine splitting a general volume into many tiny cubes, or an area
+into many tiny squares.
 
-That's true in the mathematical realm.
-But in physical reality, a horse or a garden spider is made out of
-atoms, and atoms are point-like.
-When you zoom in enough, surface area and volume are $0$-dimensional!
-How do we determine the correct dimension?
+This may be hard in practice, but in principle it settles the matter.
+Or does it?
+But in reality, a horse or a garden spider is made out of
+atoms, not tiny cubes, and atoms are *point-like*.
+When you zoom in, everything resolves itself into a cloud of
+$0$-dimensional objects!
+It seems like everything is $0$-dimensional after all.
 
-The answer is to *change the resolution* of our microscope.
-Say we want to determine how the surface area of a fruit fly scales.
-If we zoom too far in, the fly resolves into a cloud of atomic points.
-But if we zoom out until we can't see these atoms, it will appear to
-have a continuous surface.
-To figure out how this surface scales with length, we can imagine
-trying to cover the surface with little boxes of side length
-$\epsilon$.
-Since each little cube will cover an area of around $\epsilon^2$ of
-the fruit fly's surface, the total number need will be
+This is clearly nonsense.
+Our problem is that we looked too close!
+If we zoom in enough, all we can see are the *constituents* of matter,
+losing sight of the forest for the trees.
+To reason about "coarse" properties like the dimension, we should make
+sure the resolution of our microscope stays about some minimum length
+scale $\epsilon_\min$, associated with whatever our objects are made
+out of.
+So far, so good: don't look too close and you won't see atoms.
+But the surface and volume of a fruit fly are both made of atoms.
+When I zoom out, how can I tell the difference without assuming the
+answer?
+
+There is an elegant method called *box counting* which will get the
+job done, and lead to some surprises.
+Splitting a surface area into little squares requires we *already
+know* that it is a surface.
+Instead, we are going to measure everything with cubes!
+So, fix a resolution, $\epsilon$, and generate a pile of (imaginary)
+cubes of size $\epsilon$.
+Now count how many cubes you need to superimpose to completely cover
+a spatial object of interest, whether it's the bulk of the fruit fly,
+its skin, or its proboscis.
+
+For instance, if the fruit fly's surface area is $A$,
+then for small $\epsilon$ (but much larger than an atom!), the number
+of cubes needed to cover it is
 
 $$
 N(\epsilon) \approx \frac{A}{\epsilon^2} \propto \frac{1}{\epsilon^2}.
 $$
 
 Similarly, if you tried to cover the fly's *volume* with boxes, you
-would get a scaling $N(\epsilon) \propto 1/\epsilon^3$.
-Finally, if we zoom in too far, then we see that the fly (or its
-surface) is made out of some constant number of atoms $N \propto
-1/\epsilon^0$, no matter how small our cubes are.
+would get a scaling $N(\epsilon) \propto 1/\epsilon^3$, and if you
+cover its proboscis, the number $N(\epsilon) \propto 1/\epsilon^1$.
 
-Provided we don't zoom in too much, the power of $\epsilon$ in $N \sim
-1/\epsilon^d$ correctly reveals the dimension: $d = 3$ for a volume
-and $d = 2$ for a surface area.
+Hopefully you see the pattern: the dimension of the object is the
+index of $\epsilon$!
 In general, a set has dimension $L^d$ if the number of tiny cubes
 needed to cover the set scales as
 
@@ -1051,7 +1068,7 @@ $$
 N(\epsilon) \propto \epsilon^{-d},
 $$
 
-as long $\epsilon \gg \epsilon_\min$ is bigger than some minimum
+for $\epsilon \gg \epsilon_\min$.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
