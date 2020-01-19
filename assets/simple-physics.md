@@ -1023,21 +1023,21 @@ When you zoom in, any animal resolves itself into a cloud of
 $0$-dimensional objects!
 It seems like everything is really $0$-dimensional, and should scale
 as $L^0$.
-This is obviously nonsense, and the problem is that we are looking too
-close.
-If we zoom in enough, all we can see are the *constituents* of matter,
+This is obviously nonsense. The problem is that we are looking too
+close: if we zoom in enough, all we can see are the *constituents* of matter,
 losing sight of the forest for the trees.
+
 To reason about "coarse" properties like the dimension, we should make
 sure our resolution (the size of our cubes) is much larger than the
 length scale $\epsilon_\min$ associated with whatever constitutes a
 horse.
-
 So far, so good: don't look too close and you won't see atoms.
-But the surface and volume of a horse are both made of atoms.
-When I zoom out, how can I tell the difference without assuming the
-answer?
-Splitting a surface area into little squares requires that we *already
-know* that it is a surface, which is cheating.
+But the surface and volume of a horse are both made of atoms, and
+splitting a surface area into little squares requires that we *already
+know* that it is a surface.
+That's cheating!
+How can I tell the difference without assuming the answer?
+
 One elegant method is called *box counting*.
 Instead, we are going to measure everything with cubes!
 So, fix a resolution, $\epsilon$, and generate a pile of (imaginary)
