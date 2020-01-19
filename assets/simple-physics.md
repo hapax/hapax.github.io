@@ -1075,8 +1075,18 @@ $$
 Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see atoms) and $\epsilon \ll
 \mathcal{L}$ (so the cubes are small relative to the object).
 
+---
+
+**Exercise 14 ().** Show that a set of points has box counting
+	dimension $d = 0$.
+	Take $\epsilon_\text{min} = 0$.
+
+---
+
 *The Inbetweeners.* Box counting seems like a
- rather elaborate way to reproduce things we already know.
+rather elaborate way to reproduce things we already know.
+And it doesn't seem likely to yield any surprises: we will just get $d
+= 0$ for points, $d = 1$ for curves, $d = 2$ for areas and $d = 3$ for volumes.
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
