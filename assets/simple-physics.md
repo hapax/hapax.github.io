@@ -27,8 +27,7 @@ date:  2020-01-06
 4. <a href="#sec-4">Scaling</a>
    1. <a href="#sec-4-1">Allometry</a>
    2. <a href="#sec-4-2">Fractals</a>
-   3. <a href="#sec-4-3">Power laws</a>
-   4. <a href="#sec-4-4">Random walks</a>
+   4. <a href="#sec-4-3">Random walks</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -1066,7 +1065,7 @@ $$
 
 Hopefully you see the pattern: the dimension of the object is the
 index of $\epsilon$!
-In general, a set has *box counting dimension* $d$ if
+In general, a set has *box counting* or *fractal dimension* $d$ if
 
 $$
 N(\epsilon) \propto \epsilon^{-d}.
@@ -1076,14 +1075,15 @@ Here, we assume that $\epsilon \gg \epsilon_\min$ (so we can't see
 atoms, or whatever things constitute our object) and $\epsilon \ll
 \mathcal{L}$ (so the cubes are relatively small).
 Then the dimensional-analysis dimension will be $L^d$, and if we make
-the object bigger or smaller, it will scale as $\mathcal{L}^d$.
+the object bigger or smaller, it's "generalised volume" will scale as
+$\mathcal{L}^d$.
+The appearance of the word "fractal" will be justified in a moment.
 
 *Interdimensional monsters.* Box counting seems like a
 rather elaborate way to reproduce things we already know: volumes have
 dimension $L^3$, areas $L^2$, curves $L$ and points $L^0$.
 Usually, we can tell what's going on immediately by drawing a picture!
-But there are *interdimensional monsters* lurking in between these
-familiar examples.
+But there are interdimensional monsters lurking in the thickets between.
 Let's catch one!
 
 You can build a simple example with a pencil and eraser.
@@ -1117,12 +1117,32 @@ between these points and don't change the scaling law.
 Thus, the box-counting dimension is $d = \log_3 2 \approx 0.63$.
 This is neither a point nor a line, but somewhere in between!
 
-We have just discovered *fractals*: objects with non-integer
+*Self-similarity.* We have just discovered *fractals*: objects with non-integer
 box-counting dimension.
 The Cantor set also exhibits a characteristic (though not necessary)
 feature of fractals, namely that it is *self-similar*.
 By construction, the section of the Cantor set from $[0, 1/3]$ looks
 the same as the whole thing, but scaled down by $1/3$.
+This is not an accident, but rather, a feature of scaling laws in
+general.
+If a quantity $A$ scales with some quantity $x$ as
+
+$$
+A \propto x^p,
+$$
+
+then when we "zoom in" or "zoom out" by choosing a rescaled $\tilde{x}
+= x/\ell$, for instance, then we get
+
+$$
+A \propto x^p = \ell^p \tilde{x}^p \propto \tilde{x}^p.
+$$
+
+Choosing a different, rescaled variable $x$ does not change the
+exponent $p$.
+This is what self-similar means!
+It is therefore natural for objects with scalings $N \propto
+\epsilon^{-d}$ (including less exotic volumes and surface areas) to be self-similar.
 
 ---
 
@@ -1131,7 +1151,7 @@ the same as the whole thing, but scaled down by $1/3$.
   fraction $\gamma$ (instead of $1/3$) from the middle of each
   segment, where $0 < \gamma < 1$.
 
-(a) Show that the box-counting dimension when we erase $\gamma$ is
+(a) Show that the box-counting dimension is
 
 $$
 d = -\frac{\log 2}{\log [(1-\gamma)/2]} = \log_{2/(1-\gamma)}2.
@@ -1147,11 +1167,16 @@ But it turns out they are everywhere!
 The most infamous example is coastlines.
 Naively, a coastline is just a curve bounding a land mass, and we
 would expect it to have dimension $L^1$.
-But in fact, coastlines get more and more jagged and intricate as you
-zoom in, and their box-counting dimension is usually *greater* than
-$1$.
-They get longer as you zoom in!
-Coastlines are also self-similar
+But in fact, coastlines get more jagged and intricate as you
+zoom in.
+The closer you look, the longer they get!
+The box-counting dimension is usually between $1$ and
+$2$, with the typical dimension around $d \approx 1.3$.
+We will give a (partial) explanation for this in the next section, but
+the basic idea is that coastlines are formed by natural processes, and
+we can study how those natural processes scale.
+
+An even more 
 
 ---
 
@@ -1169,9 +1194,7 @@ small.
 
 ---
 
-### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
-
-### 4.4. Random walks <a id="sec-4-4" name="sec-4-4"></a>
+### 4.3. Random walks <a id="sec-4-3" name="sec-4-3"></a>
 
 One of the most beautiful scaling laws is associated
 with *random walks*.
@@ -1461,6 +1484,8 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+https://users.math.yale.edu/~bbm3/web_pdfs/076stochasticModels.pdf
 
 https://core.ac.uk/download/pdf/82639372.pdf
 
