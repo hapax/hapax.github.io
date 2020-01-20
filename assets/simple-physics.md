@@ -1102,7 +1102,7 @@ But in the mathematical realm, $\epsilon_\text{min} = 0$, and we can
 let the process run forever!
 The *Cantor set* is the resulting, infinitely holey pencil line that
 remains.
-We can use the construction to easily find the box-counting dimension.
+We can use the construction to easily find the fractal dimension.
 Since the $n$th step is $2^n$ segments of length $3^{-n}$, and we only
 delete segments from then on, we can cover the Cantor set using these
 segments.
@@ -1118,14 +1118,14 @@ Thus, the box-counting dimension is $d = \log_3 2 \approx 0.63$.
 This is neither a point nor a line, but somewhere in between!
 
 *Self-similarity.* We have just discovered *fractals*: objects whose
-box-counting dimension is larger than the dimensionality of
-objects they are made out of.
-The Cantor set also exhibits a characteristic (though not necessary)
-feature of fractals, namely that it is *self-similar*.
+fractal dimension is different from the dimensionality of objects they
+are made out of.
+The Cantor set also exhibits a characteristic feature of fractals,
+namely that it is *self-similar*.
 By construction, the section of the Cantor set from $[0, 1/3]$ looks
 the same as the whole thing, but scaled down by $1/3$.
 This is not an accident, but rather, a feature of scaling laws in
-general.
+general!
 If a quantity $A$ scales with some quantity $x$ as
 
 $$
