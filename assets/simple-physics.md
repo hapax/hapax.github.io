@@ -1150,23 +1150,22 @@ would expect it to have dimension $L^1$.
 But in fact, coastlines get more and more jagged and intricate as you
 zoom in, and their box-counting dimension is usually *greater* than
 $1$.
+As you will show below (Exercise 15), this means they don't have a
+well-defined length!
 
 ---
 
-**Exercise 15 (the coastline paradox).** Most coastlines have
-box-counting dimension $d > 1$.
-
-(a) Define the *length* of an object as a function of box size,
+**Exercise 15 (the coastline paradox).** (a) Define the *length* of an object as a function of box size,
 
 $$
 \mathcal{L}(\epsilon) = \epsilon N(\epsilon).
 $$
 
-Show that for a line ($d = 1$), the length is well-defined as $\epsilon$ becomes
+Show a line ($d = 1$) has a well-defined length as $\epsilon$ becomes
 small.
 
-(b) What happens to the length of a coastline as $\epsilon$ becomes small?
-	The fact that the length is undefined is called the *coastline paradox*.
+(b) Show that, in contrast, a typical coastline ($d > 1$) does not
+	have a well-defined length. This is called the *coastline paradox*.
 
 ---
 
