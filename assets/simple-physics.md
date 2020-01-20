@@ -1144,8 +1144,8 @@ $$
 *Fractals in nature.* All this would be rather esoteric and
 pathological if fractals were not ubiquitous in nature.
 But it turns out they are everywhere!
-Perhaps the most famous example is the measurement of coastlines.
-Naively, since a coastline is just a curve bounding a land mass, we
+The most infamous example is coastlines.
+Naively, a coastline is just a curve bounding a land mass, and we
 would expect it to have dimension $L^1$.
 But in fact, coastlines get more and more jagged and intricate as you
 zoom in, and their box-counting dimension is usually *greater* than
