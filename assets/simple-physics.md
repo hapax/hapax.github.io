@@ -1150,8 +1150,8 @@ would expect it to have dimension $L^1$.
 But in fact, coastlines get more and more jagged and intricate as you
 zoom in, and their box-counting dimension is usually *greater* than
 $1$.
-As you will show below (Exercise 15), this means they don't have a
-well-defined length!
+They get longer as you zoom in!
+Coastlines are also self-similar
 
 ---
 
@@ -1164,7 +1164,7 @@ $$
 Show a line ($d = 1$) has a well-defined length as $\epsilon$ becomes
 small.
 
-(b) Show that, in contrast, a typical coastline ($d > 1$) does not
+(b) Show that, in contrast, a typical coastline ($1 < d < 2$) does not
 	have a well-defined length. This is called the *coastline paradox*.
 
 ---
@@ -1461,6 +1461,8 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+https://core.ac.uk/download/pdf/82639372.pdf
 
 https://dogfishtacklecompany.com/blogs/news/112355910-first-post
 
