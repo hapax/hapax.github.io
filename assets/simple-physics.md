@@ -1082,10 +1082,10 @@ rather elaborate way to reproduce things we already know: volumes have
 dimension $L^3$, areas $L^2$, curves $L$ and points $L^0$.
 Usually, we can tell what's going on immediately by drawing a picture!
 But there are *interdimensional monsters* lurking in between these
-familiar scalings.
+familiar examples.
 Let's catch one!
 
-You can build a simple example yourself with a pencil and eraser.
+You can build a simple example with a pencil and eraser.
 Start by drawing a straight line segment, which we'll label with the
 unit interval $[0, 1]$.
 Then erase the middle third, leaving two small intervals of width
@@ -1111,7 +1111,37 @@ $$
 N(\epsilon) = N(3^{-n}) = 2^{n} = 3^{n\log_3 2} = \epsilon^{-\log_3 2}.
 $$
 
-or $\$
+You may worry about other box size, but these smoothly interpolate
+between these points and don't change the scaling law.
+Thus, the box-counting dimension is $d = \log_3 2 \approx 0.63$.
+This is somewhere in between a set of a points and a line!
+
+We have just discovered *fractals*: objects with non-integer
+box-counting dimension.
+The Cantor set also exhibits a characteristic (though not necessary)
+feature of fractals, namely that it is *self-similar*.
+By construction, the section of the Cantor set from $[0, 1/3]$ looks
+the same as the whole thing, but scaled down by $1/3$.
+
+---
+
+**Exercise 14 (more monsters).** You can generalise the
+  pencil-and-eraser construction above by removing a fraction $\gamma$
+  (instead of $1/3$) from the middle of each segment, where $0 <
+  \gamma < 1$.
+
+(a) Show that the box-counting dimension when you erase $\gamma$,
+instead of $1/3$, is
+
+$$
+d = -\frac{\log 2}{\log [(1-\gamma)/2]},
+$$
+
+where $\log$ is in any base you like.
+
+(b) Conclude that *any* dimension is possible for $0 \leq d \leq 1$.
+
+---
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
