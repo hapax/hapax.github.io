@@ -216,6 +216,7 @@ $$
 Incidentally, this explains why grandfather clocks are so large.
 They will house a large (typically non-cucurbitar) pendulum with
 $\ell \approx 1$ m.
+
 In order to make the clock, we need a ruler to measure out the length
 of string.
 But for maximal whimsy, we can switch things up, and turn a stopwatch,
@@ -1111,10 +1112,10 @@ $$
 N(\epsilon) = N(3^{-n}) = 2^{n} = 3^{n\log_3 2} = \epsilon^{-\log_3 2}.
 $$
 
-You may worry about other box size, but these smoothly interpolate
+You may worry about other box sizes, but these smoothly interpolate
 between these points and don't change the scaling law.
 Thus, the box-counting dimension is $d = \log_3 2 \approx 0.63$.
-This is somewhere in between a set of a points and a line!
+This is neither a point nor a line, but somewhere in between!
 
 We have just discovered *fractals*: objects with non-integer
 box-counting dimension.
@@ -1126,24 +1127,48 @@ the same as the whole thing, but scaled down by $1/3$.
 ---
 
 **Exercise 14 (more monsters).** You can generalise the
-  pencil-and-eraser construction above by removing a fraction $\gamma$
-  (instead of $1/3$) from the middle of each segment, where $0 <
-  \gamma < 1$.
+  pencil-and-eraser construction above by iteratively removing a
+  fraction $\gamma$ (instead of $1/3$) from the middle of each
+  segment, where $0 < \gamma < 1$.
 
-(a) Show that the box-counting dimension when you erase $\gamma$,
-instead of $1/3$, is
+(a) Show that the box-counting dimension when we erase $\gamma$ is
 
 $$
-d = -\frac{\log 2}{\log [(1-\gamma)/2]},
+d = -\frac{\log 2}{\log [(1-\gamma)/2]} = \log_{2/(1-\gamma)}2.
 $$
-
-where $\log$ is in any base you like.
 
 (b) Conclude that *any* dimension in the range $0 \leq d \leq 1$ is possible.
 
 ---
 
-*Fractals in nature.* 
+*Fractals in nature.* All this would be rather esoteric and
+pathological if fractals were not ubiquitous in nature.
+They are everywhere!
+Perhaps the most famous example is the measurement of coastlines.
+Naively, since a coastline is just a curve bounding a land mass, we
+would expect it to have dimension $L^1$.
+But in fact, coastlines get more and more jagged and intricate as you
+zoom in, and their box-counting dimension is usually *greater* than
+$1$.
+
+---
+
+**Exercise 15 (the coastline paradox).** Most coastlines have
+box-counting dimension $d > 1$.
+
+(a) Define the *length* of a line as a function of box size,
+
+$$
+\mathcal{L}(\epsilon) = \epsilon N(\epsilon).
+$$
+
+Show that for a line, the length is well-defined as $\epsilon$ becomes
+small.
+
+(b) What happens to the length of a coastline?
+	The fact that the length is undefined is called the *coastline paradox*.
+
+---
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
