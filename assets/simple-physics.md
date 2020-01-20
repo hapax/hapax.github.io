@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Back of a napkin hacks"
+title:  "Hacks for the back of a napkin"
 categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
@@ -34,20 +34,21 @@ date:  2020-01-06
 
 How many calculus courses does it take to change a light bulb?
 The answer is none, of course.
-And how many does it take to work out the period of a
-pendulum, why clouds float, or the number of fish in the sea?
+And how many does it take to work out why clouds float, the number of
+fish in the sea, the heart rate of a whale, or follow Einstein's proof
+of the existence of atoms?
 Surprisingly, the answer is still none!
 As we'll see below, high school math and some simple physics hacks
-are sufficient to solve these problems *quantitatively*.
+are sufficient to answer these questions *quantitatively*.
 The goal of this post is to explain these hacks and convince
 you of their awesome power.
 
-I'm a string theorist, so by necessity a user (and abuser!) of
+I study quantum gravity, so by necessity I am a user (and abuser!) of
 advanced mathematics.
 But preparing for a
 [comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students) and running a
 [high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-convinced me that *you can do more with less*.
+opened my eyes to the fact that *you can do more with less*.
 Without calculus or any deep physical lore,
 you can still discover
 [black hole entropy](https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Overview),
@@ -61,6 +62,8 @@ predicted by string theory.
 [physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
 if you want to learn how.
 They have very little overlap with the problems here.)
+
+
 
 This post focuses on a set of generic problem-solving tools: *dimensional analysis*, *Fermi approximation*, and *scaling
 laws*.
@@ -1301,8 +1304,14 @@ in an organism-independent way.
 
 (c) Combining (a) and (b), deduce that the number of hearbeats is
 roughly constant, independent of organism size!
-Since the average human heart rate is $60-100$ bpm, estimate how many
-tocks of the ticker are allotted to each creature.
+Since a normal human heart rate is around $60$ bpm, estimate how many
+tocks of the ticker are allotted to each creature on earth.
+
+**Exercise 16 (walking speed revisited).** Above, we predicted a
+$\mathcal{L}^{1/2}$ scaling for walking speed with organism size.
+Here, we're going to instead consider how human walking speed scales
+with *city size*.
+The analysis treats the city as a fractal for distributing people!
 
 ---
 
@@ -1402,7 +1411,7 @@ of magnitude!
 
 ---
 
-**Exercise 14 (deep sea fishing).** Wandering the shipyards one day, you
+**Exercise 17 (deep sea fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned deep sea
 fishing vessel.
 The mooring chain is heaped randomly in a pile on the dock.
@@ -1520,7 +1529,7 @@ experimentally in 1908 by Jean Perrin.
 
 ---
 
-**Exercise 15 (randomness is slow).** Estimate how long it takes a
+**Exercise 17 (randomness is slow).** Estimate how long it takes a
 drop of dye to spread throughout a cup of water by Brownian motion.
   Dye particles have size $\sim 1\, \mu$m, and water at room
   temperature has viscosity $\eta = 10^{-3}$ km/m s.
@@ -1530,7 +1539,7 @@ drop of dye to spread throughout a cup of water by Brownian motion.
   ⁂
 </p>
 
-**Exercise 16 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 18 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1595,6 +1604,8 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+http://www.fractalcities.org/book/Fractal%20Cities%20Introduction.pdf
 
 https://users.math.yale.edu/~bbm3/web_pdfs/076stochasticModels.pdf
 
