@@ -1279,7 +1279,30 @@ $$
 
 ---
 
-**Exercise 15.**
+**Exercise 15 (tick tock).** (a) The volume of the heart scales as
+$\mathcal{L}^3$.
+Using Kleiber's law, deduce that heart rate $B$ (beats per unit time)
+scales as
+
+$$
+B \propto M^{-1/4}.
+$$
+
+(b) Assume that the size of a cell, and amount of blood it can process
+before dying, are independent of organism size.
+Argue that the lifetime of an organism scales as
+
+$$
+T_\text{organism} \propto M^{-1/4}.
+$$
+
+*Hint.* You can assume that $T_\text{organism}\propto T_\text{cell}$
+in an organism-independent way.
+
+(c) Combining (a) and (b), explain the number of hearbeats is
+roughly constant, independent of organism size!
+Since the average human heart rate is $60-100$ bpm, estimate how many
+tocks of the ticker are allotted to each creature.
 
 ---
 
