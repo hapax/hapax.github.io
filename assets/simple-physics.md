@@ -1139,9 +1139,11 @@ $$
 
 where $\log$ is in any base you like.
 
-(b) Conclude that *any* dimension is possible for $0 \leq d \leq 1$.
+(b) Conclude that *any* dimension in the range $0 \leq d \leq 1$ is possible.
 
 ---
+
+*Fractals in nature.* 
 
 ### 4.3. Power laws <a id="sec-4-3" name="sec-4-3"></a>
 
