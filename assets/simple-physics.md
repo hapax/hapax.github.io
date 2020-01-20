@@ -1274,7 +1274,7 @@ $$
 Since $R \propto k^c$, we have finally arrived at Kleiber's law:
 
 $$
-R \propto k^c = \left(k^{4c/3}\right)^{3/4] \propto M^{3/4}.
+R \propto k^c = \left(k^{4c/3}\right)^{3/4} \propto M^{3/4}.
 $$
 
 ---
