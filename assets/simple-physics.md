@@ -1117,8 +1117,9 @@ between these points and don't change the scaling law.
 Thus, the box-counting dimension is $d = \log_3 2 \approx 0.63$.
 This is neither a point nor a line, but somewhere in between!
 
-*Self-similarity.* We have just discovered *fractals*: objects with non-integer
-box-counting dimension.
+*Self-similarity.* We have just discovered *fractals*: objects whose
+box-counting dimension is larger than the dimensionality of
+objects they are made out of.
 The Cantor set also exhibits a characteristic (though not necessary)
 feature of fractals, namely that it is *self-similar*.
 By construction, the section of the Cantor set from $[0, 1/3]$ looks
@@ -1138,11 +1139,11 @@ $$
 A \propto x^p = \ell^p \tilde{x}^p \propto \tilde{x}^p.
 $$
 
-Choosing a different, rescaled variable $x$ does not change the
+Using a different, rescaled variable $\tilde{x}$ does not change the
 exponent $p$.
 This is what self-similar means!
 It is therefore natural for objects with scalings $N \propto
-\epsilon^{-d}$ (including less exotic volumes and surface areas) to be self-similar.
+\epsilon^{-d}$ (including less exotic things like volumes and surface areas) to be self-similar.
 
 ---
 
@@ -1173,31 +1174,119 @@ The closer you look, the longer they get!
 The box-counting dimension is usually between $1$ and
 $2$, with the typical dimension around $d \approx 1.3$.
 We will give a (partial) explanation for this in the next section, but
-the basic idea is that coastlines are formed by natural processes, and
-we can study how those natural processes scale.
+the basic idea is that coastlines are formed by random processes, and
+we can study how those random processes scale.
 
-An even more 
+Fractals not only result from random physical process, but from
+*evolution*.
+Our bodies are full of them!
+This is not just a fun fact, but explains some puzzling biological scalings.
+One of the most famous is *Kleiber's law*, which is the observation
+that metabolic rate $R$ (i.e. rate of energy consumption) scales as
+$R \propto M^{4/3}$.
+This is impossible to explain using the square-cube arguments we gave
+above.
+But it is explained by fractals!
+
+The rough idea is as follows.
+Energy consumption is governed by the rate blood (which contains
+oxygen needed for combustion) is delivered to cells.
+We now assume the circulatory system is a self-similar fractal built
+out of ever smaller tubes, a bit like gluing the different stages in
+the construction of the Cantor set together.
+We start with a single big tube, the aorta, which branches into some
+child tubes, and these branch again.
+With a few physics and design requirements, we can deduce Kleiber's
+law!
+
+Let's be more precise.
+Our first assumption is a very reaonable one: *blood is conserved*.
+Suppose each tube has $k$ children, and the children are narrower by a
+factor $\beta$ and shorter by a factor $\gamma$.
+The rate blood flows through a tube of cross-section $A$ is $A v$.
+There are $k$ children, and each has a cross-section of $\beta^2 A$,
+so the total cross-section is $k \beta^2 A$.
+Assuming the velocity doesn't change, conservation of blood implies
+
+$$
+A v = k\beta^2 A v \quad \Longrightarrow \quad \beta = k^{-1/2}.
+$$
+
+The second assumption is also very plausible: *the circulatory
+system spreads throughout the body*.
+Since we're assuming the structure is self-similar, we guess that
+*each level* approximately fills a volume, and hence the circulatory
+system has fractal dimension $d = 3$.
+If a tube has length $\ell$, it covers an approximate volume $\ell^3$
+when we use cubes at that resolution.
+It has $k$ children of length $\ell \gamma$, and they should cover
+approximately the same volume at the lower resolution, so
+
+$$
+\ell^3 \approx k (\ell \gamma)^3 \quad \Longrightarrow \quad \gamma = k^{-1/3}.
+$$
+
+Our third assumption concerns the smallest tubes in system: *capillary
+width and length are independent of organism*.
+The basic idea here is that smallest tubes, which deliver material to
+the cells directly, have a cross-section $A_\text{capillary}$ and
+length $\ell_\text{capillary}$ dictated by the biological requirements
+of the cell and not the organism.
+Thus, if the capillaries are $c$ levels down, then the rate of
+delivery is
+
+$$
+R = A_\text{aorta}v = k^c A_\text{capillary} v \propto k^c,
+$$
+
+since $v$ and $A_\text{capillary}$ don't depend on the organism's
+size.
+We're almost done!
+
+Our last assumption is the plausible guess that *the total volume of
+blood is proportional to the organism's mass*.
+Put differently, the average composition of biological matter doesn't
+depend too much on organism size, a fact which seems to be empirically
+true.
+Let's also assume that each tube has many children $k$.
+Then a tube will carry much more blood than its children, since its
+volume $A \ell$ is much larger than the combined volume of its children:
+
+$$
+k (A \beta^2 \ell \gamma) = A \ell k^{-1/3} \ll A \ell.
+$$
+
+The total volume at the capillary level is then
+
+$$
+V_\text{capillary} = k^c \gamma A_\text{capillary} \ell_\text{capillary} \propto k^{c},
+$$
+
+since we are assuming $A_\text{capillary}$ and $\ell_\text{capillary}$
+do not depend on organism size.
+Since most of the blood is actually carried in the aorta, we can "go
+up" $c$ levels by multiplying by the $(k^{-1/3})^{-c} = k^{c/3}$, to
+obtain
+
+$$
+M \propto V \propto k^{c} \cdot k^{c/3} = k^{4c/3}.
+$$
+
+Since $R \propto k^c$, we have finally arrived at Kleiber's law:
+
+$$
+R \propto k^c = \left(k^{4c/3}\right)^{3/4] \propto M^{3/4}.
+$$
 
 ---
 
-**Exercise 15 (the coastline paradox).** (a) Define the *length* of an object as a function of box size,
-
-$$
-\mathcal{L}(\epsilon) = \epsilon N(\epsilon).
-$$
-
-Show a line ($d = 1$) has a well-defined length as $\epsilon$ becomes
-small.
-
-(b) Show that, in contrast, a typical coastline ($1 < d < 2$) does not
-	have a well-defined length. This is called the *coastline paradox*.
+**Exercise 15.**
 
 ---
 
 ### 4.3. Random walks <a id="sec-4-3" name="sec-4-3"></a>
 
-One of the most beautiful scaling laws is associated
-with *random walks*.
+Our final and perhaps most beautiful scaling law is associated with *random walks*.
 Imagine an atom jiggling around randomly in a hot gas.
 On average, it will travel some distance $\ell$ between collisions.
 Surprisingly, after $n$ collisions, the approximate distance $d$ from
