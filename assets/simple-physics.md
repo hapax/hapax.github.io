@@ -1143,7 +1143,7 @@ $$
 
 *Fractals in nature.* All this would be rather esoteric and
 pathological if fractals were not ubiquitous in nature.
-They are everywhere!
+But it turns out they are everywhere!
 Perhaps the most famous example is the measurement of coastlines.
 Naively, since a coastline is just a curve bounding a land mass, we
 would expect it to have dimension $L^1$.
@@ -1156,16 +1156,16 @@ $1$.
 **Exercise 15 (the coastline paradox).** Most coastlines have
 box-counting dimension $d > 1$.
 
-(a) Define the *length* of a line as a function of box size,
+(a) Define the *length* of an object as a function of box size,
 
 $$
 \mathcal{L}(\epsilon) = \epsilon N(\epsilon).
 $$
 
-Show that for a line, the length is well-defined as $\epsilon$ becomes
+Show that for a line ($d = 1$), the length is well-defined as $\epsilon$ becomes
 small.
 
-(b) What happens to the length of a coastline?
+(b) What happens to the length of a coastline as $\epsilon$ becomes small?
 	The fact that the length is undefined is called the *coastline paradox*.
 
 ---
