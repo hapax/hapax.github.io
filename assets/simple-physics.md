@@ -1245,9 +1245,8 @@ We're almost done!
 
 Our last assumption is the plausible guess that *the total volume of
 blood is proportional to the organism's mass*.
-Put differently, the average composition of biological matter doesn't
-depend too much on organism size, a fact which seems to be empirically
-true.
+Put differently, the average composition of a lump of flesh doesn't
+depend on where it came from.
 Let's also assume that each tube has many children $k$.
 Then a tube will carry much more blood than its children, since its
 volume $A \ell$ is much larger than the combined volume of its children:
