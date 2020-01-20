@@ -1299,7 +1299,7 @@ $$
 *Hint.* You can assume that $T_\text{organism}\propto T_\text{cell}$
 in an organism-independent way.
 
-(c) Combining (a) and (b), explain the number of hearbeats is
+(c) Combining (a) and (b), deduce that the number of hearbeats is
 roughly constant, independent of organism size!
 Since the average human heart rate is $60-100$ bpm, estimate how many
 tocks of the ticker are allotted to each creature.
