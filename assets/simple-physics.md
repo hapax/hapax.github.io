@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Physics hacks for the back of a napkin"
+title:  "Back of a napkin hacks"
 categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
