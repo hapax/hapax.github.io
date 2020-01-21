@@ -715,7 +715,7 @@ focus on a *single important mechanism*.
 You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
-Perhaps KISS should stand for "Keep It Spherical, Stupid".
+(Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 
 Let's see how this works in practice.
 Suppose we want to estimate the annual electricity usage in the greater
@@ -781,43 +781,42 @@ we should be spot on!
 
 ### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
-*Why it works.* So far, I've described what I think are the key methods for doing
-Fermi estimates.
-But it's a subtle art, and just like dimensional analysis, there is
-quite a bit going on under the hood to ensure it works.
-First of all, our under- and overestimates will tend to balance each
-other out.
-This is an example of the
-[wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd), where
-averaging over different types of ignorance yields wisdom.
-In this case, the crowd is made up of subestimates.
+*Why it works.* Fermi approximation is a subtle art.
+It seems like it works because over- and underestimates tend to
+balance each other out.
+This appears to be an example of the
+[wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd),
+where averaging over different types of ignorance yields wisdom.
+In this case, the crowd is made up of subestimates!
+But the *variance* (random variability) of subestimates adds up, and a
+good rule of thumb is to only factorise into subestimates when the
+combined uncertainty of these estimates is much smaller than the original.
 
-But just as a single charismatic fool can bias a crowd, a foolish
-subestimate can scuttle your approximation.
-The best way to avoid foolish subestimates is to *sanity check* them.
+*Sanity checks.*
+You can increase the reliability of a subestimate by performing a sanity check.
 Compare to things you know, or manipulate your guess until you can
 make that comparison.
-For instance, perhaps we guess the Canadian budget is CAD`$`30
-billion.
-But if we also know the population (30 million or so) we see this
+For instance, if we guess the Canadian budget is CAD`$`30
+billion, and also know the population (30 million or so), we see this
 corresponds to `$`1000 per person.
 Since the government typically spends thousands of dollars per student
 on public education (let alone everything else!) this number is too low.
 
-*Web of facts.* Aliens cannot perform this sanity check because they don't know
+*Web of facts.* Aliens cannot sanity check because they don't know
 enough about our world.
 In general, to be a good estimator, you need a web of facts, figures,
-and intuitions to triangulate your position in estimate space.
+and intuitions to triangulate your position in estimate space and
+reduce variance.
 Books on Fermi problems,
 e.g. [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495)
-by Weinstein and Adam, have a list of handy numbers in the appendix
+by Weinstein and Adam, usually have a list of handy numbers in the appendix
 for just this reason.
 It may feel like cheating, but if you are doing a Fermi
 problem in real life, also remember that you can make your web of facts
 dramatically larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity".
-(I first saw this in lukeprog's
+(Props to lukeprog's
 [great introduction](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
 to Fermi estimates.)
 Our method of factorising assumes that subestimates
@@ -864,10 +863,22 @@ How did your friends do?
   ⁂
 </p>
 
-**Exercise 10 (fistful of quarters).** (a) How many quarters in a
-fistful?
-(b) Given that $n$ can vary by a factor of $3$, how does
-  the estimate of the "all heads" probability vary?
+**Exercise 10 (jumping mugs).** (a) Estimate the number of atoms $n_C$ in a
+cup of coffee.
+
+(b) Very roughly, what is the probability the coffee jumps
+spontaneously into the air?
+
+*Hint.* Atoms move in random directions. The coffee will spontaneously
+ jump if most of the atoms in the cup are moving up.
+
+(c) If the cup cycles through a billion different random
+configurations a second, and the universe lasts another $13$ billion
+years, are we likely to see the cup spontaneously jump?
+
+(d) Given that $n_C$ can vary by an order of magnitude, how does the
+probability of spontaneous jumping vary? Does it change your
+conclusion in (c)?
 
 ---
 
