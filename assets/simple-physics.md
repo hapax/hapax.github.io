@@ -24,11 +24,7 @@ date:  2020-01-06
    2. <a href="#sec-3-2">Subestimates</a>
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
-4. <a href="#sec-4">Scaling</a>
-   1. <a href="#sec-4-1">Allometry</a>
-   2. <a href="#sec-4-2">Fractals</a>
-   4. <a href="#sec-4-3">Random walks</a>
-5. <a href="#sec-5">Conclusion</a>
+4. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -882,6 +878,40 @@ conclusion in (c)?
 
 ---
 
+## 5. Conclusion<a id="sec-5" name="sec-5"></a>
+
+It's mysterious to me that these techniques are not usually taught
+in either high school or first year physics.
+Lack of mathematical background is not the problem.
+
+#### References
+
+Finally, I recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground in greater depth.
+
+http://www.fractalcities.org/book/Fractal%20Cities%20Introduction.pdf
+
+https://users.math.yale.edu/~bbm3/web_pdfs/076stochasticModels.pdf
+
+https://core.ac.uk/download/pdf/82639372.pdf
+
+https://dogfishtacklecompany.com/blogs/news/112355910-first-post
+
+https://www.ias.ac.in/article/fulltext/reso/011/01/0063-0078
+
+https://arxiv.org/pdf/physics/0504201.pdf
+
+http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1906_thesis.pdf
+
+http://physics.bu.edu/~duffy/HTML5/brownian_motion.html
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1478-4408.1983.tb03728.x
+
+http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
+
+https://www.quora.com/Theoretically-how-tall-or-large-can-a-land-animal-evolve-What-would-happen-if-an-animal-exceeded-this-size
+
 ## 4. Scaling<a id="sec-4" name="sec-4"></a>
 
 Both dimensional analysis and Fermi approximation assume the answer
@@ -927,10 +957,6 @@ $$
 on $\rho$. Given that the bulk modulus of air depends very weakly on
 temperature, would you expect sound to travel faster or slower on a
 hot day?
-
-(c) Repeat your analysis to find the speed a disturbance propagates along
-a string under tension $T$ (units of force) with mass density $\lambda$
-(mass per unit length).
 
 ---
 
@@ -1306,9 +1332,9 @@ The analysis treats the city as a fractal for distributing people!
 
 ---
 
-### 4.3. Random walks <a id="sec-4-3" name="sec-4-3"></a>
+### 4.3. Random walks <a id="sec-4-2" name="sec-4-2"></a>
 
-Our final and perhaps most beautiful scaling law is associated with *random walks*.
+A beautiful and extremely useful scaling law is associated with *random walks*.
 Imagine an atom jiggling around randomly in a hot gas.
 On average, it will travel some distance $\ell$ between collisions.
 Surprisingly, after $n$ collisions, the approximate distance $d$ from
@@ -1583,40 +1609,6 @@ Atmospheric pressure is $101$ kPa.
  $d$ is the diameter of a drunkard.
 
 ---
-
-## 5. Conclusion<a id="sec-5" name="sec-5"></a>
-
-It's mysterious to me that these techniques are not usually taught
-in either high school or first year physics.
-Lack of mathematical background is not the problem.
-
-#### References
-
-Finally, I recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground in greater depth.
-
-http://www.fractalcities.org/book/Fractal%20Cities%20Introduction.pdf
-
-https://users.math.yale.edu/~bbm3/web_pdfs/076stochasticModels.pdf
-
-https://core.ac.uk/download/pdf/82639372.pdf
-
-https://dogfishtacklecompany.com/blogs/news/112355910-first-post
-
-https://www.ias.ac.in/article/fulltext/reso/011/01/0063-0078
-
-https://arxiv.org/pdf/physics/0504201.pdf
-
-http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1906_thesis.pdf
-
-http://physics.bu.edu/~duffy/HTML5/brownian_motion.html
-
-https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1478-4408.1983.tb03728.x
-
-http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking.pdf
-
-https://www.quora.com/Theoretically-how-tall-or-large-can-a-land-animal-evolve-What-would-happen-if-an-animal-exceeded-this-size
 
 ## Appendix: random walks<a id="app-1" name="app-1"></a>
 
