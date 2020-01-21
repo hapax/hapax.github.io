@@ -395,10 +395,10 @@ Voilà, rain!
 **Exercise 2 (sinking balls).**
 (a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
-It weighed $2.25$ tons (above water) and had a diameter of $1.45$ m.
-Roughly how long would it take to sink to the bottom of the Mariana Trench?
-The Mariana Trench is $11$ km deep, and filled with cold water of
-viscosity $\mu \approx 0.0016 \text{ kg/m s}$.
+It weighed $2.25$ tons (above water), had a diameter of $1.45$ m, and
+held the world record for deepest dive (until 1949) at $923$ m.
+Roghly how long did it take to reach that depth?
+The viscosity of cold water is $\mu \approx 0.0016$ kg/m s.
 
 *Hint.* Assume it is travelling at terminal velocity, and Stokes' law
 applies. You should also take buoyancy forces into account!
@@ -411,24 +411,11 @@ use Stokes' law to determine the size of small iron spheres dropped in water.
 ### 2.3. Usage notes<a id="sec-2-3" name="sec-2-3"></a>
 
 *Numbers.* Dimensional analysis has its limits.
-First of all, since we throw away numbers, it only good up
-to an overall numerical factor.
-In the first example, I sneakily chose angular velocity so that the
-missing numerical factor was $1$, but in the second example, we were off by
-$6\pi \approx 20$.
-It is perhaps better to think of dimensional analysis as giving
-system-dependent *scales* rather than answers to specific questions.
+First of all, it can be wrong by an overall numerical factor.
+In the second example, for instance, we were off by $6\pi \approx 20$.
 That said, more often than not the missing number is close to $1$, and
 we can even account for some factors of $\pi$ by adding an extra
 dimension for angles (Exercise 4).
-
-*Constants.* Numbers are dimensionless constants.
-However, *dimensionful* constants secretly encode important physical
-insights.
-Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
-constant $k_B$ (Exercise 3).
-See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-for more on the role these constants play in dimensional analysis.
 
 *Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
@@ -441,18 +428,10 @@ b,c)$ and each dimension gives us an equation.
 Three equations is just right for three unknowns.
 Any more unknowns, and you don't have enough equations to determine
 them all!
-
-More generally, if you can write everything in terms of $n$
-independent basic units, you can have at most $n$ physical parameters
-in your dimensional guess; otherwise you have too many unknowns to
-determine with your equations.
-There are other ways dimensional analysis can break down, e.g. if you
-have two relevant quantities (say, two lengths) with the same dimension.
-All these subtleties are captured in something called the
+There are further subtleties captured by a result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
-For an elementary treatment, check out my
-[notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
-*Street-Fighting Mathematics*.
+See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
+*Street-Fighting Mathematics* for an elementary treatment.
 
 *Extra dimensions.* Length, mass and time are not
 the only basic dimensions.
@@ -461,13 +440,14 @@ Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are crucial in atomic physics, thermodynamics and
 chemistry, and you can see an application in Exercise 3.
-But there are no real restrictions on this list of basic dimensions.
-For instance, imagine that artistic taste was objective and did not
-vary between individuals.
-Humans could "measure" a painting by rating it out of $10$.
-The dimension would be the aesthetic merit of a painting, and (as
-far as I can tell) there is no way to express this in terms
-of other basic dimensions.
+
+*Constants.* Numbers are dimensionless constants.
+However, *dimensionful* constants secretly encode important physical
+insights.
+Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
+constant $k_B$ (Exercise 3).
+See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
+for more on the powerful role these constants play in dimensional analysis.
 
 ---
 
