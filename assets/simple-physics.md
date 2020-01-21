@@ -11,7 +11,7 @@ date:  2020-01-06
 
 ### Contents
 
-1. <a href="#sec-1">Physics hackers</a>
+1. <a href="#sec-1">Hacker spirit</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
    2. <a href="#sec-2-2">Drag and drop</a>
@@ -28,26 +28,35 @@ date:  2020-01-06
    4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
+## 1. Hacker spirit <a id="sec-1" name="sec-1"></a>
 
 Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
 90s pixie cut.
 But there is a nobler usage which predates this.
-*Hacker culture* grew out of places like MIT in the 60s, and although
-it is primarily associated with programming, the ethos is more general.
+*Hacker culture*, in the original sense, grew out of places like MIT
+in the 60s, and although primarily associated with programming, the
+ethos is more generally about play, understanding and creativity.
 In the words of open-source guru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
-What they had in common was mainly love of excellence and
-programming. They wanted to make their programs that they used be as
+What [hackers] had in common was a love of excellence and
+programming. They wanted to make the programs that they used be as
 good as they could. They also wanted to make them do neat things. They
 wanted to be able to do something in a more exciting way than anyone
 believed possible and show  "Look how wonderful this is. I bet you
 didn't believe this could be done."
 </span>
 
-It is in this spirit I want to propose *hacking physics*.
+I think physics needs more hacker spirit, a willingness to explore,
+play, and use simple tools creatively.
+
+There are certainly examples of this.
+The
+[barometer question](https://en.wikipedia.org/wiki/Barometer_question)
+is a classic example of hacker spirit, and Richard Feynman, the
+bongo-playing, womanising Byron of 20th century physics, may be the
+patron saint of hacker spirit.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
