@@ -910,7 +910,7 @@ If the steps are uncorrelated, and average step size is $\ell$, then
 the second set of terms vanishes and the first set gives $d^2 \sim
 n\ell^2$, since each $s_i^2 = \ell^2$.
 Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
-For the mathematically inclined, the details of the proof are spelt
+The details of the proof are spelt
 out in an <a href="#sec-4-3">optional section</a> below.
 
 This $\sqrt{t}$ scaling is the defining feature of a *random walk*.
