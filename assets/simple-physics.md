@@ -25,10 +25,9 @@ date:  2020-01-06
    3. <a href="#sec-3-3">KISS</a>
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Random walks</a>
-   1. <a href="#sec-3-1">Geometric means</a>
-   2. <a href="#sec-3-2">Subestimates</a>
-   3. <a href="#sec-3-3">KISS</a>
-   4. <a href="#sec-3-4">Usage notes</a>
+   1. <a href="#sec-4-1">Polymers</a>
+   2. <a href="#sec-4-2">Brownian motion</a>
+   3. <a href="#sec-4-3">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -910,8 +909,8 @@ If the steps are uncorrelated, and average step size is $\ell$, then
 the second set of terms vanishes and the first set gives $d^2 \sim
 n\ell^2$, since each $s_i^2 = \ell^2$.
 Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
-(For the mathematically inclined, the details of the proof are spelt
-out in the <a href="#app-1">appendix</a>.)
+For the mathematically inclined, the details of the proof are spelt
+out in an <a href="#sec-4-3">optional section</a> below.
 
 Remarkably, the scaling does not depend on the number of dimensions.
 It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
@@ -938,7 +937,9 @@ walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
 
-*DNA polymer.* We start with a biological application.
+### 4.1. Polymers <a id="sec-4-1" name="sec-4-1"></a>
+
+We start with a biological application.
 When a cell nucleus ruptures, the tightly coiled DNA
 will spill out in a random fashion.
 The DNA can be modelled as a chain of approximately straight chunks of
@@ -978,7 +979,7 @@ of magnitude!
 
 ---
 
-**Exercise 17 (deep sea fishing).** Wandering the shipyards one day, you
+**Exercise 11 (deep sea fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned deep sea
 fishing vessel.
 The mooring chain is heaped randomly in a pile on the dock.
@@ -993,7 +994,9 @@ Roughly how long was the vessel?
 
 ---
 
-*Brownian motion.* Before the 20th century, the notion that matter was
+### 4.2. Brownian motion <a id="sec-4-2" name="sec-4-2"></a>
+
+Before the 20th century, the notion that matter was
 made of tiny, indivisible lumps was regarded with skepticism.
 But in 1905, long before we could see atoms with microscopes, a Swiss
 patent clerk came up with a brilliant indirect method for proving their
@@ -1096,7 +1099,7 @@ experimentally in 1908 by Jean Perrin.
 
 ---
 
-**Exercise 17 (randomness is slow).** Estimate how long it takes a
+**Exercise 12 (randomness is slow).** Estimate how long it takes a
 drop of dye to spread throughout a cup of water by Brownian motion.
   Dye particles have size $\sim 1\, \mu$m, and water at room
   temperature has viscosity $\eta = 10^{-3}$ km/m s.
@@ -1106,7 +1109,7 @@ drop of dye to spread throughout a cup of water by Brownian motion.
   ⁂
 </p>
 
-**Exercise 18 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1133,7 +1136,7 @@ where $c$ is the speed of light.
   ⁂
 </p>
 
-**Exercise 17 (more collisions).** Two spheres of radius $r$
+**Exercise 14 (more collisions).** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
   To find the average distance between colliding particles of the *same*
@@ -1160,7 +1163,7 @@ Atmospheric pressure is $101$ kPa.
 
 ---
 
-## Appendix: random walks<a id="app-1" name="app-1"></a>
+### 4.3. Mathematical details (optional) <a id="sec-4-3" name="sec-4-3"></a>
 
 We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
@@ -1312,12 +1315,12 @@ $$
 $$
 
 in any number of dimensions.
-Notice also that we do not need the steps to be the same length, or
-live on a lattice.
+Notice also that we do not need to assume the steps are the same
+length or live on lattice.
 
 ---
 
-**Exercise A.1 (expectation).** Show that, if $f(X)$ and $g(X)$ are
+**Exercise 15 (expectation).** Show that, if $f(X)$ and $g(X)$ are
 functions of a random variable $X$, then
 
 $$
@@ -1328,7 +1331,7 @@ $$
   ⁂
 	  </p>
 
-**Exercise A.2 (length in higher dimensions).** Consider a vector
+**Exercise 16 (length in higher dimensions).** Consider a vector
 $\vec{C} = (C^1, \ldots, C^d)$ in $d$ dimensions.
 
 (a) We can write the vector as a sum
