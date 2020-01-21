@@ -26,8 +26,9 @@ date:  2020-01-06
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
-   2. <a href="#sec-4-2">Brownian motion</a>
-   3. <a href="#sec-4-3">Mathematical details</a>
+   2. <a href="#sec-4-2">Collisions</a>
+   3. <a href="#sec-4-3">Brownian motion</a>
+   4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -912,6 +913,7 @@ Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
 For the mathematically inclined, the details of the proof are spelt
 out in an <a href="#sec-4-3">optional section</a> below.
 
+This $\sqrt{t}$ scaling is the defining feature of a *random walk*.
 Remarkably, the scaling does not depend on the number of dimensions.
 It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
 two-dimensional streetscape, or a virtual bacterium foraging in a
@@ -937,20 +939,37 @@ walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
 
+---
+
+**Exercise 11().**
+
+---
+
 ### 4.1. Polymers <a id="sec-4-1" name="sec-4-1"></a>
 
-We start with a biological application.
-When a cell nucleus ruptures, the tightly coiled DNA
-will spill out in a random fashion.
-The DNA can be modelled as a chain of approximately straight chunks of
-length $\ell = 48$ nm, each of which corresponds to about 140 base
-pairs (bp).
-Put differently, after 140 bp the strand forgets which direction it
-was pointing.
-After the rupture, these chunks form a random walk.
+Random walks not only apply to processes in time, but also in space.
+The most important example is polymers: long, jointed chains of
+molecules which can often be described by a random walk.
+In this case, the step length $\ell$ is the *persistence length* of
+the polymer, the distance the polymer remains approximately straight.
+After a persistence length, the chain will forget which way it is
+pointing and choose a new, uncorrelated direction.
+We'll look at a famous biological application to the biggest, baddest,
+most biologically indispensable polymer of them all: *DNA*.
 
-In the photo above, a single-celled *Escherichia coli* (E. coli) bacterium has
-ruptured.
+Every cell in an organism contains a copy of its building instructions
+in DNA form.
+Most organisms are *eukaryotes*, meaning every cell has a nucleus for
+storing the DNA, but in *prokaryotes* (such as bacteria), the DNA just
+floats around in the cell.
+Either way, If the container ruptures, the tightly coiled DNA will
+spill out and form a random walk of approximately straight chunks.
+The persistence length is $\ell = 48$ nm, which corresponds to about
+140 base pairs (bp).
+(A base pair is just one of the dumbbell components of the double helix.)
+
+In the photo above, the nucleus of a single-celled *Escherichia coli*
+(E. coli) bacterium has ruptured.
 From the spill, we can estimate the length of its genome!
 The DNA covers a region with radius
 
@@ -979,22 +998,96 @@ of magnitude!
 
 ---
 
-**Exercise 11 (deep sea fishing).** Wandering the shipyards one day, you
-notice a rusty old anchor, probably from a decommissioned deep sea
-fishing vessel.
-The mooring chain is heaped randomly in a pile on the dock.
+**Exercise 11 (deep thinking).** Wandering the shipyards one day, you
+notice a rusty old anchor, probably from a decommissioned fishing vessel.
+The mooring chain is haphazardly piled on the dock.
 
 (a) The links are around $7$ inches in length, and the piles is $4.7$
 m across.
 What is the approximate length of the mooring chain?
 
-(b) For deep sea vessels, a good rule of thumb is one foot of mooring
-chain per foot of boat length.
-Roughly how long was the vessel?
+(b) For vessels in shallow water, a good rule of thumb is that the
+mooring chain is $1.5$ times the depth of the water.
+How deep was the water this vessel fished in?
 
 ---
 
-### 4.2. Brownian motion <a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
+
+Our first goal is to determine the step length $\ell$.
+If a fluid particle comes within a distance $r$ of the pollen, a
+collision will happen, so to help us keep track of possible collisions
+we draw a *collision cylinder* of cross-section $\sigma = \pi r^2$
+around the grain as it moves.
+On average, there is a single fluid particle in each volume
+$U = V/\mathcal{N}$ of fluid
+We can determine $\ell$ by assuming that when the collision cylinder
+has length $\ell$, it has volume $U$, and hence on average contains a
+fluid particle.
+This leads to
+
+$$
+\sigma \ell = \frac{V}{\mathcal{N}} \quad \Longrightarrow \quad \ell =
+\frac{V}{\pi r^2 \mathcal{N}}.
+$$
+
+---
+
+**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
+to have a disco in space.
+The dance floor lies at the centre of a huge glass sphere, with a
+"gas" of $\mathcal{N}$ mirrorballs floating around it.
+The mirrorballs are illuminated by laser light shot out from pointers
+on the dance floor.
+The giant glass sphere has radius $R$, while the $\mathcal{N}$ mirror balls have
+radius $r$.
+Let's follow the trajectory of a single photon.
+
+(a) Argue that the collision cylinder around the photon has radius
+$r$.
+
+(b) Compute the approximate time it will take the photon to escape the
+giant disco ball.
+You should find
+
+$$
+t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
+$$
+
+where $c$ is the speed of light.
+
+<p align="center">
+  ⁂
+</p>
+
+**Exercise 14 (more collisions).** Two spheres of radius $r$
+  collide when their centres come within $2r$ of each other, since the
+  edges touch.
+  To find the average distance between colliding particles of the *same*
+  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
+
+(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Use this to estimate the average distance between collisions of air
+molecules in the room around you, $\ell = U/\sigma$.
+
+*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
+of temperature and pressure.
+Atmospheric pressure is $101$ kPa.
+
+(b) A group of $100$ drunkards crowds into a beer garden of radius $5$
+	m.
+	A single drunkard decides to leave, moving in a straight line
+	until they hit another drunkard, at which point they mumble an apology
+	and randomly change direction.
+	Roughly how long will it take them to escape,
+	and how many apologies will they issue?
+
+*Hint.* Use a *collision rectangle* of width $d$, where
+ $d$ is the diameter of a drunkard.
+
+---
+
+### 4.3. Brownian motion <a id="sec-4-3" name="sec-4-3"></a>
 
 Before the 20th century, the notion that matter was
 made of tiny, indivisible lumps was regarded with skepticism.
@@ -1014,23 +1107,9 @@ Now plonk some larger, visible particles into this fluid, say some
 pollen grains of radius $r$ and mass $m$.
 The pollen grains will randomly collide with particles in the fluid,
 executing a random walk as they do so.
-
-Our first goal is to determine the step length $\ell$.
-If a fluid particle comes within a distance $r$ of the pollen, a
-collision will happen, so to help us keep track of possible collisions
-we draw a *collision cylinder* of cross-section $\sigma = \pi r^2$
-around the grain as it moves.
-On average, there is a single fluid particle in each volume
-$U = V/\mathcal{N}$ of fluid
-We can determine $\ell$ by assuming that when the collision cylinder
-has length $\ell$, it has volume $U$, and hence on average contains a
-fluid particle.
-This leads to
-
-$$
-\sigma \ell = \frac{V}{\mathcal{N}} \quad \Longrightarrow \quad \ell =
-\frac{V}{\pi r^2 \mathcal{N}}.
-$$
+Assuming the grain is much larger than the fluid particles, we can
+treat them as points, so the collision cylinder has cross-section
+$\sigma = \pi r^2$.
 
 Counting the number of particles is hard, but measuring the
 temperature is easy.
@@ -1109,61 +1188,9 @@ drop of dye to spread throughout a cup of water by Brownian motion.
   ⁂
 </p>
 
-**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
-to have a disco in space.
-The dance floor lies at the centre of a huge glass sphere, with a
-"gas" of $\mathcal{N}$ mirrorballs floating around it.
-The mirrorballs are illuminated by laser light shot out from pointers
-on the dance floor.
-The giant glass sphere has radius $R$, while the $\mathcal{N}$ mirror balls have
-radius $r$.
-Let's follow the trajectory of a single photon.
-
-(a) Argue that the collision cylinder around the photon has radius
-$r$.
-
-(b) Compute the approximate time it will take the photon to escape the
-giant disco ball.
-You should find
-
-$$
-t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
-$$
-
-where $c$ is the speed of light.
-
-<p align="center">
-  ⁂
-</p>
-
-**Exercise 14 (more collisions).** Two spheres of radius $r$
-  collide when their centres come within $2r$ of each other, since the
-  edges touch.
-  To find the average distance between colliding particles of the *same*
-  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
-
-(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
-Use this to estimate the average distance between collisions of air
-molecules in the room around you, $\ell = U/\sigma$.
-
-*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
-of temperature and pressure.
-Atmospheric pressure is $101$ kPa.
-
-(b) A group of $100$ drunkards crowds into a beer garden of radius $5$
-	m.
-	A single drunkard decides to leave, moving in a straight line
-	until they hit another drunkard, at which point they mumble an apology
-	and randomly change direction.
-	Roughly how long will it take them to escape,
-	and how many apologies will they issue?
-
-*Hint.* Use a *collision rectangle* of width $d$, where
- $d$ is the diameter of a drunkard.
-
 ---
 
-### 4.3. Mathematical details (optional) <a id="sec-4-3" name="sec-4-3"></a>
+### 4.4. Mathematical details (optional) <a id="sec-4-4" name="sec-4-4"></a>
 
 We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
