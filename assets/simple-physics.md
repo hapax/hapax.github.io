@@ -11,7 +11,7 @@ date:  2020-01-06
 
 ### Contents
 
-1. <a href="#sec-1">Introduction</a>
+1. <a href="#sec-1">Physics hackers</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
    2. <a href="#sec-2-2">Drag and drop</a>
@@ -28,14 +28,14 @@ date:  2020-01-06
    4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Hackers <a id="sec-1" name="sec-1"></a>
+## 1. Physics hackers <a id="sec-1" name="sec-1"></a>
 
 Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
 90s pixie cut.
 But there is a nobler usage which predates this.
 *Hacker culture* grew out of places like MIT in the 60s, and although
-it is primarily associated with programming, the
+it is primarily associated with programming, the ethos is more general.
 In the words of open-source guru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
