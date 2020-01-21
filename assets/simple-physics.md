@@ -7,10 +7,7 @@ categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
 
-**January 6, 2020.** *Physics is awesomely powerful. Contrary to popular opinion, you don't need
-  years of advanced mathematics to taste this power! Simple
-  physics hacks and pre-calculus mathematics are
-  enough, as I copiously illustrate.*
+**January 21, 2020.** **
 
 ### Contents
 
@@ -31,50 +28,24 @@ date:  2020-01-06
    4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Introduction <a id="sec-1" name="sec-1"></a>
+## 1. Hackers <a id="sec-1" name="sec-1"></a>
 
-How many calculus courses does it take to change a light bulb?
-The answer is none, of course.
-And how many does it take to work out why clouds float, the number of
-fish in the sea, the heart rate of a whale, or follow Einstein's proof
-of the existence of atoms?
-Surprisingly, the answer is still none!
-As we'll see below, high school math and some simple physics hacks
-are sufficient to answer these questions *quantitatively*.
-The goal of this post is to explain these hacks and convince
-you of their awesome power.
+Nowadays, the word "hacker" conjures up visions of dirtbag genius
+teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
+90s pixie cut.
+But there is a nobler usage which predates this.
+*Hacker culture* grew out of places like MIT in the 60s, and although
+it is primarily associated with programming, the
+In the words of open-source guru Richard Stallman,
 
-I study quantum gravity, so by necessity I am a user (and abuser!) of
-advanced mathematics.
-But preparing for a
-[comprehensive exam](https://www.phas.ubc.ca/graduate-program-comprehensive-exam-guidelines-phd-students) and running a
-[high school physics circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
-opened my eyes to the fact that *you can do more with less*.
-Without calculus or any deep physical lore,
-you can still discover
-[black hole entropy](https://en.wikipedia.org/wiki/Black_hole_thermodynamics#Overview),
-the [dark energy](https://en.wikipedia.org/wiki/Dark_energy) density
-of the universe,
-[gravitational lensing](https://en.wikipedia.org/wiki/Gravitational_lens),
-and even the number of
-[extra dimensions](https://en.wikipedia.org/wiki/String_theory#Extra_dimensions)
-predicted by string theory.
-(See my
-[physics circle problems](https://hapax.github.io/assets/circle-probs.pdf)
-if you want to learn how.
-They have very little overlap with the problems here.)
-
-
-
-This post focuses on a set of generic problem-solving tools: *dimensional analysis*, *Fermi approximation*, and *scaling
-laws*.
-It is not oriented towards problem-solving heuristics (e.g. limiting
-arguments or symmetry) or surprisingly useful physical laws (e.g. Stefan-Boltzmann), though
-there is nontrivial overlap and I hope to say more about these in future.
-I have stuck to methods accessible to high school and first year
-students, though it is fair to say some scientific
-maturity is required of the former.
-The different sections can be read more or less independently.
+<span style="padding-left: 20px; display:block">
+What they had in common was mainly love of excellence and
+programming. They wanted to make their programs that they used be as
+good as they could. They also wanted to make them do neat things. They
+wanted to be able to do something in a more exciting way than anyone
+believed possible and show  "Look how wonderful this is. I bet you
+didn't believe this could be done."
+</span>
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
