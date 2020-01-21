@@ -910,14 +910,14 @@ If the steps are uncorrelated, and average step size is $\ell$, then
 the second set of terms vanishes and the first set gives $d^2 \sim
 n\ell^2$, since each $s_i^2 = \ell^2$.
 Taking square roots, $d \sim \ell\sqrt{n}$ as claimed.
-The details of the proof are spelt
-out in an <a href="#sec-4-3">optional section</a> below.
 
 This $\sqrt{t}$ scaling is the defining feature of a *random walk*.
 Remarkably, the scaling does not depend on the number of dimensions.
 It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
 two-dimensional streetscape, or a virtual bacterium foraging in a
 216-dimensional simulation.
+The details of the proof are spelt
+out in an <a href="#sec-4-3">optional section</a> below.
 
 If a random walker moves with speed $v$, a step takes time
 $\tau = \ell/v$, so after time $t$ the walker tends to wander a
@@ -928,7 +928,7 @@ d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
 \sqrt{\ell v}\cdot \sqrt{t} = \sqrt{Dt},
 $$
 
-where we will called $D = \ell v$ the *diffusion coefficient*.
+where we will call $D = \ell v$ the *diffusion coefficient*.
 Even though the walker moves at constant velocity, the average distance
 travelled scales as $d \propto \sqrt{t}$!
 It's important to note that "average distance" is a bit of a
@@ -941,7 +941,21 @@ that region.
 
 ---
 
-**Exercise 11().**
+**Exercise 11 (fractional random walks).** There is a generalisation
+  of random walks called *fractional random walks*, where the average
+  spread scales as
+
+$$
+d \propto t^{H},
+$$
+
+for some number $0 < H < 1$ called the *Hurst index*.
+Random walks have $H = 1/2$.
+
+(a) Explain why Hurst index $H > 1/2$ requires that steps be
+*correlated*.
+
+(b) What relation between steps does Hurst index $H < 1/2$ require?
 
 ---
 
@@ -1118,7 +1132,7 @@ pressure and temperature:
 
 $$
 PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
-\ell = \frac{k_B\mathcal{T}}{4\pi P r^2}.
+\ell = \frac{k_B\mathcal{T}}{\pi P r^2}.
 $$
 
 Since the container is tall, the pressure profile $P$ can change with
@@ -1181,7 +1195,7 @@ experimentally in 1908 by Jean Perrin.
 **Exercise 12 (randomness is slow).** Estimate how long it takes a
 drop of dye to spread throughout a cup of water by Brownian motion.
   Dye particles have size $\sim 1\, \mu$m, and water at room
-  temperature has viscosity $\eta = 10^{-3}$ km/m s.
+  temperature has viscosity $\eta = 10^{-3}$ kg/m s.
 	You should find it is a rather long time!
 
 <p align="center">
@@ -1269,11 +1283,11 @@ square root of the variance, also called the *root mean square* (rms)
 displacement, $\sqrt{\langle R^2\rangle} = \sqrt{n}$.
 This is the distance from the origin the counter will tend to wander
 in the first $n$ steps.
-If instead of steps $\pm 1$, we have steps $\pm s$, then $\langle
-X^2\rangle = s^2$ and the rms displacement becomes
+If instead of steps $\pm 1$, we have steps $\pm \ell$, then $\langle
+X^2\rangle = \ell^2$ and the rms displacement becomes
 
 $$
-\sqrt{\langle R^2\rangle} = s\sqrt{n}
+\sqrt{\langle R^2\rangle} = \ell\sqrt{n}
 $$
 
 as claimed above.
@@ -1292,11 +1306,11 @@ $$
 |\vec{X}| = \sqrt{(X^1)^2 + (X^2)^2 + \cdots + (X^d)^2}.
 $$
 
-Let's assume that the average step length is $s$, and steps are
+Let's assume that the average step length is $ \ell $, and steps are
 unbiased, so
 
 $$
-\langle \vec{X} \rangle = \vec{0} = (0, 0, \ldots, 0), \quad \langle |\vec{X}|^2 \rangle = s^2.
+\langle \vec{X} \rangle = \vec{0} = (0, 0, \ldots, 0), \quad \langle |\vec{X}|^2 \rangle = \ell^2.
 $$
 
 Finally, we assume that steps are independent, so any two components of
@@ -1326,7 +1340,7 @@ X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
 (X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]\\
 & = \langle |\vec{X}_1|^2\rangle + \cdots +\langle
 |\vec{X}_n|^2\rangle\\
-& = n s^2,
+& = n \ell^2,
 \end{align*}
 $$
 
@@ -1338,7 +1352,7 @@ last line we used the assumption about average step length.
 Taking square roots, we find the rms displacement
 
 $$
-\sqrt{\langle |\vec{R}|^2\rangle} = s\sqrt{n},
+\sqrt{\langle |\vec{R}|^2\rangle} = \ell\sqrt{n},
 $$
 
 in any number of dimensions.
