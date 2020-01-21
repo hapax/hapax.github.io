@@ -28,7 +28,7 @@ date:  2020-01-06
    4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Physics hackers <a id="sec-1" name="sec-1"></a>
+## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
 Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
@@ -46,6 +46,8 @@ wanted to be able to do something in a more exciting way than anyone
 believed possible and show  "Look how wonderful this is. I bet you
 didn't believe this could be done."
 </span>
+
+It is in this spirit I want to propose *hacking physics*.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
