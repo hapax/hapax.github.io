@@ -59,7 +59,7 @@ In a way, they realise David Deutsch's
 [definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 of knowledge as
 *information with causal power*.
-Knowing a technique well enough to hack it lets you *do more*.
+Knowing a technique well enough to hack it means you can *do more*.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
@@ -71,8 +71,6 @@ even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
 science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 We can do better.
-
-*High-leverage hacks.*
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
