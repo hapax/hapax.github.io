@@ -67,7 +67,7 @@ Physics is not withouts its hackers.
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
 bongo-playing, womanising Byron of 20th century physics springs to
 mind, as does the
-[famous question](https://en.wikipedia.org/wiki/Barometer_question)
+[apocryphal exam question](https://en.wikipedia.org/wiki/Barometer_question)
 about determining the height of a building with a barometer.
 But in general, 
 
