@@ -34,7 +34,7 @@ date:  2020-01-06
 teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
 But there is a nobler usage which predates this.
 *Hacker culture*, in the original sense, grew out of places like MIT
-in the 60s, with its tradition of elaborate technical pranks.
+in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
 Although associated with programming, hacking spirit can be viewed as
 a broader ethos about play, understanding and creativity.
 In the words of open-source guru Richard Stallman,
