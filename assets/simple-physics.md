@@ -60,7 +60,7 @@ In a way, they realise David Deutsch's
 of knowledge as
 *information with causal power*.
 Really understanding something --- enough to hack it --- means you can
-not only *do better*, but *do more*.
+not only *do better*, but *do more* with it.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
