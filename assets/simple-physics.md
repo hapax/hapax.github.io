@@ -69,7 +69,11 @@ bongo-playing, womanising Byron of 20th century physics springs to
 mind, as does the
 [apocryphal exam question](https://en.wikipedia.org/wiki/Barometer_question)
 about determining the height of a building with a barometer.
-But in general, 
+Modern examples include [Randall Munroe](https://what-if.xkcd.com/)
+and
+[popular](https://www.oreilly.com/library/view/guesstimation/9781400824441/)
+[treatments](https://aaronsantos.com/Site/How_Many_Licks.html) of
+Fermi estimates.
 
 *High-leverage hacks.* The 
 
