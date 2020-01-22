@@ -49,7 +49,7 @@ didn't believe this could be done."
 </span>
 
 Using techniques in a clever or unexpected way is a *hack*, with *hack
-value* quantifying the degree of ingenuity. (Interestingly, the first
+value* quantifying the degree of ingenuity. (The first
 term is a back-formation of the second.)
 Hackers do not look for the most powerful, or obvious, or easy tool
 for the job.
