@@ -32,7 +32,7 @@ date:  2020-01-06
 
 *Hacker culture.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
-But there is a nobler usage which predates this.
+But a nobler usage predates this.
 *Hacker culture*, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
 Although associated with programming, hacking spirit can be viewed as
