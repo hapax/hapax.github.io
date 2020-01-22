@@ -70,7 +70,7 @@ Physics is not withouts its hackers
 [the folk Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
 even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
 science, the hackers tend to be colourful exceptions, tending towards
-self-mythology or goofy irreverence.
+goofy irreverence or self-mythology.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
