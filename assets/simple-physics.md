@@ -55,32 +55,17 @@ Hackers do not look for the most powerful, or obvious, or easy tool
 for the job.
 They delight in the unexpected, in using humble means to achieve
 extraordinary ends.
-In a way, they realise David Deutsch's definition of [*knowledge as
-information with causal power*](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity).
-Really understanding something means you can not only *do better*, but
-*do more*.
+In a way, they realise David Deutsch's
+[definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
+of knowledge as
+*information with causal power*.
+Really understanding something --- enough to hack it --- means you can
+not only *do better*, but *do more*.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
 Physics is not withouts its hackers.
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
-bongo-playing, womanising Byron of 20th century physics springs to
-mind, as does the
-[apocryphal exam question](https://en.wikipedia.org/wiki/Barometer_question)
-about determining the height of a building with a barometer.
-Modern examples include [Randall Munroe](https://what-if.xkcd.com/)
-and
-[popular](https://www.oreilly.com/library/view/guesstimation/9781400824441/)
-[treatments](https://aaronsantos.com/Site/How_Many_Licks.html) of
-Fermi estimates.
-I'm sure there are many other examples I'm missing.
-
-*High-leverage hacks.* But mainstream physics culture does not share
-this hacking spirit.
-It is serious, conventional, and often pessimistic about the utility
-of elementary techniques.
-My goal in writing this post is to
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 

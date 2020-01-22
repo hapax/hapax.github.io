@@ -1,3 +1,15 @@
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
+bongo-playing, womanising Byron of 20th century physics, comes to
+mind, as does the
+[apocryphal exam question](https://en.wikipedia.org/wiki/Barometer_question)
+about determining the height of a building with a barometer.
+Perhaps the best modern examples are [xkcd](https://what-if.xkcd.com/)
+and [popular](https://www.oreilly.com/library/view/guesstimation/9781400824441/)
+[books](https://aaronsantos.com/Site/How_Many_Licks.html) on
+Fermi estimates.
+a goofy irreverence which is fine and good, but
+tends 
+
 **January 6, 2020.** *Physics is awesomely powerful. Contrary to popular opinion, you don't need
   years of advanced mathematics to taste this power! Simple
   physics hacks and pre-calculus mathematics are
@@ -59,6 +71,8 @@ Lack of mathematical background is not the problem.
 Finally, I recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 covering similar ground in greater depth.
+
+https://web.archive.org/web/20160103040425/http://www.isoc.org/inet2000/cdproceedings/2a/2a_2.htm
 
 http://www.fractalcities.org/book/Fractal%20Cities%20Introduction.pdf
 
