@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Hacks for the back of a napkin"
+title:  "Hacking physics from the back of a napkin"
 categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
@@ -28,14 +28,14 @@ date:  2020-01-06
    4. <a href="#sec-4-4">Mathematical details</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Hacker spirit <a id="sec-1" name="sec-1"></a>
+## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
-Nowadays, the word "hacker" conjures up visions of dirtbag genius
+*Hacker culture.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
 90s pixie cut.
 But there is a nobler usage which predates this.
 *Hacker culture*, in the original sense, grew out of places like MIT
-with its elaborate pranks in the 60s.
+in thr 60s, with its tradition of elaborate technical pranks.
 Although associated with programming, hacking spirit can be viewed as
 a broader ethos about play, understanding and creativity.
 In the words of open-source guru Richard Stallman,
@@ -49,13 +49,28 @@ believed possible and show  "Look how wonderful this is. I bet you
 didn't believe this could be done."
 </span>
 
-I think physics needs more hacker spirit: a willingness to explore,
-play, and creatively defy expectation.
+Using techniques in a clever or unexpected way is a *hack*, with *hack
+value* quantifying the degree of ingenuity. (Interestingly, the first
+term is a back-formation of the second.)
+Hackers do not look for the most powerful, or obvious, or easy tool
+for the job.
+They delight in the unexpected, in using humble means to achieve
+extraordinary ends.
+In a way, they realise David Deutsch's definition of [*knowledge as
+information with causal power*](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity).
+Really understanding something means you can not only *do better*, but
+*do more*.
 
-Hacker spirit certainly has precedents in physics, and
+I think physics needs more hacker spirit: more people willing to fool
+around and explore what our marvellous toolset can do, to creatively
+defy expectations and push the Deutschian envelope.
+Physics is not withouts its hackers.
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
-bongo-playing, womanising Byron of 20th century physics, may be its
-patron saint.
+bongo-playing, womanising Byron of 20th century physics springs to
+mind.
+But 
+
+*High-leverage hacks.* The 
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
