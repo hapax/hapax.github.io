@@ -31,7 +31,7 @@ date:  2020-01-06
 ## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
 *Hacker culture.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
-teenagers, geopolitical intrigue, and Angelina Jolie with a pixie cut.
+teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
 But there is a nobler usage which predates this.
 *Hacker culture*, in the original sense, grew out of places like MIT
 in thr 60s, with its tradition of elaborate technical pranks.
