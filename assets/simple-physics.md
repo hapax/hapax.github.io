@@ -35,8 +35,9 @@ teenagers, geopolitical intrigue, and Angelina Jolie's unforgettable
 90s pixie cut.
 But there is a nobler usage which predates this.
 *Hacker culture*, in the original sense, grew out of places like MIT
-in the 60s, and although primarily associated with programming, the
-ethos is more generally about play, understanding and creativity.
+with its elaborate pranks in the 60s.
+Although associated with programming, hacking spirit can be viewed as
+a broader ethos about play, understanding and creativity.
 In the words of open-source guru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
@@ -48,15 +49,13 @@ believed possible and show  "Look how wonderful this is. I bet you
 didn't believe this could be done."
 </span>
 
-I think physics needs more hacker spirit, a willingness to explore,
-play, and use simple tools creatively.
+I think physics needs more hacker spirit: a willingness to explore,
+play, and creatively defy expectation.
 
-There are certainly examples of this.
-The
-[barometer question](https://en.wikipedia.org/wiki/Barometer_question)
-is a classic example of hacker spirit, and Richard Feynman, the
-bongo-playing, womanising Byron of 20th century physics, may be the
-patron saint of hacker spirit.
+Hacker spirit certainly has precedents in physics, and
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
+bongo-playing, womanising Byron of 20th century physics, may be its
+patron saint.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -1379,3 +1378,7 @@ $$
 $$
 
 ---
+
+#### References
+
+https://en.wikipedia.org/wiki/Barometer_question
