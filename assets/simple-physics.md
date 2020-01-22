@@ -33,7 +33,7 @@ date:  2020-01-06
 *Hacker culture.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
 But a nobler usage predates this.
-*Hacker culture*, in the original sense, grew out of places like MIT
+Hacker culture, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
 Although associated with programming, hacking spirit can be viewed as
 a broader ethos about play, understanding and creativity.
@@ -59,8 +59,8 @@ In a way, they realise David Deutsch's
 [definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 of knowledge as
 *information with causal power*.
-Really understanding something --- enough to hack it --- means you can
-not only *do better*, but *do more* with it.
+Understanding something enough to hack it not only lets you *do
+better*, but allows you to *do more*.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
@@ -70,7 +70,10 @@ Physics is not withouts its hackers
 [the folk Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
 even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
 science, the hackers are colourful exceptions, tending towards
-goofy irreverence or self-mythology.
+goofy irreverence and self-mythology.
+We can do better.
+
+*High-leverage hacks.*
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
