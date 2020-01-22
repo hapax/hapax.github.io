@@ -67,9 +67,10 @@ around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
 Physics is not withouts its hackers
 ([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman),
-[mythical Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
+[the folk Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
 even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
-science, physics as a whole is not suffused with hacker spirit.
+science, the hackers tend to be colourful exceptions, tending towards
+self-mythology or goofy irreverence.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
