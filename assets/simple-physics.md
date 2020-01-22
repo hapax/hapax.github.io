@@ -392,12 +392,12 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (sinking balls).**
+**Exercise 2 (dropping balls).**
 (a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
 It weighed $2.25$ tons (above water), had a diameter of $1.45$ m, and
 held the world record for deepest dive (until 1949) at $923$ m.
-Roghly how long did it take to reach that depth?
+Roughly how long did it take to reach that depth?
 The viscosity of cold water is $\mu \approx 0.0016$ kg/m s.
 
 *Hint.* Assume it is travelling at terminal velocity, and Stokes' law
@@ -451,7 +451,7 @@ for more on the powerful role these constants play in dimensional analysis.
 
 ---
 
-**Exercise 3 (ideal gas law).** A gas of $\mathcal{N}$ particles takes up
+**Exercise 3 (the best gas).** A gas of $\mathcal{N}$ particles takes up
   space (with volume $V$), pushes on its container (with pressure
   $P$), and is hot (with temperature $\mathcal{T}$).
   These properties are not independent!
@@ -602,7 +602,7 @@ mooney!
 
 ---
 
-**Exercise 5 (lunar radius).** Fermi estimate the radius of the moon.
+**Exercise 5 (lunar ruler).** Fermi estimate the radius of the moon.
 
 *Hint.* Take the geometric mean of an overestimate and an underestimate.
 For an overestimate, you could try the radius of
@@ -697,7 +697,7 @@ often happens with Fermi estimates, you land on your feet!
 
 ---
 
-**Exercise 7 (churches in the US).** Guess the number of churches in
+**Exercise 7 (churches).** Guess the number of churches in
 the US.
 
 *Hint.* A particularly useful intermediate factor is *people*, both in
@@ -774,7 +774,7 @@ we should be spot on!
 
 ---
 
-**Exercise 8 (Canadian budget).** Guess the Canadian government's
+**Exercise 8 (loonies).** Guess the Canadian government's
   federal budget for 2019.
 
 ---
@@ -948,7 +948,7 @@ $$
 d \propto t^{H},
 $$
 
-for some number $0 < H < 1$ called the *Hurst index*.
+for some number $0 < H < 1$, called the *Hurst index*.
 Random walks have $H = 1/2$.
 
 (a) Explain why Hurst index $H > 1/2$ requires that steps be
