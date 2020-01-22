@@ -74,8 +74,13 @@ and
 [popular](https://www.oreilly.com/library/view/guesstimation/9781400824441/)
 [treatments](https://aaronsantos.com/Site/How_Many_Licks.html) of
 Fermi estimates.
+I'm sure there are many other examples I'm missing.
 
-*High-leverage hacks.* The 
+*High-leverage hacks.* But mainstream physics culture does not share
+this hacking spirit.
+It is serious, conventional, and often pessimistic about the utility
+of elementary techniques.
+My goal in writing this post is to
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
