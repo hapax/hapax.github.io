@@ -65,7 +65,11 @@ not only *do better*, but *do more* with it.
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
-Physics is not withouts its hackers.
+Physics is not withouts its hackers
+([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman),
+[mythical Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
+even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
+science, physics as a whole is not suffused with hacker spirit.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
