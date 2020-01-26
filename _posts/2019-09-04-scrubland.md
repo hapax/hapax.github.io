@@ -1537,8 +1537,8 @@ writing this post. I've included some brief annotations.
   new ways to explain science using "cognitive media". (See also Bret Victor.)
 - ["**Sublimation of moth balls**"](https://eric.ed.gov/?id=EJ180235)
   (1978), M. G. C. Peiris and K. Tennakone. A cute AJP article on moth ball sublimation.
-- **_A Theory of Justice_** (1971), John Rawls. Perhaps the most
-  influential book on political philosophy in the 20th century.
+- **_A Theory of Justice_** (1971), John Rawls. The most influential
+  book on political philosophy and liberalism of the 20th century.
 - "**The Mathematical Unconscious**" (1981), Seymour Papert. In
   *Aesthetics in Science*, ed. Judith Weschler. A perceptive essay on
   aesthetics and mathematical intuition from one of the giants of

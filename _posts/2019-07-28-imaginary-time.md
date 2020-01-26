@@ -456,10 +456,10 @@ $$
 The $\cdots$ mean that, as we move away from the horizon, the
 resemblance between the black hole and flat space breaks down.
 Although the black hole looks just like a hot lump of coal at the
-horizon, for an observer far away, spacetime curvature chances the
-observed distribution of radiations.
+horizon, for an observer far away, spacetime curvature changes the
+observed distribution of radiation.
 These alterations are called *greybody factors*.
-We won't discuss these any further here, and continue to focus on the
+We won't discuss them any further here, and continue to focus on the
 near-horizon region where the analogy to Rindler space is good.
 
 ---
