@@ -44,7 +44,7 @@ What [hackers] had in common was a love of excellence and
 programming. They wanted to make the programs that they used be as
 good as they could. They also wanted to make them do neat things. They
 wanted to be able to do something in a more exciting way than anyone
-believed possible and show `Look how wonderful this is. I bet you
+believed possible and show 'Look how wonderful this is. I bet you
 didn't believe this could be done.'
 </span>
 
@@ -89,13 +89,12 @@ to black holes, aliens, dark energy, turbulence, mosh pits, and the amount
 of money concealed in couches across Canada!
 
 A final point.
-Hackery is not just about excellence and creativity, but has clear
-pedagogical implications.
-Sure, you can wait until grad school to learn about Stokes' law, power
-usage in Vancouver, or the size the E. coli genome.
-But instead, imagine a high school or first student is handed a
-napkin, a few hints, and the gentle reassurance that they can do it
-themselves.
+Hackery is not just about excellence and creativity for their own
+sake, but has clear *pedagogical* implications.
+Most people have to wait until grad school to derive Stokes' law, estimate
+urban power usage, or compute the size of the E. coli genome.
+But imagine a world where high school students are given a few hints,
+a pencil, and a napkin, and derive it themselves.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
