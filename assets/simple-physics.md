@@ -73,7 +73,7 @@ goofy irreverence and self-mythology.
 We can do better.
 
 *Napkin hacks.* The goal here is to make a small contribution along these
-lines, and describe some simple hacks:
+lines by describing some simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin; no calculus required!
