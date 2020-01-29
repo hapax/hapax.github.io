@@ -90,8 +90,8 @@ on
 and Fermi estimates for the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 Examples there include turbulence, black hole temperature and entropy,
-dark energy, gravitational lensing and even string theory.
-The hacks really are powerful!
+gravitational lensing, dark energy, and (okay, a little cheap novelty)
+cubesats launched by sneeze.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
