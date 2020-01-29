@@ -79,8 +79,8 @@ back of a napkin.
 No calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
 *real physics*, culminating in a description of Brownian motion.
-(Fermi questions in particular can tend towards cheap novelty which
-sells the technique short.)
+Fermi questions in particular can tend towards cheap novelty, which
+are going to try and avoid.
 
 For many more examples of the power of these techniques, I can't
 resist a little self-promotion: ny
