@@ -74,7 +74,7 @@ We can do better.
 
 *Napkin hacks.* The goal here is to describe a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
-All the calculations can be done using high-school algebra, on the
+All the calculations can be done using high-school algebra on the
 back of a napkin.
 No calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
