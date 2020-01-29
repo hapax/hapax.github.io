@@ -80,7 +80,7 @@ Although there is whimsy and irreverence aplenty, the focus will be
 Brownian motion.
 
 Hackery is not just about excellence and creativity for their own
-sake, but has clear *pedagogical* implications.
+sake, but has clear pedagogical implications.
 Most people have to wait until grad school to derive Stokes' law, estimate
 urban power usage, or compute the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
