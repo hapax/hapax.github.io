@@ -84,7 +84,7 @@ Brownian motion.
 For more examples, I can't resist
 plugging [my notes](https://hapax.github.io/outreach) for the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Check them out if you want to see these hacks applied
+Check them out if you want to see how these hacks apply
 to black holes, aliens, dark energy, turbulence, mosh pits, and the total amount
 of money concealed in couches across Canada!
 
