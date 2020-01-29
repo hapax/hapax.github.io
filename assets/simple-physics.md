@@ -30,7 +30,7 @@ date:  2020-01-06
 
 ## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
-*Hacker culture.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
+*Hacker spirit.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
 teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
 But a nobler usage predates this.
 Hacker culture, in the original sense, grew out of places like MIT
@@ -59,18 +59,30 @@ In a way, they realise David Deutsch's
 [definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 of knowledge as
 *information with causal power*.
-Knowing a technique well enough to hack it means you can *do more*.
+Knowing a technique well enough to hack it means you can do stuff with
+it people aren't expecting.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
 Physics is not withouts its hackers
-([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman),
-[the folk Niels Bohr](https://en.wikipedia.org/wiki/Barometer_question),
-even [Randall Munroe](https://what-if.xkcd.com/)) but unlike computer
+([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman)
+springs to mind) but unlike computer
 science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 We can do better.
+
+*Napkin hacks.* The goal here is to describe a few simple hacks:
+dimensional analysis, Fermi estimates, and random walks.
+All the calculations can be done using high-school algebra on a
+napkin.
+No calculus required!
+And we will be doing *real physics*, culminating in a description of
+Brownian motion.
+While there is whimsy and irreverence aplenty, I will try to avoid the
+cheap novelty that 
+
+https://hapax.github.io/assets/circle-probs.pdf
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -771,7 +783,7 @@ we should be spot on!
 
 ---
 
-**Exercise 8 (loonies).** Guess the Canadian government's
+**Exercise 8 (lots of loonies).** Guess the Canadian government's
   federal budget for 2019.
 
 ---
