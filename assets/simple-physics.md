@@ -11,7 +11,7 @@ date:  2020-01-06
 
 ### Contents
 
-1. <a href="#sec-1">Hacker spirit</a>
+1. <a href="#sec-1">Hacking physics</a>
 2. <a href="#sec-2">Dimensional analysis</a>
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
    2. <a href="#sec-2-2">Drag and drop</a>
