@@ -86,10 +86,10 @@ For more examples, I can't resist
 plugging my
 [problems](https://hapax.github.io/assets/circle-probs.pdf) for the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-as well as talks on
+as well as notes on
 [dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
 and Fermi estimates.
-Check them out if you want to see how these techniques can be applied
+Check them out if you want to see how these techniques applied
 to black holes, aliens, dark energy, turbulence, and the total amount
 of money concealed in couches across Canada.
 
