@@ -18,17 +18,17 @@ Lay summary and a brief introduction to holography under construction!
 
 #### Papers
 
-- [*Brane dynamics from the first law of entanglement*](https://arxiv.org/pdf/1912.05746.pdf)
+1. [*Brane dynamics from the first law of entanglement*](https://arxiv.org/pdf/1912.05746.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David
   Wakeham. arXiv: 1912.05746.
-- [*Information radiation in BCFT models of black holes*](https://arxiv.org/pdf/1910.12836.pdf)
+2. [*Information radiation in BCFT models of black holes*](https://arxiv.org/pdf/1910.12836.pdf)
   (2019). Moshe Rozali,
   [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
   [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
   Christopher Waddell, David Wakeham. arXiv: 1910.12836.
-- [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
+3. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
