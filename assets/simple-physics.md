@@ -96,8 +96,8 @@ urban power usage, or compute the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
 given a few hints, a pencil, and a napkin, they could discover all this
 themselves.
-The burden of this post is to show that advanced mathematics is not the
-sticking point.
+This world is very close to ours; all we need is a little more hacker
+spirit in the enjoyment and instruction of physics.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
