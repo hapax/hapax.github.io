@@ -77,19 +77,17 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin; no calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
-*real physics*, culminating in Einstein's Nobel-worthy results on
+*real physics*, culminating in Einstein's Nobel-worthy description of
 Brownian motion.
 
-The approach here is exciting because 
+All this hackery is not just creative, excellent and fun.
 
 For more examples, I can't resist
 plugging my
-[problems](https://hapax.github.io/assets/circle-probs.pdf) for the
-[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-as well as notes on
+[problems](https://hapax.github.io/assets/circle-probs.pdf) and notes on
 [dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-and Fermi estimates.
-Check them out if you want to see how these techniques can be applied
+and Fermi estimates for the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+Check them out if you want to see these techniques applied
 to black holes, aliens, dark energy, turbulence, mosh pits, and the total amount
 of money concealed in couches across Canada.
 
