@@ -44,8 +44,8 @@ What [hackers] had in common was a love of excellence and
 programming. They wanted to make the programs that they used be as
 good as they could. They also wanted to make them do neat things. They
 wanted to be able to do something in a more exciting way than anyone
-believed possible and show  "Look how wonderful this is. I bet you
-didn't believe this could be done."
+believed possible and show `Look how wonderful this is. I bet you
+didn't believe this could be done.'
 </span>
 
 Using techniques in a clever or unexpected way is a *hack*, with *hack
@@ -75,12 +75,12 @@ We can do better.
 *Napkin hacks.* The goal here is to describe a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
-back of a napkin.
-No calculus required!
+back of a napkin; no calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
-*real physics*, culminating in a description of Brownian motion.
-Fermi questions in particular can tend towards cheap novelty, which
-are going to try and avoid.
+*real physics*, culminating in Einstein's Nobel-worthy results on
+Brownian motion.
+
+The approach here is exciting because 
 
 For more examples, I can't resist
 plugging my
