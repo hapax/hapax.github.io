@@ -31,7 +31,7 @@ date:  2020-01-06
 ## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
 *Hacker spirit.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
-teenagers, geopolitical intrigue, and Angelina Jolie sporting a pixie cut.
+teenagers, geopolitical intrigue, and Angelina Jolie's amazing 90s pixie cut.
 But a nobler usage predates this.
 Hacker culture, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
@@ -49,8 +49,8 @@ didn't believe this could be done.'
 </span>
 
 Using techniques in a clever or unexpected way is a *hack*, with *hack
-value* quantifying the degree of ingenuity. (The first
-term is a back-formation of the second.)
+value* quantifying the degree of ingenuity. ("Hack" is actually a
+back-formation of "hack value".)
 Hackers do not look for the most powerful, or obvious, or easy tool
 for the job.
 They delight in the unexpected, in using humble means to achieve
@@ -59,8 +59,8 @@ In a way, they realise David Deutsch's
 [definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 of knowledge as
 *information with causal power*.
-Knowing a technique well enough to hack it means you can do stuff with
-it people aren't expecting.
+Knowing a technique well enough to hack it means you can *do more* and
+act on the world in new ways.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
@@ -72,8 +72,7 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 We can do better.
 
-*Napkin hacks.* The goal here is to make a small contribution along these
-lines by describing some simple hacks:
+*Napkin hacks.* My goal is to outline a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin; no calculus required!
@@ -94,7 +93,7 @@ sake, but has clear *pedagogical* implications.
 Most people have to wait until grad school to derive Stokes' law, estimate
 urban power usage, or compute the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
-given a few hints, a pencil, and a napkin, they could discover all this
+given a few hints, a pencil, and a napkin, they could discover it all
 themselves.
 This world is very close to ours; all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
