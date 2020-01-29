@@ -80,7 +80,8 @@ Although there is whimsy and irreverence aplenty, we will be doing
 *real physics*, culminating in Einstein's Nobel-worthy description of
 Brownian motion.
 
-All this hackery is not just creative, excellent and fun.
+This hackery is not about being clever for its own sake, or even
+excellent, or creative.
 
 For more examples, I can't resist
 plugging my
