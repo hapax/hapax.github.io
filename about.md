@@ -32,8 +32,9 @@ out my [blog](https://hapax.github.io) for more!
 This site is hosted by [Github Pages](https://pages.github.com/) and
 uses [Jekyll Now](https://github.com/barryclark/jekyll-now), a
 [Jekyll](https://jekyllrb.com/) theme by Barry Clark.
-Images appearing on the site are my own, usually made in
-[Inkscape](https://inkscape.org/en/)/[GIMP](https://www.gimp.org/).
+Images appearing on the site are my own (unless otherwise specific),
+made using a combination of [Inkscape](https://inkscape.org/en/),
+[GIMP](https://www.gimp.org/) and [Krita](https://krita.org/en/).
 [Lexend](https://fonts.google.com/specimen/Lexend+Deca) and
 [Nunito](https://fonts.google.com/specimen/Nunito) courtesy of [Google Fonts](https://fonts.google.com/).
 
