@@ -89,7 +89,7 @@ plugging my
 as well as notes on
 [dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
 and Fermi estimates.
-Check them out if you want to see how these techniques applied
+Check them out if you want to see how these techniques can be applied
 to black holes, aliens, dark energy, turbulence, mosh pits, and the total amount
 of money concealed in couches across Canada.
 
