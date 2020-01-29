@@ -82,15 +82,16 @@ Although there is whimsy and irreverence aplenty, we will be doing
 Fermi questions in particular can tend towards cheap novelty, which
 are going to try and avoid.
 
-For many more examples of the power of these techniques, I can't
-resist a little self-promotion: ny
-[problems](https://hapax.github.io/assets/circle-probs.pdf) and talks on
+For more examples, I can't resist
+plugging my
+[problems](https://hapax.github.io/assets/circle-probs.pdf) for the
+[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
+as well as talks on
 [dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-and Fermi estimates for the
-[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Examples there include turbulence, black hole temperature and entropy,
-gravitational lensing, dark energy, and (okay, a little cheap novelty)
-cubesats launched by sneeze.
+and Fermi estimates.
+Check them out if you want to see how these techniques can be applied
+to black holes, aliens, dark energy, turbulence, and the total amount
+of money concealed in couches across Canada.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
