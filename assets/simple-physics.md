@@ -88,7 +88,8 @@ Check them out if you want to see how to apply these hacks
 to black holes, aliens, dark energy, turbulence, mosh pits, and the amount
 of money concealed in couches across Canada!
 
-This not just about excellence and creativity: hackery has clear
+A final point.
+Hackery is not just about excellence and creativity, but has clear
 pedagogical implications.
 Sure, you can wait until grad school to learn about Stokes' law, power
 usage in Vancouver, or the size the E. coli genome.
