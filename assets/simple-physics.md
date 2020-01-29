@@ -78,19 +78,21 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin; no calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
-*real physics*, culminating in Einstein's Nobel-worthy description of
+*real physics*, culminating in Einstein's Nobel-worthy explanation of
 Brownian motion.
 
-A fundamental point I would like to 
-
 For more examples, I can't resist
-plugging my
-[problems](https://hapax.github.io/assets/circle-probs.pdf) and notes on
-[dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-and Fermi estimates for the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Check them out if you want to see these techniques applied
+plugging [my notes](https://hapax.github.io/outreach) for the
+[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+Check them out if you want to see these hacks applied
 to black holes, aliens, dark energy, turbulence, mosh pits, and the total amount
-of money concealed in couches across Canada.
+of money concealed in couches across Canada!
+
+This not just about excellence and creativity: hackery has clear
+pedagogical implications.
+Sure, you can wait until grad school to learn about Stokes' law, power
+usage in Vancouver, or scattering cross-sections.
+Or someone can give you a 
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -1039,6 +1041,8 @@ What is the approximate length of the mooring chain?
 (b) For vessels in shallow water, a good rule of thumb is that the
 mooring chain is $1.5$ times the depth of the water.
 How deep was the water this vessel fished in?
+
+HIGHER DIMENSIONS?
 
 ---
 
