@@ -94,10 +94,10 @@ sake, but has clear *pedagogical* implications.
 Most people have to wait until grad school to derive Stokes' law, estimate
 urban power usage, or compute the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
-given a few hints, a pencil, and a napkin, they could derive it all
+given a few hints, a pencil, and a napkin, they could discover all this
 themselves.
-Maybe it sounds crazy, but I hope to convince you that advanced
-mathematics is not the sticking point.
+The point of this post is to show that advanced mathematics is not the
+sticking point.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
