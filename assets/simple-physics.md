@@ -89,7 +89,7 @@ to black holes, aliens, dark energy, turbulence, mosh pits, and the amount
 of money concealed in couches across Canada!
 
 A final point.
-Hackery is not just about excellence and creativity for their own
+Hackery is not just about excellence and creativity for its own
 sake, but has clear *pedagogical* implications.
 Most people have to wait until grad school to derive Stokes' law, estimate
 urban power usage, or compute the size of the E. coli genome.
