@@ -11,8 +11,6 @@ Lay summary and a brief introduction to holography under construction!
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
     width="55%" />
-		    <figcaption><i>A 3D black hole on a 2D quantum
-    computer.</i></figcaption>
 	</div>
 	</figure>
 
