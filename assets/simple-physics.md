@@ -79,6 +79,8 @@ back of a napkin.
 No calculus required!
 Although there is whimsy and irreverence aplenty, we will be doing
 *real physics*, culminating in a description of Brownian motion.
+(I think the tendency of Fermi questions, particularly, to cheap novelty sells the
+technique short.)
 
 https://hapax.github.io/assets/circle-probs.pdf
 
@@ -454,11 +456,11 @@ insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
 See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-for more on the powerful role these constants play in dimensional analysis.
+for more on the power of these constants.
 
 ---
 
-**Exercise 3 (the best gas).** A gas of $\mathcal{N}$ particles takes up
+**Exercise 3 (ideal gas law).** A gas of $\mathcal{N}$ particles takes up
   space (with volume $V$), pushes on its container (with pressure
   $P$), and is hot (with temperature $\mathcal{T}$).
   These properties are not independent!
