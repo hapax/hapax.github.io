@@ -59,8 +59,7 @@ In a way, they realise David Deutsch's
 [definition](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 of knowledge as
 *information with causal power*.
-Knowing a technique well enough to hack it means you can *do more* and
-act on the world in new ways.
+Knowing a technique well enough to hack it means you can act on the world in new ways.
 
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
