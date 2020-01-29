@@ -95,6 +95,9 @@ plugging [my notes](https://hapax.github.io/outreach) for the
 Check them out if you want to see how to apply these hacks
 to black holes, aliens, dark energy, turbulence, mosh pits, or the amount
 of money concealed in couches across Canada!
+I also recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground in greater depth.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
