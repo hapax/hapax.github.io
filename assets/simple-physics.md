@@ -82,10 +82,9 @@ Although there is whimsy and irreverence aplenty, we will be doing
 (I think the tendency of Fermi questions, particularly, to cheap novelty sells the
 technique short.)
 
-For many more examples of hacking these techniques , I can't resist
-plugging my
-[problems](https://hapax.github.io/assets/circle-probs.pdf) and talks
-on
+For many more examples of the power of these techniques, I can't
+resist a little self-promotion: ny
+[problems](https://hapax.github.io/assets/circle-probs.pdf) and talks on
 [dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
 and Fermi estimates for the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
