@@ -72,8 +72,6 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 We can do better.
 
----
-
 *Napkin hacks.* The goal here is to describe a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
