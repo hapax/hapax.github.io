@@ -70,24 +70,16 @@ Physics is not withouts its hackers
 springs to mind) but unlike computer
 science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
-We can do better.
+But I think hacking should go mainstream.
 
 *Napkin hacks.* My goal is to outline a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
-back of a napkin; no calculus required!
-Although there is whimsy and irreverence aplenty, we will be doing
-*real physics*, culminating in Einstein's Nobel-worthy explanation of
+back of a napkin. No calculus required!
+Although there is whimsy and irreverence aplenty, the focus will be
+*real physics*, culminating in Einstein's Nobel-worthy approach to
 Brownian motion.
 
-For more examples, I can't resist
-plugging [my notes](https://hapax.github.io/outreach) for the
-[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Check them out if you want to see how to apply these hacks
-to black holes, aliens, dark energy, turbulence, mosh pits, and the amount
-of money concealed in couches across Canada!
-
-A final point.
 Hackery is not just about excellence and creativity for their own
 sake, but has clear *pedagogical* implications.
 Most people have to wait until grad school to derive Stokes' law, estimate
@@ -97,6 +89,13 @@ given a few hints, a pencil, and a napkin, they could discover it all
 themselves.
 This world is very close to ours; all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
+
+For more examples, I can't resist
+plugging [my notes](https://hapax.github.io/outreach) for the
+[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+Check them out if you want to see how to apply these hacks
+to black holes, aliens, dark energy, turbulence, mosh pits, and the amount
+of money concealed in couches across Canada!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
