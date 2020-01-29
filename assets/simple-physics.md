@@ -77,10 +77,8 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra, on the
 back of a napkin.
 No calculus required!
-And we will be doing *real physics*, culminating in a description of
-Brownian motion.
-While there is whimsy and irreverence aplenty, I will try to avoid the
-cheap novelty that 
+Although there is whimsy and irreverence aplenty, we will be doing
+*real physics*, culminating in a description of Brownian motion.
 
 https://hapax.github.io/assets/circle-probs.pdf
 
