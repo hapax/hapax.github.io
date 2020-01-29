@@ -28,22 +28,8 @@ I co-run the
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
 - [*Circle problems*](assets/circle-probs.pdf) (2018--19). A medley of
-  topics from string theory to teacups and
-  sneeze-launched cubesats. Requires only high school physics,
+  topics from tsunamis to string theory. Requires only high school physics,
   pre-calculus maths, and a strong constitution.
-
-### Teaching
-
-- *Physical systems* (2016). A
-  [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
-  on wave mechanics and Fourier analysis. I wrote the tutorials and
-  assessment below.
-  - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
-  and a little Hamiltonian mechanics.
-  - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
-  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
-  - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
-- *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure.
 
 <figure>
     <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
@@ -69,6 +55,19 @@ gravity and black holes for interested laypeople.
 - [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo.md) (2015).
   Black holes ain't so different from a hot box of gas. A talk to
   undergraduates at the University of Melbourne.
+
+### Teaching
+
+- *Physical systems* (2016). A
+  [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
+  on wave mechanics and Fourier analysis. I wrote the tutorials and
+  assessment below.
+  - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
+  and a little Hamiltonian mechanics.
+  - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
+  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
+  - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
+- *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure.
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
