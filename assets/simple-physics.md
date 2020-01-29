@@ -72,7 +72,8 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 We can do better.
 
-*Napkin hacks.* The goal here is to describe a few simple hacks:
+*Napkin hacks.* The goal here is to make a small contribution along these
+lines, and describe some simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin; no calculus required!
@@ -80,8 +81,7 @@ Although there is whimsy and irreverence aplenty, we will be doing
 *real physics*, culminating in Einstein's Nobel-worthy description of
 Brownian motion.
 
-This hackery is not about being clever for its own sake, or even
-excellent, or creative.
+A fundamental point I would like to 
 
 For more examples, I can't resist
 plugging my
