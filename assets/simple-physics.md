@@ -91,8 +91,10 @@ of money concealed in couches across Canada!
 This not just about excellence and creativity: hackery has clear
 pedagogical implications.
 Sure, you can wait until grad school to learn about Stokes' law, power
-usage in Vancouver, or scattering cross-sections.
-Or someone can give you a 
+usage in Vancouver, or the size the E. coli genome.
+But instead, imagine a high school or first student is handed a
+napkin, a few hints, and the gentle reassurance that they can do it
+themselves.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
