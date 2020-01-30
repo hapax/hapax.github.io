@@ -20,10 +20,10 @@ I co-run the
 
   Here are some talks and problems I've written for the physics circle:
 
-- *Fermi estimates: from Harry Potter to ET* (2019). A user's guide to
+- [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
-  of aliens in the galaxy.
+  of aliens in the galaxy. Rough draft.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.

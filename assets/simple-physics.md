@@ -1026,10 +1026,10 @@ that region.
 
 **Exercise 11 (fractional random walks).** There is a generalisation
   of random walks called *fractional random walks*, where the average
-  spread scales as
+  spread scales with the number of steps as
 
 $$
-d \propto t^{H},
+d \propto n^{H},
 $$
 
 for some number $0 < H < 1$, called the *Hurst index*.
@@ -1113,10 +1113,6 @@ What is the approximate length of the mooring chain?
 mooring chain is $1.5$ times the depth of the water.
 How deep was the water this vessel fished in?
 
-<p align="center">
-  ⁂
-  </p>
-
 ---
 
 ### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
@@ -1140,7 +1136,7 @@ $$
 
 ---
 
-**Exercise 14 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1167,7 +1163,7 @@ where $c$ is the speed of light.
   ⁂
 </p>
 
-**Exercise 15 (more collisions).** Two spheres of radius $r$
+**Exercise 14 (more collisions).** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
   To find the average distance between colliding particles of the *same*
@@ -1286,7 +1282,7 @@ Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 16 (Have-a-gadro).** 
+**Exercise 15 (Have-a-gadro).** 
 
 ---
 
@@ -1447,7 +1443,7 @@ length or live on lattice.
 
 ---
 
-**Exercise 17 (expectation).** Show that, if $f(X)$ and $g(X)$ are
+**Exercise 16 (expectation).** Show that, if $f(X)$ and $g(X)$ are
 functions of a random variable $X$, then
 
 $$
@@ -1458,7 +1454,7 @@ $$
   ⁂
 	  </p>
 
-**Exercise 18 (length in higher dimensions).** Consider a vector
+**Exercise 17 (length in higher dimensions).** Consider a vector
 $\vec{C} = (C^1, \ldots, C^d)$ in $d$ dimensions.
 
 (a) We can write the vector as a sum
@@ -1483,6 +1479,8 @@ $$
 $$
 
 ---
+
+## 5. Conclusions <a id="sec-5" name="sec-5"></a>
 
 #### References
 
