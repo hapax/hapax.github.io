@@ -977,9 +977,9 @@ $$
 $$
 
 If the steps have length $\ell$, then each $s_i^2 = \ell^2$.
-If different steps are independent, then on average, the cross-terms
-are zero, since different steps have no preferred orientation with
-respect to each other.
+If different steps are independent and have no preferred direction,
+then on average, the cross-terms are zero, since different steps have
+no preferred orientation with respect to each other.
 For instance, if $x$ is chosen to be $\pm 1$ with probability
 $1/2$, and $y$ is independently chosen the same way, then $xy = +1$
 half the time, and $xy = -1$ the other half.
@@ -996,14 +996,15 @@ If you find this unconvincing, the details of the proof are spelt
 out in an <a href="#sec-4-4">optional section</a> below.
 
 This $\sqrt{n}$ scaling is the defining feature of a *random walk*.
-Remarkably, the scaling does not depend on the number of dimensions.
+Remarkably, nothing depend on the number of dimensions the
+displacement $\vec{x}$ lives in.
 It is just as true for an atom jiggling in three dimensions, a
 drunkard wandering in two dimensions, or a virtual bacterium foraging in a
 216-dimensional simulation.
 
 If a random walker moves with speed $v$, a step takes time
-$\tau = \ell/v$, so after time $t$ the walker tends to wander a
-distance
+$\tau = \ell/v$. After time $t$, the random walker will tend to wander
+a distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
