@@ -799,7 +799,7 @@ light bulbs on average, or around $600$ W.
 Thus,
 
 $$
-\frac{\text{power}}{\text{Vancouver}} \sim 600 \text{W} \times (2.5
+\frac{\text{power}}{\text{Vancouver}} \sim 600 \text{ W} \times (2.5
 \times 10^6) = 1.5 \text{ GW}.
 $$
 
