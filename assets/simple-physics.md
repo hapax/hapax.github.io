@@ -1056,7 +1056,7 @@ In this case, the step length $\ell$ is the *persistence length* of
 the polymer, the distance the polymer remains approximately straight.
 After a persistence length, the chain will forget which way it is
 pointing and choose a new, uncorrelated direction.
-We'll look at a famous biological application to the biggest, baddest,
+We'll look at a biological application to the biggest, baddest,
 most biologically indispensable polymer of them all: *DNA*.
 
 Every cell in an organism contains a copy of its building instructions
