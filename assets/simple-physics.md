@@ -1045,7 +1045,7 @@ This not just a theoretical exercise.
 The outlines of a coast are jagged curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
-(c) Can you think of physical reasons the curve of a coastline might
+(c) Can you think of physical reasons a coastline might
 consist of correlated random steps?
 
 ---
