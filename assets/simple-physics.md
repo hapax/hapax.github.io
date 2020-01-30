@@ -296,8 +296,8 @@ the ocean floor.
 (You can explore this example in Exercise 2.)
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
-Dragging an object through a fluid takes work because the
-fluid has to shear as it moves around the object, and [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
+Dragging an object through fluid takes work because the
+fluid shears as it moves around the object; [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
 resistance to shearing.
 
 Our goal will be to determine the drag force on a sphere due to viscosity.
