@@ -1119,22 +1119,9 @@ How deep was the water this vessel fished in?
   ⁂
   </p>
 
-**Exericse 12 (hypercubes).** A *hypercube* is an object which
-generalise the square and the cube to higher dimensions.
-A square has corners at the $4 = 2^2$ points in the Cartesian plane,
-$(0, 0), (0, 1), (1, 0), (1, 1)$, or more succinctly, $00, 01, 01, 10$.
-Similarly, a cube has $8 = 2^3$ corners at points in 3D space,
-
-$$
-000, 001, 010, 011, 100, 101, 110, 111.
-$$
-
-Notice that this is all binary sequences of length $3$.
-The pattern continues! The $n$-dimensional hypercube as $2^n$ corners,
-described by the binary sequences of length $n$.
-We can use random walks to learn about hypercubes!
-
-[post](https://hapax.github.io/mathematics/statistics/cubes/)
+**Exericse 12 (hypercubes).**
+For more on hypercubes and random process, see
+[my earlier blog post](https://hapax.github.io/mathematics/statistics/cubes/).
 
 ---
 
@@ -1286,7 +1273,7 @@ D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
 This is called the *Stokes-Einstein relation*, and it is one of the
-major results Einstein derived in his PhD thesis.
+major results of Einstein's PhD thesis.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
 size.
@@ -1301,19 +1288,11 @@ atoms --- in 60 BC!)
 Although Brownian motion is best explained by atoms, Einstein's
 genius was to extract specific and testable predictions, which Jean
 Perrin confirmed experimentally in 1908.
-Both Perrin and Einstein received Nobel prizes for this work!
+Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 12 (randomness is slow).** If you drop some dye into a
-  glass of water, it will bloom out and eventually discolour the whole glass.
-  Dye particles have size $\sim 1\, \mu$m, and water at room
-  temperature has viscosity $\eta = 10^{-3}$ kg/m s.
-
-(a) If the spreading was due to Brownian motion alone, how long would
-it take?
-
-(b) Your answer from part (a) should be much longer than 
+**Exercise 12 (Have-a-gadro).** 
 
 ---
 

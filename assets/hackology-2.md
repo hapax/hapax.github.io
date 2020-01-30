@@ -1045,3 +1045,13 @@ factor $c$, while $b$ overestimates by a factor $c$, then $\sqrt{ab} =
 \sqrt{x^2} = x$ is the true value.
 Note that more subestimates will tend to *increase the variance* of
 our answers, so once again, we should KISS.
+
+**Exercise 12 (randomness is slow).** If you drop some dye into a
+  glass of water, it will bloom out and eventually discolour the whole glass.
+  Dye particles have size $\sim 1\, \mu$m, and water at room
+  temperature has viscosity $\eta = 10^{-3}$ kg/m s.
+
+(a) If the spreading was due to Brownian motion alone, how long would
+it take?
+
+(b) Your answer from part (a) should be much longer than 
