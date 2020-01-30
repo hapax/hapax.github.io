@@ -1042,11 +1042,10 @@ Random walks have $H = 1/2$.
 (b) What relation between steps does Hurst index $H < 1/2$ require?
 
 This not just a theoretical exercise.
-The outlines of a coast are jagged curves, typically
+The outlines of a coast are jagged, random curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
-(c) Can you think of physical reasons a coastline might
-consist of correlated random steps?
+(c) For what physical reasons might a coastline consist of correlated random steps?
 
 ---
 
@@ -1103,7 +1102,7 @@ of magnitude!
 
 ---
 
-**Exercise 11 (deep thinking).** Wandering the shipyards one day, you
+**Exercise 12 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
 The mooring chain is haphazardly piled on the dock.
 
@@ -1119,7 +1118,31 @@ How deep was the water this vessel fished in?
   ⁂
   </p>
 
-**Exericse 12 (hypercubes).**
+**Exericse 13 (hypercubes).**
+We can regard the random steps $s_i = \pm 1$, $i = 1, \ldots,
+n$, as consecutive left-right steps on a line.
+But there is an alternative interpration: we can view them as *random
+coordinates* of a point in $n$-dimensional space,
+
+$$
+\vec{x} = (s_1, s_2, \ldots, s_n).
+$$
+
+There are $2^n$ such vectors, forming the corners of an
+$n$-dimensional *hypercube* of side length $2$:
+
+$$
+I_n = \{(x_1, x_2, \ldots, x_n) : -1 \leq x_i \leq 1\}.
+$$
+
+The length squared of one of these random corners (see Exercise 18) is
+
+$$
+d^2 = |\vec{x}|^2 = s_1^2 + s_2^2 + \cdots + s_n^2.
+$$
+
+(a) 
+
 For more on hypercubes and random process, see
 [my earlier blog post](https://hapax.github.io/mathematics/statistics/cubes/).
 
@@ -1146,7 +1169,7 @@ $$
 
 ---
 
-**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 14 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1173,7 +1196,7 @@ where $c$ is the speed of light.
   ⁂
 </p>
 
-**Exercise 14 (more collisions).** Two spheres of radius $r$
+**Exercise 15 (more collisions).** Two spheres of radius $r$
   collide when their centres come within $2r$ of each other, since the
   edges touch.
   To find the average distance between colliding particles of the *same*
@@ -1292,7 +1315,7 @@ Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 12 (Have-a-gadro).** 
+**Exercise 16 (Have-a-gadro).** 
 
 ---
 
@@ -1453,7 +1476,7 @@ length or live on lattice.
 
 ---
 
-**Exercise 15 (expectation).** Show that, if $f(X)$ and $g(X)$ are
+**Exercise 17 (expectation).** Show that, if $f(X)$ and $g(X)$ are
 functions of a random variable $X$, then
 
 $$
@@ -1464,7 +1487,7 @@ $$
   ⁂
 	  </p>
 
-**Exercise 16 (length in higher dimensions).** Consider a vector
+**Exercise 18 (length in higher dimensions).** Consider a vector
 $\vec{C} = (C^1, \ldots, C^d)$ in $d$ dimensions.
 
 (a) We can write the vector as a sum
