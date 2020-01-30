@@ -1036,8 +1036,8 @@ $$
 for some number $0 < H < 1$, called the *Hurst index*.
 Random walks have $H = 1/2$.
 
-(a) Explain why Hurst index $H > 1/2$ requires that steps be
-*correlated*.
+(a) Explain why $H > 1/2$ requires that steps be
+*correlated*, i.e. directions persist.
 
 (b) What relation between steps does Hurst index $H < 1/2$ require?
 
