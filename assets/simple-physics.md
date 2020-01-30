@@ -102,7 +102,7 @@ covering similar ground in greater depth.
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
 Physics is ultimately about experimental measurements.
-We take some system, e.g., an old pumpkin, and poke or prod it with a
+Take some object, maybe an old pumpkin, and poke or prod it with a
 measuring device which returns a number.
 The *dimension* of the measurement is not the number, but rather the
 *physical property* probed by that device.
@@ -111,18 +111,18 @@ dimension is the length.
 
 Length ($L$) is one basic dimension.
 Two other basic dimensions are *time* ($T$) and *mass* ($M$).
-In general, we apply brackets $[\cdot]$ to a measurement to extract
-the dimension, for instance
+In general, we use brackets $[\cdot]$ to denote the dimension of a
+measurement, for instance
 
 $$
 [1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
 $$
 
-We throw away the number out front and focus on the unit, asking: what
+To find the dimension, throw away the number out front and focus on the unit, asking: what
 aspect of the system does it measure? Centimetres measure length,
 hours measure time, and pounds measure mass.
 More complicated dimensions follow from the basic ones according to
-simple algebraic rules, easier to show than tell.
+simple rules which are easier to show than tell.
 Area, for example, has dimensions $L^2$:
 
 $$
@@ -130,19 +130,25 @@ $$
 \times [1 \text{ cm}] = L^2.
 $$
 
-Rather than use the units, we can use general formulas, e.g. for the area of a rectangle:
+An alternative to units is using general formulas, e.g. for the area of a rectangle:
 
 $$
 [\text{area}] = [\text{width}\times \text{height}] = [\text{width}]
 \times [\text{height}] = L^2.
 $$
 
-Similarly, we can divide out dimensions:
+Dimensions can be divided as well as multiplied:
 
 $$
 [\text{velocity}] = \left[\frac{\text{distance}}{\text{time}}\right] =
 \frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
 $$
+
+Be careful however: only *measurements with the same dimensions* can
+be added and subtracted!
+For instance, it makes no sense to ask what "1 cm + 4 hours" is, but it
+does make sense to ask for the value of "1 cm + 1 foot".
+The dimension doesn't change.
 
 Physical laws tell us how measurements depend
 on each other.
@@ -155,13 +161,13 @@ $$
 [F] = [m a] = [m]\times \left[\frac{v}{t}\right] = \frac{ML}{T^2}.
 $$
 
-Remarkably, we can sometimes *reverse* this process, and determine the
-physical laws relating quantities from their dimensions!
-Once again, this is easier to show with examples than abstract descriptions.
+The point of dimensional analysis is that you can sometimes *reverse*
+this process, and determine the physical laws from dimensions!
+Let's see how.
 
 ### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
 
-Suppose we attach the old pumpkin to a length of string and give it a
+Suppose we attach an old pumpkin to a length of string and give it a
 kick.
 Gravity will pull on the pumpkin, causing it to oscillate back and
 forth with some period of oscillation $t$.
