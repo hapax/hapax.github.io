@@ -229,9 +229,8 @@ $$
 \omega = \sqrt{\frac{g}{\ell}}.
 $$
 
-Let me emphase how powerful this is.
-We didn't need to analyse any forces, solve a differential
-equation, or even deal with numbers.
+Let me emphasise how powerful this is.
+We didn't need to solve a differential equation, analyse forces, or even deal with numbers.
 Dimensional analysis let us skip straight to the answer!
 
 Suppose we want to make a pumpkin clock with the conventional
