@@ -527,9 +527,8 @@ $$
   ⁂
 </p>
 
-**Exercise 4 (factors of $\pi$).** We can account for some of the
-factors of $\pi$ that keep appearing by introducing a dimension for
-angle.
+**Exercise 4 (factors of $\pi$).** We can somtimes account factors of
+$\pi$ by giving angle its own dimension.
 (Sadly, this trick doesn't work for Stokes' law, where the $6\pi$
 comes from hard math we are ignoring.)
 A periodic system has a cycle, which we track using an arrow rotating at a uniform speed around the unit circle.
