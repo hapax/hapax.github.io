@@ -173,7 +173,7 @@ Gravity will pull on the pumpkin, causing it to oscillate back and
 forth with some period of oscillation $t$.
 If we know how the period of oscillation depends on other properties
 of the system, we can utilise this knowledge to make a pumpkin clock!
-Let's start by listing the possibly relevant properties of the system:
+Let's start by listing some relevant quantities:
 - the mass of the pumpkin $m$, with dimension $[m] = M$;
 - the length of the string $\ell$, dimension $[\ell] = L$;
 - gravitational acceleration $g = 9.8 \text{ m/s}^2$, dimension $[g] =
@@ -190,7 +190,7 @@ That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
 we can leave it in and let dimensional analysis *tell us* it's irrelevant.
 
-I'm going to do something a bit sneak (see Exercise 4 for a justification).
+I'm going to do something a bit sneaky.
 Instead of period $t$, we will deal with the *angular velocity*
 
 $$
@@ -200,7 +200,7 @@ $$
 If we imagine the oscillations as being ticked off on a clock of unit
 radius, with one cycle per period, then this is just the velocity of
 the tip of the hand.
-(We will explain another way to get factors of $2\pi$ in Exercise 3.)
+(We will explain another way to get factors of $2\pi$ in Exercise 4.)
 Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
 $\ell$ and $g$ by a physical law of the form
 
@@ -209,7 +209,7 @@ $$
 $$
 
 for some powers $a, b, c$.
-We can determine the powers from the dimensions of each side:
+We can determine the powers by matching dimensions on each side:
 
 $$
 \begin{align*}
@@ -217,12 +217,13 @@ T^{-1} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
 \end{align*}
 $$
 
-Requiring the leftmost and rightmost expression to be equal, we can immediately read off the powers:
-$a = 0$, $2c = 1$, $b = -c$, and hence $\omega \sim (g/c)^{1/2}$, where $\sim$ means "up to numerical factors".
+Requiring the leftmost and rightmost expressions to be equal, we can immediately read off the powers:
+$a = 0$, $2c = 1$, and $b = -c$.
+It follows that $\omega \sim (g/c)^{1/2}$, where $\sim$ means "up to numerical factors".
 As promised, dimensional analysis also kindly informs us that the mass
-is irrelevant.
-In fact, my earlier piece of sneakiness (replacing period with angular
-velocity) means this is *exactly* correct (for small kicks):
+is irrelevant!
+My earlier piece of sneakiness (replacing period with angular
+velocity) actually gives the exact answer for small kicks:
 
 $$
 \omega = \sqrt{\frac{g}{\ell}}.
