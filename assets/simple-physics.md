@@ -301,7 +301,7 @@ fluid shears as it moves around the object; [*viscosity*](https://en.wikipedia.o
 resistance to shearing.
 
 Our goal will be to determine the drag force on a sphere due to viscosity.
-Here are some possibly relevant features of the system:
+Here are some things that might be relevant:
 - the radius of the sphere $r$, dimension $[r] = L$;
 - the speed of the sphere $v$, dimension $[v] = LT^{-1}$;
 - the mass of the sphere $m$, dimension $[m] = M$;
