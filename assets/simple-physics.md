@@ -181,12 +181,12 @@ Let's start by listing some relevant quantities:
 - the initial displacement of the pumpkin $x$, dimension $[x] = L$.
 
 Not all of these quantities will turn out to be relevant.
-For instance, the size of the initial kick $x$ can be discarded.
-Why?
-Go grab a string, a pumpkin, and a stopwatch, and you'll find that
-(at least for small kicks) the period is independent of the size of
-the kick.
-That leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
+Galileo discovered that as long as the initial kick is
+small, it has no affect on the period: pendulums are "isochronic".
+Grab a pumpkin, stopwatch and string, and check for yourself!
+(Galileo realised he could exploit this property to make a reliable
+timepiece, and invented the pendulum clock.)
+In terms of relevant features, this leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
 we can leave it in and let dimensional analysis *tell us* it's irrelevant.
 
@@ -209,7 +209,7 @@ $$
 $$
 
 for some powers $a, b, c$.
-We can determine the powers by matching dimensions on each side:
+We can find the powers by matching dimensions on each side:
 
 $$
 \begin{align*}
