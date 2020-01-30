@@ -518,8 +518,10 @@ $$
 (d) Finally, use dimensional analysis to deduce the *ideal gas law*:
 
 $$
-PV = \mathcal{N}k_B\mathcal{T}.
+PV \sim \mathcal{N}k_B\mathcal{T}.
 $$
+
+(In fact, the two sides are precisely equal for a dilute gas!)
 
 <p align="center">
   ⁂
