@@ -1040,11 +1040,12 @@ Random walks have $H = 1/2$.
 
 (b) What relation between steps does Hurst index $H < 1/2$ require?
 
-This may seem like a purely mathematical exercises.
-However, the coastlines of a landmass are jagged curves, typically
+This not just a theoretical exercise.
+The outlines of a coast are jagged curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
-(c) Can you think of some physical reasons a coastline curve might be correlated?
+(c) Can you think of physical reasons the curve of a coastline might
+consist of correlated random steps?
 
 ---
 
@@ -1117,7 +1118,22 @@ How deep was the water this vessel fished in?
   ⁂
   </p>
 
-**Exericse 12 ().**
+**Exericse 12 (hypercubes).** A *hypercube* is an object which
+generalise the square and the cube to higher dimensions.
+A square has corners at the $4 = 2^2$ points in the Cartesian plane,
+$(0, 0), (0, 1), (1, 0), (1, 1)$, or more succinctly, $00, 01, 01, 10$.
+Similarly, a cube has $8 = 2^3$ corners at points in 3D space,
+
+$$
+000, 001, 010, 011, 100, 101, 110, 111.
+$$
+
+Notice that this is all binary sequences of length $3$.
+The pattern continues! The $n$-dimensional hypercube as $2^n$ corners,
+described by the binary sequences of length $n$.
+We can use random walks to learn about hypercubes!
+
+[post](https://hapax.github.io/mathematics/statistics/cubes/)
 
 ---
 
@@ -1212,8 +1228,8 @@ $V$.
 The fluid is made up of $\mathcal{N}$ particles at temperature
 $\mathcal{T}$, and we assume it is dilute enough to be described by
 the ideal gas law (Exercise 3).
-Now plonk some larger, visible particles into this fluid, say some
-pollen grains of radius $r$ and mass $m$.
+Now plonk some large, easily visible particles into this fluid,
+for instance pollen grains, of radius $r$ and mass $m$.
 The pollen grains will randomly collide with particles in the fluid,
 executing a random walk as they do so.
 Assuming the grain is much larger than the fluid particles, we can
@@ -1249,7 +1265,7 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-From observing the pollen grains, we can directly see the diffusion
+From observing the pollen grains meander, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
 We still need to work out the velocity, $v$, and here is the clever
 part: since our fluid was viscous, and assuming the grains move
@@ -1282,8 +1298,9 @@ hence the name *Brownian motion*.
 observed the zigzag motion of dust particles and attributed it to
 atoms --- in 60 BC!)
 Although Brownian motion is best explained by atoms, Einstein's
-genius was to extract specific and testable predictions, confirmed
-experimentally in 1908 by Jean Perrin.
+genius was to extract specific and testable predictions, which Jean
+Perrin confirmed experimentally in 1908.
+Both Perrin and Einstein received Nobel prizes for this work!
 
 ---
 
