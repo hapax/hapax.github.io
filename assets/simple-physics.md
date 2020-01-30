@@ -894,8 +894,8 @@ What's the probability they all come up heads?
 Well, if there are $n$ quarters, and each has a $50\%$ chance of
 coming up heads, the answer is $(1/2)^n = 2^{-n}$.
 It seems like all I need to do is count the quarters in a fistful.
-But here's the rub: if I'm wrong by three quarters, l'll be off by a
-factor of $8 \approx 10$, a whole order of magnitude!
+But here's the rub: if I'm wrong by three coin, l'll be off by a
+factor of $8 \approx 10$, which is a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
 slowly from exponentials.
 
