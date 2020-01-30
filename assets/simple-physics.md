@@ -574,7 +574,7 @@ We should therefore use a *logarithmic ruler*, where we take logs in
 base $10$ and round to the nearest tick, where a tick now represents a
 power.
 In our case, $\log_{10}4 \approx 0.6$ is closer to $1$ than to $0$,
-and hence $4$ actually rounds to $10^1 = 10$!
+and so $4$ rounds up to $10^1 = 10$!
 This is a bit surprising, but the way things work when you think in
 Fermi ... termies.
 
@@ -588,14 +588,14 @@ $$
 10^{0.5} \approx 3.2.
 $$
 
-A Fermi estimate should be accurate up to a factor of around $3.2$,
-i.e. the real answer can be around $3$ times bigger or smaller and the
-estimate is still correct.
+A Fermi estimate should be accurate up to a factor of around
+$3.2$, i.e. it can be bigger or smaller than the true answer by a
+factor of $3$.
 Our earlier counts of planets, countries, and global population, for
-instance, are well within a factor of $3$.
+instance, are well within this generous factor of $3$!
 
 In general, it makes life a bit easier if instead of restricting to
-order of magnitude per se ($1, 10, 100, \ldots$) we allow for
+power of $10$ ($1, 10, 100, \ldots$), we allow for
 arbitrary numbers, with the understanding *that they are only accurate
 up to a factor of* $10^{0.5}$.
 We can denote this using a twiddle, so that
@@ -606,6 +606,8 @@ $$
 
 means "we guess the number of countries is $200$, possibly up to a
 factor of $3$".
+(When we do dimensional analysis, we also use a twiddle.
+In both cases, we are saying "up to some hopefully small numbers out the front!")
 Now you know what a Fermi estimate is, let's learn how to do them!
 
 ### 3.1. Geometric means<a id="sec-3-1" name="sec-3-1"></a>
