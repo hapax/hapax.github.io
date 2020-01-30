@@ -1044,7 +1044,7 @@ This may seem like a purely mathematical exercises.
 However, the coastlines of a landmass are jagged curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
-(c) Can you think of some physical reasons a coastline curve is correlated?
+(c) Can you think of some physical reasons a coastline curve might be correlated?
 
 ---
 
