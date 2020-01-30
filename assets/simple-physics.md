@@ -1061,9 +1061,9 @@ most biologically indispensable polymer of them all: *DNA*.
 
 Every cell in an organism contains a copy of its building instructions
 in DNA form.
-Most organisms are *eukaryotes*, meaning every cell has a nucleus for
-storing the DNA, but in *prokaryotes* (such as bacteria), the DNA just
-floats around in the cell.
+Most organisms are *eukaryotes*, meaning each cell has a special
+chamber called the *nucleus* for storing DNA, but in *prokaryotes*
+(such as bacteria), the DNA just freely floats in the cellular soup.
 Either way, If the container ruptures, the tightly coiled DNA will
 spill out and form a random walk of approximately straight chunks.
 The persistence length is $\ell = 48$ nm, which corresponds to about
