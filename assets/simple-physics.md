@@ -320,7 +320,7 @@ determine by brute observation.
 I haven't told you the dimensions of viscosity yet, but we can find
 them fairly easily.
 Imagine two layers of fluid flow separated by a distance $d$.
-Suppose I try to separate them by simply moving one layer, parallel to
+Suppose I try to shear them by simply moving one layer, parallel to
 the second but at speed $v$.
 Experiment shows that the fluid will resist with some force $f = F/A$ per
 unit area, proportional to $v$ and inversely proportional to the
@@ -333,28 +333,28 @@ f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu]
 $$
 
 We can now proceed with our dimensional analysis.
-Let's write the drag force on the sphere $F_d$ as a product of powers
+Let's write the drag force on the sphere $F_\text{drag}$ as a product of powers
 of the remaining factors:
 
 $$
-F_d = r^a v^b \mu^c.
+F_\text{drag} = r^a v^b \mu^c.
 $$
 
 Then
 
 $$
-\frac{ML}{T^2} = [F_d] = [r^a v^b \mu^c] = L^a \cdot
+\frac{ML}{T^2} = [F_\text{drag}] = [r^a v^b \mu^c] = L^a \cdot
 \left(\frac{L}{T}\right)^b \cdot \left(\frac{M}{LT}\right)^c = \frac{L^{a+b-c}M^c}{T^{b+c}}.
 $$
 
-On the LHS, $M$ appears as $M^1$, so $c = 1$.
+On the LHS, mass appears as $M^1$, so $c = 1$.
 The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
 Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
 a = 1$.
-Dimensional analysis thus gives the rather simple answer
+Dimensional analysis tells us that the drag force is
 
 $$
-F_d \sim \mu r v.
+F_\text{drag} \sim \mu r v.
 $$
 
 As usual, we can't determine if there is a number out front. With considerably more
@@ -363,7 +363,7 @@ work,
 showed that
 
 $$
-F_d = 6\pi \mu r v.
+F_\text{drag}= 6\pi \mu r v.
 $$
 
 This is called *Stokes' law* in honour of its discoverer.
@@ -373,18 +373,18 @@ But we got pretty darn close with a few lines of algebra!
 water droplets in a cloud.
 This will help explain why clouds float and rain falls!
 First, consider the general case of a slowly falling sphere.
-A sphere of mass $m$ is pulled down by its weight, $F_w = mg$.
+A sphere of mass $m$ is pulled down by its weight, $F_\text{weight}= mg$.
 As it falls, it is slowed by a drag force proportional to the velocity, $F_d = 6\pi \mu r v$.
 The terminal velocity $ v_{\text{term}}$ is the speed at which these
 two forces balance out:
 
 $$
-F_w = mg = 6\pi \mu r v_{\text{term}} = F_d \quad \Longrightarrow
+F_\text{weight} = mg = 6\pi \mu r v_{\text{term}} = F_\text{drag}\quad \Longrightarrow
 \quad v_{\text{term}} = \frac{mg}{6\pi \mu r}.
 $$
 
 The sphere accelerates until it reaches $v_{\text{term}}$; if it
-starts off faster for some reason, it will slow until it reaches $v_{\text{term}}$.
+starts off faster for some reason, it will *slow* until it reaches $v_{\text{term}}$.
 To make life simpler, we can express the mass of the sphere
 in terms of its volume $V$ and average density $\rho$:
 
@@ -392,11 +392,11 @@ $$
 m = V\rho = \frac{4\pi r^3}{3} \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
 $$
 
-If we like, we can also take buoyancy forces $F_b = V
+(You can also take buoyancy forces $F_\text{buoy} = V
 \rho_\text{fluid}$ into account, where $\rho_{\text{fluid}}$ is the density of the fluid.
 This just replaces $\rho$ with $\rho - \rho_{\text{fluid}}$.
 Since water is much denser than air, the buoyancy forces in our case
-are negligible, so we will ignore them.
+are negligible.)
 
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
@@ -423,19 +423,21 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (dropping balls).**
+**Exercise 2 (falling balls).**
 (a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
 hollow ball of steel designed for deep-sea exploration.
 It weighed $2.25$ tons (above water), had a diameter of $1.45$ m, and
-held the world record for deepest dive (until 1949) at $923$ m.
+held the world record for deepest dive until 1949, sinking almost $1$
+km ($923$ m to be precise) into the ocean.
 Roughly how long did it take to reach that depth?
 The viscosity of cold water is $\mu \approx 0.0016$ kg/m s.
 
 *Hint.* Assume it is travelling at terminal velocity, and Stokes' law
 applies. You should also take buoyancy forces into account!
 
-(b) Keeping with our theme of whimsical rulers, explain how you can
-use Stokes' law to determine the size of small iron spheres dropped in water.
+(b) Keeping with our theme of whimsical rulers, devise a practical
+scheme to measure the size of small spheres of known density by
+dropping them into water.
 
 ---
 
@@ -463,6 +465,18 @@ There are further subtleties captured by a result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
 *Street-Fighting Mathematics* for an elementary treatment.
+
+*Where is the physics?* You might think that since all we do is
+algebra, there is no physics here at all.
+But to avoid parametric overload, we need to whittle down until we
+have a manageable number of factors.
+Sometimes we can do this by clever physical reasoning (e.g. Galileo's
+argument that objects of different masses fall at the same speed), or
+restricting to situations where factors are negligible.
+Sometimes, neither of these works, and we just have to go out, do
+experiments, and see what varies (e.g. isochronism and viscosity).
+None of these operations is mathematically involved, but they are
+definitely all physics!
 
 *Extra dimensions.* Length, mass and time are not
 the only basic dimensions.
