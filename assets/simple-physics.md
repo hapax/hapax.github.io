@@ -1040,10 +1040,11 @@ Random walks have $H = 1/2$.
 
 (b) What relation between steps does Hurst index $H < 1/2$ require?
 
-(c) This may seem like useless mathematical jargon.
-But it turns out that the jagged curves of a coastline are typically
-described by fractional random walks with Hurst index $H \sim 0.8$.
-Can you think of a physical reason the edges of a coastline would be correlated?
+This may seem like a purely mathematical exercises.
+However, the coastlines of a landmass are jagged curves, typically
+described by a fractional random walk with Hurst index $H \sim 0.8$.
+
+(c) Can you think of some physical reasons a coastline curve is correlated?
 
 ---
 
@@ -1087,15 +1088,15 @@ n \sim \frac{d^2}{\ell^2} \approx \left(\frac{5000}{48}\right)^2
 \approx 1.1 \times 10^5.
 $$
 
-Multiplying by the number of base pairs per chunk, we guess a genome length
+Multiplying by the number of base pairs per chunk, we estimate a genome length
 
 $$
 L_\text{gen} \sim n \times (140 \text{ bp}) \approx 1.5 \times 10^6
 \text{ bp},
 $$
 
-or $1.6$ Mbp.
-A careful count gives $4.6$ Mbp, but we are within an order
+or $1.5$ Mbp.
+A careful count gives $4.6$ Mbp, so we are just within an order
 of magnitude!
 
 ---
@@ -1104,7 +1105,7 @@ of magnitude!
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
 The mooring chain is haphazardly piled on the dock.
 
-(a) The links are around $7$ inches in length, and the piles is $4.7$
+(a) The links are around $7$ inches in length, and the pile is $4.7$
 m across.
 What is the approximate length of the mooring chain?
 
@@ -1112,7 +1113,11 @@ What is the approximate length of the mooring chain?
 mooring chain is $1.5$ times the depth of the water.
 How deep was the water this vessel fished in?
 
-HIGHER DIMENSIONS?
+<p align="center">
+  ⁂
+  </p>
+
+**Exericse 12 ().**
 
 ---
 
