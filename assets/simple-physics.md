@@ -616,7 +616,7 @@ On a linear ruler, we average two numbers $a$ and $b$ by halving the sum, $(a+b)
 On a logarithmic ruler, we *take logs first*, then average.
 But what does this correspond to when we undo the logs?
 Let's check, using log laws.
-First, using $\log x + \log y = \log xy$ and $n \log x = \log (x^n)$,
+First, from $\log x + \log y = \log xy$ and $n \log x = \log (x^n)$,
 we have
 
 $$
@@ -631,7 +631,7 @@ $$
 
 This is called the *geometric mean*.
 Whenever you are dealing with estimates spread across different orders
-of magnitude, this is a better average to use than the *arithmetic
+of magnitude, this is better to use than the usual *arithmetic
 mean* $(a+b)/2$.
 
 Geometric means are useful for averaging an underestimate and an
@@ -764,6 +764,8 @@ You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
 Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
+As I'll touch on <a href="#sec-3-4">shortly</a>, this also applied to
+subestimates, and we shouldn't factorise unless it reduces total uncertainty.
 
 Let's see how this works in practice.
 Suppose we want to estimate the annual electricity usage in the greater
