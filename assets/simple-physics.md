@@ -824,7 +824,7 @@ we should be spot on!
 
 ---
 
-**Exercise 8 (lots of loonies).** Guess the Canadian government's
+**Exercise 8 (loonie bin).** Guess the Canadian government's
   federal budget for 2019.
 
 ---
