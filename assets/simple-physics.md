@@ -103,14 +103,15 @@ covering similar ground in greater depth.
 
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
-measuring device which returns a number.
-The *dimension* of the measurement is not the number, but rather the
-*physical property* probed by that device.
+measuring device.
+The device returns a number, and the *dimension* is what the number
+doesn't tell you: what *physical property* probed by that device.
 If we compare the width of the pumpkin to a ruler, for instance, the
 dimension is the length.
+If we put it on some scales, its mass.
+If we see how long it takes to rot, its time.
 
-Length ($L$) is one basic dimension.
-Two other basic dimensions are *time* ($T$) and *mass* ($M$).
+The basic dimensions we have just mentioned are *length* ($L$), *time* ($T$) and *mass* ($M$).
 In general, we use brackets $[\cdot]$ to denote the dimension of a
 measurement, for instance
 
