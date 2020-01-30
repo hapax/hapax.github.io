@@ -464,7 +464,7 @@ them all!
 There are further subtleties captured by a result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
-*Street-Fighting Mathematics* for an elementary treatment.
+Mahajan's book for an elementary treatment.
 
 *Where is the physics?* You might think that since all we do is
 algebra, there is no physics here at all.
@@ -472,7 +472,7 @@ But to avoid parametric overload, we need to whittle down until we
 have a manageable number of factors.
 Sometimes we can do this by clever physical reasoning (e.g. Galileo's
 argument that objects of different masses fall at the same speed), or
-restricting to situations where factors are negligible.
+restricting to situations where factors are negligible (slowly moving sphere).
 Sometimes, neither of these works, and we just have to go out, do
 experiments, and see what varies (e.g. isochronism and viscosity).
 None of these operations is mathematically involved, but they are
@@ -529,13 +529,12 @@ $$
 
 **Exercise 4 (factors of $\pi$).** We can somtimes account factors of
 $\pi$ by giving angle its own dimension.
-(Sadly, this trick doesn't work for Stokes' law, where the $6\pi$
-comes from hard math we are ignoring.)
-A periodic system has a cycle, which we track using an arrow rotating at a uniform speed around the unit circle.
+A periodic system has a cycle, which we can keep track of with an
+arrow, rotating at a uniform speed around the unit circle.
 The arrow (called a *phasor* if you want to be fancy) subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 
-If $[360^\circ] = \Xi$ is the dimension of angle, then
+If $[1^\circ] = \Xi$ is the dimension of angle, then
 $[t_\text{period}] = T/\Xi$.
 This will leave factors of $\Xi$ floating around.
 To cancel them, we can view $2\pi$ as a "fundamental physical
