@@ -1064,7 +1064,7 @@ in DNA form.
 Most organisms are *eukaryotes*, meaning each cell has a special
 chamber called the *nucleus* for storing DNA, but in *prokaryotes*
 (such as bacteria), the DNA just freely floats in the cellular soup.
-Either way, If the container ruptures, the tightly coiled DNA will
+Either way, if the container ruptures, the tightly coiled DNA will
 spill out and form a random walk of approximately straight chunks.
 The persistence length is $\ell = 48$ nm, which corresponds to about
 140 base pairs (bp).
