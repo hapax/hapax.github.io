@@ -989,8 +989,8 @@ as claimed above.
 
 This $\sqrt{n}$ scaling is the defining feature of a *random walk*.
 Remarkably, the scaling does not depend on the number of dimensions.
-It is just as true for an atom jiggling in three dimensions, a drunkard wandering a
-two-dimensional streetscape, or a virtual bacterium foraging in a
+It is just as true for an atom jiggling in three dimensions, a
+drunkard wandering in two dimensions, or a virtual bacterium foraging in a
 216-dimensional simulation.
 The details of the proof are spelt
 out in an <a href="#sec-4-3">optional section</a> below.
