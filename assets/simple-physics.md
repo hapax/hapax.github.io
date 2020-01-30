@@ -987,7 +987,7 @@ On average, that gives zero.
 The conclusion is that
 
 $$
-d^2 \sim (s_1^2 + s_2^2 + \cdots + s_n^2) + \text{cross-terms} =
+d^2 \sim s_1^2 + s_2^2 + \cdots + s_n^2 =
 n\ell^2 \quad \Longrightarrow \quad d \sim \ell \sqrt{n},
 $$
 
