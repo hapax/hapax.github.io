@@ -987,7 +987,7 @@ $$
 
 as claimed above.
 If these leaves you unsatisfied, the details of the proof are spelt
-out in an <a href="#sec-4-3">optional section</a> below.
+out in an <a href="#sec-4-4">optional section</a> below.
 
 This $\sqrt{n}$ scaling is the defining feature of a *random walk*.
 Remarkably, the scaling does not depend on the number of dimensions.
