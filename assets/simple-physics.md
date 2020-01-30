@@ -71,7 +71,7 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 But I think hacking should go mainstream.
 
-*Napkin hacks.* My goal is to outline a few simple hacks:
+*Napkin hacks.* My goal in this post is to outline a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
