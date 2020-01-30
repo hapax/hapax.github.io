@@ -492,7 +492,7 @@ insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
 See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
-for more on the power of these constants.
+for applications of fundamental constants to black hole thermodynamics!
 
 ---
 
