@@ -246,7 +246,7 @@ m}}{\pi^2} \approx 1
 $$
 
 Incidentally, this explains why grandfather clocks are so large.
-They will house a large (typically non-cucurbitar) pendulum with
+They will house a large (typically non-pumpkin) pendulum with
 $\ell \approx 1$ m.
 
 In order to make the clock, we need a ruler to measure out the length
