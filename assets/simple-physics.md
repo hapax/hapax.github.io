@@ -920,9 +920,9 @@ How did your friends do?
 </p>
 
 **Exercise 10 (jumping mugs).** (a) Estimate the number of atoms $n_C$ in a
-cup of coffee.
+mug of coffee.
 
-(b) Very roughly, what is the probability the coffee jumps
+(b) Very roughly, what is the probability the mug jumps
 spontaneously into the air?
 
 *Hint.* Atoms move in random directions. The coffee will spontaneously
