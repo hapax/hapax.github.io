@@ -76,8 +76,9 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin, with no calculus required.
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in (a suitably simplified version of)
-Einstein's Nobel-winning insights into Brownian motion.
+*real physics*, culminating in one of the main results of Einstein's
+PhD thesis: the *Stokes-Einstein relation* describing Brownian
+motion.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
@@ -1284,8 +1285,8 @@ $$
 D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
-This is the *Einstein-Smoluchowski-Sutherland (ESS) relation*, after the
-three physicists who independently discovered it.
+This is called the *Stokes-Einstein relation*, and it is one of the
+major results Einstein derived in his PhD thesis.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
 size.
@@ -1304,15 +1305,15 @@ Both Perrin and Einstein received Nobel prizes for this work!
 
 ---
 
-**Exercise 12 (randomness is slow).** Estimate how long it takes a
-drop of dye to spread throughout a cup of water by Brownian motion.
+**Exercise 12 (randomness is slow).** If you drop some dye into a
+  glass of water, it will bloom out and eventually discolour the whole glass.
   Dye particles have size $\sim 1\, \mu$m, and water at room
   temperature has viscosity $\eta = 10^{-3}$ kg/m s.
-	You should find it is a rather long time!
 
-<p align="center">
-  ⁂
-</p>
+(a) If the spreading was due to Brownian motion alone, how long would
+it take?
+
+(b) Your answer from part (a) should be much longer than 
 
 ---
 
