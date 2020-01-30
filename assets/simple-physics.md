@@ -308,12 +308,14 @@ Here are some things that might be relevant:
 - the density of the fluid $\rho$, dimension $[\rho] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
-In principle, all of these factors are involved, but this is too much
+In general, all of these factors are involved, but this is too much
 for dimensional analysis to handle.
-(See the <a href="#sec-2-4">usage notes</a> to understand why.)
+(I explain why <a href="#sec-2-4">below</a>.)
 When the sphere moves slowly enough, however, its mass $m$ and the
 density of the fluid $\rho$ are irrelevant.
 Only the viscosity, and size and speed of the sphere, matter.
+Like the isochronism of the pendulum, this is an empirical fact we can
+determine by brute observation.
 
 I haven't told you the dimensions of viscosity yet, but we can find
 them fairly easily.
