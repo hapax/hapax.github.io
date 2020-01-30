@@ -832,15 +832,19 @@ we should be spot on!
 ### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
 *Why it works.* Fermi approximation is a subtle art.
-It seems like it works because over- and underestimates tend to
+In general, it works well because over- and underestimates tend to
 balance each other out.
-This appears to be an example of the
+This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd),
 where averaging over different types of ignorance yields wisdom.
-In this case, the crowd is made up of subestimates!
-But the *variance* (random variability) of subestimates adds up, and a
+(In this case, the crowd is made up of subestimates!)
+But there is a little more to it than that. t
+The *variance* (random variability) of subestimates adds up, and a
 good rule of thumb is to only factorise into subestimates when the
-combined uncertainty of these estimates is much smaller than the original.
+combined uncertainty of these estimates is much smaller than the
+original.
+(To get technical, by "uncertainty", we mean "error on the logarithmic
+ruler, squared".)
 
 *Sanity checks.*
 You can increase the reliability of a subestimate by performing a sanity check.
