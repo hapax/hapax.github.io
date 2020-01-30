@@ -287,9 +287,7 @@ their mass.
 
 ### 2.2. Drag and drop<a id="sec-2-2" name="sec-2-2"></a>
 
-*Stokes' law.* Maybe pumpkins aren't your thing.
-Let's ratchet down the
-whimsy and turn to something more high-minded: the
+*Stokes' law.* Maybe pumpkins aren't your thing, so let's turn to something more high-minded: the
 aerodynamics of spheres.
 So, imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
