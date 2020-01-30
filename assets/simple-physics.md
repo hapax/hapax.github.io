@@ -74,7 +74,7 @@ But I think hacking should go mainstream.
 *Napkin hacks.* My goal in this post is to outline a few simple hacks:
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
-back of a napkin. No calculus required!
+back of a napkin, with no calculus required.
 Although there is whimsy and irreverence aplenty, the focus will be
 *real physics*, culminating in Einstein's Nobel-worthy approach to
 Brownian motion.
