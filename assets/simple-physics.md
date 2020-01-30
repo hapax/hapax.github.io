@@ -76,8 +76,8 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin, with no calculus required.
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in Einstein's Nobel-worthy approach to
-Brownian motion.
+*real physics*, culminating in (a suitably simplified version of)
+Einstein's Nobel-winning insights into Brownian motion.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
