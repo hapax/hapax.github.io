@@ -952,20 +952,25 @@ $$
 
 How is this possible?
 The basic trick is to consider the *displacement*, a vector we label
-$\vec{x}$, which is made up of $n$ steps $\vec{s}_i$.
+$\vec{x}$, which is made up of $n$ steps $\vec{s}_i$:
+
+$$
+\vec{x} = \vec{s}_1 + \cdots + \vec{s}_n.
+$$
+
 The distance squared is just the length of the displacement square,
 $d^2 = |\vec{x}|^2$.
 We can expand the displacement into steps as
 
 $$
 \begin{align*}
-d^2 & = |\vec{x}|^2 \sim (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 \\
+d^2 = |\vec{x}|^2 & = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 \\
 & = (s_1^2 + s_2^2 + \cdots +
 s_n^2) + \text{cross-terms}.
 \end{align*}
 $$
 
-This is just a generalisation of the familiar algebraic fact
+This is just a generalisation of the familiar algebraic fact that
 
 $$
 (x + y)^2 = x^2 + y^2 + 2xy = x^2 + y^2 + \text{cross-terms}.
@@ -975,9 +980,10 @@ If the steps have length $\ell$, then each $s_i^2 = \ell^2$.
 If different steps are independent, then on average, the cross-terms
 are zero, since different steps have no preferred orientation with
 respect to each other.
-For instance, if $x$ is chosen to be $\pm 1$, each with probability
-$1/2$, and $y$ independently chosen the same way, you can check that
-on average, $2xy$ is $0$.
+For instance, if $x$ is chosen to be $\pm 1$ with probability
+$1/2$, and $y$ is independently chosen the same way, then $xy = +1$
+half the time, and $xy = -1$ the other half.
+On average, that gives zero.
 The conclusion is that
 
 $$
