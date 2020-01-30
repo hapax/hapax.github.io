@@ -1040,6 +1040,11 @@ Random walks have $H = 1/2$.
 
 (b) What relation between steps does Hurst index $H < 1/2$ require?
 
+(c) This may seem like useless mathematical jargon.
+But it turns out that the jagged curves of a coastline are typically
+described by fractional random walks with Hurst index $H \sim 0.8$.
+Can you think of a physical reason the edges of a coastline would be correlated?
+
 ---
 
 ### 4.1. Polymers <a id="sec-4-1" name="sec-4-1"></a>
