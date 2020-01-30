@@ -289,7 +289,7 @@ their mass.
 
 *Stokes' law.* Maybe pumpkins aren't your thing, so let's turn to something more high-minded: the
 aerodynamics of spheres.
-So, imagine a sphere moving through a fluid, e.g. a
+Imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
 (You can explore this example in Exercise 2.)
