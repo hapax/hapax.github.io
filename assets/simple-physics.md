@@ -1118,34 +1118,6 @@ How deep was the water this vessel fished in?
   ⁂
   </p>
 
-**Exericse 13 (hypercubes).**
-We can regard the random steps $s_i = \pm 1$, $i = 1, \ldots,
-n$, as consecutive left-right steps on a line.
-But there is an alternative interpration: we can view them as *random
-coordinates* of a point in $n$-dimensional space,
-
-$$
-\vec{x} = (s_1, s_2, \ldots, s_n).
-$$
-
-There are $2^n$ such vectors, forming the corners of an
-$n$-dimensional *hypercube* of side length $2$:
-
-$$
-I_n = \{(x_1, x_2, \ldots, x_n) : -1 \leq x_i \leq 1\}.
-$$
-
-The length squared of one of these random corners (see Exercise 18) is
-
-$$
-d^2 = |\vec{x}|^2 = s_1^2 + s_2^2 + \cdots + s_n^2.
-$$
-
-(a) 
-
-For more on hypercubes and random process, see
-[my earlier blog post](https://hapax.github.io/mathematics/statistics/cubes/).
-
 ---
 
 ### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
