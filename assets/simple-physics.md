@@ -1118,6 +1118,13 @@ Collisions occur when objects happen to be in the same
 place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
+The bigger you are, or more precisely, the bigger your cross-section
+in the direction of motion, the more likely you are to collide with
+things.
+But you are more like to collide with elephants than fleas!
+If you want to take into account 
+
+
 If you move a distance $\ell$, this has approximate volume
 
 $$
@@ -1126,7 +1133,7 @@ $$
 
 where $\sigma$ is your *cross-section* in the direction of motion.
 Put differently, it is your surface area, viewed head on.
-(We are ignoring the "bumps" due to your volume at the start and end
+(We are ignoring the "bumps" in volume at the start and end
 of the cylinder.)
 
 If a fluid particle comes within a distance $r$ of the pollen, a
