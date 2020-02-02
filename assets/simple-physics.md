@@ -1125,7 +1125,7 @@ But you are more likely to collide with elephants than fleas!
 You also want to take into account the size of the objects you might
 be running into.
 
-The formal way of doing this is called the *scattering cross-section*
+The formal way of doing this is a *scattering cross-section*
 $\sigma$.
 The basic idea is that if you sweep out a "collision cylinder" with
 cross-section $\sigma$, and the centre of another object lies in the
