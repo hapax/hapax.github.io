@@ -1170,7 +1170,12 @@ cross-sections to understand what happens in the Large Hadron Collider!
 
 ---
 
-**Exercise 13 (colliding spheres).**
+**Exercise 13 (colliding spheres).** (a) Show that if the centres of
+  spheres of radius $R$ and $r$ come within a distance $R+r$, they
+  will collide.
+
+(b) Conclude that when $R\gg r$, the scattering cross-section $\sigma
+\approx \pi R^2$.
 
 ---
 
