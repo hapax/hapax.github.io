@@ -1152,7 +1152,6 @@ Similarly, if you are colliding with objects much larger than you,
 then $\sigma$ is related to their cross-section only.
 (If they are randomly oriented with respect to you, this will be a
 sort of averaged surface area $A_\text{avg}$.)
-
 Clearly, this can get complicated; life is simpler if we Keep It
 Spherical, so that objects look at the same from any angle.
 So, picture yourself as a sphere of radius $R$, worried about colliding with spheres of radius $r$.
@@ -1161,6 +1160,13 @@ You can show in Exercise 13 that the scattering cross-section is
 $$
 \sigma = \pi (R+r)^2.
 $$
+
+All this assumes that the colliding objects are like billiard balls,
+and we won't need anything fancier.
+But $\sigma$ is more interesting when objects *interact*, undergoing
+attraction or repulsion as a function of distance.
+In fact, particle physicists spend most of their time calculating
+cross-sections to understand what happens in the Large Hadron Collider!
 
 ---
 
