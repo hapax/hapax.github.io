@@ -1175,7 +1175,7 @@ cross-sections to understand what happens in the Large Hadron Collider!
   will collide.
 
 (b) Conclude that when $R\gg r$, the scattering cross-section $\sigma
-\approx \pi R^2$.
+\approx \pi R^2$, as we claimed above.
 
 (c) Model humans and elephants as spheres.
 There are around $4 \times 10^5$ elephants left in the world.
