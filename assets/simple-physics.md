@@ -1114,8 +1114,12 @@ How deep was the water this vessel fished in?
 
 ### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
 
-Collisions occur when objects (like cars) happen to occupy the same
-space.
+Collisions occur when objects (like cars) happen to be in the same space.
+If you want to avoid collisions (like cars), or count how many happen
+over time (as in gases), you should keep track of the space objects
+occupy over time.
+
+The simplest way to do this to look at the funny sort 
 
 
 If a fluid particle comes within a distance $r$ of the pollen, a
