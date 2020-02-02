@@ -1130,8 +1130,8 @@ $\sigma$.
 The basic idea is that if you sweep out a "collision cylinder" with
 cross-section $\sigma$, and the centre of another object lies in the
 cylinder, a collision will occur.
-In fact, if we know how many colliding objects (e.g. elephants) per
-unit volume there are in the vicinity, we can estimate the number of
+In fact, if we know the number of colliding objects (e.g. elephants) per
+unit volume in the vicinity, we can estimate the number of
 collisions!
 If you move a distance $\ell$, and have scattering cross-section
 $\sigma$ with respect to elephants (or whatever it is you are worried
