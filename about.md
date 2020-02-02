@@ -14,8 +14,8 @@ I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
 Further academic details can be found in my CV (available on request).
 
-I'm originally from Melbourne, Australia, where I completed a BSc in
-maths and an MSc in physics.
+I'm originally from Melbourne, Australia, where I completed degrees in
+maths and philosophy, and an MSc in physics.
 When I'm not working on physics, I enjoy science outreach,
 art, literature, recreational coding, and philosophy.
 

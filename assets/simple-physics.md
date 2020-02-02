@@ -1114,7 +1114,10 @@ How deep was the water this vessel fished in?
 
 ### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
 
-Our first goal is to determine the step length $\ell$.
+Collisions occur when objects (like cars) happen to occupy the same
+space.
+
+
 If a fluid particle comes within a distance $r$ of the pollen, a
 collision will happen, so to help us keep track of possible collisions
 we draw a *collision cylinder* of cross-section $\sigma = \pi r^2$
@@ -1131,9 +1134,39 @@ $$
 \frac{V}{\pi r^2 \mathcal{N}}.
 $$
 
+
+**Exercise 13 (midair collision).** Two spheres of radius $r$
+  collide when their centres come within $2r$ of each other, since the
+  edges touch.
+  To find the average distance between colliding particles of the *same*
+  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
+
+The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Use this to estimate the average distance between collisions of air
+molecules in the room around you, $\ell = U/\sigma$.
+
+*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
+of temperature and pressure.
+Atmospheric pressure is $101$ kPa.
+
 ---
 
-**Exercise 13 (mirrorball madness).** An eccentric billionaire decides
+**Exercise 13 (zombies).** A group of $500$ zombies shambles around a
+	postapocalyptic car park of size $\sim 50$ m.
+	One of the zombies decides to call it a day, moving in a straight
+	line at walking speed until they hit another zombie, at which
+	point they mumble "brains..." 	and randomly change direction.
+	Roughly how long will it take them to escape,
+	and how many times will they say "brains"?
+
+*Hint.* Use a *collision rectangle* of width $d$, where
+ $d$ is the diameter of a zombie.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (mirrorball madness).** An eccentric billionaire decides
 to have a disco in space.
 The dance floor lies at the centre of a huge glass sphere, with a
 "gas" of $\mathcal{N}$ mirrorballs floating around it.
@@ -1155,35 +1188,6 @@ t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
 $$
 
 where $c$ is the speed of light.
-
-<p align="center">
-  ⁂
-</p>
-
-**Exercise 14 (more collisions).** Two spheres of radius $r$
-  collide when their centres come within $2r$ of each other, since the
-  edges touch.
-  To find the average distance between colliding particles of the *same*
-  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
-
-(a) The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
-Use this to estimate the average distance between collisions of air
-molecules in the room around you, $\ell = U/\sigma$.
-
-*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
-of temperature and pressure.
-Atmospheric pressure is $101$ kPa.
-
-(b) A group of $100$ drunkards crowds into a beer garden of radius $5$
-	m.
-	A single drunkard decides to leave, moving in a straight line
-	until they hit another drunkard, at which point they mumble an apology
-	and randomly change direction.
-	Roughly how long will it take them to escape,
-	and how many apologies will they issue?
-
-*Hint.* Use a *collision rectangle* of width $d$, where
- $d$ is the diameter of a drunkard.
 
 ---
 
