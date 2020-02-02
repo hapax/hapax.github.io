@@ -1114,13 +1114,20 @@ How deep was the water this vessel fished in?
 
 ### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
 
-Collisions occur when objects (like cars) happen to be in the same space.
-If you want to avoid collisions (like cars), or count how many happen
-over time (as in gases), you should keep track of the space objects
-occupy over time.
+Collisions occur when objects happen to be in the same
+place at the same time.
+If you want to keep track of what is entering your space, imagine that
+you sweep out an envelope as you move.
+If you move a distance $\ell$, this has approximate volume
 
-The simplest way to do this to look at the funny sort 
+$$
+V = \ell \sigma,
+$$
 
+where $\sigma$ is your *cross-section* in the direction of motion.
+Put differently, it is your surface area, viewed head on.
+(We are ignoring the "bumps" due to your volume at the start and end
+of the cylinder.)
 
 If a fluid particle comes within a distance $r$ of the pollen, a
 collision will happen, so to help us keep track of possible collisions
@@ -1161,7 +1168,7 @@ Atmospheric pressure is $101$ kPa.
 	line at walking speed until they hit another zombie, at which
 	point they mumble "brains..." 	and randomly change direction.
 	Roughly how long will it take them to escape,
-	and how many times will they say "brains"?
+	and how many "brains" will they mutter?
 
 *Hint.* Use a *collision rectangle* of width $d$, where
  $d$ is the diameter of a zombie.
