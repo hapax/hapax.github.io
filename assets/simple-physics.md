@@ -1142,7 +1142,16 @@ V = \ell \sigma.
 $$
 
 If there are $n$ elephants per unit volume, then on average, you will
-collide with $nV = n\ell \sigma$ elephants as you move a distance $\ell$.
+collide with $nV = n\ell \sigma$ elephants as you move a distance
+$\ell$.
+
+Let's do some very simple examples of cross-sections.
+If you are colliding with objects much smaller than you, then the
+cross-section is just your surface area viewed head-on.
+Similarly, if you are colliding with objects much larger than you,
+then $\sigma$ is related to their cross-section only.
+(If they are randomly oriented with respect to you, this will be a
+sort of averaged surface area over those orientations.)
 
 where $\sigma$ is your *cross-section* in the direction of motion.
 Put differently, it is your surface area, viewed head on.
