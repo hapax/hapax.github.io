@@ -23,7 +23,7 @@ date:  2020-01-06
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
-   2. <a href="#sec-4-2">Collisions</a>
+   2. <a href="#sec-4-2">Collisions and cross-sections</a>
    3. <a href="#sec-4-3">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
 
@@ -1112,7 +1112,7 @@ How deep was the water this vessel fished in?
 
 ---
 
-### 4.2. Collisions <a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Collisions and cross-sections <a id="sec-4-2" name="sec-4-2"></a>
 
 Collisions occur when objects happen to be in the same
 place at the same time.
@@ -1121,15 +1121,28 @@ you sweep out an envelope as you move.
 The bigger you are, or more precisely, the bigger your cross-section
 in the direction of motion, the more likely you are to collide with
 things.
-But you are more like to collide with elephants than fleas!
-If you want to take into account 
+But you are more likely to collide with elephants than fleas!
+You also want to take into account the size of the objects you might
+be running into.
 
-
-If you move a distance $\ell$, this has approximate volume
+The formal way of doing this is called the *scattering cross-section*
+$\sigma$.
+The basic idea is that if you sweep out a "collision cylinder" with
+cross-section $\sigma$, and the centre of another object lies in the
+cylinder, a collision will occur.
+In fact, if we know how many colliding objects (e.g. elephants) per
+unit volume there are in the vicinity, we can estimate the number of
+collisions!
+If you move a distance $\ell$, and have scattering cross-section
+$\sigma$ with respect to elephants (or whatever it is you are worried
+about colliding with), your collision cylinder will have volume
 
 $$
-V = \ell \sigma,
+V = \ell \sigma.
 $$
+
+If there are $n$ elephants per unit volume, then on average, you will
+collide with $nV = n\ell \sigma$ elephants as you move a distance $\ell$.
 
 where $\sigma$ is your *cross-section* in the direction of motion.
 Put differently, it is your surface area, viewed head on.
