@@ -1174,7 +1174,7 @@ elephants charging towards you!
   will collide.
 
 (b) Conclude that when $R\gg r$, the scattering cross-section $\sigma
-\approx \pi R^2$, as we claimed above.
+\approx \pi R^2$.
 
 (c) Suppose a sphere of radius $R$ moves at speed $V$ towards a cloud
 of spheres of density $n$ and radius $r$, moving towards it at speed
