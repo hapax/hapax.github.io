@@ -1271,17 +1271,30 @@ Once more, this shows you should run (unless you are very thin).
 (c) Plug in some reasonable values for a box model of a human, and
 compare the size of the collision cylinders associated with the front
 and top of the box.
+You can determine the speed $v$ using Stokes' law and the fact that
+raindrops are typically $1$ mm in diameter.
 On these grounds, can you explain why MythBusters might have had a
-hard time testing this?
+hard time testing this myth?
 
 <p align="center">
   ⁂
   </p>
 
 **Exercise 15 (wet and windy).** When the wind blow, it imparts a
-horizontal velocity $u'$ to the rain.
-For a sphere a distance $d$ from shelter, how many drops will it
-collide with?
+horizontal velocity to the rain.
+As above, we consider a sphere seeking shelter a distance $d$ away.
+
+(a) Explain why, if the wind is blowing *away* from shelter, you
+should run as fast as possible.
+
+(b) Suppose the wind blows *towards* shelter with a horizontal
+velocity $u'$, and has downward velocity $v$
+Demonstrate that there is a *finite* optimal speed to move towards
+shelter, $v^2/u'$.
+If it's very windy, it may be better to walk!
+
+(c) If you feel like doing some trigonometry, determine how many
+raindrops you encounter as a function of the parameters involved.
 
 ---
 
