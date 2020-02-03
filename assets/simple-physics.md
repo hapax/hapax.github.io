@@ -1226,8 +1226,12 @@ To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
 This is particularly clear for the case you travel more slowly than
-the rain, with $(v/u) \gg 1$, where $n V \approx \pi n R^2 d v/u = \pi
-n R^2 vt$.
+the rain, with $(v/u) \gg 1$, where
+
+$$
+n V \approx \pi n R^2 d v/u = (\pi n R^2 v)t.
+$$
+
 How wet you get is directly proportional to how much time you spend in
 the rain!
 
@@ -1246,7 +1250,7 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (when it rains).** Wind, squares?
+**Exercise 14 (when it rains...).** (a) Show that 
 
 ---
 
