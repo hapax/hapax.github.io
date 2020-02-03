@@ -1237,7 +1237,7 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (sopping squares).**
+**Exercise 14 (when it rains).** Wind, squares?
 
 ---
 
