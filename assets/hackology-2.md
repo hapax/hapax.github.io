@@ -1286,3 +1286,89 @@ There are around $4 \times 10^5$ elephants left in the world.
 Assume they are distributed at random, and you move in a straight line
 without deviating when you spot an elephant. Roughly how many
 elephants would you expect to collide with in a lifetime?
+
+
+All this assumes that the colliding objects are like billiard balls,
+and we won't need anything fancier.
+But $\sigma$ is more interesting when objects *interact*, undergoing
+attraction or repulsion as a function of distance.
+In fact, particle physicists spend most of their time calculating
+cross-sections to understand what happens in the Large Hadron Collider!
+
+where $\sigma$ is your *cross-section* in the direction of motion.
+Put differently, it is your surface area, viewed head on.
+(We are ignoring the "bumps" in volume at the start and end
+of the cylinder.)
+
+If a fluid particle comes within a distance $r$ of the pollen, a
+collision will happen, so to help us keep track of possible collisions
+we draw a *collision cylinder* of cross-section $\sigma = \pi r^2$
+around the grain as it moves.
+On average, there is a single fluid particle in each volume
+$U = V/\mathcal{N}$ of fluid
+We can determine $\ell$ by assuming that when the collision cylinder
+has length $\ell$, it has volume $U$, and hence on average contains a
+fluid particle.
+This leads to
+
+$$
+\sigma \ell = \frac{V}{\mathcal{N}} \quad \Longrightarrow \quad \ell =
+\frac{V}{\pi r^2 \mathcal{N}}.
+$$
+
+
+**Exercise 13 (midair collision).** Two spheres of radius $r$
+  collide when their centres come within $2r$ of each other, since the
+  edges touch.
+  To find the average distance between colliding particles of the *same*
+  size, we should draw our collision cylinder with cross-section $\sigma = \pi(2r)^2$.
+
+The average air molecule has size $r = 4 \times 10^{-10} \text{ m}$.
+Use this to estimate the average distance between collisions of air
+molecules in the room around you, $\ell = U/\sigma$.
+
+*Hint.* The ideal gas law lets you rewrite $U = V/\mathcal{N}$ in terms
+of temperature and pressure.
+Atmospheric pressure is $101$ kPa.
+
+---
+
+**Exercise 13 (zombies).** A group of $500$ zombies shambles around a
+	postapocalyptic car park of size $\sim 50$ m.
+	One of the zombies decides to call it a day, moving in a straight
+	line at walking speed until they hit another zombie, at which
+	point they mumble "brains..." 	and randomly change direction.
+	Roughly how long will it take them to escape,
+	and how many "brains" will they mutter?
+
+*Hint.* Use a *collision rectangle* of width $d$, where
+ $d$ is the diameter of a zombie.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (mirrorball madness).** An eccentric billionaire decides
+to have a disco in space.
+The dance floor lies at the centre of a huge glass sphere, with a
+"gas" of $\mathcal{N}$ mirrorballs floating around it.
+The mirrorballs are illuminated by laser light shot out from pointers
+on the dance floor.
+The giant glass sphere has radius $R$, while the $\mathcal{N}$ mirror balls have
+radius $r$.
+Let's follow the trajectory of a single photon.
+
+(a) Argue that the collision cylinder around the photon has radius
+$r$.
+
+(b) Compute the approximate time it will take the photon to escape the
+giant disco ball.
+You should find
+
+$$
+t_\text{esc} \sim \frac{3r^2 \mathcal{N}}{4 Rc},
+$$
+
+where $c$ is the speed of light.
+
+---
