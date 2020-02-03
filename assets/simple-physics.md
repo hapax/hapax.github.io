@@ -1176,8 +1176,7 @@ elephants charging towards you!
   spheres of radius $R$ and $r$ come within a distance $R+r$, they
   will collide.
 
-(b) Conclude that when $R\gg r$, the scattering cross-section is $\sigma
-\approx \pi R^2$.
+(b) Conclude that the scattering cross-section is $\sigma = \pi (R+r)^2$.
 
 (c) Suppose a sphere of radius $R$ moves at speed $V$ towards a cloud
 of spheres of density $n$ and radius $r$, moving towards it at speed
