@@ -1133,17 +1133,17 @@ cylinder, a collision will occur.
 In fact, if we know the number of colliding objects (e.g. elephants) per
 unit volume in the vicinity, we can estimate the number of
 collisions!
-If you move a distance $\ell$, and have scattering cross-section
-$\sigma$ with respect to elephants (or whatever it is you are worried
+If you move a distance $x$, and have scattering cross-section
+$d$ with respect to elephants (or whatever it is you are worried
 about colliding with), your collision cylinder will have volume
 
 $$
-V = \ell \sigma.
+V = x\sigma.
 $$
 
 If there are $n$ elephants per unit volume, then on average, you will
-collide with $nV = n\ell \sigma$ elephants as you move a distance
-$\ell$.
+collide with $nV = n\sigma x$ elephants as you move a distance
+$x$.
 
 Let's do some very simple examples of cross-sections.
 If you are colliding with objects much smaller than you, then the
@@ -1176,7 +1176,7 @@ elephants charging towards you!
   spheres of radius $R$ and $r$ come within a distance $R+r$, they
   will collide.
 
-(b) Conclude that when $R\gg r$, the scattering cross-section $\sigma
+(b) Conclude that when $R\gg r$, the scattering cross-section is $\sigma
 \approx \pi R^2$.
 
 (c) Suppose a sphere of radius $R$ moves at speed $V$ towards a cloud
@@ -1189,6 +1189,22 @@ n \pi(R+r)^2(V+v).
 $$
 
 ---
+
+Now, back to our regular programming: random walks in gases.
+We would like to determine the step length $\ell$ for the random walk
+executed by colliding particles, assuming they are all spheres of
+radius $r$.
+The method is simple.
+We just draw a collision cylinder until the number of expected
+collisions is $1$, then call it a day:
+
+$$
+1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
+\frac{1}{n\sigma} = \frac{1}{4\pi n r^2}.
+$$
+
+, radius $r$ and number per
+unit volume $n$, then we can estimate the step length $\ell$
 
 All this assumes that the colliding objects are like billiard balls,
 and we won't need anything fancier.
