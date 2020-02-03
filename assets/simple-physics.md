@@ -1118,8 +1118,8 @@ Collisions occur when objects happen to be in the same
 place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
-The bigger you are, or more precisely, the bigger your cross-section
-in the direction of motion, the more likely you are to collide with
+The bigger you are (or more precisely, the bigger your cross-section
+in the direction of motion is), the more likely you are to collide with
 things.
 But you are more likely to collide with elephants than fleas!
 You also want to take into account the size of the objects you might
@@ -1130,9 +1130,8 @@ $\sigma$.
 The basic idea is that if you sweep out a "collision cylinder" with
 cross-section $\sigma$, and the centre of another object lies in the
 cylinder, a collision will occur.
-In fact, if we know the number of colliding objects (e.g. elephants) per
-unit volume in the vicinity, we can estimate the number of
-collisions!
+The cross-section $\sigma$ takes into account both your size and the
+size of the objects you collide with.
 If you move a distance $x$, and have scattering cross-section
 $d$ with respect to elephants (or whatever it is you are worried
 about colliding with), your collision cylinder will have volume
@@ -1141,7 +1140,9 @@ $$
 V = x\sigma.
 $$
 
-If there are $n$ elephants per unit volume, then on average, you will
+If we know the number of colliding objects (e.g. elephants) per unit
+volume in the vicinity, we can estimate the number of collisions!
+For instance, if there are $n$ elephants per unit volume, then on average, you will
 collide with $nV = n\sigma x$ elephants as you move a distance
 $x$.
 
@@ -1181,7 +1182,7 @@ So, you are a sphere of radius $R$, running through the rain.
 The rain consists of very tiny balls of water, falling at some speed
 $v$.
 For simplicity, we assume they fall directly down, but we will comment
-on the effects of wind in a moment.
+on the effect of wind in a moment.
 
 ---
 
