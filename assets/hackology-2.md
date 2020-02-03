@@ -1280,3 +1280,9 @@ $$
 $$
 
 ---
+
+Model humans and elephants as spheres.
+There are around $4 \times 10^5$ elephants left in the world.
+Assume they are distributed at random, and you move in a straight line
+without deviating when you spot an elephant. Roughly how many
+elephants would you expect to collide with in a lifetime?

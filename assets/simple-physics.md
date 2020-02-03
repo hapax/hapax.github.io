@@ -1161,12 +1161,11 @@ $$
 \sigma = \pi (R+r)^2.
 $$
 
-All this assumes that the colliding objects are like billiard balls,
-and we won't need anything fancier.
-But $\sigma$ is more interesting when objects *interact*, undergoing
-attraction or repulsion as a function of distance.
-In fact, particle physicists spend most of their time calculating
-cross-sections to understand what happens in the Large Hadron Collider!
+I'm assuming that the colliding objects *don't move*, or
+rather, *don't move on average*.
+This means our estimates will work for stationary elephants, or even a
+bunch of elephants moving in random directions, but not a herd of
+elephants charging towards you!
 
 ---
 
@@ -1177,13 +1176,23 @@ cross-sections to understand what happens in the Large Hadron Collider!
 (b) Conclude that when $R\gg r$, the scattering cross-section $\sigma
 \approx \pi R^2$, as we claimed above.
 
-(c) Model humans and elephants as spheres.
-There are around $4 \times 10^5$ elephants left in the world.
-Assume they are distributed at random, and you move in a straight line
-without deviating when you spot an elephant. Roughly how many
-elephants would you expect to collide with in a lifetime?
+(c) Suppose a sphere of radius $R$ moves at speed $V$ towards a cloud
+of spheres of density $n$ and radius $r$, moving towards it at speed
+$v$.
+Show that the expected number of collisions per unit time is
+
+$$
+n \pi(R+r)^2(V+v).
+$$
 
 ---
+
+All this assumes that the colliding objects are like billiard balls,
+and we won't need anything fancier.
+But $\sigma$ is more interesting when objects *interact*, undergoing
+attraction or repulsion as a function of distance.
+In fact, particle physicists spend most of their time calculating
+cross-sections to understand what happens in the Large Hadron Collider!
 
 where $\sigma$ is your *cross-section* in the direction of motion.
 Put differently, it is your surface area, viewed head on.
