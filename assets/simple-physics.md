@@ -1278,10 +1278,10 @@ hard time testing this?
   ⁂
   </p>
 
-**Exercise 15 (wet and windy).** To start with, let's consider the
-effect of wind on our collision analysis of rain.
-When the wind blow, it imparts a horizontal velocity $u'$ to the rain.
-Repeat
+**Exercise 15 (wet and windy).** When the wind blow, it imparts a
+horizontal velocity $u'$ to the rain.
+For a sphere a distance $d$ from shelter, how many drops will it
+collide with?
 
 ---
 
