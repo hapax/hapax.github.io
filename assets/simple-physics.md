@@ -1225,8 +1225,8 @@ $$
 To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
-This is particularly clear for the case you travel more slowly than
-the rain, with $(v/u) \gg 1$, where
+This is particularly clear when the rain falls much faster than you
+run, with $(v/u) \gg 1$, in which case
 
 $$
 n V \approx \pi n R^2 d v/u = (\pi n R^2 v)t.
@@ -1250,7 +1250,29 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (when it rains...).** (a) Show that 
+**Exercise 14 (when it rains).** To start with, let's consider the
+effect of wind on our collision analysis of rain.
+When the wind blow, it imparts a horizontal velocity $u'$ to the rain.
+
+(a) Repeat the analysis above. You should find...
+
+Let's now make a slightly more realistic model of a person: a
+box of height $h$, width $w$, and breadth $b$.
+For simplicity, suppose there is no wind, and shelter is a distance
+$d$ away.
+The collision cylinder will now be made up of two pieces, associated
+with the front and top of the box.
+
+(b) Argue that the volume of the collision cylinder for the front of
+the box does not depend on running speed $u$. Is this consistent with
+our original
+observation that a stationary sphere will get infinitely wet?
+
+*Hint.*. You may find trigonometry useful.
+
+(c) Show that the collision cylinder for the top of the box has volume
+proportional to $t$.
+Once more, this shows you should run (unless you are very thin).
 
 ---
 
