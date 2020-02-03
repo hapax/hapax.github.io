@@ -1174,7 +1174,14 @@ holds true.
 But it's not too hard to take movement into account, as we now illustrate.
 
 *Running in the rain.* We're going to give a simple solution to an age
- old problem: should you walk or run in the rain?
+old problem: should you walk or run in the rain?
+We will of course model people as spheres, but see Exercise 14 for a
+more realistic approach.
+So, you are a sphere of radius $R$, running through the rain.
+The rain consists of very tiny balls of water, falling at some speed
+$v$.
+For simplicity, we assume they fall directly down, but we will comment
+on the effects of wind in a moment.
 
 ---
 
@@ -1192,7 +1199,7 @@ But it's not too hard to take movement into account, as we now illustrate.
 
 ---
 
-Now, back to our regular programming: random walks in gases.
+*Random steps.* Now, back to our regular programming: random walks in gases.
 We would like to determine the step length $\ell$ for the random walk
 executed by colliding particles, assuming they are all spheres of
 radius $r$.
@@ -1208,7 +1215,7 @@ $$
 Hopefully this makes sense.
 We want $\ell$ to be average distance between collisions, and this is
 exactly what the collision cylinder calculates when we set the number
-of collisions to $1$.
+of collisions to be precisely $1$.
 
 Let's do an example to show what this means.
 The average
