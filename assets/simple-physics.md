@@ -1204,10 +1204,11 @@ horizontally towards the shelter (represented as a vertical line a
 distance $d$ away) at some speed of your choice, $u$.
 The question is: does the number of drops you collide with on your way
 to shelter depend on $u$?
+If it doesn't, you may as well walk.
 
-The answer is obviously *yes*.
-If you stand still, you move vertically (from the rain's perspective), and collide with an
-*infinite* amount of water on your way to shelter.
+But the answer is obviously *yes*.
+If you stand still, you move vertically from the rain's perspective,
+colliding with an *infinite* amount of water on your way to shelter.
 But let's explore with a little more care.
 If you move at speed $u > 0$, you arrive at shelter in time $t = d/u$.
 Hence, your path has length
