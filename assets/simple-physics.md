@@ -1176,10 +1176,9 @@ elephants charging towards you!
 But taking movement into account isn't too hard.
 To illustrate, we're going to solve the age-old problem: should you
 walk or run in the rain?
-Some people argue it doesn't matter (there is infamous MythBusters
-episode about it) since you encounter the same number of rain drops
-whether you walk or run.
-Let's use collision cylinders to test this claim!
+Some people argue it doesn't matter (and there is infamous MythBusters
+episode which gets it wrong), but we can use collision cylinders to
+reason it out!
 
 We will model people as spheres (naturally), but see Exercise 14 for a
 more realistic approach.
