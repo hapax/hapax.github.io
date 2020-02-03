@@ -1176,8 +1176,8 @@ This covers most of the cases we will be interested in!
 elephants left in the world.
 Assuming they are distributed at random over the landmass of the
 globe, and you do not deviate when you spot an elephant, give a rough
-estimate of the probable number of elephant collisions over your
-lifetime.
+estimate of the number of elephants you are likely to collide with in
+your lifetime.
 
 
 ---
