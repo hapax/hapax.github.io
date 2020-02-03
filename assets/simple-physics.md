@@ -1206,9 +1206,8 @@ to shelter depend on $u$?
 If it doesn't, you may as well walk.
 
 But the answer is obviously *yes*.
-If you stand still, you move vertically from the rain's perspective,
-colliding with an *infinite* amount of water on your way to shelter.
-But let's explore with a little more care.
+If you stand still, you will get infinitely drenched.
+But let's explore this with a little more care.
 If you move at speed $u > 0$, you arrive at shelter in time $t = d/u$.
 Hence, your path has length
 
@@ -1226,6 +1225,11 @@ $$
 To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
+This is particularly clear for the case you travel more slowly than
+the rain, with $(v/u) \gg 1$, where $n V \approx \pi n R^2 d v/u = \pi
+n R^2 vt$.
+How wet you get is directly proportional to how much time you spend in
+the rain!
 
 ---
 
