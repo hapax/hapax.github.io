@@ -1250,29 +1250,38 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (when it rains).** To start with, let's consider the
-effect of wind on our collision analysis of rain.
-When the wind blow, it imparts a horizontal velocity $u'$ to the rain.
-
-(a) Repeat the analysis above. You should find...
-
-Let's now make a slightly more realistic model of a person: a
+**Exercise 14 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
 box of height $h$, width $w$, and breadth $b$.
 For simplicity, suppose there is no wind, and shelter is a distance
 $d$ away.
 The collision cylinder will now be made up of two pieces, associated
 with the front and top of the box.
 
-(b) Argue that the volume of the collision cylinder for the front of
+(a) Argue that the volume of the collision cylinder for the front of
 the box does not depend on running speed $u$. Is this consistent with
 our original
 observation that a stationary sphere will get infinitely wet?
 
-*Hint.*. You may find trigonometry useful.
+*Hint.* You may find trigonometry useful.
 
-(c) Show that the collision cylinder for the top of the box has a volume
+(b) Show that the collision cylinder for the top of the box has a volume
 proportional to $t$.
 Once more, this shows you should run (unless you are very thin).
+
+(c) Plug in some reasonable values for a box model of a human, and
+compare the size of the collision cylinders associated with the front
+and top of the box.
+On these grounds, can you explain why MythBusters might have had a
+hard time testing this?
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 15 (wet and windy).** To start with, let's consider the
+effect of wind on our collision analysis of rain.
+When the wind blow, it imparts a horizontal velocity $u'$ to the rain.
+Repeat
 
 ---
 
