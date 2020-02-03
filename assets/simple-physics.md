@@ -1320,7 +1320,7 @@ Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 15 (Have-a-gadro).** 
+**Exercise 16 (Have-a-gadro).** 
 
 ---
 
