@@ -1167,6 +1167,21 @@ $$
 
 This covers most of the cases we will be interested in!
 
+---
+
+**Exercise 13 (elephants).** (a) Fermi estimate how far you will walk
+  in your lifetime.
+
+(b) There are around $4 \times 10^5$
+elephants left in the world.
+Assuming they are distributed at random over the landmass of the
+globe, and you do not deviate when you spot an elephant, give a rough
+estimate of the probable number of elephant collisions over your
+lifetime.
+
+
+---
+
 *Running in the rain.*
 So far, we're imagining the colliding objects are stationary (or
 stationary on average).
@@ -1237,7 +1252,7 @@ the rain!
 
 ---
 
-**Exercise 13 (colliding spheres).** (a) Show that if the centres of
+**Exercise 14 (colliding spheres).** (a) Show that if the centres of
   spheres of radius $R$ and $r$ come within a distance $R+r$, they
   will collide.
 
@@ -1250,7 +1265,7 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
+**Exercise 15 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
 box of height $h$, width $w$, and breadth $b$.
 For simplicity, suppose there is no wind, and shelter is a distance
 $d$ away.
@@ -1280,7 +1295,7 @@ hard time testing this myth?
   ⁂
   </p>
 
-**Exercise 15 (wet and windy).** When the wind blow, it imparts a
+**Exercise 16 (wet and windy).** When the wind blow, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
