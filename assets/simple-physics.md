@@ -1164,11 +1164,17 @@ $$
 \sigma = \pi (R+r)^2.
 $$
 
-I'm assuming that the colliding objects *don't move*, or
-rather, *don't move on average*.
-This means our estimates will work for stationary elephants, or even a
+So far, we're assuming that the objects we're colliding with *don't
+move*, or at least, *don't move on average*.
+This means our estimates will work for stationary elephants, or a
 bunch of elephants moving in random directions, but not a herd of
 elephants charging towards you!
+Our main interest will be particles in a gas, where this condition
+holds true.
+But it's not too hard to take movement into account, as we now illustrate.
+
+*Running in the rain.* We're going to give a simple solution to an age
+ old problem: should you walk or run in the rain?
 
 ---
 
@@ -1178,14 +1184,11 @@ elephants charging towards you!
 
 (b) Conclude that the scattering cross-section is $\sigma = \pi (R+r)^2$.
 
-(c) Suppose a sphere of radius $R$ moves at speed $V$ towards a cloud
-of spheres of density $n$ and radius $r$, moving towards it at speed
-$v$.
-Show that the expected number of collisions per unit time is
+<p align="center">
+  ⁂
+  </p>
 
-$$
-n \pi(R+r)^2(V+v).
-$$
+**Exercise 14 (sopping squares).**
 
 ---
 
@@ -1201,6 +1204,14 @@ $$
 1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
 \frac{1}{n\sigma} = \frac{1}{4\pi n r^2}.
 $$
+
+Hopefully this makes sense.
+We want $\ell$ to be average distance between collisions, and this is
+exactly what the collision cylinder calculates when we set the number
+of collisions to $1$.
+
+Let's do an example to show what this means.
+The average
 
 ### 4.3. Brownian motion <a id="sec-4-3" name="sec-4-3"></a>
 
