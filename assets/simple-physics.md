@@ -1224,7 +1224,7 @@ $$
 nV = n  \sigma x = \pi nR^2d\sqrt{1 + (v/u)^2}.
 $$
 
-To make this as small as possible, we should make $u$ as large as
+To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
 
