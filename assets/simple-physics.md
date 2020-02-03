@@ -1294,7 +1294,7 @@ shelter, $v^2/u'$.
 If it's very windy, it may be better to walk!
 
 (c) If you feel like doing some trigonometry, determine how many
-raindrops you encounter as a function of the parameters involved.
+raindrops you encounter for arbitrary horizontal velocity $u$.
 
 ---
 
