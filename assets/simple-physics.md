@@ -1190,8 +1190,8 @@ drops per unit volume.
 
 (b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
 
-(c) Conclude that, if $R \gg r$ ($R \ll r$), then $\sigma \approx \pi
-R^2$ ($\sigma \approx \pi r^2$).
+(c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
+R^2$.
 
 <p align="center">
   ⁂
