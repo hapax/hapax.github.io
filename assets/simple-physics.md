@@ -1206,21 +1206,26 @@ The question is: does the number of drops you collide with on your way
 to shelter depend on $u$?
 
 The answer is obviously *yes*.
-If you stand still, you simply move vertically, and collide with an
+If you stand still, you move vertically (from the rain's perspective), and collide with an
 *infinite* amount of water on your way to shelter.
-If you move at speed $u$, you arrive at shelter in time $t = d/u$, and
-hence your path has length
+But let's explore with a little more care.
+If you move at speed $u > 0$, you arrive at shelter in time $t = d/u$.
+Hence, your path has length
 
 $$
 x = \sqrt{(vt)^2 + (ut)^2} = d\sqrt{1 + (v/u)^2}.
 $$
 
 Since the drops are small, your cross-section is $\sigma = \pi R^2$,
-and hence the number of drops you collide with is
+and the number of drops you collide with is then
 
 $$
-nV = n x \sigma = nd\pi R^2\sqrt{1 + (v/u)^2}.
+nV = n  \sigma x = \pi nR^2d\sqrt{1 + (v/u)^2}.
 $$
+
+To make this as small as possible, we should make $u$ as large as
+possible.
+In other words, run for shelter!
 
 ---
 
