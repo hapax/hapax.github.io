@@ -1183,14 +1183,14 @@ reason it out!
 We will model people as spheres (naturally), but see Exercise 14 for a
 more realistic approach.
 So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
-is a distance $d$.
-The rain consists of very tiny balls of water, falling directly down
+is a distance $d$ away.
+The rain consists of tiny balls of water, falling directly down
 (no wind) at some speed $v$.
 Viewed in the reference frame of the falling drops, there are $n$
 drops per unit volume.
 The speed $v$ and density $n$ can change with height, but we are only
 interested in these quantities near the ground, so we are at liberty
-to imagine that they are constant.
+to imagine that they are constant everywhere.
 
 We haven't talked about how to deal with colliding objects all moving
 in the same direction, and here's the nice thing: we don't need to!
