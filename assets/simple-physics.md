@@ -1179,16 +1179,48 @@ walk or run in the rain?
 Some people argue it doesn't matter (there is infamous MythBusters
 episode about it) since you encounter the same number of rain drops
 whether you walk or run.
-Let's use collision cylinders to check!
+Let's use collision cylinders to test this claim!
 
-We will of course model people as spheres, but see Exercise 14 for a
+We will model people as spheres (naturally), but see Exercise 14 for a
 more realistic approach.
-So, you are a sphere of radius $R$, running through the rain.
+So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
+is a distance $d$.
 The rain consists of very tiny balls of water, falling directly down
-at some speed $v$.
-(We will consider the effects of wind in a moment.)
+(no wind) at some speed $v$.
 Viewed in the reference frame of the falling drops, there are $n$
 drops per unit volume.
+The speed $v$ and density $n$ can change with height, but we are only
+interested in these quantities near the ground, so we are at liberty
+to imagine that they are constant.
+
+We haven't talked about how to deal with colliding objects all moving
+in the same direction, and here's the nice thing: we don't need to!
+Instead, let's think about everything in the reference frame of the
+rain.
+Imagine it extends infinitely in all directions, with density of drops
+$n$.
+You, the sphere, travel in a vertical direction at speed $v$, and
+horizontally towards the shelter (represented as a vertical line a
+distance $d$ away) at some speed of your choice, $u$.
+The question is: does the number of drops you collide with on your way
+to shelter depend on $u$?
+
+The answer is obviously *yes*.
+If you stand still, you simply move vertically, and collide with an
+*infinite* amount of water on your way to shelter.
+If you move at speed $u$, you arrive at shelter in time $t = d/u$, and
+hence your path has length
+
+$$
+x = \sqrt{(vt)^2 + (ut)^2} = d\sqrt{1 + (v/u)^2}.
+$$
+
+Since the drops are small, your cross-section is $\sigma = \pi R^2$,
+and hence the number of drops you collide with is
+
+$$
+nV = n x \sigma = nd\pi R^2\sqrt{1 + (v/u)^2}.
+$$
 
 ---
 
