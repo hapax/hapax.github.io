@@ -1147,13 +1147,16 @@ $\ell$.
 
 Let's do some very simple examples of cross-sections.
 If you are colliding with objects much smaller than you, then the
-cross-section is just your surface area $A$ viewed head-on.
+cross-section is just your surface area viewed head-on, $A_\text{head-on}$.
 Similarly, if you are colliding with objects much larger than you,
 then $\sigma$ is related to their cross-section only.
-(If they are randomly oriented with respect to you, this will be a
-sort of averaged surface area $A_\text{avg}$.)
-Clearly, this can get complicated; life is simpler if we Keep It
-Spherical, so that objects look at the same from any angle.
+If they are randomly oriented with respect to you, this will be the
+average surface area they present, $A_\text{avg}$.
+If you and the objects are comparable sizes, things can get even more
+complicated, so we will just Keep It Spherical.
+If the colliding objects are spheres, they look the same from any
+angle, and no averaging is required.
+
 So, picture yourself as a sphere of radius $R$, worried about colliding with spheres of radius $r$.
 You can show in Exercise 13 that the scattering cross-section is
 
