@@ -1158,6 +1158,14 @@ $$
 This means in particular that if you are much larger than the spheres
 you are bumping into, the cross-section is $\pi R^2$, and if you are
 much smaller, it is $\pi r^2$.
+If you are colliding with spheres of the same size, then the
+scattering cross-section is
+
+$$
+\sigma = \pi (2R)^2.
+$$
+
+This covers most of the cases we will be interested in!
 
 *Running in the rain.*
 So far, we're imagining the colliding objects are stationary (or
