@@ -1159,15 +1159,28 @@ This means in particular that if you are much larger than the spheres
 you are bumping into, the cross-section is $\pi R^2$, and if you are
 much smaller, it is $\pi r^2$.
 
-*Running in the rain.* We're going to give a simple solution to an age
-old problem: should you walk or run in the rain?
+*Running in the rain.*
+So far, we're imagining the colliding objects are stationary (or
+stationary on average).
+Our estimates will work for stationary elephants, or a
+bunch of elephants moving in random directions, but not a herd of
+elephants charging towards you!
+But taking movement into account isn't too hard.
+To illustrate, we're going to solve the age-old problem: should you
+walk or run in the rain?
+Some people argue it doesn't matter (there is infamous MythBusters
+episode about it) since you encounter the same number of rain drops
+whether you walk or run.
+Let's use collision cylinders to check!
+
 We will of course model people as spheres, but see Exercise 14 for a
 more realistic approach.
 So, you are a sphere of radius $R$, running through the rain.
-The rain consists of very tiny balls of water, falling at some speed
-$v$.
-For simplicity, we assume they fall directly down, but we will comment
-on the effect of wind in a moment.
+The rain consists of very tiny balls of water, falling directly down
+at some speed $v$.
+(We will consider the effects of wind in a moment.)
+Viewed in the reference frame of the falling drops, there are $n$
+drops per unit volume.
 
 ---
 
