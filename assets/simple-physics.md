@@ -1293,8 +1293,9 @@ Demonstrate that there is a *finite* optimal speed to move towards
 shelter, $v^2/u'$.
 If it's very windy, it may be better to walk!
 
-(c) If you feel like doing some trigonometry, determine how many
+(c) If you like trigonometry, determine how many
 raindrops you encounter for arbitrary horizontal velocity $u$.
+If you *really* like trig, do it for box people!
 
 ---
 
