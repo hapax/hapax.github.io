@@ -1147,32 +1147,17 @@ collide with $nV = n\sigma x$ elephants as you move a distance
 $x$.
 
 Let's do some very simple examples of cross-sections.
-If you are colliding with objects much smaller than you, then the
-cross-section is just your surface area viewed head-on, $A_\text{head-on}$.
-Similarly, if you are colliding with objects much larger than you,
-then $\sigma$ is related to their cross-section only.
-If they are randomly oriented with respect to you, this will be the
-average surface area they present, $A_\text{avg}$.
-If you and the objects are comparable sizes, things can get even more
-complicated, so we will just Keep It Spherical.
-If the colliding objects are spheres, they look the same from any
-angle, and no averaging is required.
-
-So, picture yourself as a sphere of radius $R$, worried about colliding with spheres of radius $r$.
+Picture yourself as a sphere of radius $R$, worried about colliding
+with spheres of radius $r$.
 You can show in Exercise 13 that the scattering cross-section is
 
 $$
 \sigma = \pi (R+r)^2.
 $$
 
-So far, we're assuming that the objects we're colliding with *don't
-move*, or at least, *don't move on average*.
-This means our estimates will work for stationary elephants, or a
-bunch of elephants moving in random directions, but not a herd of
-elephants charging towards you!
-Our main interest will be particles in a gas, where this condition
-holds true.
-But it's not too hard to take movement into account, as we now illustrate.
+This means in particular that if you are much larger than the spheres
+you are bumping into, the cross-section is $\pi R^2$, and if you are
+much smaller, it is $\pi r^2$.
 
 *Running in the rain.* We're going to give a simple solution to an age
 old problem: should you walk or run in the rain?
@@ -1190,7 +1175,10 @@ on the effect of wind in a moment.
   spheres of radius $R$ and $r$ come within a distance $R+r$, they
   will collide.
 
-(b) Conclude that the scattering cross-section is $\sigma = \pi (R+r)^2$.
+(b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
+
+(c) Conclude that, if $R \gg r$ ($R \ll r$), then $\sigma \approx \pi
+R^2$ ($\sigma \approx \pi r^2$).
 
 <p align="center">
   ⁂

@@ -1372,3 +1372,24 @@ $$
 where $c$ is the speed of light.
 
 ---
+
+
+If you are colliding with objects much smaller than you, then the
+cross-section is just your surface area viewed head-on, $A_\text{head-on}$.
+Similarly, if you are colliding with objects much larger than you,
+then $\sigma$ is related to their cross-section only.
+If they are randomly oriented with respect to you, this will be the
+average surface area they present, $A_\text{avg}$.
+If you and the objects are comparable sizes, things can get even more
+complicated, so we will just Keep It Spherical.
+If the colliding objects are spheres, they look the same from any
+angle, and no averaging is required.
+
+So far, we're assuming that the objects we're colliding with *don't
+move*, or at least, *don't move on average*.
+This means our estimates will work for stationary elephants, or a
+bunch of elephants moving in random directions, but not a herd of
+elephants charging towards you!
+Our main interest will be particles in a gas, where this condition
+holds true.
+But it's not too hard to take movement into account, as we now illustrate.
