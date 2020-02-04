@@ -24,7 +24,8 @@ date:  2020-01-06
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
    2. <a href="#sec-4-2">Collisions and cross-sections</a>
-   3. <a href="#sec-4-3">Brownian motion</a>
+   3. <a href="#sec-4-3">Rainy</a>
+   4. <a href="#sec-4-4">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
 
 ## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
@@ -1167,6 +1168,53 @@ $$
 
 This covers most of the cases we will be interested in!
 
+*Mean free path.* Now, back to our regular programming: random walks in gases.
+We would like to determine the step length $\ell$ for the random walk
+executed by colliding particles, assuming they are all spheres of
+radius $r$.
+The method is simple.
+We just draw a collision cylinder until the number of expected
+collisions is $1$, then call it a day:
+
+$$
+1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
+\frac{1}{n\sigma} = \frac{1}{\pi n (2r)^2}.
+$$
+
+Hopefully this makes sense.
+We want $\ell$ to be average distance between collisions, and this is
+exactly what the collision cylinder calculates when we set the number
+of collisions equal to one.
+The fancy name for distance between collisions is *mean free path*,
+but we will use this sparingly.
+
+As a simple example, we can estimate the average distance between
+collisions of air molecules at room temperature ($300$ K) and
+atmospheric pressure ($100$ kPa).
+The trick is to exchange temperature and pressure for number per unit
+volume using the ideal gas law (Exercise 3):
+
+$$
+PV = \mathcal{N}k_B \mathcal{T} \quad \Longrightarrow \quad n = \frac{P}{k_B \mathcal{T}},
+$$
+
+where $n = \mathcal{N}/V$ is the number of air particles per unit
+volume.
+To find $\lambda$, we also need the size of an air molecule.
+Most of it is nitrogen, and a little oxygen, with average diameter $2r
+= 4 \times 10^{-10}$ m.
+We can plug all our numbers in, along with Boltzmann's constant, to
+find the mean free path:
+
+$$
+\ell = \frac{1}{\pi n (2r)^2} = \frac{k_B\mathcal{T}}{\pi P (2r)^2} =
+\frac{(1.38 \times 10^{-23})300}{\pi (100\times 10^3)(4 \times
+10^{-10})^2} \text{ m} \sim 80 \text{nm}.
+$$
+
+So, on average an air molecule travels around $80$ nm.
+This is the width of around $1000$ human hairs!
+
 ---
 
 **Exercise 13 (elephant encounters).** (a) Fermi estimate how far you will walk
@@ -1179,10 +1227,63 @@ globe, and you do not deviate when you spot one, give a rough
 estimate of the number of elephants you are likely to collide with.
 (Model yourself and the elephant as spheres.)
 
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (colliding spheres).** (a) Show that if the centres of
+  spheres of radius $R$ and $r$ come within a distance $R+r$, they
+  will collide.
+
+(b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
+
+(c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
+R^2$.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 15 (taking the air).** Heat is just the kinetic energy of particles.
+More precisely, the the average kinetic energy per particle,
+$\epsilon$, is proportional to temperature,
+
+$$
+\epsilon \sim k_B \mathcal{T}.
+$$
+
+This is called the *equipartition theorem*. I think it gives
+the most sensible way to think about heat.
+
+(a) Show that if our particles have mass $m$, the average speed is
+
+$$
+v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
+$$
+
+(b) Show using Exercise 3 that an ideal gas has number density
+
+$$
+n = \frac{\mathcal{N}}{V} = \frac{P}{k_B\mathcal{T}}.
+$$
+
+(c) Using the collision cylinder method, show that particles of mass
+$m$ and size $r$, in a gas with pressure $P$ and temperature
+$\mathcal{T}$, will spread out according to
+
+$$
+d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
+$$
+
+(d) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
+kg and $r = 4 \times 10^{-10}$ m.
+Estimate how long it takes an air molecule starting in the middle of a
+room to reach a wall.
 
 ---
 
-*Running in the rain.*
+### 4.3. Rain <a id="sec-4-3" name="sec-4-3"></a>
+
 So far, we're imagining the colliding objects are stationary (or
 stationary on average).
 Our estimates will work for elephants at rest, or a
@@ -1249,54 +1350,7 @@ $$
 How wet you get is directly proportional to how much time you spend in
 the rain!
 
-*Random steps.* Now, back to our regular programming: random walks in gases.
-We would like to determine the step length $\ell$ for the random walk
-executed by colliding particles, assuming they are all spheres of
-radius $r$.
-The method is simple.
-We just draw a collision cylinder until the number of expected
-collisions is $1$, then call it a day:
-
-$$
-1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
-\frac{1}{n\sigma} = \frac{1}{\pi n (2r)^2}.
-$$
-
-Hopefully this makes sense.
-We want $\ell$ to be average distance between collisions, and this is
-exactly what the collision cylinder calculates when we set the number
-of collisions equal to one.
-
-As a simple example, we can estimate the average distance between
-collisions of air molecules at room temperature ($25^\circ$ C) and
-atmospheric pressure ($100$ kPa).
-The trick is to exchange temperature and pressure for number per unit
-volume using the ideal gas law (Exercise 3):
-
-$$
-PV = \mathcal{N}k_B \mathcal{T} \quad \Longrightarrow \quad n = \frac{P}{k_B \mathcal{T}},
-$$
-
-where $n = \mathcal{N}/V$ is the number of air particles per unit
-volume.
-To find $\lambda$, we also need the size of an air molecule.
-Most of it is nitrogen, and a little oxygen, with average diameter $2r
-= 4 \times 10^{-10}$ m.
-
 ---
-
-**Exercise 14 (colliding spheres).** (a) Show that if the centres of
-  spheres of radius $R$ and $r$ come within a distance $R+r$, they
-  will collide.
-
-(b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
-
-(c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
-R^2$.
-
-<p align="center">
-  ⁂
-  </p>
 
 **Exercise 15 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
 box of height $h$, width $w$, and breadth $b$.
@@ -1316,14 +1370,6 @@ observation that a stationary sphere will get infinitely wet?
 proportional to $t$.
 Once more, this shows you should run (unless you are very thin).
 
-(c) Plug in reasonable values for a box model of a human, and
-compare the size of the collision cylinders associated with the front
-and top of the box.
-You can determine the speed $v$ using Stokes' law and the fact that
-raindrops are typically $1$ mm in diameter.
-On these grounds, can you explain why MythBusters might have had a
-hard time testing this myth?
-
 <p align="center">
   ⁂
   </p>
@@ -1341,13 +1387,9 @@ Demonstrate that there is a *finite* optimal speed to move towards
 shelter, $v^2/u'$.
 If it's very windy, it may be better to walk!
 
-(c) If you like trigonometry, determine how many
-raindrops you encounter for arbitrary horizontal velocity $u$.
-If you *really* like trig, do it for box people!
-
 ---
 
-### 4.3. Brownian motion <a id="sec-4-3" name="sec-4-3"></a>
+### 4.4. Brownian motion <a id="sec-4-4" name="sec-4-4"></a>
 
 Before the 20th century, the notion that matter was
 made of tiny, indivisible lumps was regarded with skepticism.

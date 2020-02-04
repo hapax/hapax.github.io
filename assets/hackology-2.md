@@ -1408,3 +1408,15 @@ But it's not too hard to take movement into account, as we now illustrate.
 $d$ is the diameter of a zombie.
 
 ---
+
+(c) Plug in reasonable values for a box model of a human, and
+compare the size of the collision cylinders associated with the front
+and top of the box.
+You can determine the speed $v$ using Stokes' law and the fact that
+raindrops are typically $1$ mm in diameter.
+On these grounds, can you explain why MythBusters might have had a
+hard time testing this myth?
+
+(c) If you like trigonometry, determine how many
+raindrops you encounter for arbitrary horizontal velocity $u$.
+If you *really* like trig, do it for box people!
