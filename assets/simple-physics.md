@@ -1549,13 +1549,18 @@ on Brownian motion!
 Perrin used Einstein's method to determine $N_A$.
 He painstakingly prepared tiny spheres of resins, then dropped them
 into warm water and watched them dance.
-The water was typically at temperature $\mathcal{T} = 290$ K, with viscosity $\eta
-\approx 0.0011$ kg/m s.
-He painstakingly observed their tracks, and found values
+The tracks of three resin particles ($r = 0.52 \times 10^{-6}$ m) are
+shown below.
+Observations were made every $30$ s, and divisions are ruled every $3.125
+\times 10^{-6}$ m.
 
-$$
+<span style="padding-left: 20px; display:block">
+(c) Use the tracks to estimate Avogadro's constant.
+The temperature of the water was around $\mathcal{T} = 290$ K, with
+viscosity $\eta \approx 0.0011$ kg/m s.
 
-$$
+*Hint.* The best cluster is on the upper left.
+</span>
 
 ---
 
