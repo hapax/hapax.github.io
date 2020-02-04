@@ -1217,7 +1217,20 @@ human hairs across.
 
 ---
 
-**Exercise 13 (elephant encounters).** (a) Fermi estimate how far you will walk
+**Exercise 13 (colliding spheres).** (a) Show that if the centres of
+  spheres of radius $R$ and $r$ come within a distance $R+r$, they
+  will collide.
+
+(b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
+
+(c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
+R^2$.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 14 (elephant encounters).** (a) Estimate how far you will walk
   in your lifetime.
 
 (b) There are around $4 \times 10^5$
@@ -1226,19 +1239,6 @@ Assuming they are distributed at random over the landmass of the
 globe, and you do not deviate when you spot one, give a rough
 estimate of the number of elephants you are likely to collide with.
 (Model yourself and the elephant as spheres.)
-
-<p align="center">
-  ⁂
-  </p>
-
-**Exercise 14 (colliding spheres).** (a) Show that if the centres of
-  spheres of radius $R$ and $r$ come within a distance $R+r$, they
-  will collide.
-
-(b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
-
-(c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
-R^2$.
 
 <p align="center">
   ⁂
