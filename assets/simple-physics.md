@@ -1562,6 +1562,8 @@ viscosity $\eta \approx 0.0011$ kg/m s.
 *Hint.* The best cluster is on the upper left.
 </span>
 
+<!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
+
 ---
 
 ## 5. Conclusions <a id="sec-5" name="sec-5"></a>
