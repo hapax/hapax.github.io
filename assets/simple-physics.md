@@ -1177,7 +1177,7 @@ elephants left in the world.
 Assuming they are distributed at random over the landmass of the
 globe, and you do not deviate when you spot one, give a rough
 estimate of the number of elephants you are likely to collide with.
-(To make life easy, model yourself and the elephant as spheres.)
+(Model yourself and the elephant as spheres.)
 
 
 ---
@@ -1185,7 +1185,7 @@ estimate of the number of elephants you are likely to collide with.
 *Running in the rain.*
 So far, we're imagining the colliding objects are stationary (or
 stationary on average).
-Our estimates will work for stationary elephants, or a
+Our estimates will work for elephants at rest, or a
 bunch of elephants moving in random directions, but not a herd of
 elephants charging towards you!
 But taking movement into account isn't too hard.
