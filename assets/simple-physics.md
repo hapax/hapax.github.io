@@ -1249,6 +1249,24 @@ $$
 How wet you get is directly proportional to how much time you spend in
 the rain!
 
+*Random steps.* Now, back to our regular programming: random walks in gases.
+We would like to determine the step length $\ell$ for the random walk
+executed by colliding particles, assuming they are all spheres of
+radius $r$.
+The method is simple.
+We just draw a collision cylinder until the number of expected
+collisions is $1$, then call it a day:
+
+$$
+1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
+\frac{1}{n\sigma} = \frac{1}{4\pi n r^2}.
+$$
+
+Hopefully this makes sense.
+We want $\ell$ to be average distance between collisions, and this is
+exactly what the collision cylinder calculates when we set the number
+of collisions to be one.
+
 ---
 
 **Exercise 14 (colliding spheres).** (a) Show that if the centres of
@@ -1312,24 +1330,6 @@ raindrops you encounter for arbitrary horizontal velocity $u$.
 If you *really* like trig, do it for box people!
 
 ---
-
-*Random steps.* Now, back to our regular programming: random walks in gases.
-We would like to determine the step length $\ell$ for the random walk
-executed by colliding particles, assuming they are all spheres of
-radius $r$.
-The method is simple.
-We just draw a collision cylinder until the number of expected
-collisions is $1$, then call it a day:
-
-$$
-1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
-\frac{1}{n\sigma} = \frac{1}{4\pi n r^2}.
-$$
-
-Hopefully this makes sense.
-We want $\ell$ to be average distance between collisions, and this is
-exactly what the collision cylinder calculates when we set the number
-of collisions to be one.
 
 ### 4.3. Brownian motion <a id="sec-4-3" name="sec-4-3"></a>
 
