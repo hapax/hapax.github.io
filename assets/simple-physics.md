@@ -1114,7 +1114,7 @@ How deep was the water this vessel fished in?
 
 ### 4.2. Collisions and cross-sections <a id="sec-4-2" name="sec-4-2"></a>
 
-Collisions occur when objects happen to be in the same
+*Collisions with elephants.* Collisions occur when objects happen to be in the same
 place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
@@ -1169,14 +1169,15 @@ This covers most of the cases we will be interested in!
 
 ---
 
-**Exercise 13 (elephants).** (a) Fermi estimate how far you will walk
+**Exercise 13 (elephant encounters).** (a) Fermi estimate how far you will walk
   in your lifetime.
 
 (b) There are around $4 \times 10^5$
 elephants left in the world.
 Assuming they are distributed at random over the landmass of the
-globe, and you do not deviate when you spot an elephant, give a rough
+globe, and you do not deviate when you spot one, give a rough
 estimate of the number of elephants you are likely to collide with.
+(To make life easy, model yourself and the elephant as spheres.)
 
 
 ---
