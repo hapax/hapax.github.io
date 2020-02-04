@@ -1496,7 +1496,8 @@ $$
 \mathcal{R} = 8.3 \, \text{ J / K mol}.
 $$
 
-No
+Recall that one mole is $N_A$ particles, where $N_A$ is *Avogadro's
+constant*, roughly the number of carbon atoms in $12$ g of carbon.
 
 ---
 
