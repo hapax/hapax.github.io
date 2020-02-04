@@ -1276,7 +1276,7 @@ D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi \sqrt{m} P (2r)^2 }.
 $$
 
 (c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg
-(once again, this is slightly larger than the mass of an N_2 molecule).
+(once again, this is slightly larger than the mass of an N$_2$ molecule).
 Estimate how long it will take an air molecule near your head to reach the
 wall.
 
