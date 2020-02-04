@@ -1253,8 +1253,9 @@ $$
 \epsilon \sim k_B \mathcal{T}.
 $$
 
-This is called the *equipartition theorem*. I think it gives
-the most sensible way to think about heat.
+This is called the *equipartition theorem*. It tells us what
+temperature really is!
+It is energy per particle.
 
 (a) Show that if our particles have mass $m$, the average speed is
 
