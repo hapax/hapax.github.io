@@ -1212,8 +1212,8 @@ $$
 10^{-10})^2} \text{ m} \sim 80 \text{nm}.
 $$
 
-So, on average an air molecule travels around $80$ nm.
-This is the width of around $1000$ human hairs!
+So, on average an air molecule travels around $80$ nm, about $1000$
+human hairs across.
 
 ---
 
