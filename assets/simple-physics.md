@@ -1538,12 +1538,11 @@ Using the Einstein-Stokes relation, show that
 $$
 N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
 $$
+</span>
 
 This is the last equation
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
-</span>
-
 Perrin used Einstein's method to determine $N_A$.
 He painstakingly prepared tiny spheres of resins, then dropped them
 into warm water and watched them dance.
