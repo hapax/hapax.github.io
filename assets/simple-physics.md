@@ -1209,7 +1209,7 @@ find the mean free path:
 $$
 \ell = \frac{1}{\pi n (2r)^2} = \frac{k_B\mathcal{T}}{\pi P (2r)^2} =
 \frac{(1.38 \times 10^{-23})300}{\pi (100\times 10^3)(4 \times
-10^{-10})^2} \text{ m} \sim 80 \text{nm}.
+10^{-10})^2} \text{ m} \sim 80 \text{ nm}.
 $$
 
 So, on average an air molecule travels around $80$ nm, around $1000$
