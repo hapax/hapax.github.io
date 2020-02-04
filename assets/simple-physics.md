@@ -24,7 +24,7 @@ date:  2020-01-06
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
    2. <a href="#sec-4-2">Collisions and cross-sections</a>
-   3. <a href="#sec-4-3">Rainy day problems</a>
+   3. <a href="#sec-4-3">Rainy day dilemma</a>
    4. <a href="#sec-4-4">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
 
@@ -1281,7 +1281,7 @@ wall.
 
 ---
 
-### 4.3. Rainy day problems <a id="sec-4-3" name="sec-4-3"></a>
+### 4.3. Rainy day dilemma<a id="sec-4-3" name="sec-4-3"></a>
 
 (*Note.* This is a fun optional extension of collision
 cylinders. It's not needed for the final section on Brownian motion.)
