@@ -1343,7 +1343,7 @@ To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
 This is particularly clear when the rain falls much faster than you
-run, with $(v/u) \gg 1$, in which case
+run, with $v/u \gg 1$, in which case
 
 $$
 n V \approx \pi n R^2 \left(\frac{d v}{u}\right) = (\pi n R^2 v)t.
