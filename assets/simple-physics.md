@@ -1259,13 +1259,29 @@ collisions is $1$, then call it a day:
 
 $$
 1 = n V = n \ell \sigma \quad \Longrightarrow \quad \ell =
-\frac{1}{n\sigma} = \frac{1}{4\pi n r^2}.
+\frac{1}{n\sigma} = \frac{1}{\pi n (2r)^2}.
 $$
 
 Hopefully this makes sense.
 We want $\ell$ to be average distance between collisions, and this is
 exactly what the collision cylinder calculates when we set the number
-of collisions to be one.
+of collisions equal to one.
+
+As a simple example, we can estimate the average distance between
+collisions of air molecules at room temperature ($25^\circ$ C) and
+atmospheric pressure ($100$ kPa).
+The trick is to exchange temperature and pressure for number per unit
+volume using the ideal gas law (Exercise 3):
+
+$$
+PV = \mathcal{N}k_B \mathcal{T} \quad \Longrightarrow \quad n = \frac{P}{k_B \mathcal{T}},
+$$
+
+where $n = \mathcal{N}/V$ is the number of air particles per unit
+volume.
+To find $\lambda$, we also need the size of an air molecule.
+Most of it is nitrogen, and a little oxygen, with average diameter $2r
+= 4 \times 10^{-10}$ m.
 
 ---
 
