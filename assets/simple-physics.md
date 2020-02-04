@@ -1483,7 +1483,18 @@ Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 16 (Have-a-gadro).** 
+**Exercise 16 (Avagadro).** You may have seen the ideal gas law
+(Exercise 3) in a different guise:
+
+$$
+PV = n_\text{mol} \mathcal{R} \mathcal{T},
+$$
+
+where $n_\text{mol}$ is the number of particles in mol, and
+
+$$
+\mathcal{R} = 8.3 \, \text{ J / K mol}.
+$$
 
 ---
 
