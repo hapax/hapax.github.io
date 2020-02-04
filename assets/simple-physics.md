@@ -1541,7 +1541,7 @@ N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
 $$
 
 <span style="padding-left: 20px; display:block">
-This is the last equation
+This is the last equation in
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
 </span>
@@ -1557,8 +1557,9 @@ Observations were made every $30$ s, and divisions are ruled every $3.125
 <span style="padding-left: 20px; display:block">
 (c) Use the tracks to estimate Avogadro's constant.
 The temperature of the water was around $\mathcal{T} = 290$ K, with
-viscosity $\eta \approx 0.0011$ kg/m s.
+viscosity $\eta \approx 0.0011$ kg/m s. </span>
 
+<span style="padding-left: 20px; display:block">
 *Hint.* The best cluster is on the upper left.
 </span>
 
