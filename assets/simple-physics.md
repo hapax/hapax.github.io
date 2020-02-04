@@ -1183,7 +1183,7 @@ $$
 
 Hopefully this makes sense.
 We want $\ell$ to be average distance between collisions, and this is
-exactly what the collision cylinder calculates when we set the number
+	exactly what the collision cylinder calculates when we set the number
 of collisions equal to one.
 The fancy name for distance between collisions is *mean free path*,
 but we will use this sparingly.
@@ -1212,8 +1212,9 @@ $$
 10^{-10})^2} \text{ m} \sim 80 \text{nm}.
 $$
 
-So, on average an air molecule travels around $80$ nm, about $1000$
+So, on average an air molecule travels around $80$ nm, around $1000$
 human hairs across.
+In Exercise 15, you can find 
 
 ---
 
@@ -1293,7 +1294,7 @@ Some people argue it doesn't matter (and there is infamous MythBusters
 episode which gets it wrong), but we can use collision cylinders to
 reason it out!
 
-We will model people as spheres (naturally), but see Exercise 14 for a
+We will model people as spheres (naturally), but see Exercise 16 for a
 more realistic approach.
 So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
 is a distance $d$ away.
