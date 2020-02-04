@@ -1499,7 +1499,7 @@ $$
 Recall that one mole is $N_A$ particles, where $N_A$ is *Avogadro's
 constant*, roughly the number of carbon atoms in $12$ g of carbon.
 But Avogadro didn't know his own constant!
-He is responsible for proposing *Avogadro's law*:
+His big contribution is something called *Avogadro's law*:
 
 <span style="padding-left: 20px; display:block">
 Equal volumes of gas, at equal temperature and pressure, contain the
