@@ -1520,11 +1520,12 @@ That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
 
 <span style="padding-left: 20px; display:block">
 (a) By equating the two different forms of the ideal gas law, deduce
-that $\mathcal{R} = N_A k_B$.
+that $N_A = \mathcal{R}/k_B$.
 </span>
 
-Our main task is going to be to work out $N_A$..
-Since we can easily measure $\mathcal{R}$, from exercise (a) we only
+Our goal is going to be to weigh molecules, and the first step is
+finding $N_A$.
+Since we can easily measure $\mathcal{R}$, from part (a) we only
 need to measure Boltzmann's constant to find $N_A$.
 Perrin and Einstein gave the first modern estimates of Avogadro's
 number using Brownian motion, so we will follow in their footsteps.
