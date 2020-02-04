@@ -1376,8 +1376,8 @@ Once more, this shows you should run (unless you are very thin).
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
-(a) Explain why, if the wind is blowing *away* from shelter, you
-should run as fast as possible.
+(a) If the wind is blowing *away* from shelter, explain why should run
+as fast as possible.
 
 (b) Suppose the wind blows *towards* shelter with a horizontal
 velocity $u'$, and has downward velocity $v$
