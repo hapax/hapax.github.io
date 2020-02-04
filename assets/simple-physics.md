@@ -1258,8 +1258,7 @@ $$
 
 where $k_B$ is the Boltzmann constant.
 This is called the *equipartition theorem*. It tells us what
-temperature really is!
-It is energy per particle.
+temperature really is: energy per particle!
 
 (a) Show that if the particles have mass $m$, the average speed is
 
