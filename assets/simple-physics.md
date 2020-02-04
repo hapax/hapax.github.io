@@ -23,7 +23,7 @@ date:  2020-01-06
    4. <a href="#sec-3-4">Usage notes</a>
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
-   2. <a href="#sec-4-2">Collisions and cross-sections</a>
+   2. <a href="#sec-4-2">Bumping into things</a>
    3. <a href="#sec-4-3">Rainy day dilemma</a>
    4. <a href="#sec-4-4">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
@@ -1113,7 +1113,7 @@ How deep was the water this vessel fished in?
 
 ---
 
-### 4.2. Collisions and cross-sections <a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Bumping into things <a id="sec-4-2" name="sec-4-2"></a>
 
 Collisions occur when objects happen to be in the same
 place at the same time.
