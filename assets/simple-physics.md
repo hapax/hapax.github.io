@@ -1483,7 +1483,7 @@ Both Perrin and Einstein received Nobel prizes for this work.
 
 ---
 
-**Exercise 16 (Avogadro).** You may have seen the ideal gas law
+**Exercise 16 (weighing molecules).** You may have seen the ideal gas law
 (Exercise 3) in a different guise:
 
 $$
