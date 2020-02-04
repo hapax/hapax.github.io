@@ -1514,7 +1514,16 @@ weighing a molecule.
 This turns out to be hard!
 But it is easy to measure the volume of the gas (place it in a
 container of fixed volume), the pressure (use a barometer), the
-temperature (a thermometer), and finally, the number of mole (chemistry).
+temperature (a thermometer), and finally, the number of mole (the
+magic of chemistry).
+That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
+
+<span style="padding-left: 20px; display:block">
+(a) By equating the two different forms of the ideal gas law, deduce
+that $\mathcal{R} = N_A k_B$.
+</span>
+
+Our task is going to be to 
 
 ---
 
