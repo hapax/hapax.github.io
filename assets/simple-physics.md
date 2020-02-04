@@ -1531,11 +1531,23 @@ Perrin and Einstein gave the first modern estimates of Avogadro's
 number using Brownian motion, so we will follow in their footsteps.
 
 (b)<span style="padding-left: 20px; display:block">
- We can find the diffusion constant $D$ for a jiggling pollen grain
-simply by observing it over time.
-Using the Einstein-Stokes relation, write an expression for $k_B$ in
+Suppose we observe the Brownian motion of a spherical particle, which
+jiggles a distance $d$ in time $t$.
+Using the Einstein-Stokes relation, write an expression for $N_A$ in
 terms of measurable quantities.
 </span>
+
+In the previous problem, you should have found
+
+$$
+N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
+$$
+
+This is (more or less) the last equation
+[Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
+on Brownian motion!
+Perrin prepared tiny spherical grains of a resin called *gamboge*,
+which he dropped into 
 
 ---
 
@@ -1544,3 +1556,4 @@ terms of measurable quantities.
 #### References
 
 https://en.wikipedia.org/wiki/Barometer_question
+https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
