@@ -1302,7 +1302,7 @@ The rain consists of tiny balls of water, falling directly down
 (no wind) at some speed $v$.
 Viewed in the reference frame of the falling drops, there are $n$
 drops per unit volume.
-The speed $v$ and density $n$ can change with height, but we are only
+The speed $v$ and density $n$ can change with height, but we're only
 interested in these quantities near the ground, so we are at liberty
 to imagine that they are constant everywhere.
 
