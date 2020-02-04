@@ -1538,6 +1538,7 @@ Using the Einstein-Stokes relation, show that
 $$
 N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
 $$
+
 </span>
 
 This is the last equation
