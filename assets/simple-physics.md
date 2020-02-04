@@ -1214,7 +1214,7 @@ $$
 
 So, on average an air molecule travels around $80$ nm, around $1000$
 human hairs across.
-In Exercise 15, you can find 
+In Exercise 15, you can see how *fast* air molecules diffuse.
 
 ---
 
@@ -1275,7 +1275,8 @@ $$
 D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi \sqrt{m} P (2r)^2 }.
 $$
 
-(c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg.
+(c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg
+(once again, this is slightly larger than the mass of an N_2 molecule).
 Estimate how long it will take an air molecule near your head to reach the
 wall.
 
