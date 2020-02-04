@@ -1115,7 +1115,7 @@ How deep was the water this vessel fished in?
 
 ### 4.2. Collisions and cross-sections <a id="sec-4-2" name="sec-4-2"></a>
 
-*Collisions with elephants.* Collisions occur when objects happen to be in the same
+*Colliding elephants.* Collisions occur when objects happen to be in the same
 place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
