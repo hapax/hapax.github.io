@@ -1231,7 +1231,7 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 14 (elephant encounters).** (a) Estimate how far you will walk
+**Exercise 14 (pachyderm pileup).** (a) Estimate how far you will walk
   in your lifetime.
 
 (b) There are around $4 \times 10^5$
