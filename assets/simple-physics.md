@@ -1245,14 +1245,18 @@ estimate of the number of elephants you are likely to collide with.
   ⁂
   </p>
 
-**Exercise 15 (air time).** Heat is just the kinetic energy of particles.
-More precisely, the the average kinetic energy per particle,
-$\epsilon$, is proportional to temperature:
+**Exercise 15 (equipartition and air time).** People often say that
+heat is "atomic motion".
+This is shorthand for "temperature is average kinetic energy per
+particle".
+More precisely, the average kinetic energy per particle
+$\epsilon_\text{avg}$ is proportional to temperature:
 
 $$
-\epsilon \sim k_B \mathcal{T}.
+\epsilon_\text{avg} \sim k_B \mathcal{T},
 $$
 
+where $k_B$ is the Boltzmann constant.
 This is called the *equipartition theorem*. It tells us what
 temperature really is!
 It is energy per particle.
