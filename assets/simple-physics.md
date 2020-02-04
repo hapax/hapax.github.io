@@ -1346,7 +1346,7 @@ This is particularly clear when the rain falls much faster than you
 run, with $v/u \gg 1$, in which case
 
 $$
-n V \approx \pi n R^2 \left(\frac{d v}{u}\right) = (\pi n R^2 v)t.
+n V \approx \pi n R^2d \cdot \frac{v}{u} = (\pi n R^2 v)t.
 $$
 
 How wet you get is directly proportional to how much time you spend in
