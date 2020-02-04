@@ -1284,8 +1284,11 @@ room to reach a wall.
 
 ### 4.3. Rainy day problems <a id="sec-4-3" name="sec-4-3"></a>
 
-So far, we're imagining the colliding objects are stationary (or
-stationary on average).
+(*Note.* This is a fun optional extension of collision
+cylinders. It's not needed for the final section on Brownian motion.)
+
+In the previous section, we were imagining the colliding objects are
+stationary (or stationary on average).
 Our estimates will work for elephants at rest, or a
 bunch of elephants moving in random directions, but not a herd of
 elephants charging towards you!
