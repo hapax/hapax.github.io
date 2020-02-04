@@ -1247,7 +1247,7 @@ estimate of the number of elephants you are likely to collide with.
 
 **Exercise 15 (air time).** Heat is just the kinetic energy of particles.
 More precisely, the the average kinetic energy per particle,
-$\epsilon$, is proportional to temperature,
+$\epsilon$, is proportional to temperature:
 
 $$
 \epsilon \sim k_B \mathcal{T}.
@@ -1257,18 +1257,19 @@ This is called the *equipartition theorem*. It tells us what
 temperature really is!
 It is energy per particle.
 
-(a) Show that if our particles have mass $m$, the average speed is
+(a) Show that if the particles have mass $m$, the average speed is
 
 $$
 v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
 $$
 
-(b) Using the collision cylinder method, show that particles of mass
-$m$ and size $r$, in a gas with pressure $P$ and temperature
-$\mathcal{T}$, will spread out according to
+(b) Using the collision cylinder method, compute the diffusion
+constant $D = \ell v$ in a gas with pressure $P$ and temperature
+$\mathcal{T}$, consisting of particles of mass $m$ and size $r$.
+You should find that
 
 $$
-d \sim \left[\frac{(k_B \mathcal{T})^3}{16\pi^2 P^2 r^4 m}\right]^{1/4}\sqrt{t}.
+D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi P (2r)^2 \sqrt{m}}.
 $$
 
 (c) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
