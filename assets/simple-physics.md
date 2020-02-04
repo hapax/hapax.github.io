@@ -1544,8 +1544,16 @@ This is the last equation
 on Brownian motion!
 </span>
 
-Perrin prepared tiny spherical grains of a resin called *gamboge*,
-which he dropped into 
+Perrin used Einstein's method to determine $N_A$.
+He painstakingly prepared tiny spheres of resins, then dropped them
+into warm water and watched them dance.
+The water was typically at temperature $\mathcal{T} = 290$ K, with viscosity $\eta
+\approx 0.011$ kg/m s.
+He painstakingly observed their tracks, and found values
+
+$$
+
+$$
 
 ---
 
