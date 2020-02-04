@@ -1518,8 +1518,8 @@ temperature (a thermometer), and finally, the number of mole (the
 magic of chemistry).
 That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
 
-(a)<span style="padding-left: 20px; display:block">
-By equating the two different forms of the ideal gas law, deduce
+<span style="padding-left: 20px; display:block">
+(a) By equating the two different forms of the ideal gas law, deduce
 that $N_A = \mathcal{R}/k_B$.
 </span>
 
@@ -1530,14 +1530,10 @@ need to measure Boltzmann's constant to find $N_A$.
 Perrin and Einstein gave the first modern estimates of Avogadro's
 number using Brownian motion, so we will follow in their footsteps.
 
-(b)<span style="padding-left: 20px; display:block">
-Suppose we observe the Brownian motion of a spherical particle, which
-jiggles a distance $d$ in time $t$.
-Using the Einstein-Stokes relation, write an expression for $N_A$ in
-terms of measurable quantities.
-</span>
-
-In the previous problem, you should have found
+<span style="padding-left: 20px; display:block">
+(b) Suppose a spherical particle jiggles a distance $d$ in time $t$
+due to Brownian motion.
+Using the Einstein-Stokes relation, show that
 
 $$
 N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
@@ -1546,6 +1542,8 @@ $$
 This is (more or less) the last equation
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
+</span>
+
 Perrin prepared tiny spherical grains of a resin called *gamboge*,
 which he dropped into 
 
