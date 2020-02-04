@@ -1523,7 +1523,11 @@ That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
 that $\mathcal{R} = N_A k_B$.
 </span>
 
-Our task is going to be to 
+Our main task is going to be to work out $N_A$, following in the
+footsteps of Perrin and Einstein, who gave the first modern estimates
+of Avogadro's number using Brownian motion.
+Since we can easily measure $\mathcal{R}$, from exercise (a) we only
+need to measure Boltzmann's constant to find $N_A$.
 
 ---
 
