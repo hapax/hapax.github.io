@@ -1370,7 +1370,7 @@ observation that a stationary sphere will get infinitely wet?
 
 (b) Show that the collision cylinder for the top of the box has a volume
 proportional to $t$.
-Once more, this shows you should run (unless you are very thin).
+Once more, this shows you should run (unless you are very, very thin).
 
 <p align="center">
   ⁂
