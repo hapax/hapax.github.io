@@ -1534,21 +1534,23 @@ number using Brownian motion, so we will follow in their footsteps.
 (b) Suppose a spherical particle jiggles a distance $d$ in time $t$
 due to Brownian motion.
 Using the Einstein-Stokes relation, show that
+</span>
 
 $$
 N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
 $$
 
-</span>
-
+<span style="padding-left: 20px; display:block">
 This is the last equation
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
+</span>
+
 Perrin used Einstein's method to determine $N_A$.
 He painstakingly prepared tiny spheres of resins, then dropped them
 into warm water and watched them dance.
 The water was typically at temperature $\mathcal{T} = 290$ K, with viscosity $\eta
-\approx 0.011$ kg/m s.
+\approx 0.0011$ kg/m s.
 He painstakingly observed their tracks, and found values
 
 $$
