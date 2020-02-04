@@ -1282,7 +1282,7 @@ observation that a stationary sphere will get infinitely wet?
 proportional to $t$.
 Once more, this shows you should run (unless you are very thin).
 
-(c) Plug in some reasonable values for a box model of a human, and
+(c) Plug in reasonable values for a box model of a human, and
 compare the size of the collision cylinders associated with the front
 and top of the box.
 You can determine the speed $v$ using Stokes' law and the fact that
@@ -1294,7 +1294,7 @@ hard time testing this myth?
   ⁂
   </p>
 
-**Exercise 16 (wet and windy).** When the wind blow, it imparts a
+**Exercise 16 (wet and windy).** When the wind blows, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
