@@ -1547,12 +1547,12 @@ on Brownian motion!
 </span>
 
 Perrin used Einstein's method to determine $N_A$.
-He painstakingly prepared tiny spheres of resins, then dropped them
+He painstakingly prepared tiny spheres of resin, then dropped them
 into warm water and watched them dance.
 The tracks of three resin particles ($r = 0.52 \times 10^{-6}$ m) are
 shown below.
-Observations were made every $30$ s, and divisions are ruled every $3.125
-\times 10^{-6}$ m.
+Observations (the dots) were made every $30$ s, and divisions are
+ruled every $3.125 \mu$m.
 
 <span style="padding-left: 20px; display:block">
 (c) Use the tracks to estimate Avogadro's constant.
