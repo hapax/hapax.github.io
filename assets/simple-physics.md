@@ -1220,9 +1220,8 @@ The question is: does the number of drops you collide with on your way
 to shelter depend on $u$?
 If it doesn't, you may as well walk.
 
-But the answer is obviously *yes*.
-If you stand still, you will get infinitely drenched.
-But let's explore this with a little more care.
+But the answer is obviously *yes*: if you stand still, you will get infinitely drenched.
+Let's explore this with a little more care.
 If you move at speed $u > 0$, you arrive at shelter in time $t = d/u$.
 Hence, your path has length
 
