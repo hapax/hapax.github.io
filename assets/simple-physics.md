@@ -1484,7 +1484,7 @@ Both Perrin and Einstein received Nobel prizes for this work.
 ---
 
 **Exercise 16 (weighing molecules).** You may have seen the ideal gas law
-(Exercise 3) in a different guise:
+(Exercise 3) in its chemistry guise:
 
 $$
 PV = n_\text{mol} \mathcal{R} \mathcal{T},
