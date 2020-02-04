@@ -1269,7 +1269,7 @@ $\mathcal{T}$, consisting of particles of mass $m$ and size $r$.
 You should find that
 
 $$
-D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi P (2r)^2 \sqrt{m}}.
+D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi \sqrt{m} P (2r)^2 }.
 $$
 
 (c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg.
