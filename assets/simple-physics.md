@@ -1539,7 +1539,7 @@ $$
 N_A \sim \frac{t}{d^2}\cdot \frac{\mathcal{R}\mathcal{T}}{6\pi \eta r}.
 $$
 
-This is (more or less) the last equation
+This is the last equation
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
 </span>
