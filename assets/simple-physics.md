@@ -1455,7 +1455,7 @@ $$
 v_{\text{term}} = \frac{mg}{6\pi \mu r},
 $$
 
-where $\mu$ is the viscosity of the fluid.
+where $\mu$ is the viscosity.
 Putting it all together, we predict a diffusion coefficient
 
 $$
