@@ -1272,10 +1272,9 @@ $$
 D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi P (2r)^2 \sqrt{m}}.
 $$
 
-(c) Finally, the average mass and radius of an air molecule is $m = 5 \times 10^{-26}$
-kg and $r = 4 \times 10^{-10}$ m.
-Estimate how long it takes an air molecule starting in the middle of a
-room to reach a wall.
+(c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg.
+Estimate how long it will take an air molecule near your head to reach the
+wall.
 
 ---
 
