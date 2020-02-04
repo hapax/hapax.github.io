@@ -1523,11 +1523,18 @@ That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
 that $\mathcal{R} = N_A k_B$.
 </span>
 
-Our main task is going to be to work out $N_A$, following in the
-footsteps of Perrin and Einstein, who gave the first modern estimates
-of Avogadro's number using Brownian motion.
+Our main task is going to be to work out $N_A$..
 Since we can easily measure $\mathcal{R}$, from exercise (a) we only
 need to measure Boltzmann's constant to find $N_A$.
+Perrin and Einstein gave the first modern estimates of Avogadro's
+number using Brownian motion, so we will follow in their footsteps.
+
+<span style="padding-left: 20px; display:block">
+(b) We can find the diffusion constant $D$ for a jiggling pollen grain
+simply by observing it over time.
+Using the Einstein-Stokes relation, write an expression for $k_B$ in
+terms of measurable quantities.
+</span>
 
 ---
 
