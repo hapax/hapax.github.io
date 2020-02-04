@@ -1372,14 +1372,14 @@ Once more, this shows you should run (unless you are very thin).
   ⁂
   </p>
 
-**Exercise 17 ().** When the wind blows, it imparts a
+**Exercise 17 (wet cardboard box).** When the wind blows, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
-(a) If the wind is blowing *away* from shelter, explain why you should run
+(a) If the wind blows *away* from shelter, explain why you should run
 as fast as possible.
 
-(b) Suppose the wind blows *towards* shelter with a horizontal
+(b) Suppose the wind is blowing *towards* shelter with a horizontal
 velocity $u'$, and has downward velocity $v$
 Demonstrate that there is a *finite* optimal speed to move towards
 shelter, $v^2/u'$.
