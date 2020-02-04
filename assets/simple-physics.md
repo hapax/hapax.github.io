@@ -1498,6 +1498,22 @@ $$
 
 Recall that one mole is $N_A$ particles, where $N_A$ is *Avogadro's
 constant*, roughly the number of carbon atoms in $12$ g of carbon.
+But Avogadro didn't know his own constant!
+He did, however, suggest the following law:
+
+<span style="padding-left: 20px; display:block">
+Equal volumes of gas, at equal temperature and pressure, contain the
+same number of molecules.
+</span>
+
+Avogadro stated this simpler law in 1811, about $45$ years before the
+ideal gas law was discovered.
+Determining the number of molecules in a sample of gas is the same as
+weighing a molecule.
+This turns out to be hard!
+But it is easy to measure the volume of the gas (place it in a
+container of fixed volume), the pressure (use a barometer), the
+temperature (a thermometer), and finally, the number of mole (chemistry).
 
 ---
 
