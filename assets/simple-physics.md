@@ -1287,12 +1287,12 @@ wall.
 (*Note.* This is a fun optional extension of collision
 cylinders. It's not needed for the final section on Brownian motion.)
 
-In the previous section, we were imagining the colliding objects are
+In the previous section, we were assuming the colliding objects were
 stationary (or stationary on average).
-Our estimates will work for elephants at rest, or a
+The estimates will work for elephants at rest, or even a
 bunch of elephants moving in random directions, but not a herd of
 elephants charging towards you!
-But taking movement into account isn't too hard.
+Taking movement into account isn't too hard.
 To illustrate, we're going to solve the age-old problem: should you
 walk or run in the rain?
 Some people argue it doesn't matter (and there is infamous MythBusters
