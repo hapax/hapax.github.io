@@ -1298,8 +1298,7 @@ Some people argue it doesn't matter (and there is infamous MythBusters
 episode which gets it wrong), but we can use collision cylinders to
 reason it out!
 
-We will model people as spheres (naturally), but see Exercise 16 for a
-more realistic approach.
+We will model people as spheres (naturally), but Exercise 16 is more realistic.
 So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
 is a distance $d$ away.
 The rain consists of tiny balls of water, falling directly down
