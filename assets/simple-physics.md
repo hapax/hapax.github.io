@@ -1119,7 +1119,7 @@ place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
 The bigger you are (or more precisely, the bigger your cross-section
-in the direction of motion is), the more likely you are to collide with
+in the direction of motion), the more likely you are to collide with
 things.
 But you are more likely to collide with elephants than fleas!
 You also want to take into account the size of the objects you might
