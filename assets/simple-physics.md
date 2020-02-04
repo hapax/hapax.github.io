@@ -1355,7 +1355,7 @@ the rain!
 
 ---
 
-**Exercise 15 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
+**Exercise 16 (boxes in the rain).** Let's now make a slightly more realistic model of a person: a
 box of height $h$, width $w$, and breadth $b$.
 For simplicity, suppose there is no wind, and shelter is a distance
 $d$ away.
@@ -1377,7 +1377,7 @@ Once more, this shows you should run (unless you are very thin).
   ⁂
   </p>
 
-**Exercise 16 (wet and windy).** When the wind blows, it imparts a
+**Exercise 17 (wet and windy).** When the wind blows, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
