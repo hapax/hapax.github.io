@@ -1393,3 +1393,18 @@ elephants charging towards you!
 Our main interest will be particles in a gas, where this condition
 holds true.
 But it's not too hard to take movement into account, as we now illustrate.
+
+---
+
+**Exercise 15 (zombies).** A group of $500$ zombies shambles around a
+	post-apocalyptic car park of size $\sim 50$ m.
+	One of the zombies decides to call it a day, moving in a straight
+	line at walking speed until they hit another zombie, at which
+	point they mumble "brains..." 	and randomly change direction.
+	Roughly how long will it take them to escape,
+	and how many "brains" will they mutter?
+
+*Hint.* Use a *collision rectangle* of width $d$, where
+$d$ is the diameter of a zombie.
+
+---
