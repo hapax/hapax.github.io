@@ -1244,7 +1244,7 @@ estimate of the number of elephants you are likely to collide with.
   ⁂
   </p>
 
-**Exercise 15 (taking the air).** Heat is just the kinetic energy of particles.
+**Exercise 15 (air time).** Heat is just the kinetic energy of particles.
 More precisely, the the average kinetic energy per particle,
 $\epsilon$, is proportional to temperature,
 
