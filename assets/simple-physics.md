@@ -1559,8 +1559,13 @@ ruled every $3.125 \mu$m.
 The temperature of the water was around $\mathcal{T} = 290$ K, with
 viscosity $\eta \approx 0.0011$ kg/m s. </span>
 
+Now, as you probably know from chemistry class, the official value is
+$N_A = 6.02 \times 10^{23}$ (hopefully you got something close in the
+last question).
+We can finally use this to weigh a molecule!
+
 <span style="padding-left: 20px; display:block">
-*Hint.* The best cluster is on the upper left.
+(d) Suppose we can weight a sample of gas.
 </span>
 
 <!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
