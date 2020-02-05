@@ -1062,16 +1062,22 @@ $$
 for some number $0 < H < 1$, called the *Hurst index*.
 Random walks have $H = 1/2$.
 
+<span style="padding-left: 20px; display:block">
 (a) Explain why $H > 1/2$ requires that steps be
 *correlated*, i.e. directions persist.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) What relation between steps does Hurst index $H < 1/2$ require?
+</span>
 
 This not just a theoretical exercise.
 The outlines of a coast are jagged, random curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
+<span style="padding-left: 20px; display:block">
 (c) For what physical reasons might a coastline consist of correlated random steps?
+</span>
 
 ---
 
@@ -1130,15 +1136,19 @@ of magnitude!
 
 **Exercise 12 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
-The mooring chain is haphazardly piled on the dock.
+The mooring chain is haphazardly piled on the dock. GO TAKE A PHOTO ON WEEKEND
 
+<span style="padding-left: 20px; display:block">
 (a) The links are around $7$ inches in length, and the pile is $4.7$
 m across.
 What is the approximate length of the mooring chain?
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) For vessels in shallow water, a good rule of thumb is that the
 mooring chain is $1.5$ times the depth of the water.
 How deep was the water this vessel fished in?
+</span>
 
 ---
 
@@ -1247,28 +1257,27 @@ In Exercise 15, you can see how *fast* air molecules diffuse.
 
 ---
 
-**Exercise 13 (smashing spheres).** (a) Show that if the centres of
-  spheres of radius $R$ and $r$ come within a distance $R+r$, they
+**Exercise 13 (smashing spheres).** Consider two spheres of radius $R$ and $r$.
+
+<span style="padding-left: 20px; display:block">
+(a) Show that if the centres come within a distance $R+r$, they
   will collide.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) Explain why the scattering cross-section is $\sigma = \pi (R+r)^2$.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
 R^2$.
+</span>
 
 <p align="center">
   ⁂
   </p>
 
-**Exercise 14 (pachyderm pileup).** (a) Estimate how far you will walk
-  in your lifetime.
-
-(b) There are around $4 \times 10^5$
-elephants left in the world.
-Assuming they are distributed at random over the landmass of the
-globe, and you do not deviate when you spot one, give a rough
-estimate of the number of elephants you are likely to collide with.
-(Model yourself and the elephant as spheres.)
+**Exercise 14 (?).** 
 
 <p align="center">
   ⁂
@@ -1289,25 +1298,31 @@ where $k_B$ is the Boltzmann constant.
 This is a simple version of a deep result called the *equipartition
 theorem*. It tells us what temperature really is: energy per particle!
 
+<span style="padding-left: 20px; display:block">
 (a) Show that if the particles have mass $m$, the average speed is
+</span>
 
 $$
 v_\text{avg} \sim \sqrt{\frac{k_B \mathcal{T}}{m}}.
 $$
 
+<span style="padding-left: 20px; display:block">
 (b) Using the collision cylinder method, compute the diffusion
 constant $D = \ell v$ in a gas with pressure $P$ and temperature
 $\mathcal{T}$, consisting of particles of mass $m$ and size $r$.
 You should find that
+</span>
 
 $$
 D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi \sqrt{m} P (2r)^2 }.
 $$
 
+<span style="padding-left: 20px; display:block">
 (c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg
 (once again, this is slightly larger than the mass of an N$_2$ molecule).
 Estimate how long it will take an air molecule near your head to reach the
 wall.
+</span>
 
 ---
 
@@ -1390,16 +1405,22 @@ $d$ away.
 The collision cylinder will now be made up of two pieces, associated
 with the front and top of the box.
 
+<span style="padding-left: 20px; display:block">
 (a) Argue that the volume of the collision cylinder for the front of
 the box does not depend on running speed $u$. Is this consistent with
 our original
 observation that a stationary sphere will get infinitely wet?
+</span>
 
+<span style="padding-left: 20px; display:block">
 *Hint.* You may find trigonometry useful.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) Show that the collision cylinder for the top of the box has a volume
 proportional to $t$.
 Once more, this shows you should run (unless you are very, very thin).
+</span>
 
 <p align="center">
   ⁂
@@ -1409,14 +1430,18 @@ Once more, this shows you should run (unless you are very, very thin).
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
+<span style="padding-left: 20px; display:block">
 (a) If the wind blows *away* from shelter, explain why you should run
 as fast as possible.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) Suppose the wind is blowing *towards* shelter with a horizontal
 velocity $u'$, and has downward velocity $v$
 Demonstrate that there is a *finite* optimal speed to move towards
 shelter, $v^2/u'$.
 If it's very windy, it may be better to walk!
+</span>
 
 ---
 

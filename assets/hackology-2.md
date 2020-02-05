@@ -1441,3 +1441,13 @@ So, imagine a sphere moving through a fluid, e.g. a
 [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
 the ocean floor.
 (You can explore this example in Exercise 2.)
+
+**Exercise 14 (pachyderm pileup).** (a) Estimate how far you will walk
+  in your lifetime.
+
+(b) There are around $4 \times 10^5$
+elephants left in the world.
+Assuming they are distributed at random over the landmass of the
+globe, and you do not deviate when you spot one, give a rough
+estimate of the number of elephants you are likely to collide with.
+(Model yourself and the elephant as spheres.)
