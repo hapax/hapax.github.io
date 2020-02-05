@@ -81,8 +81,8 @@ Einstein proved in his PhD thesis.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
-Most people have to wait until grad school to derive Stokes' law, estimate
-urban power usage, or compute the size of the E. coli genome.
+Most people have to wait until grad school to compute viscous drag, estimate
+urban power usage, or determine the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
 given a few hints, a pencil, and a napkin, they could discover it all
 themselves.
@@ -291,10 +291,7 @@ their mass.
 *Stokes' law.* Maybe pumpkins aren't your thing.
 Let's turn to something more high-minded: the
 aerodynamics of spheres.
-So, imagine a sphere moving through a fluid, e.g. a
-[Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
-the ocean floor.
-(You can explore this example in Exercise 2.)
+So, imagine a sphere moving through a fluid (a liquid or gas).
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
 Dragging an object through fluid takes work because the
@@ -424,19 +421,7 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (falling balls).**
-(a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
-hollow ball of steel designed for deep-sea exploration.
-It weighed $2.25$ tons (above water), had a diameter of $1.45$ m, and
-held the world record for deepest dive until 1949, sinking almost $1$
-km ($923$ m to be precise) into the ocean.
-Roughly how long did it take to reach that depth?
-The viscosity of cold water is $\mu \approx 0.0016$ kg/m s.
-
-*Hint.* Assume it is travelling at terminal velocity, and Stokes' law
-applies. You should also take buoyancy forces into account!
-
-(b) Keeping with our theme of whimsical rulers, devise a practical
+**Exercise 2 (falling balls).** Keeping with our theme of whimsical rulers, devise a practical
 scheme to measure the size of small spheres of known density by
 dropping them into water.
 
@@ -503,26 +488,35 @@ for applications of fundamental constants to black hole thermodynamics!
   These properties are not independent!
   Their relationship is revealed by dimensional analysis.
 
+<span style="padding-left: 20px; display:block">
 (a) Explain why volume should have dimension $[V] = L^3N$.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) Show that pressure has dimension $[P] = M/LT^2$.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (c) In thermodynamics, there is a fundamental constant called
 *Boltzmann's constant*, $k_B = 1.38 \times 10^{-23} \text{ J/K}$, 
 where $\text{K}$ stands for Kelvin.
 Confirm that $k_B$ has dimension
+</span>
 
 $$
 [k_B] = \frac{ML^2}{T^2\Theta}.
 $$
 
+<span style="padding-left: 20px; display:block">
 (d) Finally, use dimensional analysis to deduce the *ideal gas law*:
+</span>
 
 $$
 PV \sim \mathcal{N}k_B\mathcal{T}.
 $$
 
-(In fact, the two sides are precisely equal for a dilute gas!)
+In fact, the two sides are actually equal for a dilute gas! This is
+the form of the equation we will use in the rest of the post.
 
 <p align="center">
   ⁂
@@ -542,12 +536,21 @@ To cancel them, we can view $2\pi$ as a "fundamental physical
 constant" with dimension $\Xi$.
 This isn't totally crazy, since $360^\circ = 2\pi$ radian!
 
+<span style="padding-left: 20px; display:block">
 (a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
 T/\Xi$ and $2\pi$ as a conversion factor.
 You should obtain the same results!
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) If your system executes $n$ cycles in the process you're
 considering, what conversion factor should you use instead of $2\pi$?
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) The $6\pi$ in Stokes' law does not come from a period.
+Where could it come from?
+</span>
 
 ---
 
@@ -907,35 +910,61 @@ Exercise 10.
   that individuals use around $600$ W (or $10$ light bulbs) on
   average. Let's check this a few different ways.
 
+<span style="padding-left: 20px; display:block">
 (a) Ask some friends to guess individual power usage, and
 take the geometric mean of their answers.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (b) Next, sanity check my guess or the answer you got in (a).
+</span>
 
+<span style="padding-left: 20px; display:block">
 (c) Finally, ask Google. How did I do?
 How did your friends do?
+</span>
 
 <p align="center">
   ⁂
 </p>
 
-**Exercise 10 (jumping mugs).** (a) Estimate the number of atoms $n_C$ in a
-mug of coffee.
+**Exercise 10 (jumping mugs).** Exponentials may prevent us from doing
+  reliable order of magnitude estimates, but they do not prevent us
+  from drawing conclusions.
+  Let's see how likely it is your mug jumps spontaneously into the air.
 
+<span style="padding-left: 20px; display:block">
+(a) Estimate the number of atoms $n_C$ in a
+mug of coffee.
+</span>
+
+<span style="padding-left: 20px; display:block">
+*Hint.* Recall that Avogadro's number $N_A = 6 \times 10^{23}$ is the
+number of atoms in $12$ g of carbon-12.
+</span>
+
+<span style="padding-left: 20px; display:block">
 (b) Very roughly, what is the probability the mug jumps
 spontaneously into the air?
+</span>
 
+<span style="padding-left: 20px; display:block">
 *Hint.* Atoms move in random directions. The coffee will spontaneously
  jump if most of the atoms in the cup are moving up.
+</span>
 
+<span style="padding-left: 20px; display:block">
 (c) If the cup cycles through a billion different random
 configurations a second, and the universe (along with the mug and your
 coffee table) lasts another $13$ billion
 years, are we likely to see the mug spontaneously jump into the air?
+</span>
 
+<span style="padding-left: 20px; display:block">
 (d) Given that $n_C$ can vary by an order of magnitude, how does the
 probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
+</span>
 
 ---
 

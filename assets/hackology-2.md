@@ -1420,3 +1420,24 @@ hard time testing this myth?
 (c) If you like trigonometry, determine how many
 raindrops you encounter for arbitrary horizontal velocity $u$.
 If you *really* like trig, do it for box people!
+
+**Exercise 2 (falling balls).**
+(a) The [Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) was a
+hollow ball of steel designed for deep-sea exploration.
+It weighed $2.25$ tons (above water), had a diameter of $1.45$ m, and
+held the world record for deepest dive until 1949, sinking almost $1$
+km ($923$ m to be precise) into the ocean.
+Roughly how long did it take to reach that depth?
+The viscosity of cold water is $\mu \approx 0.0016$ kg/m s.
+
+*Hint.* Assume it is travelling at terminal velocity, and Stokes' law
+applies. You should also take buoyancy forces into account!
+
+(b) Keeping with our theme of whimsical rulers, devise a practical
+scheme to measure the size of small spheres of known density by
+dropping them into water.
+
+So, imagine a sphere moving through a fluid, e.g. a
+[Bathysphere](https://en.wikipedia.org/wiki/Bathysphere) sinking to
+the ocean floor.
+(You can explore this example in Exercise 2.)
