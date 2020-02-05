@@ -1573,9 +1573,9 @@ As a bonus, we can weigh protons and neutrons as well.
 
 <span style="padding-left: 20px; display:block">
 (e) Naturally occuring carbon is mostly carbon-12, which has $12$
-nucleons (protons and neutrons, of approximately equal weight) in the
+nucleons (protons and neutrons, of approximately equal mass) in the
 nucleus.
-How heavy is a neutron?
+How heavy is a proton?
 </span>
 
 ---
