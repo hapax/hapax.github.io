@@ -1559,16 +1559,24 @@ ruled every $3.125 \mu$m.
 The temperature of the water was around $\mathcal{T} = 290$ K, with
 viscosity $\eta \approx 0.0011$ kg/m s. </span>
 
+<!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
+
 Now, as you probably know from chemistry class, the official value is
 $N_A = 6.02 \times 10^{23}$ (hopefully you got something close in the
 last question).
 We can finally use this to weigh a molecule!
+As a bonus, we can weigh protons and neutrons as well.
 
 <span style="padding-left: 20px; display:block">
-(d) Suppose we can weight a sample of gas.
+(d) Estimate the mass of a carbon atom.
 </span>
 
-<!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
+<span style="padding-left: 20px; display:block">
+(e) Naturally occuring carbon is mostly carbon-12, which has $12$
+nucleons (protons and neutrons, of approximately equal weight) in the
+nucleus.
+How heavy is a neutron?
+</span>
 
 ---
 
