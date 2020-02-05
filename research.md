@@ -5,8 +5,6 @@ permalink: /research/
 ---
 
 I study quantum mechanics and gravity, with a particular focus on the AdS/CFT correspondence.
-For technical details, see my papers.
-Lay summary and a brief introduction to holography under construction!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
