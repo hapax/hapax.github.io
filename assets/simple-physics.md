@@ -76,8 +76,7 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in some of the insights Einstein arrived
-at in his PhD thesis and Nobel prize-winning paper on Brownian motion.
+*real physics*, culminating in some of Einstein's insights on atomic motion.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
@@ -421,9 +420,9 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (falling balls).** Keeping with our theme of whimsical rulers, devise a practical
-scheme to measure the size of small spheres of known density by
-dropping them into water.
+**Exercise 2 (falling balls).** Keeping with our theme of whimsical
+rulers, devise a scheme to measure the size of small spheres of known
+density by dropping them into water.
 
 ---
 
@@ -1437,7 +1436,7 @@ as fast as possible.
 
 <span style="padding-left: 20px; display:block">
 (b) Suppose the wind is blowing *towards* shelter with a horizontal
-velocity $u'$, and has downward velocity $v$
+velocity $u'$, and has downward velocity $v$.
 Demonstrate that there is a *finite* optimal speed to move towards
 shelter, $v^2/u'$.
 If it's very windy, it may be better to walk!
