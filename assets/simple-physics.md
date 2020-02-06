@@ -76,8 +76,8 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in some results on Brownian motion
-Einstein proved in his PhD thesis.
+*real physics*, culminating in some of the insights Einstein arrived
+at in his PhD thesis and Nobel prize-winning paper on Brownian motion.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
