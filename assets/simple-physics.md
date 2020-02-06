@@ -1556,8 +1556,8 @@ But Avogadro didn't know his own constant!
 His big contribution is something called *Avogadro's law*:
 
 <span style="padding-left: 20px; display:block">
-Equal volumes of gas, at equal temperature and pressure, contain the
-same number of molecules.
+*Equal volumes of gas, at equal temperature and pressure, contain the
+same number of molecules.*
 </span>
 
 This was a prescient insight into the atomic nature of matter, coming
