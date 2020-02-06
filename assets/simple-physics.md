@@ -1608,7 +1608,7 @@ into warm water and watched them dance.
 The tracks of three resin particles ($r = 0.52 \times 10^{-6}$ m) are
 shown below.
 Observations (the dots) were made every $30$ s, and divisions are
-ruled every $3.125 \mu$m.
+ruled every $3.125 \,\mu$m.
 
 <span style="padding-left: 20px; display:block">
 (c) Use the tracks to estimate Avogadro's constant.
