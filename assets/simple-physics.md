@@ -1560,8 +1560,8 @@ Equal volumes of gas, at equal temperature and pressure, contain the
 same number of molecules.
 </span>
 
-This clearly follows from the ideal gas law, but was suggested about
-45 years prior.
+This is a precursor to the ideal gas law, and suggests the importance
+of the discrete or atomic nature of matter.
 
 Determining the number of molecules in a sample of gas is the same as
 weighing a molecule.
