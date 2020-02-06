@@ -1551,7 +1551,7 @@ $$
 $$
 
 Recall that one mole is $N_A$ particles, where $N_A$ is *Avogadro's
-constant*, roughly the number of carbon atoms in $12$ g of carbon.
+constant*, the number of carbon atoms in a $12$ g lump.
 But Avogadro didn't know his own constant!
 His big contribution is something called *Avogadro's law*:
 
