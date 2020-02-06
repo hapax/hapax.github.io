@@ -1633,7 +1633,7 @@ How heavy is a proton?
 </span>
 
 I think this is pretty neat. From watching tiny balls jiggle in water,
-we can work our the mass of a proton!
+we can work out the mass of a proton!
 
 ---
 
