@@ -1537,7 +1537,7 @@ Both Perrin and Einstein received Nobel prizes, in part for this work.
 
 ---
 
-**Exercise 18 (weighing molecules).** You may have seen the ideal gas law
+**Exercise 18 (Avogadro's constant).** You may have seen the ideal gas law
 (Exercise 3) in its chemistry guise:
 
 $$
