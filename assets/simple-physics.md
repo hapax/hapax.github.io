@@ -1254,6 +1254,19 @@ So, on average an air molecule travels around $80$ nm, around $1000$
 human hairs across.
 In Exercise 15, you can see how *fast* air molecules diffuse.
 
+One final technical point.
+Most of this collision cylinder technology assumes that we are
+colliding with *stationary objects*.
+If they are stationary *on average*, that is, there is no preferred
+direction, then the same estimates still work provided you are not too
+much larger than the objects you're colliding with.
+When you are too big, remain still and you will collide with many tiny
+moving objects!
+This is exactly what large objects feel as *pressure*.
+To understand how very large objects interact with a bath of tiny,
+randomly moving ones, it's better to use thermodynamics than
+cylinders.
+
 ---
 
 **Exercise 13 (smashing spheres).** Consider two spheres of radius $R$ and $r$.
@@ -1330,13 +1343,10 @@ wall.
 (*Note.* This is a fun optional extension of collision
 cylinders. It's not needed for the final section on Brownian motion.)
 
-In the previous section, we were assuming the colliding objects were
-stationary (or stationary on average).
-The estimates will work for elephants at rest, or even a
-bunch of elephants moving in random directions, but not a herd of
-elephants charging towards you!
-Taking movement into account isn't too hard.
-To illustrate, we're going to solve the age-old problem: should you
+Let's do a twist on collision cylinders and take moving objects into
+account.
+Rather than do it formally and in general, we will be illustrative and
+specific, solving the age-old problem: should you
 walk or run in the rain?
 Some people argue it doesn't matter (and there is infamous MythBusters
 episode which gets it wrong), but we can use collision cylinders to

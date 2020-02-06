@@ -1451,3 +1451,6 @@ Assuming they are distributed at random over the landmass of the
 globe, and you do not deviate when you spot one, give a rough
 estimate of the number of elephants you are likely to collide with.
 (Model yourself and the elephant as spheres.)
+
+The estimates in the previous section work for elephants at rest, but
+not a herd of elephants charging towards you!
