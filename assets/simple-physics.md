@@ -1707,7 +1707,7 @@ dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is obviously great power in simple techniques, and we have only scratched the surface!
 Physics is brimming with napkin algorithms, just waiting for hackers
-to explain and exploit, to bring us to that apotheosis of hacker
+to explore, exploit and explain, to guide us to that apotheosis of hacker
 spirit Stallman describes:
 
 <span style="padding-left: 20px; display:block">
