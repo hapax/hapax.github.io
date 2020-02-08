@@ -1296,11 +1296,11 @@ R^2$.
   </p>
 
 **Exercise 15 (equipartition and air time).** People often say that
-heat is "atomic motion".
-This is shorthand for "temperature is average kinetic energy per
-particle".
-More precisely, the average kinetic energy per particle
-$\epsilon_\text{avg}$ is proportional to temperature:
+"temperature is just atomic motion".
+This is shorthand for "temperature is just average kinetic energy per
+particle"!
+More precisely, temperature is *proportional to* the average kinetic
+energy per particle $\epsilon_\text{avg}$,
 
 $$
 \epsilon_\text{avg} \sim k_B \mathcal{T},
@@ -1308,7 +1308,9 @@ $$
 
 where $k_B$ is the Boltzmann constant.
 This is a simple version of a deep result called the *equipartition
-theorem*. It tells us what temperature really is: energy per particle!
+theorem*.
+So Boltzmann's constant tells us how to convert temperature into enrgy
+per particle.
 
 <span style="padding-left: 20px; display:block">
 (a) Show that if the particles have mass $m$, the average speed is
