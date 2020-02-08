@@ -969,7 +969,7 @@ How did your friends do?
 
 **Exercise 11 (jumping mugs).** Exponentials may prevent us from doing
   reliable order of magnitude estimates, but they do not prevent us
-  from drawing conclusions.
+  from drawing physical conclusions.
   Let's see how likely it is your mug jumps spontaneously into the air.
 
 <span style="padding-left: 20px; display:block">
