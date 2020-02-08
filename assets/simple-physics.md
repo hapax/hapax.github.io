@@ -1713,7 +1713,7 @@ The most charitable answer is that we focus on content rather than
 methods since high-leverage methods are deemed too advanced.
 But in the words of Cyprian of Carthate, *custom without truth is the
 antiquity of error*.
-And hacker spirit is the perfect antidote for custom without truth.
+Hacker spirit is the perfect antidote for custom without truth.
 
 #### References
 
