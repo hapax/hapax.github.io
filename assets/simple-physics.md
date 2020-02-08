@@ -76,10 +76,10 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in some of Einstein's insights on atomic
-motion.
-(As a little tribute to my city of residence, Vancouver, there is also
-a running theme of *rain*.)
+*real physics*, culminating in a proof of the existence of atoms due
+to none other than Albert Einstein!
+As a little tribute to my city of residence, Vancouver, there is also
+a running theme of *rain*.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
@@ -1098,7 +1098,7 @@ $$
 d \propto n^{H},
 $$
 
-for some number $0 < H < 1$, called the *Hurst index*.
+for some number $0 < H < 1$ called the *Hurst index*.
 Random walks have $H = 1/2$.
 
 <span style="padding-left: 20px; display:block">
