@@ -12,8 +12,7 @@ date:  2020-01-06
   algorithms --- dimensional analysis, Fermi estimates, and random
   walks --- and use them to figure out why rain falls, the length of the
   E. coli genome, and the mass of a proton (among many other
-  things!). I'll finish by talking about ways to incorporate these
-  into the classroom.*
+  things!).*
 
 ### Contents
 
