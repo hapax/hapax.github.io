@@ -1706,14 +1706,17 @@ ideal gas law, fish in the sea to mooring chains, and rainy runs to
 dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is great power in simple techniques.
+And we have only scratched the surface!
+Physics is brimming with beautiful napkin hacks, waiting to be
+elaborated and applied.
 
 This raises the question: why don't we teach these techniques in
 schools?
 The most charitable answer is that we focus on content rather than
 methods since high-leverage methods are deemed too advanced.
-But in the words of Cyprian of Carthate, *custom without truth is the
-antiquity of error*.
-Hacker spirit is the perfect antidote for custom without truth.
+But th
+In the words of Cyprian of Carthate, *custom without truth is the
+antiquity of error*, and hacker spirit is the perfect antidote for custom without truth.
 
 #### References
 
