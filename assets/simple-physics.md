@@ -1708,7 +1708,12 @@ most, a little pre-calculus math and solid command of a napkin hack.
 There is great power in simple techniques.
 And we have only scratched the surface!
 Physics is brimming with napkin algorithms, just waiting for hackers
-to explain and exploit.
+to explain and exploit, to bring us to that apotheosis of hacker
+spirit Stallman describes:
+
+<span style="padding-left: 20px; display:block">
+'Look how wonderful this is. I bet you didn't believe this could be done.'
+</span>
 
 This raises the question: why don't we teach these techniques in
 schools?
