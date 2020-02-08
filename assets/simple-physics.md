@@ -1003,6 +1003,13 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
+<span style="padding-left: 20px; display:block">
+(e) (Challenge.) Give a similar estimate that your mug will spontaneously
+launch itself into space.
+You will probably need to learn about the Maxwell-Boltzmann
+distribution and escape velocity.
+</span>
+
 ---
 
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
@@ -1685,7 +1692,8 @@ we can work out the mass of a proton!
 
 I hope I've persuaded you that we can hack physics with napkin
 computers.
-Every single thing we discovered --- from viscous drag
+Every single thing we discovered --- from pendulum periods to the
+ideal gas law, the chance your coffee mug will leap into the air
 
 *In the classroom.*
 
