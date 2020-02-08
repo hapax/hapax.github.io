@@ -545,7 +545,7 @@ the form of the equation we will use in the rest of the post.
   ⁂
 </p>
 
-**Exercise 4 (factors of $\pi$).** We can somtimes account factors of
+**Exercise 4 (factors of $\pi$).** We can sometimes account factors of
 $\pi$ by giving angle its own dimension.
 A periodic system has a cycle, which we can keep track of with an
 arrow, rotating at a uniform speed around the unit circle.
