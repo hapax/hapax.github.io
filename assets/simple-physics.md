@@ -8,10 +8,10 @@ date:  2020-01-06
 ---
 
 **February 8, 2020.** *The computational power of the humble napkin is
-  awesome and underappreciated. I explain some simple algorithms for the
+  awesome and underappreciated. I introduce three simple algorithms for the
   back of a napkin --- dimensional analysis, Fermi estimates, and random walks
   --- and use them to figure out why rain falls, the length of the
-  E. coli genome, and the mass of a proton.*
+  E. coli genome, and the mass of a proton (among many other things!).*
 
 ### Contents
 
