@@ -435,7 +435,8 @@ v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-You can assume the drop is falling fast enough that viscosity is irrelevant.
+You can assume the drop is falling fast enough that viscosity is
+irrelevant, but the density of the air is.
 </span>
 
 <span style="padding-left: 20px; display:block">
