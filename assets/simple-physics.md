@@ -75,12 +75,12 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology.
 But I think hacking should go mainstream.
 
-*Napkin hacks.* My goal in this post is to outline a few simple hacks:
+*Napkin hacks.* My goal in this post is to outline a few simple hacks
+for the back of a napkin:
 dimensional analysis, Fermi estimates, and random walks.
-All the calculations can be done using high-school algebra on the
-back of a napkin. No calculus required!
-(If we think of napkins as a particular type of computer, these
-constitute algorithms.)
+We can think of these as algorithms for our napkin computer!
+They really can be implemented using high school algebra on a napkin,
+without calculus or calculators (though the latter will save time).
 Although there is whimsy and irreverence aplenty, the focus will be
 *real physics*, culminating in a proof of the existence of atoms, due
 to none other than Albert Einstein!
@@ -1692,6 +1692,8 @@ we can work out the mass of a proton!
 ---
 
 ## 5. Conclusions <a id="sec-5" name="sec-5"></a>
+
+We've 
 
 #### References
 
