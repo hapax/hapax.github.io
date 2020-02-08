@@ -1721,8 +1721,9 @@ methods.
 High-leverage methods are deemed too advanced (surely you need
 calculus to derive anything?) so we settle for low-leverage methods
 and caricatures of physical theories.
-But in the words of Cyprian of Carthage, *custom without truth is the
-antiquity of error*.
+But in the words of
+[Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
+without truth is the antiquity of error*.
 Hacker spirit is the perfect antidote for custom without truth.
 
 #### References
