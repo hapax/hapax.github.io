@@ -1694,8 +1694,7 @@ computers.
 Every single thing we discovered --- from pendulum periods to the
 ideal gas law, jumping coffee mugs to dancing dust specks, rainy runs
 and random walks --- required, at
-worst, a little pre-calculus math and solid command of napkin hacks.
-
+most, a little pre-calculus math and solid command of a napkin hack.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
