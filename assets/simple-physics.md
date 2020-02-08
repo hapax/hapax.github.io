@@ -496,7 +496,7 @@ argument that objects of different masses fall at the same speed), or
 restricting to situations where factors are negligible (e.g. a slowly moving sphere).
 Sometimes, neither of these works, and we just have to go out, do
 experiments, and see what varies (e.g. isochronism and viscosity).
-None of these operations is mathematically involved, but they are
+None of these operations necessarily involves hard maths, but they are
 definitely all physics!
 
 *Extra dimensions.* Length, mass and time are not
