@@ -851,7 +851,16 @@ we should be spot on!
 ---
 
 **Exercise 8 (loonie bin).** Guess the Canadian government's
-  federal budget for 2019.
+federal budget for 2019.
+
+**Exercise 9 (rain power).** The annual rainfall in the greater
+  Vancouver region is about $1000$ mm, meaning that all the rain
+  that falls in a year would make a layer $1$ metre deep.
+Approximately how much energy arrives in the form of raindrops each
+year?
+
+*Hint.* You may find Exercise 2 useful. You will need to Fermi
+ estimate the area of greater Vancouver (though you can check with Google).
 
 ---
 
@@ -1159,7 +1168,7 @@ of magnitude!
 
 **Exercise 12 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
-The mooring chain is haphazardly piled on the dock. GO TAKE A PHOTO ON WEEKEND
+The mooring chain is haphazardly piled on the dock.
 
 <span style="padding-left: 20px; display:block">
 (a) The links are around $7$ inches in length, and the pile is $4.7$
