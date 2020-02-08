@@ -428,8 +428,8 @@ Voilà, rain!
   law does not apply.
 
 <span style="padding-left: 20px; display:block">
-(a) Raindrops fall fast enough that viscosity and mass are irrelevant,
-but the density of air $\rho_\text{air}$ is.
+(a) Raindrops fall fast enough that the viscosity of air is irrelevant,
+but the density $\rho_\text{air}$ is.
 Repeat the analysis above to find that the drag force on a raindrop of
 size $r$ is
 </span>
