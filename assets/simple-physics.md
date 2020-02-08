@@ -1705,8 +1705,7 @@ Every single thing we explored --- from pendulum periods to the
 ideal gas law, fish in the sea to mooring chains, and rainy runs to
 dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
-There is great power in simple techniques.
-And we have only scratched the surface!
+There is obviously great power in simple techniques, and we have only scratched the surface!
 Physics is brimming with napkin algorithms, just waiting for hackers
 to explain and exploit, to bring us to that apotheosis of hacker
 spirit Stallman describes:
