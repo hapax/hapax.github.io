@@ -88,6 +88,16 @@ to none other than Albert Einstein!
 As a little tribute to my city of residence, Vancouver, there is also
 a running theme of *rain*.
 
+Hackery is not just about excellence and creativity for their own
+sake, but has clear pedagogical implications.
+Most people have to wait until grad school to compute viscous drag, estimate
+urban power usage, or determine the size of the E. coli genome.
+But imagine a world where high school students are so empowered that,
+given a few hints, a pencil, and a napkin, they could discover it all
+themselves.
+This world is very close to ours; all we need is a little more hacker
+spirit in the enjoyment and instruction of physics.
+
 For more examples, I can't resist
 plugging [my notes](https://hapax.github.io/outreach) for the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
@@ -1695,16 +1705,9 @@ Every single thing we explored --- from pendulum periods to the
 ideal gas law, jumping coffee mugs to dancing dust specks, and rainy runs
 to correlated coastlines --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
+There is great power in simple techniques.
 
-Hackery is not just about excellence and creativity for their own
-sake, but has clear pedagogical implications.
-Most people have to wait until grad school to compute viscous drag, estimate
-urban power usage, or determine the size of the E. coli genome.
-But imagine a world where high school students are so empowered that,
-given a few hints, a pencil, and a napkin, they could discover it all
-themselves.
-This world is very close to ours; all we need is a little more hacker
-spirit in the enjoyment and instruction of physics.
+This raises the question: why don't we teach these techniques in schools?
 
 #### References
 
