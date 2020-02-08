@@ -444,8 +444,8 @@ v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) A typical raindrop has radius around $r \approx 1$ mm. How much
-kinetic energy does such a drop have when it hits the ground?
+(c) A typical raindrop has radius around $r \approx 1$ mm. How fast is
+it moving when it hits the ground?
 </span>
 
 ---
