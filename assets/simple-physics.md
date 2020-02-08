@@ -1694,7 +1694,8 @@ I hope I've persuaded you that we can hack physics with napkin
 computers.
 Every single thing we discovered --- from pendulum periods to the
 ideal gas law, coffee mugs to dancing dust specks --- required, at
-best, some algebra.
+worst, a little pre-calculus math and solid command of a napkin
+algorithm.
 
 *In the classroom.*
 
