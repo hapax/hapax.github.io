@@ -82,7 +82,7 @@ back of a napkin. No calculus required!
 (If we think of napkins as a particular type of computer, these
 constitute algorithms.)
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in a proof of the existence of atoms due
+*real physics*, culminating in a proof of the existence of atoms, due
 to none other than Albert Einstein!
 As a little tribute to my city of residence, Vancouver, there is also
 a running theme of *rain*.
