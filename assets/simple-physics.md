@@ -7,8 +7,8 @@ categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
 
-**February 8, 2020.** *The computational power of a napkin is mighty
-  and underappreciated. I explain some simple algorithms for the
+**February 8, 2020.** *The computational power of the humble napkin is
+  awesome and underappreciated. I explain some simple algorithms for the
   back of a napkin --- dimensional analysis, Fermi estimates, and random walks
   --- and use them to figure out why rain falls, the length of the
   E. coli genome, and the mass of a proton.*
