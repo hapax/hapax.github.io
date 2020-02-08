@@ -1707,8 +1707,8 @@ dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is great power in simple techniques.
 And we have only scratched the surface!
-Physics is brimming with beautiful napkin hacks, waiting to be
-elaborated and applied.
+Physics is brimming with napkin algorithms, just waiting for hackers
+to explain and exploit.
 
 This raises the question: why don't we teach these techniques in
 schools?
