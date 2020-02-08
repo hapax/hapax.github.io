@@ -1075,7 +1075,7 @@ The outlines of a coast are jagged, random curves, typically
 described by a fractional random walk with Hurst index $H \sim 0.8$.
 
 <span style="padding-left: 20px; display:block">
-(c) For what physical reasons might a coastline consist of correlated random steps?
+(c) Why should a coastline consist of *correlated* random steps?
 </span>
 
 ---
@@ -1641,7 +1641,7 @@ As a bonus, we can weigh protons and neutrons as well.
 
 <span style="padding-left: 20px; display:block">
 (e) Naturally occuring carbon is mostly carbon-12, which has $12$
-nucleons (protons and neutrons, of approximately equal mass) in the
+nucleons (protons and neutrons of approximately equal mass) in the
 nucleus.
 How heavy is a proton?
 </span>
