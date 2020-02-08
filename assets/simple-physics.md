@@ -425,9 +425,18 @@ Voilà, rain!
   law does not apply.
 
 <span style="padding-left: 20px; display:block">
-(a) Using Newton's laws or dimensional analysis, argue that the
-terminal velocity for a raindrop of mass $m$ and radius $r$, falling
-in air of density $\rho_\text{air}$, has terminal velocity
+(a) Raindrops fall fast enough that viscosity is irrelevant, but the
+density of air $\rho_\text{air}$ is relevant.
+Repeat the analysis above to find that the drag force on a raindrop of
+size $r$ is
+</span>
+
+$$
+F_\text{drag} \sim \rho_\text{air} v^2 r^2.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Conclude that the terminal velocity for a raindrop of mass $m$ is
 </span>
 
 $$
@@ -437,10 +446,6 @@ $$
 <span style="padding-left: 20px; display:block">
 You can assume the drop is falling fast enough that viscosity is
 irrelevant, but the density of the air is.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) 
 </span>
 
 ---
