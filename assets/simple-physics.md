@@ -11,7 +11,9 @@ date:  2020-01-06
   awesome and underappreciated. I introduce three simple napkin
   algorithms --- dimensional analysis, Fermi estimates, and random
   walks --- and use them to figure out why rain falls, the length of the
-  E. coli genome, and the mass of a proton (among many other things!).*
+  E. coli genome, and the mass of a proton (among many other
+  things!). I'll finish by talking about ways to incorporate these
+  into the classroom.*
 
 ### Contents
 
@@ -489,9 +491,9 @@ Mahajan's book for an elementary treatment.
 algebra, there is no physics here at all.
 But to avoid parametric overload, we need to whittle down until we
 have a manageable number of factors.
-Sometimes we can do this by clever physical reasoning (e.g. Galileo's
+Sometimes we can do this by physical reasoning (e.g. Galileo's clever
 argument that objects of different masses fall at the same speed), or
-restricting to situations where factors are negligible (slowly moving sphere).
+restricting to situations where factors are negligible (e.g. a slowly moving sphere).
 Sometimes, neither of these works, and we just have to go out, do
 experiments, and see what varies (e.g. isochronism and viscosity).
 None of these operations is mathematically involved, but they are
@@ -1694,7 +1696,7 @@ we can work out the mass of a proton!
 
 ## 5. Conclusions <a id="sec-5" name="sec-5"></a>
 
-We've 
+I hope I've convinced you that 
 
 #### References
 
