@@ -7,7 +7,11 @@ categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
 
-**January 21, 2020.** **
+**February 8, 2020.** *The computational power of napkins is mighty
+  and underappreciated. I explain some simple algorithms for this
+  computer --- dimensional analysis, Fermi estimates, and random walks
+  --- and use them to figure out why rain falls, the length of the
+  E. coli genome, and the mass of a proton.*
 
 ### Contents
 
@@ -75,6 +79,8 @@ But I think hacking should go mainstream.
 dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
+(If we think of napkins as a particular type of computer, these
+constitute algorithms.)
 Although there is whimsy and irreverence aplenty, the focus will be
 *real physics*, culminating in a proof of the existence of atoms due
 to none other than Albert Einstein!
@@ -99,7 +105,7 @@ to black holes, aliens, dark energy, turbulence, mosh pits, or the amount
 of money concealed in couches across Canada!
 I also recommend Sanjoy Mahajan's book
 [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground in greater depth.
+covering similar ground at a more advanced level.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
