@@ -420,9 +420,20 @@ Voilà, rain!
 
 ---
 
-**Exercise 2 (falling balls).** Keeping with our theme of whimsical
-rulers, devise a scheme to measure the size of small spheres of known
-density by dropping them into water.
+**Exercise 2 (terminal raindrops).** When a raindrop gets big enough
+  to fall out of a cloud, it is no longer moving slowly, and Stokes'
+  law does not apply.
+
+<span style="padding-left: 20px; display:block">
+(a) Using Newton's laws or dimensional analysis, argue that the
+terminal velocity for a raindrop of mass $m$ and radius $r$, falling
+in air of density $\rho$, has terminal velocity
+</span>
+
+$$
+v_\text{term} \sim \sqrt{\frac{mg}{\rho r^2}}.
+$$
+
 
 ---
 

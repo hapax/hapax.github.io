@@ -1454,3 +1454,7 @@ estimate of the number of elephants you are likely to collide with.
 
 The estimates in the previous section work for elephants at rest, but
 not a herd of elephants charging towards you!
+
+**Exercise 2 (falling balls).** Keeping with our theme of whimsical
+rulers, devise a scheme to measure the size of small spheres of known
+density by dropping them into water.
