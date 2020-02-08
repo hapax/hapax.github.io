@@ -431,7 +431,7 @@ in air of density $\rho$, has terminal velocity
 </span>
 
 $$
-v_\text{term} \sim \sqrt{\frac{mg}{\rho r^2}}.
+v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
 $$
 
 
