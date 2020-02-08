@@ -1606,8 +1606,8 @@ His big contribution is something called *Avogadro's law*:
 same number of molecules.*
 </span>
 
-This was a prescient insight into the atomic nature of matter, arriving
-45 years before the ideal gas law (though it follows from the latter).
+This was a prescient insight into the atomic nature of matter,
+anticipating the ideal gas law 45 years prior.
 
 Determining the number of molecules in a sample of gas is the same as
 weighing a molecule.
