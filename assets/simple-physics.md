@@ -82,8 +82,7 @@ for the back of a napkin:
 dimensional analysis, Fermi estimates, and random walks.
 We can think of these as algorithms for a napkin computer!
 They really can be implemented using high school algebra on a napkin,
-without calculus or calculators (though the latter can certainly save
-time).
+without calculus or calculators (though the latter save time and labour).
 Although there is whimsy and irreverence aplenty, the focus will be
 *real physics*, culminating in a proof of the existence of atoms, due
 to none other than Albert Einstein!
