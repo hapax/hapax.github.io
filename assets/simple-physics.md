@@ -1693,7 +1693,8 @@ we can work out the mass of a proton!
 I hope I've persuaded you that we can hack physics with napkin
 computers.
 Every single thing we discovered --- from pendulum periods to the
-ideal gas law, the chance your coffee mug will leap into the air
+ideal gas law, coffee mugs to dancing dust specks --- required, at
+best, some algebra.
 
 *In the classroom.*
 
