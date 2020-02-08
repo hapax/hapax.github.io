@@ -1697,7 +1697,7 @@ we can work out the mass of a proton!
 
 ---
 
-## 5. Conclusions <a id="sec-5" name="sec-5"></a>
+## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
 I hope I've persuaded you that we can hack physics with napkin
 computers.
@@ -1707,7 +1707,11 @@ to correlated coastlines --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is great power in simple techniques.
 
-This raises the question: why don't we teach these techniques in schools?
+This raises the question: why don't we teach these techniques in
+schools?
+The most charitable answer is that we focus on content rather than
+methods since high-leverage methods are deemed too advanced.
+But in the words of Cyprian of Carthate, *custom without truth is the antiquity of error*.
 
 #### References
 
