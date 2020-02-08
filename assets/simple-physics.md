@@ -1711,7 +1711,9 @@ This raises the question: why don't we teach these techniques in
 schools?
 The most charitable answer is that we focus on content rather than
 methods since high-leverage methods are deemed too advanced.
-But in the words of Cyprian of Carthate, *custom without truth is the antiquity of error*.
+But in the words of Cyprian of Carthate, *custom without truth is the
+antiquity of error*.
+And hacker spirit is the perfect antidote for custom without truth.
 
 #### References
 
