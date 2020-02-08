@@ -427,13 +427,20 @@ Voilà, rain!
 <span style="padding-left: 20px; display:block">
 (a) Using Newton's laws or dimensional analysis, argue that the
 terminal velocity for a raindrop of mass $m$ and radius $r$, falling
-in air of density $\rho$, has terminal velocity
+in air of density $\rho_\text{air}$, has terminal velocity
 </span>
 
 $$
 v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
 $$
 
+<span style="padding-left: 20px; display:block">
+You can assume the drop is falling fast enough that viscosity is irrelevant.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) 
+</span>
 
 ---
 
