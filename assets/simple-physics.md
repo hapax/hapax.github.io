@@ -444,8 +444,8 @@ v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-You can assume the drop is falling fast enough that viscosity is
-irrelevant, but the density of the air is.
+(c) A typical raindrop has radius around $r \approx 1$ mm. How much
+kinetic energy does such a drop have when it hits the ground?
 </span>
 
 ---
