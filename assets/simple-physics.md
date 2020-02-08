@@ -80,7 +80,7 @@ But I think hacking should go mainstream.
 *Napkin hacks.* My goal in this post is to outline a few simple hacks
 for the back of a napkin:
 dimensional analysis, Fermi estimates, and random walks.
-We can think of these as algorithms for our napkin computer!
+We can think of these as algorithms for a napkin computer!
 They really can be implemented using high school algebra on a napkin,
 without calculus or calculators (though the latter can certainly save
 time).
