@@ -1692,9 +1692,10 @@ we can work out the mass of a proton!
 I hope I've persuaded you that we can hack physics with napkin
 computers.
 Every single thing we discovered --- from pendulum periods to the
-ideal gas law, coffee mugs to dancing dust specks --- required, at
-worst, a little pre-calculus math and solid command of a napkin
-algorithm.
+ideal gas law, jumping coffee mugs to dancing dust specks, rainy runs
+and random walks --- required, at
+worst, a little pre-calculus math and solid command of napkin hacks.
+
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
