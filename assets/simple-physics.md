@@ -76,7 +76,10 @@ dimensional analysis, Fermi estimates, and random walks.
 All the calculations can be done using high-school algebra on the
 back of a napkin. No calculus required!
 Although there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in some of Einstein's insights on atomic motion.
+*real physics*, culminating in some of Einstein's insights on atomic
+motion.
+(As a little tribute to my city of residence, Vancouver, there is also
+a running theme of *rain*.)
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
@@ -853,6 +856,10 @@ we should be spot on!
 **Exercise 8 (loonie bin).** Guess the Canadian government's
 federal budget for 2019.
 
+<p align="center">
+  ⁂
+  </p>
+
 **Exercise 9 (rain power).** The annual rainfall in the greater
   Vancouver region is about $1000$ mm, meaning that all the rain
   that falls in a year would make a layer $1$ metre deep.
@@ -934,11 +941,11 @@ factor of $8 \approx 10$, which is a whole order of magnitude!
 If you want a well-defined order of magnitude estimate, back away
 slowly from exponentials.
 We'll explore what you *can do* with exponential dependence in
-Exercise 10.
+Exercise 11.
 
 ---
 
-**Exercise 9 (people power).** Earlier, I guessed (based on a hunch)
+**Exercise 10 (people power).** Earlier, I guessed (based on a hunch)
   that individuals use around $600$ W (or $10$ light bulbs) on
   average. Let's check this a few different ways.
 
@@ -960,7 +967,7 @@ How did your friends do?
   ⁂
 </p>
 
-**Exercise 10 (jumping mugs).** Exponentials may prevent us from doing
+**Exercise 11 (jumping mugs).** Exponentials may prevent us from doing
   reliable order of magnitude estimates, but they do not prevent us
   from drawing conclusions.
   Let's see how likely it is your mug jumps spontaneously into the air.
@@ -1083,7 +1090,7 @@ that region.
 
 ---
 
-**Exercise 11 (fractional random walks).** There is a generalisation
+**Exercise 12 (fractional random walks).** There is a generalisation
   of random walks called *fractional random walks*, where the average
   spread scales with the number of steps as
 
@@ -1166,7 +1173,7 @@ of magnitude!
 
 ---
 
-**Exercise 12 (gone fishing).** Wandering the shipyards one day, you
+**Exercise 13 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
 The mooring chain is haphazardly piled on the dock.
 
@@ -1221,7 +1228,7 @@ $x$.
 Let's do some very simple examples of cross-sections.
 Picture yourself as a sphere of radius $R$, worried about colliding
 with spheres of radius $r$.
-You can show in Exercise 13 that the scattering cross-section is
+You can show in Exercise 14 that the scattering cross-section is
 
 $$
 \sigma = \pi (R+r)^2.
@@ -1302,7 +1309,7 @@ cylinders.
 
 ---
 
-**Exercise 13 (smashing spheres).** Consider two spheres of radius $R$ and $r$.
+**Exercise 14 (smashing spheres).** Consider two spheres of radius $R$ and $r$.
 
 <span style="padding-left: 20px; display:block">
 (a) Show that if the centres come within a distance $R+r$, they
@@ -1317,12 +1324,6 @@ cylinders.
 (c) Conclude that, if $R \gg r$, then $\sigma \approx \pi
 R^2$.
 </span>
-
-<p align="center">
-  ⁂
-  </p>
-
-**Exercise 14 (?).** 
 
 <p align="center">
   ⁂
