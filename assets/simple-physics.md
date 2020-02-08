@@ -1697,8 +1697,6 @@ ideal gas law, coffee mugs to dancing dust specks --- required, at
 worst, a little pre-calculus math and solid command of a napkin
 algorithm.
 
-*In the classroom.*
-
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
 Most people have to wait until grad school to compute viscous drag, estimate
