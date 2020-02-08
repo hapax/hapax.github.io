@@ -1702,8 +1702,8 @@ we can work out the mass of a proton!
 I hope I've persuaded you that we can hack physics with napkin
 computers.
 Every single thing we explored --- from pendulum periods to the
-ideal gas law, jumping coffee mugs to dancing dust specks, and rainy runs
-to correlated coastlines --- required, at
+ideal gas law, fish in the sea to mooring chains, and rainy runs to
+dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is great power in simple techniques.
 
