@@ -8,7 +8,7 @@ date:  2020-01-06
 ---
 
 **February 8, 2020.** *The computational power of the humble napkin is
-  awesome and underappreciated. I introduce three simple napkin
+  awesome and underappreciated. I introduce three napkin
   algorithms --- dimensional analysis, Fermi estimates, and random
   walks --- and use them to figure out why rain falls, the length of the
   E. coli genome, and the mass of a proton (among many other
@@ -1343,7 +1343,26 @@ R^2$.
   ⁂
   </p>
 
-**Exercise 15 (equipartition and air time).** People often say that
+**Exercise 15 (asteroid belt).** The asteroid belt is a donut-shaped
+  blob of asteroids (small rocky bodies) between Jupiter and Mars.
+  It lies between $2.2$ to $3.2$ astronomical units (AU) away from the sun, where
+
+$$
+1 \text{ AU} = astronomical units $=15 \times   10^8 \text{ km}
+$$
+
+is the distance from the earth to the sun.
+There are about $25$ million large asteroids, with average diameter
+around the $10$ km mark.
+[Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
+"numerous unmanned spacecraft have traversed it without incident". By
+consider a straight shot through the asteroid belt, explain why.
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 16 (equipartition and air time).** People often say that
 "temperature is just atomic motion".
 This is shorthand for "temperature is just average kinetic energy per
 particle"!
@@ -1458,10 +1477,10 @@ the rain!
 
 ---
 
-**Exercise 16 (box of rain).** Let's now make a slightly more realistic model of a person: a
+**Exercise 17 (cubes and cloudbursts).** Let's now make a slightly more realistic model of a person: a
 box of height $h$, width $w$, and breadth $b$.
-For simplicity, suppose there is no wind, and shelter is a distance
-$d$ away.
+For simplicity, suppose there is no wind, so the rain falls directly
+down, and shelter is a distance $d$ away.
 The collision cylinder will now be made up of two pieces, associated
 with the front and top of the box.
 
@@ -1479,14 +1498,19 @@ observation that a stationary sphere will get infinitely wet?
 <span style="padding-left: 20px; display:block">
 (b) Show that the collision cylinder for the top of the box has a volume
 proportional to $t$.
-Once more, this shows you should run (unless you are very, very thin).
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Find the condition for $h, w$ and $d$ under which you should run
+for cover.
+Are they likely to be satisfied for a human?
 </span>
 
 <p align="center">
   ⁂
   </p>
 
-**Exercise 17 (wet and windy).** When the wind blows, it imparts a
+**Exercise 18 (wet and windy).** When the wind blows, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
 
@@ -1599,7 +1623,7 @@ and Perrin carried out --- weighing molecules!
 
 ---
 
-**Exercise 18 (Avogadro's constant).** You may have seen the ideal gas law
+**Exercise 19 (Avogadro's constant).** You may have seen the ideal gas law
 (Exercise 3) in its chemistry guise:
 
 $$
@@ -1717,13 +1741,13 @@ Look how wonderful this is. I bet you didn't believe this could be done.
 
 This raises the question: why don't we teach these techniques in
 schools?
-The most charitable answer is that high-leverage methods are deemed too advanced (surely you need
-calculus to derive anything?) so we settle for low-leverage methods
-and caricatures of physical theories.
-But in the words of
+The most charitable answer is that high-leverage methods are deemed
+too hard, so we settle for low-leverage methods.
+But this is just wrong; there is world of high-leverage hacks at our
+fingertips, ready
+In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), "custom
-without truth is the antiquity of error".
-Hacker spirit is the perfect antidote for custom without truth.
+without truth is the antiquity of error", and hacker spirit is the perfect antidote for custom without truth.
 
 #### References
 
