@@ -1348,7 +1348,7 @@ R^2$.
   It lies between $2.2$ to $3.2$ astronomical units (AU) away from the sun, where
 
 $$
-1 \text{ AU} = astronomical units $=15 \times   10^8 \text{ km}
+1 \text{ AU} =15 \times   10^8 \text{ km}
 $$
 
 is the distance from the earth to the sun.
