@@ -1348,8 +1348,28 @@ is the sun-earth distance.
 There are about $25$ million large asteroids, with average diameter
 around the $10$ km mark.
 [Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
-"numerous unmanned spacecraft have traversed it without incident". By
-consider a straight shot through the asteroid belt, explain why.
+"numerous unmanned spacecraft have traversed it without
+incident". Let's see why.
+
+<span style="padding-left: 20px; display:block">
+(a) For simplicity, let's flatten the donut into a ring with inner
+radius $2.2$ AU and outer radius $3.2$ AU. What the density $n$ of
+asteroids per unit area?
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Cross-sections are now going to be *lengths* rather than *areas*,
+since we are living in two dimensions.
+Explain why a circle of radius $r$ colliding with circles of radius
+$R$ will have cross-section $R + r$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) A $20$ km-wide asteroid is much, much larger than an unmanned
+spacecraft.
+Put it all together to explain why an unmanned spacecraft will almost
+never collide with an asteroid.
+</span>
 
 <p align="center">
   ⁂
@@ -1716,14 +1736,13 @@ we can work out the mass of a proton!
 
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
-I hope I've persuaded you that we can hack physics with napkin
-computers.
+I hope I've convinced you that the hack is strong with napkin computers.
 Every single thing we explored --- from pendulum periods to the
 ideal gas law, fish to fishing vessels, rainy runs to
 dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
-There is obviously great power in simple techniques.
-And we have only scratched the surface!
+There is obviously great power in simple techniques,
+and we have only scratched the surface!
 Physics is brimming with napkin algorithms, just waiting for hackers
 to explore, exploit and explain, to guide us towards that apotheosis of hacker
 spirit Stallman describes:
@@ -1732,15 +1751,33 @@ spirit Stallman describes:
 Look how wonderful this is. I bet you didn't believe this could be done.
 </span>
 
-This raises the question: why don't we teach these techniques in
-schools?
-The most charitable answer is that high-leverage methods are deemed
-too hard, so we settle for low-leverage methods.
-But this is just wrong; there is world of high-leverage hacks at our
-fingertips, ready
+This is a feeling we should be trying to cultivate, in physics, and
+heck, everywhere else!
+But convention dictates that we teach methods of low leverage and
+scope to go along with .
 In the words of
-[Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), "custom
-without truth is the antiquity of error", and hacker spirit is the perfect antidote for custom without truth.
+[Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
+without truth is the antiquity of error*.
+Hacker spirit is the perfect antidote for custom without truth.
+
+
+Perhaps I speak only for myself, but I never felt this way when
+learning about force laws or circuit diagrams in high school.
+
+This raises the question: why are these techniques almost never taught
+at a high school (or even undergraduate) level?
+There are a few reasons.
+First, the conventional and familiar set of low-leverage methods
+(force diagrams, circuit laws, etc) become high leverage when you add
+enough mathematics (vectors, calculus, differential equations).
+There is no doubt that these methods are necessary and powerful once
+one has assembled all of the ingredients.
+
+The most charitable answer is that high-leverage methods are hard,
+so we must settle for low-leverage methods, with an increased focus on
+"content".
+But this is just wrong!
+There is world of high-leverage hacks at our fingertips, ready to
 
 #### References
 
