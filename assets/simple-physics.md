@@ -1012,13 +1012,6 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-<span style="padding-left: 20px; display:block">
-(e) (Challenge.) Give a similar estimate that your mug will spontaneously
-launch itself into space.
-You will probably need to learn about the Maxwell-Boltzmann
-distribution and escape velocity.
-</span>
-
 ---
 
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
