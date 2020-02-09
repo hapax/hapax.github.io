@@ -1367,7 +1367,7 @@ $R$ will have cross-section $R + r$.
 <span style="padding-left: 20px; display:block">
 (c) A $20$ km-wide asteroid is much, much larger than an unmanned
 spacecraft.
-Put it all together to explain why an unmanned spacecraft will almost
+Put all these facts together to explain why an unmanned spacecraft will almost
 never collide with an asteroid.
 </span>
 
