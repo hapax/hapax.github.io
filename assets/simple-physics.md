@@ -1345,13 +1345,13 @@ R^2$.
 
 **Exercise 15 (asteroid belt).** The asteroid belt is a donut-shaped
   blob of asteroids (small rocky bodies) between Jupiter and Mars.
-  It lies between $2.2$ to $3.2$ astronomical units (AU) away from the sun, where
+  The blob extends from $2.2$ to $3.2$ astronomical units (AU) away from the sun, where
 
 $$
 1 \text{ AU} =15 \times   10^8 \text{ km}
 $$
 
-is the distance from the earth to the sun.
+is the sun-earth distance.
 There are about $25$ million large asteroids, with average diameter
 around the $10$ km mark.
 [Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
