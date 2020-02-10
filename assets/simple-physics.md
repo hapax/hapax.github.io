@@ -1752,7 +1752,7 @@ spirit Stallman describes:
 </span>
 
 So, why aren't we blowing more gourds with high-leverage hacks and
-applications of real interest and substance?
+applications of interest and substance?
 
 Partly, it is a matter of convention.
 We tend to think of physics as a body of natural law, and methods as dictated
