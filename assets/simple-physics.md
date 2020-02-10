@@ -1755,18 +1755,17 @@ So, why aren't we blowing more gourds with high-leverage hacks and
 applications of real interest and substance?
 
 Partly, it is a matter of convention.
-We tend to think of physics as bodies of natural law, and methods as dictated
-by those laws.
-We resolve vectors for Newton's laws and draw circuits for Kirchhoff's
-laws, and these methods are indeed suitable and well-adapted.
-But it is *precisely because* they are adapted to the laws that they
-are low leverage.
-Because we focus on the laws rather than the tools, no one would think
-to apply vectors to the description of AC circuits, or circuits to
-mechanical problems, though both are powerful techniques, primarily
-used in engineering
-([phasors](https://en.wikipedia.org/wiki/Phasor) and
-[mechanical networks](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)).
+We tend to think of physics as a body of natural law, and methods as dictated
+by these laws.
+We conventionally resolve vectors for Newton's laws and draw circuits
+for Kirchhoff's laws, and these methods are indeed suitable and well-adapted.
+But they are low leverage *precisely because* they are well-adapted,
+because we focus on laws rather than tools.
+It might come as a surprise, for instance, that we can
+[apply vectors](https://en.wikipedia.org/wiki/Phasor) to the
+description of AC circuits, or
+[circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
+to mechanical problems, though both are powerful techniques.
 
 Application and experiment appear, but in a haphazard and sometimes
 perfunctory way, subservient to laws stated as if they are
