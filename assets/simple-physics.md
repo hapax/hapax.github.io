@@ -1776,11 +1776,11 @@ Unfortunately, many teachers (and hence students) view it as
 So much physics is unnecessarily black-boxed by teachers afraid of
 mathematics!
 Both assumption are flat-out wrong, but (a) is our concern here, and I
-think this proof conclusively demonstrates it is false.
+think this post conclusively demonstrates it is false.
 
-The problem is that conventions are often received and transmitted
-without question, and there is a great deal of falsehood in this
-received wisdom.
+In summary, we are dealing with the age-old problem that convention
+tends to be received and transmitted
+without question, and there is a great deal of limitation and falsehood in the received wisdom.
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*.
