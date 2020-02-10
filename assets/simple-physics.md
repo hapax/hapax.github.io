@@ -1751,29 +1751,16 @@ spirit Stallman describes:
 </span>
 
 So, why aren't we blowing more gourds with high-leverage hacks?
-
-It's largely a matter of tradition.
-We tend to think of physics as a body of natural laws, and methods as
-tied to laws.
+The inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
 what makes them low leverage: they are tied to specific applications.
-It might surprise you to learn, for instance, that we can do a
-switcheroo, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to
+It might surprise you to learn that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
-[drawing circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
+[draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use case.
-
-The focus on laws rather than tools is not the only problem.
-There is a beautiful and wide-ranging toolset for doing physics, called *advanced mathematics*.
-Unfortunately, many teachers (and hence students) view it as
-(a) the only toolset, and (b) a particularly difficult one to use.
-So much physics is unnecessarily black-boxed by teachers afraid of
-mathematics!
-Both assumption are flat-out wrong, but (a) is our concern here, and
-the examples above conclusively demonstrate it is false.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
@@ -1788,3 +1775,18 @@ perfect antidote for custom without truth.
 #### Annotated references
 
 https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
+
+Of course, there
+There is a beautiful and wide-ranging toolset for doing physics, called *advanced mathematics*.
+Unfortunately, many teachers (and hence students) view it as
+(a) the only toolset, and (b) a particularly difficult one to use.
+So much physics is unnecessarily black-boxed by teachers afraid of
+mathematics!
+Both assumption are flat-out wrong, but (a) is our concern here, and
+the examples above conclusively demonstrate it is false.
+
+Perhaps, by its nature, it will always be goofy and unconventional, a
+cheeky sally on the mainstream.
+
+We tend to think of physics as a body of natural laws, and methods as
+tied to laws.
