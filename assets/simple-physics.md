@@ -1761,7 +1761,7 @@ Similarly, application and experiment are often deemed too difficult
 to approach quantitatively, even though these are the
 lifeblood of the physical sciences!
 Both assertions are nonsense, as the examples above
-conclusively demonstrate.
+roundly demonstrate.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
