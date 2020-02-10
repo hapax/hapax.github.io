@@ -1745,7 +1745,7 @@ For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
 what makes them low leverage: they are tied to specific applications.
-It might surprise you to learn that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
+It might surprise you to learn, however, that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
@@ -1753,15 +1753,15 @@ We are bound by convention and familiarity to the typical use
 case.
 But there's usually something even cooler just around the corner.
 
-There are other myths in play, e.g. that the only real
-toolset is calculus and its tributaries; before then, students must
-settle for the weakest possible caricatures of natural law and
-physical reasoning.
+There are other myths in play here, for instance that the only real
+tool is calculus and its tributaries, and before they master these
+dark arts, students must settle for the weakest possible caricatures
+of natural law and physical reasoning.
+This assertion is nonsense, as the examples above
+conclusively demonstrate.
 Similarly, application and experiment are often deemed too difficult
-to approach quantitatively, even though these are the
+to permit quantitative treatment, even though they are the
 lifeblood of the physical sciences!
-Both assertions are nonsense, as the examples above
-roundly demonstrate.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
