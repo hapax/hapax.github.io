@@ -1757,20 +1757,20 @@ applications of real interest and substance?
 Partly, it is a matter of convention.
 We tend to think of physics as a body of natural law, and methods as dictated
 by these laws.
-We conventionally resolve vectors for Newton's laws and draw circuits
-for Kirchhoff's laws, and these methods are indeed suitable and well-adapted.
-But they are low leverage *precisely because* they are well-adapted,
-because we focus on laws rather than tools.
+We conventionally analyse mechanical problems by adding up vectors, and draw
+circuits to represent the flow of electricity; these methods are
+indeed suitable and well-adapted.
+But they are low leverage *precisely because* they are well-adapted.
 It might come as a surprise, for instance, that we can
-[apply vectors](https://en.wikipedia.org/wiki/Phasor) to the
-description of AC circuits, or
-[circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
-to mechanical problems, though both are powerful techniques.
+[add vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
+flow of electricity, and
+[draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
+to solve mechanical problems.
+We are bound by convention and familiarity to the typical use case.
 
-Application and experiment appear, but in a haphazard and sometimes
-perfunctory way, subservient to laws stated as if they are
-mathematical axioms rather than empirical observations *motivated by*
-application and experiment.
+The focus on laws rather than tools is not the only problem.
+The conventional toolset for doing physics is *advanced mathematics*
+--- vectors and linear algebra, differential equations, tensors, etc. ---
 
 #### Annotated references
 
@@ -1806,3 +1806,10 @@ There is world of high-leverage hacks at our fingertips, ready to
 
 Instead of teaching high-leverage methods, and exploring applications
 to problems of real interest and substance, we settle for the same old low-lower
+
+Similarly, even though application and experiment are the lifeblood of
+physics, the motivation for physical law,
+they often appear in a haphazard and perfunctory way, once
+again subservient to mathematical laws stated as if they are
+mathematical axioms rather than empirical observations *motivated by*
+application and experiment.
