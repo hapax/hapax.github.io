@@ -1754,7 +1754,7 @@ spirit Stallman describes:
 So, why aren't we blowing more gourds with high-leverage hacks and
 applications of interest and substance?
 
-Partly, it is a matter of convention.
+It's largely a matter of convention.
 We tend to think of physics as a body of natural law, and methods as dictated
 by these laws.
 We are taught to analyse mechanics problems by adding up vectors, and draw
