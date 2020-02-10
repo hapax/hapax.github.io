@@ -1775,10 +1775,12 @@ Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers afraid of
 mathematics!
-Both assumption are flat-out wrong, but I think this post conclusively
-demonstrates that (a) is false.
+Both assumption are flat-out wrong, but (a) is our concern here, and I
+think this proof conclusively demonstrates it is false.
 
-The problem 
+The problem is that conventions are often received and transmitted
+without question, and there is a great deal of falsehood in this
+received wisdom.
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*.
