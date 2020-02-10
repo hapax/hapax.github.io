@@ -1773,48 +1773,17 @@ There is a beautiful and wide-ranging toolset for doing physics called *advanced
 out into its various tributaries.
 Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
-So much physics is unnecessarily black-boxed by teachers who are
-afraid of mathematics!
-Both assumption are flat-out wrong, but (a) is our concern here.
+So much physics is unnecessarily black-boxed by teachers afraid of
+mathematics!
+Both assumption are flat-out wrong, but I think this post conclusively
+demonstrates that (a) is false.
 
-#### Annotated references
-
-https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
-
-
-Any subject can benefit from experiences like this!
-
-But convention dictates that we teach methods and scope to go along with .
+The problem 
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*.
 Hacker spirit is the perfect antidote for custom without truth.
 
+#### Annotated references
 
-Perhaps I speak only for myself, but I never felt this way when
-learning about force laws or circuit diagrams in high school.
-
-This raises the question: why are these techniques almost never taught
-at a high school (or even undergraduate) level?
-There are a few reasons.
-First, the conventional and familiar set of low-leverage methods
-(force diagrams, circuit laws, etc) become high leverage when you add
-enough mathematics (vectors, calculus, differential equations).
-There is no doubt that these methods are necessary and powerful once
-one has assembled all of the ingredients.
-
-The most charitable answer is that high-leverage methods are hard,
-so we must settle for low-leverage methods, with an increased focus on
-"content".
-But this is just wrong!
-There is world of high-leverage hacks at our fingertips, ready to
-
-Instead of teaching high-leverage methods, and exploring applications
-to problems of real interest and substance, we settle for the same old low-lower
-
-Similarly, even though application and experiment are the lifeblood of
-physics, the motivation for physical law,
-they often appear in a haphazard and perfunctory way, once
-again subservient to mathematical laws stated as if they are
-mathematical axioms rather than empirical observations *motivated by*
-application and experiment.
+https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
