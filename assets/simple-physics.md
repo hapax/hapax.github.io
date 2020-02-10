@@ -1774,8 +1774,8 @@ Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers afraid of
 mathematics!
-Both assumption are flat-out wrong, but (a) is our concern here, with
-the examples above conclusively demonstrating that it is false.
+Both assumption are flat-out wrong, but (a) is our concern here, and
+the examples above conclusively demonstrate it is false.
 
 In summary, we are dealing with the age-old problem that convention
 tends to be received and transmitted
