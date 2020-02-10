@@ -1750,26 +1750,25 @@ spirit Stallman describes:
 *Look how wonderful this is. I bet you didn't believe this could be done.*
 </span>
 
-So, why aren't we blowing more gourds with high-leverage hacks and
-applications of interest and substance?
+So, why aren't we blowing more gourds with high-leverage hacks?
 
 It's largely a matter of tradition.
-We tend to think of physics as a body of natural laws, and methods as dictated
-by these laws.
-For instance, we're taught to analyse mechanics problems by adding up vectors, and draw
-circuits to represent the flow of electricity.
-These methods are suitable and well-adapted, and this is precisely
+We tend to think of physics as a body of natural laws, and methods as
+tied to laws.
+For instance, we're taught to analyse mechanics problems by adding up
+vectors, and electricity problems by drawing circuits.
+These methods are suitable and well-adapted, but this is precisely
 what makes them low leverage!
-It might surprise you to learn, for instance, that we can profitably
-reverse things, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
-flow of electricity and
+They are too tied to specific applications.
+It might surprise you to learn, for instance, that we can do a
+switcheroo, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to
+describe the flow of electricity and
 [drawing circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use case.
 
 The focus on laws rather than tools is not the only problem.
-There is a beautiful and wide-ranging toolset for doing physics called *advanced mathematics*, starting with calculus and branching
-out into its various tributaries.
+There is a beautiful and wide-ranging toolset for doing physics, called *advanced mathematics*.
 Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers afraid of
