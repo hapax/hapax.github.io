@@ -1773,7 +1773,7 @@ The conventional toolset for doing physics is *advanced mathematics*.
 Unfortunately, it is consider by many teachers (and hence students)
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers who are
-afraid they cannot understand the mathematics used in derivations.
+afraid they cannot understand mathematics.
 
 #### Annotated references
 
