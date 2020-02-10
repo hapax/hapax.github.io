@@ -1775,8 +1775,7 @@ In the words of
 Custom without truth is the antiquity of error.
 </span>
 
-Hacker spirit, that
-willingness to peek around the corner, is the perfect antidote for custom without truth.
+Hacker spirit, with its willingness to peek around the corner, is the perfect antidote for custom without truth.
 
 #### Annotated references
 
