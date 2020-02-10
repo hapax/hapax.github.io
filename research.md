@@ -9,13 +9,16 @@ inside a black hole! The *holographic correspondence* (also called
 AdS/CFT) is a powerful and elegant tool for studying this problem,
 which re-expresses gravity problems in $d+1$ dimensions in terms of
 quantum mechanics in $d$ dimensions.
-Most of my research exploits, or tries to extend, this correspondence.
+In some sense, this gives us a natural algorithm for simulating a 3d
+black hole on a 2d quantum computer:
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
     width="55%" />
 	</div>
 	</figure>
+
+Most of my research exploits or extends this correspondence.
 
 #### Papers
 

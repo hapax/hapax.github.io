@@ -7,29 +7,12 @@ categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-010
 ---
 
-**February 10, 2020.** *The computational power of a humble napkin is
-  awesome. I discuss three napkin algorithms --- dimensional
-  analysis, Fermi estimates, and random walks --- and use them to
-  figure out why rain falls, the length of the E. coli genome, and the
-  mass of a proton, among other things.*
+**February 10, 2020.** *Bla*
 
 ### Contents
 
-1. <a href="#sec-1">Hacking physics</a>
-2. <a href="#sec-2">Dimensional analysis</a>
-   1. <a href="#sec-2-1">Pendulous pumpkins</a>
-   2. <a href="#sec-2-2">Drag and drop</a>
-   3. <a href="#sec-2-3">Usage notes</a>
-3. <a href="#sec-3">Fermi estimates</a>
-   1. <a href="#sec-3-1">Geometric means</a>
-   2. <a href="#sec-3-2">Subestimates</a>
-   3. <a href="#sec-3-3">KISS</a>
-   4. <a href="#sec-3-4">Usage notes</a>
-4. <a href="#sec-4">Random walks</a>
-   1. <a href="#sec-4-1">Polymers</a>
-   2. <a href="#sec-4-2">Bumping into things</a>
-   3. <a href="#sec-4-3">Rainy day dilemma</a>
-   4. <a href="#sec-4-4">Brownian motion</a>
-5. <a href="#sec-5">Conclusion</a>
+1. <a href="#sec-1">Introduction</a>
 
-## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
+## 1. Introduction <a id="sec-1" name="sec-1"></a>
+
+
