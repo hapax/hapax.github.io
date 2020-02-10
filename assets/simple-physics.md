@@ -1761,11 +1761,11 @@ We conventionally analyse mechanics problems by adding up vectors, and draw
 circuits to represent the flow of electricity; these methods are
 indeed suitable and well-adapted.
 But they are low leverage *precisely because* they are too specific.
-It might come as a surprise, for instance, that we can
-[add vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
-flow of electricity, and
-[draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
-to solve mechanical problems.
+It might surprise you to learn, for instance, that we can profitably
+reverse things, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
+flow of electricity and
+[drawing circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
+to solve mechanical problems!
 We are bound by convention and familiarity to the typical use case.
 
 The focus on laws rather than tools is not the only problem.
