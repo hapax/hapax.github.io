@@ -8,7 +8,7 @@ permalink: /outreach/
 
 I co-run the
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-  an outreach program for talented high school students in the
+  an outreach program for high school students in the
   Vancouver area.
   Email me if you'd like to get involved!
 

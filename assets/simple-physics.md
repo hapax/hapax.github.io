@@ -1744,24 +1744,24 @@ Probably, mostly, the inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
-what makes them low leverage: they are tied to specific applications.
-It might surprise you to learn, however, that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
+what makes them low leverage: they are too closely tied to specific applications.
+It might surprise you to learn that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use
-case.
-But there's usually something even cooler just around the corner.
+case, but there's usually something even cooler just around the corner.
 
-There are other myths in play here, for instance that the only real
+There are other myths in play here, for instance, that the only real
 tool is calculus and its tributaries, and before they master these
 dark arts, students must settle for the weakest possible caricatures
 of natural law and physical reasoning.
 This assertion is nonsense, as the examples above
 conclusively demonstrate.
 Similarly, application and experiment are often deemed too difficult
-to permit quantitative treatment, even though they are the
+for quantitative treatment, although they are the
 lifeblood of the physical sciences!
+Once again, this is just plain false.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
