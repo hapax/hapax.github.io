@@ -1738,8 +1738,7 @@ we can work out the mass of a proton!
 
 I hope I've convinced you that the hack is strong with napkins.
 Every single thing we did --- from pendulum periods to the
-ideal gas law, fish to fishing vessels, rainy runs to
-dancing dust specks --- required, at
+ideal gas law, power usage to proton mass --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
 There is obviously great power in simple techniques,
 and we have only scratched the surface!
@@ -1754,13 +1753,13 @@ spirit Stallman describes:
 So, why aren't we blowing more gourds with high-leverage hacks and
 applications of interest and substance?
 
-It's largely a matter of convention.
+It's largely a matter of tradition.
 We tend to think of physics as a body of natural laws, and methods as dictated
 by these laws.
 For instance, we're taught to analyse mechanics problems by adding up vectors, and draw
-circuits to represent the flow of electricity; these methods are
-indeed suitable and well-adapted.
-But they are low leverage *precisely because* they are too specific.
+circuits to represent the flow of electricity.
+These methods are suitable and well-adapted, and this is precisely
+what makes them low leverage!
 It might surprise you to learn, for instance, that we can profitably
 reverse things, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
 flow of electricity and
