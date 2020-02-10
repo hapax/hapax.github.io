@@ -1765,7 +1765,7 @@ It might surprise you to learn, for instance, that we can profitably
 reverse things, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
 flow of electricity and
 [drawing circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
-to solve mechanical problems!
+to solve mechanics problems!
 We are bound by convention and familiarity to the typical use case.
 
 The focus on laws rather than tools is not the only problem.
@@ -1775,8 +1775,8 @@ Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers afraid of
 mathematics!
-Both assumption are flat-out wrong, but (a) is our concern here, and I
-think this post conclusively demonstrates it is false.
+Both assumption are flat-out wrong, but (a) is our concern here, with
+the examples above conclusively demonstrating that it is false.
 
 In summary, we are dealing with the age-old problem that convention
 tends to be received and transmitted
