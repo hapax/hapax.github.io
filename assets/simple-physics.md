@@ -1748,7 +1748,7 @@ to explore, exploit and explain, to guide us towards that apotheosis of hacker
 spirit Stallman describes:
 
 <span style="padding-left: 20px; display:block">
-Look how wonderful this is. I bet you didn't believe this could be done.
+*Look how wonderful this is. I bet you didn't believe this could be done.*
 </span>
 
 So, why aren't we blowing more gourds with high-leverage hacks and
