@@ -4,13 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-I study quantum mechanics and gravity. I'd like to know what happens
-inside a black hole! The *holographic correspondence* (also called
-AdS/CFT) is a powerful and elegant tool for studying this problem,
-which re-expresses gravity problems in $d+1$ dimensions in terms of
-quantum mechanics in $d$ dimensions.
-In some sense, this gives us a natural algorithm for simulating a 3d
-black hole on a 2d quantum computer:
+I study quantum mechanics and gravity, with a particular focus on the
+*AdS/CFT correspondence*.
+This is a magical result which relates quantum gravity in *d* + 1 dimensions
+to regular quantum mechanics in *d* dimensions!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -18,7 +15,7 @@ black hole on a 2d quantum computer:
 	</div>
 	</figure>
 
-Most of my research exploits or extends this correspondence.
+My papers are listed below, followed by sundry technical notes.
 
 #### Papers
 
