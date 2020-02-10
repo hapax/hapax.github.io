@@ -1769,8 +1769,13 @@ without question.
 There is a great deal that is good in the received wisdom, but also a
 great deal of limitation and falsehood.
 In the words of
-[Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
-without truth is the antiquity of error*. Hacker spirit, that
+[Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian),
+
+<span style="padding-left: 20px; display:block">
+Custom without truth is the antiquity of error.
+</span>
+
+Hacker spirit, that
 willingness to peek around the corner, is the perfect antidote for custom without truth.
 
 #### Annotated references
