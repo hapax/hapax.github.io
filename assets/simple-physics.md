@@ -1753,12 +1753,19 @@ Look how wonderful this is. I bet you didn't believe this could be done.
 
 So, why aren't we blowing more gourds with high-leverage hacks and
 applications of real interest and substance?
+
 Partly, it is a matter of convention.
 We tend to think of physics as bodies of natural law, and methods as dictated
 by those laws.
 We resolve vectors for Newton's laws, draw circuits for Kirchhoff's
 laws, trace rays for geometric optics, and these methods are indeed
-suitable and well-adapted to those laws.
+suitable and well-adapted to the laws.
+But they are low leverage since we focus on the laws rather than the
+toolset.
+Application and experiment appear, but in a haphazard and sometimes
+perfunctory way, subservient to laws stated as if they are
+mathematical axioms rather than empirical observations *motivated by*
+application and experiment.
 
 #### Annotated references
 
