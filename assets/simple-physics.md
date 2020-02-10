@@ -1764,7 +1764,7 @@ But we are bound by convention and familiarity to the typical use
 case.
 
 There are other myths in play, for instance, that the only real
-toolset is calculus and its tributaries, and before then students must
+toolset is calculus and its tributaries; before then, students must
 settle for the weakest possible caricatures of natural law and
 physical reasoning.
 This is nonsense, as I hope the examples above conclusively demonstrate.
