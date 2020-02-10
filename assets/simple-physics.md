@@ -1757,10 +1757,10 @@ applications of real interest and substance?
 Partly, it is a matter of convention.
 We tend to think of physics as a body of natural law, and methods as dictated
 by these laws.
-We conventionally analyse mechanical problems by adding up vectors, and draw
+We conventionally analyse mechanics problems by adding up vectors, and draw
 circuits to represent the flow of electricity; these methods are
 indeed suitable and well-adapted.
-But they are low leverage *precisely because* they are well-adapted.
+But they are low leverage *precisely because* they are too specific.
 It might come as a surprise, for instance, that we can
 [add vectors](https://en.wikipedia.org/wiki/Phasor) to describe the
 flow of electricity, and
