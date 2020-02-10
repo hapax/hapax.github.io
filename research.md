@@ -4,7 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I study quantum mechanics and gravity, with a particular focus on the AdS/CFT correspondence.
+I study quantum mechanics and gravity. I'd like to know what happens
+inside a black hole! The *holographic correspondence* (also called
+AdS/CFT) is a powerful and elegant tool for studying this problem,
+which re-expresses gravity problems in $d+1$ dimensions in terms of
+quantum mechanics in $d$ dimensions.
+Most of my research exploits, or tries to extend, this correspondence.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
