@@ -1737,7 +1737,7 @@ we can work out the mass of a proton!
 ## 5. Conclusion <a id="sec-5" name="sec-5"></a>
 
 I hope I've convinced you that the hack is strong with napkins.
-Every single thing we explored --- from pendulum periods to the
+Every single thing we did --- from pendulum periods to the
 ideal gas law, fish to fishing vessels, rainy runs to
 dancing dust specks --- required, at
 most, a little pre-calculus math and solid command of a napkin hack.
