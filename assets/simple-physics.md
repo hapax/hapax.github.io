@@ -1786,18 +1786,3 @@ perfect antidote for custom without truth.
 #### Annotated references
 
 https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
-
-Of course, there
-There is a beautiful and wide-ranging toolset for doing physics, called *advanced mathematics*.
-Unfortunately, many teachers (and hence students) view it as
-(a) the only toolset, and (b) a particularly difficult one to use.
-So much physics is unnecessarily black-boxed by teachers afraid of
-mathematics!
-Both assumption are flat-out wrong, but (a) is our concern here, and
-the examples above conclusively demonstrate it is false.
-
-Perhaps, by its nature, it will always be goofy and unconventional, a
-cheeky sally on the mainstream.
-
-We tend to think of physics as a body of natural laws, and methods as
-tied to laws.
