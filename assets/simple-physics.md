@@ -1762,7 +1762,6 @@ to approach quantitatively, even though these are the
 lifeblood of the physical sciences!
 Both assertions are nonsense, as the examples above
 roundly demonstrate.
-
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
 without question.
