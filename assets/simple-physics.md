@@ -1774,8 +1774,8 @@ out into its various tributaries.
 Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
 So much physics is unnecessarily black-boxed by teachers who are
-afraid they cannot understand mathematics (sadly, this is also the
-case for some university lecturers).
+afraid of mathematics!
+Both assumption are flat-out wrong, but (a) is our concern here.
 
 #### Annotated references
 
