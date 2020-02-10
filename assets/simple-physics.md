@@ -1759,7 +1759,7 @@ physical reasoning.
 Similarly, applications and experiments are often deemed too difficult
 to permit quantitative exploration, even though these are the
 lifeblood of the physical sciences.
-Both assertions are nonsense, as I hope the examples above
+Both assertions are nonsense, as the examples above
 conclusively demonstrate.
 
 In summary, we are dealing with the age-old problem of *tradition*,
