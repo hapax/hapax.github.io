@@ -1777,8 +1777,8 @@ mathematics!
 Both assumption are flat-out wrong, but (a) is our concern here, and
 the examples above conclusively demonstrate it is false.
 
-In summary, we are dealing with the age-old problem that convention
-tends to be received and transmitted
+In summary, we are dealing with the age-old problem of *tradition*,
+the fact that conventions tend to be received and transmitted
 without question.
 Unfortunately, there is a great deal of limitation and falsehood in
 the received wisdom.
