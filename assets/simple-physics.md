@@ -1780,8 +1780,8 @@ the examples above conclusively demonstrate it is false.
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
 without question.
-Unfortunately, there is a great deal of limitation and falsehood in
-the received wisdom.
+There is a great deal that is good in the received wisdom, but also a
+great deal of limitations and falsehoods.
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*. Hacker spirit is the
