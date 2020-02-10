@@ -1767,7 +1767,7 @@ In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
 without question.
 There is a great deal that is good in the received wisdom, but also a
-great deal of limitations and falsehoods.
+great deal of limitation and falsehood.
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*. Hacker spirit is the
