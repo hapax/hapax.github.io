@@ -1755,7 +1755,7 @@ So, why aren't we blowing more gourds with high-leverage hacks and
 applications of interest and substance?
 
 It's largely a matter of convention.
-We tend to think of physics as a body of natural law, and methods as dictated
+We tend to think of physics as a body of natural laws, and methods as dictated
 by these laws.
 For instance, we're taught to analyse mechanics problems by adding up vectors, and draw
 circuits to represent the flow of electricity; these methods are
