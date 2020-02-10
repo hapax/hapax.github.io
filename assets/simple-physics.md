@@ -1751,9 +1751,9 @@ describe the flow of electricity and
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use
 case.
-But there's often something fun and surprising out of sight, just around the corner.
+But there's usually something fun and surprising just around the corner.
 
-There are other myths in play, for instance, that the only real
+There are other myths in play, e.g. that the only real
 toolset is calculus and its tributaries; before then, students must
 settle for the weakest possible caricatures of natural law and
 physical reasoning.
