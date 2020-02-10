@@ -1758,8 +1758,8 @@ toolset is calculus and its tributaries; before then, students must
 settle for the weakest possible caricatures of natural law and
 physical reasoning.
 Similarly, applications and experiments are often deemed too difficult
-to permit quantitative exploration, even though these are the
-lifeblood of the physical sciences.
+to approach quantitatively, even though these are the
+lifeblood of the physical sciences!
 Both assertions are nonsense, as the examples above
 conclusively demonstrate.
 
