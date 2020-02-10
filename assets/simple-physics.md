@@ -1751,7 +1751,7 @@ spirit Stallman describes:
 </span>
 
 So, why aren't we blowing more gourds with high-leverage hacks?
-The inertia of convention.
+Probably, mostly, the inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
@@ -1760,14 +1760,18 @@ It might surprise you to learn that we can [add vectors](https://en.wikipedia.or
 describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
-But we are bound by convention and familiarity to the typical use
+We are bound by convention and familiarity to the typical use
 case.
 
 There are other myths in play, for instance, that the only real
 toolset is calculus and its tributaries; before then, students must
 settle for the weakest possible caricatures of natural law and
 physical reasoning.
-This is nonsense, as I hope the examples above conclusively demonstrate.
+Similarly, applications and experiments are often deemed too difficult
+to permit quantitative exploration, even though these are the
+lifeblood of the physical sciences.
+Both assertions are nonsense, as I hope the examples above
+conclusively demonstrate.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
