@@ -1769,8 +1769,7 @@ to solve mechanical problems.
 We are bound by convention and familiarity to the typical use case.
 
 The focus on laws rather than tools is not the only problem.
-There is a beautiful and wide-ranging toolset for doing physics --- it
-is called *advanced mathematics*, starting with calculus and branching
+There is a beautiful and wide-ranging toolset for doing physics called *advanced mathematics*, starting with calculus and branching
 out into its various tributaries.
 Unfortunately, many teachers (and hence students) view it as
 (a) the only toolset, and (b) a particularly difficult one to use.
