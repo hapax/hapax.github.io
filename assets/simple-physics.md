@@ -1760,7 +1760,14 @@ It might surprise you to learn that we can [add vectors](https://en.wikipedia.or
 describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
-We are bound by convention and familiarity to the typical use case.
+But we are bound by convention and familiarity to the typical use
+case.
+
+There are other myths in play, for instance, that the only real
+toolset is calculus and its tributaries, and before then students must
+settle for the weakest possible caricatures of natural law and
+physical reasoning.
+This is nonsense, as I hope the examples above conclusively demonstrate.
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
