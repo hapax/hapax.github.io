@@ -1780,11 +1780,13 @@ think this post conclusively demonstrates it is false.
 
 In summary, we are dealing with the age-old problem that convention
 tends to be received and transmitted
-without question, and there is a great deal of limitation and falsehood in the received wisdom.
+without question.
+Unfortunately, there is a great deal of limitation and falsehood in
+the received wisdom.
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
-without truth is the antiquity of error*.
-Hacker spirit is the perfect antidote for custom without truth.
+without truth is the antiquity of error*, and hacker spirit is the
+perfect antidote for custom without truth.
 
 #### Annotated references
 
