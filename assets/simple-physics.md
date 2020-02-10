@@ -1758,7 +1758,7 @@ tied to laws.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
-what makes them low leverage; they are too tied to specific applications.
+what makes them low leverage: they are tied to specific applications.
 It might surprise you to learn, for instance, that we can do a
 switcheroo, [adding vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
