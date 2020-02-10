@@ -1769,8 +1769,11 @@ to solve mechanical problems.
 We are bound by convention and familiarity to the typical use case.
 
 The focus on laws rather than tools is not the only problem.
-The conventional toolset for doing physics is *advanced mathematics*
---- vectors and linear algebra, differential equations, tensors, etc. ---
+The conventional toolset for doing physics is *advanced mathematics*.
+Unfortunately, it is consider by many teachers (and hence students)
+(a) the only toolset, and (b) a particularly difficult one to use.
+So much physics is unnecessarily black-boxed by teachers who are
+afraid they cannot understand the mathematics used in derivations.
 
 #### Annotated references
 
