@@ -7,12 +7,11 @@ categories: [Physics, Teaching, Hacks]
 date:  2020-01-06
 ---
 
-**February 8, 2020.** *The computational power of the humble napkin is
-  awesome and underappreciated. I introduce three napkin
-  algorithms --- dimensional analysis, Fermi estimates, and random
-  walks --- and use them to figure out why rain falls, the length of the
-  E. coli genome, and the mass of a proton (among many other
-  things!).*
+**February 8, 2020.** *The computational power of a humble napkin is
+  awesome. I discuss three napkin algorithms --- dimensional
+  analysis, Fermi estimates, and random walks --- and use them to
+  figure out why rain falls, the length of the E. coli genome, and the
+  mass of a proton, among other things.*
 
 ### Contents
 
@@ -97,16 +96,6 @@ given a few hints, a pencil, and a napkin, they could discover it all
 themselves.
 This world is very close to ours; all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
-
-For more examples, I can't resist
-plugging [my notes](https://hapax.github.io/outreach) for the
-[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Check them out if you want to see how to apply these hacks
-to black holes, aliens, dark energy, turbulence, mosh pits, or the amount
-of money concealed in couches across Canada!
-I also recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground at a more advanced level.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -1786,3 +1775,13 @@ perfect antidote for custom without truth.
 #### Annotated references
 
 https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
+
+For more examples, I can't resist
+plugging [my notes](https://hapax.github.io/outreach) for the
+[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+Check them out if you want to see how to apply these hacks
+to black holes, aliens, dark energy, turbulence, mosh pits, or the amount
+of money concealed in couches across Canada!
+I also recommend Sanjoy Mahajan's book
+[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+covering similar ground at a more advanced level.
