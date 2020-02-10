@@ -1379,7 +1379,7 @@ never collide with an asteroid.
 "temperature is just atomic motion".
 This is shorthand for "temperature is just average kinetic energy per
 particle"!
-More precisely, temperature is *proportional to* the average kinetic
+More precisely, temperature is *proportional to* If the average kinetic
 energy per particle $\epsilon_\text{avg}$,
 
 $$
@@ -1751,10 +1751,22 @@ spirit Stallman describes:
 Look how wonderful this is. I bet you didn't believe this could be done.
 </span>
 
-This is a feeling we should be trying to cultivate, in physics, and
-heck, everywhere else!
-But convention dictates that we teach methods of low leverage and
-scope to go along with .
+So, why aren't we blowing more gourds with high-leverage hacks and
+applications of real interest and substance?
+Partly, it is a matter of convention.
+We tend to think of physics as a body of laws, and methods as dictated
+by those laws.
+We resolve vectors for Newton's laws, draw circuits for Kirchhoff's
+laws, trace rays for geometric optics.
+
+#### Annotated references
+
+https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
+
+
+Any subject can benefit from experiences like this!
+
+But convention dictates that we teach methods and scope to go along with .
 In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian), *custom
 without truth is the antiquity of error*.
@@ -1779,6 +1791,5 @@ so we must settle for low-leverage methods, with an increased focus on
 But this is just wrong!
 There is world of high-leverage hacks at our fingertips, ready to
 
-#### References
-
-https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
+Instead of teaching high-leverage methods, and exploring applications
+to problems of real interest and substance, we settle for the same old low-lower
