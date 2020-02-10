@@ -1751,6 +1751,7 @@ describe the flow of electricity and
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use
 case.
+But there's always something fun around the corner.
 
 There are other myths in play, for instance, that the only real
 toolset is calculus and its tributaries; before then, students must
