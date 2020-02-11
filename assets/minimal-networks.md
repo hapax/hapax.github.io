@@ -264,7 +264,7 @@ sides of the triangle.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner9.png" width="35%"/>
+    ="/images/posts/steiner9.png" width="45%"/>
 		    <figcaption><i>Figure 9. At some angle, the trident
     network becomes a triangular one.</i></figcaption>
 	</div>
@@ -276,6 +276,9 @@ lower and open out the angle of the triangle, and the optimal hub $D$
 moves down as they do so.
 At some critical angle, it will coincide with $B$.
 The question is: what is the angle?
+
+It turns out to be $120^\circ$. Although we won't provide a watertight
+proof, we can give a plausibility argument.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
