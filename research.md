@@ -6,8 +6,11 @@ permalink: /research/
 
 I study quantum mechanics and gravity, with a particular focus on the
 *AdS/CFT correspondence*.
-This is a magical result which relates quantum gravity in *d* + 1 dimensions
-to regular quantum mechanics in *d* dimensions!
+This is the somewhat magical fact that quantum gravity in
+(*d*+1)-dimensional saddle-shaped space is exactly equivalent to certain
+highly-symmetric quantum-mechanical systems in *d* dimensions.
+In a sense, we can think of AdS/CFT as a perfect algorithm for
+simulating (*d*+1)-dimensional gravity on a *d*-dimensional quantum computer!
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -15,13 +18,15 @@ to regular quantum mechanics in *d* dimensions!
 	</div>
 	</figure>
 
+At the moment, I'm particularly interested in (a) boundary conformal field
+theories and (b) black holes.
 My papers are listed below, followed by sundry technical notes.
 
 #### Papers
 
-1. *Eigenstate thermalization and disorder averaging in gravity*
+1. [*Eigenstate thermalization and disorder averaging in gravity*](https://arxiv.org/pdf/2002.02971.pdf)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), Moshe
-   Rozali, James Sully, David Wakeham.
+   Rozali, James Sully, David Wakeham. arXiv: 2002.02971.
 2. [*Brane dynamics from the first law of entanglement*](https://arxiv.org/pdf/1912.05746.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
