@@ -159,7 +159,7 @@ length will get very large as well.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner5.png" width=70%"/>
+    ="/images/posts/steiner5.png" width="70%"/>
 		    <figcaption><i>Figure 5. The trident gets long for large $x$.</i></figcaption>
 	</div>
 	</figure>
@@ -255,9 +255,12 @@ The smooth changes are depicted as squiggly purple paths in Figure 8.
 	</div>
 	</figure>
 
-The simple observation that the hub position changes smoothly is
-enough to deduce the very general feature of minimal networks we
-advertised above.
+Since the hub position changes smoothly, it should stay inside the
+triangle for small deformations of the corners.
+But for triangles which are very far from equilateral, you might
+imagine that the hub actually *intersects* one of the corners, and our
+trident network becomes a simpler triangular network, formed from two
+sides of the triangle.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
