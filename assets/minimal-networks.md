@@ -104,7 +104,7 @@ trigonometry.
 
 ---
 
-*Exercise 2 (equilateral trident).* Show that the length of the
+*Exercise 3 (equilateral trident).* Show that the length of the
 trident network, with a hub in the centre of the triangle, is
 
 $$
@@ -170,12 +170,12 @@ If it was a maximum, then length would get smaller at large $x$!
 
 ---
 
-*Exercise 3 (exact length).* Although this argument is plausible,
+*Exercise 4 (exact length).* Although this argument is plausible,
  it doesn't rule out the possibility that $x=0$ is actually a maximum,
- with the true minimum at $\pm x_\text{min}$, before length increases
- again as $|x|$ gets larger.
- If you are worried, you can check draw some graphs to check
- explicitly that this doesn't happen!
+ with the true minimum at some symmetrically spaced points $\pm
+ x_\text{min}$, before length increases again as $|x|$ gets larger.
+ If you are worried, you can calculate the length exactly and plot it
+ for some different values.
 
 <figure>
     <div style="text-align:center"><img src
