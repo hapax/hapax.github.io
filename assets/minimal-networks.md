@@ -47,3 +47,9 @@ multiple stations.
 Although the precise position of new stations is a very hard problem
 to solve exactly, we will settle for understanding the network layout
 in a wide variety of cases.
+
+#### References
+
+https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/
+https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
+https://en.wikipedia.org/wiki/Steiner_tree_problem
