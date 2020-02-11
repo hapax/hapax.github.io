@@ -224,7 +224,7 @@ This solves the minimal network problem on an equilateral triangle!
     <div style="text-align:center"><img src
     ="/images/posts/steiner7.png" width="40%"/>
 		    <figcaption><i>Figure 7. The minimal network on an
-    equilateral triangle</i></figcaption>
+    equilateral triangle.</i></figcaption>
 	</div>
 	</figure>
 
@@ -243,6 +243,16 @@ slowly deform it.
 In other words, we imagine slowly moving the corners of the triangle
 so it is no longer equilateral.
 What will happen to the optimal position of the hub $D$?
+Since everything is being smoothly modified, the position of the hub
+should change smoothly as well.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner8.png" width="40%"/>
+		    <figcaption><i>Figure 8. The hub position changes smoothly
+    as we deform the corners.</i></figcaption>
+	</div>
+	</figure>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
