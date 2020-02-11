@@ -22,11 +22,10 @@ date:  2020-02-010
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-Suppose we have three towns $A$, $B$ and $C$, that we want to join up
-by rail.
-I should be able to use this railway to travel from one town to any
-other, so we say that rail network is *connected*.
-A simple example of a connected network is shown below.
+Suppose we want to join up three towns ($A$, $B$ and $C$) by rail.
+If I can use this railway to travel from one town to any
+other, we say that rail network is *connected*.
+Two simple examples of connected networks are shown below.
 
 <figure>
     <div style="text-align:center"><img src
