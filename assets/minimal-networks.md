@@ -16,7 +16,7 @@ date:  2020-02-010
    1. <a href="#sec-2-1">Equilateral triangles</a>
    2. <a href="#sec-2-2">Deforming the equilateral</a>
    3. <a href="#sec-2-2">Deforming the equilateral</a>
-A. Fermat points
+3. <a href="#sec-A">Fermat points</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
