@@ -19,7 +19,8 @@ simulating (*d*+1)-dimensional gravity on a *d*-dimensional quantum computer!
 	</figure>
 
 At the moment, I'm interested in (a) boundary conformal field theories
-and their holographical duals; and (b) black holes.
+and their holographical duals; and (b) holographic resolutions to the
+black hole information paradox.
 My papers are listed below, followed by sundry technical notes.
 
 #### Papers
