@@ -347,6 +347,14 @@ Our first step in proving our key result is to imagine there is a hub
 station $H$ with incoming rail lines separated by less than
 $\theta_\text{crit} = 120^\circ$.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner11.png" width="80%"/>
+		    <figcaption><i>Figure 11. On the left, a hub with incoming
+    angle less than 120°. On the right, a shorter network.</i></figcaption>
+	</div>
+	</figure>
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
