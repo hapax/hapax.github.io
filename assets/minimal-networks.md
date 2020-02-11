@@ -413,7 +413,9 @@ straight line.
 In real life, hubs do cost some money (even if it is dramatically less
 than spokes) so we will never build unnecessary ones!
 If we always delete these useless hubs, we have the general result advertised
-above, namely that any hub in a minimal network has three equally spaced spokes.
+above, namely that any hub in a minimal network has three equally
+spaced spokes.
+Yay!
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
