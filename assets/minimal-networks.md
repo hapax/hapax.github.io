@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A minimal introduction to minimal networks"
+title:  "The topology of minimal networks"
 categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-010
 ---
@@ -23,7 +23,7 @@ A simple example of a connected network is shown below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner1.png" width="50%"/>
+    ="/images/posts/steiner1.png" width="45%"/>
 		    <figcaption><i>A simple rail network connecting A, B,
     and C.</i></figcaption>
 	</div>
@@ -34,4 +34,15 @@ build the rail itself, but acquire the land beneath it.
 In contrast, stations are cheap: we just slap together some sidings, a
 platform, and a bench or two, and we're done.
 Our goal is therefore to *make the total length of the rail network as
-short as possible*, adding extra stations if need be to reduce this length.
+short as possible*, adding extra stations if need be to reduce this
+length.
+This is called a *minimal network*.
+
+Will our triangular rail network above be minimal?
+It turns out that, to minimise the total amount of rail, we should
+build a new station $D$ and connect each town to it.
+Our goal in this post will be to see why, and how this generalises to
+multiple stations.
+Although the precise position of new stations is a very hard problem
+to solve exactly, we will settle for understanding the network layout
+in a wide variety of cases.
