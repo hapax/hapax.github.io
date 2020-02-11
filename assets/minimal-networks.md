@@ -16,7 +16,8 @@ date:  2020-02-010
    1. <a href="#sec-2-1">Equilateral triangles</a>
    2. <a href="#sec-2-2">Deforming the equilateral</a>
    3. <a href="#sec-2-2">To $120^\circ$ and beyond</a>
-3. <a href="#sec-A">Fermat points</a>
+3. <a href="#sec-3">Graphs</a>
+4. <a href="#sec-A">Fermat points</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -61,13 +62,22 @@ Which is shorter?
 
 ## 2. Triangles <a id="sec-2" name="sec-2"></a>
 
-The train network from the Introduction is already surprising.
+The three-town train network is already surprising.
+The simplest possibility, the triangular network, is not minimal, and
+instead, we should place a new station $D$ somewhere in the middle.
+The best place to put it is called the *Fermat* or *Torricelli point*,
+and if you are really interested, check out the appendix on <a
+href="#sec-A">Fermat points</a>.
+But for the rest of the post, we will not worry too much about where
+precisely it goes.
 
 ## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
 The first and most important case is when our three towns lie at the
 corners of an equilateral triangle.
 Let's say the distance between each town is $d$.
+
+## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ## A. Fermat points <a id="sec-A" name="sec-A"></a>
 
