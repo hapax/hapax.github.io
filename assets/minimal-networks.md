@@ -19,6 +19,7 @@ date:  2020-02-11
    3. <a href="#sec-2-3">Hubs and spokes</a>
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
+   2. <a href="#sec-3-2">Counting hubs</a>
 4. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -420,6 +421,8 @@ Yay!
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
+
+### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
