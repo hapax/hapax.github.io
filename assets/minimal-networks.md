@@ -70,16 +70,18 @@ See if you can do better than either.
 
 ## 2. Triangles <a id="sec-2" name="sec-2"></a>
 
-The three-town train network is already surprising.
-The triangular network is the simplest possibility but it is not minimal, and
-instead, we should place a new station $D$ somewhere in the middle.
-The best place to put it is called the *Fermat* or *Torricelli point*,
-and if you are very keen, check out the appendix on <a
-href="#sec-A">Fermat points</a>.
-But for the rest of the post, we just going to think about *when* it
-goes in the middle, rather than precisely *where* it goes.
-This saves us some hard trigonometry!
-But we can determine the position for an important special case: the
+The three-town problem is already surprising.
+The simplest possibility is the triangular network, but it is not
+minimal; to minimise length, a trident-shaped network with a new
+station $D$ is optimal.
+The best place to put the hub station is called the *Torricelli* or
+*Fermat point*, and if you are keen, you can learn how to
+determine this point in the <a href="#sec-A">appendix</a>.
+
+But for the rest of the post, we will only worry about *when* we
+should build a hub, rather than *where* it goes exactly.
+This will save us some hard trigonometry!
+Our first and only exception will be an important special case: the
 equilateral triangle.
 
 ## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
