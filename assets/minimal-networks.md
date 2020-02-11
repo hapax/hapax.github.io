@@ -30,7 +30,7 @@ Two simple examples of connected networks are shown below.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner1.png" width="80%"/>
-		    <figcaption><i>Figure 1: Rail networks connecting A, B,
+		    <figcaption><i>Figure 1. Rail networks connecting A, B,
     and C. On the left is a triangular network, and on the right the "trident".</i></figcaption>
 	</div>
 	</figure>
@@ -52,13 +52,7 @@ of the connectivity and layout of these minimal networks.
 
 ---
 
-*Exercise 1 (Choo-choo two).* What is the minimal network connecting two towns?
-
-<p align="center">
-  ⁂
-</p>
-
-*Exercise 2 (triangle or trident).* In Figure 1, we have two networks connecting the same towns: a triangular network,
+*Exercise 1 (triangle or trident).* In Figure 1, we have two networks connecting the same towns: a triangular network,
 and a trident-shaped network with a hub station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
@@ -83,6 +77,17 @@ Our first and only exception will be an important special case: the
 equilateral triangle.
 
 ## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
+
+So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
+and sit on the corners of an equilateral triangle of side length $d$.
+The triangular network
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner2.png" width="80%"/>
+		    <figcaption><i>Figure 2. Rail networks on an equilateral triangle.</i></figcaption>
+	</div>
+	</figure>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
