@@ -7,8 +7,8 @@ permalink: /research/
 I study quantum mechanics and gravity, with a particular focus on the
 *AdS/CFT correspondence*.
 This is the somewhat magical fact that quantum gravity in
-(*d*+1)-dimensional saddle-shaped space is exactly equivalent to certain
-highly-symmetric quantum-mechanical systems in *d* dimensions.
+some (*d*+1)-dimensional spaces is exactly equivalent to special
+quantum-mechanical systems in *d* dimensions.
 In a sense, we can think of AdS/CFT as a perfect algorithm for
 simulating (*d*+1)-dimensional gravity on a *d*-dimensional quantum computer!
 
