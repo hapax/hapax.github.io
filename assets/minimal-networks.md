@@ -168,12 +168,13 @@ If it was a maximum, then length would get smaller at large $x$!
  it doesn't rule out the possibility that $x=0$ is actually a maximum,
  with the true minimum at $\pm x_\text{min}$, before length increases
  again as $|x|$ gets larger.
- If you are worried, you can check explicitly this doesn't happen!
+ If you are worried, you can check draw some graphs to check
+ explicitly that this doesn't happen!
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner6.png" width="35%"/>
-		    <figcaption><i>Figure 4. Calculating the exact network length.</i></figcaption>
+		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
 	</div>
 	</figure>
 
@@ -197,12 +198,37 @@ $$
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) For simplicty, we can set $d= 1$.
-Plot the function for various values of $h$ between $0$ and its
+(c) For simplicity, we can set $d= 1$.
+Plot $L(x)$ for various values of $h$ between $0$ and its
 maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
 </span>
 
 ---
+
+We have established that, in order to minimise the length, the hub $D$
+should lie on the red axis of symmetry associated with vertex $A$.
+But of course, we can repeat this argument for $B$ and $C$ as well!
+There are three axes of symmetry, and they happen to intersect in a
+point at the centre of the triangle.
+Since $D$ should lie on each of these lines, it must lie at the centre
+of the triangle, as depicted in Figure 7.
+This solves the minimal network problem on an equilateral triangle!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner7.png" width="40%"/>
+		    <figcaption><i>Figure 7. The hub lies at the intersection
+    of red axes.</i></figcaption>
+	</div>
+	</figure>
+
+Before we go on, we note a couple of features of this trident graph.
+We have a point in the centre, with three incoming edges separated by
+angle $120^\circ$.
+Remarkably, this is a completely general feature of minimal networks!
+Any time we add a hub, it will have three spokes separated by equal
+angles.
+To see why, read on!
 
 ## 2.2. To $120^\circ$ and beyond <a id="sec-2-2" name="sec-2-2"></a> 
 
