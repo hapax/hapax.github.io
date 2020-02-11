@@ -296,8 +296,8 @@ network simply removes the corresponding leg of the trident (Figure 10).
 	</div>
 	</figure>
 
-I'll let you explore why we only remove a leg --- rather than adding a
-whole new hub --- in the next problem.
+I'll let you explore why we only remove a leg, rather than adding a
+whole new hub, in the next problem.
 
 ---
 
