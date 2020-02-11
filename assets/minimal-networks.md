@@ -398,7 +398,8 @@ So, we have the situation depicted on the left of Figure 12:
 
 Hopefully you can see what goes wrong. If there is a "kink" in the
 line, with separating angle $\theta \neq 180^\circ$, then we can obtain a shorter
-network be deleting $H$ and directly connecting $A$ and $B$!
+network be deleting $H$ and directly connecting $A$ and $B$.
+Once again, we have a contradiction!
 
 ---
 
