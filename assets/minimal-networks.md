@@ -4,10 +4,12 @@ mathjax: true
 comments: true
 title:  "A minimal introduction to minimal networks"
 categories: [Mathematics, Teaching, Hacks]
-date:  2020-02-010
+date:  2020-02-11
 ---
 
-**February 10, 2020.** **
+**February 11, 2020.** *I give an elementary introduction to the
+  topology and geometry of minimal networks. Our main result is going
+  to *
 
 ### Contents
 
