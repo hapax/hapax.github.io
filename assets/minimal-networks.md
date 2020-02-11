@@ -351,6 +351,8 @@ minimal rail network.
 Also suppose there is a hub station $H$ with incoming rail lines
 separated by less than
 $\theta_\text{crit} = 120^\circ$, as on the left in Figure 11.
+There may be other incoming lines, but these will play no role in our proof.
+
 We can build two new stations on these outgoing legs, $h_1$ and $h_2$,
 which are (for simplicity) the same distance from $H$.
 
