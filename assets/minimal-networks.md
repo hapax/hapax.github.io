@@ -15,21 +15,23 @@ date:  2020-02-010
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-Suppose I have three towns $A, B, C$, that I want to connect with a
-railway.
-The rail network should allow me to travel from one town to any other
-by rail alone.
-A simple connected train network is shown below.
+Suppose we have three towns $A$, $B$ and $C$, that we want to join up
+by rail.
+I should be able to use this railway to travel from one town to any
+other, so we say that rail network is *connected*.
+A simple example of a connected network is shown below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner1.png" width="80%"/>
+    ="/images/posts/steiner1.png" width="50%"/>
 		    <figcaption><i>A simple rail network connecting A, B,
-    and C..</i></figcaption>
+    and C.</i></figcaption>
 	</div>
 	</figure>
 	
-But rail is expensive, and if cost is the only consideration (not
-passenger convenience) then I should make my rail network as short as
-possible.
-Is the picture
+Building railway is very expensive, since we not only need to design and
+build the rail itself, but acquire the land beneath it.
+In contrast, stations are cheap: we just slap together some sidings, a
+platform, and a bench or two, and we're done.
+Our goal is therefore to *make the total length of the rail network as
+short as possible*, adding extra stations if need be to reduce this length.
