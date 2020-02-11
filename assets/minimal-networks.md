@@ -274,10 +274,10 @@ We picture this in Figure 9 above.
 In this diagram, $B$ remains fixed in position, but $A$ and $C$ slowly
 lower and open out the angle of the triangle, and the optimal hub $D$
 moves down as they do so.
-At some critical angle, it will coincide with $B$.
+At some critical angle $\theta_\text{crit}$, it will coincide with $B$.
 The question is: what is the angle?
 
-It turns out to be $120^\circ$. Although we won't provide a watertight
+It turns out this critical angle is $\theta_\text{crit} = 120^\circ$. Although we won't provide a watertight
 proof, we can give a plausibility argument.
 Let's return to the equilateral triangle.
 Instead of adding a hub in the middle, suppose that $D$ is in fact a
