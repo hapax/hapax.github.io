@@ -245,6 +245,7 @@ so it is no longer equilateral.
 What will happen to the optimal position of the hub $D$?
 Since everything is being smoothly modified, the position of the hub
 should change smoothly as well.
+The smooth changes are depicted as squiggly purple paths in Figure 8.
 
 <figure>
     <div style="text-align:center"><img src
