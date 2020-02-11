@@ -351,7 +351,8 @@ minimal rail network.
 Also suppose there is a hub station $H$ with incoming rail lines
 separated by less than
 $\theta_\text{crit} = 120^\circ$, as on the left in Figure 11.
-There may be other incoming lines, but these will play no role in our proof.
+There may be other incoming lines (the horizontal lines in Figure 11),
+but these will play no role in our proof and can be ignored.
 
 We can build two new stations on these outgoing legs, $h_1$ and $h_2$,
 which are (for simplicity) the same distance from $H$.
@@ -380,10 +381,24 @@ So, we know that any hub must have spokes separated by at least
 $120^\circ$.
 How do we know that there are three, separated by exactly $120^\circ$?
 This is very simple.
-Suppose there are two lines separated by more than $120^\circ$.
-Then there can only be two incoming edges, since any additional lines
-would have to be closer than $120^\circ$ to one of these lines, which
-contradicts the result we just proved.
+Suppose two lines enter $H$, separated by more than $120^\circ$.
+Then there can only be two incoming edges, joining $H$ to some cities
+$A$, and $B$, since any additional lines would have to be closer than
+$120^\circ$ to one of these lines, which contradicts the result we
+just proved.
+So, we have the situation depicted on the left of Figure 12:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner12.png" width="80%"/>
+		    <figcaption><i>Figure 12. Left: A hub with incoming
+    angle greater than 120°. Right: A shorter network.</i></figcaption>
+	</div>
+	</figure>
+
+Hopefully you can see what goes wrong. If there is a "kink" in the
+line, with angle $\theta \neq 180^\circ$, then we can obtain a shorter
+network be deleting $H$ and directly connecting $A$ and $B$!
 
 ---
 
