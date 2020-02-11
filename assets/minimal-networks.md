@@ -91,7 +91,7 @@ equilateral triangle.
 
 ### 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
-So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
+Suppose that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
 The triangular network has total length $L_\Delta = 2d$.
 
