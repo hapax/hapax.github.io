@@ -15,10 +15,11 @@ date:  2020-02-010
 2. <a href="#sec-2">Triangles</a>
    1. <a href="#sec-2-1">Equilateral triangles</a>
    2. <a href="#sec-2-2">Deforming the equilateral</a>
-   3. <a href="#sec-2-2">To $120^\circ$ and beyond</a>
+   3. <a href="#sec-2-3">To $120^\circ$ and beyond</a>
+   4. <a href="#sec-2-4">The Gilbert-Pollack conjecture*</a>
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
-4. <a href="#sec-A">Fermat points</a>
+4. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -129,24 +130,31 @@ axis of symmetry, drawn as a dark blue line in Figure 3.
 As we wiggle the hub left or right of the axis, the total length of
 the network (the lengths of the light blue legs) will change.
 But symmetry places strong constraints on how it changes.
-In particular, if we graph length $L$ as a function of much we have
-shifted $D$ away from the axis, we will find it is *even*.
-If we shift to the left a distance $x$, the length is the same as
-shifting to the right a distance $x$.
+If we shift $D$ a distance $x$ to the left of the axis, this
+should give exactly the length as shifting to the right by $x$, since
+the triangle is left-right symmetric around the red line.
+Thus, the function is *even*, with $L(x) = L(-x)$, where $x$ is the
+shift away from the axis, with $x < 0$ to the left and $x > 0$ to the
+right.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner3.png" width="40%"/>
+    ="/images/posts/steiner4.png" width="40%"/>
 		    <figcaption><i>Figure 4. Length as a function of wiggle
-    around the axis.</i></figcaption>
+    $x$ away from the axis.</i></figcaption>
 	</div>
 	</figure>
+
+In Figure 4, we have drawn two possibilities for an even length
+function $L(x)$.
+It can either be a *minimum* at the point of symmetry $x = 0$, or a
+*maximum*. A function which is even around $x= 0$ has no other choice!
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ## 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
-## A. Fermat points <a id="sec-A" name="sec-A"></a>
+## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
 #### References
 
