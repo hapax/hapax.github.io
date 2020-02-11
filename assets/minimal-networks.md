@@ -7,7 +7,8 @@ categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-010
 ---
 
-**February 10, 2020.** *Bla*
+**February 10, 2020.** *An elementary introduction to the topology of
+  minimal networks.*
 
 ### Contents
 
