@@ -14,7 +14,7 @@ date:  2020-02-010
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Triangles</a>
    1. <a href="#sec-2-1">Equilateral triangles</a>
-   2. <a href="#sec-2-2">To $120^\circ$ and beyond</a>
+   2. <a href="#sec-2-2">Deforming the triangle</a>
    3. <a href="#sec-2-3">The Gilbert-Pollack conjecture*</a>
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
@@ -230,7 +230,7 @@ Any time we add a hub, it will have three spokes separated by equal
 angles.
 To see why, read on!
 
-## 2.2. To $120^\circ$ and beyond <a id="sec-2-2" name="sec-2-2"></a> 
+## 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
