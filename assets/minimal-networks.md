@@ -341,6 +341,9 @@ station) we added to reduce the total length.
 The argument is beautiful and simple, though like Exercise 5, it
 involves a proof by contradiction.
 
+---
+
+*Proof.*
 Our first step is to show that it is impossible for a hub to have
 incoming edges separated by less than $120^\circ$.
 Suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
@@ -381,6 +384,8 @@ Suppose there are two lines separated by more than $120^\circ$.
 Then there can only be two incoming edges, since any additional lines
 would have to be closer than $120^\circ$ to one of these lines, which
 contradicts the result we just proved.
+
+---
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
