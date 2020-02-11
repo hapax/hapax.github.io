@@ -8,7 +8,7 @@ date:  2020-02-11
 ---
 
 **February 11, 2020.** *An elementary introduction to the topology and
-  geometry of minimal networks. First two sections are finished.*
+  geometry of minimal networks. (First two sections finished.)*
 
 ### Contents
 
