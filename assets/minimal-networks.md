@@ -116,15 +116,18 @@ $D$ is right in the centre, using a simple line of symmetry-based reasoning.
 Let's place $D$ anywhere we like, but now draw one of the *axes of
 symmetry* of the triangle, represented by the red line in Figure 3.
 We are going to move the hub side to side in a normal direction to the
-axis of symmetry, drawn as a dar blue line in Figure 3.
+axis of symmetry, drawn as a dark blue line in Figure 3.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner3.png" width="80%"/>
+    ="/images/posts/steiner3.png" width="40%"/>
 		    <figcaption><i>Figure 3. Wiggling the hub around an axis
     of symmetry.</i></figcaption>
 	</div>
 	</figure>
+
+As we wiggle the hub, left or right of the axis, the total length of
+the network (the lengths of the light blue legs) will change.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
