@@ -29,7 +29,7 @@ Two simple examples of connected networks are shown below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner1.png" width="80%"/>
+    ="/images/posts/steiner1.png" width="70%"/>
 		    <figcaption><i>Figure 1. Rail networks (triangle and
     trident) connecting three towns.</i></figcaption>
 	</div>
@@ -52,13 +52,22 @@ of the connectivity and layout of these minimal networks.
 
 ---
 
-*Exercise 1 (triangle or trident).* In Figure 1, we have two networks connecting the same towns: a triangular network,
+*Exercise 1 (choosing sides).* Suppose $A$, $B$ and $C$ are separated
+by distances $AB = c$, $AC = b$ and $BC = a$.
+A triangular network consists of two sides of the triangle.
+Which ones should we choose?
+
+<p align="center">
+  ⁂
+</p>
+
+*Exercise 2 (triangle or trident).* In Figure 1, we have two networks connecting the same towns: a triangular network,
 and a trident-shaped network with a hub station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
 
 *Hint.* Measure lengths on the screen with a ruler. You may
- feel like you've turned into your grandparents, but it works!
+ feel like your grandparents, but it works!
 
 ---
 
@@ -80,7 +89,7 @@ equilateral triangle.
 
 So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
-The triangular network has total length $L_\Delta = 3d$.
+The triangular network has total length $L_\Delta = 2d$.
 
 <figure>
     <div style="text-align:center"><img src
@@ -99,14 +108,13 @@ trigonometry.
 trident network, with a hub in the centre of the triangle, is
 
 $$
-L_{\text{Y}} = \frac{3\sqrt{3}}{2}d.
+L_{\text{Y}} = \sqrt{3}d.
 $$
 
-Since $3\sqrt{3}/2 \approx 2.6 < 3$, the trident is indeed shorter
+Since $\sqrt{3} \approx 1.7 < 2$, the trident is indeed shorter
 than the triangle.
 
-*Hint.* To determine the length of a trident leg, the gray triangle in
- Figure 2 is useful.
+*Hint.* The gray triangle in Figure 2 is useful.
 
 ---
 
@@ -232,7 +240,11 @@ To see why, read on!
 
 ### 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
 
-We are now going to move beyond equilateral triangles, but in a 
+We are now going to take our solution to the equilateral triangle and
+slowly deform it.
+In other words, we imagine slowly moving the corners of the triangle
+so it is no longer equilateral.
+What will happen to the optimal position of the hub $D$?
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
