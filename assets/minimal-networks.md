@@ -30,8 +30,8 @@ Two simple examples of connected networks are shown below.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner1.png" width="80%"/>
-		    <figcaption><i>Figure 1. Rail networks connecting A, B,
-    and C. On the left is a triangular network, and on the right the "trident".</i></figcaption>
+		    <figcaption><i>Figure 1. Rail networks (triangle and
+    trident) connecting three towns.</i></figcaption>
 	</div>
 	</figure>
 	
@@ -80,7 +80,7 @@ equilateral triangle.
 
 So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
-The triangular network
+The triangular network has total length $L_\text{\Delta} = 3d$.
 
 <figure>
     <div style="text-align:center"><img src
@@ -88,6 +88,23 @@ The triangular network
 		    <figcaption><i>Figure 2. Rail networks on an equilateral triangle.</i></figcaption>
 	</div>
 	</figure>
+
+We might imagine that a trident network with a station in the middle
+does better, but instead of checking with a ruler, let's do a little
+trigonometry.
+
+---
+
+*Exercise 2 (equilateral trident).* Show that the length of the
+trident network, with a hub right in the middle of the triangle, is
+
+$$
+L_{\text{\mathtt{Y}}} = \frac{3\sqrt{3}}{2}d.
+$$
+
+*Hint.* The grey triangle in Figure 2 is useful.
+
+---
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
