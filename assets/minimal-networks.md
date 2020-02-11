@@ -53,7 +53,7 @@ connectivity and layout of minimal networks.
 ---
 
 *Exercise 1.* In Figure 1, we have two networks: a triangular network,
-and a "star-shaped" network with a new station $D$ in the middle.
+and a trident-shaped network with a new station $D$ in the middle.
 Which is shorter?
 
 *Hint.* You can measure the lines with a ruler and add up the lengths.
