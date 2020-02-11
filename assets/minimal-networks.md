@@ -102,9 +102,19 @@ $$
 L_{\text{\mathtt{Y}}} = \frac{3\sqrt{3}}{2}d.
 $$
 
-*Hint.* The grey triangle in Figure 2 is useful.
+Since $\sqrt{3}/2 \approx 0.87 < 1$, the trident is indeed shorter
+than the triangle.
+
+*Hint.* To determine the length of a trident leg, the gray triangle in
+ Figure 2 is useful.
 
 ---
+
+We are going to argue not only that the trident network is better than
+the triangle network, but that the best place to put the hub station
+$D$ is right in the centre.
+We will use a simple argument based on symmetry.
+Let's imagine
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
