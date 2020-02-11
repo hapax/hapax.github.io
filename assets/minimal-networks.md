@@ -249,7 +249,7 @@ should change smoothly as well.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner8.png" width="40%"/>
-		    <figcaption><i>Figure 8. The hub position changes smoothly
+		    <figcaption><i>Figure 8. The optimal hub position changes smoothly
     as we deform the corners.</i></figcaption>
 	</div>
 	</figure>
