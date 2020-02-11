@@ -12,7 +12,7 @@ date:  2020-01-06
   analysis, Fermi estimates, and random walks --- and use them to
   figure out why rain falls, the length of the E. coli genome, and the
   mass of a proton, among other things. I argue for the widespread use
-  of napkins in physics education.*
+  of napkins in physics.*
 
 ### Contents
 
