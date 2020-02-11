@@ -41,12 +41,12 @@ This is called a *minimal network*.
 
 Will our triangular rail network above be minimal?
 It turns out that, to minimise the total amount of rail, we should
-build a new station $D$ and connect each town to it.
+build a new station $D$ in between and connect each town to it.
 Our goal in this post will be to see why, and how this generalises to
 multiple stations.
-Although the precise position of new stations is a very hard problem
-to solve exactly, we will settle for understanding the network layout
-in a wide variety of cases.
+Although the exact positions are hard to compute in general, we will
+learn some simple facts about the *topology* and connectivity
+structure of minimal networks.
 
 #### References
 
