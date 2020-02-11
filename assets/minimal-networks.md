@@ -261,7 +261,6 @@ But for triangles which are very far from equilateral, you might
 imagine that the hub actually *intersects* one of the corners, and our
 trident network becomes a simpler triangular network, formed from two
 sides of the triangle.
-We picture this in Figure 9.
 
 <figure>
     <div style="text-align:center"><img src
@@ -270,6 +269,13 @@ We picture this in Figure 9.
     network becomes a triangular one.</i></figcaption>
 	</div>
 	</figure>
+
+We picture this in Figure 9 above.
+In this diagram, $B$ remains fixed in position, but $A$ and $C$ slowly
+lower and open out the angle of the triangle, and the optimal hub $D$
+moves down as they do so.
+At some critical angle, it will coincide with $B$.
+The question is: what is the angle?
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
