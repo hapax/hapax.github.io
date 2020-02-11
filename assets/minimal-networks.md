@@ -52,13 +52,13 @@ of the connectivity and layout of these minimal networks.
 
 ---
 
-*Exercise 1.* What is the minimal network connecting two towns?
+*Exercise 1 (Choo-choo two).* What is the minimal network connecting two towns?
 
 <p align="center">
   ⁂
 </p>
 
-*Exercise 2.* In Figure 1, we have two networks connecting the same towns: a triangular network,
+*Exercise 2 (triangle or trident).* In Figure 1, we have two networks connecting the same towns: a triangular network,
 and a trident-shaped network with a hub station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
