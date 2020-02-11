@@ -340,12 +340,9 @@ By "hub", we mean an additional point on the network (like a train
 station) we added to reduce the total length.
 The argument is beautiful and simple, though like Exercise 5, it
 involves a proof by contradiction.
+
 Our first step is to show that it is impossible for a hub to have
 incoming edges separated by less than $120^\circ$.
-
----
-
-*Proof.*
 Suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
 minimal rail network.
 Also suppose there is a hub station $H$ with incoming rail lines
@@ -372,9 +369,18 @@ Thus, from our work in the previous section, we know that the minimal
 network connecting $h_1$, $h_2$ and $H$ is not the triangle we have
 drawn, but a trident with another hub $h_3$ in the middle!
 This strictly decreases the length of the network (shown right in
-Figure 11), and hence, our original network must not have been minimal.
+Figure 11), and hence, our original network must not have been
+minimal.
+There's our contradiction!
 
----
+So, we know that any hub must have spokes separated by at least
+$120^\circ$.
+How do we know that there are three, separated by exactly $120^\circ$?
+This is very simple.
+Suppose there are two lines separated by more than $120^\circ$.
+Then there can only be two incoming edges, since any additional lines
+would have to be closer than $120^\circ$ to one of these lines, which
+contradicts the result we just proved.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
