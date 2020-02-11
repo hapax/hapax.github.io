@@ -50,6 +50,8 @@ networks of smallest total length.
 Although finding the exact solution is difficult in
 general, we can use simple reasoning to learn some important features
 of the connectivity and layout of these minimal networks.
+We will step through the reasoning in bite-sized chunks, starting with
+the problem of connecting three cities.
 
 ---
 
