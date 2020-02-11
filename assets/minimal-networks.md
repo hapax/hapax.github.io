@@ -336,8 +336,16 @@ minimal networks for *any* number of cities:
 In a minimal network, all hubs have three incoming legs separated by angles of $120^\circ$.
 </span>
 
+By "hub", we mean an additional point on the network (like a train
+station) we added to reduce the total length.
 The argument is beautiful and simple, though like Exercise 5, it
 involves a proof by contradiction.
+
+So, suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
+minimal rail network.
+Our first step in proving our key result is to imagine there is a hub
+station $H$ with incoming rail lines separated by less than
+$\theta_\text{crit} = 120^\circ$.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
