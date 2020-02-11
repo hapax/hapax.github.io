@@ -64,7 +64,7 @@ Which is shorter?
 See if you can do better than either.
 
 *Hint.* You can measure lengths on the screen with a ruler. You may
- feel like your grandparents, but it works!
+ feel like you've turned into your grandparents, but it works!
 
 ---
 
