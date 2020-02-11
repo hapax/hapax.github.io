@@ -146,8 +146,8 @@ right.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner4.png" width="35%"/>
-		    <figcaption><i>Figure 4. Length as a function of wiggle
-    $x$ away from the axis.</i></figcaption>
+		    <figcaption><i>Figure 4. Length is an even function, so
+    zero wiggle is a maximum or a minimum.</i></figcaption>
 	</div>
 	</figure>
 
