@@ -397,7 +397,7 @@ So, we have the situation depicted on the left of Figure 12:
 	</figure>
 
 Hopefully you can see what goes wrong. If there is a "kink" in the
-line, with angle $\theta \neq 180^\circ$, then we can obtain a shorter
+line, with separating angle $\theta \neq 180^\circ$, then we can obtain a shorter
 network be deleting $H$ and directly connecting $A$ and $B$!
 
 ---
