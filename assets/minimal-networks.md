@@ -312,7 +312,8 @@ cannot find such a hub $E$!
 *Note.* This is an example of a
  [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction). We
  assume something we want to show is false, and by demonstrating that
- it leads to a contradiction with known facts, reason backwards.
+ it leads to a contradiction with known facts, reason backwards to
+ conclue that it cannot be true.
 
 ---
 
@@ -328,17 +329,15 @@ This is not a fully rigorous proof, but I hope a plausible one.
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
-All this work with triangles will pay off with
-some beautiful insights into minimal networks for an arbitary number
-of cities!
-Remarkably, solving the apparently simple case of the equilateral
-triangle tells us what a train network looks like for an arbitrary
-number of cities.
-As advertised above, one of the key results is as follows:
+All this work with triangles pays off with a powerful result about
+minimal networks for *any* number of cities:
 
 <span style="padding-left: 20px; display:block">
 In a minimal network, all hubs have three incoming legs separated by angles of $120^\circ$.
 </span>
+
+The argument is beautiful and simple, though like Exercise 5, it
+involves a proof by contradiction.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
