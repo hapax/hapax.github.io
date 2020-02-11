@@ -66,16 +66,20 @@ The three-town train network is already surprising.
 The simplest possibility, the triangular network, is not minimal, and
 instead, we should place a new station $D$ somewhere in the middle.
 The best place to put it is called the *Fermat* or *Torricelli point*,
-and if you are really interested, check out the appendix on <a
+and if you are very keen, check out the appendix on <a
 href="#sec-A">Fermat points</a>.
-But for the rest of the post, we will not worry too much about where
-precisely it goes.
+But for the rest of the post, we just going to think about *when* it
+goes in the middle, rather than precisely *where* it goes.
+This saves us some hard trigonometry!
+But we can determine the position for an important special case: the
+equilateral triangle.
 
 ## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
 The first and most important case is when our three towns lie at the
 corners of an equilateral triangle.
-Let's say the distance between each town is $d$.
+This is 
+Call the distance between towns $d$.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
