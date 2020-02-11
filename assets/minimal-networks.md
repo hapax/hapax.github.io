@@ -139,7 +139,7 @@ right.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner4.png" width="40%"/>
+    ="/images/posts/steiner4.png" width="35%"/>
 		    <figcaption><i>Figure 4. Length as a function of wiggle
     $x$ away from the axis.</i></figcaption>
 	</div>
@@ -149,6 +149,26 @@ In Figure 4, we have drawn two possibilities for an even length
 function $L(x)$.
 It can either be a *minimum* at the point of symmetry $x = 0$, or a
 *maximum*. A function which is even around $x= 0$ has no other choice!
+But it's clear from Figure 5 that if we make $x$ very large, the
+length will get very large as well.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner5.png" width="40%"/>
+		    <figcaption><i>Figure 5. The trident gets long for large $x$.</i></figcaption>
+	</div>
+	</figure>
+
+This suggests that $L$ is a *minimum* and not a *maximum* at $x=
+0$. If it was a maximum, then length would get smaller at large $x$!
+
+---
+
+*Exercise 3 (global vs local).* Although an even function must have a
+ *local* maximum or minimum at $x=0$, it is possible that the graph has
+ more wobbles
+
+---
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
