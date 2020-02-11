@@ -76,7 +76,7 @@ This will save us some hard trigonometry!
 Our first and only exception will be an important special case: the
 equilateral triangle.
 
-## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
 So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
@@ -230,13 +230,13 @@ Any time we add a hub, it will have three spokes separated by equal
 angles.
 To see why, read on!
 
-## 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
+### 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
 
 We are now going to move beyond equilateral triangles, but in a 
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
-## 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
+### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
 ## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
