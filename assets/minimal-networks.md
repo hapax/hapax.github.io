@@ -403,6 +403,13 @@ Once again, we have a contradiction!
 
 ---
 
+Now, strictly speaking, we can have hubs with only two incoming edges,
+separated by $180^\circ$.
+But such a hub is always unnecessary, since all it does is sit on a
+straight line.
+In real life, hubs do cost some money (even if it is dramatically less
+than spokes) so we will never build these unnecessary hubs!
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
