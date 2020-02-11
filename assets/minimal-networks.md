@@ -153,19 +153,47 @@ length will get very large as well.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner5.png" width="50%"/>
+    ="/images/posts/steiner5.png" width="60%"/>
 		    <figcaption><i>Figure 5. The trident gets long for large $x$.</i></figcaption>
 	</div>
 	</figure>
 
 This suggests that $L$ is a *minimum* and not a *maximum* at $x=
-0$. If it was a maximum, then length would get smaller at large $x$!
+0$, so the top graph in Figure 4 is the correct one.
+If it was a maximum, then length would get smaller at large $x$!
 
 ---
 
-*Exercise 3 (global vs local).* Although an even function must have a
- *local* maximum or minimum at $x=0$, it is possible that the graph has
- more wobbles
+*Exercise 3 (global vs local).* Although this argument is plausible,
+ it doesn't rule out the possibility that $x=0$ is actually a maximum,
+ with the true minimum at $\pm x_\text{min}$, before length increases
+ again as $|x|$ gets larger.
+ If you are worried, you can check explicitly this doesn't happen!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner6.png" width="40%"/>
+		    <figcaption><i>Figure 4. Calculating the exact network length.</i></figcaption>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(a) Show that, for the triangle in Figure 6, the length of the network is
+</span>
+
+$$
+L(x) = L_1 + L_2 + L_3 = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
+\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
+$$
+
+<span style="padding-left: 20px; display:block">
+*Note.* We are now dealing with a triangle of side length $2d$, since
+it makes the algebra a bit neater.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Choose $d=1$ for simplicity.
+</span>
 
 ---
 
