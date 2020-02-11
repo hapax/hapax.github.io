@@ -292,7 +292,7 @@ network simply removes the corresponding leg of the trident (Figure 10).
     <div style="text-align:center"><img src
     ="/images/posts/steiner10.png" width="40%"/>
 		    <figcaption><i>Figure 10. Removing a corner city removes a
-    leg from the trident.</i></figcaption>
+    leg from the equilateral trident.</i></figcaption>
 	</div>
 	</figure>
 
