@@ -265,7 +265,7 @@ sides of the triangle.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner9.png" width="45%"/>
-		    <figcaption><i>Figure 9. At some angle, the trident
+		    <figcaption><i>Figure 9. At some critical angle, the trident
     network becomes a triangular one.</i></figcaption>
 	</div>
 	</figure>
@@ -297,7 +297,8 @@ network simply removes the corresponding leg of the trident (Figure 10).
 	</div>
 	</figure>
 
-I'll let you explore why.
+I'll let you explore why we only remove a leg --- rather than adding a
+whole new hub --- in the next problem.
 
 ---
 
@@ -315,6 +316,8 @@ cannot find such a hub $E$!
  it leads to a contradiction with known facts, reason backwards.
 
 ---
+
+
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
