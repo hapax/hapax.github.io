@@ -22,9 +22,10 @@ by rail alone.
 A simple connected train network is shown below.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/posts/steiner1.png"/>
-		    <figcaption><i>A simple rail network connecting *A*, *B*,
-    and *C*..</i></figcaption>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner1.png" width="80%"/>
+		    <figcaption><i>A simple rail network connecting A, B,
+    and C..</i></figcaption>
 	</div>
 	</figure>
 	
