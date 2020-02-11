@@ -102,7 +102,7 @@ $$
 L_{Y} = \frac{3\sqrt{3}}{2}d.
 $$
 
-Since $\sqrt{3}/2 \approx 0.87 < 1$, the trident is indeed shorter
+Since $3\sqrt{3}/2 \approx 2.6 < 3$, the trident is indeed shorter
 than the triangle.
 
 *Hint.* To determine the length of a trident leg, the gray triangle in
