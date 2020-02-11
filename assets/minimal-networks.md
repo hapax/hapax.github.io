@@ -96,7 +96,7 @@ trigonometry.
 ---
 
 *Exercise 2 (equilateral trident).* Show that the length of the
-trident network, with a hub right in the middle of the triangle, is
+trident network, with a hub in the centre of the triangle, is
 
 $$
 L_{\text{Y}} = \frac{3\sqrt{3}}{2}d.
@@ -126,8 +126,21 @@ axis of symmetry, drawn as a dark blue line in Figure 3.
 	</div>
 	</figure>
 
-As we wiggle the hub, left or right of the axis, the total length of
+As we wiggle the hub left or right of the axis, the total length of
 the network (the lengths of the light blue legs) will change.
+But symmetry places strong constraints on how it changes.
+In particular, if we graph length $L$ as a function of much we have
+shifted $D$ away from the axis, we will find it is *even*.
+If we shift to the left a distance $x$, the length is the same as
+shifting to the right a distance $x$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner3.png" width="40%"/>
+		    <figcaption><i>Figure 4. Length as a function of wiggle
+    around the axis.</i></figcaption>
+	</div>
+	</figure>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
