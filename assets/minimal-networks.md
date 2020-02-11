@@ -99,7 +99,7 @@ trigonometry.
 trident network, with a hub right in the middle of the triangle, is
 
 $$
-L_{Y} = \frac{3\sqrt{3}}{2}d.
+L_{\text{Y}} = \frac{3\sqrt{3}}{2}d.
 $$
 
 Since $3\sqrt{3}/2 \approx 2.6 < 3$, the trident is indeed shorter
