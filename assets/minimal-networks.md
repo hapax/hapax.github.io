@@ -159,7 +159,7 @@ length will get very large as well.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner5.png" width="60%"/>
+    ="/images/posts/steiner5.png" width=70%"/>
 		    <figcaption><i>Figure 5. The trident gets long for large $x$.</i></figcaption>
 	</div>
 	</figure>
