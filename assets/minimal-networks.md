@@ -328,6 +328,13 @@ This is not a fully rigorous proof, but I hope a plausible one.
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
+As advertised above, all this work with triangles will pay off with
+some beautiful insights into minimal networks for an arbitary number
+of cities!
+Remarkably, solving the apparently simple case of the equilateral
+triangle tells us what a train network looks like for an arbitrary
+number of cities.
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
