@@ -340,16 +340,19 @@ By "hub", we mean an additional point on the network (like a train
 station) we added to reduce the total length.
 The argument is beautiful and simple, though like Exercise 5, it
 involves a proof by contradiction.
+Our first step is to show that it is impossible for a hub to have
+incoming edges separated by less than $120^\circ$.
 
 ---
 
 *Proof.*
-So, suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
+Suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
 minimal rail network.
-Our first step in proving our key result is to imagine there is a hub
-station $H$ with incoming rail lines separated by less than
+Also suppose there is a hub station $H$ with incoming rail lines
+separated by less than
 $\theta_\text{crit} = 120^\circ$, as on the left in Figure 11.
-We can build two new stations on these outgoing legs, $h_1$ and $h_2$.
+We can build two new stations on these outgoing legs, $h_1$ and $h_2$,
+which are (for simplicity) the same distance from $H$.
 
 <figure>
     <div style="text-align:center"><img src
@@ -359,7 +362,15 @@ We can build two new stations on these outgoing legs, $h_1$ and $h_2$.
 	</div>
 	</figure>
 
-Our work
+It's easy to see that every angle in this triangle is less than
+$120^\circ$, since the angles at $h_1$ and $h_2$ are at most
+$90^\circ$, and we've assume the angle at $H$ is less than
+$120^\circ$.
+Thus, from our work in the previous section, we know that the minimal
+network connecting $h_1$, $h_2$ and $H$ is not the triangle we have
+drawn, but a trident with another hub $h_3$ in the middle!
+This strictly decreases the length of the network (shown right in
+Figure 11), and hence, our original network must not have been minimal.
 
 ---
 
