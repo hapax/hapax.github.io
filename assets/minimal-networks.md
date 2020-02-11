@@ -254,6 +254,10 @@ should change smoothly as well.
 	</div>
 	</figure>
 
+The simple observation that the hub position changes smoothly is
+enough to deduce the very general feature of minimal networks we
+advertised above.
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
