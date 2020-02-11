@@ -63,7 +63,8 @@ and a trident-shaped network with a new station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
 
-*Hint.* You can measure the lines with a ruler and add up the lengths.
+*Hint.* You can measure lengths on the screen with a ruler. You may
+ feel like your grandparents, but it works!
 
 ---
 
