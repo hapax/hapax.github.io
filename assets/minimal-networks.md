@@ -337,8 +337,7 @@ number of cities.
 As advertised above, one of the key results is as follows:
 
 <span style="padding-left: 20px; display:block">
-Any hubs we add to the network have exactly three incoming legs,
-separated by angles of $120^\circ$.
+In a minimal network, all hubs have three incoming legs separated by angles of $120^\circ$.
 </span>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
