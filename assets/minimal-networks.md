@@ -217,8 +217,8 @@ This solves the minimal network problem on an equilateral triangle!
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner7.png" width="40%"/>
-		    <figcaption><i>Figure 7. The hub lies at the intersection
-    of red axes.</i></figcaption>
+		    <figcaption><i>Figure 7. The minimal network on an
+    equilateral triangle</i></figcaption>
 	</div>
 	</figure>
 
@@ -231,6 +231,8 @@ angles.
 To see why, read on!
 
 ## 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
+
+We are now going to move beyond equilateral triangles, but in a 
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
