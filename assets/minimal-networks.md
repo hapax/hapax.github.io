@@ -80,7 +80,7 @@ equilateral triangle.
 
 So, imagine that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
-The triangular network has total length $L_\text{\Delta} = 3d$.
+The triangular network has total length $L_\Delta = 3d$.
 
 <figure>
     <div style="text-align:center"><img src
