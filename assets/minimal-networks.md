@@ -249,7 +249,7 @@ The smooth changes are depicted as squiggly purple paths in Figure 8.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner8.png" width="40%"/>
+    ="/images/posts/steiner8.png" width="35%"/>
 		    <figcaption><i>Figure 8. The optimal hub position changes smoothly
     as we deform the corners.</i></figcaption>
 	</div>
