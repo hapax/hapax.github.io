@@ -164,7 +164,7 @@ If it was a maximum, then length would get smaller at large $x$!
 
 ---
 
-*Exercise 3 (global vs local).* Although this argument is plausible,
+*Exercise 3 (exact length).* Although this argument is plausible,
  it doesn't rule out the possibility that $x=0$ is actually a maximum,
  with the true minimum at $\pm x_\text{min}$, before length increases
  again as $|x|$ gets larger.
@@ -172,7 +172,7 @@ If it was a maximum, then length would get smaller at large $x$!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner6.png" width="40%"/>
+    ="/images/posts/steiner6.png" width="35%"/>
 		    <figcaption><i>Figure 4. Calculating the exact network length.</i></figcaption>
 	</div>
 	</figure>
@@ -182,17 +182,24 @@ If it was a maximum, then length would get smaller at large $x$!
 </span>
 
 $$
-L(x) = L_1 + L_2 + L_3 = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
+\begin{align*}
+L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
 \sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
+\end{align*}
 $$
 
 <span style="padding-left: 20px; display:block">
-*Note.* We are now dealing with a triangle of side length $2d$, since
-it makes the algebra a bit neater.
+*Note.* We choose side length $2d$ rather than $d$ to simplify the algebra.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Choose $d=1$ for simplicity.
+(b) Check this function is even, i.e. $L(x) = L(-x)$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) For simplicty, we can set $d= 1$.
+Plot the function for various values of $h$ between $0$ and its
+maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
 </span>
 
 ---
