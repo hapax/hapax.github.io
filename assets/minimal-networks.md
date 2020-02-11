@@ -17,6 +17,7 @@ date:  2020-02-010
    2. <a href="#sec-2-2">Deforming the equilateral</a>
    3. <a href="#sec-2-2">To $120^\circ$ and beyond</a>
 3. <a href="#sec-3">Graphs</a>
+   1. <a href="#sec-3-1">Trees</a>
 4. <a href="#sec-A">Fermat points</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -84,12 +85,9 @@ equilateral triangle.
 
 ## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
-The first and most important case is when our three towns lie at the
-corners of an equilateral triangle.
-This is 
-Call the distance between towns $d$.
-
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
+
+## 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
 ## A. Fermat points <a id="sec-A" name="sec-A"></a>
 
