@@ -15,7 +15,7 @@ date:  2020-02-010
 2. <a href="#sec-2">Triangles</a>
    1. <a href="#sec-2-1">Equilateral triangles</a>
    2. <a href="#sec-2-2">Deforming the triangle</a>
-   3. <a href="#sec-2-3">The Gilbert-Pollack conjecture*</a>
+   3. <a href="#sec-2-3">Hubs and spokes</a>
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
 4. <a href="#sec-A">Fermat points*</a>
@@ -317,7 +317,17 @@ cannot find such a hub $E$!
 
 ---
 
+So, we should be satisfied that for an angle of $\theta = 120^\circ$,
+the trident collapses into a triangular network.
+But could it happen earlier, with $\theta_\text{crit} < 120^\circ$?
+We can actually run Figure 9 in reverse to see this won't happen.
+Imagine that $A$ and $C$ move *up* along the purple curves from the
+initial angle of $120^\circ$.
+Then the hub $D$ should smoothly move up as well.
+Thus, we conclude that $\theta_\text{crit} = 120^\circ$.
+This is not a fully rigorous proof, but I hope a plausible one.
 
+### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
