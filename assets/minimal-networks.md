@@ -52,7 +52,13 @@ connectivity and layout of minimal networks.
 
 ---
 
-*Exercise 1.* In Figure 1, we have two networks: a triangular network,
+*Exercise 1.* What is the minimal network connecting two towns?
+
+<p align="center">
+  ⁂
+</p>
+
+*Exercise 2.* In Figure 1, we have two networks: a triangular network,
 and a trident-shaped network with a new station $D$ in the middle.
 Which is shorter?
 
@@ -63,7 +69,7 @@ Which is shorter?
 ## 2. Triangles <a id="sec-2" name="sec-2"></a>
 
 The three-town train network is already surprising.
-The simplest possibility, the triangular network, is not minimal, and
+The triangular network is the simplest possibility but it is not minimal, and
 instead, we should place a new station $D$ somewhere in the middle.
 The best place to put it is called the *Fermat* or *Torricelli point*,
 and if you are very keen, check out the appendix on <a
