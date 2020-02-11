@@ -303,7 +303,7 @@ whole new hub --- in the next problem.
 ---
 
 *Exercise 5 (cutting corners).* Suppose that in Figure 10, we can add
-a new hug $E$ which reduces the length of the network.
+a new hub $E$ which reduces the length of the network.
 Explain how adding $E$ could reduce the length of the network in
 Figure 7, and thereby improve our solution for the equilateral
 triangle.
