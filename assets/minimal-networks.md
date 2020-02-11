@@ -274,7 +274,8 @@ We picture this in Figure 9 above.
 In this diagram, $B$ remains fixed in position, but $A$ and $C$ slowly
 lower and open out the angle of the triangle, and the optimal hub $D$
 moves down as they do so.
-At some critical angle $\theta_\text{crit}$, it will coincide with $B$.
+At some critical angle $\theta_\text{crit}$ (coloured olive in Figure 9), it
+will coincide with $B$.
 The question is: what is the angle?
 
 It turns out this critical angle is $\theta_\text{crit} = 120^\circ$. Although we won't provide a watertight
