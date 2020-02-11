@@ -409,6 +409,8 @@ But such a hub is always unnecessary, since all it does is sit on a
 straight line.
 In real life, hubs do cost some money (even if it is dramatically less
 than spokes) so we will never build these unnecessary hubs!
+If we delete unnecessary hubs, we have the general result we
+advertised above.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
