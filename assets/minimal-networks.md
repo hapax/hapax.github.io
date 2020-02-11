@@ -297,6 +297,25 @@ network simply removes the corresponding leg of the trident (Figure 10).
 	</div>
 	</figure>
 
+I'll let you explore why.
+
+---
+
+*Exercise 5 (cutting corners).* Suppose that in Figure 10, we can add
+a new hug $E$ which reduces the length of the network.
+Explain how adding $E$ could reduce the length of the network in
+Figure 7, and thereby improve our solution for the equilateral
+triangle.
+Since we have already argued that Figure 7 is minimal, we clearly
+cannot find such a hub $E$!
+
+*Note.* This is an example of a
+ [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction). We
+ assume something we want to show is false, and by demonstrating that
+ it leads to a contradiction with known facts, reason backwards.
+
+---
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
