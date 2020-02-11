@@ -174,8 +174,7 @@ If it was a maximum, then length would get smaller at large $x$!
  it doesn't rule out the possibility that $x=0$ is actually a maximum,
  with the true minimum at some symmetrically spaced points $\pm
  x_\text{min}$, before length increases again as $|x|$ gets larger.
- If you are worried, you can calculate the length exactly and plot it
- for some different values.
+ If you are worried, you can calculate the length exactly and check!
 
 <figure>
     <div style="text-align:center"><img src
