@@ -285,7 +285,16 @@ fourth city fixed in place.
 Clearly, the solution in Figure 7 is still optimal, since if adding
 more hubs reduced the total length, we could add more hubs in our
 original three city problem to reduce length!
-If I now remove any of the corner cities $A$, $B$ or $C$, I remove the 
+If I now remove any of the corner cities $A$, $B$ or $C$, the optimal
+network simply removes the corresponding leg of the trident (Figure 10).
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner10.png" width="40%"/>
+		    <figcaption><i>Figure 10. Removing a corner city removes a
+    leg from the trident.</i></figcaption>
+	</div>
+	</figure>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
