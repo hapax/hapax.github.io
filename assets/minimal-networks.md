@@ -279,10 +279,19 @@ The question is: what is the angle?
 
 It turns out to be $120^\circ$. Although we won't provide a watertight
 proof, we can give a plausibility argument.
+Let's return to the equilateral triangle.
+Instead of adding a hub in the middle, suppose that $D$ is in fact a
+fourth city fixed in place.
+Clearly, the solution in Figure 7 is still optimal, since if adding
+more hubs reduced the total length, we could add more hubs in our
+original three city problem to reduce length!
+If I now remove any of the corner cities $A$, $B$ or $C$, I remove the 
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
+
+## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
 ## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
