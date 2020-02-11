@@ -114,8 +114,6 @@ $$
 Since $\sqrt{3} \approx 1.7 < 2$, the trident is indeed shorter
 than the triangle.
 
-*Hint.* The gray triangle in Figure 2 is useful.
-
 ---
 
 We are going to argue not only that the trident network is better than
