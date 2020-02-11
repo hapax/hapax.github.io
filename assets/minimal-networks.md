@@ -35,20 +35,20 @@ Two simple examples of connected networks are shown below.
 	</div>
 	</figure>
 	
-Building railway is very expensive, since we not only need to design and
+Building railways is very expensive, since we not only need to design and
 build the rail itself, but acquire the land beneath it.
 In contrast, stations are cheap: we just slap together some sidings, a
 platform, and a bench or two, and we're done.
-Our objective is to make the total length of the rail network as
-short as possible, adding extra stations if they help us do this.
-This results in the *minimal network* connecting $A$, $B$ and $C$.
+If we want to minimise cost, we should make the total length of the
+rail network as short as possible, adding extra stations if they
+assist in this goal.
+The result is the *minimal network* connecting $A$, $B$ and $C$.
 
-We can consider the same problem for $n$ stations, and seek minimal
-networks of smallest total length that allow us to travel from a
-station to any of the others.
-Although finding the minimal network exactly is very difficult, we can
-use simple reasoning to learn some important features of the
-connectivity and layout of minimal networks.
+We can consider the same problem for $n$ stations, and seek rail
+networks of smallest total length.
+Although finding the exact solution is difficult in
+general, we can use simple reasoning to learn some important features
+of the connectivity and layout of these minimal networks.
 
 ---
 
@@ -58,12 +58,12 @@ connectivity and layout of minimal networks.
   ⁂
 </p>
 
-*Exercise 2.* In Figure 1, we have two networks: a triangular network,
-and a trident-shaped network with a new station $D$ in the middle.
+*Exercise 2.* In Figure 1, we have two networks connecting the same towns: a triangular network,
+and a trident-shaped network with a hub station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
 
-*Hint.* You can measure lengths on the screen with a ruler. You may
+*Hint.* Measure lengths on the screen with a ruler. You may
  feel like you've turned into your grandparents, but it works!
 
 ---
