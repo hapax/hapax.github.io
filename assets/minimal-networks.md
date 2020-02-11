@@ -2,18 +2,21 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The topology of minimal networks"
+title:  "A minimal introduction to minimal networks"
 categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-010
 ---
 
-**February 10, 2020.** *An elementary introduction to the topology of
-  minimal networks.*
+**February 10, 2020.** **
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Equilateral triangle</a>
+2. <a href="#sec-2">Triangles</a>
+   1. <a href="#sec-2-1">Equilateral triangles</a>
+   2. <a href="#sec-2-2">Deforming the equilateral</a>
+   3. <a href="#sec-2-2">Deforming the equilateral</a>
+A. Fermat points
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -26,7 +29,7 @@ A simple example of a connected network is shown below.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner1.png" width="45%"/>
-		    <figcaption><i>A simple rail network connecting A, B,
+		    <figcaption><i>Figure 1: A simple rail network connecting A, B,
     and C.</i></figcaption>
 	</div>
 	</figure>
@@ -35,24 +38,39 @@ Building railway is very expensive, since we not only need to design and
 build the rail itself, but acquire the land beneath it.
 In contrast, stations are cheap: we just slap together some sidings, a
 platform, and a bench or two, and we're done.
-Our goal is therefore to *make the total length of the rail network as
-short as possible*, adding extra stations if need be to reduce this
-length.
-This is called a *minimal network*.
+Our objective is to make the total length of the rail network as
+short as possible, adding extra stations if they help us do this.
+This results in the *minimal network* connecting $A$, $B$ and $C$.
 
-Will our triangular rail network above be minimal?
-It turns out that, to minimise the total amount of rail, we should
-build a new station $D$ in between and connect each town to it.
-Our goal in this post will be to see why, and how this generalises to
-multiple stations.
-Although the exact positions are hard to compute in general, we will
-learn some simple facts about the *topology* and connectivity
-structure of minimal networks.
+We can consider the same problem for $n$ stations, and seek minimal
+networks of smallest total length that allow us to travel from a
+station to any of the others.
+Although finding the minimal network exactly is very difficult, we can
+use simple reasoning to learn some important features of the
+connectivity and layout of minimal networks.
 
-## 2. Equilateral triangle <a id="sec-2" name="sec-2"></a>
+---
 
-Our first and perhaps most important case is when the towns lie at the
+*Exercise 1.* In Figure 1, we have two networks: a triangular network,
+and a "star-shaped" network with a new station $D$ in the middle.
+Which is shorter?
+
+*Hint.* No need for anything fancy: you can measure the lines on the
+ screen with a ruler and add them up!
+
+---
+
+## 2. Triangles <a id="sec-2" name="sec-2"></a>
+
+The train network from the Introduction is already surprising.
+
+## 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
+
+The first and most important case is when our three towns lie at the
 corners of an equilateral triangle.
+Let's say the distance between each town is $d$.
+
+## A. Fermat points <a id="sec-A" name="sec-A"></a>
 
 #### References
 
