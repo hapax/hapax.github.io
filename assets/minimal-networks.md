@@ -114,7 +114,9 @@ We are going to argue not only that the trident network is better than
 the triangle network, but that the best place to put the hub station
 $D$ is right in the centre, using a simple line of symmetry-based reasoning.
 Let's place $D$ anywhere we like, but now draw one of the *axes of
-symmetry* of the triangle (the red line in Figure 2).
+symmetry* of the triangle, represented by the red line in Figure 3.
+We are going to move the hub side to side in a normal direction to the
+axis of symmetry, drawn as a dar blue line in Figure 3.
 
 <figure>
     <div style="text-align:center"><img src
