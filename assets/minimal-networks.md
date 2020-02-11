@@ -13,6 +13,7 @@ date:  2020-02-010
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
+2. <a href="#sec-2">Equilateral triangle</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -47,6 +48,11 @@ multiple stations.
 Although the exact positions are hard to compute in general, we will
 learn some simple facts about the *topology* and connectivity
 structure of minimal networks.
+
+## 2. Equilateral triangle <a id="sec-2" name="sec-2"></a>
+
+Our first and perhaps most important case is when the towns lie at the
+corners of an equilateral triangle.
 
 #### References
 
