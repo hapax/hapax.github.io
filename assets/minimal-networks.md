@@ -7,8 +7,8 @@ categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-11
 ---
 
-**February 11, 2020.** *I give an elementary introduction to the
-  topology and geometry of minimal networks.*
+**February 11, 2020.** *An elementary introduction to the topology and
+  geometry of minimal networks. First two sections are finished.*
 
 ### Contents
 
