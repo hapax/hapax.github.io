@@ -30,19 +30,19 @@ Two simple examples of connected networks are shown below.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner1.png" width="45%"/>
-		    <figcaption><i>Figure 1: A simple rail network connecting A, B,
-    and C.</i></figcaption>
+		    <figcaption><i>Figure 1: Rail networks connecting A, B,
+    and C. On the left is a triangular network, and on the right the "trident".</i></figcaption>
 	</div>
 	</figure>
 	
-Building railways is very expensive, since we not only need to design and
+Building railways is expensive, since we not only need to design and
 build the rail itself, but acquire the land beneath it.
 In contrast, stations are cheap: we just slap together some sidings, a
 platform, and a bench or two, and we're done.
-If we want to minimise cost, we should make the total length of the
-rail network as short as possible, adding extra stations if they
-assist in this goal.
-The result is the *minimal network* connecting $A$, $B$ and $C$.
+If we want to minimise cost, we should therefore make the total length
+of the rail network as short as possible, adding extra stations if they
+assist us in this goal.
+The resulting layout is called the *minimal network* connecting $A$, $B$ and $C$.
 
 We can consider the same problem for $n$ stations, and seek rail
 networks of smallest total length.
@@ -74,10 +74,8 @@ The three-town problem is already surprising.
 The simplest possibility is the triangular network, but it is not
 minimal; to minimise length, a trident-shaped network with a new
 station $D$ is optimal.
-The best place to put the hub station is called the *Torricelli* or
-*Fermat point*, and if you are keen, you can learn how to
+The best place to put the hub station is called the *Fermat point*, and if you are keen, you can learn how to
 determine this point in the <a href="#sec-A">appendix</a>.
-
 But for the rest of the post, we will only worry about *when* we
 should build a hub, rather than *where* it goes exactly.
 This will save us some hard trigonometry!
