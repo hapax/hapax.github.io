@@ -261,6 +261,15 @@ But for triangles which are very far from equilateral, you might
 imagine that the hub actually *intersects* one of the corners, and our
 trident network becomes a simpler triangular network, formed from two
 sides of the triangle.
+We picture this in Figure 9.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner9.png" width="35%"/>
+		    <figcaption><i>Figure 9. At some angle, the trident
+    network becomes a triangular one.</i></figcaption>
+	</div>
+	</figure>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
