@@ -15,7 +15,7 @@ date:  2020-02-010
 2. <a href="#sec-2">Triangles</a>
    1. <a href="#sec-2-1">Equilateral triangles</a>
    2. <a href="#sec-2-2">Deforming the equilateral</a>
-   3. <a href="#sec-2-2">Deforming the equilateral</a>
+   3. <a href="#sec-2-2">To $120^\circ$ and beyond</a>
 3. <a href="#sec-A">Fermat points</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -55,8 +55,7 @@ connectivity and layout of minimal networks.
 and a "star-shaped" network with a new station $D$ in the middle.
 Which is shorter?
 
-*Hint.* No need for anything fancy: you can measure the lines on the
- screen with a ruler and add them up!
+*Hint.* You can measure the lines with a ruler and add up the lengths.
 
 ---
 
