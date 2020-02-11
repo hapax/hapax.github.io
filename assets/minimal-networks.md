@@ -328,12 +328,18 @@ This is not a fully rigorous proof, but I hope a plausible one.
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
-As advertised above, all this work with triangles will pay off with
+All this work with triangles will pay off with
 some beautiful insights into minimal networks for an arbitary number
 of cities!
 Remarkably, solving the apparently simple case of the equilateral
 triangle tells us what a train network looks like for an arbitrary
 number of cities.
+As advertised above, one of the key results is as follows:
+
+<span style="padding-left: 20px; display:block">
+Any hubs we add to the network have exactly three incoming legs,
+separated by angles of $120^\circ$.
+</span>
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
