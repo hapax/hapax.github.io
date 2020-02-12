@@ -504,7 +504,8 @@ An example is shown in Figure 14.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner14.png" width="35%"/>
-		    <figcaption><i>Figure 14. A tree network with eight nodes.</i></figcaption>
+		    <figcaption><i>Figure 14. A tree network, with unique
+    paths between each node.</i></figcaption>
 	</div>
 	</figure>
 
