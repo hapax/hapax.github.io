@@ -608,8 +608,8 @@ $$
 
 The total number of hubs in a minimal network can be two fewer than
 the number of fixed nodes, but no more.
-This is consistent with the trident networks we looked at in depth
-earlier, where $n = 3$ and $h = 1 = n - 2$.
+This is consistent with the trident networks we looked at earlier,
+where $n = 3$ and $h = 1 = n - 2$.
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
