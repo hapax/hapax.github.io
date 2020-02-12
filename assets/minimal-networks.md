@@ -531,7 +531,7 @@ Since there is a unique path between two nodes in a tree, this is well-defined.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner15.png" width="35%"/>
+    ="/images/posts/steiner15.png" width="80%"/>
 		    <figcaption><i>Figure 15. Finding leaves in a tree.</i></figcaption>
 	</div>
 	</figure>
