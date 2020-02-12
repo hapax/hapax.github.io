@@ -391,8 +391,8 @@ How do we know that there are three, separated by exactly $120^\circ$?
 This is very simple.
 Suppose two lines enter $H$, separated by more than $120^\circ$.
 Then there can only be two incoming edges, joining $H$ to some cities
-$A$, and $B$, since any additional lines would have to be closer than
-$120^\circ$ to one of these lines, which contradicts the result we
+$A$ and $B$, since any additional lines would have to be closer than
+$120^\circ$ to one of these lines, given the result we
 just proved.
 So, we have the situation depicted on the left of Figure 12:
 
@@ -420,7 +420,6 @@ than spokes) so we will never build unnecessary ones!
 If we always delete these useless hubs, we have the general result advertised
 above, namely that any hub in a minimal network has three equally
 spaced spokes.
-Yay!
 
 ---
 
@@ -475,7 +474,6 @@ Figure 13 shows why.
 
 Suppose $A$ and $B$ are connected by two paths, labelled
 $1$ and $2$.
-We suppose these are the *only* paths connecting $A$ and $B$.
 The green blob to the left is all the nodes whose paths to $B$ go
 through $A$ first, and similarly, nodes on the right connect to $A$
 through $B$.
@@ -509,7 +507,10 @@ An example is shown in Figure 14.
 	</div>
 	</figure>
 
-Our reasoning shows that minimal networks are always trees.
+Our reasoning shows that minimal networks are trees.
+The number of nodes in the network is $N = n + h$, where $n$ is the
+number of fixed nodes and $h$ counts the hubs we add to make the
+network as short as possible.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
