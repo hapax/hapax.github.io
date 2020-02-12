@@ -8,7 +8,7 @@ date:  2020-02-11
 ---
 
 **February 11, 2020.** *An elementary and self-contained introduction
-  to minimal networks. (Finished ≥ 3.2.)*
+  to minimal networks. (Finished ≤ 3.2.)*
 
 ### Contents
 
