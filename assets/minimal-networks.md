@@ -579,9 +579,8 @@ for trees in general.
 If we combine our geometric results from <a
 href="#sec-2-3">earlier</a> with our result about trees, we can
 constrain the layout of minimal networks further.
-Recall that each of the $h$ hubs (once we delete the useless ones) has exactly three
-incoming edges.
-Each of the $n$ fixed nodes has at least one incoming edge to ensure
+Recall that each of the $h$ hubs (once we delete the useless ones) has exactly three edges.
+Each of the $n$ fixed nodes has at least one edge to ensure
 it is connected to the rest of the network.
 Thus, the total number of edges $E$ obeys the inequality
 
@@ -606,10 +605,8 @@ $$
 h \leq n - 2.
 $$
 
-The total number of hubs in a minimal network can be two fewer than
-the number of fixed nodes, but no more.
-This is consistent with the trident networks we looked at earlier,
-where $n = 3$ and $h = 1 = n - 2$.
+The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
+precisely one edge.
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
