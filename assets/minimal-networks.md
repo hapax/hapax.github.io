@@ -7,8 +7,8 @@ categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-11
 ---
 
-**February 11, 2020.** *An elementary introduction to the topology and
-  geometry of minimal networks. (First two sections finished.)*
+**February 11, 2020.** *An elementary and self-contained introduction
+  to minimal networks. (Unfinished.)*
 
 ### Contents
 
@@ -20,7 +20,11 @@ date:  2020-02-11
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
    2. <a href="#sec-3-2">Bounding hubs</a>
-4. <a href="#sec-A">Fermat points*</a>
+4. <a href="#sec-4">Algorithms</a>
+   1. <a href="#sec-4-1">Computational hardness</a>
+   2. <a href="#sec-4-2">Spanning trees vs minimal networks</a>
+   3. <a href="#sec-4-3">Soap bubbles and quantum computers</a>
+5. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -608,7 +612,13 @@ $$
 The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 
-## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
+## 4. Algorithms <a id="sec-4" name="sec-4"></a>
+
+### 4.1. Computational hardness <a id="sec-4-1" name="sec-4-1"></a>
+
+### 4.2. Spanning trees vs minimal networks <a id="sec-4-1" name="sec-4-1"></a>
+
+### 4.3. Soap bubbles and quantum computers <a id="sec-4-2" name="sec-4-2"></a>
 
 ## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
