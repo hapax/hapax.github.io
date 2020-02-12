@@ -503,7 +503,7 @@ An example is shown in Figure 14.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner14.png" width="70%"/>
+    ="/images/posts/steiner14.png" width="35%"/>
 		    <figcaption><i>Figure 14. A tree network with eight nodes.</i></figcaption>
 	</div>
 	</figure>
