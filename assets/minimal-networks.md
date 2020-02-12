@@ -599,7 +599,7 @@ vertex once.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner16.png" width="80%"/>
+    ="/images/posts/steiner16.png" width="40%"/>
 		    <figcaption><i>Figure 16. Counting edges, both in symbols
     and diagramatically.</i></figcaption>
 	</div>
@@ -633,7 +633,7 @@ The leaves of the graph are exactly the fixed nodes.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner17.png" width="80%"/>
+    ="/images/posts/steiner17.png" width="75%"/>
 		    <figcaption><i>Figure 17. Regular polygons.</i></figcaption>
 	</div>
 	</figure>
