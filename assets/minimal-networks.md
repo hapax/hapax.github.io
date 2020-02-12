@@ -93,7 +93,7 @@ equilateral triangle.
 
 Suppose that the towns $A$, $B$ and $C$ are now equally spaced,
 and sit on the corners of an equilateral triangle of side length $d$.
-The triangular network has total length $L_\Delta = 2d$.
+The triangular network has total length $L_\Lambda = 2d$.
 
 <figure>
     <div style="text-align:center"><img src
