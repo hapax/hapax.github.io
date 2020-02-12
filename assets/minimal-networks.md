@@ -511,6 +511,10 @@ Our reasoning shows that minimal networks are trees.
 The number of nodes in the network is $N = n + h$, where $n$ is the
 number of fixed nodes and $h$ counts the hubs we add to make the
 network as short as possible.
+For instance, in Figure 14 we have $N = 8$.
+The number of edges is $E = 7$, which is $N - 1$, and is no
+coincidence.
+For *any* tree, $E = N - 1$.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
