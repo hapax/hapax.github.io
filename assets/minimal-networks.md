@@ -630,26 +630,6 @@ The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 The leaves of the graph are exactly the fixed nodes.
 
-Knowing the maximum number of hubs is useful in real life.
-Like rail vs stations, in many real-world applications edges are more
-expensive than nodes.
-Another example is *telecommunications*.
-For instance, below we have a real-world fibre optics network in
-Austria, from
-[Leitner et al. (2014)](https://homepage.univie.ac.at/ivana.ljubic/research/STP/realworld-stp-report-short.pdf).
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/telecom.png" width="40%"/>
-	</div>
-	</figure>
-
-If we want to connect all the houses in a city by telephone, or
-internet, etc, we usually need to lay cable, which like laying rail is
-expensive and time-consuming.
-But hubs cost money, and we can budget for the worst-case scenario by
-setting $h = n - 2$.
-
 ---
 
 *Exercise 10 (harder polygons).* We can use what we know to find
