@@ -470,8 +470,8 @@ Figure 13 shows why.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner13.png" width="70%"/>
-		    <figcaption><i>Figure 13. Pruning an unnecessary path
-    cannot disconnect a network.</i></figcaption>
+		    <figcaption><i>Figure 13. Pruning an unnecessary path,
+    e.g. path 2, cannot disconnect a network.</i></figcaption>
 	</div>
 	</figure>
 
