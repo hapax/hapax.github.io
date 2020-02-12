@@ -539,9 +539,6 @@ Since there is a unique path between two nodes in a tree, this is well-defined.
 <span style="padding-left: 20px; display:block">
 (a) Consider the node or nodes furthest from our selected node (orange
 nodes in Figure 15). Argue that these must be leaves.
-</span>
-
-<span style="padding-left: 20px; display:block">
 *Hint.* If they are not, what are the distances of the neighbours?
 </span>
 
