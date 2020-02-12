@@ -576,6 +576,10 @@ for trees in general.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
+If we combine our geometric results from <a
+href="#sec-2-3">earlier</a> with our result about trees, we can
+constrain the layout of minimal networks even further.
+
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
 ## A. Fermat points* <a id="sec-A" name="sec-A"></a>
