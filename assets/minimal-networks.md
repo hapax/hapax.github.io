@@ -485,8 +485,8 @@ If two nodes are in the same blob, such as $C$ and $E$, then pruning
 path $2$ has no effect on whether they are connected.
 If two are in different blobs, like $C$ and $D$, they can still reach
 each other using path $1$.
-So in general, pruning redundant paths never changes whether cities
-can connect.
+So, pruning redundant paths between $A$ and $B$ does not affect
+whether other nodes connect.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
