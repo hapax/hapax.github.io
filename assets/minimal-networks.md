@@ -586,19 +586,27 @@ edges.
 Thus, the total number of edges $E$ obeys the inequality
 
 $$
-\frac{1}{2}\left(n + 3h\right) \leq E \leq \frac{1}{2}\left(2n + 3h\right).
+\frac{1}{2}\left(n + 3h\right) \leq E.
 $$
 
 The factor of $2$ is because we are counting edges twice in the
 leftmost and rightmost expression, since each end of an edge is
 associated with a vertex, and we are counting all the vertices.
-
-From the previous section, we know that $E = N -1 = n + k -1$.
+From the previous section, we know that $E = N - 1$.
 This gives
 
 $$
-\frac{1}{2}\left(n + 3h\right) \leq n +h - 1 \leq \frac{1}{2}\left(2n + 3h\right).
+\frac{1}{2}\left(n + 3h\right) \leq N - 1 = n +h - 1.
 $$
+
+After some algebra, we find that
+
+$$
+h \leq n - 2.
+$$
+
+The total number of hubs in a minimal network is at
+most two less than the number of fixed nodes.
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
