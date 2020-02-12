@@ -458,7 +458,10 @@ If the network is connected, then the answer is at least one.
 Otherwise it's not connected after all!
 But if the network is *minimal*, the answer is *precisely* one!
 If there is more than one way to get from $A$ to $B$, the network has
-unncessary edges and can be pruned.
+unnecessary edges and can be pruned.
+
+Perhaps we should worry that paths between other cities will be
+destroyed if we try to prune the paths from $A$ to $B$.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
