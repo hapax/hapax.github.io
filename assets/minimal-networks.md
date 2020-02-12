@@ -635,7 +635,8 @@ Like rail vs stations, in many real-world applications edges are more
 expensive than nodes.
 Another example is *telecommunications*.
 For instance, below we have a real-world fibre optics network in
-Austria, from [Leitner et al. (2014)](https://homepage.univie.ac.at/ivana.ljubic/research/STP/realworld-stp-report-short.pdf).
+Austria, from
+[Leitner et al. (2014)](https://homepage.univie.ac.at/ivana.ljubic/research/STP/realworld-stp-report-short.pdf).
 
 <figure>
     <div style="text-align:center"><img src
