@@ -664,8 +664,6 @@ hexagon with centre, specifying the exact position of hubs.
 
 ### 3.3. A rural railway <a id="sec-3-3" name="sec-3-3"></a>
 
----
-
 ## 4. Algorithms <a id="sec-4" name="sec-4"></a>
 
 ### 4.1. Computational hardness <a id="sec-4-1" name="sec-4-1"></a>
