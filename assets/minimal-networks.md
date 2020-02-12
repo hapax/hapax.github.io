@@ -451,8 +451,8 @@ incoming edges, and three only in very special circumstances.
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
-In this section, we will learn more about the "topology" of
-minimal networks, that is, their connectivity and layout.
+In this section, we will learn more about the connectivity and layout
+of minimal networks.
 The geometric facts we learned in the last section will definitely come in handy!
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
