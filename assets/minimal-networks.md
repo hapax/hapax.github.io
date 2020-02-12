@@ -488,6 +488,11 @@ each other using path $1$.
 So, pruning redundant paths between $A$ and $B$ does not affect
 whether other nodes connect.
 
+Suppose we have completely pruned the network so that there is a
+single path between any two nodes.
+The resulting network layout is called a *tree*, since it will have a
+sort of branching structure.
+
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
