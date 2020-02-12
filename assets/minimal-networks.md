@@ -556,6 +556,14 @@ The procedure for finding leaves is illustrated in Figure 15.
 
 ---
 
+We now know that every tree has a leaf.
+If we remove it, and the single edge connecting it to the rest of the
+graph, we decrease the number of nodes and edges by $1$:
+
+$$
+N \mapsto N - 1, \quad E \mapsto E - 1.
+$$
+
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
