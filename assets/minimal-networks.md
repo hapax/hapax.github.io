@@ -426,10 +426,15 @@ Yay!
 
 In this section, we will say a little more about the "topology" of
 minimal networks, that is, the connectivity and layout.
-But the geometric facts we discovered in the last section will be a
+But the geometric facts we learned in the last section will be a
 great help!
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
+
+In a minimal rail network, how many ways can I get from $A$ to $B$?
+If the network is connected, then the answer is "at least one".
+But if the network is *minimal*, the answer should be *precisely* one!
+The path between any two nodes in our network, $A$ and $B$, is unique.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
