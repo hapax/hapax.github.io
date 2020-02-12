@@ -611,6 +611,29 @@ $$
 
 The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
+The leaves of the graph are exactly the fixed nodes.
+
+---
+
+*Exercise 9 (regular polygons).* We can use what we know to find
+ minimal networks for some simple cases.
+
+<span style="padding-left: 20px; display:block">
+(a) Find the minimal networks connecting a square and a regular hexagon.
+</span>
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner15.png" width="80%"/>
+		    <figcaption><i>Figure 17. Regular polygons.</i></figcaption>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(b) Generalise your hexagon solution a 
+</span>
+
+---
 
 ## 4. Algorithms <a id="sec-4" name="sec-4"></a>
 
