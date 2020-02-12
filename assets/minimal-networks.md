@@ -422,6 +422,28 @@ above, namely that any hub in a minimal network has three equally
 spaced spokes.
 Yay!
 
+---
+
+*Exercise 6 (city ).* Our big result applies to hubs only --- the
+additional nodes in the network that we add to minimise total length.
+Repeating the arguments above, deduce the following properties for
+*fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
+
+<span style="padding-left: 20px; display:block">
+(a) No incoming edges can be separated by less than $120^\circ$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) The number of incoming edges is between $1$ and $3$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) There are only three edges precisely when the city lies at the
+centre of an equilateral triangle of cities.
+</span>
+
+---
+
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
 In this section, we will say a little more about the "topology" of
