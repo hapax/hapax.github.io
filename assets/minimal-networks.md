@@ -454,11 +454,9 @@ The geometric facts we learned in the last section will come in handy!
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
 In a minimal rail network, how many ways can I get from $A$ to $B$?
-If the network is connected, then the answer is "at least one".
-But if the network is *minimal*, the answer is: *precisely* one!
-If there is more than one way to get from $A$ to $B$, then the network
-has some unnecessary edges.
-Imagine that 
+If the network is connected, then the answer is at least one.
+Otherwise it's not connected after all!
+But if the network is *minimal*, the answer is *precisely* one!
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
