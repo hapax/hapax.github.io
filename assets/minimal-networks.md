@@ -496,9 +496,12 @@ or $2$.
 
 ---
 
-Suppose we have completely pruned the network so that there is a
-single path between any two nodes.
-The resulting network layout is called a *tree*.
+Once we have completely pruned the network, there is only a single
+path connecting any two nodes $A$ and $B$.
+Such a network is called a *tree* because of the way it branches.
+Our reasoning shows that minimal networks are always trees.
+
+
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
