@@ -459,10 +459,16 @@ Otherwise it's not connected after all!
 But if the network is *minimal*, the answer is *precisely* one!
 If there is more than one way to get from $A$ to $B$, the network has
 unnecessary edges and can be pruned.
+If $C$ and $D$ are any other nodes in the network, then pruning a
+redundant
 
-Perhaps we should worry that paths between other cities will be
-destroyed if we try to prune the paths from $A$ to $B$.
-But is this true?
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner13.png" width="80%"/>
+		    <figcaption><i>Figure 13. Pruning an unnecessary path
+    cannot disconnect a network.</i></figcaption>
+	</div>
+	</figure>
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
