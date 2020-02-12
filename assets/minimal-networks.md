@@ -645,7 +645,7 @@ hexagon with centre, specifying the exact position of hubs.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner17.png" width="75%"/>
+    ="/images/posts/steiner17.png" width="95%"/>
 		    <figcaption><i>Figure 17. Square, centred hexagon, pentagon.</i></figcaption>
 	</div>
 	</figure>
