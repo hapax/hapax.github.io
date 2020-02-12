@@ -442,11 +442,19 @@ Prove the following properties:
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) A city has three edges only if it lies at the centre of an equilateral triangle of cities.
+(c) A city has three edges only if it lies at the centre of an equilateral triangle of nodes.
 </span>
 
-The upshot is that the fixed nodes will in general have one or two
-incoming edges, and three only in very special circumstances.
+The upshot is that the fixed nodes can have from one to three edges,
+with three only in special circumstances.
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 6 (easy polygons).* Consider cities on the corners of a
+ regular $n$-gon. Show that for $n \geq 6$, the minimal network is
+ just the perimeter with one edge removed.
 
 ---
 
@@ -490,7 +498,7 @@ whether other nodes connect.
 
 ---
 
-*Exercise 7 (path pruning).* Generalise the argument above to account
+*Exercise 8 (path pruning).* Generalise the argument above to account
 for nodes that lie between $A$ and $B$.
 More precisely, these are nodes which can connect to either $A$ or $B$
 without passing through the other, and schematically lie on paths $1$
@@ -524,7 +532,7 @@ network theory, every tree has leaves.
 
 ---
 
-*Exercise 8 (trees and leaves).*
+*Exercise 9 (trees and leaves).*
 A *leaf* is a node with a single edge, e.g. the nodes $J$, $D$, $G$,
 and $I$ in Figure 14.
 Part (a) will show what we need, namely that every tree has a leaf,
@@ -627,25 +635,24 @@ For instance, if I want to connect
 
 ---
 
-*Exercise 9 (simple polygons).* We can use what we know to find
+*Exercise 10 (harder polygons).* We can use what we know to find
  minimal networks for some simple cases.
 
 <span style="padding-left: 20px; display:block">
 (a) Find the minimal networks connecting a square and a regular
-hexagon, specifying the exact position of hubs.
+hexagon with centre, specifying the exact position of hubs.
 </span>
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner17.png" width="75%"/>
-		    <figcaption><i>Figure 17. Regular polygons.</i></figcaption>
+		    <figcaption><i>Figure 17. Square, centred hexagon, pentagon.</i></figcaption>
 	</div>
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-(b) In general, finding minimal networks on a regular polygon is hard.
-	Rather than finding exact positions, sketch the layout and angles
-	for the minimal network connecting cities on a regular pentagon.
+(b) Sketch the layout and angles for the minimal network connecting
+cities on a regular pentagon. (You do not need to find the exact positions.)
 </span>
 
 ---
