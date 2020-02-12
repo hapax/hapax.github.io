@@ -561,10 +561,15 @@ Now counting from $I$, the most distance node is $J$, which is also a leaf.
 
 We now know that every tree has a leaf.
 If we remove it, and the single edge connecting it to the rest of the
-graph, we decrease the number of nodes and edges by $1$:
+graph, we decrease the number of nodes and edges by $1$, $N \to N- 1$
+and $E \to E - 1$.
+We keep doing this until we are down to a single node.
+This has no edges at all, and since we decrease $N$ by $N-1$ nodes, we
+must decrease $E$ by the same amount to reach $0$.
+Hence,
 
 $$
-N \mapsto N - 1, \quad E \mapsto E - 1.
+E = N - 1.
 $$
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
