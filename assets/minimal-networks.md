@@ -442,6 +442,8 @@ properties for *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
 </span>
 
 Prove these properties!
+The upshot is that the fixed notes will in general have one or two
+incoming edges, and three only in very special circumstances.
 
 ---
 
