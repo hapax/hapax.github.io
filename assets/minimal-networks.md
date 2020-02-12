@@ -337,7 +337,7 @@ This is not a fully rigorous proof, but I hope a plausible one.
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
-All this work with triangles pays off with a powerful result about
+All this work with triangles pays off with a powerful conclusion for
 minimal networks for *any* number of cities:
 
 <span style="padding-left: 20px; display:block">
