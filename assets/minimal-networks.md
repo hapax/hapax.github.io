@@ -8,7 +8,7 @@ date:  2020-02-11
 ---
 
 **February 11, 2020.** *An elementary and self-contained introduction
-  to minimal networks. (Unfinished.)*
+  to minimal networks. (Finished up to railway example.)*
 
 ### Contents
 
@@ -20,6 +20,7 @@ date:  2020-02-11
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
    2. <a href="#sec-3-2">Bounding hubs</a>
+   3. <a href="#sec-3-3">A rural railway</a>
 4. <a href="#sec-4">Algorithms</a>
    1. <a href="#sec-4-1">Computational hardness</a>
    2. <a href="#sec-4-2">Spanning trees vs minimal networks</a>
@@ -630,6 +631,14 @@ The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 The leaves of the graph are exactly the fixed nodes.
 
+Knowing the number of hubs (or the maxmimum number) is useful for a
+couple of reasons.
+First of all, in real life, hubs cost money, and you can budget for
+the worse-case scenario by setting $h = n-2$.
+Second, the number of hubs can help you figure out the right network
+layout, even if the exact positions of hubs elude you.
+You can try your hand 
+
 ---
 
 *Exercise 10 (harder polygons).* We can use what we know to find
@@ -650,6 +659,10 @@ hexagon with centre, specifying the exact position of hubs.
 <span style="padding-left: 20px; display:block">
 (b) Sketch the layout and angles for the minimal network on a regular pentagon. (You do not need to find the exact positions.)
 </span>
+
+---
+
+### 3.3. A rural railway <a id="sec-3-3" name="sec-3-3"></a>
 
 ---
 
