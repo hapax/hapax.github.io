@@ -424,6 +424,11 @@ Yay!
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
+In this section, we will say a little more about the "topology" of
+minimal networks, that is, the connectivity and layout.
+But the geometric facts we discovered in the last section will be a
+great help!
+
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
