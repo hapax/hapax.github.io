@@ -19,7 +19,7 @@ date:  2020-02-11
    3. <a href="#sec-2-3">Hubs and spokes</a>
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
-   2. <a href="#sec-3-2">Counting hubs</a>
+   2. <a href="#sec-3-2">Bounding hubs</a>
 4. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -574,15 +574,15 @@ $$
 
 for trees in general.
 
-### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
+### 3.2. Bounding hubs <a id="sec-3-2" name="sec-3-2"></a>
 
 If we combine our geometric results from <a
 href="#sec-2-3">earlier</a> with our result about trees, we can
 constrain the layout of minimal networks further.
 Recall that each of the $h$ hubs (once we delete the useless ones) has exactly three
 incoming edges.
-From Exercise 6, each of the $n$ fixed nodes has one or two incoming
-edges.
+Each of the $n$ fixed nodes has at least one incoming edge to ensure
+it is connected to the rest of the network.
 Thus, the total number of edges $E$ obeys the inequality
 
 $$
