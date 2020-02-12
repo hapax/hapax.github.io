@@ -599,7 +599,7 @@ vertex once.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner16.png" width="40%"/>
+    ="/images/posts/steiner16.png" width="35%"/>
 		    <figcaption><i>Figure 16. Counting edges, both in symbols
     and diagramatically.</i></figcaption>
 	</div>
