@@ -648,8 +648,7 @@ hexagon with centre, specifying the exact position of hubs.
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-(b) Sketch the layout and angles for the minimal network connecting
-cities on a regular pentagon. (You do not need to find the exact positions.)
+(b) Sketch the layout and angles for the minimal network on a regular pentagon. (You do not need to find the exact positions.)
 </span>
 
 ---
