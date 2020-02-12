@@ -546,7 +546,13 @@ nodes in Figure 15). Argue that these must be leaves.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Take the 
+(b) Take the further node and now find the node or nodes furthest
+away. Argue that these are also leaves.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Conclude that every tree has at least two leaves.
+Show, using an example, that a tree need not have more than two.
 </span>
 
 ---
