@@ -500,7 +500,6 @@ Once we have completely pruned the network, there is only a single
 path connecting any two nodes $A$ and $B$.
 Such a network is called a *tree* because of the way it branches.
 An example is shown in Figure 14.
-Our reasoning shows that minimal networks are always trees.
 
 <figure>
     <div style="text-align:center"><img src
@@ -508,6 +507,8 @@ Our reasoning shows that minimal networks are always trees.
 		    <figcaption><i>Figure 14. A tree network with eight nodes.</i></figcaption>
 	</div>
 	</figure>
+
+Our reasoning shows that minimal networks are always trees.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
