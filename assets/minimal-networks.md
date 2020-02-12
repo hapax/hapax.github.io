@@ -445,10 +445,9 @@ Repeating the arguments above, deduce the following properties for
 
 ## 3. Graphs <a id="sec-3" name="sec-3"></a>
 
-In this section, we will say a little more about the "topology" of
-minimal networks, that is, the connectivity and layout.
-But the geometric facts we learned in the last section will be a
-great help!
+In this section, we will learn more about the "topology" of
+minimal networks, that is, their connectivity and layout.
+The geometric facts we learned in the last section will come in handy!
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
