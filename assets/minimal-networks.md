@@ -426,8 +426,8 @@ Yay!
 
 *Exercise 6 (city ).* Our big result applies to hubs only --- the
 additional nodes in the network that we add to minimise total length.
-Repeating the arguments above, deduce the following properties for
-*fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
+But the same style of argument allows you to deduce the following
+properties for *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
 
 <span style="padding-left: 20px; display:block">
 (a) No incoming edges can be separated by less than $120^\circ$.
@@ -440,6 +440,8 @@ Repeating the arguments above, deduce the following properties for
 <span style="padding-left: 20px; display:block">
 (c) There are three edges only if the city lies at the centre of an equilateral triangle of cities.
 </span>
+
+Prove these properties!
 
 ---
 
