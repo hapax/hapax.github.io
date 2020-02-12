@@ -424,12 +424,12 @@ Yay!
 
 ---
 
-*Exercise 6 (fixed felloes).* Our big result applies to hubs only --- the
+*Exercise 6 (outer rim).* Our big result applies to hubs only --- the
 additional nodes in the network that we add to minimise total length.
 But the same style of argument allows you to deduce properties for
 *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$.
 To pursue the hub/spokes analogy, we can think of these as the outer
-rim or "felloes" of a very a strangely-shaped wheel!
+rim of a strangely-shaped wheel!
 Prove the following properties:
 
 <span style="padding-left: 20px; display:block">
@@ -475,7 +475,7 @@ Figure 13 shows why.
 	</div>
 	</figure>
 
-Suppose $A$ and $B$ are connected by two paths, for instance, labelled
+Suppose $A$ and $B$ are connected by two paths, labelled
 $1$ and $2$.
 We suppose these are the *only* paths connecting $A$ and $B$.
 The green blob to the left is all the nodes whose paths to $B$ go
@@ -490,8 +490,13 @@ whether other nodes connect.
 
 Suppose we have completely pruned the network so that there is a
 single path between any two nodes.
-The resulting network layout is called a *tree*, since it will have a
-sort of branching structure.
+The resulting network layout is called a *tree*.
+
+---
+
+*Exercise 7 (path pruning).* If 
+
+---
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
