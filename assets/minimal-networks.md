@@ -511,12 +511,28 @@ Our reasoning shows that minimal networks are trees.
 The number of nodes in the network is $N = n + h$, where $n$ is the
 number of fixed nodes and $h$ counts the hubs we add to make the
 network as short as possible.
-For instance, in Figure 14 we have $N = 8$.
+For instance, in Figure 14 we have $N = 9$.
 The number of edges is $E = 7$, which is $N - 1$, and is no
 coincidence.
-For *any* tree, $E = N - 1$.
-The proof is very simple.
-A *leaf* is a node with a single edge, such as $E, D, G, H$ in Figure 14.
+For *any* tree, it turns out that $E = N - 1$.
+To prove this, we first need to know that (unlike real life), in
+network theory, every tree has leaves.
+
+---
+
+*Exercise 8 (trees and leaves).*
+A *leaf* is a node with a single edge, e.g. the nodes $J$, $D$, $G$,
+and $I$ in Figure 14.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner14.png" width="35%"/>
+		    <figcaption><i>Figure 14. A tree network, with unique
+    paths between each node.</i></figcaption>
+	</div>
+	</figure>
+
+---
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
