@@ -591,7 +591,8 @@ $$
 
 The factor of $2$ is because we are counting edges twice in the
 leftmost and rightmost expression, since each end of an edge is
-associated with a vertex, and we are counting all the vertices.
+associated with a vertex, and we are counting the contribution at each
+vertex once.
 From the previous section, we know that $E = N - 1$.
 This gives
 
