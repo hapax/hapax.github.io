@@ -596,6 +596,15 @@ The factor of $2$ is because we are counting edges twice in the
 leftmost and rightmost expression, since each end of an edge is
 associated with a vertex, and we are counting the contribution at each
 vertex once.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner16.png" width="80%"/>
+		    <figcaption><i>Figure 16. Counting edges, both in symbols
+    and diagramatically.</i></figcaption>
+	</div>
+	</figure>
+
 From the previous section, we know that $E = N - 1$.
 This gives
 
@@ -615,7 +624,7 @@ The leaves of the graph are exactly the fixed nodes.
 
 ---
 
-*Exercise 9 (regular polygons).* We can use what we know to find
+*Exercise 9 (simple polygons).* We can use what we know to find
  minimal networks for some simple cases.
 
 <span style="padding-left: 20px; display:block">
@@ -624,13 +633,13 @@ The leaves of the graph are exactly the fixed nodes.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner15.png" width="80%"/>
+    ="/images/posts/steiner17.png" width="80%"/>
 		    <figcaption><i>Figure 17. Regular polygons.</i></figcaption>
 	</div>
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-(b) Generalise your hexagon solution a 
+(b) In general, finding minimal networks on a regular polygon is hard.
 </span>
 
 ---
@@ -650,3 +659,4 @@ The leaves of the graph are exactly the fixed nodes.
 https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/
 https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
 https://en.wikipedia.org/wiki/Steiner_tree_problem
+https://www.sciencedirect.com/science/article/pii/0012365X93E01835
