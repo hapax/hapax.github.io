@@ -578,9 +578,27 @@ for trees in general.
 
 If we combine our geometric results from <a
 href="#sec-2-3">earlier</a> with our result about trees, we can
-constrain the layout of minimal networks even further.
-Recall that each hub (once we delete useless ones) has exactly three
+constrain the layout of minimal networks further.
+Recall that each of the $h$ hubs (once we delete the useless ones) has exactly three
 incoming edges.
+From Exercise 6, each of the $n$ fixed nodes has one or two incoming
+edges.
+Thus, the total number of edges $E$ obeys the inequality
+
+$$
+\frac{1}{2}\left(n + 3h\right) \leq E \leq \frac{1}{2}\left(2n + 3h\right).
+$$
+
+The factor of $2$ is because we are counting edges twice in the
+leftmost and rightmost expression, since each end of an edge is
+associated with a vertex, and we are counting all the vertices.
+
+From the previous section, we know that $E = N -1 = n + k -1$.
+This gives
+
+$$
+\frac{1}{2}\left(n + 3h\right) \leq n +h - 1 \leq \frac{1}{2}\left(2n + 3h\right).
+$$
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
