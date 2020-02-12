@@ -622,13 +622,17 @@ The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 The leaves of the graph are exactly the fixed nodes.
 
+Knowing the number of hubs is useful.
+For instance, if I want to connect 
+
 ---
 
 *Exercise 9 (simple polygons).* We can use what we know to find
  minimal networks for some simple cases.
 
 <span style="padding-left: 20px; display:block">
-(a) Find the minimal networks connecting a square and a regular hexagon.
+(a) Find the minimal networks connecting a square and a regular
+hexagon, specifying the exact position of hubs.
 </span>
 
 <figure>
@@ -640,6 +644,8 @@ The leaves of the graph are exactly the fixed nodes.
 
 <span style="padding-left: 20px; display:block">
 (b) In general, finding minimal networks on a regular polygon is hard.
+	Rather than finding exact positions, sketch the layout and angles
+	for the minimal network connecting cities on a regular pentagon.
 </span>
 
 ---
