@@ -523,14 +523,31 @@ network theory, every tree has leaves.
 *Exercise 8 (trees and leaves).*
 A *leaf* is a node with a single edge, e.g. the nodes $J$, $D$, $G$,
 and $I$ in Figure 14.
+Part (a) will show what we need, namely that every tree has a leaf,
+and parts (b) and (c) probe this question a little more deeply.
+To begin, we will choose a node at random (red in Figure 15) and count
+the number of steps to each other node.
+Since there is a unique path between two nodes in a tree, this is well-defined.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner14.png" width="35%"/>
-		    <figcaption><i>Figure 14. A tree network, with unique
-    paths between each node.</i></figcaption>
+    ="/images/posts/steiner15.png" width="35%"/>
+		    <figcaption><i>Figure 15. Finding leaves in a tree.</i></figcaption>
 	</div>
 	</figure>
+
+<span style="padding-left: 20px; display:block">
+(a) Consider the node or nodes furthest from our selected node (orange
+nodes in Figure 15). Argue that these must be leaves.
+</span>
+
+<span style="padding-left: 20px; display:block">
+*Hint.* If they are not, what are the distances of the neighbours?
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Take the 
+</span>
 
 ---
 
