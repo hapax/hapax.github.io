@@ -424,12 +424,10 @@ Yay!
 
 ---
 
-*Exercise 6 (outer rim).* Our big result applies to hubs only --- the
-additional nodes in the network that we add to minimise total length.
-But the same style of argument allows you to deduce properties for
-*fixed* nodes (cities) $A_1, A_2, \ldots, A_n$.
-To pursue the hub/spokes analogy, we can think of these as the outer
-rim of a strangely-shaped wheel!
+*Exercise 6 (outer rim).* Our proof applies to hubs only, but the same style of argument allows you to deduce properties of
+the cities or *fixed nodes* $A_1, A_2, \ldots, A_n$.
+To pursue the hub/spokes analogy, these form the rim of a
+strangely-shaped wheel!
 Prove the following properties:
 
 <span style="padding-left: 20px; display:block">
