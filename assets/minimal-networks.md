@@ -515,6 +515,8 @@ For instance, in Figure 14 we have $N = 8$.
 The number of edges is $E = 7$, which is $N - 1$, and is no
 coincidence.
 For *any* tree, $E = N - 1$.
+The proof is very simple.
+A *leaf* is a node with a single edge, such as $E, D, G, H$ in Figure 14.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
