@@ -457,10 +457,10 @@ The geometric facts we learned in the last section will definitely come in handy
 
 In a minimal rail network, how many ways can I get from $A$ to $B$?
 If the network is connected, then the answer is at least one.
-Otherwise it's not connected after all!
-But if the network is *minimal*, the answer is *precisely* one!
+That's the definition of connected!
+But if the network is *minimal*, the answer is *exactly* one!
 If there is more than one way to get from $A$ to $B$, the network has
-unnecessary edges and can be pruned.
+unnecessary edges and can be pruned to get something shorter.
 We might worry that pruning redundant paths between $A$ and $B$ could
 disconnect other cities, but this is never the case.
 Figure 13 shows why.
