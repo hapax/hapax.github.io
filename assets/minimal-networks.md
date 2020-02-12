@@ -488,15 +488,19 @@ each other using path $1$.
 So, pruning redundant paths between $A$ and $B$ does not affect
 whether other nodes connect.
 
+---
+
+*Exercise 7 (path pruning).* Generalise the argument above to account
+for nodes that lie between $A$ and $B$.
+More precisely, these are nodes which can connect to either $A$ or $B$
+without passing through the other, and schematically lie on paths $1$
+or $2$.
+
+---
+
 Suppose we have completely pruned the network so that there is a
 single path between any two nodes.
 The resulting network layout is called a *tree*.
-
----
-
-*Exercise 7 (path pruning).* If 
-
----
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
