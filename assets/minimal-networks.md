@@ -605,8 +605,8 @@ $$
 h \leq n - 2.
 $$
 
-The total number of hubs in a minimal network is at
-most two less than the number of fixed nodes.
+The total number of hubs in a minimal network can be two fewer than
+the number of fixed nodes, but no more.
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
