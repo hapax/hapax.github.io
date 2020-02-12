@@ -553,6 +553,9 @@ Show, using an example, that a tree need not have more than two.
 </span>
 
 The procedure for finding leaves is illustrated in Figure 15.
+We start with a random node $C$, and calculate distances to all other
+nodes. The most distance node is $I$, which is indeed a leaf.
+Now counting from $I$, the most distance node is $J$, which is also a leaf.
 
 ---
 
