@@ -462,6 +462,7 @@ unnecessary edges and can be pruned.
 
 Perhaps we should worry that paths between other cities will be
 destroyed if we try to prune the paths from $A$ to $B$.
+But is this true?
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
