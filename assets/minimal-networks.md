@@ -438,7 +438,7 @@ properties for *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) A city has three edges just in case it lies at the centre of an equilateral triangle of cities.
+(c) A city has three edges only if it lies at the centre of an equilateral triangle of cities.
 </span>
 
 Prove these properties!
