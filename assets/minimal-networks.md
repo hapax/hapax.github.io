@@ -466,7 +466,7 @@ redundant
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner13.png" width="80%"/>
+    ="/images/posts/steiner13.png" width="70%"/>
 		    <figcaption><i>Figure 13. Pruning an unnecessary path
     cannot disconnect a network.</i></figcaption>
 	</div>
