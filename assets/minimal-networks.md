@@ -600,7 +600,7 @@ $$
 \frac{1}{2}\left(n + 3h\right) \leq N - 1 = n +h - 1.
 $$
 
-After a little algebra, we find that
+After some algebra, we find that
 
 $$
 h \leq n - 2.
