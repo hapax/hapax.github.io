@@ -438,8 +438,7 @@ Repeating the arguments above, deduce the following properties for
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) There are only three edges precisely when the city lies at the
-centre of an equilateral triangle of cities.
+(c) There are three edges only if the city lies at the centre of an equilateral triangle of cities.
 </span>
 
 ---
