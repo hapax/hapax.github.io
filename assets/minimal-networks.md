@@ -462,7 +462,7 @@ But if the network is *minimal*, the answer is *precisely* one!
 If there is more than one way to get from $A$ to $B$, the network has
 unnecessary edges and can be pruned.
 If $C$ and $D$ are any other nodes in the network, then pruning a
-redundant
+redundant path
 
 <figure>
     <div style="text-align:center"><img src
