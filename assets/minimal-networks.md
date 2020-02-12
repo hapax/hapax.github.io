@@ -449,7 +449,7 @@ Prove these properties!
 
 In this section, we will learn more about the "topology" of
 minimal networks, that is, their connectivity and layout.
-The geometric facts we learned in the last section will come in handy!
+The geometric facts we learned in the last section will definitely come in handy!
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
