@@ -317,10 +317,11 @@ Since we have already argued that Figure 7 is minimal, we clearly
 cannot find such a hub $E$!
 
 *Note.* This is an example of a
- [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction). We
- assume something we want to show is false, and by demonstrating that
- it leads to a contradiction with known facts, reason backwards to
- conclue that it cannot be true.
+ [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction). To
+ show something is false, we assume it is true and use it to derive a
+ contradiction with known facts.
+ We then reason backwards to
+ conclude that it cannot be true!
 
 ---
 
