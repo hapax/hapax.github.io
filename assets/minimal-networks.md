@@ -552,6 +552,8 @@ away. Argue that these are also leaves.
 Show, using an example, that a tree need not have more than two.
 </span>
 
+The procedure for finding leaves is illustrated in Figure 15.
+
 ---
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
