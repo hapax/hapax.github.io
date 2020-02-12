@@ -555,7 +555,7 @@ Show, using an example, that a tree need not have more than two.
 The procedure for finding leaves is illustrated in Figure 15.
 We start with an arbitrarily chosen node $C$, and calculate distances to all other
 nodes. The most distance node is $I$, which is indeed a leaf.
-Now counting from $I$, the most distance node is $J$, which is also a leaf.
+Measuring from $I$, the most distant node is $J$, which is also a leaf.
 
 ---
 
@@ -579,6 +579,8 @@ for trees in general.
 If we combine our geometric results from <a
 href="#sec-2-3">earlier</a> with our result about trees, we can
 constrain the layout of minimal networks even further.
+Recall that each hub (once we delete useless ones) has exactly three
+incoming edges.
 
 ## 4. Applications and algorithms <a id="sec-4" name="sec-4"></a>
 
