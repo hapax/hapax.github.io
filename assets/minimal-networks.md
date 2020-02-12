@@ -564,13 +564,15 @@ If we remove it, and the single edge connecting it to the rest of the
 graph, we decrease the number of nodes and edges by $1$, $N \to N- 1$
 and $E \to E - 1$.
 We keep doing this until we are down to a single node.
-This has no edges at all, and since we decrease $N$ by $N-1$ nodes, we
-must decrease $E$ by the same amount to reach $0$.
+This has no edges at all, and since we decrease $N$ by $N-1$ nodes to
+obtain a single node, decreasing $E$ by the same amount gives $0$.
 Hence,
 
 $$
-E = N - 1.
+E = N - 1
 $$
+
+for trees in general.
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
