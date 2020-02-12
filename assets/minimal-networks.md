@@ -424,10 +424,13 @@ Yay!
 
 ---
 
-*Exercise 6 (city ).* Our big result applies to hubs only --- the
+*Exercise 6 (fixed felloes).* Our big result applies to hubs only --- the
 additional nodes in the network that we add to minimise total length.
-But the same style of argument allows you to deduce the following
-properties for *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
+But the same style of argument allows you to deduce properties for
+*fixed* nodes (cities) $A_1, A_2, \ldots, A_n$.
+To pursue the hub/spokes analogy, we can think of these as the outer
+rim or "felloes" of a very a strangely-shaped wheel!
+Prove the following properties:
 
 <span style="padding-left: 20px; display:block">
 (a) No incoming edges can be separated by less than $120^\circ$.
@@ -441,8 +444,7 @@ properties for *fixed* nodes (cities) $A_1, A_2, \ldots, A_n$:
 (c) A city has three edges only if it lies at the centre of an equilateral triangle of cities.
 </span>
 
-Prove these properties!
-The upshot is that the fixed notes will in general have one or two
+The upshot is that the fixed nodes will in general have one or two
 incoming edges, and three only in very special circumstances.
 
 ---
@@ -461,8 +463,9 @@ Otherwise it's not connected after all!
 But if the network is *minimal*, the answer is *precisely* one!
 If there is more than one way to get from $A$ to $B$, the network has
 unnecessary edges and can be pruned.
-If $C$ and $D$ are any other nodes in the network, then pruning a
-redundant path
+We might worry that pruning redundant paths between $A$ and $B$ could
+disconnect other cities, but this is never the case.
+Figure 13 shows why.
 
 <figure>
     <div style="text-align:center"><img src
@@ -471,6 +474,17 @@ redundant path
     cannot disconnect a network.</i></figcaption>
 	</div>
 	</figure>
+
+Suppose $A$ and $B$ are connected by two paths, for instance, labelled
+$1$ and $2$.
+We suppose these are the *only* paths connecting $A$ and $B$.
+The green blob to the left is all the nodes whose paths to $B$ go
+through $A$ first, and similarly, nodes in the green blob on the right
+connect to $A$ through $B$.
+
+---
+
+---
 
 ### 3.2. Counting hubs <a id="sec-3-2" name="sec-3-2"></a>
 
