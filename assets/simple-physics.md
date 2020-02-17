@@ -1124,6 +1124,13 @@ $$
 We will call $D = \ell v$ the *diffusion coefficient*.
 Even though the walker moves at constant speed, the average distance
 from the origin scales as $d \propto \sqrt{t}$!
+It's important to note that "average distance" is a bit of a
+misnomer.
+We really mean the *average spread* of distance travelled.
+In time $t$, an individual
+walker will explore a region of size $\propto \sqrt{t}$, while a
+batch of walkers released from the same point will fan out to cover
+that region.
 
 ---
 
