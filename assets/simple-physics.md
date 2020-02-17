@@ -363,13 +363,23 @@ $$
 $$
 
 On the LHS, mass appears as $M^1$, so $c = 1$.
-The LHS also has $T^{-2}$, so $b+c = b+1 = 2$, and hence $b = 1$.
-Finally, the LHS has $L^1$, and comparing to the RHS gives $a + b -c =
-a = 1$.
+The LHS has time appearing as $1/T^2$, so
+
+$$
+b+c = b+1 = 2 \quad \Longrightarrow \quad b = 1.
+$$
+
+Finally, the LHS has length appearing $L^1$, and comparing to the RHS
+gives
+
+$$
+a + b -c = a = 1.
+$$
+
 Dimensional analysis tells us that the drag force is
 
 $$
-F_\text{drag} \sim \mu r v.
+F_\text{drag} \sim \mu^a r^b v^c = \mu r v.
 $$
 
 As usual, we can't determine if there is a number out front. With considerably more
