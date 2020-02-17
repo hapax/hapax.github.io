@@ -1036,8 +1036,9 @@ conclusion in (c)?
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
 Dimensional analysis and Fermi estimates are conventional napkin
-algorithms, though both are ripe for hacking.
-In contrast, our last algorithm will be a relatively 
+algorithms, though in my opinion, both are ripe for hacking.
+In contrast, our last algorithm of *random walks* is not usually
+viewed as a back of the napkin tool.
 
 Imagine an atom jiggling around randomly in a hot gas.
 On average, it will travel some distance $\ell$ between collisions.
