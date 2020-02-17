@@ -151,8 +151,8 @@ $$
 
 Be careful: only measurements with the same dimensions can
 be added and subtracted.
-For instance, it makes no sense to ask what "1 cm + 4 hours" is,
-though it *is* sensible to compute "1 cm + 1 foot".
+For instance, it makes no sense to ask what "$1$ cm + $4$ hours" is,
+though it *is* sensible to compute "$1$ cm + $4$ feet".
 
 Physical laws tell us how measurements depend
 on each other.
