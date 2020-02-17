@@ -313,23 +313,27 @@ Here are some things that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
 - the speed of the sphere $v$, where $[v] = LT^{-1}$;
 - the mass of the sphere $m$, $[m] = M$;
-- the density of the fluid $\rho$, $[\rho] = [m/V] = ML^{-3}$;
+- the density of the fluid $\rho$, or mass per unit volume $[\rho] = [m_\text{fluid}/V] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
 In general, all of these factors are involved, but this is too much
 for dimensional analysis to handle.
 (I explain why <a href="#sec-2-4">below</a>.)
-When the sphere moves slowly enough, however, its mass $m$ and the
-density of the fluid $\rho$ are irrelevant.
-Only the viscosity, and size and speed of the sphere, matter.
-Like the isochronism of the pendulum, this is an empirical fact we can
-determine by brute observation.
+But if the sphere is moving very slowly, all that matters is its
+geometry as it tries to plow through the fluid, a situation called
+"creeping flow".
+But if the sphere is moving quickly, it is not only ploughing through
+the fluid but *colliding* with it, and the mass of the sphere $m$ and
+density of the fluid $\rho$ will be relevant.
+We will restrict to creeping flow where we can ignore $m$ and $\rho$!
 
 I haven't told you the dimensions of viscosity yet, but we can find
-them fairly easily.
-Imagine two layers of fluid flow separated by a distance $d$.
-Suppose I try to shear them by simply moving one layer, parallel to
-the second but at speed $v$.
+them fairly easily --- assuming we have access to a fluid mechanics
+lab!
+I'll save you the trouble of doing the relevant experiments and tell
+you what happens.
+Suppose we have two layers of fluid flow separated by a distance $d$,
+and I try to shear them by moving one layer parallel to the second at speed $v$.
 Experiment shows that the fluid will resist with some force $f = F/A$ per
 unit area, proportional to $v$ and inversely proportional to the
 separation $d$.
@@ -340,7 +344,10 @@ f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu]
 \left[\frac{dF}{Av}\right] = \frac{L(ML/T^2)}{L^2(L/T)} = \frac{M}{LT}.
 $$
 
-We can now proceed with our dimensional analysis.
+If you skipped the previous paragraph, that's fine, as long as you are
+prepared to take the dimensions on faith.
+Either way, we can proceed with our dimensional analysis.
+
 Let's write the drag force on the sphere $F_\text{drag}$ as a product of powers
 of the remaining factors:
 
