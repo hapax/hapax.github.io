@@ -113,24 +113,26 @@ For instance, if we compare the width of the pumpkin to a ruler, the
 dimension is the length, if we put it on some scales it's the mass,
 and if we time how long it takes to rot, the dimension is time.
 
-The basic dimensions we have just mentioned are *length* ($L$), *time* ($T$) and *mass* ($M$).
-In general, we use brackets $[\cdot]$ to denote the dimension of a
-measurement, for instance
+We denote the dimension of length by $L$, time by $T$ and *mass* by
+$M$.
+We use brackets $[\cdot]$ to refer to the dimension of a measurement.
+It's easy when the measurement is given in some units, since we can
+throw away the numbers and just ask: what aspect does the unit measure?
+For instance,
 
 $$
-[1 \text{ cm}] = L, \quad [4 \text{ hours}] = T, \quad [400 \text{ lb}] = M.
+[20 \text{ cm}] = [\text{ cm}]  = L, \quad [5 \text{ lb}]
+=[\text{ lb}] = M, \quad \quad [2 \text{ days}] =[\text{ days}] = T.
 $$
 
-To find the dimension, throw away the number out front and focus on the unit, asking: what
-aspect of the system does it measure? Centimetres measure length,
+Centimetres measure length,
 hours measure time, and pounds measure mass.
 More complicated dimensions follow from the basic ones according to
 simple rules which are easier to show than tell.
 Area, for example, has dimensions $L^2$:
 
 $$
-[1 \text{ cm}^2] = [1 \text{ cm} \times 1 \text{ cm}] = [1 \text{ cm}]
-\times [1 \text{ cm}] = L^2.
+[1 \text{ cm}^2] = [\text{ cm}^2] = [\text{ cm}]^2.
 $$
 
 An alternative to units is using general formulas, e.g. for the area of a rectangle:
@@ -147,11 +149,10 @@ $$
 \frac{[\text{distance}]}{[\text{time}]} = \frac{L}{T}.
 $$
 
-Be careful however: only *measurements with the same dimensions* can
-be added and subtracted!
-For instance, it makes no sense to ask what "1 cm + 4 hours" is, but it
-does make sense to ask for the value of "1 cm + 1 foot".
-The dimension doesn't change.
+Be careful: only measurements with the same dimensions can
+be added and subtracted.
+For instance, it makes no sense to ask what "1 cm + 4 hours" is,
+though it *is* sensible to compute "1 cm + 1 foot".
 
 Physical laws tell us how measurements depend
 on each other.
