@@ -641,16 +641,15 @@ $$
 10^{0.5} \approx 3.2.
 $$
 
-A Fermi estimate should be accurate up to a factor of around
-$3.2$, i.e. it can be bigger or smaller than the true answer by a
+An accurate Fermi estimate can be bigger or smaller than the true answer by a
 factor of $3$.
 Our earlier counts of planets, countries, and global population, for
-instance, are well within this generous factor of $3$!
+instance, are well within this generous margin of error!
 
 In general, it makes life a bit easier if instead of restricting to
-power of $10$ ($1, 10, 100, \ldots$), we allow for
+power of $10$, we allow for
 arbitrary numbers, with the understanding *that they are only accurate
-up to a factor of* $10^{0.5}$.
+up to a factor of* $10^{0.5} \approx 3.2$.
 We can denote this using a twiddle, so that
 
 $$
