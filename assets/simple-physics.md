@@ -766,7 +766,7 @@ $$
 
 The total surface area of ocean is $350$ million km$^2$.
 It seems reasonable to guess that there is a different species for
-every 10 km$^2$ or so, and that a species of fish has on average
+every $10$ km$^2$ or so, and that a species of fish has on average
 $10^5$ members.
 This gives an estimate of
 
