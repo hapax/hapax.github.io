@@ -816,7 +816,7 @@ If you want fast, robust estimates, forget about finesse; just
 focus on a *single important mechanism*.
 You should make simplifying assumptions, ignore subtleties, and strip away
 distractions to get at that mechanism.
-Embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
+In other words, embrace the [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow)!
 (Perhaps KISS should stand for "Keep It Spherical, Stupid".)
 As I'll touch on <a href="#sec-3-4">shortly</a>, this also applied to
 subestimates, and we shouldn't factorise unless it reduces total uncertainty.
