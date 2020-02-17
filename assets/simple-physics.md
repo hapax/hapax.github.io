@@ -620,7 +620,7 @@ But when we are rounding to the nearest power of ten, we do not have
 ticks at $0$, $1$, $2$, and so on, but at *powers*:
 
 $$
-10^0 = 1, 10^1 = 10, 10^2 = 100, \ldots
+10^0 = 1, \quad 10^1 = 10, \quad 10^2 = 100, \ldots
 $$
 
 We should therefore use a *logarithmic ruler*, where we take logs in
@@ -628,7 +628,7 @@ base $10$ and round to the nearest tick, where a tick now represents a
 power.
 In our case, $\log_{10}4 \approx 0.6$ is closer to $1$ than to $0$,
 and so $4$ rounds up to $10^1 = 10$!
-This is a bit surprising, but the way things work when you think in
+This is a bit surprising, but just the way things work when you think in
 Fermi ... termies.
 
 Anyway, on a linear ruler, if there is a tick for every whole number,
