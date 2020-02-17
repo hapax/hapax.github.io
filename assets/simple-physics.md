@@ -105,12 +105,13 @@ physics, *dimensional analysis*.
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
 measuring device.
-The device returns a number, and the *dimension* is what the number
-doesn't tell you: what *physical property* probed by that device.
-If we compare the width of the pumpkin to a ruler, for instance, the
-dimension is the length.
-If we put it on some scales, its mass.
-If we see how long it takes to rot, its time.
+The device returns a number, but that's now what interests us;
+instead, we want to know the *physical property* probed by that
+device.
+This is what we mean by *dimension*.
+For instance, if we compare the width of the pumpkin to a ruler, the
+dimension is the length, if we put it on some scales it's the mass,
+and if we time how long it takes to rot, the dimension is time.
 
 The basic dimensions we have just mentioned are *length* ($L$), *time* ($T$) and *mass* ($M$).
 In general, we use brackets $[\cdot]$ to denote the dimension of a
