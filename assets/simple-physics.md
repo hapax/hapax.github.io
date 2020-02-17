@@ -229,14 +229,13 @@ a = 0, \quad 2c = 1, \quad b + c = 0 \quad \Longrightarrow \quad a =
 0, \quad c = -b = \frac{1}{2}.
 $$
 
-It follows that $\omega \sim (g/c)^{1/2}$, where $\sim$ means "up to numerical factors".
-As promised, dimensional analysis also kindly informs us that the mass
+As promised, dimensional analysis kindly informs us that the mass
 is irrelevant!
 My earlier piece of sneakiness (replacing period with angular
 velocity) actually gives the exact answer for small kicks:
 
 $$
-\omega = \sqrt{\frac{g}{\ell}}.
+\omega = m^a \ell^b g^c =  \sqrt{\frac{g}{\ell}}.
 $$
 
 Let me emphasise how powerful this is.
