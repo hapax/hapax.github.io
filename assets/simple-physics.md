@@ -305,7 +305,7 @@ resist forces which pull them apart, called *shearing forces*.
 (I like to imagine separating the layers with shearing scissors, like
 wool from a sheep.)
 Dragging an object through fluid takes work because the
-fluid shears as it moves around the object; [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
+fluid shears as it moves around the object, and [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
 resistance to shearing.
 
 Our goal will be to determine the drag force on a sphere due to viscosity.
