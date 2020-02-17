@@ -409,8 +409,8 @@ F_\text{weight} = mg = 6\pi \mu r v_{\text{term}} = F_\text{drag}\quad \Longrigh
 $$
 
 The sphere accelerates until it reaches $v_{\text{term}}$.
-To make life simpler, we can express the mass of the sphere
-in terms of its volume $V$ and average density $\rho$:
+Since we're going to be interested in spheres of water of different
+sizes, let's trade in mass for the density $\rho$:
 
 $$
 m = V\rho = \frac{4\pi r^3}{3} \rho \quad \Longrightarrow \quad v_{\text{term}} = \frac{mg}{6\pi \mu r} = \frac{2\rho r^2 g}{9\mu}.
