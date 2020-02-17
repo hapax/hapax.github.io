@@ -121,8 +121,8 @@ throw away the numbers and just ask: what aspect does the unit measure?
 For instance,
 
 $$
-[20 \text{ cm}] = [\text{ cm}]  = L, \quad [5 \text{ lb}]
-=[\text{ lb}] = M, \quad \quad [2 \text{ days}] =[\text{ days}] = T.
+[20 \text{ cm}] = [\text{cm}]  = L, \quad [5 \text{ lb}]
+=[\text{lb}] = M, \quad \quad [2 \text{ days}] =[\text{days}] = T.
 $$
 
 Centimetres measure length,
@@ -132,7 +132,7 @@ simple rules which are easier to show than tell.
 Area, for example, has dimensions $L^2$:
 
 $$
-[1 \text{ cm}^2] = [\text{ cm}^2] = [\text{ cm}]^2.
+[1 \text{ cm}^2] = [\text{cm}^2] = [\text{cm}]^2.
 $$
 
 An alternative to units is using general formulas, e.g. for the area of a rectangle:
