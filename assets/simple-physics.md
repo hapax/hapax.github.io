@@ -218,12 +218,17 @@ We can find the powers by matching dimensions on each side:
 
 $$
 \begin{align*}
-T^{-1} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
+\frac{1}{T} = [\omega] = [m^a \ell^c g^c] = \frac{M^aL^{b+c}}{T^{2c}}.
 \end{align*}
 $$
 
 Requiring the leftmost and rightmost expressions to be equal, we can immediately read off the powers:
-$a = 0$, $2c = 1$, and $b = -c$.
+
+$$
+a = 0, \quad 2c = 1, \quad b + c = 0 \quad \Longrightarrow \quad a =
+0, \quad c = -b = \frac{1}{2}.
+$$
+
 It follows that $\omega \sim (g/c)^{1/2}$, where $\sim$ means "up to numerical factors".
 As promised, dimensional analysis also kindly informs us that the mass
 is irrelevant!
