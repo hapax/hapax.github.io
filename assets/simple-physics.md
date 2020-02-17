@@ -299,7 +299,7 @@ their mass.
 
 *Stokes' law.* Maybe pumpkins aren't your thing, so let's turn to something more highbrow: the
 aerodynamics of spheres.
-So, imagine a sphere moving through a fluid (a liquid or gas).
+Take a sphere moving through a fluid (a liquid or gas).
 In realistic fluids, nearby layers of flow like to stick together and will
 resist *shearing* forces which pull them apart.
 Dragging an object through fluid takes work because the
