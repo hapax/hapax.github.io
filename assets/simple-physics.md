@@ -903,8 +903,8 @@ In general, it works well because over- and underestimates
 balance each other out.
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd),
-where averaging over different types of ignorance yields wisdom.
-(In this case, the crowd is made up of subestimates!)
+where averaging over different types of ignorance yields wisdom,
+though in this case, the crowd is made up of subestimates!
 But there is more to it than that.
 The *variance* (random variability) of subestimates adds up, and a
 good rule of thumb is to only factorise into subestimates when the
