@@ -301,7 +301,7 @@ their mass.
 aerodynamics of spheres.
 Take a sphere moving through a fluid (a liquid or gas).
 In realistic fluids, nearby layers of flow like to stick together and will
-resist *shearing* forces which pull them apart.
+resist forces which pull them apart, called *shearing forces*.
 Dragging an object through fluid takes work because the
 fluid shears as it moves around the object; [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
 resistance to shearing.
