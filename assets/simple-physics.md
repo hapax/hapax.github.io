@@ -921,7 +921,8 @@ For instance, if we guess the Canadian budget is CAD`$`30
 billion, and also know the population (30 million or so), we see this
 corresponds to `$`1000 per person.
 Since the government typically spends thousands of dollars per student
-on public education (let alone everything else!) this number is too low.
+on public education (let alone roads, healthcare, defense, etc) this
+number is clearly too low.
 
 *Web of facts.* Aliens cannot sanity check because they don't know
 enough about our world.
