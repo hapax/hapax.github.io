@@ -935,7 +935,7 @@ by Weinstein and Adam, usually have a list of handy numbers in the appendix
 for just this reason.
 It may feel like cheating, but if you are doing a Fermi
 problem in real life, also remember that you can make your web of facts
-dramatically larger using Google!
+much larger using Google!
 
 *Nonlinearity.* Another failure mode is "nonlinearity".
 (Props to lukeprog's
