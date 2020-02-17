@@ -203,15 +203,17 @@ $$
 \omega = \frac{2\pi}{t}.
 $$
 
-We will explain another way to get factors of $2\pi$ in Exercise 4.
+(We will explain another way to get factors of $2\pi$ in Exercise 4.)
 Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
-$\ell$ and $g$ by a physical law of the form
+$\ell$ and $g$ by a relation of the form
 
 $$
 \omega = m^a \ell^b g^c,
 $$
 
-for some powers $a, b, c$.
+for some numbers $a$, $b$, and $c$.
+Our goal is to figure out what these numbers are.
+
 We can find the powers by matching dimensions on each side:
 
 $$
