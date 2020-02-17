@@ -1022,7 +1022,7 @@ spontaneously into the air?
 (c) A mug cycles through about $10^{14}$ random
 configurations per second.
 If you watch your mug until the entropic heat death of the universe
-(about $10^{100]$ years away) are you likely to see it jump?
+(about $10^{100}$ years away) are you likely to see it jump?
 </span>
 
 <span style="padding-left: 20px; display:block">
