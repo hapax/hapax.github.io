@@ -487,27 +487,25 @@ would be off by $2\pi \approx 6$.
 That said, more often than not the missing number is close to $1$, and
 we can even dimensionally account for factors of $\pi$ (Exercise 4).
 
-*Parametric overload.* A more serious problem is the overabundance of parameters.
-If we included the mass of the sphere in the second example,
-dimensional analysis would fail: we would not be able to solve the
-equations for $a, b$ and $c$, or rather, there would be an *infinite* number of solutions.
-Which one do we pick?
+*Parametric overload.* A more serious problem is having too many parameters.
 With three basic dimensions $M, L, T$, you can have at most three
 relevant parameters, since each parameter comes with an unknown $(a,
 b,c)$ and each dimension gives us an equation.
 Three equations is just right for three unknowns.
 Any more unknowns, and you don't have enough equations to determine
 them all!
-There are further subtleties captured by a result called the
+There are further subtleties, but they are all captured in a nice
+result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
+For a very elementary treatment, see [my notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
 *Where is the physics?* You might think that since all we do is
-algebra, there is no physics here at all.
-But to avoid parametric overload, we need to whittle down until we
-have a manageable number of factors.
-Sometimes we can do this by physical reasoning (e.g. Galileo's clever
-argument that objects of different masses fall at the same speed), or
-restricting to situations where factors are negligible (e.g. a slowly moving sphere).
+algebra, there is no physics here at all!
+But to avoid parametric overload, we need to whittle down our factors until we
+have a manageable number.
+Sometimes we can do this by physical reasoning (e.g. the equivalence
+principle in Exercise 1), or restricting to situations where factors
+are negligible (e.g. a slowly moving sphere).
 Sometimes, neither of these works, and we just have to go out, do
 experiments, and see what varies (e.g. isochronism and viscosity).
 None of these operations necessarily involves hard maths, but they are
@@ -526,7 +524,7 @@ However, *dimensionful* constants secretly encode important physical
 insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
-See my [notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf)
+See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf)
 for applications of fundamental constants to black hole thermodynamics!
 
 ---
