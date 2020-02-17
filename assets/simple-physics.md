@@ -467,7 +467,7 @@ $$
 </span>
 
 $$
-v_\text{term} \sim \sqrt{\frac{mg}{\rho_\text{air} r^2}}.
+v_\text{term} \sim \sqrt{\frac{4\pi \rho_\text{water} g r}{3\rho_\text{air}}}.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -481,10 +481,11 @@ it moving when it hits the ground?
 
 *Numbers.* Dimensional analysis has its limits.
 First of all, it can be wrong by an overall numerical factor.
-In the second example, for instance, we were off by $6\pi \approx 20$.
+In Stokes' law, for instance, we were off by $6\pi \approx 20$, and if
+we used period rather than angular velocity, our earlier examples
+would be off by $2\pi \approx 6$.
 That said, more often than not the missing number is close to $1$, and
-we can even account for some factors of $\pi$ by adding an extra
-dimension for angles (Exercise 4).
+we can even dimensionally account for factors of $\pi$ (Exercise 4).
 
 *Parametric overload.* A more serious problem is the overabundance of parameters.
 If we included the mass of the sphere in the second example,
