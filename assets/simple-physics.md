@@ -570,7 +570,7 @@ the form of the equation we will use in the rest of the post.
 </p>
 
 **Exercise 4 (factors of $\pi$).** We can sometimes account for factors of
-$\pi$ by giving a dimension to *periods* of systems.
+$\pi$ by giving a dimension to *angles*.
 Suppose we have a system repeating itself in time periodically, e.g. a
 swinging pendulum or a planetoid orbiting the sun.
 We can keep track of where the system is in its cycle with an arrow
@@ -579,8 +579,7 @@ this circle per cycle of the system.
 The arrow (called a *phasor* if you want to be fancy) subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 
-If $[1^\circ] = \Xi$ is the dimension of angle, then
-$[t_\text{period}] = T/\Xi$.
+Let $[1^\circ] = \Xi$ be the dimension of angle, so that a period has dimension $[t_\text{period}] = T/\Xi$.
 This will leave factors of $\Xi$ floating around.
 To cancel them, we can view $2\pi$ as a "fundamental physical
 constant" with dimension $\Xi$.
