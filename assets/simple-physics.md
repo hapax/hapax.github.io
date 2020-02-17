@@ -517,7 +517,7 @@ Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are crucial in atomic physics, thermodynamics and
-chemistry, and you can see an application in Exercise 3.
+chemistry, and we will use them in Exercise 3 and the last section.
 
 *Constants.* Numbers are dimensionless constants.
 However, *dimensionful* constants secretly encode important physical
@@ -525,7 +525,7 @@ insights.
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
 See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf)
-for applications of fundamental constants to black hole thermodynamics!
+for applications of fundamental constants to black holes!
 
 ---
 
