@@ -1108,10 +1108,8 @@ Two conditions will do it:
   to align; if a walker prefers to swap direction with every step,
   steps will be *anti-correlated* and tend to "anti-align".
   
-In all our random walks below, both conditions hold (to good
-approximation) and hence steps are unaligned on average.
-You can explore correlated and anti-correlation generalisations of
-random walks in Exercise 12.
+In all our random walks below, both conditions hold to good
+approximation, and hence steps are unaligned on average.
 
 *Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
 $\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
@@ -1135,32 +1133,37 @@ that region.
 
 ---
 
-**Exercise 12 (fractional random walks).** There is a generalisation
-  of random walks called *fractional random walks*, where the average
-  spread scales with the number of steps as
+**Exercise 12 (flipping coins).** Our discussion so far has been a
+little abstract, but we can make random walks concrete with coin flips.
+So, take a fair coin and start flipping it, with the outcome of the $i$th
+flip $s_i = \pm 1$, with $+1$ for tails and $-1$ for heads.
+The sum of $n$ flips is $x$, and really do just multiply and expand,
+with
 
 $$
-d \propto n^{H},
+x^2 = (s_1 + \cdots + s_n)^2 = s_1^2 + \cdots s_n^2 + 2
+\left[s_1 s_2 + \cdots + s_{n-1}s_n\right].
 $$
 
-for some number $0 < H < 1$ called the *Hurst index*.
-Random walks have $H = 1/2$.
+We can think of $x$ as describing the position of a random walk on the
+number line.
+Let's check the assertions we made above work!
 
 <span style="padding-left: 20px; display:block">
-(a) Explain why $H > 1/2$ requires that steps be
-*correlated*, i.e. directions persist.
+(a) For a fair coin, show that on average, $s^2 = 1$.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) What relation between steps does Hurst index $H < 1/2$ require?
-</span>
-
-This not just a theoretical exercise.
-The outlines of a coast are jagged, random curves, typically
-described by a fractional random walk with Hurst index $H \sim 0.8$.
+(b) Consider two fair coin flips, $s$ and $s'$.
+	Show that $ss' = +1$ with probability $1/2$ and $ss' = -1$ with
+	probability $1/2$.
+	Conclude that, on average, $ss'$ vanishes.
+	</span>
 
 <span style="padding-left: 20px; display:block">
-(c) Why should a coastline consist of *correlated* random steps?
+(c) Combining the last two arguments, conclude that after $n$ coin
+flips, you tend to spread a distance $\sqrt{n}$ around the origin,
+with $|x| \sim \sqrt{n}$.
 </span>
 
 ---
