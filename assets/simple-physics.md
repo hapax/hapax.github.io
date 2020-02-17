@@ -686,7 +686,7 @@ This is called the *geometric mean*.
 Whenever you are dealing with estimates spread across different orders
 of magnitude, this is better to use than the usual *arithmetic
 mean* $(a+b)/2$.
-The arithmetic mean is biased towards the larger number.
+The arithmetic mean will just return the bigger number!
 
 Geometric means are useful for averaging an underestimate and an
 overestimate.
