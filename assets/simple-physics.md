@@ -265,16 +265,18 @@ pumpkin and spool into a ruler!
 Measure with the string and snip off the corresponding length, attach
 the pumpkin and gently wobble.
 By timing the period with the stopwatch, you can figure out how long
-the object was.
+things are.
 
 ---
 
 **Exercise 1 (interplanetary pumpkins).** You can use an old pumpkin to
-measure very large objects as well.
-Place the sun at one end of the object, and the pumpkin at the other.
+measure very large objects.
+Place the sun at one end and the pumpkin at the other.
 If you kick the pumpkin with enough energy tangent to the sun,
 it will orbit in a circle of radius $r$ (the length of the
 object) with angular velocity $\omega$.
+You may have to kick many times until this happens!
+
 Using dimensional analysis, show that
 
 $$
