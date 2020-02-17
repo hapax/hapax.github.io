@@ -308,12 +308,12 @@ Dragging an object through fluid takes work because the
 fluid shears as it moves around the object, and [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
 resistance to shearing.
 
-Our goal will be to determine the drag force on a sphere due to viscosity.
+Our goal will be to determine the drag force on a sphere.
 Here are some things that might be relevant:
-- the radius of the sphere $r$, dimension $[r] = L$;
-- the speed of the sphere $v$, dimension $[v] = LT^{-1}$;
-- the mass of the sphere $m$, dimension $[m] = M$;
-- the density of the fluid $\rho$, dimension $[\rho] = ML^{-3}$;
+- the radius of the sphere $r$, with $[r] = L$;
+- the speed of the sphere $v$, where $[v] = LT^{-1}$;
+- the mass of the sphere $m$, $[m] = M$;
+- the density of the fluid $\rho$, $[\rho] = [m/V] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
 In general, all of these factors are involved, but this is too much
