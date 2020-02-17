@@ -569,10 +569,13 @@ the form of the equation we will use in the rest of the post.
   ⁂
 </p>
 
-**Exercise 4 (factors of $\pi$).** We can sometimes account factors of
-$\pi$ by giving angle its own dimension.
-A periodic system has a cycle, which we can keep track of with an
-arrow, rotating at a uniform speed around the unit circle.
+**Exercise 4 (factors of $\pi$).** We can sometimes account for factors of
+$\pi$ by giving a dimension to *periods* of systems.
+Suppose we have a system repeating itself in time periodically, e.g. a
+swinging pendulum or a planetoid orbiting the sun.
+We can keep track of where the system is in its cycle with an arrow
+moving around a unit circle at constant speed, with one cycle around
+this circle per cycle of the system.
 The arrow (called a *phasor* if you want to be fancy) subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 
