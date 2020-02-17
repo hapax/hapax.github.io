@@ -910,6 +910,7 @@ The *variance* (random variability) of subestimates adds up, and a
 good rule of thumb is to only factorise into subestimates when the
 combined uncertainty of these estimates is much smaller than the
 original.
+This is an instance of the KISS principle.
 (To get technical, by "uncertainty", we mean "error on the logarithmic
 ruler, squared".)
 
