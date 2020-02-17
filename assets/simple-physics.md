@@ -810,7 +810,7 @@ the US.
 
 ### 3.3. KISS<a id="sec-3-3" name="sec-3-3"></a>
 
-*KISS* is the proverbial exhortation to "Keep It Simple, Stupid", and it
+*KISS* is the old military adage to "Keep It Simple, Stupid", and it
 is especially true for Fermi estimates.
 If you want fast, robust estimates, forget about finesse; just
 focus on a *single important mechanism*.
