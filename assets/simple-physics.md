@@ -203,10 +203,7 @@ $$
 \omega = \frac{2\pi}{t}.
 $$
 
-If we imagine the oscillations as being ticked off on a clock of unit
-radius, with one cycle per period, then this is just the velocity of
-the tip of the hand.
-(We will explain another way to get factors of $2\pi$ in Exercise 4.)
+We will explain another way to get factors of $2\pi$ in Exercise 4.
 Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
 $\ell$ and $g$ by a physical law of the form
 
