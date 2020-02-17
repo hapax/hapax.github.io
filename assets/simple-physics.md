@@ -408,8 +408,7 @@ F_\text{weight} = mg = 6\pi \mu r v_{\text{term}} = F_\text{drag}\quad \Longrigh
 \quad v_{\text{term}} = \frac{mg}{6\pi \mu r}.
 $$
 
-The sphere accelerates until it reaches $v_{\text{term}}$; if it
-starts off faster for some reason, it will *slow* until it reaches $v_{\text{term}}$.
+The sphere accelerates until it reaches $v_{\text{term}}$.
 To make life simpler, we can express the mass of the sphere
 in terms of its volume $V$ and average density $\rho$:
 
