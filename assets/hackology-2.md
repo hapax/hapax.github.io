@@ -364,34 +364,6 @@ $$
 
 (b) Conclude that *any* dimension in the range $0 \leq d \leq 1$ is possible.
 
-**Exercise 12 (fractional random walks).** There is a generalisation
-  of random walks called *fractional random walks*, where the average
-  spread scales with the number of steps as
-
-$$
-d \propto n^{H},
-$$
-
-for some number $0 < H < 1$ called the *Hurst index*.
-Random walks have $H = 1/2$.
-
-<span style="padding-left: 20px; display:block">
-(a) Explain why $H > 1/2$ requires that steps be
-*correlated*, i.e. directions persist.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) What relation between steps does Hurst index $H < 1/2$ require?
-</span>
-
-This not just a theoretical exercise.
-The outlines of a coast are jagged, random curves, typically
-described by a fractional random walk with Hurst index $H \sim 0.8$.
-
-<span style="padding-left: 20px; display:block">
-(c) Why should a coastline consist of *correlated* random steps?
-</span>
-
 ---
 
 *Fractals in nature.* All this would be rather esoteric and
@@ -1486,3 +1458,89 @@ not a herd of elephants charging towards you!
 **Exercise 2 (falling balls).** Keeping with our theme of whimsical
 rulers, devise a scheme to measure the size of small spheres of known
 density by dropping them into water.
+
+# Random walks
+
+Dimensional analysis and Fermi estimates are conventional napkin
+algorithms, though in my opinion, both are ripe for hacking.
+In contrast, our last algorithm of *random walks* is not usually
+viewed as a back of the napkin tool.
+
+Imagine an atom jiggling around randomly in a hot gas.
+On average, it will travel some distance $\ell$ between collisions.
+Surprisingly, after $n$ collisions, the approximate distance $d$ from
+where it started is proportional to the *square root* of the number of steps:
+
+$$
+d \sim \ell \sqrt{n}.
+$$
+
+How is this possible?
+The basic trick is to consider the *displacement*, a vector we label
+$\vec{x}$, which is made up of $n$ steps $\vec{s}_i$:
+
+$$
+\vec{x} = \vec{s}_1 + \cdots + \vec{s}_n.
+$$
+
+The distance squared is just the length of the displacement square,
+$d^2 = |\vec{x}|^2$.
+We can expand the displacement into steps as
+
+$$
+\begin{align*}
+d^2 = |\vec{x}|^2 & = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 \\
+& = (s_1^2 + s_2^2 + \cdots +
+s_n^2) + \text{cross-terms}.
+\end{align*}
+$$
+
+This is just a generalisation of the familiar algebraic fact that
+
+$$
+(x + y)^2 = x^2 + y^2 + 2xy = x^2 + y^2 + \text{cross-terms}.
+$$
+
+If the steps have length $\ell$, then each $s_i^2 = \ell^2$.
+If different steps are independent and have no preferred direction,
+then on average, the cross-terms are zero, since different steps have
+no preferred orientation with respect to each other.
+For instance, if $x$ is chosen to be $\pm 1$ with probability
+$1/2$, and $y$ is independently chosen the same way, then $xy = +1$
+half the time, and $xy = -1$ the other half.
+On average, that gives zero.
+The conclusion is that
+
+$$
+d^2 \sim s_1^2 + s_2^2 + \cdots + s_n^2 =
+n\ell^2 \quad \Longrightarrow \quad d \sim \ell \sqrt{n},
+$$
+
+as claimed above.
+
+This $\sqrt{n}$ scaling is the defining feature of a *random walk*.
+Remarkably, nothing depends on the number of dimensions the
+displacement $\vec{x}$ lives in.
+It is just as true for an atom jiggling in three dimensions, a
+drunkard wandering in two dimensions, or a virtual bacterium foraging in a
+216-dimensional simulation.
+
+If a random walker moves with speed $v$, a step takes time
+$\tau = \ell/v$. After time $t$, the random walker will tend to wander
+a distance
+
+$$
+d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
+\sqrt{\ell v}\cdot \sqrt{t} = \sqrt{Dt},
+$$
+
+where we will call $D = \ell v$ the *diffusion coefficient*.
+Even though the walker moves at constant speed, the average distance
+from the origin scales as $d \propto \sqrt{t}$!
+It's important to note that "average distance" is a bit of a
+misnomer.
+We really mean the *average spread* of distance travelled.
+In time $t$, an individual
+walker will explore a region of size $\propto \sqrt{t}$, while a
+batch of walkers released from the same point will fan out to cover
+that region.

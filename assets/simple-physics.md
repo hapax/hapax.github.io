@@ -1035,93 +1035,125 @@ conclusion in (c)?
 
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
 
-Dimensional analysis and Fermi estimates are conventional napkin
-algorithms, though in my opinion, both are ripe for hacking.
-In contrast, our last algorithm of *random walks* is not usually
-viewed as a back of the napkin tool.
+Although they are ripe for hacking, both dimensional analysis and
+Fermi approximation are fairly conventional back-of-the-napkin
+methods.
+In contrast, our final hack --- *random walks* --- is almost never
+seen outside of probability or statistical physics courses.
+It is the main pedagogical innovation of this post.
 
-Imagine an atom jiggling around randomly in a hot gas.
-On average, it will travel some distance $\ell$ between collisions.
-Surprisingly, after $n$ collisions, the approximate distance $d$ from
-where it started is proportional to the *square root* of the number of steps:
+*Random walks: an elementary approach.* Imagine an atom jiggling around randomly in a hot gas.
+On average, it travels some distance $\ell$ between collisions.
+How far does it travel after $n$ collisions?
+Given some fairly mild assumptions, the answer is surprisingly
 
 $$
 d \sim \ell \sqrt{n}.
 $$
 
-How is this possible?
-The basic trick is to consider the *displacement*, a vector we label
-$\vec{x}$, which is made up of $n$ steps $\vec{s}_i$:
+If it travelled in a straight line, the distance would be $d = \ell
+n$, so randomness reduces $n^1$ to $n^{1/2}$.
+
+To see how this happens, let's start watching an atom as it bounces
+around, and label its displacement after the $i$th step $\vec{s}_i$.
+The arrow on top reminds us that displacement is a vector, with an
+associated direction in space, and not just a number.
+Since the distance between collisions is on average $\ell$, we have
+$|\vec{s}_i| = \ell$ and hence $|\vec{s}_i|^2 = \ell^2$.
+After $n$ collisions, the total displacement is
 
 $$
-\vec{x} = \vec{s}_1 + \cdots + \vec{s}_n.
+\vec{x} = \vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n.
 $$
 
-The distance squared is just the length of the displacement square,
-$d^2 = |\vec{x}|^2$.
-We can expand the displacement into steps as
+What is the length $d = |\vec{x}|$? The trick is to square it, yielding
 
 $$
-\begin{align*}
-d^2 = |\vec{x}|^2 & = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 \\
-& = (s_1^2 + s_2^2 + \cdots +
-s_n^2) + \text{cross-terms}.
-\end{align*}
+d^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
 $$
 
-This is just a generalisation of the familiar algebraic fact that
+The cross-terms are things like $\vec{s}_1 \cdot \vec{s}_2$,
+$\vec{s}_2 \cdot \vec{s}_3$, and so on.
+This is a generalisation of the familiar algebraic fact that
 
 $$
-(x + y)^2 = x^2 + y^2 + 2xy = x^2 + y^2 + \text{cross-terms}.
+(x+y)^2 = x^2 + y^2 + 2xy = x^2 + y^2 + \text{cross-terms}.
 $$
 
-If the steps have length $\ell$, then each $s_i^2 = \ell^2$.
-If different steps are independent and have no preferred direction,
-then on average, the cross-terms are zero, since different steps have
-no preferred orientation with respect to each other.
-For instance, if $x$ is chosen to be $\pm 1$ with probability
-$1/2$, and $y$ is independently chosen the same way, then $xy = +1$
-half the time, and $xy = -1$ the other half.
-On average, that gives zero.
-The conclusion is that
+Although it obey similar algebraic properties to normal
+multiplication, the $\cdot$ in terms like $\vec{s}_1\cdot \vec{s}_2$
+has a special geometric interpretation: it tells us how *aligned* the
+vectors $\vec{s}_1$ and $\vec{s}_2$ are.
+Since these are random steps, we don't really care about any two
+specific steps, but rather how aligned they are *on average*.
+If vectors are not aligned on average, then the cross-terms vanish,
+and as claimed we will have
 
 $$
-d^2 \sim s_1^2 + s_2^2 + \cdots + s_n^2 =
-n\ell^2 \quad \Longrightarrow \quad d \sim \ell \sqrt{n},
+d^2 =  s_1^2 + s_2^2 + \cdots s_n^2  = n\ell^2 \quad \Longrightarrow
+\quad d \sim \ell \sqrt{n}.
 $$
 
-as claimed above.
+So, under what circumstances will consecutive steps be unaligned on
+average?
+Two conditions will do it:
 
-This $\sqrt{n}$ scaling is the defining feature of a *random walk*.
-Remarkably, nothing depends on the number of dimensions the
-displacement $\vec{x}$ lives in.
-It is just as true for an atom jiggling in three dimensions, a
-drunkard wandering in two dimensions, or a virtual bacterium foraging in a
-216-dimensional simulation.
+- First, the steps are not biased in any particular direction. But if
+  a walker always wants to walk south, then consecutive steps *will*
+  tend to be aligned.
+- Second, steps are *uncorrelated*, i.e. as soon as a walker steps,
+  they forget the direction they stepped in. If a walker likes to keep
+  going in the same direction, the steps are correlated and will tend
+  to align; if a walker prefers to swap direction with every step,
+  steps will be *anti-correlated* and tend to "anti-align".
+  
+In all our random walks below, both conditions hold (to good
+approximation) and hence steps are unaligned on average.
+You can explore correlated and anti-correlation generalisations of
+random walks in Exercise 12.
 
-If a random walker moves with speed $v$, a step takes time
-$\tau = \ell/v$. After time $t$, the random walker will tend to wander
-a distance
+*Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
+$\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
+will take around $t/\tau$ steps, and will therefore wander a distance
 
 $$
 d \sim \ell \sqrt{n} = \ell \sqrt{\frac{t}{\tau}} =
-\sqrt{\ell v}\cdot \sqrt{t} = \sqrt{Dt},
+\sqrt{\ell v}\cdot \sqrt{t} = \sqrt{Dt}.
 $$
 
-where we will call $D = \ell v$ the *diffusion coefficient*.
+We will call $D = \ell v$ the *diffusion coefficient*.
 Even though the walker moves at constant speed, the average distance
 from the origin scales as $d \propto \sqrt{t}$!
-It's important to note that "average distance" is a bit of a
-misnomer.
-We really mean the *average spread* of distance travelled.
-In time $t$, an individual
-walker will explore a region of size $\propto \sqrt{t}$, while a
-batch of walkers released from the same point will fan out to cover
-that region.
 
 ---
 
+**Exercise 12 (fractional random walks).** There is a generalisation
+  of random walks called *fractional random walks*, where the average
+  spread scales with the number of steps as
 
+$$
+d \propto n^{H},
+$$
+
+for some number $0 < H < 1$ called the *Hurst index*.
+Random walks have $H = 1/2$.
+
+<span style="padding-left: 20px; display:block">
+(a) Explain why $H > 1/2$ requires that steps be
+*correlated*, i.e. directions persist.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) What relation between steps does Hurst index $H < 1/2$ require?
+</span>
+
+This not just a theoretical exercise.
+The outlines of a coast are jagged, random curves, typically
+described by a fractional random walk with Hurst index $H \sim 0.8$.
+
+<span style="padding-left: 20px; display:block">
+(c) Why should a coastline consist of *correlated* random steps?
+</span>
 
 ---
 
