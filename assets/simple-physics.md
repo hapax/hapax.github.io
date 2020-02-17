@@ -995,7 +995,7 @@ How did your friends do?
 
 **Exercise 11 (jumping mugs).** Exponentials may prevent us from doing
   reliable order of magnitude estimates, but they do not prevent us
-  from drawing physical conclusions.
+  from drawing physical conclusions on occasion.
   Let's see how likely it is your mug jumps spontaneously into the air.
 
 <span style="padding-left: 20px; display:block">
@@ -1015,7 +1015,7 @@ spontaneously into the air?
 
 <span style="padding-left: 20px; display:block">
 *Hint.* Atoms move in random directions. The coffee will spontaneously
- jump if most of the atoms in the cup are moving up.
+ jump if all the atoms in the cup are moving up.
 </span>
 
 <span style="padding-left: 20px; display:block">
