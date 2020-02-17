@@ -937,7 +937,7 @@ It may feel like cheating, but if you are doing a Fermi
 problem in real life, also remember that you can make your web of facts
 much larger using Google!
 
-*Nonlinearity.* Another failure mode is "nonlinearity".
+*Nonlinearity.* Our final and most subtle failure mode is "nonlinearity".
 (Props to lukeprog's
 [great tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
 for pointing this out.)
