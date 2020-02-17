@@ -1090,10 +1090,11 @@ If vectors are not aligned on average, then the cross-terms vanish,
 and as claimed we will have
 
 $$
-d^2 =  s_1^2 + s_2^2 + \cdots s_n^2  = n\ell^2 \quad \Longrightarrow
-\quad d \sim \ell \sqrt{n}.
+d^2 \sim  s_1^2 + s_2^2 + \cdots s_n^2  = n\ell^2 \quad \Longrightarrow
+\quad d \sim \ell \sqrt{n},
 $$
 
+where the $\sim$ indicates that this is true *on average*.
 So, under what circumstances will consecutive steps be unaligned on
 average?
 Two conditions will do it:
