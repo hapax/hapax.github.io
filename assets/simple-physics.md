@@ -100,6 +100,8 @@ spirit in the enjoyment and instruction of physics.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
+We will start with one of the powerful but underappreciated tools in
+physics, *dimensional analysis*.
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
 measuring device.

@@ -239,8 +239,9 @@ This solves the minimal network problem on an equilateral triangle!
 	</figure>
 
 Before we go on, we note a couple of features of this trident graph.
-We have a point in the centre, with three incoming edges separated by
+We have a point in the centre, with three edges separated by
 angle $120^\circ$.
+(An edge is just a line between two stations.)
 Remarkably, this is a completely general feature of minimal networks!
 Any time we add a hub, it will have three spokes separated by equal
 angles.
@@ -358,7 +359,7 @@ involves a proof by contradiction.
 
 *Proof.*
 Our first step is to show that it is impossible for a hub to have
-incoming edges separated by less than $120^\circ$.
+edges separated by less than $120^\circ$.
 Suppose we have cities $A_1, A_2, \ldots, A_n$ connected by a
 minimal rail network.
 Also suppose there is a hub station $H$ with incoming rail lines
@@ -524,8 +525,8 @@ Our reasoning shows that minimal networks are trees.
 The number of nodes in the network is $N = n + h$, where $n$ is the
 number of fixed nodes and $h$ counts the hubs we add to make the
 network as short as possible.
-For instance, in Figure 14 we have $N = 9$.
-The number of edges is $E = 7$, which is $N - 1$, and is no
+For instance, in Figure 14 we have $N = 10$.
+The number of edges is $E = 8$, which is $N - 1$, and is no
 coincidence.
 For *any* tree, it turns out that $E = N - 1$.
 To prove this, we first need to know that (unlike real life), in
@@ -557,11 +558,11 @@ nodes in Figure 15). Argue that these must be leaves.
 
 <span style="padding-left: 20px; display:block">
 (b) Take the further node and now find the node or nodes furthest
-away. Argue that these are also leaves.
+away. Argue that these are also leaves, and conclude that every tree has at least two leaves.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) Conclude that every tree has at least two leaves.
+(c)
 Show, using an example, that a tree need not have more than two.
 </span>
 
@@ -601,7 +602,7 @@ $$
 \frac{1}{2}\left(n + 3h\right) \leq E.
 $$
 
-The factor of $2$ is because we are counting edges twice in the
+The factor of $2$ occurs because we are counting edges twice in the
 leftmost and rightmost expression, since each end of an edge is
 associated with a vertex, and we are counting the contribution at each
 vertex once.
