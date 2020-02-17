@@ -500,8 +500,6 @@ Any more unknowns, and you don't have enough equations to determine
 them all!
 There are further subtleties captured by a result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
-See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf) or
-Mahajan's book for an elementary treatment.
 
 *Where is the physics?* You might think that since all we do is
 algebra, there is no physics here at all.
