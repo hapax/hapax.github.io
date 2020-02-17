@@ -939,7 +939,7 @@ much larger using Google!
 
 *Nonlinearity.* Our final and most subtle failure mode is "nonlinearity".
 (Props to lukeprog's
-[great tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
+[great Fermi tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
 for pointing this out.)
 Our method of factorising assumes that subestimates
 are (a) independent and (b) multiply to give the final answer.
