@@ -1019,10 +1019,10 @@ spontaneously into the air?
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) If the cup cycles through a billion different random
-configurations a second, and the universe (along with the mug and your
-coffee table) lasts another $13$ billion
-years, are we likely to see the mug spontaneously jump into the air?
+(c) A mug cycles through about $10^{14}$ random
+configurations per second.
+If you watch your mug until the entropic heat death of the universe
+(about $10^{100]$ years away) are you likely to see it jump?
 </span>
 
 <span style="padding-left: 20px; display:block">
@@ -1034,6 +1034,10 @@ conclusion in (c)?
 ---
 
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
+
+Dimensional analysis and Fermi estimates are conventional napkin
+algorithms, though both are ripe for hacking.
+In contrast, our last algorithm will be a relatively 
 
 Imagine an atom jiggling around randomly in a hot gas.
 On average, it will travel some distance $\ell$ between collisions.
@@ -1116,33 +1120,7 @@ that region.
 
 ---
 
-**Exercise 12 (fractional random walks).** There is a generalisation
-  of random walks called *fractional random walks*, where the average
-  spread scales with the number of steps as
 
-$$
-d \propto n^{H},
-$$
-
-for some number $0 < H < 1$ called the *Hurst index*.
-Random walks have $H = 1/2$.
-
-<span style="padding-left: 20px; display:block">
-(a) Explain why $H > 1/2$ requires that steps be
-*correlated*, i.e. directions persist.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) What relation between steps does Hurst index $H < 1/2$ require?
-</span>
-
-This not just a theoretical exercise.
-The outlines of a coast are jagged, random curves, typically
-described by a fractional random walk with Hurst index $H \sim 0.8$.
-
-<span style="padding-left: 20px; display:block">
-(c) Why should a coastline consist of *correlated* random steps?
-</span>
 
 ---
 

@@ -364,6 +364,34 @@ $$
 
 (b) Conclude that *any* dimension in the range $0 \leq d \leq 1$ is possible.
 
+**Exercise 12 (fractional random walks).** There is a generalisation
+  of random walks called *fractional random walks*, where the average
+  spread scales with the number of steps as
+
+$$
+d \propto n^{H},
+$$
+
+for some number $0 < H < 1$ called the *Hurst index*.
+Random walks have $H = 1/2$.
+
+<span style="padding-left: 20px; display:block">
+(a) Explain why $H > 1/2$ requires that steps be
+*correlated*, i.e. directions persist.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) What relation between steps does Hurst index $H < 1/2$ require?
+</span>
+
+This not just a theoretical exercise.
+The outlines of a coast are jagged, random curves, typically
+described by a fractional random walk with Hurst index $H \sim 0.8$.
+
+<span style="padding-left: 20px; display:block">
+(c) Why should a coastline consist of *correlated* random steps?
+</span>
+
 ---
 
 *Fractals in nature.* All this would be rather esoteric and
