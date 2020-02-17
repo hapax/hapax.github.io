@@ -467,7 +467,7 @@ $$
 </span>
 
 $$
-v_\text{term} \sim \sqrt{\frac{4\pi \rho_\text{water} g r}{3\rho_\text{air}}}.
+v_\text{term} \sim \sqrt{\frac{4\pi g r}{3 }\left(\frac{\rho_\text{water}}{\rho_\text{air}}\right)}.
 $$
 
 <span style="padding-left: 20px; display:block">
