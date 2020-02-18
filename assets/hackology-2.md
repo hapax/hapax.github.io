@@ -1643,3 +1643,83 @@ drops per unit volume.
 The speed $v$ and density $n$ can change with height, but we're only
 interested in these quantities near the ground, so we are at liberty
 to imagine that they are constant everywhere.
+
+---
+
+**Exercise 12 (flipping coins).** Our discussion so far has been a
+little abstract, but we can make random walks concrete with coin flips.
+So, take a fair coin and start flipping it, with the outcome of the $i$th
+flip $s_i = \pm 1$, with $+1$ for tails and $-1$ for heads.
+The sum of $n$ flips is $x$, and really do just multiply and expand,
+with
+
+$$
+x^2 = (s_1 + \cdots + s_n)^2 = s_1^2 + \cdots s_n^2 + 2
+\left[s_1 s_2 + \cdots + s_{n-1}s_n\right].
+$$
+
+We can think of $x$ as describing the position of a random walk on the
+number line.
+Let's check the assertions we made above work!
+
+<span style="padding-left: 20px; display:block">
+(a) For a fair coin, show that on average, $s^2 = 1$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Consider two fair coin flips, $s$ and $s'$.
+	Show that $ss' = +1$ with probability $1/2$ and $ss' = -1$ with
+	probability $1/2$.
+	Conclude that, on average, $ss'$ vanishes.
+	</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Combining the last two arguments, conclude that after $n$ coin
+flips, you tend to spread a distance $\sqrt{n}$ around the origin,
+with $x \sim \sqrt{n}$.
+</span>
+
+Let's now briefly consider two ways for the random walk description to
+fail: bias and correlation.
+A coin has *bias* when it has probability $p \neq 1/2$ of giving $+1$,
+and probability  $q = 1- p$ of giving heads.
+The average value of a coin flip $s$ is then $p - q$.
+Finally, coin flips $s, s'$ have *correlation* $c$ if the
+average value of $ss'$ is
+
+$$
+(ss')_\text{avg} = c + (p-q)^2,
+$$
+
+i.e. there is a tendency $c$ to align, in addition to the bias.
+
+<span style="padding-left: 20px; display:block">
+(d) Show that $s^2 = 1$ even if the coin is biased or flips are correlated.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(e) Suppose that coin flips are uncorrelated, with $c = 0$ for all
+pairs of distinct flips.
+	Argue that
+</span>
+
+$$
+x^2 \sim n + 2n(n-1)(p-q)^2.
+$$
+
+<span style="padding-left: 20px; display:block">
+(f) Show that, for large $n$, biased coins execute a walk obeying
+</span>
+
+$$
+x \sim \sqrt{2}(p-q)n.
+$$
+
+<span style="padding-left: 20px; display:block">
+(g) Now consider an unbiased coin.
+Show that if only successive coin flips are correlated, the walk still obeys $d \propto \sqrt{n}$.
+</span>
+
+Thus,
+
+---

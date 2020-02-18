@@ -69,12 +69,19 @@ Knowing a technique well enough to hack it means you can act on the world in new
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
-Physics is not withouts its hackers
-([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman)
-springs to mind) but unlike computer
+Physics is not withouts its hackers but unlike computer
 science, the hackers are colourful exceptions, tending towards
-goofy irreverence and self-mythology.
+goofy irreverence and self-mythology
+([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman)
+springs to mind).
 But I think hacking should go mainstream.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker1.png" width="40%"/>
+		    <figcaption><i>Physics needs more hacker spirit.</i></figcaption>
+	</div>
+	</figure>
 
 *Napkin hacks.* My goal in this post is to outline a few simple hacks
 for the back of a napkin:
@@ -1165,11 +1172,13 @@ Let's check the assertions we made above work!
 (b) Consider two fair coin flips, $s$ and $s'$.
 	Show that $ss' = +1$ with probability $1/2$ and $ss' = -1$ with
 	probability $1/2$.
-	Conclude that, on average, $ss'$ vanishes.
+	Conclude that, on average, $ss'$ vanishes. (More carefully: if I
+	add up the results of many experiments and divide by the number of
+	experiments, the answer will tend towards $0$.)
 	</span>
 
 <span style="padding-left: 20px; display:block">
-(c) Combining the last two arguments, conclude that after $n$ coin
+(c) Combining the last two arguments, argue that after $n$ coin
 flips, you tend to spread a distance $\sqrt{n}$ around the origin,
 with $x \sim \sqrt{n}$.
 </span>
@@ -1178,15 +1187,14 @@ Let's now briefly consider two ways for the random walk description to
 fail: bias and correlation.
 A coin has *bias* when it has probability $p \neq 1/2$ of giving $+1$,
 and probability  $q = 1- p$ of giving heads.
-The average value of a coin flip $s$ is then $p - q$.
-Finally, coin flips $s, s'$ have *correlation* $c$ if the
-average value of $ss'$ is
+Two flips $s$ and $s'$ are correlated, with strength of correlation
+$c$, if on average
 
 $$
-(ss')_\text{avg} = c + (p-q)^2,
+ss' \sim c + (p-q)^2.
 $$
 
-i.e. there is a tendency $c$ to align, in addition to the bias.
+First, we explore bias.
 
 <span style="padding-left: 20px; display:block">
 (d) Show that $s^2 = 1$ even if the coin is biased or flips are correlated.
@@ -1210,11 +1218,12 @@ $$
 x \sim \sqrt{2}(p-q)n.
 $$
 
-<span style="padding-left: 20px; display:block">
-(g) Now consider an unbiased coin.
-Show that if only successive coin flips are correlated, the walk still obeys $d \propto \sqrt{n}$.
-</span>
+We finish with a different way of getting $d \propto \sqrt{n}$ scaling.
 
+<span style="padding-left: 20px; display:block">
+(g) Consider an unbiased coin with correlations between successive
+flips only. Show that the walk still obeys $d \propto \sqrt{n}$.
+</span>
 
 ---
 
