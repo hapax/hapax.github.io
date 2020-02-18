@@ -66,13 +66,6 @@ of knowledge as
 *information with causal power*.
 Knowing a technique well enough to hack it means you can act on the world in new ways.
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/hacker1v2.png" width="85%"/>
-		    <figcaption><i>Hacking physics with a napkin computer.</i></figcaption>
-	</div>
-	</figure>
-
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
@@ -105,6 +98,14 @@ themselves.
 This world is very close to ours; all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
 
+*Usage notes.* This post consists of three separate though linked
+tutorials.
+The <a href="#sec-2">first</a> (dimensional analysis) and <a
+href="#sec-3">second</a> (Fermi estimates) can be
+read independently. The <a href="#sec-4">last</a> section (random
+walks) assumes you have read the material on dimensional analysis.
+The exercises are generally 
+
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
 We will start with one of the powerful but underappreciated tools in
@@ -134,15 +135,6 @@ $$
 
 Centimetres measure length,
 hours measure time, and pounds measure mass.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/hacker2.png" width="90%"/>
-		    <figcaption><i>Dimensions (mass, length and time)
-    illustrated by an old pumpkin.</i></figcaption>
-	</div>
-	</figure>
-
 More complicated dimensions follow from the basic ones according to
 simple rules which are easier to show than tell.
 Area, for example, has dimensions $L^2$:
@@ -1218,29 +1210,11 @@ $$
 x \sim \sqrt{2}(p-q)n.
 $$
 
-Finally, we consider correlations, returning to unbiased coins for
-simplicity.
-We will discover an interesting generalisation of random walks!
-
 <span style="padding-left: 20px; display:block">
-(g) Show that if only successive coin flips are correlated, the walk
-still obeys $d \propto \sqrt{n}$.
+(g) Now consider an unbiased coin.
+Show that if only successive coin flips are correlated, the walk still obeys $d \propto \sqrt{n}$.
 </span>
 
-<span style="padding-left: 20px; display:block">
-(h) Suppose that some number $n^{H}$ of coin flips have correlation $c> 0$, where $1/2<H<1$.
-	Argue that for large $n$,
-</span>
-
-$$
-d \propto n^H.
-$$
-
-This is called a *fractional random walk*.
-They were discovered by Benoit Mandelbrot, of
-[Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) fame.
-It turns out coastline are well-described by fractional random walks,
-with typical index $H \approx 0.8$.
 
 ---
 
