@@ -1436,7 +1436,7 @@ $$
 1 \text{ AU} =15 \times   10^8 \text{ km}
 $$
 
-is the sun-earth distance.
+is the sun-to-earth distance.
 There are about $25$ million large asteroids, with average diameter
 around the $10$ km mark.
 [Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
