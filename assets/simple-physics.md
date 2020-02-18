@@ -137,7 +137,7 @@ hours measure time, and pounds measure mass.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker2.png" width="85%"/>
+    ="/images/posts/hacker2.png" width="90%"/>
 		    <figcaption><i>Dimensions (mass, length and time)
     illustrated by an old pumpkin.</i></figcaption>
 	</div>
