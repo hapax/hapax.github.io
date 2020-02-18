@@ -1296,8 +1296,7 @@ Collisions occur when objects happen to be in the same
 place at the same time.
 If you want to keep track of what is entering your space, imagine that
 you sweep out an envelope as you move.
-The bigger you are (or more precisely, the bigger your cross-section
-in the direction of motion), the more likely you are to collide with
+The bigger you are, the more likely you are to collide with
 things.
 But you are more likely to collide with elephants than fleas!
 You also want to take into account the size of the objects you might
@@ -1311,7 +1310,7 @@ cylinder, a collision will occur.
 The cross-section $\sigma$ takes into account both your size and the
 size of the objects you collide with.
 If you move a distance $x$, and have scattering cross-section
-$d$ with respect to elephants (or whatever it is you are worried
+$\sigma$ with respect to elephants (or whatever it is you are worried
 about colliding with), your collision cylinder will have volume
 
 $$
@@ -1319,7 +1318,7 @@ V = x\sigma.
 $$
 
 If we know the number of colliding objects (e.g. elephants) per unit
-volume in the vicinity, we can estimate the number of collisions!
+volume in the vicinity, we can estimate the number of collisions.
 For instance, if there are $n$ elephants per unit volume, then on average, you will
 collide with $nV = n\sigma x$ elephants as you move a distance
 $x$.
@@ -1334,8 +1333,8 @@ $$
 $$
 
 This means in particular that if you are much larger than the spheres
-you are bumping into, the cross-section is $\pi R^2$, and if you are
-much smaller, it is $\pi r^2$.
+you are bumping into, the cross-section is approximately $\pi R^2$, and if you are
+much smaller, it is approximtely $\pi r^2$.
 If you are colliding with spheres of the same size, then the
 scattering cross-section is
 
