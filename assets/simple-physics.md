@@ -1732,6 +1732,7 @@ PV = n_\text{mol} \mathcal{R} \mathcal{T},
 $$
 
 where $n_\text{mol}$ is the number of particles in mol, and
+$\mathcal{R}$ is the *ideal gas constant*
 
 $$
 \mathcal{R} = 8.3 \, \text{ J / K mol}.
@@ -1740,34 +1741,37 @@ $$
 Recall that one mole is $N_A$ particles, where $N_A$ is *Avogadro's
 constant*, the number of carbon atoms in a $12$ g lump.
 But Avogadro didn't know his own constant!
-His big contribution is something called *Avogadro's law*:
+His big contribution was a related observation called *Avogadro's law*:
 
 <span style="padding-left: 20px; display:block">
-*Equal volumes of gas, at equal temperature and pressure, contain the
-same number of molecules.*
+Equal volumes of gas, at equal temperature and pressure, contain the
+same number of molecules.
 </span>
 
 This was a prescient insight into the atomic nature of matter,
-anticipating the ideal gas law 45 years prior.
+anticipating the ideal gas law by 45 years.
+It clearly contains the seed of the notion of a mole, which is why
+Perrin named it in Avogadro's honour.
 
 Determining the number of molecules in a sample of gas is the same as
 weighing a molecule.
 This turns out to be hard!
 But it is easy to measure the volume of the gas (place it in a
 container of fixed volume), the pressure (use a barometer), the
-temperature (a thermometer), and finally, the number of mole (the
-magic of chemistry).
-That makes it fairly easy to measure the ideal gas constant $\mathcal{R}$.
+temperature (a thermometer), and the number of mole (chemistry).
+That makes it fairly easy to measure the ideal gas constant
+$\mathcal{R}$.
+But this is simply related to Boltzmann's constant.
 
 <span style="padding-left: 20px; display:block">
 (a) By equating the two different forms of the ideal gas law, deduce
 that $N_A = \mathcal{R}/k_B$.
 </span>
 
-Our goal is going to be to weigh atoms and molecules. If we know the
-molar mass, all we need to do is divide by $N_A$!
+To weigh atoms and molecules, all we need to do is divide the molar
+mass by $N_A$.
 Perrin and Einstein gave the first modern estimates of Avogadro's
-number using Brownian motion, so we will follow in their footsteps.
+number using Brownian motion, and we will follow in random footsteps (ahem).
 
 <span style="padding-left: 20px; display:block">
 (b) Suppose a spherical particle jiggles a distance $d$ in time $t$
@@ -1790,8 +1794,8 @@ He painstakingly prepared tiny spheres of resin, then dropped them
 into warm water and watched them dance.
 The tracks of three resin particles ($r = 0.52 \times 10^{-6}$ m) are
 shown below.
-Observations (the dots) were made every $30$ s, and divisions are
-ruled every $3.125 \,\mu$m.
+The dots are observations made every $30$ s, and divisions on the
+graph are ruled every $3.125 \times 10^{-6}$ m.
 
 <span style="padding-left: 20px; display:block">
 (c) Use the tracks to estimate Avogadro's constant.
@@ -1800,9 +1804,9 @@ viscosity $\eta \approx 0.0011$ kg/m s. </span>
 
 <!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
 
-Now, as you probably know from chemistry class, the official value is
-$N_A = 6.02 \times 10^{23}$ (hopefully you got something close in the
-last question).
+As you probably know from chemistry class, the official value is
+$N_A = 6.02 \times 10^{23}$, and hopefully you got something close in
+the last question.
 We can finally use this to weigh a molecule!
 As a bonus, we can weigh protons and neutrons as well.
 
@@ -1817,7 +1821,7 @@ nucleus.
 How heavy is a proton?
 </span>
 
-I think this is pretty neat. From watching tiny balls jiggle in water,
+I think this is pretty neat. From watching resin balls jiggle in water,
 we can work out the mass of a proton!
 
 ---
