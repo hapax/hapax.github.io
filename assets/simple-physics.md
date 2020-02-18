@@ -1099,17 +1099,17 @@ So, under what circumstances will consecutive steps be unaligned on
 average?
 Two conditions will do it:
 
-- First, the steps are not biased in any particular direction. But if
-  a walker always wants to walk south, then consecutive steps *will*
-  tend to be aligned.
-- Second, steps are *uncorrelated*, i.e. as soon as a walker steps,
-  they forget the direction they stepped in. If a walker likes to keep
-  going in the same direction, the steps are correlated and will tend
-  to align; if a walker prefers to swap direction with every step,
-  steps will be *anti-correlated* and tend to "anti-align".
+- If the walker always wants to go south, consecutive
+  steps will tend to be aligned. So, our first condition is that steps
+  are not *biased* in any particular direction.
+- If the walk like persisting in the same direction (or changing
+  direction on each step), then steps are *correlated* (or
+  *anticorrelated*), and tend to align (or anti-align). So our second
+  condition is that steps are uncorrelated.
   
-In all our random walks below, both conditions hold to good
-approximation, and hence steps are unaligned on average.
+In all our random walks below, the walk is unbiased and uncorrelated
+to good approximation, and hence, steps are unaligned on average.
+You can explore these properties for coin flips in Exercise 12.
 
 *Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
 $\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
