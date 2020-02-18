@@ -1371,7 +1371,7 @@ The trick is to exchange temperature and pressure for number per unit
 volume using the ideal gas law (Exercise 3):
 
 $$
-PV = \mathcal{N}k_B \mathcal{T} \quad \Longrightarrow \quad n = \frac{P}{k_B \mathcal{T}},
+PV = \mathcal{N}k_B \mathcal{T} \quad \Longrightarrow \quad n = \frac{\mathcal{N}}{V}= \frac{P}{k_B \mathcal{T}},
 $$
 
 where $n = \mathcal{N}/V$ is the number of air particles per unit
@@ -1388,8 +1388,8 @@ $$
 10^{-10})^2} \text{ m} \sim 80 \text{ nm}.
 $$
 
-So, on average an air molecule travels around $80$ nm, around $1000$
-human hairs across.
+So, on average an air molecule travels around $80$ nm between
+collisions, a couple of hundred times its own diameter.
 In Exercise 15, you can see how *fast* air molecules diffuse.
 
 One final technical point.
