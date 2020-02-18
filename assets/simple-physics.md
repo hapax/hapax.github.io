@@ -140,7 +140,7 @@ For instance, if we compare the width of the pumpkin to a ruler, the
 dimension is the length, if we put it on some scales it's the mass,
 and if we time how long it takes to rot, the dimension is time.
 
-We denote the dimension of length by $L$, time by $T$ and *mass* by
+We denote the dimension of length by $L$, time by $T$ and mass by
 $M$.
 We use brackets $[\cdot]$ to refer to the dimension of a measurement.
 It's easy when the measurement is given in some units, since we can
