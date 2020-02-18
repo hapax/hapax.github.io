@@ -29,7 +29,7 @@ date:  2020-01-06
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
    2. <a href="#sec-4-2">Bumping into things</a>
-   3. <a href="#sec-4-3">Rainy day dilemma</a>
+   3. <a href="#sec-4-3">Rainy day dilemma*</a>
    4. <a href="#sec-4-4">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
 
@@ -1504,29 +1504,26 @@ D \sim \frac{(k_B \mathcal{T})^{3/2}}{\pi \sqrt{m} P (2r)^2 }.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg
-(once again, this is slightly larger than the mass of an N$_2$
-molecule, since air is mostly nitrogen plus some heavier elements).
+(c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg.
+(Once again, this is slightly larger than the mass of an N$_2$
+molecule, since air is mostly nitrogen plus some heavier elements.)
 Estimate how long it will take an air molecule near your head to reach the
 wall.
 </span>
 
 ---
 
-### 4.3. Rainy day dilemma<a id="sec-4-3" name="sec-4-3"></a>
+### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
 
 (*Note.* This is a fun optional extension of collision
-cylinders. It's not needed for the final section.)
-Let's do a twist on collision cylinders and take moving objects into
-account.
-Rather than do it formally and in general, we will be illustrative and
-specific, solving the age-old problem: should you
-walk or run in the rain?
-Some people argue it doesn't matter (and there is infamous MythBusters
-episode which gets it wrong), but we can use collision cylinders to
-reason it out!
+cylinders, and won't be needed for the next section.)
 
-We will model people as spheres (naturally), but Exercise 16 is more realistic.
+Using our cylinder technology for collisions with moving objects lets
+us solve the age-old problem: should you walk or run in the rain?
+We will Keep It Spherical and model people as spheres, but see
+Exercise 16 for the conventional explanation of this problem where
+people are modelled as boxes.
+
 So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
 is a distance $d$ away.
 The rain consists of tiny balls of water, falling directly down
