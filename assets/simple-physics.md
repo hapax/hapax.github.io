@@ -1818,7 +1818,7 @@ As a bonus, we can weigh protons and neutrons as well.
 (e) Naturally occuring carbon is mostly carbon-12, which has $12$
 nucleons (protons and neutrons of approximately equal mass) in the
 nucleus.
-How heavy is a proton?
+How heavy is a nucleon?
 </span>
 
 I think this is pretty neat. From watching resin balls jiggle in water,
@@ -1853,7 +1853,7 @@ describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems!
 We are bound by convention and familiarity to the typical use
-case, but there's usually something even cooler just around the corner.
+case, but there's usually something cooler just around the corner.
 
 There are other myths in play here, for instance, that the only real
 tool is calculus and its tributaries, and before they master these
