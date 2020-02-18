@@ -1309,19 +1309,19 @@ cross-section $\sigma$, and the centre of another object lies in the
 cylinder, a collision will occur.
 The cross-section $\sigma$ takes into account both your size and the
 size of the objects you collide with.
-If you move a distance $x$, and have scattering cross-section
+If you move a distance $\lambda$, and have scattering cross-section
 $\sigma$ with respect to elephants (or whatever it is you are worried
 about colliding with), your collision cylinder will have volume
 
 $$
-V = x\sigma.
+V = \lambda\sigma.
 $$
 
 If we know the number of colliding objects (e.g. elephants) per unit
 volume in the vicinity, we can estimate the number of collisions.
 For instance, if there are $n$ elephants per unit volume, then on average, you will
-collide with $nV = n\sigma x$ elephants as you move a distance
-$x$.
+collide with $nV = n\sigma \lambda$ elephants as you move a distance
+$\lambda$.
 
 Let's do some very simple examples of cross-sections.
 Picture yourself as a sphere of radius $R$, worried about colliding
@@ -1524,36 +1524,36 @@ spheres; see Exercise 16 for the conventional approach which
 models people as boxes.
 So, you are a sphere of radius $R$ stuck in a rainstorm, with shelter
 a distance $d$ away, which you move towards at some speed $u$.
-The rain falls directly down at speed $v$, with some number $n$ of
-drops per unit volume.
-Although speed $v$ and density $n$ can change with height, we're only
+The rain consists of tiny balls of water falling directly down (no
+wind) at speed $v$, with some number of drops $n$ per unit volume.
+The speed and density can change with height, but we're only
 interested in these quantities near the ground, so we are at liberty
 to imagine that they are constant everywhere.
 
-It seems like we might have to modify collision cylinders to take this
-motion into account, but here's the beautiful thing: we can simply
-think about your path *in the reference frame of the rain*.
+It seems like we might have to modify collision cylinders to take the
+velocity of the rain into account, but there's a beautiful shortcut: we
+just think about everything *in the reference frame of the rain*.
 From the rain's perspective, you travel vertically up at speed $v$, and
-horizontally towards the shelter (represented as a vertical line a
-distance $d$ away) at speed $u$.
+with a horizontal velocity component $u$ towards the shelter
+(represented as a vertical line a distance $d$ away).
 The question is: does the number of drops you collide with on your way
 to shelter depend on $u$?
 If it doesn't, you may as well walk.
 
-But the answer is obviously *yes*: if you stand still, you will get infinitely drenched.
-Let's explore this with a little more care.
+The answer is obviously *yes*, since if you stand still, you will get
+infinitely soaked, but let's explore this with a little more care.
 If you move at speed $u > 0$, you arrive at shelter in time $t = d/u$.
 Hence, your path has length
 
 $$
-x = \sqrt{(vt)^2 + (ut)^2} = d\sqrt{1 + (v/u)^2}.
+\lambda = \sqrt{(vt)^2 + (ut)^2} = d\sqrt{1 + (v/u)^2}.
 $$
 
 Since the drops are small, your cross-section is $\sigma = \pi R^2$,
 and the number of drops you collide with is then
 
 $$
-nV = n  \sigma x = \pi nR^2d\sqrt{1 + (v/u)^2}.
+nV = n  \sigma \lambda = \pi nR^2d\sqrt{1 + (v/u)^2}.
 $$
 
 To make this as small as possible, you should make $u$ as large as
@@ -1571,8 +1571,9 @@ the rain!
 
 ---
 
-**Exercise 17 (cubes and cloudbursts).** Let's now make a slightly more realistic model of a person: a
-box of height $h$, width $w$, and breadth $b$.
+**Exercise 17 (cubes and cloudbursts).** Let's now make a slightly
+more realistic model of a person: a box of height $h$, width $w$, and
+breadth $b$.
 For simplicity, suppose there is no wind, so the rain falls directly
 down, and shelter is a distance $d$ away.
 The collision cylinder will now be made up of two pieces, associated
@@ -1595,10 +1596,12 @@ proportional to $t$.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c) Find the condition for $h, w$ and $d$ under which you should run
+(c) Find the conditions for $h, w$ and $d$ under which you should run
 for cover.
-Are they likely to be satisfied for a human?
+When are they likely to be satisfied for a human?
 </span>
+
+We reach similar conclusions to the sphere, though I personally find the sphere argument quicker and cleaner.
 
 <p align="center">
   ⁂
@@ -1643,8 +1646,8 @@ Now plonk some large, easily visible particles into this fluid,
 for instance pollen grains, of radius $r$ and mass $m$.
 The pollen grains will randomly collide with particles in the fluid,
 executing a random walk as they do so.
-Assuming the grain is much larger than the fluid particles, we can
-treat them as points, so the collision cylinder has cross-section
+If the grain is much larger than the fluid particles, we can
+treat the latter as points, so the collision cylinder has cross-section
 $\sigma = \pi r^2$.
 
 Counting the number of particles is hard, but measuring the
@@ -1689,6 +1692,10 @@ v_{\text{term}} = \frac{mg}{6\pi \mu r},
 $$
 
 where $\mu$ is the viscosity.
+(There are subtleties here since you might expect the terminal velocity to only
+work in the up-down direction, but once again equilibrium is the
+answer. We ask you to take this on faith, and leave the details to the
+textbooks!)
 Putting it all together, we predict a diffusion coefficient
 
 $$
