@@ -68,7 +68,7 @@ Knowing a technique well enough to hack it means you can act on the world in new
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker1.png" width="80%"/>
+    ="/images/posts/hacker1v2.png" width="80%"/>
 		    <figcaption><i>We need more hacker spirit for physics.</i></figcaption>
 	</div>
 	</figure>
