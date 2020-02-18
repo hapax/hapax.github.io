@@ -1516,8 +1516,7 @@ wall.
 ### 4.3. Rainy day dilemma<a id="sec-4-3" name="sec-4-3"></a>
 
 (*Note.* This is a fun optional extension of collision
-cylinders. It's not needed for the final section on Brownian motion.)
-
+cylinders. It's not needed for the final section.)
 Let's do a twist on collision cylinders and take moving objects into
 account.
 Rather than do it formally and in general, we will be illustrative and
