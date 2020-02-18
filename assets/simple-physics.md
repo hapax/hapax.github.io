@@ -1082,7 +1082,7 @@ $$
 \vec{x} = \vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n.
 $$
 
-What is the length $d = |\vec{x}|$? The trick is to square it, yielding
+How can we calculate the length $d = |\vec{x}|$ we are interested in? The trick is to square it, yielding
 
 $$
 d^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
@@ -1125,7 +1125,7 @@ Two conditions will do it:
   
 In all our random walks below, the walk is unbiased and uncorrelated
 to good approximation, and hence, steps are unaligned on average.
-You can explore these properties for coin flips in Exercise 12.
+You can explore these properties in detail for coin flips in Exercise 12.
 
 *Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
 $\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
@@ -1218,20 +1218,29 @@ $$
 x \sim \sqrt{2}(p-q)n.
 $$
 
+Finally, we consider correlations, returning to unbiased coins for
+simplicity.
+We will discover an interesting generalisation of random walks!
+
 <span style="padding-left: 20px; display:block">
-(g) For a biased coin, come up with a combination of *anticorrelation*
-between non-consecutive flips, and *correlation* between consecutive
-flips, which leads to $d \sim \alpha \sqrt{n}$ for large $n$ and some
-number $\alpha$.
+(g) Show that if only successive coin flips are correlated, the walk
+still obeys $d \propto \sqrt{n}$.
 </span>
 
 <span style="padding-left: 20px; display:block">
-*Hint.* Try choosing a value of $c$ for non-consecutive flips $s, s'$
-so that $ss'$ is zero on average.
+(h) Suppose that some number $n^{H}$ of coin flips have correlation $c> 0$, where $1/2<H<1$.
+	Argue that for large $n$,
 </span>
 
-This last exercise shows that a combination of bias, anticorrelation,
-and correlation can lead to the same $\sqrt{n}$ scaling!
+$$
+d \propto n^H.
+$$
+
+This is called a *fractional random walk*.
+They were discovered by Benoit Mandelbrot, of
+[Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) fame.
+It turns out coastline are well-described by fractional random walks,
+with typical index $H \approx 0.8$.
 
 ---
 
