@@ -1479,7 +1479,7 @@ $R$ will have cross-section $R + r$.
 <span style="padding-left: 20px; display:block">
 (c) A $20$ km-wide asteroid is much, much larger than an unmanned
 spacecraft.
-Put all these facts together to explain why the spacecraft will almost
+Calculate the mean free path, and explain why the spacecraft will almost
 never collide with an asteroid.
 </span>
 
