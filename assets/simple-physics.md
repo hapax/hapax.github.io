@@ -96,6 +96,13 @@ none other than Albert Einstein, the greatest physics hacker of all!
 The running theme of rain (<a href="#sec-4-3">pun intended</a>) is a
 little tribute to Vancouver, my city of residence.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/einstein.jpg" width="45%"/>
+		    <figcaption><i>The greatest physics hacker of all.</i></figcaption>
+	</div>
+	</figure>
+
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
 Most people have to wait until grad school to compute viscous drag, estimate
@@ -106,13 +113,16 @@ themselves.
 This world is very close to ours; all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
 
-*Usage notes.* This post consists of three separate though linked
-tutorials.
-The <a href="#sec-2">first</a> (dimensional analysis) and <a
-href="#sec-3">second</a> (Fermi estimates) can be
-read independently. The <a href="#sec-4">last</a> section (random
-walks) assumes you have read the material on dimensional analysis.
-The exercises are generally 
+*Structure.* This post really consists of three distinct tutorials.
+The <a href="#sec-2">first tutorial</a> on dimensional analysis and <a
+href="#sec-3">second tutorial</a> on Fermi estimates can be
+read independently. The <a href="#sec-4">last tutorial</a> on random
+walks assumes you have read the section on <a href="#sec-2-2">Stokes'
+law</a>.
+The exercises are just as important as the text, but only the results
+of 
+Exercise 3 (at <a href="#sec-2-3">the end</a> of the first tutorial)
+are needed subsequently.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
