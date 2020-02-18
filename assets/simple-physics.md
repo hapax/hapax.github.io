@@ -1875,7 +1875,7 @@ In the words of
 [Cyprian of Carthage](https://en.wikipedia.org/wiki/Cyprian),
 
 <span style="padding-left: 20px; display:block">
-Custom without truth is the antiquity of error.
+*Custom without truth is the antiquity of error.*
 </span>
 
 Hacker spirit, with its willingness to peek around the corner, is the perfect antidote for custom without truth.
