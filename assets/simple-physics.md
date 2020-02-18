@@ -66,6 +66,13 @@ of knowledge as
 *information with causal power*.
 Knowing a technique well enough to hack it means you can act on the world in new ways.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker1.png" width="80%"/>
+		    <figcaption><i>We need more hacker spirit for physics.</i></figcaption>
+	</div>
+	</figure>
+
 I think physics needs more hacker spirit: more people willing to fool
 around and explore what our marvellous toolset can do, to creatively
 defy expectations and push the Deutschian envelope.
@@ -255,7 +262,7 @@ m}}{\pi^2} \approx 1
 $$
 
 Incidentally, this explains why grandfather clocks are so large.
-They will house a large (typically non-pumpkin) pendulum with
+They will house a large (typically non-curcurbitar) pendulum with
 $\ell \approx 1$ m.
 
 In order to make the clock, we need a ruler to measure out the length
