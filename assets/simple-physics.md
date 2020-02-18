@@ -1459,9 +1459,9 @@ $$
 is the sun-to-earth distance.
 There are about $25$ million large asteroids, with average diameter
 around the $10$ km mark.
+Although this sounds like a dangerous place,
 [Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
-"numerous unmanned spacecraft have traversed it without
-incident". Let's see why.
+"numerous unmanned spacecraft have traversed it without incident". Let's see why.
 
 <span style="padding-left: 20px; display:block">
 (a) For simplicity, let's flatten the donut into a ring with inner
