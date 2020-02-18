@@ -1506,7 +1506,7 @@ $$
 <span style="padding-left: 20px; display:block">
 (c) The average mass of an air molecule is $m = 5 \times 10^{-26}$ kg
 (once again, this is slightly larger than the mass of an N$_2$
-molecule, since its mostly nitrogen plus some heavier elements).
+molecule, since air is mostly nitrogen plus some heavier elements).
 Estimate how long it will take an air molecule near your head to reach the
 wall.
 </span>
