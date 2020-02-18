@@ -78,7 +78,7 @@ But I think hacking should go mainstream.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker1.png" width="40%"/>
+    ="/images/posts/hacker1.png" width="45%"/>
 		    <figcaption><i>Physics needs more hacker spirit.</i></figcaption>
 	</div>
 	</figure>
@@ -90,10 +90,11 @@ We can think of these as algorithms for a napkin computer!
 They really can be implemented using high school algebra on a napkin,
 without calculus or calculators (though the latter save time and labour).
 While there is whimsy and irreverence aplenty, the focus will be
-*real physics*, culminating in a proof of the existence of atoms, due
-to none other than Albert Einstein!
-As a little tribute to my city of residence, Vancouver, rain is also a
-running theme.
+*real physics*.
+Our goal will be a beautiful proof of the existence of atoms, due to
+none other than Albert Einstein, the greatest physics hacker of all!
+The running theme of rain (<a href="#sec-4-3">pun intended</a>) is a
+little tribute to Vancouver, my city of residence.
 
 Hackery is not just about excellence and creativity for their own
 sake, but has clear pedagogical implications.
