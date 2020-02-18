@@ -122,6 +122,7 @@ law</a>.
 The exercises are just as important as the text, but only the results
 of 
 Exercise 3 (at <a href="#sec-2-3">the end</a> of the first tutorial)
+and Exercise 14 (in the <a href="#sec-4-2">collision section</a>)
 are needed subsequently.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
@@ -1092,7 +1093,7 @@ $$
 \vec{x} = \vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n.
 $$
 
-How can we calculate the length $d = |\vec{x}|$ we are interested in? The trick is to square it, yielding
+How can we calculate the length $|\vec{x}|$ we are interested in? The trick is to square it, yielding
 
 $$
 d^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
@@ -1125,13 +1126,13 @@ So, under what circumstances will consecutive steps be unaligned on
 average?
 Two conditions will do it:
 
-- If the walker always wants to go south, consecutive
+- If the walker always wants to go south, for instance, consecutive
   steps will tend to be aligned. So, our first condition is that steps
   are not *biased* in any particular direction.
-- If the walk like persisting in the same direction (or changing
-  direction on each step), then steps are *correlated* (or
-  *anticorrelated*), and tend to align (or anti-align). So our second
-  condition is that steps are uncorrelated.
+- If the walk like persisting in the same direction, then steps are
+  *correlated* and tend to align (or anti-align). Similarly, if they
+  like changing directions, steps are *anti-correlated* and tend to
+  *anti-align*. So our second condition is that steps are uncorrelated.
   
 In all our random walks below, the walk is unbiased and uncorrelated
 to good approximation, and hence, steps are unaligned on average.
@@ -1218,7 +1219,7 @@ pairs of distinct flips.
 </span>
 
 $$
-x^2 \sim n + 2n(n-1)(p-q)^2.
+d^2 \sim n + 2n(n-1)(p-q)^2.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -1226,14 +1227,14 @@ $$
 </span>
 
 $$
-x \sim \sqrt{2}(p-q)n.
+d \sim \sqrt{2}(p-q)n.
 $$
 
-We finish with a different way of getting $d \propto \sqrt{n}$ scaling.
+We finish by showing how to get a $d \propto \sqrt{n}$ scaling from correlated steps!
 
 <span style="padding-left: 20px; display:block">
-(g) Consider an unbiased coin with correlations between successive
-flips only. Show that the walk still obeys $d \propto \sqrt{n}$.
+(g) Consider an unbiased coin with correlations $c$ between successive
+flips only. Check that the walk still obeys $d \propto \sqrt{n}$.
 </span>
 
 ---
