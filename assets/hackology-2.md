@@ -1620,3 +1620,26 @@ In time $t$, an individual
 walker will explore a region of size $\propto \sqrt{t}$, while a
 batch of walkers released from the same point will fan out to cover
 that region.
+
+We haven't talked about how to deal with colliding objects all moving
+in the same direction, and here's the nice thing: we don't need to!
+Instead, let's think about everything in the reference frame of the
+rain.
+Imagine it extends infinitely in all directions, with density of drops
+$n$.
+You, the sphere, travel in a vertical direction at speed $v$, and
+horizontally towards the shelter (represented as a vertical line a
+distance $d$ away) at some speed of your choice, $u$.
+The question is: does the number of drops you collide with on your way
+to shelter depend on $u$?
+If it doesn't, you may as well walk.
+
+So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
+is a distance $d$ away.
+The rain consists of tiny balls of water, falling directly down
+(no wind) at some speed $v$.
+Viewed in the reference frame of the falling drops, there are $n$
+drops per unit volume.
+The speed $v$ and density $n$ can change with height, but we're only
+interested in these quantities near the ground, so we are at liberty
+to imagine that they are constant everywhere.

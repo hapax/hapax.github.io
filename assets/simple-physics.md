@@ -1459,7 +1459,7 @@ $R$ will have cross-section $R + r$.
 <span style="padding-left: 20px; display:block">
 (c) A $20$ km-wide asteroid is much, much larger than an unmanned
 spacecraft.
-Put all these facts together to explain why an unmanned spacecraft will almost
+Put all these facts together to explain why the spacecraft will almost
 never collide with an asteroid.
 </span>
 
@@ -1518,31 +1518,24 @@ wall.
 (*Note.* This is a fun optional extension of collision
 cylinders, and won't be needed for the next section.)
 
-Using our cylinder technology for collisions with moving objects lets
-us solve the age-old problem: should you walk or run in the rain?
-We will Keep It Spherical and model people as spheres, but see
-Exercise 16 for the conventional explanation of this problem where
-people are modelled as boxes.
-
-So, you are a sphere of radius $R$ caught in a rainstorm, and shelter
-is a distance $d$ away.
-The rain consists of tiny balls of water, falling directly down
-(no wind) at some speed $v$.
-Viewed in the reference frame of the falling drops, there are $n$
+We can apply our collision cylinder technology to solve an age-old problem: should you walk or run in the rain?
+We will present a simple and original argument which models people as
+spheres; see Exercise 16 for the conventional approach which
+models people as boxes.
+So, you are a sphere of radius $R$ stuck in a rainstorm, with shelter
+a distance $d$ away, which you move towards at some speed $u$.
+The rain falls directly down at speed $v$, with some number $n$ of
 drops per unit volume.
-The speed $v$ and density $n$ can change with height, but we're only
+Although speed $v$ and density $n$ can change with height, we're only
 interested in these quantities near the ground, so we are at liberty
 to imagine that they are constant everywhere.
 
-We haven't talked about how to deal with colliding objects all moving
-in the same direction, and here's the nice thing: we don't need to!
-Instead, let's think about everything in the reference frame of the
-rain.
-Imagine it extends infinitely in all directions, with density of drops
-$n$.
-You, the sphere, travel in a vertical direction at speed $v$, and
+It seems like we might have to modify collision cylinders to take this
+motion into account, but here's the beautiful thing: we can simply
+think about your path *in the reference frame of the rain*.
+From the rain's perspective, you travel vertically up at speed $v$, and
 horizontally towards the shelter (represented as a vertical line a
-distance $d$ away) at some speed of your choice, $u$.
+distance $d$ away) at speed $u$.
 The question is: does the number of drops you collide with on your way
 to shelter depend on $u$?
 If it doesn't, you may as well walk.
