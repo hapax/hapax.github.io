@@ -1863,8 +1863,8 @@ This assertion is nonsense, as the examples above
 conclusively demonstrate.
 Similarly, application and experiment are often deemed too difficult
 for quantitative treatment, although they are the
-lifeblood of the physical sciences!
-Once again, this is just plain false.
+lifeblood of the physical sciences.
+Once again, this is just plain false!
 
 In summary, we are dealing with the age-old problem of *tradition*,
 the fact that conventions tend to be received and transmitted
