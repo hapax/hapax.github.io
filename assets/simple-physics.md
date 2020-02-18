@@ -1471,7 +1471,7 @@ never collide with an asteroid.
 "temperature is just atomic motion".
 This is shorthand for "temperature is just average kinetic energy per
 particle"!
-More precisely, temperature is *proportional to* If the average kinetic
+If the average kinetic
 energy per particle $\epsilon_\text{avg}$,
 
 $$
