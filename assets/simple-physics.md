@@ -1396,12 +1396,13 @@ One final technical point.
 Most of this collision cylinder technology assumes that we are
 colliding with *stationary objects*.
 If they are stationary *on average*, that is, there is no preferred
-direction, then the same estimates still work provided you are not too
-much larger than the objects you're colliding with.
-When you are too big, remain still and you will collide with many tiny
-moving objects!
-This is exactly what large objects feel as *pressure*.
-To understand how very large objects interact with a bath of tiny,
+direction, then the same estimates still work provided you are small
+enough, and the colliders are low enough density, that staying still
+will lead to very few collisions.
+But when you are too big or they are too dense, remain still and you
+will collide with many objects!
+This is *pressure*.
+To understand how very large objects interact with a dense bath of tiny,
 randomly moving ones, it's better to use thermodynamics than
 cylinders.
 
