@@ -1163,8 +1163,59 @@ Let's check the assertions we made above work!
 <span style="padding-left: 20px; display:block">
 (c) Combining the last two arguments, conclude that after $n$ coin
 flips, you tend to spread a distance $\sqrt{n}$ around the origin,
-with $|x| \sim \sqrt{n}$.
+with $x \sim \sqrt{n}$.
 </span>
+
+Let's now briefly consider two ways for the random walk description to
+fail: bias and correlation.
+A coin has *bias* when it has probability $p \neq 1/2$ of giving $+1$,
+and probability  $q = 1- p$ of giving heads.
+The average value of a coin flip $s$ is then $p - q$.
+Finally, coin flips $s, s'$ have *correlation* $c$ if the
+average value of $ss'$ is
+
+$$
+(ss')_\text{avg} = c + (p-q)^2,
+$$
+
+i.e. there is a tendency $c$ to align, in addition to the bias.
+
+<span style="padding-left: 20px; display:block">
+(d) Show that $s^2 = 1$ even if the coin is biased or flips are correlated.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(e) Suppose that coin flips are uncorrelated, with $c = 0$ for all
+pairs of distinct flips.
+	Argue that
+</span>
+
+$$
+x^2 \sim n + 2n(n-1)(p-q)^2.
+$$
+
+<span style="padding-left: 20px; display:block">
+(f) Show that, for large $n$, biased coins execute a walk obeying
+</span>
+
+$$
+x \sim \sqrt{2}(p-q)n.
+$$
+
+<span style="padding-left: 20px; display:block">
+(g) For a biased coin, come up with a combination of *anticorrelation*
+between non-consecutive flips, and *correlation* between consecutive
+flips, which leads to $d \sim \alpha \sqrt{n}$ for large $n$ and some
+number $\alpha$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+*Hint.* Try choosing a value of $c$ for non-consecutive flips $s, s'$
+so that $ss'$ is zero on average.
+</span>
+
+This last exercise shows that a combination of bias, anticorrelation,
+and correlation can lead to the same $\sqrt{n}$ scaling!
 
 ---
 
