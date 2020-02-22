@@ -140,6 +140,14 @@ For instance, if we compare the width of the pumpkin to a ruler, the
 dimension is the length, if we put it on some scales it's the mass,
 and if we time how long it takes to rot, the dimension is time.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker2.png" width="45%"/>
+		    <figcaption><i>Time (*T*) is measured by clocks, length (*L*) by
+    rulers, and mass (*M*) by scales.</i></figcaption>
+	</div>
+	</figure>
+
 We denote the dimension of length by $L$, time by $T$ and mass by
 $M$.
 We use brackets $[\cdot]$ to refer to the dimension of a measurement.
