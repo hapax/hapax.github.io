@@ -487,6 +487,13 @@ This just replaces $\rho$ with $\rho - \rho_{\text{fluid}}$.
 Since water is much denser than air, the buoyancy forces in our case
 are negligible.)
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker7.png" width="60%"/>
+		    <figcaption><i>Stokes' law explains why clouds float.</i></figcaption>
+	</div>
+	</figure>
+
 The density of water is $\rho \approx 10^3 \text{ kg/m}^3$, and a
 [typical droplet of water vapour](https://wxguys.ssec.wisc.edu/2013/09/10/how-fast-do-raindrops-fall/)
 has a radius around $r = 2\times 10^{-5} \text{ m}$.
