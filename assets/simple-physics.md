@@ -315,6 +315,13 @@ it will orbit in a circle of radius $r$ (the length of the
 object) with angular velocity $\omega$.
 You may have to kick many times until this happens!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker4.jpg" width="45%"/>
+		    <figcaption><i>Measuring interplanetary distances with a pumpkin.</i></figcaption>
+	</div>
+	</figure>
+
 Using dimensional analysis, show that
 
 $$
