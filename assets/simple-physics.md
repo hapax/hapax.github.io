@@ -363,7 +363,7 @@ Here are some things that might be relevant:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker5.png" width="40%"/>
+    ="/images/posts/hacker5.png" width="45%"/>
 		    <figcaption><i>A fluid drags on a sphere trying to move
     through it.</i></figcaption>
 	</div>
