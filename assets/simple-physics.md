@@ -643,8 +643,8 @@ $$
 PV \sim \mathcal{N}k_B\mathcal{T}.
 $$
 
-In fact, the two sides are actually equal for a dilute gas! This is
-the form of the equation we will use in the rest of the post.
+In fact, the two sides are actually equal for a dilute gas! We will
+use the equals sign for the rest of the post.
 
 <p align="center">
   ⁂
