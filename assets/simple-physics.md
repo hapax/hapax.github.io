@@ -713,10 +713,10 @@ Fermi ... termies.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker9.png" width="45%"/>
+    ="/images/posts/hacker9v2.png" width="45%"/>
 		    <figcaption><i>On a linear ruler, 4 is closer to 1
     than 10. On a logarithmic ruler, where spacings are given by logs
-    in base 10, 4 is closer to 10. </i></figcaption>
+    in base 10, 4 is closer to 10 than 1. </i></figcaption>
 	</div>
 	</figure>
 
@@ -776,6 +776,14 @@ Whenever you are dealing with estimates spread across different orders
 of magnitude, this is better to use than the usual *arithmetic
 mean* $(a+b)/2$.
 The arithmetic mean will just return the bigger number!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker10.png" width="45%"/>
+		    <figcaption><i>Arithmetic mean on a linear
+    ruler. Geometric mean on a logarithmic ruler. </i></figcaption>
+	</div>
+	</figure>
 
 Geometric means are useful for averaging an underestimate and an
 overestimate.
