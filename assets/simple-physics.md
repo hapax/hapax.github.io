@@ -605,6 +605,8 @@ for applications of fundamental constants to black holes!
 **Exercise 3 (ideal gas law).** A gas of $\mathcal{N}$ particles takes up
   space (with volume $V$), presses on its container (with pressure
   $P$), and is hot (with temperature $\mathcal{T}$).
+  These properties are not independent!
+  Their relationship is revealed by dimensional analysis.
 
 <figure>
     <div style="text-align:center"><img src
@@ -612,9 +614,6 @@ for applications of fundamental constants to black holes!
 		    <figcaption><i>Physical properties of a sample of gas.</i></figcaption>
 	</div>
 	</figure>
-
-  These properties are not independent!
-  Their relationship is revealed by dimensional analysis.
 
 <span style="padding-left: 20px; display:block">
 (a) Explain why volume should have dimension $[V] = L^3N$.
