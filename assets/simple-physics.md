@@ -747,7 +747,7 @@ means "we guess the number of countries is $200$, possibly up to a
 factor of $3$".
 (When we do dimensional analysis, we also use a twiddle.
 In both cases, we are saying "up to some numbers out the front that
-fingers crossed are small".)
+are hopefully small".)
 Now you know what a Fermi estimate is, let's learn how to do them!
 
 ### 3.1. Geometric means<a id="sec-3-1" name="sec-3-1"></a>
