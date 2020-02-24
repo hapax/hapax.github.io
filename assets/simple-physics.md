@@ -939,6 +939,14 @@ usage.
 This will make up some fixed fraction of the whole, perhaps $10\%$ or
 so, so we just multiply by $10$ at the end of the day.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker12.png" width="45%"/>
+		    <figcaption><i>Keeping It Spherical when estimating
+    Vancouver power usage.</i></figcaption>
+	</div>
+	</figure>
+
 We start by writing some subestimates, factorising our guess using
 *people* (rather than households) as an intermediate unit:
 
