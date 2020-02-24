@@ -217,7 +217,7 @@ Let's start by listing some relevant quantities:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker3.png" width="35%"/>
+    ="/images/posts/hacker3.png" width="30%"/>
 		    <figcaption><i>Physical features of the pendulous pumpkin.</i></figcaption>
 	</div>
 	</figure>
@@ -361,22 +361,34 @@ Here are some things that might be relevant:
 - the density of the fluid $\rho$, or mass per unit volume $[\rho] = [m_\text{fluid}/V] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
 
-In general, all of these factors are involved, but this is too much
-for dimensional analysis to handle.
-(I explain why <a href="#sec-2-4">below</a>.)
-But if the sphere is moving very slowly, all that matters is its
-geometry as it tries to plow through the fluid, a situation called
-"creeping flow".
-But if the sphere is moving quickly, it is not only ploughing through
-the fluid but *colliding* with it, and the mass of the sphere $m$ and
-density of the fluid $\rho$ will be relevant.
-We will restrict to creeping flow where we can ignore $m$ and $\rho$!
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker5.png" width="40%"/>
+		    <figcaption><i>A fluid drags on a sphere trying to move
+    through it.</i></figcaption>
+	</div>
+	</figure>
+
+In general, all of these factors are involved, but to use dimensional
+analysis, we need to streamline this list of parameters.
+(I explain why dimensional analysis has this restriction <a
+href="#sec-2-4">below</a>.)
+It turns out that different mechanisms dominate the drag force at
+different speeds.
+When the sphere moves very quickly, it is banging water molecules out
+of the way rather than smoothly shearing. In this case, the mass of
+the sphere $m$ and the density of fluid $\rho$ are important, but
+viscosity is not. (You can explore this scenario in Exercise 2.)
+We will look at the opposite regime, where the sphere moves very
+slowly.
+In this case, the sphere smoothly shears through the water without
+collisions, so neither $m$ nor $\rho$ are relevant.
+Drag is dominated by the viscosity $\mu$.
 
 I haven't told you the dimensions of viscosity yet, but we can find
-them fairly easily --- assuming we have access to a fluid mechanics
+them fairly easily --- assuming we have a fluid mechanics
 lab!
-I'll save you the trouble of doing the relevant experiments and tell
-you what happens.
+I'll save you the trouble of doing the experiments and tell you what happens.
 Suppose we have two layers of fluid flow separated by a distance $d$,
 and I try to shear them by moving one layer parallel to the second at speed $v$.
 Experiment shows that the fluid will resist with some force $f = F/A$ per
