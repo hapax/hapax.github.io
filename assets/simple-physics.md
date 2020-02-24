@@ -387,7 +387,7 @@ Drag is dominated by the viscosity $\mu$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker6.png" width="40%"/>
+    ="/images/posts/hacker6.png" width="45%"/>
 		    <figcaption><i>An experiment to determine the dimensions
     of viscosity.</i></figcaption>
 	</div>
