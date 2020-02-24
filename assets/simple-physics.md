@@ -489,7 +489,7 @@ are negligible.)
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker7.png" width="60%"/>
+    ="/images/posts/hacker7.png" width="65%"/>
 		    <figcaption><i>Stokes' law explains why clouds float and
     rain falls.</i></figcaption>
 	</div>
