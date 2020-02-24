@@ -325,17 +325,17 @@ You may have to kick many times until this happens!
 Using dimensional analysis, show that
 
 $$
-r \sim \left[\frac{GM}{\omega^2}\right]^{1/3},
+r \sim \left[\frac{GM_\odot}{\omega^2}\right]^{1/3},
 $$
 
-where $M$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
+where $M_\odot$ is the mass of the sun and $G = 6.7 \times 10^{-11} \text{
 m}^3 \text{/kg s}^2$ is *Newton's constant*, controlling the strength
 of gravity.
 This relation is
 [Kepler's third law](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law)!
 
 *Hint.* You can ignore the mass of the pumpkin due to the
-[equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle): because objects fall the same way in gravitational fields, whatever
+[equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle): objects fall the same way in gravitational fields, whatever
 their mass.
 
 ---
