@@ -217,7 +217,7 @@ Let's start by listing some relevant quantities:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker3.jpg" width="45%"/>
+    ="/images/posts/hacker3.png" width="45%"/>
 		    <figcaption><i>Physical features of the pendulous pumpkin.</i></figcaption>
 	</div>
 	</figure>
@@ -317,7 +317,7 @@ You may have to kick many times until this happens!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker4.jpg" width="45%"/>
+    ="/images/posts/hacker4.png" width="45%"/>
 		    <figcaption><i>Measuring interplanetary distances with a pumpkin.</i></figcaption>
 	</div>
 	</figure>
