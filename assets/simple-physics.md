@@ -138,7 +138,7 @@ and if we time how long it takes to rot, the dimension is time.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker2.png" width="40%"/>
+    ="/images/posts/hacker2.png" width="35%"/>
 		    <figcaption><i>Time (T) is measured by clocks, length (L) by
     rulers, and mass (M) by scales.</i></figcaption>
 	</div>
