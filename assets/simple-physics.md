@@ -711,6 +711,13 @@ and so $4$ rounds up to $10^1 = 10$!
 This is a bit surprising, but just the way things work when you think in
 Fermi ... termies.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker9.png" width="45%"/>
+		    <figcaption><i>Representing 4 on a linear and logarithmic ruler.</i></figcaption>
+	</div>
+	</figure>
+
 Anyway, on a linear ruler, if there is a tick for every whole number,
 rounding to the nearest tick means there is a possible error of $0.5$.
 In the same way, rounding to the nearest tick on a logarithmic ruler
