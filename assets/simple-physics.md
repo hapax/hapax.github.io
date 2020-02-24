@@ -880,6 +880,14 @@ $$
 Somewhat unexpectedly, this is exactly the number quoted in a
 [non-peer-reviewed article](https://www.worldatlas.com/articles/how-many-fish-are-there-in-the-ocean.html). Huh!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker11.png" width="45%"/>
+		    <figcaption><i>A "tree" of subestimates for the number of
+    fish in the sea.</i></figcaption>
+	</div>
+	</figure>
+
 *Full disclosure.* In case you're suspicious, here is where the
 intermediate numbers come from.
 First, you can calculate the total ocean surface from the radius of
