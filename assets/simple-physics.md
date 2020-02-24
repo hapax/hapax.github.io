@@ -385,19 +385,27 @@ In this case, the sphere smoothly shears through the water without
 collisions, so neither $m$ nor $\rho$ are relevant.
 Drag is dominated by the viscosity $\mu$.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker6.png" width="40%"/>
+		    <figcaption><i>An experiment to determine the dimensions
+    of viscosity.</i></figcaption>
+	</div>
+	</figure>
+
 I haven't told you the dimensions of viscosity yet, but we can find
 them fairly easily --- assuming we have a fluid mechanics
 lab!
 I'll save you the trouble of doing the experiments and tell you what happens.
 Suppose we have two layers of fluid flow separated by a distance $d$,
 and I try to shear them by moving one layer parallel to the second at speed $v$.
-Experiment shows that the fluid will resist with some force $f = F/A$ per
+Experiment shows that the fluid will resist with some force $P = F/A$ per
 unit area, proportional to $v$ and inversely proportional to the
 separation $d$.
 The viscosity $\mu$ is the constant of the proportionality, so
 
 $$
-f = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu] =
+P = \frac{F}{A} = \mu \left(\frac{v}{d}\right) \quad \Longrightarrow \quad [\mu] =
 \left[\frac{dF}{Av}\right] = \frac{L(ML/T^2)}{L^2(L/T)} = \frac{M}{LT}.
 $$
 
