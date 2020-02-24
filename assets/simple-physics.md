@@ -363,7 +363,7 @@ Here are some things that might be relevant:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker5.png" width="45%"/>
+    ="/images/posts/hacker5.png" width="50%"/>
 		    <figcaption><i>A fluid drags on a sphere trying to move
     through it.</i></figcaption>
 	</div>
@@ -387,7 +387,7 @@ Drag is dominated by the viscosity $\mu$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker6.png" width="45%"/>
+    ="/images/posts/hacker6.png" width="50%"/>
 		    <figcaption><i>An experiment to determine the dimensions
     of viscosity.</i></figcaption>
 	</div>
