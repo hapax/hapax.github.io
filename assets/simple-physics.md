@@ -691,7 +691,7 @@ A Fermi estimate is a guess accurate to the nearest order of
 magnitude, i.e. rounded to the nearest power of $10$.
 So, viewed through this generous lens, there are $10$ planets, $100$
 countries, and $10$ billion people on the planet.
-The finer points of planetary science, geopolitics, and demography do not affect these guesses!
+The finer points of planetary science, geopolitics, and global census do not affect these guesses!
 
 The nearest power of $10$ is actually a subtle concept.
 For instance, is $4$ closer to $1$ or $10$?
