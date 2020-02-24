@@ -882,7 +882,7 @@ Somewhat unexpectedly, this is exactly the number quoted in a
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker11.png" width="45%"/>
+    ="/images/posts/hacker11.png" width="60%"/>
 		    <figcaption><i>A "tree" of subestimates for the number of
     fish in the sea.</i></figcaption>
 	</div>
