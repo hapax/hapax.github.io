@@ -715,8 +715,7 @@ Fermi ... termies.
     <div style="text-align:center"><img src
     ="/images/posts/hacker9v2.png" width="45%"/>
 		    <figcaption><i>On a linear ruler, 4 is closer to 1
-    than 10. On a logarithmic ruler, where spacings are given by logs
-    in base 10, 4 is closer to 10 than 1. </i></figcaption>
+    than 10. On a logarithmic ruler, the reverse holds!</i></figcaption>
 	</div>
 	</figure>
 
