@@ -1118,6 +1118,9 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
+This observation can be generalised into the *Second Law of
+Thermodynamics*, but we will leave that for another time.
+
 ---
 
 ### 4. Random walks <a id="sec-4" name="sec-4"></a>
