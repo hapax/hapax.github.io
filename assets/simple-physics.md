@@ -714,7 +714,9 @@ Fermi ... termies.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hacker9.png" width="45%"/>
-		    <figcaption><i>Representing 4 on a linear and logarithmic ruler.</i></figcaption>
+		    <figcaption><i>On a linear ruler, 4 is closer to 1
+    than 10. On a logarithmic ruler, where spacings are given by logs
+    in base 10, 4 is closer to 10. </i></figcaption>
 	</div>
 	</figure>
 
