@@ -11,8 +11,8 @@ date:  2020-01-06
   awesome. I discuss three napkin algorithms --- dimensional
   analysis, Fermi estimates, and random walks --- and use them to
   figure out why rain falls, the length of the E. coli genome, and the
-  mass of a proton, among other things. I argue for the widespread use
-  of napkins in physics.*
+  mass of a proton, among other things. These examples suggest an
+  approach to teaching physics oriented around napkin hacks.*
 
 ### Contents
 
@@ -35,8 +35,8 @@ date:  2020-01-06
 
 ## 1. Hacking physics <a id="sec-1" name="sec-1"></a>
 
-*Hacker spirit.* Nowadays, the word "hacker" conjures up visions of dirtbag genius
-teenagers, geopolitical intrigue, and Angelina Jolie's 90s pixie cut.
+*Hacker spirit.* Nowadays, the word "hacker" conjures up visions of
+Russian trolls, Julian Assange, and Angelina Jolie's 90s pixie cut.
 But a nobler usage predates this.
 Hacker culture, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
@@ -84,8 +84,7 @@ But I think hacking should go mainstream.
 	</figure>
 
 *Napkin hacks.* My goal in this post is to outline a few simple hacks
-for the back of a napkin:
-dimensional analysis, Fermi estimates, and random walks.
+for the back of a napkin.
 We can think of these as algorithms for a napkin computer!
 They really can be implemented using high school algebra on a napkin,
 without calculus or calculators (though the latter save time and labour).
@@ -93,8 +92,7 @@ While there is whimsy and irreverence aplenty, the focus will be
 *real physics*.
 Our goal will be a beautiful proof of the existence of atoms, due to
 none other than Albert Einstein, the greatest physics hacker of all!
-The running theme of rain (<a href="#sec-4-3">pun intended</a>) is a
-little tribute to Vancouver, my city of residence.
+The running theme of rain is a tribute to Vancouver, my city of residence.
 
 <figure>
     <div style="text-align:center"><img src
@@ -110,25 +108,23 @@ urban power usage, or determine the size of the E. coli genome.
 But imagine a world where high school students are so empowered that,
 given a few hints, a pencil, and a napkin, they could discover it all
 themselves.
-This world is very close to ours; all we need is a little more hacker
+This world is very close to ours: all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
 
 *Structure.* This post really consists of three distinct tutorials.
-The <a href="#sec-2">first tutorial</a> on dimensional analysis and <a
-href="#sec-3">second tutorial</a> on Fermi estimates can be
+The <a href="#sec-2">dimensional analysis tutorial</a> and <a
+href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
-walks assumes you have read the section on <a href="#sec-2-2">Stokes'
-law</a>.
+walks assumes the dimensional analysis part.
 The exercises are just as important as the text, but only the results
-of 
-Exercise 3 (at <a href="#sec-2-3">the end</a> of the first tutorial)
-and Exercise 14 (in the <a href="#sec-4-2">collision section</a>)
-are needed subsequently.
+of <a href="#sec-2-3">Exercise 3</a>
+and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
+I end with some general thoughts and an annotated bibliography.
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
 We will start with one of the powerful but underappreciated tools in
-physics, *dimensional analysis*.
+physics: *dimensional analysis*.
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
 measuring device.
@@ -218,6 +214,13 @@ Let's start by listing some relevant quantities:
 - gravitational acceleration $g = 9.8 \text{ m/s}^2$, dimension $[g] =
   LT^{-2}$ (from the units);
 - the initial displacement of the pumpkin $x$, dimension $[x] = L$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker3.jpg" width="45%"/>
+		    <figcaption><i>Physical features of the pendulous pumpkin.</i></figcaption>
+	</div>
+	</figure>
 
 Not all of these quantities will turn out to be relevant.
 Galileo discovered that as long as the initial kick is
@@ -1720,10 +1723,10 @@ v_{\text{term}} = \frac{mg}{6\pi \mu r},
 $$
 
 where $\mu$ is the viscosity.
-(There are subtleties here since you might expect the terminal velocity to only
-work in the up-down direction, but once again equilibrium is the
-answer. We ask you to take this on faith, and leave the details to the
-textbooks!)
+You might expect the terminal velocity to apply in the up-down
+direction, but in a thin slice, the gas can't
+tell there is a height difference and velocities are the same in every
+direction!
 Putting it all together, we predict a diffusion coefficient
 
 $$
