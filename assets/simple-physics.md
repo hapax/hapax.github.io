@@ -1162,7 +1162,8 @@ Fermi approximation are fairly conventional back-of-the-napkin
 methods.
 In contrast, our final hack --- *random walks* --- is almost never
 seen outside of probability or statistical physics courses.
-It is the main pedagogical innovation of this post.
+As far as I know, this napkin-based implementation is novel, but more
+importantly, a fun way to combine what we've learned.
 
 *Random walks: an elementary approach.* Imagine an atom jiggling around randomly in a hot gas.
 On average, it travels some distance $\ell$ between collisions.
