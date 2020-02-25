@@ -1258,9 +1258,14 @@ that region.
 
 ---
 
-**Exercise 12 (heads and tails).** Our discussion so far has been a
-little abstract, but we can apply it the familiar example of *coin
-flips*.
+**Exercise 12 (heads and tails).** In case you've found the preceding
+discussion slippery and abstract, we can make things much
+more concrete for the everyday random walk of *flipping coins*.
+The details are a slightly tedious, but not hard, involving only basic
+probability theory.
+As a bonus, here (and here only) we will see what effect bias and
+correlation have on the properties of the walk.
+
 So, take a fair coin and start flipping it, with the outcome of the $i$th
 flip $s_i = \pm 1$, with $+1$ for tails and $-1$ for heads.
 The sum of $n$ flips is $x$, and really do just multiply and expand,
