@@ -2031,7 +2031,7 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
 - [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 Sanjoy Mahajan. An excellent book on math and physics hacks at a more
 advanced level. Based on a course given to MIT undergraduates.
-- [*Investigations on the theory of Brownian movement*](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
+- [**Investigations on the theory of Brownian movement**](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
   Albert Einstein. Einstein's brief but revolutionary paper on
   Brownian motion. Ironically, it starts with the statement he is not
   is Brownian
