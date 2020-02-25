@@ -1333,19 +1333,10 @@ $$
 d^2 \sim n + 2n(n-1)(p-q)^2.
 $$
 
-<span style="padding-left: 20px; display:block">
-(f) Show that, for large $n$, biased coins will tend to drift
-according to
-</span>
-
-$$
-d \sim \sqrt{2}(p-q)n.
-$$
-
 We finish by showing how to get a $d \propto \sqrt{n}$ scaling from correlated steps!
 
 <span style="padding-left: 20px; display:block">
-(g) Consider an unbiased coin with correlation $c$ between successive
+(f) Consider an unbiased coin with correlation $c$ between successive
 flips only. Check that the walk still obeys $d \propto \sqrt{n}$.
 </span>
 
