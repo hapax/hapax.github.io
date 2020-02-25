@@ -120,7 +120,7 @@ The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
 
-[*Note*. Images in this post are still being finalised and may appear, disappear, or undergo sudden change. Do not be alarmed!]
+[*Note*. Images in this post are still being finalised and may appear, disappear, or undergo sudden change. Do not be alarmed! I also plan to add solutions to exercises at some point.]
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
