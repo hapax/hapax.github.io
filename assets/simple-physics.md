@@ -1143,8 +1143,8 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This observation can be generalised into the *Second Law of
-Thermodynamics*, but we will leave that for another time.
+This exercise can be generalised to give the *Second Law of
+Thermodynamics*, but we leave that for another time.
 
 ---
 
