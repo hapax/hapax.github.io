@@ -1908,7 +1908,8 @@ that $N_A = \mathcal{R}/k_B$.
 To weigh atoms and molecules, all we need to do is divide the molar
 mass by $N_A$.
 Perrin and Einstein gave the first modern estimates of Avogadro's
-number using Brownian motion, and we will follow in random footsteps (ahem).
+number using Brownian motion, and we will follow in their footsteps.
+(Remarkably, Einstein proposed no fewer than *five* methods for determining $N_A$.)
 
 <span style="padding-left: 20px; display:block">
 (b) Suppose a spherical particle jiggles a distance $d$ in time $t$
@@ -1924,7 +1925,6 @@ $$
 This is the last equation in
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
-(Remarkably, Einstein proposed no fewer than *five* methods for determining $N_A$.)
 </span>
 
 Perrin used Einstein's method to determine $N_A$.
@@ -1950,8 +1950,8 @@ viscosity $\eta \approx 0.0011$ kg/m s. </span>
 <!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
 
 As you probably know from chemistry class, the official value is
-$N_A = 6.02 \times 10^{23}$, and hopefully you got something close in
-the last question.
+$N_A = 6.02 \times 10^{23}$; hopefully you got something close in
+the last question, but if not, best to use the official value.
 We can finally use this to weigh a molecule!
 As a bonus, we can weigh protons and neutrons as well.
 
