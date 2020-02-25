@@ -1334,7 +1334,8 @@ d^2 \sim n + 2n(n-1)(p-q)^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(f) Show that, for large $n$, biased coins execute a walk obeying
+(f) Show that, for large $n$, biased coins will tend to drift
+according to
 </span>
 
 $$
