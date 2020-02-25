@@ -121,7 +121,7 @@ of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
 I end with some general thoughts and an annotated bibliography.
 
-[*Note*. Images in this post are still under revision and may appear, disappear, or undergo sudden change. Do not be alarmed!]
+[*Note*. Images in this post are still being finalised and may appear, disappear, or undergo sudden change. Do not be alarmed!]
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
