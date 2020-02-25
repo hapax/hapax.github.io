@@ -666,7 +666,7 @@ constant" with dimension $\Xi$.
 This isn't totally crazy, since $360^\circ = 2\pi$ radian!
 
 <span style="padding-left: 20px; display:block">
-(a) Repeat to the pumpkin problems above, now using $[t_\text{period}] =
+(a) Repeat the pumpkin problems above, now using $[t_\text{period}] =
 T/\Xi$ and $2\pi$ as a conversion factor.
 You should obtain the same results!
 </span>
