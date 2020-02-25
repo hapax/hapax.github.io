@@ -115,7 +115,7 @@ spirit in the enjoyment and instruction of physics.
 The <a href="#sec-2">dimensional analysis tutorial</a> and <a
 href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
-walks assumes the dimensional analysis part.
+walks assumes you have read the dimensional analysis section.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
