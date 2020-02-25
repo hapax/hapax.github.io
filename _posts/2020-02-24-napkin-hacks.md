@@ -1181,7 +1181,7 @@ d \sim \ell \sqrt{n}.
 $$
 
 If it travelled in a straight line, the distance would be $d = \ell
-n$, so randomness reduces the power $n^1$ to $n^{1/2}$.
+n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/2}$.
 
 To see how this happens, let's start watching an atom as it bounces
 around, and label its displacement after the $i$th step $\vec{s}_i$.
