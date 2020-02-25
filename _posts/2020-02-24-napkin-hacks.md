@@ -1850,7 +1850,7 @@ genius was to extract specific and testable predictions, which Jean
 Perrin confirmed experimentally in 1908.
 Both Perrin and Einstein received Nobel prizes, in part for this work.
 We'll end with one of the practical applications Einstein suggested
-and Perrin carried out --- weighing molecules!
+and Perrin carried out: calculating Avogadro's constant.
 
 ---
 
