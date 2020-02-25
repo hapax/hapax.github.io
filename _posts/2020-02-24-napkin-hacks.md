@@ -119,7 +119,6 @@ walks assumes you have read the dimensional analysis section.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
-I end with some general thoughts and an annotated bibliography.
 
 [*Note*. Images in this post are still being finalised and may appear, disappear, or undergo sudden change. Do not be alarmed!]
 
