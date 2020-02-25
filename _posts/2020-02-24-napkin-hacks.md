@@ -1150,8 +1150,8 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This exercise can be supercharged to give the *Second Law of
-Thermodynamics*, but we leave that for another time.
+This exercise can be dramatically generlised to give the *Second Law
+of Thermodynamics*, but we won't do so here.
 
 ---
 
@@ -1652,8 +1652,8 @@ wall.
 
 ### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
 
-(*Note.* This is a fun optional extension of collision
-cylinders, and won't be needed for the final section.)
+[*Note.* This is a fun optional extension of collision
+cylinders, and won't be needed for the final section.]
 
 We can apply our collision cylinder technology to solve an age-old problem: should you walk or run in the rain?
 We will present a simple and original argument which models people as
