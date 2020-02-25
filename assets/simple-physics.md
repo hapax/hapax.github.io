@@ -1921,8 +1921,8 @@ on Brownian motion!
 </span>
 
 Perrin used Einstein's method to determine $N_A$.
-He painstakingly prepared tiny spheres of resin, then dropped them
-into warm water and watched them dance.
+He painstakingly prepared tiny spheres of a resin called *gamboge*,
+then dropped them into warm water and watched them dance.
 The tracks of a resin particle ($r = 0.52 \times 10^{-6}$ m) from
 Perrin's data set is shown below.
 The dots are observations made every $30$ s, and divisions on the
