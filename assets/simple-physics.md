@@ -1923,10 +1923,17 @@ on Brownian motion!
 Perrin used Einstein's method to determine $N_A$.
 He painstakingly prepared tiny spheres of resin, then dropped them
 into warm water and watched them dance.
-The tracks of three resin particles ($r = 0.52 \times 10^{-6}$ m) are
-shown below.
+The tracks of a resin particle ($r = 0.52 \times 10^{-6}$ m) from
+Perrin's data set is shown below.
 The dots are observations made every $30$ s, and divisions on the
-graph are ruled every $3.125 \times 10^{-6}$ m.
+graph are ruled at intervals of $3.125 \times 10^{-6}$ m.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/perrin.png" width="50%"/>
+		    <figcaption><i>A gamboling gamboge.</i></figcaption>
+	</div>
+	</figure>
 
 <span style="padding-left: 20px; display:block">
 (c) Use the tracks to estimate Avogadro's constant.
@@ -1984,16 +1991,16 @@ describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
 to solve mechanics problems.
 We are bound by convention and familiarity to the typical use
-case, but there's usually something cooler just around the corner.
+case, but there's often something remarkable just around the corner.
 
-There are other myths in play here, for instance, that the only real
-tool is calculus and its tributaries, and before they master these
-dark arts, students must settle for the weakest possible caricatures
+Other myths are at play here, for instance, that the only real
+tool is calculus and its tributaries, and before students master these
+dark arts, they must settle for the weakest possible caricatures
 of natural law and physical reasoning.
 This assertion is nonsense, as the examples above
 conclusively demonstrate.
 Similarly, application and experiment are often deemed too difficult
-for quantitative treatment, although they are the
+for quantitative treatment, though they are the
 lifeblood of the physical sciences.
 Once again, this is just plain false!
 
@@ -2010,7 +2017,7 @@ In the words of
 </span>
 
 Hacker spirit --- with its willingness to peek around corners and its
-healthy disrespect for authority --- is a perfect antidote for custom without truth.
+healthy disrespect for authority --- is the perfect antidote for custom without truth.
 
 #### Annotated references
 
