@@ -1228,9 +1228,8 @@ For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
 
-So, under what circumstances will consecutive steps be unaligned on
-average?
-Two conditions will do it:
+So, under what circumstances will consecutive steps tend not to align?
+Two conditions will be enough:
 
 - Steps are *unbiased*, i.e. don't prefer any particular direction.
   If they are biased, say the walker likes to head south, then steps
