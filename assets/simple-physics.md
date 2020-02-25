@@ -779,8 +779,7 @@ The arithmetic mean will just return the bigger number!
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hacker10.png" width="45%"/>
-		    <figcaption><i>Arithmetic mean on a linear
-    ruler. Geometric mean on a logarithmic ruler. </i></figcaption>
+		    <figcaption><i>Arithmetic mean for a linear ruler, geometric mean for a logarithmic ruler. </i></figcaption>
 	</div>
 	</figure>
 
@@ -947,7 +946,7 @@ so, so we just multiply by $10$ at the end of the day.
 	</div>
 	</figure>
 
-We start by writing some subestimates, factorising our guess using
+We start with subestimates, factorising our guess using
 *people* (rather than households) as an intermediate unit:
 
 $$
