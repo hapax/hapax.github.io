@@ -1238,10 +1238,10 @@ Two conditions will be enough:
   If the walker likes to follow one step with another in the same
   direction, then steps will tend line up, even though there is no
   preferred direction.
-  
-In all our random walks below, the walk is unbiased and uncorrelated
+
+You can play with these conditions for a simple example in Exercise 12.
+In all our random walks below, however, the walk is unbiased and uncorrelated
 to good approximation, and hence steps are unaligned.
-You can explore these properties in detail for a simple example in Exercise 12.
 
 *Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
 $\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
