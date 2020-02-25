@@ -1400,7 +1400,7 @@ of magnitude!
 
 **Exercise 13 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
-The mooring chain is haphazardly piled on the dock.
+Attached is the mooring chain, piled haphazardly on the dock.
 
 <span style="padding-left: 20px; display:block">
 (a) The links are around $7$ inches in length, and the pile is $4.7$
@@ -1642,7 +1642,7 @@ wall.
 ### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
 
 (*Note.* This is a fun optional extension of collision
-cylinders, and won't be needed for the next section.)
+cylinders, and won't be needed for the final section.)
 
 We can apply our collision cylinder technology to solve an age-old problem: should you walk or run in the rain?
 We will present a simple and original argument which models people as
