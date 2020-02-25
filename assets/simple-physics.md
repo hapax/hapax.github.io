@@ -1924,6 +1924,7 @@ $$
 This is the last equation in
 [Einstein's famous paper](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf)
 on Brownian motion!
+(Remarkably, Einstein proposed no fewer than *five* methods for determining $N_A$.)
 </span>
 
 Perrin used Einstein's method to determine $N_A$.
@@ -2027,14 +2028,12 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
 
 #### Annotated references
 
-https://uwaterloo.ca/chem13news/sites/ca.chem13news/files/uploads/files/may06_2006_page_14.pdf
-
-For more examples, I can't resist
-plugging [my notes](https://hapax.github.io/outreach) for the
-[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-Check them out if you want to see how to apply these hacks
-to black holes, aliens, dark energy, turbulence, mosh pits, or the amount
-of money concealed in couches across Canada!
-I also recommend Sanjoy Mahajan's book
-[*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-covering similar ground at a more advanced level.
+- [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+Sanjoy Mahajan. An excellent book on math and physics hacks at a more
+advanced level. Based on a course given to MIT undergraduates.
+- [*Investigations on the theory of Brownian movement*](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
+  Albert Einstein. Einstein's brief but revolutionary paper on
+  Brownian motion. Ironically, it starts with the statement he is not
+  is Brownian
+  motion, "the information available to me regarding the latter is so
+  lacking in precision, that I can form no judgment in the matter."
