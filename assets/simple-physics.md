@@ -1107,8 +1107,8 @@ How did your friends do?
 
 **Exercise 11 (jumping mugs).** Exponentials may prevent us from doing
   reliable order of magnitude estimates, but they do not prevent us
-  from drawing physical conclusions on occasion.
-  Let's see how likely it is your mug jumps spontaneously into the air.
+  from drawing physical conclusions.
+  Let's see how likely your mug is to jump spontaneously into the air.
 
 <figure>
     <div style="text-align:center"><img src
@@ -1150,7 +1150,7 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This exercise can be generalised to give the *Second Law of
+This exercise can be supercharged to give the *Second Law of
 Thermodynamics*, but we leave that for another time.
 
 ---
