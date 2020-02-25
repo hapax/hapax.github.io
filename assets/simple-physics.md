@@ -1824,7 +1824,7 @@ $$
 
 where $\mu$ is the viscosity.
 You might expect the terminal velocity to apply in the up-down
-direction, but in a thin slice, the gas can't
+direction only, but in a thin slice, the gas can't
 tell there is a height difference and velocities are the same in every
 direction!
 Putting it all together, we predict a diffusion coefficient
@@ -1978,11 +1978,11 @@ Probably, mostly, the inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
 These methods are suitable and well-adapted, but this is precisely
-what makes them low leverage: they are too closely tied to specific applications.
+what makes them low leverage!
 It might surprise you to learn that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
 [draw circuits](https://en.wikipedia.org/wiki/Mechanical%E2%80%93electrical_analogies)
-to solve mechanics problems!
+to solve mechanics problems.
 We are bound by convention and familiarity to the typical use
 case, but there's usually something cooler just around the corner.
 
