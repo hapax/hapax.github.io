@@ -1175,7 +1175,7 @@ d \sim \ell \sqrt{n}.
 $$
 
 If it travelled in a straight line, the distance would be $d = \ell
-n$, so randomness reduces $n^1$ to $n^{1/2}$.
+n$, so randomness reduces the power $n^1$ to $n^{1/2}$.
 
 To see how this happens, let's start watching an atom as it bounces
 around, and label its displacement after the $i$th step $\vec{s}_i$.
@@ -1217,7 +1217,11 @@ d^2 \sim  s_1^2 + s_2^2 + \cdots s_n^2  = n\ell^2 \quad \Longrightarrow
 \quad d \sim \ell \sqrt{n},
 $$
 
-where the $\sim$ indicates that this is true *on average*.
+where the $\sim$ means "roughly speaking".
+For dimensional analysis, "roughly speaking" meant "up to numbers",
+and for Fermi estimates, "roughly speaking" meant "up to a factor of
+$3$". Here, "roughly speaking" means "on average".
+
 So, under what circumstances will consecutive steps be unaligned on
 average?
 Two conditions will do it:
