@@ -1236,7 +1236,7 @@ Two conditions will do it:
   
 In all our random walks below, the walk is unbiased and uncorrelated
 to good approximation, and hence steps are unaligned.
-You can explore these properties in detail for coin flips in Exercise 12.
+You can explore these properties in detail for a simple example in Exercise 12.
 
 *Speed and diffusion.* If a random walker moves with speed $v$, an average step takes time
 $\tau = \ell/v$. After a total time $t$ has elapsed, the random walker
