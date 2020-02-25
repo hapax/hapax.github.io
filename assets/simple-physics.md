@@ -1110,6 +1110,13 @@ How did your friends do?
   from drawing physical conclusions on occasion.
   Let's see how likely it is your mug jumps spontaneously into the air.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker13.png" width="60%"/>
+		    <figcaption><i>Can your mug jump spontaneously into the air?</i></figcaption>
+	</div>
+	</figure>
+
 <span style="padding-left: 20px; display:block">
 (a) Estimate the number of atoms $n_C$ in a
 mug of coffee.
