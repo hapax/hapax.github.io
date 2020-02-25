@@ -1188,7 +1188,7 @@ $$
 \vec{x} = \vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n.
 $$
 
-How can we calculate the length $|\vec{x}|$ we are interested in? The trick is to square it, yielding
+How can we calculate the length of $\vec{x}$? The trick is to square it, yielding
 
 $$
 d^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
