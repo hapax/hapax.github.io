@@ -1258,8 +1258,9 @@ that region.
 
 ---
 
-**Exercise 12 (flipping coins).** Our discussion so far has been a
-little abstract, but we can make random walks concrete with coin flips.
+**Exercise 12 (heads and tails).** Our discussion so far has been a
+little abstract, but we can apply it the familiar example of *coin
+flips*.
 So, take a fair coin and start flipping it, with the outcome of the $i$th
 flip $s_i = \pm 1$, with $+1$ for tails and $-1$ for heads.
 The sum of $n$ flips is $x$, and really do just multiply and expand,
@@ -1359,6 +1360,13 @@ spill out and form a random walk of approximately straight chunks.
 The persistence length is $\ell = 48$ nm, which corresponds to about
 140 base pairs (bp).
 (A base pair is just one of the dumbbell components of the double helix.)
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/ecoli.png" width="45%"/>
+		    <figcaption><i>A ruptured E. coli bacterium.</i></figcaption>
+	</div>
+	</figure>
 
 In the photo above, the nucleus of a single-celled *Escherichia coli*
 (E. coli) bacterium has ruptured.
