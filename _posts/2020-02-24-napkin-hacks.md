@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Hacking physics from the back of a napkin"
 categories: [Physics, Teaching, Hacks]
-date:  2020-01-06
+date:  2020-02-24
 ---
 
-**February 8, 2020.** *The computational power of a humble napkin is
+**February 24, 2020.** *The computational power of a humble napkin is
   awesome. I discuss three napkin algorithms --- dimensional
   analysis, Fermi estimates, and random walks --- and use them to
   figure out why rain falls, the length of the E. coli genome, and the
