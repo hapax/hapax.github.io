@@ -1149,8 +1149,8 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This exercise can be dramatically generlised to give the *Second Law
-of Thermodynamics*, but we won't do so here.
+This exercise can be dramatically generalised to give the *Second Law
+of Thermodynamics*, but we'll save that for another day!
 
 ---
 
@@ -2020,9 +2020,18 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
 
 #### References
 
+- [*Physical Biology of the Cell*](http://www.rpgroup.caltech.edu/pboc2/),
+  Phillips, Kondev, Theriot, Garcia. A superb textbook on the physical
+  and mathematical aspects of cells, imbued with hacker spirit. This
+  is the source for our E. coli estimate.
+- [**Fermi estimates**](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
+  lukeprog. A short and high-powered introduction to Fermi estimates.
 - [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
-Sanjoy Mahajan. An excellent book on math and physics hacks at a more
-advanced level. Based on a course given to undergraduates at MIT.
+Sanjoy Mahajan. An excellent text covering dimensional analysis and
+Fermi estimates at an undergraduate level.
 - [**Investigations on the theory of Brownian movement**](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
   Albert Einstein. Einstein's brief but revolutionary paper on
   Brownian motion.
+- [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495),
+  Weinstein and Adam. A giant compendium of silly Fermi questions and
+  corresponding solution strategies.
