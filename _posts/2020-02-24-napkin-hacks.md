@@ -1232,8 +1232,8 @@ So, under what circumstances will consecutive steps tend not to align?
 Two conditions will be enough:
 
 - Steps are *unbiased*, i.e. don't prefer any particular direction.
-  If they are biased, say the walker likes to head south, then steps
-  will tend to be aligned.
+  If they are biased, say the walker likes to head south, then there
+  is a preferred direction and the steps tend to align with it.
 - Steps are *uncorrelated*, i.e. consecutive steps don't know about
   each other.
   If the walker likes to head in the same direction, for instance,
