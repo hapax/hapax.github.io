@@ -1307,8 +1307,9 @@ with $x \sim \sqrt{n}$.
 
 Let's now briefly consider two ways for the random walk description to
 fail: bias and correlation.
-A coin has *bias* when it has probability $p \neq 1/2$ of giving $+1$,
-and probability  $q = 1- p$ of giving heads.
+A coin has *bias* when there is a probability $p \neq 1/2$ of getting
+$+1$ (heads),
+and $q = 1- p$ of getting $-1$ (tails).
 Two flips $s$ and $s'$ are correlated, with strength of correlation
 $c$, if on average
 
