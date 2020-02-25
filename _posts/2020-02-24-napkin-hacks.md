@@ -1164,9 +1164,9 @@ In contrast, our final hack --- *random walks* --- is almost never
 seen outside of probability or statistical physics courses.
 While our treatment is elementary, it is still a step up from the
 first two tutorials, and is perhaps best left to a second reading.
-But, as always with a good hack, the reward is the application: we
+But, as always with a good hack, our reward is applications: we
 will find the length of the E. coli genome; see why unmanned
-spacecraft don't bother to avoid asteroids; explain whether you should
+spacecraft don't need to avoid asteroids; explain whether you should
 walk or run in the rain; and finally, prove the existence of atoms and
 calculate Avogadro's constant.
 It's action-packed!
