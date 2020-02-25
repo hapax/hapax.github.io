@@ -2027,14 +2027,11 @@ In the words of
 Hacker spirit --- with its willingness to peek around corners and its
 healthy disrespect for authority --- is the perfect antidote for custom without truth.
 
-#### Annotated references
+#### References
 
 - [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
 Sanjoy Mahajan. An excellent book on math and physics hacks at a more
-advanced level. Based on a course given to MIT undergraduates.
+advanced level. Based on a course given to undergraduates at MIT.
 - [**Investigations on the theory of Brownian movement**](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
   Albert Einstein. Einstein's brief but revolutionary paper on
-  Brownian motion. Ironically, it starts with the statement he is not
-  is Brownian
-  motion, "the information available to me regarding the latter is so
-  lacking in precision, that I can form no judgment in the matter."
+  Brownian motion.
