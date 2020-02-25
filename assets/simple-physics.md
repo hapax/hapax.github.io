@@ -1226,13 +1226,13 @@ So, under what circumstances will consecutive steps be unaligned on
 average?
 Two conditions will do it:
 
-- If the walker always wants to go south, for instance, consecutive
-  steps will tend to be aligned. So, our first condition is that steps
-  are not *biased* in any particular direction.
-- If the walk like persisting in the same direction, then steps are
-  *correlated* and tend to align (or anti-align). Similarly, if they
-  like changing directions, steps are *anti-correlated* and tend to
-  *anti-align*. So our second condition is that steps are uncorrelated.
+- Steps are *unbiased*, i.e. don't prefer any particular direction.
+  If they are biased, say the walker likes to head south, then steps
+  will tend to be aligned.
+- Steps are *uncorrelated*, i.e. consecutive steps don't know about
+  each other.
+  If the walker likes to head in the same direction, for instance,
+  then steps will tend to align, even though there is no preferred direction.
   
 In all our random walks below, the walk is unbiased and uncorrelated
 to good approximation, and hence, steps are unaligned on average.
