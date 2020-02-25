@@ -1938,7 +1938,7 @@ graph are ruled at intervals of $3.125 \times 10^{-6}$ m.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/perrin.png" width="50%"/>
-		    <figcaption><i>A gambolling gamboge.</i></figcaption>
+		    <figcaption><i>A gambolling ball of gamboge.</i></figcaption>
 	</div>
 	</figure>
 
