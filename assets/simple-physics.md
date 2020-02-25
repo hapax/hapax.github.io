@@ -226,10 +226,10 @@ Not all of these quantities will turn out to be relevant.
 Galileo discovered that as long as the initial kick is
 small, it has no affect on the period: pendulums are "isochronic".
 Grab a pumpkin, stopwatch and string, and check for yourself!
-(Galileo realised he could exploit this property to make a reliable
-timepiece, and invented the pendulum clock.)
-There is actually a deep physical reason pendulums are isochronic, but
-we will have to leave that for another time!
+Galileo realised he could exploit this property to make a reliable
+timepiece, and invented the pendulum clock.
+(There is actually a deep physical reason pendulums are isochronic for
+small kicks, but we will have to leave that for another time!)
 
 In terms of relevant features, this leaves the pumpkin mass $m$, string length $\ell$, and gravity $g$.
 You can also eliminate the pumpkin mass empirically, but as we'll see,
