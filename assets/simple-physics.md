@@ -1112,7 +1112,7 @@ How did your friends do?
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker13.png" width="60%"/>
+    ="/images/posts/hacker13.png" width="35%"/>
 		    <figcaption><i>Can your mug jump spontaneously into the air?</i></figcaption>
 	</div>
 	</figure>
