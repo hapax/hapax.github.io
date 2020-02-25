@@ -1225,7 +1225,7 @@ $$
 
 where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
-and for Fermi estimates, "roughly speaking" meant "up to a factor of
+and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
 
 So, under what circumstances will consecutive steps be unaligned on
