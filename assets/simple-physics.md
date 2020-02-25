@@ -941,7 +941,7 @@ so, so we just multiply by $10$ at the end of the day.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker12.png" width="65%"/>
+    ="/images/posts/hacker12.png" width="70%"/>
 		    <figcaption><i>Keeping It Spherical when estimating
     Vancouver power usage.</i></figcaption>
 	</div>
@@ -1191,7 +1191,7 @@ $$
 How can we calculate the length of $\vec{x}$? The trick is to square it, yielding
 
 $$
-d^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
+|\vec{x}|^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
 $$
 
 The cross-terms are things like $\vec{s}_1 \cdot \vec{s}_2$,
