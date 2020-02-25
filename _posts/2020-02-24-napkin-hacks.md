@@ -1343,7 +1343,7 @@ $$
 We finish by showing how to get a $d \propto \sqrt{n}$ scaling from correlated steps!
 
 <span style="padding-left: 20px; display:block">
-(g) Consider an unbiased coin with correlations $c$ between successive
+(g) Consider an unbiased coin with correlation $c$ between successive
 flips only. Check that the walk still obeys $d \propto \sqrt{n}$.
 </span>
 
