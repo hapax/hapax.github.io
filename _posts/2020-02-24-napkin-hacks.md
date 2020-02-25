@@ -1236,8 +1236,9 @@ Two conditions will be enough:
   is a preferred direction and the steps tend to align with it.
 - Steps are *uncorrelated*, i.e. consecutive steps don't know about
   each other.
-  If the walker likes to head in the same direction, for instance,
-  then steps will tend to align, even though there is no preferred direction.
+  If the walker likes to follow one step with another in the same
+  direction, then steps will tend line up, even though there is no
+  preferred direction.
   
 In all our random walks below, the walk is unbiased and uncorrelated
 to good approximation, and hence steps are unaligned.
