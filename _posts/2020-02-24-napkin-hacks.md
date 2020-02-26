@@ -2033,5 +2033,5 @@ Fermi estimates at an undergraduate level.
   Albert Einstein. Einstein's brief but revolutionary paper on
   Brownian motion.
 - [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495) (2008),
-  Weinstein and Adam. A giant compendium compendium of Fermi questions and
+  Weinstein and Adam. A giant compendium of Fermi questions and
   corresponding solution strategies. Silly but fun.
