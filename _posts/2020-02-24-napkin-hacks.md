@@ -2024,7 +2024,7 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
   Phillips, Kondev, Theriot, Garcia. A superb textbook on the physical
   and mathematical aspects of cells, imbued with hacker spirit. This
   is the source for our E. coli estimate.
-- [**"Fermi estimates"**](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates) (2014),
+- [**"Fermi estimates"**](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates) (2013),
   lukeprog. A short and high-powered introduction to Fermi estimates.
 - [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (2010),
 Sanjoy Mahajan. An excellent text covering dimensional analysis and
