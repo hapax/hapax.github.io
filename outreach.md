@@ -20,6 +20,9 @@ I co-run the
 
   Here are some talks and problems I've written for the physics circle:
 
+- [*Colliding black holes*](assets/colliding-black-holes.pdf) and
+  [*ET phone home*](assets/ET-phone-home.pdf) (2020). Material for
+  open-ended discussions on black hole collisions and alien signals.
 - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
