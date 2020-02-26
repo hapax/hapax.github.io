@@ -2020,18 +2020,19 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
 
 #### References
 
-- [*Physical Biology of the Cell*](http://www.rpgroup.caltech.edu/pboc2/),
+-
+  [*Physical Biology of the Cell*](http://www.rpgroup.caltech.edu/pboc2/) (2013),
   Phillips, Kondev, Theriot, Garcia. A superb textbook on the physical
   and mathematical aspects of cells, imbued with hacker spirit. This
   is the source for our E. coli estimate.
-- [**Fermi estimates**](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates),
+- [**"Fermi estimates"**](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates) (2014),
   lukeprog. A short and high-powered introduction to Fermi estimates.
-- [*Street-Fighting Mathematics*](http://streetfightingmath.com/),
+- [*Street-Fighting Mathematics*](http://streetfightingmath.com/) (2010),
 Sanjoy Mahajan. An excellent text covering dimensional analysis and
 Fermi estimates at an undergraduate level.
-- [**Investigations on the theory of Brownian movement**](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf),
+- [**"Investigations on the theory of Brownian movement"**](http://www.maths.usyd.edu.au/u/UG/SM/MATH3075/r/Einstein_1905.pdf) (1905),
   Albert Einstein. Einstein's brief but revolutionary paper on
   Brownian motion.
-- [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495),
+- [*Guesstimation*](https://www.amazon.ca/Guesstimation-Solving-Worlds-Problems-Cocktail/dp/0691129495) (2008),
   Weinstein and Adam. A giant compendium compendium of Fermi questions and
   corresponding solution strategies. Silly but fun.
