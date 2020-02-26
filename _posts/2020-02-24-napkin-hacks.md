@@ -1808,7 +1808,7 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-From observing the pollen grains meander, we can directly calculate the diffusion
+From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
 We still need to work out the velocity, $v$, and here is the clever
 part: since our fluid was viscous, and assuming the grains move
@@ -1821,10 +1821,6 @@ v_{\text{term}} = \frac{mg}{6\pi \mu r},
 $$
 
 where $\mu$ is the viscosity.
-You might expect the terminal velocity to apply in the up-down
-direction only, but in a thin slice, the gas can't
-tell there is a height difference and velocities are the same in every
-direction!
 Putting it all together, we predict a diffusion coefficient
 
 $$
