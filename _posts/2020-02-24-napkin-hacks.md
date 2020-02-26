@@ -2020,8 +2020,7 @@ healthy disrespect for authority --- is the perfect antidote for custom without 
 
 #### References
 
--
-  [*Physical Biology of the Cell*](http://www.rpgroup.caltech.edu/pboc2/) (2013),
+- [*Physical Biology of the Cell*](http://www.rpgroup.caltech.edu/pboc2/) (2013),
   Phillips, Kondev, Theriot, Garcia. A superb textbook on the physical
   and mathematical aspects of cells, imbued with hacker spirit. This
   is the source for our E. coli estimate.
