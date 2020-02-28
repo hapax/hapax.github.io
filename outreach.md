@@ -31,23 +31,12 @@ I co-run the
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Circle problems*](assets/circle-probs.pdf) (2018--19). A medley of
+- [*Physics Circle problems and solutions*](assets/circle-probs.pdf) (2018--19). A medley of
   topics from tsunamis to string theory. Requires only high school physics,
   pre-calculus maths, and a strong constitution.
 
-<figure>
-    <div style="text-align:center"><img src ="/images/einstein.png" width="50%" />
-    <figcaption><i>Einstein showing lumps where to flump.</i></figcaption>
-	</div>
-</figure>
-
 ### Other outreach
 
-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) (2019). Look ma, no equations! A conceptual introduction to
-gravity and black holes for interested laypeople.
-- [*Random walks with hungry bacteria*]({{
-  hapax.github.io}}/assets/random.pdf) (2018). A long problem set
-  on random walks, from the perspective of a hungry *E. coli* bacterium.
 - [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
   (2017). An introduction to quantum mechanics and quantum key
   distribution, given at the
@@ -79,3 +68,12 @@ gravity and black holes for interested laypeople.
 [//]: #  - *Group theory and linear algebra* (2016)
 [//]: #  - *Real analysis* (2013--2016)
 [//]: #  - *Linear algebra* (2013)
+
+<!-- - -->
+<!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
+<!-- (2019). Look ma, no equations! A conceptual introduction to -->
+<!-- gravity and black holes for interested laypeople. - -->
+<!-- [*Random walks with hungry bacteria*]({{ -->
+<!-- hapax.github.io}}/assets/random.pdf) (2018). A long problem set -->
+<!-- on random walks, from the perspective of a hungry *E. coli* -->
+<!-- bacterium. -->
