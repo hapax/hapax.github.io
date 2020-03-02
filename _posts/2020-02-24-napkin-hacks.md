@@ -1609,9 +1609,8 @@ $$
 
 where $\epsilon_\text{avg}$ is the kinetic energy per particle and $k_B$ is the Boltzmann constant.
 This is a simple version of a deep result called the *equipartition
-theorem*.
-So Boltzmann's constant tells us how to convert temperature into enrgy
-per particle.
+theorem*, and for my money, it gives the clearest interpretation of
+what temperature is.
 
 <span style="padding-left: 20px; display:block">
 (a) Show that if the particles have mass $m$, the average speed is
