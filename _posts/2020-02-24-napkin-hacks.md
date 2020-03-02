@@ -1990,9 +1990,9 @@ to solve mechanics problems.
 We are bound by convention and familiarity to the typical use
 case, but there's often something remarkable just around the corner.
 
-Other myths are at play here, for instance, that the only real
+Other myths are at play here. One of the most dangerous is that the only real
 tool is calculus and its tributaries, and before students master these
-dark arts, they must settle for the weakest possible caricatures
+dark arts, they must settle for weak caricatures
 of natural law and physical reasoning.
 This assertion is nonsense, as the examples above
 conclusively demonstrate.
