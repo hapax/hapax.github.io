@@ -1504,8 +1504,8 @@ majestic summits, calm valleys and extraordinary wildlife.
 From its fertile soil, students can grow new plants and mine for patterns, fit for the as-yet-unknown
 mathematical needs of the 21st century.
 And even more importantly, they can enjoy the simple pleasures of
-mathematics, which have for so long, and so unnecessarily, been out of
-reach.
+mathematics, which have for so long, and so unnecessarily, been denied
+to most students.
 
 ## Annotated bibliography <a id="sec-5" name="sec-5"></a>
 
