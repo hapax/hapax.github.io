@@ -60,7 +60,6 @@ I co-run the
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
-- *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure.
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
@@ -69,7 +68,7 @@ I co-run the
 [//]: #  - *Real analysis* (2013--2016)
 [//]: #  - *Linear algebra* (2013)
 
-<!-- - -->
+<!-- - *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure. - -->
 <!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
 <!-- (2019). Look ma, no equations! A conceptual introduction to -->
 <!-- gravity and black holes for interested laypeople. - -->
