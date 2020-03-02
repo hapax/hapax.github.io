@@ -112,7 +112,7 @@ themselves.
 This world is very close to ours: all we need is a little more hacker
 spirit in the enjoyment and instruction of physics.
 
-*Structure.* This post really consists of three distinct tutorials.
+*Notes.* This post really consists of three distinct tutorials.
 The <a href="#sec-2">dimensional analysis tutorial</a> and <a
 href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
@@ -121,7 +121,9 @@ The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
 
-[*Note*. Images in this post are still being finalised and may appear, disappear, or undergo sudden change. Do not be alarmed! I also plan to add solutions to exercises at some point.]
+(Images are still being finalised and may appear, disappear, or undergo
+sudden change. Don't be alarmed! I also plan to add solutions to
+exercises at some point.)
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
