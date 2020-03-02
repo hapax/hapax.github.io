@@ -1601,7 +1601,7 @@ never collide with an asteroid.
 **Exercise 16 (equipartition and air time).** People often say that
 "temperature is just atomic motion".
 This is shorthand for "temperature is just average kinetic energy per
-particle"!
+particle".
 If the average kinetic
 energy per particle $\epsilon_\text{avg}$,
 
