@@ -18,16 +18,15 @@ I co-run the
 	</div>
 </figure>
 
-  Here are some talks and problems I've written for the physics circle:
+Some of the material I've written for the circle:
 
-- [*Colliding black holes*](assets/colliding-black-holes.pdf) and
-  [*ET phone home*]({{
+<!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
-  open-ended discussions on black hole collisions and alien signals.
-- [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
+  open-ended discussions on black hole collisions and alien signals. -->
+<!-- - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
-  of aliens in the galaxy. Rough draft.
+  of aliens in the galaxy. Rough draft. -->
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
