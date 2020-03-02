@@ -87,7 +87,7 @@ I think hacking should go mainstream.
 for the back of a napkin.
 We can think of these as algorithms for a napkin computer!
 They really can be implemented using high school algebra on a small
-piece of paper, without calculus or calculators (though the latter save time and labour).
+piece of paper, without calculus or calculators (though the latter can save time and labour).
 While there is whimsy and irreverence aplenty, the focus will be
 *real physics*.
 Our goal will be a beautiful proof of the existence of atoms, due to
