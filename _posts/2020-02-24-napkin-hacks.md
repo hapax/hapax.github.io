@@ -1397,17 +1397,9 @@ of magnitude!
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
 The mooring chain, attached to the anchor, is piled haphazardly on the dock.
 
-<span style="padding-left: 20px; display:block">
-(a) The links are around $7$ inches in length, and the pile is $4.7$
+The links are around $7$ inches in length, and the pile is $4.7$
 m across.
 What is the approximate length of the mooring chain?
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) For vessels in shallow water, a good rule of thumb is that the
-mooring chain is $1.5$ times the depth of the water.
-How deep was the water this vessel fished in?
-</span>
 
 ---
 
