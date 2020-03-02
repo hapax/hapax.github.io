@@ -40,10 +40,10 @@ Some of the material I've written for the circle:
   (2017). An introduction to quantum mechanics and quantum key
   distribution, given at the
   [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/).
-- [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
+<!-- - [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
   (2016). How to build quantum computers with
   quasiparticles, i.e. particles which are neither bosons nor
-  fermions. A talk to undergraduates at the University of Melbourne.
+  fermions. A talk to undergraduates at the University of Melbourne. -->
 - [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo.md) (2015).
   Black holes ain't so different from a hot box of gas. A talk to
   undergraduates at the University of Melbourne.
