@@ -120,9 +120,9 @@ walks assumes you have read the dimensional analysis section.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
+(I plan to add solutions in the near future.)
 Images are still being finalised and may appear, disappear, or undergo
-sudden change. Don't be alarmed! I also plan to add solutions to
-exercises in the near future.
+sudden change. Don't be alarmed!
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
