@@ -1265,18 +1265,11 @@ that region.
 
 ---
 
-**Exercise 12 (heads and tails).** In case you've found the preceding
-discussion slippery and abstract, we can make things much
-more concrete for the everyday random walk of *flipping coins*.
-The details are a slightly tedious, but not hard, involving only basic
-probability theory.
-As a bonus incentive, here (and here only) we explore the effects of
-bias and correlation on the properties of the walk.
-
-So, take a fair coin and start flipping it, with the outcome of the $i$th
-flip $s_i = \pm 1$, with $+1$ for tails and $-1$ for heads.
-The sum of $n$ flips is $x$, and really do just multiply and expand,
-with
+**Exercise 12 (heads and tails).** Take a fair coin and start flipping
+it.
+The outcome of the $i$th flip is $s_i = \pm 1$, with $+1$ for tails
+and $-1$ for heads, and the sum of $n$ flips is $x$.
+To square $x$, we really do just multiply and expand, with
 
 $$
 x^2 = (s_1 + \cdots + s_n)^2 = s_1^2 + \cdots s_n^2 + 2
@@ -1285,7 +1278,6 @@ $$
 
 We can think of $x$ as describing the position of a random walk on the
 number line.
-Let's check the assertions we made above work!
 
 <span style="padding-left: 20px; display:block">
 (a) For a fair coin, show that on average, $s^2 = 1$.
@@ -1302,17 +1294,16 @@ Let's check the assertions we made above work!
 
 <span style="padding-left: 20px; display:block">
 (c) Combining the last two arguments, argue that after $n$ coin
-flips, you tend to spread a distance $\sqrt{n}$ around the origin,
+flips, the random walk tends to spread a distance $\sqrt{n}$ around the origin,
 with $x \sim \sqrt{n}$.
 </span>
 
 Let's now briefly consider two ways for the random walk description to
 fail: bias and correlation.
 A coin has *bias* when there is a probability $p \neq 1/2$ of getting
-$+1$ (heads),
-and $q = 1- p$ of getting $-1$ (tails).
-Two flips $s$ and $s'$ are correlated, with strength of correlation
-$c$, if on average
+$+1$ (tails),
+and $q = 1- p$ of getting $-1$ (heads).
+Two flips $s$ and $s'$ are *correlated* with $c$ if on average
 
 $$
 ss' \sim c + (p-q)^2.
@@ -1321,24 +1312,24 @@ $$
 First, we explore bias.
 
 <span style="padding-left: 20px; display:block">
-(d) Show that $s^2 = 1$ even if the coin is biased or flips are correlated.
+(d) Explain why $s^2 = 1$ even if the coin is biased or flips are correlated.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(e) Suppose that coin flips are uncorrelated, with $c = 0$ for all
-pairs of distinct flips.
-	Argue that
+(e) For biased but uncorrelated coin flips, derive
 </span>
 
 $$
-d^2 \sim n + 2n(n-1)(p-q)^2.
+d^2 \sim n + n(n-1)(p-q)^2.
 $$
 
-We finish by showing how to get a $d \propto \sqrt{n}$ scaling from correlated steps!
+We finish by showing how to get a $d \propto \sqrt{n}$ scaling from
+correlated steps.
+Consider an unbiased coin with correlation $c$ *between successive
+flips only*.
 
 <span style="padding-left: 20px; display:block">
-(f) Consider an unbiased coin with correlation $c$ between successive
-flips only. Check that the walk still obeys $d \propto \sqrt{n}$.
+(f) Check that the walk still obeys $d \propto \sqrt{n}$.
 </span>
 
 ---
@@ -1405,7 +1396,7 @@ of magnitude!
 
 **Exercise 13 (gone fishing).** Wandering the shipyards one day, you
 notice a rusty old anchor, probably from a decommissioned fishing vessel.
-Attached is the mooring chain, piled haphazardly on the dock.
+The mooring chain, attached to the anchor, is piled haphazardly on the dock.
 
 <span style="padding-left: 20px; display:block">
 (a) The links are around $7$ inches in length, and the pile is $4.7$
