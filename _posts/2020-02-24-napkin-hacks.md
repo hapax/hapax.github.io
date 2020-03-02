@@ -74,7 +74,7 @@ science, the hackers are colourful exceptions, tending towards
 goofy irreverence and self-mythology
 ([Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman)
 springs to mind).
-But I think hacking should go mainstream.
+I think hacking should go mainstream.
 
 <figure>
     <div style="text-align:center"><img src
