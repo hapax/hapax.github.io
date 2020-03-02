@@ -1943,9 +1943,8 @@ viscosity $\eta \approx 0.0011$ kg/m s. </span>
 <!-- cluster: 20 points with d ~ 5 divisions, 20*30*8.3*290/((5*0.000003125)^2*6*pi*0.0011*(0.52*10^(-6))) -->
 
 As you probably know from chemistry class, the official value is
-$N_A = 6.02 \times 10^{23}$; hopefully you got something close in
-the last question, but if not, best to use the official value.
-We can finally use this to weigh a molecule!
+$N_A = 6.02 \times 10^{23}$. Hopefully you got something close in
+the last question! We can finally use this to weigh a molecule.
 As a bonus, we can weigh protons and neutrons as well.
 
 <span style="padding-left: 20px; display:block">
