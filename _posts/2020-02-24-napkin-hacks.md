@@ -1876,8 +1876,8 @@ same number of molecules.*
 </span>
 
 This was a prescient insight into the atomic nature of matter,
-anticipating the ideal gas law by 45 years.
-It clearly contains the seed of the molar notion, so Perrin named it in Avogadro's honour.
+anticipating the ideal gas law (discovered by Clapeyron) 45 years later.
+It clearly contains the seed of the molar notion, so Perrin named it after Avogadro.
 
 Determining the number of molecules in a sample of gas is the same as
 weighing a molecule.
@@ -1886,11 +1886,12 @@ But it is easy to measure the volume of the gas (place it in a
 container of fixed volume), the pressure (use a barometer), the
 temperature (a thermometer), and the number of mole (chemistry).
 That makes it fairly easy to measure the ideal gas constant
-$\mathcal{R}$.
-But this is simply related to Boltzmann's constant.
+$\mathcal{R}$ (first performed in 1850 or so by
+[Henri Regnault](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)),
+so we will take it as a given, and leave ourselves the much harder task of weighing atoms.
 
 <span style="padding-left: 20px; display:block">
-(a) By equating the two different forms of the ideal gas law, deduce
+(a) First, by equating the two different forms of the ideal gas law, deduce
 that $N_A = \mathcal{R}/k_B$.
 </span>
 
