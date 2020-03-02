@@ -34,20 +34,6 @@ Some of the material I've written for the circle:
   (2018--19). A medley of problems on everything from string theory to
   Starbucks. Requires only high school physics and a strong constitution.
 
-### Other outreach
-
-- [*Entanglement and quantum secrecy*](assets/2017-06-16-entanglement.md)
-  (2017). An introduction to quantum mechanics and quantum key
-  distribution, given at the
-  [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/).
-<!-- - [*Quantum computing in flatland*](assets/2016-05-03-quasi-qcomp.md)
-  (2016). How to build quantum computers with
-  quasiparticles, i.e. particles which are neither bosons nor
-  fermions. A talk to undergraduates at the University of Melbourne. -->
-- [*Black hole thermodynamics*](assets/2015-08-31-bh-thermo.md) (2015).
-  Black holes ain't so different from a hot box of gas. A talk to
-  undergraduates at the University of Melbourne.
-
 ### Teaching
 
 - *Physical systems* (2016). A
