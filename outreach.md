@@ -30,8 +30,8 @@ Some of the material I've written for the circle:
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Physics Circle problems and solutions*](assets/circle-probs.pdf) (2018--19). A medley of
-  topics from tsunamis to string theory. Requires only high school physics,
+- [*Physics Circle problems and solutions*](assets/circle-probs.pdf)
+  (2018--19). A medley of topics. Requires only high school physics,
   pre-calculus maths, and a strong constitution.
 
 ### Other outreach
