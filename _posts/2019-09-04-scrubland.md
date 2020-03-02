@@ -262,7 +262,7 @@ of social contract called the *original position*).
 A secondary argument is that maximin should lead to a "trickle up"
 effect where *everyone* benefits.
 
-Of the various design principle we could adopt, I think there is a
+Of the various design principles we could adopt, I think there is a
 similar **maximin
 test** which should supersede the shrub test:
 
