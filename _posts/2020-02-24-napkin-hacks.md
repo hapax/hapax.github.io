@@ -1815,8 +1815,8 @@ coefficient $D = \ell v$, since $d^2 \sim Dt$.
 We still need to work out the velocity, $v$, and here is the clever
 part: since our fluid was viscous, and assuming the grains move
 slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
-If the grains are in equilibrium, it's reasonable to guess that their
-velocity is the terminal velocity we calculated earlier:
+Since the grains are in equilibrium, it's reasonable to guess that their
+velocity is the terminal velocity
 
 $$
 v_{\text{term}} = \frac{mg}{6\pi \mu r},
