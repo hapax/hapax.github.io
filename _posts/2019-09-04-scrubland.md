@@ -1469,9 +1469,19 @@ same dubious cliches about using maths in real life, and get genuinely
 excited about what they teach.
 Their enthusiasm will be infectious.
 
+#### Why are the problems in section 3 so hard?
+
+I decided to experiment with format and try introducing material via
+clear exposition (in section 2) and via problems (in section 3). The
+gap between them seems may seem large, but I am imagining the latter
+as longer assignments for students who have already mastered the
+material.
+These longer questions also serve to make the cheeky rhetorical point
+that the textbook problems are dull.
+
 #### What's next?
 
-Instead of *replacing* the curriculum (an overambitious and long-term
+Instead of *replacing* the curriculum (an overambitious long-term
 goal), paths out of the scrubland can be offered as a complement to
 standard material.
 In the near future, I hope to start assembling a database of
