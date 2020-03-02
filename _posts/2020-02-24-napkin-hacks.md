@@ -1238,7 +1238,7 @@ Two conditions will be enough:
 - Steps are *uncorrelated*, i.e. consecutive steps don't know about
   each other.
   If the walker likes to follow one step with another in the same
-  direction, then steps will tend line up, even though there is no
+  direction, then steps will tend line up, even if there is no
   preferred direction.
 
 You can play with these conditions for a simple example in Exercise 12.
