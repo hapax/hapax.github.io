@@ -1478,8 +1478,7 @@ as assignments for students who have already mastered the basic
 material.
 Don't throw them in the deep end until they can swim!
 Whether or not they are pedagogically optimal, the longer questions
-are also in place to make a cheeky rhetorical point: textbook problems
-are dull.
+are there to make the cheeky rhetorical point that textbook problems are dull.
 
 #### What's next?
 
