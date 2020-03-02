@@ -1476,9 +1476,10 @@ informal, expository way (section 2) and via problems (in section 3). The
 maturity gap between them may seem large, but I am imagining the latter
 as assignments for students who have already mastered the basic
 material.
-Don't throw them in the deep end until they can swim!
+In other words, they are "deep end" questions, and assume students
+know how to swim!
 Whether or not they are pedagogically optimal, the longer questions
-are there to make the cheeky rhetorical point that textbook problems are dull.
+are also there to make the cheeky rhetorical point that textbooks are dull.
 
 #### What's next?
 
