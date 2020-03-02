@@ -12,12 +12,10 @@ I'm David Wakeham, a PhD student in the
 I'm interested in [gravity, conformal field theory and black holes](https://hapax.github.io/research).
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students).
-Further academic details can be found in my CV (available on request).
 
 I'm originally from Melbourne, Australia, where I completed degrees in
-maths and philosophy, and an MSc in physics.
-When I'm not working on physics, I enjoy science outreach,
-art, literature, recreational coding, and philosophy.
+maths, philosophy, and physics.
+Further academic details can be found in my CV (available on request).
 
 ### Contact me
 
@@ -31,8 +29,8 @@ art, literature, recreational coding, and philosophy.
 This site is hosted by [Github Pages](https://pages.github.com/) and
 uses [Jekyll Now](https://github.com/barryclark/jekyll-now), a
 [Jekyll](https://jekyllrb.com/) theme by Barry Clark.
-Images appearing on the site are my own (unless otherwise specific),
-made using a combination of [Inkscape](https://inkscape.org/en/),
+Images appearing on the site are my own (unless otherwise specified),
+and made with [Inkscape](https://inkscape.org/en/),
 [GIMP](https://www.gimp.org/) and [Krita](https://krita.org/en/).
 [Lexend](https://fonts.google.com/specimen/Lexend+Deca) and
 [Nunito](https://fonts.google.com/specimen/Nunito) courtesy of [Google Fonts](https://fonts.google.com/).
