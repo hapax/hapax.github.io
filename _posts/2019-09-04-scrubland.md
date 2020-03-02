@@ -1527,7 +1527,7 @@ writing this post. I've included some brief annotations.
   aesthetics of complexity.
   I think the fascination of the blancmange and other "pathological"
   examples holds the same appeal as the tangle of roots on a riverbank
-  (motivating the analogy of "wildlife").
+  did for Darwin.
 - [**_A Mathematician's Apology_**](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf)
   (1940), G. H. Hardy. The classic apologia for pure
   mathematics. Hardy somewhat amusingly insists on the uselessness of
