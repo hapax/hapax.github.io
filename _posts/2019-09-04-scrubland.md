@@ -1471,13 +1471,15 @@ Their enthusiasm will be infectious.
 
 #### Why are the problems in section 3 so hard?
 
-I decided to experiment with format and try introducing material via
-clear exposition (in section 2) and via problems (in section 3). The
-gap between them seems may seem large, but I am imagining the latter
-as longer assignments for students who have already mastered the
+I decided to experiment with format and try introducing material in an
+informal, expository way (section 2) and via problems (in section 3). The
+maturity gap between them may seem large, but I am imagining the latter
+as assignments for students who have already mastered the basic
 material.
-These longer questions also serve to make the cheeky rhetorical point
-that the textbook problems are dull.
+Don't throw them in the deep end until they can swim!
+Whether or not they are pedagogically optimal, the longer questions
+are also in place to make a cheeky rhetorical point: textbook problems
+are dull.
 
 #### What's next?
 
