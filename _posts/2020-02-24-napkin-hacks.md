@@ -1323,8 +1323,7 @@ $$
 d^2 \sim n + n(n-1)(p-q)^2.
 $$
 
-We finish by showing how to get a $d \propto \sqrt{n}$ scaling from
-correlated steps.
+We end with correlation.
 Consider an unbiased coin with correlation $c$ *between successive
 flips only*.
 
