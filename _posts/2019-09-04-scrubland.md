@@ -1534,7 +1534,8 @@ writing this post. I've included some brief annotations.
   special relativity (atomic energy) and number theory (cryptography),
   which I think goes to show that use and beauty will always be intertwined.
 - [**_Problems in General Physics_**](https://archive.org/details/IrodovProblemsInGeneralPhysics)
-  (1981), Igor Irodov. A concise, Soviet-style introduction to mechanics.
+  (1981), Igor Irodov. A concise, Soviet-style introduction to
+  mechanics, with a great array of problems.
 - **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. An
   inspiring manifesto on the Kaplans'
   method for teaching mathematics via play and exploration in the
