@@ -1886,9 +1886,10 @@ But it is easy to measure the volume of the gas (place it in a
 container of fixed volume), the pressure (use a barometer), the
 temperature (a thermometer), and the number of mole (chemistry).
 That makes it fairly easy to measure the ideal gas constant
-$\mathcal{R}$ (first performed in 1850 or so by
-[Henri Regnault](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)),
-so we will take it as a given, and leave ourselves the much harder task of weighing atoms.
+$\mathcal{R}$, and indeed,
+[it was determined](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf))
+by the combined efforts of Henri Regnault and Rudolf Clausius in 1850.
+We will take $\mathcal{R}$ as a given, and leave ourselves the much harder task of weighing atoms.
 
 <span style="padding-left: 20px; display:block">
 (a) First, by equating the two different forms of the ideal gas law, deduce
