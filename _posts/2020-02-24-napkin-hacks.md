@@ -1601,15 +1601,13 @@ never collide with an asteroid.
 **Exercise 16 (equipartition and air time).** People often say that
 "temperature is just atomic motion".
 This is shorthand for "temperature is just average kinetic energy per
-particle".
-If the average kinetic
-energy per particle $\epsilon_\text{avg}$,
+particle", which we write as
 
 $$
 \epsilon_\text{avg} \sim k_B \mathcal{T},
 $$
 
-where $k_B$ is the Boltzmann constant.
+where $\epsilon_\text{avg}$ is the kinetic energy per particle and $k_B$ is the Boltzmann constant.
 This is a simple version of a deep result called the *equipartition
 theorem*.
 So Boltzmann's constant tells us how to convert temperature into enrgy
