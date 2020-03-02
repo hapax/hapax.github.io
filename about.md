@@ -11,8 +11,9 @@ I'm David Wakeham, a PhD student in the
 [University of British Columbia](https://www.ubc.ca/) (UBC) studying [gravity, quantum field theory and black holes](https://hapax.github.io/research).
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david).
-I'm originally from Melbourne, Australia, where I completed degrees in
-maths, philosophy, and physics.
+
+I was born and raised in Melbourne, Australia, where I completed
+degrees in maths, philosophy, and physics.
 Further academic details can be found in my CV (available on request).
 
 ### Contact me
