@@ -1540,7 +1540,7 @@ writing this post. I've included some brief annotations.
   inspiring manifesto on the Kaplans'
   method for teaching mathematics via play and exploration in the
   Harvard Maths Circle. It is much
-  more radical than the approach I am suggesting here.
+  more radical than the approach I am suggesting here!
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method, a
   constructivist framework for teaching everyone how to walk.
