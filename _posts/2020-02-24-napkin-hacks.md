@@ -1189,7 +1189,7 @@ n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker14.png" width="55%"/>
+    ="/images/posts/hacker14v2.png" width="55%"/>
 		    <figcaption><i>A particle (orange) jittering around
     randomly in a gas.</i></figcaption>
 	</div>
@@ -1239,6 +1239,13 @@ where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker15.png" width="65%"/>
+		    <figcaption><i></i></figcaption>
+	</div>
+	</figure>
 
 So, under what circumstances will consecutive steps tend not to align?
 Two conditions will be enough:
