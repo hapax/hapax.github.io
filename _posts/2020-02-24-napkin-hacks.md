@@ -377,7 +377,7 @@ Here are some factors that might be relevant:
 In general, all of these factors are involved, but this is too much
 for dimensional analysis to handle!
 (I explain why <a href="#sec-2-4">below</a>.)
-But it turns out that different mechanisms dominate the drag force at
+But it turns out that different factors dominate at
 different speeds.
 When the sphere moves very quickly, it is banging water molecules out
 of the way rather than smoothly shearing. In this case, the mass of
