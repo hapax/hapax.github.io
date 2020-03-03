@@ -1169,9 +1169,9 @@ While our treatment is elementary, it is still a step up from the
 first two tutorials, and is perhaps best left to a second reading.
 But, as always with a good hack, our reward is applications: we
 will find the length of the E. coli genome; see why unmanned
-spacecraft don't need to avoid asteroids; explain whether you should
+spacecraft aren't programmed to avoid asteroids; explain whether you should
 walk or run in the rain; and finally, prove the existence of atoms and
-calculate Avogadro's constant.
+weigh them.
 It's action-packed!
 
 *Random walks: an elementary approach.* Imagine an atom jiggling around randomly in a hot gas.
