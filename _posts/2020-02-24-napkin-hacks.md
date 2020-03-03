@@ -570,15 +570,15 @@ result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
 For a very elementary treatment, see [my notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
-*Where is the physics?* You might think that since all we do is
-algebra, there is no physics here at all!
+*Where is the physics?* You might think that dimensional analysis is
+algebra rather than physics.
 But to avoid parametric overload, we need to whittle down our factors until we
 have a manageable number.
 Sometimes we can do this by physical reasoning (e.g. the equivalence
 principle in Exercise 1), or restricting to situations where factors
 are negligible (e.g. a slowly moving sphere).
 Sometimes, neither of these works, and we just have to go out, do
-experiments, and see what varies (e.g. isochronism and viscosity).
+experiments, and see how things vary (e.g. isochronism and viscosity).
 None of these operations necessarily involves hard maths, but they are
 definitely all physics!
 
@@ -588,11 +588,11 @@ Two other important dimensions are *temperature* $\Theta$ (measured in
 Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are crucial in atomic physics, thermodynamics and
-chemistry, and we will use them in Exercise 3 and the last section.
+chemistry.
+We will use them heavily in Exercise 3 and the tutorial on random walks.
 
 *Constants.* Numbers are dimensionless constants.
-However, *dimensionful* constants secretly encode important physical
-insights.
+However, *dimensionful* constants secretly encode physics!
 Examples include Newton's constant $G$ (Exercise 1) and Boltzmann's
 constant $k_B$ (Exercise 3).
 See my [notes](https://hapax.github.io/assets/dimensional-analysis.pdf)
