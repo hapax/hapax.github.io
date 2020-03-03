@@ -1964,7 +1964,7 @@ spirit Stallman describes:
 *Look how wonderful this is. I bet you didn't believe this could be done.*
 </span>
 
-So, why aren't we blowing more gourds with high-leverage hacks?
+So, why aren't we blowing more gourds with high-leverage but low-tech hacks?
 Probably, mostly, the inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
