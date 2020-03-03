@@ -347,15 +347,18 @@ their mass.
 
 *Stokes' law.* Maybe pumpkins aren't your thing, so let's turn to something more highbrow: the
 aerodynamics of spheres.
-Realistic fluids have a sort of internal friction or stickiness called
-[*viscosity*](https://en.wikipedia.org/wiki/Viscosity), which is what
-makes things like honey goopy.
-As we drag one layer of fluid past another, called *shearing* the layers,
-viscosity will resist, in the same way that dragging one surface
-across another creates frictional resistance.
+Realistic fluids have a sort of internal stickiness called
+[*viscosity*](https://en.wikipedia.org/wiki/Viscosity), responsible
+for making honey and oil goopy.
+This resist our efforts to pull layers of fluid in different
+directions, or *shear* them.
+This is similar to the way friction resists the motion of one surface
+against another.
 
-A sphere will shear layers as it displaces fluid around it.
-This leads to viscous drag, and our goal will be to determine the drag force.
+A sphere moving through fluid opens it up like a zipper at the front,
+and closes it behind again, which is a shearing force, and therefore
+leads to viscous drag.
+Our goal will be to determine the drag force.
 Here are some factors that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
 - the speed of the sphere $v$, where $[v] = LT^{-1}$;
