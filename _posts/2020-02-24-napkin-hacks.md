@@ -117,6 +117,8 @@ The <a href="#sec-2">dimensional analysis tutorial</a> and <a
 href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
 walks assumes you have read the dimensional analysis section.
+Note that the section on <a href="#sec-4-3">running in the rain</a> is
+a little harder and optional.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
@@ -1396,12 +1398,10 @@ of magnitude!
 ---
 
 **Exercise 13 (gone fishing).** Wandering the shipyards one day, you
-notice a rusty old anchor, probably from a decommissioned fishing vessel.
-The mooring chain, attached to the anchor, is piled haphazardly on the dock.
-
-The links are around $7$ inches in length, and the pile is $4.7$
-m across.
-What is the approximate length of the mooring chain?
+notice a rusty old anchor and chain, probably from a decommissioned fishing vessel.
+The chain is piled haphazardly on the dock.
+The links are around $7$ inches in length, and the pile is $4.7$ m across.
+What is the approximate length of the chain?
 
 ---
 
@@ -1626,9 +1626,6 @@ wall.
 ---
 
 ### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
-
-[*Note.* This is a fun optional extension of collision
-cylinders, and won't be needed for the final section.]
 
 We can apply our collision cylinder technology to solve an age-old problem: should you walk or run in the rain?
 We will present a simple and original argument which models people as
