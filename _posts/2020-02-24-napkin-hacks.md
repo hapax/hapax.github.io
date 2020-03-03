@@ -1487,7 +1487,7 @@ This covers most of the cases we will be interested in!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker17.png" width="65%"/>
+    ="/images/posts/hacker17v2.png" width="65%"/>
 		    <figcaption><i>A collision cylinder around a sphere of
     radius R, colliding with spheres of radius r.</i></figcaption>
 	</div>
