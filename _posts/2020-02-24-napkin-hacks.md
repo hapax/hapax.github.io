@@ -365,6 +365,9 @@ Here are some factors that might be relevant:
 - the mass of the sphere $m$, $[m] = M$;
 - the density of the fluid $\rho$, or mass per unit volume $[\rho] = [m_\text{fluid}/V] = ML^{-3}$;
 - the viscosity of the fluid $\mu$.
+In general, all of these factors are involved, which is too much
+for dimensional analysis to handle!
+(I explain why <a href="#sec-2-4">below</a>.)
 
 <figure>
     <div style="text-align:center"><img src
@@ -374,9 +377,6 @@ Here are some factors that might be relevant:
 	</div>
 	</figure>
 
-In general, all of these factors are involved, which is too much
-for dimensional analysis to handle!
-(I explain why <a href="#sec-2-4">below</a>.)
 But it turns out that different factors dominate at
 different speeds.
 When the sphere moves very quickly, it is banging water molecules out
