@@ -886,7 +886,7 @@ Somewhat unexpectedly, this is exactly the number quoted in a
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker11.png" width="70%"/>
+    ="/images/posts/hacker11.png" width="80%"/>
 		    <figcaption><i>A "tree" of subestimates for the number of
     fish in the sea.</i></figcaption>
 	</div>
@@ -1211,25 +1211,25 @@ How can we calculate the length of $\vec{x}$? The trick is to square it, yieldin
 $$
 |\vec{x}|^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
 $$
-
-We can picture what's going on using squares:
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/hacker15.png" width="75%"/>
-		    <figcaption><i>Total length squared (black) is made up of
-    steps squared (orange) and cross-terms (blue).</i></figcaption>
-	</div>
-	</figure>
 	
-The cross-terms are things like $\vec{s}_1 \cdot \vec{s}_2$,
-$\vec{s}_2 \cdot \vec{s}_3$, and so on.
 This is a generalisation of the familiar algebraic fact that
 
 $$
 (x+y)^2 = x^2 + y^2 + 2xy = x^2 + y^2 + \text{cross-terms}.
 $$
 
+We can picture what's going on using squares.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker15.png" width="80%"/>
+		    <figcaption><i>Total length squared (black) is made up of
+    steps squared (orange) and cross-terms (blue).</i></figcaption>
+	</div>
+	</figure>
+
+The cross-terms are things like $\vec{s}_1 \cdot \vec{s}_2$,
+$\vec{s}_2 \cdot \vec{s}_3$, and so on.
 Although it obey similar algebraic properties to normal
 multiplication, the $\cdot$ in terms like $\vec{s}_1\cdot \vec{s}_2$
 has a special geometric interpretation: it tells us how *aligned* the
