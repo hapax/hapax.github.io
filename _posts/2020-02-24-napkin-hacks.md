@@ -1145,7 +1145,7 @@ spontaneously into the air?
 <span style="padding-left: 20px; display:block">
 (c) A mug cycles through about $10^{14}$ random
 configurations per second.
-If you watch your mug until the entropic heat death of the universe
+If you watch your mug until the [entropic heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe)
 (about $10^{100}$ years away) are you likely to see it jump?
 </span>
 
@@ -1155,8 +1155,8 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This exercise can be generalised to give the *Second Law
-of Thermodynamics*, but we'll save that for another day!
+This exercise can be generalised to give the Second Law
+of Thermodynamics, but we'll save that for another day!
 
 ---
 
