@@ -1539,7 +1539,7 @@ $$
 
 So, on average an air molecule travels around $80$ nm between
 collisions, a couple of hundred times its own diameter.
-In Exercise 15, you can see how *fast* air molecules diffuse.
+In Exercise 15, you can calculate how *fast* air molecules diffuse.
 
 One final technical point.
 Most of this collision cylinder technology assumes that we are
