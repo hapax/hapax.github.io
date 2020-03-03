@@ -350,8 +350,8 @@ aerodynamics of spheres.
 Realistic fluids have a sort of internal stickiness called
 [*viscosity*](https://en.wikipedia.org/wiki/Viscosity), responsible
 for making honey and oil goopy.
-This resist our efforts to pull layers of fluid in different
-directions, or *shear* them.
+Because of viscosity, a fluid will resist our efforts to pull layers
+of fluid in different directions, or *shear* them.
 This is similar to the way friction resists the motion of one surface
 against another.
 
