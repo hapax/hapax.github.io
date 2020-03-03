@@ -347,17 +347,17 @@ their mass.
 
 *Stokes' law.* Maybe pumpkins aren't your thing, so let's turn to something more highbrow: the
 aerodynamics of spheres.
-Take a sphere moving through a fluid (a liquid or gas).
-In realistic fluids, nearby layers of flow like to stick together and will
-resist forces which pull them apart, called *shearing forces*.
-(I like to imagine separating the layers with shearing scissors, like
-wool from a sheep.)
-Dragging an object through fluid takes work because the
-fluid shears as it moves around the object, and [*viscosity*](https://en.wikipedia.org/wiki/Viscosity) quantifies the
-resistance to shearing.
+Realistic fluids have a sort of internal friction or stickiness called
+[*viscosity*](https://en.wikipedia.org/wiki/Viscosity), which is what
+makes things like honey goopy.
+As we drag one layer of fluid past another, or *shear* the layers of fluid,
+viscosity will resist, in the same way that dragging one surface
+across another creates frictional resistance.
 
-Our goal will be to determine the drag force on a sphere.
-Here are some things that might be relevant:
+A sphere moving through a fluid will shear layers as they are
+displaced around it, leading to viscous drag.
+Our goal will be to determine this drag force.
+Here are some factors that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
 - the speed of the sphere $v$, where $[v] = LT^{-1}$;
 - the mass of the sphere $m$, $[m] = M$;
