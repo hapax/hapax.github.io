@@ -118,7 +118,7 @@ href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
 walks assumes you have read the dimensional analysis section.
 Note that the section on <a href="#sec-4-3">running in the rain</a> is
-a little harder and optional.
+an optional diversion, not used in the rest of the random walk tutorial.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
