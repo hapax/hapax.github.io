@@ -350,7 +350,7 @@ aerodynamics of spheres.
 Realistic fluids have a sort of internal friction or stickiness called
 [*viscosity*](https://en.wikipedia.org/wiki/Viscosity), which is what
 makes things like honey goopy.
-As we drag one layer of fluid past another, or *shear* the layers of fluid,
+As we drag one layer of fluid past another, called *shearing* the layers,
 viscosity will resist, in the same way that dragging one surface
 across another creates frictional resistance.
 
