@@ -467,7 +467,7 @@ This will help explain why clouds float and rain falls!
 First, consider the general case of a slowly falling sphere.
 A sphere of mass $m$ is pulled down by the weight force $F_\text{weight}= mg$.
 If it's moving slowly, Stokes' law applies and the drag force is proportional to the velocity, $F_\text{drag} = 6\pi \mu r v$.
-The terminal velocity $ v_{\text{term}}$ is the speed at which these
+The terminal velocity $v_{\text{term}}$ is the speed at which these
 two forces balance out:
 
 $$
