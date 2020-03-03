@@ -1485,6 +1485,14 @@ $$
 
 This covers most of the cases we will be interested in!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker17.png" width="65%"/>
+		    <figcaption><i>A collision cylinder around a sphere of
+    radius R, colliding with spheres of radius r.</i></figcaption>
+	</div>
+	</figure>
+
 *Mean free path.* Now, back to our regular programming: random walks in gases.
 We would like to determine the step length $\ell$ for the random walk
 executed by colliding particles, assuming they are all spheres of
