@@ -1091,7 +1091,7 @@ Exercise 11.
   average. Let's check this a few different ways.
 
 <span style="padding-left: 20px; display:block">
-(a) Ask some friends to guess individual power usage, and
+(a) Ask some friends to guess, and
 take the geometric mean of their answers.
 </span>
 
