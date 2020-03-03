@@ -1190,8 +1190,7 @@ n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hacker14v2.png" width="55%"/>
-		    <figcaption><i>A particle (orange) jittering around
-    randomly in a gas.</i></figcaption>
+		    <figcaption><i>A particle (orange) taking nine random steps in a gas.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1213,6 +1212,16 @@ $$
 |\vec{x}|^2 = (\vec{s}_1 + \vec{s}_2 + \cdots + \vec{s}_n)^2 = |\vec{s}_1|^2 + |\vec{s}_2|^2 + \cdots +|\vec{s}_n|^2 + \text{cross-terms}.
 $$
 
+We can picture what's going on using squares:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker15.png" width="75%"/>
+		    <figcaption><i>Total length squared (black) is made up of
+    steps squared (orange) and cross-terms (blue).</i></figcaption>
+	</div>
+	</figure>
+	
 The cross-terms are things like $\vec{s}_1 \cdot \vec{s}_2$,
 $\vec{s}_2 \cdot \vec{s}_3$, and so on.
 This is a generalisation of the familiar algebraic fact that
@@ -1239,11 +1248,14 @@ where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
+In our earlier picture, the blue terms vanish, and we just have the big
+square equal to the little squares.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker15.png" width="65%"/>
-		    <figcaption><i></i></figcaption>
+    ="/images/posts/hacker16.png" width="65%"/>
+		    <figcaption><i>Total length squared (black) is made up of
+    steps squared (orange) and cross-terms (blue).</i></figcaption>
 	</div>
 	</figure>
 
