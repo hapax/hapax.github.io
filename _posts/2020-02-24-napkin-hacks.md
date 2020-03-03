@@ -354,8 +354,7 @@ As we drag one layer of fluid past another, called *shearing* the layers,
 viscosity will resist, in the same way that dragging one surface
 across another creates frictional resistance.
 
-A sphere moving through a fluid will shear layers as they are
-displaced around it, leading to viscous drag.
+A sphere will shear layers as it displaces fluid around it, creating viscous drag.
 Our goal will be to determine this drag force.
 Here are some factors that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
