@@ -246,7 +246,6 @@ $$
 
 for some numbers $a$, $b$, and $c$.
 Our goal is to figure out what these numbers are.
-
 We can find the powers by matching dimensions on each side:
 
 $$
@@ -299,6 +298,8 @@ Measure with the string and snip off the corresponding length, attach
 the pumpkin and gently wobble.
 By timing the period with the stopwatch, you can figure out how long
 things are.
+Exercise 1 is another whimsical pumpkin-as-ruler example, involving
+Kepler's third law!
 
 ---
 
