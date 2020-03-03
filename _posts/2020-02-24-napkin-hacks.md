@@ -538,7 +538,7 @@ F_\text{drag} \sim \rho_\text{air} v^2 r^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Conclude that the terminal velocity for a raindrop of mass $m$ is
+(b) Conclude that the terminal velocity for a spherical raindrop of radius $r$ is
 </span>
 
 $$
