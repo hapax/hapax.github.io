@@ -385,7 +385,7 @@ Drag is dominated by the viscosity $\mu$ and the geometry of the sphere.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker6.png" width="50%"/>
+    ="/images/posts/hacker6.png" width="60%"/>
 		    <figcaption><i>An experiment to determine the dimensions
     of viscosity.</i></figcaption>
 	</div>
