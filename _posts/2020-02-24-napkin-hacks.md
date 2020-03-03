@@ -945,7 +945,7 @@ so, so we just multiply by $10$ at the end of the day.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker12.png" width="70%"/>
+    ="/images/posts/hacker12.png" width="65%"/>
 		    <figcaption><i>Keeping It Spherical when estimating
     Vancouver power usage.</i></figcaption>
 	</div>
@@ -1189,8 +1189,8 @@ n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker14v2.png" width="55%"/>
-		    <figcaption><i>A particle (orange) taking nine random steps in a gas.</i></figcaption>
+    ="/images/posts/hacker14v2.png" width="50%"/>
+		    <figcaption><i>A particle (orange) jittering randomly in a gas.</i></figcaption>
 	</div>
 	</figure>
 
@@ -1254,8 +1254,8 @@ square equal to the little squares.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hacker16.png" width="65%"/>
-		    <figcaption><i>Total length squared (black) is made up of
-    steps squared (orange) and cross-terms (blue).</i></figcaption>
+		    <figcaption><i>When cross-terms vanish, the total length
+    squared is the sum of steps squared.</i></figcaption>
 	</div>
 	</figure>
 
