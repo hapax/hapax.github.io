@@ -374,7 +374,7 @@ Here are some factors that might be relevant:
 	</div>
 	</figure>
 
-In general, all of these factors are involved, but this is too much
+In general, all of these factors are involved, which is too much
 for dimensional analysis to handle!
 (I explain why <a href="#sec-2-4">below</a>.)
 But it turns out that different factors dominate at
@@ -387,8 +387,7 @@ We will look at the opposite regime, where the sphere moves very
 slowly.
 In this case, the sphere smoothly shears through the water without
 collisions, so neither $m$ nor $\rho$ are relevant.
-Drag is dominated by the internal friction or viscosity $\mu$, along
-with the geometry of the sphere.
+Drag is dominated by the viscosity $\mu$ and the geometry of the sphere.
 
 <figure>
     <div style="text-align:center"><img src
