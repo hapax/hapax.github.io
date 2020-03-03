@@ -384,7 +384,8 @@ We will look at the opposite regime, where the sphere moves very
 slowly.
 In this case, the sphere smoothly shears through the water without
 collisions, so neither $m$ nor $\rho$ are relevant.
-Drag is dominated by the viscosity $\mu$.
+Drag is dominated by the internal friction or viscosity $\mu$, along
+with the geometry of the sphere.
 
 <figure>
     <div style="text-align:center"><img src
