@@ -1353,7 +1353,7 @@ $$
 d^2 \sim n + n(n-1)(p-q)^2.
 $$
 
-We end with correlation.
+Let's end with a very simple example of correlation.
 Consider an unbiased coin with correlation $c$ *between successive
 flips only*.
 
