@@ -1054,9 +1054,9 @@ much larger using Google!
 
 *Nonlinearity.* Our final and most subtle failure mode is "nonlinearity".
 (Props to lukeprog's
-[great Fermi estimate tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
+[Fermi estimate tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates)
 for pointing this out.)
-Our method of factorising assumes that subestimates
+Our factorisation assumes that subestimates
 are (a) independent and (b) multiply to give the final answer.
 Assumption (a) can easily fail.
 For instance, in our electricity calculation, we assumed that average
