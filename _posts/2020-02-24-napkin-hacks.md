@@ -1222,7 +1222,7 @@ We can picture what's going on using squares.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker15.png" width="80%"/>
+    ="/images/posts/hacker15.png" width="85%"/>
 		    <figcaption><i>Total length squared (black) is made up of
     steps squared (orange) and cross-terms (blue).</i></figcaption>
 	</div>
