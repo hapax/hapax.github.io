@@ -356,7 +356,7 @@ This is similar to the way friction resists the motion of one surface
 against another.
 
 A sphere moving through fluid opens it up like a zipper at the front,
-and closes it behind again, which is a shearing force, and therefore
+and closes it behind again. This is a shearing force and therefore
 leads to viscous drag.
 Our goal will be to determine the drag force.
 Here are some factors that might be relevant:
