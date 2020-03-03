@@ -1187,6 +1187,14 @@ $$
 If it travelled in a straight line, the distance would be $d = \ell
 n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/2}$.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker14.png" width="55%"/>
+		    <figcaption><i>A particle (orange) jittering around
+    randomly in a gas.</i></figcaption>
+	</div>
+	</figure>
+
 To see how this happens, let's start watching an atom as it bounces
 around, and label its displacement after the $i$th step $\vec{s}_i$.
 The arrow on top reminds us that displacement is a vector, with an
