@@ -385,7 +385,7 @@ Drag is dominated by the viscosity $\mu$ and the geometry of the sphere.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker6.png" width="60%"/>
+    ="/images/posts/hacker6.png" width="55%"/>
 		    <figcaption><i>An experiment to determine the dimensions
     of viscosity.</i></figcaption>
 	</div>
@@ -608,7 +608,7 @@ for applications of fundamental constants to black holes!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker8.png" width="45%"/>
+    ="/images/posts/hacker8.png" width="50%"/>
 		    <figcaption><i>Physical properties of a sample of gas.</i></figcaption>
 	</div>
 	</figure>
@@ -658,7 +658,7 @@ period, so really, a period should be viewed not as a time, but a *time per* $36
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker-pi.png" width="55%"/>
+    ="/images/posts/hacker-pi.png" width="50%"/>
 		    <figcaption><i>A phasor keeping track of a periodic system.</i></figcaption>
 	</div>
 	</figure>
@@ -1115,7 +1115,7 @@ How did your friends do?
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker13.png" width="35%"/>
+    ="/images/posts/hacker13.png" width="30%"/>
 		    <figcaption><i>Can your mug jump spontaneously into the air?</i></figcaption>
 	</div>
 	</figure>
