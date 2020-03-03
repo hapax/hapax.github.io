@@ -656,14 +656,21 @@ moving around a unit circle at constant speed, with one revolution per cycle of 
 The arrow (called a *phasor* if you want to be fancy) subtends an angle of $360^\circ$ over the course of a single
 period, so really, a period should be viewed not as a time, but a *time per* $360^\circ$.
 
-Let $[1^\circ] = \Xi$ be the dimension of angle, so that a period has dimension $[t_\text{period}] = T/\Xi$.
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker-pi.png" width="55%"/>
+		    <figcaption><i>A phasor keeping track of a periodic system.</i></figcaption>
+	</div>
+	</figure>
+
+Let $[1^\circ] = \Xi$ be the dimension of angle, so that a period has dimension $[t_\text{per}] = T/\Xi$.
 This will leave factors of $\Xi$ floating around.
 To cancel them, we can view $2\pi$ as a "fundamental physical
 constant" with dimension $\Xi$.
 This isn't totally crazy, since $360^\circ = 2\pi$ radian!
 
 <span style="padding-left: 20px; display:block">
-(a) Repeat the pumpkin problems above, now using $[t_\text{period}] =
+(a) Repeat the pumpkin problems above, now using $[t_\text{per}] =
 T/\Xi$ and $2\pi$ as a conversion factor.
 You should obtain the same results!
 </span>
