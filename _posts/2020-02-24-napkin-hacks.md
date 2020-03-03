@@ -355,10 +355,10 @@ of fluid in different directions, or *shear* them.
 This is similar to the way friction resists the motion of one surface
 against another.
 
-A sphere moving through fluid opens it up like a zipper at the front,
-and closes it behind again. This is a shearing force and therefore
-leads to viscous drag.
-Our goal will be to determine the drag force.
+A sphere moving through fluid splits the layers at the front, then
+joins them at the back, a bit like a zipper. This is a shearing force
+and will experience viscous drag.
+Our goal will be to determine the precise drag force on the sphere.
 Here are some factors that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
 - the speed of the sphere $v$, where $[v] = LT^{-1}$;
