@@ -562,7 +562,7 @@ In Stokes' law, for instance, we were off by $6\pi \approx 20$, and if
 we used period rather than angular velocity, our earlier examples
 would be off by $2\pi \approx 6$.
 That said, more often than not the missing number is close to $1$, and
-we can even dimensionally account for factors of $\pi$ (Exercise 4).
+we can even dimensionally account for some factors of $\pi$ (Exercise 4).
 
 *Parametric overload.* A more serious problem is having too many parameters.
 With three basic dimensions $M, L, T$, you can have at most three
