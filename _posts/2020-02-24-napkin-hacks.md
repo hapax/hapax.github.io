@@ -379,8 +379,8 @@ So what can we do?
 	</div>
 	</figure>
 
-Thankfully, different factors dominate the drag force at
-different speeds.
+Thankfully, if the sphere moves very quickly or very slowly, certain
+factors dominate, and the list becomes short enough to use dimensional analysis.
 When the sphere moves very quickly, it is banging water molecules out
 of the way rather than smoothly shearing. In this case, the mass of
 the sphere $m$ and the density of fluid $\rho$ are important, but
