@@ -411,7 +411,6 @@ $$
 If you skipped the previous paragraph, that's fine, as long as you are
 prepared to take the dimensions on faith.
 Either way, we can proceed with our dimensional analysis.
-
 Let's write the drag force on the sphere $F_\text{drag}$ as a product of powers
 of the remaining factors:
 
@@ -543,8 +542,8 @@ v_\text{term} \sim \sqrt{\frac{4\pi g r}{3 }\left(\frac{\rho_\text{water}}{\rho_
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) A typical raindrop has radius around $r \approx 1$ mm. How fast is
-it moving when it hits the ground?
+(c) A typical raindrop has radius around $r \approx 1$ mm. How fast
+does it hit the ground?
 </span>
 
 ---
