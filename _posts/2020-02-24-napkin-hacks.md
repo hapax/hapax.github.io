@@ -1592,6 +1592,13 @@ Although this sounds like a dangerous place,
 [Wikipedia](https://en.wikipedia.org/wiki/Asteroid_belt) states that
 "numerous unmanned spacecraft have traversed it without incident". Let's see why!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker18.png" width="75%"/>
+		    <figcaption><i>Flying through the asteroid belt.</i></figcaption>
+	</div>
+	</figure>
+
 <span style="padding-left: 20px; display:block">
 (a) For simplicity, let's flatten the donut into a ring with inner
 radius $2.2$ AU and outer radius $3.2$ AU. What the density $n$ of
