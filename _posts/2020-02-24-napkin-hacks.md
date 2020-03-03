@@ -374,8 +374,7 @@ Here are some factors that might be relevant:
 
 In general, all of these factors are involved, but to use dimensional
 analysis, we need to streamline this list of parameters.
-(I explain why dimensional analysis has this restriction <a
-href="#sec-2-4">below</a>.)
+(I explain why <a href="#sec-2-4">below</a>.)
 It turns out that different mechanisms dominate the drag force at
 different speeds.
 When the sphere moves very quickly, it is banging water molecules out
