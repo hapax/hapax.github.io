@@ -375,7 +375,7 @@ Here are some factors that might be relevant:
 	</figure>
 
 In general, all of these factors are involved, but this is too much
-for dimensional analysis!
+for dimensional analysis to handle!
 (I explain why <a href="#sec-2-4">below</a>.)
 But it turns out that different mechanisms dominate the drag force at
 different speeds.
