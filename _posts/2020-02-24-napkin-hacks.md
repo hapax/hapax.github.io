@@ -272,7 +272,6 @@ $$
 \omega = m^a \ell^b g^c =  \sqrt{\frac{g}{\ell}}.
 $$
 
-Let me emphasise how powerful this is.
 We didn't need to solve a differential equation, analyse forces, or even deal with numbers.
 Dimensional analysis let us skip straight to the answer!
 
