@@ -385,7 +385,7 @@ Drag is dominated by the viscosity $\mu$ and the geometry of the sphere.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker6.png" width="55%"/>
+    ="/images/posts/hacker6.png" width="50%"/>
 		    <figcaption><i>An experiment to determine the dimensions
     of viscosity.</i></figcaption>
 	</div>
@@ -1014,7 +1014,7 @@ year?
 ### 3.4. Usage notes<a id="sec-3-4" name="sec-3-4"></a>
 
 *Why it works.* Fermi approximation is a subtle art.
-In general, it works well because over- and underestimates
+In general, it works because over- and underestimates
 balance each other out.
 This is an example of the
 [wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd),
