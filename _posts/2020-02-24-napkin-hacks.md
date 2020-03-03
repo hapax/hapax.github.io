@@ -371,10 +371,10 @@ Here are some factors that might be relevant:
 	</div>
 	</figure>
 
-In general, all of these factors are involved, but to use dimensional
-analysis, we need to streamline this list of parameters.
+In general, all of these factors are involved, but this is too much
+for dimensional analysis!
 (I explain why <a href="#sec-2-4">below</a>.)
-It turns out that different mechanisms dominate the drag force at
+But it turns out that different mechanisms dominate the drag force at
 different speeds.
 When the sphere moves very quickly, it is banging water molecules out
 of the way rather than smoothly shearing. In this case, the mass of
