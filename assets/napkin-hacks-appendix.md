@@ -158,13 +158,12 @@ $$
 e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
 $$
 
-The binomial approximation says that
+The binomial approximation says that for small $X$ (written $X \ll 1$), and any $\alpha$,
 
 $$
-(1 + X)^\alpha \approx 1 + \alpha X
+(1 + X)^\alpha \approx 1 + \alpha X.
 $$
 
-for small $X$ (written $X \ll 1$) and any $\alpha$.
 We can combine these two facts to learn something cool about the
 barometric distribution!
 
