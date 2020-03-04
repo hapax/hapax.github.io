@@ -206,7 +206,7 @@ $$
 
 ---
 
-### 1.2. Equilibrium for pollen grains <a id="sec-1-1"name="sec-1-1"></a>
+### 1.2. Equilibrium for pollen grains <a id="sec-1-2"name="sec-1-2"></a>
 
 The equilibrium condition for pollen grains is more
 complicated than the simple equation I gave in the main text.
