@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Hacking physics: solutions and technicalities"
+title:  "Hacking physics: solutions"
 date:  2020-02-24
 ---
 
