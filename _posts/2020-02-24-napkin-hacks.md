@@ -1912,7 +1912,7 @@ same number of molecules.*
 </span>
 
 This was a prescient insight into the atomic nature of matter,
-anticipating the ideal gas law (discovered by Clapeyron) 45 years later.
+anticipating the ideal gas law by 45 years.
 It clearly contains the seed of the molar notion, so Perrin named it after Avogadro.
 
 Determining the number of molecules in a sample of gas is the same as
@@ -1923,9 +1923,9 @@ container of fixed volume), the pressure (use a barometer), the
 temperature (a thermometer), and the number of mole (chemistry).
 That makes it fairly easy to measure the ideal gas constant
 $\mathcal{R}$, and indeed,
-[it was determined](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf))
+[it was calculated](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)
 by the combined efforts of Henri Regnault and Rudolf Clausius in 1850.
-We will take $\mathcal{R}$ as a given, and leave ourselves the much harder task of weighing atoms.
+So we will take $\mathcal{R}$ as a given, and leave ourselves the much harder task of weighing atoms.
 
 <span style="padding-left: 20px; display:block">
 (a) First, by equating the two different forms of the ideal gas law, deduce
