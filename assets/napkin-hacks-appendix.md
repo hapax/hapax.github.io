@@ -63,15 +63,15 @@ $$
 n(h) = n_0 e^{-mgh/k_B\mathcal{T}},
 $$
 
-where $n_0$ is a constant (with dimensions of density) that won't
-concern us.
+where $h = 0$ is the bottom of the container, and $n_0$ is a constant
+(with dimensions of density) that fixes the overall number of particles.
 
 The barometric distribution tells us what the length $\ell =
 k_B\mathcal{T}/mg$ really means.
 It is not the mean free path (which really does depend on the
-cross-section and height-dependent density $n(h)$) but rather the
+cross-section and height-dependent density $n(h)$) but rather, the
 approximate height over which the pollen or resin balls are concentrated.
-Above $\ell = h$, they drop off exponentially!
+Above $h = \ell$, they drop off exponentially!
 We could say "well, $\ell$ is a good guess" and leave it at that, but
 given that this is a technical appendix, we can work a bit harder and
 understand the correct answer comes from *dynamic equilibrium*: the
