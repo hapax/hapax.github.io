@@ -1844,10 +1844,6 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-I've swept some technical details under the rug, but you can retrieve
-them from the
-[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).
-
 From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
 We still need to work out the velocity, $v$, and here is the clever
@@ -1874,6 +1870,9 @@ which grows with temperature but is inversely proportional to particle
 size.
 Big particles jiggle less, hot fluids jiggle more, and things look the
 same on Mars!
+(I've swept some technical details under the rug, but you can retrieve
+them from the
+[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) if you're curious.)
 
 The jiggling of grains in a fluid was first observed by Robert Brown,
 hence the name *Brownian motion*.
