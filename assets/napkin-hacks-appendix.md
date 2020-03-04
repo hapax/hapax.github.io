@@ -31,52 +31,52 @@ The only prerequisite is a little probability theory and knowledge of vectors.
 
 *Proof (1D).* Suppose we toss a coin, and move a counter
 left or right one unit depending on whether we gets heads or tails.
-Label the outcome of the $n$th toss $X_n$, where $X_n = -1$ for heads
-and $X_n = +1$ for tails.
-If we start at $0$, the position $X$ after $n$ tosses is the sum of steps:
+Label the outcome of the $n$th toss $s_n$, where $s_n = -1$ for heads
+and $s_n = +1$ for tails.
+If we start at $0$, the position $x$ after $n$ tosses is the sum of steps:
 
 $$
-R = X_1 + X_2 + \cdots + X_n.
+x = s_1 + s_2 + \cdots + s_n.
 $$
 
 This is a random process, so what do we expect to happen on average?
 We can calculate this with an *expectation*: a weighted average over all the things
 that can happen, where the weights are probabilities.
-We denote this by $\langle f(X_1, \ldots, X_n)\rangle$, where $f$ is
+We denote this by $\langle f(s_1, \ldots, s_n)\rangle$, where $f$ is
 any function of the steps.
 For instance, if the coin is fair, then on average an individual step
 is zero:
 
 $$
-\langle X\rangle = P(X=-1)(-1) + P(X=+1)(+1) = \frac{1}{2}-\frac{1}{2}
+\langle s\rangle = P(s=-1)(-1) + P(s=+1)(+1) = \frac{1}{2}-\frac{1}{2}
 = 0.
 $$
 
-A very similar calculation shows that $R$ vanishes on average:
+A very similar calculation shows that $x$ vanishes on average:
 
 $$
 \begin{align*}
-\langle R\rangle &= \langle X_1 + \cdots + X_n\rangle\\
-& = \langle X_1\rangle + \cdots + \langle X_n\rangle\\
+\langle x\rangle &= \langle s_1 + \cdots + s_n\rangle\\
+& = \langle s_1\rangle + \cdots + \langle s_n\rangle\\
 & = 0 + \cdots + 0 = 0,
 \end{align*}
 $$
 
 where we used the fact that expectation is *linear*, $\langle f +
-g\rangle = \langle f\rangle + \langle g\rangle$ (Exercise A.1).
+g\rangle = \langle f\rangle + \langle g\rangle$.
 This makes sense, since if the coin is unbiased, it has no preference
 between heads and tails.
-If $\langle R\rangle >0$, for instance, then the coin is exhibiting a
+If $\langle x\rangle >0$, for instance, then the coin is exhibiting a
 bias towards tails.
 The story is different for the *square* of a step:
 
 $$
-\langle X^2\rangle = P(X=-1)(-1)^2 + P(X=+1)(+1)^2 =
+\langle s^2\rangle = P(s=-1)(-1)^2 + P(s=+1)(+1)^2 =
 \frac{1}{2}+\frac{1}{2} = 1.
 $$
 
 What about a product of different coin flips?
-Each possible outcome --, -+, +-, ++ has chance $1/4$, and hence
+Each possible outcome $--$, $-+$, $+-$, $++$ has chance $1/4$, and hence
 
 $$
 \langle X_i \cdot X_j\rangle =
@@ -87,76 +87,76 @@ Combining these two facts, we can calculate the *variance*:
 
 $$
 \begin{align*}
-\langle R^2\rangle & = \langle (X_1 + \cdots + X_n)^2\rangle \\
-& = \langle X_1^2\rangle + \cdots + \langle X_n^2\rangle +
-2\left\{\langle X_1\cdot X_2\rangle + \cdots + \langle X_{n-1}\cdot
-X_n\rangle\right\} \\
-& = n \langle X^2\rangle = n.
+\langle x^2\rangle & = \langle (s_1 + \cdots + s_n)^2\rangle \\
+& = \langle s_1^2\rangle + \cdots + \langle s_n^2\rangle +
+2\left\{\langle s_1\cdot s_2\rangle + \cdots + \langle s_{n-1}\cdot
+s_n\rangle\right\} \\
+& = n \langle s^2\rangle = n.
 \end{align*}
 $$
 
-The counter moves back and forth, and on average $\langle R\rangle =
+The counter moves back and forth, and on average $\langle x\rangle =
 0$.
 But the size of the region explored as it moves back and forth is the
 square root of the variance, also called the *root mean square* (rms)
-displacement, $\sqrt{\langle R^2\rangle} = \sqrt{n}$.
+displacement, $\sqrt{\langle x^2\rangle} = \sqrt{n}$.
 This is the distance from the origin the counter will tend to wander
 in the first $n$ steps.
 If instead of steps $\pm 1$, we have steps $\pm \ell$, then $\langle
-X^2\rangle = \ell^2$ and the rms displacement becomes
+s^2\rangle = \ell^2$ and the rms displacement becomes
 
 $$
-\sqrt{\langle R^2\rangle} = \ell\sqrt{n}
+\sqrt{\langle x^2\rangle} = \ell\sqrt{n}
 $$
 
 as claimed above.
 
 *Proof (many D).* The proof is almost identical in $d$ dimensions,
- where a step can be written as a vector $\vec{X}$ with $d$ components:
+ where a step can be written as a vector $\vec{s}$ with $d$ components:
 
 $$
-\vec{X} = (X^1, X^2\, \ldots, X^d).
+\vec{s} = (s^1, s^2\, \ldots, s^d).
 $$
 
-The length of $\vec{X}$ is given by a generalisation of Pythagoras'
-theorem (Exercise A.2):
+The length of $\vec{s}$ is given by a generalisation of Pythagoras'
+theorem (Exercise A.1):
 
 $$
-|\vec{X}| = \sqrt{(X^1)^2 + (X^2)^2 + \cdots + (X^d)^2}.
+|\vec{s}| = \sqrt{(s^1)^2 + (s^2)^2 + \cdots + (s^d)^2}.
 $$
 
 Let's assume that the average step length is $ \ell $, and steps are
 unbiased, so
 
 $$
-\langle \vec{X} \rangle = \vec{0} = (0, 0, \ldots, 0), \quad \langle |\vec{X}|^2 \rangle = \ell^2.
+\langle \vec{s} \rangle = \vec{0} = (0, 0, \ldots, 0), \quad \langle |\vec{s}|^2 \rangle = \ell^2.
 $$
 
 Finally, we assume that steps are independent, so any two components of
 distinct steps satisfy
 
 $$
-\langle X_i^a \cdot X^b_j \rangle = 0,
+\langle s_i^a \cdot s^b_j \rangle = 0,
 $$
 
-where $\vec{X}_i, \vec{X}_j$ are distinct steps, and $a, b$ labels
+where $\vec{s}_i, \vec{s}_j$ are distinct steps, and $a, b$ labels
 components.
-Then, if $\vec{R} = \vec{X}_1 + \cdots + \vec{X}_n$, the random walk has variance
+Then, if $\vec{x} = \vec{s}_1 + \cdots + \vec{s}_n$, the random walk has variance
 
 $$
 \begin{align*}
-\langle |\vec{R}|^2\rangle & = \langle (X_1^1 + X_2^1 + \cdots
-X_n^1)^2 + \cdots + (X_1^n + X_2^n + \cdots X_n^n)^2 \rangle \\
-	& = \langle [(X_1^1)^2 + (X_2^1)^2 + \cdots
-(X_n^1)^2] + \cdots +  [(X_1^n)^2 + (X_2^n)^2 + \cdots +(X_n^n)^2]
+\langle |\vec{x}|^2\rangle & = \langle (s_1^1 + s_2^1 + \cdots
+s_n^1)^2 + \cdots + (s_1^n + s_2^n + \cdots s_n^n)^2 \rangle \\
+	& = \langle [(s_1^1)^2 + (s_2^1)^2 + \cdots
+(s_n^1)^2] + \cdots +  [(s_1^n)^2 + (s_2^n)^2 + \cdots +(s_n^n)^2]
 \rangle \\
 & \qquad \qquad + 2 \langle
-[X_1^1 \cdot X_2^1 + \cdots + X_{n-1}^1\cdot X_n^1]+\cdots + [X_1^n \cdot X_2^n + \cdots + X_{n-1}^n\cdot X_n^n] \rangle\\
-& = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
-(X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]
+[s_1^1 \cdot s_2^1 + \cdots + s_{n-1}^1\cdot s_n^1]+\cdots + [s_1^n \cdot s_2^n + \cdots + s_{n-1}^n\cdot s_n^n] \rangle\\
+& = \langle [(s_1^1)^2 + (s_1^2)^2 + \cdots
+(s_1^n)^2] + \cdots +  [(s_n^1)^2 + (s_n^2)^2 + \cdots +(s_n^n)^2]
 \rangle \\
-& = \langle [(X_1^1)^2 + (X_1^2)^2 + \cdots
-(X_1^n)^2] + \cdots +  [(X_n^1)^2 + (X_n^2)^2 + \cdots +(X_n^n)^2]\\
+& = \langle [(s_1^1)^2 + (s_1^2)^2 + \cdots
+(s_1^n)^2] + \cdots +  [(s_n^1)^2 + (s_n^2)^2 + \cdots +(s_n^n)^2]\\
 & = \langle |\vec{X}_1|^2\rangle + \cdots +\langle
 |\vec{X}_n|^2\rangle\\
 & = n \ell^2,
@@ -165,13 +165,13 @@ $$
 
 where on the third line we used the fact that the components of
 different steps are independent, on the fourth line we reorganised the
-terms $(X_i^a)^2$ into individual steps, on the fifth line we used the
+terms $(s_i^a)^2$ into individual steps, on the fifth line we used the
 definition of length and the linearity of expectation, and on the
 last line we used the assumption about average step length.
 Taking square roots, we find the rms displacement
 
 $$
-\sqrt{\langle |\vec{R}|^2\rangle} = \ell\sqrt{n},
+\sqrt{\langle |\vec{x}|^2\rangle} = \ell\sqrt{n},
 $$
 
 in any number of dimensions.
@@ -237,10 +237,22 @@ $$
 n(h) = n_0 e^{-mgh/k_B\mathcal{T}}.
 $$
 
-Consider a thin slice of the fluid at height $h$, with thickness
-$\Delta h$.
-This will lose particles as they fall down at the terminal velocity
-$v_\text{term}$, but it can gain particles from the layer above
+Consider a thin slice of the fluid at height $h$, with density $n$,
+thickness $\Delta h$ and area $A$.
+This slice will lose particles as they fall under the influence of
+gravity.
+In equilibrium, particles fall at the terminal velocity
+$v_\text{term}$, and hence the slice loses particles at a rate
+
+$$
+R_\text{lose} = n A \Delta h v_\text{term}.
+$$
+
+But balls of resin also perform random walks.
+They will tend to wander from regions of high concentration to regions
+of low concentration, since (as discussed in the main text) a drop of
+random walkers will spread out.
+If the next layer down has 
 
 ## 2. Solutions to exercises <a id="sec-2" name="sec-2"></a>
 
