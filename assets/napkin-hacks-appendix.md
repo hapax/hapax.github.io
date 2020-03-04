@@ -126,7 +126,7 @@ $$
 D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
-There are various factors of $2$ I am neglecting.
+There are various factors of $2$ we've neglected.
 But given the dimensional analysis-based sloppiness I'm advocating in
 general, we won't lose sleep over them!
 
