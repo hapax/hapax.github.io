@@ -259,7 +259,7 @@ the barometric distribution), there will be a net upward movement of
 walkers.
 We expect this will involve $\Delta n$, the difference in
 number density, and the rate of diffusion $D$.
-The rate of gain, from dimensional analysis, should then take the form
+The rate of gain, from dimensional analysis (Exercise A.2), should then take the form
 
 $$
 R_\text{gain} = D A \Delta n.
@@ -272,7 +272,15 @@ $$
 n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{term} = D \frac{1}{n}\frac{\Delta n}{\Delta h}.
 $$
 
+This looks complicated, but for the barometric distribution (Exercise
+A.3), it turns out that $\Delta n /\Delta h = nmg/k_B\mathcal{T}$, and
+hence
 
+$$
+v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}},
+$$
+
+as we claimed in the main text.
 
 ---
 
