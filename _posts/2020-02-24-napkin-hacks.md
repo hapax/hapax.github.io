@@ -92,7 +92,7 @@ While there is whimsy and irreverence aplenty, the focus will be
 *real physics*.
 Our goal will be a beautiful proof of the existence of atoms, due to
 none other than Albert Einstein, the greatest physics hacker of all!
-The other running theme is rain, a tribute to rainy city of residence,
+The other running theme is rain, a tribute to my rainy city of residence,
 Vancouver.
 
 <figure>
