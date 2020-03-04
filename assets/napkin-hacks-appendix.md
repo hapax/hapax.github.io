@@ -326,6 +326,8 @@ $$
 e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
 $$
 
+We can use this to deduce a remarkable property of the exponential function.
+
 <span style="padding-left: 20px; display:block">
 (a) Show using the binomial approximation that
 </span>
