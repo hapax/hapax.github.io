@@ -1709,6 +1709,15 @@ $$
 To make this as small as possible, you should make $u$ as large as
 possible.
 In other words, run for shelter!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker19.png" width="60%"/>
+		    <figcaption><i>Your collision cylinder in the frame of the
+    rain.</i></figcaption>
+	</div>
+	</figure>
+
 This is particularly clear when the rain falls much faster than you
 run, with $v/u \gg 1$, in which case
 
