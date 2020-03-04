@@ -1852,8 +1852,8 @@ $$
 $$
 
 Although this short argument gives the right answer, we've cheated and
-sidestepped a bunch of physics.
-To see what we sidestepped, and what this answer for $\ell$ really
+sidestepped some important physics.
+To see what we've missed, and what this answer for $\ell$ really
 means, see the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
