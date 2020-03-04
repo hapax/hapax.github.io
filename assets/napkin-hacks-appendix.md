@@ -63,7 +63,7 @@ $$
 n(h) = n_0 e^{-mgh/k_B\mathcal{T}},
 $$
 
-where $n_0$ is a constant that won't concern us.
+where $n_0$ is a constant (with dimensions of density) that won't concern us.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
 thickness $\Delta h$ and area $A$.
