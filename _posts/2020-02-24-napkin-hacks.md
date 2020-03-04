@@ -1594,7 +1594,7 @@ Although this sounds like a dangerous place,
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker18.png" width="75%"/>
+    ="/images/posts/hacker18.png" width="70%"/>
 		    <figcaption><i>Flying through the asteroid belt.</i></figcaption>
 	</div>
 	</figure>
