@@ -144,7 +144,7 @@ Finally, we assume that steps are independent, so any two components of
 distinct steps satisfy
 
 $$
-\langle s_i^a \cdot s^b_j \rangle = 0,
+\langle s_i^a s^b_j \rangle = 0,
 $$
 
 where $\vec{s}_i, \vec{s}_j$ are distinct steps, and $a, b$ labels
@@ -294,8 +294,8 @@ v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
 If we now plug in the terminal velocity from Stokes' law, we can
-rearrange to find the Stokes-Einstein relation we derived with
-trickery in the main text:
+rearrange to find the Stokes-Einstein relation we derived (with
+considerable trickery) in the main text:
 
 $$
 D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
