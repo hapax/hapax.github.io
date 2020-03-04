@@ -30,7 +30,7 @@ Very much under construction!
 
 ### 2.1. Equilibrium for pollen grains <a id="sec-2-1" name="sec-2-1"></a>
 
-*Prerequisites: exponentials; binomial approximation.*
+*Prerequisites: familiarity with exponentials.*
 
 The equilibrium condition for pollen grains is more
 complicated than the simple equation I gave in the main text.
