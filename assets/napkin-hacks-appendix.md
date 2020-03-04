@@ -31,7 +31,7 @@ Very much under construction!
 
 ### 1.1. Random walks <a id="sec-2-1" name="sec-2-1"></a>
 
-*Prerequisites: basic probability theory.*
+*Prerequisites: basic probability theory; vectors.*
 
 We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
