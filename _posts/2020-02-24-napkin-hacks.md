@@ -1817,6 +1817,14 @@ If the grain is much larger than the fluid particles, we can
 treat the latter as points, so the collision cylinder has cross-section
 $\sigma = \pi r^2$.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker21.png" width="60%"/>
+		    <figcaption><i>A large pollen grain randomly bumping into
+    water molecules.</i></figcaption>
+	</div>
+	</figure>
+
 Counting the number of particles is hard, but measuring the
 temperature is easy.
 Just as with the air example above, we can use the ideal gas law to swap volume and number for
