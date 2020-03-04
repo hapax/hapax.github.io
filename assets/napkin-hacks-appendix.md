@@ -331,7 +331,7 @@ $$
 </span>
 
 $$
-e^x = \lim_{n\to\infty} \left[1 + x + x^2(\cdots)],
+e^x = \lim_{n\to\infty} \left[1 + x + x^2(\cdots)\right],
 $$
 
 <span style="padding-left: 20px; display:block">
