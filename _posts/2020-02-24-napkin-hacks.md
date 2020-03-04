@@ -1772,7 +1772,7 @@ As above, we consider a sphere seeking shelter a distance $d$ away.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker20.png" width="55%"/>
+    ="/images/posts/hacker20.png" width="52%"/>
 		    <figcaption><i>The optimal speed to run in windy rain.</i></figcaption>
 	</div>
 	</figure>
