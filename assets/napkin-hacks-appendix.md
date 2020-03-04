@@ -306,8 +306,7 @@ $$
 **Exercise A.2 (grabbing granules).** The rate at which a
   thin slice of fluid gains resin particles, $R_\text{gain}$, will
   involve:
-  - The difference in concentration $\Delta n$ between it and the
-  next layer down.
+  - The difference in concentration $\Delta n$ between layers.
   - The area $A$ of the layer.
   - The diffusion constant $D$ for resin particles.
 
