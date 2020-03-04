@@ -349,14 +349,16 @@ $$
 e^x \approx 1 + x.
 $$
 
-The barometric distribution is
+<span style="padding-left: 20px; display:block">
+(c) The barometric distribution is
+</span>
 
 $$
 n(h) = n_0 e^{-mgh/k_B\mathcal{T}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) From the previous exercise, show that, if $\Delta h \ll
+From the previous exercise, show that, if $\Delta h \ll
 k_B\mathcal{T}/mg$, then
 </span>
 
