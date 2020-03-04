@@ -1936,8 +1936,7 @@ by the combined efforts of Henri Regnault and Rudolf Clausius in 1850.
 So we will take $\mathcal{R}$ as a given, and leave ourselves the much harder task of weighing atoms.
 
 <span style="padding-left: 20px; display:block">
-(a) First, by equating the two different forms of the ideal gas law, deduce
-that $N_A = \mathcal{R}/k_B$.
+(a) By equating the different forms of the ideal gas law, show that $N_A = \mathcal{R}/k_B$.
 </span>
 
 To weigh atoms and molecules, all we need to do is divide the molar
