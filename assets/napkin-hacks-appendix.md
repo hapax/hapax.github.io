@@ -289,9 +289,9 @@ $$
 v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
-If we now plug in the terminal velocity from Stoke's law, we can
-rearrange to find the Stokes-Einstein relation we derived much more
-sneakily in the main text:
+If we now plug in the terminal velocity from Stokes' law, we can
+rearrange to find the Stokes-Einstein relation we derived with
+trickery in the main text:
 
 $$
 D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
