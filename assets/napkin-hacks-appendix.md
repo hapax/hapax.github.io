@@ -25,6 +25,8 @@ Very much under construction!
 
 ### 1.1. Random walks <a id="sec-1-1" name="sec-1-1"></a>
 
+*Prerequisites: basic probability theory.*
+
 We will prove the square root scaling of random walks, first in 1D, and then extend
 almost immediately to many dimensions.
 The only prerequisite is a little probability theory and knowledge of vectors.
@@ -206,7 +208,9 @@ $$
 
 ---
 
-### 1.2. Equilibrium for pollen grains <a id="sec-1-2"name="sec-1-2"></a>
+### 1.2. Equilibrium for pollen grains <a id="sec-1-2" name="sec-1-2"></a>
+
+*Prerequisites: exponentials; binomial approximation.*
 
 The equilibrium condition for pollen grains is more
 complicated than the simple equation I gave in the main text.
@@ -281,7 +285,8 @@ v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
 If we now plug in the terminal velocity from Stoke's law, we can
-rearrange to find the Stokes-Einstein relation,
+rearrange to find the Stokes-Einstein relation we derived much more
+sneakily in the main text:
 
 $$
 D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
@@ -289,7 +294,7 @@ $$
 
 ---
 
-**Exercise A.2 (dimensional analysis for gain).** The rate at which a
+**Exercise A.2 (grabbing granules).** The rate at which a
   thin slice of fluid gains resin particles, $R_\text{gain}$, will
   involve:
   - The difference in concentration $\Delta n$ between it and the
@@ -309,7 +314,48 @@ $$
   ⁂
   </p>
 
-**Exercise A.3 (exponential change).**
+**Exercise A.3 (exponential change).** One way of defining an
+exponential is as the limit
+
+$$
+e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
+$$
+
+<span style="padding-left: 20px; display:block">
+(a) Show using the binomial approximation that
+</span>
+
+$$
+e^x = \lim_{n\to\infty} \left[1 + x + x^2(\cdots)],
+$$
+
+<span style="padding-left: 20px; display:block">
+where the $ \cdots$ denote terms multiplied by $x^2$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Argue that, for $x \ll 1$,
+</span>
+
+$$
+e^x \approx 1 + x.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) The barometric distribution is
+</span>
+
+$$
+n(h) = n_0 e^{-mgh/k_B\mathcal{T}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+Show that, as claimed above,
+</span>
+
+$$
+\frac{\Delta n}{\Delta h} = \frac{n(h+\Delta h) - n(h)}{\Delta h} \approx \frac{n(h)mg}{k_B\mathcal{T}}.
+$$
 
 ---
 
