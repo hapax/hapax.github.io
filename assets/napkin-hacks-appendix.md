@@ -238,6 +238,9 @@ $$
 \text{probability} \propto e^{-E/k_B\mathcal{T}}.
 $$
 
+(These probabilities are called
+[Boltzmann factors](https://en.wikipedia.org/wiki/Boltzmann_distribution),
+but you can take them on faith.)
 In this case, the energy is just the gravitational potential energy $E
 = mgh$, and the number density of particles is proportional to the
 probability.
