@@ -57,13 +57,26 @@ than the thermal energy $k_B\mathcal{T}$, they may as well be!
 For a gas in a tall container, the energy is just the gravitational potential energy, $E
 = mgh$, and the number density of particles is proportional to the
 probability.
-The result is called the *barometric distribution*:
+The result is the *barometric distribution*:
 
 $$
 n(h) = n_0 e^{-mgh/k_B\mathcal{T}},
 $$
 
-where $n_0$ is a constant (with dimensions of density) that won't concern us.
+where $n_0$ is a constant (with dimensions of density) that won't
+concern us.
+
+The barometric distribution tells us what the length $\ell =
+k_B\mathcal{T}/mg$ really means.
+It is not the mean free path (which really depends on the
+cross-section and height-dependent density $n(h)$) but rather the
+approximate height over which the pollen or resin balls are concentrated.
+Above $\ell = h$, they drop off exponentially!
+We could say "well, $\ell$ is a good guess" and leave it at that, but
+given that this is a technical appendix, we can work a bit harder and
+understand the correct answer comes from *dynamic equilibrium*: the
+balancing act between resin balls falling under gravity, and random
+walkers spreading upwards.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
 thickness $\Delta h$ and area $A$.
