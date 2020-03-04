@@ -1844,9 +1844,9 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
-coefficient $D = \ell v$, since $d^2 \sim Dt$.
-We still need to work out the velocity, $v$, and here is the clever
+Recall that the diffusion coefficient $D = \ell v$ is directly related
+to the meandering of pollen over time, with $d^2 \sim Dt$.
+To calculate this coefficient, we still need to work out the velocity, $v$, but here is the clever
 part: since our fluid was viscous, and assuming the grains move
 slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
 Since the grains are in equilibrium, it's reasonable to guess that their
