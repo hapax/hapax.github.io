@@ -1731,7 +1731,7 @@ the rain!
 
 ---
 
-**Exercise 17 (cubes and cloudbursts).** Let's now make a slightly
+**Exercise 17 (box).** Let's now make a slightly
 more realistic model of a person: a box of height $h$, width $w$, and
 breadth $b$.
 For simplicity, suppose there is no wind, so the rain falls directly
@@ -1770,6 +1770,13 @@ We reach similar conclusions to the sphere, though I personally find the sphere 
 **Exercise 18 (wet and windy).** When the wind blows, it imparts a
 horizontal velocity to the rain.
 As above, we consider a sphere seeking shelter a distance $d$ away.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker20.png" width="60%"/>
+		    <figcaption><i>The optimal speed to run in windy rain.</i></figcaption>
+	</div>
+	</figure>
 
 <span style="padding-left: 20px; display:block">
 (a) If the wind blows *away* from shelter, explain why you should run
