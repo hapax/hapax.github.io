@@ -68,7 +68,7 @@ concern us.
 
 The barometric distribution tells us what the length $\ell =
 k_B\mathcal{T}/mg$ really means.
-It is not the mean free path (which really depends on the
+It is not the mean free path (which really does depend on the
 cross-section and height-dependent density $n(h)$) but rather the
 approximate height over which the pollen or resin balls are concentrated.
 Above $\ell = h$, they drop off exponentially!
