@@ -201,7 +201,8 @@ k_B\mathcal{T}/mg$, then
 </span>
 
 $$
-\frac{\Delta n}{\Delta h} = \frac{n(h+\Delta h) - n(h)}{\Delta h} \approx \frac{n(h)mg}{k_B\mathcal{T}}.
+\frac{\Delta n}{\Delta h} = \frac{n(h+\Delta h) - n(h)}{\Delta h}
+\approx \left(\frac{mg}{k_B\mathcal{T}}\right) n(h).
 $$
 
 ---
