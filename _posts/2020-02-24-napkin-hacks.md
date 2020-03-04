@@ -1854,7 +1854,7 @@ $$
 We can also arrive at this answer by dimensional analysis, but these
 slick approaches, while getting the correct answer, miss some
 important physics.
-For a more realistic treatment, see the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).)
+For a more realistic treatment, see the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
