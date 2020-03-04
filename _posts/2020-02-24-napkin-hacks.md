@@ -1247,7 +1247,6 @@ where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
-(A more precise version of this argument is given in the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).)
 In our earlier picture, the blue terms vanish, and we just have the big
 square equal to the little squares.
 
@@ -1835,10 +1834,10 @@ PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
 \ell = \frac{V}{\mathcal{N}\sigma} =  \frac{k_B\mathcal{T}}{P \pi  r^2}.
 $$
 
-Since the container is tall, the pressure profile $P$ can change with
+Since the container is tall, the pressure profile $P$ changes with
 height.
 But if we leave the pollen grains alone for long enough, they will
-fall down and settle into *dynamic equilibrium* at the point where the
+fall down and settle into equilibrium at the point where the
 pressure from the fluid balances the force of gravity.
 In other words, we have
 
@@ -1851,6 +1850,9 @@ and hence
 $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
+
+This argument is very slick, but sidesteps important physical details.
+For a more realistic treatment, see the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
@@ -1878,8 +1880,6 @@ which grows with temperature but is inversely proportional to particle
 size.
 Big particles jiggle less, hot fluids jiggle more, and things look the
 same on Mars!
-(I've swept many subtleties under the rug, but you can retrieve some
-of them from the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) if you're curious.)
 
 The jiggling of grains in a fluid was first observed by Robert Brown,
 hence the name *Brownian motion*.
