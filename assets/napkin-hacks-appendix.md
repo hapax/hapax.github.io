@@ -277,10 +277,15 @@ A.3), it turns out that $\Delta n /\Delta h = nmg/k_B\mathcal{T}$, and
 hence
 
 $$
-v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}},
+v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
-as we claimed in the main text.
+If we now plug in the terminal velocity from Stoke's law, we can
+rearrange to find the Stokes-Einstein relation,
+
+$$
+D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
+$$
 
 ---
 
