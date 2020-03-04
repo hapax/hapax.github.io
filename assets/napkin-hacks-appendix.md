@@ -100,21 +100,21 @@ number density, and the rate of diffusion $D$.
 The rate of gain should then take the form (Exercise A.1)
 
 $$
-R_\text{gain} = D A \Delta n.
+R_\text{gain} = -D A \Delta n.
 $$
 
 Finally, in equilibrium, the rate of gain and loss are equal!
 Thus, we have that
 
 $$
-n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{term} = \frac{D}{n}\frac{\Delta n}{\Delta h}.
+n A \Delta h v_\text{term} = -D A \Delta n \quad \Longrightarrow \quad v_\text{term} = -\frac{D}{n}\frac{\Delta n}{\Delta h}.
 $$
 
 This looks complicated, but for the barometric distribution (Exercise
 A.2), it turns out that
 
 $$
-\frac{1}{n}\frac{\Delta n}{\Delta h} = \frac{mg}{k_B\mathcal{T}} \quad \Longrightarrow \quad
+\frac{1}{n}\frac{\Delta n}{\Delta h} = -\frac{mg}{k_B\mathcal{T}} \quad \Longrightarrow \quad
 v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
@@ -144,7 +144,7 @@ Find the dimensions of the terms in the list above, and conclude from
 dimensional analysis that
 
 $$
-R_\text{gain} \sim D A \Delta n.
+R_\text{gain} \sim -D A \Delta n.
 $$
 
 <p align="center">
