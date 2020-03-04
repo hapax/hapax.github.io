@@ -152,7 +152,7 @@ $$
 (1 + X)^\alpha \approx 1 + \alpha X
 $$
 
-for small $X$.
+for small $X$ and any $\alpha$.
 We can combine these two facts to learn something cool about the
 barometric distribution!
 
