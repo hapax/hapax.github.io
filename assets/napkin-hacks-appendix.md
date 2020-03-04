@@ -114,9 +114,9 @@ $$
 D  = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
-There are various factors of $2$ I am being rather sloppy about, but
-for a calculus-free, dimensional analysis-style treatment, it didn't
-seem worth the both to keep these straight.
+There are various factors of $2$ I am being sloppy about.
+But given the dimensional analysis-based perspective I'm advocating,
+we won't lose sleep over them.
 
 ---
 
