@@ -17,7 +17,7 @@ Very much under construction!
 1. <a href="#sec-1">Solutions to exercises</a>
    1. <a href="#sec-1-1">Interplanetary pumpkins</a>
    2. <a href="#sec-1-2">Terminal raindrops</a>
-2. <a href="#sec-2">Technicalities</a>
+2. <a href="#sec-2">Technical results</a>
    2. <a href="#sec-2-1">Equilibrium for pollen grains</a>
 
 ## 1. Solutions to exercises <a id="sec-1" name="sec-1"></a>
@@ -26,7 +26,7 @@ Very much under construction!
 
 ### 1..2. Terminal raindrops <a id="sec-1-2" name="sec-1-2"></a>
 
-## 2. Technicalities <a id="sec-2" name="sec-2"></a>
+## 2. Technical results <a id="sec-2" name="sec-2"></a>
 
 ### 2.1. Equilibrium for pollen grains <a id="sec-2-1" name="sec-2-1"></a>
 
