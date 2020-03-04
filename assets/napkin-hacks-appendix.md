@@ -91,8 +91,8 @@ $$
 
 But balls of resin also perform random walks.
 They will tend to wander from regions of high concentration to regions
-of low concentration, since (as discussed in the main text) a drop of
-random walkers spreads out.
+of low concentration, since (as discussed in the main text) a cloud of
+random walkers tends to spread out.
 Since the layer below will tend to have more resin balls (according to
 the barometric distribution), there will be a upward spread of
 walkers.
