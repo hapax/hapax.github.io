@@ -11,8 +11,8 @@ date:  2020-02-24
   awesome. I discuss three napkin algorithms --- dimensional
   analysis, Fermi estimates, and random walks --- and use them to
   figure out why rain falls, the length of the E. coli genome, and the
-  mass of a proton, among other things. These examples suggest an
-  approach to teaching physics oriented around napkin hacks.*
+  mass of a proton, among other things. These examples suggest a
+  napkin-based approach to teaching physics.*
 
 ### Contents
 
@@ -122,9 +122,8 @@ an optional diversion, not used in the rest of the random walk tutorial.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
-(I plan to add solutions in the near future.)
-Images are still being finalised and may appear, disappear, or undergo
-sudden change. Don't be alarmed!
+Solutions to exercises, and various other technicalities, are
+collected [here](assets/napkin-hacks-appendix.md).
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -1248,6 +1247,7 @@ where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
+(A more precise version of this argument is given in the [technical appendix](assets/napkin-hacks-appendix.md).)
 In our earlier picture, the blue terms vanish, and we just have the big
 square equal to the little squares.
 
@@ -1832,8 +1832,6 @@ height.
 But if we leave the pollen grains alone for long enough, they will
 fall down and settle into *dynamic equilibrium* at the point where the
 pressure from the fluid balances the force of gravity.
-(We want the pollen grains to be light enough that this isn't the
-bottom of the container!)
 In other words, we have
 
 $$
@@ -1845,6 +1843,11 @@ and hence
 $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
+
+Technically, we need the *difference* in pressure between top
+and bottom to cancel the weight, but a nice little conspiracy means
+our simple answer is correct.
+See the [technical notes](assets/napkin-hacks-appendix.md) for more details.
 
 From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
