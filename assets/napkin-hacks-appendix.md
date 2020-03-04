@@ -278,7 +278,7 @@ Finally, in equilibrium, the rate of gain and loss are equal!
 Thus, we have that
 
 $$
-n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{term} = D \frac{1}{n}\frac{\Delta n}{\Delta h}.
+n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{term} = \frac{D}{n}\frac{\Delta n}{\Delta h}.
 $$
 
 This looks complicated, but for the barometric distribution (Exercise
@@ -355,7 +355,8 @@ n(h) = n_0 e^{-mgh/k_B\mathcal{T}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-Show that, as claimed above,
+Using the previous exercise, show that, if $\Delta h \ll
+k_B\mathcal{T}/mg$, then
 </span>
 
 $$
