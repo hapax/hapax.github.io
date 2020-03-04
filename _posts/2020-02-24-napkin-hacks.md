@@ -1819,12 +1819,12 @@ $\sigma = \pi r^2$.
 
 Counting the number of particles is hard, but measuring the
 temperature is easy.
-So we use the ideal gas law to swap volume and number for
+Just as with the air example above, we can use the ideal gas law to swap volume and number for
 pressure and temperature:
 
 $$
 PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
-\ell = \frac{k_B\mathcal{T}}{\pi P r^2}.
+\ell = \frac{V}{\mathcal{N}\sigma} =  \frac{k_B\mathcal{T}}{\pi P r^2}.
 $$
 
 Since the container is tall, the pressure profile $P$ can change with
@@ -1844,10 +1844,9 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-Technically, we need the *difference* in pressure between top
-and bottom to cancel the weight, but a nice little conspiracy means
-our simple answer is correct.
-See the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) for more details.
+I've swept some technical details under the rug, but you can retrieve
+them from the
+[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
