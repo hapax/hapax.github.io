@@ -13,17 +13,22 @@ Very much under construction!
 
 ### Contents
 
-1. <a href="#sec-1">Technicalities</a>
-   1. <a href="#sec-1-1">Random walks</a>
-   2. <a href="#sec-1-2">Equilibrium for pollen grains</a>
-1. <a href="#sec-2">Solutions to exercises</a>
-   1. <a href="#sec-2-1">Interplanetary pumpkins</a>
-   2. <a href="#sec-2-2">Terminal raindrops</a>
+1. <a href="#sec-1">Solutions to exercises</a>
+   1. <a href="#sec-1-1">Interplanetary pumpkins</a>
+   2. <a href="#sec-1-2">Terminal raindrops</a>
+2. <a href="#sec-2">Technicalities</a>
+   1. <a href="#sec-2-1">Random walks</a>
+   2. <a href="#sec-2-2">Equilibrium for pollen grains</a>
 
+## 1. Solutions to exercises <a id="sec-1" name="sec-1"></a>
 
-## 1. Technicalities <a id="sec-1" name="sec-1"></a>
+### 1.1. Interplanetary pumpkins <a id="sec-1-1" name="sec-1-1"></a>
 
-### 1.1. Random walks <a id="sec-1-1" name="sec-1-1"></a>
+### 1..2. Terminal raindrops <a id="sec-1-2" name="sec-1-2"></a>
+
+## 2. Technicalities <a id="sec-2" name="sec-2"></a>
+
+### 1.1. Random walks <a id="sec-2-1" name="sec-2-1"></a>
 
 *Prerequisites: basic probability theory.*
 
@@ -208,7 +213,7 @@ $$
 
 ---
 
-### 1.2. Equilibrium for pollen grains <a id="sec-1-2" name="sec-1-2"></a>
+### 2.2. Equilibrium for pollen grains <a id="sec-2-2" name="sec-2-2"></a>
 
 *Prerequisites: exponentials; binomial approximation.*
 
@@ -358,9 +363,3 @@ $$
 $$
 
 ---
-
-## 2. Solutions to exercises <a id="sec-2" name="sec-2"></a>
-
-### 2.1. Interplanetary pumpkins <a id="sec-2-1" name="sec-2-1"></a>
-
-### 2..2. Terminal raindrops <a id="sec-2-2" name="sec-2-2"></a>
