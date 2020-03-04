@@ -1487,7 +1487,7 @@ This covers most of the cases we will be interested in!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker17v2.png" width="65%"/>
+    ="/images/posts/hacker17.png" width="65%"/>
 		    <figcaption><i>A collision cylinder around a sphere of
     radius R, colliding with spheres of radius r.</i></figcaption>
 	</div>
@@ -1719,7 +1719,8 @@ In other words, run for shelter!
 	</figure>
 
 This is particularly clear when the rain falls much faster than you
-run, with $v/u \gg 1$, in which case
+run, with $v/u \gg 1$. In this case, $\sqrt{1 + (v/u)^2} \approx
+\sqrt{(v/u)^2} = v/u$, and hence
 
 $$
 n V \approx \pi n R^2d \cdot \frac{v}{u} = (\pi n R^2 v)t.
