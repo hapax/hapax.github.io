@@ -1731,7 +1731,7 @@ the rain!
 
 ---
 
-**Exercise 17 (box).** Let's now make a slightly
+**Exercise 17 (the soggy box).** Let's now make a slightly
 more realistic model of a person: a box of height $h$, width $w$, and
 breadth $b$.
 For simplicity, suppose there is no wind, so the rain falls directly
