@@ -123,7 +123,7 @@ The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
 Solutions to exercises, and various other technicalities, are
-collected [here]({{hapax.github.io}}/assets/napkin-hacks-appendix.md).
+collected [here]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
@@ -1247,7 +1247,7 @@ where the $\sim$ means "roughly speaking".
 For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
-(A more precise version of this argument is given in the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix.md).)
+(A more precise version of this argument is given in the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).)
 In our earlier picture, the blue terms vanish, and we just have the big
 square equal to the little squares.
 
@@ -1847,7 +1847,7 @@ $$
 Technically, we need the *difference* in pressure between top
 and bottom to cancel the weight, but a nice little conspiracy means
 our simple answer is correct.
-See the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix.md) for more details.
+See the [technical appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) for more details.
 
 From observing the pollen grains meander in the equilibrium plane, we can directly calculate the diffusion
 coefficient $D = \ell v$, since $d^2 \sim Dt$.
