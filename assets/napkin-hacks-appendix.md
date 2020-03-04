@@ -44,18 +44,17 @@ heights, and the number of particles will change with height.
 	</div>
 	</figure>
 
-In a thermal system, the laziness of nature takes the form of an
-exponential penalty for energies which are large compared to the
-thermal energy,
+Nature likes low energy states.
+In a hot system, there is an element of randomness, but nature
+penalises high energy states by making them exponentially unlikely:
 
 $$
-\text{probability} \propto e^{-E/k_B\mathcal{T}}.
+\text{probability}(E) \propto e^{-E/k_B\mathcal{T}}.
 $$
 
-(These probabilities are called
-[Boltzmann factors](https://en.wikipedia.org/wiki/Boltzmann_distribution),
-but you can take them on faith.)
-In this case, the energy is just the gravitational potential energy $E
+They are not exactly zero, but when the energy $E$ is much greater
+than the thermal energy $k_B\mathcal{T}$, they may as well be!
+For a gas in a tall container, the energy is just the gravitational potential energy, $E
 = mgh$, and the number density of particles is proportional to the
 probability.
 The result is called the *barometric distribution*:
