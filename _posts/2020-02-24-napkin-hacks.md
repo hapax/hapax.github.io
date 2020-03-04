@@ -1878,9 +1878,8 @@ which grows with temperature but is inversely proportional to particle
 size.
 Big particles jiggle less, hot fluids jiggle more, and things look the
 same on Mars!
-(I've swept some technical details under the rug, but you can retrieve
-them from the
-[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) if you're curious.)
+(I've swept many subtleties under the rug, but you can retrieve some
+of them from the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix) if you're curious.)
 
 The jiggling of grains in a fluid was first observed by Robert Brown,
 hence the name *Brownian motion*.
