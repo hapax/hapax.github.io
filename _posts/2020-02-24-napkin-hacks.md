@@ -122,8 +122,8 @@ an optional diversion, not used in the rest of the random walk tutorial.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
-Solutions to exercises, and various other technicalities, are
-collected [here]({{hapax.github.io}}/assets/napkin-hacks-appendix).
+Solutions, and various other technicalities, are collected
+[here]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
