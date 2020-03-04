@@ -1824,7 +1824,7 @@ pressure and temperature:
 
 $$
 PV = \mathcal{N} k_B\mathcal{T} \quad \Longrightarrow \quad
-\ell = \frac{V}{\mathcal{N}\sigma} =  \frac{k_B\mathcal{T}}{\pi P r^2}.
+\ell = \frac{V}{\mathcal{N}\sigma} =  \frac{k_B\mathcal{T}}{P \pi  r^2}.
 $$
 
 Since the container is tall, the pressure profile $P$ can change with
