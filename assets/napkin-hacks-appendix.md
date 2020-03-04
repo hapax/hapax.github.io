@@ -146,7 +146,15 @@ $$
 e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
 $$
 
-We can use this to deduce a remarkable property of the exponential function.
+The binomial approximation says that
+
+$$
+(1 + X)^\alpha \approx 1 + \alpha X
+$$
+
+for small $X$.
+We can combine these two facts to learn something cool about the
+barometric distribution!
 
 <span style="padding-left: 20px; display:block">
 (a) Show using the binomial approximation that
