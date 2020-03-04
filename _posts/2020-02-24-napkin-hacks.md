@@ -1845,7 +1845,7 @@ $$
 $$
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
-to the meandering of pollen over time, with $d^2 \sim Dt$.
+to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
 To calculate this coefficient, we still need to work out the velocity, $v$, but here is the clever
 part: since our fluid was viscous, and assuming the grains move
 slowly, we can apply <a href="#sec-2-2">Stokes' law</a>!
