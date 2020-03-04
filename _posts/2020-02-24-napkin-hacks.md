@@ -608,7 +608,7 @@ for applications of fundamental constants to black holes!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker8.png" width="50%"/>
+    ="/images/posts/hacker8.png" width="55%"/>
 		    <figcaption><i>Physical properties of a sample of gas.</i></figcaption>
 	</div>
 	</figure>
