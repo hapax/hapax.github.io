@@ -339,7 +339,7 @@ where the $ \cdots$ denote terms multiplied by $x^2$.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Argue that, for $x \ll 1$,
+(b) Using (a), argue that for $x \ll 1$,
 </span>
 
 $$
