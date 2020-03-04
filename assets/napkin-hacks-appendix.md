@@ -282,10 +282,10 @@ n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{te
 $$
 
 This looks complicated, but for the barometric distribution (Exercise
-A.3), it turns out that $\Delta n /\Delta h = nmg/k_B\mathcal{T}$, and
-hence
+A.3), it turns out that
 
 $$
+\frac{1}{n}\frac{\Delta n}{\Delta h} = \frac{mg}{k_B\mathcal{T}} \quad \Longrightarrow \quad
 v_\text{term}  = \frac{Dmg}{k_B\mathcal{T}}.
 $$
 
