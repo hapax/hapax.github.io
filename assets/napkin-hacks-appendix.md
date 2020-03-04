@@ -72,9 +72,10 @@ It is not the mean free path (which really does depend on the
 cross-section and height-dependent density $n(h)$) but rather, the
 approximate height over which the pollen or resin balls are concentrated.
 Above $h = \ell$, they drop off exponentially!
-We could say "well, $\ell$ is a good guess" and leave it at that, but
-given that this is a technical appendix, we may as well work a bit
-harder and see that the correct answer comes from *dynamic equilibrium*: the
+We could say "well, $\ell$ is a good guess" and leave it at that.
+But given that this is a technical appendix, we may as well work a bit
+harder. The correct answer comes not from equilibrium for an
+individual grain, but from *dynamic equilibrium*: the
 balancing act between resin balls falling under gravity, and randomly walking upwards.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
