@@ -234,8 +234,10 @@ probability.
 The result is called the *barometric distribution*:
 
 $$
-n(h) = n_0 e^{-mgh/k_B\mathcal{T}}.
+n(h) = n_0 e^{-mgh/k_B\mathcal{T}},
 $$
+
+for some constant $n_0$ we won't care about.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
 thickness $\Delta h$ and area $A$.
@@ -245,14 +247,58 @@ In equilibrium, particles fall at the terminal velocity
 $v_\text{term}$, and hence the slice loses particles at a rate
 
 $$
-R_\text{lose} = n A \Delta h v_\text{term}.
+R_\text{loss} = n A \Delta h v_\text{term}.
 $$
 
 But balls of resin also perform random walks.
 They will tend to wander from regions of high concentration to regions
 of low concentration, since (as discussed in the main text) a drop of
-random walkers will spread out.
-If the next layer down has 
+random walkers spreads out.
+Since the layer below will tend to have more resin balls (according to
+the barometric distribution), there will be a net upward movement of
+walkers.
+We expect this will involve $\Delta n$, the difference in
+number density, and the rate of diffusion $D$.
+The rate of gain, from dimensional analysis, should then take the form
+
+$$
+R_\text{gain} = D A \Delta n.
+$$
+
+Finally, in equilibrium, the rate of gain and loss are equal!
+Thus, we have that
+
+$$
+n A \Delta h v_\text{term} = D A \Delta n \quad \Longrightarrow \quad v_\text{term} = D \frac{1}{n}\frac{\Delta n}{\Delta h}.
+$$
+
+
+
+---
+
+**Exercise A.2 (dimensional analysis for gain).** The rate at which a
+  thin slice of fluid gains resin particles, $R_\text{gain}$, will
+  involve:
+  - The difference in concentration $\Delta n$ between it and the
+  next layer down.
+  - The area $A$ of the layer.
+  - The diffusion constant $D$ for resin particles.
+
+The rate $R_\text{gain}$ has dimensions of number per time.
+Find the dimensions of the terms in the list above, and conclude from
+dimensional analysis that
+
+$$
+R_\text{gain} \sim D A \Delta n.
+$$
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise A.3 (exponential change).**
+
+---
 
 ## 2. Solutions to exercises <a id="sec-2" name="sec-2"></a>
 
