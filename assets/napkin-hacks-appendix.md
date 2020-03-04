@@ -73,10 +73,9 @@ cross-section and height-dependent density $n(h)$) but rather, the
 approximate height over which the pollen or resin balls are concentrated.
 Above $h = \ell$, they drop off exponentially!
 We could say "well, $\ell$ is a good guess" and leave it at that, but
-given that this is a technical appendix, we can work a bit harder and
-understand the correct answer comes from *dynamic equilibrium*: the
-balancing act between resin balls falling under gravity, and random
-walkers spreading upwards.
+given that this is a technical appendix, we may as well work a bit
+harder and see that the correct answer comes from *dynamic equilibrium*: the
+balancing act between resin balls falling under gravity, and randomly walking upwards.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
 thickness $\Delta h$ and area $A$.
