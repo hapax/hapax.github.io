@@ -1818,7 +1818,7 @@ $\sigma = \pi r^2$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker21.png" width="60%"/>
+    ="/images/posts/hacker21v2.png" width="60%"/>
 		    <figcaption><i>A large pollen grain randomly bumping into
     water molecules.</i></figcaption>
 	</div>
