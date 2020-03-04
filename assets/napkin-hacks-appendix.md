@@ -6,9 +6,10 @@ title:  "Hacking physics: solutions and technicalities"
 date:  2020-02-24
 ---
 
-This is a technical appendix to my blog post on
-[napkin hacks](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/). It
-contains solutions to exercises and some technical results.
+This is the technical appendix to my
+[post on napkin hacks](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
+It contains solutions to exercises, and some material I deemed overly
+technical for the post.
 Very much under construction!
 
 ### Contents
