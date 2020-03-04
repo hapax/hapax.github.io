@@ -1851,9 +1851,8 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-We can also arrive at this answer by dimensional analysis, but these
-slick approaches, while getting the correct answer, miss some
-important physics.
+We can also arrive at this answer by dimensional analysis. Although
+these slick approaches work, they miss some important physics.
 For a more realistic treatment, see the [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix).
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
