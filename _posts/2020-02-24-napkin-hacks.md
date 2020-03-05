@@ -1837,24 +1837,23 @@ $$
 Since the container is tall, the pressure profile $P$ changes with
 height.
 But if we leave the pollen grains alone for long enough, they will
-fall down and settle into equilibrium at the point where the
-pressure from the fluid balances the force of gravity.
-In other words, we have
+fall down and settle into equilibrium roughly where pressure from the
+fluid balances weight, with
 
 $$
-P = \frac{F}{A} = \frac{mg}{\pi r^2},
+P = \frac{F}{A} \sim \frac{mg}{\pi r^2},
 $$
 
 and hence
 
 $$
-\ell = \frac{k_B\mathcal{T}}{mg}.
+\ell \sim \frac{k_B\mathcal{T}}{mg}.
 $$
 
-This short argument sidesteps some subtle physics, explained at length in the
+This short argument sidesteps some subtleties, explained at length in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But it gives the right answer, and is in the spirit of cheeky hacker
-approximation, so I will let it stand.
+But it gives the right answer, and since it is in the spirit of cheeky
+hacker approximation, I will let it stand.
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
