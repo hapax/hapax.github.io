@@ -187,8 +187,8 @@ the candy store!
 
 ### 1.3. Higher-dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
 
-Our observations about the candy store are not only sort of obvious,
-but seemed confined to a flat, two-dimensional plane.
+Our observations about candy store visits are sort of obvious, and
+seemed confined to a flat, two-dimensional plane.
 But the benefit of stating them the way we did is that the reasoning
 generalises in nice ways to situations that seem much more
 complicated.
