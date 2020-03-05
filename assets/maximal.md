@@ -84,9 +84,10 @@ The Joker gives you a sly look:
 rotate the piece of wood. That doesn't prove the *length* is unchanged."
 </span>
 
-It seems you cannot possibly refute the,. But you are struck by a sudden realisation:
+How can you refute the Joker? It seems like you can't. But then you realise:
 
 <span style="padding-left: 20px; display:block">
-"Maybe not. But if that's case, I don't know what length is! I'm going
-to *define length as the thing which doesn't change under rotation*."
+"Maybe not. But if that's case, I don't even know what length is! I'm going
+to define it as *the quantity which doesn't change under
+rotation*."
 </span>
