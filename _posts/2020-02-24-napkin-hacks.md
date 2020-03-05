@@ -801,6 +801,16 @@ $$
 The answer is actually $12$, so our guess is more or less on the
 mooney!
 
+*Calculation tips.* You might be wondering if it's really possible to
+calculate geometric averages without a calculator.
+It is, but there is a trick to doing it.
+First of all, let's write the numbers we want to average in scientific
+notation:
+
+$$
+x = a \times 10^A, \quad y = b \times 10^B.
+$$
+
 ---
 
 **Exercise 5 (lunar ruler).** Fermi estimate the radius of the moon.

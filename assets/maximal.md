@@ -193,13 +193,10 @@ to three for ease of visualisation.
 
 As before, I want to compare the direct route from $A$ to $B$ to the
 route which includes a side trip to $C$.
-It seems like
-Or did I?
-I can actually repeat the argument, word for word, by *working in the
-plane* which contains $A$, $B$ and $C$.
-Three points always lie on a plane, so this is doable!
-(In fact, this trick works for more dimensions, but three is easily
-visualised.)
+It seems like our argument before only works for a plane, and now
+we'll have to do some more complicated thing with spheres instead of circles.
+Luckily, this is too pessimistic!
+We can repeat the circle argument, word for word, using a trick.
 
 Now, our generalisation to multiple (indeed, infinite) candy stores
 only relied on the result for a single candy store.
