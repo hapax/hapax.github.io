@@ -71,13 +71,15 @@ k_B\mathcal{T}/mg$ really means.
 Rather than being the mean free path (which changes with $h$), it
 is the approximate height over which the pollen or resin balls are
 concentrated; above $h = \ell$, they drop off exponentially.
-We could argue that $\ell$ is in fact a typical free path, in some
-sense, and leave it at that.
+We could argue that $\ell$ is in some sense a typical distance between
+collisions, and leave it at that.
 But given that this is a technical appendix, we may as well work a bit
 harder!
 The correct approach comes not from equilibrium for an
 individual grain, but from *dynamic equilibrium*: the
-balancing act between resin balls falling under gravity, and randomly walking upwards.
+balancing act between resin balls falling under gravity, and randomly
+walking upwards.
+This will give us a deeper understanding of Brownian motion.
 
 Consider a thin slice of the fluid at height $h$, with density $n$,
 thickness $\Delta h$ and area $A$.
