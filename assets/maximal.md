@@ -21,8 +21,8 @@ date:  2020-03-??
 When you rotate a piece of wood, the length doesn't magically change,
 right?
 To check this, you can take a ruler and line it up along the wood.
-As you rotate both ruler and wood together, you'll see the length
-doesn't change.
+As you rotate both ruler and wood together, you'll see that the wood
+always hits the same mark on the ruler.
 But what if some Joker comes along and tells you that rotating not only
 changes the wood, but the ruler too!
 They will stretch by exactly the same factor, so you can never
