@@ -11,21 +11,22 @@ date:  2020-03-??
 
 ### Contents
 
-1. <a href="#sec-1">Einstein and Pythagoras</a>
+1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
-   2. <a href="#sec-1-2">Length, time and boosts</a>
+   2. <a href="#sec-1-2">Zigzags and shortcuts</a>
 
-## 1. Einstein and Pythagoras <a id="sec-1" name="sec-1"></a>
+## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
 When you rotate a stick, it doesn't magically change length,
 right? In fact, you can think of this as a *definition* of length: it
 is the thing that doesn't change under rotations.
-Here is a setup for measuring sticks, pictured below.
+Here is a setup for measuring sticks.
 Take two identical rulers and put them at right angles.
 Call measurement along the first ruler called $\Delta x$, and the
 measurement along the second ruler $\Delta y$.
+We picture this below:
 
 You find that, no matter how you orient the stick, these two
 measurements obey
@@ -35,9 +36,9 @@ $$
 $$
 
 for some constant $\ell$.
-This $\ell$ is the length of the ruler, and this result is of course
+The constant $\ell$ is the length of the ruler, and this result is of course
 just Pythagoras' theorem.
-But it is telling us an important fact:
+But it is telling us an important fact about "Pythagorean length":
 
 ---
 
@@ -65,6 +66,7 @@ $$
 For some rotation, use a tape measure to find the length of the arc
 from the $x$ ruler to the end of the stick, and call this length
 $\theta$.
+(This is the angle measured in *radians*, rather than degrees.)
 We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
 give them special names:
 
@@ -78,7 +80,13 @@ $$
 \cos^2\theta + \sin^2\theta = 1.
 $$
 
-### 1.1. Length, time, and boosts <a id="sec-1-2" name="sec-1-2"></a>
+We can build all of trigonometry out of this, but we will leave that
+to the maths textbooks.
+
+### 1.2. Zigzags and shortcuts <a id="sec-1-2" name="sec-1-2"></a>
+
+So far, we've just focused on the length of a single straight stick.
+But what about 
 
 ## Xtra
 
