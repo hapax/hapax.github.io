@@ -84,8 +84,7 @@ The Joker gives you a sly look:
 rotate the piece of wood. That doesn't prove the *length* is unchanged."
 </span>
 
-It seems you cannot possibly refute the,. But suddenly, you are struck
-by a realisation:
+It seems you cannot possibly refute the,. But you are struck by a sudden realisation:
 
 <span style="padding-left: 20px; display:block">
 "Maybe not. But if that's case, I don't know what length is! I'm going
