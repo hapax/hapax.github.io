@@ -153,10 +153,15 @@ $$
 AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB  \leq \cdots \leq AB.
 $$
 
+The extreme case is to imagine a *continuous* path, which consists of
+infinitely many candy stores.
+I won't prove it formally, but hopefully it's clear that such a path
+is always at least as long as the direct, straight-line route.
+
 ---
 
 <span style="padding-left: 20px; display:block">
-Any departure from a direct path increases total length.
+Any departure from a direct route increases total length.
 </span>
 
 ---
