@@ -17,6 +17,8 @@ date:  2020-03-??
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
+Introductory comments?
+
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
 When you rotate a stick, it doesn't magically change length,
@@ -95,7 +97,7 @@ $x^2 + y^2 = \ell^2$.
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
-So far, we've just focused on the length of a single straight stick.
+So far, we've focused on the length of a single straight stick.
 But suppose we line up two sticks, end to end.
 Can we say anything interesting about the lengths involved?
 To make things more concrete, suppose you can take a direct,
@@ -162,10 +164,13 @@ We can formulate what we've learned as a simple rule:
 ---
 
 <span style="padding-left: 20px; display:block">
-Any departure from a direct route increases total length.
+Any departure from the direct route increases total trip length.
 </span>
 
 ---
+
+### 1.3. A trip to the candy store <a id="sec-1-3" name="sec-1-3"></a>
+
 
 ## Xtra
 
