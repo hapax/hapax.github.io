@@ -157,6 +157,8 @@ infinitely many candy stores.
 I won't prove it formally, but hopefully it's clear that such a path
 is always at least as long as the direct, straight-line route.
 
+We can formulate what we've learned as a simple rule:
+
 ---
 
 <span style="padding-left: 20px; display:block">
