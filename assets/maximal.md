@@ -97,5 +97,5 @@ The Joker smiles again:
 
 <span style="padding-left: 20px; display:block">
 "Good. You've learned that a length is really no different from the
-transformations that preserve.
+transformations that preserve it."
 </span>
