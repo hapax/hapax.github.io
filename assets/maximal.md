@@ -201,7 +201,7 @@ Any departure from the direct route increases total trip length.
 
 ---
 
-If you're in a rush (or a dental hygiene enthusiast), don't go to
+If you're in a hurry (or a dental hygiene enthusiast), don't go to
 the candy store!
 
 ### 1.3. Higher-dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
