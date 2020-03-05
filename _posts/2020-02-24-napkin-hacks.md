@@ -848,7 +848,7 @@ without a calculator!
 
 ---
 
-**Exercise 5 (lunar ruler).** Fermi estimate the radius of the moon.
+**Exercise 5 (the ruler of the moon).** Fermi estimate the radius of the moon.
 
 *Hint.* Take the geometric mean of an overestimate and an underestimate.
 For an overestimate, you could try the radius of
