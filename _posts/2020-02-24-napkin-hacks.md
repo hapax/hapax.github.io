@@ -815,7 +815,7 @@ so $A$ and $B$ are integers, and $1 \leq a, b \leq 10$.
 The exact geometric mean is
 
 $$
-\sqrt{xy} = \sqrt{ab} 10^{(A+B)/2}.
+\sqrt{xy} = \sqrt{ab} \times 10^{(A+B)/2}.
 $$
 
 First, let's focus on the power of $10$.
@@ -836,11 +836,11 @@ $\sqrt{ab} = \sqrt{10} \approx 3.2$ and $(a+b)/2 = 5.5$. So it's not
 too bad!
 
 Let's do an example, taking two numbers that I chose at random, $x =
-63$ and $y = 12, 738$. We can write
+63 = 6.3 \times 10$ and $y = 12, 738 \approx 1.3 \times 10^4 $. We can write
 
 $$
-x = 6.3 \times 10, \quad y = 1.3 \times 10^4 \quad \Longrightarrow
-\quad \sqrt{xy} \approx \left(\frac{6.3 + 1.3}{2}\right) \times 10^{2.5}
+\sqrt{xy} \approx \left(\frac{6.3 + 1.3}{2}\right) \times 10^{2.5}
+\approx 3.8 \times \sqrt{10} \times 10^2 \approx 1.2 \times 10^2.
 $$
 
 ---
