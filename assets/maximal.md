@@ -150,8 +150,7 @@ we just have the direct route from $A$ to $B$.
 We learn that
 
 $$
-AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB \leq AC_2 + C_2C_3 + \cdots
-C_{n-1}C_n + C_nB \leq \cdots \leq AB.
+AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB  \leq \cdots \leq AB.
 $$
 
 ---
