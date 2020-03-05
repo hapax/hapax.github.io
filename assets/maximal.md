@@ -12,12 +12,12 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">Einstein and Pythagoras</a>
-   1. <a href="#sec-1-1">The parable of the Joker</a>
-   2. <a href="#sec-1-2">Circles</a>
+   1. <a href="#sec-1-1">Length and rotation</a>
+   2. <a href="#sec-1-2">Length, time and boosts</a>
 
 ## 1. Einstein and Pythagoras <a id="sec-1" name="sec-1"></a>
 
-### 1.1. Length and rotation <a id="sec-1-1" name="sec-2-1"></a>
+### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
 When you rotate a stick, it doesn't magically change length,
 right? In fact, you can think of this as a *definition* of length: it
@@ -50,8 +50,35 @@ The quantity $\Delta x^2 + \Delta y^2$ is preserved by rotations.
 When we place the end of the stick at the point the rulers meet (the "origin"), this
 becomes $x^2 + y^2$, and the equation $x^2 + y^2 = \ell^2$ describes a
 circle of radius $\ell$.
-Of course, this is just what we get when we rotate the stick, keeping
-one end fixed at the origin.
+Of course, this has to be the case, since geometrically speaking, this
+equation describes what happens when you rotate a stick of length
+$\ell$ with one end fixed.
+
+There is a convenient way of referring to rotations using circles.
+Imagine a stick of unit length, $\ell = 1$, revolved around the point
+our rulers meet, so it obeys
+
+$$
+x^2 + y^2 = 1.
+$$
+
+For some rotation, use a tape measure to find the length of the arc
+from the $x$ ruler to the end of the stick, and call this length
+$\theta$.
+We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
+give them special names:
+
+$$
+x(\theta) = \cos\theta, \quad y(\theta) = \sin\theta.
+$$
+
+It follows immediately, just from the way we've defined things, that
+
+$$
+\cos^2\theta + \sin^2\theta = 1.
+$$
+
+### 1.1. Length, time, and boosts <a id="sec-1-2" name="sec-1-2"></a>
 
 ## Xtra
 
