@@ -90,6 +90,12 @@ you reply:
 <span style="padding-left: 20px; display:block">
 "Maybe not. But if that's the case, I don't even know what length is!
 We may as well *define it* as the quantity which doesn't change under
-rotation.
+rotation."
 </span>
 
+The Joker smiles again:
+
+<span style="padding-left: 20px; display:block">
+"Good. You've learned that a length is really no different from the
+transformations that preserve.
+</span>
