@@ -843,7 +843,8 @@ $$
 $$
 
 The exact answer is closer to $900$, so we aren't particularly
-accurate. But it's well within an order of magnitude!
+accurate. But it's well within an order of magnitude, and we did it
+without a calculator!
 
 ---
 
