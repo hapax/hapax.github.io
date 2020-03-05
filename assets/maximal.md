@@ -89,6 +89,7 @@ you reply:
 
 <span style="padding-left: 20px; display:block">
 "Maybe not. But if that's the case, I don't even know what length is!
-We may as well *define it* as *the quantity which doesn't change under
-rotation*. In other words, in my two-ruler system, the length is $\sqrt{x^2 + y^2}$."
+We may as well define it as *the quantity which doesn't change under
+rotation*.
 </span>
+
