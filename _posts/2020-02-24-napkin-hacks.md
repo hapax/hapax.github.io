@@ -1852,7 +1852,7 @@ $$
 
 This short argument sidesteps some subtleties, explained at length in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But it gives the right answer, and since it is in the spirit of cheeky
+But it gives the right answer, and since it is consistent with the spirit of cheeky
 hacker approximation, I will let it stand.
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
