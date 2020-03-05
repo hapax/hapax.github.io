@@ -109,11 +109,20 @@ $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
 $$
 
-Let's summarise how all these things are related:
-- Length should't change when you rotate an object.
-- Pythagoras' theorem means that $\Delta x^2 + \Delta y^2$ doesn't
-change under rotation.
-- 
+We can summarise what's happened as follows.
+For physical reasons, we don't think rotating should change length.
+Pythagoras' theorem tells us that
+
+$$
+\Delta x^2 + \Delta y^2
+$$
+
+doesn't change under rotations.
+Thus, we can define the *Pythagorean length* by
+
+$$
+d_\text{P}(\Delta x, \Delta y) = \sqrt{\Delta x^2 + \Delta y^2}.
+$$
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
