@@ -77,4 +77,11 @@ This is neat, but it could be a coincidence, so you try orienting the
 wood in different ways.
 However you rotate it, you find that the same relation holds!
 You triumphantly confront the Joker with this new result.
-She 
+The Joker gives you a sly look.
+
+<span style="padding-left: 20px; display:block">
+All you've done is cook up a quantity that doesn't change when you
+rotate. That doesn't prove the *length* is unchanged.
+</span>
+
+Exasperated, you realise that you *cannot refute* the Joker.
