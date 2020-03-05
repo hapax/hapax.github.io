@@ -203,6 +203,15 @@ your trip, visiting many candy stores will not improve matters!
 
 #### Blobs
 
+A second way we can generalise is to consider *curved* surfaces, and
+higher-dimensional versions, all of which I'll call "blobs".
+We'll define curvature in a moment, but it's easier to start with an
+example: the surface of the globe.
+From the moon, the earth is obviously a sphere, and the surface is not
+flat.
+But from the human vantage point, it's hard to tell!
+This is one of the reasons flat-earthism is still a thing.
+
 ## Xtra
 
 When you rotate a piece of wood, the length doesn't magically change,
