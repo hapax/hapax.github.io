@@ -208,31 +208,31 @@ the candy store!
 
 Our observations about candy store visits are sort of obvious, and
 seemed confined to a flat, two-dimensional plane.
-But the benefit of stating them the way we did is that the reasoning
-generalises in nice ways to situations that seem much more
-complicated.
-First, we will generalise to trip-planning in higher dimensions.
-We will then explain how our observations can be adapted to *curved*
-spaces.
+But the benefit of stating them the way we did is that we can
+generalise to more complicated situations easily.
+First, we will think about trip-planning in higher dimensions.
+Next, we will understand shortest routes in *curved* spaces.
 
 #### Higher dimensions
 
 First, let's imagine that our destinations are located in
 three-dimensional, rather than two-dimensional, space.
-The extension actually works for higher dimensions, but we'll stick
-to three for ease of visualisation.
+The extension actually works for higher dimensions, but we'll stick to
+three for ease of visualisation.
 
-As before, I want to compare the direct route from $A$ to $B$ to the
-route which includes a side trip to $C$.
-It seems like our argument before only works for a plane, and now
-we'll have to do some more complicated thing with spheres instead of circles.
-Luckily, this is too pessimistic!
-We can repeat the circle argument, word for word, using a trick.
+As before, I want to compare a direct route from $A$ to $B$ to the
+route via the candy store $C$.
+In two dimensions, we drew circles, but in three dimensions, the set
+of points at a fixed distance from $A$ or $B$ is a *sphere*. So it
+seems like we'll have to draw some complicated picture with spheres.
+Thankfully, this is unecessary!
+We can simply *work in the plane containing $A$, $B$ and $C$*.
+Three points are always contained in a plane, so this is a reasonable
+thing to do.
+We then draw circles, and the argument above goes through, word for
+word.
 
-Now, our generalisation to multiple (indeed, infinite) candy stores
-only relied on the result for a single candy store.
-Since visiting a single candy store in higher dimensions will lengthen
-your trip, visiting many candy stores will not improve matters!
+
 
 #### Blobs
 
