@@ -186,13 +186,14 @@ spaces.
 
 #### Higher dimensions
 
-First, let's imagine that home $A$, school $B$, and the candy store $C$ are located
-in a three-dimensional space, e.g. in the future when we have flying
-cars and buildings are very tall.
-I want to compare the direct route from home to school to the route
-with the side trip, but it seems like the earlier argument with the
-circle breaks down,
-since we assumed everything lived on a plane.
+First, let's imagine that our destinations are located in
+three-dimensional, rather than two-dimensional, space.
+The extension actually works for higher dimensions, but we'll stick
+to three for ease of visualisation.
+
+As before, I want to compare the direct route from $A$ to $B$ to the
+route which includes a side trip to $C$.
+It seems like
 Or did I?
 I can actually repeat the argument, word for word, by *working in the
 plane* which contains $A$, $B$ and $C$.
