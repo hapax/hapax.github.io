@@ -169,7 +169,7 @@ Any departure from the direct route increases total trip length.
 
 ---
 
-If you're in a rush (or want to ensure the longevity of your teeth), don't go to
+If you're in a rush (or an enthusiast for dental hygiene), don't go to
 the candy store!
 
 ### 1.3. A trip to the candy store <a id="sec-1-3" name="sec-1-3"></a>
