@@ -73,15 +73,20 @@ $$
 x^2 + y^2 = \ell^2.
 $$
 
-This is neat, but it could be a coincidence, so you try orienting the
-wood in different ways.
-However you rotate it, you find that the same relation holds!
-You triumphantly confront the Joker with this new result.
+This is neat, but it could be a coincidence.
+You try orienting the wood in different ways, and each time, you find
+the same relation holds: $x^2 + y^2 = \ell^2$.
+Exhilarated, you confront the Joker with this new result.
 The Joker gives you a sly look.
 
 <span style="padding-left: 20px; display:block">
-All you've done is cook up a quantity that doesn't change when you
-rotate. That doesn't prove the *length* is unchanged.
+"All you've done is cook up a quantity that doesn't change when you
+rotate the piece of wood. That doesn't prove the *length* is unchanged."
 </span>
 
-Exasperated, you realise that you *cannot refute* the Joker.
+It seems you *cannot possibly* refute the Joker. But then 
+
+<span style="padding-left: 20px; display:block">
+"All you've done is cook up a quantity that doesn't change when you
+rotate the piece of wood. That doesn't prove the *length* is unchanged."
+</span>
