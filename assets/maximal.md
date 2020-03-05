@@ -109,7 +109,7 @@ $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
 $$
 
-We can summarise what's happened as follows.
+Let's summarise the story so far.
 For physical reasons, we don't think rotating should change length.
 Pythagoras' theorem tells us that
 
