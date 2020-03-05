@@ -17,16 +17,42 @@ date:  2020-03-??
 
 ## 1. Einstein and Pythagoras <a id="sec-1" name="sec-1"></a>
 
-### 1.1. The parable of the Joker <a id="sec-1-1" name="sec-2-1"></a>
+### 1.1. Length and rotation <a id="sec-1-1" name="sec-2-1"></a>
+
+When you rotate a piece of wood, it doesn't magically change length,
+right? In fact, you can think of this as a *definition* of length: it
+is the thing that doesn't change under rotations.
+Imagine we have a length of wood whose length we would like to
+measure.
+We take two identical rulers and put them at right angles, with the
+measurement along the first ruler called $\Delta x$, and the second ruler
+$\Delta y$.
+
+You find that, no matter how you orient the wood, these two
+measurements obey
+
+$$
+(\Delta x)^2 + (\Delta y)^2 = \ell^2,
+$$
+
+for some constant $\ell$.
+This $\ell$ is the length of the ruler, and this result is of course
+just Pythagoras' theorem.
+But it is telling us an important fact:
+
+<span style="padding-left: 20px; display:block">
+The quantity $(\Delta x)^2 + (\Delta y)^2$ is preserved by rotations.
+</span>
+
+## Xtra
 
 When you rotate a piece of wood, the length doesn't magically change,
 right?
 To check this, you can take a ruler and line it up along the wood.
-As you rotate both ruler and wood together, you'll see that the wood
-always hits the same mark.
-But what if some Joker comes along and tells you that rotating not only
+As you rotate both ruler and wood, you'll see that the wood always hits the same mark.
+But what if some joker comes along and tells you that rotating not only
 changes the wood, but the ruler too!
-They will stretch by exactly the same factor, so you can never
+According to this joker, they stretch by the same factor, so you can never
 actually tell from ruling if the length is changed.
 
 How could you refute the joker's claim?
@@ -99,5 +125,3 @@ The Joker smiles again:
 <span style="padding-left: 20px; display:block">
 "Good. A notion of length is no different from the transformations which preserve it."
 </span>
-
-### 1.2. Circles <a id="sec-1-2" name="sec-1-2"></a>
