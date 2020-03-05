@@ -39,9 +39,13 @@ This $\ell$ is the length of the ruler, and this result is of course
 just Pythagoras' theorem.
 But it is telling us an important fact:
 
+---
+
 <span style="padding-left: 20px; display:block">
 The quantity $\Delta x^2 + \Delta y^2$ is preserved by rotations.
 </span>
+
+---
 
 When we place the end of the stick at the point the rulers meet (the "origin"), this
 becomes $x^2 + y^2$, and the equation $x^2 + y^2 = \ell^2$ describes a
