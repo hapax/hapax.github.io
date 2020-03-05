@@ -95,6 +95,18 @@ $$
 
 and we can check, from our earlier observation about cos and sin, that
 $x^2 + y^2 = \ell^2$.
+The point of having a nice way to discuss rotations is not so much
+because we want to rotate sticks.
+Rather, we want to *rotate rulers*.
+Imagine that I have some measurements $(x, y)$ on my pair of rulers.
+Now, you have a second pair of rulers which meet at the same point,
+but are rotated through some angle $\theta$.
+Then your measurements, call them $(x', y')$, will be related to mine
+as follows:
+
+$$
+x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+$$
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
