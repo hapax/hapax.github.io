@@ -92,7 +92,6 @@ $$
 
 and we can check, from our earlier observation about cos and sin, that
 $x^2 + y^2 = \ell^2$.
-Great! We now have a nice way to talk about rotations.
 
 ### 1.2. Zigzags and circles <a id="sec-1-2" name="sec-1-2"></a>
 
