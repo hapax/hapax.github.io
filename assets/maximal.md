@@ -127,7 +127,7 @@ It's clear geometrically that $d$ is always non-negative, so that $AB
 \leq AC + BC$, and $d = 0$ just in case the candy store lies directly
 between home and school.
 
-Now, imagine a whole dental career of candy stores, $C_1, C_2,
+Now, imagine visiting a sequence of $n$ candy stores, $C_1, C_2,
 \ldots, C_n$.
 How do multiple side trips compare to the direct route?
 Assuming we visit candy stores in order, the total length is
@@ -157,8 +157,9 @@ $$
 
 The extreme case is to imagine a *continuous* path, which consists of
 infinitely many candy stores.
-I won't prove it formally, but hopefully it's clear that such a path
-is always at least as long as the direct, straight-line route.
+I won't prove it formally, but I hope it's clear that such a path
+is always at least as long as the direct, straight-line route, simply
+by taking the limit $n \to \infty$ in the argument above.
 We can formulate what we've learned as a simple rule:
 
 ---
@@ -174,27 +175,30 @@ the candy store!
 
 ### 1.3. Higher-dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
 
-Our observations about the candy store were confined to a flat,
-two-dimensional plane.
-But we can generalise our observations about direct routes in a couple
-of different ways.
-The first is to routes in higher dimensions, and the second is to
-curved surfaces (and their higher-dimensional counterparts).
+Our observations about the candy store are not only sort of obvious,
+but seemed confined to a flat, two-dimensional plane.
+But the benefit of stating them the way we did is that the reasoning
+generalises in nice ways to situations that seem much more
+complicated.
+First, we will generalise to trip-planning in higher dimensions.
+We will then explain how our observations can be adapted to *curved*
+spaces.
 
 #### Higher dimensions
 
-First, let's imagine the home $A$, school $B$, and the candy store $C$ are located
-in a three-dimensional space.
-(In fact, this trick works for more dimensions, but three is easily
-visualised.)
+First, let's imagine that home $A$, school $B$, and the candy store $C$ are located
+in a three-dimensional space, e.g. in the future when we have flying
+cars and buildings are very tall.
 I want to compare the direct route from home to school to the route
-with the side trip.
-It seems like the earlier argument with the circle breaks down,
-because I assume everything lived on a plane.
+with the side trip, but it seems like the earlier argument with the
+circle breaks down,
+since we assumed everything lived on a plane.
 Or did I?
 I can actually repeat the argument, word for word, by *working in the
 plane* which contains $A$, $B$ and $C$.
 Three points always lie on a plane, so this is doable!
+(In fact, this trick works for more dimensions, but three is easily
+visualised.)
 
 Now, our generalisation to multiple (indeed, infinite) candy stores
 only relied on the result for a single candy store.
@@ -236,6 +240,7 @@ If we pick enough of these points, we can make successive points close
 enough that the blob looks flat!
 Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
 straight line, since this is a locally sensible route.
+Zoom in on the shortest route, and it looks straight.
 Since this is true for all intermediate points, we arrive at another
 important conclusion:
 
@@ -247,7 +252,6 @@ On a blob, shortest routes are locally straight.
 
 ---
 
-Zoom in on the shortest route, and it looks straight.
 Routes with this property have the fancy name of *geodesics*.
 
 #### Curvature
