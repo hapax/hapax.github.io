@@ -207,10 +207,50 @@ A second way we can generalise is to consider *curved* surfaces, and
 higher-dimensional versions, all of which I'll call "blobs".
 We'll define curvature in a moment, but it's easier to start with an
 example: the surface of the globe.
-From the moon, the earth is obviously a sphere, and the surface is not
-flat.
+Viewed from the moon, the earth is obviously a sphere, and the surface
+is not flat.
 But from the human vantage point, it's hard to tell!
-This is one of the reasons flat-earthism is still a thing.
+(This is one of the reasons flat-earthism is still a thing.)
+When I am figuring out the quickest route to school, I don't need to
+do a complicated calculation involving spherical geometry.
+I just take what looks like a straight-line route, assuming I don't want
+candy.
+
+Blobs in general have this property.
+When you zoom in on a small patch, it looks flat, and the quickest
+route between two points is a straight line.
+When you zoom out, straight lines aren't necessarily defined.
+On the globe, for instance, the "direct" line goes through the earth!
+Instead, to minimise the distance we need to take part of a "great
+circle".
+
+But here's a nice observation.
+The quickest route between $A$ and $B$, even in a blob, *gives the
+quickest route between all the intermediate points*.
+If it didn't, for instance it gave you a winding detour between two
+points $C_1$ and $C_2$, you could shorten the total path by choosing a
+shorter path from $C_1$ to $C_2$.
+So, let's consider many intermediate points $C_1, C_2, \ldots, C_n$ on
+the path from $A$ to $B$.
+If we pick enough of these points, we can make successive points close
+enough that the blob looks flat!
+Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
+straight line, since this is a locally sensible route.
+Since this is true for all intermediate points, we arrive at another
+important conclusion:
+
+---
+
+<span style="padding-left: 20px; display:block">
+On a blob, shortest routes are locally straight.
+</span>
+
+---
+
+Zoom in on the shortest route, and it looks straight.
+Routes with this property have the fancy name of *geodesics*.
+
+#### Curvature
 
 ## Xtra
 
