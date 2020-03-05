@@ -196,6 +196,11 @@ I can actually repeat the argument, word for word, by *working in the
 plane* which contains $A$, $B$ and $C$.
 Three points always lie on a plane, so this is doable!
 
+Now, our generalisation to multiple (indeed, infinite) candy stores
+only relied on the result for a single candy store.
+Since visiting a single candy store in higher dimensions will lengthen
+your trip, visiting many candy stores will lengthen your trip!
+
 #### Blobs
 
 ## Xtra
