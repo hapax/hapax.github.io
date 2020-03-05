@@ -103,11 +103,12 @@ To make things more concrete, suppose you can take a direct,
 straight-line path from home $A$ to school $B$.
 But you can also take a route which stops at the candy store $C$ in
 between.
+Let's use $AB$ for the length of the route from $A$ to $B$, and so on.
 
-Which route is shorter?
-Clearly, the direct route, unless the candy store was already on the
-way.
-Although it's intuitive, we can prove it using circles.
+Now, which route is shorter, the direct route or the side trip to the
+candy store?
+Clearly, the direct route unless the candy store was already on the way.
+Although it's obvious, let's prove it using circles.
 For convenience, orient the rulers so that home $A$ is at the origin
 and school $B$ is on the vertical ruler.
 Draw circles from $A$ and $B$ which pass through the candy store $C$.
@@ -123,6 +124,35 @@ $$
 It's clear geometrically that $d$ is always non-negative, so that $AB
 \leq AC + BC$, and $d = 0$ just in case the candy store lies directly
 between home and school.
+
+Now, imagine a whole dental career of candy stores, $C_1, C_2,
+\ldots, C_n$.
+How do multiple side trips compare to the direct route?
+The side trip length is something like
+
+$$
+AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB.
+$$
+
+Could these trips conspire to somehow become shorter than the direct
+route?
+Of course not.
+A simple way to see this is just to use what we already know!
+We can make the trip from $A$ to $C_2$ shorter, for instance, by
+eliminating a stop at $C_1$:
+
+$$
+AC_1 + C_1C_2 \leq AC_2.
+$$
+
+Then we can get rid of the stop at $C_2$, then $C_3$, and so on, until
+we just have the direct route from $A$ to $B$.
+We learn that
+
+$$
+AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB \leq AC_2 + C_2C_3 + \cdots
+C_{n-1}C_n + C_nB \leq \cdots \leq AB.
+$$
 
 ---
 
