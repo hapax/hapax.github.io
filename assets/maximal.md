@@ -13,7 +13,7 @@ date:  2020-03-??
 
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
-   2. <a href="#sec-1-2">Side trips to candy stores</a>
+   2. <a href="#sec-1-2">A trip to the candy store</a>
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -93,7 +93,7 @@ $$
 and we can check, from our earlier observation about cos and sin, that
 $x^2 + y^2 = \ell^2$.
 
-### 1.2. Side trips to candy stores <a id="sec-1-2" name="sec-1-2"></a>
+### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
 So far, we've just focused on the length of a single straight stick.
 But suppose we line up two sticks, end to end.
