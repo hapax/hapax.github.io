@@ -269,6 +269,31 @@ Even in a curved space, straight lines can be defined locally.
 
 ---
 
+With a little more work, we can turn this into a nontrivial result.
+The quickest route between $A$ and $B$, even in a blob, *gives the
+quickest route between all the intermediate points*.
+If it didn't, for instance it gave you a winding detour between two
+points $C_1$ and $C_2$, you could shorten the total path by choosing a
+shorter path from $C_1$ to $C_2$.
+So, let's consider many intermediate points $C_1, C_2, \ldots, C_n$ on
+the path from $A$ to $B$.
+If we pick enough of these points, we can make successive points close
+enough that the blob looks flat!
+
+Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
+straight line, since this is a locally sensible route.
+Zoom in on the shortest route, and it looks straight.
+Since this is true for all intermediate points, we arrive at another
+important conclusion:
+
+---
+
+<span style="padding-left: 20px; display:block">
+On a blob, shortest routes are locally straight.
+</span>
+
+---
+
 ## Xtra
 
 ### Parable
