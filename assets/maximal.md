@@ -12,11 +12,11 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">Einstein and Pythagoras</a>
-   1. <a href="#sec-1-1">The Joker</a>
+   1. <a href="#sec-1-1">The parable of the Joker</a>
 
 ## 1. Einstein and Pythagoras <a id="sec-1" name="sec-1"></a>
 
-### 1.1. The Joker <a id="sec-1-1" name="sec-2-1"></a>
+### 1.1. The parable of the Joker <a id="sec-1-1" name="sec-2-1"></a>
 
 When you rotate a piece of wood, the length doesn't magically change,
 right?
