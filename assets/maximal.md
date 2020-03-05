@@ -110,7 +110,7 @@ x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta
 $$
 
 Let's summarise the story so far.
-For physical reasons, we don't think rotating should change length.
+For physical reasons, rotating something shouldn't change its length.
 Pythagoras' theorem tells us that
 
 $$
@@ -123,6 +123,9 @@ Thus, we can define the *Pythagorean length* by
 $$
 d_\text{P}(\Delta x, \Delta y) = \sqrt{\Delta x^2 + \Delta y^2}.
 $$
+
+We can draw circles and define trigonometric functions, and use them
+not only to rotate sticks, but to relate measurements between ruler systems.
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
