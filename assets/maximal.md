@@ -19,7 +19,7 @@ date:  2020-03-??
 
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-2-1"></a>
 
-When you rotate a piece of wood, it doesn't magically change length,
+When you rotate a stick, it doesn't magically change length,
 right? In fact, you can think of this as a *definition* of length: it
 is the thing that doesn't change under rotations.
 Imagine we have a length of wood whose length we would like to
@@ -28,11 +28,11 @@ We take two identical rulers and put them at right angles, with the
 measurement along the first ruler called $\Delta x$, and the second ruler
 $\Delta y$.
 
-You find that, no matter how you orient the wood, these two
+You find that, no matter how you orient the stick, these two
 measurements obey
 
 $$
-(\Delta x)^2 + (\Delta y)^2 = \ell^2,
+\Delta x^2 + \Delta y^2 = \ell^2,
 $$
 
 for some constant $\ell$.
@@ -41,8 +41,14 @@ just Pythagoras' theorem.
 But it is telling us an important fact:
 
 <span style="padding-left: 20px; display:block">
-The quantity $(\Delta x)^2 + (\Delta y)^2$ is preserved by rotations.
+The quantity $\Delta x^2 + \Delta y^2$ is preserved by rotations.
 </span>
+
+When we place the end of the stick at the point the rulers meet (the "origin"), this
+becomes $x^2 + y^2$, and the equation $x^2 + y^2 = \ell^2$ describes a
+circle of radius $\ell$.
+Of course, this is just what we get when we rotate the stick, keeping
+one end fixed at the origin.
 
 ## Xtra
 
