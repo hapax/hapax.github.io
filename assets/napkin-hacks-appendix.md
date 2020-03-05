@@ -68,9 +68,8 @@ where $h = 0$ is the bottom of the container, and $n_0$ is a constant
 
 The barometric distribution tells us what the length $\ell =
 k_B\mathcal{T}/mg$ really means.
-It is not the mean free path (which really does depend on the
-cross-section and height-dependent density $n(h)$) but rather, the
-approximate height over which the pollen or resin balls are
+Rather than being the mean free path (which changes with $h$), it
+is the approximate height over which the pollen or resin balls are
 concentrated; above $h = \ell$, they drop off exponentially.
 We could say "well, $\ell$ is a good guess" and leave it at that.
 But given that this is a technical appendix, we may as well work a bit
