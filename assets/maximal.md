@@ -232,7 +232,11 @@ thing to do.
 We then draw circles, and the argument above goes through, word for
 word.
 
-
+Since our result for multiple candy stores (including infinitely
+many!) only used the result for a *single* candy store, iterated many
+times, the same iteration works here.
+The quickest route between $A$ and $B$ in three dimensions is the
+direct route, and any additional stops make it longer.
 
 #### Blobs
 
