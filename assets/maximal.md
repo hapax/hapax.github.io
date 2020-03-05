@@ -127,7 +127,7 @@ between home and school.
 Now, imagine a whole dental career of candy stores, $C_1, C_2,
 \ldots, C_n$.
 How do multiple side trips compare to the direct route?
-The side trip length is something like
+Assuming we visit candy stores in order, the total length is
 
 $$
 AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB.
