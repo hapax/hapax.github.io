@@ -22,11 +22,10 @@ date:  2020-03-??
 When you rotate a stick, it doesn't magically change length,
 right? In fact, you can think of this as a *definition* of length: it
 is the thing that doesn't change under rotations.
-Imagine we have a length of wood whose length we would like to
-measure.
-We take two identical rulers and put them at right angles, with the
-measurement along the first ruler called $\Delta x$, and the second ruler
-$\Delta y$.
+Here is a setup for measuring sticks, pictured below.
+Take two identical rulers and put them at right angles.
+Call measurement along the first ruler called $\Delta x$, and the
+measurement along the second ruler $\Delta y$.
 
 You find that, no matter how you orient the stick, these two
 measurements obey
