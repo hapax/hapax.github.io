@@ -39,21 +39,22 @@ For a rotated piece of wood, you can take a measurement on each ruler
 Our goal is to cobble these together to get a length.
 
 We can try lining the wood up with the first ruler.
-This gives a measurement of $x = \ell$ and $y = 0$, which we write as
-the pair
+This gives a measurement of, say, $x = \ell$ and $y = 0$, which we
+will write as a pair:
 
 $$
 (x, y) = (\ell, 0).
 $$
 
-Similarly, if we line the wood up with the second ruler, we will find that
+If we line the wood up with the second ruler, then lo and behold, we
+get the same answer, but with $x$ and $y$ swapped:
 
 $$
 (x, y) = (0, \ell).
 $$
 
-Looks like length is the same! In both cases, it's $\ell$. But of
-course it looks that way, the Joker says, laughing, because the second
+It seems like the length really is $\ell$!
+But of course it looks that way, the Joker says, laughing, because the second
 ruler stretches just so in order to compensate for the change in
 length of the wood.
 
@@ -61,18 +62,17 @@ Undeterred, you now place the wood halfway between the two rulers, and
 get the measurements
 
 $$
-(x, y) = \left(\frac{1}{\sqrt{2}}\ell, \frac{1}{\sqrt{2}}\ell\right).
+(x, y) = \left(\ell/\sqrt{2}, \ell/\sqrt{2}\right).
 $$
 
-This is a funny measurement, and after playing around with it for a
-bit, you realise that these measurements are related to the apparent
-length, $\ell$, by
+This is a funny-looking pair of measurements. After playing around
+with it for a bit, you realise that these measurements are related to
+the length $\ell$ you found earlier by
 
 $$
 x^2 + y^2 = \frac{1}{2}\ell^2 + \frac{1}{2}\ell^2 = \ell^2.
 $$
 
-In fact, *any* way you choose to orient the ruler, you find that this
-relation $x^2 + y^2 = \ell^2$ is true!
-Congratulations, you've just discovered Pythagoras' theorem.
-But what does it mean?
+You decide this is interesting, and try orienting the ruler different ways.
+However you do this, you find to your surprise that $x^2 + y^2 = \ell^2$.
+You triumphantly confront the Joker with this new result.
