@@ -87,7 +87,7 @@ Returning to the original ruler, where the circle has radius
 $\ell$, we will find that
 
 $$
-x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (theta),
+x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (\theta),
 $$
 
 and we can check, from our earlier observation about cos and sin, that
@@ -103,9 +103,34 @@ To make things more concrete, suppose you can take a direct,
 straight-line path from home $A$ to school $B$.
 But you can also take a route which stops at the candy store $C$ in
 between.
+
 Which route is shorter?
-Clearly, the direct route from home to school, but let's prove it
-using circles.
+Clearly, the direct route, unless the candy store was already on the
+way.
+Although it's intuitive, we can prove it using circles.
+For convenience, orient the rulers so that home $A$ is at the origin
+and school $B$ is on the vertical ruler.
+Draw circles from $A$ and $B$ which pass through the candy store $C$.
+This lets us compare the length $AB$ of the direct route to the
+lengths $AC, BC$ when you have the side trip.
+
+The circles overlap with some length $d$, in which case
+
+$$
+AC + BC = AB + d.
+$$
+
+It's clear geometrically that $d$ is always non-negative, so that $AB
+\leq AC + BC$, and $d = 0$ just in case the candy store lies directly
+between home and school.
+
+---
+
+<span style="padding-left: 20px; display:block">
+Any departure from a direct path increases total length.
+</span>
+
+---
 
 ## Xtra
 
