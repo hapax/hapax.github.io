@@ -14,7 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
-   3. <a href="#sec-1-3">Higher-dimensional blobs</a> 
+   3. <a href="#sec-1-3">Generalised candy stores</a> 
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -23,8 +23,10 @@ Introductory comments?
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
 When you rotate a stick, it doesn't magically change length,
-right? In fact, you can think of this as a *definition* of length: it
+right?
+In fact, you can think of this as a *definition* of length: it
 is the thing that doesn't change under rotations.
+This just seems to be a basic physical fact about the universe.
 Here is a setup for measuring sticks.
 Take two identical rulers and put them at right angles.
 Call measurement along the first ruler called $\Delta x$, and the
@@ -204,12 +206,12 @@ Any departure from the direct route increases total trip length.
 If you're in a hurry (or a dental hygiene enthusiast), don't go to
 the candy store!
 
-### 1.3. Higher-dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Generalised candy stores <a id="sec-1-3" name="sec-1-3"></a>
 
 Our observations about candy store visits are sort of obvious, and
 seemed confined to a flat, two-dimensional plane.
 But the benefit of stating them the way we did is that we can
-generalise to more complicated situations easily.
+generalise hem easily to more complicated situations.
 First, we will think about trip-planning in higher dimensions.
 Next, we will understand shortest routes in *curved* spaces.
 
@@ -259,19 +261,22 @@ In general, a suitably small patch of a curved surface looks flat.
 Though it's harder to imagine, a three-dimensional (or
 higher-dimensional) space can also be curved, but once again, in a
 small patch, straight lines will make sense.
-In a slogan,
+We'll call curved spaces *blobs*.
+Then, in a slogan,
 
 ---
 
 <span style="padding-left: 20px; display:block">
-Even in a curved space, straight lines can be defined locally.
+On a blob, straight lines make sense locally.
 </span>
 
 ---
 
-With a little more work, we can turn this into a nontrivial result.
-The quickest route between $A$ and $B$, even in a blob, *gives the
-quickest route between all the intermediate points*.
+With a little more work, this tells us someting interesting about the
+shortest routes on a blob.
+
+Let's consider a route between $A$ and $B$ in a blob.
+
 If it didn't, for instance it gave you a winding detour between two
 points $C_1$ and $C_2$, you could shorten the total path by choosing a
 shorter path from $C_1$ to $C_2$.
