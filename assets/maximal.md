@@ -70,9 +70,11 @@ with it for a bit, you realise that these measurements are related to
 the length $\ell$ you found earlier by
 
 $$
-x^2 + y^2 = \frac{1}{2}\ell^2 + \frac{1}{2}\ell^2 = \ell^2.
+x^2 + y^2 = \ell^2.
 $$
 
-You decide this is interesting, and try orienting the ruler different ways.
-However you do this, you find to your surprise that $x^2 + y^2 = \ell^2$.
+This is neat, but it could be a coincidence, so you try orienting the
+wood in different ways.
+However you rotate it, you find that the same relation holds!
 You triumphantly confront the Joker with this new result.
+She 
