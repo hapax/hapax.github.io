@@ -146,8 +146,8 @@ $$
 AC_1 + C_1C_2 \leq AC_2.
 $$
 
-Then we can get rid of the stop at $C_2$, then $C_3$, and so on, until
-we just have the direct route from $A$ to $B$.
+Then we can get rid of the stop at $C_2$, then the stop at $C_3$, and
+so on, until we have no candy stores left.
 We learn that
 
 $$
