@@ -77,16 +77,17 @@ This is neat, but it could be a coincidence.
 You try orienting the wood in different ways, and each time, you find
 the same relation holds: $x^2 + y^2 = \ell^2$.
 Exhilarated, you confront the Joker with this new result.
-The Joker gives you a sly look.
+The Joker gives you a sly look:
 
 <span style="padding-left: 20px; display:block">
 "All you've done is cook up a quantity that doesn't change when you
 rotate the piece of wood. That doesn't prove the *length* is unchanged."
 </span>
 
-It seems you *cannot possibly* refute the Joker. But then 
+It seems you cannot possibly refute the,. But suddenly, you are struck
+by a realisation:
 
 <span style="padding-left: 20px; display:block">
-"All you've done is cook up a quantity that doesn't change when you
-rotate the piece of wood. That doesn't prove the *length* is unchanged."
+"Maybe not. But if that's case, I don't know what length is! I'm going
+to *define length as the thing which doesn't change under rotation*."
 </span>
