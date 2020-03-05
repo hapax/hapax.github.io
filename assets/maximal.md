@@ -13,6 +13,7 @@ date:  2020-03-??
 
 1. <a href="#sec-1">Einstein and Pythagoras</a>
    1. <a href="#sec-1-1">The parable of the Joker</a>
+   2. <a href="#sec-1-2">Circles</a>
 
 ## 1. Einstein and Pythagoras <a id="sec-1" name="sec-1"></a>
 
@@ -96,6 +97,7 @@ rotation."
 The Joker smiles again:
 
 <span style="padding-left: 20px; display:block">
-"Good. You've learned that a length is really no different from the
-transformations that preserve it."
+"Good. A notion of length is no different from the transformations which preserve it."
 </span>
+
+### 1.2. Circles <a id="sec-1-2" name="sec-1-2"></a>
