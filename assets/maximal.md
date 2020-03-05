@@ -66,7 +66,7 @@ $$
 For some rotation, use a tape measure to find the length of the arc
 from the $x$ ruler to the end of the stick, and call this length
 $\theta$.
-(This is the angle measured in *radians*, rather than degrees.)
+This is the angle measured in *radians*, rather than degrees.
 We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
 give them special names:
 
@@ -80,13 +80,28 @@ $$
 \cos^2\theta + \sin^2\theta = 1.
 $$
 
-We can build all of trigonometry out of this, but we will leave that
-to the maths textbooks.
+For a circle of radius $\ell$, we can still refer to angles using
+$\theta$ --- we just choose a ruler for which the circle has unit
+radius, and measure $\theta$ as before.
+Returning to the original ruler, where the circle has radius
+$\ell$, we will find that
+
+$$
+x(\theta) = \ell \cos \theta, \quad y(\theta) = \ell \sin theta,
+$$
+
+and we can check, from our earlier observation about cos and sin, that
+$x^2 + y^2 = \ell^2$.
+Great! We now have a nice language for talking about rotations.
 
 ### 1.2. Zigzags and shortcuts <a id="sec-1-2" name="sec-1-2"></a>
 
 So far, we've just focused on the length of a single straight stick.
-But what about 
+But suppose we line up two sticks, end to end.
+Can we say anything interesting about the lengths involved?
+To make things more concrete, suppose you can take a direct,
+straight-line path from home $A$ to school $B$.
+But you can also take a route which stops at the candy store $C$ in between.
 
 ## Xtra
 
