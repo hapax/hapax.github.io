@@ -1851,11 +1851,10 @@ $$
 \ell = \frac{k_B\mathcal{T}}{mg}.
 $$
 
-This short argument misses some key physics, which is explained at
-length in the
+This short argument sidesteps some subtle physics, explained at length in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But it is given in the spirit of cheeky hacker approximation, and I
-will let it stand.
+But it gives the right answer, and is in the spirit of cheeky hacker
+approximation, so I will let it stand.
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
