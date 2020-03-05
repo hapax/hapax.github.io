@@ -240,56 +240,38 @@ of) dimensions is the direct route, and any additional stops make it longer.
 
 #### Blobs
 
-A second way we can generalise is to consider *curved* surfaces, and
-higher-dimensional versions, all of which I'll call "blobs".
-We'll define curvature in a moment, but it's easier to start with an
-example: the surface of the globe.
-Viewed from the moon, the earth is obviously a sphere, and the surface
-is not flat.
-But from the human vantage point, it's hard to tell!
-(This is one of the reasons flat-earthism is still a thing.)
-When I am figuring out the quickest route to school, I don't need to
-do a complicated calculation involving spherical geometry.
-I just take what looks like a straight-line route, assuming I don't want
-candy.
+In the situations we've considered so far, we've needed to be able to
+draw straight lines between $A$, $B$ and $C$.
+But more generally, we can imagine working on a *curved* surface that
+does not allow us to draw these lines.
+A simple example is the surface of the globe, where a truly straight
+line goes through the earth!
+If we are confined to move on the surface, then the shortest path is
+not a straight line after all.
+Can we say anything interesting about this scenario?
 
-Blobs in general have this property.
-When you zoom in on a small patch, it looks flat, and the quickest
-route between two points is a straight line.
-When you zoom out, straight lines aren't necessarily defined.
-On the globe, for instance, the "direct" line goes through the earth!
-Instead, to minimise the distance we need to take part of a "great
-circle".
-
-But here's a nice observation.
-The quickest route between $A$ and $B$, even in a blob, *gives the
-quickest route between all the intermediate points*.
-If it didn't, for instance it gave you a winding detour between two
-points $C_1$ and $C_2$, you could shorten the total path by choosing a
-shorter path from $C_1$ to $C_2$.
-So, let's consider many intermediate points $C_1, C_2, \ldots, C_n$ on
-the path from $A$ to $B$.
-If we pick enough of these points, we can make successive points close
-enough that the blob looks flat!
-Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
-straight line, since this is a locally sensible route.
-Zoom in on the shortest route, and it looks straight.
-Since this is true for all intermediate points, we arrive at another
-important conclusion:
+The first thing to say is that the earth *looks* flat at the human
+scale.
+When I walk down the street, it's not obvious the earth is curved, and
+this explains (in part) why flat-earthers are able to persist in their
+error.
+In general, a suitably small patch of a curved surface looks flat.
+Though it's harder to imagine, a three-dimensional (or
+higher-dimensional) space can also be curved, but once again, in a
+small patch, straight lines will make sense.
+In a slogan,
 
 ---
 
 <span style="padding-left: 20px; display:block">
-On a blob, shortest routes are locally straight.
+Even in a curved space, straight lines can be defined locally.
 </span>
 
 ---
 
-Routes with this property have the fancy name of *geodesics*.
-
-#### Curvature
-
 ## Xtra
+
+### Parable
 
 When you rotate a piece of wood, the length doesn't magically change,
 right?
@@ -370,3 +352,52 @@ The Joker smiles again:
 <span style="padding-left: 20px; display:block">
 "Good. A notion of length is no different from the transformations which preserve it."
 </span>
+
+### Blobs
+
+A second way we can generalise is to consider *curved* surfaces, and
+higher-dimensional versions, all of which I'll call "blobs".
+We'll define curvature in a moment, but it's easier to start with an
+example: the surface of the globe.
+Viewed from the moon, the earth is obviously a sphere, and the surface
+is not flat.
+But from the human vantage point, it's hard to tell!
+(This is one of the reasons flat-earthism is still a thing.)
+When I am figuring out the quickest route to school, I don't need to
+do a complicated calculation involving spherical geometry.
+I just take what looks like a straight-line route, assuming I don't want
+candy.
+
+Blobs in general have this property.
+When you zoom in on a small patch, it looks flat, and the quickest
+route between two points is a straight line.
+When you zoom out, straight lines aren't necessarily defined.
+On the globe, for instance, the "direct" line goes through the earth!
+Instead, to minimise the distance we need to take part of a "great
+circle".
+
+But here's a nice observation.
+The quickest route between $A$ and $B$, even in a blob, *gives the
+quickest route between all the intermediate points*.
+If it didn't, for instance it gave you a winding detour between two
+points $C_1$ and $C_2$, you could shorten the total path by choosing a
+shorter path from $C_1$ to $C_2$.
+So, let's consider many intermediate points $C_1, C_2, \ldots, C_n$ on
+the path from $A$ to $B$.
+If we pick enough of these points, we can make successive points close
+enough that the blob looks flat!
+Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
+straight line, since this is a locally sensible route.
+Zoom in on the shortest route, and it looks straight.
+Since this is true for all intermediate points, we arrive at another
+important conclusion:
+
+---
+
+<span style="padding-left: 20px; display:block">
+On a blob, shortest routes are locally straight.
+</span>
+
+---
+
+Routes with this property have the fancy name of *geodesics*.
