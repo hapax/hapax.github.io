@@ -95,6 +95,7 @@ $$
 
 and we can check, from our earlier observation about cos and sin, that
 $x^2 + y^2 = \ell^2$.
+
 The point of having a nice way to discuss rotations is not so much
 because we want to rotate sticks.
 Rather, we want to *rotate rulers*.
@@ -107,6 +108,12 @@ as follows:
 $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
 $$
+
+Let's summarise how all these things are related:
+- Length should't change when you rotate an object.
+- Pythagoras' theorem means that $\Delta x^2 + \Delta y^2$ doesn't
+change under rotation.
+- 
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
@@ -142,7 +149,7 @@ between home and school.
 Now, imagine visiting a sequence of $n$ candy stores, $C_1, C_2,
 \ldots, C_n$.
 How do multiple side trips compare to the direct route?
-Assuming we visit candy stores in order, the total length is
+If we visit candy stores in order, the total length is
 
 $$
 AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB.
