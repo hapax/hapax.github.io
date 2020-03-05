@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From twins to "
+title:  "A Hacker's Guide to the Twin Paradox"
 categories: [Physics, Teaching, Hacks]
 date:  2020-03-??
 ---
