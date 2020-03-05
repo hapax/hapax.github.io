@@ -14,7 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
-   3. <a href="#sec-1-3">Higher dimensional blobs</a> 
+   3. <a href="#sec-1-3">Higher-dimensional blobs</a> 
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -172,12 +172,16 @@ Any departure from the direct route increases total trip length.
 If you're in a rush (or an enthusiast for dental hygiene), don't go to
 the candy store!
 
-### 1.3. Higher dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Higher-dimensional blobs <a id="sec-1-3" name="sec-1-3"></a>
 
 Our observations about the candy store were confined to a flat,
 two-dimensional plane.
 But we can generalise our observations about direct routes in a couple
 of different ways.
+The first is to routes in higher dimensions, and the second is to
+curved surfaces (and their higher-dimensional counterparts).
+
+#### Higher dimensions
 
 First, let's imagine the home $A$, school $B$, and the candy store $C$ are located
 in a three-dimensional space.
@@ -191,6 +195,8 @@ Or did I?
 I can actually repeat the argument, word for word, by *working in the
 plane* which contains $A$, $B$ and $C$.
 Three points always lie on a plane, so this is doable!
+
+#### Blobs
 
 ## Xtra
 
