@@ -71,7 +71,8 @@ k_B\mathcal{T}/mg$ really means.
 Rather than being the mean free path (which changes with $h$), it
 is the approximate height over which the pollen or resin balls are
 concentrated; above $h = \ell$, they drop off exponentially.
-We could say "well, $\ell$ is a good guess" and leave it at that.
+We could argue that $\ell$ is in fact a typical free path, in some
+sense, and leave it at that.
 But given that this is a technical appendix, we may as well work a bit
 harder!
 The correct approach comes not from equilibrium for an
