@@ -13,7 +13,7 @@ date:  2020-03-??
 
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
-   2. <a href="#sec-1-2">Zigzags and shortcuts</a>
+   2. <a href="#sec-1-2">Zigzags and circles</a>
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -71,13 +71,13 @@ We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
 give them special names:
 
 $$
-x(\theta) = \cos\theta, \quad y(\theta) = \sin\theta.
+x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
 $$
 
 It follows immediately, just from the way we've defined things, that
 
 $$
-\cos^2\theta + \sin^2\theta = 1.
+\cos^2(\theta) + \sin^2(\theta) = 1.
 $$
 
 For a circle of radius $\ell$, we can still refer to angles using
@@ -87,21 +87,25 @@ Returning to the original ruler, where the circle has radius
 $\ell$, we will find that
 
 $$
-x(\theta) = \ell \cos \theta, \quad y(\theta) = \ell \sin theta,
+x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (theta),
 $$
 
 and we can check, from our earlier observation about cos and sin, that
 $x^2 + y^2 = \ell^2$.
-Great! We now have a nice language for talking about rotations.
+Great! We now have a nice way to talk about rotations.
 
-### 1.2. Zigzags and shortcuts <a id="sec-1-2" name="sec-1-2"></a>
+### 1.2. Zigzags and circles <a id="sec-1-2" name="sec-1-2"></a>
 
 So far, we've just focused on the length of a single straight stick.
 But suppose we line up two sticks, end to end.
 Can we say anything interesting about the lengths involved?
 To make things more concrete, suppose you can take a direct,
 straight-line path from home $A$ to school $B$.
-But you can also take a route which stops at the candy store $C$ in between.
+But you can also take a route which stops at the candy store $C$ in
+between.
+Which route is shorter?
+Clearly, the direct route from home to school, but let's prove it
+using circles.
 
 ## Xtra
 
