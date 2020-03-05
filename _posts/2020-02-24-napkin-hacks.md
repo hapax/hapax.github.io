@@ -811,6 +811,38 @@ $$
 x = a \times 10^A, \quad y = b \times 10^B.
 $$
 
+so $A$ and $B$ are integers, and $1 \leq a, b \leq 10$.
+The exact geometric mean is
+
+$$
+\sqrt{xy} = \sqrt{ab} 10^{(A+B)/2}.
+$$
+
+First, let's focus on the power of $10$.
+If $A+B$ is even, then $(A+B)/2$ is an integer, and you are done.
+Otherwise, you get an extra factor of $\sqrt{10} \approx 3$ to
+multiply your answer by.
+Let's now focus on $\sqrt{ab}$. This looks hard, and indeed it is
+tricky, so we will make an approximation which works since the numbers
+$a, b$ are fairly close:
+
+$$
+\sqrt{ab} \approx \frac{a + b}{2}.
+$$
+
+This approximation gets worse the further apart the numbers $a$ and
+$b$ are, so the worst-case scenario is $a = 1, b = 10$, where
+$\sqrt{ab} = \sqrt{10} \approx 3.2$ and $(a+b)/2 = 5.5$. So it's not
+too bad!
+
+Let's do an example, taking two numbers that I chose at random, $x =
+63$ and $y = 12, 738$. We can write
+
+$$
+x = 6.3 \times 10, \quad y = 1.3 \times 10^4 \quad \Longrightarrow
+\quad \sqrt{xy} \approx \left(\frac{6.3 + 1.3}{2}\right) \times 10^{2.5}
+$$
+
 ---
 
 **Exercise 5 (lunar ruler).** Fermi estimate the radius of the moon.
