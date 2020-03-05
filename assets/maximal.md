@@ -14,6 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
+   3. <a href="#sec-1-3">Globe-trotting blobs</a> 
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -158,7 +159,6 @@ The extreme case is to imagine a *continuous* path, which consists of
 infinitely many candy stores.
 I won't prove it formally, but hopefully it's clear that such a path
 is always at least as long as the direct, straight-line route.
-
 We can formulate what we've learned as a simple rule:
 
 ---
@@ -172,8 +172,25 @@ Any departure from the direct route increases total trip length.
 If you're in a rush (or an enthusiast for dental hygiene), don't go to
 the candy store!
 
-### 1.3. A trip to the candy store <a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Globe-trotting blobs <a id="sec-1-3" name="sec-1-3"></a>
 
+Our observations about the candy store were confined to a flat,
+two-dimensional plane.
+But we can generalise our observations about direct routes in a couple
+of different ways.
+
+First, let's imagine the home $A$, school $B$, and the candy store $C$ are located
+in a three-dimensional space.
+(In fact, this trick works for more dimensions, but three is easily
+visualised.)
+I want to compare the direct route from home to school to the route
+with the side trip.
+It seems like the earlier argument with the circle breaks down,
+because I assume everything lived on a plane.
+Or did I?
+I can actually repeat the argument, word for word, by *working in the
+plane* which contains $A$, $B$ and $C$.
+Three points always lie on a plane, so this is doable!
 
 ## Xtra
 
