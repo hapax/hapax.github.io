@@ -347,12 +347,15 @@ So, we can define Pythagorean length in a blob!
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
 In Newtonian physics, time and space are completely separate.
-Time adds nothing to our story about space.
-In Newton's words,
+In Newton's beautiful phrasing,
 
 <span style="padding-left: 20px; display:block">
 “Absolute, true and mathematical time, of itself, and from its own
 nature, flows equably without relation to anything external."
 </span>
+
+We can rotate between different spatial directions, just as we did
+with the rulers, but we can never rotate space into time.
+This was the official view for about $250$ years, until Einstein came along.
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
