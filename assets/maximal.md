@@ -362,7 +362,7 @@ present some of them in a way that clearly parallels the situation for
 space.
 This is why we bothered to describe the world according to Pythagoras!
 
-### 2.1. The Principle of Relativity <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. The Speed of Light <a id="sec-2-1" name="sec-2-1"></a>
 
 Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
 to the reference frame of its medium, the air.
@@ -387,8 +387,7 @@ of electromagnetism did not include any aether, and made a single
 prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
 This didn't depend on motion relative to anything else, naively
 suggesting that the speed of light is *the same* in any set of
-coordinates moving at a constant speed.
-This naive proposal is called the *Principle of Relativity*:
+coordinates moving at a constant speed:
 
 ---
 
