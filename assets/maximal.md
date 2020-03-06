@@ -318,7 +318,7 @@ between $A$ and $B$ is a geodesic.
 Sounds very impressive!
 
 Even though a blob does not have straight lines, we can use these
-locally straight paths to define distance.
+*locally* straight paths to define distance.
 It's what you would expect:
 
 $$
