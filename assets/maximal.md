@@ -12,7 +12,7 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">The world according to Pythagoras</a>
-   1. <a href="#sec-1-1">Length and rotation</a>
+   1. <a href="#sec-1-1">The parable of the surveyors</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
    3. <a href="#sec-1-3">Length on a blob</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
@@ -25,7 +25,7 @@ spacetime, starting with the principle of relativity, exploring the
 twin paradox, and ending with some insights into gravity and black
 holes.
 
-### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
+### 1.1. The parable of the surveyors <a id="sec-1-1" name="sec-1-1"></a>
 
 I like to imagine that, a thousand years before Pythagoras, Babylonian
 surveyors trying to measure out parcels of land discovered a curious
@@ -39,28 +39,98 @@ In other words,
 ---
 
 <span style="padding-left: 20px; display:block">
-The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
+*The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
 sticks are oriented.
 </span>
 
 ---
 
-This is an empirical, not a mathematical, fact.
-In order to *prove* this result --- as the Babylonians, and later
-Pythagoras, did --- you need to assume the world looks like the
-mathematical model.
-Pythagoras' theorem $a^2 + b^2 = c^2$ applies to triangles living on a
-flat, two-dimensional plane.
+We'll define the *Pythagorean length* $\ell_\text{P}$ by
+$\ell_\mathcal{P}^2 = \Delta x^2 + \Delta y^2$.
+
+This is an empirical rather than a mathematical fact.
+This may be surprising, given that Pythagoras' theorem, $a^2 + b^2 =
+c^2$, is perhaps the one mathematical fact that everyone knows!
+Here is a quick visual proof:
+
+But this proof only works on a flat, two-dimensional plane.
 We can explain the empirical observation that $\Delta x^2 + \Delta
-y^2$ is invariant by supposing that the surveyors were measuring
-lengths on such a plane.
+y^2$ by assuming that the world looks like our model.
 
+We now imagine that two Babylonian surveyors measure the same length
+of fence, but with differently-oriented measuring sticks.
+For simplicity, let's assume that the stick systems are identical, and
+all meet at a point, as well with one end of the fence.
 
+The first surveyor takes a pair of measurements $(x, y)$, while the
+second surveyor takes $(x', y')$.
+Given that the Pythagorean length is the same, how are these two sets of measurements related?
+It will depend on the relative orientation, so we need a way to gauge
+this.
+Here is a simple and familiar option.
+We rotate one measuring-stick system into the other, and trace out the
+end of one stick with a piece of string.
+If the length of the string is $d_1$, and the length of the stick is
+$d_2$, then we can define the "relative orientation parameter"
+
+$$
+\theta = \frac{d_1}{d_2}.
+$$
+
+Of course, this is just an elaborate way to describe the *angle*,
+measured in radians.
+In fact, we can choose a system of units where $d_2 = 1$, in other
+words, the stick has unit length.
+As we rotate the stick through a full revolution, we can label the
+endpoints as a function of $\theta$:
+
+$$
+x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
+$$
+
+Since the Pythagorean length of the stick is $1$, these two functions
+obey, for any value of $\theta$,
+
+$$
+1 = \ell_{\text{P}}^2 = x^2 + y^2 = \cos^2(\theta)+\sin^2(\theta).
+$$
+
+With these tools in hand, we can finally determine how the
+measurements $(x, y)$ and $(x', y')$ are related.
+I claim that if we rotate through $\theta$, they are related by
+
+$$
+x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+$$
+
+The picture makes this clear, but we can also check that the
+Pythagorean length is unchanged:
+
+$$
+\begin{align*}
+(x')^2 + (y')^2 & = \left[x \cos(\theta) + y \sin(\theta)\right]^2 +
+\left[-x \sin(\theta) + y \cos(\theta)\right]^2 \\
+	& = x^2 \left[\cos^2(\theta) + \sin^2(\theta)\right] + y^2
+	\left[\sin^2(\theta) + \cos^2(\theta)\right] + 2xy
+	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\theta(\theta)\right]\\
+	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
+	& = x^2 + y^2.
+\end{align*}
+$$
+
+Let's summarise the story so far.
+Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
+they choose to orient their measuring sticks.
+This suggests that the land they measure is a flat plane, since in
+this, they can prove the result is true.
+Finally, by thinking more carefully about how to define relative
+orientation, they can figure out precisely how measurements using
+different measuring-stick systems are related.
+This may seem like a pedantic and overly-elaborate way to describe
+basic geometry, but it will pay off when we come to study spacetime.
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
-So far, we've focused on the length of a single straight stick.
-But suppose we line up two sticks, end to end.
 Can we say anything interesting about the lengths involved?
 To make things more concrete, suppose you can take a direct,
 straight-line path from home $A$ to school $B$.
