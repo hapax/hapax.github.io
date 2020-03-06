@@ -350,8 +350,8 @@ In Newtonian physics, time and space are completely separate.
 In Newton's own and beautiful words,
 
 <span style="padding-left: 20px; display:block">
-“Absolute, true and mathematical time, of itself, and from its own
-nature, flows equably without relation to anything external."
+*Absolute, true and mathematical time, of itself, and from its own
+nature, flows equably without relation to anything external.*
 </span>
 
 We can rotate between different spatial directions, but we can never
