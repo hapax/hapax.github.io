@@ -13,7 +13,7 @@ date:  2020-03-??
 
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">The parable of the surveyors</a>
-   2. <a href="#sec-1-2">A trip to the candy store</a>
+   2. <a href="#sec-1-2">The parable of the merchants</a>
    3. <a href="#sec-1-3">Length on a blob</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
    1. <a href="#sec-2-1">Einstein's proposal</a>
@@ -127,11 +127,11 @@ Finally, by thinking more carefully about how to define relative
 orientation, they can figure out precisely how measurements using
 different measuring-stick systems are related.
 This may seem like a pedantic and overly-elaborate way to describe
-basic geometry, but it will pay off when we come to study spacetime.
+plane geometry, but it will pay off when we come to study spacetime.
 
-### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
+### 1.2. The parable of the merchants <a id="sec-1-2" name="sec-1-2"></a>
 
-Can we say anything interesting about the lengths involved?
+We can imagine that, as experts on length, Babylonian 
 To make things more concrete, suppose you can take a direct,
 straight-line path from home $A$ to school $B$.
 But you can also take a route which stops at the candy store $C$ in
