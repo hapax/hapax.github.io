@@ -299,13 +299,13 @@ contained in a flat-looking patch.
 The shortest path from $A$ to $B$ also gives the shortest path between
 each pair $D_i$ and $D_{i+1}$, and the shortest path, locally, is just
 a straight line.
-We've just discovered an important result:
+We've just discovered an important result about blobs:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-On a blob, shortest paths are locally straight. Any departure from
-local straightness increases length.
+Shortest paths are locally straight, and departures from
+local straightness increase length.
 </span>
 
 ---
