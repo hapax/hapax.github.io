@@ -401,5 +401,4 @@ constant speed.
 
 As a true believer in the elegance and sufficiency of the laws of
 electromagnetism, Einstein decided that this naive interpretation was
-correct.
-Michelson-Morley seemed to confirm it.
+correct, and Michelson-Morley seemed to confirm it.
