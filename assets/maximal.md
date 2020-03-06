@@ -14,7 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
-   3. <a href="#sec-1-3">Generalised candy stores</a> 
+   3. <a href="#sec-1-3">Routes on a blob</a> 
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -206,7 +206,7 @@ Any departure from the direct route increases total trip length.
 If you're in a hurry (or a dental hygiene enthusiast), don't go to
 the candy store!
 
-### 1.3. Generalised candy stores <a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Routes on a blob<a id="sec-1-3" name="sec-1-3"></a>
 
 Our observations about candy store visits are sort of obvious, and
 seemed confined to a flat, two-dimensional plane.
