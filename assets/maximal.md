@@ -210,10 +210,10 @@ the candy store!
 
 Our observations about candy store visits are sort of obvious, and
 seemed confined to a flat, two-dimensional plane.
-But the benefit of stating them the way we did is that we can
-generalise hem easily to more complicated situations.
+But the benefit of stating them in an odd way is that we can easily
+generalise to more interesting situations.
 First, we will think about trip-planning in higher dimensions.
-Next, we will understand shortest routes in *curved* spaces.
+Then we will understand shortest routes in *curved* spaces.
 
 #### Higher dimensions
 
