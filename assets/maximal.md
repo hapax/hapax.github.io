@@ -304,8 +304,7 @@ We've just discovered an important result about blobs:
 ---
 
 <span style="padding-left: 20px; display:block">
-Shortest paths are locally straight, and departures from
-local straightness increase length.
+Shortest paths are locally straight. Departures from local straightness increase length.
 </span>
 
 ---
