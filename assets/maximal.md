@@ -382,23 +382,24 @@ This suggested either that the earth wasn't moving through the aether
 Einstein had an even more radical proposal: the aether didn't exist.
 
 Even before the Michelson-Morley experiment, Einstein had come to
-doubt the existence of the aether, for a simple reason: Maxwell's
-equations for electromagnetism did not include any aether, and still made a
+doubt the existence of the aether. His reason was simple: the equations
+of electromagnetism did not include any aether, and made a single
 prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
-This prediction didn't depend on motion relative to anything, so one
-might naively suggest that the speed of light is *the same* in any
-inertial reference frame, i.e. a set of coordinates moving at a
-constant speed.
+This didn't depend on motion relative to anything else, naively
+suggesting that the speed of light is *the same* in any set of
+coordinates moving at a constant speed.
 This naive proposal is called the *Principle of Relativity*:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-The speed of light is the same in all inertial reference frames.
+The speed of light is the same in all reference frames moving at
+constant speed.
 </span>
 
 ---
 
-As a true believer in the elegance and sufficiency of Maxwell's laws,
-Einstein decided that this naive interpretation was correct, and
+As a true believer in the elegance and sufficiency of the laws of
+electromagnetism, Einstein decided that this naive interpretation was
+correct.
 Michelson-Morley seemed to confirm it.
