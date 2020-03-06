@@ -357,7 +357,7 @@ We can rotate between different spatial directions, but we can never
 rotate space into time.
 This was the official view until Einstein came along, $200$ years
 later.
-Although Einstein's insights about spacetime were brilliant and revolutionary, we can
+Although Einstein's insights about spacetime are brilliant and revolutionary, we can
 present some of them in a way that clearly parallels the situation for
 space.
 This is why we bothered to describe the world according to Pythagoras!
@@ -365,7 +365,8 @@ This is why we bothered to describe the world according to Pythagoras!
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
 
 Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
-to its medium, the air. If you are moving with respect to the air, the
+to the reference frame of its medium, the air.
+If you are moving with respect to the air, the
 speed of sound will appear to change.
 In the 19th century, physicists expected that the same situation was
 true for light.
