@@ -317,8 +317,9 @@ So we've just proved that, on a Riemannian manifold, the shortest path
 between $A$ and $B$ is a geodesic.
 Sounds very impressive!
 
-Even though a blob does not have straight lines, we can use these
-*locally* straight paths to define distance.
+Even though a blob does not usually have a single straight line
+connecting $A$ and $B$, we can use *locally* straight paths to define
+distance.
 It's what you would expect:
 
 $$
