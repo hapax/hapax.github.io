@@ -118,8 +118,7 @@ $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
 $$
 
-Length is indeed unchanged when we rotate rulers, since if $x^2 + y^2
-= \ell^2$, then
+Length is indeed unchanged when we rotate rulers:
 
 $$
 \begin{align*}
@@ -129,7 +128,7 @@ $$
 	\left[\sin^2(\theta) + \cos^2(\theta)\right] + 2xy
 	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\theta(\theta)\right]\\
 	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
-	& = x^2 + y^2 = \ell^2.
+	& = x^2 + y^2.
 \end{align*}
 $$
 
