@@ -332,7 +332,6 @@ So, we now have a notion of Pythagorean length in a blob!
 ## 2. The world according to Einstein <a id="sec-2" name="sec-2"></a>
 
 We'll now add *time* to the picture to get *spacetime*.
-There are many parallels with space, particularly in light of the
-idiosyncratic way we discussed space in the previous section.
+There are many parallels with space, particularly in light of our discussion in the previous section.
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
