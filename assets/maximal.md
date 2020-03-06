@@ -361,6 +361,6 @@ later.
 Although Einstein's insights about spacetime were brilliant and revolutionary, we can
 present some of them in a way that clearly parallels the situation for
 space.
-This is why we bothered to the world according to Pythagoras!
+This is why we bothered to describe the world according to Pythagoras!
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
