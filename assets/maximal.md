@@ -49,7 +49,7 @@ $$
 for some constant $\ell$.
 The constant $\ell$ is the length of the ruler, and this result is of course
 just Pythagoras' theorem.
-But it is telling us an important fact about "Pythagorean length":
+But it is telling us an important fact:
 
 ---
 
