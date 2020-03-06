@@ -273,7 +273,7 @@ Blobs are locally flat.
 
 ---
 
-With a little more work, this tells us someting interesting about the
+With a little more work, we can exploit this slogan to describe
 shortest routes on a blob.
 So, consider the shortest route between $A$ and $B$ in a blob.
 This may not be a straight line, since in general, straight line
@@ -303,6 +303,12 @@ On a blob, shortest paths are locally straight.
 </span>
 
 ---
+
+In mathematics, these blobs are called *Riemannian manifolds*, and
+locally straight paths are called *geodesics*.
+So we've just proved that, on a Riemannian manifold, the shortest path
+between $A$ and $B$ is a geodesic.
+Sounds very impressive!
 
 ## Xtra
 
