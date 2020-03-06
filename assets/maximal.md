@@ -346,7 +346,7 @@ So, we have defined Pythagorean length in a blob!
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
 In Newtonian physics, time and space are completely separate.
-In Newton's own and beautiful words,
+In Newton's own and beautiful words:
 
 <span style="padding-left: 20px; display:block">
 *Absolute, true and mathematical time, of itself, and from its own
@@ -363,3 +363,28 @@ space.
 This is why we bothered to describe the world according to Pythagoras!
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
+
+Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
+to its medium, the air. If you are moving with respect to the air, the
+speed of sound will appear to change.
+In the 19th century, physicists expected that the same situation was
+true for light.
+They hypothesised that instead of air, the medium that allowed light
+to propagate was a special substance called "ether".
+
+The study of this ether was hampered by the extremely high velocity of
+light, but eventually, Michelson and Morley were able to devise a
+clever experiment which would in principle measure the earth's motion
+through the ether.
+But their clever experimented yielded *nothing*.
+It was if there was no ether!
+But clearly this is nonsense, since otherwise how could light propagate?
+
+---
+
+<span style="padding-left: 20px; display:block">
+*Absolute, true and mathematical time, of itself, and from its own
+nature, flows equably without relation to anything external.*
+</span>
+
+---
