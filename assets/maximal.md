@@ -400,13 +400,13 @@ constant speed.
 
 As a true believer in the elegance and sufficiency of the laws of
 electromagnetism, Einstein decided that this naive interpretation was
-correct, and Michelson-Morley seemed to confirm it.
-But it leads to some remarkable consequences.
+correct.
+Michelson-Morley only confirmed it!
+But this proposal leads to remarkable consequences.
 
-Recall that we defined length as something unchanged by rotation, and
-in particular, rotation of *rulers*.
-If Einstein's notion is correct, then *the speed of light* is
+Recall length is unchanged by rotation, and in particular, rotation of *rulers*.
+Similarly, if Einstein's notion is correct, then *the speed of light* is
 unchanged by taking a ruler-clock system (for measuring position and
-time) and giving a boost to its velocity.
-In general, we use "boost" to refer to this process of imparting
-velocity to a ruler-clock system.
+time) and increasing its velocity.
+In general, we call this process of imparting velocity to a
+ruler-clock system a *boost*.
