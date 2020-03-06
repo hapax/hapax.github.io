@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A Hacker's Guide to the Twin Paradox"
+title:  "A Hacker's Guide to Minkowski Spacetime"
 categories: [Physics, Teaching, Hacks]
 date:  2020-03-??
 ---
@@ -116,6 +116,21 @@ as follows:
 
 $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+$$
+
+Length is indeed unchanged when we rotate rulers, since if $x^2 + y^2
+= \ell^2$, then
+
+$$
+\begin{align*}
+(x')^2 + (y')^2 & = \left[x \cos(\theta) + y \sin(\theta)\right]^2 +
+\left[-x \sin(\theta) + y \cos(\theta)\right]^2 \
+	& = x^2 \left[\cos^2(\theta) + \sin^2(\theta)\right] + y^2
+	\left[\sin^2(\theta) + \cos^2(\theta)\right] + 2xy
+	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\theta(\theta)\right]\\
+	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
+	& = x^2 + y^2 = \ell^2.
+\end{align*}
 $$
 
 Let's summarise the story so far.
@@ -329,7 +344,7 @@ $$
 We just sum up the lengths of the small line segments that make up the path.
 So, we now have a notion of Pythagorean length in a blob!
 
-## 2. The world according to Einstein <a id="sec-2" name="sec-2"></a>
+## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
 We'll now add *time* to the picture to get *spacetime*.
 There are many parallels with space, particularly in light of our discussion in the previous section.
