@@ -354,10 +354,12 @@ In Newton's beautiful phrasing,
 nature, flows equably without relation to anything external."
 </span>
 
-I can relate spatial measurements by rotating my rulers, but try as I
-might, I can never rotate space into time.
+We can rotate between different spatial directions, but we can never
+rotate space into time.
 This was the official view until Einstein came along, $200$ years
 later.
-We will see how Einstein's insights differ from 
+Although Einstein's insights were brilliant and revolutionary, we can
+present some of his ideas about spacetime in a way that clearly
+parallels the situation for space.
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
