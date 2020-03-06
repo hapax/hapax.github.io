@@ -24,8 +24,9 @@ In this post, we're going to be learning some basic lessons about
 spacetime, starting with the principle of relativity, exploring the
 twin paradox, and ending with some insights into gravity and black
 holes.
-This is mildly head-bending, so as a warm up, we'll start by thinking
-about some properties of *space* rather than *spacetime*.
+This is mildly head-bending, so as a warm up, we'll consider some
+properties of *space* rather than *spacetime*.
+As it turns out, this neatly parallels our discussion of spacetime!
 
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
