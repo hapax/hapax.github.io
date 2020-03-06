@@ -356,6 +356,6 @@ nature, flows equably without relation to anything external."
 
 We can rotate between different spatial directions, just as we did
 with the rulers, but we can never rotate space into time.
-This was the official view for about $250$ years, until Einstein came along.
+This was the official view until Einstein came along, $200$ years later.
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
