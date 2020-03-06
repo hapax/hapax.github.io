@@ -407,6 +407,6 @@ But this proposal leads to remarkable consequences.
 Recall length is unchanged by rotation, and in particular, rotation of *rulers*.
 Similarly, if Einstein's notion is correct, then *the speed of light* is
 unchanged by taking a ruler-clock system (for measuring position and
-time) and increasing its velocity.
+time) and changing its velocity.
 In general, we call this process of imparting velocity to a
 ruler-clock system a *boost*.
