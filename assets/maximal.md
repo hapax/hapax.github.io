@@ -372,10 +372,10 @@ In the 19th century, physicists thought a similar situation held for
 light. Instead of air, they imagined that light propagated in an
 invisible substance called "aether".
 
-Studying the aether was hard due to the extreme velocity of light, but
+The study of the aether was hampered by the extreme velocity of light, but
 eventually, Albert Michelson and Edward Morley devised a
 clever experiment to detect the earth's motion through the aether by
-seeing how the speed of light changed as it moved in different directions.
+comparing the speed of light in different directions.
 But this clever and very precise experiment yielded *nothing*.
 This suggested either that the earth wasn't moving through the aether
 (unlikely) or that the experiment was insufficiently sensitive (more likely).
