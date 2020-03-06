@@ -16,7 +16,7 @@ date:  2020-03-??
    2. <a href="#sec-1-2">A trip to the candy store</a>
    3. <a href="#sec-1-3">Length on a blob</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
-   1. <a href="#sec-2-1">Time and boosts</a>
+   1. <a href="#sec-2-1">Einstein's proposal</a>
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -24,131 +24,30 @@ In this post, we're going to be learning some basic lessons about
 spacetime, starting with the principle of relativity, exploring the
 twin paradox, and ending with some insights into gravity and black
 holes.
-This is mildly head-bending, so as a warm up, we'll consider some
-properties of *space* rather than *spacetime*.
 
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
-When you rotate a stick, it doesn't magically change length,
-right?
-In fact, you can think of this as a *definition* of length: it
-is the thing that doesn't change under rotations.
-This just seems to be a basic physical fact about the universe.
-Here is a setup for measuring sticks.
-Take two identical rulers and put them at right angles.
-Call measurement along the first ruler called $\Delta x$, and the
-measurement along the second ruler $\Delta y$.
-We picture this below:
-
-You find that, no matter how you orient the stick, these two
-measurements obey
-
-$$
-\Delta x^2 + \Delta y^2 = \ell^2,
-$$
-
-for some constant $\ell$.
-The constant $\ell$ is the length of the ruler, and this result is of course
-just Pythagoras' theorem.
-But it is telling us an important fact:
+I like to imagine that, a thousand years before Pythagoras, Babylonian
+surveyors trying to measure out parcels of land discovered a curious
+fact.
+For two measuring sticks at right angles, and measurements $\Delta x$
+and $\Delta y$ as shown below, they found that a particular
+combination $\Delta x^2 + \Delta y^2$ never changed, however they
+oriented their sticks.
+In other words,
 
 ---
 
 <span style="padding-left: 20px; display:block">
-The quantity $\Delta x^2 + \Delta y^2$ is preserved by rotations.
+The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
+sticks are oriented.
 </span>
 
 ---
 
-When we place the end of the stick at the point the rulers meet (the "origin"), this
-becomes $x^2 + y^2$, and the equation $x^2 + y^2 = \ell^2$ describes a
-circle of radius $\ell$.
-Of course, this has to be the case, since geometrically speaking, this
-equation describes what happens when you rotate a stick of length
-$\ell$ with one end fixed.
-
-There is a convenient way of referring to rotations using circles.
-Imagine a stick of unit length, $\ell = 1$, revolved around the point
-our rulers meet, so it obeys
-
-$$
-x^2 + y^2 = 1.
-$$
-
-For some rotation, use a tape measure to find the length of the arc
-from the $x$ ruler to the end of the stick, and call this length
-$\theta$.
-This is the angle measured in *radians*, rather than degrees.
-We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
-give them special names:
-
-$$
-x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
-$$
-
-It follows immediately, just from the way we've defined things, that
-
-$$
-\cos^2(\theta) + \sin^2(\theta) = 1.
-$$
-
-For a circle of radius $\ell$, we can still refer to angles using
-$\theta$ --- we just choose a ruler for which the circle has unit
-radius, and measure $\theta$ as before.
-Returning to the original ruler, where the circle has radius
-$\ell$, we will find that
-
-$$
-x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (\theta),
-$$
-
-and we can check, from our earlier observation about cos and sin, that
-$x^2 + y^2 = \ell^2$.
-
-The point of having a nice way to discuss rotations is not so much
-because we want to rotate sticks.
-Rather, we want to *rotate rulers*.
-Imagine that I have some measurements $(x, y)$ on my pair of rulers.
-Now, you have a second pair of rulers which meet at the same point,
-but are rotated through some angle $\theta$.
-Then your measurements, call them $(x', y')$, will be related to mine
-as follows:
-
-$$
-x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
-$$
-
-Length is indeed unchanged when we rotate rulers:
-
-$$
-\begin{align*}
-(x')^2 + (y')^2 & = \left[x \cos(\theta) + y \sin(\theta)\right]^2 +
-\left[-x \sin(\theta) + y \cos(\theta)\right]^2 \\
-	& = x^2 \left[\cos^2(\theta) + \sin^2(\theta)\right] + y^2
-	\left[\sin^2(\theta) + \cos^2(\theta)\right] + 2xy
-	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\theta(\theta)\right]\\
-	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
-	& = x^2 + y^2.
-\end{align*}
-$$
-
-Let's summarise the story so far.
-For physical reasons, rotating something shouldn't change its length.
-Pythagoras' theorem tells us that
-
-$$
-\Delta x^2 + \Delta y^2
-$$
-
-doesn't change under rotations.
-Thus, we can define the *Pythagorean length* by
-
-$$
-d_\text{P}(\Delta x, \Delta y) = \sqrt{\Delta x^2 + \Delta y^2}.
-$$
-
-We can draw circles and define trigonometric functions, and use them
-not only to rotate sticks, but to relate measurements between ruler systems.
+This is an empirical, not a mathematical, fact.
+The Babylonians probably *proved* this result, but credit is generally
+given to the Greek mathematician Pythagoras.
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
@@ -362,32 +261,36 @@ present some of them in a way that clearly parallels the situation for
 space.
 This is why we bothered to describe the world according to Pythagoras!
 
-### 2.1. The Speed of Light <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Einstein's proposal <a id="sec-2-1" name="sec-2-1"></a>
 
 Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
-to the reference frame of its medium, the air.
-If you are moving with respect to the air, the
+to its medium, the air.
+If you move with respect to the air, the
 speed of sound will appear to change.
-In the 19th century, physicists thought a similar situation held for
-light. Instead of air, they imagined that light propagated in an
+In the 19th century, physicists imagined that a similar situation held for
+light. Instead of air, they thought that light propagated in an
 invisible substance called "aether".
 
 The study of the aether was hampered by the extreme velocity of light, but
 eventually, Albert Michelson and Edward Morley devised a
-clever experiment to detect the earth's motion through the aether by
-comparing the speed of light in different directions.
-But this clever and very precise experiment yielded *nothing*.
-This suggested either that the earth wasn't moving through the aether
-(unlikely) or that the experiment was insufficiently sensitive (more likely).
-Einstein had an even more radical proposal: the aether didn't exist.
+clever experiment to detect the earth's motion through the aether.
+The basic idea was to split up a beam of light on a turntable, send
+the beams in different directions, recombine them, and look for the
+interference effects that would arise from the different speed of light in
+different directions.
+This clever and very precise experiment saw *nothing*.
+Either that the earth wasn't moving through the aether
+(unlikely) or the experiment was insufficiently sensitive.
+But Einstein had an even more radical proposal: the aether didn't
+exist at all!
 
 Even before the Michelson-Morley experiment, Einstein had come to
-doubt the existence of the aether. His reason was simple: the equations
-of electromagnetism did not include any aether, and made a single
-prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
-This didn't depend on motion relative to anything else, naively
-suggesting that the speed of light is *the same* in any set of
-coordinates moving at a constant speed:
+doubt the existence of the aether. His reason was simple. The equations
+of electromagnetism did not include any reference to aether, and made
+a single prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
+This naively suggested that the speed of light was *the same* in any set of
+coordinates moving at a constant speed.
+This is important enough to state again:
 
 ---
 
@@ -399,14 +302,130 @@ constant speed.
 ---
 
 As a true believer in the elegance and sufficiency of the laws of
-electromagnetism, Einstein decided that this naive interpretation was
-correct.
-Michelson-Morley only confirmed it!
-But this proposal leads to remarkable consequences.
+electromagnetism, Einstein decided that this naive proposal was correct.
+We will explore the remarkable consequences of this simple idea.
 
-Recall length is unchanged by rotation, and in particular, rotation of rulers.
-Similarly, if Einstein's notion is correct, then the speed of light is
+Recall that length is unchanged by rotation, and in particular, rotation of rulers.
+Similarly, if Einstein's proposal is true, the speed of light is
 unchanged by taking a ruler-clock system (for measuring position and
 time) and changing its velocity.
-In general, we call this process of imparting velocity to a
+In general, we call the process of imparting velocity to a
 ruler-clock system a *boost*.
+
+### Xtra
+
+When you rotate a stick, it doesn't magically change length,
+right?
+In fact, you can think of this as a *definition* of length: it
+is the thing that doesn't change under rotations.
+This just seems to be a basic physical fact about the universe.
+Here is a setup for measuring sticks.
+Take two identical rulers and put them at right angles.
+Call measurement along the first ruler called $\Delta x$, and the
+measurement along the second ruler $\Delta y$.
+We picture this below:
+
+You find that, no matter how you orient the stick, these two
+measurements obey
+
+The constant $\ell$ is the length of the ruler, and this result is of course
+just Pythagoras' theorem.
+But it is telling us an important fact:
+
+---
+
+<span style="padding-left: 20px; display:block">
+The quantity $\Delta x^2 + \Delta y^2$ is preserved by rotations.
+</span>
+
+---
+
+When we place the end of the stick at the point the rulers meet (the "origin"), this
+becomes $x^2 + y^2$, and the equation $x^2 + y^2 = \ell^2$ describes a
+circle of radius $\ell$.
+Of course, this has to be the case, since geometrically speaking, this
+equation describes what happens when you rotate a stick of length
+$\ell$ with one end fixed.
+
+There is a convenient way of referring to rotations using circles.
+Imagine a stick of unit length, $\ell = 1$, revolved around the point
+our rulers meet, so it obeys
+
+$$
+x^2 + y^2 = 1.
+$$
+
+For some rotation, use a tape measure to find the length of the arc
+from the $x$ ruler to the end of the stick, and call this length
+$\theta$.
+This is the angle measured in *radians*, rather than degrees.
+We can view $x(\theta)$ and $y(\theta)$ as functions of $\theta$, and
+give them special names:
+
+$$
+x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
+$$
+
+It follows immediately, just from the way we've defined things, that
+
+$$
+\cos^2(\theta) + \sin^2(\theta) = 1.
+$$
+
+For a circle of radius $\ell$, we can still refer to angles using
+$\theta$ --- we just choose a ruler for which the circle has unit
+radius, and measure $\theta$ as before.
+Returning to the original ruler, where the circle has radius
+$\ell$, we will find that
+
+$$
+x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (\theta),
+$$
+
+and we can check, from our earlier observation about cos and sin, that
+$x^2 + y^2 = \ell^2$.
+
+The point of having a nice way to discuss rotations is not so much
+because we want to rotate sticks.
+Rather, we want to *rotate rulers*.
+Imagine that I have some measurements $(x, y)$ on my pair of rulers.
+Now, you have a second pair of rulers which meet at the same point,
+but are rotated through some angle $\theta$.
+Then your measurements, call them $(x', y')$, will be related to mine
+as follows:
+
+$$
+x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+$$
+
+Length is indeed unchanged when we rotate rulers:
+
+$$
+\begin{align*}
+(x')^2 + (y')^2 & = \left[x \cos(\theta) + y \sin(\theta)\right]^2 +
+\left[-x \sin(\theta) + y \cos(\theta)\right]^2 \\
+	& = x^2 \left[\cos^2(\theta) + \sin^2(\theta)\right] + y^2
+	\left[\sin^2(\theta) + \cos^2(\theta)\right] + 2xy
+	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\theta(\theta)\right]\\
+	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
+	& = x^2 + y^2.
+\end{align*}
+$$
+
+Let's summarise the story so far.
+For physical reasons, rotating something shouldn't change its length.
+Pythagoras' theorem tells us that
+
+$$
+\Delta x^2 + \Delta y^2
+$$
+
+doesn't change under rotations.
+Thus, we can define the *Pythagorean length* by
+
+$$
+d_\text{P}(\Delta x, \Delta y) = \sqrt{\Delta x^2 + \Delta y^2}.
+$$
+
+We can draw circles and define trigonometric functions, and use them
+not only to rotate sticks, but to relate measurements between ruler systems.
