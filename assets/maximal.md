@@ -408,4 +408,5 @@ in particular, rotation of *rulers*.
 If Einstein's notion is correct, then *the speed of light* is
 unchanged by taking a ruler-clock system (for measuring position and
 time) and giving a boost to its velocity.
-In general, we call this 
+In general, we use "boost" to refer to this process of imparting
+velocity to a ruler-clock system.
