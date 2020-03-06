@@ -261,40 +261,45 @@ In general, a suitably small patch of a curved surface looks flat.
 Though it's harder to imagine, a three-dimensional (or
 higher-dimensional) space can also be curved, but once again, in a
 small patch, straight lines will make sense.
-We'll call curved spaces *blobs*.
+We'll call curved spaces *blobs*, and use the term *local* to refer to
+the small patches where the blob looks flat, and straight lines make sense.
 Then, in a slogan,
 
 ---
 
 <span style="padding-left: 20px; display:block">
-On a blob, straight lines make sense locally.
+Blobs are locally flat.
 </span>
 
 ---
 
 With a little more work, this tells us someting interesting about the
 shortest routes on a blob.
+So, consider the shortest route between $A$ and $B$ in a blob.
+This may not be a straight line, since in general, straight line
+routes aren't allowed, or even defined.
+Let's list a bunch of intermediate locations visited by this shortest
+route from $A$ to $B$, say $D_1, D_2, \ldots, D_n$, in the order they
+are visited.
+We make another simple observation: the shortest route between $A$ and
+$B$ will *also* gives the shortest route between the intermediate
+locations!
+If it didn't, and took a winding detour from say $D_2$ to $D_3$, we
+could always replace this section of the path with a shorter route and
+reduce the overall length.
 
-Let's consider a route between $A$ and $B$ in a blob.
-
-If it didn't, for instance it gave you a winding detour between two
-points $C_1$ and $C_2$, you could shorten the total path by choosing a
-shorter path from $C_1$ to $C_2$.
-So, let's consider many intermediate points $C_1, C_2, \ldots, C_n$ on
-the path from $A$ to $B$.
-If we pick enough of these points, we can make successive points close
-enough that the blob looks flat!
-
-Then the quickest route between, say, $C_i$ and $C_{i+1}$ will be a
-straight line, since this is a locally sensible route.
-Zoom in on the shortest route, and it looks straight.
-Since this is true for all intermediate points, we arrive at another
-important conclusion:
+Let's pick many, many points $D_i$, and place them close enough
+together that every pair of successive points $D_i$ and $D_{i+1}$ is
+contained in a flat-looking patch.
+The shortest path from $A$ to $B$ also gives the shortest path between
+each pair $D_i$ and $D_{i+1}$, and the shortest path, locally, is just
+a straight line.
+We've just discovered an important result:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-On a blob, shortest routes are locally straight.
+On a blob, shortest paths are locally straight.
 </span>
 
 ---
