@@ -18,7 +18,13 @@ date:  2020-03-??
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
-Introductory comments?
+In this post, we're going to be learning some basic lessons about
+spacetime, starting with the principle of relativity, exploring the
+twin paradox, and ending with some insights into gravity and black
+holes.
+This sounds hard.
+As a warm up, we'll start by taking some familiar features of *length*
+and restating
 
 ### 1.1. Length and rotation <a id="sec-1-1" name="sec-1-1"></a>
 
