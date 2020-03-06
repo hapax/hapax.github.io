@@ -358,8 +358,9 @@ We can rotate between different spatial directions, but we can never
 rotate space into time.
 This was the official view until Einstein came along, $200$ years
 later.
-Although Einstein's insights were brilliant and revolutionary, we can
-present some of his ideas about spacetime in a way that clearly
-parallels the situation for space.
+Although Einstein's insights about spacetime were brilliant and revolutionary, we can
+present some of them in a way that clearly parallels the situation for
+space.
+This is why we bothered to the world according to Pythagoras!
 
 ### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
