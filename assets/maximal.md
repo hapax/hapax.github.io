@@ -332,17 +332,17 @@ So we've just proved that, on a Riemannian manifold, the shortest path
 between $A$ and $B$ is a geodesic.
 Sounds very impressive!
 
-Even though a blob does not usually have a single straight line
+Even though a blob doesn't usually have a single straight line
 connecting $A$ and $B$, we can use *locally* straight paths to define
 distance.
-It's what you would expect:
+As you might expect, it's just the sum of the lengths of small line
+segments making up the path:
 
 $$
 d_\text{P}(A, B) = AD_1 + D_2D_3 + \cdots D_{n-1}D_n + D_nB.
 $$
 
-We just sum up the lengths of the small line segments that make up the path.
-So, we can define Pythagorean length in a blob!
+So, we have defined Pythagorean length in a blob!
 
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
