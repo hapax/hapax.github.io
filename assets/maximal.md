@@ -347,7 +347,7 @@ So, we have defined Pythagorean length in a blob!
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
 In Newtonian physics, time and space are completely separate.
-In Newton's beautiful phrasing,
+In Newton's own and beautiful words,
 
 <span style="padding-left: 20px; display:block">
 “Absolute, true and mathematical time, of itself, and from its own
