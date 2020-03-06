@@ -323,8 +323,8 @@ $$
 d_\text{P}(A, B) = AD_1 + D_2D_3 + \cdots D_{n-1}D_n + D_nB.
 $$
 
-We just sum up the lengths of the line segments that make up the path.
-So, we now have a notion of Pythagorean length in a blob.
+We just sum up the lengths of the small line segments that make up the path.
+So, we now have a notion of Pythagorean length in a blob!
 
 ## Xtra
 
