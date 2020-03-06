@@ -389,9 +389,6 @@ This prediction didn't depend on motion relative to anything, so one
 might naively suggest that the speed of light is *the same* in any
 inertial reference frame, i.e. a set of coordinates moving at a
 constant speed.
-As a true believer in the elegance and sufficiency of Maxwell's laws,
-Einstein decided that this naive interpretation was correct, and
-Michelson-Morley seemed to confirm it.
 This naive proposal is called the *Principle of Relativity*:
 
 ---
@@ -402,3 +399,6 @@ The speed of light is the same in all inertial reference frames.
 
 ---
 
+As a true believer in the elegance and sufficiency of Maxwell's laws,
+Einstein decided that this naive interpretation was correct, and
+Michelson-Morley seemed to confirm it.
