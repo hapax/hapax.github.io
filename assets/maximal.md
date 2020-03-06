@@ -362,30 +362,43 @@ present some of them in a way that clearly parallels the situation for
 space.
 This is why we bothered to describe the world according to Pythagoras!
 
-### 2.1. Time and boosts <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. The Principle of Relativity <a id="sec-2-1" name="sec-2-1"></a>
 
 Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
 to the reference frame of its medium, the air.
 If you are moving with respect to the air, the
 speed of sound will appear to change.
-In the 19th century, physicists expected that the same situation was
-true for light.
-They hypothesised that instead of air, the medium that allowed light
-to propagate was a special substance called "ether".
+In the 19th century, physicists thought a similar situation held for
+light. Instead of air, they imagined that light propagated in an
+invisible substance called "aether".
 
-The study of this ether was hampered by the extremely high velocity of
-light, but eventually, Michelson and Morley were able to devise a
-clever experiment which would in principle measure the earth's motion
-through the ether.
-But their clever experimented yielded *nothing*.
-It was if there was no ether!
-But clearly this is nonsense, since otherwise how could light propagate?
+Studying the aether was hard due to the extreme velocity of light, but
+eventually, Albert Michelson and Edward Morley devised a
+clever experiment to detect the earth's motion through the aether by
+seeing how the speed of light changed as it moved in different directions.
+But this clever and very precise experiment yielded *nothing*.
+This suggested either that the earth wasn't moving through the aether
+(unlikely) or that the experiment was insufficiently sensitive (more likely).
+Einstein had an even more radical proposal: the aether didn't exist.
+
+Even before the Michelson-Morley experiment, Einstein had come to
+doubt the existence of the aether, for a simple reason: Maxwell's
+equations for electromagnetism did not include any aether, and still made a
+prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
+This prediction didn't depend on motion relative to anything, so one
+might naively suggest that the speed of light is *the same* in any
+inertial reference frame, i.e. a set of coordinates moving at a
+constant speed.
+As a true believer in the elegance and sufficiency of Maxwell's laws,
+Einstein decided that this naive interpretation was correct, and
+Michelson-Morley seemed to confirm it.
+This naive proposal is called the *Principle of Relativity*:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-*Absolute, true and mathematical time, of itself, and from its own
-nature, flows equably without relation to anything external.*
+The speed of light is the same in all inertial reference frames.
 </span>
 
 ---
+
