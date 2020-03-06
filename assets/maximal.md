@@ -14,7 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The world according to Pythagoras</a>
    1. <a href="#sec-1-1">Length and rotation</a>
    2. <a href="#sec-1-2">A trip to the candy store</a>
-   3. <a href="#sec-1-3">Routes on a blob</a> 
+   3. <a href="#sec-1-3">Length on a blob</a> 
 
 ## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
 
@@ -212,7 +212,7 @@ Any departure from the direct route increases total trip length.
 If you're in a hurry (or a dental hygiene enthusiast), don't go to
 the candy store!
 
-### 1.3. Routes on a blob<a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
 
 Our observations about candy store visits are sort of obvious, and
 seemed confined to a flat, two-dimensional plane.
@@ -305,7 +305,8 @@ We've just discovered an important result:
 ---
 
 <span style="padding-left: 20px; display:block">
-On a blob, shortest paths are locally straight.
+On a blob, shortest paths are locally straight. Any departure from
+local straightness increases length.
 </span>
 
 ---
@@ -315,6 +316,17 @@ locally straight paths are called *geodesics*.
 So we've just proved that, on a Riemannian manifold, the shortest path
 between $A$ and $B$ is a geodesic.
 Sounds very impressive!
+
+Even though a blob does not have straight lines, we can use these
+locally straight paths to define distance.
+It's what you would expect:
+
+$$
+d_\text{P}(A, B) = AD_1 + D_2D_3 + \cdots D_{n-1}D_n + D_nB.
+$$
+
+We just sum up the lengths of the line segments that make up the path.
+So, we now have a notion of Pythagorean length in a blob.
 
 ## Xtra
 
