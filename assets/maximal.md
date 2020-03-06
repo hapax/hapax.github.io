@@ -46,8 +46,16 @@ sticks are oriented.
 ---
 
 This is an empirical, not a mathematical, fact.
-The Babylonians probably *proved* this result, but credit is generally
-given to the Greek mathematician Pythagoras.
+In order to *prove* this result --- as the Babylonians, and later
+Pythagoras, did --- you need to assume the world looks like the
+mathematical model.
+Pythagoras' theorem $a^2 + b^2 = c^2$ applies to triangles living on a
+flat, two-dimensional plane.
+We can explain the empirical observation that $\Delta x^2 + \Delta
+y^2$ is invariant by supposing that the surveyors were measuring
+lengths on such a plane.
+
+
 
 ### 1.2. A trip to the candy store <a id="sec-1-2" name="sec-1-2"></a>
 
