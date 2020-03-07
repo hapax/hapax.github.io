@@ -42,7 +42,6 @@ sticks are oriented.
 
 We'll define the *Pythagorean length* $\ell_\text{P}$ by
 $\ell_\mathcal{P}^2 = \Delta x^2 + \Delta y^2$.
-
 This is an empirical rather than a mathematical fact.
 This may be surprising, given that Pythagoras' theorem, $a^2 + b^2 =
 c^2$, is perhaps the one mathematical fact that everyone knows!
