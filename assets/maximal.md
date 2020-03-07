@@ -126,12 +126,13 @@ geometry, but it will pay off when we come to study spacetime!
 
 ### 1.2. Trip-planning <a id="sec-1-2" name="sec-1-2"></a>
 
-Imagine that the surveyors are now being asked to plan roads between
+Imagine that our two surveyors are being asked to plan roads between
 Mesopotamian cities, Assur ($A$) and Babylon ($B$).
-A straight line between $A$ and $B$ seems shortest, but a local
-politician argues 
-trip to Charax Sidae ($C$) yield a *shortcut*?
-Of course the answer is no, but the surveyors, with their newfound knowledge prove it using circles.
+The first surveyor thinks a straight line between $A$ and $B$ is
+shortest, but the second argues that a side trip to Charax Sidae ($C$)
+will be shorter.
+Without even knowing where these cities are in relation to one
+another, the first surveyor can *prove* they are correct using 
 
 For convenience, we orient measuring sticks so that Assur $A$ is at
 the origin and Babylon $B$ on the vertical stick.
