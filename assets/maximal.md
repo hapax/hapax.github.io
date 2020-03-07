@@ -14,7 +14,7 @@ date:  2020-03-??
 1. <a href="#sec-1">The parable of the surveyors</a>
    1. <a href="#sec-1-1">Measuring sticks</a>
    2. <a href="#sec-1-2">Trip-planning</a>
-   3. <a href="#sec-1-3">Length on a blob</a> 
+   3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
    1. <a href="#sec-2-1">Einstein's proposal</a>
 
@@ -151,7 +151,7 @@ It's clear geometrically that $d$ is always non-negative, so that $AB
 \leq AC + BC$, and $d = 0$ just in case Charax Sidae lies directly
 between Assur and Babylon.
 
-#### Mulit-stop trips
+#### Multi-stop trips
 
 The second surveyor has an even crazier suggestion.
 Although a single side trip cannot decrease the length, they propose
@@ -182,20 +182,20 @@ An extreme version of this is a curved path, which consists of
 infinitely many intermediate stops.
 I won't prove it formally, but hopefully it's clear that such a path
 is always longer than the straight line as well.
-Putting it all together, find that
+Putting it all together, we learn a basic fact about route planning:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-Any departures from a straight line between $A$ and $B$ increase route length.
+Any departures from a straight line between $A$ and $B$ increase trip length.
 </span>
 
 ---
 
-### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Over the moutains<a id="sec-1-3" name="sec-1-3"></a>
 
-Our observations about candy store visits are sort of obvious, and
-seemed confined to a flat, two-dimensional plane.
+The second surveyor now makes a 
+
 But the benefit of stating them in an odd way is that we can easily
 generalise to more interesting situations.
 First, we will think about trip-planning in higher dimensions.
