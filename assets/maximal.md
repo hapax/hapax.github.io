@@ -125,7 +125,7 @@ geometry, but it will pay off when we come to study spacetime!
 
 #### A single side trip
 
-Imagine that our two surveyors are now asked to plan roads between two
+Imagine that our two surveyors are now commissioned to plan roads between two
 Mesopotamian cities, Assur ($A$) and Babylon ($B$).
 The first surveyor thinks a straight line between $A$ and $B$ is
 shortest, but the second argues that a side trip to Charax Sidae ($C$)
@@ -134,15 +134,13 @@ Without even knowing where these cities are in relation to one
 another, the first surveyor can *prove* the straight line is shortest
 using their newfound knowledge of circles.
 
-For convenience, the first surveyor orients measuring sticks so that
+For convenience, they orient measuring sticks so that
 Assur $A$ is at the origin and Babylon $B$ on the vertical stick.
-(These measuring sticks are now very long.)
-The surveyor then draws circles from $A$ and $B$ which pass through
+The first surveyor then draws circles from $A$ and $B$ which pass through
 $C$, using long ropes with ends fixed at $A$ and $B$ respectively.
 This lets us compare the length $AB$ (the length of the straight line
 from Assur to Babylon) to the lengths $AC, BC$ traversed when you travel via
 Charax.
-
 The circles overlap with some length $d$, in which case
 
 $$
