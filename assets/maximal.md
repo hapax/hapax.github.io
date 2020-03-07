@@ -11,21 +11,16 @@ date:  2020-03-??
 
 ### Contents
 
-1. <a href="#sec-1">The world according to Pythagoras</a>
-   1. <a href="#sec-1-1">The parable of the surveyors</a>
-   2. <a href="#sec-1-2">The parable of the merchants</a>
+1. <a href="#sec-1">The parable of the surveyors</a>
+   1. <a href="#sec-1-1">Measuring sticks</a>
+   2. <a href="#sec-1-2">Trip-planning</a>
    3. <a href="#sec-1-3">Length on a blob</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
    1. <a href="#sec-2-1">Einstein's proposal</a>
 
-## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
+## 1. The parable of the surveyors  <a id="sec-1" name="sec-1"></a>
 
-In this post, we're going to be learning some basic lessons about
-spacetime, starting with the principle of relativity, exploring the
-twin paradox, and ending with some insights into gravity and black
-holes.
-
-### 1.1. The parable of the surveyors <a id="sec-1-1" name="sec-1-1"></a>
+### 1.1. Measuring sticks <a id="sec-1-1" name="sec-1-1"></a>
 
 I like to imagine that, a thousand years before Pythagoras, Babylonian
 surveyors trying to measure out parcels of land discovered a curious
@@ -122,25 +117,22 @@ Let's summarise the story so far.
 Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
 they choose to orient their measuring sticks.
 This suggests that the land they measure is a flat plane, since in
-this, they can prove the result is true.
+this setting, they can *prove* the result is true.
 Finally, by thinking more carefully about how to define relative
-orientation, they can figure out precisely how measurements using
-different measuring-stick systems are related.
-This may seem like a strange and pedantic way to describe
-plane geometry, but it will pay off when we come to study spacetime.
+orientation, they can precisely precise relate measurements in
+different measuring-stick systems.
+This may seem like a strange and pedantic way to think about plane
+geometry, but it will pay off when we come to study spacetime!
 
-### 1.2. The parable of the merchants <a id="sec-1-2" name="sec-1-2"></a>
+### 1.2. Trip-planning <a id="sec-1-2" name="sec-1-2"></a>
 
-Babylonian merchants, plotting routes between cities, might have
-consulted surveyors to determine the shortest path.
-One merchant, in particular, is looking to transport goods from
-Assur ($A$) to Babylon ($B$), but contemplates a profitable side trip
-to Charax Sidae ($C$).
-Could this side trip also yield a *shortcut*?
+Imagine that the surveyors are now being asked to plan roads between
+Mesopotamian cities, Assur ($A$) and Babylon ($B$).
+A straight line between $A$ and $B$ seems shortest, but a local
+politician argues 
+trip to Charax Sidae ($C$) yield a *shortcut*?
+Of course the answer is no, but the surveyors, with their newfound knowledge prove it using circles.
 
-Sadly, the surveyors point out that any departure from a straight line
-between $A$ and $B$ will increase the length of the trip.
-Although it's obvious, let's prove it using circles.
 For convenience, we orient measuring sticks so that Assur $A$ is at
 the origin and Babylon $B$ on the vertical stick.
 Now, draw circles from $A$ and $B$ which pass through $C$.
@@ -193,15 +185,6 @@ by taking the limit $n \to \infty$ in the argument above.
 If the merchants just want the quickest route, they should also go
 directly!
 
-### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
-
-Our observations about candy store visits are sort of obvious, and
-seemed confined to a flat, two-dimensional plane.
-But the benefit of stating them in an odd way is that we can easily
-generalise to more interesting situations.
-First, we will think about trip-planning in higher dimensions.
-Then we will understand shortest routes in *curved* spaces.
-
 #### Higher dimensions
 
 First, let's imagine that our destinations are located in
@@ -227,7 +210,14 @@ do the same iteration here.
 The quickest route between $A$ and $B$ in three (or indeed any number
 of) dimensions is the direct route, and any additional stops make it longer.
 
-#### Blobs
+### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
+
+Our observations about candy store visits are sort of obvious, and
+seemed confined to a flat, two-dimensional plane.
+But the benefit of stating them in an odd way is that we can easily
+generalise to more interesting situations.
+First, we will think about trip-planning in higher dimensions.
+Then we will understand shortest routes in *curved* spaces.
 
 In the situations we've considered so far, we've needed to be able to
 draw straight lines between $A$, $B$ and $C$.
@@ -321,6 +311,8 @@ nature, flows equably without relation to anything external.*
 
 We can rotate between different spatial directions, but we can never
 rotate space into time.
+
+
 This was the official view until Einstein came along, $200$ years
 later.
 Although Einstein's insights about spacetime are brilliant and revolutionary, we can
