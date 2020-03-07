@@ -126,25 +126,24 @@ this, they can prove the result is true.
 Finally, by thinking more carefully about how to define relative
 orientation, they can figure out precisely how measurements using
 different measuring-stick systems are related.
-This may seem like a pedantic and overly-elaborate way to describe
+This may seem like a strange and pedantic way to describe
 plane geometry, but it will pay off when we come to study spacetime.
 
 ### 1.2. The parable of the merchants <a id="sec-1-2" name="sec-1-2"></a>
 
-We can imagine that, as experts on length, Babylonian 
-To make things more concrete, suppose you can take a direct,
-straight-line path from home $A$ to school $B$.
-But you can also take a route which stops at the candy store $C$ in
-between.
-Let's use $AB$ for the length of the route from $A$ to $B$, and so on.
+Babylonian merchants, plotting routes between cities, might have
+consulted surveyors to determine the shortest path.
+One merchant, in particular, is looking to transport goods from
+Assur ($A$) to Babylon ($B$), but contemplates a profitable side trip
+to Charax Sidae ($C$).
+Could this side trip also yield a *shortcut*?
 
-Now, which route is shorter, the direct route or the side trip to the
-candy store?
-Clearly, the direct route unless the candy store was already on the way.
+Sadly, the surveyors point out that any departure from a straight line
+between $A$ and $B$ will increase the length of the trip.
 Although it's obvious, let's prove it using circles.
-For convenience, orient the rulers so that home $A$ is at the origin
-and school $B$ is on the vertical ruler.
-Draw circles from $A$ and $B$ which pass through the candy store $C$.
+For convenience, we orient measuring sticks so that Assur $A$ is at
+the origin and Babylon $B$ on the vertical stick.
+Now, draw circles from $A$ and $B$ which pass through $C$.
 This lets us compare the length $AB$ of the direct route to the
 lengths $AC, BC$ when you have the side trip.
 
@@ -158,10 +157,10 @@ It's clear geometrically that $d$ is always non-negative, so that $AB
 \leq AC + BC$, and $d = 0$ just in case the candy store lies directly
 between home and school.
 
-Now, imagine visiting a sequence of $n$ candy stores, $C_1, C_2,
+Now, imagine visiting a sequence of $n$ intermediate cities, $C_1, C_2,
 \ldots, C_n$.
 How do multiple side trips compare to the direct route?
-If we visit candy stores in order, the total length is
+If we visit cities in order, the total length is
 
 $$
 AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB.
@@ -179,7 +178,7 @@ AC_1 + C_1C_2 \leq AC_2.
 $$
 
 Then we can get rid of the stop at $C_2$, then the stop at $C_3$, and
-so on, until we have no candy stores left.
+so on, until we have no cities left.
 We learn that
 
 $$
@@ -187,22 +186,12 @@ AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB  \leq \cdots \leq AB.
 $$
 
 The extreme case is to imagine a *continuous* path, which consists of
-infinitely many candy stores.
+infinitely many cities.
 I won't prove it formally, but I hope it's clear that such a path
 is always at least as long as the direct, straight-line route, simply
 by taking the limit $n \to \infty$ in the argument above.
-We can formulate what we've learned as a simple rule:
-
----
-
-<span style="padding-left: 20px; display:block">
-Any departure from the direct route increases total trip length.
-</span>
-
----
-
-If you're in a hurry (or a dental hygiene enthusiast), don't go to
-the candy store!
+If the merchants just want the quickest route, they should also go
+directly!
 
 ### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
 
