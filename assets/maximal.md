@@ -18,11 +18,11 @@ date:  2020-03-??
 2. <a href="#sec-2">The world according to Minkowski</a>
    1. <a href="#sec-2-1">Einstein's proposal</a>
 
-## 1. The parable of the surveyors  <a id="sec-1" name="sec-1"></a>
+## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
 ### 1.1. Measuring sticks <a id="sec-1-1" name="sec-1-1"></a>
 
-I like to imagine that, a thousand years before Pythagoras, Babylonian
+I like to imagine that, a thousand years before Pythagoras, Mesopotamian
 surveyors trying to measure out parcels of land discovered a curious
 fact.
 For two measuring sticks at right angles, and measurements $\Delta x$
@@ -34,7 +34,7 @@ In other words,
 ---
 
 <span style="padding-left: 20px; display:block">
-*The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
+The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
 sticks are oriented.
 </span>
 
@@ -52,7 +52,7 @@ But this proof only works on a flat, two-dimensional plane.
 We can explain the empirical observation that $\Delta x^2 + \Delta
 y^2$ by assuming that the world looks like our model.
 
-We now imagine that two Babylonian surveyors measure the same length
+Our two surveyors now measure the same length
 of fence, but with differently-oriented measuring sticks.
 For simplicity, let's assume that the stick systems are identical, and
 all meet at a point, as well with one end of the fence.
@@ -126,19 +126,25 @@ geometry, but it will pay off when we come to study spacetime!
 
 ### 1.2. Trip-planning <a id="sec-1-2" name="sec-1-2"></a>
 
-Imagine that our two surveyors are being asked to plan roads between
+#### A single side trip
+
+Imagine that our two surveyors are now asked to plan roads between two
 Mesopotamian cities, Assur ($A$) and Babylon ($B$).
 The first surveyor thinks a straight line between $A$ and $B$ is
 shortest, but the second argues that a side trip to Charax Sidae ($C$)
-will be shorter.
+can provide a shortcut.
 Without even knowing where these cities are in relation to one
-another, the first surveyor can *prove* they are correct using 
+another, the first surveyor can *prove* the straight line is shortest
+using their newfound knowledge of circles.
 
-For convenience, we orient measuring sticks so that Assur $A$ is at
-the origin and Babylon $B$ on the vertical stick.
-Now, draw circles from $A$ and $B$ which pass through $C$.
-This lets us compare the length $AB$ of the direct route to the
-lengths $AC, BC$ when you have the side trip.
+For convenience, the first surveyor orients measuring sticks so that
+Assur $A$ is at the origin and Babylon $B$ on the vertical stick.
+(These measuring sticks are now very long.)
+The surveyor then draws circles from $A$ and $B$ which pass through
+$C$, using long ropes with ends fixed at $A$ and $B$ respectively.
+This lets us compare the length $AB$ (the length of the straight line
+from Assur to Babylon) to the lengths $AC, BC$ traversed when you travel via
+Charax.
 
 The circles overlap with some length $d$, in which case
 
@@ -147,69 +153,49 @@ AC + BC = AB + d.
 $$
 
 It's clear geometrically that $d$ is always non-negative, so that $AB
-\leq AC + BC$, and $d = 0$ just in case the candy store lies directly
-between home and school.
+\leq AC + BC$, and $d = 0$ just in case Charax Sidae lies directly
+between Assur and Babylon.
 
-Now, imagine visiting a sequence of $n$ intermediate cities, $C_1, C_2,
-\ldots, C_n$.
-How do multiple side trips compare to the direct route?
+#### Mulit-stop trips
+
+The second surveyor has an even crazier suggestion.
+Although a single side trip cannot decrease the length, they propose
+that a *sequence* of $n$ intermediate stops, $C_1, C_2, \ldots, C_n$,
+can conspire to somehow become shorter than the direct
+route.
+The first surveyor disagrees once more, and argues against the
+multi-trip proposal as follows.
 If we visit cities in order, the total length is
 
 $$
 AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB.
 $$
 
-Could these trips conspire to somehow become shorter than the direct
-route?
-Of course not.
-A simple way to see this is just to use what we already know!
-We can make the trip from $A$ to $C_2$ shorter, for instance, by
-eliminating a stop at $C_1$:
+We can make the trip from $A$ to $C_2$ shorter by eliminating a stop
+at $C_1$, since we have already established that the direct route
+between two locations is shorter than the route with a single trip.
+Thus,
 
 $$
 AC_1 + C_1C_2 \leq AC_2.
 $$
 
-Then we can get rid of the stop at $C_2$, then the stop at $C_3$, and
-so on, until we have no cities left.
-We learn that
+But once we've elminiated $C_1$, we can repeat this reasoning for $A$
+and $C_2$, then $A$ and $C_3$, and so on, until we have no cities left
+except for Assur and Babylon.
+An extreme version of this is a curved path, which consists of
+infinitely many intermediate stops.
+I won't prove it formally, but hopefully it's clear that such a path
+is always longer than the straight line as well.
+Putting it all together, find that
 
-$$
-AC_1 + C_1C_2 + \cdots C_{n-1}C_n + C_nB  \leq \cdots \leq AB.
-$$
+---
 
-The extreme case is to imagine a *continuous* path, which consists of
-infinitely many cities.
-I won't prove it formally, but I hope it's clear that such a path
-is always at least as long as the direct, straight-line route, simply
-by taking the limit $n \to \infty$ in the argument above.
-If the merchants just want the quickest route, they should also go
-directly!
+<span style="padding-left: 20px; display:block">
+Any departures from a straight line between $A$ and $B$ increase route length.
+</span>
 
-#### Higher dimensions
-
-First, let's imagine that our destinations are located in
-three-dimensional, rather than two-dimensional, space.
-The extension actually works for higher dimensions, but we'll stick to
-three for ease of visualisation.
-
-As before, I want to compare a direct route from $A$ to $B$ to the
-route via the candy store $C$.
-In two dimensions, we drew circles, but in three dimensions, the set
-of points at a fixed distance from $A$ or $B$ is a *sphere*. So it
-seems like we'll have to draw some complicated picture with spheres.
-Thankfully, this is unecessary!
-We can simply *work in the plane containing $A$, $B$ and $C$*.
-Three points are always contained in a plane, so this is a reasonable
-thing to do.
-We then draw circles, and the argument above goes through, word for
-word.
-
-Since our result for multiple candy stores (including infinitely
-many!) simply iterated the result for a *single* candy store, we can
-do the same iteration here.
-The quickest route between $A$ and $B$ in three (or indeed any number
-of) dimensions is the direct route, and any additional stops make it longer.
+---
 
 ### 1.3. Length on a blob<a id="sec-1-3" name="sec-1-3"></a>
 
@@ -373,6 +359,34 @@ In general, we call the process of imparting velocity to a
 ruler-clock system a *boost*.
 
 ### Xtra
+
+#### Higher dimensions
+
+First, let's imagine that our destinations are located in
+three-dimensional, rather than two-dimensional, space.
+The extension actually works for higher dimensions, but we'll stick to
+three for ease of visualisation.
+
+As before, I want to compare a direct route from $A$ to $B$ to the
+route via the candy store $C$.
+In two dimensions, we drew circles, but in three dimensions, the set
+of points at a fixed distance from $A$ or $B$ is a *sphere*. So it
+seems like we'll have to draw some complicated picture with spheres.
+Thankfully, this is unecessary!
+We can simply *work in the plane containing $A$, $B$ and $C$*.
+Three points are always contained in a plane, so this is a reasonable
+thing to do.
+We then draw circles, and the argument above goes through, word for
+word.
+
+Since our result for multiple candy stores (including infinitely
+many!) simply iterated the result for a *single* candy store, we can
+do the same iteration here.
+The quickest route between $A$ and $B$ in three (or indeed any number
+of) dimensions is the direct route, and any additional stops make it
+longer.
+
+#### Other
 
 When you rotate a stick, it doesn't magically change length,
 right?
