@@ -73,8 +73,7 @@ $$
 
 Of course, this is just an elaborate way to describe the *angle*,
 measured in radians.
-In fact, we can choose a system of units where $d_2 = 1$, in other
-words, the stick has unit length.
+In fact, we can choose a system of units where $d_2 = 1$, and the stick has unit length.
 As we rotate the stick through a full revolution, we can label the
 endpoints as a function of $\theta$:
 
