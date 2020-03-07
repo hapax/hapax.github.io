@@ -115,8 +115,8 @@ Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
 they choose to orient their measuring sticks.
 This suggests that the land they measure is a flat plane, since in
 this setting, they can *prove* the result is true.
-Finally, by thinking more carefully about how to define relative
-orientation, they can precisely precise relate measurements in
+Finally, by thinking more carefully about relative
+orientation, they can precisely relate measurements in their
 different measuring-stick systems.
 This may seem like a strange and pedantic way to think about plane
 geometry, but it will pay off when we come to study spacetime!
