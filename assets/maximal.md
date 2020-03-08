@@ -404,8 +404,7 @@ $$
 x^2 + y^2 = 1.
 $$
 
-Now, "relative orientation" will be labelled with points with on
-the *unit hyperbola* (in the north-south quadrants):
+Now, "relative orientation" will be labelled by points on the *unit hyperbola* (in the north-south quadrants):
 
 $$
 t^2 - x^2 = 1.
