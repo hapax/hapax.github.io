@@ -25,7 +25,6 @@ In a sense, even mythology is a search for principles underlying
 regularity.
 Even if the laws are fanciful, the premise is in fact an empirical
 one: there is regularity in the world above and around us.
-
 Things need not have turned out that way.
 We could live in a disorderly universe, where "laws" changed from
 moment to moment, and patterns vanished the moment they were observed.
