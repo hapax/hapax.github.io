@@ -49,6 +49,7 @@ Newton saw the same laws governing the motion of the planets and the
 fall of an apple.
 By labelling points on the plane with $x$ and $y$, Descartes united
 algebra and geometry.
+This suggests a second metapattern:
 
 ---
 
