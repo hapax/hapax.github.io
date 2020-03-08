@@ -17,8 +17,8 @@ date:  2020-03-??
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The surveyors of spacetime</a>
    1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
-   2. <a href="#sec-2-2">Making rulers into clocks</a>
-   3. <a href="#sec-2-3">The Twin Paradox</a>
+   2. <a href="#sec-2-2">Turning rulers into clocks</a>
+   3. <a href="#sec-2-4">The Twin Paradox</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
@@ -110,8 +110,7 @@ $$
 x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
 $$
 
-The picture makes this clear, but we can also check that the
-Pythagorean length is unchanged:
+The picture makes this clear, but to be sure, we can check that the length is unchanged:
 
 $$
 \begin{align*}
@@ -128,7 +127,7 @@ Let's summarise the story so far.
 Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
 they choose to orient their measuring sticks.
 This suggests that the land they measure is a flat plane, since in
-this setting, they can prove the result is true from Pythagoras' theorem.
+this setting, they can prove the invariance from Pythagoras' theorem.
 Finally, by thinking more carefully about relative
 orientation, they can precisely relate measurements in their
 different measuring-stick systems.
@@ -387,13 +386,6 @@ Whatever the speed of your ruler-clock system, $\Delta x^2 - \Delta t^2$ is the 
 
 ---
 
-The invariance of $\Delta x^2 + \Delta y^2$ indicates that the surface
-of the earth should be modelled as a plane.
-The invariance of $\Delta x^2 - \Delta t^2$ corresponds to a model
-called *Minkowski spacetime*, whose properties we'll explore now.
-
-### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
-
 Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring the time
 and distance between two events may want to relate their measurements.
@@ -436,6 +428,35 @@ $$
 We can get the east-west unit hyperbola $x^2 - t^2 = 1$ (or $x^2 - t^2
 = \ell^2$) by swapping the role of sinh and cosh, while light curves
 $x^2 = t^2$ don't require any special functions.
+
+As with circles, we now have enough technology to relate $(x, t)$ and $(x',
+t')$.
+If the measurements $(x', t')$ are obtained by a "rotation" through
+$\eta$, then
+
+$$
+t' = t \cosh(\eta) + x \sinh (\eta), \quad x' = x \cosh(\eta) + t \sinh (\eta).
+$$
+
+As a check, we can confirm that $x^2 - t^2$ is preserved:
+
+$$
+\begin{align*}
+(x')^2 - (t')^2 & = \left[x \cosh(\eta) + t \sinh(\eta)\right]^2 -
+\left[x \sinh(\eta) + t \cosh(\eta)\right]^2 \\
+	& = (x^2 - t^2) \left[\cosh^2(\eta) + \sinh^2(\eta)\right] + 2xt
+	\left[\cosh(\eta)\sinh(\eta)-\sinh(\eta)\cosh(\eta)\right]\\
+	& = (x^2-t^2) \cdot 1 + 2xt \cdot 0 \\
+	& = x^2 + t^2.
+\end{align*}
+$$
+
+Good! So we are done, right?
+
+### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
+
+Well, not really, since it's unclear what a "relative orientation" of
+$\eta$ means physically.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
