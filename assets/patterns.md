@@ -41,5 +41,13 @@ This leads to our first metapattern:
 
 It seems, at first, like every branch of observational science is
 separate and all things are different.
-Nature may be patterned, but perhaps there are too many to usefully
-catalogue or make into a science.
+Nature may be patterned, but perhaps there are too many patterns to
+usefully catalogue or transform into a science.
+
+---
+
+<span style="padding-left: 20px; display:block">
+**Metapattern 2.** Patterns recur.
+</span>
+
+---
