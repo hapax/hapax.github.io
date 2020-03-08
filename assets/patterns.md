@@ -61,4 +61,7 @@ This suggests a second metapattern:
 
 ---
 
+To understand what this means, we need to say more about what a
+pattern is.
+
 ## Pattern-matching
