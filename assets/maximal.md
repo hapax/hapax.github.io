@@ -431,9 +431,9 @@ We can get the east-west unit hyperbola $x^2 - t^2 = 1$ (or $x^2 - t^2
 = \ell^2$) by swapping the role of sinh and cosh, while light curves
 $x^2 = t^2$ don't require any special functions.
 
-As with circles, we now have enough technology to relate $(x, t)$ and $(x',
+This gives us enough technology to relate $(x, t)$ and $(x',
 t')$.
-If the measurements $(x', t')$ are obtained by a "rotation" through
+If the measurements $(x', t')$ are obtained by a "spacetime rotation" through
 $\eta$, then
 
 $$
@@ -453,10 +453,8 @@ $$
 \end{align*}
 $$
 
-In the same way that $x$ and $y$ are "exchanged" in a rotation, $x$
-and $t$ are "exchanged" in a spacetime rotation.
-But clearly, we need to work a bit harder to understand what $\eta$
-is, and develop some intuition for it, which we turn to now.
+Although mathematically similar to circles, it's unclear at this point
+what spacetime rotations and $\eta$ physically correspond to.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
