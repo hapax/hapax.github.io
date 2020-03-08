@@ -185,7 +185,7 @@ $$
 
 We can make the trip from $A$ to $C_2$ shorter by eliminating a stop
 at $C_1$, since we have already established that the direct route
-between two locations is shorter than the route with a single trip.
+between two locations is shorter than the route with a single side trip.
 Thus,
 
 $$
@@ -214,7 +214,9 @@ Any departures from a straight line between $A$ and $B$ increase trip length.
 The second surveyor says to the first: your reasoning is all well and
 good for a flat plane, but there are *mountains* between $A$ and
 $B$. The side trip to $C$ avoids them.
-The first surveyor
+In general, we may have to make *many* departures from a straight
+line in order to minimise the actual time taken to travel from $A$ to $B$.
+So, their suggestions weren't so crazy after all!
 
 The first thing to say is that the earth *looks* flat at the human
 scale.
