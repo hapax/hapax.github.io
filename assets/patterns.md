@@ -60,3 +60,5 @@ This suggests a second metapattern:
 </span>
 
 ---
+
+## Pattern-matching
