@@ -386,6 +386,8 @@ Whatever the speed of your ruler-clock system, $\Delta x^2 - \Delta t^2$ is the 
 
 ---
 
+### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
+
 Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring the time
 and distance between two events may want to relate their measurements.
@@ -455,8 +457,6 @@ In the same way that $x$ and $y$ are "exchanged" in a rotation, $x$
 and $t$ are "exchanged" in a spacetime rotation.
 But clearly, we need to work a bit harder to understand what $\eta$
 is, and develop some intuition for it, which we turn to now.
-
-### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
