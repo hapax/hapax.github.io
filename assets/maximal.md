@@ -397,21 +397,23 @@ Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring the time
 and distance between two events often want to relate their measurements.
 For the Mesopotamian surveyors, "relative orientation" meant a regular
-old rotation, which we could label with points on the unit circle,
+old rotation, and we labelled rotations with points on the unit circle:
 
 $$
 x^2 + y^2 = 1.
 $$
 
-Here, "relative orientation" is defined in a similar way, but we label
-points with on the *unit hyperbola*:
+Here, "relative orientation" is instead labelled with points with on
+the *unit hyperbola*:
 
 $$
 t^2 - x^2 = 1.
 $$
 
-The analogue of angle in radians is now the distance $\eta$ along the
-graph from the time axis, and instead of sine and cosine, we define
+Recall that angle (in radians) was the length of the arc on the
+circle.
+Here, we instead use the distance $\eta$ measured along the
+graph from the time axis, and rather than sine and cosine, we define
 the *hyperbolic* sine and cosine:
 
 $$
@@ -424,8 +426,8 @@ $$
 1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^2(\eta).
 $$
 
-If instead of $t^2 - x^2 = 1$, we have $t^2 - x^2 = \tau^2$, then we
-simply scale the hyperbolic functions up:
+We can parameterise a hyperbola $t^2 - x^2 = \tau^2$ by simply scaling
+the hyperbolic functions:
 
 $$
 t(\eta) = \tau \cosh(\eta), \quad x(\eta) = \tau \sinh(\eta).
