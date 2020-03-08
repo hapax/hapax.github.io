@@ -67,7 +67,7 @@ second surveyor takes $(x', y')$.
 Given that
 
 $$
-\Deltax x^2 + \Delta y^2 = (\Delta x')^2 + (\Delta y')^2,
+\Delta x^2 + \Delta y^2 = (\Delta x')^2 + (\Delta y')^2,
 $$
 
 how are these two sets of measurements related?
