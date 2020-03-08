@@ -213,10 +213,16 @@ Any departures from a straight line between $A$ and $B$ increase trip length.
 
 The second surveyor says to the first: your reasoning is all well and
 good for a flat plane, but there are *mountains* between $A$ and
-$B$. The side trip to $C$ avoids them.
-In general, we may have to make *many* departures from a straight
+$B$.
+It's not a plane at all!
+The side trip to $C$ avoids them, and in general, we may have to make *many* departures from a straight
 line in order to minimise the actual time taken to travel from $A$ to $B$.
-So, their suggestions weren't so crazy after all!
+The second surveyor's proposals weren't so crazy after all!
+The surveyor now have a much harder problem: what do the shortest
+paths between $A$ and $B$ look like when there are mountains?
+And how long are they?
+
+#### 
 
 The first thing to say is that the earth *looks* flat at the human
 scale.
