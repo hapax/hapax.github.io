@@ -304,28 +304,29 @@ By combining empirical observation and mathematical reasoning, just
 like the Mesopotamian surveyors above, which can recover some of Einstein's
 radical insights into the nature of spacetime.
 
-### 2.1. Einstein's proposal <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Measuring time <a id="sec-2-1" name="sec-2-1"></a>
 
-Sound has a speed of $c_S \approx 300 \text{ m/s}$, but only relative
-to its medium, the air.
-If you move with respect to the air, the
-speed of sound will appear to change.
-In the 19th century, physicists imagined that a similar situation held for
-light. Instead of air, they thought that light propagated in an
-invisible substance called "aether".
+The laws of electromagnetism predict that, in vacuo, light travels at a speed
 
-The study of the aether was hampered by the extreme velocity of light, but
-eventually, Albert Michelson and Edward Morley devised a
-clever experiment to detect the earth's motion through the aether.
-The basic idea was to split up a beam of light on a turntable, send
-the beams in different directions, recombine them, and look for the
-interference effects that would arise from the different speed of light in
-different directions.
-This clever and very precise experiment saw *nothing*.
-Either that the earth wasn't moving through the aether
-(unlikely) or the experiment was insufficiently sensitive.
-But Einstein had an even more radical proposal: the aether didn't
-exist at all!
+$$
+c = 3.0 \times 10^8 \text{ m/s}.
+$$
+
+The equations make no mention of relative motion or a background
+medium in which light propagates.
+But physicists of the 19th century were convinced that light travelled
+through a medium called the *aether*, in the same way that sound
+travels through air.
+And if you moved relative to the aether, you would measure a different
+speed of light.
+
+The aether was assume to be a fixed background, so a planet like the
+earth, orbiting in a circle, should generally be moving relative to it.
+If the earth is travelling relative to the aether, the speed of light
+should be different in different directions, and Michelson and Morley
+devised a clever experiment to detect this.
+In 1887, they performed the experiment and found no difference
+whatsoever.
 
 Even before the Michelson-Morley experiment, Einstein had come to
 doubt the existence of the aether. His reason was simple. The equations
