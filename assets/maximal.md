@@ -43,19 +43,19 @@ sticks are oriented.
 This quantity is naturally interpreted as *length squared*,
 
 $$
-\ell^2 = $\Delta x^2 + \Delta y^2$,
+d^2 = $\Delta x^2 + \Delta y^2$,
 $$
 
 so the surveyor's have discovered that length is preserved when we
 move our system of measuring sticks.
 This is an empirical rather than a mathematical fact.
-This may be surprising, given that Pythagoras' theorem, $a^2 + b^2 =
-c^2$, is perhaps the one mathematical fact that everyone knows!
+This may be surprising, given that Pythagoras' theorem, $x^2 + y^2 =
+d^2$, is perhaps the one mathematical fact that everyone knows!
 Here is a quick visual proof:
 
 But this proof only works on a flat, two-dimensional plane.
 We can explain the empirical observation that $\Delta x^2 + \Delta
-y^2$ by assuming that the world looks like our model.
+y^2$ is invariant by assuming that the world looks like our model.
 
 Our two surveyors now measure the same length
 of fence, but with differently-oriented measuring sticks.
@@ -93,11 +93,11 @@ $$
 x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
 $$
 
-Since the stick's  $1$, these two functions
+Since the stick's length is $1$, these two functions
 obey, for any value of $\theta$,
 
 $$
-1 = \ell_{\text{P}}^2 = x^2 + y^2 = \cos^2(\theta)+\sin^2(\theta).
+1 = d^2 = x^2 + y^2 = \cos^2(\theta)+\sin^2(\theta).
 $$
 
 With these tools in hand, we can finally determine how the
@@ -158,14 +158,14 @@ $C$, using long ropes with ends fixed at $A$ and $B$ respectively.
 This lets us compare the length $AB$ (the length of the straight line
 from Assur to Babylon) to the lengths $AC, BC$ traversed when you travel via
 Charax.
-The circles overlap with some length $d$, in which case
+The circles overlap with some length $L$, in which case
 
 $$
-AC + BC = AB + d.
+AC + BC = AB + L.
 $$
 
-It's clear geometrically that $d$ is always non-negative, so that $AB
-\leq AC + BC$, and $d = 0$ just in case Charax Sidae lies directly
+It's clear geometrically that $L$ is always non-negative, so that $AB
+\leq AC + BC$, and $L = 0$ just in case Charax Sidae lies directly
 between Assur and Babylon.
 
 #### Multi-stop trips
@@ -211,88 +211,84 @@ Any departures from a straight line between $A$ and $B$ increase trip length.
 
 ### 1.3. Over the moutains<a id="sec-1-3" name="sec-1-3"></a>
 
-The second surveyor says to the first: your reasoning is all well and
-good for a flat plane, but there are *mountains* between $A$ and
-$B$.
+The second surveyor says to the first: "Your reasoning is all well and
+good for a completely flat plane, but there are *mountains* between
+$A$ and $B$.
 It's not a plane at all!
 The side trip to $C$ avoids them, and in general, we may have to make *many* departures from a straight
-line in order to minimise the actual time taken to travel from $A$ to $B$.
+line in order to minimise the actual time taken to travel from $A$ to $B$."
 The second surveyor's proposals weren't so crazy after all!
-The surveyor now have a much harder problem: what do the shortest
+The two surveyors now have a much harder problem before them: what do the shortest
 paths between $A$ and $B$ look like when there are mountains?
-And how long are they?
+And how long are these paths?
 
-#### 
+#### Local flatness
 
-The first thing to say is that the earth *looks* flat at the human
-scale.
-When I walk down the street, it's not obvious the earth is curved, and
-this explains (in part) why flat-earthers are able to persist in their
-error.
-In general, a suitably small patch of a curved surface looks flat.
-Though it's harder to imagine, a three-dimensional (or
-higher-dimensional) space can also be curved, but once again, in a
-small patch, straight lines will make sense.
-We'll call curved spaces *blobs*, and use the term *local* to refer to
-the small patches where the blob looks flat, and straight lines make sense.
-Then, in a slogan,
+The surveyors go out into the mountains with some pieces of
+glass that allow them to magnify the ground.
+They discover an important fact: when you zoom in with a magnifying
+glass, even the mountains look flat.
+On a small, flat patch of mountain, the first surveyor's reasoning
+works, and straight lines gives the shortest distance between two
+points.
+A *local* property is one that holds when you zoom in enough, and a
+*curved* surface is one which isn't flat. So the surveyors have
+learned the following important fact:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-Blobs are locally flat.
+A curved surface is locally flat.
 </span>
 
 ---
 
-With a little more work, we can exploit this slogan to describe
-shortest routes on a blob.
-So, consider the shortest route between $A$ and $B$ in a blob.
-This may not be a straight line, since in general, straight line
-routes aren't allowed, or even defined.
-Let's list a bunch of intermediate locations visited by this shortest
-route from $A$ to $B$, say $D_1, D_2, \ldots, D_n$, in the order they
-are visited.
-We make another simple observation: the shortest route between $A$ and
-$B$ will *also* gives the shortest route between the intermediate
-locations!
-If it didn't, and took a winding detour from say $D_2$ to $D_3$, we
-could always replace this section of the path with a shorter route and
-reduce the overall length.
+This actually allows them to determine which paths are shortest, and
+even how long they are!
+To see why, consider the shortest route between $A$ and $B$ on a
+curved surface.
+Pick any intermediate locations visited on this route, say $C_1, C_2,
+\ldots, C_n$, in order of visiting.
+Not only does the shortest route tell us how to get from $A$ to $B$ as
+quickly as possible, but also tells us the shortest route between
+intermediate locations!
+If it didn't, and we took an unnecessarily long path from $D_1$ to
+$D_2$ for instance, we could always replace this segment of the path
+with the shortest route from $D_2$ to $D_3$ and reduce the overall
+length.
 
 Let's pick many, many points $D_i$, and place them close enough
 together that every pair of successive points $D_i$ and $D_{i+1}$ is
-contained in a flat-looking patch.
+contained in a small, flat patch.
 The shortest path from $A$ to $B$ also gives the shortest path between
-each pair $D_i$ and $D_{i+1}$, and the shortest path, locally, is just
-a straight line.
-We've just discovered an important result about blobs:
+each pair $D_i$ and $D_{i+1}$, and as the surveyors realised, the
+shortest path in flat patch is just a straight line.
+This leads to the key result about lengths on curved surfaces:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-Shortest paths are locally straight. Departures from local straightness increase length.
+Shortest paths on a curved surface are locally straight.
 </span>
 
 ---
 
-In mathematics, these blobs are called *Riemannian manifolds*, and
-locally straight paths are called *geodesics*.
-So we've just proved that, on a Riemannian manifold, the shortest path
-between $A$ and $B$ is a geodesic.
-Sounds very impressive!
-
-Even though a blob doesn't usually have a single straight line
-connecting $A$ and $B$, we can use *locally* straight paths to define
-distance.
-As you might expect, it's just the sum of the lengths of small line
-segments making up the path:
+In mathematics, these locally straight paths are called *geodesics*.
+The distance between $A$ and $B$ is just the length of the shortest
+path, which as you might expect, is just the sum of the lengths of
+small line segments making up the path:
 
 $$
-d_\text{P}(A, B) = AD_1 + D_2D_3 + \cdots D_{n-1}D_n + D_nB.
+d(A, B) = AD_1 + D_2D_3 + \cdots D_{n-1}D_n + D_nB.
 $$
 
-So, we have defined Pythagorean length in a blob!
+In general, this will only be an *approximation* to the true length,
+but we can make the approximation as good as we like by picking more
+and more points.
+(In the limit of an infinite number of points, the sum becomes an
+*integral*, and the length is exact, but we won't worry about these technicalities.)
+
+#### Departures from flatness
 
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
