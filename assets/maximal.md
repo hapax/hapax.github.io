@@ -435,6 +435,7 @@ $$
 
 We can get the east-west unit hyperbola $x^2 - t^2 = 1$ (or $x^2 - t^2
 = \ell^2$) by swapping the role of sinh and cosh.
+Light curves $x = \pm t$ don't require any special functions.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
