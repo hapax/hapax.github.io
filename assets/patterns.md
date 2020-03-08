@@ -38,3 +38,8 @@ This leads to our first metapattern:
 </span>
 
 ---
+
+It seems, at first, like every branch of observational science is
+separate and all things are different.
+Nature may be patterned, but perhaps there are too many to usefully
+catalogue and make a science of.
