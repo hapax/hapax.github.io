@@ -204,7 +204,7 @@ Putting it all together, we learn a basic fact about route planning:
 ---
 
 <span style="padding-left: 20px; display:block">
-Any departures from a straight line between $A$ and $B$ increase trip length.
+Any departures from a straight line increase length.
 </span>
 
 ---
