@@ -9,8 +9,6 @@ date:  2020-03-??
 
 **March ?, 2020.** *Stuff*
 
-## Introduction
-
 Mathematics is the study of patterns.
 Physics is the study of patterns in nature.
 It is no surprise, then, that the two subjects are deeply intertwined.
@@ -64,4 +62,4 @@ This suggests a second metapattern:
 To understand what this means, we need to say more about what a
 pattern is.
 
-## Pattern-matching
+### Pattern-matching
