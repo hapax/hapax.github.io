@@ -381,7 +381,7 @@ This suggests a small generalisation of Einstein's outrageous proposal:
 ---
 
 <span style="padding-left: 20px; display:block">
-Whatever speed your ruler-clock system moves at, $\Delta x^2 - \Delta t^2$ is the same.
+Whatever the speed of your ruler-clock system, $\Delta x^2 - \Delta t^2$ is the same.
 </span>
 
 ---
