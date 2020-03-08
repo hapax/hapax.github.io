@@ -421,7 +421,14 @@ $$
 By definition, these functions satisfy
 
 $$
-1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^(\eta).
+1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^2(\eta).
+$$
+
+If instead of $t^2 - x^2 = 1$, we have $t^2 - x^2 = \tau^2$, then we
+simply scale the hyperbolic functions up:
+
+$$
+t(\eta) = \tau \cosh(\eta), \quad x(\eta) = \tau \sinh(\eta).
 $$
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
