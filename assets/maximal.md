@@ -394,22 +394,35 @@ called *Minkowski spacetime*, whose properties we'll explore now.
 ### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
 Just as two surveyors measuring the same length of fence may want to
-relate their measurements, two spacetime surveyors measuring times and
-distances may wish to relate their measurements.
-Our strategy will be very similar to rotations, where we started by
-giving special names to points on the unit circle,
+relate their measurements, two spacetime surveyors measuring the time
+and distance between two events often want to relate their measurements.
+For the Mesopotamian surveyors, "relative orientation" meant a regular
+old rotation, which we could label with points on the unit circle,
 
 $$
 x^2 + y^2 = 1.
 $$
 
-Instead, we're going to label points on the *unit hyperbola*,
+Here, "relative orientation" is defined in a similar way, but we label
+points with on the *unit hyperbola*:
 
 $$
 t^2 - x^2 = 1.
 $$
 
-As on the unit circle, we're going to parameterise 
+The analogue of angle in radians is now the distance $\eta$ along the
+graph from the time axis, and instead of sine and cosine, we define
+the *hyperbolic* sine and cosine:
+
+$$
+t(\eta) = \cosh(\eta), \quad x(\eta) = \sinh(\eta).
+$$
+
+By definition, these functions satisfy
+
+$$
+1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^(\eta).
+$$
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
@@ -511,7 +524,7 @@ $$
 x(\theta) = \ell \cos (\theta), \quad y(\theta) = \ell \sin (\theta),
 $$
 
-and we can check, from our earlier observation about cos and sin, that
+and we can check, from our earlier observation about sine and cosine, that
 $x^2 + y^2 = \ell^2$.
 
 The point of having a nice way to discuss rotations is not so much
