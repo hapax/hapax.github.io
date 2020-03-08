@@ -386,18 +386,30 @@ Whatever speed your ruler-clock system moves at, $\Delta x^2 - \Delta t^2$ is th
 
 ---
 
-The invariance of $\Delta x^2 + \Delta y^2$ suggest that the surface
-of the earth could be modelled as a plane.
+The invariance of $\Delta x^2 + \Delta y^2$ indicates that the surface
+of the earth should be modelled as a plane.
 The invariance of $\Delta x^2 - \Delta t^2$ corresponds to a model
-called *Minkowski spacetime*.
+called *Minkowski spacetime*, whose properties we'll explore now.
 
 ### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
 Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring times and
 distances may wish to relate their measurements.
-Our strategy will be very similar to rotations.
-First, we need t
+Our strategy will be very similar to rotations, where we started by
+giving special names to points on the unit circle,
+
+$$
+x^2 + y^2 = 1.
+$$
+
+Instead, we're going to label points on the *unit hyperbola*,
+
+$$
+t^2 - x^2 = 1.
+$$
+
+As on the unit circle, we're going to parameterise 
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
