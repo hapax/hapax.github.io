@@ -300,7 +300,9 @@ nature, flows equably without relation to anything external.*
 
 This was the official view until Einstein came along, $200$ years
 later.
-We will see that a 
+We will see that special relativity, and some aspects of general
+relativity, follow from a similar combination of empirical observation
+and mathematical reasoning as the Mesopotamian measurements considered above.
 
 ### 2.1. Einstein's proposal <a id="sec-2-1" name="sec-2-1"></a>
 
