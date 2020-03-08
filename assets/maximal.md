@@ -117,7 +117,7 @@ $$
 \left[-x \sin(\theta) + y \cos(\theta)\right]^2 \\
 	& = (x^2 + y^2) \left[\cos^2(\theta) + \sin^2(\theta)\right] + 2xy
 	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\cos(\theta)\right]\\
-	& = x^2 \cdot 1 + y^2 \cdot 1 + 2xy \cdot 0 \\
+	& = (x^2+y^2) \cdot 1 + 2xy \cdot 0 \\
 	& = x^2 + y^2.
 \end{align*}
 $$
