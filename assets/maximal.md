@@ -427,15 +427,15 @@ $$
 1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^2(\eta).
 $$
 
-We can parameterise a hyperbola $t^2 - x^2 = \tau^2$ by simply scaling
+We can parameterise a hyperbola $t^2 - x^2 = \tau^2$ by scaling
 up the hyperbolic functions:
 
 $$
 t(\eta) = \tau \cosh(\eta), \quad x(\eta) = \tau \sinh(\eta).
 $$
 
-We can get the east-west unit hyperbola $x^2 - t^2 = 1$ by simply
-swapping the role of sinh and cosh.
+We can get the east-west unit hyperbola $x^2 - t^2 = 1$ (or $x^2 - t^2
+= \ell^2$) by swapping the role of sinh and cosh.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
