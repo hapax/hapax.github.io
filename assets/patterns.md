@@ -29,3 +29,13 @@ one: there is regularity in the world above and around us.
 Things need not have turned out that way.
 We could live in a disorderly universe, where "laws" changed from
 moment to moment, and patterns vanished the moment they were observed.
+But in our universe, even chaos is a highly structured affair.
+This leads to our first metapattern:
+
+---
+
+<span style="padding-left: 20px; display:block">
+**Metapattern 1.** Nature is patterned.
+</span>
+
+---
