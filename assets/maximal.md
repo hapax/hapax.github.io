@@ -455,8 +455,9 @@ Good! So we are done, right?
 
 ### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
-Well, not really, since it's unclear what a "relative orientation" of
-$\eta$ means physically.
+Well, not really. Unlike an angle $\theta$, which we have more
+experience dealing with and hence more intuition for, it's unclear
+what a "relative orientation" of $\eta$ means physically.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
