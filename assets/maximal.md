@@ -137,7 +137,7 @@ geometry, but it will pay off when we come to study spacetime!
 
 We know that Mesopotamian surveyors really did discover Pythagoras'
 theorem.
-At this point, we will depart from the historical record and speculate
+At this point, however, we will depart from the historical record and speculate
 about what other discoveries the surveyors *might* have made.
 
 #### A single side trip
@@ -345,17 +345,31 @@ This smells very similar to the statement that length does not depend
 on where we place our measuring sticks.
 We can mathematise accordingly!
 Instead of two measuring sticks at right angles, we'll measure
-length in a single direction with a ruler and duration with a clock,
+length in a single direction with a ruler, and duration with clocks
 attached to the ruler.
 
-Let's call the measurements of length and duration $(\Delta x, \Delta t)$.
+To calculate the speed of light, we shoot a laser beam along the
+ruler, with two points separated by $\Delta x$, and time how long it
+takes using the clocks.
+Einstein's outrageous proposal is that, provided the ruler is moving
+at constant velocity, we always find that
 
-Recall that length is unchanged by rotation, and in particular, rotation of rulers.
-Similarly, if Einstein's proposal is true, the speed of light is
-unchanged by taking a ruler-clock system (for measuring position and
-time) and changing its velocity.
-In general, we call the process of imparting velocity to a
-ruler-clock system a *boost*.
+$$
+c = \frac{\Delta x}{\Delta t}.
+$$
+
+We can write this more suggestively.
+First of all, we choose a system of units in which $c = 1$.
+This just corresponds to choosing a scale on the graph below where a
+light ray travels a single horizontal unit of distance in a single
+vertical unit of time:
+
+Now, Einstein's proposal is
+
+$$
+1 = \frac{\Delta x}{\Delta t} \quad \Longrightarrow \quad \Dela x^2 -
+\Delta t^2 = 0.
+$$
 
 ### Xtra
 
