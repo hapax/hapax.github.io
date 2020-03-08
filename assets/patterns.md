@@ -43,6 +43,12 @@ It seems, at first, like every branch of observational science is
 separate and all things are different.
 Nature may be patterned, but perhaps there are too many patterns to
 usefully catalogue or transform into a science.
+But one of the key lessons of maths and physics is that many patterns
+are secretly the same.
+Newton saw the same laws governing the motion of the planets and the
+fall of an apple.
+By labelling points on the plane with $x$ and $y$, Descartes united
+algebra and geometry.
 
 ---
 
