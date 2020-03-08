@@ -395,16 +395,16 @@ called *Minkowski spacetime*, whose properties we'll explore now.
 
 Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring the time
-and distance between two events often want to relate their measurements.
+and distance between two events may want to relate their measurements.
 For the Mesopotamian surveyors, "relative orientation" meant a regular
-old rotation, and we labelled rotations with points on the unit circle:
+old rotation, which we labelled with points on the unit circle:
 
 $$
 x^2 + y^2 = 1.
 $$
 
-Here, "relative orientation" is instead labelled with points with on
-the *unit hyperbola*:
+Now, "relative orientation" will be labelled with points with on
+the *unit hyperbola* (in the north-south quadrants):
 
 $$
 t^2 - x^2 = 1.
@@ -427,11 +427,14 @@ $$
 $$
 
 We can parameterise a hyperbola $t^2 - x^2 = \tau^2$ by simply scaling
-the hyperbolic functions:
+up the hyperbolic functions:
 
 $$
 t(\eta) = \tau \cosh(\eta), \quad x(\eta) = \tau \sinh(\eta).
 $$
+
+We can get the east-west unit hyperbola $x^2 - t^2 = 1$ by simply
+swapping the role of sinh and cosh.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
