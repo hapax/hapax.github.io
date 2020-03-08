@@ -326,15 +326,6 @@ electromagnetism were so beautiful, and self-evidently complete. that if
 they made no mention of a medium then none was required.
 Without a medium, there is no relative motion to account for changes
 in the measured speed of light.
-Thus, Einstein arrived at a simple but outrageous proposal:
-
----
-
-<span style="padding-left: 20px; display:block">
-The speed of light is the same in all reference frames.
-</span>
-
----
 
 There were also experimental clues that the aether did not exist.
 Since the earth moves in a circle around the sun, it is likely to be
@@ -346,7 +337,24 @@ Famously, they found no difference at all!
 Light appeared to move at the same speed in all directions, in direct
 conflict with the aether hypothesis.
 
+With these clues, Einstein arrived at a simple but outrageous proposal:
+
+---
+
+<span style="padding-left: 20px; display:block">
+The speed of light is the same in all reference frames.
+</span>
+
+---
+
 ### 2.2. Rotations between space and time<a id="sec-2-2" name="sec-2-2"></a>
+
+A 
+
+Instead of two measuring sticks at right angles, a
+measuring system consisting of a single ruler and a clock.
+This leads to measurements of $\Delta x$ (on the ruler) and $\Delta t$
+(on the clock).
 
 Recall that length is unchanged by rotation, and in particular, rotation of rulers.
 Similarly, if Einstein's proposal is true, the speed of light is
