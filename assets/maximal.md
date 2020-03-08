@@ -17,6 +17,7 @@ date:  2020-03-??
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The surveyors of spacetime</a>
    1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
+   2. <a href="#sec-2-2">Making rulers into clocks</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
@@ -352,24 +353,42 @@ To calculate the speed of light, we shoot a laser beam along the
 ruler, with two points separated by $\Delta x$, and time how long it
 takes using the clocks.
 Einstein's outrageous proposal is that, provided the ruler is moving
-at constant velocity, we always find that
+at constant velocity (an *inertial* reference frame), we always find that
 
 $$
 c = \frac{\Delta x}{\Delta t}.
 $$
 
-We can write this more suggestively.
-First of all, we choose a system of units in which $c = 1$.
-This just corresponds to choosing a scale on the graph below where a
+To make things simpler, let's choose a system of units in which $c = 1$.
+This just corresponds to choosing a scale on the graph below, where a
 light ray travels a single horizontal unit of distance in a single
 vertical unit of time:
 
-Now, Einstein's proposal is
+Now, Einstein's proposal can be written
 
 $$
-1 = \frac{\Delta x}{\Delta t} \quad \Longrightarrow \quad \Dela x^2 -
-\Delta t^2 = 0.
+1 = \frac{\Delta x}{\Delta t} \quad \Longrightarrow \quad \Delta x^2 -
+\Delta t^2 = 0
 $$
+
+for a light ray in any inertial reference frame.
+Writing it this way suggests the discovery of the surveyors, that
+$\Delta x^2 + \Delta y^2$ does not depend on where we put the
+measuring sticks.
+So, a small generalisation of Einstein's outrageous proposal is the
+following:
+
+---
+
+<span style="padding-left: 20px; display:block">
+Whatever speed your ruler-clock system moves at, $\Delta x^2 - \Delta t^2$ is the same.
+</span>
+
+---
+
+
+
+### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
 ### Xtra
 
