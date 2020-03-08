@@ -12,15 +12,15 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">The parable of the surveyors</a>
-   1. <a href="#sec-1-1">Measuring land</a>
+   1. <a href="#sec-1-1">Measuring space</a>
    2. <a href="#sec-1-2">Trip-planning</a>
    3. <a href="#sec-1-3">Over the mountains</a> 
-2. <a href="#sec-2">The world according to Minkowski</a>
-   1. <a href="#sec-2-1">Einstein's proposal</a>
+2. <a href="#sec-2">The surveyors of spacetime</a>
+   1. <a href="#sec-2-1">Measuring time</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
-### 1.1. Measuring land <a id="sec-1-1" name="sec-1-1"></a>
+### 1.1. Measuring space<a id="sec-1-1" name="sec-1-1"></a>
 
 I like to imagine that, a thousand years before Pythagoras, Mesopotamian
 surveyors trying to measure out parcels of land discovered a curious
@@ -286,9 +286,11 @@ and more points.
 (In the limit of an infinite number of points, the sum becomes an
 *integral*, and the length is exact, but we won't worry about these technicalities.)
 
-## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
+## 2. The surveyors of spacetime <a id="sec-2" name="sec-2"></a>
 
-In Newtonian physics, time and space are completely separate.
+In Newtonian physics, time and space are independent.
+You can rotate your measuring stick in different directions, but you
+can never rotate a measuring stick into a clock!
 In Newton's own and beautiful words:
 
 <span style="padding-left: 20px; display:block">
@@ -296,16 +298,9 @@ In Newton's own and beautiful words:
 nature, flows equably without relation to anything external.*
 </span>
 
-We can rotate between different spatial directions, but we can never
-rotate space into time.
-
-
 This was the official view until Einstein came along, $200$ years
 later.
-Although Einstein's insights about spacetime are brilliant and revolutionary, we can
-present some of them in a way that clearly parallels the situation for
-space.
-This is why we bothered to describe the world according to Pythagoras!
+We will see that a 
 
 ### 2.1. Einstein's proposal <a id="sec-2-1" name="sec-2-1"></a>
 
