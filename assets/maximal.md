@@ -222,8 +222,6 @@ The two surveyors now have a much harder problem before them: what do the shorte
 paths between $A$ and $B$ look like when there are mountains?
 And how long are these paths?
 
-#### Local flatness
-
 The surveyors go out into the mountains with some pieces of
 glass that allow them to magnify the ground.
 They discover an important fact: when you zoom in with a magnifying
@@ -287,8 +285,6 @@ but we can make the approximation as good as we like by picking more
 and more points.
 (In the limit of an infinite number of points, the sum becomes an
 *integral*, and the length is exact, but we won't worry about these technicalities.)
-
-#### Departures from flatness
 
 ## 2. The world according to Minkowski <a id="sec-2" name="sec-2"></a>
 
