@@ -16,7 +16,7 @@ date:  2020-03-??
    2. <a href="#sec-1-2">Trip-planning</a>
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The surveyors of spacetime</a>
-   1. <a href="#sec-2-1">Measuring time</a>
+   1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
@@ -304,7 +304,7 @@ By combining empirical observation and mathematical reasoning, just
 like the Mesopotamian surveyors above, which can recover some of Einstein's
 radical insights into the nature of spacetime.
 
-### 2.1. Measuring time <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Einstein's outrageous proposal<a id="sec-2-1" name="sec-2-1"></a>
 
 The laws of electromagnetism predict that, in vacuo, light travels at a speed
 
@@ -312,42 +312,41 @@ $$
 c = 3.0 \times 10^8 \text{ m/s}.
 $$
 
-The equations make no mention of relative motion or a background
-medium in which light propagates.
-But physicists of the 19th century were convinced that light travelled
+The equations make no mention of relative motion, or any sort of
+background medium in which light propagates.
+But most physicists of the 19th century were convinced that light travelled
 through a medium called the *aether*, in the same way that sound
 travels through air.
 And if you moved relative to the aether, you would measure a different
 speed of light.
 
-The aether was assume to be a fixed background, so a planet like the
-earth, orbiting in a circle, should generally be moving relative to it.
-If the earth is travelling relative to the aether, the speed of light
-should be different in different directions, and Michelson and Morley
-devised a clever experiment to detect this.
-In 1887, they performed the experiment and found no difference
-whatsoever.
-
-Even before the Michelson-Morley experiment, Einstein had come to
-doubt the existence of the aether. His reason was simple. The equations
-of electromagnetism did not include any reference to aether, and made
-a single prediction for the speed of light, $c = 3 \times 10^8 \text{ m/s}$.
-This naively suggested that the speed of light was *the same* in any set of
-coordinates moving at a constant speed.
-This is important enough to state again:
+An exception was Einstein.
+He thought that the laws of
+electromagnetism were so beautiful and self-evidently complete that if
+they made no mention of a medium, none was required.
+Without a medium, there is no relative motion to account for changes
+in the measured speed of light. Thus, Einstein arrived at a simple but
+outrageous proposal:
 
 ---
 
 <span style="padding-left: 20px; display:block">
-The speed of light is the same in all reference frames moving at
-constant speed.
+The speed of light is the same in all reference frames.
 </span>
 
 ---
 
-As a true believer in the elegance and sufficiency of the laws of
-electromagnetism, Einstein decided that this naive proposal was correct.
-We will explore the remarkable consequences of this simple idea.
+There were also experimental clues that this was the case.
+Since the earth moves in a circle around the sun, it is likely to be
+moving relative to the aether (assuming it exists).
+This means that light should travel at different speeds in different
+directions, and in 1887, Michelson and Morley, devised a clever
+experiment to measure these differences.
+Famously, they found no difference at all!
+Light appeared to move at the same speed in all directions, in direct
+conflict with the aether hypothesis.
+
+### 2.2. Rotations between space and time<a id="sec-2-2" name="sec-2-2"></a>
 
 Recall that length is unchanged by rotation, and in particular, rotation of rulers.
 Similarly, if Einstein's proposal is true, the speed of light is
