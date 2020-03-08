@@ -19,6 +19,8 @@ will (half-seriously) call "metapatterns".
 These are empirical observations about patterns, both in nature and
 studied abstractly, which help explain features of the hard sciences.
 
+### Order and chaos
+
 Humans have long believed in an orderly cosmos, and natural laws
 governing cause and effect.
 In a sense, even mythology is a search for principles underlying
