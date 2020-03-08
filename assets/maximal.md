@@ -18,6 +18,7 @@ date:  2020-03-??
 2. <a href="#sec-2">The surveyors of spacetime</a>
    1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
    2. <a href="#sec-2-2">Making rulers into clocks</a>
+   3. <a href="#sec-2-3">The Twin Paradox</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
@@ -385,9 +386,20 @@ Whatever speed your ruler-clock system moves at, $\Delta x^2 - \Delta t^2$ is th
 
 ---
 
-
+The surveyors were able to *prove* this result using Pythagoras'
+theorem, but modelling the earth as a plane.
+Similarly, we can prove this result by modelling spacetime as the
+"Minkowski" plane.
+We won't really need to talk about what this is, since it is really
+*defined* by the invariance of $\Delta x^2 - \Delta t^2$.
+But the point is that we are led from an empirical observation to a
+mathematical model of spacetime, in just the same way as the surveyors.
 
 ### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
+
+To continue the parallel, we now 
+
+### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
 ### Xtra
 
