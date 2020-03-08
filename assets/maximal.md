@@ -386,18 +386,18 @@ Whatever speed your ruler-clock system moves at, $\Delta x^2 - \Delta t^2$ is th
 
 ---
 
-The surveyors were able to *prove* this result using Pythagoras'
-theorem, but modelling the earth as a plane.
-Similarly, we can prove this result by modelling spacetime as the
-"Minkowski" plane.
-We won't really need to talk about what this is, since it is really
-*defined* by the invariance of $\Delta x^2 - \Delta t^2$.
-But the point is that we are led from an empirical observation to a
-mathematical model of spacetime, in just the same way as the surveyors.
+The invariance of $\Delta x^2 + \Delta y^2$ suggest that the surface
+of the earth could be modelled as a plane.
+The invariance of $\Delta x^2 - \Delta t^2$ corresponds to a model
+called *Minkowski spacetime*.
 
 ### 2.2. Making rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
 
-To continue the parallel, we now 
+Just as two surveyors measuring the same length of fence may want to
+relate their measurements, two spacetime surveyors measuring times and
+distances may wish to relate their measurements.
+Our strategy will be very similar to rotations.
+First, we need t
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
