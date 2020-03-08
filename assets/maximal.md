@@ -449,7 +449,7 @@ $$
 	& = (x^2 - t^2) \left[\cosh^2(\eta) + \sinh^2(\eta)\right] + 2xt
 	\left[\cosh(\eta)\sinh(\eta)-\sinh(\eta)\cosh(\eta)\right]\\
 	& = (x^2-t^2) \cdot 1 + 2xt \cdot 0 \\
-	& = x^2 + t^2.
+	& = x^2 - t^2.
 \end{align*}
 $$
 
