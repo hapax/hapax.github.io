@@ -451,13 +451,12 @@ $$
 \end{align*}
 $$
 
-Good! So we are done, right?
+In the same way that $x$ and $y$ are "exchanged" in a rotation, $x$
+and $t$ are "exchanged" in a spacetime rotation.
+But clearly, we need to work a bit harder to understand what $\eta$
+is, and develop some intuition for it, which we turn to now.
 
 ### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
-
-Well, not really. Unlike an angle $\theta$, which we have more
-experience dealing with and hence more intuition for, it's unclear
-what a "relative orientation" of $\eta$ means physically.
 
 ### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
 
