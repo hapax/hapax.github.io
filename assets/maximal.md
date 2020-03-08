@@ -175,7 +175,7 @@ $$
 AC_1 + C_1C_2 \leq AC_2.
 $$
 
-But once we've elminiated $C_1$, we can repeat this reasoning for $A$
+But once we've eliminated $C_1$, we can repeat this reasoning for $A$
 and $C_2$, then $A$ and $C_3$, and so on, until we have no cities left
 except for Assur and Babylon.
 An extreme version of this is a curved path, which consists of
