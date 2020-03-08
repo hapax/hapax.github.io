@@ -99,7 +99,7 @@ Since the stick's length is $1$, these two functions
 obey, for any value of $\theta$,
 
 $$
-1 = d^2 = x^2 + y^2 = \cos^2(\theta)+\sin^2(\theta).
+1 = x^2 + y^2 = \cos^2(\theta)+\sin^2(\theta).
 $$
 
 With these tools in hand, we can finally determine how the
@@ -420,7 +420,7 @@ $$
 t(\eta) = \cosh(\eta), \quad x(\eta) = \sinh(\eta).
 $$
 
-By definition, these functions satisfy
+By definition, for any $\eta$ these functions satisfy
 
 $$
 1 = t^2 - x^2 = \cosh^2(\eta) - \sinh^2(\eta).
