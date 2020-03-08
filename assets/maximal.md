@@ -322,11 +322,11 @@ speed of light.
 
 An exception was Einstein.
 He thought that the laws of
-electromagnetism were so beautiful and self-evidently complete that if
-they made no mention of a medium, none was required.
+electromagnetism were so beautiful, and self-evidently complete. that if
+they made no mention of a medium then none was required.
 Without a medium, there is no relative motion to account for changes
-in the measured speed of light. Thus, Einstein arrived at a simple but
-outrageous proposal:
+in the measured speed of light.
+Thus, Einstein arrived at a simple but outrageous proposal:
 
 ---
 
@@ -336,7 +336,7 @@ The speed of light is the same in all reference frames.
 
 ---
 
-There were also experimental clues that this was the case.
+There were also experimental clues that the aether did not exist.
 Since the earth moves in a circle around the sun, it is likely to be
 moving relative to the aether (assuming it exists).
 This means that light should travel at different speeds in different
