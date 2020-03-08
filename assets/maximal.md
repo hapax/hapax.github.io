@@ -330,7 +330,8 @@ Since the earth should move relative to the aether (it executes
 circular motion, and the aether presumably does not), Michelson and
 Morley were able to devise a clever experiment to detect differences
 in the speed of light in different directions.
-Famously, they found no difference at all!
+Famously, they found no difference at all.
+This also suggests the aether does not exist.
 
 But if there is no aether, and no change in the speed of light as we
 move at different speeds, we are left with an outrageous proposition:
