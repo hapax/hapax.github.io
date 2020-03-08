@@ -372,11 +372,10 @@ $$
 $$
 
 for a light ray in any inertial reference frame.
-Writing it this way suggests the discovery of the surveyors, that
+This should remind you of the discovery of the surveyors, namely that
 $\Delta x^2 + \Delta y^2$ does not depend on where we put the
 measuring sticks.
-So, a small generalisation of Einstein's outrageous proposal is the
-following:
+This suggests a small generalisation of Einstein's outrageous proposal:
 
 ---
 
