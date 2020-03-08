@@ -17,8 +17,9 @@ date:  2020-03-??
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The surveyors of spacetime</a>
    1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
-   2. <a href="#sec-2-2">Turning rulers into clocks</a>
-   3. <a href="#sec-2-4">The Twin Paradox</a>
+   2. <a href="#sec-2-2">Spacetime rotations</a>
+   3. <a href="#sec-2-3">Turning rulers into clocks</a>
+   4. <a href="#sec-2-4">The Twin Paradox</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
@@ -76,7 +77,7 @@ how are these two sets of measurements related?
 It will depend on the relative orientation, so we need a way to gauge
 this.
 Here is a simple and familiar option.
-We rotate one measuring-stick system into the other, and trace out the
+We rotate one measuring-stick system anti-clockwise into the other, and trace out the
 end of one stick with a piece of string.
 If the length of the string is $d_1$, and the length of the stick is
 $d_2$, then we can define the "relative orientation parameter"
@@ -104,17 +105,36 @@ $$
 
 With these tools in hand, we can finally determine how the
 measurements $(x, y)$ and $(x', y')$ are related.
-I claim that if we rotate through $\theta$, they are related by
+Say the relative orientation is $\theta$ if the $x$-axis and $y$-axis
+are rotated *clockwise* by $\theta$ to get the $x'$-axis and $y$-axis.
+A point a distance $d$ along the $x$-ruler, i.e. with coordinates
+$(x, y) = (d, 0)$, subtends an anti-clockwise angle $\theta$ in the
+new coordinates.
+It follows from our definitions that
 
 $$
-x' = x \cos(\theta) + y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+x' = d \cos \theta = x \cos \theta, \quad y' = d \sin \theta = x \sin \theta.
 $$
 
-The picture makes this clear, but to be sure, we can check that the length is unchanged:
+Similarly, we can see that a point with coordinates $(x, y) = (0,
+d)$ becomes
+
+$$
+x' = -d \sin\theta = -y \sin\theta, \quad y' = d \cos\theta = y \cos\theta.
+$$
+
+For a general point $(x, y)$, we just add these two together
+(demonstrated in the picture) yielding
+
+$$
+x' = x \cos(\theta)+y \sin(\theta), \quad y' = -x \sin(\theta) + y \cos(\theta).
+$$
+
+We can check that the length is unchanged:
 
 $$
 \begin{align*}
-(x')^2 + (y')^2 & = \left[x \cos(\theta) + y \sin(\theta)\right]^2 +
+(x')^2 + (y')^2 & = \left[x \cos(\theta) +y \sin(\theta)\right]^2 +
 \left[-x \sin(\theta) + y \cos(\theta)\right]^2 \\
 	& = (x^2 + y^2) \left[\cos^2(\theta) + \sin^2(\theta)\right] + 2xy
 	\left[\cos(\theta)\sin(\theta)-\sin(\theta)\cos(\theta)\right]\\
@@ -126,7 +146,7 @@ $$
 Let's summarise the story so far.
 Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
 they choose to orient their measuring sticks.
-This suggests that the land they measure is a flat plane, since in
+This suggests they model the land as a flat plane, since in
 this setting, they can prove the invariance from Pythagoras' theorem.
 Finally, by thinking more carefully about relative
 orientation, they can precisely relate measurements in their
@@ -386,7 +406,7 @@ Whatever the speed of your ruler-clock system, $\Delta x^2 - \Delta t^2$ is the 
 
 ---
 
-### 2.2. Turning rulers into clocks<a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. Spacetime rotations<a id="sec-2-2" name="sec-2-2"></a>
 
 Just as two surveyors measuring the same length of fence may want to
 relate their measurements, two spacetime surveyors measuring the time
@@ -427,36 +447,70 @@ $$
 t(\eta) = \tau \cosh(\eta), \quad x(\eta) = \tau \sinh(\eta).
 $$
 
-We can get the east-west unit hyperbola $x^2 - t^2 = 1$ (or $x^2 - t^2
-= \ell^2$) by swapping the role of sinh and cosh, while light curves
-$x^2 = t^2$ don't require any special functions.
-
-This gives us enough technology to relate $(x, t)$ and $(x',
-t')$.
-If the measurements $(x', t')$ are obtained by a "spacetime rotation" through
-$\eta$, then
+With circles, we imagined rotating the $x$ coordinate into the $x'$
+coordinate by an anti-clockwise rotation through $\theta$, which we could
+perform by simply shooting the $x'$ axis through an appropriate point
+on the unit circle.
+Now, we will "spacetime rotate" in the same way.
+We pick a point $\eta$ on the unit hyperbola, and send the new
+$t'$-axis through that point.
+This maps a point on the $t'$-axis $(x', t') = (0, \tau)$ to a point with
 
 $$
-t' = t \cosh(\eta) + x \sinh (\eta), \quad x' = x \cosh(\eta) + t \sinh (\eta).
+x = \tau \sinh(\eta) = t' \sinh(\eta) , \quad t = \tau \cosh(\eta) = t' \cosh(\eta).
 $$
 
-As a check, we can confirm that $x^2 - t^2$ is preserved:
+To complete the transformation, we need to know where the $x'$-axis
+lies.
+Define the east-west hyperbola $x^2 - t^2 = 1$.
+It is plausible that $x'$ should lie at $\eta$ above or below the
+$x$-axis, with a point $(x', t') = (d, 0)$ having coordinates
+
+$$
+x = d \cosh(\eta) = x' \cosh(\eta), \quad t = \pm d \sinh(\eta) = \pm x' \sinh(\eta), \quad.
+$$
+
+We can't really tell whether $+$ or $-$ is correct just yet, so let's
+plow on.
+We can combine these two special transformations to obtain the general case:
+
+$$
+x = x' \cosh(\eta) + t'\sinh (\eta) , \quad t = t' \cosh(\eta) \pm x' \sinh (\eta).
+$$
+
+Now, we simply choose $\pm$ to ensure $x^2 - t^2$ is preserved:
 
 $$
 \begin{align*}
-(x')^2 - (t')^2 & = \left[x \cosh(\eta) + t \sinh(\eta)\right]^2 -
-\left[x \sinh(\eta) + t \cosh(\eta)\right]^2 \\
-	& = (x^2 - t^2) \left[\cosh^2(\eta) + \sinh^2(\eta)\right] + 2xt
-	\left[\cosh(\eta)\sinh(\eta)-\sinh(\eta)\cosh(\eta)\right]\\
-	& = (x^2-t^2) \cdot 1 + 2xt \cdot 0 \\
-	& = x^2 - t^2.
+x^2 - t^2 & = \left[x' \cosh(\eta) + t' \sinh(\eta)\right]^2 -
+\left[\pm x' \sinh(\eta) + t' \cosh(\eta)\right]^2 \\
+	& = (x^2 - t^2) \left[\cosh^2(\eta) - \sinh^2(\eta)\right] + 2xt
+	\left[\cosh(\eta)\sinh(\eta)\mp \sinh(\eta)\cosh(\eta)\right]\\
+	& = x^2 - t^2 + 2xt \cosh(\eta)\sinh(\eta) (1 \mp 1).
 \end{align*}
 $$
 
-Although mathematically similar to circles, it's unclear at this point
-what spacetime rotations and $\eta$ physically correspond to.
+We need to pick the upper sign $-$ in $\mp$ to make sure we respect Einstein's
+outrageous proposal, and this corresponds to the upper sign $+$ in
+$\pm$.
+Hence,
 
-### 2.3. The Twin Paradox<a id="sec-2-3" name="sec-2-3"></a>
+---
+
+$$
+x = x' \cosh(\eta) + t'\sinh (\eta) , \quad t = t' \cosh(\eta) + x' \sinh (\eta).
+$$
+
+---
+
+On the spacetime plane, this looks as follows:
+
+### 2.3. Turning rulers into clocks<a id="sec-2-3" name="sec-2-3"></a>
+
+Although we have all the mathematics we need to relate measurements on
+the spacetime plane, we haven't explained what a spacetime rotation really is!
+
+### 2.4. The Twin Paradox<a id="sec-2-4" name="sec-2-4"></a>
 
 ### Xtra
 
@@ -603,3 +657,49 @@ $$
 
 We can draw circles and define trigonometric functions, and use them
 not only to rotate sticks, but to relate measurements between ruler systems.
+
+---
+
+**Exercise 1 (polar coordinates).** We can label a point in a
+  measuring stick system by the two measurements $(x, y)$. But for
+  performing rotations, there is a more convenient system where we
+  label with the distance from the origin and the angle from the
+  $x$-axis, $(d, \theta)$. These are called *polar coordinates*.
+
+<span style="padding-left: 20px; display:block">
+(a) Using the definition of $\sin(\theta)$ and $\cos(\theta)$, show
+that $(x, y)$ can be expressed in terms of $(d, \theta)$ by
+</span>
+
+$$
+x = d \cos\theta, \quad y = d\sin \theta.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Invert the answer in (a) to show that
+</span>
+
+$$
+d = \sqrt{x^2 + y^2}, \quad \tan\theta = \frac{\sin\theta}{\cos\theta} = \frac{y}{x}.
+$$
+
+Rotating $(x, y)$ into $(x', y')$ by an anti-clockwise rotation
+through $\alpha$ is called a *passive* transformation, since we just
+transform coordinates.
+But equivalently, we can perform an *active* transformation where we
+rotate points, and leave the coordinates alone.
+
+<span style="padding-left: 20px; display:block">
+(c)
+Argue that the active transformation takes
+</span>
+
+$$
+(d, \theta) \to (d, \theta - \alpha).
+$$
+
+<span style="padding-left: 20px; display:block">
+(d) Show
+</span>
+
+---

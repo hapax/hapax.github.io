@@ -2,20 +2,30 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A Hacker's Guide to Minkowski Spacetime"
-categories: [Physics, Teaching, Hacks]
+title:  "The Science of Patterns"
+categories: [Physics, Maths, Philosophy]
 date:  2020-03-??
 ---
 
 **March ?, 2020.** *Stuff*
 
-### Contents
+## Introduction
 
-1. <a href="#sec-1">The world according to Pythagoras</a>
-   1. <a href="#sec-1-1">Length and rotation</a>
-   2. <a href="#sec-1-2">A trip to the candy store</a>
-   3. <a href="#sec-1-3">Length on a blob</a> 
-2. <a href="#sec-2">The world according to Minkowski</a>
-   1. <a href="#sec-2-1">Einstein's proposal</a>
+Mathematics is the study of patterns.
+Physics is the study of patterns in nature.
+It is no surprise, then, that the two subjects are deeply intertwined.
+But we can think about feature of this relationship in terms of what I
+will (half-seriously) call "metapatterns".
+These are empirical observations about patterns, both in nature and
+studied abstractly, which help explain features of the hard sciences.
 
-## 1. The world according to Pythagoras  <a id="sec-1" name="sec-1"></a>
+Humans have long believed in an orderly cosmos, and natural laws
+governing cause and effect.
+In a sense, even mythology is a search for principles underlying
+regularity.
+Even if the laws are fanciful, the premise is in fact an empirical
+one: there is regularity in the world above and around us.
+
+Things need not have turned out that way.
+We could live in a disorderly universe, where "laws" changed from
+moment to moment, and patterns vanished the moment they were observed.
