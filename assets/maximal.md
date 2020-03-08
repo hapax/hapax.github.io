@@ -12,15 +12,13 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">The parable of the surveyors</a>
-   1. <a href="#sec-1-1">Measuring space</a>
+   1. <a href="#sec-1-1">Rotating rulers</a>
    2. <a href="#sec-1-2">Trip-planning</a>
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The surveyors of spacetime</a>
    1. <a href="#sec-2-1">Einstein's outrageous proposal</a>
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
-
-### 1.1. Measuring space<a id="sec-1-1" name="sec-1-1"></a>
 
 I like to imagine that, a thousand years before Pythagoras, Mesopotamian
 surveyors trying to measure out parcels of land discovered a curious
@@ -56,6 +54,8 @@ Here is a quick visual proof:
 But this proof only works on a flat, two-dimensional plane.
 We can explain the empirical observation that $\Delta x^2 + \Delta
 y^2$ is invariant by assuming that the world looks like our model.
+
+### 1.1. Rotating rulers<a id="sec-1-1" name="sec-1-1"></a>
 
 Our two surveyors now measure the same length
 of fence, but with differently-oriented measuring sticks.
@@ -306,38 +306,32 @@ radical insights into the nature of spacetime.
 
 ### 2.1. Einstein's outrageous proposal<a id="sec-2-1" name="sec-2-1"></a>
 
-The laws of electromagnetism predict that, in vacuo, light travels at a speed
+The laws of electromagnetism predict that, in vacuum, light travels at
+the speed
 
 $$
 c = 3.0 \times 10^8 \text{ m/s}.
 $$
 
-The equations make no mention of relative motion, or any sort of
-background medium in which light propagates.
-But most physicists of the 19th century were convinced that light travelled
-through a medium called the *aether*, in the same way that sound
-travels through air.
-And if you moved relative to the aether, you would measure a different
-speed of light.
+Most physicists of the 19th century were convinced that light had
+to travel through a medium, which they called *aether*, in the same
+way that sound travels through air.
+If you move relative to the aether, you will measure a different speed
+of light.
 
-An exception was Einstein.
-He thought that the laws of
-electromagnetism were so beautiful, and self-evidently complete. that if
-they made no mention of a medium then none was required.
-Without a medium, there is no relative motion to account for changes
-in the measured speed of light.
-
-There were also experimental clues that the aether did not exist.
-Since the earth moves in a circle around the sun, it is likely to be
-moving relative to the aether (assuming it exists).
-This means that light should travel at different speeds in different
-directions, and in 1887, Michelson and Morley, devised a clever
-experiment to measure these differences.
+But the laws of electromagnetism make no mention of the aether, or
+relative motion.
+Albert Einstein viewed these laws as so beautiful, and self-evidently
+complete, that if they made no mention of the aether then none was
+required.
+Since the earth should move relative to the aether (it executes
+circular motion, and the aether presumably does not), Michelson and
+Morley were able to devise a clever experiment to detect differences
+in the speed of light in different directions.
 Famously, they found no difference at all!
-Light appeared to move at the same speed in all directions, in direct
-conflict with the aether hypothesis.
 
-With these clues, Einstein arrived at a simple but outrageous proposal:
+But if there is no aether, and no change in the speed of light as we
+move at different speeds, we are left with an outrageous proposition:
 
 ---
 
@@ -347,7 +341,7 @@ The speed of light is the same in all reference frames.
 
 ---
 
-### 2.2. Rotations between space and time<a id="sec-2-2" name="sec-2-2"></a>
+Einstein's famous insight
 
 A 
 
