@@ -32,13 +32,12 @@ In other words,
 ---
 
 <span style="padding-left: 20px; display:block">
-The quantity $\Delta x^2 + \Delta y^2$ doesn't depend on how measuring
-sticks are oriented.
+Wherever you place your rulers, $\Delta x^2 + \Delta y^2$ is the same.
 </span>
 
 ---
 
-This quantity is naturally interpreted as *length squared*,
+This quantity is naturally interpreted as *length squared*:
 
 $$
 d^2 = \Delta x^2 + \Delta y^2,
@@ -46,14 +45,15 @@ $$
 
 so the surveyor's have discovered that length is preserved when we
 move our system of measuring sticks.
-This is an empirical rather than a mathematical fact.
-This may be surprising, given that Pythagoras' theorem, $x^2 + y^2 =
-d^2$, is perhaps the one mathematical fact that everyone knows!
-Here is a quick visual proof:
+This is an empirical rather than a mathematical fact!
+This may be surprising, given that Pythagoras' theorem, $a^2 + b^2 =
+c^2$, is perhaps the one mathematical fact that everyone knows!
+And indeed, you can prove it mathematically.
 
 But this proof only works on a flat, two-dimensional plane.
-We can explain the empirical observation that $\Delta x^2 + \Delta
-y^2$ is invariant by assuming that the world looks like our model.
+So really, we should view the empirical observation that $\Delta x^2 +
+\Delta y^2$ is invariant as evidence that, to good approximation, the
+surface of the earth is a flat plane.
 
 ### 1.1. Rotating rulers<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -126,11 +126,11 @@ Let's summarise the story so far.
 Surveyors observe that $\Delta x^2 + \Delta y^2$ is unchanged, however
 they choose to orient their measuring sticks.
 This suggests that the land they measure is a flat plane, since in
-this setting, they can *prove* the result is true.
+this setting, they can prove the result is true from Pythagoras' theorem.
 Finally, by thinking more carefully about relative
 orientation, they can precisely relate measurements in their
 different measuring-stick systems.
-This may seem like a strange and pedantic way to think about plane
+This may seem like an odd way to think about plane
 geometry, but it will pay off when we come to study spacetime!
 
 ### 1.2. Trip-planning <a id="sec-1-2" name="sec-1-2"></a>
@@ -341,14 +341,14 @@ The speed of light is the same in all reference frames.
 
 ---
 
-Einstein's famous insight
+This smells very similar to the statement that length does not depend
+on where we place our measuring sticks.
+We can mathematise accordingly!
+Instead of two measuring sticks at right angles, we'll measure
+length in a single direction with a ruler and duration with a clock,
+attached to the ruler.
 
-A 
-
-Instead of two measuring sticks at right angles, a
-measuring system consisting of a single ruler and a clock.
-This leads to measurements of $\Delta x$ (on the ruler) and $\Delta t$
-(on the clock).
+Let's call the measurements of length and duration $(\Delta x, \Delta t)$.
 
 Recall that length is unchanged by rotation, and in particular, rotation of rulers.
 Similarly, if Einstein's proposal is true, the speed of light is
