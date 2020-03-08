@@ -43,7 +43,7 @@ sticks are oriented.
 This quantity is naturally interpreted as *length squared*,
 
 $$
-d^2 = $\Delta x^2 + \Delta y^2$,
+d^2 = \Delta x^2 + \Delta y^2,
 $$
 
 so the surveyor's have discovered that length is preserved when we
