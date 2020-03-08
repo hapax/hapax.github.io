@@ -40,8 +40,14 @@ sticks are oriented.
 
 ---
 
-We'll define the *Pythagorean length* $\ell_\text{P}$ by
-$\ell_\mathcal{P}^2 = \Delta x^2 + \Delta y^2$.
+This quantity is naturally interpreted as *length squared*,
+
+$$
+\ell^2 = $\Delta x^2 + \Delta y^2$,
+$$
+
+so the surveyor's have discovered that length is preserved when we
+move our system of measuring sticks.
 This is an empirical rather than a mathematical fact.
 This may be surprising, given that Pythagoras' theorem, $a^2 + b^2 =
 c^2$, is perhaps the one mathematical fact that everyone knows!
@@ -58,7 +64,13 @@ all meet at a point, as well with one end of the fence.
 
 The first surveyor takes a pair of measurements $(x, y)$, while the
 second surveyor takes $(x', y')$.
-Given that the Pythagorean length is the same, how are these two sets of measurements related?
+Given that
+
+$$
+\Deltax x^2 + \Delta y^2 = (\Delta x')^2 + (\Delta y')^2,
+$$
+
+how are these two sets of measurements related?
 It will depend on the relative orientation, so we need a way to gauge
 this.
 Here is a simple and familiar option.
@@ -81,7 +93,7 @@ $$
 x(\theta) = \cos(\theta), \quad y(\theta) = \sin(\theta).
 $$
 
-Since the stick's Pythagorean length $1$, these two functions
+Since the stick's  $1$, these two functions
 obey, for any value of $\theta$,
 
 $$
