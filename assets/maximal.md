@@ -12,7 +12,7 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">The parable of the surveyors</a>
-   1. <a href="#sec-1-1">Measuring sticks</a>
+   1. <a href="#sec-1-1">Measuring land</a>
    2. <a href="#sec-1-2">Trip-planning</a>
    3. <a href="#sec-1-3">Over the mountains</a> 
 2. <a href="#sec-2">The world according to Minkowski</a>
@@ -20,7 +20,7 @@ date:  2020-03-??
 
 ## 1. The parable of the surveyors <a id="sec-1" name="sec-1"></a>
 
-### 1.1. Measuring sticks <a id="sec-1-1" name="sec-1-1"></a>
+### 1.1. Measuring land <a id="sec-1-1" name="sec-1-1"></a>
 
 I like to imagine that, a thousand years before Pythagoras, Mesopotamian
 surveyors trying to measure out parcels of land discovered a curious
@@ -123,6 +123,11 @@ geometry, but it will pay off when we come to study spacetime!
 
 ### 1.2. Trip-planning <a id="sec-1-2" name="sec-1-2"></a>
 
+We know that Mesopotamian surveyors really did discover Pythagoras'
+theorem.
+We will now depart from the historical record in order to make some
+points 
+
 #### A single side trip
 
 Imagine that our two surveyors are now commissioned to plan roads between two
@@ -194,12 +199,8 @@ Any departures from a straight line between $A$ and $B$ increase trip length.
 
 ### 1.3. Over the moutains<a id="sec-1-3" name="sec-1-3"></a>
 
-The second surveyor now makes a 
-
-But the benefit of stating them in an odd way is that we can easily
-generalise to more interesting situations.
-First, we will think about trip-planning in higher dimensions.
-Then we will understand shortest routes in *curved* spaces.
+The second surveyor realises that there are situations where a side
+trip *does* reduce trip length.
 
 In the situations we've considered so far, we've needed to be able to
 draw straight lines between $A$, $B$ and $C$.
