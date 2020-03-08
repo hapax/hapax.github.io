@@ -137,12 +137,12 @@ geometry, but it will pay off when we come to study spacetime!
 
 We know that Mesopotamian surveyors really did discover Pythagoras'
 theorem.
-We will now depart from the historical record in order to make some
-points 
+At this point, we will depart from the historical record and speculate
+about what other discoveries the surveyors *might* have made.
 
 #### A single side trip
 
-Imagine that our two surveyors are now commissioned to plan roads between two
+Imagine that our two surveyors are commissioned to plan roads between two
 Mesopotamian cities, Assur ($A$) and Babylon ($B$).
 The first surveyor thinks a straight line between $A$ and $B$ is
 shortest, but the second argues that a side trip to Charax Sidae ($C$)
@@ -211,18 +211,10 @@ Any departures from a straight line between $A$ and $B$ increase trip length.
 
 ### 1.3. Over the moutains<a id="sec-1-3" name="sec-1-3"></a>
 
-The second surveyor realises that there are situations where a side
-trip *does* reduce trip length.
-
-In the situations we've considered so far, we've needed to be able to
-draw straight lines between $A$, $B$ and $C$.
-But more generally, we can imagine working on a *curved* surface that
-does not allow us to draw these lines.
-A simple example is the surface of the globe, where a truly straight
-line goes through the earth!
-If we are confined to move on the surface, then the shortest path is
-not a straight line after all.
-Can we say anything interesting about this scenario?
+The second surveyor says to the first: your reasoning is all well and
+good for a flat plane, but there are *mountains* between $A$ and
+$B$. The side trip to $C$ avoids them.
+The first surveyor
 
 The first thing to say is that the earth *looks* flat at the human
 scale.
