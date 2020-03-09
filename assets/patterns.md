@@ -90,10 +90,10 @@ But this is misleading.
 Why do mathematicians bother to prove theorems in the first place?
 If a triangle is completely specified by the angles, why don't we know
 everything about it once the angles are given?
-The answer is that hardcoded regularities, the assumptions and
-properties true by definition, are shallow patterns like empirical
-observation.
-They are in no sense generative.
+The answer is that hardcoded regularities --- the assumptions and
+properties true by definition --- are shallow patterns not dissimilar
+from empirical observation.
+They are in no sense *generative*.
 
 In contrast, theorems provide classifications, equivalences,
 transformations, computational methods, bounds, and so on, which are
@@ -101,10 +101,10 @@ not part of the shallow data we put in by hand.
 They are novel outputs, and give us power over the objects of
 mathematics in the same way that natural law gives us power over
 physical objects.
-And like natural laws, theorems are partial; they do not and cannot
+And like natural laws, theorems are partial: they do not and cannot
 yield complete knowledge.
-The deep patterns --- the structures themselves, with *all* the
-regularities manifest by virtue of that structure --- remain unseen.
+The deep patterns are the structures themselves, with *all* the
+regularities manifest by virtue of that structure, and they remain unseen.
 We arrive at another metapattern:
 
 ---
@@ -117,7 +117,9 @@ We arrive at another metapattern:
 
 ### The different faces of patterns
 
-The role of patterns in mathematics requires 
+What do I really mean by "deep patterns" and "structures themselves"
+in mathematics?
+This seems a bit obscure.
 
 ### Unreasonable effectiveness
 
