@@ -79,8 +79,43 @@ Mathematicians *define* the patterns they study into being.
 A triangle, once specified, is known completely; there is no
 experimental uncertainty about its angles.
 The regularities that take so much work to uncover in physics appear
-to be hardcoded into mathematical objects in a way that no subsequent
-theorems can refute.
+to be hardcoded into mathematical objects, and no subsequent
+theorems can refute them.
+
+But why *do* mathematicians spend so much time proving theorems?
+A theorem is a mathematical result that follows the "hardcoded
+regularities".
+For instance, if a triangle is hardcoded to be right-angled, with
+short sides of length $a$ and $b$, the long side has length $c$
+obeying
+
+$$
+c^2 = a^2 + b^2.
+$$
+
+This is not obvious when you define the triangle to be right-angled,
+or even when you draw it.
+
+In fact, the hardcoded regularities --- the assumptions we built into
+the mathematical object itself --- are more like experimental
+observations than natural laws.
+Unlike physics, we do not "explain" the regularities.
+But the work of mathematics is to reason from the simple regularities
+to theorems, surprising relationships between objects, symmetries,
+transformations, means of calculation, and so on.
+These are *deep patterns*, in just the same way that natural laws are
+deep patterns for experiment.
+And it is these deep patterns which are of most interest in both
+physics and maths.
+Our next metapattern is a statement (or perhaps definition?) to this effect:
+
+---
+
+<span style="padding-left: 20px; display:block">
+**Metapattern 3.** Patterns are deep.
+</span>
+
+---
 
 ### Unreasonable effectiveness
 
