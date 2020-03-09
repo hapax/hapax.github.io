@@ -115,9 +115,9 @@ We arrive at another metapattern:
 
 ---
 
-### The different faces of deep patterns
+### The different faces of patterns
 
-
+The role of patterns in mathematics requires 
 
 ### Unreasonable effectiveness
 

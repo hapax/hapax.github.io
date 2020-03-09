@@ -829,7 +829,7 @@ $$
 \approx \sqrt{82} \times 10^2 \approx 900,
 $$
 
-since $\sqrt{82} \approx \sqt{81} = 9$.
+since $\sqrt{82} \approx \sqrt{81} = 9$.
 The exact answer is closer to $896$, but this is pretty darn good
 without a calculator!
 
