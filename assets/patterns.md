@@ -101,6 +101,9 @@ not part of the shallow data we put in by hand.
 They are novel outputs, and give us power over the objects of
 mathematics in the same way that natural law gives us power over
 physical objects.
+And like natural laws, theorems are partial; they do not and cannot
+yield complete knowledge.
+The deep patterns remain unseen.
 
 ---
 
