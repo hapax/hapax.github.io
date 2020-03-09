@@ -104,7 +104,7 @@ physical objects.
 And like natural laws, theorems are partial; they do not and cannot
 yield complete knowledge.
 The deep patterns --- the structures themselves, with *all* the
-regularities inborn --- remain unseen.
+regularities manifest by virtue of that structure --- remain unseen.
 
 ---
 
