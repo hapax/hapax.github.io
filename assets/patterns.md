@@ -61,14 +61,28 @@ This suggests a second metapattern:
 
 To understand what this means, we need to say more about what a
 pattern is.
+If we could read patterns directly off their manifestations,
+recurrence would be a trivial matter.
+But physics is an experimental science; the laws of gravitation are
+not written in the stars or the arc of a tennis ball.
+Regularities are often only revealed by careful observation, and the
+patterns we invoke to explain them may be refuted by a single
+observation.
+We will elaborate on the appearance of patterns in nature below.
+First, let's consider the situation in mathematics, which, at first,
+seems completely different.
 
 ### Pattern-matching
 
-If we could read patterns directly off their manifestations,
-recurrence would be a trivial matter.
-But the laws of gravitation are not written in the stars or the arc of
-a tennis ball.
-In physics, it takes careful observation to find regularities, and
-considerably more work to uncover the laws which produce these
-regularities.
-It's tempting to 
+Mathematicians *define* the patterns they study into being.
+A triangle, once specified, is known completely; there is no
+experimental uncertainty about its angles.
+The regularities that take so much work to uncover in physics appear
+to be hardcoded into mathematical objects in a way that no subsequent
+theorems can refute.
+
+### Unreasonable effectiveness
+
+### Emergence and approximation
+
+### Conclusion
