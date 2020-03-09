@@ -832,7 +832,6 @@ $$
 since $\sqrt{82} \approx \sqrt{81} = 9$.
 The exact answer is closer to $896$, but this is pretty darn good
 without a calculator!
-
 Sometimes, $\sqrt{ab}$ will be a bit harder. In this case, we can use
 the *binomial approximation*:
 
@@ -850,7 +849,8 @@ $$
 3 \cdot \left(1 - \frac{2}{9}\right) \approx 2.33.
 $$
 
-The actual squre root $\sqrt{8} \approx 2.8$, so this is reasonably good.
+The actual squre root $\sqrt{8} \approx 2.8$, so this is not too bad,
+particularly for an order of magnitude estimate.
 
 ---
 
