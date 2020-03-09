@@ -68,6 +68,7 @@ not written in the stars or the arc of a tennis ball.
 Regularities are often only revealed by careful observation, and the
 patterns we invoke to explain them may be refuted by a single
 observation.
+
 We will elaborate on the appearance of patterns in nature below.
 First, let's consider the situation in mathematics, which, at first,
 seems completely different.
