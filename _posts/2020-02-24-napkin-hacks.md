@@ -818,33 +818,39 @@ $$
 \sqrt{xy} = \sqrt{ab} \times 10^{(A+B)/2}.
 $$
 
-First, let's focus on the power of $10$.
 If $A+B$ is even, then $(A+B)/2$ is an integer, and you are done.
 Otherwise, you get an extra factor of $\sqrt{10} \approx 3$ to
 multiply your answer by.
-Let's now focus on $\sqrt{ab}$. This looks hard, and indeed it is
-tricky, so we will make an approximation which works since the numbers
-$a, b$ are fairly close:
+Let's do an example, choosing two numbers at random, $x = 63 = 6.3
+\times 10$ and $y = 12, 738 \approx 1.3 \times 10^4 $. We can write
 
 $$
-\sqrt{ab} \approx \frac{a + b}{2}.
+\sqrt{xy} \approx \sqrt{6.3 \times 1.3} \times 10^{2.5}
+\approx \sqrt{82} \times 10^2 \approx 900,
 $$
 
-This approximation gets worse the further apart the numbers $a$ and
-$b$ are, so the worst-case scenario is $a = 1, b = 10$, where
-$\sqrt{ab} = \sqrt{10} \approx 3.2$ and $(a+b)/2 = 5.5$. So it's not
-too bad!
-Let's do an example, taking two numbers that I chose at random, $x =
-63 = 6.3 \times 10$ and $y = 12, 738 \approx 1.3 \times 10^4 $. We can write
-
-$$
-\sqrt{xy} \approx \left(\frac{6.3 + 1.3}{2}\right) \times 10^{2.5}
-\approx 3.8 \times \sqrt{10} \times 10^2 \approx 1200.
-$$
-
-The exact answer is closer to $900$, so we aren't particularly
-accurate. But it's well within an order of magnitude, and we did it
+since $\sqrt{82} \approx \sqt{81} = 9$.
+The exact answer is closer to $896$, but this is pretty darn good
 without a calculator!
+
+Sometimes, $\sqrt{ab}$ will be a bit harder. In this case, we can use
+the *binomial approximation*:
+
+$$
+\sqrt{1 \pm x} \approx 1 \pm \frac{x}{2}
+$$
+
+for small $x$.
+To find $\sqrt{ab}$, we look for the closest perfect square to $ab$,
+factor it out, and use the approximation.
+For instance, if $ab = 8$, then
+
+$$
+\sqrt{8} = \sqrt{9 - 1} = \sqrt{9}\cdot \sqrt{1 - \frac{1}{9}} \approx
+3 \cdot \left(1 - \frac{2}{9}\right) \approx 2.33.
+$$
+
+The actual squre root $\sqrt{8} \approx 2.8$, so this is reasonably good.
 
 ---
 
