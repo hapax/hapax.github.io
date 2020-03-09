@@ -110,7 +110,7 @@ We arrive at a new metapattern:
 ---
 
 <span style="padding-left: 20px; display:block">
-**Metapattern 3.** Deep patterns are generative but unobservable.
+**Metapattern 3.** Deep patterns are unobservable.
 </span>
 
 ---
