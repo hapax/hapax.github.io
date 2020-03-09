@@ -117,6 +117,14 @@ Our next metapattern is a statement (or perhaps definition?) to this effect:
 
 ---
 
+Deep patterns help explain the strange mathematical phenomenon of
+*duality*.
+Often, two completely different looking objects in mathematics turn
+out to be equivalent.
+"Equivalent" means that we can turn one into the other, and vice
+versa, using some sort of structure-preserving transformation or
+*isomorphism* (Greek for "same shape").
+
 ### Unreasonable effectiveness
 
 ### Emergence and approximation
