@@ -75,8 +75,17 @@ nature and show there is (for the moment) no difference.
 
 At first sight, the situation in mathematics is very different.
 Mathematicians *define* the patterns they study into being; there is
-is no experimental uncertainty when we specify the angles of a triangle.
+is no experimental uncertainty when we specify the angles of a
+triangle.
+Put differently, definitions *hardcode* regularities into mathematical
+objects.
+Instead of guessing laws of nature, mathematicians prove theorems.
+These are logically consequences of the hardcoded regularities, and
+cannot be disproved by subsequent definitions.
+Maths, it seems, is not subject to the empirical vagaries of physics.
 
+But this is misleading.
+Why do mathematicians bother to prove theorems in the first place?
 
 ---
 
