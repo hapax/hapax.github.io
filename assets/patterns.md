@@ -19,7 +19,7 @@ studied abstractly, which help explain features of the hard sciences.
 
 ### Order and chaos
 
-Humans have long believed in an orderly cosmos, and natural laws
+Humans have long believed in an orderly cosmos, with natural laws
 governing cause and effect.
 In a sense, even mythology is a search for principles underlying
 regularity.
@@ -77,7 +77,10 @@ at first appears very different.
 Mathematicians *define* the patterns they study into being.
 A triangle, once its angles are specified, is known completely; there
 is no experimental uncertainty.
-Mathematics does not seem to rely on observations in the same way as 
+While physicists have to wade through a morass of observation to
+arrive at mathematical truth, mathematicians can coin it for free.
+
+This is deceptive.
 
 ### Unreasonable effectiveness
 
