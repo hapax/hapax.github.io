@@ -802,8 +802,8 @@ The answer is actually $12$, so our guess is more or less on the
 mooney!
 
 *Calculation tips.* You might be wondering if it's really possible to
-calculate geometric averages without a calculator.
-It is, but there is a trick to doing it.
+calculate geometric averages on the back of a napkin.
+With a few tricks, it is easy!
 First of all, let's write the numbers we want to average in scientific
 notation:
 
@@ -830,7 +830,7 @@ $$
 $$
 
 since $\sqrt{82} \approx \sqrt{81} = 9$.
-The exact answer is closer to $896$, but this is pretty darn good
+The exact answer is around $896$, but this is pretty darn good
 without a calculator!
 Sometimes, $\sqrt{ab}$ will be a bit harder. In this case, we can use
 the *binomial approximation*:
@@ -846,11 +846,11 @@ For instance, if $ab = 8$, then
 
 $$
 \sqrt{8} = \sqrt{9 - 1} = \sqrt{9}\cdot \sqrt{1 - \frac{1}{9}} \approx
-3 \cdot \left(1 - \frac{2}{9}\right) \approx 2.33.
+3 \cdot \left(1 - \frac{1}{18}\right) = \frac{17}{6} \approx 2.83.
 $$
 
-The actual squre root $\sqrt{8} \approx 2.8$, so this is not too bad,
-particularly for an order of magnitude estimate.
+The actual square root $\sqrt{8} \approx 2.84$, so our back of the
+napkin estimate is very close!
 
 ---
 
