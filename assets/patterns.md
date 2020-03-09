@@ -59,21 +59,14 @@ This suggests a second metapattern:
 
 ---
 
-To understand what this means, we need to say more about what a
-pattern is.
 If we could read patterns directly off their manifestations,
 recurrence would be a trivial matter.
 But physics is an experimental science; the laws of gravitation are
 not written in the stars or the arc of a tennis ball.
-Regularities are often only revealed by careful observation, and the
-patterns we invoke to explain them may be refuted by a single
-observation.
 
 ### Pattern-matching
 
-We'll elaborate on the appearance of patterns in nature below.
-But before that, let's consider mathematics, where the situation
-at first appears very different.
+At first sight, the situation in mathematics seems rather different.
 Mathematicians *define* the patterns they study into being.
 A triangle, once its angles are specified, is known completely; there
 is no experimental uncertainty.
@@ -137,3 +130,11 @@ out to be equivalent.
 "Equivalent" means that we can turn one into the other, and vice
 versa, using some sort of structure-preserving transformation or
 *isomorphism* (Greek for "same shape").
+
+To understand what this means, we need to say more about what a
+pattern is.
+Regularities are often only revealed by careful observation, and the
+patterns we invoke to explain them may be refuted by a single
+observation.
+Nature obeys *deep patterns*, which we can never directly observe, but
+only attempt to reconstruct 
