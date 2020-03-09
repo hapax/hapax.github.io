@@ -69,12 +69,11 @@ Regularities are often only revealed by careful observation, and the
 patterns we invoke to explain them may be refuted by a single
 observation.
 
-We will elaborate on the appearance of patterns in nature below.
-First, let's consider the situation in mathematics, which, at first,
-seems completely different.
-
 ### Pattern-matching
 
+We'll elaborate on the appearance of patterns in nature below.
+Before that, we consider the situation in mathematics, which at first
+sight seems very different.
 Mathematicians *define* the patterns they study into being.
 A triangle, once specified, is known completely; there is no
 experimental uncertainty about its angles.
