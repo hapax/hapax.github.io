@@ -72,11 +72,21 @@ observation.
 ### Pattern-matching
 
 We'll elaborate on the appearance of patterns in nature below.
-Before that, we consider the situation in mathematics, which at first
-sight seems very different.
+But before that, let's consider mathematics, where the situation
+at first appears very different.
 Mathematicians *define* the patterns they study into being.
-A triangle, once specified, is known completely; there is no
-experimental uncertainty about its angles.
+A triangle, once its angles are specified, is known completely; there
+is no experimental uncertainty.
+Mathematics does not seem to rely on observations in the same way as 
+
+### Unreasonable effectiveness
+
+### Emergence and approximation
+
+### Conclusion
+
+### Xtra
+
 The regularities that take so much work to uncover in physics appear
 to be hardcoded into mathematical objects, and no subsequent
 theorems can refute them.
@@ -92,8 +102,8 @@ $$
 c^2 = a^2 + b^2.
 $$
 
-This is not obvious when you define the triangle to be right-angled,
-or even when you draw it.
+This is not obvious simply from the definition of the triangle as
+right-angled.
 In fact, the hardcoded regularities --- the assumptions we built into
 the mathematical object itself --- are more like experimental
 observations than natural laws.
@@ -101,10 +111,11 @@ observations than natural laws.
 Unlike physics, we do not "explain" the regularities.
 But the work of mathematics is to reason from the simple regularities
 to theorems: properties we did not expect.
-I think that theorems constitute *deep patterns* in mathematics, in
-just the same way that natural laws are deep patterns for physics.
-It is these deep patterns which are of real interest in both domains.
-Our next metapattern is a statement (or perhaps definition?) to this effect:
+I think that theorems hint at *deep patterns* in mathematics, in
+just the same way that natural laws are, or hint at, deep patterns in physics.
+It is these deep patterns which are of real interest in both domains,
+since they require work and insight to reach, and tend to be of
+greatest leverage.
 
 ---
 
@@ -114,16 +125,12 @@ Our next metapattern is a statement (or perhaps definition?) to this effect:
 
 ---
 
-Deep patterns help explain the strange mathematical phenomenon of
+Comment re deep patterns not being knowable?
+
+Deep patterns help explain the mathematical phenomenon of
 *duality*.
 Often, two completely different looking objects in mathematics turn
 out to be equivalent.
 "Equivalent" means that we can turn one into the other, and vice
 versa, using some sort of structure-preserving transformation or
 *isomorphism* (Greek for "same shape").
-
-### Unreasonable effectiveness
-
-### Emergence and approximation
-
-### Conclusion
