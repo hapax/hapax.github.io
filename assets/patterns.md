@@ -86,6 +86,8 @@ Maths, it seems, is not subject to the empirical vagaries of physics.
 
 But this is misleading.
 Why do mathematicians bother to prove theorems in the first place?
+If a triangle is completely specified by the angles, why do we not
+know everything about it, once the angles are given?
 
 ---
 
