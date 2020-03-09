@@ -13,7 +13,7 @@ Mathematics is the study of patterns.
 Physics is the study of patterns in nature.
 It is no surprise, then, that the two subjects are deeply intertwined.
 But we can think about feature of this relationship in terms of what I
-will (half-seriously) call "metapatterns".
+will (only half-seriously) call "metapatterns".
 These are empirical observations about patterns, both in nature and
 studied abstractly, which help explain features of the hard sciences.
 
