@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Science of Patterns"
+title:  "The Science of patterns"
 categories: [Physics, Maths, Philosophy]
 date:  2020-03-??
 ---
