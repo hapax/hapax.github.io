@@ -63,3 +63,8 @@ To understand what this means, we need to say more about what a
 pattern is.
 
 ### Pattern-matching
+
+If we could read patterns directly off their manifestations,
+recurrence would be a trivial matter.
+But the laws of gravitation are not written in the stars, or the arc
+of a tennis ball.
