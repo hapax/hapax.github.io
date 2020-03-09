@@ -103,7 +103,8 @@ mathematics in the same way that natural law gives us power over
 physical objects.
 And like natural laws, theorems are partial; they do not and cannot
 yield complete knowledge.
-The deep patterns remain unseen.
+The deep patterns --- the structures themselves, with *all* the
+regularities inborn --- remain unseen.
 
 ---
 
