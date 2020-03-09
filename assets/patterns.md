@@ -100,12 +100,10 @@ observations than natural laws.
 
 Unlike physics, we do not "explain" the regularities.
 But the work of mathematics is to reason from the simple regularities
-to theorems, surprising relationships between objects, symmetries,
-transformations, means of calculation, and so on.
-These are *deep patterns*, in just the same way that natural laws are
-deep patterns for experiment.
-And it is these deep patterns which are of most interest in both
-physics and maths.
+to theorems: properties we did not expect.
+I think that theorems constitute *deep patterns* in mathematics, in
+just the same way that natural laws are deep patterns for physics.
+It is these deep patterns which are of real interest in both domains.
 Our next metapattern is a statement (or perhaps definition?) to this effect:
 
 ---
