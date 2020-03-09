@@ -396,7 +396,8 @@ for a light ray in any inertial reference frame.
 This should remind you of the discovery of the surveyors, namely that
 $\Delta x^2 + \Delta y^2$ does not depend on where we put the
 measuring sticks.
-This suggests a small generalisation of Einstein's outrageous proposal:
+It's clear that Einstein's outrageous proposal follows from a more
+general invariance result:
 
 ---
 

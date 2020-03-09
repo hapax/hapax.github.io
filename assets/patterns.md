@@ -66,5 +66,9 @@ pattern is.
 
 If we could read patterns directly off their manifestations,
 recurrence would be a trivial matter.
-But the laws of gravitation are not written in the stars, or the arc
-of a tennis ball.
+But the laws of gravitation are not written in the stars or the arc of
+a tennis ball.
+In physics, it takes careful observation to find regularities, and
+considerably more work to uncover the laws which produce these
+regularities.
+It's tempting to 
