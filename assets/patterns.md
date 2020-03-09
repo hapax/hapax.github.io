@@ -95,10 +95,10 @@ $$
 
 This is not obvious when you define the triangle to be right-angled,
 or even when you draw it.
-
 In fact, the hardcoded regularities --- the assumptions we built into
 the mathematical object itself --- are more like experimental
 observations than natural laws.
+
 Unlike physics, we do not "explain" the regularities.
 But the work of mathematics is to reason from the simple regularities
 to theorems, surprising relationships between objects, symmetries,
