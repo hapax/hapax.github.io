@@ -105,7 +105,7 @@ And like natural laws, theorems are partial; they do not and cannot
 yield complete knowledge.
 The deep patterns --- the structures themselves, with *all* the
 regularities manifest by virtue of that structure --- remain unseen.
-We arrive at a new metapattern:
+We arrive at another metapattern:
 
 ---
 
@@ -115,7 +115,9 @@ We arrive at a new metapattern:
 
 ---
 
-### Duality
+### The different faces of deep patterns
+
+
 
 ### Unreasonable effectiveness
 
