@@ -564,38 +564,81 @@ The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 In this case, the leaves of the graph are exactly the fixed nodes.
 
-### 3.3. Hard polygons <a id="sec-3-3" name="sec-3-3"></a>
+### 3.3. Tinkertoys <a id="sec-3-3" name="sec-3-3"></a>
 
-Knowing the number of hubs (or the maxmimum number) is useful for a
-couple of reasons.
-First of all, in real life, hubs cost money, and you can budget for
-the worse-case scenario by setting $h = n-2$.
-Second, the number of hubs can help you figure out the right network
-layout, even if the exact positions of hubs elude you.
-You can try your hand 
+Combining the geometry and graph results gives us a simple tool for
+building minimal networks.
+For $n$ fixed nodes, pick $h = n-2$ hubs, with spokes emerging at
+angles of $120^\circ$, and connect them together to form a tree.
+We call this configuration of hubs and spokes a *tinkertoy*.
+It is almost rigid, but we can extend the spokes and legs.
+For $h = n-2$, the minimal network is always a tinkertoy, but see
+Exercise 10 for an example of a minimal network which is not.
+
+Let's illustrate the tinkertoy approach for fixed nodes on a
+rectangle.
+There is only one tinkertoy, connecting the closest external nodes in
+pairs, as shown in Figure 14.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner19.png" width="95%"/>
+		    <figcaption><i>Figure 14. The tinkertoy for a rectangle.</i></figcaption>
+	</div>
+	</figure>
+
+The situation for a general quadrilateral is a bit trickier, but can
+be quickly solved by a computer fiddling with the tinkertoy.
 
 ---
 
-*Exercise 10 (harder polygons).* We can use what we know to find
- minimal networks for some simple cases.
+*Exercise 10 (minimal network on a rectangle).* A rectangle has width
+$w$ and height $h$, with $w \leq h$.
+Show that the minimal network has length
 
-<span style="padding-left: 20px; display:block">
-(a) Find the minimal networks connecting a square and a regular
-hexagon with centre, specifying the exact position of hubs.
-</span>
+$$
+L = w + \frac{\sqrt{3}h}{4}.
+$$
+
+<p align="center">
+  ⁂
+  </p>
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner17.png" width="95%"/>
-		    <figcaption><i>Figure 17. Square, centred hexagon, pentagon.</i></figcaption>
+		    <figcaption><i>Figure 15. Centred hexagon and pentagon.</i></figcaption>
 	</div>
 	</figure>
 
+*Exercise 11 (harder polygons).*
+Sometimes you can't use tinkertoys, and sometimes you can. We'll give
+examples of both.
+
 <span style="padding-left: 20px; display:block">
-(b) Sketch the layout and angles for the minimal network on a regular pentagon. (You do not need to find the exact positions.)
+(a) Find the minimal networks connecting a regular hexagon with a node
+in the centre.  This is a situation where we have multiple tinkertoys.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Draw the tinkertoy for a regular pentagon, and schematically
+indicate what the minimal network looks like.
 </span>
 
 ---
+
+For a small number of fixed nodes, tinkertoys are useful.
+How useful are they for many nodes?
+Let's assume that fiddling with tinkertoys is a quick operation, so we
+can tell after some fixed time $T$ whether a particular tinkertoy can
+connect the fixed nodes.
+
+---
+
+*Exercise 12 (counting tinkertoys).* 
+
+---
+
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
@@ -607,135 +650,5 @@ https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/
 https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
 https://en.wikipedia.org/wiki/Steiner_tree_problem
 https://www.sciencedirect.com/science/article/pii/0012365X93E01835
-
----
-
-*Exercise 4 (exact length).* Although this argument is plausible,
- it doesn't rule out the possibility that $x=0$ is actually a maximum,
- with the true minimum at some symmetrically spaced points $\pm
- x_\text{min}$, before length increases again as $|x|$ gets larger.
- If you are worried, you can calculate the length exactly and check!
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner6.png" width="35%"/>
-		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
-	</div>
-	</figure>
-
-<span style="padding-left: 20px; display:block">
-(a) Show that, for the triangle in Figure 6, the length of the network is
-</span>
-
-$$
-\begin{align*}
-L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
-\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
-\end{align*}
-$$
-
-<span style="padding-left: 20px; display:block">
-*Note.* We choose side length $2d$ rather than $d$ to simplify the algebra.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) Check this function is even, i.e. $L(x) = L(-x)$.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(c) For simplicity, we can set $d= 1$.
-Plot $L(x)$ for various values of $h$ between $0$ and its
-maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
-</span>
-
----
-
-In fact, we can prove this using symmetry.
-If this seems obvious to you, feel free to skip the proof!
-
-*Proof.*
-Place $D$ anywhere you like, and draw an axis of symmetry of the
-triangle, represented by the red line in Figure 3.
-We are going to wiggle the hub side to side perpendicular to axis of
-symmetry, along the dark blue line in Figure 3.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner3.png" width="40%"/>
-		    <figcaption><i>Figure 3. Wiggling the hub around an axis
-    of symmetry.</i></figcaption>
-	</div>
-	</figure>
-
-As we move the hub left or right of the axis, the total length of
-the network (the lengths of the light blue legs) will change.
-But symmetry places strong constraints on how it changes, and in
-particular, a wiggle to the left a distance $x$ should give the same
-total length as wiggling to the right a distance $x$.
-
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner4.png" width="35%"/>
-		    <figcaption><i>Figure 4. Length is an even function, so
-    zero wiggle is a maximum or a minimum.</i></figcaption>
-	</div>
-	</figure>
-
-In Figure 4, we have drawn two possibilities for an even length
-function $L(x)$.
-It can either be a *minimum* at the point of symmetry $x = 0$, or a
-*maximum*.
-But it's clear from Figure 5 that if we make $x$ very large, the
-length will get very large as well.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner5.png" width="70%"/>
-		    <figcaption><i>Figure 5. The trident network gets long for large $x$.</i></figcaption>
-	</div>
-	</figure>
-
-This shows that $L$ is a minimum, and completes our proof.
-
----
-
-**Exercise 4.**  Although this argument is plausible, it doesn't rule
- out the possibility that $x=0$ is actually a maximum,  with the true minimum at some symmetrically spaced points $\pm
- x_\text{min}$, before length increases again as $|x|$ gets larger.
- If you are worried, you can calculate the length exactly and check!
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner6.png" width="35%"/>
-		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
-	</div>
-	</figure>
-
-<span style="padding-left: 20px; display:block">
-(a) Show that, for the triangle in Figure 6, the length of the network is
-</span>
-
-$$
-\begin{align*}
-L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
-\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
-\end{align*}
-$$
-
-<span style="padding-left: 20px; display:block">
-(b) For simplicity, we can set $d= 1$.
-Plot $L(x)$ for various values of $h$ between $0$ and its
-maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
-</span>
-
----
-
-Before we go on, we note a couple of features of this trident graph.
-We have a point in the centre, with three edges separated by
-angle $120^\circ$.
-(An edge is just a line between two stations.)
-Remarkably, this is a completely general feature of minimal networks!
-Any time we add a hub, it will have three spokes separated by equal
-angles.
-To see why, read on!
+https://link.springer.com/content/pdf/10.1007/BF02187892.pdf
+http://www.steiner.usmart.dk/history.html
