@@ -127,8 +127,6 @@ right in the centre.
 In fact, we can prove this using symmetry.
 If this seems obvious to you, feel free to skip the proof!
 
----
-
 *Proof.*
 Place $D$ anywhere you like, and draw an axis of symmetry of the
 triangle, represented by the red line in Figure 3.
@@ -164,7 +162,6 @@ It can either be a *minimum* at the point of symmetry $x = 0$, or a
 *maximum*.
 But it's clear from Figure 5 that if we make $x$ very large, the
 length will get very large as well.
-This suggests that $L$ is a minimum.
 
 <figure>
     <div style="text-align:center"><img src
@@ -172,6 +169,10 @@ This suggests that $L$ is a minimum.
 		    <figcaption><i>Figure 5. The trident network gets long for large $x$.</i></figcaption>
 	</div>
 	</figure>
+
+This shows that $L$ is a minimum, and completes our proof.
+
+---
 
 **Exercise 4.**  Although this argument is plausible, it doesn't rule
  out the possibility that $x=0$ is actually a maximum,  with the true minimum at some symmetrically spaced points $\pm
