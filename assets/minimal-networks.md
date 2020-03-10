@@ -533,19 +533,20 @@ $$
 \frac{1}{2}\left(n + 3h\right) \leq E.
 $$
 
-The factor of $2$ occurs because we are counting edges twice in the
-leftmost and rightmost expression, since each end of an edge is
-associated with a vertex, and we are counting the contribution at each
-vertex once.
+In diagrams,
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner16.png" width="35%"/>
-		    <figcaption><i>Figure 16. Counting edges, both in symbols
-    and diagramatically.</i></figcaption>
+    ="/images/posts/steiner16.png" width="30%"/>
+		    <figcaption><i>Figure 14. Counting edges, both in symbols
+    and diagrams.</i></figcaption>
 	</div>
 	</figure>
 
+The factor of $2$ occurs because we are counting edges twice in the
+leftmost and rightmost expression: each end of an edge is
+associated with a vertex, and we are counting the contribution at each
+vertex once.
 From the previous section, we know that $E = N - 1$.
 This gives
 
@@ -553,6 +554,7 @@ $$
 \frac{1}{2}\left(n + 3h\right) \leq N - 1 = n +h - 1.
 $$
 
+This is depicted in Figure 14.
 After some algebra, we find that
 
 $$
