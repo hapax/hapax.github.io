@@ -631,12 +631,13 @@ How useful are they for $n$ nodes, as $n$ gets large?
 Let's assume that fiddling with tinkertoys is a quick operation, and
 we can tell after some fixed time $T$ (independent of $n$) whether a
 particular tinkertoy can connect the fixed nodes.
-Unlike the cases we've look at so far,
+Unlike the cases we've look at so far, for large $n$, there are many
+different tinkertoys to try out, which we illustrate in Figure 16.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner17.png" width="95%"/>
-		    <figcaption><i>Figure 15. Centred hexagon and pentagon.</i></figcaption>
+    ="/images/posts/steiner20.png" width="95%"/>
+		    <figcaption><i>Figure 16. Tinkertoys for n = 6.</i></figcaption>
 	</div>
 	</figure>
 
