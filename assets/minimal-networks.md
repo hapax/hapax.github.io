@@ -254,8 +254,20 @@ In Figure 8, we will show that the green lines are shorter than the
 red lines, provided the angle at the bottom is $120^\circ$.
 
 <span style="padding-left: 20px; display:block">
-(a)
+(a) Show using the law of cosines (or otherwise) that
 </span>
+
+$$
+c^2 = a^2 + b^2 + ab.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Conclude that
+</span>
+
+$$
+a + 2b < 2c.
+$$
 
 ---
 
