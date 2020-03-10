@@ -532,7 +532,7 @@ it is connected to the rest of the network.
 Thus, the total number of edges $E$ obeys the inequality
 
 $$
-\frac{1}{2}\left(n + 3h\right) \leq E.
+E \geq \frac{1}{2}\left(n + 3h\right).
 $$
 
 In diagrams,
