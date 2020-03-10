@@ -123,15 +123,9 @@ than the triangle.
 ---
 
 You might guess that the best place to put the hub station $D$ is
-right in the centre.
-In fact, we can prove this using symmetry.
-If this seems obvious to you, feel free to skip the proof!
-
-*Proof.*
-Place $D$ anywhere you like, and draw an axis of symmetry of the
-triangle, represented by the red line in Figure 3.
-We are going to wiggle the hub side to side perpendicular to axis of
-symmetry, along the dark blue line in Figure 3.
+right right in the centre, and in fact, we can prove this from
+symmetry.
+First of all, draw an axis of symmetry of the triangle, represented by the red line in Figure 3.
 
 <figure>
     <div style="text-align:center"><img src
@@ -141,95 +135,25 @@ symmetry, along the dark blue line in Figure 3.
 	</div>
 	</figure>
 
-As we move the hub left or right of the axis, the total length of
-the network (the lengths of the light blue legs) will change.
-But symmetry places strong constraints on how it changes, and in
-particular, a wiggle to the left a distance $x$ should give the same
-total length as wiggling to the right a distance $x$.
+We are going to wiggle the hub side to side around this axis, along
+the dark blue line in Figure 3.
+From left-right symmetry, the length must either be a minimum or a
+maximum on the axis itself.
+Since the total nework length gets very large when we take the hub
+outside the triangle, it must be a *minimum* on the axis of symmetry itself.
 
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner4.png" width="35%"/>
-		    <figcaption><i>Figure 4. Length is an even function, so
-    zero wiggle is a maximum or a minimum.</i></figcaption>
-	</div>
-	</figure>
-
-In Figure 4, we have drawn two possibilities for an even length
-function $L(x)$.
-It can either be a *minimum* at the point of symmetry $x = 0$, or a
-*maximum*.
-But it's clear from Figure 5 that if we make $x$ very large, the
-length will get very large as well.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner5.png" width="70%"/>
-		    <figcaption><i>Figure 5. The trident network gets long for large $x$.</i></figcaption>
-	</div>
-	</figure>
-
-This shows that $L$ is a minimum, and completes our proof.
-
----
-
-**Exercise 4.**  Although this argument is plausible, it doesn't rule
- out the possibility that $x=0$ is actually a maximum,  with the true minimum at some symmetrically spaced points $\pm
- x_\text{min}$, before length increases again as $|x|$ gets larger.
- If you are worried, you can calculate the length exactly and check!
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner6.png" width="35%"/>
-		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
-	</div>
-	</figure>
-
-<span style="padding-left: 20px; display:block">
-(a) Show that, for the triangle in Figure 6, the length of the network is
-</span>
-
-$$
-\begin{align*}
-L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
-\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
-\end{align*}
-$$
-
-<span style="padding-left: 20px; display:block">
-(b) For simplicity, we can set $d= 1$.
-Plot $L(x)$ for various values of $h$ between $0$ and its
-maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
-</span>
-
----
-
-We have established that, in order to minimise the length, the hub $D$
-should lie on the red axis of symmetry associated with vertex $A$.
-But of course, we can repeat this argument for $B$ and $C$ as well!
-There are three axes of symmetry, and they happen to intersect in a
-point at the centre of the triangle.
-Since $D$ should lie on each of these lines, it must lie at the centre
-of the triangle, as depicted in Figure 7.
-This solves the minimal network problem on an equilateral triangle!
+But there are axes of symmetry associated with $B$ and $C$ as well,
+and all three intersect at the centre of the triangle.
+Since $D$ should lie on each of these lines, it must lie at the centre!
+The minimal network is depicted in Figure 4.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner7.png" width="40%"/>
-		    <figcaption><i>Figure 7. The minimal network on an
+		    <figcaption><i>Figure 4. The minimal network on an
     equilateral triangle.</i></figcaption>
 	</div>
 	</figure>
-
-Before we go on, we note a couple of features of this trident graph.
-We have a point in the centre, with three edges separated by
-angle $120^\circ$.
-(An edge is just a line between two stations.)
-Remarkably, this is a completely general feature of minimal networks!
-Any time we add a hub, it will have three spokes separated by equal
-angles.
-To see why, read on!
 
 ### 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
 
@@ -707,3 +631,93 @@ maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
 </span>
 
 ---
+
+In fact, we can prove this using symmetry.
+If this seems obvious to you, feel free to skip the proof!
+
+*Proof.*
+Place $D$ anywhere you like, and draw an axis of symmetry of the
+triangle, represented by the red line in Figure 3.
+We are going to wiggle the hub side to side perpendicular to axis of
+symmetry, along the dark blue line in Figure 3.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner3.png" width="40%"/>
+		    <figcaption><i>Figure 3. Wiggling the hub around an axis
+    of symmetry.</i></figcaption>
+	</div>
+	</figure>
+
+As we move the hub left or right of the axis, the total length of
+the network (the lengths of the light blue legs) will change.
+But symmetry places strong constraints on how it changes, and in
+particular, a wiggle to the left a distance $x$ should give the same
+total length as wiggling to the right a distance $x$.
+
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner4.png" width="35%"/>
+		    <figcaption><i>Figure 4. Length is an even function, so
+    zero wiggle is a maximum or a minimum.</i></figcaption>
+	</div>
+	</figure>
+
+In Figure 4, we have drawn two possibilities for an even length
+function $L(x)$.
+It can either be a *minimum* at the point of symmetry $x = 0$, or a
+*maximum*.
+But it's clear from Figure 5 that if we make $x$ very large, the
+length will get very large as well.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner5.png" width="70%"/>
+		    <figcaption><i>Figure 5. The trident network gets long for large $x$.</i></figcaption>
+	</div>
+	</figure>
+
+This shows that $L$ is a minimum, and completes our proof.
+
+---
+
+**Exercise 4.**  Although this argument is plausible, it doesn't rule
+ out the possibility that $x=0$ is actually a maximum,  with the true minimum at some symmetrically spaced points $\pm
+ x_\text{min}$, before length increases again as $|x|$ gets larger.
+ If you are worried, you can calculate the length exactly and check!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner6.png" width="35%"/>
+		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(a) Show that, for the triangle in Figure 6, the length of the network is
+</span>
+
+$$
+\begin{align*}
+L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
+\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
+\end{align*}
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) For simplicity, we can set $d= 1$.
+Plot $L(x)$ for various values of $h$ between $0$ and its
+maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
+</span>
+
+---
+
+Before we go on, we note a couple of features of this trident graph.
+We have a point in the centre, with three edges separated by
+angle $120^\circ$.
+(An edge is just a line between two stations.)
+Remarkably, this is a completely general feature of minimal networks!
+Any time we add a hub, it will have three spokes separated by equal
+angles.
+To see why, read on!
