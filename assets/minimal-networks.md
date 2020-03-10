@@ -538,8 +538,6 @@ In diagrams,
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner16.png" width="30%"/>
-		    <figcaption><i>Figure 14. Counting edges, both in symbols
-    and diagrams.</i></figcaption>
 	</div>
 	</figure>
 
