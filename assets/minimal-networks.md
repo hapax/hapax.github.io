@@ -187,50 +187,44 @@ sides of the triangle.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner9.png" width="45%"/>
-		    <figcaption><i>Figure 9. At some critical angle, the trident
-    network becomes a triangular one.</i></figcaption>
+		    <figcaption><i>Figure 6. At some critical angle, the trident
+    network becomes triangular.</i></figcaption>
 	</div>
 	</figure>
 
-We picture this in Figure 9 above.
+We picture this in Figure 6 above.
 In this diagram, $B$ remains fixed in position, but $A$ and $C$ slowly
-lower and open out the angle of the triangle, and the optimal hub $D$
-moves down as they do so.
-At some critical angle $\theta_\text{crit}$ (coloured olive in Figure 9), it
-will coincide with $B$.
+lower and open out the angle of the triangle, with the optimal hub $D$
+moving down as they do so.
+At some critical angle $\theta_\text{crit}$, it will coincide with $B$.
 The question is: what is the angle?
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner10.png" width="40%"/>
+		    <figcaption><i>Figure 7. Removing a corner city removes a
+    leg from the equilateral trident.</i></figcaption>
+	</div>
+	</figure>
 
 It turns out this critical angle is $\theta_\text{crit} = 120^\circ$. Although we won't provide a watertight
 proof, we can give a plausibility argument.
 Let's return to the equilateral triangle.
 Instead of adding a hub in the middle, suppose that $D$ is in fact a
 fourth city fixed in place.
-Clearly, the solution in Figure 7 is still optimal, since if adding
-more hubs reduced the total length, we could add more hubs in our
-original three city problem to reduce length!
+Clearly, the solution in Figure 4 is still optimal, since if we could
+add more hubs to reduc the total length, we could add more hubs to
+improve the network for the equilateral triangle!
 If I now remove any of the corner cities $A$, $B$ or $C$, the optimal
-network simply removes the corresponding leg of the trident (Figure 10).
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner10.png" width="40%"/>
-		    <figcaption><i>Figure 10. Removing a corner city removes a
-    leg from the equilateral trident.</i></figcaption>
-	</div>
-	</figure>
-
-I'll let you explore why we only remove a leg, rather than adding a
-whole new hub, in the next problem.
+network simply removes the corresponding leg of the trident (Figure 7).
 
 ---
 
-*Exercise 5 (cutting corners).* Suppose that in Figure 10, we can add
+*Exercise 5 (cutting corners).* Suppose that in Figure 7, we can add
 a new hub $E$ which reduces the length of the network.
 Explain how adding $E$ could reduce the length of the network in
 Figure 7, and thereby improve our solution for the equilateral
 triangle.
-Since we have already argued that Figure 7 is minimal, we clearly
-cannot find such a hub $E$!
 
 *Note.* This is an example of a
  [proof by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction). To
@@ -241,10 +235,10 @@ cannot find such a hub $E$!
 
 ---
 
-So, we should be satisfied that for an angle of $\theta = 120^\circ$,
+We should be satisfied that for an angle of $\theta = 120^\circ$,
 the trident collapses into a triangular network.
 But could it happen earlier, with $\theta_\text{crit} < 120^\circ$?
-We can actually run Figure 9 in reverse to see this won't happen.
+We can actually run Figure 6 in reverse to see this won't happen.
 Imagine that $A$ and $C$ move *up* along the purple curves from the
 initial angle of $120^\circ$.
 Then the hub $D$ should smoothly move up as well.
