@@ -387,7 +387,7 @@ with three only in special circumstances.
   ⁂
   </p>
 
-*Exercise 6 (easy polygons).* Consider cities on the corners of a
+*Exercise 7 (easy polygons).* Consider cities on the corners of a
  regular $n$-gon. Show that for $n \geq 6$, the minimal network is
  just the perimeter with one edge removed.
 
@@ -404,17 +404,17 @@ The geometry we learned in the last section will be essential!
 In a minimal rail network, how many ways can I get from $A$ to $B$?
 If the network is connected, then the answer is at least one.
 That's the definition of connected!
-But if the network is *minimal*, the answer is *exactly* one!
+But if the network is minimal, the answer is *exactly* one.
 If there is more than one way to get from $A$ to $B$, the network has
 unnecessary edges and can be pruned to get something shorter.
 We might worry that pruning redundant paths between $A$ and $B$ could
 disconnect other cities, but this is never the case.
-Figure 13 shows why.
+Figure 11 shows why.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner13.png" width="70%"/>
-		    <figcaption><i>Figure 13. Pruning an unnecessary path,
+		    <figcaption><i>Figure 11. Pruning an unnecessary path,
     e.g. path 2, cannot disconnect a network.</i></figcaption>
 	</div>
 	</figure>
@@ -426,7 +426,7 @@ through $A$ first, and similarly, nodes on the right connect to $A$
 through $B$.
 If two nodes are in the same blob, such as $C$ and $E$, then pruning
 path $2$ has no effect on whether they are connected.
-If two are in different blobs, like $C$ and $D$, they can still reach
+If two nodes are in different blobs, like $C$ and $D$, they can still reach
 each other using path $1$.
 So, pruning redundant paths between $A$ and $B$ does not affect
 whether other nodes connect.
@@ -444,42 +444,42 @@ or $2$.
 Once we have completely pruned the network, there is only a single
 path connecting any two nodes $A$ and $B$.
 Such a network is called a *tree* because of the way it branches.
-An example is shown in Figure 14.
+An example is shown in Figure 12.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner14.png" width="35%"/>
-		    <figcaption><i>Figure 14. A tree network, with unique
+		    <figcaption><i>Figure 12. A tree network, with unique
     paths between each node.</i></figcaption>
 	</div>
 	</figure>
 
 Our reasoning shows that minimal networks are trees.
 The number of nodes in the network is $N = n + h$, where $n$ is the
-number of fixed nodes and $h$ counts the hubs we add to make the
+number of fixed nodes and $h$ counts the hubs added to make the
 network as short as possible.
-For instance, in Figure 14 we have $N = 10$.
-The number of edges is $E = 8$, which is $N - 1$, and is no
-coincidence.
-For *any* tree, it turns out that $E = N - 1$.
+In Figure 12, for instance, we have $N = 10$.
+The number of edges $E = 9$ is one less than the number of nodes.
+This is not a coincidence, and for *any* tree, it turns out that $E =
+N - 1$.
 To prove this, we first need to know that (unlike real life), in
-network theory, every tree has leaves.
+graph theory, every tree has leaves.
 
 ---
 
 *Exercise 9 (trees and leaves).*
 A *leaf* is a node with a single edge, e.g. the nodes $J$, $D$, $G$,
-and $I$ in Figure 14.
+and $I$ in Figure 12.
 Part (a) will show what we need, namely that every tree has a leaf,
 and parts (b) and (c) probe this question a little more deeply.
-To begin, we will choose a node at random (red in Figure 15) and count
+To begin, we will choose a node at random (red in Figure 13) and count
 the number of steps to each other node.
 Since there is a unique path between two nodes in a tree, this is well-defined.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner15.png" width="80%"/>
-		    <figcaption><i>Figure 15. Finding leaves in a tree.</i></figcaption>
+		    <figcaption><i>Figure 13. Finding leaves in a tree.</i></figcaption>
 	</div>
 	</figure>
 
@@ -490,13 +490,13 @@ nodes in Figure 15). Argue that these must be leaves.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Take the further node and now find the node or nodes furthest
-away. Argue that these are also leaves, and conclude that every tree has at least two leaves.
+(b) Take the furthest node and now find the node or nodes furthest
+from it. Argue that these are also leaves, and conclude that every tree has at least two leaves.
 </span>
 
 <span style="padding-left: 20px; display:block">
 (c)
-Show, using an example, that a tree need not have more than two.
+Show, using an example, that a tree need not have more than two leaves.
 </span>
 
 The procedure for finding leaves is illustrated in Figure 15.
@@ -511,15 +511,13 @@ If we remove it, and the single edge connecting it to the rest of the
 graph, we decrease the number of nodes and edges by $1$, $N \to N- 1$
 and $E \to E - 1$.
 We keep doing this until we are down to a single node.
-This has no edges at all, and since we decrease $N$ by $N-1$ nodes to
+This has no edges at all, and since we decrease by $N-1$ nodes to
 obtain a single node, decreasing $E$ by the same amount gives $0$.
-Hence,
+Hence, for trees in general,
 
 $$
-E = N - 1
+E = N - 1.
 $$
-
-for trees in general.
 
 ### 3.2. Bounding hubs <a id="sec-3-2" name="sec-3-2"></a>
 
