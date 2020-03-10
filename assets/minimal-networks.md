@@ -7,8 +7,7 @@ categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-11
 ---
 
-**February 11, 2020.** *An elementary and self-contained introduction
-  to minimal networks. (Finished ≤ 3.2.)*
+**February 11, 2020.** Bla
 
 ### Contents
 
@@ -628,17 +627,24 @@ indicate what the minimal network looks like.
 ---
 
 For a small number of fixed nodes, tinkertoys are useful.
-How useful are they for many nodes?
-Let's assume that fiddling with tinkertoys is a quick operation, so we
-can tell after some fixed time $T$ whether a particular tinkertoy can
-connect the fixed nodes.
+How useful are they for $n$ nodes, as $n$ gets large?
+Let's assume that fiddling with tinkertoys is a quick operation, and
+we can tell after some fixed time $T$ (independent of $n$) whether a
+particular tinkertoy can connect the fixed nodes.
+Unlike the cases we've look at so far,
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner17.png" width="95%"/>
+		    <figcaption><i>Figure 15. Centred hexagon and pentagon.</i></figcaption>
+	</div>
+	</figure>
 
 ---
 
 *Exercise 12 (counting tinkertoys).* 
 
 ---
-
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
