@@ -142,11 +142,6 @@ maximum on the axis itself.
 Since the total nework length gets very large when we take the hub
 outside the triangle, it must be a *minimum* on the axis of symmetry itself.
 
-But there are axes of symmetry associated with $B$ and $C$ as well,
-and all three intersect at the centre of the triangle.
-Since $D$ should lie on each of these lines, it must lie at the centre!
-The minimal network is depicted in Figure 4.
-
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner7.png" width="40%"/>
@@ -154,6 +149,13 @@ The minimal network is depicted in Figure 4.
     equilateral triangle.</i></figcaption>
 	</div>
 	</figure>
+
+But there are axes of symmetry associated with $B$ and $C$ as well,
+and all three intersect at the centre of the triangle.
+Since $D$ should lie on each of these lines, it must lie at the
+centre!
+This completes our proof.
+The minimal network is depicted in Figure 4.
 
 ### 2.2. Deforming the triangle <a id="sec-2-2" name="sec-2-2"></a> 
 
@@ -164,13 +166,13 @@ so it is no longer equilateral.
 What will happen to the optimal position of the hub $D$?
 Since everything is being smoothly modified, the position of the hub
 should change smoothly as well.
-In Figure 8, the smooth paths of the corners are depicted in purple,
+In Figure 5, the smooth paths of the corners are depicted in purple,
 and the corresponding smooth change of hub in green.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner8.png" width="35%"/>
-		    <figcaption><i>Figure 8. The optimal hub position changes smoothly
+		    <figcaption><i>Figure 5. The optimal hub position changes smoothly
     as we deform the corners.</i></figcaption>
 	</div>
 	</figure>
