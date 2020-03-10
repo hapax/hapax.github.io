@@ -603,16 +603,16 @@ $$
   ⁂
   </p>
 
+*Exercise 11 (harder polygons).*
+When $h=  n-2$, you can use a single tinkertoy, but if $h < n - 2$,
+you will need multiple tinkertoys. Here we give examples of both.
+
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner17.png" width="75%"/>
 		    <figcaption><i>Figure 15. Centred hexagon and pentagon.</i></figcaption>
 	</div>
 	</figure>
-
-*Exercise 11 (harder polygons).*
-When $h=  n-2$, you can use a single tinkertoy, but if $h < n - 2$,
-you will need multiple tinkertoys. Here we give examples of both.
 
 <span style="padding-left: 20px; display:block">
 (a) Find the minimal networks connecting a regular hexagon with a node
