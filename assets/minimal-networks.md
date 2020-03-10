@@ -245,7 +245,7 @@ causes the trident to become shorter once more.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner18.png" width="40%"/>
+    ="/images/posts/steiner18.png" width="50%"/>
 		    <figcaption><i>Figure 8. Away from the critical angle.</i></figcaption>
 	</div>
 	</figure>
