@@ -214,7 +214,7 @@ Let's return to the equilateral triangle.
 Instead of adding a hub in the middle, suppose that $D$ is in fact a
 fourth city fixed in place.
 Clearly, the solution in Figure 4 is still optimal, since if we could
-add more hubs to reduc the total length, we could add more hubs to
+add more hubs to reduce the total length, we could add more hubs to
 improve the network for the equilateral triangle!
 If I now remove any of the corner cities $A$, $B$ or $C$, the optimal
 network simply removes the corresponding leg of the trident (Figure 7).
@@ -234,24 +234,43 @@ triangle.
  We then reason backwards to
  conclude that it cannot be true!
 
+<p align="center">
+  ⁂
+</p>
+
+*Exercise 5 (critical angle).* This argument above really only
+establishes that $\theta_\text{crit} \leq 120^\circ$.
+We can check for a simple case that decreasing $\theta < 120^\circ$
+causes the trident to become shorter once more.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner18.png" width="40%"/>
+		    <figcaption><i>Figure 8. Away from the critical angle.</i></figcaption>
+	</div>
+	</figure>
+
+In Figure 8, we will show that the green lines are shorter than the
+red lines, provided the angle at the bottom is $120^\circ$.
+
+<span style="padding-left: 20px; display:block">
+(a)
+</span>
+
 ---
 
-This argument really only establishes that $\theta_\text{crit} \leq
-120^\circ$.
-It may be that, for some smaller angle, the 
+
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
 All this work with triangles pays off with a powerful conclusion for
-minimal networks for *any* number of cities:
+minimal networks connecting *any* number of cities:
 
 <span style="padding-left: 20px; display:block">
 In any minimal network, all hubs have three incoming legs separated by angles of $120^\circ$.
 </span>
 
-By "hub", we mean an additional point on the network (like a train
-station) we added to reduce the total length.
-The argument is beautiful and simple, though like Exercise 5, it
+The argument is beautiful and simple, though like Exercise 4, it
 involves a proof by contradiction.
 
 ---
