@@ -581,7 +581,7 @@ pairs, as shown in Figure 14.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner19.png" width="95%"/>
+    ="/images/posts/steiner19.png" width="55%"/>
 		    <figcaption><i>Figure 14. The tinkertoy for a rectangle.</i></figcaption>
 	</div>
 	</figure>
@@ -605,14 +605,14 @@ $$
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner17.png" width="95%"/>
+    ="/images/posts/steiner17.png" width="75%"/>
 		    <figcaption><i>Figure 15. Centred hexagon and pentagon.</i></figcaption>
 	</div>
 	</figure>
 
 *Exercise 11 (harder polygons).*
-Sometimes you can't use tinkertoys, and sometimes you can. We'll give
-examples of both.
+When $h=  n-2$, you can use a single tinkertoy, but if $h < n - 2$,
+you will need multiple tinkertoys. Here we give examples of both.
 
 <span style="padding-left: 20px; display:block">
 (a) Find the minimal networks connecting a regular hexagon with a node
@@ -642,9 +642,24 @@ We show the different tinkertoys for $n = 6, 7$ in Figure 16.
 	</div>
 	</figure>
 
+In Exercise 12, you'll see that there are *exponentially many*
+tinkertoys at fixed $n$.
+A brute force approach, which simply checks each tinkertoy, will
+therefore take an exponential amount of time.
+As it turns out, there are no known algorithmic shortcuts that do
+substantially better than brute force!
+Even if you can rule out a few tinkertoys, you always need to check
+exponentially many.
+This makes minimal networks a computationally hard problem!
+
 ---
 
-*Exercise 12 (counting tinkertoys).* 
+*Exercise 12 (counting tinkertoys).*
+
+<span style="padding-left: 20px; display:block">
+(b) Draw the tinkertoy for a regular pentagon, and schematically
+indicate what the minimal network looks like.
+</span>
 
 ---
 
