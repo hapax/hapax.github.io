@@ -53,7 +53,7 @@ The resulting layout is called the *minimal network* connecting $A$, $B$ and $C$
 We can consider the same problem for $n$ stations, and find the rail
 networks of smallest total length which connect them.
 Although finding the exact minimal network is difficult in
-general, we can derive some beautiful results about their connectivity and layout.
+general, we can derive some beautiful results about their geometry and layout.
 We step through the reasoning in bite-sized chunks, starting with
 the problem of connecting three cities.
 
@@ -282,8 +282,7 @@ minimal networks connecting *any* number of cities:
 In any minimal network, all hubs have three incoming legs separated by angles of $120^\circ$.
 </span>
 
-The argument is beautiful and simple, though like Exercise 4, it
-involves a proof by contradiction.
+The argument is beautiful and simple.
 
 ---
 
@@ -304,7 +303,7 @@ which are (for simplicity) the same distance from $H$.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner11.png" width="80%"/>
-		    <figcaption><i>Figure 11. Left: A hub with incoming
+		    <figcaption><i>Figure 9. Left: A hub with incoming
     angle less than 120°. Right: A shorter network.</i></figcaption>
 	</div>
 	</figure>
@@ -317,7 +316,7 @@ Thus, from our work in the previous section, we know that the minimal
 network connecting $h_1$, $h_2$ and $H$ is not the triangle we have
 drawn, but a trident with another hub $h_3$ in the middle!
 This strictly decreases the length of the network (shown right in
-Figure 11), and hence, our original network must not have been
+Figure 9), and hence, our original network must not have been
 minimal.
 There's our contradiction!
 
@@ -330,12 +329,12 @@ Then there can only be two incoming edges, joining $H$ to some cities
 $A$ and $B$, since any additional lines would have to be closer than
 $120^\circ$ to one of these lines, given the result we
 just proved.
-So, we have the situation depicted on the left of Figure 12:
+So, we have the situation depicted on the left of Figure 10:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner12.png" width="80%"/>
-		    <figcaption><i>Figure 12. Left: A hub with incoming
+		    <figcaption><i>Figure 10. Left: A hub with incoming
     angle greater than 120°. Right: A shorter network.</i></figcaption>
 	</div>
 	</figure>
@@ -361,8 +360,6 @@ spaced spokes.
 
 *Exercise 6 (outer rim).* Our proof applies to hubs only, but the same style of argument allows you to deduce properties of
 the cities or *fixed nodes* $A_1, A_2, \ldots, A_n$.
-To pursue the hub/spokes analogy, these form the rim of a
-strangely-shaped wheel!
 Prove the following properties:
 
 <span style="padding-left: 20px; display:block">
@@ -394,7 +391,7 @@ with three only in special circumstances.
 
 In this section, we will learn more about the connectivity and layout
 of minimal networks.
-The geometric facts we learned in the last section will definitely come in handy!
+The geometry we learned in the last section will be essential!
 
 ### 3.1. Trees <a id="sec-3-1" name="sec-3-1"></a>
 
