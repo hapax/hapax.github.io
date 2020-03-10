@@ -245,7 +245,7 @@ the case.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner18.png" width="50%"/>
-		    <figcaption><i>Figure 8. Away from the critical angle.</i></figcaption>
+		    <figcaption><i>Figure 8. Critical angle on an isosceles triangle.</i></figcaption>
 	</div>
 	</figure>
 
