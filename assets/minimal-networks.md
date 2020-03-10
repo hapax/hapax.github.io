@@ -265,12 +265,17 @@ c^2 = a^2 + b^2 + ab.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Conclude that
+(b) From part (a), show that
 </span>
 
 $$
 a + 2b < 2c.
 $$
+
+<span style="padding-left: 20px; display:block">
+(b) Conclude that for an isosceles triangle $ABC$, the critical angle
+is $\theta_\text{crit} = 120^\circ$.
+</span>
 
 ---
 
