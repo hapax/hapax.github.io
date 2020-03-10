@@ -31,7 +31,7 @@ date:  2020-02-11
 
 Suppose we want to join up three towns ($A$, $B$ and $C$) by rail.
 If I can use this railway to travel from one town to any
-other, we say that rail network is *connected*.
+other, we say that the rail network is *connected*.
 Two simple examples of connected networks are shown below.
 
 <figure>
@@ -45,18 +45,16 @@ Two simple examples of connected networks are shown below.
 Building railways is expensive, since we not only need to design and
 build the rail itself, but acquire the land beneath it.
 In contrast, stations are cheap: we just slap together some sidings, a
-platform, and a bench or two, and we're done.
-If we want to minimise cost, we should therefore make the total length
-of the rail network as short as possible, adding extra stations if they
-assist us in this goal.
+platform, and a bench or two, and voila.
+To minimise cost, we should make the total length of the rail network
+as short as possible, adding extra stations if they help us do this.
 The resulting layout is called the *minimal network* connecting $A$, $B$ and $C$.
 
-We can consider the same problem for $n$ stations, and seek rail
-networks of smallest total length.
-Although finding the exact solution is difficult in
-general, we can use simple reasoning to learn some important features
-of the connectivity and layout of these minimal networks.
-We will step through the reasoning in bite-sized chunks, starting with
+We can consider the same problem for $n$ stations, and find the rail
+networks of smallest total length which connect them.
+Although finding the exact minimal network is difficult in
+general, we can derive some beautiful results about their connectivity and layout.
+We step through the reasoning in bite-sized chunks, starting with
 the problem of connecting three cities.
 
 ---
@@ -82,21 +80,20 @@ See if you can do better than either.
 ## 2. Triangles <a id="sec-2" name="sec-2"></a>
 
 The three-town problem is already surprising.
-The simplest possibility is the triangular network, but it is not
-minimal; to minimise length, a trident-shaped network with a new
-station $D$ is optimal.
+The simplest network consists of two sides of the triangle, but it is
+not minimal; to minimise length, a trident-shaped network, with a new
+hub station $D$ in the centre, is optimal.
 The best place to put the hub station is called the *Fermat point*, and if you are keen, you can learn how to
 determine this point in the <a href="#sec-A">appendix</a>.
 But for the rest of the post, we will only worry about *when* we
 should build a hub, rather than *where* it goes exactly.
 This will save us some hard trigonometry!
-Our first and only exception will be an important special case: the
-equilateral triangle.
+The one exception will be an important special case: the equilateral triangle.
 
 ### 2.1. Equilateral triangles <a id="sec-2-1" name="sec-2-1"></a>
 
-Suppose that the towns $A$, $B$ and $C$ are now equally spaced,
-and sit on the corners of an equilateral triangle of side length $d$.
+Suppose that the towns $A$, $B$ and $C$ sit on the corners of an
+equilateral triangle of side length $d$.
 The triangular network has total length $L_\Lambda = 2d$.
 
 <figure>
@@ -106,9 +103,8 @@ The triangular network has total length $L_\Lambda = 2d$.
 	</div>
 	</figure>
 
-We might imagine that a trident network with a station in the middle
-does better, but instead of checking with a ruler, let's do a little
-trigonometry.
+It seems plausible that the trident network does better, but instead
+of checking with a ruler, let's do some basic trigonometry.
 
 ---
 
@@ -126,13 +122,18 @@ than the triangle.
 
 ---
 
-We are going to argue not only that the trident network is better than
-the triangle network, but that the best place to put the hub station
-$D$ is right in the centre, using *symmetry*.
-Let's place $D$ anywhere we like, but now draw one of the *axes of
-symmetry* of the triangle, represented by the red line in Figure 3.
-We are going to move the hub side to side in a normal direction to the
-axis of symmetry, drawn as a dark blue line in Figure 3.
+You might guess that the best place to put the hub station $D$ is
+right in the centre.
+In fact, we can prove this using symmetry.
+If this seems obvious to you, feel free to skip the proof!
+
+---
+
+*Proof.*
+Place $D$ anywhere you like, and draw an axis of symmetry of the
+triangle, represented by the red line in Figure 3.
+We are going to wiggle the hub side to side perpendicular to axis of
+symmetry, along the dark blue line in Figure 3.
 
 <figure>
     <div style="text-align:center"><img src
@@ -177,46 +178,6 @@ length will get very large as well.
 This suggests that $L$ is a *minimum* and not a *maximum* at $x=
 0$, so the top graph in Figure 4 is the correct one.
 If it was a maximum, then length would get smaller at large $x$!
-
----
-
-*Exercise 4 (exact length).* Although this argument is plausible,
- it doesn't rule out the possibility that $x=0$ is actually a maximum,
- with the true minimum at some symmetrically spaced points $\pm
- x_\text{min}$, before length increases again as $|x|$ gets larger.
- If you are worried, you can calculate the length exactly and check!
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner6.png" width="35%"/>
-		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
-	</div>
-	</figure>
-
-<span style="padding-left: 20px; display:block">
-(a) Show that, for the triangle in Figure 6, the length of the network is
-</span>
-
-$$
-\begin{align*}
-L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
-\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
-\end{align*}
-$$
-
-<span style="padding-left: 20px; display:block">
-*Note.* We choose side length $2d$ rather than $d$ to simplify the algebra.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(b) Check this function is even, i.e. $L(x) = L(-x)$.
-</span>
-
-<span style="padding-left: 20px; display:block">
-(c) For simplicity, we can set $d= 1$.
-Plot $L(x)$ for various values of $h$ between $0$ and its
-maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
-</span>
 
 ---
 
@@ -680,3 +641,45 @@ https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/
 https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
 https://en.wikipedia.org/wiki/Steiner_tree_problem
 https://www.sciencedirect.com/science/article/pii/0012365X93E01835
+
+---
+
+*Exercise 4 (exact length).* Although this argument is plausible,
+ it doesn't rule out the possibility that $x=0$ is actually a maximum,
+ with the true minimum at some symmetrically spaced points $\pm
+ x_\text{min}$, before length increases again as $|x|$ gets larger.
+ If you are worried, you can calculate the length exactly and check!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner6.png" width="35%"/>
+		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(a) Show that, for the triangle in Figure 6, the length of the network is
+</span>
+
+$$
+\begin{align*}
+L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
+\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
+\end{align*}
+$$
+
+<span style="padding-left: 20px; display:block">
+*Note.* We choose side length $2d$ rather than $d$ to simplify the algebra.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Check this function is even, i.e. $L(x) = L(-x)$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) For simplicity, we can set $d= 1$.
+Plot $L(x)$ for various values of $h$ between $0$ and its
+maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
+</span>
+
+---
