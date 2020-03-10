@@ -20,11 +20,8 @@ date:  2020-02-11
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
    2. <a href="#sec-3-2">Bounding hubs</a>
-   3. <a href="#sec-3-3">A rural railway</a>
-4. <a href="#sec-4">Algorithms</a>
-   1. <a href="#sec-4-1">Computational hardness</a>
-   2. <a href="#sec-4-2">Spanning trees vs minimal networks</a>
-   3. <a href="#sec-4-3">Soap bubbles and quantum computers</a>
+   3. <a href="#sec-3-3">Hard polygons</a>
+4. <a href="#sec-4">Soap bubbles</a>
 5. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -238,11 +235,11 @@ triangle.
   ⁂
 </p>
 
-*Exercise 5 (critical angle).* The argument above really only
+*Exercise 5 (critical isosceles).* The argument above really only
 establishes that $\theta_\text{crit} \leq 120^\circ$.
 It is possible, in principle, that the triangular network becomes
 shorter at some angle $\theta_\text{crit} < 120^\circ$.
-In this exercise, we will show for a specific setup that this is not
+In this exercise, we will show for an isosceles triangle that this is not
 the case.
 
 <figure>
@@ -562,6 +559,8 @@ The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
 In this case, the leaves of the graph are exactly the fixed nodes.
 
+### 3.3. Hard polygons <a id="sec-3-3" name="sec-3-3"></a>
+
 Knowing the number of hubs (or the maxmimum number) is useful for a
 couple of reasons.
 First of all, in real life, hubs cost money, and you can budget for
@@ -593,15 +592,7 @@ hexagon with centre, specifying the exact position of hubs.
 
 ---
 
-### 3.3. A rural railway <a id="sec-3-3" name="sec-3-3"></a>
-
-## 4. Algorithms <a id="sec-4" name="sec-4"></a>
-
-### 4.1. Computational hardness <a id="sec-4-1" name="sec-4-1"></a>
-
-### 4.2. Spanning trees vs minimal networks <a id="sec-4-1" name="sec-4-1"></a>
-
-### 4.3. Soap bubbles and quantum computers <a id="sec-4-2" name="sec-4-2"></a>
+## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
 ## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
