@@ -552,7 +552,6 @@ $$
 \frac{1}{2}\left(n + 3h\right) \leq N - 1 = n +h - 1.
 $$
 
-This is depicted in Figure 14.
 After some algebra, we find that
 
 $$
@@ -561,7 +560,7 @@ $$
 
 The maximum number of hubs $h = n - 2$ is achieved when each fixed point has
 precisely one edge.
-The leaves of the graph are exactly the fixed nodes.
+In this case, the leaves of the graph are exactly the fixed nodes.
 
 Knowing the number of hubs (or the maxmimum number) is useful for a
 couple of reasons.
