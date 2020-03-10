@@ -36,7 +36,7 @@ Two simple examples of connected networks are shown below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner1.png" width="70%"/>
+    ="/images/posts/steiner1.png" width="75%"/>
 		    <figcaption><i>Figure 1. Rail networks (triangle and
     trident) connecting three towns.</i></figcaption>
 	</div>
