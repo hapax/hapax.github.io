@@ -238,10 +238,12 @@ triangle.
   ⁂
 </p>
 
-*Exercise 5 (critical angle).* This argument above really only
+*Exercise 5 (critical angle).* The argument above really only
 establishes that $\theta_\text{crit} \leq 120^\circ$.
-We can check for a simple case that decreasing $\theta < 120^\circ$
-causes the trident to become shorter once more.
+It is possible, in principle, that the triangular network becomes
+shorter at some angle $\theta_\text{crit} < 120^\circ$.
+In this exercise, we will show for a specific setup that this is not
+the case.
 
 <figure>
     <div style="text-align:center"><img src
@@ -250,8 +252,12 @@ causes the trident to become shorter once more.
 	</div>
 	</figure>
 
-In Figure 8, we will show that the green lines are shorter than the
-red lines, provided the angle at the bottom is $120^\circ$.
+Figure 8 shows the triangular network (blue lines) $ABC$, forming an angle of
+$120^\circ$.
+We now raise the two nodes $A$ and $B$ at the end, so that the angle
+$ABC$ is less than $120^\circ$.
+You can prove that the green lines are shorter than the red lines, so
+that an interior hub $D$ yields a shorter network.
 
 <span style="padding-left: 20px; display:block">
 (a) Show using the law of cosines (or otherwise) that
