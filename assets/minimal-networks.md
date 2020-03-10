@@ -253,7 +253,7 @@ Figure 8 shows the triangular network (blue lines) $ABC$, forming an angle of
 $120^\circ$.
 We now raise the two nodes $A$ and $B$ at the end, so that the angle
 $ABC$ is less than $120^\circ$.
-You can prove that the green lines are shorter than the red lines, so
+You can prove that the green and purple lines are shorter than the red lines, so
 that an interior hub $D$ yields a shorter network.
 
 <span style="padding-left: 20px; display:block">
