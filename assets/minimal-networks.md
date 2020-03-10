@@ -143,15 +143,12 @@ symmetry, along the dark blue line in Figure 3.
 	</div>
 	</figure>
 
-As we wiggle the hub left or right of the axis, the total length of
+As we move the hub left or right of the axis, the total length of
 the network (the lengths of the light blue legs) will change.
-But symmetry places strong constraints on how it changes.
-If we shift $D$ a distance $x$ to the left of the axis, this
-should give exactly the length as shifting to the right by $x$, since
-the triangle is left-right symmetric around the red line.
-Thus, the function is *even*, with $L(x) = L(-x)$, where $x$ is the
-shift away from the axis, with $x < 0$ to the left and $x > 0$ to the
-right.
+But symmetry places strong constraints on how it changes, and in
+particular, a wiggle to the left a distance $x$ should give the same
+total length as wiggling to the right a distance $x$.
+
 
 <figure>
     <div style="text-align:center"><img src
@@ -164,9 +161,10 @@ right.
 In Figure 4, we have drawn two possibilities for an even length
 function $L(x)$.
 It can either be a *minimum* at the point of symmetry $x = 0$, or a
-*maximum*. A function which is even around $x= 0$ has no other choice!
+*maximum*.
 But it's clear from Figure 5 that if we make $x$ very large, the
 length will get very large as well.
+This suggests that $L$ is a minimum.
 
 <figure>
     <div style="text-align:center"><img src
@@ -175,9 +173,34 @@ length will get very large as well.
 	</div>
 	</figure>
 
-This suggests that $L$ is a *minimum* and not a *maximum* at $x=
-0$, so the top graph in Figure 4 is the correct one.
-If it was a maximum, then length would get smaller at large $x$!
+**Exercise 4.**  Although this argument is plausible, it doesn't rule
+ out the possibility that $x=0$ is actually a maximum,  with the true minimum at some symmetrically spaced points $\pm
+ x_\text{min}$, before length increases again as $|x|$ gets larger.
+ If you are worried, you can calculate the length exactly and check!
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner6.png" width="35%"/>
+		    <figcaption><i>Figure 6. Calculating the exact network length.</i></figcaption>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(a) Show that, for the triangle in Figure 6, the length of the network is
+</span>
+
+$$
+\begin{align*}
+L(x) &= L_1 + L_2 + L_3 \\ & = \sqrt{\left(\sqrt{3}d - h\right)^2 + x^2} +
+\sqrt{h^2 + (d-x)^2} + \sqrt{h^2 + (d+x)^2}.
+\end{align*}
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) For simplicity, we can set $d= 1$.
+Plot $L(x)$ for various values of $h$ between $0$ and its
+maximum value $\sqrt{3}$, and verify that $x=0$ is indeed a minimum of length.
+</span>
 
 ---
 
