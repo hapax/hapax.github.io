@@ -75,8 +75,7 @@ and a trident-shaped network with a hub station $D$ in the middle.
 Which is shorter?
 See if you can do better than either.
 
-*Hint.* Measure lengths on the screen with a ruler. You may
- feel like your grandparents, but it works!
+*Hint.* Measure lengths on the screen with a ruler. It works!
 
 ---
 
