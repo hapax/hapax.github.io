@@ -140,7 +140,8 @@ the dark blue line in Figure 3.
 From left-right symmetry, the length must either be a minimum or a
 maximum on the axis itself.
 Since the total nework length gets very large when we take the hub
-outside the triangle, it must be a *minimum* on the axis of symmetry itself.
+outside the triangle, it must be a *minimum*.
+So, for a minimal network, we must place $D$ on the red line.
 
 <figure>
     <div style="text-align:center"><img src
@@ -220,7 +221,7 @@ network simply removes the corresponding leg of the trident (Figure 7).
 
 ---
 
-*Exercise 5 (cutting corners).* Suppose that in Figure 7, we can add
+*Exercise 4 (cutting corners).* Suppose that in Figure 7, we can add
 a new hub $E$ which reduces the length of the network.
 Explain how adding $E$ could reduce the length of the network in
 Figure 7, and thereby improve our solution for the equilateral
@@ -235,15 +236,9 @@ triangle.
 
 ---
 
-We should be satisfied that for an angle of $\theta = 120^\circ$,
-the trident collapses into a triangular network.
-But could it happen earlier, with $\theta_\text{crit} < 120^\circ$?
-We can actually run Figure 6 in reverse to see this won't happen.
-Imagine that $A$ and $C$ move *up* along the purple curves from the
-initial angle of $120^\circ$.
-Then the hub $D$ should smoothly move up as well.
-Thus, we conclude that $\theta_\text{crit} = 120^\circ$.
-This is not a fully rigorous proof, but I hope a plausible one.
+This argument really only establishes that $\theta_\text{crit} \leq
+120^\circ$.
+It may be that, for some smaller angle, the 
 
 ### 2.3. Hubs and spokes <a id="sec-2-3" name="sec-2-3"></a>
 
