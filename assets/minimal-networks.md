@@ -710,26 +710,16 @@ Surface tension tries to pull the bubble surface taut in all
 directions, which results in the *minimisation of area*.
 A soap bubble is spherical, for instance, since this is the smallest
 surface containing a fixed volume of air.
-If we attach two plexiglass plates together, and dip them in soapy water,
-then bubbles will typically form with vertical walls between the two
-plates.
+If we attach two plexiglass plates together and dip them in soapy water,
+a two-dimensional network of bubbles with vertical walls will form.
 
-Viewed from above, this is a two-dimensional bubble network.
-Most of the time, a bubble network is not a minimal network, since
-bubbles will form closed loops, which we explicitly ruled out <a
+Typically, bubbles will form closed loops and hence are not minimal
+networks in our sense, since we explicitly ruled out loops <a
 href="#sec-3-1">earlier</a>.
 But bubbles are *locally minimal*, in the sense that surface tension
 will tug on bubble walls, and reconfigure small bubbles, until doing
 so cannot reduce the area.
-To use
-[Scott Aaaronson's analogy](https://www.scottaaronson.com/papers/npcomplete.pdf),
-it's like a rock tumbling down a mountain, but getting stuck in a
-crevasse.
-It doesn't fall all the way to the bottom --- the true minimum ---
-but gets stuck in a local minimum instead.
-
-So, globally the bubbles need not be a Steiner tree.
-But the <a href="#sec-2-3">result we found earlier</a>, that hubs have
+And the <a href="#sec-2-3">result we found earlier</a>, that hubs have
 three equally separated spokes, is a *local* condition, since it
 applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
@@ -738,13 +728,13 @@ This even applies to *curved* bubble walls (which arise from [pressure
 differences](https://en.wikipedia.org/wiki/Young-Laplace)), since when
 you zoom in on a junction these curved walls look straight.
 
-We can use this to learn a fun fact about foams: they like to form
-hexagons!
+We can use this to learn the fun fact that two-dimensional foams like
+to form hexagons!
 We don't need any physics, just the result about hubs, some network
 theory, and a few assumptions about how different quantities grow with
 the total size of the foam.
-The main fact we use is *Euler's formula*, governing the
-relationship between nodes $N$, edges $E$, and faces (closed loops)
+The main fact about networks we use is *Euler's formula*, governing
+the relationship between nodes $N$, edges $E$, and faces (closed loops)
 $F$ in a graph:
 
 $$
