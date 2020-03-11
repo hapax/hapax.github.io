@@ -918,9 +918,9 @@ bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
 But this doesn't prevent soap bubbles from giving quick and correct
 solutions to *some* problems.
 Nor does it prevent soap bubbles from *approximating* the answer to
-hard problems (and indeed, there are
-[quick algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-for approximating minimal networks on a regular computer).
+hard problems, and indeed, there are
+[quick approximation algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
+for regular computers.
 
 #### References
 
