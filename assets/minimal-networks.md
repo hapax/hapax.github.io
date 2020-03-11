@@ -845,6 +845,7 @@ $$
 
 As the foam becomes larger, departures from hexagonality become
 increasingly rare!
+A typical bubble in a two-dimensional foam has six sides.
 
 ---
 
