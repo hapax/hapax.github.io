@@ -660,8 +660,8 @@ effectively impossible to compute.
 ---
 
 *Exercise 12 (counting tinkertoys).* Counting the precise number of
-tinkertoys $T_h$, for any number of hubs $h = n - 2$, is difficult.
-We cheat in two different ways: show that $T_h$ is greater than some
+tinkertoys $T_h$ for any number of hubs $h$ is difficult.
+But we can cheat in two different ways: show that $T_h$ is greater than some
 exponentially growing sequence, $S_h$; or use "physicist's induction",
 where we calculate for small $h$ and guess the rest of the sequence.
 
