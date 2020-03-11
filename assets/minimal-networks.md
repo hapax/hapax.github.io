@@ -962,9 +962,10 @@ The software is nothing more complicated than drilling nails, dipping,
 and waiting for bubbles to form.
 In terms of computers built out of physically interesting hardware,
 this is just the tip of the iceberg!
-The next revolution in computing will be the advent of *quantum
-computing*, but there also a sense in which black holes, DNA, and
-evolved organisms are all analogue computers like the soap bubbles.
+One of the big technological revolutions now in the progress is the
+advent of *quantum computing*, but more surprisingly, there is a sense
+in which black holes, DNA, and evolved organisms are all analogue
+computers like the soap bubbles.
 There are more computers in heaven and earth than are
 dreamt of in our philosophy.
 
