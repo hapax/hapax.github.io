@@ -21,7 +21,6 @@ date:  2020-02-11
    2. <a href="#sec-3-2">Bounding hubs</a>
    3. <a href="#sec-3-3">Tinkertoys</a>
 4. <a href="#sec-4">Soap bubbles</a>
-5. <a href="#sec-A">Fermat points*</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -44,7 +43,8 @@ In contrast, stations are cheap: we just slap together some sidings, a
 platform, and a bench or two, and voila.
 To minimise cost, we should make the total length of the rail network
 as short as possible, adding extra stations if they help us do this.
-The resulting layout is called the *minimal network* connecting $A$, $B$ and $C$.
+The resulting layout is called the *minimal* or *Steiner
+network* connecting $A$, $B$ and $C$.
 
 We can consider the same problem for $n$ stations, and find the rail
 networks of smallest total length which connect them.
@@ -79,8 +79,8 @@ The three-town problem is already surprising.
 The simplest network consists of two sides of the triangle, but it is
 not minimal; to minimise length, a trident-shaped network, with a new
 hub station $D$ in the centre, is optimal.
-The best place to put the hub station is called the *Fermat point*, and if you are keen, you can learn how to
-determine this point in the <a href="#sec-A">appendix</a>.
+The best place to put the hub station is called the *Fermat point*,
+which you can find defined in various places online.
 But for the rest of the post, we will only worry about *when* we
 should build a hub, rather than *where* it goes exactly.
 This will save us some hard trigonometry!
@@ -176,10 +176,9 @@ and the corresponding smooth change of hub in green.
 
 Since the hub position changes smoothly, it should stay inside the
 triangle for small deformations of the corners.
-But for triangles which are very far from equilateral, you might
-imagine that the hub actually *intersects* one of the corners, and our
-trident network becomes a simpler triangular network, formed from two
-sides of the triangle.
+But for triangles which are very far from equilateral, the hub might
+*intersect* one of the corners, and our trident network becomes a
+simpler triangular network, formed from two sides of the triangle.
 
 <figure>
     <div style="text-align:center"><img src
@@ -445,6 +444,7 @@ or $2$.
 Once we have completely pruned the network, there is only a single
 path connecting any two nodes $A$ and $B$.
 Such a network is called a *tree* because of the way it branches.
+For this reason, minimal networks are more often called *Steiner trees*.
 An example is shown in Figure 12.
 
 <figure>
@@ -644,13 +644,12 @@ For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in 
 	</figure>
 
 In Exercise 12, you'll see that there are *exponentially many*
-tinkertoys at fixed $n$, as $n$ gets large.
+tinkertoys with $h$ hubs as $h$ gets large.
 A brute force approach, which simply checks each tinkertoy, will
-therefore take an exponential amount of time.
+therefore take an exponential amount of time!
 As it turns out, there are no known algorithmic shortcuts that do
-substantially better than brute force!
-Even if you can rule out a few tinkertoys, you always need to check
-exponentially many.
+substantially better than brute force: even if you can rule out a few
+tinkertoys, you always need to check exponentially many.
 Despite all we've learned, for large $n$, minimal networks seem
 effectively impossible to compute.
 
@@ -658,8 +657,8 @@ effectively impossible to compute.
 
 *Exercise 12 (counting tinkertoys).* Counting the precise number of
 tinkertoys $T_h$, for any number of hubs $h = n - 2$, is difficult.
-We can approach this two ways: showing that $T_h$ is greater than some
-exponentially growing sequence, $S_h$, and "physicist's induction",
+We cheat in two different ways: show that $T_h$ is greater than some
+exponentially growing sequence, $S_h$; or use "physicist's induction",
 where we calculate for small $h$ and guess the rest of the sequence.
 
 <figure>
@@ -691,13 +690,10 @@ $$
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
-## A. Fermat points* <a id="sec-A" name="sec-A"></a>
 
 #### References
 
-https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/
+[The Steiner Minimal Tree](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/)
 https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
 https://en.wikipedia.org/wiki/Steiner_tree_problem
-https://www.sciencedirect.com/science/article/pii/0012365X93E01835
-https://link.springer.com/content/pdf/10.1007/BF02187892.pdf
 http://www.steiner.usmart.dk/history.html
