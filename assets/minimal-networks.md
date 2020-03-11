@@ -989,6 +989,11 @@ modelled as living on a plane, with "reversed" Cartesian coordinates $(y, x)$.
 
 ---
 
+#### Acknowledgments
+
+I'd like to thank Rafael Hanael, Pedro Lopes and Haris Amiri for
+feedback, and Rafael particularly for his encouragement.
+
 #### References
 
 - ["**NP-complete problems and physical reality**"](https://www.scottaaronson.com/papers/npcomplete.pdf)
