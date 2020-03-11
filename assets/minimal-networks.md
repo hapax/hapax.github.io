@@ -730,8 +730,8 @@ but gets stuck in a local minimum instead.
 
 So, globally the bubbles need not be a Steiner tree.
 But the <a href="#sec-2-3">result we found earlier</a>, that hubs have
-three equally separated spokes, is a *local* condition.
-It applies in the small region around a node!
+three equally separated spokes, is a *local* condition, since it
+applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
 walls always meet in sets of three, separated by $120^\circ$.
 This even applies to *curved* bubble walls (which arise from [pressure
@@ -743,7 +743,7 @@ hexagons!
 We don't need any physics, just the result about hubs, some network
 theory, and a few assumptions about how different quantities grow with
 the total size of the foam.
-The main result we need is called *Euler's formula*, governing the
+The main fact we use is *Euler's formula*, governing the
 relationship between nodes $N$, edges $E$, and faces (closed loops)
 $F$ in a graph:
 
