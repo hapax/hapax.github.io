@@ -638,7 +638,7 @@ For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in 
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner20.png" width="95%"/>
+    ="/images/posts/steiner20.png" width="90%"/>
 		    <figcaption><i>Figure 16. Some tinkertoys for n = 6.</i></figcaption>
 	</div>
 	</figure>
