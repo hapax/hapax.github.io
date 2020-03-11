@@ -982,6 +982,9 @@ nails:
 - Hannover: $(52.4, 9.7)$
 - Harburg: $(53.5, 9.9)$
 
+Although these are points on a sphere, they are close enough to be
+modelled as living on a plane, with "reversed" Cartesian coordinates $(y, x)$.
+
 ---
 
 #### References
