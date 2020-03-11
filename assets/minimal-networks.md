@@ -918,9 +918,10 @@ bubbles to quickly solve for arbitrary Steiner trees.
 
 But this doesn't prevent soap bubbles from giving quick and correct
 solutions to *some* problems, nor does it forbid them from
-*approximating* the answer. (Indeed, there are
+*approximating* the answer.
+Indeed, there are
 [quick approximation algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-for regular computers, so we shouldn't be surprised if this is possible.)
+for regular computers, so we shouldn't be surprised if this is possible.
 Instead of computing these difficult things by hand, you might hope to
 quickly (and perhaps approximately) solve problems by dipping them in
 soapy water.
