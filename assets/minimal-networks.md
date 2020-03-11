@@ -647,10 +647,14 @@ For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in 
 In Exercise 12, you'll prove that there are *exponentially many*
 tinkertoys with $h$ hubs as $h$ gets large.
 A brute force approach, which simply checks each tinkertoy, will take
-an exponential amount of time!
-It turns out there are no algorithmic shortcuts, allowing you to check
-less than an exponential number of tinkertoys.
-This makes large minimal networks effectively impossible to compute.
+an exponential amount of time, and since exponential get large very
+quickly, this approach is not computationally feasible for large $h$.
+Unfortunately, there are no algorithmic shortcuts!
+You can eliminate some tinkertoys from consideration, but as $n$ gets
+large, there will always be fixed nodes which require you to try an
+exponential number.
+This makes the mathematical solution of the minimal network
+effectively impossible to compute.
 
 ---
 
@@ -695,10 +699,19 @@ But despair is premature!
 It turns out that
 [excellent approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
 to Steiner trees exist.
-But more strikingly, there are analogies between minimal networks and
-bubbles that let us solve --- quickly but approximately --- Steiner prob
+Even more strikingly, we can quickly (if imperfectly) find minimal
+networks by dipping glass plates in soapy water.
 
 ### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
+
+Bubbles are formed when a film of liquid separates two regions of air.
+The film is subject to *surface tension*, which tries to pull the
+surface as taut as possible in all directions.
+Since the volume of air contained in a bubble is fixed, this means the
+bubbles will assume the minimum total surface area, subject to some
+constraints (volume of air in bubbles).
+This explain why a lone bubble is spherical: a sphere is the surface
+of minimum area enclosing a given volume of air.
 
 #### References
 
