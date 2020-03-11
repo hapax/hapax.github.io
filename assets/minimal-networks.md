@@ -700,6 +700,8 @@ disposal than us mere mortals!
 While we struggle with tinkertoys, Nature can solve our problems, to
 good approximation, as effortlessly as a ball falls to the
 ground.
+We'll start by thinking about soap bubble networks in general, and
+finish by describing soap bubble computers to help us find minimal networks.
 
 ### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
 
