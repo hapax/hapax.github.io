@@ -858,7 +858,8 @@ $$
 
 where $N$ is the number of nodes, $E$ the number of edges, and $F$ the
 number of faces, in a network where edges do not cross.
-The convenient symbol $\chi$ is called the *Euler characteristic*.
+We have defined the *Euler characteristic* $\chi$ to save
+space.
 Although we are discussing this in the context of graphs, it holds
 in general for three-dimensional polyhedra like cubes and dodecahedra.
 In fact, the two are equivalent, since we can always flatten a
