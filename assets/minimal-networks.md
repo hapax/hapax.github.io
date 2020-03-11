@@ -698,7 +698,7 @@ Humans are not the only players in the minimisation game.
 *Nature* also likes to minimise, and has far more power at her
 disposal than mere mortals!
 While we struggle with tinkertoys, Nature can solve our problems, to
-good approximation, with the same effort as letting a ball fall to the
+good approximation, as effortlessly as a ball falls to the
 ground.
 
 ### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
