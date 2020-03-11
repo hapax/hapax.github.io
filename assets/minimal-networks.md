@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A hacker's guide to Steiner trees and soap bubbles"
+title:  "Steiner trees and soap bubbles"
 categories: [Mathematics, Physics, Hacks]
 date:  2020-02-11
 ---
