@@ -658,16 +658,36 @@ effectively impossible to compute.
 
 *Exercise 12 (counting tinkertoys).* Counting the precise number of
 tinkertoys $T_h$, for any number of hubs $h = n - 2$, is difficult.
-We can approach this two ways: 
+We can approach this two ways: showing that $T_h$ is greater than some
+exponentially growing sequence, $S_h$, and "physicist's induction",
+where we calculate for small $h$ and guess the rest of the sequence.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner21.png" width="95%"/>
+		    <figcaption><i>Figure 17. Snake tinkertoys for n = 5.</i></figcaption>
+	</div>
+	</figure>
 
 <span style="padding-left: 20px; display:block">
-(a) Consider the set of "snake" tinkertoys, 
+(a) Consider the set of "snake" tinkertoys, where hubs are connected
+in a line. Show that, for $h$ hubs, there are $S_h = 2^{n-2}$ snake
+tinkertoys.
+Since $T_h \geq S_h$, this shows that the total number of tinkertoys
+grows exponentially.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Draw the tinkertoy for a regular pentagon, and schematically
-indicate what the minimal network looks like.
+(b) Calculate the number of tinkertoys for $h = 0$ to $h =
+6$. You should be able to find the general sequence $T_h$ by searching
+in the [Online Encyclopedia of Integer Sequences](https://oeis.org/),
+where you will learn that at large $h$, this sequence can be
+approximated by the exponential
 </span>
+
+$$
+T_h \approx \frac{2^{2n-4}}{\sqrt{\pi}h^{5/2}}.
+$$
 
 ---
 
