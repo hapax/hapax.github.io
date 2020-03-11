@@ -810,7 +810,8 @@ from a hexagon!
 There are a few cute things we can learn from this expression.
 First of all, the LHS is positive, so $D_\varhexagon \geq 0$.
 The number of "small" faces $F_1, \ldots, F_5$ places a strong
-constraint on the number of "large" faces: $F_7, F_8, \ldots$:
+constraint on the number of "large" faces $F_7, F_8, \ldots$, and so
+on:
 
 $$
 5 \cdot F_1 + 4 \cdot F_2 + \cdots + 1\cdot F_5 \geq + 1 \cdot F_7 +
