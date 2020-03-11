@@ -726,6 +726,16 @@ crevasse.
 It does not fall all the way to the bottom --- the true minimum ---
 but gets stuck in a local minimum instead.
 
+So, globally the bubbles need not be a Steiner tree.
+But the <a href="#sec-2-3">result we found earlier</a>, that hubs have
+three equally separated spokes, is a *local* condition.
+It applies in the small region around a node!
+This means that in bubble networks, the same property is true: bubble
+walls always meet in sets of three, separated by $120^\circ$.
+This even applies to *curved* bubble walls (which arise from pressure
+differences), since when you zoom in on a junction these curved films
+look straight.
+
 ### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
 
 #### References
