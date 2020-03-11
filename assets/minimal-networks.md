@@ -803,11 +803,12 @@ $$
 
 On the LHS, we have a term involving the number of external edges
 $E_b$.
-On the RHS, we have the *total departure from hexagonality*.
+On the RHS, we have the *total departure from hexagonality*, which
+we'll call $D_\varhexagon$.
 For a face with $s$ sides, $6-s$ tells you how different it is
 from a hexagon!
 There are a few cute things we can learn from this expression.
-First of all, the LHS is positive, so the RHS is positive.
+First of all, the LHS is positive, so $D_\varhexagon \geq 0$.
 The number of "small" faces $F_1, \ldots, F_5$ places a strong
 constraint on the number of "large" faces: $F_7, F_8, \ldots$:
 
@@ -816,11 +817,49 @@ $$
 2\cdot F_8 + \cdots \,.
 $$
 
+So if I count the number of small faces, I can immediately figure out
+the maximum number of large faces!
 
+But our main goal was to show that foams are approximately hexagonal,
+so let's proceed.
+Suppose the foam has size $\sim L$, where $L$ is some length scale
+like the radius, and $\sim$ means "scales as".
+Then, assuming bubbles have a typical size independent of $L$, the
+number of external edges $E_b \sim L$.
+For instance, if bubbles have average edge length $\ell$, independent
+of $L$, and we have a circular foam of radius $L$, then $E_b =
+(\pi/\ell)L$.
+It follows that, for large $L$,
+
+$$
+D_\varhexagon = 6 + E_b \sim L.
+$$
+
+The "density" of departures from hexagonality $d_\varhexagon$ is just the departures
+divided by the area of the foam. This should scale as $L^2$, so that
+
+$$
+d_\varhexagon \sim \frac{D_\varhexagon}{L^2} \sim \frac{1}{L}.
+$$
+
+As the foam becomes larger, departures from hexagonality become
+increasingly rare!
 
 ---
 
 *Exercise 13 (Euler's formula).* 
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 14 (counting faces).*
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 15 (soap bubbles).*
 
 ---
 
