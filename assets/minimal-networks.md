@@ -752,7 +752,7 @@ N - E + F = 2.
 $$
 
 This relation is illustrated in Figure 18, and you can prove it in
-Exercise 13.
+Exercise 14.
 Note that we count the whole region outside the network as a face!
 This face seems a little different, and indeed we will treat it differently.
 Now, for a two-dimensional foam, there are no "external" nodes.
@@ -848,10 +848,34 @@ $$
 As the foam becomes larger, departures from hexagonality become
 increasingly rare!
 A typical bubble in a two-dimensional foam has six sides.
+You can repeat the argument, but for a set of contiguous bubbles in a
+larger foam, in Exercise 13.
 
 ---
 
-*Exercise 13 (Euler's formula).* Our goal here will be to prove
+*Exercise 13 (bubble blobs).* A "bubble blob" is a set of contiguous
+bubbles in a (two-dimensional) foam.
+Let $E_o$ denote the number of edges extending outward from the
+boundary, and $E_i$ the number extending inward.
+
+<span style="padding-left: 20px; display:block">
+(a) Explain why the departure from hexagonality is now
+</span> 
+
+$$
+D_\text{hex} = 6 + E_i - E_o.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Repeat the scaling argument above, and conclude that in a large
+blob, departures from hexagonality are rare per unit area.
+</span>
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 14 (Euler's formula).* Our goal here will be to prove
 Euler's famous formula
 
 $$
@@ -901,28 +925,6 @@ Now, we can generalise to any network without crossings.
 (f) Combine your results to conclude that any network without
 crossings obeys $\chi = 2$.
 </span>
-
-<p align="center">
-  ⁂
-  </p>
-
-*Exercise 14 (bubble blobs).* A "bubble blob" is a set of contiguous
-bubbles in a (two-dimensional) foam.
-Let $E_o$ denote the number of edges extending outward from the
-boundary, and $E_i$ the number extending inward.
-
-<span style="padding-left: 20px; display:block">
-(a) Explain why the departure from hexagonality is now
-</span> 
-
-$$
-D_\text{hex} = 6 + E_i - E_o.
-$$
-
-<span style="padding-left: 20px; display:block">
-(b) Repeat the scaling argument above, and conclude that in a large
-blob, departures from hexagonality are rare per unit area.
-</span> 
 
 ---
 
