@@ -940,12 +940,13 @@ You sometimes strike the true minimum, particularly for smaller problems
 where only one tinkertoy works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
-You can build this analogue computer at home out of supplies from
-the hardware store.
 
 Soap bubbles are not a magical way to find all minimal networks.
 But what this example strikingly shows is that *the laws of physics
 do computational work*.
+
+You can build this analogue computer at home out of supplies from
+the hardware store.
 
 #### References
 
