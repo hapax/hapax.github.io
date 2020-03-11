@@ -733,7 +733,7 @@ It applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
 walls always meet in sets of three, separated by $120^\circ$.
 This even applies to *curved* bubble walls (which arise from [pressure
-differences](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)), since when you zoom in on a junction these curved films
+differences](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)), since when you zoom in on a junction these curved walls
 look straight.
 
 We can use this to learn a fun fact about foams: they like to form
@@ -916,10 +916,21 @@ So, as a matter of physical principle, we should expect that soap
 bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
 
 But this doesn't prevent soap bubbles from giving quick and correct
-solutions to *some* problems, now does it forbid them from
+solutions to *some* problems, nor does it forbid them from
 *approximating* the answer. (Indeed, there are
 [quick approximation algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
 for regular computers.)
+Instead of computing these difficult things by hand, you might hope to
+quickly (and perhaps approximately) solve problems by dipping them in
+soapy water.
+
+The key is to give the bubble walls something to hold onto.
+In a foam, they can only hold onto themselves, and we get the
+non-crossing <a href="#sec-4-1">bubble networks</a> described above.
+But if we drill some nails through the glass, these will act like
+fixed nodes in the minimal network problem, and walls can form between
+these nails, or new hubs (junctions of three bubble walls) in the
+bubble surface.
 
 #### References
 
