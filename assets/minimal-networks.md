@@ -928,16 +928,17 @@ This turns out to be the case!
 
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
-non-crossing <a href="#sec-4-1">bubble networks</a> described above.
+non-crossing bubble networks described above.
 But if we drill some nails through the glass, these will act like
-fixed nodes, and walls can form between these nails any hubs arising
+fixed nodes, and walls can form between these nails and hubs arising
 from the junction of three bubble walls.
-This analogue computer isn't perfect
-([Aaronson observes](https://www.scottaaronson.com/papers/npcomplete.pdf)
-that it the local minima it converges to are not always global
-minima), but you can build it at home and get it quickly give the
-right answer to simple minimisation problems.
-See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a demonstration.
+This analogue computer isn't perfect, since the soap bubbles can
+converge on a locally minimal tinkertoy which connects the nails, but
+is not globally minimal.
+But sometimes you get lucky!
+And importantly, you can build this analogue computer at home.
+(See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
+demonstration.)
 
 #### References
 
