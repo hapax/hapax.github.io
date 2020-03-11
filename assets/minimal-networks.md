@@ -738,8 +738,9 @@ look straight.
 
 We can use this to learn a fun fact about foams: they like to form
 hexagons!
-We don't need any physics, just the result about hubs and some more
-network theory.
+We don't need any physics, just the result about hubs, some network
+theory, and a few assumptions about how different quantities grow with
+the total size of the foam.
 The main result we need is called *Euler's formula*, governing the
 relationship between nodes $N$, edges $E$, and faces (closed loops)
 $F$ in a graph:
