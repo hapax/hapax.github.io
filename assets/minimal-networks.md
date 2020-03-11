@@ -673,7 +673,7 @@ where we calculate for small $h$ and guess the rest of the sequence.
 (a) Consider the set of "snake" tinkertoys, where hubs are connected
 in a single line. Show that, for $h$ hubs, there are $S_h = 2^{n-2}$ snake
 tinkertoys.
-Since $T_h \geq S_h$, this shows that the total number of tinkertoys
+Since $T_h \geq S_h$, this demonstrates that the total number of tinkertoys
 grows exponentially.
 </span>
 
