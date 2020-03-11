@@ -721,9 +721,9 @@ will tug on bubble walls, and reconfigure small bubbles, until doing
 so cannot reduce the area.
 To use
 [Scott Aaaronson's analogy](https://www.scottaaronson.com/papers/npcomplete.pdf),
-it is like a rock tumbling down a mountain, but getting stuck in a
+it's like a rock tumbling down a mountain, but getting stuck in a
 crevasse.
-It does not fall all the way to the bottom --- the true minimum ---
+It doesn't fall all the way to the bottom --- the true minimum ---
 but gets stuck in a local minimum instead.
 
 So, globally the bubbles need not be a Steiner tree.
