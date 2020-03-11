@@ -732,8 +732,8 @@ three equally separated spokes, is a *local* condition.
 It applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
 walls always meet in sets of three, separated by $120^\circ$.
-This even applies to *curved* bubble walls (which arise from [pressure
-differences](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)), since when you zoom in on a junction these curved walls
+This even applies to *curved* bubble walls (which arise from pressure
+differences), since when you zoom in on a junction these curved walls
 look straight.
 
 We can use this to learn a fun fact about foams: they like to form
@@ -968,6 +968,23 @@ constraints (volume of air in bubbles).
 This explain why a lone bubble is spherical: a sphere is the surface
 of minimum area enclosing a given volume of air.
 
+where $p_\text{air}$ is the external air pressure.
+
+<span style="padding-left: 20px; display:block">
+(c) Assume that the temperature of the air inside a bubble is the same
+as the ambient temperature.
+Explain why part (b) suggests a maximum bubble size
+</span>
+
+$$
+r_\text{max} = \frac{2\sigma}{p_\text{air}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+Plugging in $\sigma \approx 0.1 \text{ N/m}$ and atmospheric pressure
+$p_\text{air} \sim 10^5 \text{ N/m}^2$, do you get a reasonable size?
+</span>
+
 <p align="center">
   ⁂
   </p>
@@ -990,31 +1007,40 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-In fact, there is a factor of $2$, which we will use henceforth.
+For soap bubbles, we in fact have $\Delta p = 4\sigma/r$.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Recall the ideal gas law, $pV = nRT$.
-Combine this with the Young-Laplace equation to find that, for our soap bubble,
+(b) Show that the ideal gas law
 </span>
 
 $$
-p_\text{air} = \frac{3nRT}{4\pi r^3} + \frac{2\sigma}{r},
+pV = nRT
 $$
 
-where $p_\text{air}$ is the external air pressure.
-
 <span style="padding-left: 20px; display:block">
-(c) Assume that the temperature of the air inside a bubble is the same
-as the ambient temperature.
-Explain why part (b) suggests a maximum bubble size
+can be rewritten
 </span>
 
 $$
-r_\text{max} = \frac{2\sigma}{p_\text{air}}.
+p = \frac{\rho RT}{M},
 $$
 
 <span style="padding-left: 20px; display:block">
-Plugging in $\sigma \approx 0.1 \text{ N/m}$ and atmospheric pressure
-$p_\text{air} \sim 10^5 \text{ N/m}^2$, do you get a reasonable size?
+where $rho$ is the density of water and $M$ its molar mass.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Show that the ideal  $p = (\rho/M) RT$, where $rho$ is the
+density of water and $M$ its molar mass.
+For a bubble of thickness $d$, show that
+</span>
+
+$$
+r = \frac{4\sigma}{\frac{\rho RT}{M} -p_\text{air}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(d) Look up the various numbers involved and plug them in for a bubble
+at standard temperature and pressure.
 </span>
