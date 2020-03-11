@@ -902,6 +902,28 @@ Now, we can generalise to any network without crossings.
 crossings obeys $\chi = 2$.
 </span>
 
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 14 (bubble blobs).* A "bubble blob" is a set of contiguous
+bubbles in a (two-dimensional) foam.
+Let $E_o$ denote the number of edges extending outward from the
+boundary, and $E_i$ the number extending inward.
+
+<span style="padding-left: 20px; display:block">
+(a) Explain why the departure from hexagonality is now
+</span> 
+
+$$
+D_\text{hex} = 6 + E_i - E_o.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Repeat the scaling argument above, and conclude that in a large
+blob, departures from hexagonality are rare per unit area.
+</span> 
+
 ---
 
 ### 4.2. Soap bubble computers <a id="sec-4-2" name="sec-4-2"></a>
@@ -971,7 +993,7 @@ dreamt of in our philosophy.
 
 ---
 
-*Exercise 14 (trains and soap bubbles).* The first mathematician to
+*Exercise 15 (trains and soap bubbles).* The first mathematician to
 consider minimal networks on four points was the great
 [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 (1777 -- 1855). In an 1836 letter to his friend, the astronomer
