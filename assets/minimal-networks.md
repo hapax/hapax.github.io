@@ -658,8 +658,7 @@ effectively impossible to compute.
 
 *Exercise 12 (counting tinkertoys).* Counting (or even approximating)
 the precise number of tinkertoys for arbitrary $n$ is very difficult.
-Instead, we will approach the problem using "experimental"
-mathematics.
+Instead, we will approach the problem "experimentally".
 
 <figure>
     <div style="text-align:center"><img src
