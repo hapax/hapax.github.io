@@ -797,10 +797,16 @@ If we plug these expressions into $3F' - E = 3$ and multiply
 everything by two, we finally get
 
 $$
-6 & = 6F' - 2E = - E_b + (6-1) \cdot F_1 + (6-2) \cdot F_2 + \cdots + (6-s)\cdot F_s + \cdots.
+6 + E_b & = 6F' - 2E + E_b = (6-1) \cdot F_1 + (6-2) \cdot F_2 +
+\cdots + (6-s)\cdot F_s + \cdots \,.
 $$
 
-
+On the LHS, we have a term involving the number of external edges
+$E_b$.
+On the RHS, we have the *total departure from hexagonality*.
+Why?
+Because for a face with $s$ sides, $6-s$ tells you how different it is
+from a hexagon!
 
 ---
 
