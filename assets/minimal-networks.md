@@ -708,7 +708,7 @@ Surface tension tries to pull the bubble surface taut in all
 directions, which results in the *minimisation of area*.
 A soap bubble is spherical, for instance, since this is the smallest
 surface containing a fixed volume of air.
-If we attach two glass plates together, and dip them in soapy water,
+If we attach two plexiglass plates together, and dip them in soapy water,
 then bubbles will typically form with vertical walls between the two
 plates.
 
@@ -929,16 +929,23 @@ soapy water, and this turns out to be the case!
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
 non-crossing bubble networks described above.
-But if we drill some nails through the glass, these will act like
+But if we drill some nails through the plexiglass, these will act like
 fixed nodes, and walls can form between these nails and hubs arising
 from the junction of three bubble walls.
 This analogue computer isn't perfect, since the soap bubbles can
 converge on a locally minimal tinkertoy which connects the nails, but
 is not globally minimal.
-But sometimes you get lucky!
-And importantly, you can build this analogue computer at home.
-(See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
-demonstration.)
+But it really is a lucky dip!
+You can strike the true minimum, particularly for smaller problems
+where there is only one tinkertoy that works.
+See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
+demonstration.
+You can build this analogue computer at home out of supplies from
+the hardware store.
+
+Soap bubbles are not a magical way to find all minimal networks.
+But what this example strikingly shows is that *the laws of physics
+do computational work*.
 
 #### References
 
