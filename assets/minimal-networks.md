@@ -793,11 +793,14 @@ $$
 
 Since the $F_s$ only count the internal faces, and each external edge
 will be adjacent to one internal face.
-If we plug these expressions into $3F' - E = 3$, we finally get
+If we plug these expressions into $3F' - E = 3$ and multiply
+everything by two, we finally get
 
 $$
 6 & = 6F' - 2E = - E_b + (6-1) \cdot F_1 + (6-2) \cdot F_2 + \cdots + (6-s)\cdot F_s + \cdots.
 $$
+
+
 
 ---
 
