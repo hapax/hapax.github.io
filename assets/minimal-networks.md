@@ -903,7 +903,7 @@ crossings obeys $\chi = 2$.
 
 ### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
 
-Soap bubbles find local minima quickly, simply by virtue of the laws
+Soap bubbles find local minima quickly, by virtue of the laws
 of physics.
 Can we somehow "hack" soap bubbles, and turn them into analogue
 computers to find Steiner trees?
@@ -916,11 +916,10 @@ So, as a matter of physical principle, we should expect that soap
 bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
 
 But this doesn't prevent soap bubbles from giving quick and correct
-solutions to *some* problems.
-Nor does it prevent soap bubbles from *approximating* the answer to
-hard problems, and indeed, there are
+solutions to *some* problems, now does it forbid them from
+*approximating* the answer. (Indeed, there are
 [quick approximation algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-for regular computers.
+for regular computers.)
 
 #### References
 
