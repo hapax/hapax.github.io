@@ -732,9 +732,77 @@ three equally separated spokes, is a *local* condition.
 It applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
 walls always meet in sets of three, separated by $120^\circ$.
-This even applies to *curved* bubble walls (which arise from pressure
-differences), since when you zoom in on a junction these curved films
+This even applies to *curved* bubble walls (which arise from [pressure
+differences](young-laplace)), since when you zoom in on a junction these curved films
 look straight.
+
+We can use this to learn a fun fact about foams: they like to form
+hexagons!
+We don't need any physics, just the result about hubs and some more
+network theory.
+The main result we need is called *Euler's formula*, governing the
+relationship between nodes $N$, edges $E$, and faces (closed loops)
+$F$ in a graph:
+
+$$
+N - E + F = 2.
+$$
+
+This relation is illustrated in Figure 18, and you can prove it in
+Exercise 13.
+Note that we count the whole region outside the network as a face!
+This face seems a little different, and indeed we will treat it differently.
+Now, for a two-dimensional foam, there are no "external" nodes.
+Each node is a hub, with three edges, so
+
+$$
+2E = 3N,
+$$
+
+where we include the factor of $2$ as usual because of double counting.
+Putting this into Euler's formula, we can eliminate $N$ and find a
+relation between the number of faces and number of edges:
+
+$$
+\frac{2}{3} E - E + F = 2 \quad \Longrightarrow \quad E - 3F = 6.
+$$
+
+As advertised, we can treat the external face a little differently.
+Let's call the *internal* faces $F'$, so that $F = F' + 1$.
+Similarly, let's write $E'$ for the internal edges and $E_b$ for the
+number of edges of the outer face.
+
+What has this got to do with hexagons?
+Let's introduce a number $F_s$ which counts the number of internal faces with
+$s$ sides.
+Since we need at least one side to form a face, the total number of
+internal faces is
+
+$$
+F' = F_1 + F_2 + F_3 + \cdots \,.
+$$
+
+But since each edge is associated with *two* faces, we can also
+express edges in terms of these numbers:
+
+$$
+2E = E_b + 1 \cdot F_1 + 2 \cdot F_2 + \cdots + s\cdot F_s + \cdots \,.
+$$
+
+Since the $F_s$ only count the internal faces, and each external edge
+will be adjacent to one internal face.
+If we plug these expressions into $E - 3F = 6$, we finally get
+
+$$
+18 = 2E - 6F' = E_b + (1-6) \cdot F_1 + (2-6) \cdot F_2 + \cdots +
+(s-6)\cdot F_s + \cdots \,.
+$$
+
+---
+
+*Exercise 13 (Euler's formula).* 
+
+---
 
 ### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
 
