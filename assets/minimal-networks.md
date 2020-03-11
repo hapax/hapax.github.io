@@ -912,8 +912,8 @@ Yes and no.
 Computer scientist Scott Aaronson has
 [persuasively argued](https://www.scottaaronson.com/papers/npcomplete.pdf)
 that hard problems (such as finding Steiner trees) cannot be solved
-quickly by any physical mechanism.
-So, as a matter of physical principle, we should expect that soap
+quickly, in the general case, by any physical mechanism.
+As a matter of physical principle, we should expect that soap
 bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
 
 But this doesn't prevent soap bubbles from giving quick and correct
