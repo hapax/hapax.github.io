@@ -660,7 +660,6 @@ effectively impossible to compute.
 the precise number of tinkertoys for arbitrary $n$ is very difficult.
 Instead, we will approach the problem using "experimental"
 mathematics.
-(I like to call this techniques "physicist's induction".)
 
 <figure>
     <div style="text-align:center"><img src
@@ -683,18 +682,18 @@ where each vertex has at most three neighbours. Ths
 
 <span style="padding-left: 20px; display:block">
 (c) Put the sequence of numbers you obtained in (a) into the
-[Online Encyclopedia of Integer Sequences](https://oeis.org).
-You should find a unique sequence $T_h$, which behaves at large $h$ as
+[Online Encyclopedia of Integer Sequences](https://oeis.org) (OEIS).
+You should find a unique sequence $T_h$, which behaves exponentially
+at large $h$, with
 </span>
 
 $$
-T_h \sim 7 \cdot \frac{1.75^h}{h^{3/2}}.
+T_h \sim 7 \left(\frac{1.75^h}{h^{3/2}}\right).
 $$
 
-<span style="padding-left: 20px; display:block">
-This is experimental evidence that minimal networks are exponentially
-hard to find!
-</span>
+The technique of computing the first few numbers in a sequence, then
+"completing" the sequence by searching for it in the OEIS, could
+perhaps be called "physicist's induction".
 
 ---
 
