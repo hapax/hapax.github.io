@@ -628,13 +628,13 @@ indicate what the minimal network looks like.
 ---
 
 For a small number of fixed nodes, tinkertoys are useful.
-How useful are they for $n$ nodes, as $n$ gets large?
+But how useful are they for many nodes?
 Let's assume that fiddling with tinkertoys is a quick operation, and
-we can tell after some fixed time $T$ (independent of $n$) whether a
+we can tell after some fixed time (independent of $n$) whether a
 particular tinkertoy can connect the fixed nodes.
 Unlike the cases we've look at so far, for large $n$, there are many
 different tinkertoys to try out.
-We show the different tinkertoys for $n = 6$ in Figure 16.
+For instance, we show the different tinkertoys for $h = 5$ (or $n = 7$) in Figure 16.
 
 <figure>
     <div style="text-align:center"><img src
@@ -656,11 +656,41 @@ effectively impossible to compute.
 
 ---
 
-*Exercise 12 (counting tinkertoys).*
+*Exercise 12 (counting tinkertoys).* Counting (or even approximating)
+the precise number of tinkertoys for arbitrary $n$ is very difficult.
+Instead, we will approach the problem using "experimental" mathematics.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner20.png" width="95%"/>
+		    <figcaption><i>Figure 17. Distinct</i></figcaption>
+	</div>
+	</figure>
 
 <span style="padding-left: 20px; display:block">
-(b) Draw the tinkertoy for a regular pentagon, and schematically
-indicate what the minimal network looks like.
+(a) We did the $h = 6$ case in Figure 16. If we ignore
+external (grey) edges, we see that tinkertoys correspond to trees
+where each vertex has at most three neighbours. Ths
+	</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Count the number of distinct tinkertoys for $h = 1$ to $h = 9$.
+	Note that by "distinct", we mean that graphs cannot be transformed
+	into each by moving the nodes, as in 
+	</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Put the sequence of numbers you obtained in (a) into the
+[Online Encyclopedia of Integer Sequences](https://oeis.org).
+You should find a unique sequence $T_h$, which behaves at large $h$ as
+</span>
+
+$$
+T_h \sim 7 \cdot \frac{1.75^h}{h^{3/2}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+This is experimental evidence that the problem is, indeed, exponential!
 </span>
 
 ---
