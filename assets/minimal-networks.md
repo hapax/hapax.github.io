@@ -936,8 +936,8 @@ This analogue computer isn't perfect, since the soap bubbles can
 converge on a locally minimal tinkertoy which connects the nails, but
 is not globally minimal.
 But it really is a lucky dip!
-You can strike the true minimum, particularly for smaller problems
-where there is only one tinkertoy that works.
+You sometimes strike the true minimum, particularly for smaller problems
+where only one tinkertoy works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
 You can build this analogue computer at home out of supplies from
