@@ -946,6 +946,7 @@ demonstration.)
 (2005), Scott Aaronson.
 - *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
 - ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
+- ["Bubble physics"](http://www1.phys.vt.edu/bubble/basic-information.html), Shengfang Cheng and Klebert Feitosa.
 
 ### Xtra
 
