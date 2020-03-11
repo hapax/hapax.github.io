@@ -615,8 +615,9 @@ you will need multiple tinkertoys. Here we give examples of both.
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-(a) Find the minimal networks connecting a regular hexagon with a node
-in the centre.  This is a situation where we have multiple tinkertoys.
+(a) Find the minimal network connecting a regular hexagon with a node
+in the centre. (To be clear, this central node is fixed.) You will
+need multiple tinkertoys!
 </span>
 
 <span style="padding-left: 20px; display:block">
@@ -633,24 +634,25 @@ we can tell after some fixed time $T$ (independent of $n$) whether a
 particular tinkertoy can connect the fixed nodes.
 Unlike the cases we've look at so far, for large $n$, there are many
 different tinkertoys to try out.
-We show the different tinkertoys for $n = 6, 7$ in Figure 16.
+We show the different tinkertoys for $n = 6$ in Figure 16.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner20.png" width="95%"/>
-		    <figcaption><i>Figure 16. Tinkertoys for n = 6, 7.</i></figcaption>
+		    <figcaption><i>Figure 16. Tinkertoys for n = 6.</i></figcaption>
 	</div>
 	</figure>
 
 In Exercise 12, you'll see that there are *exponentially many*
-tinkertoys at fixed $n$.
+tinkertoys at fixed $n$, as $n$ gets large.
 A brute force approach, which simply checks each tinkertoy, will
 therefore take an exponential amount of time.
 As it turns out, there are no known algorithmic shortcuts that do
 substantially better than brute force!
 Even if you can rule out a few tinkertoys, you always need to check
 exponentially many.
-This makes minimal networks a computationally hard problem!
+Despite all we've learned, for large $n$, minimal networks seem
+effectively impossible to compute.
 
 ---
 
