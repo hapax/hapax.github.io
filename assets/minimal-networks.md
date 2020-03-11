@@ -914,7 +914,7 @@ Computer scientist Scott Aaronson has
 that hard problems (such as finding Steiner trees) cannot be solved
 quickly, in the general case, by any physical mechanism.
 So as a matter of physical principle, we should not expect soap
-bubbles to quickly solve for arbitrary Steiner trees.
+bubbles to quickly find arbitrary minimal networks.
 
 But this doesn't prevent soap bubbles from giving quick and correct
 solutions to *some* problems, nor does it forbid them from
