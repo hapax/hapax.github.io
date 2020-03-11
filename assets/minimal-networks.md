@@ -658,7 +658,9 @@ effectively impossible to compute.
 
 *Exercise 12 (counting tinkertoys).* Counting (or even approximating)
 the precise number of tinkertoys for arbitrary $n$ is very difficult.
-Instead, we will approach the problem using "experimental" mathematics.
+Instead, we will approach the problem using "experimental"
+mathematics.
+(I like to call this techniques "physicist's induction".)
 
 <figure>
     <div style="text-align:center"><img src
@@ -690,7 +692,8 @@ T_h \sim 7 \cdot \frac{1.75^h}{h^{3/2}}.
 $$
 
 <span style="padding-left: 20px; display:block">
-This is experimental evidence that the problem is, indeed, exponential!
+This is experimental evidence that minimal networks are exponentially
+hard to find!
 </span>
 
 ---
