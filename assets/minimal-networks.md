@@ -765,11 +765,12 @@ Putting this into Euler's formula, we can eliminate $N$ and find a
 relation between the number of faces and number of edges:
 
 $$
-\frac{2}{3} E - E + F = 2 \quad \Longrightarrow \quad E - 3F = 6.
+\frac{2}{3} E - E + F = 2 \quad \Longrightarrow \quad 3F - E = 6.
 $$
 
 As advertised, we can treat the external face a little differently.
 Let's call the *internal* faces $F'$, so that $F = F' + 1$.
+This means $3F' - E = 3$.
 Similarly, let's write $E'$ for the internal edges and $E_b$ for the
 number of edges of the outer face.
 
@@ -792,11 +793,10 @@ $$
 
 Since the $F_s$ only count the internal faces, and each external edge
 will be adjacent to one internal face.
-If we plug these expressions into $E - 3F = 6$, we finally get
+If we plug these expressions into $3F' - E = 3$, we finally get
 
 $$
-18 = 2E - 6F' = E_b + (1-6) \cdot F_1 + (2-6) \cdot F_2 + \cdots +
-(s-6)\cdot F_s + \cdots \,.
+6 & = 6F' - 2E = - E_b + (6-1) \cdot F_1 + (6-2) \cdot F_2 + \cdots + (6-s)\cdot F_s + \cdots.
 $$
 
 ---
