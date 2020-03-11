@@ -924,8 +924,7 @@ Indeed, there are
 for regular computers, so we shouldn't be surprised if this is possible.
 Instead of computing these difficult things by hand, you might hope to
 quickly (and perhaps approximately) solve problems by dipping them in
-soapy water.
-This turns out to be the case!
+soapy water, and this turns out to be the case!
 
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
