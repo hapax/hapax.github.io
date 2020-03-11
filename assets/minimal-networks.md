@@ -639,7 +639,7 @@ For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner20.png" width="95%"/>
-		    <figcaption><i>Figure 16. Tinkertoys for n = 6.</i></figcaption>
+		    <figcaption><i>Figure 16. Some tinkertoys for n = 6.</i></figcaption>
 	</div>
 	</figure>
 
@@ -656,43 +656,18 @@ effectively impossible to compute.
 
 ---
 
-*Exercise 12 (counting tinkertoys).* Counting (or even approximating)
-the precise number of tinkertoys for arbitrary $n$ is very difficult.
-Instead, we will approach the problem "experimentally".
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner20.png" width="95%"/>
-		    <figcaption><i>Figure 17. Distinct</i></figcaption>
-	</div>
-	</figure>
+*Exercise 12 (counting tinkertoys).* Counting the precise number of
+tinkertoys $T_h$, for any number of hubs $h = n - 2$, is difficult.
+We can approach this two ways: 
 
 <span style="padding-left: 20px; display:block">
-(a) We did the $h = 6$ case in Figure 16. If we ignore
-external (grey) edges, we see that tinkertoys correspond to trees
-where each vertex has at most three neighbours. Ths
-	</span>
-
-<span style="padding-left: 20px; display:block">
-(b) Count the number of distinct tinkertoys for $h = 1$ to $h = 9$.
-	Note that by "distinct", we mean that graphs cannot be transformed
-	into each by moving the nodes, as in 
-	</span>
-
-<span style="padding-left: 20px; display:block">
-(c) Put the sequence of numbers you obtained in (a) into the
-[Online Encyclopedia of Integer Sequences](https://oeis.org) (OEIS).
-You should find a unique sequence $T_h$, which behaves exponentially
-at large $h$, with
+(a) Consider the set of "snake" tinkertoys, 
 </span>
 
-$$
-T_h \sim 7 \left(\frac{1.75^h}{h^{3/2}}\right).
-$$
-
-The technique of computing the first few numbers in a sequence, then
-"completing" the sequence by searching for it in the OEIS, could
-perhaps be called "physicist's induction".
+<span style="padding-left: 20px; display:block">
+(b) Draw the tinkertoy for a regular pentagon, and schematically
+indicate what the minimal network looks like.
+</span>
 
 ---
 
