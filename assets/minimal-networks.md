@@ -678,11 +678,11 @@ grows exponentially.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Calculate the number of tinkertoys for $h = 0$ to $h =
+(b) Calculate the number of tinkertoys from $h = 0$ to $h =
 6$. You should be able to find the general sequence $T_h$ by searching
-in the [Online Encyclopedia of Integer Sequences](https://oeis.org/),
-where you will learn that at large $h$, this sequence can be
-approximated by the exponential
+for these numbers in the
+[Online Encyclopedia of Integer Sequences](https://oeis.org/). You
+will learn that at large $h$, this sequence is indeed exponential, with
 </span>
 
 $$
