@@ -669,7 +669,7 @@ where we calculate for small $h$ and guess the rest of the sequence.
 
 <span style="padding-left: 20px; display:block">
 (a) Consider the set of "snake" tinkertoys, where hubs are connected
-in a single line. Show that, for $h$ hubs, there are $S_h = 2^{n-2}$ snake
+in a single line. Show that, for $h \geq 3$ hubs, there are $S_h = 2^{n-3}$ snake
 tinkertoys.
 Since $T_h \geq S_h$, this demonstrates that the total number of tinkertoys
 grows exponentially.
@@ -694,9 +694,12 @@ network is hopeless, at least for many nodes.
 But despair is premature!
 It turns out that
 [excellent approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-to Steiner trees exist which *are* easily computable.
+to Steiner trees exist.
+But more strikingly, 
 
-### 4.1. Soap networks <a id="sec-4-1" name="sec-4-1"></a>
+### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
+
+
 
 #### References
 
