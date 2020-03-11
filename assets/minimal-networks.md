@@ -921,10 +921,11 @@ solutions to *some* problems, nor does it forbid them from
 *approximating* the answer.
 Indeed, there are
 [quick approximation algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-for regular computers, so we shouldn't be surprised if this is possible.
-Instead of computing these difficult things by hand, you might hope to
-quickly (and perhaps approximately) solve problems by dipping them in
-soapy water, and this turns out to be the case!
+for regular computers, so we shouldn't be surprised if soap bubbles
+can do the same.
+So, can we quickly (and perhaps approximately) find minimal networks
+by dipping them in soapy water?
+The answer is yes!
 
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
