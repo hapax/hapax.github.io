@@ -732,9 +732,9 @@ three equally separated spokes, is a *local* condition.
 It applies in the small region around a node!
 This means that in bubble networks, the same property is true: bubble
 walls always meet in sets of three, separated by $120^\circ$.
-This even applies to *curved* bubble walls (which arise from pressure
-differences), since when you zoom in on a junction these curved walls
-look straight.
+This even applies to *curved* bubble walls (which arise from [pressure
+differences](https://en.wikipedia.org/wiki/Young-Laplace)), since when
+you zoom in on a junction these curved walls look straight.
 
 We can use this to learn a fun fact about foams: they like to form
 hexagons!
