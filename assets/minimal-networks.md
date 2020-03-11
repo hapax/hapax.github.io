@@ -22,6 +22,7 @@ date:  2020-02-11
    3. <a href="#sec-3-3">Tinkertoys</a>
 4. <a href="#sec-4">Soap bubbles</a>
    1. <a href="#sec-4-1">Bubble networks</a>
+   2. <a href="#sec-4-2">Analogue computers</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -693,6 +694,49 @@ $$
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
+Humans are not the only players in the minimisation game.
+*Nature* also likes to minimise, and has far more power at her
+disposal than mere mortals!
+While we struggle with tinkertoys, Nature can solve our problems, to
+good approximation, with the same effort as letting a ball fall to the
+ground.
+
+### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
+
+Bubbles are formed when a film of liquid separates two volumes of air.
+Surface tension tries to pull the bubble surface taut in all
+directions, which results in the *minimisation of area*.
+A soap bubble is spherical, for instance, since this is the smallest
+surface containing a fixed volume of air.
+If we attach two glass plates together, and dip them in soapy water,
+then bubbles will typically form with vertical walls between the two
+plates.
+
+Viewed from above, this is a two-dimensional bubble network.
+Most of the time, a bubble network is not a minimal network, since
+bubbles will form closed loops, which we explicitly ruled out <a
+href="#sec-3-1">earlier</a>.
+But bubbles are *locally minimal*, in the sense that surface tension
+will tug on bubble walls, and reconfigure small bubbles, until doing
+so cannot reduce the area.
+To use
+[Scott Aaaronson's analogy](https://www.scottaaronson.com/papers/npcomplete.pdf),
+it is like a rock tumbling down a mountain, but getting stuck in a
+crevasse.
+It does not fall all the way to the bottom --- the true minimum ---
+but gets stuck in a local minimum instead.
+
+### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
+
+#### References
+
+- ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
+(2005), Scott Aaronson.
+- *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
+- ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
+
+### Xtra
+
 So, trying to write a computer program to find the exact minimal
 network is hopeless for many nodes.
 But despair is premature!
@@ -702,8 +746,6 @@ to Steiner trees exist.
 Even more strikingly, we can quickly (if imperfectly) find minimal
 networks by dipping glass plates in soapy water.
 
-### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
-
 Bubbles are formed when a film of liquid separates two regions of air.
 The film is subject to *surface tension*, which tries to pull the
 surface as taut as possible in all directions.
@@ -712,10 +754,3 @@ bubbles will assume the minimum total surface area, subject to some
 constraints (volume of air in bubbles).
 This explain why a lone bubble is spherical: a sphere is the surface
 of minimum area enclosing a given volume of air.
-
-#### References
-
-- ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
-(2005), Scott Aaronson.
-- *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
-- ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
