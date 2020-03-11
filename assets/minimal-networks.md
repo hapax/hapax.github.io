@@ -944,7 +944,7 @@ demonstration.
 
 Soap bubbles do not magically solve problems thought to be impossible.
 But they do demonstrate strikingly that, in some sense, *physical
-objects are computers* and *the laws of physics do computational work*.
+objects are computers* and the laws of physics do computational work.
 To expand on this statement, let's consider the traditional division
 of computers into hardware and software.
 Hardware is the physical substrate the computer is built on.
