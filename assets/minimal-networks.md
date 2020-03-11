@@ -19,7 +19,7 @@ date:  2020-02-11
 3. <a href="#sec-3">Graphs</a>
    1. <a href="#sec-3-1">Trees</a>
    2. <a href="#sec-3-2">Bounding hubs</a>
-   3. <a href="#sec-3-3">Hard polygons</a>
+   3. <a href="#sec-3-3">Tinkertoys</a>
 4. <a href="#sec-4">Soap bubbles</a>
 5. <a href="#sec-A">Fermat points*</a>
 
@@ -634,7 +634,7 @@ we can tell after some fixed time (independent of $n$) whether a
 particular tinkertoy can connect the fixed nodes.
 Unlike the cases we've look at so far, for large $n$, there are many
 different tinkertoys to try out.
-For instance, we show the different tinkertoys for $h = 5$ (or $n = 7$) in Figure 16.
+For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in Figure 16.
 
 <figure>
     <div style="text-align:center"><img src
