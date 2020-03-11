@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A minimal introduction to minimal networks"
+title:  "A minimal introduction to Steiner networks"
 categories: [Mathematics, Teaching, Hacks]
 date:  2020-02-11
 ---
 
-**February 11, 2020.** Bla
+**March 11, 2020.**
 
 ### Contents
 
@@ -643,15 +643,13 @@ For instance, we show the four different tinkertoys for $h = 6$ (or $n = 8$) in 
 	</div>
 	</figure>
 
-In Exercise 12, you'll see that there are *exponentially many*
+In Exercise 12, you'll prove that there are *exponentially many*
 tinkertoys with $h$ hubs as $h$ gets large.
-A brute force approach, which simply checks each tinkertoy, will
-therefore take an exponential amount of time!
-As it turns out, there are no known algorithmic shortcuts that do
-substantially better than brute force: even if you can rule out a few
-tinkertoys, you always need to check exponentially many.
-Despite all we've learned, for large $n$, minimal networks seem
-effectively impossible to compute.
+A brute force approach, which simply checks each tinkertoy, will take
+an exponential amount of time!
+It turns out there are no algorithmic shortcuts, allowing you to check
+less than an exponential number of tinkertoys.
+This makes large minimal networks effectively impossible to compute.
 
 ---
 
@@ -690,10 +688,17 @@ $$
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
+We've reached a slightly depressing conclusion: after all our work,
+Steiner trees for a large number of nodes still take exponentially
+long times to compute.
+But there is hope!
+First of all, there are
+[approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
+to the exact minimal network which are almost as good.
+But there is a cute way to "quickly" solve.
 
 #### References
 
 [The Steiner Minimal Tree](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/)
-https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK4/NODE181.HTM
-https://en.wikipedia.org/wiki/Steiner_tree_problem
 http://www.steiner.usmart.dk/history.html
+https://www.scottaaronson.com/papers/npcomplete.pdf
