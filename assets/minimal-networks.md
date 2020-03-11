@@ -945,7 +945,9 @@ demonstration.
 Soap bubbles are not a magical device to find any minimal network.
 But what this example strikingly shows that *the laws of physics
 do computational work*.
-
+In a sense, the operations we have to build up bit by bit --- from the
+geometry, to the network layout, to insight into tinkertoys --- the
+soap bubbles do in a single step.
 You can build this analogue computer at home out of supplies from
 the hardware store.
 
