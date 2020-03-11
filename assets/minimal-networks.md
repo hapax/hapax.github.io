@@ -877,7 +877,7 @@ First, we will establish Euler's formula for networks made out of triangles.
 <span style="padding-left: 20px; display:block">
 (b) Suppose I have a network which obeys Euler's formula.
 Add a triangle (two edges and a node) to an external edge, and explain
-why the change $\Delta \chi = 0$.
+why the Euler characteristic doesn't change, $\Delta \chi = 0$.
 Conclude that the new network obeys Euler's formula.
 </span>
 
@@ -894,7 +894,7 @@ Now, we can generalise to any network without crossings.
 	</span>
 
 <span style="padding-left: 20px; display:block">
-(e) Show, in your procedure in part (d), the change $\Delta \chi = 0$.
+(e) Show that, after =your procedure in part (d), $\Delta \chi = 0$.
 </span>
 
 <span style="padding-left: 20px; display:block">
