@@ -903,7 +903,7 @@ crossings obeys $\chi = 2$.
 
 ### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
 
-Soap bubbles find local minima quickly, by virtue of the laws
+Soap bubbles find local minima quickly because of the laws
 of physics.
 Can we somehow "hack" soap bubbles, and turn them into analogue
 computers to find Steiner trees?
@@ -923,6 +923,7 @@ for regular computers.)
 Instead of computing these difficult things by hand, you might hope to
 quickly (and perhaps approximately) solve problems by dipping them in
 soapy water.
+And this turns out to be possible!
 
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
