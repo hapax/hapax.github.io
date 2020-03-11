@@ -804,11 +804,11 @@ $$
 On the LHS, we have a term involving the number of external edges
 $E_b$.
 On the RHS, we have the *total departure from hexagonality*, which
-we'll call $D_\varhexagon$.
+we'll call $D_\text{hex}$.
 For a face with $s$ sides, $6-s$ tells you how different it is
 from a hexagon!
 There are a few cute things we can learn from this expression.
-First of all, the LHS is positive, so $D_\varhexagon \geq 0$.
+First of all, the LHS is positive, so $D_\text{hex} \geq 0$.
 The number of "small" faces $F_1, \ldots, F_5$ places a strong
 constraint on the number of "large" faces $F_7, F_8, \ldots$, and so
 on:
@@ -833,14 +833,14 @@ of $L$, and we have a circular foam of radius $L$, then $E_b =
 It follows that, for large $L$,
 
 $$
-D_\varhexagon = 6 + E_b \sim L.
+D_\text{hex} = 6 + E_b \sim L.
 $$
 
-The "density" of departures from hexagonality $d_\varhexagon$ is just the departures
+The "density" of departures from hexagonality $d_\text{hex}$ is just the departures
 divided by the area of the foam. This should scale as $L^2$, so that
 
 $$
-d_\varhexagon \sim \frac{D_\varhexagon}{L^2} \sim \frac{1}{L}.
+d_\text{hex} \sim \frac{D_\text{hex}}{L^2} \sim \frac{1}{L}.
 $$
 
 As the foam becomes larger, departures from hexagonality become
