@@ -597,7 +597,7 @@ $w$ and height $h$, with $w \leq h$.
 Show that the minimal network has length
 
 $$
-L = w + \frac{\sqrt{3}h}{4}.
+L = w + \sqrt{3}h.
 $$
 
 <p align="center">
@@ -706,3 +706,4 @@ But more strikingly,
 - ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
 (2005), Scott Aaronson.
 - *What is Mathematics* (1941), Richard Courant and Herbert Robbins.
+- ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
