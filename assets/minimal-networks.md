@@ -894,7 +894,7 @@ Now, we can generalise to any network without crossings.
 	</span>
 
 <span style="padding-left: 20px; display:block">
-(e) Show that, after =your procedure in part (d), $\Delta \chi = 0$.
+(e) Show that, after your procedure in part (d), $\Delta \chi = 0$.
 </span>
 
 <span style="padding-left: 20px; display:block">
