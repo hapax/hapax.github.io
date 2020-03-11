@@ -960,11 +960,27 @@ and waiting for bubbles to form.
 
 ---
 
-*Exercise 14 (trains and soap bubbles).* Let's solve the oldest
-Steiner tree problem with a soap bubble computer!
-One of the first
- mathematicians to consider minimal networks was
- [Carl Friedrich Gauss](wiki) (bla -- bla). In a letter to 
+*Exercise 14 (trains and soap bubbles).* The first mathematician to
+consider minimal networks on four points was
+[Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
+(1777 -- 1855). In an 1836 letter to his friend, the astronomer
+Schuhmacher, Gauss asked:
+
+<span style="padding-left: 20px; display:block">
+How can a railway network of minimal length which connects the four
+German cities Bremen, Harburg, Hannover, and Braunschweig be created?
+</span>
+
+The position of these cities is given in Figure ?.
+Your task is simple: build a soap bubble computer, and use it solve
+the original rail network problem!
+You may find the GPS coordinates of the cities useful in placing your
+nails:
+
+- Braunschweig: $(52.3, 10.5)$
+- Bremen: $(53.1, 8.8)$
+- Hannover: $(52.4, 9.7)$
+- Harburg: $(53.5, 9.9)$
 
 ---
 
