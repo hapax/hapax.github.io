@@ -2,8 +2,8 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A minimal introduction to Steiner networks"
-categories: [Mathematics, Teaching, Hacks]
+title:  "A hacker's guide to Steiner trees and soap bubbles"
+categories: [Mathematics, Physics, Hacks]
 date:  2020-02-11
 ---
 
@@ -848,23 +848,74 @@ increasingly rare!
 
 ---
 
-*Exercise 13 (Euler's formula).* 
+*Exercise 13 (Euler's formula).* Our goal here will be to prove
+Euler's famous formula
 
-<p align="center">
-  ⁂
-  </p>
+$$
+N - E + F = \chi = 2,
+$$
 
-*Exercise 14 (counting faces).*
+where $N$ is the number of nodes, $E$ the number of edges, and $F$ the
+number of faces, in a network where edges do not cross.
+The convenient symbol $\chi$ is called the *Euler characteristic*.
+Although we are discussing this in the context of graphs, it holds
+in general for three-dimensional polyhedra like cubes and dodecahedra.
+In fact, the two are equivalent, since we can always flatten a
+polyhedron to get its net, which is a *network*.
 
-<p align="center">
-  ⁂
-  </p>
+First, we will establish Euler's formula for networks made out of triangles.
 
-*Exercise 15 (soap bubbles).*
+<span style="padding-left: 20px; display:block">
+(a) Show that a lone triangle in the plane obeys Euler's formula.
+	Remember, we count the area outside the triangle as a face!
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Suppose I have a network which obeys Euler's formula.
+Add a triangle (two edges and a node) to an external edge, and explain
+why the change $\Delta \chi = 0$.
+Conclude that the new network obeys Euler's formula.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Explain why any network composed entirely of triangles obeys
+Euler's formula.
+</span>
+
+Now, we can generalise to any network without crossings.
+
+<span style="padding-left: 20px; display:block">
+(d) Consider a face, i.e. loop, in such a network.
+	Describe a procedure to add edges so that the face is split into triangles.
+	</span>
+
+<span style="padding-left: 20px; display:block">
+(e) Show, in your procedure in part (d), the change $\Delta \chi = 0$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(f) Combine your results to conclude that any network without
+crossings obeys $\chi = 2$.
+</span>
 
 ---
 
 ### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
+
+Soap bubbles find local minima quickly, simply by virtue of the laws
+of physics.
+Can we somehow "hack" soap bubbles, and turn them into analogue
+computers to find Steiner trees?
+Yes and no.
+Computer scientist Scott Aaronson has
+[persuasively argued](https://www.scottaaronson.com/papers/npcomplete.pdf)
+that hard problems (such as finding Steiner trees) cannot be solved
+quickly by any physical mechanism.
+So, as a matter of physical principle, we should expect that soap
+bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
+
+But this doesn't prevent soap bubbles from solving *some* problems
+quickly, and 
 
 #### References
 
@@ -892,3 +943,54 @@ bubbles will assume the minimum total surface area, subject to some
 constraints (volume of air in bubbles).
 This explain why a lone bubble is spherical: a sphere is the surface
 of minimum area enclosing a given volume of air.
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 14 (soap bubbles).* [For budding physicists.] The
+ *Young-Laplace equation* relates the radius $r$, surface tension
+ $\sigma$ and pressure difference $\Delta p$ across the boundary of a
+ spherical bubble.
+ We will "derive" it, and then use to learn a little about bubbles.
+
+<span style="padding-left: 20px; display:block">
+(a) Surface tension is the force per unit length resisting your
+efforts to cut through a film with a knife.
+Using dimensional analysis, and assuming the factors above are the
+only relevant ones, deduce the Young-Laplace equation:
+</span>
+
+$$
+\Delta p \sim \frac{\sigma}{r}.
+$$
+
+<span style="padding-left: 20px; display:block">
+In fact, there is a factor of $2$, which we will use henceforth.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Recall the ideal gas law, $pV = nRT$.
+Combine this with the Young-Laplace equation to find that, for our soap bubble,
+</span>
+
+$$
+p_\text{air} = \frac{3nRT}{4\pi r^3} + \frac{2\sigma}{r},
+$$
+
+where $p_\text{air}$ is the external air pressure.
+
+<span style="padding-left: 20px; display:block">
+(c) Assume that the temperature of the air inside a bubble is the same
+as the ambient temperature.
+Explain why part (b) suggests a maximum bubble size
+</span>
+
+$$
+r_\text{max} = \frac{2\sigma}{p_\text{air}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+Plugging in $\sigma \approx 0.1 \text{ N/m}$ and atmospheric pressure
+$p_\text{air} \sim 10^5 \text{ N/m}^2$, do you get a reasonable size?
+</span>
