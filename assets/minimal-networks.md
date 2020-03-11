@@ -22,7 +22,7 @@ date:  2020-02-11
    3. <a href="#sec-3-3">Tinkertoys</a>
 4. <a href="#sec-4">Soap bubbles</a>
    1. <a href="#sec-4-1">Bubble networks</a>
-   2. <a href="#sec-4-2">Analogue computers</a>
+   2. <a href="#sec-4-2">Soap bubble computers</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -902,17 +902,17 @@ crossings obeys $\chi = 2$.
 
 ---
 
-### 4.2. Analogue computers <a id="sec-4-2" name="sec-4-2"></a>
+### 4.2. Soap bubble computers <a id="sec-4-2" name="sec-4-2"></a>
 
 Soap bubbles find local minima quickly because of the laws
 of physics.
 Can we somehow "hack" soap bubbles, and turn them into analogue
-computers to find Steiner trees?
-Yes and no.
+computers which find Steiner trees?
+Sort of.
 Computer scientist Scott Aaronson has
 [persuasively argued](https://www.scottaaronson.com/papers/npcomplete.pdf)
 that hard problems (such as finding Steiner trees) cannot be solved
-quickly, in the general case, by any physical mechanism.
+quickly, in the general case, by *any* physical mechanism.
 So as a matter of physical principle, we should not expect soap
 bubbles to quickly find arbitrary minimal networks.
 
@@ -936,9 +936,9 @@ from the junction of three bubble walls.
 This analogue computer isn't perfect, since the soap bubbles can
 converge on a locally minimal tinkertoy which connects the nails, but
 is not globally minimal.
-But it really is a lucky dip!
-You sometimes strike the true minimum, particularly for smaller problems
-where only one tinkertoy works.
+But it really is a lucky dip, and you can sometimes strike the true
+minimum, particularly for smaller problems where only one tinkertoy
+works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
 
@@ -947,20 +947,34 @@ But they do demonstrate strikingly that, in some sense, *physical
 objects are computers* and *the laws of physics do computational work*.
 To expand on this statement, let's consider the traditional division
 of computers into hardware and software.
-Hardware is the physical substrate the computer is build on.
-In a sense, it tells us which operations are basic, cheap or quick.
-Software is a layer of abstraction floating above hardware, governing
-how data is represented and manipulated.
-For soap bubbles, the hardware is the bubbles themselves, with area
-minimisation a cheap operation.
+Hardware is the physical substrate the computer is built on.
+It tells us which operations are basic, and therefore computationally cheap.
+Software is a layer of instruction and abstraction above the hardware,
+telling the computer how to represent data and manipulate it to do
+useful things.
+In the soap bubble computer, the hardware is clearly the bubbles
+themselves, and local area minimisation a cheap operation by virtue of
+the laws of physics.
+The software is nothing more complicated than drilling nails, dipping,
+and waiting for bubbles to form.
+
+---
+
+*Exercise 14 (trains and soap bubbles).* Let's solve the oldest
+Steiner tree problem with a soap bubble computer!
+One of the first
+ mathematicians to consider minimal networks was
+ [Carl Friedrich Gauss](wiki) (bla -- bla). In a letter to 
+
+---
 
 #### References
 
-- ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
+- ["**NP-complete problems and physical reality**"](https://www.scottaaronson.com/papers/npcomplete.pdf)
 (2005), Scott Aaronson.
 - *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
-- ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
-- ["Bubble physics"](http://www1.phys.vt.edu/bubble/basic-information.html), Shengfang Cheng and Klebert Feitosa.
+- ["**The Steiner minimal tree**"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
+- "**Structural Hierarchy**" (1981), Cyril Stanley Smith. In *Aesthetics in Science*, ed. Judith Weschler.
 
 ### Xtra
 
@@ -1058,3 +1072,5 @@ $$
 (d) Look up the various numbers involved and plug them in for a bubble
 at standard temperature and pressure.
 </span>
+
+- ["Bubble physics"](http://www1.phys.vt.edu/bubble/basic-information.html), Shengfang Cheng and Klebert Feitosa.
