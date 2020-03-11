@@ -942,8 +942,8 @@ where only one tinkertoy works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
 
-Soap bubbles are not a magical way to find all minimal networks.
-But what this example strikingly shows is that *the laws of physics
+Soap bubbles are not a magical device to find any minimal network.
+But what this example strikingly shows that *the laws of physics
 do computational work*.
 
 You can build this analogue computer at home out of supplies from
