@@ -690,20 +690,19 @@ $$
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
 So, trying to write a computer program to find the exact minimal
-network is hopeless, at least for many nodes.
+network is hopeless for many nodes.
 But despair is premature!
 It turns out that
 [excellent approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
 to Steiner trees exist.
-But more strikingly, 
+But more strikingly, there are analogies between minimal networks and
+bubbles that let us solve --- quickly but approximately --- Steiner prob
 
 ### 4.1. Bubble networks <a id="sec-4-1" name="sec-4-1"></a>
-
-
 
 #### References
 
 - ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
 (2005), Scott Aaronson.
-- *What is Mathematics* (1941), Richard Courant and Herbert Robbins.
+- *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
 - ["The Steiner minimal tree"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
