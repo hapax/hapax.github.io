@@ -946,7 +946,7 @@ demonstration.
 
 Soap bubbles do not magically solve problems thought to be impossible.
 But they do demonstrate strikingly that, in some sense, *physical
-objects are computers* and the laws of physics do computational work.
+objects are computers*, and the laws of physics do computational work.
 To expand on this statement, let's consider the traditional division
 of computers into hardware and software.
 Hardware is the physical substrate the computer is built on.
@@ -954,11 +954,19 @@ It tells us which operations are basic, and therefore computationally cheap.
 Software is a layer of instruction and abstraction above the hardware,
 telling the computer how to represent data and manipulate it to do
 useful things.
+
 In the soap bubble computer, the hardware is clearly the bubbles
 themselves, and local area minimisation a cheap operation by virtue of
 the laws of physics.
 The software is nothing more complicated than drilling nails, dipping,
 and waiting for bubbles to form.
+In terms of computers built out of physically interesting hardware,
+this is just the tip of the iceberg!
+The next revolution in computing will be the advent of *quantum
+computing*, but there also a sense in which black holes, DNA, and
+evolved organisms are all analogue computers like the soap bubbles.
+There are more computers in heaven and earth than are
+dreamt of in our philosophy.
 
 ---
 
