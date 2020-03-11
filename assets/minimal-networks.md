@@ -990,7 +990,7 @@ nails:
 (2005), Scott Aaronson.
 - *What is Mathematics?* (1941), Richard Courant and Herbert Robbins.
 - ["**The Steiner minimal tree**"](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/) (2015), Peter Lynch.
-- "**Structural Hierarchy**" (1981), Cyril Stanley Smith. In *Aesthetics in Science*, ed. Judith Weschler.
+- "**Structural Hierarchy**" in *Aesthetics in Science* (1981), Cyril Stanley Smith.
 
 ### Xtra
 
