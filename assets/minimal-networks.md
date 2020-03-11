@@ -679,10 +679,8 @@ grows exponentially.
 
 <span style="padding-left: 20px; display:block">
 (b) Calculate the number of tinkertoys from $h = 0$ to $h =
-6$. You should be able to find the general sequence $T_h$ by searching
-for these numbers in the
-[Online Encyclopedia of Integer Sequences](https://oeis.org/). You
-will learn that at large $h$, this sequence is indeed exponential, with
+6$. You should be able to find the general sequence $T_h$ by looking for these numbers in the
+[Online Encyclopedia of Integer Sequences](https://oeis.org/). At large $h$, this sequence is indeed exponential, with
 </span>
 
 $$
