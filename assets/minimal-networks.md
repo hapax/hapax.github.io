@@ -942,14 +942,17 @@ where only one tinkertoy works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
 
-Soap bubbles are not a magical device to find any minimal network.
-But what this example strikingly shows that *the laws of physics
-do computational work*.
-In a sense, the operations we have to build up bit by bit --- from the
-geometry, to the network layout, to insight into tinkertoys --- the
-soap bubbles do in a single step.
-You can build this analogue computer at home out of supplies from
-the hardware store.
+Soap bubbles do not magically solve problems thought to be impossible.
+But they do demonstrate strikingly that, in some sense, *physical
+objects are computers* and *the laws of physics do computational work*.
+To expand on this statement, let's consider the traditional division
+of computers into hardware and software.
+Hardware is the physical substrate the computer is build on.
+In a sense, it tells us which operations are basic, cheap or quick.
+Software is a layer of abstraction floating above hardware, governing
+how data is represented and manipulated.
+For soap bubbles, the hardware is the bubbles themselves, with area
+minimisation a cheap operation.
 
 #### References
 
