@@ -914,8 +914,13 @@ quickly by any physical mechanism.
 So, as a matter of physical principle, we should expect that soap
 bubbles *cannot be hacked* to solve for arbitrary Steiner trees.
 
-But this doesn't prevent soap bubbles from solving *some* problems
-quickly, and 
+But this doesn't prevent soap bubbles from giving quick and correct
+solutions to *some* problems.
+quickly, and *approx
+Nor does it prevent soap bubbles from *approximating* the answer to
+hard problems (and indeed, there are
+[quick algorithms](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
+for approximating minimal networks on a regular computer).
 
 #### References
 
