@@ -21,6 +21,7 @@ date:  2020-02-11
    2. <a href="#sec-3-2">Bounding hubs</a>
    3. <a href="#sec-3-3">Tinkertoys</a>
 4. <a href="#sec-4">Soap bubbles</a>
+   1. <a href="#sec-4-1">Bubble networks</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -688,17 +689,17 @@ $$
 
 ## 4. Soap bubbles <a id="sec-4" name="sec-4"></a>
 
-We've reached a slightly depressing conclusion: after all our work,
-Steiner trees for a large number of nodes still take exponentially
-long times to compute.
-But there is hope!
-First of all, there are
-[approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
-to the exact minimal network which are almost as good.
-But there is a cute way to "quickly" solve.
+So, trying to write a computer program to find the exact minimal
+network is hopeless, at least for many nodes.
+But despair is premature!
+It turns out that
+[excellent approximations](https://en.wikipedia.org/wiki/Steiner_tree_problem#Approximating_the_Steiner_tree)
+to Steiner trees exist which *are* easily computable.
+
+### 4.1. Soap networks <a id="sec-4-1" name="sec-4-1"></a>
 
 #### References
 
-[The Steiner Minimal Tree](https://thatsmaths.com/2015/01/29/the-steiner-minimal-tree/)
-http://www.steiner.usmart.dk/history.html
-https://www.scottaaronson.com/papers/npcomplete.pdf
+- ["NP-complete problems and physical reality"](https://www.scottaaronson.com/papers/npcomplete.pdf)
+(2005), Scott Aaronson.
+- *What is Mathematics* (1941), Richard Courant and Herbert Robbins.
