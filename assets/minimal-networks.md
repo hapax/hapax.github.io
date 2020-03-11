@@ -971,7 +971,7 @@ dreamt of in our philosophy.
 ---
 
 *Exercise 14 (trains and soap bubbles).* The first mathematician to
-consider minimal networks on four points was
+consider minimal networks on four points was the great
 [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 (1777 -- 1855). In an 1836 letter to his friend, the astronomer
 Schuhmacher, Gauss asked:
