@@ -928,9 +928,14 @@ The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
 non-crossing <a href="#sec-4-1">bubble networks</a> described above.
 But if we drill some nails through the glass, these will act like
-fixed nodes in the minimal network problem, and walls can form between
-these nails, or new hubs (junctions of three bubble walls) in the
-bubble surface.
+fixed nodes, and walls can form between these nails in addition to
+hubs (junctions of three bubble walls) in the surface.
+This analogue computer isn't perfect
+([Aaronson observes](https://www.scottaaronson.com/papers/npcomplete.pdf)
+that it the local minima it converges to are not always global
+minima), but you can build it at home!
+See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for an
+example of how it works.
 
 #### References
 
