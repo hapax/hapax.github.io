@@ -696,7 +696,7 @@ $$
 
 Humans are not the only players in the minimisation game.
 *Nature* also likes to minimise, and has far more power at her
-disposal than mere mortals!
+disposal than us mere mortals!
 While we struggle with tinkertoys, Nature can solve our problems, to
 good approximation, as effortlessly as a ball falls to the
 ground.
