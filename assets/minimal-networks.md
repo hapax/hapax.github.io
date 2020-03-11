@@ -664,7 +664,7 @@ where we calculate for small $h$ and guess the rest of the sequence.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner21.png" width="95%"/>
+    ="/images/posts/steiner21.png" width="90%"/>
 		    <figcaption><i>Figure 17. Snake tinkertoys for n = 5.</i></figcaption>
 	</div>
 	</figure>
