@@ -664,14 +664,14 @@ where we calculate for small $h$ and guess the rest of the sequence.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner21.png" width="90%"/>
+    ="/images/posts/steiner21.png" width="85%"/>
 		    <figcaption><i>Figure 17. Snake tinkertoys for n = 5.</i></figcaption>
 	</div>
 	</figure>
 
 <span style="padding-left: 20px; display:block">
 (a) Consider the set of "snake" tinkertoys, where hubs are connected
-in a line. Show that, for $h$ hubs, there are $S_h = 2^{n-2}$ snake
+in a single line. Show that, for $h$ hubs, there are $S_h = 2^{n-2}$ snake
 tinkertoys.
 Since $T_h \geq S_h$, this shows that the total number of tinkertoys
 grows exponentially.
