@@ -749,10 +749,19 @@ $$
 N - E + F = 2.
 $$
 
-This relation is illustrated in Figure 18, and you can prove it in
-Exercise 14.
+This relation is illustrated in Figure 19, and Exercise 14 guides you
+through a proof.
 Note that we count the whole region outside the network as a face!
-This face seems a little different, and indeed we will treat it differently.
+This face seems a little different, and indeed we will treat it
+differently.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner23.png" width="85%"/>
+		    <figcaption><i>Figure 19. Euler's formula illustrated for a cube.</i></figcaption>
+	</div>
+	</figure>
+
 Now, for a two-dimensional foam, there are no "external" nodes.
 Each node is a hub, with three edges, so
 
