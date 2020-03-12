@@ -979,6 +979,13 @@ So, can we quickly (and perhaps approximately) find minimal networks
 by dipping them in soapy water?
 The answer is yes!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner27.png" width="85%"/>
+		    <figcaption><i>Figure 22. Soap bubbles computing minimal networks.</i></figcaption>
+	</div>
+	</figure>
+
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
 non-crossing bubble networks described above.
@@ -1037,7 +1044,7 @@ The cities are drawn in Figure 23.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner25.png" width="55%"/>
-		    <figcaption><i>Figure 23. German cities to connected by rail.</i></figcaption>
+		    <figcaption><i>Figure 23. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
 
