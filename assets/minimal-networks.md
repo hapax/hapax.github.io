@@ -782,7 +782,7 @@ Rewriting in terms of $F'$, we get $3F' - E = 3$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner24.png" width="85%"/>
+    ="/images/posts/steiner24.png" width="75%"/>
 		    <figcaption><i>Figure 20. Counting internal faces,
     external edges, and the departure from hexagonality.</i></figcaption>
 	</div>
@@ -968,11 +968,11 @@ The answer is yes!
 The key is to give the bubble walls something to hold onto.
 In a foam, they can only hold onto themselves, and we get the
 non-crossing bubble networks described above.
-But if we drill some nails through the plexiglass, these will act like
-fixed nodes, and walls can form between these nails and hubs arising
+But if we drill some screws through the plexiglass, these will act like
+fixed nodes, and walls can form between these screws and hubs arising
 from the junction of three bubble walls.
 This analogue computer isn't perfect, since the soap bubbles can
-converge on a locally minimal tinkertoy which connects the nails, but
+converge on a locally minimal tinkertoy which connects the screws, but
 is not globally minimal.
 But it really is a lucky dip, and you can sometimes strike the true
 minimum, particularly for smaller problems where only one tinkertoy
@@ -994,7 +994,7 @@ useful things.
 In the soap bubble computer, the hardware is clearly the bubbles
 themselves, and local area minimisation a cheap operation by virtue of
 the laws of physics.
-The software is nothing more complicated than drilling nails, dipping,
+The software is nothing more complicated than drilling screws, dipping,
 and waiting for bubbles to form.
 In terms of computers built out of physically interesting hardware,
 this is just the tip of the iceberg!
@@ -1018,19 +1018,19 @@ How can a railway network of minimal length which connects the four
 German cities Bremen, Harburg, Hannover, and Braunschweig be created?
 </span>
 
-The position of these cities is given in Figure ?.
+The cities are drawn in Figure 23.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner25.png" width="55%"/>
+		    <figcaption><i>Figure 23. German cities to connected by rail.</i></figcaption>
+	</div>
+	</figure>
+
 Your task is simple: build a soap bubble computer, and use it solve
 the original rail network problem!
-You may find the GPS coordinates of the cities useful in placing your
-nails:
-
-- Braunschweig: $(52.3, 10.5)$
-- Bremen: $(53.1, 8.8)$
-- Hannover: $(52.4, 9.7)$
-- Harburg: $(53.5, 9.9)$
-
-Although these are points on a sphere, they are close enough to be
-modelled as living on a plane, with "reversed" Cartesian coordinates $(y, x)$.
+Figure 23 also gives the GPS coordinates, which you may find useful in
+placing your screws.
 
 ---
 
