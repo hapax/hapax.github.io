@@ -782,7 +782,7 @@ Rewriting in terms of $F'$, we get $3F' - E = 3$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner24.png" width="70%"/>
+    ="/images/posts/steiner24.png" width="60%"/>
 		    <figcaption><i>Figure 20. Counting internal faces,
     external edges, and the departure from hexagonality.</i></figcaption>
 	</div>
@@ -821,6 +821,12 @@ On the RHS, we have the *total departure from hexagonality*, which
 we'll call $D_\text{hex}$.
 For a face with $s$ sides, $6-s$ tells you how different it is
 from a hexagon!
+So, more simply, we have
+
+$$
+D_\text{hex} = 6 + E_b.
+$$
+
 There are a few cute things we can learn from this expression.
 First of all, the LHS is positive, so $D_\text{hex} \geq 0$.
 The number of "small" faces $F_1, \ldots, F_5$ places a strong
