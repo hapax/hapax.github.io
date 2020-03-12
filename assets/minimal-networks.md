@@ -1013,6 +1013,13 @@ demonstration, and the classic *What is Mathematics?* for discussions
 of how soap bubble computers can be applied to other mathematically
 difficult problems.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner30.png" width="95%"/>
+		    <figcaption><i>Figure 24. Hardware, software and cheap operations.</i></figcaption>
+	</div>
+	</figure>
+
 Soap bubbles do not magically solve problems thought to be impossible.
 But they do demonstrate strikingly that *physical
 objects are computers*, and the laws of physics do computational work.
@@ -1053,18 +1060,18 @@ How can a railway network of minimal length which connects the four
 German cities Bremen, Harburg, Hannover, and Braunschweig be created?
 </span>
 
-The cities are drawn in Figure 24:
+The cities are drawn in Figure 25:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner25.png" width="58%"/>
-		    <figcaption><i>Figure 24. German cities to be connected by rail.</i></figcaption>
+		    <figcaption><i>Figure 25. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
 
 Your task is simple: build a soap bubble computer, and use it solve
 the original rail network problem!
-Figure 24 also gives the GPS coordinates, which you may find useful in
+Figure 25 also gives the GPS coordinates, which you may find useful in
 placing your screws.
 
 ---
