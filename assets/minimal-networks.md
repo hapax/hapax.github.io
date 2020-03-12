@@ -787,9 +787,8 @@ Rewriting in terms of $F'$, we get $3F' - E = 3$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner24.png" width="50%"/>
-		    <figcaption><i>Figure 20. Counting internal faces,
-    external edges, and the difference from hexagonality.</i></figcaption>
+    ="/images/posts/steiner24.png" width="53%"/>
+		    <figcaption><i>Figure 20. An example calculation of the difference from hexagonality.</i></figcaption>
 	</div>
 	</figure>
 
