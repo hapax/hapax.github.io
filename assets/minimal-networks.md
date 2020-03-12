@@ -841,6 +841,14 @@ $$
 So if I count the number of small faces, I can immediately figure out
 the maximum number of large faces!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner28.png" width="65%"/>
+		    <figcaption><i>Figure 21. Approximate scaling of internal
+    and external edges with total size L.</i></figcaption>
+	</div>
+	</figure>
+
 But our main goal was to show that foams are approximately hexagonal,
 so let's proceed.
 Suppose the foam has size $\sim L$, where $L$ is some length scale
@@ -913,7 +921,7 @@ polyhedron to get its net, which is a *network*.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner26.png" width="50%"/>
-		    <figcaption><i>Figure 21. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
+		    <figcaption><i>Figure 22. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
 	</div>
 	</figure>
 
@@ -982,12 +990,12 @@ The answer is yes!
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner27.png" width="65%"/>
-		    <figcaption><i>Figure 22. Soap bubbles computing a minimal
+		    <figcaption><i>Figure 23. Soap bubbles computing a minimal
     network.</i></figcaption>
 	</div>
 	</figure>
 
-The key is to give the bubble walls something to hold onto.
+The key is to give the bubble walls something to hold onto (Figure 23).
 In a foam, they can only hold onto themselves, and we get the
 non-crossing bubble networks described above.
 But if we drill some screws through the plexiglass, these will act like
@@ -1044,18 +1052,18 @@ How can a railway network of minimal length which connects the four
 German cities Bremen, Harburg, Hannover, and Braunschweig be created?
 </span>
 
-The cities are drawn in Figure 24:
+The cities are drawn in Figure 25:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner25.png" width="55%"/>
-		    <figcaption><i>Figure 24. German cities to be connected by rail.</i></figcaption>
+		    <figcaption><i>Figure 25. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
 
 Your task is simple: build a soap bubble computer, and use it solve
 the original rail network problem!
-Figure 24 also gives the GPS coordinates, which you may find useful in
+Figure 25 also gives the GPS coordinates, which you may find useful in
 placing your screws.
 
 ---
