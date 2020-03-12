@@ -783,7 +783,7 @@ Let's write $E_b$ for the number of edges of the outer face.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner24.png" width="85%"/>
+    ="/images/posts/steiner24.png" width="75%"/>
 		    <figcaption><i>Figure 20. Counting internal faces,
     external edges, and the departure from hexagonality.</i></figcaption>
 	</div>
