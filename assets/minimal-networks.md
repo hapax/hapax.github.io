@@ -912,7 +912,7 @@ polyhedron to get its net, which is a *network*.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner26.png" width="55%"/>
+    ="/images/posts/steiner26.png" width="50%"/>
 		    <figcaption><i>Figure 21. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
 	</div>
 	</figure>
