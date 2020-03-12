@@ -1015,7 +1015,7 @@ difficult problems.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner30.png" width="95%"/>
+    ="/images/posts/steiner30.png" width="90%"/>
 		    <figcaption><i>Figure 24. Hardware, software and cheap operations.</i></figcaption>
 	</div>
 	</figure>
