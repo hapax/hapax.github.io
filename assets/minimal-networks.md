@@ -7,7 +7,12 @@ categories: [Mathematics, Physics, Hacks]
 date:  2020-02-11
 ---
 
-**March 11, 2020.**
+**March 11, 2020.** *This is a self-contained introduction to minimal
+  networks, also called Steiner trees, in the plane. The first section
+  covers the geometry, the second network structure, and the last
+  the connection with soap bubbles. We explain why most bubbles in a
+  foam are hexagonal, and use soap bubbles as physical computers to
+  approximately solve our minimisation problem.*
 
 ### Contents
 
