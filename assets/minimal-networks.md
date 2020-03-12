@@ -1032,11 +1032,11 @@ and waiting for bubbles to form.
 In terms of computers built out of physically interesting hardware,
 this is just the tip of the iceberg!
 One of the big technological revolutions now in the progress is the
-advent of *quantum computing*, which leverages the weirdness of
+advent of *quantum computing*, leveraging the weirdness of
 quantum mechanics.
 Perhaps more surprisingly, there is a sense
-in which black holes, DNA, and evolved organisms are all analogue
-computers like the soap bubbles.
+in which black holes, DNA, and animal brains are all analogue
+computers, like the soap bubbles, with certain cheap operations.
 There are more computers in heaven and earth than are
 dreamt of in our philosophy!
 
@@ -1053,18 +1053,18 @@ How can a railway network of minimal length which connects the four
 German cities Bremen, Harburg, Hannover, and Braunschweig be created?
 </span>
 
-The cities are drawn in Figure 25:
+The cities are drawn in Figure 24:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner25.png" width="58%"/>
-		    <figcaption><i>Figure 25. German cities to be connected by rail.</i></figcaption>
+		    <figcaption><i>Figure 24. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
 
 Your task is simple: build a soap bubble computer, and use it solve
 the original rail network problem!
-Figure 25 also gives the GPS coordinates, which you may find useful in
+Figure 24 also gives the GPS coordinates, which you may find useful in
 placing your screws.
 
 ---
