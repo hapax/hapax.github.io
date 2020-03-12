@@ -981,7 +981,7 @@ See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
 demonstration.
 
 Soap bubbles do not magically solve problems thought to be impossible.
-But they do demonstrate strikingly that, in some sense, *physical
+But they do demonstrate strikingly that *physical
 objects are computers*, and the laws of physics do computational work.
 To expand on this statement, let's consider the traditional division
 of computers into hardware and software.
