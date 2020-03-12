@@ -848,7 +848,7 @@ the maximum number of large faces!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner28.png" width="65%"/>
+    ="/images/posts/steiner28.png" width="60%"/>
 		    <figcaption><i>Figure 21. Approximate scaling of internal
     and external edges with total size L.</i></figcaption>
 	</div>
@@ -924,7 +924,7 @@ polyhedron to get its net, which is a *network*.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner26.png" width="53%"/>
+    ="/images/posts/steiner26.png" width="50%"/>
 		    <figcaption><i>Figure 22. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
 	</div>
 	</figure>
