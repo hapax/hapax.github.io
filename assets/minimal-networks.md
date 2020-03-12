@@ -848,7 +848,7 @@ the maximum number of large faces!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner28.png" width="60%"/>
+    ="/images/posts/steiner28.png" width="50%"/>
 		    <figcaption><i>Figure 21. Approximate scaling of internal
     and external edges with total size L.</i></figcaption>
 	</div>
