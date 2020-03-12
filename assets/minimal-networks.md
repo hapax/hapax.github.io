@@ -784,7 +784,7 @@ Rewriting in terms of $F'$, we get $3F' - E = 3$.
     <div style="text-align:center"><img src
     ="/images/posts/steiner24.png" width="55%"/>
 		    <figcaption><i>Figure 20. Counting internal faces,
-    external edges, and the departure from hexagonality.</i></figcaption>
+    external edges, and the difference from hexagonality.</i></figcaption>
 	</div>
 	</figure>
 
@@ -817,7 +817,7 @@ $$
 
 On the LHS, we have a term involving the number of external edges
 $E_b$.
-On the RHS, we have the *total departure from hexagonality*, which
+On the RHS, we have the *difference from hexagonality*, which
 we'll call $D_\text{hex}$.
 For a face with $s$ sides, $6-s$ tells you how different it is
 from a hexagon!
@@ -856,14 +856,15 @@ $$
 D_\text{hex} = 6 + E_b \sim L.
 $$
 
-The "density" of departures from hexagonality $d_\text{hex}$ is just the departures
+The "density" of difference from hexagonality $d_\text{hex}$ is just
+the total difference
 divided by the area of the foam. This should scale as $L^2$, so that
 
 $$
 d_\text{hex} \sim \frac{D_\text{hex}}{L^2} \sim \frac{1}{L}.
 $$
 
-As the foam becomes larger, departures from hexagonality become
+As the foam becomes larger, differences from hexagonality become
 increasingly rare!
 A typical bubble in a two-dimensional foam has six sides.
 You can repeat the argument, but for a set of contiguous bubbles in a
@@ -877,7 +878,7 @@ Let $E_o$ denote the number of edges extending outward from the
 boundary, and $E_i$ the number extending inward.
 
 <span style="padding-left: 20px; display:block">
-(a) Explain why the departure from hexagonality is now
+(a) Explain why the difference from hexagonality is now
 </span> 
 
 $$
@@ -886,7 +887,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) Repeat the scaling argument above, and conclude that in a large
-blob, departures from hexagonality are increasingly rare per unit area.
+blob, departures from hexagonality become harder and harder to find.
 </span>
 
 <p align="center">
