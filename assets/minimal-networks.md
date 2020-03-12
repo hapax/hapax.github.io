@@ -756,7 +756,7 @@ Exercise 14 guides you through a proof of this formula.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner23.png" width="85%"/>
+    ="/images/posts/steiner23.png" width="75%"/>
 		    <figcaption><i>Figure 19. Euler's formula illustrated for a cube.</i></figcaption>
 	</div>
 	</figure>
