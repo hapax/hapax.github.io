@@ -712,6 +712,15 @@ A soap bubble is spherical, for instance, since this is the smallest
 surface containing a fixed volume of air.
 If we attach two plexiglass plates together and dip them in soapy water,
 a two-dimensional network of bubbles with vertical walls will form.
+A single bubble will now be a cylinder, rather than a sphere, as in
+Figure 18.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner22.png" width="85%"/>
+		    <figcaption><i>Figure 18. A soap bubble in three and two dimensions.</i></figcaption>
+	</div>
+	</figure>
 
 Typically, bubbles will form closed loops and hence are not minimal
 networks in our sense, since we explicitly ruled out loops <a
