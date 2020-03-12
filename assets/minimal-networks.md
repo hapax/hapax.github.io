@@ -782,7 +782,7 @@ Rewriting in terms of $F'$, we get $3F' - E = 3$.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner24.png" width="60%"/>
+    ="/images/posts/steiner24.png" width="55%"/>
 		    <figcaption><i>Figure 20. Counting internal faces,
     external edges, and the departure from hexagonality.</i></figcaption>
 	</div>
@@ -911,7 +911,7 @@ polyhedron to get its net, which is a *network*.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner26.png" width="60%"/>
+    ="/images/posts/steiner26.png" width="55%"/>
 		    <figcaption><i>Figure 21. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
 	</div>
 	</figure>
