@@ -739,25 +739,24 @@ you zoom in on a junction these curved walls look straight.
 
 We can use this to explain why two-dimensional foams form hexagons!
 We don't need any physics, just the result about hubs, some network
-theory, and a few assumptions about how different quantities grow with
-the total size of the foam.
-The main fact about networks we use is *Euler's formula*, governing
-the relationship between nodes $N$, edges $E$, and faces (closed loops)
+theory, and a few reasonable assumptions about what happens as a foam
+network gets bigger.
+The main fact about network theory is *Euler's formula*, governing
+the relationship between nodes $N$, edges $E$, and faces
 $F$ in a graph:
 
 $$
 N - E + F = 2.
 $$
 
-This relation is illustrated in Figure 19, and Exercise 14 guides you
-through a proof.
-Note that we count the whole region outside the network as a face!
-This face seems a little different, and indeed we will treat it
-differently.
+This relation is illustrated for a cube in Figure 19.
+Note that, for a graph, we count the whole region outside the network
+as a face!
+Exercise 14 guides you through a proof of this formula.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner23.png" width="85%"/>
+    ="/images/posts/steiner22.png" width="85%"/>
 		    <figcaption><i>Figure 19. Euler's formula illustrated for a cube.</i></figcaption>
 	</div>
 	</figure>
