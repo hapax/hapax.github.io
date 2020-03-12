@@ -1013,13 +1013,6 @@ demonstration, and the classic *What is Mathematics?* for discussions
 of how soap bubble computers can be applied to other mathematically
 difficult problems.
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/steiner30.png" width="95%"/>
-		    <figcaption><i>Figure 24. Hardware, software and cheap operations.</i></figcaption>
-	</div>
-	</figure>
-
 Soap bubbles do not magically solve problems thought to be impossible.
 But they do demonstrate strikingly that *physical
 objects are computers*, and the laws of physics do computational work.
