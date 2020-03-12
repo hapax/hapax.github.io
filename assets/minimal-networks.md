@@ -779,8 +779,7 @@ $$
 As advertised, we can treat the external face a little differently.
 Let's call the *internal* faces $F'$, so that $F = F' + 1$.
 This means $3F' - E = 3$.
-Similarly, let's write $E'$ for the internal edges and $E_b$ for the
-number of edges of the outer face.
+Let's write $E_b$ for the number of edges of the outer face.
 
 <figure>
     <div style="text-align:center"><img src
