@@ -874,7 +874,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) Repeat the scaling argument above, and conclude that in a large
-blob, departures from hexagonality are rare per unit area.
+blob, departures from hexagonality are increasingly rare per unit area.
 </span>
 
 <p align="center">
