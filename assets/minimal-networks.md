@@ -1059,7 +1059,7 @@ The cities are drawn in Figure 25:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner25.png" width="55%"/>
+    ="/images/posts/steiner25.png" width="58%"/>
 		    <figcaption><i>Figure 25. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
