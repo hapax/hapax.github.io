@@ -981,8 +981,9 @@ The answer is yes!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/steiner27.png" width="85%"/>
-		    <figcaption><i>Figure 22. Soap bubbles computing minimal networks.</i></figcaption>
+    ="/images/posts/steiner27.png" width="65%"/>
+		    <figcaption><i>Figure 22. Soap bubbles computing a minimal
+    network.</i></figcaption>
 	</div>
 	</figure>
 
