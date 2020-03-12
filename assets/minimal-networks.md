@@ -737,8 +737,7 @@ This even applies to *curved* bubble walls (which arise from [pressure
 differences](https://en.wikipedia.org/wiki/Young-Laplace)), since when
 you zoom in on a junction these curved walls look straight.
 
-We can use this to learn the fun fact that two-dimensional foams like
-to form hexagons!
+We can use this to explain why two-dimensional foams form hexagons!
 We don't need any physics, just the result about hubs, some network
 theory, and a few assumptions about how different quantities grow with
 the total size of the foam.
