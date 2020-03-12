@@ -903,7 +903,7 @@ blob, departures from hexagonality become harder and harder to find.
   </p>
 
 *Exercise 14 (Euler's formula).* Our goal here will be to prove
-Euler's famous formula
+Euler's famous formula:
 
 $$
 N - E + F = \chi = 2,
@@ -911,8 +911,7 @@ $$
 
 where $N$ is the number of nodes, $E$ the number of edges, and $F$ the
 number of faces, in a network where edges do not cross.
-We have defined the *Euler characteristic* $\chi$ to save
-space.
+We have also defined $\chi$, called the *Euler characteristic*, for notational convenience.
 Although we are discussing this in the context of graphs, it holds
 in general for three-dimensional polyhedra like cubes and dodecahedra.
 In fact, the two are equivalent, since we can always flatten a
