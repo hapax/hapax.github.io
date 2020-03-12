@@ -1075,6 +1075,11 @@ placing your screws.
 
 I'd like to thank Rafael Haenel, Pedro Lopes and Haris Amiri for
 feedback, and Rafael particularly for his encouragement.
+Some of this material was tested at the
+[UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
+as part of a workshop run by
+[Geering Up](https://geeringup.apsc.ubc.ca/) and
+[Diversifying Talent in Quantum Computing](https://www.digitalsupercluster.ca/programs/capacity-building-program/diversifying-talent-in-quantum-computing/).
 
 #### References
 
