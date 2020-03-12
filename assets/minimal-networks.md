@@ -1020,11 +1020,13 @@ and waiting for bubbles to form.
 In terms of computers built out of physically interesting hardware,
 this is just the tip of the iceberg!
 One of the big technological revolutions now in the progress is the
-advent of *quantum computing*, but more surprisingly, there is a sense
+advent of *quantum computing*, which leverages the weirdness of
+quantum mechanics.
+Perhaps more surprisingly, there is a sense
 in which black holes, DNA, and evolved organisms are all analogue
 computers like the soap bubbles.
 There are more computers in heaven and earth than are
-dreamt of in our philosophy.
+dreamt of in our philosophy!
 
 ---
 
