@@ -1000,7 +1000,9 @@ But it really is a lucky dip, and you can sometimes strike the true
 minimum, particularly for smaller problems where only one tinkertoy
 works.
 See [this video](https://www.youtube.com/watch?v=PI6rAOWu-Og) for a
-demonstration.
+demonstration, and the classic *What is Mathematics?* for discussions
+of how soap bubble computers can be applied to other mathematically
+difficult problems.
 
 Soap bubbles do not magically solve problems thought to be impossible.
 But they do demonstrate strikingly that *physical
@@ -1042,25 +1044,25 @@ How can a railway network of minimal length which connects the four
 German cities Bremen, Harburg, Hannover, and Braunschweig be created?
 </span>
 
-The cities are drawn in Figure 23.
+The cities are drawn in Figure 24:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/steiner25.png" width="55%"/>
-		    <figcaption><i>Figure 23. German cities to be connected by rail.</i></figcaption>
+		    <figcaption><i>Figure 24. German cities to be connected by rail.</i></figcaption>
 	</div>
 	</figure>
 
 Your task is simple: build a soap bubble computer, and use it solve
 the original rail network problem!
-Figure 23 also gives the GPS coordinates, which you may find useful in
+Figure 24 also gives the GPS coordinates, which you may find useful in
 placing your screws.
 
 ---
 
 #### Acknowledgments
 
-I'd like to thank Rafael Hanael, Pedro Lopes and Haris Amiri for
+I'd like to thank Rafael Haenel, Pedro Lopes and Haris Amiri for
 feedback, and Rafael particularly for his encouragement.
 
 #### References
