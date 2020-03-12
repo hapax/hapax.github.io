@@ -903,6 +903,13 @@ in general for three-dimensional polyhedra like cubes and dodecahedra.
 In fact, the two are equivalent, since we can always flatten a
 polyhedron to get its net, which is a *network*.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/steiner26.png" width="55%"/>
+		    <figcaption><i>Figure 21. Steps (a), (b), (c) and (e) illustrated.</i></figcaption>
+	</div>
+	</figure>
+
 First, we will establish Euler's formula for networks made out of triangles.
 
 <span style="padding-left: 20px; display:block">
