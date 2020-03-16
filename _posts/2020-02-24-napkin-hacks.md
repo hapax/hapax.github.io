@@ -128,7 +128,7 @@ Solutions, and various other technicalities, are collected
 
 ## 2. Dimensional analysis <a id="sec-2" name="sec-2"></a>
 
-We will start with one of the powerful but underappreciated tools in
+We will start with one of the most powerful but underappreciated tools in
 physics: *dimensional analysis*.
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
