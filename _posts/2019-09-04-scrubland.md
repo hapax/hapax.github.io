@@ -1371,8 +1371,8 @@ some ideas about classroom implementation.
 
 As mentioned earlier, drill is much more bearable when there are real
 applications on the horizon.
-But I suspect even drill can be made more palatable with a little effort.
-Consider these two examples.
+But I suspect the act of drilling itself can be made more palatable with a little effort.
+Consider these two examples:
 
 ---
 
@@ -1423,7 +1423,7 @@ Perhaps Euclid is a little dry, but what about *non-Euclidean* geometry?
 This is a wonderful place for guided discovery and exploration.
 (Robert and Ellen Kaplan, on the other hand, have designed some Math
 Circle courses around the special properties of triangles. See their
-book *Out of
+inspiring book *Out of
 the Labyrinth*.)
 And what could be more empowering than determining the size of the
 earth from the shadow of a stick, as
@@ -1471,15 +1471,11 @@ Their enthusiasm will be infectious.
 
 #### Why are the problems in section 3 so hard?
 
-I decided to experiment with format and try introducing material in an
-informal, expository way (section 2) and via problems (in section 3). The
-maturity gap between them may seem large, but I am imagining the latter
-as assignments for students who have already mastered the basic
-material.
-In other words, they are "deep end" questions, and assume students
-know how to swim!
-Whether or not they are pedagogically optimal, the longer questions
-are also there to make the cheeky rhetorical point that textbooks are dull.
+This post is partly an experiment with format.
+The first experiment was informal, expository and visual (section 2),
+while the second experiment was an attempt to turn difficult problems
+into bite-sized chunks (in section 3). I'm not sure the latter
+succeeded, but that's the point of the experiment!
 
 #### What's next?
 
