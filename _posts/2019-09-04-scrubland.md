@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "The scrubland manifesto"
-categories: [Maths, Teaching]
+categories: [Maths, Teaching, Hacks]
 date:  2019-09-04
 ---
 

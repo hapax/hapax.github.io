@@ -1719,7 +1719,9 @@ wall.
 
 ### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
 
-We can apply our collision cylinder technology to solve an age-old problem: should you walk or run in the rain?
+We can apply our collision cylinder technology to solve an age-old
+problem: should you walk or run in the rain?
+(In a city like Vancouver, this is a question of practical import.)
 We will present a simple and original argument which models people as
 spheres; see Exercise 16 for the conventional approach which
 models people as boxes.
