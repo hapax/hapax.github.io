@@ -1024,7 +1024,7 @@ of molecules.
    is solved by
 
    $$
-   R(t) = \sqrt{R_0^2 - \left(\frac{2D c_\text{sub} m_\text{N}}{\rho}\right) t}.
+   R(t) = \sqrt{R_0^2 - \left(\frac{2D c_\text{sub} m_\text{N}}{\rho}\right) t},
    $$
 
 	where $R_0$ is the radius at time $0$.
@@ -1178,7 +1178,7 @@ His gravestone even bears the enigmatic Latin phrase
 <i>Eadem mutato resurgo. (Although changed, I shall arise the same.)</i>
 </span>
 
-This is a clear reference to the marvellous spiral.
+This apparently refers to the self-similar spiral.
 
 ##### 3.3. Sand piles, slopes and self-organisation <a id="sec-3-3" name="sec-3-3"></a>
 
