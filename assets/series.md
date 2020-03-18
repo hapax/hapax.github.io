@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "An event of fortunate series"
+title:  "Approxima Centauri"
 categories: [Physics, Maths, Hacks]
 date:  2020-03-??
 ---
