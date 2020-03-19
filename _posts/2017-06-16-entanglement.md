@@ -10,7 +10,7 @@ date: 2017-06-16
 **June 16, 2017.** *A presentation for the
 [Melbourne Maths and Science Meetup](https://www.meetup.com/The-Melbourne-Maths-and-Science-Meetup/)
 on entanglement and quantum key distribution. Although the talk was
-pitched at a general audience, the notes here are slightly more technical.*
+pitched at a general audience, the notes here are more technical.*
 
 <Div id="table-of-contents">
 <h2>Table of Contents</h2>
@@ -289,9 +289,7 @@ $$
 
 There is a more elegant way to extract the probabilities $p_0, p_1$
 using an *inner product*.
-First, we denote the *complex conjugate* of a complex number $\alpha$
-by $\alpha^*$
-and the *Hermitian conjugate* of a complex matrix $A = [A_{ij}]$ by
+First, we denote the *Hermitian conjugate* of a complex matrix $A = [A_{ij}]$ by
 
 $$
 A^\dagger = [A_{ij}]^\dagger = [A^*_{ji}].
