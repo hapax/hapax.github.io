@@ -804,7 +804,7 @@ mooney!
 
 *Calculation tips.* You might be wondering if it's really possible to
 calculate geometric averages on the back of a napkin.
-With a few tricks, it is easy!
+With a few tricks, it's easy!
 First of all, let's write the numbers we want to average in scientific
 notation:
 
