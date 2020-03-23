@@ -1,0 +1,165 @@
+---
+Layout: post
+mathjax: true
+comments: true
+title:  "A Hacker's Guide to the Chandrasekhar Limit"
+categories: [Physics, Hacks]
+date:  2020-03-23
+---
+
+## Introduction
+
+In quantum mechanics, only certain energy levels are allowed to be occupied. We say that energy is *quantized*.
+A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
+The structure of these levels is complicated, and the electrons in an atom can also interact.
+
+## Quantum gases
+
+We will consider a simpler scenario called a *non-interacting quantum gas*.
+As in the atom, there is a possibly infinite set of allowed energies:
+
+$$
+E_1 \leq E_2 \leq E_3 \leq \cdots
+$$
+
+However, particles occupying these energy levels do not interact.
+It's like a hotel: guests can only stay in designated rooms, which are arranged by price, and do not want to be disturbed by other guests.
+To finish describing our gas, we need two more elements.
+
+- *Temperature.* This corresponds to how *cheap* hotel guests are. At zero temperature, they will take the cheapest available room, i.e. the lowest available energy level in the gas. At nonzero temperature, there is some probability they will splash out on a fancy suite, but the more expensive, the less likely it is.
+- *Type.* Particles fall into two categories: *bosons* and *fermions*. Bosons are sociable, and arbitrarily many can stay in a single hotel room.
+Fermions, on the other hand, are loners, obeying the *Pauli exclusion
+principle*: one particle per room!
+
+Let's explore a few immediate consequences for our quantum gas hotel.
+For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdots$, and that the gas is at zero temperature (particles take cheapest available room).
+
+1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
+2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
+
+Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
+This will give us some feeling for the structure of energy levels.
+A quantum particle can be described by a standing *matter wave* in the box, similar to plucking a string with fixed ends.
+Suppose that, like the string, the waves are "clamped" at the ends.
+(If we square the amplitude of the matter wave at a point, we get the probability of finding the particle there. So we are stating that we never find the particle at the edges of the box.)
+What are the allowed wavelengths $\lambda_n$?
+
+For a (classical) particle of momentum $p$ and mass $m$, show the kinetic energy can be written
+
+$$
+E = \frac{p^2}{2m}.
+$$
+
+In 1924, Louis de Broglie guessed that matter waves had an associated momentum,
+
+$$
+p = \frac{2\pi \hbar}{\lambda},
+$$
+
+where $\hbar = 10^{-34} \text{ J s}$ is \emph{Planck's (reduced) constant}.
+Assuming the energy of the quantum particle is kinetic, and the previous question applies, deduce that the energy levels in the box are
+
+$$
+E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
+$$
+
+Throw $N$ non-interacting fermions into the box at zero temperature.
+The energy of the highest occupied level is called the *Fermi energy* $E_F$, and there is an associated \emph{Fermi temperature} $T_F = E_F/k_B$, where
+
+$$
+k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K s}^2}
+$$
+
+is Boltzmann's constant.
+Assuming the ideal gas law holds in the form $PV \sim Nk_BT_F$, deduce that the gas in the box has a *degeneracy pressure*
+
+$$
+P \sim \frac{N E_F}{L}.
+$$
+
+A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
+There are two forces on the star: gravity (mostly due to the protons)
+trying to make it collapse further, and degeneracy pressure (due to
+the electrons) resisting this collapse.
+The attraction between protons and electrons is very small compared to these two forces, so we can ignore it.
+To a good approximation, the electrons behave like a non-interacting gas at zero temperature.
+Let's study a three-dimensional box!
+
+A matter wave in a cube of volume $V = L^3$ oscillates in each dimension independently, with three wavelengths $\vec{\lambda} = (\lambda_x, \lambda_y, \lambda_z)$, and corresponding wave modes $\vec{n} = (n_x,n_y,n_z)$, where $\lambda_{x,y,z} = L/2n_{x,y,z}$.
+
+Assume that the kinetic energies in each direction just add together.
+Argue that the energy of a particle of mass $m$ and wave modes $\vec{n}$ is
+
+$$
+E_{\vec{n}} = \frac{8\pi^2 \hbar^2}{mV^{2/3}}(n_x^2+n_y^2+n_z^2).
+$$
+
+    Find the energy and possible wave modes for the lowest energy level(s).
+What about the first excited state(s)?
+
+The previous question is meant to demonstrate that energy levels are trickier in three dimensions, and adding up all the possibilities to determine the Fermi energy will be hard work.
+But there is a shortcut for many electrons.
+Notice that the wave modes $\vec{n}$ can be viewed as vectors in three-dimensional space, with one per unit cube.
+Argue that a very large sphere, of radius $n_F \gg 1$ in "wave mode space", contains approximately $N$ points, where
+
+$$
+N \approx \frac{4\pi}{3} n_F^3.
+$$
+
+Using the previous observation, argue that if we add $N\gg 1$ electrons into our box, the Fermi energy is approximately
+
+$$
+E_F \approx \frac{8\pi^{4/3} \hbar^2}{m}\left(\frac{3N}{4V}\right)^{2/3}.
+$$
+
+We're finally ready to calculate the mass of the largest white dwarfs.
+This is called the *Chandrasekhar limit*.
+So far, we have neglected relativity.
+ But in a white dwarf, electrons are typically zipping around at close to the speed of light, so the kinetic energy has the \emph{ultrarelativistic form}
+
+$$
+E = |\vec{p}|c, \quad \text{ where } \quad |\vec{p}| = \sqrt{p_x^2+p_y^2+p_z^2},
+$$
+
+where $c = 3\times 10^8 \text{ m/s}$ is the speed of light.
+For $N \gg 1$ neutrons, derive the Fermi energy
+
+$$
+E_F \sim \hbar c \left(\frac{N}{V}\right)^{1/3}.
+$$
+
+Using the ideal gas law as above, conclude that the degeneracy pressure is
+
+$$
+P_\text{degen} \sim \hbar c \left(\frac{N}{V}\right)^{4/3}.
+$$
+
+A neutron star is very dense, and wants to collapse under its own weight.
+For a star of mass $M$ and radius $R$, argue that force of collapse is roughly
+
+$$
+F_\text{grav} \sim \frac{GM^2}{R^2},
+$$
+
+where $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
+
+*Hint.* The gravitational force is $F = GMm/r^2$ for masses $M,m$
+separated by $r$.
+
+From the previous question, deduce that the gravitational pressure is approximately
+
+$$
+P_\text{grav} \sim \frac{GM^2}{R^4}.
+$$
+
+*Hint.* Recall that $P = F/A$, i.e. pressure is force divided by area.
+
+The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
+Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
+Using $M = Nm_\text{N}$ for neutron mass $m_\text{N} = 1.7 \times 10^{-27} \text{ kg}$, $V \sim R^3$, deduce the Chandrasekhar limit $M_C$:
+\[
+M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_\text{N}^2}.
+\]
+
+Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
+You should find $M_C \approx 1.7 M_\odot$.
