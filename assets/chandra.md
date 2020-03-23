@@ -7,11 +7,10 @@ categories: [Physics, Hacks]
 date:  2020-03-23
 ---
 
-**March 23, 2020.** *If you throw too many electrons into a box, they
-  collapse under their own weight to form a black hole. The maximum
-  size of this box is called the Chandrasekhar limit. We will hack our
-  way to an order-of-magnitude estimate of this limit, and comment on
-  the implications for astrophysics.*
+**March 23, 2020.** *If you throw too many electrons into a box, it
+  collapses under its own weight to form a black hole. But how many is
+  too many? We will hack our way towards an order-of-magnitude
+  estimate, and comment on the implications for astrophysics.*
 
 ### Contents
 
@@ -19,10 +18,13 @@ date:  2020-03-23
 2. <a href="#sec-2">Quantum gas</a>
    1. <a href="#sec-2-1">One-dimensional box</a>
    2. <a href="#sec-2-2">Three-dimensional box</a>
+3. <a href="#sec-3">Stars</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-In quantum mechanics, only certain energy levels are allowed to be occupied. We say that energy is *quantized*.
+In quantum mechanics, only certain energy levels are allowed to be
+occupied.
+We say that energy is *quantized*.
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
 The structure of these levels is complicated, and the electrons in an atom can also interact.
 
@@ -50,7 +52,7 @@ For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdo
 1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
 2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
 
-## 2.1. One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
 Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
 This will give us some feeling for the structure of energy levels.
@@ -92,7 +94,7 @@ $$
 P \sim \frac{N E_F}{L}.
 $$
 
-## 2.2. Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
 
 A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
 There are two forces on the star: gravity (mostly due to the protons)
@@ -129,7 +131,7 @@ $$
 E_F \approx \frac{8\pi^{4/3} \hbar^2}{m}\left(\frac{3N}{4V}\right)^{2/3}.
 $$
 
-## White dwarfs
+## 3. Stars <a id="sec-3" name="sec-3"></a>
 
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
