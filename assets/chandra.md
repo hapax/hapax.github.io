@@ -121,7 +121,7 @@ $$
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
 So far, we have neglected relativity.
- But in a white dwarf, electrons are typically zipping around at close to the speed of light, so the kinetic energy has the \emph{ultrarelativistic form}
+ But in a white dwarf, electrons are typically zipping around at close to the speed of light, so the kinetic energy has the *ultrarelativistic form*
 
 $$
 E = |\vec{p}|c, \quad \text{ where } \quad |\vec{p}| = \sqrt{p_x^2+p_y^2+p_z^2},
