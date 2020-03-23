@@ -12,23 +12,36 @@ date:  2020-03-23
   too many? We will hack our way towards an order-of-magnitude
   estimate, and comment on the implications for astrophysics.*
 
-### Contents
-
-1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Quantum gas</a>
-   1. <a href="#sec-2-1">One-dimensional box</a>
-   2. <a href="#sec-2-2">Three-dimensional box</a>
-3. <a href="#sec-3">Stars</a>
-
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-In quantum mechanics, only certain energy levels are allowed to be
-occupied.
+Suppose we have a big central body, like the sun, being orbited by
+much smaller bodies, such as the planets of the solar system.
+In classical physics, the planets can orbit at any radius they like.
+Kepler's laws relate the period to the radius, for instance, but any
+old radius is allowed.
+But if the planets were governed by *quantum* physics, only certain
+orbits would be allowed!
+The orbits are *quantised*.
+
+Of course, the trajectory of planets around a star is governed by
+classical rather than quantum physics.
+The quantum analogue of the solar system is the atom, where the
+planets are tiny electrons, and the sun is the comparatively huge
+nucleus.
+The electrons are pulled inward by electrostatic rather than
+gravitational attraction.
+
+
+The fact that only certains orbits --- or, in atomic language,
+*orbitals* --- are allowed has deep consequences for the structure of
+matter.
+It is not a trivial change.
+
+## 2. Quantum gas <a id="sec-2" name="sec-2"></a>
+
 We say that energy is *quantized*.
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
 The structure of these levels is complicated, and the electrons in an atom can also interact.
-
-## 2. Quantum gas <a id="sec-2" name="sec-2"></a>
 
 We will consider a simpler scenario called a *non-interacting quantum gas*.
 As in the atom, there is a possibly infinite set of allowed energies:
