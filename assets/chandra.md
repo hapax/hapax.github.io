@@ -14,28 +14,26 @@ date:  2020-03-23
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-Suppose we have a big central body, like the sun, being orbited by
-much smaller bodies, such as the planets of the solar system.
-In classical physics, the planets can orbit at any radius they like.
-Kepler's laws relate the period to the radius, for instance, but any
-old radius is allowed.
-But if the planets were governed by *quantum* physics, only certain
-orbits would be allowed!
-The orbits are *quantised*.
+<span style="padding-left: 20px; display:block">
+Quotable
+</span>
 
-Of course, the trajectory of planets around a star is governed by
-classical rather than quantum physics.
-The quantum analogue of the solar system is the atom, where the
-planets are tiny electrons, and the sun is the comparatively huge
-nucleus.
-The electrons are pulled inward by electrostatic rather than
-gravitational attraction.
+The solar system is not so different from an atom.
+Both involve smaller bodies (electrons/planets) orbiting a much
+larger central body (nucleus/sun) under the influence of a
+central force (electrostatics/gravity).
 
+Orbits also have finite occupancy.
+Part of the definition of a planet is that it "clears its
+neighbourhood" of any interlopers.
+Electrons automatically clear their orbitals by the Pauli exclusion
+principle, a point we will return to below.
 
-The fact that only certains orbits --- or, in atomic language,
-*orbitals* --- are allowed has deep consequences for the structure of
-matter.
-It is not a trivial change.
+The quantum analogue of the solar system is the atom.
+The gigantic nucleus acts like the sun, with planetary electrons
+zipping around it due to electrostatic rather than gravitational attraction.
+But there are two key differences from the solar system.
+First, 
 
 ## 2. Quantum gas <a id="sec-2" name="sec-2"></a>
 
@@ -198,3 +196,18 @@ $$
 
 Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
 You should find $M_C \approx 1.7 M_\odot$.
+
+## Extra
+
+The fact that only certains orbits --- or, in atomic language,
+*orbitals* --- are allowed has deep consequences for the structure of
+matter.
+It is not a trivial change.
+But if the planets were governed by *quantum* physics, only certain
+orbits would be allowed!
+The orbits are *quantised*.
+Suppose we have a big central body, like the sun, being orbited by
+much smaller bodies, such as the planets of the solar system.
+In classical physics, the planets can orbit at any radius they like.
+Kepler's laws relate the period to the radius, for instance, but any
+old radius is allowed.
