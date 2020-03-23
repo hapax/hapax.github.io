@@ -66,7 +66,7 @@ E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
 $$
 
 Throw $N$ non-interacting fermions into the box at zero temperature.
-The energy of the highest occupied level is called the *Fermi energy* $E_F$, and there is an associated \emph{Fermi temperature} $T_F = E_F/k_B$, where
+The energy of the highest occupied level is called the *Fermi energy* $E_F$, and there is an associated *Fermi temperature* $T_F = E_F/k_B$, where
 
 $$
 k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K s}^2}
