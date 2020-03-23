@@ -98,7 +98,7 @@ $$
 E_{\vec{n}} = \frac{8\pi^2 \hbar^2}{mV^{2/3}}(n_x^2+n_y^2+n_z^2).
 $$
 
-    Find the energy and possible wave modes for the lowest energy level(s).
+Find the energy and possible wave modes for the lowest energy level(s).
 What about the first excited state(s)?
 
 The previous question is meant to demonstrate that energy levels are trickier in three dimensions, and adding up all the possibilities to determine the Fermi energy will be hard work.
