@@ -163,9 +163,10 @@ $$
 The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
 Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
 Using $M = Nm_\text{N}$ for neutron mass $m_\text{N} = 1.7 \times 10^{-27} \text{ kg}$, $V \sim R^3$, deduce the Chandrasekhar limit $M_C$:
-\[
+
+$$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_\text{N}^2}.
-\]
+$$
 
 Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
 You should find $M_C \approx 1.7 M_\odot$.
