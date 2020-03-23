@@ -7,6 +7,8 @@ categories: [Physics, Hacks]
 date:  2020-03-23
 ---
 
+**March 23, 2020.** *Bla*
+
 ## Introduction
 
 In quantum mechanics, only certain energy levels are allowed to be occupied. We say that energy is *quantized*.
@@ -77,6 +79,8 @@ $$
 P \sim \frac{N E_F}{L}.
 $$
 
+## Three-dimensional box
+
 A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
 There are two forces on the star: gravity (mostly due to the protons)
 trying to make it collapse further, and degeneracy pressure (due to
@@ -111,6 +115,8 @@ Using the previous observation, argue that if we add $N\gg 1$ electrons into our
 $$
 E_F \approx \frac{8\pi^{4/3} \hbar^2}{m}\left(\frac{3N}{4V}\right)^{2/3}.
 $$
+
+## White dwarfs
 
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
