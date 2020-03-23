@@ -22,12 +22,16 @@ The solar system is not so different from an atom.
 Both involve smaller bodies (electrons/planets) orbiting a much
 larger central body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
-
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
 neighbourhood" of any interlopers.
-Electrons automatically clear their orbitals by the Pauli exclusion
-principle, a point we will return to below.
+Electrons, on the other hand, automatically clear their orbitals by
+the *Pauli exclusion principle*, a point we will return to below.
+
+But that is where the resemblance ends: the solar system is classical,
+and the atom is quantum.
+A planet can have any old radius, but the orbitals in an atom are
+strictly *quantised*
 
 The quantum analogue of the solar system is the atom.
 The gigantic nucleus acts like the sun, with planetary electrons
