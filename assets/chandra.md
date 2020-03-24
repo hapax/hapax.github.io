@@ -51,7 +51,7 @@ By comparing the models, we can estimate the maximum size of a white
 dwarf before it collapses to form a black hole, called the
 *Chandrasekhar limit* after the Nobel-winning astrophysicist
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
-We will use this to make some shrewd, but much less 
+We will finish with some more speculative comments about neutron stars.
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
