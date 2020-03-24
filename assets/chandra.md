@@ -54,7 +54,7 @@ And in the words of Chandra himself,
 </span>
 
 While the star's ejecta may go on to form life --- remarkable for its
-complexity -- what is left behind is beautiful by virtue of simplicity.
+complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
