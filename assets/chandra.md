@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A Hacker's Guide to the Chandrasekhar Limit"
+title:  "White dwarfs and black holes"
 categories: [Physics, Hacks]
 date:  2020-03-23
 ---
@@ -15,8 +15,10 @@ date:  2020-03-23
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
 <span style="padding-left: 20px; display:block">
-Quotable
+What is intelligible is also beautiful.
 </span>
+
+<div style="text-align: right"><i>Subrahmanyan Chandrasekhar</i> </div>
 
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
@@ -36,22 +38,18 @@ In contrast, the atom is quantum, and the orbitals are strictly *quantised*.
 Within any given distance from the nucleus, there are only a finite
 number of allowed orbital radii.
 Quantisation has tremendous consequences for atomic physics,
-hence chemistry, and hence life itself.
+hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but just as cool is the fact
-that we're made out of quantum mechanics.
+that we're made using quantum mechanics.
 
-The solar system and the atom are complicated.
-We will focus on two much simpler systems: a quantum *box* instead of an
-atom, and a single sphere subject to gravity, rather than a bunch of
-spheres revolving around each other.
-Remarkably, these models capture different aspects of the same
-object: a *white dwarf*, which is a sort of degenerate star made out
-of electrons.
-By comparing the models, we can estimate the maximum size of a white
-dwarf before it collapses to form a black hole, called the
-*Chandrasekhar limit* after the Nobel-winning astrophysicist
+But just as quantisation is essential for life on earth, it is
+essential for the life of old stars.
+We wll see that quantisation, combined with grv
+Using quantisation and dimensional analysis, we will show 
+called the *Chandrasekhar limit*, after the Nobel-winning astrophysicist
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
-We will finish with some irresponsible comments about neutron stars.
+In some sense, these compact remnants are what you get when you cross
+the solar system with an atom.
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
