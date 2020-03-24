@@ -53,8 +53,8 @@ And in the words of Chandra himself,
 *What is intelligible is also beautiful.*
 </span>
 
-While the star's ejecta may go on to form life, remarkable for its
-complexity, what is left behind is beautiful by virtue of simplicity.
+While the star's ejecta may go on to form life --- remarkable for its
+complexity -- what is left behind is beautiful by virtue of simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
