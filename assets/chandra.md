@@ -30,7 +30,7 @@ That's where the resemblance ends.
 The solar system is classical, and planets can orbit the sun at any
 old radius they like.
 In contrast, atoms obey quantum mechanics, and the orbits are
-*quantised*, occuring only at certain allowed values
+*quantised*, occuring only at certain allowed values.
 Quantisation has tremendous consequences for atomic physics,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but we're also made from
