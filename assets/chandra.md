@@ -35,15 +35,19 @@ Quantisation has tremendous consequences for atomic physics,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but we're also made from
 quantum mechanics.
+Biology is quantum mechanics writ large.
 
 Quantisation not only governs the heavy elements ejected
-from stars, but the degenerate remnants left behind.
+from stars, but the compact remnants left behind.
 Surprisingly, we can model these leftovers by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
-With some dimensional analysis and hand-waving, we can turn this into
-an upper bound on the mass of remnant stars called the
-*Chandrasekhar limit*, after
+With some dimensional analysis, we can obtain an order-of-magnitude
+bound on the mass of remnant stars called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
+The analysis beautifully combines the gravity governing the solar
+system with the quantisation governing the atom, though it is much
+simpler than both.
+And in the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
 What is intelligible is also beautiful.
