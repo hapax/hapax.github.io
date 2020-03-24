@@ -25,12 +25,11 @@ larger central body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
-neighbourhood" of any interlopers, and Pluto's failure to do so led to
-its expulsion from the planetary canon.
+neighbourhood" of any interlopers.
 Electrons, on the other hand, automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
-But that is where the resemblance ends.
+But that's where the resemblance ends.
 The solar system is classical, and planets can have any old radius of
 orbit.
 The atom is quantum, and the orbitals are strictly *quantised*.
@@ -38,9 +37,10 @@ Within any given distance from the nucleus, there are only a finite
 number of allowed radii.
 This turns out to have tremendous consequences for atomic physics,
 hence chemistry, and therefore life itself.
-We're made out of exploded stars, sure, but in a way it's even cooler
+We're made out of exploded stars, sure, but I think it's even cooler
 that we are made out of quantum mechanics.
 
+Life, the solar system, and the atom are all complicated.
 
 
 ### Quantum gas <a id="sec-2" name="sec-2"></a>
