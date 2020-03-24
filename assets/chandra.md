@@ -42,11 +42,13 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but we're also made from
 quantum mechanics.
 
-Quantisation not only governs the chemistry of heavy elements ejected
+Quantisation not only governs the heavy elements ejected
 from old stars, but also the degenerate remnants left behind.
-
-called the *Chandrasekhar limit*, after the Nobel-winning astrophysicist
-[Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
+Surprisingly, we can model these leftovers by throwing electrons into a box.
+Throw in too many electrons, and the box collapses into a black hole.
+With some dimensional analysis and hand-waving, we can turn this into
+an upper bound on the mass of degenerate stars called the
+*Chandrasekhar limit*, after Nobel-winning astrophysicist [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
 In some sense, these compact remnants are what you get when you cross
 the solar system with an atom.
 
