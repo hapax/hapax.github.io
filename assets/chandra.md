@@ -28,7 +28,8 @@ central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
 neighbourhood" of any interlopers.
-Electrons, on the other hand, automatically clear their orbitals by
+(Sic transit gloria Pluto.)
+Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
 But that's where the resemblance ends.
@@ -42,8 +43,7 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but just as cool is the fact
 that we're made using quantum mechanics.
 
-But just as quantisation is essential for life on earth, it is
-essential for the life of old stars.
+But explod
 We wll see that quantisation, combined with grv
 Using quantisation and dimensional analysis, we will show 
 called the *Chandrasekhar limit*, after the Nobel-winning astrophysicist
