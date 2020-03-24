@@ -42,8 +42,9 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but we're also made from
 quantum mechanics.
 
-Life is the ejecta of old stars.
-Using quantisation and dimensional analysis, we will show 
+Quantisation not only governs the chemistry of heavy elements ejected
+from old stars, but also the degenerate remnants left behind.
+
 called the *Chandrasekhar limit*, after the Nobel-winning astrophysicist
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
 In some sense, these compact remnants are what you get when you cross
