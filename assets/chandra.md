@@ -21,7 +21,7 @@ Quotable
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
-larger central body (nucleus/sun) under the influence of a
+larger body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
