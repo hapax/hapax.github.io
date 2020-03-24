@@ -45,15 +45,15 @@ With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of remnant stars called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
 The analysis beautifully combines the gravity governing the solar
-system with the quantisation governing the atom, though it is much
-simpler than both.
+system with the quantisation governing the atom, though a remnant star
+is much simpler than both.
 And in the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
-What is intelligible is also beautiful.
+*What is intelligible is also beautiful.*
 </span>
 
-<div style="text-align: right"><i>Subrahmanyan Chandrasekhar</i> </div>
+So, let's get throwing.
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
