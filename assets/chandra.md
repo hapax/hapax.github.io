@@ -41,9 +41,17 @@ We're made out of exploded stars, sure, but just as cool is the fact
 that we're made out of quantum mechanics.
 
 The solar system and the atom are complicated.
-We will focus on much simpler systems: a quantum *box* instead of an
-atom, and a single self-gravitating sphere rather than a bunch of them
-revolving around each other.
+We will focus on two much simpler systems: a quantum *box* instead of an
+atom, and a single sphere subject to gravity, rather than a bunch of
+spheres revolving around each other.
+Remarkably, these models capture different aspects of the same
+object: a *white dwarf*, which is a sort of degenerate star made out
+of electrons.
+By comparing the models, we can estimate the maximum size of a white
+dwarf before it collapses to form a black hole, called the
+*Chandrasekhar limit* after the Nobel-winning astrophysicist
+[Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
+We will use this to make some shrewd, but much less 
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
