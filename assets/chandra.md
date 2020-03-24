@@ -43,7 +43,7 @@ We're made out of exploded stars, sure, but we're also made from
 quantum mechanics.
 
 Quantisation not only governs the heavy elements ejected
-from stars, but also the degenerate remnants left behind.
+from stars, but the degenerate remnants left behind.
 Surprisingly, we can model these leftovers by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis and hand-waving, we can turn this into
