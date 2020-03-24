@@ -47,10 +47,10 @@ bound on the mass of remnant stars called the *Chandrasekhar limit*, after
 The analysis combines the gravity governing the solar
 system with the quantisation governing the atom, though a remnant star
 is simpler than both.
-And in the words of Chandra himself,
+In the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
-*What is intelligible is also beautiful.*
+What is intelligible is also beautiful.
 </span>
 
 While the star's ejecta may go on to form life --- remarkable for its
