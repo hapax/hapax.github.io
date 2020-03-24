@@ -57,9 +57,11 @@ So, let's get throwing.
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
-### General setup<a id="sec-2-0" name="sec-2-0"></a>
+### Quantisation<a id="sec-2-0" name="sec-2-0"></a>
 
-We say that energy is *quantized*.
+Although we phrased it in terms of the radius of orbits, in general,
+quantisation applied to *energy levels* of a quantum system.
+
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
 The structure of these levels is complicated, and the electrons in an atom can also interact.
 
