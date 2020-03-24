@@ -12,7 +12,7 @@ date:  2020-03-23
   too many? We will hack our way towards an order-of-magnitude
   estimate, and comment on the implications for astrophysics.*
 
-### Introduction <a id="sec-1" name="sec-1"></a>
+## Introduction <a id="sec-1" name="sec-1"></a>
 
 <span style="padding-left: 20px; display:block">
 Quotable
@@ -30,20 +30,22 @@ Electrons, on the other hand, automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
 But that's where the resemblance ends.
-The solar system is classical, and planets can have any old radius of
-orbit.
-The atom is quantum, and the orbitals are strictly *quantised*.
+The solar system is classical, and planets can orbit the sun at any
+old radius.
+In contrast, the atom is quantum, and the orbitals are strictly *quantised*.
 Within any given distance from the nucleus, there are only a finite
-number of allowed radii.
-This turns out to have tremendous consequences for atomic physics,
-hence chemistry, and therefore life itself.
-We're made out of exploded stars, sure, but I think it's even cooler
-that we are made out of quantum mechanics.
+number of allowed orbital radii.
+Quantisation has tremendous consequences for atomic physics,
+hence chemistry, and hence life itself.
+We're made out of exploded stars, sure, but just as cool is the fact
+that we're made out of quantum mechanics.
 
-Life, the solar system, and the atom are all complicated.
+The solar system and the atom are complicated.
+We will focus on much simpler systems: a quantum *box* instead of an
+atom, and a single self-gravitating sphere rather than a bunch of them
+revolving around each other.
 
-
-### Quantum gas <a id="sec-2" name="sec-2"></a>
+## Box of electrons <a id="sec-2" name="sec-2"></a>
 
 We say that energy is *quantized*.
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
