@@ -18,7 +18,8 @@ date:  2020-03-23
 Quotable
 </span>
 
-The solar system is not so different from an atom.
+Though they differ in size by many orders of magnitude, the solar
+system and the atom are not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
 larger central body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
