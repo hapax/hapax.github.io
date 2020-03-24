@@ -45,7 +45,7 @@ We will focus on much simpler systems: a quantum *box* instead of an
 atom, and a single self-gravitating sphere rather than a bunch of them
 revolving around each other.
 
-## Box of electrons <a id="sec-2" name="sec-2"></a>
+## Quantum box<a id="sec-2" name="sec-2"></a>
 
 We say that energy is *quantized*.
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
