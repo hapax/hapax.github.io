@@ -14,12 +14,6 @@ date:  2020-03-23
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
-<span style="padding-left: 20px; display:block">
-What is intelligible is also beautiful.
-</span>
-
-<div style="text-align: right"><i>Subrahmanyan Chandrasekhar</i> </div>
-
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
@@ -47,12 +41,15 @@ from stars, but the degenerate remnants left behind.
 Surprisingly, we can model these leftovers by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis and hand-waving, we can turn this into
-an upper bound on the mass of these remnant stars called the
+an upper bound on the mass of remnant stars called the
 *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
 
-Although the remnants are less celebrated than the eject which may go
-on to form life,
+<span style="padding-left: 20px; display:block">
+What is intelligible is also beautiful.
+</span>
+
+<div style="text-align: right"><i>Subrahmanyan Chandrasekhar</i> </div>
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
 
