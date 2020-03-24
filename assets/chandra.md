@@ -24,20 +24,23 @@ larger central body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
-neighbourhood" of any interlopers.
+neighbourhood" of any interlopers, and Pluto's failure to do so led to
+its expulsion from the planetary canon.
 Electrons, on the other hand, automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
-But that is where the resemblance ends: the solar system is classical,
-and the atom is quantum.
-A planet can have any old radius, but the orbitals in an atom are
-strictly *quantised*
+But that is where the resemblance ends.
+The solar system is classical, and planets can have any old radius of
+orbit.
+The atom is quantum, and the orbitals are strictly *quantised*.
+Within any given distance from the nucleus, there are only a finite
+number of allowed radii.
+This turns out to have tremendous consequences for atomic physics,
+hence chemistry, and therefore life itself.
+We really are the result of quantisation.
 
-The quantum analogue of the solar system is the atom.
-The gigantic nucleus acts like the sun, with planetary electrons
-zipping around it due to electrostatic rather than gravitational attraction.
-But there are two key differences from the solar system.
-First, 
+Although atoms and solar systems are, in their own way, models of
+order and perfection, both turn out to be complicated.
 
 ## 2. Quantum gas <a id="sec-2" name="sec-2"></a>
 
