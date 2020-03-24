@@ -21,8 +21,8 @@ larger body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
-neighbourhood" of any interlopers.
-(*Sic transit gloria Pluto.*)
+neighbourhood" of any interlopers
+(*sic transit gloria Pluto*).
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
