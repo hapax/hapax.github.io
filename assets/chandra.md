@@ -37,10 +37,10 @@ Within any given distance from the nucleus, there are only a finite
 number of allowed radii.
 This turns out to have tremendous consequences for atomic physics,
 hence chemistry, and therefore life itself.
-We really are the result of quantisation.
+We're made out of exploded stars, sure, but in a way it's even cooler
+that we are made out of quantum mechanics.
 
-Although atoms and solar systems are, in their own way, models of
-order and perfection, both turn out to be complicated.
+
 
 ## 2. Quantum gas <a id="sec-2" name="sec-2"></a>
 
