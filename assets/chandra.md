@@ -22,7 +22,7 @@ central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
 neighbourhood" of any interlopers
-(*sic transit gloria Pluto*).
+(*sic transit gloria [Pluto](https://en.wikipedia.org/wiki/Pluto#Classification)*).
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
