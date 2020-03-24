@@ -28,23 +28,21 @@ central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
 neighbourhood" of any interlopers.
-(Sic transit gloria Pluto.)
+(*Sic transit gloria Pluto.*)
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
 But that's where the resemblance ends.
 The solar system is classical, and planets can orbit the sun at any
-old radius.
-In contrast, the atom is quantum, and the orbitals are strictly *quantised*.
-Within any given distance from the nucleus, there are only a finite
-number of allowed orbital radii.
+old radius they like.
+In contrast, an atom obeys quantum mechanics, and the orbits are *quantised*:
+they only exist at certain distances from the nucleus.
 Quantisation has tremendous consequences for atomic physics,
 hence chemistry, hence life itself.
-We're made out of exploded stars, sure, but just as cool is the fact
-that we're made using quantum mechanics.
+We're made out of exploded stars, sure, but we're also made from
+quantum mechanics.
 
-But explod
-We wll see that quantisation, combined with grv
+Life is the ejecta of old stars.
 Using quantisation and dimensional analysis, we will show 
 called the *Chandrasekhar limit*, after the Nobel-winning astrophysicist
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
