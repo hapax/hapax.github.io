@@ -43,16 +43,20 @@ We're made out of exploded stars, sure, but we're also made from
 quantum mechanics.
 
 Quantisation not only governs the heavy elements ejected
-from old stars, but also the degenerate remnants left behind.
+from stars, but also the degenerate remnants left behind.
 Surprisingly, we can model these leftovers by throwing electrons into a box.
-Throw in too many electrons, and the box collapses into a black hole.
+Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis and hand-waving, we can turn this into
-an upper bound on the mass of degenerate stars called the
-*Chandrasekhar limit*, after Nobel-winning astrophysicist [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
-In some sense, these compact remnants are what you get when you cross
-the solar system with an atom.
+an upper bound on the mass of these remnant stars called the
+*Chandrasekhar limit*, after
+[Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar).
+
+Although the remnants are less celebrated than the eject which may go
+on to form life,
 
 ## Quantum box<a id="sec-2" name="sec-2"></a>
+
+### General setup<a id="sec-2-0" name="sec-2-0"></a>
 
 We say that energy is *quantized*.
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
