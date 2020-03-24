@@ -32,11 +32,12 @@ neighbourhood" of any interlopers.
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
-But that's where the resemblance ends.
+That's where the resemblance ends.
 The solar system is classical, and planets can orbit the sun at any
 old radius they like.
 In contrast, an atom obeys quantum mechanics, and the orbits are *quantised*:
-they only exist at certain distances from the nucleus.
+they only exist at certain distances from the nucleus, and an electron
+is more like a cloud of possibilities than a well-localised billiard ball.
 Quantisation has tremendous consequences for atomic physics,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but we're also made from
