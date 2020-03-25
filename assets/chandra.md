@@ -148,7 +148,8 @@ $$
 $$
 
 By analogy, de Broglie guessed that a massive particle could also
-exhibit wave-like behaviour, with a wavelength
+exhibit wave-like behaviour, with a wavelength related to its momentum
+in the same way:
 
 $$
 \lambda = \frac{2\pi \hbar}{p}.
