@@ -24,7 +24,7 @@ central force (electrostatics/gravity).
 Orbits also have finite occupancy.
 Part of the definition of a planet is that it "clears its
 neighbourhood" of any interlopers
-(*sic transit gloria [Pluto](https://en.wikipedia.org/wiki/Pluto#Classification)*).
+(sic transit gloria [Pluto](https://en.wikipedia.org/wiki/Pluto#Classification)).
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
@@ -60,6 +60,16 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
+We're going to consider a simple caricature of quantum
+mechanics, given by three rules:
+
+1. There is a set of allowed energies $$ E_1 \leq E _2 \leq E_3 \leq
+\cdots$$
+2. Only one particle can occupy an energy level.
+2. If we add particles, they will occupy the lowest available energy level.
+
+This swee
+
 ### The revolutionary atom
 
 We'll start by recalling Bohr's model of hydrogen and the role played
@@ -76,6 +86,8 @@ $$
 
 where the "quantum" of angular momentum is *Planck's
 (reduced) constant* $\hbar$, and $m_e$ is the mass of the electron.
+To get 
+
 There is a nice way of reformulating this using de Broglie's notion of
 *matter waves*.
 
@@ -178,15 +190,13 @@ We can add this in two different ways.
 First, we can recognise in advance that the electron is *bound*, and
 hence requires energy to escape the pull of the nucleus.
 Alternatively, we can do our calculation, and observe that if we don't
-add it, energy *decreases* with $n$. Since (as we discuss below) electrons like to occupy
+add it, energy *decreases* with $n$. Since (as we discussed above) electrons like to occupy
 the lowest available state, this means they would immediately zip off
 to infinity, and we would have no stable matter!
 
 ---
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
-
-Lowest energy, Pauli
 
 Instead of an atom, let's consider the much simple scenario of a
 one-dimensional box, of length $L$.
