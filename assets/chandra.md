@@ -60,7 +60,7 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
-### Hydrogen: Bohr, de Broglie, Pauli
+### Hydrogen
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -122,7 +122,7 @@ $$
 
 We still don't know the radius of the orbit labelled by $n$, and won't
 need it below.
-However, the interested reader can figure it out themselves in the
+However, the interested reader can supply it themselves in the
 following exercise.
 
 ---
@@ -165,12 +165,12 @@ r_n = \left(\frac{\hbar^2}{k_e m_e e^2}\right) n^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) Finally, determine the energy levels for hydrogen:
+(d) Finally, show that hydrogen has energy levels
 </span>
 
 $$
-E_n = \frac{p^2}{2m_e} = -\left(\frac{m_ek_e^2
-e^4}{2\hbar^2}\right)  n^2.
+E_n = -\frac{p_n^2}{2m_e} = -\left(\frac{m_ek_e^2
+e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
 ---
