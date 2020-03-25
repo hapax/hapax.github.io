@@ -657,28 +657,42 @@ $$
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
-We're finally ready to calculate the mass of the largest white dwarfs.
-This is called the *Chandrasekhar limit*.
-So far, we have neglected relativity.
-A neutron star is very dense, and wants to collapse under its own weight.
-For a star of mass $M$ and radius $R$, argue that force of collapse is roughly
+We're finally ready to calculate the mass of the largest white dwarfs,
+called the *Chandrasekhar limit*.
+Our goal will be to calculate the "self-pressure" on the white dwarf
+due to gravity, and compare to the degeneracy pressure we calculated
+<a href="#sec-3-1">above</a>.
+Recall Newton's law of gravitation,
 
 $$
-F_\text{grav} \sim \frac{GM^2}{R^2},
+F = \frac{GMm}{R^2}
 $$
 
-where $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
+where masses $M,m$ separated by $R$, and $G = 6.7\times 10^{-11}
+\text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
 
-*Hint.* The gravitational force is $F = GMm/r^2$ for masses $M,m$
-separated by $r$.
-
-From the previous question, deduce that the gravitational pressure is approximately
+Consider a spherical white dwarf of mass $M$ and radius $R$.
+We now want to ask: what gravitational force does this exert on
+itself?
+Obviously a precise answer will depend on the composition of the dwarf
+and other details, but we can make an order-of-magnitude guess from
+dimensional analysis.
+In Newton's law, we set both masses equal to $M$, since the white
+dwarf is both doing the pulling and experiencing the pull.
+Similarly, the only length scale in the problem is the radius, $R$, so
+we guess
 
 $$
-P_\text{grav} \sim \frac{GM^2}{R^4}.
+F_\text{grav} \sim \frac{GM^2}{R^2}.
 $$
 
-*Hint.* Recall that $P = F/A$, i.e. pressure is force divided by area.
+Since pressure is force divided by area, the *gravitational
+self-pressure* is going to be this force divided by the surface area
+of the sphere, or
+
+$$
+P_\text{grav} \sim \frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4}.
+$$
 
 The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
 Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
