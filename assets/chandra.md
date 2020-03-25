@@ -628,10 +628,11 @@ Let's see why these assumptions are reasonable:
   provided $T$ is much smaller than the Fermi temperature, $T \ll
   T_F$.
   White dwarfs are typically around $T = 10^7 \text{ K}$, while the
-  Fermi temperature is order $T_F \sim 10^9 \text{ K}$, so the
-  temperature is indeed much smaller.
-- *Shape.* A white dwarf is a sphere. A box is not even remotely
-  spherical. Nevertheless, our model works
+  Fermi temperature is order $T_F \sim 10^9 \text{ K}$ (Exercise 6).
+- *Shape.* A white dwarf is a sphere, while a periodix box is not even
+  remotely spherical. Nevertheless, our model works because a sphere
+  and a box are just different choices of *boundary condition*, and as
+  $N$ gets large, boundary conditions become irrelevant.
 
 ---
 
