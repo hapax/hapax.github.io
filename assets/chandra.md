@@ -397,37 +397,39 @@ E_{n_x, n_y} = \frac{p^2}{2m_e} = \frac{p_x^2 + p_y^2}{2m_e} =
 \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2).
 $$
 
+We can assemble the two integers $n_x, n_y$ into a vector $\vec{n} =
+(n_x, n_y)$, so
+
+$$
+p^2 = \left(\frac{2\pi\hbar}{L}\right)^2 |\vec{n}|^2.
+$$
+
+This relation actually holds for *any* number of dimensions.
+For instance, on a *cube* of side length $L$, with periodic boundary
+conditions, we have energy levels
+
+$$
+E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
+$$
+
+for $\vec{n} = (n_x, n_y, n_z)$.
+
 ---
 
-**Exercise 3.**
+**Exercise 3.** Let's now consider the Fermi gas on a donut.
+
+<span style="padding-left: 20px; display:block">
+(a) Compute the lowest three energy levels, and draw what they look
+like (on the square).
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) If I put $N = 10$ electrons in the donut, what is the Fermi energy?
+</span>
 
 ---
 
 ### The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
-
-We will also call the circle a "one-dimensional box" since, as $L$
-gets large, it's hard to tell the difference between a circle and a
-very long line.
-
-A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
-There are two forces on the star: gravity (mostly due to the protons)
-trying to make it collapse further, and degeneracy pressure (due to
-the electrons) resisting this collapse.
-The attraction between protons and electrons is very small compared to these two forces, so we can ignore it.
-To a good approximation, the electrons behave like a non-interacting gas at zero temperature.
-Let's study a three-dimensional box!
-
-A matter wave in a cube of volume $V = L^3$ oscillates in each dimension independently, with three wavelengths $\vec{\lambda} = (\lambda_x, \lambda_y, \lambda_z)$, and corresponding wave modes $\vec{n} = (n_x,n_y,n_z)$, where $\lambda_{x,y,z} = L/2n_{x,y,z}$.
-
-Assume that the kinetic energies in each direction just add together.
-Argue that the energy of a particle of mass $m$ and wave modes $\vec{n}$ is
-
-$$
-E_{\vec{n}} = \frac{8\pi^2 \hbar^2}{mV^{2/3}}(n_x^2+n_y^2+n_z^2).
-$$
-
-Find the energy and possible wave modes for the lowest energy level(s).
-What about the first excited state(s)?
 
 The previous question is meant to demonstrate that energy levels are trickier in three dimensions, and adding up all the possibilities to determine the Fermi energy will be hard work.
 But there is a shortcut for many electrons.
@@ -567,3 +569,27 @@ Assuming the energy of the quantum particle is kinetic, and the previous questio
 $$
 E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
 $$
+
+We will also call the circle a "one-dimensional box" since, as $L$
+gets large, it's hard to tell the difference between a circle and a
+very long line.
+
+A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
+There are two forces on the star: gravity (mostly due to the protons)
+trying to make it collapse further, and degeneracy pressure (due to
+the electrons) resisting this collapse.
+The attraction between protons and electrons is very small compared to these two forces, so we can ignore it.
+To a good approximation, the electrons behave like a non-interacting gas at zero temperature.
+Let's study a three-dimensional box!
+
+A matter wave in a cube of volume $V = L^3$ oscillates in each dimension independently, with three wavelengths $\vec{\lambda} = (\lambda_x, \lambda_y, \lambda_z)$, and corresponding wave modes $\vec{n} = (n_x,n_y,n_z)$, where $\lambda_{x,y,z} = L/2n_{x,y,z}$.
+
+Assume that the kinetic energies in each direction just add together.
+Argue that the energy of a particle of mass $m$ and wave modes $\vec{n}$ is
+
+$$
+E_{\vec{n}} = \frac{8\pi^2 \hbar^2}{mV^{2/3}}(n_x^2+n_y^2+n_z^2).
+$$
+
+Find the energy and possible wave modes for the lowest energy level(s).
+What about the first excited state(s)?
