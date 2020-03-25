@@ -745,8 +745,21 @@ $$
 
 once more, where $m_n \approx m_p$ is the mass of a neutron.
 
-But there is a subtlety we did not include, namely an additional
-repulsion between neutrons due to the strong nuclear force.
+But there is a subtlety we did not include: the additional repulsion
+between neutrons due to the strong nuclear force.
+This repulsion is poorly understood and difficult to model, but the
+state-of-the-art version of the Chandrasekhar limit is the
+[Tolman-Oppenheimer-Volkoff (TOV) limit](https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit),
+mainly based on numerical simulations.
+However, these simulations suggest that nuclear repulsion is roughly
+the same size as neutron degeneracy, with
+
+$$
+M_\text{TOV} \approx 2.17 \, M_\odot.
+$$
+
+Thus, our naive guess for an upper bound on the size of a neutron star
+is within an order of magnitude of the state-of-the-art answer as well!
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
 
