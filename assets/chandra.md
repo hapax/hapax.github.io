@@ -86,8 +86,6 @@ $$
 
 where the "quantum" of angular momentum is *Planck's
 (reduced) constant* $\hbar$, and $m_e$ is the mass of the electron.
-To get 
-
 There is a nice way of reformulating this using de Broglie's notion of
 *matter waves*.
 
@@ -123,6 +121,9 @@ $$
 This has a lovely interpretation: the allowed orbits are those for
 which the matter wave is *periodic*, meeting up with itself after $n$
 periods.
+
+To connect to our "hotel" model of quantum mechanics, we need to see
+how Bohr's condition is related to energy levels
 We can determine energy levels with only a little more work.
 First, we can express kinetic energy in terms of momentum, hence in
 terms of de Broglie wavelength:
