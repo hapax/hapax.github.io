@@ -14,7 +14,7 @@ date:  2020-03-23
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
-*Prerequisites: basics of the Bohr model, de Broglie wavelength.*
+*Prerequisites: basics conceps of quantum mechanics.*
 
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
@@ -60,13 +60,14 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
-We'll start by recalling Bohr's model of hydrogen, and the role
-quantisation plays there.
-This will lead naturally to the idea of a box of non-interacting
-electrons.
+We'll start by recalling Bohr's model of hydrogen and the role played
+by quantisation.
+By considering how to squish electron wavelengths into an orbit, we'll
+see that *periodicity* is a natural way to think about quantisation.
 
-## The Bohr model of hydrogen
+### The Bohr model of hydrogen
 
+Hydrogen is just a proton and electron 
 Bohr thought of the nucleus as a big, immovable positive charge, and
 the electron as a tiny orbiting negative charge.
 In order to explain the fact that hydrogen was able to absorb and emit
