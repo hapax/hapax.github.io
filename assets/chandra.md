@@ -576,7 +576,9 @@ $$
 
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
-Finally, we will turn our attention to gravity and astrophysics.
+Above, I referred mysteriously to various "stellar leftovers".
+We will finally learn what these are, and what they have to do with
+Fermi gases!
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
