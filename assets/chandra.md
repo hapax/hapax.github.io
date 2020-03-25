@@ -577,7 +577,7 @@ where $V = L^3$.
 
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
-We can finally turn our attention from 
+Finally, we will turn our attention to gravity and astrophysics.
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
