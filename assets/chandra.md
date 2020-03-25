@@ -414,10 +414,12 @@ E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 $$
 
 for $\vec{n} = (n_x, n_y, n_z)$.
+This periodic cube, or *three-dimensional donut*, will be our model of
+a star!
 
 ---
 
-**Exercise 3.** Let's now consider the Fermi gas on a donut.
+**Exercise 3.** Let's get a feeling for energy levels on a donut.
 
 <span style="padding-left: 20px; display:block">
 (a) Compute the lowest three energy levels, and sketch them on the square.
@@ -431,10 +433,30 @@ for $\vec{n} = (n_x, n_y, n_z)$.
 
 ### The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
 
-The previous question is meant to demonstrate that energy levels are trickier in three dimensions, and adding up all the possibilities to determine the Fermi energy will be hard work.
-But there is a shortcut for many electrons.
-Notice that the wave modes $\vec{n}$ can be viewed as vectors in three-dimensional space, with one per unit cube.
-Argue that a very large sphere, of radius $n_F \gg 1$ in "wave mode space", contains approximately $N$ points, where
+As Exercise 3 demonstrates, finding energy levels on the donut takes
+some work, even though it is vastly simpler than the atom.
+It is even trickier to calculate energy levels on the
+three-dimensional donut, where we need to consider all the different
+possibilities for $\vec{n} = (n_x, n_y, n_z)$.
+Calculating the Fermi energy $E_F$ for large $N$ seems best suited to
+a computer.
+
+However, there is a shortcut when $N$ is very large.
+We'll do the calculation for a regular donut, and leave you to do the
+calculation for the three-dimensional donut.
+The vectors $\vec{n} = (n_x, n_y)$ live on a Cartesian plane, with one
+point per unit area.
+If we draw a circle of radius $n_F$ in this plane, centred at the
+origin, then provided it is large, the number of points it contains is
+approximately equal to the area:
+
+$$
+N \approx \pi n_F^2.
+$$
+
+---
+
+**Exercise 4.**
 
 $$
 N \approx \frac{4\pi}{3} n_F^3.
@@ -445,6 +467,8 @@ Using the previous observation, argue that if we add $N\gg 1$ electrons into our
 $$
 E_F \approx \frac{8\pi^{4/3} \hbar^2}{m}\left(\frac{3N}{4V}\right)^{2/3}.
 $$
+
+---
 
 ### Stars <a id="sec-3" name="sec-3"></a>
 
