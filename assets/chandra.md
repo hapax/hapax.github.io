@@ -452,10 +452,10 @@ some work, even though it is vastly simpler than the atom.
 It is even trickier to calculate energy levels on the
 three-dimensional donut, where we need to consider all the different
 possibilities for $\vec{n} = (n_x, n_y, n_z)$.
-Calculating the Fermi energy $E_F$ for large $N$ seems best suited to
-a computer.
+Calculating the Fermi energy $E_F$ for large $N$ seems like a hard and
+boring task best suited to a computer.
 
-However, there is a shortcut when $N$ is very large.
+However, there is a shortcut for computationally-inefficients humans when $N$ is very large.
 We'll do the calculation for a regular donut, and leave you to do the
 calculation for the three-dimensional donut.
 The vectors $\vec{n} = (n_x, n_y)$ live on a Cartesian plane, with one
