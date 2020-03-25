@@ -510,7 +510,7 @@ points. *Hint.* Consider area vs perimeter.
 </span>
 
 $$
-E_F \approx \left(\frac{2\pi^2 \hbar^2}{m_eL^2}\right) \left(\frac{3N}{4\pi}\right)^{1/3}.
+E_F \approx \left(\frac{2\pi^2 \hbar^2}{m_eL^2}\right) \left(\frac{3N}{4\pi}\right)^{2/3}.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -518,7 +518,7 @@ $$
 </span>
 
 $$
-P_F \sim \frac{\hbar^2 N^{4/3}}{m_e L^5}.
+P_F \sim \frac{\hbar^2 N^{5/3}}{m_e L^5}.
 $$
 
 ---
@@ -703,7 +703,7 @@ The mass of a white dwarf is mostly protons, with $M = Nm_p$, while $V \sim R^3$
 Thus, we can write the degeneracy pressure as
 
 $$
-P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3} \sim \hbar c \left(\frac{(M/m_p)^{4/3}}{R^4}\right).
+P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3} \sim \hbar c \cdot \frac{(M/m_p)^{4/3}}{R^4}.
 $$
 
 Let's now set this equal to the gravitational self-pressure,
@@ -714,7 +714,7 @@ $$
 \begin{align*}
 \frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4} & \sim \hbar c
 \left(\frac{(M/m_p)^{4/3}}{R^4}\right) \\
-\Longrightarrow \quad M^{2-4/3} & \sim \frac{\hbar c}{G}
+\Longrightarrow \quad M^{2-4/3} = M^{2/3}& \sim \frac{\hbar c}{G}
 \frac{1}{m_p^{4/3}}.
 \end{align*}
 $$
@@ -743,35 +743,34 @@ We've done remarkably well!
   ⁂
   </p>
 
-**Exercise 8.** We can also consider the relationship between
-gravitational and Fermi energy.
-
-<span style="padding-left: 20px; display:block">
-(a) Using dimensional arguments similar to those above, argue that the
-gravitational potential energy of the white dwarf is
-</span>
+**Exercise 8.** Let's repeat the argument using the non-relativistic
+  Fermi gas, appropriate to smaller and less gravitationally extreme
+  white dwarfs.
+  Recall the non-relativistic degeneracy pressure,
 
 $$
-U_\text{grav} \sim -\frac{GM^2}{R}.
+P_F \sim \frac{\hbar^2 }{m_e}\left(\frac{N}{V}\right)^{5/3}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Show that the Chandrasekhar limit can also be obtained by setting
-</span>
+(a) Compare to gravitational self-pressure, and show that a
+non-relativistic white dwarf is in equilibrium when
+</span> 
 
 $$
-E_F = -\tfrac{1}{2}U_\text{grav}.
+R \sim \left(\frac{\hbar}{m_e m_p^{5/3}G}\right)M^{-1/3}.
 $$
 
 <span style="padding-left: 20px; display:block">
-*Note for experts.* This odd-looking equation comes from identifying the kinetic energy with
-$E_F$ and using the
-[virial theorem](https://en.wikipedia.org/wiki/Virial_theorem).
+This *mass-radius relationship* tells us that the white dwarf shrinks
+as it gets heavier!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(c)
-</span>
+(b) The earth has a radius of $R \sim 6 \times 10^6 \text{ m}$.
+What is the approximate density of a white dwarf the size of earth?
+An electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
+</span> 
 
 ---
 
