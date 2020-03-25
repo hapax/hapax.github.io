@@ -21,7 +21,7 @@ date:  2020-03-23
    3. <a href="#sec-2-3">Electrons on a donut</a>
    3. <a href="#sec-2-4">The Fermi sea</a>
 3. <a href="#sec-3">Light and gravity</a>
-   1. <a href="#sec-3-1">Relativity and ultrarelativity</a>
+   1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
 4. <a href="#sec-4">Conclusion</a>
@@ -520,34 +520,61 @@ $$
 
 ## Light and gravity <a id="sec-3" name="sec-3"></a>
 
-We're almost ready to apply what we've learned to old stars.
-But before we do, there is an important 
+We're almost ready to perform our thought experiment of throwing
+electrons into a box until it collapses into a black hole.
+But in order to apply our Fermi gas model to old stars, there are a
+few little changes we need to make, and some facts we need to learn
+about light and gravity.
 
-### Relativity and ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
+### Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
+
+Gravity is very strong in stars, particularly old stars which have
+shed their outer layers and contracted to form a dense core.
+This means particles are zipping around at close to the speed of
+light, and the earlier, classical form of kinetic energy we used is no
+longer accurate.
+Einstein's famous formula $E = mc^2$ is subtle, concealing the fact
+$m$ actually *changes* with velocity.
+It is sometimes more helpful to write his equation in the form
+
+$$
+E^2 = (m_\text{rest} c^2)^2 + p^2 c^2,
+$$
+
+where $p^2 = |\vec{p}|^2$ is the momentum squared as usual, and
+$m_\text{rest}$ is the mass of the particle at rest.
+In an old star, usually have much more momentum than mass energy, so
+the kinetic energy takes the *ultrarelativistic form*:
+
+$$
+E \approx |\vec{p}|c.
+$$
+
+All the business about Bohr-de Broglie quantisation remains unchanged,
+and in particular we still have $|\vec{p}| = \2\pi\hbar|\vec{n}|/L$.
+It follows that
+
+$$
+E_{\vec{n}} = \frac{\2\pi\hbar c|\vec{n}|}{L}.
+$$
+
+We can immediately determine the degeneracy pressure for a periodic
+box of side length $L$.
+
+---
+
+**Exercise 5.** Show that, for $N \gg 1$, the degeneracy pressure for
+  an ultrarelativistic Fermi gas is
+
+$$
+P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3}.
+$$
 
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
 So far, we have neglected relativity.
- But in a white dwarf, electrons are typically zipping around at close to the speed of light, so the kinetic energy has the *ultrarelativistic form*
-
-$$
-E = |\vec{p}|c, \quad \text{ where } \quad |\vec{p}| = \sqrt{p_x^2+p_y^2+p_z^2},
-$$
-
-where $c = 3\times 10^8 \text{ m/s}$ is the speed of light.
-For $N \gg 1$ neutrons, derive the Fermi energy
-
-$$
-E_F \sim \hbar c \left(\frac{N}{V}\right)^{1/3}.
-$$
-
-Using the ideal gas law as above, conclude that the degeneracy pressure is
-
-$$
-P_\text{degen} \sim \hbar c \left(\frac{N}{V}\right)^{4/3}.
-$$
 
 A neutron star is very dense, and wants to collapse under its own weight.
 For a star of mass $M$ and radius $R$, argue that force of collapse is roughly
