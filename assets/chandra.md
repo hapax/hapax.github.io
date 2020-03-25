@@ -619,9 +619,8 @@ $$
 where $V$ is the volume of the white dwarf.
 We figure out the maximum mass of a white dwarf in the next section by
 comparing this degeneracy pressure due to gravity.
-
-Our calculation for $P_F$ is highly suspicious.
-To get there, we made two assumptions: first, the gas is at zero
+But our expression for $P_F$ is a bit suspicious.
+To get it, we made two assumptions: first, the gas is at zero
 temperature; second, the star is a periodic cube, rather than a
 sphere.
 Let's see why these assumptions are reasonable:
@@ -630,10 +629,10 @@ Let's see why these assumptions are reasonable:
   T_F$.
   White dwarfs are typically around $T = 10^7 \text{ K}$, while the
   Fermi temperature is order $T_F \sim 10^9 \text{ K}$ (Exercise 6).
-- *Shape.* A white dwarf is a sphere, while a periodix box is not even
-  remotely spherical. Nevertheless, our model works because a sphere
-  and a box are just different choices of *boundary condition*, and as
-  $N$ gets large, boundary conditions become irrelevant.
+- *Shape.* A white dwarf is a sphere not a three-dimensional
+  donut. Nevertheless, our model works because sphere and donut are
+  just different choices of *boundary condition*, and as $N$ gets
+  large, boundary conditions become irrelevant.
 
 ---
 
@@ -669,7 +668,7 @@ $$
 F = \frac{GMm}{R^2}
 $$
 
-where $M,m$ are masses separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
+where $M,m$ are separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
 
 Consider a spherical white dwarf of mass $M$ and radius $R$.
 We now want to ask: what gravitational force does this exert on
