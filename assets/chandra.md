@@ -280,7 +280,7 @@ $$
 E_\text{avg} \sim k_BT,
 $$
 
-where $k_B = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2}$ is *Boltzmann's constant*.
+where $k_B = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2$ is *Boltzmann's constant*.
 This suggests that, even though our Fermi gas is supposed to be at
 zero temperature, there is some "effective temperature" due to quantum
 effects.
