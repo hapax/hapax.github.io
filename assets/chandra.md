@@ -263,17 +263,13 @@ to figure out $r_n$, and we have fixed that by fiat.
 This also lets us get rid of the minus sign we found in Exercise 1,
 since that corresponded to the electron being *bound*.
 Now, the electron lives on a circle by definition.
-We will also call the circle a "one-dimensional box" since, as $L$
-gets large, it's hard to tell the difference between a circle and a
-very long line.
 
-We have the single-electron energies, just like the atom.
+So, we have the single-electron energies, just like the atom.
 Unlike the atom, we are just going to go ahead and assume that
 electrons don't interact, and our hotel model (Rules 1--3) applies.
-Suppose we throw $N$ particles into our box.
+Suppose we throw $N$ particles onto the circle.
 The highest occupied energy level is called the *Fermi energy* $E_F$
 (see Exercise 2).
-
 The fact that the Fermi energy is *not* just the lowest energy level
 has interesting consequences.
 The best way to think of temperature is in terms of
@@ -284,8 +280,7 @@ $$
 E_\text{avg} \sim k_BT,
 $$
 
-where $k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K
-s}^2}$ is *Boltzmann's constant*.
+where $k_B = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2}$ is *Boltzmann's constant*.
 This suggests that, even though our Fermi gas is supposed to be at
 zero temperature, there is some "effective temperature" due to quantum
 effects.
@@ -335,6 +330,21 @@ $$
 ---
 
 ### Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
+
+We live in a three-dimensional world.
+When you add more than one electron to an atom, they not only
+interact, but can have different orientations, you must reckon with
+this basic fact about space.
+This is where the whole formalism of s, p, d, f, and so on, comes
+from, and thus all the wonders of chemistry and biology.
+
+We also want to consider a three-dimensional quantum system for our
+eventual application to stellar remnants, but as before, while
+avoiding the complications of the atom.
+
+We will also call the circle a "one-dimensional box" since, as $L$
+gets large, it's hard to tell the difference between a circle and a
+very long line.
 
 A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
 There are two forces on the star: gravity (mostly due to the protons)
@@ -425,6 +435,8 @@ $$
 
 Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
 You should find $M_C \approx 1.7 M_\odot$.
+
+## A. Periodic boxes
 
 ## Extra
 
