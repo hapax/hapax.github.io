@@ -568,17 +568,22 @@ I'll let you find the degeneracy pressure!
   an ultrarelativistic Fermi gas is
 
 $$
-P_F \sim \frac{\hbar c N^{4/3}}{L^4}.
+P_F \sim \hbar c\left(\frac{ N}{V}\right)^{4/3},
 $$
+
+where $V = L^3$.
 
 ---
 
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
+We can finally turn our attention from 
+
+### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
+
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
 So far, we have neglected relativity.
-
 A neutron star is very dense, and wants to collapse under its own weight.
 For a star of mass $M$ and radius $R$, argue that force of collapse is roughly
 
@@ -598,8 +603,6 @@ P_\text{grav} \sim \frac{GM^2}{R^4}.
 $$
 
 *Hint.* Recall that $P = F/A$, i.e. pressure is force divided by area.
-
-### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
 The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
 Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
