@@ -490,10 +490,12 @@ $$
 P_F \sim \frac{NE_F}{L^2} \sim \frac{\hbar^2 N^2}{m_e L^4}.
 $$
 
+You can repeat the Fermi sea calculation for a three-dimensional donut
+in Exercise 4.
+
 ---
 
-**Exercise 4.** You can repeat the Fermi sea calculation for a
-  three-dimensional donut.
+**Exercise 4.** Now consider a Fermi gas in a periodic cube of side length $L$.
 
 <span style="padding-left: 20px; display:block">
 (a) For $n_F \gg 1$, show that a ball of radius $n_F$ in
