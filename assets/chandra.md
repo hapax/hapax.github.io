@@ -591,9 +591,8 @@ from contracting under its own weight.
 But once a star runs low on fuel, gravity begins to win, and the fate
 of the star depends on its mass $M$ before collapse:
 - *White dwarf.* If the star is less than $10$ suns heavy ($M < 10
-  M_\odot$), it will contract to a point where the electrons in the
-  remaining nuclear fuel form a Fermi gas to excellent approximation,
-  and electron degeneracy pressure prevents further collapse.
+  M_\odot$), it will contract until the degeneracy pressure of the
+  electrons in unspent nuclear fueld stops the collapse.
 - *Neutron star.* If the star is between $10$ and $20$ solar masses
   ($10 M_\odot < M  30 M_\odot$), electron degeneracy pressure is not
   strong enough to prevent collapse, and instead, electrons are
