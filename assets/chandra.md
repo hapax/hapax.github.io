@@ -60,7 +60,7 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
-### Hydrogen
+### The revolutionary atom
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -116,14 +116,14 @@ First, we can express kinetic energy in terms of momentum, hence in
 terms of de Broglie wavelength:
 
 $$
-E = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
-\frac{4\pi^2 \hbar^2 n^2}{2m_e (2\pi r)^2}.
+E_n = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
+\frac{4\pi^2 \hbar^2 n^2}{2m_e (2\pi r_n)^2}.
 $$
 
-We still don't know the radius of the orbit labelled by $n$, and won't
-need it below.
-However, the interested reader can supply it themselves in the
-following exercise.
+We still don't know the radius of the orbit $r_n$, and we won't need
+it for the remainder of this post.
+However, the interested reader can supply it themselves, along with
+the energy levels of hydrogen, in Exercise 1.
 
 ---
 
@@ -177,13 +177,16 @@ The minus sign is something we can add by hand, either recognising
 that the electron is *bound*, and hence requires energy to escape the
 pull of the nucleus.
 Or, we can simply observe that if we don't add it, energy *decreases*
-with $n$. Since (as we discuss in a moment) electrons like to occupy
+with $n$. Since (as we discuss below) electrons like to occupy
 the lowest available state, this means they would immediately zip off
 to infinity, and we would have no stable matter!
 
 ---
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
+
+
+
 
 Instead of an atom, let's consider the much simple scenario of a
 one-dimensional box, of length $L$.
