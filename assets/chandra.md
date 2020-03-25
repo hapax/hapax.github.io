@@ -729,7 +729,7 @@ we've done remarkably well!
 
 ---
 
-How are neutron stars different from a white dwarf?
+How are neutron stars different from white dwarfs?
 Neutrons are fermions, so if we pack them into a box, there will be
 degeneracy pressure.
 They are still cold compared to the Fermi temperature.
