@@ -294,7 +294,9 @@ Finally, in an ideal gas, temperature and pressure are related by the
 ideal gas law, $PV = k_B N T$.
 Once again, the fact that the electrons are separated can be viewed as
 an "effective pressure" $P_F$ due to quantum effects.
-You can show in Exercise 2 that this pressure is roughly
+This is also called *degeneracy pressure*.
+You can show in Exercise 2 that the degeneracy pressure for a circle
+is roughly
 
 $$
 P_F \sim \frac{N E_F}{L}.
@@ -325,7 +327,7 @@ argue that
 </span>
 
 $$
-P_F \sim \frac{N E_F}{L} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^3}\right)N^3.
+P_F \sim \frac{\hbar^2 N^3}{m_e L^3}.
 $$
 
 ---
