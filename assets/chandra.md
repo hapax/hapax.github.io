@@ -91,7 +91,7 @@ $$
 $$
 
 By analogy, de Broglie argued that a massive particle could also
-behave as a wave, with wavelength
+exhibit wave-like behaviour, with a wavelength
 
 $$
 \lambda = \frac{2\pi \hbar}{p}.
