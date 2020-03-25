@@ -743,7 +743,29 @@ We've done remarkably well!
   ⁂
   </p>
 
-**Exercise 8.**
+**Exercise 8.** We can also consider the relationship between
+gravitational and Fermi energy.
+
+<span style="padding-left: 20px; display:block">
+(a) Using dimensional arguments similar to those above, argue that the
+gravitational potential energy of the white dwarf is
+</span>
+
+$$
+U_\text{grav} \sim -\frac{GM^2}{R}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Show that the Chandrasekhar limit can also be obtained by setting
+
+$$
+E_F = -U_\text{grav}/2.
+$$
+
+*Note for experts.* This odd-looking equation comes from identifying the kinetic energy with
+$E_F$ and using the
+[virial theorem](https://en.wikipedia.org/wiki/Virial_theorem).
+</span>
 
 ---
 
