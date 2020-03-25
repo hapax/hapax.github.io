@@ -369,8 +369,7 @@ $$
 
 If we glue the two sides, what do we get?
 Amazingly, the answer is a donut!
-We discuss why this is so in <a href="#sec-A">the appendix</a>.
-
+We discuss how to visualise this in <a href="#sec-A">the appendix</a>.
 It might seem much more complicated to figure out how to quantise
 waves in this space, but it separates nicely into two copies of a
 problem we have already solved.
