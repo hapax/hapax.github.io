@@ -139,7 +139,7 @@ $$
 where $k_e$ is a constant analogous to $G$ in Newton's law of gravitation.
 
 <span style="padding-left: 20px; display:block">
-(a) Show the electron is pulled inward with force
+(a) Show that the electron is pulled inward with force
 </span>
 
 $$
@@ -147,8 +147,9 @@ F = \frac{k_e e^2}{r^2}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) From part (a) and the fact that $a = v^2/r$, derive the following relation
-between the electron's momentum and radius:
+(b) For an electron in a circle, the centripetal acceleration $a =
+v^2/r$.
+Use this and part (a) to derive the relation
 </span>
 
 $$
