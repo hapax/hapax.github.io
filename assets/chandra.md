@@ -294,13 +294,14 @@ Finally, in an ideal gas, temperature and pressure are related by the
 ideal gas law, $PV = k_B N T$.
 Once again, the fact that the electrons are separated can be viewed as
 an "effective pressure" $P_F$ due to quantum effects.
-You can show in Exercise 2 that this pressure is
+You can show in Exercise 2 that this pressure is roughly
 
 $$
 P_F \sim \frac{N E_F}{L}.
 $$
 
-The $\sim$ means the result is only true up to a constant, since we haven't defined $P_F$ carefully.
+We haven't defined $P_F$ carefully, and $\sim$ indicates a constant
+we won't worry about.
 
 ---
 
