@@ -185,8 +185,7 @@ to infinity, and we would have no stable matter!
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
-
-
+Lowest energy, Pauli
 
 Instead of an atom, let's consider the much simple scenario of a
 one-dimensional box, of length $L$.
