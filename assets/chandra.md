@@ -62,7 +62,8 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 We'll start by recalling Bohr's model of hydrogen, and the role
 quantisation plays there.
-That will motivate the notion of a box of electrons.
+This will lead naturally to the idea of a box of non-interacting
+electrons.
 
 ## The Bohr model of hydrogen
 
@@ -80,10 +81,24 @@ $$
 Here, the "quantum" of angular momentum is *Planck's (reduced)
 constant* $\hbar$.
 
-If we could vary $r$ and $v$ continuously, we could achieve any radius
-we like for fixed $n$, so another ingredient is needed here.
-We need de Broglie's insight that matter should also behave like a
-wave.
+There is a nice way of reformulating this using de Broglie's insight
+that particles behave like waves.
+The wavelength $\lambda$ of one of these *matter waves* is related to
+momentum $p = mv$ by
+
+$$
+\lambda = \frac{2\pi \hbar}{p}.
+$$
+
+Plugging this into Bohr's quantisation condition gives
+
+$$
+pr = n\hbar \quad \Longrightarrow \quad 2\pi r = n \lambda.
+$$
+
+In other words, the electrons orbit so that 
+
+### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
 The structure of these levels is complicated, and the electrons in an atom can also interact.
@@ -109,8 +124,6 @@ For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdo
 
 1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
 2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
-
-### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
 Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
 This will give us some feeling for the structure of energy levels.
