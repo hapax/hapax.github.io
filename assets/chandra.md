@@ -58,17 +58,40 @@ What is intelligible is also beautiful.
 While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its simplicity.
 
-## Quantisation<a id="sec-2" name="sec-2"></a>
+## Fermi gas<a id="sec-2" name="sec-2"></a>
 
 We're going to consider a simple caricature of quantum
 mechanics, given by three rules:
 
-1. There is a set of allowed energies $$ E_1 \leq E _2 \leq E_3 \leq
-\cdots$$
-2. Only one particle can occupy an energy level.
-2. If we add particles, they will occupy the lowest available energy level.
+1. There is a fixed set of allowed energies, $E_1 \leq E _2 \leq E_3 \leq
+   \cdots$.
+2. Only one particle can occupy an energy level at a time.
+3. If we add particles, they occupy the lowest available energy level.
 
-This swee
+I think of this as the "hotel" model, since the quantum system is like
+a hotel with rooms costing $E_1\leq E_2 \leq \cdots$ and so on.
+Particles travel alone, and stay by themselves.
+Finally, particles are cheap, looking for the most affordable room the
+hotel can offer.
+
+None of these rules is true in general, so let's spell out what sort
+of systems our hotel model actually describes.
+The first rule states that energies don't change when particles join
+the system, which is only true if the *particles don't interact*.
+This is like a gas, where particles are very far apart and only
+occasionally collide.
+So we call this a *quantum gas*.
+
+The second rule is the *Pauli exclusion principle*, and it only holds
+for a class of particles called *fermions*.
+This includes electrons, but also neutrons, protons and quarks,
+i.e. the constituents of matter.
+But there is a whole second class of particles called *bosons* ---
+including photons --- which will happily pack as many as possible into
+a single room!
+So, our hotel model is really about a gas of fermions, or *Fermi gas*.
+
+The final rule, that particles are maximally cheap, 
 
 ### The revolutionary atom
 
@@ -186,6 +209,8 @@ E_n = -\frac{p_n^2}{2m_e} = -\left(\frac{m_ek_e^2
 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
+---
+
 Notice the minus sign in $E_n$.
 We can add this in two different ways.
 First, we can recognise in advance that the electron is *bound*, and
@@ -194,8 +219,6 @@ Alternatively, we can do our calculation, and observe that if we don't
 add it, energy *decreases* with $n$. Since (as we discussed above) electrons like to occupy
 the lowest available state, this means they would immediately zip off
 to infinity, and we would have no stable matter!
-
----
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
