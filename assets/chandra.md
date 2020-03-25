@@ -524,10 +524,9 @@ $$
 ## Light and gravity <a id="sec-3" name="sec-3"></a>
 
 We're almost ready to perform our thought experiment of throwing
-electrons into a box until it collapses into a black hole.
-But in order to apply our Fermi gas model to old stars, there are a
-few little changes we need to make, and some facts we need to learn
-about light and gravity.
+electrons into a box until we make a black hole.
+But to apply our Fermi gas model to old stars, we need to tinker a
+little with the energy, and learn some facts about light and gravity.
 
 ### Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
 
@@ -554,11 +553,11 @@ E \approx |\vec{p}|c.
 $$
 
 All the business about Bohr-de Broglie quantisation remains unchanged,
-and in particular we still have $|\vec{p}| = \2\pi\hbar|\vec{n}|/L$.
+and in particular we still have $|\vec{p}| = 2\pi\hbar|\vec{n}|/L$.
 It follows that
 
 $$
-E_{\vec{n}} = \frac{\2\pi\hbar c|\vec{n}|}{L}.
+E_{\vec{n}} = \frac{2\pi\hbar c|\vec{n}|}{L}.
 $$
 
 We can immediately determine the degeneracy pressure for a periodic
