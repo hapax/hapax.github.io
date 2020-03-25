@@ -560,8 +560,7 @@ $$
 E_{\vec{n}} = \frac{2\pi\hbar c|\vec{n}|}{L}.
 $$
 
-We can immediately determine the degeneracy pressure for a periodic
-box of side length $L$.
+I'll let you find the degeneracy pressure!
 
 ---
 
@@ -571,6 +570,8 @@ box of side length $L$.
 $$
 P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3}.
 $$
+
+---
 
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
