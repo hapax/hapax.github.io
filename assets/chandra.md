@@ -759,7 +759,7 @@ M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
 Thus, our naive guess for an upper bound on the size of a neutron star
-is within an order of magnitude of the state-of-the-art answer as well!
+is still reasonably close to the best known bound!
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
 
