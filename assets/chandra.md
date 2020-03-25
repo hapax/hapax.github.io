@@ -495,8 +495,9 @@ $$
   three-dimensional donut.
 
 <span style="padding-left: 20px; display:block">
-(a) Show that a ball of radius $n_F$ in $\vec{n}$-space
-contains approximately $N \approx 4\pi n_F^3/3$ points.
+(a) For $n_F \gg 1$, show that a ball of radius $n_F$ in
+$\vec{n}$-space contains approximately $N \approx 4\pi n_F^3/3$
+points. *Hint.* Consider area vs perimeter.
 </span>
 
 <span style="padding-left: 20px; display:block">
