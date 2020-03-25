@@ -718,12 +718,12 @@ should find
 </span>
 
 $$
-M_C \sim 1.7 M_\odot.
+M_C \sim\, 1.7 M_\odot.
 $$
 
 <span style="padding-left: 20px; display:block">
 The state-of-the-art limit, incorporating details about the white
-dwarf's composition and structure, is $ M_C \approx 1.44 M_\odot$, so
+dwarf's composition and structure, is $ M_C \approx 1.44 \,M_\odot$, so
 we've done remarkably well!
 </span>
 
@@ -742,7 +742,7 @@ pressure against gravitational self-pressure, we find
 
 $$
 M_N \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_n^2}
-\approx 1.7 M_\odot
+\approx 1.7 \, M_\odot
 $$
 
 once more, where $m_n \approx m_p$ is the mass of a neutron.
