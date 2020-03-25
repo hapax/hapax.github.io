@@ -640,8 +640,8 @@ Let's see why these assumptions are reasonable:
 around $10^9 \text{ kg/m}^3$, consisting mostly of protons.
 Show that the Fermi temperature is $T_F \sim 10^9 \text{ K}$.
 
-*Hint.* You will need to know the numerical values for  mass of a
-proton $m_p$, the speed of light $c$, Planck's constant $\hbar$, and
+*Hint.* Use the ideal has law to relate $P_F$ and $T_F$.
+You will need to know the numerical values for  mass of a proton $m_p$, the speed of light $c$, Planck's constant $\hbar$, and
 Boltzmann's constant $k_B$:
 
 $$
