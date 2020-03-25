@@ -74,24 +74,31 @@ Particles travel alone, and stay by themselves.
 Finally, particles are cheap, looking for the most affordable room the
 hotel can offer.
 
-None of these rules is true in general, so let's spell out what sort
-of systems our hotel model actually describes.
+None of these rules is true in general, so let's spell out our assumptions.
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
 This is like a gas, where particles are very far apart and only
 occasionally collide.
-So we call this a *quantum gas*.
+So our hotel describes what is called a *quantum gas*.
 
-The second rule is the *Pauli exclusion principle*, and it only holds
-for a class of particles called *fermions*.
-This includes electrons, but also neutrons, protons and quarks,
+The second rule is the *Pauli exclusion principle*.
+This holds for electrons, but in fact, a much larger class of
+particles called *fermions*, including neutrons, protons and quarks,
 i.e. the constituents of matter.
-But there is a whole second class of particles called *bosons* ---
-including photons --- which will happily pack as many as possible into
-a single room!
-So, our hotel model is really about a gas of fermions, or *Fermi gas*.
+There is a second class of particles called *bosons* ---
+including photons --- which do not obey the Pauli exclusion principle,
+and will happily pack as many as possible into a hotel room!
+So, our model describes a quantum gas of fermionic particles, also
+called a *Fermi gas*.
 
-The final rule, that particles are maximally cheap, 
+Since we're dealing with a gas, you might wonder if temperature plays
+a role.
+It turns out that our third rule --- particles are maximally cheap ---
+is the assumption that the temperature is *zero*.
+If the temperature is nonzero, there is some chance that particles
+arriving at the hotel will splash out on a more expensive room.
+So, although the hotel model could be modified for more general
+situations, our three rules describe a *zero temperature Fermi gas*.
 
 ### The revolutionary atom
 
@@ -145,9 +152,8 @@ This has a lovely interpretation: the allowed orbits are those for
 which the matter wave is *periodic*, meeting up with itself after $n$
 periods.
 
-To connect to our "hotel" model of quantum mechanics, we need to see
-how Bohr's condition is related to energy levels
-We can determine energy levels with only a little more work.
+To connect to our "hotel" model of quantum mechanics, we need to find
+the energy levels of the hydrogen atom.
 First, we can express kinetic energy in terms of momentum, hence in
 terms of de Broglie wavelength:
 
