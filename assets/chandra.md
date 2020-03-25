@@ -133,11 +133,10 @@ following exercise.
   Coloumb's law, an inverse square law analogous to gravity:
 
 $$
-F = \frac{1}{4\pi\epsilon_0}\frac{q_1q_2}{r^2},
+F = \frac{k_eq_1q_2}{r^2},
 $$
 
-where $\epsilon_0$ is a basic constant called the *permittivity of
-free space*.
+where $k_e$ is a constant analogous to $G$ in Newton's law of gravitation.
 
 <span style="padding-left: 20px; display:block">
 (a) Show the electron is pulled inward with force
@@ -146,10 +145,6 @@ free space*.
 $$
 F = \frac{k_e e^2}{r^2}.
 $$
-
-<span style="padding-left: 20px; display:block">
-where $k_e$ is a constant analogous to $G$ in Newton's law of gravitation.
-</span>
 
 <span style="padding-left: 20px; display:block">
 (b) From part (a) and the fact that $a = v^2/r$, derive the following relation
