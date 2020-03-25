@@ -103,7 +103,9 @@ $$
 pr = n\hbar \quad \Longrightarrow \quad 2\pi r = n \lambda.
 $$
 
-In other words, the electrons orbit so that 
+This has a lovely and simple interpretation: the allowed orbits are
+those for which the matter wave is *periodic*, meeting up with itself
+after $n$ periods.
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
