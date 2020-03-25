@@ -288,7 +288,7 @@ $$
 where $k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K
 s}^2}$ is *Boltzmann's constant*.
 This suggests that, even though our Fermi gas is supposed to be at
-zero temperature, there is some "effective" temperature due to quantum
+zero temperature, there is some "effective temperature" due to quantum
 effects.
 For lack of imagination, we call this the *Fermi temperature*, defined by
 
@@ -296,19 +296,41 @@ $$
 T_F = \frac{E_F}{k_B}.
 $$
 
-Assuming the ideal gas law holds in the form $PV \sim Nk_BT_F$, deduce that the gas in the box has a *degeneracy pressure*
+Finally, in an ideal gas, temperature and pressure are related by the
+ideal gas law, $PV = k_B N T$.
+Once again, the fact that the electrons are separated can be viewed as
+an "effective pressure" $P_F$ due to quantum effects.
+You can show in Exercise 2 that this pressure is
 
 $$
-P \sim \frac{N E_F}{L}.
+P_F \sim \frac{N E_F}{L}.
 $$
+
+The $\sim$ means we haven't defined $P_F$ carefully, but expect this
+to be true from dimensional analysis.
 
 ---
 
-**Exercise 2.** Show that if we put $N$ into our box, the Fermi energy
+**Exercise 2.** 
+
+<span style="padding-left: 20px; display:block">
+(a) Show that if we put $N$ into our box, the Fermi energy
 is just
+</span>
 
 $$
 E_F = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right)N^2.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) By identifying $T = T_F$ in the ideal gas law, or using
+dimensional analysis (see
+e.g. [here](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-2-3)),
+argue that
+</span>
+
+$$
+P_F \sim \frac{N E_F}{L} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^3}\right)N^3.
 $$
 
 ---
