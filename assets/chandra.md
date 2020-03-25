@@ -454,6 +454,25 @@ $$
 N \approx \pi n_F^2.
 $$
 
+The maximum length of a vector in this circle is $|\vec{n}|^2 \approx
+n_F^2$, and the circle contains all vectors of smaller length as well.
+Electrons added to the system will find the shortest available vector,
+and hence, fill out the circle from the origin outwards.
+We learn that for large $N$, the Fermi energy is
+
+$$
+E_F \approx \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n_F^2 \approx \left(\frac{2\pi \hbar^2}{m_e L^2}\right) N.
+$$
+
+For a handful of matter, say $N \sim 10^{23}$ electrons, this
+approximation is basically perfect.
+On a donut, the degeneracy pressure is calculated as above, but $L$ is
+replaced by $L^2$, so we find that
+
+$$
+P_F \sim \frac{NE_F}{L^2} \sim \left(\frac{\hbar^2}{m_e L^4}\right) N^2.
+$$
+
 ---
 
 **Exercise 4.**
