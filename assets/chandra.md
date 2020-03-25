@@ -62,18 +62,11 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
-By considering how to squish electron wavelengths into an orbit, we'll
-see that *periodicity* is a natural way to think about quantisation.
-
-### The Bohr model of hydrogen
-
-Hydrogen is just a proton and electron 
 Bohr thought of the nucleus as a big, immovable positive charge, and
 the electron as a tiny orbiting negative charge.
-In order to explain the fact that hydrogen was able to absorb and emit
-only certain colours of light, Bohr postulated that only certain
-orbits were allowed, namely those satisfying the *quantisation of
-angular momentum*:
+To explain why hydrogen emitted and absorbed only certain colours of
+light, Bohr postulated that only certain orbits were allowed,
+satisfying the *quantisation of angular momentum*:
 
 $$
 L = mv r = n \hbar, \quad n = 0, 1, 2, \ldots
@@ -81,11 +74,24 @@ $$
 
 Here, the "quantum" of angular momentum is *Planck's (reduced)
 constant* $\hbar$.
+There is a nice way of reformulating this using de Broglie's notion of
+*matter waves*.
+The energy, momentum, and wavelength of a single photon of light can
+be written
 
-There is a nice way of reformulating this using de Broglie's insight
-that particles behave like waves.
-The wavelength $\lambda$ of one of these *matter waves* is related to
-momentum $p = mv$ by
+$$
+E = \hbar \omega, \quad p = \frac{E}{c}, \quad \lambda = \frac{2\pi c}{\omega},
+$$
+
+where $\omega$ is the angular frequency of light and $c$ is its speed.
+Rearranging, one finds momentum and wavelength are related by
+
+$$
+\lambda = \frac{2\pi c}{\omega} = \frac{2\pi \hbar}{p}.
+$$
+
+By analogy, de Broglie argued that a massive particle could also
+behave as a wave, with wavelength
 
 $$
 \lambda = \frac{2\pi \hbar}{p}.
