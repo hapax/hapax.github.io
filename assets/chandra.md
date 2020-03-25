@@ -430,7 +430,7 @@ $$
 
 for $\vec{n} = (n_x, n_y, n_z)$.
 We give some ways to visualise the periodic cube, or
-*three-dimensional donut*, <a href="#sec-A">below</a>.
+*three-dimensional donut*, in the <a href="#sec-A">appendix below</a>.
 
 ---
 
