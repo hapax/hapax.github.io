@@ -14,6 +14,8 @@ date:  2020-03-23
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
+*Prerequisites: basics of the Bohr model, de Broglie wavelength.*
+
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
@@ -57,6 +59,31 @@ While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
+
+We'll start by recalling Bohr's model of hydrogen, and the role
+quantisation plays there.
+That will motivate the notion of a box of electrons.
+
+## The Bohr model of hydrogen
+
+Bohr thought of the nucleus as a big, immovable positive charge, and
+the electron as a tiny orbiting negative charge.
+In order to explain the fact that hydrogen was able to absorb and emit
+only certain colours of light, Bohr postulated that only certain
+orbits were allowed, namely those satisfying the *quantisation of
+angular momentum*:
+
+$$
+L = mv r = n \hbar, \quad n = 0, 1, 2, \ldots
+$$
+
+Here, the "quantum" of angular momentum is *Planck's (reduced)
+constant* $\hbar$.
+
+If we could vary $r$ and $v$ continuously, we could achieve any radius
+we like for fixed $n$, so another ingredient is needed here.
+We need de Broglie's insight that matter should also behave like a
+wave.
 
 A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
 The structure of these levels is complicated, and the electrons in an atom can also interact.
