@@ -305,12 +305,12 @@ $$
 P_F \sim \frac{N E_F}{L}.
 $$
 
-The $\sim$ means we haven't defined $P_F$ carefully, but expect this
-to be true from dimensional analysis.
+The $\sim$ means the result is only true up to a constant, since we haven't defined $P_F$ carefully.
 
 ---
 
-**Exercise 2.** 
+**Exercise 2.** Let's calculate some simple properties of our Fermi
+  gas on the circle.
 
 <span style="padding-left: 20px; display:block">
 (a) Show that if we put $N$ into our box, the Fermi energy
