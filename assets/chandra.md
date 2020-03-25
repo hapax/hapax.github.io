@@ -454,11 +454,13 @@ $$
 N \approx \pi n_F^2.
 $$
 
-The maximum length of a vector in this circle is $|\vec{n}|^2 \approx
+This circle is called the *Fermi sea*.
+The maximum length of a vector in the Fermi sea is $|\vec{n}|^2 \approx
 n_F^2$, and the circle contains all vectors of smaller length as well.
 Electrons added to the system will find the shortest available vector,
 and hence, fill out the circle from the origin outwards.
-We learn that for large $N$, the Fermi energy is
+
+From the Fermi sea picture, we learn that for large $N$, the Fermi energy is
 
 $$
 E_F \approx \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n_F^2 \approx \left(\frac{2\pi \hbar^2}{m_e L^2}\right) N.
