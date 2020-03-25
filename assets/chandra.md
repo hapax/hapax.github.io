@@ -545,7 +545,7 @@ $$
 
 where $p^2 = |\vec{p}|^2$ is the momentum squared as usual, and
 $m_\text{rest}$ is the mass of the particle at rest.
-In an old star, usually have much more momentum than mass energy, so
+Particles in an old star usually have much more momentum than mass energy, so
 the kinetic energy takes the *ultrarelativistic form*:
 
 $$
