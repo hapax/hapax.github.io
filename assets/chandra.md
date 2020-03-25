@@ -758,7 +758,7 @@ non-relativistic white dwarf is in equilibrium when
 </span> 
 
 $$
-R \sim \left(\frac{\hbar}{m_e m_p^{5/3}G}\right)M^{-1/3}.
+R \sim \left(\frac{\hbar^2}{m_e m_p^{5/3}G}\right)M^{-1/3}.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -767,10 +767,21 @@ as it gets heavier!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) The earth has a radius of $R \sim 6 \times 10^6 \text{ m}$.
-What is the approximate density of a white dwarf the size of earth?
-An electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
-</span> 
+(b) The earth has a radius of $R \sim 6 \times 10^6 \text{ m}$, and an
+electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
+Show that the approximate density of a white dwarf the same size as
+the earth is around
+</span>
+
+$$
+\rho \sim 7 \times 10^{9} \text{ kg/m}^3,
+$$
+
+<span style="padding-left: 20px; display:block">
+within an order of magnitude of what we claimed in Exercise 6.
+</span>
+
+<!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6*10^6)^6 -->
 
 ---
 
