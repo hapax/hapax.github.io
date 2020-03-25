@@ -296,7 +296,7 @@ $$
 E_\text{avg} \sim k_BT,
 $$
 
-where $k_B = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2$ is *Boltzmann's constant*.
+where $k_B$ is *Boltzmann's constant*.
 This suggests that, even though our Fermi gas is supposed to be at
 zero temperature, there is some "effective temperature" due to quantum
 effects.
@@ -631,7 +631,28 @@ Let's see why these assumptions are reasonable:
   Fermi temperature is order $T_F \sim 10^9 \text{ K}$, so the
   temperature is indeed much smaller.
 - *Shape.* A white dwarf is a sphere. A box is not even remotely
-  spherical. Why is this a good model?
+  spherical. Nevertheless, our model works
+
+---
+
+**Exercise 6.** A white dwarf the size of the earth has a density
+around $10^9 \text{ kg/m}^3$, consisting mostly of protons.
+Show that the Fermi temperature is $T_F \sim 10^9 \text{ K}$.
+
+*Hint.* You will need to know the numerical values for  mass of a
+proton $m_p$, the speed of light $c$, Planck's constant $\hbar$, and
+Boltzmann's constant $k_B$:
+
+$$
+\begin{align*}
+m_p & = 1.7 \times 10^{-27} \text{ kg} \\
+c & = 3.0 \times 10^8 \text{ m/s} \\
+\hbar & = 1.1 \times 10^{-34} \text{ J} \cdot \text{s} \\
+k_B & = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2.
+\end{align*}
+$$
+
+---
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
