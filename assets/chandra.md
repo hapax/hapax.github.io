@@ -173,6 +173,14 @@ E_n = -\frac{p_n^2}{2m_e} = -\left(\frac{m_ek_e^2
 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
+The minus sign is something we can add by hand, either recognising
+that the electron is *bound*, and hence requires energy to escape the
+pull of the nucleus.
+Or, we can simply observe that if we don't add it, energy *decreases*
+with $n$. Since (as we discuss in a moment) electrons like to occupy
+the lowest available state, this means they would immediately zip off
+to infinity, and we would have no stable matter!
+
 ---
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
