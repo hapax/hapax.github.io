@@ -71,13 +71,15 @@ light, Bohr postulated that only certain orbits were allowed,
 satisfying the *quantisation of angular momentum*:
 
 $$
-mv r = n \hbar, \quad n = 1, 2, 3, \ldots
+m_ev r = n \hbar, \quad n = 1, 2, 3, \ldots
 $$
 
-Here, the "quantum" of angular momentum is *Planck's (reduced)
-constant* $\hbar$.
+where the "quantum" of angular momentum is *Planck's
+(reduced) constant* $\hbar$, and $m_e$ is the mass of the electron.
 There is a nice way of reformulating this using de Broglie's notion of
 *matter waves*.
+
+Let's turn for a moment to light.
 The energy, momentum, and wavelength of a single photon of light can
 be written
 
@@ -92,7 +94,7 @@ $$
 \lambda = \frac{2\pi c}{\omega} = \frac{2\pi \hbar}{p}.
 $$
 
-By analogy, de Broglie argued that a massive particle could also
+By analogy, de Broglie guessed that a massive particle could also
 exhibit wave-like behaviour, with a wavelength
 
 $$
@@ -106,9 +108,71 @@ pr = n\hbar \quad \Longrightarrow \quad \lambda_n = \frac{2\pi r}{n},
 \quad n = 1, 2, 3, \ldots.
 $$
 
-This has a lovely and simple interpretation: the allowed orbits are
-those for which the matter wave is *periodic*, meeting up with itself
-after $n$ periods.
+This has a lovely interpretation: the allowed orbits are those for
+which the matter wave is *periodic*, meeting up with itself after $n$
+periods.
+We can determine energy levels with only a little more work.
+First, we can express kinetic energy in terms of momentum, hence in
+terms of de Broglie wavelength:
+
+$$
+E = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
+\frac{4\pi^2 \hbar^2 n^2}{2m_e (2\pi r)^2}.
+$$
+
+We still have a pesky, unknown factor of $2\pi r$ floating around, but
+the interested reader can supply this themselves in Exercise 1.
+
+---
+
+**Exercise 1.** The key fact we haven't used about the hydrogen atom
+  is that the electron orbits due to electrostatic attraction.
+  The attractive force between charge $q_1$ and $q_2$ is governed by
+  Coloumb's law, an inverse square law analogous to gravity:
+
+$$
+F = \frac{1}{4\pi\epsilon_0}\frac{q_1q_2}{r^2},
+$$
+
+where $\epsilon_0$ is a basic constant called the *permittivity of
+free space*.
+
+<span style="padding-left: 20px; display:block">
+(a) Show the electron is pulled inward with force
+</span>
+
+$$
+F = \frac{1}{4\pi\epsilon_0}\frac{e^2}{r^2}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) From part (a) and the fact that $a = v^2/r$, derive the following relation
+between the electron's momentum and radius:
+</span>
+
+$$
+p^2 = \frac{m_e e^2}{4\pi\epsilon_0 r}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) Use (b) to show that the orbits gets larger quadratically in $n$,
+with
+</span>
+
+$$
+r_n = \left(\frac{4\pi\epsilon_0 \hbar^2}{m_e e^2}\right) n^2.
+$$
+
+<span style="padding-left: 20px; display:block">
+(d) Finally, determine the energy levels for hydrogen:
+</span>
+
+$$
+E_n = \frac{p^2}{2m_e} = -\left(\frac{m_e
+e^4}{32\pi^2\epsilon_0^2\hbar^2}\right)  n^2.
+$$
+
+---
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
