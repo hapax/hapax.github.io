@@ -142,8 +142,12 @@ free space*.
 </span>
 
 $$
-F = \frac{1}{4\pi\epsilon_0}\frac{e^2}{r^2}.
+F = \frac{k_e e^2}{r^2}.
 $$
+
+<span style="padding-left: 20px; display:block">
+where $k_e$ is a constant analogous to $G$ in Newton's law of gravitation.
+</span>
 
 <span style="padding-left: 20px; display:block">
 (b) From part (a) and the fact that $a = v^2/r$, derive the following relation
@@ -151,7 +155,7 @@ between the electron's momentum and radius:
 </span>
 
 $$
-p^2 = \frac{m_e e^2}{4\pi\epsilon_0 r}.
+p^2 = \frac{k_e m_e e^2}{r}.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -160,7 +164,7 @@ with
 </span>
 
 $$
-r_n = \left(\frac{4\pi\epsilon_0 \hbar^2}{m_e e^2}\right) n^2.
+r_n = \left(\frac{\hbar^2}{k_e m_e e^2}\right) n^2.
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -168,8 +172,8 @@ $$
 </span>
 
 $$
-E_n = \frac{p^2}{2m_e} = -\left(\frac{m_e
-e^4}{32\pi^2\epsilon_0^2\hbar^2}\right)  n^2.
+E_n = \frac{p^2}{2m_e} = -\left(\frac{m_ek_e^2
+e^4}{2\hbar^2}\right)  n^2.
 $$
 
 ---
