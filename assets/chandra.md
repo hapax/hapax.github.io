@@ -404,7 +404,7 @@ $$
 
 ---
 
-## Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
+## The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
 
 We will also call the circle a "one-dimensional box" since, as $L$
 gets large, it's hard to tell the difference between a circle and a
