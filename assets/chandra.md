@@ -731,6 +731,20 @@ we've done remarkably well!
 
 ### Neutron stars<a id="sec-3-4" name="sec-3-4"></a>
 
-Neutron stars don't seem so different 
+How are neutron stars different from a white dwarf?
+Neutrons are fermions, so if we pack them into a box, there will be
+degeneracy pressure.
+They are still cold compared to the Fermi temperature.
+The main difference, apparently, is that there are $N$ neutrons rather
+than $N$ protons and electrons.
+If we repeat the reasoning above, balancing neutron degeneracy
+pressure against gravitational self-pressure, we find
+
+$$
+M_N \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_n^2}
+\approx 1.7 M_\odot
+$$
+
+once more, where $m_n \approx m_p$ is the mass of a neutron.
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
