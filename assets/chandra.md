@@ -272,15 +272,30 @@ We have the single-electron energies, just like the atom.
 Unlike the atom, we are just going to go ahead and assume that
 electrons don't interact, and our hotel model (Rules 1--3) applies.
 Suppose we throw $N$ particles into our box.
-There will be some maximum energy occupied by the particles, called
-the *Fermi energy* $E_F$ (see Exercise 2).
-*Fermi temperature* $T_F = E_F/k_B$, where
+The highest occupied energy level is called the *Fermi energy* $E_F$
+(see Exercise 2).
+
+The fact that the Fermi energy is *not* just the lowest energy level
+has interesting consequences.
+The best way to think of temperature is in terms of
+[its relation](https://en.wikipedia.org/wiki/Equipartition_theorem) to
+average energy per particle:
 
 $$
-k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K s}^2}
+E_\text{avg} \sim k_BT,
 $$
 
-is Boltzmann's constant.
+where $k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K
+s}^2}$ is *Boltzmann's constant*.
+This suggests that, even though our Fermi gas is supposed to be at
+zero temperature, there is some "effective" temperature due to quantum
+effects.
+For lack of imagination, we call this the *Fermi temperature*, defined by
+
+$$
+T_F = \frac{E_F}{k_B}.
+$$
+
 Assuming the ideal gas law holds in the form $PV \sim Nk_BT_F$, deduce that the gas in the box has a *degeneracy pressure*
 
 $$
@@ -290,7 +305,7 @@ $$
 ---
 
 **Exercise 2.** Show that if we put $N$ into our box, the Fermi energy
-is
+is just
 
 $$
 E_F = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right)N^2.
