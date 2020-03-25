@@ -157,8 +157,7 @@ p^2 = \frac{k_e m_e e^2}{r}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) Use (b) to show that the orbits gets larger quadratically with $n$,
-with
+(c) Use (b) to show that the orbits gets larger quadratically with $n$:
 </span>
 
 $$
