@@ -94,7 +94,7 @@ called a *Fermi gas*.
 Since we're dealing with a gas, you might wonder if temperature plays
 a role.
 It turns out that our third rule --- particles are maximally cheap ---
-is the assumption that the temperature is *zero*.
+is equivalent to a temperature is *zero*.
 If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
 So, although the hotel model could be modified for more general
@@ -215,10 +215,11 @@ E_n = -\frac{p_n^2}{2m_e} = -\left(\frac{m_ek_e^2
 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
+<span style="padding-left: 20px; display:block">
 Notice the minus sign in $E_n$.
-If we don't add it, energy *decreases* with $n$. Since (from Rule 3)
-electrons like to occupy the lowest available state, this means they would immediately zip off
-to infinity!
+If we don't add it, energy *decreases* with $n$. From Rule 3,
+electrons occupy the lowest available state, so they will zip off to infinity!
+</span>
 
 ---
 
