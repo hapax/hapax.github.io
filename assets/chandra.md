@@ -311,8 +311,8 @@ out front we are neglecting.
   gas on the circle.
 
 <span style="padding-left: 20px; display:block">
-(a) Show that if we put $N$ into our box, the Fermi energy
-is just
+(a) Show that if we put $N$ electrons on the circle, the Fermi energy
+is
 </span>
 
 $$
@@ -472,21 +472,33 @@ On a donut, the degeneracy pressure is calculated as above, but $L$ is
 replaced by $L^2$, so we find that
 
 $$
-P_F \sim \frac{NE_F}{L^2} \sim \left(\frac{\hbar^2}{m_e L^4}\right) N^2.
+P_F \sim \frac{NE_F}{L^2} \sim \frac{\hbar^2 N^2}{m_e L^4}.
 $$
 
 ---
 
-**Exercise 4.**
+**Exercise 4.** You can repeat the Fermi sea calculation for a
+  three-dimensional donut.
+
+<span style="padding-left: 20px; display:block">
+(a) First, show that a ball of radius $n_F$ in $\vec{n}$-space
+contains approximately $N \approx 4\pi n_F^3/3$ points.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Argue that for large $N$, the Fermi energy is
+</span>
 
 $$
-N \approx \frac{4\pi}{3} n_F^3.
+E_F \approx \left(\frac{2\pi^2 \hbar^2}{m_eL^2}\right) \left(\frac{3N}{4\pi}\right)^{1/3}.
 $$
 
-Using the previous observation, argue that if we add $N\gg 1$ electrons into our box, the Fermi energy is approximately
+<span style="padding-left: 20px; display:block">
+(c) Conclude that the degeneracy pressure is
+</span>
 
 $$
-E_F \approx \frac{8\pi^{4/3} \hbar^2}{m}\left(\frac{3N}{4V}\right)^{2/3}.
+P_F \sim \frac{\hbar^2 N^{4/3}}{m_e L^5}.
 $$
 
 ---
