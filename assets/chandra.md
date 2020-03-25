@@ -720,7 +720,7 @@ $$
 \end{align*}
 $$
 
-Raising both sides to $3/2$, we obtain the Chandrasekhar limit on the
+Raising both sides to the power $3/2$, we obtain the Chandrasekhar limit on the
 maximum mass of a white dwarf:
 
 $$
