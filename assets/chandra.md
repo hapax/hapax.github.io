@@ -60,6 +60,8 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 
 ## Quantisation<a id="sec-2" name="sec-2"></a>
 
+### Hydrogen: Bohr, de Broglie, Pauli
+
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
 Bohr thought of the nucleus as a big, immovable positive charge, and
@@ -69,7 +71,7 @@ light, Bohr postulated that only certain orbits were allowed,
 satisfying the *quantisation of angular momentum*:
 
 $$
-L = mv r = n \hbar, \quad n = 1, 2, 3, \ldots
+mv r = n \hbar, \quad n = 1, 2, 3, \ldots
 $$
 
 Here, the "quantum" of angular momentum is *Planck's (reduced)
@@ -110,8 +112,8 @@ after $n$ periods.
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
-A familiar example is the atom, where the various shells --- s, p, d, f, and so on --- are successively populated as the atomic number gets larger.
-The structure of these levels is complicated, and the electrons in an atom can also interact.
+Instead of an atom, let's consider the much simple scenario of a
+one-dimensional box, of length $L$.
 
 We will consider a simpler scenario called a *non-interacting quantum gas*.
 As in the atom, there is a possibly infinite set of allowed energies:
