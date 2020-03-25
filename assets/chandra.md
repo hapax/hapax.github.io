@@ -382,8 +382,8 @@ $$
 \lambda_x = \frac{L}{n_x}, \quad \lambda_y = \frac{L}{n_y}.
 $$
 
-To determine the energy, we use the fact that $p^2$ is the *length* of
-the momentum vector, $\vec{p} = (p_x, p_y)$:
+To determine the energy, we use the fact that $p^2 = |\vec{p}|^2$ is the *squared
+length* of the momentum vector, $\vec{p} = (p_x, p_y)$:
 
 $$
 p^2 = p_x^2 + p_y^2.
