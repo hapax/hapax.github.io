@@ -24,7 +24,7 @@ date:  2020-03-23
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
-4. <a href="#sec-4">Conclusion</a>
+   3. <a href="#sec-3-4">Neutron stars</a>
 - <a href="#sec-A">A. Donuts and boxes</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
@@ -721,8 +721,16 @@ $$
 M_C \sim 1.7 M_\odot.
 $$
 
+<span style="padding-left: 20px; display:block">
+The state-of-the-art limit, incorporating details about the white
+dwarf's composition and structure, is $ M_C \approx 1.44 M_\odot$, so
+we've done remarkably well!
+</span>
+
 ---
 
+### Neutron stars<a id="sec-3-4" name="sec-3-4"></a>
 
+Neutron stars don't seem so different 
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
