@@ -97,8 +97,7 @@ It turns out that our third rule --- particles are maximally cheap ---
 is equivalent to a temperature is *zero*.
 If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
-So, although the hotel model could be modified for more general
-situations, our three rules describe a *zero temperature Fermi gas*.
+Our three rules thus describe a *zero temperature Fermi gas*.
 
 ### Bohr's model
 
