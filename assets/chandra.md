@@ -767,10 +767,8 @@ as it gets heavier!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) The earth has a radius of $R \sim 6 \times 10^6 \text{ m}$, and an
-electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
-Show that the approximate density of a white dwarf the same size as
-the earth is around
+(b) Show using the mass-radius relation that the approximate density
+of a white dwarf the same size as the earth is
 </span>
 
 $$
@@ -779,6 +777,8 @@ $$
 
 <span style="padding-left: 20px; display:block">
 within an order of magnitude of what we claimed in Exercise 6.
+The earth has radius $R \sim 6 \times 10^6 \text{ m}$, while an
+electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
 </span>
 
 <!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6*10^6)^6 -->
