@@ -232,7 +232,7 @@ $$
 
 ---
 
-### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
+### Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
 
 Bohr's model is a useful illustration of how to calculate energy
 levels.
@@ -256,62 +256,25 @@ $$
 and the energy levels are
 
 $$
-E_n = \frac{2\pi^2 \hbar^2 n^2}{m_e L^2}.
+E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
 $$
 
-Instead of an atom, let's consider the much simple scenario of a
-one-dimensional box, of length $L$.
+There is no proton in this problem now, since that was only necessary
+to figure out $r_n$, and we have fixed that by fiat.
+This also lets us get rid of the minus sign we found in Exercise 1,
+since that corresponded to the electron being *bound*.
+Now, the electron lives on a circle by definition.
+We will also call the circle a "one-dimensional box" since, as $L$
+gets large, it's hard to tell the difference between a circle and a
+very long line.
 
-We will consider a simpler scenario called a *non-interacting quantum gas*.
-As in the atom, there is a possibly infinite set of allowed energies:
-
-$$
-E_1 \leq E_2 \leq E_3 \leq \cdots
-$$
-
-However, particles occupying these energy levels do not interact.
-It's like a hotel: guests can only stay in designated rooms, which are arranged by price, and do not want to be disturbed by other guests.
-To finish describing our gas, we need two more elements.
-
-- *Temperature.* This corresponds to how *cheap* hotel guests are. At zero temperature, they will take the cheapest available room, i.e. the lowest available energy level in the gas. At nonzero temperature, there is some probability they will splash out on a fancy suite, but the more expensive, the less likely it is.
-- *Type.* Particles fall into two categories: *bosons* and *fermions*. Bosons are sociable, and arbitrarily many can stay in a single hotel room.
-Fermions, on the other hand, are loners, obeying the *Pauli exclusion
-principle*: one particle per room!
-
-Let's explore a few immediate consequences for our quantum gas hotel.
-For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdots$, and that the gas is at zero temperature (particles take cheapest available room).
-
-1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
-2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
-
-Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
-This will give us some feeling for the structure of energy levels.
-A quantum particle can be described by a standing *matter wave* in the box, similar to plucking a string with fixed ends.
-Suppose that, like the string, the waves are "clamped" at the ends.
-(If we square the amplitude of the matter wave at a point, we get the probability of finding the particle there. So we are stating that we never find the particle at the edges of the box.)
-What are the allowed wavelengths $\lambda_n$?
-
-For a (classical) particle of momentum $p$ and mass $m$, show the kinetic energy can be written
-
-$$
-E = \frac{p^2}{2m}.
-$$
-
-In 1924, Louis de Broglie guessed that matter waves had an associated momentum,
-
-$$
-p = \frac{2\pi \hbar}{\lambda},
-$$
-
-where $\hbar = 10^{-34} \text{ J s}$ is \emph{Planck's (reduced) constant}.
-Assuming the energy of the quantum particle is kinetic, and the previous question applies, deduce that the energy levels in the box are
-
-$$
-E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
-$$
-
-Throw $N$ non-interacting fermions into the box at zero temperature.
-The energy of the highest occupied level is called the *Fermi energy* $E_F$, and there is an associated *Fermi temperature* $T_F = E_F/k_B$, where
+We have the single-electron energies, just like the atom.
+Unlike the atom, we are just going to go ahead and assume that
+electrons don't interact, and our hotel model (Rules 1--3) applies.
+Suppose we throw $N$ particles into our box.
+There will be some maximum energy occupied by the particles, called
+the *Fermi energy* $E_F$ (see Exercise 2).
+*Fermi temperature* $T_F = E_F/k_B$, where
 
 $$
 k_B = 1.4\times 10^{-23} \frac{\text{ m}^2\text{ kg}}{\text{ K s}^2}
@@ -323,6 +286,17 @@ Assuming the ideal gas law holds in the form $PV \sim Nk_BT_F$, deduce that the 
 $$
 P \sim \frac{N E_F}{L}.
 $$
+
+---
+
+**Exercise 2.** Show that if we put $N$ into our box, the Fermi energy
+is
+
+$$
+E_F = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right)N^2.
+$$
+
+---
 
 ### Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -430,3 +404,55 @@ much smaller bodies, such as the planets of the solar system.
 In classical physics, the planets can orbit at any radius they like.
 Kepler's laws relate the period to the radius, for instance, but any
 old radius is allowed.
+
+
+Instead of an atom, let's consider the much simple scenario of a
+one-dimensional box, of length $L$.
+
+We will consider a simpler scenario called a *non-interacting quantum gas*.
+As in the atom, there is a possibly infinite set of allowed energies:
+
+$$
+E_1 \leq E_2 \leq E_3 \leq \cdots
+$$
+
+However, particles occupying these energy levels do not interact.
+It's like a hotel: guests can only stay in designated rooms, which are arranged by price, and do not want to be disturbed by other guests.
+To finish describing our gas, we need two more elements.
+
+- *Temperature.* This corresponds to how *cheap* hotel guests are. At zero temperature, they will take the cheapest available room, i.e. the lowest available energy level in the gas. At nonzero temperature, there is some probability they will splash out on a fancy suite, but the more expensive, the less likely it is.
+- *Type.* Particles fall into two categories: *bosons* and *fermions*. Bosons are sociable, and arbitrarily many can stay in a single hotel room.
+Fermions, on the other hand, are loners, obeying the *Pauli exclusion
+principle*: one particle per room!
+
+Let's explore a few immediate consequences for our quantum gas hotel.
+For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdots$, and that the gas is at zero temperature (particles take cheapest available room).
+
+1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
+2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
+
+Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
+This will give us some feeling for the structure of energy levels.
+A quantum particle can be described by a standing *matter wave* in the box, similar to plucking a string with fixed ends.
+Suppose that, like the string, the waves are "clamped" at the ends.
+(If we square the amplitude of the matter wave at a point, we get the probability of finding the particle there. So we are stating that we never find the particle at the edges of the box.)
+What are the allowed wavelengths $\lambda_n$?
+
+For a (classical) particle of momentum $p$ and mass $m$, show the kinetic energy can be written
+
+$$
+E = \frac{p^2}{2m}.
+$$
+
+In 1924, Louis de Broglie guessed that matter waves had an associated momentum,
+
+$$
+p = \frac{2\pi \hbar}{\lambda},
+$$
+
+where $\hbar = 10^{-34} \text{ J s}$ is \emph{Planck's (reduced) constant}.
+Assuming the energy of the quantum particle is kinetic, and the previous question applies, deduce that the energy levels in the box are
+
+$$
+E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
+$$
