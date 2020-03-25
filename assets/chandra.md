@@ -222,8 +222,8 @@ electrons occupy the lowest available state, so they will zip off to infinity!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(e) Argue that, for an ion consisting of $Z$ protons, the
-single-electron energy levels are
+(e) Argue that, for an ion consisting of $Z$ protons, the Bohr model
+gives single-electron energy levels
 </span>
 
 $$
@@ -231,11 +231,6 @@ E_n = -\left(\frac{m_ek_e^2 Z^2 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
 ---
-
-Bohr's model tells us single-electron energy levels in hydrogen and
-other elements.
-Once we start adding more electrons, things get complicated, and we
-need to start considering the whole machinery of orbitals.
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
