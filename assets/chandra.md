@@ -699,33 +699,52 @@ gravitational and neutron degeneracy pressure.
 Increase the mass, and gravity inevitably wins, forcing the star to
 collapse into a black hole!
 
----
-
-**Exercise 7.** Finally, we can calculate the Chandrasekhar limit.
+Finally, we can calculate the Chandrasekhar limit.
 The mass of a white dwarf is mostly protons, with $M = Nm_p$, while $V \sim R^3$.
+Thus, we can write the degeneracy pressure as
 
-<span style="padding-left: 20px; display:block">
-(a) Set $P_\text{grav} = P_F$, and show that the corresponding mass is
-	</span>
+$$
+P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3} \sim \hbar c \left(\frac{(M/m_p)^{4/3}}{R^4}\right).
+$$
+
+Let's now set this equal to the gravitational self-pressure,
+$P_\text{grav} = P_F$.
+This implies
+
+$$
+\begin{align*}
+\frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4} & \sim \hbar c
+\left(\frac{(M/m_p)^{4/3}}{R^4}\right) \\
+\Longrightarrow \quad M^{2-4/3} & \sim \frac{\hbar c}{G}
+\frac{1}{m_p^{4/3}}.
+\end{align*}
+$$
+
+Raising both sides to $3/2$, we obtain the Chandrasekhar limit on the
+maximum mass of a white dwarf:
 
 $$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
 $$
 
-<span style="padding-left: 20px; display:block">
-(b) Evaluate $M_C$ numerically and compare to the mass of the sun. You
+---
+
+**Exercise 7.**  Evaluate $M_C$ numerically and compare to the mass of the sun. You
 should find
-</span>
 
 $$
 M_C \sim\, 1.7 M_\odot.
 $$
 
-<span style="padding-left: 20px; display:block">
 The state-of-the-art limit, incorporating details about the white
 dwarf's composition and structure, is $ M_C \approx 1.44 \,M_\odot$, so
 we've done remarkably well!
-</span>
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 8.**
 
 ---
 
@@ -762,5 +781,7 @@ Thus, our naive guess for an upper bound on the size of a neutron star
 is still reasonably close to the best known bound!
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
+
+
 
 ### References
