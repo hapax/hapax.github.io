@@ -332,7 +332,7 @@ $$
 
 ---
 
-### Periodic boundary conditions <a id="sec-2-2" name="sec-2-2"></a>
+### Electrons on a donut <a id="sec-2-2" name="sec-2-2"></a>
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
@@ -419,8 +419,7 @@ for $\vec{n} = (n_x, n_y, n_z)$.
 **Exercise 3.** Let's now consider the Fermi gas on a donut.
 
 <span style="padding-left: 20px; display:block">
-(a) Compute the lowest three energy levels, and draw what they look
-like (on the square).
+(a) Compute the lowest three energy levels, and sketch them on the square.
 </span>
 
 <span style="padding-left: 20px; display:block">
