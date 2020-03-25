@@ -568,7 +568,7 @@ I'll let you find the degeneracy pressure!
   an ultrarelativistic Fermi gas is
 
 $$
-P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3}.
+P_F \sim \frac{\hbar c N^{4/3}}{L^4}.
 $$
 
 ---
