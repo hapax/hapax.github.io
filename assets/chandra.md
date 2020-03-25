@@ -24,7 +24,6 @@ date:  2020-03-23
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
-   3. <a href="#sec-3-4">Neutron stars</a>
    
 - <a href="#sec-A">A. Donuts and boxes</a>
 
@@ -730,8 +729,6 @@ we've done remarkably well!
 
 ---
 
-### Neutron stars<a id="sec-3-4" name="sec-3-4"></a>
-
 How are neutron stars different from a white dwarf?
 Neutrons are fermions, so if we pack them into a box, there will be
 degeneracy pressure.
@@ -748,4 +745,9 @@ $$
 
 once more, where $m_n \approx m_p$ is the mass of a neutron.
 
+But there is a subtlety we did not include, namely an additional
+repulsion between neutrons due to the strong nuclear force.
+
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
+
+### References
