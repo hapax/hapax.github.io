@@ -20,10 +20,10 @@ date:  2020-03-23
    2. <a href="#sec-2-2">Electrons on a circle</a>
    3. <a href="#sec-2-3">Electrons on a donut</a>
    3. <a href="#sec-2-4">The Fermi sea</a>
-3. <a href="#sec-3">Mining for patterns</a>
-   1. <a href="#sec-3-1">Sublime moth balls</a>
-   2. <a href="#sec-3-2">Irodov's triangle</a>
-   3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
+3. <a href="#sec-3">Light and gravity</a>
+   1. <a href="#sec-3-1">Relativity and ultrarelativity</a>
+   2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
+   3. <a href="#sec-3-3">The Chandrasekhar limit</a>
 4. <a href="#sec-4">Conclusion</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
@@ -321,7 +321,7 @@ out front we are neglecting.
 
 ---
 
-**Exercise 2.** Let's calculate some simple properties of our Fermi
+**Exercise 2.** Let's calculate some simple properties of the Fermi
   gas on the circle.
 
 <span style="padding-left: 20px; display:block">
@@ -517,9 +517,14 @@ $$
 
 ---
 
-## Gravity <a id="sec-3" name="sec-3"></a>
+## Light and gravity <a id="sec-3" name="sec-3"></a>
 
-### White dwarfs 
+We're almost ready to apply what we've learned to old stars.
+But before we do, there is an important 
+
+### Relativity and ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
+
+### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
@@ -562,6 +567,8 @@ P_\text{grav} \sim \frac{GM^2}{R^4}.
 $$
 
 *Hint.* Recall that $P = F/A$, i.e. pressure is force divided by area.
+
+### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
 The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
 Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
