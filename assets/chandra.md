@@ -585,7 +585,10 @@ $$
 M_\odot = 2\times 10^{30} \text{ kg}.
 $$
 
-There are three different possibilites
+The fate of a star depends on its mass $M$:
+- *White dwarfs* ($M < 10 M_\odot$).
+- *Neutron star* ($10 M_\odot < M  30 M_\odot$).
+- *White dwarfs* ($30 M_\odot < M$).
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
