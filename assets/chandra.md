@@ -757,14 +757,20 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) Show that the Chandrasekhar limit can also be obtained by setting
+</span>
 
 $$
-E_F = -U_\text{grav}/2.
+E_F = -\tfrac{1}{2}U_\text{grav}.
 $$
 
+<span style="padding-left: 20px; display:block">
 *Note for experts.* This odd-looking equation comes from identifying the kinetic energy with
 $E_F$ and using the
 [virial theorem](https://en.wikipedia.org/wiki/Virial_theorem).
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c)
 </span>
 
 ---
