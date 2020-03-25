@@ -25,6 +25,7 @@ date:  2020-03-23
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
 4. <a href="#sec-4">Conclusion</a>
+- <a href="#sec-5">Donuts and boxes</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -668,8 +669,7 @@ $$
 F = \frac{GMm}{R^2}
 $$
 
-where masses $M,m$ separated by $R$, and $G = 6.7\times 10^{-11}
-\text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
+where $M,m$ are masses separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
 
 Consider a spherical white dwarf of mass $M$ and radius $R$.
 We now want to ask: what gravitational force does this exert on
@@ -694,106 +694,35 @@ $$
 P_\text{grav} \sim \frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4}.
 $$
 
-The maximum mass of a neutron star can be obtained by balancing the gravitational and neutron degeneracy pressure.
-Increase the mass, and gravity inevitably wins, forcing the star to collapse into a black hole!
-Using $M = Nm_\text{N}$ for neutron mass $m_\text{N} = 1.7 \times 10^{-27} \text{ kg}$, $V \sim R^3$, deduce the Chandrasekhar limit $M_C$:
+The maximum mass of a neutron star can be obtained by balancing the
+gravitational and neutron degeneracy pressure.
+Increase the mass, and gravity inevitably wins, forcing the star to
+collapse into a black hole!
+
+---
+
+**Exercise 7.** Finally, we can calculate the Chandrasekhar limit.
+The mass of a white dwarf is mostly protons, with $M = Nm_p$, while $V \sim R^3$.
+
+<span style="padding-left: 20px; display:block">
+(a) Set $P_\text{grav} = P_F$, and show that the corresponding mass is
+	</span>
 
 $$
-M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_\text{N}^2}.
+M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
 $$
 
-Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
-You should find $M_C \approx 1.7 M_\odot$.
+<span style="padding-left: 20px; display:block">
+(b) Evaluate $M_C$ numerically and compare to the mass of the sun. You
+should find
+</span>
+
+$$
+M_C \sim 1.7 M_\odot.
+$$
+
+---
+
+
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
-
-### Extra
-
-The fact that only certains orbits --- or, in atomic language,
-*orbitals* --- are allowed has deep consequences for the structure of
-matter.
-It is not a trivial change.
-But if the planets were governed by *quantum* physics, only certain
-orbits would be allowed!
-The orbits are *quantised*.
-Suppose we have a big central body, like the sun, being orbited by
-much smaller bodies, such as the planets of the solar system.
-In classical physics, the planets can orbit at any radius they like.
-Kepler's laws relate the period to the radius, for instance, but any
-old radius is allowed.
-
-
-Instead of an atom, let's consider the much simple scenario of a
-one-dimensional box, of length $L$.
-
-We will consider a simpler scenario called a *non-interacting quantum gas*.
-As in the atom, there is a possibly infinite set of allowed energies:
-
-$$
-E_1 \leq E_2 \leq E_3 \leq \cdots
-$$
-
-However, particles occupying these energy levels do not interact.
-It's like a hotel: guests can only stay in designated rooms, which are arranged by price, and do not want to be disturbed by other guests.
-To finish describing our gas, we need two more elements.
-
-- *Temperature.* This corresponds to how *cheap* hotel guests are. At zero temperature, they will take the cheapest available room, i.e. the lowest available energy level in the gas. At nonzero temperature, there is some probability they will splash out on a fancy suite, but the more expensive, the less likely it is.
-- *Type.* Particles fall into two categories: *bosons* and *fermions*. Bosons are sociable, and arbitrarily many can stay in a single hotel room.
-Fermions, on the other hand, are loners, obeying the *Pauli exclusion
-principle*: one particle per room!
-
-Let's explore a few immediate consequences for our quantum gas hotel.
-For the moment, assume that energy levels *strictly increase*, $E_1 < E_2 < \cdots$, and that the gas is at zero temperature (particles take cheapest available room).
-
-1. Suppose that $N$ bosons arrive at the hotel. Where do they stay? 
-2. Suppose that, instead, $N$ fermions come to the hotel.  Which rooms do they occupy?
-
-Our ultimate goal will be to study white dwarfs, but as a simple warm-up, consider a one-dimensional "box" of size $L$.
-This will give us some feeling for the structure of energy levels.
-A quantum particle can be described by a standing *matter wave* in the box, similar to plucking a string with fixed ends.
-Suppose that, like the string, the waves are "clamped" at the ends.
-(If we square the amplitude of the matter wave at a point, we get the probability of finding the particle there. So we are stating that we never find the particle at the edges of the box.)
-What are the allowed wavelengths $\lambda_n$?
-
-For a (classical) particle of momentum $p$ and mass $m$, show the kinetic energy can be written
-
-$$
-E = \frac{p^2}{2m}.
-$$
-
-In 1924, Louis de Broglie guessed that matter waves had an associated momentum,
-
-$$
-p = \frac{2\pi \hbar}{\lambda},
-$$
-
-where $\hbar = 10^{-34} \text{ J s}$ is \emph{Planck's (reduced) constant}.
-Assuming the energy of the quantum particle is kinetic, and the previous question applies, deduce that the energy levels in the box are
-
-$$
-E_n = \frac{8\pi^2 \hbar^2n^2}{mL^2}.
-$$
-
-We will also call the circle a "one-dimensional box" since, as $L$
-gets large, it's hard to tell the difference between a circle and a
-very long line.
-
-A *white dwarf* is a dense remnant of protons and neutrons left after a star burns up its fuel.
-There are two forces on the star: gravity (mostly due to the protons)
-trying to make it collapse further, and degeneracy pressure (due to
-the electrons) resisting this collapse.
-The attraction between protons and electrons is very small compared to these two forces, so we can ignore it.
-To a good approximation, the electrons behave like a non-interacting gas at zero temperature.
-Let's study a three-dimensional box!
-
-A matter wave in a cube of volume $V = L^3$ oscillates in each dimension independently, with three wavelengths $\vec{\lambda} = (\lambda_x, \lambda_y, \lambda_z)$, and corresponding wave modes $\vec{n} = (n_x,n_y,n_z)$, where $\lambda_{x,y,z} = L/2n_{x,y,z}$.
-
-Assume that the kinetic energies in each direction just add together.
-Argue that the energy of a particle of mass $m$ and wave modes $\vec{n}$ is
-
-$$
-E_{\vec{n}} = \frac{8\pi^2 \hbar^2}{mV^{2/3}}(n_x^2+n_y^2+n_z^2).
-$$
-
-Find the energy and possible wave modes for the lowest energy level(s).
-What about the first excited state(s)?
