@@ -12,7 +12,7 @@ date:  2020-03-23
   too many? We will hack our way towards an order-of-magnitude
   estimate, and comment on the implications for astrophysics.*
 
-## Introduction <a id="sec-1" name="sec-1"></a>
+### Introduction <a id="sec-1" name="sec-1"></a>
 
 *Prerequisites: basics conceps of quantum mechanics.*
 
@@ -58,7 +58,7 @@ What is intelligible is also beautiful.
 While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its simplicity.
 
-## Fermi gas<a id="sec-2" name="sec-2"></a>
+### Fermi gas<a id="sec-2" name="sec-2"></a>
 
 We're going to consider a simple caricature of quantum
 mechanics, given by three rules:
@@ -99,7 +99,7 @@ If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
 Our three rules thus describe a *zero temperature Fermi gas*.
 
-## Bohr's model
+### Bohr's model
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -231,7 +231,7 @@ $$
 
 ---
 
-## Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
+### Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
 
 Bohr's model is a useful illustration of how to calculate energy
 levels.
@@ -332,7 +332,7 @@ $$
 
 ---
 
-## Periodic boundary conditions <a id="sec-2-2" name="sec-2-2"></a>
+### Periodic boundary conditions <a id="sec-2-2" name="sec-2-2"></a>
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
@@ -404,7 +404,7 @@ $$
 
 ---
 
-## The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
+### The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
 
 We will also call the circle a "one-dimensional box" since, as $L$
 gets large, it's hard to tell the difference between a circle and a
@@ -500,9 +500,9 @@ $$
 Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
 You should find $M_C \approx 1.7 M_\odot$.
 
-## A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
+### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
 
-## Extra
+### Extra
 
 The fact that only certains orbits --- or, in atomic language,
 *orbitals* --- are allowed has deep consequences for the structure of
