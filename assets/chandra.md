@@ -383,6 +383,27 @@ $$
 \lambda_x = \frac{L}{n_x}, \quad \lambda_y = \frac{L}{n_y}.
 $$
 
+To determine the energy, we use the fact that $p^2$ is the *length* of
+the momentum vector, $\vec{p} = (p_x, p_y)$:
+
+$$
+p^2 = p_x^2 + p_y^2.
+$$
+
+You can then use the de Broglie relation $\lambda_x = 2\pi\hbar/p_x$, $\lambda_y = 2\pi\hbar/p_y$
+in each direction separately to obtain
+
+$$
+E_{n_x, n_y} = \frac{p^2}{2m_e} = \frac{p_x^2 + p_y^2}{2m_e} =
+\left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2).
+$$
+
+---
+
+**Exercise 3.**
+
+---
+
 ## Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
 
 We will also call the circle a "one-dimensional box" since, as $L$
