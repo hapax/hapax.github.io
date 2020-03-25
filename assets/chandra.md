@@ -653,6 +653,8 @@ k_B & = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2.
 \end{align*}
 $$
 
+You can check the claim about density in Exercise 8.
+
 ---
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
@@ -772,16 +774,16 @@ of a white dwarf the same size as the earth is
 </span>
 
 $$
-\rho \sim 7 \times 10^{9} \text{ kg/m}^3,
+\rho \sim 5 \times 10^{9} \text{ kg/m}^3,
 $$
 
 <span style="padding-left: 20px; display:block">
-within an order of magnitude of what we claimed in Exercise 6.
-The earth has radius $R \sim 6 \times 10^6 \text{ m}$, while an
+within an order of magnitude of the density we claimed in Exercise 6.
+The earth has radius $R = 6.4 \times 10^6 \text{ m}$, while an
 electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
 </span>
 
-<!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6*10^6)^6 -->
+<!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6.4*10^6)^6 -->
 
 ---
 
