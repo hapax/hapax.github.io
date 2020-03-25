@@ -300,7 +300,7 @@ $$
 P_F \sim \frac{N E_F}{L}.
 $$
 
-We haven't defined $P_F$ carefully, and $\sim$ indicates a constant
+We haven't defined $P_F$ carefully, so $\sim$ indicates a constant
 we won't worry about.
 
 ---
