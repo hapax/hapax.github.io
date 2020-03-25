@@ -120,8 +120,10 @@ E = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
 \frac{4\pi^2 \hbar^2 n^2}{2m_e (2\pi r)^2}.
 $$
 
-We still have a pesky, unknown factor of $2\pi r$ floating around, but
-the interested reader can supply this themselves in Exercise 1.
+We still don't know the radius of the orbit labelled by $n$, and won't
+need it below.
+However, the interested reader can figure it out themselves in the
+following exercise.
 
 ---
 
@@ -159,7 +161,7 @@ p^2 = \frac{k_e m_e e^2}{r}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) Use (b) to show that the orbits gets larger quadratically in $n$,
+(c) Use (b) to show that the orbits gets larger quadratically with $n$,
 with
 </span>
 
