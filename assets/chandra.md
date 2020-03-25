@@ -577,8 +577,15 @@ $$
 ### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
 Above, I referred mysteriously to various "stellar leftovers".
-We will finally learn what these are, and what they have to do with
-Fermi gases!
+Let's discuss the life cycle of old stars, and see how the different
+endpoints of stellar evolution are related to the Fermi gas.
+It will be useful to measure stars using the mass of our sun,
+
+$$
+M_\odot = 2\times 10^{30} \text{ kg}.
+$$
+
+There are three different possibilites
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
