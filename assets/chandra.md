@@ -788,9 +788,8 @@ electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
 How are neutron stars different from white dwarfs?
 Neutrons are fermions, so if we pack them into a box, there will be
 degeneracy pressure.
-They are still cold compared to the Fermi temperature.
-The main difference, apparently, is that there are $N$ neutrons rather
-than $N$ protons and electrons.
+Neutron stars are still cold compared to the Fermi temperature, so the
+zero-temperature approximation is good.
 If we repeat the reasoning above, balancing neutron degeneracy
 pressure against gravitational self-pressure, we find
 
