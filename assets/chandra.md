@@ -12,7 +12,21 @@ date:  2020-03-23
   too many? We will hack our way towards an order-of-magnitude
   estimate, and comment on the implications for astrophysics.*
 
-### Introduction <a id="sec-1" name="sec-1"></a>
+### Contents
+
+1. <a href="#sec-1">Introduction</a>
+2. <a href="#sec-2">Fermi gas</a>
+   1. <a href="#sec-2-1">Bohr's model</a>
+   2. <a href="#sec-2-2">Electrons on a circle</a>
+   3. <a href="#sec-2-3">Electrons on a donut</a>
+   3. <a href="#sec-2-4">The Fermi sea</a>
+3. <a href="#sec-3">Mining for patterns</a>
+   1. <a href="#sec-3-1">Sublime moth balls</a>
+   2. <a href="#sec-3-2">Irodov's triangle</a>
+   3. <a href="#sec-3-3">Sand piles, slopes, and self-organisation</a>
+4. <a href="#sec-4">Conclusion</a>
+
+## Introduction <a id="sec-1" name="sec-1"></a>
 
 *Prerequisites: basics conceps of quantum mechanics.*
 
@@ -58,7 +72,7 @@ What is intelligible is also beautiful.
 While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its simplicity.
 
-### Fermi gas<a id="sec-2" name="sec-2"></a>
+## Fermi gas<a id="sec-2" name="sec-2"></a>
 
 We're going to consider a simple caricature of quantum
 mechanics, given by three rules:
@@ -99,7 +113,7 @@ If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
 Our three rules thus describe a *zero temperature Fermi gas*.
 
-### Bohr's model
+### Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -231,7 +245,7 @@ $$
 
 ---
 
-### Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
+### Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
 
 Bohr's model is a useful illustration of how to calculate energy
 levels.
@@ -332,7 +346,7 @@ $$
 
 ---
 
-### Electrons on a donut <a id="sec-2-2" name="sec-2-2"></a>
+### Electrons on a donut <a id="sec-2-3" name="sec-2-3"></a>
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
@@ -431,7 +445,7 @@ We give some ways to visualise the periodic cube, or
 
 ---
 
-### The Fermi sea <a id="sec-2-2" name="sec-2-2"></a>
+### The Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
 
 As Exercise 3 demonstrates, finding energy levels on the donut takes
 some work, even though it is vastly simpler than the atom.
@@ -503,7 +517,9 @@ $$
 
 ---
 
-### Stars <a id="sec-3" name="sec-3"></a>
+## Gravity <a id="sec-3" name="sec-3"></a>
+
+### White dwarfs 
 
 We're finally ready to calculate the mass of the largest white dwarfs.
 This is called the *Chandrasekhar limit*.
