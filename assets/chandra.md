@@ -24,12 +24,10 @@ date:  2020-03-26
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
-   
-- <a href="#sec-A">A. Donuts and boxes</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
-*Prerequisites: basics conceps of quantum mechanics.*
+*Prerequisites: high school gravity and quantum mechanics.*
 
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
