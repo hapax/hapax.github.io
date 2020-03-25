@@ -769,7 +769,7 @@ This repulsion is poorly understood and difficult to model, but the
 analogue of the Chandrasekhar limit for neutron stars
 is called the [Tolman-Oppenheimer-Volkoff (TOV) limit](https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit),
 mainly based on numerical simulations.
-However, these simulations suggest that nuclear repulsion is roughly
+These simulations suggest that nuclear repulsion is roughly
 the same size as neutron degeneracy, with
 
 $$
