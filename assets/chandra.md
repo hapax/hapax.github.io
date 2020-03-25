@@ -99,7 +99,7 @@ If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
 Our three rules thus describe a *zero temperature Fermi gas*.
 
-### Bohr's model
+## Bohr's model
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -231,7 +231,7 @@ $$
 
 ---
 
-### Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
+## Electrons on a circle <a id="sec-2-1" name="sec-2-1"></a>
 
 Bohr's model is a useful illustration of how to calculate energy
 levels.
@@ -332,7 +332,7 @@ $$
 
 ---
 
-### Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
+## Periodic boundary conditions <a id="sec-2-2" name="sec-2-2"></a>
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
@@ -340,10 +340,50 @@ interact, but can have different orientations, you must reckon with
 this basic fact about space.
 This is where the whole formalism of s, p, d, f, and so on, comes
 from, and thus all the wonders of chemistry and biology.
-
 We also want to consider a three-dimensional quantum system for our
-eventual application to stellar remnants, but as before, while
+eventual application to stellar remnants, but as before,
 avoiding the complications of the atom.
+
+There is a neat trick which lets us do this by combining three
+circles.
+But to see how to do this, we need to think about the circle a little
+differently first.
+Instead of thinking of a circle of circumference $L$, let's snip it
+at some point and straighten it out, giving a line of length $L$.
+The matter waves on the circle must join smoothly at the point we
+snipped, and if redraw them on the line, we see the amplitude of the
+wave at one end must equal the amplitude at the other.
+The fancy mathematical name for this is a *periodic boundary
+condition*, but really it just means "glue the endpoints".
+So we can view a circle as a line with periodic boundary conditions.
+
+Instead of periodic boundary conditions on a line, we could imagine
+them on a *square* of side length $L$, described by coordinates $x$ and $y$.
+A wave is now a wobbly sheet drawn over the square, with an amplitude
+$A(x, y)$.
+Periodicity is now the requirement that
+
+$$
+A(0, y) = A(L, y), \quad A(x, 0) = A(x, L).
+$$
+
+If we glue the two sides, what do we get?
+Amazingly, the answer is a donut!
+We discuss why this is so in <a href="#sec-A">the appendix</a>.
+
+It might seem much more complicated to figure out how to quantise
+waves in this space, but it separates nicely into two copies of a
+problem we have already solved.
+Suppose the wave just wobbles independently in the $x$ and $y$
+directions, with respective wavelengths $\lambda_x$ and $\lambda_y$.
+We can impose the Bohr-de Broglie condition in each direction
+independently, so
+
+$$
+\lambda_x = \frac{L}{n_x}, \quad \lambda_y = \frac{L}{n_y}.
+$$
+
+## Three-dimensional box <a id="sec-2-2" name="sec-2-2"></a>
 
 We will also call the circle a "one-dimensional box" since, as $L$
 gets large, it's hard to tell the difference between a circle and a
@@ -439,7 +479,7 @@ $$
 Plug in numbers and compare the mass of the largest neutron star to the mass of our sun, $M_\odot = 2\times 10^{30} \text{ kg}$.
 You should find $M_C \approx 1.7 M_\odot$.
 
-## A. Periodic boxes
+## A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
 
 ## Extra
 
