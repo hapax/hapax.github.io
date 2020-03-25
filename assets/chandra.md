@@ -222,17 +222,23 @@ electrons occupy the lowest available state, so they will zip off to infinity!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(e) Argue that, for an ion consisting of $Z$ protons, the Bohr model
-gives single-electron energy levels
+(e) For an ion with $Z$ protons in the nucleus, use the Bohr model to
+obtain the single-electron energy levels
 </span>
 
 $$
-E_n = -\left(\frac{m_ek_e^2 Z^2 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
+E_n = -\left(\frac{m_ek_e^2 e^4}{2\hbar^2}\right)  \frac{Z^2}{n^2}.
 $$
 
 ---
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
+
+Bohr's model tells us how to calculate single-electron energy levels
+for hydrogen and other heavy elements as well.
+But once we start adding more electrons, things become dramatically
+more complicated since the electrons interact.
+We will instead consider 
 
 Instead of an atom, let's consider the much simple scenario of a
 one-dimensional box, of length $L$.
