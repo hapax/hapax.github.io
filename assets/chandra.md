@@ -69,7 +69,7 @@ light, Bohr postulated that only certain orbits were allowed,
 satisfying the *quantisation of angular momentum*:
 
 $$
-L = mv r = n \hbar, \quad n = 0, 1, 2, \ldots
+L = mv r = n \hbar, \quad n = 1, 2, 3, \ldots
 $$
 
 Here, the "quantum" of angular momentum is *Planck's (reduced)
@@ -100,7 +100,8 @@ $$
 Plugging this into Bohr's quantisation condition gives
 
 $$
-pr = n\hbar \quad \Longrightarrow \quad 2\pi r = n \lambda.
+pr = n\hbar \quad \Longrightarrow \quad \lambda_n = \frac{2\pi r}{n},
+\quad n = 1, 2, 3, \ldots.
 $$
 
 This has a lovely and simple interpretation: the allowed orbits are
