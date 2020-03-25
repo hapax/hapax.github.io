@@ -601,7 +601,37 @@ of the star depends on its mass $M$ before collapse:
   repulsion due to the [strong nuclear force](https://en.wikipedia.org/wiki/Strong_interaction)
   can resist gravitational collapse.
 - *Black holes.* If the star is heavier than $30$ suns ($30 M_\odot < M$), nothing can arrest the collapse, and the star forms a
-  black hole.
+black hole.
+
+White dwarfs are simpler, so we'll focus on these.
+The core is electrically neutral, consisting of $N$ electrons and $N$
+protons, the latter providing most of the star's mass.
+As a result, electrostatic repulsion plays only a small role, and
+instead, the degeneracy pressure of the electrons dominates.
+Assuming gravity is strong and the electrons are ultrarelativistic,
+the degeneracy pressure is
+
+$$
+P_F \sim \hbar c\left(\frac{ N}{V}\right)^{4/3}
+$$
+
+where $V$ is the volume of the white dwarf.
+We figure out the maximum mass of a white dwarf in the next section by
+comparing this degeneracy pressure due to gravity.
+
+Our calculation for $P_F$ is highly suspicious.
+To get there, we made two assumptions: first, the gas is at zero
+temperature; second, the star is a periodic cube, rather than a
+sphere.
+Let's see why these assumptions are reasonable:
+- *Temperature.* We can approximate a Fermi gas as zero temperature
+  provided $T$ is much smaller than the Fermi temperature, $T \ll
+  T_F$.
+  White dwarfs are typically around $T = 10^7 \text{ K}$, while the
+  Fermi temperature is order $T_F \sim 10^9 \text{ K}$, so the
+  temperature is indeed much smaller.
+- *Shape.* A white dwarf is a sphere. A box is not even remotely
+  spherical. Why is this a good model?
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
