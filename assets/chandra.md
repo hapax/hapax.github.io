@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "White dwarfs and black holes"
+title:  "Electrons, donuts and white dwarfs"
 categories: [Physics, Hacks]
-date:  2020-03-23
+date:  2020-03-26
 ---
 
-**March 23, 2020.** *If you throw too many electrons into a box, it
+**March 26, 2020.** *If you throw too many electrons into a box, it
   collapses under its own weight to form a black hole. But how many is
   too many? We will hack our way towards an order-of-magnitude
   estimate, and comment on the implications for astrophysics.*
