@@ -25,6 +25,7 @@ date:  2020-03-23
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
    3. <a href="#sec-3-4">Neutron stars</a>
+   
 - <a href="#sec-A">A. Donuts and boxes</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
