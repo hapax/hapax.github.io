@@ -564,14 +564,13 @@ I'll let you find the degeneracy pressure!
 
 ---
 
-**Exercise 5.** Show that, for $N \gg 1$, the degeneracy pressure for
-  an ultrarelativistic Fermi gas is
+**Exercise 5.** Consider an ultrarelativistic Fermi gas in a periodic
+cube of volume $V$.
+Show that, for $N \gg 1$, the degeneracy pressure is
 
 $$
-P_F \sim \hbar c\left(\frac{ N}{V}\right)^{4/3},
+P_F \sim \hbar c\left(\frac{ N}{V}\right)^{4/3}.
 $$
-
-where $V = L^3$.
 
 ---
 
