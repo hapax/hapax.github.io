@@ -592,16 +592,14 @@ But once a star runs low on fuel, gravity begins to win, and the fate
 of the star depends on its mass $M$ before collapse:
 - *White dwarf.* If the star is less than $10$ suns heavy ($M < 10
   M_\odot$), it will contract until the degeneracy pressure of the
-  electrons in unspent nuclear fueld stops the collapse.
-- *Neutron star.* If the star is between $10$ and $20$ solar masses
-  ($10 M_\odot < M  30 M_\odot$), electron degeneracy pressure is not
-  strong enough to prevent collapse, and instead, electrons are
-  absorbed by protons to make neutrons, and a combination of neutron
-  degeneracy pressure (since neutrons are fermions) and the
-  [strong nuclear force](https://en.wikipedia.org/wiki/Strong_interaction)
-  is able to resist gravitational collapse.
-- *Black holes.* If the star is heavier than $30$ suns, $M > 30
-  M_\odot$, nothing can arrest the collapse, and the star forms a
+  electrons in unspent nuclear fuel stops the collapse.
+- *Neutron star.* If the star is between $10$ and $30$ solar masses
+  ($10 M_\odot < M  < 30 M_\odot$), electron degeneracy pressure is not
+  enough, and a more desparate gambit is required. Electrons and
+  protons combine to make neutrons, neutron degeneracy pressure plus
+  repulsion due to the [strong nuclear force](https://en.wikipedia.org/wiki/Strong_interaction)
+  can resist gravitational collapse.
+- *Black holes.* If the star is heavier than $30$ suns ($30 M_\odot < M$), nothing can arrest the collapse, and the star forms a
   black hole.
 
 ### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
