@@ -100,7 +100,7 @@ arriving at the hotel will splash out on a more expensive room.
 So, although the hotel model could be modified for more general
 situations, our three rules describe a *zero temperature Fermi gas*.
 
-### The revolutionary atom
+### Bohr's model
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -234,11 +234,30 @@ $$
 
 ### One-dimensional box <a id="sec-2-1" name="sec-2-1"></a>
 
-Bohr's model tells us how to calculate single-electron energy levels
-for hydrogen and other heavy elements as well.
-But once we start adding more electrons, things become dramatically
-more complicated since the electrons interact.
-We will instead consider 
+Bohr's model is a useful illustration of how to calculate energy
+levels.
+But the calculation only works for a *single* electron.
+Once we start adding more, the electrons repel, and things become
+dramatically more complicated.
+In other words, an atomic is not a Fermi gas!
+Rather than trying to derive chemistry from first principle, we will
+ignore all these difficulties, and adapt the Bohr model into something
+we can use.
+
+One complication of the Bohr model was the exists of different radii.
+Instead, we are going to fix a *single* orbit, of circumference $L =
+2\pi r$.
+Then the Bohr-de Broglie quantisation condition becomes
+
+$$
+\lambda_n = \frac{L}{n},
+$$
+
+and the energy levels are
+
+$$
+E_n = \frac{2\pi^2 \hbar^2 n^2}{m_e L^2}.
+$$
 
 Instead of an atom, let's consider the much simple scenario of a
 one-dimensional box, of length $L$.
