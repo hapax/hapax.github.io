@@ -414,8 +414,8 @@ E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 $$
 
 for $\vec{n} = (n_x, n_y, n_z)$.
-This periodic cube, or *three-dimensional donut*, will be our model of
-a star!
+We give some ways to visualise the periodic cube, or
+*three-dimensional donut*, <a href="#sec-A">below</a>.
 
 ---
 
