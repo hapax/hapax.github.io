@@ -121,9 +121,9 @@ E_n = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
 $$
 
 We still don't know the radius of the orbit $r_n$, and we won't need
-it for the remainder of this post.
-However, the interested reader can supply it themselves, along with
-the energy levels of hydrogen, in Exercise 1.
+it below.
+However, the interested reader can supply it themselves in the
+following exercise.
 
 ---
 
@@ -165,7 +165,7 @@ r_n = \left(\frac{\hbar^2}{k_e m_e e^2}\right) n^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) Finally, show that hydrogen has energy levels
+(d) Conclude that hydrogen has energy levels
 </span>
 
 $$
@@ -173,11 +173,12 @@ E_n = -\frac{p_n^2}{2m_e} = -\left(\frac{m_ek_e^2
 e^4}{2\hbar^2}\right)  \frac{1}{n^2}.
 $$
 
-The minus sign is something we can add by hand, either recognising
-that the electron is *bound*, and hence requires energy to escape the
-pull of the nucleus.
-Or, we can simply observe that if we don't add it, energy *decreases*
-with $n$. Since (as we discuss below) electrons like to occupy
+Notice the minus sign in $E_n$.
+We can add this in two different ways.
+First, we can recognise in advance that the electron is *bound*, and
+hence requires energy to escape the pull of the nucleus.
+Alternatively, we can do our calculation, and observe that if we don't
+add it, energy *decreases* with $n$. Since (as we discuss below) electrons like to occupy
 the lowest available state, this means they would immediately zip off
 to infinity, and we would have no stable matter!
 
