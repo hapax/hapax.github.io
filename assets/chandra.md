@@ -494,8 +494,8 @@ in Exercise 4.
 
 <span style="padding-left: 20px; display:block">
 (a) For $n_F \gg 1$, show that a ball of radius $n_F$ in
-$\vec{n}$-space contains approximately $N \approx 4\pi n_F^3/3$
-points. *Hint.* Consider area vs perimeter.
+$\vec{n}$-space contains $N \approx 4\pi n_F^3/3$
+points.
 </span>
 
 <span style="padding-left: 20px; display:block">
