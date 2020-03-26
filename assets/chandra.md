@@ -547,14 +547,14 @@ E^2 \approx p^2 c^2  \quad \Longrightarrow \quad E \approx |\vec{p}|c.
 $$
 
 All the business about Bohr-de Broglie quantisation remains unchanged,
-and in particular we still have $|\vec{p}| = 2\pi\hbar|\vec{n}|/L$.
+and in fact the analogy to light is much better now!
 It follows that
 
 $$
 E_{\vec{n}} = \frac{2\pi\hbar c|\vec{n}|}{L}.
 $$
 
-I'll let you find the degeneracy pressure!
+I'll let you find the degeneracy pressure in Exercise 5.
 
 ---
 
