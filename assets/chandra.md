@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Electrons in a box and white dwarfs"
+title:  "A hacker's guide to the Chandrasekhar limit"
 categories: [Physics, Hacks]
 date:  2020-03-26
 ---
