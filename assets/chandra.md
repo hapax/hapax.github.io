@@ -332,9 +332,7 @@ E_F = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right)N^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) By identifying $T = T_F$ in the ideal gas law, or using
-dimensional analysis (see
-e.g. [here](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-2-3)),
+(b) By identifying $T = T_F$ in the ideal gas law,
 argue that
 </span>
 
