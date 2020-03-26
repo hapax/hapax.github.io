@@ -24,7 +24,6 @@ date:  2020-03-26
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
-4. <a href="#sec-4">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -69,7 +68,19 @@ What is intelligible is also beautiful.
 </span>
 
 While the star's ejecta may go on to form life --- remarkable for its
-complexity -- what is left behind is beautiful by virtue of its simplicity.
+complexity -- what is left behind is beautiful by virtue of its
+simplicity.
+
+*Outline.* We will start with Bohr's model of the hydrogen atom and the
+quantisation of orbits, and then apply these ideas to a *Fermi gas* of
+non-interacting electrons on a circle.
+Even when the gas is at zero temperature, quantum effects lead to an
+effective temperature, and hence to an effective *degeneracy pressure*.
+We can generalise our analysis to non-interacting electrons on a
+donut, and use this to model degeneracy pressure in stellar cores.
+We find the Chandraskhar limit by balancing degeneracy pressure
+against gravity.
+As a bonus, we can determine the relation between white dwarf mass and radius.
 
 ## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
@@ -345,12 +356,12 @@ $$
 ### 2.3. Electrons on a donut <a id="sec-2-3" name="sec-2-3"></a>
 
 We live in a three-dimensional world.
-When you add more than one electron to an atom, they not only
-interact, but can have different orientations, and behave differently
-with respect to spherical symmetry.
-We also want to consider a three-dimensional quantum system for our
-eventual application to stellar remnants, but as before,
-avoiding the complications of the atom.
+In order to understand something like a star, we will need to upgrade
+the Fermi gas on a circle to something more like a sphere.
+But spheres are hard!
+Atomic physics is hard not primarily because of interactions between
+electrons, but because working with a sphere leads to a
+slew of shells (s, p, d, f, ...) and subshells and all the attendant complexities.
 
 There is a neat trick which lets us do this by combining three
 circles.
@@ -839,7 +850,5 @@ $$
 Thus, our naive guess is only $30\%$ off the best known bound on the
 maximum mass of a neutron star!
 In the land of order-of-magnitude approximation, this is very close.
-
-## 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
