@@ -346,10 +346,8 @@ $$
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
-interact, but can have different orientations, you must reckon with
-this basic fact about space.
-This is where the whole formalism of s, p, d, f, and so on, comes
-from, and thus all the wonders of chemistry and biology.
+interact, but can have different orientations, and behave differently
+with respect to spherical symmetry.
 We also want to consider a three-dimensional quantum system for our
 eventual application to stellar remnants, but as before,
 avoiding the complications of the atom.
@@ -451,7 +449,7 @@ possibilities for $\vec{n} = (n_x, n_y, n_z)$.
 Calculating the Fermi energy $E_F$ for large $N$ seems like a hard and
 boring task best suited to a computer.
 
-However, there is a shortcut for computationally-inefficients humans when $N$ is very large.
+However, there is a shortcut for computationally-challenged humans when $N$ is very large.
 We'll do the calculation for a regular donut, and leave you to do the
 calculation for the three-dimensional donut.
 The vectors $\vec{n} = (n_x, n_y)$ live on a Cartesian plane, with one
@@ -464,11 +462,11 @@ $$
 N \approx \pi n_F^2.
 $$
 
-This circle is called the *Fermi sea*.
+This disk is called the *Fermi sea*.
 The maximum length of a vector in the Fermi sea is $|\vec{n}|^2 \approx
-n_F^2$, and the circle contains all vectors of smaller length as well.
+n_F^2$, and the disk contains all vectors of smaller length as well.
 Electrons added to the system will find the shortest available vector,
-and hence, fill out the circle from the origin outwards.
+and hence, fill out the disk radially.
 
 From the Fermi sea picture, we learn that for large $N$, the Fermi energy is
 
@@ -477,15 +475,17 @@ E_F \approx \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n_F^2 \approx \left(\fr
 $$
 
 For a handful of matter, say $N \sim 10^{23}$ electrons, this
-approximation is basically perfect.
+approximation is more or less perfect.
 On a donut, the degeneracy pressure is calculated as above, but $L$ is
-replaced by $L^2$, so we find that
+replaced by $L^2$, since this was the volume of the system in the
+ideal gas law.
+This gives
 
 $$
 P_F \sim \frac{NE_F}{L^2} \sim \frac{\hbar^2 N^2}{m_e L^4}.
 $$
 
-You can repeat the Fermi sea calculation for a three-dimensional donut
+You can see what the Fermi sea looks like for a three-dimensional donut
 in Exercise 4.
 
 ---
