@@ -893,6 +893,6 @@ In the words of Chandra himself,
 What is intelligible is also beautiful.
 </span>
 
-While the star's ejecta may go on to form life --- remarkable for its
-complexity -- what is left behind is beautiful by virtue of its
+While the star's ejecta may go on to form life, remarkable for its
+complexity, what is left behind is beautiful by virtue of its
 simplicity.
