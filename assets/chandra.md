@@ -438,7 +438,7 @@ $$
 
 We can perform exactly the same trick for even more circles.
 In particular, to get a three-dimensional example, let's take a
-product of three circles of lenth $L$.
+product of three circles of length $L$.
 We can view this as a *cube* of side length $L$ with periodic boundary
 conditions, or alternatively, a three-dimensional donut.
 The energy levels are exactly the same, with
