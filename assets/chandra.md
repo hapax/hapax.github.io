@@ -658,7 +658,7 @@ It turns out neither of these is a problem:
   just different choices of *boundary condition*, and as $N$ gets
   large, boundary conditions become irrelevant.
 
-Thus, our expression of $P_F$ is approximately correct for a real-life
+Thus, our expression of $P_F$ should apply (approximately) to a real-life
 white dwarf.
 
 ---
