@@ -449,8 +449,7 @@ E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 $$
 
 While a box is easy to draw, a three-dimensional donut is a bit
-harder.
-We boldly make an attempt below.
+harder, though we boldly make an attempt below.
 
 ---
 
