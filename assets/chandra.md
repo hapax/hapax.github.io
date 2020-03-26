@@ -361,40 +361,51 @@ the Fermi gas on a circle to something more like a sphere.
 But spheres are hard!
 Atomic physics is hard not primarily because of interactions between
 electrons, but because working with a sphere leads to a
-slew of shells (s, p, d, f, ...) and subshells and all the attendant complexities.
+slew of shells (s, p, d, f, ...) and subshells and all the attendant
+complications.
 
-There is a neat trick which lets us do this by combining three
+We will continue in our efforts to learn from the atom and avoid what
+is hard.
+In this case, we will approximate a sphere as a product of three
 circles.
-But to see how to do this, we need to think about the circle a little
-differently first.
-Instead of thinking of a circle of circumference $L$, let's snip it
-at some point and straighten it out, giving a line of length $L$.
-The matter waves on the circle must join smoothly at the point we
-snipped, and if redraw them on the line, we see the amplitude of the
-wave at one end must equal the amplitude at the other.
-The fancy mathematical name for this is a *periodic boundary
-condition*, but really it just means "glue the endpoints".
-So we can view a circle as a line with periodic boundary conditions.
+To see what this means, and why it might be useful, we first need to
+think of the circle a little differently.
 
-Instead of periodic boundary conditions on a line, we could imagine
-them on a *square* of side length $L$, described by coordinates $x$ and $y$.
-A wave is now a wobbly sheet drawn over the square, with an amplitude
+Take a circle of circumference $L$ and snip it at some point.
+Straightening out, we get a line of length $L$.
+According to Bohr-de Broglie, matter waves on the circle join smoothly
+at the point we snipped.
+Let $x$ be the coordinate on the line, with the "snip" at $x = 0$ and
+$x = L$.
+If $A(x)$ the amplitude of a matter wave, then
+
+$$
+A(0) = A(L).
+$$
+
+To get the circle back, we can just glue the endpoints, i.e. glue at
+the point the periodicity conditions are imposed.
+
+Let's consider a "product" of two circles of circumference $L$.
+Viewed from the snipped perspective, we have two lines of length
+$L$, so their product is a *square* with horizontal coordinate $x$
+and vertical coordinate $y$.
+A wave is now a wobbly sheet drawn over the square, with amplitude
 $A(x, y)$.
-Periodicity is now the requirement that
+But viewing each vertical line as a circle, and each horizontal line
+as a circle, we get the periodicity requirements
 
 $$
 A(0, y) = A(L, y), \quad A(x, 0) = A(x, L).
 $$
 
-If we glue the two sides, what do we get?
-Amazingly, the answer is a donut!
-We discuss how to visualise this in <a href="#sec-A">the appendix</a>.
+If we glue the top and the bottom, and the left and the right, we will
+end up with a donut.
+We learn that the product of two circles is a donut.
 
-It might seem much more complicated to figure out how to quantise
-waves in this space, but it separates nicely into two copies of a
-problem we have already solved.
-Suppose the wave just wobbles independently in the $x$ and $y$
-directions, with respective wavelengths $\lambda_x$ and $\lambda_y$.
+Quantisation on the donut is simple.
+Suppose a wave wobbles independently in the $x$ and $y$ directions,
+$A(x, y) = A(x)A(y)$, with wavelengths $\lambda_x$ and $\lambda_y$.
 We can impose the Bohr-de Broglie condition in each direction
 independently, so
 
@@ -409,8 +420,8 @@ $$
 p^2 = p_x^2 + p_y^2.
 $$
 
-You can then use the de Broglie relation $\lambda_x = 2\pi\hbar/p_x$, $\lambda_y = 2\pi\hbar/p_y$
-in each direction separately to obtain
+Finally, the de Broglie relation in each directions gives $\lambda_x =
+2\pi\hbar/p_x$, $\lambda_y = 2\pi\hbar/p_y$, and hence
 
 $$
 E_{n_x, n_y} = \frac{p^2}{2m_e} = \frac{p_x^2 + p_y^2}{2m_e} =
@@ -424,17 +435,21 @@ $$
 p^2 = \left(\frac{2\pi\hbar}{L}\right)^2 |\vec{n}|^2.
 $$
 
-This relation actually holds for *any* number of dimensions.
-For instance, on a *cube* of side length $L$, with periodic boundary
-conditions, we have energy levels
+We can perform exactly the same trick for even more circles.
+In particular, to get a three-dimensional example, we want to consider
+a product of three circles.
+We can view this as a *cube* of side length $L$ with periodic boundary
+conditions, or alternatively, a three-dimensional donut.
+The energy levels are exactly the same, with
 
 $$
-E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
+E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2,
 $$
 
-for $\vec{n} = (n_x, n_y, n_z)$.
-We give some ways to visualise the periodic cube, or
-*three-dimensional donut*, in the <a href="#sec-A">appendix below</a>.
+but now $\vec{n} = (n_x, n_y, n_z)$.
+While a box is easy to draw, a three-dimensional donut is a bit
+harder.
+We boldly make an attempt below.
 
 ---
 
@@ -850,5 +865,3 @@ $$
 Thus, our naive guess is only $30\%$ off the best known bound on the
 maximum mass of a neutron star!
 In the land of order-of-magnitude approximation, this is very close.
-
-### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
