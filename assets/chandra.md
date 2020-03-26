@@ -675,7 +675,7 @@ and other details, but we can make an order-of-magnitude estimate from
 dimensional analysis.
 In Newton's law, we set both masses equal to $M$, since the white
 dwarf is both doing the pulling and experiencing the pull.
-Similarly, the only length scale in the problem is the radius, $R$, so
+Similarly, the only length scale in the problem is the radius $R$, so
 we guess
 
 $$
