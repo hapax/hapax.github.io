@@ -669,8 +669,7 @@ $$
 where $M,m$ are separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
 
 Consider a spherical white dwarf of mass $M$ and radius $R$.
-We now want to ask: what gravitational force does this exert on
-itself?
+What gravitational force does this exert on itself?
 Obviously a precise answer will depend on the composition of the dwarf
 and other details, but we can make an order-of-magnitude guess from
 dimensional analysis.
