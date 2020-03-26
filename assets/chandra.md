@@ -249,10 +249,10 @@ levels.
 But the calculation only works for a *single* electron.
 Once we start adding more, the electrons repel, and things become
 dramatically more complicated.
-In other words, an atomic is not a Fermi gas!
+In other words, an atom is not a Fermi gas!
 Rather than trying to derive chemistry from first principle, we will
-ignore all these difficulties, and adapt the Bohr model into something
-we can use.
+ignore all these difficulties, and revamp the Bohr model into something
+easier to use.
 
 One complication of the Bohr model was the exists of different radii.
 Instead, we are going to fix a *single* orbit, of circumference $L =
