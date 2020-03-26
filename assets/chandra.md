@@ -751,6 +751,11 @@ M_\text{box} \sim M_C \left(\frac{m_p}{m_e}\right)^2 \approx 5 \times
 10^7 \, M_\odot.
 $$
 
+<span style="padding-left: 20px; display:block">
+This is so ridiculously heavy that it would form a *supermassive black hole*, like the ones found at
+the centre of the Milky Way and other galaxies.
+</span>
+
 <p align="center">
   ⁂
   </p>
