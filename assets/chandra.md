@@ -254,7 +254,7 @@ Rather than trying to derive chemistry from first principle, we will
 ignore all these difficulties, and revamp the Bohr model into something
 easier to use.
 
-One complication of the Bohr model was the exists of different radii.
+One complication in hydrogen is the existence of different radii.
 Instead, we are going to fix a *single* orbit, of circumference $L =
 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
