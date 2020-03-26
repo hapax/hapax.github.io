@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Electrons, donuts and white dwarfs"
+title:  "Electrons in a box and white dwarfs"
 categories: [Physics, Hacks]
 date:  2020-03-26
 ---
