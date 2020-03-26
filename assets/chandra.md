@@ -58,7 +58,7 @@ Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of remnant stars called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
-who first calculated it in 1931.
+who first derived it in 1931.
 The analysis combines the gravity governing the solar
 system with the quantisation governing the atom, though a remnant star
 is simpler than both.
