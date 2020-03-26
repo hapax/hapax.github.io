@@ -880,7 +880,8 @@ The Pauli exclusion principle stops the white dwarf from collapsing
 under its own weight.
 But at the Chandrasekhar limit, gravity wins, and the white dwarf
 implodes to form a black hole.
-The limit is also remarkably close to the best known bounds on neutron star mass, given that we ignored strong repulsion
+The limit is also remarkably close to the best known bounds on neutron
+star mass, given that we ignored the strong force repulsion
 between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
