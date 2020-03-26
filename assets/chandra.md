@@ -698,9 +698,8 @@ $$
 P_F \sim \hbar c \left(\frac{N}{V}\right)^{4/3} \sim \hbar c \cdot \frac{(M/m_p)^{4/3}}{R^4}.
 $$
 
-Let's now set this equal to the gravitational self-pressure,
-$P_\text{grav} = P_F$.
-This implies
+Let's set this equal to the gravitational self-pressure,
+$P_\text{grav} = P_F$, and solve for the mass:
 
 $$
 \begin{align*}
