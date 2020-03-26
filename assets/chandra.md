@@ -828,8 +828,8 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-This is very dense: a single cubic metre weighs the same as the Empire
-State Building.
+This is very dense: a single cubic metre weighs as much as five Empire
+State Buildings!
 </span>
 
 <!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6.4*10^6)^6 -->
