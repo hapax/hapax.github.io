@@ -838,6 +838,7 @@ $$
 
 Thus, our naive guess is only $30\%$ off the best known bound on the
 maximum mass of a neutron star!
+In the land of order-of-magnitude approximation, this is very close.
 
 ## 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
