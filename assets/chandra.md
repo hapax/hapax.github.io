@@ -20,7 +20,7 @@ date:  2020-03-26
    2. <a href="#sec-2-2">Electrons on a circle</a>
    3. <a href="#sec-2-3">Electrons on a donut</a>
    3. <a href="#sec-2-4">The Fermi sea</a>
-3. <a href="#sec-3">Light and gravity</a>
+3. <a href="#sec-3">Adding gravity</a>
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
@@ -520,7 +520,7 @@ $$
 
 ---
 
-## 3. Light and gravity <a id="sec-3" name="sec-3"></a>
+## 3. Adding gravity <a id="sec-3" name="sec-3"></a>
 
 We're almost ready to perform our thought experiment of throwing
 electrons into a box until we make a black hole.
