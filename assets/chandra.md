@@ -49,9 +49,7 @@ In contrast, atoms obey quantum mechanics, and the orbits are
 *quantised*, occuring only at certain allowed values.
 Quantisation has deep consequences for atomic structure,
 hence chemistry, hence life itself.
-We're made out of exploded stars, sure, but we're also made from
-quantum mechanics!
-Biology is quantum mechanics writ large.
+We're made out of exploded stars, sure, but biology is quantum mechanics writ large.
 
 Quantisation not only governs the heavy elements ejected
 from stars, but the compact remnants left behind.
