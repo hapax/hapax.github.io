@@ -158,9 +158,9 @@ pr = n\hbar \quad \Longrightarrow \quad \lambda_n = \frac{2\pi r}{n},
 \quad n = 1, 2, 3, \ldots.
 $$
 
-This has a lovely interpretation: the allowed orbits are those for
-which the matter wave is *periodic*, meeting up with itself after $n$
-periods.
+This has a lovely interpretation: since $2\pi r$ is just the
+circumference of the circle, the allowed orbits are those for which
+the matter wave is *periodic*, meeting up with itself after $n$ periods.
 
 To connect to our "hotel" model of quantum mechanics, we need to find
 the energy levels of the hydrogen atom.
