@@ -659,8 +659,7 @@ You can check the claim about density in Exercise 8.
 We're finally ready to calculate the mass of the largest white dwarfs,
 called the *Chandrasekhar limit*.
 Our goal will be to calculate the "self-pressure" on the white dwarf
-due to gravity, and compare to the degeneracy pressure we calculated
-<a href="#sec-3-1">above</a>.
+due to gravity, and compare to the degeneracy pressure.
 Recall Newton's law of gravitation,
 
 $$
