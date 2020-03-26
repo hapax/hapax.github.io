@@ -782,7 +782,7 @@ the centre of the Milky Way and other galaxies.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Calculate $N_\text{box}$, the number of electrons in a box of mass $M_\text{box}$.
+(b) Calculate $N_\text{box}$, the number of electrons in the box.
 </span> 
 
 <p align="center">
