@@ -26,7 +26,7 @@ date:  2020-03-26
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
 4. <a href="#sec-4">Conclusion</a>
 
-## Introduction <a id="sec-1" name="sec-1"></a>
+## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 *Prerequisites: high school gravity and quantum mechanics.*
 
@@ -73,7 +73,7 @@ What is intelligible is also beautiful.
 While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its simplicity.
 
-## Fermi gas<a id="sec-2" name="sec-2"></a>
+## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
 We're going to consider a simple caricature of quantum
 mechanics, given by three rules:
@@ -114,7 +114,7 @@ If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
 Our three rules thus describe a *zero temperature Fermi gas*.
 
-### Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
 
 We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
@@ -247,7 +247,7 @@ $$
 
 ---
 
-### Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
 
 Bohr's model is a useful illustration of how to calculate energy
 levels.
@@ -348,7 +348,7 @@ $$
 
 ---
 
-### Electrons on a donut <a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. Electrons on a donut <a id="sec-2-3" name="sec-2-3"></a>
 
 We live in a three-dimensional world.
 When you add more than one electron to an atom, they not only
@@ -447,7 +447,7 @@ We give some ways to visualise the periodic cube, or
 
 ---
 
-### The Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
+### 2.4. The Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
 
 As Exercise 3 demonstrates, finding energy levels on the donut takes
 some work, even though it is vastly simpler than the atom.
@@ -522,14 +522,14 @@ $$
 
 ---
 
-## Light and gravity <a id="sec-3" name="sec-3"></a>
+## 3. Light and gravity <a id="sec-3" name="sec-3"></a>
 
 We're almost ready to perform our thought experiment of throwing
 electrons into a box until we make a black hole.
 But to apply our Fermi gas model to old stars, we need to tinker a
 little with the energy, and learn some facts about light and gravity.
 
-### Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
+### 3.1. Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
 
 Gravity is very strong in stars, particularly old stars which have
 shed their outer layers and contracted to form a dense core.
@@ -575,7 +575,7 @@ $$
 
 ---
 
-### White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
+### 3.2. White dwarfs and neutron stars<a id="sec-3-2" name="sec-3-2"></a>
 
 Above, I referred mysteriously to various "stellar leftovers".
 Let's discuss the life cycle of old stars, and see how the different
@@ -656,7 +656,7 @@ You can check the claim about density in Exercise 8.
 
 ---
 
-### The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
+### 3.3. The Chandrasekhar limit<a id="sec-3-3" name="sec-3-3"></a>
 
 We're finally ready to calculate the mass of the largest white dwarfs,
 called the *Chandrasekhar limit*.
@@ -842,10 +842,6 @@ $$
 Thus, our naive guess for an upper bound on the size of a neutron star
 is still reasonably close to the best known bound!
 
-## Conclusion <a id="sec-4" name="sec-4"></a>
+## 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
-
-
-
-### References
