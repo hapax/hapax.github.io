@@ -611,6 +611,7 @@ There are three possible endpoints:
 - *White dwarf.* If the star weighs less than $10$ suns ($M < 10
   M_\odot$), it will contract until the degeneracy pressure of the
   electrons in unspent nuclear fuel stops the collapse.
+  This is the fate of most stars in the universe.
 - *Neutron star.* If the star is between $10$ and $30$ solar masses
   ($10 M_\odot < M  < 30 M_\odot$), electron degeneracy pressure is not
   enough, and a more desparate gambit is required. Electrons and
@@ -883,6 +884,8 @@ between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
 it to learn something deep and non-trivial about the death of stars.
+But much of the beauty of physics comes from simple ideas with
+incredible power.
 In the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
