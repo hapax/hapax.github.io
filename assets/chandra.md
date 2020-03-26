@@ -740,20 +740,16 @@ We've done remarkably well!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Now imagine that instead of a white dwarf, we are just putting
-electrons into a box.
-Argue that the maximum mass of a box of electrons, $M_\text{box}$, is
+(b) Let's solve our earlier problem of how many electrons we can plonk
+into a box before it forms a black hole.
+Argue that, if the electrons are ultrarelativistic, the box of
+electrons will collapse at a mass
 </span>
 
 $$
 M_\text{box} \sim M_C \left(\frac{m_p}{m_e}\right)^2 \approx 5 \times
 10^7 \, M_\odot.
 $$
-
-<span style="padding-left: 20px; display:block">
-Because electrons are much light, you can make the box a million times
-heavier before it collapses!
-</span>
 
 <p align="center">
   ⁂
