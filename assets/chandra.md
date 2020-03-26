@@ -849,6 +849,7 @@ $$
 
 once more, since a neutron has almost the same mass as a proton, $m_n
 \approx m_p$.
+It seems like the Chandrasekhar limit should also apply to neutron stars.
 
 But there is a subtlety we did not include: the strong nuclear repulsion
 between neutrons.
