@@ -885,7 +885,8 @@ star mass, given that we ignored the strong force repulsion
 between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
-it to learn something deep and non-trivial about the death of stars.
+it to learn something deep and non-trivial about the fate of most
+stars in the universe.
 This is a big part of the aesthetic appeal of physics: simple ideas with
 incredible power.
 In the words of Chandra himself,
@@ -894,6 +895,6 @@ In the words of Chandra himself,
 What is intelligible is also beautiful.
 </span>
 
-While the star's ejecta may go on to form life, remarkable for its
+While a star's ejecta may go on to form life, remarkable for its
 complexity, what is left behind is beautiful by virtue of its
 simplicity.
