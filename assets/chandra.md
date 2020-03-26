@@ -77,7 +77,7 @@ Even when the gas is at zero temperature, quantum effects lead to an
 effective temperature, and hence to an effective *degeneracy pressure*.
 We can cheekily use the circle to understand non-interacting electrons
 in three dmensions, giving us a simple model of degeneracy pressure in stellar cores.
-The Chandraskhar limit results from balancing degeneracy against gravity.
+The Chandraskhar limit is the point that gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
 
