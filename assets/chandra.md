@@ -767,10 +767,10 @@ We've done remarkably well!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Let's solve our earlier problem of how many electrons we can plonk
-into a box before it forms a black hole.
+(b) Let's finally solve the problem of how many electrons you can
+plonk into a box before it forms a black hole.
 Argue that, if the electrons are ultrarelativistic, the box of
-electrons will collapse at a mass
+electrons will collapse once the mass reaches
 </span>
 
 $$
