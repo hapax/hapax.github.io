@@ -293,9 +293,10 @@ $$
 
 where $k_B$ is *Boltzmann's constant*.
 This suggests that, even though our Fermi gas is supposed to be at
-zero temperature, there is some "effective temperature" due to quantum
+zero temperature, there is an "effective temperature" due to quantum
 effects.
-For lack of imagination, we call this the *Fermi temperature*, defined by
+For lack of imagination, we call this the *Fermi temperature*, and
+define it by
 
 $$
 T_F = \frac{E_F}{k_B}.
