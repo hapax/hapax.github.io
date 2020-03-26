@@ -77,9 +77,8 @@ Even when the gas is at zero temperature, quantum effects lead to an
 effective temperature, and hence to an effective *degeneracy pressure*.
 We can generalise our analysis to non-interacting electrons on a
 donut, and use this to model degeneracy pressure in stellar cores.
-We find the Chandraskhar limit by balancing degeneracy pressure
-against gravity.
-As a bonus, we can determine the relation between white dwarf mass and
+The Chandraskhar limit results from balancing degeneracy against gravity.
+As a bonus, we also find the relation between white dwarf mass and
 radius.
 
 *Prerequisites.* The prerequisites are modest. We'll use basic
@@ -877,3 +876,4 @@ bound on the maximum size of a neutron star.
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
+The 
