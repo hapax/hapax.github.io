@@ -881,7 +881,8 @@ maximum size of a neutron star, given that we ignored strong repulsion
 between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
-it to learn something deep and non-trivial about the death of stars.
+it to learn something deep and non-trivial about the life and death of
+stars.
 In the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
