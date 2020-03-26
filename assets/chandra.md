@@ -671,7 +671,7 @@ where $M,m$ are separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{
 Consider a spherical white dwarf of mass $M$ and radius $R$.
 What gravitational force does this exert on itself?
 Obviously a precise answer will depend on the composition of the dwarf
-and other details, but we can make an order-of-magnitude guess from
+and other details, but we can make an order-of-magnitude estimate from
 dimensional analysis.
 In Newton's law, we set both masses equal to $M$, since the white
 dwarf is both doing the pulling and experiencing the pull.
