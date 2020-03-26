@@ -547,8 +547,8 @@ $$
 
 We're almost ready to perform our thought experiment of throwing
 electrons into a box until we make a black hole.
-But to apply our Fermi gas model to old stars, we need to tinker a
-little with the energy, and learn some astrophysics.
+But to apply our Fermi gas model to old stars, we need to tinker with
+the energy, and learn a little astrophysics.
 
 ### 3.1. Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
 
