@@ -314,8 +314,8 @@ $$
 P_F \sim \frac{N E_F}{L}.
 $$
 
-We haven't defined $P_F$ carefully, and $\sim$ means there is a number
-out front we are neglecting.
+We haven't defined $P_F$ carefully, and this expression is only true
+to an order of magnitude, as indicated by the $\sim$ symbol.
 
 ---
 
