@@ -269,8 +269,8 @@ $$
 E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
 $$
 
-There is no proton in this problem now, since that was only necessary
-to figure out $r_n$, and we have fixed that by fiat.
+There is no proton in this problem now, since the only role that
+played earlier was determining $r_n$, and we have fixed $r$ by fiat.
 This also lets us get rid of the minus sign we found in Exercise 1,
 since that corresponded to the electron being *bound*.
 Now, the electron lives on a circle by definition.
