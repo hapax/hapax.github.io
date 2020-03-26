@@ -115,7 +115,7 @@ We'll start by recalling Bohr's model of hydrogen and the role played
 by quantisation.
 Bohr thought of the nucleus as a big, immovable positive charge, and
 the electron as a tiny orbiting negative charge.
-To explain why hydrogen emitted and absorbed only certain colours of
+To explain why hydrogen emits and absorbs only certain colours of
 light, Bohr postulated that only certain orbits were allowed,
 satisfying the *quantisation of angular momentum*:
 
