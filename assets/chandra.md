@@ -169,7 +169,9 @@ $$
 
 This has a lovely interpretation: since $2\pi r$ is just the
 circumference of the circle, the allowed orbits are those for which
-the matter wave is *periodic*, meeting up with itself after $n$ periods.
+the matter wave is *periodic*, meeting up with itself after $n$
+periods.
+The matter wave "fits".
 
 To connect to our "hotel" model of quantum mechanics, we need to find
 the energy levels of the hydrogen atom.
