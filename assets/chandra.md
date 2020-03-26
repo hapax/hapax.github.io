@@ -72,7 +72,9 @@ The Chandraskhar limit is the point that gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
 
-*Prerequisites.* We'll need basic Newtonian mechanics (kinetic energy and momentum), the law of
+*Prerequisites.* This post is aimed at high school students with an
+interest and background in physics.
+We'll need basic Newtonian mechanics (kinetic energy and momentum), the law of
 gravitation, some "old school" quantum mechanics (the Bohr model and
 de Broglie wavelength), and a little special relativity.
 Mathematically, apart from high school algebra and geometry, we assume
