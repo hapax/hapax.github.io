@@ -174,7 +174,7 @@ periods.
 The matter wave "fits".
 
 To connect to our "hotel" model of quantum mechanics, we need to find
-the energy levels of the hydrogen atom.
+the energy levels for the electron.
 First, we can express kinetic energy in terms of momentum, hence in
 terms of de Broglie wavelength:
 
