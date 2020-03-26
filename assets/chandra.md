@@ -70,13 +70,13 @@ While the star's ejecta may go on to form life --- remarkable for its
 complexity -- what is left behind is beautiful by virtue of its
 simplicity.
 
-*Outline.* We will start with Bohr's model of the hydrogen atom and the
+*Outline.* We'll start with Bohr's model of the hydrogen atom and the
 quantisation of orbits, and then apply these ideas to a *Fermi gas* of
 non-interacting electrons on a circle.
 Even when the gas is at zero temperature, quantum effects lead to an
 effective temperature, and hence to an effective *degeneracy pressure*.
-We can generalise our analysis to non-interacting electrons on a
-donut, and use this to model degeneracy pressure in stellar cores.
+We can cheekily use the circle to understand non-interacting electrons
+in three dmensions, giving us a simple model of degeneracy pressure in stellar cores.
 The Chandraskhar limit results from balancing degeneracy against gravity.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
@@ -876,4 +876,5 @@ bound on the maximum size of a neutron star.
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
-The 
+If we take Bohr's model of the atom, and strip away the complexities,
+we end up with a quantum gas on the circle.
