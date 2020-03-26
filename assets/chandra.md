@@ -690,11 +690,6 @@ $$
 P_\text{grav} \sim \frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4}.
 $$
 
-The maximum mass of a neutron star can be obtained by balancing the
-gravitational and neutron degeneracy pressure.
-Increase the mass, and gravity inevitably wins, forcing the star to
-collapse into a black hole!
-
 Finally, we can calculate the Chandrasekhar limit.
 The mass of a white dwarf is mostly protons, with $M = Nm_p$, while $V \sim R^3$.
 Thus, we can write the degeneracy pressure as
