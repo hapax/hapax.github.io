@@ -857,15 +857,13 @@ This repulsion is poorly understood and difficult to model, but the
 analogue of the Chandrasekhar limit for neutron stars
 is called the [Tolman-Oppenheimer-Volkoff (TOV) limit](https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit),
 mainly based on numerical simulations.
-These simulations suggest that nuclear repulsion is roughly
-the same size as neutron degeneracy, with
+These simulations suggest that nuclear repulsion is comparable in
+strength to neutron degeneracy, with
 
 $$
 M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
-Thus, our naive guess is only $30\%$ off the best known bound on the
-maximum mass of a neutron star!
-In the land of order-of-magnitude approximation, this is very close.
+Our naive guess is only off by $30\%$!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
