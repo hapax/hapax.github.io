@@ -50,9 +50,9 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is quantum mechanics writ large.
 
 Quantisation not only governs the heavy elements ejected
-from stars, but also the compact remnants --- called *white dwarfs*,
-for suitably light stars --- left behind.
-Surprisingly, we can model these old stars by throwing electrons into a box.
+from stars, but also the compact remnants left behind.
+For most stars, the remnant is called a *white dwarf*, and
+to good approximation we can model it by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
