@@ -594,8 +594,9 @@ There are three possible endpoints of stellar evolution:
   protons combine to make neutrons, and neutron degeneracy pressure plus
   repulsion due to the [strong nuclear force](https://en.wikipedia.org/wiki/Strong_interaction)
   arrests gravitational collapse.
-- *Black holes.* If the star is heavier than $30$ suns ($30 M_\odot < M$), nothing can arrest the collapse, and the star forms a
-black hole.
+- *Black holes.* If the star is heavier than $30$ suns ($30 M_\odot <
+  M$), nothing can resist gravity, and it ineluctably collapses to
+  form a black hole.
 
 White dwarfs are simpler, so we'll focus on these.
 The core is electrically neutral, consisting of $N$ electrons and $N$
