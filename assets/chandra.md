@@ -886,7 +886,7 @@ between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
 it to learn something deep and non-trivial about the death of stars.
-Much of the beauty of physics comes from simple ideas with
+This is part of the aesthetics of physics: simple ideas with
 incredible power.
 In the words of Chandra himself,
 
