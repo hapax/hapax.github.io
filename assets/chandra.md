@@ -521,18 +521,17 @@ $$
 We're almost ready to perform our thought experiment of throwing
 electrons into a box until we make a black hole.
 But to apply our Fermi gas model to old stars, we need to tinker a
-little with the energy, and learn some facts about light and gravity.
+little with the energy.
 
 ### 3.1. Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
 
-Gravity is very strong in stars, particularly old stars which have
+The gravitational force is strong with stars, particularly old stars which have
 shed their outer layers and contracted to form a dense core.
 This means particles are zipping around at close to the speed of
-light, and the earlier, classical form of kinetic energy we used is no
+light, and the earlier, Newtonian form of kinetic energy we used is no
 longer accurate.
-Einstein's famous formula $E = mc^2$ is subtle, concealing the fact
-$m$ actually *changes* with velocity.
-It is sometimes more helpful to write his equation in the form
+Einstein's famous equation $E = mc^2$ can be written in the slightly
+more transparent form
 
 $$
 E^2 = (m_\text{rest} c^2)^2 + p^2 c^2,
@@ -540,7 +539,7 @@ $$
 
 where $p^2 = |\vec{p}|^2$ is the momentum squared as usual, and
 $m_\text{rest}$ is the mass of the particle at rest.
-Particles in an old star usually have much more momentum than mass energy, so
+Particles in an old star usually have much more momentum than rest mass, so
 the kinetic energy takes the *ultrarelativistic form*:
 
 $$
