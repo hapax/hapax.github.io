@@ -885,8 +885,7 @@ star mass, given that we ignored the strong force repulsion
 between neutrons.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
-it to learn something deep and non-trivial about the fate of most
-stars in the universe.
+it to learn something deep about the fate of most stars in the universe.
 This is a big part of the aesthetic appeal of physics: simple ideas with
 incredible power.
 In the words of Chandra himself,
