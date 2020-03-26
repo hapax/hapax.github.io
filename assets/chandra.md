@@ -24,6 +24,7 @@ date:  2020-03-26
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
+4. <a href="#sec-4">Conclusion</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -840,6 +841,8 @@ $$
 
 Thus, our naive guess for an upper bound on the size of a neutron star
 is still reasonably close to the best known bound!
+
+## Conclusion <a id="sec-4" name="sec-4"></a>
 
 ### A. Donuts and boxes <a id="sec-A" name="sec-A"></a>
 
