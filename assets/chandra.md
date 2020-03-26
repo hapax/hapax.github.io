@@ -86,7 +86,6 @@ a hotel with rooms costing $E_1\leq E_2 \leq \cdots$.
 Particles travel alone, and stay by themselves.
 Finally, particles are cheap, looking for the most affordable room the
 hotel can offer.
-
 None of these rules is true in general, so let's spell out our assumptions.
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
