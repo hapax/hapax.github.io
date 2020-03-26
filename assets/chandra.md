@@ -737,14 +737,15 @@ $$
 \end{align*}
 $$
 
-Raising both sides to the power $3/2$, we obtain:
+Raising both sides to the power $3/2$, we obtain Chandraskehar's famous limit:
 
 $$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
 $$
 
-This is Chandraskehar's famous result, which helped him earn the 1983
-Nobel Prize in Physics.
+In 1983, Chandra won the
+[Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/1983/summary/),
+largely for his work on white dwarfs.
 
 ---
 
