@@ -76,8 +76,8 @@ complexity -- what is left behind is beautiful by virtue of its simplicity.
 We're going to consider a simple caricature of quantum
 mechanics, given by three rules:
 
-1. There is a fixed set of allowed energies, $E_1 \leq E _2 \leq E_3 \leq
-   \cdots$.
+1. There is a set of allowed energies, $E_1 \leq E _2 \leq E_3 \leq
+   \cdots$, a particle can have.
 2. Only one particle can occupy an energy level at a time.
 3. If we add particles, they occupy the lowest available energy level.
 
