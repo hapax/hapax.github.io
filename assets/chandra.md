@@ -97,7 +97,7 @@ This holds for electrons, but in fact, a much larger class of
 particles called *fermions*, including neutrons and protons.
 There is a second class of particles called *bosons* ---
 including photons --- which do not obey the Pauli exclusion principle,
-and will happily pack as many as possible into a hotel room!
+and will happily crowd into a hotel room!
 So, our model describes a quantum gas of fermionic particles, also
 called a *Fermi gas*.
 
