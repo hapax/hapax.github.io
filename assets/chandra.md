@@ -876,8 +876,8 @@ the complexities of different orbits and interacting electrons, we end
 up with a *single* orbit on which we can put as many electrons as we like.
 Doing this three times gives a surprisingly good model of a white
 dwarf!
-The Pauli exclusion principle stops the white dwarf from shrinking
-under its own gravity.
+The Pauli exclusion principle stops the white dwarf from collapsing
+under its own weight.
 But at the Chandrasekhar limit, gravity wins, and the white dwarf
 implodes to form a black hole.
 The limit is also remarkably close to the best known bounds on neutron star mass, given that we ignored strong repulsion
