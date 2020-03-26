@@ -823,8 +823,8 @@ $$
 once more, since a neutron has almost the same mass as a proton, $m_n
 \approx m_p$.
 
-But there is a subtlety we did not include: an additional repulsion
-between neutrons because of the strong nuclear force.
+But there is a subtlety we did not include: the strong nuclear repulsion
+between neutrons.
 This repulsion is poorly understood and difficult to model, but the
 analogue of the Chandrasekhar limit for neutron stars
 is called the [Tolman-Oppenheimer-Volkoff (TOV) limit](https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit),
@@ -836,8 +836,8 @@ $$
 M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
-Thus, our naive guess for an upper bound on the size of a neutron star
-is still reasonably close to the best known bound!
+Thus, our naive guess is only $30\%$ off the best known bound on the
+maximum mass of a neutron star!
 
 ## 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
