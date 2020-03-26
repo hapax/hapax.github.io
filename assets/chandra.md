@@ -875,5 +875,9 @@ bound on the maximum size of a neutron star!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
-If we take Bohr's model of the atom, and strip away the complexities,
-we end up with a quantum gas on the circle.
+If we take Bohr's model of the atom, and strip away the complexities
+of different orbits, we end up with a *single* orbit on which we can
+put as many electrons as we like, provided they have different
+wavelengths.
+Doing this on three separate circles, we get a surprisingly good model
+of old stars!
