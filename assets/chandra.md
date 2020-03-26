@@ -75,8 +75,8 @@ radius.
 *Prerequisites.* We'll need basic Newtonian mechanics (kinetic energy and momentum), the law of
 gravitation, some "old school" quantum mechanics (the Bohr model and
 de Broglie wavelength), and a little special relativity.
-Mathematically, in addition to high school algebra and geometry, we
-assume a little familiarity with vectors.
+Mathematically, apart from high school algebra and geometry, we assume
+familiarity with vectors and how to calculate their lengths.
 
 ## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
