@@ -65,7 +65,7 @@ quantisation of orbits, and then apply these ideas to a *Fermi gas* of
 non-interacting electrons on a circle.
 Even when the gas is at zero temperature, the Pauli exclusion
 principle creates an effective repulsion called *degeneracy pressure*.
-If we stable three circles together, we get a simple but accurate
+Stapling three circles together, we get a simple but accurate
 model of degeneracy pressure in stellar cores.
 The Chandraskhar limit is the point that gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
@@ -879,7 +879,8 @@ implodes and becomes a black hole.
 The limit is also remarkably close to the best known bounds on the
 maximum size of a neutron star, given that we ignored strong interactions.
 
-
+It's amazing to me that we can make something *simpler* than a
+hydrogen atom, and 
 In the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
