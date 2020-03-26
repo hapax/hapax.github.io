@@ -877,7 +877,9 @@ bound on the maximum size of a neutron star!
 
 If we take Bohr's model of the atom, and strip away the complexities
 of different orbits, we end up with a *single* orbit on which we can
-put as many electrons as we like, provided they have different
-wavelengths.
-Doing this on three separate circles, we get a surprisingly good model
-of old stars!
+put as many electrons as we like.
+Doing this three times gives a surprisingly good model of a white
+dwarf!
+The Pauli exclusion principle repels electrons from each other, but at
+some point, gravity is strong enough to overcome this repulsion.
+The Chandrasekhar limit is the point at which this happens.
