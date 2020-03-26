@@ -24,6 +24,7 @@ date:  2020-03-26
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
+4. <a href="#sec-4">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -865,3 +866,5 @@ $$
 Thus, our naive guess is only $30\%$ off the best known bound on the
 maximum mass of a neutron star!
 In the land of order-of-magnitude approximation, this is very close.
+
+## 4. Conclusion<a id="sec-4" name="sec-4"></a>
