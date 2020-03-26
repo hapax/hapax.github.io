@@ -492,7 +492,7 @@ This disk is called the *Fermi sea*.
 The maximum length of a vector in the Fermi sea is $|\vec{n}|^2 \approx
 n_F^2$, and the disk contains all vectors of smaller length as well.
 Electrons added to the system will find the shortest available vector,
-and hence, fill out the disk radially.
+filling out the disk radially.
 
 From the Fermi sea picture, we learn that for large $N$, the Fermi energy is
 
