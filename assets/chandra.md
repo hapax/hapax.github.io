@@ -94,8 +94,7 @@ particles, so our hotel describes a *quantum gas*.
 
 The second rule is the *Pauli exclusion principle*.
 This holds for electrons, but in fact, a much larger class of
-particles called *fermions*, including neutrons, protons and quarks,
-i.e. the constituents of matter.
+particles called *fermions*, including neutrons and protons.
 There is a second class of particles called *bosons* ---
 including photons --- which do not obey the Pauli exclusion principle,
 and will happily pack as many as possible into a hotel room!
