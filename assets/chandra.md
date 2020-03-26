@@ -826,7 +826,7 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-This is very dense! A single cubic metre weighs the same as the Empire
+This is very dense: a single cubic metre weighs the same as the Empire
 State Building.
 </span>
 
