@@ -50,16 +50,15 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is quantum mechanics writ large.
 
 Quantisation not only governs the heavy elements ejected
-from stars, but the compact remnants left behind.
-Surprisingly, we can model these leftovers by throwing electrons into a box.
+from stars, but the compact remnants --- called *white dwarfs* --- left behind.
+Surprisingly, we can model white dwarfs by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis, we can obtain an order-of-magnitude
-bound on the mass of remnant stars called the *Chandrasekhar limit*, after
+bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
 who first derived it in 1931.
 The analysis combines the gravity governing the solar
-system with the quantisation governing the atom, though as we will
-see, a remnant star is simpler than both.
+system with the quantisation governing the atom, though a white dwarf is simpler than both.
 
 *Outline.* We'll start with Bohr's model of the hydrogen atom and the
 quantisation of orbits, and then apply these ideas to a *Fermi gas* of
