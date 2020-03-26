@@ -28,8 +28,6 @@ date:  2020-03-26
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-*Prerequisites: high school gravity and quantum mechanics.*
-
 Though they differ in size by many orders of magnitude, the solar
 system and the atom are not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
@@ -81,7 +79,15 @@ We can generalise our analysis to non-interacting electrons on a
 donut, and use this to model degeneracy pressure in stellar cores.
 We find the Chandraskhar limit by balancing degeneracy pressure
 against gravity.
-As a bonus, we can determine the relation between white dwarf mass and radius.
+As a bonus, we can determine the relation between white dwarf mass and
+radius.
+
+*Prerequisites.* The prerequisites are modest. We'll use basic
+Newtonian mechanics (kinetic energy and momentum), the law of
+gravitation, some "old school" quantum mechanics (the Bohr model and
+de Broglie wavelength), and a little special relativity.
+Mathematically, in addition to high school algebra and geometry, we
+assume a little familiarity with vectors.
 
 ## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
@@ -866,6 +872,8 @@ $$
 M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
-Our naive guess is only off by $30\%$!
+Somewhat luckily, our naive guess gives an accurate order-of-magnitude
+bound on the maximum size of a neutron star.
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
+
