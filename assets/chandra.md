@@ -169,7 +169,7 @@ terms of de Broglie wavelength:
 
 $$
 E_n = \frac{1}{2}m_e v^2 = \frac{(m_ev)^2}{2m_e} = \frac{p^2}{2m_e} =
-\frac{4\pi^2 \hbar^2 n^2}{2m_e (2\pi r_n)^2}.
+\frac{2\pi^2 \hbar^2 n^2}{m_e (2\pi r_n)^2}.
 $$
 
 We still don't know the radius of the orbit $r_n$, and we won't need
