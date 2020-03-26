@@ -884,3 +884,8 @@ The Pauli exclusion principle repels electrons from each other and
 stops the white dwarf from collapsing under its own gravity.
 But at the Chandrasekhar limit, gravity wins, and the white dwarf
 turns into a black hole.
+The limit is also remarkably close to the best known bounds on the
+maximum size of neutron stars, given that we have ignored the physics
+of strong interactions.
+
+It's remarkable
