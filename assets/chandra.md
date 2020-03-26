@@ -543,7 +543,7 @@ Particles in an old star usually have much more momentum than rest mass, so
 the kinetic energy takes the *ultrarelativistic form*:
 
 $$
-E \approx |\vec{p}|c.
+E^2 \approx p^2 c^2  \quad \Longrightarrow \quad E \approx |\vec{p}|c.
 $$
 
 All the business about Bohr-de Broglie quantisation remains unchanged,
