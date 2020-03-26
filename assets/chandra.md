@@ -748,28 +748,26 @@ largely for his work on white dwarfs.
 
 ---
 
-**Exercise 7.** Let's plug in some numbers and see what happens.
-
-<span style="padding-left: 20px; display:block">
-(a)
-Evaluate $M_C$ numerically and compare to the mass of the sun. You
+**Exercise 7.** Evaluate $M_C$ numerically and compare to the mass of the sun. You
 should find
-</span>
 
 $$
 M_C \sim\, 1.7 M_\odot.
 $$
 
-<span style="padding-left: 20px; display:block">
 The state-of-the-art limit, incorporating details about the white
 dwarf's composition and structure, is $ M_C \approx 1.44 \,M_\odot$.
 We've done remarkably well!
-</span>
+
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 8.** Let's finally solve the problem of how many electrons you can
+plonk into a box before it forms a black hole.
 
 <span style="padding-left: 20px; display:block">
-(b) Let's finally solve the problem of how many electrons you can
-plonk into a box before it forms a black hole.
-Argue that, if the electrons are ultrarelativistic, the box of
+(a) Argue that, if the electrons are ultrarelativistic, the box of
 electrons will collapse once the mass reaches
 </span>
 
@@ -783,11 +781,15 @@ This is so ridiculously heavy that it would form a *supermassive black hole*, li
 the centre of the Milky Way and other galaxies.
 </span>
 
+<span style="padding-left: 20px; display:block">
+(b) Calculate $N_\text{box}$, the number of electrons in a box of mass $M_\text{box}$.
+</span> 
+
 <p align="center">
   ⁂
   </p>
 
-**Exercise 8.** Let's repeat our pressure-balancing argument with the
+**Exercise 9.** Let's repeat our pressure-balancing argument with the
 non-relativistic Fermi gas.
 This is appropriate to smaller and less gravitationally extreme white dwarfs.
 
