@@ -704,20 +704,20 @@ $P_\text{grav} = P_F$, and solve for the mass:
 $$
 \begin{align*}
 \frac{F_\text{grav}}{A} \sim \frac{GM^2}{R^4} & \sim \hbar c
-\left(\frac{(M/m_p)^{4/3}}{R^4}\right) \\
+\cdot \frac{(M/m_p)^{4/3}}{R^4} \\
 \Longrightarrow \quad M^{2-4/3} = M^{2/3}& \sim \frac{\hbar c}{G}
 \frac{1}{m_p^{4/3}}.
 \end{align*}
 $$
 
-Raising both sides to the power $3/2$, we obtain the Chandrasekhar limit on the
-maximum mass of a white dwarf:
+Raising both sides to the power $3/2$, we obtain:
 
 $$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
 $$
 
-You can immediately
+This is Chandraskehar's famous result, which helped him earn the 1983
+Nobel Prize in Physics.
 
 ---
 
