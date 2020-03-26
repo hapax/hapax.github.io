@@ -726,18 +726,43 @@ $$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
 $$
 
+You can immediately
+
 ---
 
-**Exercise 7.**  Evaluate $M_C$ numerically and compare to the mass of the sun. You
+**Exercise 7.** Let's plug in some numbers and see what happens.
+
+<span style="padding-left: 20px; display:block">
+(a)
+Evaluate $M_C$ numerically and compare to the mass of the sun. You
 should find
+</span>
 
 $$
 M_C \sim\, 1.7 M_\odot.
 $$
 
+<span style="padding-left: 20px; display:block">
 The state-of-the-art limit, incorporating details about the white
 dwarf's composition and structure, is $ M_C \approx 1.44 \,M_\odot$.
 We've done remarkably well!
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Now imagine that instead of a white dwarf, we are just putting
+electrons into a box.
+Argue that the maximum mass of a box of electrons, $M_\text{box}$, is
+</span>
+
+$$
+M_\text{box} \sim M_C \left(\frac{m_p}{m_e}\right)^2 \approx 5 \times
+10^7 \, M_\odot.
+$$
+
+<span style="padding-left: 20px; display:block">
+Because electrons are much light, you can make the box a million times
+heavier before it collapses!
+</span>
 
 <p align="center">
   ⁂
