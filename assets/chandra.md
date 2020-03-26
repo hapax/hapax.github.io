@@ -58,25 +58,16 @@ bound on the mass of remnant stars called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
 who first derived it in 1931.
 The analysis combines the gravity governing the solar
-system with the quantisation governing the atom, though a remnant star
-is simpler than both.
-In the words of Chandra himself,
-
-<span style="padding-left: 20px; display:block">
-What is intelligible is also beautiful.
-</span>
-
-While the star's ejecta may go on to form life --- remarkable for its
-complexity -- what is left behind is beautiful by virtue of its
-simplicity.
+system with the quantisation governing the atom, though as we will
+see, a remnant star is simpler than both.
 
 *Outline.* We'll start with Bohr's model of the hydrogen atom and the
 quantisation of orbits, and then apply these ideas to a *Fermi gas* of
 non-interacting electrons on a circle.
-Even when the gas is at zero temperature, quantum effects lead to an
-effective temperature, and hence to an effective *degeneracy pressure*.
-We can cheekily use the circle to understand non-interacting electrons
-in three dmensions, giving us a simple model of degeneracy pressure in stellar cores.
+Even when the gas is at zero temperature, the Pauli exclusion
+principle creates an effective repulsion called *degeneracy pressure*.
+If we stable three circles together, we get a simple but accurate
+model of degeneracy pressure in stellar cores.
 The Chandraskhar limit is the point that gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
@@ -886,3 +877,14 @@ But at the Chandrasekhar limit, gravity wins, and the white dwarf
 turns into a black hole.
 The limit is also remarkably close to the best known bounds on the
 maximum size of a neutron star, given that we ignored strong interactions.
+
+
+In the words of Chandra himself,
+
+<span style="padding-left: 20px; display:block">
+What is intelligible is also beautiful.
+</span>
+
+While the star's ejecta may go on to form life --- remarkable for its
+complexity -- what is left behind is beautiful by virtue of its
+simplicity.
