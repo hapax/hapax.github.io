@@ -98,7 +98,7 @@ particles called *fermions*, including neutrons and protons.
 There is a second class of particles called *bosons* ---
 including photons --- which do not obey the Pauli exclusion principle,
 and will happily crowd into a hotel room!
-So, our model describes a quantum gas of fermionic particles, also
+So, our model describes a quantum gas of fermions, also
 called a *Fermi gas*.
 
 Since we're dealing with a gas, you might wonder if temperature plays
