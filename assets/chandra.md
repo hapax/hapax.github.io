@@ -598,26 +598,26 @@ There are three possible endpoints of stellar evolution:
   M$), nothing can resist gravity, and it ineluctably collapses to
   form a black hole.
 
-White dwarfs are simpler, so we'll focus on these.
-The core is electrically neutral, consisting of $N$ electrons and $N$
-protons, the latter providing most of the star's mass.
-As a result, electrostatic repulsion plays only a small role, and
-instead, the degeneracy pressure of the electrons dominates.
+We'll only be concerned with the first two endpoints here, and in
+particular white dwarfs, the simpler of the two.
+The core of a white dwarf is electrically neutral, consisting of $N$ electrons and $N$
+protons.
+Since protons are much heavier than electrons, they provide most of
+the star's mass.
+Overall neutrality means that electrostatic repulsion plays a small
+role, and the degeneracy pressure of the electrons dominates.
 Assuming gravity is strong and the electrons are ultrarelativistic,
-the degeneracy pressure is
+we might hope the degeneracy pressure is
 
 $$
 P_F \sim \hbar c\left(\frac{ N}{V}\right)^{4/3}
 $$
 
 where $V$ is the volume of the white dwarf.
-We figure out the maximum mass of a white dwarf in the next section by
-comparing this degeneracy pressure due to gravity.
-But our expression for $P_F$ is a bit suspicious.
-To get it, we made two assumptions: first, the gas is at zero
-temperature; second, the star is a periodic cube, rather than a
-sphere.
-Let's see why these assumptions are reasonable:
+This expression is based two assumptions which don't seem to hold
+here: the gas is at zero temperature, and contained in a
+three-dimensional donut.
+It turns out neither of these is a problem:
 - *Temperature.* We can approximate a Fermi gas as zero temperature
   provided $T$ is much smaller than the Fermi temperature, $T \ll
   T_F$.
@@ -627,6 +627,9 @@ Let's see why these assumptions are reasonable:
   donut. Nevertheless, our model works because sphere and donut are
   just different choices of *boundary condition*, and as $N$ gets
   large, boundary conditions become irrelevant.
+
+Thus, our expression of $P_F$ is approximately correct for a real-life
+white dwarf.
 
 ---
 
