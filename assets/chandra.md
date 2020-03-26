@@ -875,11 +875,12 @@ bound on the maximum size of a neutron star!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
-If we take Bohr's model of the atom, and strip away the complexities
-of different orbits, we end up with a *single* orbit on which we can
-put as many electrons as we like.
+We've seen that if we take Bohr's model of the atom, and strip away
+the complexities of different orbits, we end up with a *single* orbit
+on which we can put as many electrons as we like.
 Doing this three times gives a surprisingly good model of a white
 dwarf!
-The Pauli exclusion principle repels electrons from each other, but at
-some point, gravity is strong enough to overcome this repulsion.
-The Chandrasekhar limit is the point at which this happens.
+The Pauli exclusion principle repels electrons from each other and
+stops the white dwarf from collapsing under its own gravity.
+But at the Chandrasekhar limit, gravity wins, and the white dwarf
+turns into a black hole.
