@@ -762,16 +762,19 @@ the centre of the Milky Way and other galaxies.
 
 **Exercise 8.** Let's repeat our pressure-balancing argument with the
 non-relativistic Fermi gas.
-  This is appropriate to smaller and less gravitationally extreme white dwarfs.
+This is appropriate to smaller and less gravitationally extreme white dwarfs.
+
+<span style="padding-left: 20px; display:block">
+(a) 
   Recall the non-relativistic degeneracy pressure,
+</span> 
 
 $$
 P_F \sim \frac{\hbar^2 }{m_e}\left(\frac{N}{V}\right)^{5/3}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(a) Compare to gravitational self-pressure, and show that a
-non-relativistic white dwarf is in equilibrium when
+Compare to gravitational self-pressure, and show that in equilibrium,
 </span> 
 
 $$
@@ -784,18 +787,20 @@ as it gets heavier!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Show using the mass-radius relation that the approximate density
-of a white dwarf the same size as the earth is
+(b) Compute the mass density of a white dwarf the same size as the
+earth.
+The earth has radius $R = 6.4 \times 10^6 \text{ m}$, while an
+electron has mass $m_e = 9.1 \times 10^{-31} \text{ kg}$.
+	You should obtain
 </span>
 
 $$
-\rho \sim 5 \times 10^{9} \text{ kg/m}^3,
+\rho \sim 5 \times 10^{9} \text{ kg/m}^3.
 $$
 
 <span style="padding-left: 20px; display:block">
-within an order of magnitude of the density we claimed in Exercise 6.
-The earth has radius $R = 6.4 \times 10^6 \text{ m}$, while an
-electron has mass $m_e = 9.1 \times 10^{-30} \text{ kg}$.
+This is very dense! A single cubic metre weighs the same as the Empire
+State Building.
 </span>
 
 <!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6.4*10^6)^6 -->
@@ -815,7 +820,8 @@ M_N \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_n^2}
 \approx 1.7 \, M_\odot
 $$
 
-once more, where $m_n \approx m_p$ is the mass of a neutron.
+once more, since a neutron has almost the same mass as a proton, $m_n
+\approx m_p$.
 
 But there is a subtlety we did not include: an additional repulsion
 between neutrons because of the strong nuclear force.
