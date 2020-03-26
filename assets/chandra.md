@@ -89,9 +89,8 @@ hotel can offer.
 None of these rules is true in general, so let's spell out our assumptions.
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
-This is like a gas, where particles are very far apart and only
-occasionally collide.
-So our hotel describes what is called a *quantum gas*.
+Physicists use the term "gas" for any weakly interacting collection of
+particles, so our hotel describes a *quantum gas*.
 
 The second rule is the *Pauli exclusion principle*.
 This holds for electrons, but in fact, a much larger class of
