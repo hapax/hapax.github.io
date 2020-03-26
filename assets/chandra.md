@@ -304,8 +304,8 @@ $$
 
 Finally, in an ideal gas, temperature and pressure are related by the
 ideal gas law, $PV = N k_B T$.
-Once again, the fact that the electrons are separated can be viewed as
-an "effective pressure" $P_F$ due to quantum effects.
+The fact that electrons are spread across energy levels can be viewed
+as an "effective pressure" $P_F$ due to quantum effects.
 This is also called *degeneracy pressure*.
 You can show in Exercise 2 that the degeneracy pressure for a circle
 is roughly
