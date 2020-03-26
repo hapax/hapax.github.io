@@ -81,8 +81,7 @@ The Chandraskhar limit is the point that gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
 
-*Prerequisites.* The prerequisites are modest. We'll use basic
-Newtonian mechanics (kinetic energy and momentum), the law of
+*Prerequisites.* We'll need basic Newtonian mechanics (kinetic energy and momentum), the law of
 gravitation, some "old school" quantum mechanics (the Bohr model and
 de Broglie wavelength), and a little special relativity.
 Mathematically, in addition to high school algebra and geometry, we
@@ -681,7 +680,7 @@ k_B & = 1.4\times 10^{-23} \text{ m}^2\text{ kg}/\text{ K s}^2.
 \end{align*}
 $$
 
-You can check the claim about density in Exercise 8.
+You can check the claim about density in Exercise 9.
 
 ---
 
@@ -872,7 +871,7 @@ M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
 Somewhat luckily, our naive guess gives an accurate order-of-magnitude
-bound on the maximum size of a neutron star.
+bound on the maximum size of a neutron star!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
