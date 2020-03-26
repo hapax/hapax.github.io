@@ -82,7 +82,7 @@ mechanics, given by three rules:
 3. If we add particles, they occupy the lowest available energy level.
 
 I think of this as the "hotel" model, since the quantum system is like
-a hotel with rooms costing $E_1\leq E_2 \leq \cdots$ and so on.
+a hotel with rooms costing $E_1\leq E_2 \leq \cdots$.
 Particles travel alone, and stay by themselves.
 Finally, particles are cheap, looking for the most affordable room the
 hotel can offer.
