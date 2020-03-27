@@ -74,11 +74,11 @@ radius.
 
 *Prerequisites.* This post is aimed at high school students with an
 interest and background in physics.
-We'll need basic Newtonian mechanics (kinetic energy and momentum), the law of
-gravitation, some "old school" quantum mechanics (the Bohr model and
-de Broglie wavelength), and a little special relativity.
-Mathematically, apart from high school algebra and geometry, we assume
-familiarity with vectors and how to calculate their lengths.
+We assume basic Newtonian mechanics (kinetic energy and momentum) and
+the law of gravitation, as well as some familiarity with "old school"
+quantum mechanics (the Bohr model and de Broglie wavelength).
+On the math side, we use vector notation and need to know how to
+calculate a vector's length. That's it!
 
 ## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
