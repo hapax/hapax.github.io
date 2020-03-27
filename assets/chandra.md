@@ -78,7 +78,7 @@ We assume basic Newtonian mechanics (kinetic energy and momentum) and
 the law of gravitation, as well as some familiarity with "old school"
 quantum mechanics (the Bohr model and de Broglie wavelength).
 On the math side, we use vector notation and need to know how to
-calculate a vector's length. That's it!
+calculate a vector's length.
 
 ## 2. Fermi gas<a id="sec-2" name="sec-2"></a>
 
