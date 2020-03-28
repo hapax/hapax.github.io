@@ -140,7 +140,7 @@ and so the power series converges for $|z| < 1\~$
  
 ### Jacobi's triple product identity
  
-We can combine the lemmas to prove the* triple product identity*: for $z \neq 0$ and $|q| < 1$, 
+We can combine the lemmas to prove the *triple product identity*: for $z \neq 0$ and $|q| < 1$, 
 
 $$ 
 \prod_{n=0}^\infty (1-q^{2n+2})(1+zq^{2n+1})(1+z^{-1}q^{2n+1}) = \sum_{n=-\infty}^\infty q^{n^2}z^n. 
@@ -273,7 +273,8 @@ P_n & = 1 + \sum_{k=1}^{n-1} (3k + 1) = 1 + \frac{3}{2}n(n - 1) + n - 1 = \frac{
  
 #### Partitions
  
-Now we see how partitions enter the picture. First, consider the infinite product for $|q| < 1$, 
+Now we see how partitions enter the picture. First, consider the
+infinite product for $-1 < q < 1$, 
 
 $$ 
 \prod_{n=0}^\infty \frac{1}{1-q^{n}} = \prod_{n=0}^\infty \sum_{k=0}^\infty q^{nk} \equiv \sum_{n=0}^\infty a_n q^n, 
