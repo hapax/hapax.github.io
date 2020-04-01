@@ -1206,8 +1206,8 @@ probability of spontaneous jumping vary? Does it change your
 conclusion in (c)?
 </span>
 
-This exercise can be generalised to give the Second Law
-of Thermodynamics, but we'll save that for another day!
+In a sense, the Second Law
+of Thermodynamics is just a generalisation of this exercise. But we'll save that for another day!
 
 ---
 
