@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Four-dimensionalism and the psychology of time"
+title:  "The endless present"
 categories: [Philosophy, Physics]
 date:  2019-07-29
 ---
@@ -71,7 +71,7 @@ Similarly, we must ask what properties of a brain state explain the sensation of
 
 I'll recap some properties of time, before defining (and arguing
 against) presentism.
-This will leave us with some explaining to do!
+This will leave us with some folk psychology to explain!
 
 #### Simultaneity and causal order
 
