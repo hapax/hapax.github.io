@@ -1300,7 +1300,7 @@ For dimensional analysis, "roughly speaking" meant "up to numbers",
 and for Fermi estimates, "up to a factor of
 $3$". Here, "roughly speaking" means "on average".
 In our earlier picture, the blue terms vanish, and we just have the big
-square equal to the little squares.
+square equal to the sum of little squares.
 
 <figure>
     <div style="text-align:center"><img src
