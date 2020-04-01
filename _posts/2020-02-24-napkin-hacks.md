@@ -1683,10 +1683,10 @@ $$
 \epsilon_\text{avg} \sim k_B \mathcal{T},
 $$
 
-where $\epsilon_\text{avg}$ is the kinetic energy per particle and $k_B$ is the Boltzmann constant.
+where $\epsilon_\text{avg}$ is the kinetic energy per particle and $k_B$ is Boltzmann's constant.
 This is a simple version of a deep result called the *equipartition
-theorem*, and for my money, it gives the clearest interpretation of
-what temperature is.
+theorem*, and for my money, it is the clearest way to interpret
+temperature microscopically.
 
 <span style="padding-left: 20px; display:block">
 (a) Show that if the particles have mass $m$, the average speed is
