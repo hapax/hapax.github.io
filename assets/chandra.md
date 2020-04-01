@@ -49,6 +49,14 @@ Quantisation has deep consequences for atomic structure,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is also quantum mechanics writ large.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra1.png" width="75%"/>
+		    <figcaption><i>A star ejects heavy elements which go on to
+    form life. The leftovers become a white dwarf.</i></figcaption>
+	</div>
+	</figure>
+
 Rather than think about the fate of heavy elements ejected by
 old stars, we will study the much simpler fate of the compact remnants
 left behind.
