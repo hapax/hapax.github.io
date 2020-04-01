@@ -1904,12 +1904,6 @@ $$
 \ell \sim \frac{k_B\mathcal{T}}{mg}.
 $$
 
-This short argument ignores the fact that grains can jitter up and
-down as well, as explained in the
-[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But the method here gives the right answer, and in the spirit of cheeky
-hacker approximation I will let it stand.
-
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
 To calculate this coefficient, we still need to work out the velocity, $v$, but here is the clever
@@ -1929,7 +1923,13 @@ $$
 D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
-This is called the *Stokes-Einstein relation*, and it is one of the
+This short argument ignores the fact that grains can jitter up and
+down as well, as explained in the
+[appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
+But the method here gives the right answer, and in the spirit of cheeky
+hacker approximation I will let it stand.
+
+This expression for $D$ is called the *Stokes-Einstein relation*, and it is one of the
 major results of Einstein's PhD thesis.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
