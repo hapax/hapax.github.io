@@ -49,8 +49,11 @@ Quantisation has deep consequences for atomic structure,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is also quantum mechanics writ large.
 
-Quantisation not only governs the heavy elements ejected
-from stars, but also the compact remnants left behind.
+Although life forms an amazing link between star systems and atoms,
+all three are tremendously complex, and our goal today will be much
+more modest.
+We will study a related, but much simpler, system governed by
+quantisaton: the dense remnants of old stars.
 For most stars, the remnant is called a *white dwarf*, and
 to good approximation we can model it by throwing electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
