@@ -2082,7 +2082,7 @@ So, why aren't we blowing more gourds with high-leverage, low-tech hacks?
 Probably, mostly, the inertia of convention.
 For instance, we're taught to analyse mechanics problems by adding up
 vectors, and electricity problems by drawing circuits.
-These methods are suitable and well-adapted, but this is precisely
+These methods are well-adapted, but this is precisely
 what makes them low leverage!
 It might surprise you to learn that we can [add vectors](https://en.wikipedia.org/wiki/Phasor) to
 describe the flow of electricity and
