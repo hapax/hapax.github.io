@@ -889,7 +889,7 @@ The limit is also remarkably close to the best known bounds on neutron
 star mass, given that we ignored the strong force repulsion.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
-it to learn something deep about the death of stars.
+it to learn about the death of stars.
 This is a big part of the aesthetic appeal of physics: simple ideas with
 incredible power.
 In the words of Chandra himself,
