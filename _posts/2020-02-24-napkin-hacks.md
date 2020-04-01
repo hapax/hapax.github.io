@@ -1880,7 +1880,7 @@ $\sigma = \pi r^2$.
 
 Counting the number of particles is hard, but measuring the
 temperature is easy.
-Just as with the air example above, we can use the ideal gas law to swap volume and number for
+Like the air example above, we can use the ideal gas law to swap volume and number for
 pressure and temperature:
 
 $$
@@ -1904,10 +1904,11 @@ $$
 \ell \sim \frac{k_B\mathcal{T}}{mg}.
 $$
 
-This short argument sidesteps some subtleties, explained at length in the
+This short argument ignores the fact that grains can jitter up and
+down as well, as explained in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But it gives the right answer, and in the spirit of cheeky
-hacker approximation, I will let it stand.
+But the method here gives the right answer, and in the spirit of cheeky
+hacker approximation I will let it stand.
 
 Recall that the diffusion coefficient $D = \ell v$ is directly related
 to the meandering of the pollen grain over time, with $d^2 \sim Dt$.
