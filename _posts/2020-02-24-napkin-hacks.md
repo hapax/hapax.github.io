@@ -29,7 +29,7 @@ date:  2020-02-24
 4. <a href="#sec-4">Random walks</a>
    1. <a href="#sec-4-1">Polymers</a>
    2. <a href="#sec-4-2">Bumping into things</a>
-   3. <a href="#sec-4-3">Rainy day dilemma*</a>
+   3. <a href="#sec-4-3">Rainy day dilemma</a>
    4. <a href="#sec-4-4">Brownian motion</a>
 5. <a href="#sec-5">Conclusion</a>
 
@@ -119,8 +119,6 @@ The <a href="#sec-2">dimensional analysis tutorial</a> and <a
 href="#sec-3">section on Fermi estimates</a> can be
 read independently. The <a href="#sec-4">last tutorial</a> on random
 walks assumes you have read the dimensional analysis section.
-Note that the section on <a href="#sec-4-3">running in the rain</a> is
-an optional diversion.
 The exercises are just as important as the text, but only the results
 of <a href="#sec-2-3">Exercise 3</a>
 and <a href="#sec-4-2">Exercise 14</a> are used subsequently.
@@ -1719,7 +1717,7 @@ wall.
 
 ---
 
-### 4.3. Rainy day dilemma*<a id="sec-4-3" name="sec-4-3"></a>
+### 4.3. Rainy day dilemma<a id="sec-4-3" name="sec-4-3"></a>
 
 We can apply our collision cylinder technology to solve an age-old
 problem: should you walk or run in the rain?
