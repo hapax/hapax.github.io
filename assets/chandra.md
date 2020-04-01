@@ -120,7 +120,7 @@ a role.
 It turns out that our third rule --- particles are stingy ---
 means the temperature is zero.
 If the temperature is nonzero, there is some chance that particles
-arriving at the hotel will splash out on a more expensive room.
+arriving at the hotel will splash out on a more expensive room!
 Our three rules therefore describe a *zero temperature Fermi gas*.
 
 ### 2.1. Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
