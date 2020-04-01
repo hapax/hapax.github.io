@@ -1180,6 +1180,7 @@ mug of coffee.
 <span style="padding-left: 20px; display:block">
 *Hint.* Recall that Avogadro's number $N_A = 6 \times 10^{23}$ is the
 number of atoms in $12$ g of carbon-12.
+We will derive this in Exercise 19!
 </span>
 
 <span style="padding-left: 20px; display:block">
