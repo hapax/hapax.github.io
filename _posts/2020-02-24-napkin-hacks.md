@@ -1988,8 +1988,8 @@ container of fixed volume), the pressure (use a barometer), the
 temperature (a thermometer), and the number of mol (chemistry).
 That makes it fairly easy to measure the ideal gas constant
 $\mathcal{R}$, and indeed,
-[it was calculated](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)
-by the combined efforts of Henri Regnault and Rudolf Clausius in 1850.
+[it was calculated as early as 1850](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)
+due to the combined efforts of Henri Regnault and Rudolf Clausius.
 So we will take $\mathcal{R}$ as a given, and leave ourselves the much harder task of weighing atoms.
 
 <span style="padding-left: 20px; display:block">
