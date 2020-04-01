@@ -659,7 +659,7 @@ period, so really, a period should be viewed not as a time, but a *time per* $36
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker-pi.png" width="55%"/>
+    ="/images/posts/hacker-pi.png" width="50%"/>
 		    <figcaption><i>A phasor keeping track of a periodic system.</i></figcaption>
 	</div>
 	</figure>
