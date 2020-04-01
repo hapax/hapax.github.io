@@ -1929,7 +1929,7 @@ down, as explained in the
 But our method gives the right answer, and in the spirit of cheeky
 hacker approximation I will let it stand.
 
-This expression for $D$ is called the *Stokes-Einstein relation*, and it is one of the
+The expression for $D$ is called the *Stokes-Einstein relation*, and it is one of the
 major results of Einstein's PhD thesis.
 The weight of the pollen cancels out, leaving a diffusion constant
 which grows with temperature but is inversely proportional to particle
