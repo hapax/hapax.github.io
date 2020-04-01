@@ -88,8 +88,8 @@ for the back of a napkin.
 I think of these as algorithms for a napkin computer, and with some
 practice, they really
 can be implemented using high school algebra on a small piece of
-paper, without calculus or calculators (though the latter can save
-time and labour).
+paper, without calculus or calculators (though the latter save
+time).
 While there is whimsy and irreverence aplenty, the focus will be
 *real physics*.
 Our goal will be a beautiful proof of the existence of atoms, due to
