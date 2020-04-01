@@ -97,7 +97,9 @@ a hotel with rooms costing $E_1\leq E_2 \leq \cdots$.
 Particles travel alone, and stay by themselves.
 Finally, particles are cheap, looking for the most affordable room the
 hotel can offer.
-None of these rules is true in general, so let's spell out our assumptions.
+None of these rules is true in general, so let's spell out our
+assumptions.
+
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
 If particles repel each other and will pay more money to stay apart,
@@ -105,16 +107,14 @@ or are attracted and will pay more money to be close, the hotel should
 change its prices!
 Physicists use the term "gas" for any weakly interacting collection of
 particles, so our rules describes a *quantum gas*.
-
 The second rule is the *Pauli exclusion principle*.
 This holds for electrons, but in fact, a much larger class of
 particles called *fermions*, including neutrons and protons.
-There is a second class of particles called *bosons* ---
+There is a second large class of particles called *bosons* ---
 including photons --- which do not obey the Pauli exclusion principle,
 and will happily crowd into a hotel room!
 So, our model describes a quantum gas of fermions, also
 called a *Fermi gas*.
-
 Since we're dealing with a gas, you might wonder if temperature plays
 a role.
 It turns out that our third rule --- particles are stingy ---
