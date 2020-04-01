@@ -40,7 +40,7 @@ Russian trolls, Julian Assange, and Angelina Jolie's 90s pixie cut.
 But a nobler usage predates this.
 Hacker culture, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
-Although associated with programming, hacking spirit can be viewed as
+Although associated with programming, hacker spirit can be viewed as
 a broader ethos about play, understanding and creativity.
 In the words of open-source guru Richard Stallman,
 
