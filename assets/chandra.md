@@ -50,13 +50,11 @@ hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is also quantum mechanics writ large.
 
 Rather than think about the fate of heavy elements ejected by
-old stars, we will study the fate of the dense remnants left behind.
+old stars, we will study the much simpler fate of the compact remnants
+left behind.
 For most stars, this remnant is called a *white dwarf*.
-Like life, white dwarfs form a link between stars and atoms, but a
-much simpler one!
-To a good approximation, we can model a white dwarf by throwing
-electrons into a box.
-Throw in too many electrons, and the box collapses to form a black hole.
+Like life, white dwarfs form a link between stars and atoms, and like
+atoms, they are governed by quantisation.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
