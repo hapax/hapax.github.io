@@ -1924,7 +1924,7 @@ D \sim \ell v_{\text{term}} = \frac{k_B\mathcal{T}}{6\pi \mu r}.
 $$
 
 This short argument ignores the fact that grains can jitter up and
-down as well, as explained in the
+down, as explained in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
 But the method here gives the right answer, and in the spirit of cheeky
 hacker approximation I will let it stand.
