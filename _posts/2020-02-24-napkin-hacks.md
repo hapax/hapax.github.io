@@ -90,7 +90,7 @@ practice, they really
 can be implemented using high school algebra on a small piece of
 paper, without calculus or calculators (though the latter save
 time).
-While there is whimsy and irreverence aplenty, the focus will be
+While there is whimsy and irreverence aplenty, our focus will be
 *real physics*.
 Our goal will be a beautiful proof of the existence of atoms, due to
 none other than Albert Einstein, the greatest physics hacker of all!
