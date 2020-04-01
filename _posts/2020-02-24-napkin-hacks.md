@@ -1985,7 +1985,7 @@ weighing a molecule.
 This turns out to be hard!
 But it is easy to measure the volume of the gas (place it in a
 container of fixed volume), the pressure (use a barometer), the
-temperature (a thermometer), and the number of mole (chemistry).
+temperature (a thermometer), and the number of mol (chemistry).
 That makes it fairly easy to measure the ideal gas constant
 $\mathcal{R}$, and indeed,
 [it was calculated](https://www3.nd.edu/~powers/ame.20231/jensen2003.pdf)
