@@ -886,8 +886,7 @@ under its own weight.
 But at the Chandrasekhar limit, gravity wins, and the white dwarf
 implodes and becomes a black hole.
 The limit is also remarkably close to the best known bounds on neutron
-star mass, given that we ignored the strong force repulsion
-between neutrons.
+star mass, given that we ignored the strong force repulsion.
 
 It's amazing to me that we can *simplify* the hydrogen atom, and use
 it to learn something deep about the death of stars.
