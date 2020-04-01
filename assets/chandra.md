@@ -100,8 +100,11 @@ hotel can offer.
 None of these rules is true in general, so let's spell out our assumptions.
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
+If particles repel each other and will pay more money to stay apart,
+or are attracted and will pay more money to be close, the hotel should
+change its prices!
 Physicists use the term "gas" for any weakly interacting collection of
-particles, so our hotel describes a *quantum gas*.
+particles, so our rules describes a *quantum gas*.
 
 The second rule is the *Pauli exclusion principle*.
 This holds for electrons, but in fact, a much larger class of
