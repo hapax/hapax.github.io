@@ -1240,7 +1240,7 @@ n$. Randomness apparently reduces the linear power $n^1$ to a square root $n^{1/
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/hacker14v2.png" width="50%"/>
+    ="/images/posts/hacker14v2.png" width="45%"/>
 		    <figcaption><i>A particle (orange) jittering randomly in a gas.</i></figcaption>
 	</div>
 	</figure>
