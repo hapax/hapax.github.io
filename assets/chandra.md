@@ -59,6 +59,8 @@ With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
 who derived it (much more carefully!) in 1931.
+It is the point the white dwarf must inevitably collapse to form a
+black hole.
 
 *Outline.* We'll start with Bohr's model of the hydrogen atom and the
 quantisation of orbits, and then apply these ideas to a *Fermi gas* of
