@@ -69,7 +69,7 @@ Even when the gas is at zero temperature, the Pauli exclusion
 principle creates an effective repulsion called *degeneracy pressure*.
 Stapling three circles together, we get a simple but accurate
 model of degeneracy pressure in stellar cores.
-The Chandraskhar limit is the point that gravity beats degeneracy pressure.
+We find the Chandraskhar limit by determining when gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
 
