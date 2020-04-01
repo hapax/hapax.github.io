@@ -1926,7 +1926,7 @@ $$
 This short argument ignores the fact that grains can jitter up and
 down, as explained in the
 [appendix]({{hapax.github.io}}/assets/napkin-hacks-appendix/#sec-2-1).
-But the method here gives the right answer, and in the spirit of cheeky
+But our method gives the right answer, and in the spirit of cheeky
 hacker approximation I will let it stand.
 
 This expression for $D$ is called the *Stokes-Einstein relation*, and it is one of the
