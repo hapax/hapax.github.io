@@ -1959,7 +1959,7 @@ PV = n_\text{mol} \mathcal{R} \mathcal{T},
 $$
 
 where $n_\text{mol}$ is the number of particles measured in mol, and
-$\mathcal{R}$ is the *ideal gas constant*
+$\mathcal{R}$ is the *ideal gas constant*,
 
 $$
 \mathcal{R} = 8.3 \, \text{ J / K mol}.
