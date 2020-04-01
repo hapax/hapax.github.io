@@ -49,20 +49,18 @@ Quantisation has deep consequences for atomic structure,
 hence chemistry, hence life itself.
 We're made out of exploded stars, sure, but biology is also quantum mechanics writ large.
 
-Although life forms an amazing link between star systems and atoms,
-all three are tremendously complex, and our goal today will be much
-more modest.
-We will study a related, but much simpler, system governed by
-quantisaton: the dense remnants of old stars.
-For most stars, the remnant is called a *white dwarf*, and
-to good approximation we can model it by throwing electrons into a box.
+Rather than think about the fate of heavy elements ejected by
+old stars, we will study the fate of the dense remnants left behind.
+For most stars, this remnant is called a *white dwarf*.
+Like life, white dwarfs form a link between stars and atoms, but a
+much simpler one!
+To a good approximation, we can model a white dwarf by throwing
+electrons into a box.
 Throw in too many electrons, and the box collapses to form a black hole.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
 who derived it (much more carefully!) in 1931.
-A white dwarf is perhaps the simplest object to combine the gravity
-governing the solar system with the quantisation governing the atom.
 
 *Outline.* We'll start with Bohr's model of the hydrogen atom and the
 quantisation of orbits, and then apply these ideas to a *Fermi gas* of
