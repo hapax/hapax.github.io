@@ -1780,7 +1780,7 @@ n V \approx \pi n R^2d \cdot \frac{v}{u} = (\pi n R^2 v)t.
 $$
 
 How wet you get is directly proportional to how much time you spend in
-the rain!
+the rain.
 
 ---
 
