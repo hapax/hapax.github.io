@@ -1977,7 +1977,7 @@ same number of molecules.*
 
 This was a prescient insight into the atomic nature of matter,
 anticipating the ideal gas law by 45 years.
-It clearly contains the seed of the molar notion, so Perrin named it after Avogadro.
+It underpins the utility of the mole, which is why Perrin named the constant after Avogadro.
 
 Determining the number of molecules in a sample of gas is the same as
 weighing a molecule.
