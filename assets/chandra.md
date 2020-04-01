@@ -114,7 +114,7 @@ called a *Fermi gas*.
 
 Since we're dealing with a gas, you might wonder if temperature plays
 a role.
-It turns out that our third rule --- particles are maximally cheap ---
+It turns out that our third rule --- particles are stingy ---
 is equivalent to *zero* temperature.
 If the temperature is nonzero, there is some chance that particles
 arriving at the hotel will splash out on a more expensive room.
