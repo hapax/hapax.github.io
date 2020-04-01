@@ -2000,7 +2000,7 @@ To weigh atoms and molecules, all we need to do is divide the molar
 mass by $N_A$.
 Perrin and Einstein gave the first modern estimates of Avogadro's
 number using Brownian motion, and we will follow in their footsteps.
-(Remarkably, Einstein proposed no fewer
+(Remarkably, Einstein, the master hacker, proposed no fewer
 than *five* methods for determining $N_A$.)
 
 <span style="padding-left: 20px; display:block">
