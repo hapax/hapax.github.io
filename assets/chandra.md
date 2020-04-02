@@ -306,6 +306,13 @@ determine the orbital radius $r_n$, and we have fixed $r_n = r$ by fiat.
 (Since the electrons are no longer bound, this eliminates the minus
 sign we needed in Exercise 1.)
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra3.png"/>
+		    <figcaption><i>First four Bohr-de Broglie orbits on a circle.</i></figcaption>
+	</div>
+	</figure>
+
 Suppose we throw $N$ particles onto the circle.
 The highest occupied energy level is called the *Fermi energy* $E_F$
 (see Exercise 2).
