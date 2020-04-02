@@ -298,7 +298,7 @@ $$
 \lambda_n = \frac{L}{n},
 $$
 
-and the energy levels from (\ref{bohr-E}) are
+and the energy levels (\ref{bohr-E}) become
 
 $$
 E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
