@@ -105,15 +105,8 @@ a hotel with rooms costing $E_1\leq E_2 \leq \cdots$.
 Particles travel alone, and stay by themselves.
 Finally, particles are cheap, looking for the most affordable room the
 hotel can offer.
-None of these rules is true in general, so let's spell out our
-assumptions.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/chandra2.png"/>
-		    <figcaption><i>A stingy electron looking to stay at Hotel Fermi.</i></figcaption>
-	</div>
-	</figure>
+None of these rules is true in general, so let's spell out what
+systems it applies to.
 
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
@@ -122,22 +115,23 @@ or are attracted and will pay more money to be close, the hotel should
 change its prices!
 Physicists use the term "gas" for any weakly interacting collection of
 particles, so our rules describes a *quantum gas*.
-The second rule is the *Pauli exclusion principle*.
-This holds for electrons, but in fact, a much larger class of
-particles called *fermions*, including neutrons and protons.
-There is a second large class of particles called *bosons* ---
-including photons --- which do not obey the Pauli exclusion principle,
-and will happily crowd into a hotel room!
-So, our model describes a quantum gas of fermions, also
-called a *Fermi gas*.
 
-Since we're dealing with a gas, you might wonder if temperature plays
-a role.
-It turns out that our third rule --- particles are stingy ---
-means the temperature is zero.
-If the temperature is nonzero, there is some chance that particles
-arriving at the hotel will splash out on a more expensive room!
-Our three rules therefore describe a *zero temperature Fermi gas*.
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra2.png"/>
+		    <figcaption><i>A stingy electron looking to stay at Hotel Fermi.</i></figcaption>
+	</div>
+	</figure>
+
+The second rule is the *Pauli exclusion principle*.
+This holds for electrons, and in fact, a much larger class of
+particles called *fermions*, which includes protons and neutrons.
+Our model describes a gas of fermions, or *Fermi gas* for short.
+The final rule --- particles are as stingy as possible --- means the
+gas is at *zero temperature*.
+At finite temperature, there is some chance arriving particles will
+splash out on a more expensive room!
+Our three rules therefore hold for a *zero temperature Fermi gas*.
 
 ### 2.1. Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
 
