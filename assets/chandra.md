@@ -285,9 +285,8 @@ But for better or worse, there is more to atomic physics than a few
 lines of algebra.
 Electrons interact, and keeping track of orbits in a multi-electron
 system is a finicky business.
-Rather than delving into these complications, we will streamline the
-Bohr model and see if we can find something useful.
-
+Rather than delving into these complexities, we will streamline the
+Bohr model.
 We make two simplifying assumptions: first, take electrons to be
 non-interacting; second, fix a *single* orbit, of circumference $L = 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
