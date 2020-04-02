@@ -279,14 +279,16 @@ $$
 
 ### 2.2. Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
 
-You might hope that an atom is like the hotels we describe above, with
-energy levels $E_n$ calculated by (\ref{bohr-E}).
-But, for better or worse, there is more to atomic physics than a few
+You might hope that an atom is like the hotels described above, with
+energy levels (\ref{bohr-E}).
+But for better or worse, there is more to atomic physics than a few
 lines of algebra.
-Electrons interact, and keeping track of orbits becomes a finicky business.
-Rather than delving into these complications, we will simplify.
+Electrons interact, and keeping track of orbits in a multi-electron
+system is a finicky business.
+Rather than delving into these complications, we will streamline the
+Bohr model and see if we can find something useful.
 
-Our two simplifications are as follows: first, assume electrons are
+We make two simplifying assumptions: first, take electrons to be
 non-interacting; second, fix a *single* orbit, of circumference $L = 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
 
