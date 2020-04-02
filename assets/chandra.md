@@ -279,17 +279,15 @@ $$
 
 ### 2.2. Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
 
-Bohr's model is a useful illustration of how to calculate energy
-levels.
-But the calculation only works for a *single* electron.
-Once we start adding more, the electrons repel, and things become
-dramatically more complicated.
-In other words, an atom is not a Fermi gas!
-Rather than trying to derive chemistry from first principles, we will
-ignore all these difficulties, and streamline Bohr and de Broglie's
-insights into something we can use.
+Bohr's insights were revolutionary, provide the first working
+quantum-mechanical model of the atom.
+But his model only describes some orbits of a *single* electron.
+When we add more electrons, things get much more complex!
+We will capitalise on the success of this model, and streamline it
+even further.
+In particular, one complication we want to do away with is different
+radii $r_n$ for different orbits.
 
-Another complication in hydrogen is the existence of different radii $r_n$.
 Instead, we are going to fix a *single* orbit, of circumference $L =
 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
