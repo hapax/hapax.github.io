@@ -307,7 +307,7 @@ $$
 and the energy levels (\ref{bohr-E}) become
 
 $$
-E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
+E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2. \tag{2}\label{circle-E}
 $$
 
 The proton is no longer required, since its only role earlier was to
@@ -359,7 +359,7 @@ $$
 P_F \sim \frac{N E_F}{L}.
 $$
 
-We haven't defined $P_F$ carefully, and this expression is only true
+We haven't defined $P_F$ carefully, so this expression is only true
 to an order of magnitude, as indicated by the $\sim$ symbol.
 
 ---
