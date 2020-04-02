@@ -132,7 +132,7 @@ The final rule --- particles are as stingy as possible --- means the
 gas is at *zero temperature*.
 At finite temperature, there is some chance arriving particles will
 splash out on a more expensive room!
-Our three rules describe a *zero temperature Fermi gas*.
+Our three rules describe Hotel Fermi: a *zero temperature Fermi gas*.
 
 ### 2.1. Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
 
@@ -279,17 +279,15 @@ $$
 
 ### 2.2. Electrons on a circle <a id="sec-2-2" name="sec-2-2"></a>
 
-Bohr's insights were revolutionary, provide the first working
-quantum-mechanical model of the atom.
-But his model only describes some orbits of a *single* electron.
-When we add more electrons, things get much more complex!
-We will capitalise on the success of this model, and streamline it
-even further.
-In particular, one complication we want to do away with is different
-radii $r_n$ for different orbits.
+You might hope that an atom is like the hotels we describe above, with
+energy levels $E_n$ calculated by (\ref{bohr-E}).
+But, for better or worse, there is more to atomic physics than a few
+lines of algebra.
+Electrons interact, and keeping track of orbits becomes a finicky business.
+Rather than delving into these complications, we will simplify.
 
-Instead, we are going to fix a *single* orbit, of circumference $L =
-2\pi r$.
+Our two simplifications are as follows: first, assume electrons are
+non-interacting; second, fix a *single* orbit, of circumference $L = 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
 
 $$
@@ -302,15 +300,11 @@ $$
 E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
 $$
 
-There is no proton in this problem now, since the only role that
-played earlier was determining $r_n$, and we have fixed $r$ by fiat.
-This also lets us get rid of the minus sign we found in Exercise 1,
-since that corresponded to the electron being *bound*.
-Now, the electron lives on a circle by definition.
+There is no proton needed in the problem now, since the only role the
+proton played in the hydrogen atom was to determine $r_n$, and we have
+fixed $r_n = r$ by fiat.
+(This also eliminates minus sign we found in Exercise 1.)
 
-So, we have the single-electron energies, just like the atom.
-Unlike the atom, we are just going to go ahead and assume that
-electrons don't interact, and our hotel model (Rules 1--3) applies.
 Suppose we throw $N$ particles onto the circle.
 The highest occupied energy level is called the *Fermi energy* $E_F$
 (see Exercise 2).
