@@ -51,7 +51,7 @@ We're made out of exploded stars, sure, but biology is also quantum mechanics wr
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/chandra1.png" width="60%"/>
+    ="/images/posts/chandra1.png"/>
 		    <figcaption><i>A star ejects heavy elements, which may
     form life; what remains becomes a white dwarf.</i></figcaption>
 	</div>
