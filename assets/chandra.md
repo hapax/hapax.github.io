@@ -302,10 +302,10 @@ $$
 E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
 $$
 
-There is no proton needed in the problem now, since the only role the
-proton played in the hydrogen atom was to determine $r_n$, and we have
-fixed $r_n = r$ by fiat.
-(This also eliminates minus sign we found in Exercise 1.)
+The proton is no longer required, since its only role earlier was to
+determine the orbital radius $r_n$, and we have fixed $r_n = r$ by fiat.
+(Since the electrons are no longer bound, this eliminates the minus
+sign we needed in Exercise 1.)
 
 Suppose we throw $N$ particles onto the circle.
 The highest occupied energy level is called the *Fermi energy* $E_F$
