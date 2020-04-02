@@ -125,7 +125,8 @@ particles, so our rules describes a *quantum gas*.
 
 The second rule is the *Pauli exclusion principle*.
 This holds for electrons, and in fact, a much larger class of
-particles called *fermions*, which includes protons and neutrons.
+particles called *fermions*, which includes protons, neutrons, and all
+the other particles that make matter.
 Our model describes a gas of fermions, or *Fermi gas* for short.
 The final rule --- particles are as stingy as possible --- means the
 gas is at *zero temperature*.
