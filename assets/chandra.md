@@ -108,6 +108,13 @@ hotel can offer.
 None of these rules is true in general, so let's spell out our
 assumptions.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra2.png"/>
+		    <figcaption><i>A stingy electron looking to stay at Hotel Fermi.</i></figcaption>
+	</div>
+	</figure>
+
 The first rule states that energies don't change when particles join
 the system, which is only true if the *particles don't interact*.
 If particles repel each other and will pay more money to stay apart,
