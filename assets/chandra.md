@@ -84,9 +84,9 @@ radius.
 *Prerequisites.* This post is aimed at high school students with an
 interest and background in physics.
 We assume basic Newtonian mechanics (kinetic energy and momentum) and
-the law of gravitation, as well as some familiarity with "old school"
-quantum mechanics (the Bohr model and de Broglie wavelength), though
-we introduce the required concepts, albeit briefly.
+the law of gravitation. Some familiarity with "old school"
+quantum mechanics (the Bohr model and de Broglie wavelength) is
+helpful, though we introduce the required concepts here, albeit briefly.
 On the math side, we use vector notation and need to know how to
 calculate a vector's length.
 
