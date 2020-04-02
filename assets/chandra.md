@@ -292,7 +292,7 @@ Bohr model.
     <div style="text-align:center"><img src
     ="/images/posts/chandra4.png"/>
 		    <figcaption><i>The first four Bohr-de Broglie orbits on a
-    circle. They "unwrapped" on the right.</i></figcaption>
+    circle. They are "unwrapped" on the right.</i></figcaption>
 	</div>
 	</figure>
 	
