@@ -266,8 +266,8 @@ electrons occupy the lowest available state, so they will zip off to infinity!
 </span>
 
 <span style="padding-left: 20px; display:block">
-(e) For an ion with $Z$ protons in the nucleus, use the Bohr model to
-obtain the single-electron energy levels
+(e) For an ion with $Z$ protons in the nucleus, repeat the argument
+above to obtain the single-electron energy levels
 </span>
 
 $$
