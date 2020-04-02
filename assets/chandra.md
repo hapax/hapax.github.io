@@ -308,8 +308,8 @@ sign we needed in Exercise 1.)
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/chandra3.png"/>
-		    <figcaption><i>First four Bohr-de Broglie orbits on a circle.</i></figcaption>
+    ="/images/posts/chandra4.png"/>
+		    <figcaption><i>The first four Bohr-de Broglie orbits on a circle.</i></figcaption>
 	</div>
 	</figure>
 
@@ -351,6 +351,14 @@ $$
 
 We haven't defined $P_F$ carefully, and this expression is only true
 to an order of magnitude, as indicated by the $\sim$ symbol.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra5.png"/>
+		    <figcaption><i>The Fermi energy is the highest occupied
+    energy level.</i></figcaption>
+	</div>
+	</figure>
 
 ---
 
