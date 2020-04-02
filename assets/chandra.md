@@ -271,7 +271,8 @@ obtain the single-electron energy levels
 </span>
 
 $$
-E_n = -\left(\frac{m_ek_e^2 e^4}{2\hbar^2}\right)  \frac{Z^2}{n^2}.
+E_n = -\left(\frac{m_ek_e^2 e^4}{2\hbar^2}\right)
+\frac{Z^2}{n^2}. \tag{1} \label{bohr-E}
 $$
 
 ---
@@ -284,11 +285,11 @@ But the calculation only works for a *single* electron.
 Once we start adding more, the electrons repel, and things become
 dramatically more complicated.
 In other words, an atom is not a Fermi gas!
-Rather than trying to derive chemistry from first principle, we will
-ignore all these difficulties, and revamp the Bohr model into something
-easier to use.
+Rather than trying to derive chemistry from first principles, we will
+ignore all these difficulties, and streamline Bohr and de Broglie's
+insights into something we can use.
 
-One complication in hydrogen is the existence of different radii.
+Another complication in hydrogen is the existence of different radii $r_n$.
 Instead, we are going to fix a *single* orbit, of circumference $L =
 2\pi r$.
 Then the Bohr-de Broglie quantisation condition becomes
@@ -297,7 +298,7 @@ $$
 \lambda_n = \frac{L}{n},
 $$
 
-and the energy levels are
+and the energy levels from (\ref{bohr-E}) are
 
 $$
 E_n = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n^2.
