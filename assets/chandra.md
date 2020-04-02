@@ -189,6 +189,13 @@ the matter wave is *periodic*, meeting up with itself after $n$
 periods.
 The matter wave "fits".
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra3.png"/>
+		    <figcaption><i>Bohr-de Broglie orbits for n = 1 to n = 4.</i></figcaption>
+	</div>
+	</figure>
+
 To connect to our "hotel" model of quantum mechanics, we need to find
 the energy levels for the electron.
 First, we can express kinetic energy in terms of momentum, hence in
