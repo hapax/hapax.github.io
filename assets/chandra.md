@@ -953,7 +953,7 @@ $$
 F = \frac{G_2 Mm}{R},
 $$
 
-in other words, we change an inverse square to a simple reciprocal. Is there a Chandrasekhar limit?
+Is there a Chandrasekhar limit?
 
 ---
 
