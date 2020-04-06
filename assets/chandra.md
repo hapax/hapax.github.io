@@ -393,7 +393,7 @@ $$
 A circle is nice and simple; too simple, in fact, to capture the
 physics of a real star.
 A star is a three-dimensional object, so we will need to upgrade our
-Fermi gas from a one-dimensional circle to something three-dimensional.
+Fermi gas from a one-dimensional circle to something with three dimensions.
 This is one of the few cases where modelling our problem as a sphere
 in a vacuum is a bad idea!
 It turns out that quantisation on a sphere is difficult, and this is
