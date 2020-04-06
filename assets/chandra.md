@@ -24,6 +24,7 @@ date:  2020-03-26
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
    3. <a href="#sec-3-3">The Chandrasekhar limit</a>
+   4. <a href="#sec-3-4">Neutron stars</a>
 4. <a href="#sec-4">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -956,6 +957,8 @@ $$
 Is there a Chandrasekhar limit?
 
 ---
+
+### 3.4. Neutron stars<a id="sec-3-4" name="sec-3-4"></a>
 
 How are neutron stars different from white dwarfs?
 Neutrons are fermions, so if we pack them into a box, there will be
