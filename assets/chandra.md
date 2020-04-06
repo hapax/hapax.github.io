@@ -1017,7 +1017,7 @@ star mass, given that we ignored the strong force repulsion.
 
 It's amazing that we can *simplify* the hydrogen atom, and use
 it to learn about the death of stars.
-To me, this is the central to the aesthetic appeal of physics: simple
+To me, this is physics at its best: simple
 ideas with incredible power.
 And in the words of Chandra himself,
 
