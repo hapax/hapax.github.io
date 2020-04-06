@@ -396,8 +396,7 @@ A star is a three-dimensional object, so we will need to upgrade our
 Fermi gas from a one-dimensional circle to something with three dimensions.
 This is one of the few cases where modelling our problem as a sphere
 in a vacuum is a bad idea!
-It turns out that quantisation on a sphere is difficult, and this is
-part of the reason deriving chemistry from physics is an
+Quantisation on a sphere is difficult, which is part of the reason deriving chemistry from physics is an
 extraordinarily complicated business.
 
 To avoid this difficulty, we will crudely approximate a sphere as
