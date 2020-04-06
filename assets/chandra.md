@@ -471,15 +471,7 @@ p^2 = p_x^2 + p_y^2.
 $$
 
 This is just Pythagoras' theorem applied to momentum.
-We depict momentum vectors in two and three dimensions below.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/chandra8.png"/>
-		    <figcaption><i>Momentum (squared) in two and three dimensions.</i></figcaption>
-	</div>
-	</figure>
-
+(We depict momentum vectors in two and three dimensions below.)
 Finally, the de Broglie relation in each direction gives $\lambda_x =
 2\pi\hbar/p_x$, $\lambda_y = 2\pi\hbar/p_y$, hence
 
@@ -500,7 +492,16 @@ In particular, to get a three-dimensional example, let's take a
 product of three circles of length $L$.
 We can view this as a *cube* of side length $L$ with periodic boundary
 conditions, or alternatively, a three-dimensional donut.
-Pythagoras' theorem (applied twice) gives $p^2 = p_x^2 + p_y^2 + p_z^2$.
+Pythagoras' theorem (applied twice) gives $p^2 = p_x^2 + p_y^2 +
+p_z^2$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra8.png"/>
+		    <figcaption><i>Momentum (squared) in two and three dimensions.</i></figcaption>
+	</div>
+	</figure>
+	
 If the wavelengths in each direction are $\lambda_x = L/n_x$, $\lambda_y
 = L/n_y$, and $\lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
 (n_x, n_y, n_z)$, we can repeat our reasoning for the donut to
