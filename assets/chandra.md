@@ -521,7 +521,7 @@ Similarly, we can view a three-dimensional donut as a *periodic cube*
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra10.png"/>
-		    <figcaption><i>Periodic line, square amd cube. (Coloured
+		    <figcaption><i>Periodic line, square and cube. (Coloured
     edges glued.)</i></figcaption>
 	</div>
 	</figure>
