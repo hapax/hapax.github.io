@@ -487,8 +487,8 @@ E_{n_x, n_y} = \frac{p^2}{2m_e} = \frac{p_x^2 + p_y^2}{2m_e} =
 \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2).
 $$
 
-We can assemble the two integers $n_x, n_y$ into a vector $\vec{n} =
-(n_x, n_y)$, so
+We can assemble the two integers or *mode numbers* $n_x, n_y$ into a
+*mode vector* $\vec{n} = (n_x, n_y)$, so
 
 $$
 p^2 = \left(\frac{2\pi\hbar}{L}\right)^2 |\vec{n}|^2.
@@ -499,15 +499,19 @@ In particular, to get a three-dimensional example, let's take a
 product of three circles of length $L$.
 We can view this as a *cube* of side length $L$ with periodic boundary
 conditions, or alternatively, a three-dimensional donut.
-The energy levels are exactly the same, with
+The energy levels have the same form,
 
 $$
 E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2 + n_z^2).
 $$
 
-While a box is easy to draw, a three-dimensional donut is a bit
-harder, though we boldly make an attempt below.
+Again, this follows from Pythagoras' theorem, which (applied twice)
+gives $p^2 = p_x^2 + p_y^2 + p_z^2$.
+If the wavelengths in each direction are $\lambda_x = L/n_x, \lambda_y
+= L/n_y, \lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
+(n_x, n_y, n_z)$, then we can repeat our reasoning for the donut to
+obtain this expression for $E_{\vec{n}}$.
 
 ---
 
