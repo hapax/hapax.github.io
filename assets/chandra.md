@@ -723,6 +723,9 @@ There are three possible endpoints:
   M$), nothing can resist gravity, and it ineluctably collapses to
   form a black hole.
 
+We'll focus on white dwarfs here, but neutron stars and black holes
+will also make important appearances.
+
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra12.png"/>
@@ -730,8 +733,6 @@ There are three possible endpoints:
 	</div>
 	</figure>
 
-We'll only be concerned with the first two endpoints here, and in
-particular white dwarfs, the simpler of the two.
 The core of a white dwarf is electrically neutral, consisting of $N$ electrons and $N$
 protons.
 Since protons are much heavier than electrons, they provide most of
