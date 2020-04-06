@@ -842,7 +842,7 @@ $$
 \end{align*}
 $$
 
-Raising both sides to the power $3/2$, we obtain Chandraskehar's famous limit:
+Raising both sides to the power $3/2$, we obtain Chandraskehar's famous bound:
 
 $$
 M_C \sim \left(\frac{c\hbar}{G}\right)^{3/2}\frac{1}{m_p^2}.
