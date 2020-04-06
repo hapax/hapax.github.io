@@ -57,10 +57,12 @@ We're made out of exploded stars, sure, but biology is also quantum mechanics wr
 	</div>
 	</figure>
 
-We will study the other aspect of exploded stars: the compact remnants
-left behind.
-For most stars, this remnant is called a *white dwarf*.
-White dwarfs also form a link between stars and atoms, and like
+But what about the stuff left behind?
+Once the outer layer of a star burns off, the leftovers are squished
+by gravity to form a *compact remnant*, or if its too heavy, a black
+hole.
+Most stars will turn into a compact remnant called a *white dwarf*.
+It turns out thatwhite dwarfs also form a link between stars and atoms, and like
 atoms, they are governed by quantisation.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
@@ -75,7 +77,7 @@ non-interacting electrons on a circle.
 Even when the gas is at zero temperature, the Pauli exclusion
 principle creates an effective repulsion called *degeneracy pressure*.
 Stapling three circles together, we get a simple but accurate
-model of degeneracy pressure in stellar cores.
+model of degeneracy pressure in stellar remnants.
 We find the Chandraskhar limit by determining when gravity beats degeneracy pressure.
 As a bonus, we also find the relation between white dwarf mass and
 radius.
