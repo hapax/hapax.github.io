@@ -422,8 +422,7 @@ $$
 A(0) = A(L).
 $$
 
-To get the circle back, we can just glue the endpoints, i.e. glue at
-the point the periodicity conditions are imposed.
+To get the circle back, we can just glue the endpoints at $x = 0, L$.
 
 <figure>
     <div style="text-align:center"><img src
