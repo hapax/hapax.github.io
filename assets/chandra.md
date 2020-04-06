@@ -395,21 +395,21 @@ physics of a real star.
 A star is a three-dimensional object, so we will need to upgrade our
 Fermi gas from a one-dimensional circle to something three-dimensional.
 This is one of the few cases where modelling our problem as a sphere
-in a vacuum is a terrible idea!
+in a vacuum is a bad idea!
 It turns out that quantisation on a sphere is difficult, and this is
-part of the reason deriving chemistry from first principles is an
+part of the reason deriving chemistry from physics is an
 extraordinarily complicated business.
 
-To avoid this difficulty, we will do something very crude and staple
-three circles together, with each circle associated to a different
-dimension.
-The result is a *three-dimensional donut*, so really, we want to model
-a star as a donut in a vacuum.
+To avoid this difficulty, we will crudely approximate a sphere as
+three circles stapled together, with each circle associated to a
+different dimension.
 (We can obtain the same results using a three-dimensional box, but the
 donut approach jives better with the hydrogen atom.)
+The result is a *three-dimensional donut*, so really, we are
+effectively modelling a star as a donut in a vacuum!
+To see how circles and donuts are related, we need to think about the
+circle a little differently.
 
-To see where the donut comes from, we need to think about the circle
-differently.
 Take a circle of circumference $L$ and snip it at some point.
 Straightening out, we get a line of length $L$.
 According to Bohr-de Broglie, matter waves on the circle join smoothly
