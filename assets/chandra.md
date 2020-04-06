@@ -500,19 +500,19 @@ In particular, to get a three-dimensional example, let's take a
 product of three circles of length $L$.
 We can view this as a *cube* of side length $L$ with periodic boundary
 conditions, or alternatively, a three-dimensional donut.
-The energy levels have the same form,
+Pythagoras' theorem (applied twice) gives $p^2 = p_x^2 + p_y^2 + p_z^2$.
+If the wavelengths in each direction are $\lambda_x = L/n_x$, $\lambda_y
+= L/n_y$, $\lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
+(n_x, n_y, n_z)$, then we can repeat our reasoning for the donut to
+obtain the expression for $E_{\vec{n}}$:
 
 $$
 E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2 + n_z^2).
 $$
 
-Again, this follows from Pythagoras' theorem, which (applied twice)
-gives $p^2 = p_x^2 + p_y^2 + p_z^2$.
-If the wavelengths in each direction are $\lambda_x = L/n_x$, $\lambda_y
-= L/n_y$, $\lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
-(n_x, n_y, n_z)$, then we can repeat our reasoning for the donut to
-obtain this expression for $E_{\vec{n}}$.
+Clearly, we can generalise this to a donut in any number of
+dimensions, but three will be sufficient for our purposes!
 
 ---
 
