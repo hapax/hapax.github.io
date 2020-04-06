@@ -453,9 +453,7 @@ Gluing the two ends of the cylinder, we get a donut!
 
 Quantisation on the donut is simple.
 Suppose a wave wobbles independently in the $x$ and $y$ directions,
-with amplitude
-$A(x, y) = A(x)B(y)$.
-wavelengths $\lambda_x$ and $\lambda_y$.
+with wavelengths $\lambda_x$ and $\lambda_y$ in each direction.
 We can impose the Bohr-de Broglie condition in each direction
 independently, so
 
@@ -463,6 +461,8 @@ $$
 \lambda_x = \frac{L}{n_x}, \quad \lambda_y = \frac{L}{n_y}.
 $$
 
+In the image above, for instance, we have $n_x = 1$ and $n_y = 2$, so
+$\lambda_x = L$ and $\lambda_y = L/2$.
 To determine the energy, we use the fact that $p^2 = |\vec{p}|^2$ is the *squared
 length* of the momentum vector, $\vec{p} = (p_x, p_y)$:
 
