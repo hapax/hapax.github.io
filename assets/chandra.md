@@ -531,41 +531,43 @@ dimensions, but three will be sufficient for our purposes!
 
 ### 2.4. The Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
 
-As Exercise 3 demonstrates, finding energy levels on the donut takes
-some work, even though it is vastly simpler than the atom.
+The *Fermi sea* is the set of occupied energy levels for a Fermi gas.
+As Exercise 3 demonstrates, filling out the Fermi sea on a donut takes some work.
 It is even trickier to calculate energy levels on the
 three-dimensional donut, where we need to consider all the different
 possibilities for $\vec{n} = (n_x, n_y, n_z)$.
-Calculating the Fermi energy $E_F$ for large $N$ seems like a hard and
-boring task best suited to a computer.
+Calculating the Fermi energy $E_F$ for large $N$ seems like a hard
+combinatorics problem best suited to a computer.
+Thankfully, there is a neat shortcut for filling out the Fermi sea
+when $N$ is very large.
+We'll do the calculation for a regular donut, and leave the
+three-dimensional donut to Exercise 4.
 
-However, there is a shortcut for computationally-challenged humans when $N$ is very large.
-We'll do the calculation for a regular donut, and leave you to do the
-calculation for the three-dimensional donut.
-The vectors $\vec{n} = (n_x, n_y)$ live on a Cartesian plane, with one
-point per unit area.
+For the donut, the mode vectors $\vec{n} = (n_x, n_y)$ live on a
+Cartesian plane, with one point per unit area.
 If we draw a circle of radius $n_F$ in this plane, centred at the
-origin, then provided it is large, the number of points it contains is
-approximately equal to the area:
+origin, the number of points it contains is approximately equal to the area:
 
 $$
 N \approx \pi n_F^2.
 $$
 
-This disk is called the *Fermi sea*.
-The maximum length of a vector in the Fermi sea is $|\vec{n}|^2 \approx
-n_F^2$, and the disk contains all vectors of smaller length as well.
-Electrons added to the system will find the shortest available vector,
-filling out the disk radially.
+This approximation gets better as $n_F$ gets larger, as illustrated in
+the picture below.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra9.png"/>
-		    <figcaption><i>Fermi sea in 2d.</i></figcaption>
+		    <figcaption><i>Fermi sea of red points. The disk
+    approximation gets better as N gets larger </i></figcaption>
 	</div>
 	</figure>
 
-From the Fermi sea picture, we learn that for large $N$, the Fermi energy is
+The maximum length of a vector in this disk is $|\vec{n}|^2 \approx
+n_F^2$, and the disk contains all vectors of smaller length as well.
+Electrons added to the system will find the shortest available vector,
+filling out the disk radially.
+We learn that for large $N$, the Fermi energy is
 
 $$
 E_F \approx \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) n_F^2 \approx \left(\frac{2\pi \hbar^2}{m_e L^2}\right) N.
