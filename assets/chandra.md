@@ -447,7 +447,7 @@ Gluing the two ends of the cylinder, we get a donut!
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra7.png"/>
-		    <figcaption><i>Matter waves on a donut = stapled circles.</i></figcaption>
+		    <figcaption><i>Matter waves on two stapled circles = a donut.</i></figcaption>
 	</div>
 	</figure>
 
