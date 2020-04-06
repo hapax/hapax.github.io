@@ -19,7 +19,7 @@ date:  2020-03-26
    1. <a href="#sec-2-1">Bohr's model</a>
    2. <a href="#sec-2-2">Electrons on a circle</a>
    3. <a href="#sec-2-3">Electrons on a donut</a>
-   3. <a href="#sec-2-4">The Fermi sea</a>
+   3. <a href="#sec-2-4">Approximating the Fermi sea</a>
 3. <a href="#sec-3">Adding gravity</a>
    1. <a href="#sec-3-1">Ultrarelativity</a>
    2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
@@ -512,8 +512,19 @@ E_{\vec{n}} = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) |\vec{n}|^2
 = \left(\frac{2\pi^2 \hbar^2 }{m_e L^2}\right) (n_x^2 + n_y^2 + n_z^2).
 $$
 
-Clearly, we can generalise this to a donut in any number of
-dimensions, but three will be sufficient for our purposes!
+We end with a bit of terminology we will use below.
+A circle is a periodic line (opposite ends glued), and a donut is a
+periodic square (opposite sides glued).
+Similarly, we can view a three-dimensional donut as a *periodic cube*
+(opposite faces glued).
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra10.png"/>
+		    <figcaption><i>Periodic line, square amd cube. (Coloured
+    edges glued.)</i></figcaption>
+	</div>
+	</figure>
 
 ---
 
@@ -529,7 +540,7 @@ dimensions, but three will be sufficient for our purposes!
 
 ---
 
-### 2.4. The Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
+### 2.4. Approximating the Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
 
 The *Fermi sea* is the set of occupied energy levels for a Fermi gas.
 As Exercise 3 demonstrates, filling out the Fermi sea on a donut takes some work.
@@ -559,7 +570,7 @@ the picture below.
     <div style="text-align:center"><img src
     ="/images/posts/chandra9.png"/>
 		    <figcaption><i>Fermi sea of red points. The disk
-    approximation gets better as N gets larger </i></figcaption>
+    approximation gets better as N gets larger.</i></figcaption>
 	</div>
 	</figure>
 
@@ -584,12 +595,11 @@ $$
 P_F \sim \frac{NE_F}{L^2} \sim \frac{\hbar^2 N^2}{m_e L^4}.
 $$
 
-You can see what the Fermi sea looks like for a three-dimensional donut
-in Exercise 4.
+It's your turn now!
 
 ---
 
-**Exercise 4.** Now consider a Fermi gas in a periodic cube of side length $L$.
+**Exercise 4.** Consider a Fermi gas in a three-dimensional donut.
 
 <span style="padding-left: 20px; display:block">
 (a) For $n_F \gg 1$, show that a ball of radius $n_F$ in
