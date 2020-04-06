@@ -723,6 +723,13 @@ There are three possible endpoints:
   M$), nothing can resist gravity, and it ineluctably collapses to
   form a black hole.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra12.png"/>
+		    <figcaption><i>A flow-chart for the fate old stars.</i></figcaption>
+	</div>
+	</figure>
+
 We'll only be concerned with the first two endpoints here, and in
 particular white dwarfs, the simpler of the two.
 The core of a white dwarf is electrically neutral, consisting of $N$ electrons and $N$
