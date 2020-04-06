@@ -450,6 +450,13 @@ If we glue the top and the bottom, and the left and the right, we will
 end up with a donut.
 We learn that the product of two circles is a donut.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra7.png"/>
+		    <figcaption><i>Matter waves on a donut = stapled circles.</i></figcaption>
+	</div>
+	</figure>
+
 Quantisation on the donut is simple.
 Suppose a wave wobbles independently in the $x$ and $y$ directions,
 $A(x, y) = A(x)A(y)$, with wavelengths $\lambda_x$ and $\lambda_y$.
