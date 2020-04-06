@@ -558,6 +558,13 @@ n_F^2$, and the disk contains all vectors of smaller length as well.
 Electrons added to the system will find the shortest available vector,
 filling out the disk radially.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra9.png"/>
+		    <figcaption><i>Fermi sea in 2d.</i></figcaption>
+	</div>
+	</figure>
+
 From the Fermi sea picture, we learn that for large $N$, the Fermi energy is
 
 $$
