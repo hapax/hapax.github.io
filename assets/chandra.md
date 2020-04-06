@@ -882,8 +882,6 @@ The state-of-the-art limit, incorporating details about the white
 dwarf's composition and structure, is $ M_C \approx 1.44 \,M_\odot$.
 We've done remarkably well!
 
----
-
 <p align="center">
   ⁂
   </p>
