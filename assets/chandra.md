@@ -470,6 +470,15 @@ $$
 p^2 = p_x^2 + p_y^2.
 $$
 
+This is just Pythagoras' theorem applied to momentum.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra8.png"/>
+		    <figcaption><i>Momentum (squared) in two and three dimensions.</i></figcaption>
+	</div>
+	</figure>
+
 Finally, the de Broglie relation in each direction gives $\lambda_x =
 2\pi\hbar/p_x$, $\lambda_y = 2\pi\hbar/p_y$, hence
 
