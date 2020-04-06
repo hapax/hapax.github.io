@@ -999,7 +999,7 @@ dwarf!
 The Pauli exclusion principle stops the white dwarf from collapsing
 under its own weight.
 But at the Chandrasekhar limit, gravity wins, and the white dwarf
-implodes and becomes a black hole.
+implodes into a black hole.
 The limit is also remarkably close to the best known bounds on neutron
 star mass, given that we ignored the strong force repulsion.
 
