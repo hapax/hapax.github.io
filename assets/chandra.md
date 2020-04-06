@@ -999,7 +999,7 @@ $$
 M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
-Our naive guess agrees with state-of-the-art bounds on the maximum size of a neutron star!
+To an order of magnitude, our naive guess agrees with the state-of-the-art!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
