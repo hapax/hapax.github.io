@@ -453,7 +453,7 @@ Gluing the two ends of the cylinder, we get a donut!
 
 Quantisation on the donut is simple.
 Suppose a wave wobbles independently in the $x$ and $y$ directions,
-with wavelengths $\lambda_x$ and $\lambda_y$ in each direction.
+with wavelengths $\lambda_x$ and $\lambda_y$.
 We can impose the Bohr-de Broglie condition in each direction
 independently, so
 
