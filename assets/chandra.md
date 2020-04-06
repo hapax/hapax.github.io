@@ -555,7 +555,7 @@ Calculating the Fermi energy $E_F$ for large $N$ seems like a hard
 combinatorics problem best suited to a computer.
 
 Thankfully, there is a neat shortcut for filling out the Fermi sea
-when $N$ is very large.
+when $N$ is large.
 We'll do the calculation for a regular donut, and leave the
 three-dimensional donut to Exercise 4.
 For the donut, the mode vectors $\vec{n} = (n_x, n_y)$ live on a
@@ -652,7 +652,7 @@ $$
 
 where $p^2 = |\vec{p}|^2$ is the momentum squared as usual, and
 $m_0$ is the mass of the particle at rest.
-(The usual $m$ is he *relativistic mass*, which changes with speed.)
+(The usual $m$ is *relativistic mass*, which changes with speed.)
 Particles in an old star usually have much more momentum than rest mass, so
 the kinetic energy takes the *ultrarelativistic form*:
 
@@ -661,7 +661,7 @@ E^2 \approx p^2 c^2  \quad \Longrightarrow \quad E \approx |\vec{p}|c.
 $$
 
 All the business about Bohr-de Broglie quantisation remains unchanged,
-and in fact the analogy to light is much better now!
+and in fact the analogy to light is much improved!
 It follows that
 
 $$
