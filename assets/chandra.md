@@ -804,9 +804,9 @@ where $M,m$ are separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/chandra13.png"/>
-		    <figcaption><i>At the Chandrasekhar limit, degeneracy and
-    gravitational pressure are perfectly balanced.</i></figcaption>
+    ="/images/posts/chandra13v2.png"/>
+		    <figcaption><i>At the Chandrasekhar limit, degeneracy
+    pressure and gravity are in perfect balance.</i></figcaption>
 	</div>
 	</figure>
 
@@ -881,6 +881,7 @@ We've done remarkably well!
 
 **Exercise 8.** Let's finally solve the problem of how many electrons you can
 plonk into a box before it forms a black hole.
+(The difference from the white dwarf is that there are no protons.)
 
 <span style="padding-left: 20px; display:block">
 (a) Argue that, if the electrons are ultrarelativistic, the box of
