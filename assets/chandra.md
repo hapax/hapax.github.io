@@ -862,6 +862,13 @@ In 1983, Chandra won the
 [Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/1983/summary/),
 largely for his work on white dwarfs.
 
+Although we have reached our main goal, the exercises below convert
+Chandrasekhar's limit to solar masses (Exercise 7), throw electrons
+into a box until it collapses (Exercise 8), deduce the mass-radius
+relation for non-relativistic white dwarfs (Exercise 9), and finally,
+explore two-dimensional stellar remnants (Exercise 10).
+Have fun!
+
 ---
 
 **Exercise 7.** Evaluate $M_C$ numerically and compare to the mass of the sun. You
