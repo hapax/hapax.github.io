@@ -726,7 +726,7 @@ There are three possible endpoints:
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra12.png"/>
-		    <figcaption><i>A flow-chart for the fate old stars.</i></figcaption>
+		    <figcaption><i>A flow-chart for the fate of old stars.</i></figcaption>
 	</div>
 	</figure>
 
