@@ -29,7 +29,7 @@ date:  2020-03-26
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 Though they differ in size by many orders of magnitude, the solar
-system and the atom are not so different.
+system and the atom are superficially not so different.
 Both involve smaller bodies (electrons/planets) orbiting a much
 larger body (nucleus/sun) under the influence of a
 central force (electrostatics/gravity).
