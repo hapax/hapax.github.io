@@ -895,7 +895,7 @@ the centre of the Milky Way and other galaxies.
   ⁂
   </p>
 
-**Exercise 9.** Let's repeat our pressure-balancing argument with the
+**Exercise 9.** We can repeat our pressure-balancing argument with the
 non-relativistic Fermi gas.
 This is appropriate to smaller and less gravitationally extreme white dwarfs.
 
