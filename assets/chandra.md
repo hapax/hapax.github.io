@@ -571,9 +571,9 @@ the picture below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/chandra9.png"/>
-		    <figcaption><i>Fermi sea of red points. The disk
-    approximation gets better as N gets larger.</i></figcaption>
+    ="/images/posts/chandra9v2.png"/>
+		    <figcaption><i>A hotel by the sea. The disk
+    approximation improves as N gets larger.</i></figcaption>
 	</div>
 	</figure>
 
