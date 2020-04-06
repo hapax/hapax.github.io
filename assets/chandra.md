@@ -980,7 +980,7 @@ Is there a Chandrasekhar limit?
 
 How are neutron stars different from white dwarfs?
 Neutrons are fermions, so if we pack them into a box, there will be
-degeneracy pressure.
+degeneracy pressure as before.
 Neutron stars are still cold compared to the Fermi temperature, so the
 zero-temperature approximation is good.
 If we repeat the reasoning above, balancing neutron degeneracy
