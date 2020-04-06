@@ -933,6 +933,20 @@ State Buildings!
 
 <!--  (10^(-68)/(9.1*10^(-31)*(1.7*10^(-27))^(5/3)*6.7*10^(-11)))^3/(6.4*10^6)^6 -->
 
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 10.** Consider a *two-dimensional* white dwarf.
+Gravity in two dimensions obeys a slightly modified version of
+Newton's law:
+
+$$
+F = \frac{G_2 Mm}{R}.
+$$
+
+Is there a Chandrasekhar limit?
+
 ---
 
 How are neutron stars different from white dwarfs?
