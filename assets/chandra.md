@@ -660,6 +660,16 @@ $$
 E^2 \approx p^2 c^2  \quad \Longrightarrow \quad E \approx |\vec{p}|c.
 $$
 
+We can picture the different regimes below.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra11.png"/>
+		    <figcaption><i>Einstein's famous formula. The
+    $E$-intercept is rest mass energy, the blue region is Newtonian, and the yellow region is "ultrarelativistic".</i></figcaption>
+	</div>
+	</figure>
+
 All the business about Bohr-de Broglie quantisation remains unchanged,
 and in fact the analogy to light is much improved!
 It follows that
