@@ -432,23 +432,17 @@ To get the circle back, we can just glue the endpoints at $x = 0, L$.
 	</div>
 	</figure>
 
-We are now going to "square the circle", and lay two
-snipped circles at right angles to each other.
-Viewed from the snipped perspective, we have two lines of length
-$L$, so their product is a *square* with horizontal coordinate $x$
-and vertical coordinate $y$.
-A wave is now a wobbly sheet drawn over the square, with amplitude
-$A(x, y)$.
-But viewing each vertical line as a circle, and each horizontal line
-as a circle, we get the periodicity requirements
-
-$$
-A(0, y) = A(L, y), \quad A(x, 0) = A(x, L).
-$$
-
-If we glue the top and the bottom, and the left and the right, we will
-end up with a donut.
-We learn that the product of two circles is a donut.
+We are now going to "square the circle":
+lay two snipped circles at right angles, forming a square with
+horizontal coordinate $x$ (associated to one circle) and vertical
+coordinate $y$ (associated to the other).
+A wave is now a wobbly sheet drawn over the top of the square.
+But the left and right are identified, because we have a circle in the
+horizontal direction, and gluing the left and right of the square
+gives a cylinder.
+But the top and bottom are also identified, since we have a circle in
+the vertical direction.
+Gluing the two ends of the cylinder, we get a donut!
 
 <figure>
     <div style="text-align:center"><img src
@@ -459,7 +453,9 @@ We learn that the product of two circles is a donut.
 
 Quantisation on the donut is simple.
 Suppose a wave wobbles independently in the $x$ and $y$ directions,
-$A(x, y) = A(x)A(y)$, with wavelengths $\lambda_x$ and $\lambda_y$.
+with amplitude
+$A(x, y) = A(x)B(y)$.
+wavelengths $\lambda_x$ and $\lambda_y$.
 We can impose the Bohr-de Broglie condition in each direction
 independently, so
 
