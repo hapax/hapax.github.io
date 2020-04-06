@@ -950,10 +950,10 @@ Gravity in two dimensions obeys a slightly modified version of
 Newton's law:
 
 $$
-F = \frac{G_2 Mm}{R}.
+F = \frac{G_2 Mm}{R},
 $$
 
-Is there a Chandrasekhar limit?
+in other words, we change an inverse square to a simple reciprocal. Is there a Chandrasekhar limit?
 
 ---
 
