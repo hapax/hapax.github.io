@@ -58,12 +58,12 @@ We're made out of exploded stars, sure, but biology is also quantum mechanics wr
 	</figure>
 
 But what about the stuff left behind?
-Once the outer layer of a star burns off, the leftovers are squished
-by gravity to form a *compact remnant*, or if its too heavy, a black
+Once the outer layer of a star burns off, the leftovers are squished together
+by gravity to form a *compact remnant* or even a black
 hole.
 Most stars will turn into a compact remnant called a *white dwarf*.
-It turns out thatwhite dwarfs also form a link between stars and atoms, and like
-atoms, they are governed by quantisation.
+It turns out that white dwarfs form a different link between stars and
+atoms: like atoms, they are governed by quantisation.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
 [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar),
