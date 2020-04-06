@@ -402,12 +402,13 @@ that deriving chemistry from physics is a tricky business.
 To avoid this difficulty, we will crudely approximate a sphere as
 three circles stapled together, with each circle associated to a
 different dimension.
-(We can obtain the same results using a three-dimensional box, but the
-donut approach jives better with the hydrogen atom.)
 The result is a *three-dimensional donut*, so really, we are
 effectively modelling a star as a donut in a vacuum!
 To see how circles and donuts are related, we need to think about the
 circle a little differently.
+(A similar approach is to start with quantisation on a line rather
+than a circle, then staple three lines to get a box, but our approach
+jives better with the hydrogen atom.)
 
 Take a circle of circumference $L$ and snip it at some point.
 Straightening out, we get a line of length $L$.
