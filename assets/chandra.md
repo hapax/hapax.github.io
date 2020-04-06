@@ -632,18 +632,18 @@ $$
 
 We're almost ready to perform our thought experiment of throwing
 electrons into a box until we make a black hole.
-But to apply our Fermi gas model to old stars, we need to tinker with
-the energy, and learn a little astrophysics.
+But to apply our Fermi gas model to old stars, we need to learn a little astrophysics.
 
 ### 3.1. Ultrarelativity <a id="sec-3-1" name="sec-3-1"></a>
 
-The gravitational force is strong with stars, particularly old stars which have
-shed their outer layers and contracted to form a dense core.
-This means particles are zipping around at close to the speed of
+The gravitational force is strong with stars, particularly old stars who have
+shed their outer layers and contracted to a dense core.
+This means most particles are zipping around at close to the speed of
 light, and the earlier, Newtonian form of kinetic energy we used is no
-longer accurate.
-Einstein's famous equation $E = mc^2$ can be written in the slightly
-more transparent form
+longer appropriate.
+Instead, we have to use relativity!
+Recall Einstein's famous equation $E = mc^2$. Note that it can be
+written in the slightly more transparent form
 
 $$
 E^2 = (m_\text{rest} c^2)^2 + p^2 c^2,
