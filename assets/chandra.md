@@ -924,7 +924,7 @@ as it gets heavier!
 
 <span style="padding-left: 20px; display:block">
 (b) Compute the mass density of a white dwarf the same size as the
-earth.
+earth, assuming we are in the non-relativistic regime.
 The earth has radius $R = 6.4 \times 10^6 \text{ m}$, while an
 electron has mass $m_e = 9.1 \times 10^{-31} \text{ kg}$.
 	You should obtain
