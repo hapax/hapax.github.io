@@ -133,7 +133,7 @@ The final rule --- particles are as stingy as possible --- means the
 gas is at *zero temperature*.
 At finite temperature, there is some chance arriving particles will
 splash out on a more expensive room!
-Our three rules describe Hotel Fermi: a *zero temperature Fermi gas*.
+Our three rules describe Hotel Fermi, aka a *zero temperature Fermi gas*.
 
 ### 2.1. Bohr's model<a id="sec-2-1" name="sec-2-1"></a>
 
