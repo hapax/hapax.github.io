@@ -546,6 +546,7 @@ dimensions will be sufficient for our purposes!
 ### 2.4. Approximating the Fermi sea <a id="sec-2-4" name="sec-2-4"></a>
 
 The *Fermi sea* is the set of occupied energy levels for a Fermi gas.
+In the hotel analogy, it's just the set of occupied rooms!
 As Exercise 3 demonstrates, filling out the Fermi sea on a donut takes some work.
 It is even trickier to calculate energy levels on the
 three-dimensional donut, where we need to consider all the different
