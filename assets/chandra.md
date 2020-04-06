@@ -406,7 +406,7 @@ The result is a *three-dimensional donut*, so really, we are
 effectively modelling a star as a donut in a vacuum!
 To see how circles and donuts are related, we need to think about the
 circle a little differently.
-Our warm will be to show that stapling two circles gives a regular donut.
+As a warm-up, we'll show that stapling two circles gives a regular donut.
 (A similar approach is to start with quantisation on a line rather
 than a circle, then staple three lines to get a box, but our approach
 jives better with the hydrogen atom.)
