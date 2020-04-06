@@ -1003,11 +1003,11 @@ implodes into a black hole.
 The limit is also remarkably close to the best known bounds on neutron
 star mass, given that we ignored the strong force repulsion.
 
-It's amazing to me that we can *simplify* the hydrogen atom, and use
+It's amazing that we can *simplify* the hydrogen atom, and use
 it to learn about the death of stars.
-This is a big part of the aesthetic appeal of physics: simple ideas with
-incredible power.
-In the words of Chandra himself,
+To me, this is the central to the aesthetic appeal of physics: simple
+ideas with incredible power.
+And in the words of Chandra himself,
 
 <span style="padding-left: 20px; display:block">
 What is intelligible is also beautiful.
