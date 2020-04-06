@@ -390,22 +390,26 @@ $$
 
 ### 2.3. Electrons on a donut <a id="sec-2-3" name="sec-2-3"></a>
 
-We live in a three-dimensional world.
-In order to understand something like a star, we will need to upgrade
-the Fermi gas on a circle to something more like a sphere.
-But spheres are hard!
-Atomic physics is hard not primarily because of interactions between
-electrons, but because working with a sphere leads to a
-slew of shells (s, p, d, f, ...) and subshells and all the attendant
-complications.
+A circle is nice and simple; too simple, in fact, to capture the
+physics of a real star.
+A star is a three-dimensional object, so we will need to upgrade our
+Fermi gas to something three-dimensional as well.
+This is one of the few cases where modelling our problem as a sphere
+in a vacuum is a terrible idea!
+It turns out that quantisation on a sphere is difficult, and this is
+part of the reason deriving chemistry from first principles is an
+extraordinarily complicated business.
 
-We will continue in our efforts to learn from the atom and avoid what
-is hard.
-In this case, we will approximate a sphere as a product of three
-circles.
-To see what this means, and why it might be useful, we first need to
-think of the circle a little differently.
+To avoid this difficulty, we will do something very crude and staple
+three circles together, with each circle associated to a different
+dimension.
+The result is a *three-dimensional donut*, so really, we want to model
+a star as a donut in a vacuum.
+(We can obtain the same results using a three-dimensional box, but the
+donut approach jives better with the hydrogen atom.)
 
+To see where the donut comes from, we need to think about the circle
+differently.
 Take a circle of circumference $L$ and snip it at some point.
 Straightening out, we get a line of length $L$.
 According to Bohr-de Broglie, matter waves on the circle join smoothly
