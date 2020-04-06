@@ -527,7 +527,7 @@ Similarly, we can view a three-dimensional donut as a *periodic cube*
 	</figure>
 
 We can generalise this to higher-dimensional donuts, but three
-dimensions will be sufficient for our purposes.
+dimensions will be sufficient for our purposes!
 
 ---
 
