@@ -425,6 +425,13 @@ $$
 To get the circle back, we can just glue the endpoints, i.e. glue at
 the point the periodicity conditions are imposed.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra6.png"/>
+		    <figcaption><i>Waves on the snipped circle.</i></figcaption>
+	</div>
+	</figure>
+
 Let's consider a "product" of two circles of circumference $L$.
 Viewed from the snipped perspective, we have two lines of length
 $L$, so their product is a *square* with horizontal coordinate $x$
