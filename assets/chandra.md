@@ -647,11 +647,12 @@ Recall Einstein's famous equation $E = mc^2$. Note that it can be
 written in the slightly more transparent form
 
 $$
-E^2 = (m_\text{rest} c^2)^2 + p^2 c^2,
+E^2 = (m_0 c^2)^2 + p^2 c^2,
 $$
 
 where $p^2 = |\vec{p}|^2$ is the momentum squared as usual, and
-$m_\text{rest}$ is the mass of the particle at rest.
+$m_0$ is the mass of the particle at rest.
+(The usual $m$ is he *relativistic mass*, which changes with speed.)
 Particles in an old star usually have much more momentum than rest mass, so
 the kinetic energy takes the *ultrarelativistic form*:
 
