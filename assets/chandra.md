@@ -553,11 +553,11 @@ three-dimensional donut, where we need to consider all the different
 possibilities for $\vec{n} = (n_x, n_y, n_z)$.
 Calculating the Fermi energy $E_F$ for large $N$ seems like a hard
 combinatorics problem best suited to a computer.
+
 Thankfully, there is a neat shortcut for filling out the Fermi sea
 when $N$ is very large.
 We'll do the calculation for a regular donut, and leave the
 three-dimensional donut to Exercise 4.
-
 For the donut, the mode vectors $\vec{n} = (n_x, n_y)$ live on a
 Cartesian plane, with one point per unit area.
 If we draw a circle of radius $n_F$ in this plane, centred at the
