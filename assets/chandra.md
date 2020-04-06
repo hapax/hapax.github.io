@@ -802,6 +802,14 @@ $$
 
 where $M,m$ are separated by $R$, and $G = 6.7\times 10^{-11} \text{ m}^3/\text{kg s}^2$ is *Newton's constant*.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chandra13.png"/>
+		    <figcaption><i>At the Chandrasekhar limit, degeneracy and
+    gravitational pressure are perfectly balanced.</i></figcaption>
+	</div>
+	</figure>
+
 Consider a spherical white dwarf of mass $M$ and radius $R$.
 What gravitational force does this exert on itself?
 Obviously a precise answer will depend on the composition of the dwarf
