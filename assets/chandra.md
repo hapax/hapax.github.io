@@ -665,8 +665,8 @@ We can picture the different regimes below.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra11.png"/>
-		    <figcaption><i>Einstein's famous formula. The
-    $E$-intercept is rest mass energy, the blue region is Newtonian, and the yellow region is "ultrarelativistic".</i></figcaption>
+		    <figcaption><i>A graph of Einstein's famous formula. The
+    E-intercept is rest mass energy, the blue region is Newtonian, and the yellow region is "ultrarelativistic".</i></figcaption>
 	</div>
 	</figure>
 
