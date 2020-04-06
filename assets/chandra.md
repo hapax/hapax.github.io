@@ -432,7 +432,7 @@ To get the circle back, we can just glue the endpoints at $x = 0, L$.
 	</div>
 	</figure>
 
-We are now going to "square the circle", and consider laying two
+We are now going to "square the circle", and lay two
 snipped circles at right angles to each other.
 Viewed from the snipped perspective, we have two lines of length
 $L$, so their product is a *square* with horizontal coordinate $x$
