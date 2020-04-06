@@ -406,6 +406,7 @@ The result is a *three-dimensional donut*, so really, we are
 effectively modelling a star as a donut in a vacuum!
 To see how circles and donuts are related, we need to think about the
 circle a little differently.
+Our warm will be to show that stapling two circles gives a regular donut.
 (A similar approach is to start with quantisation on a line rather
 than a circle, then staple three lines to get a box, but our approach
 jives better with the hydrogen atom.)
@@ -427,11 +428,12 @@ To get the circle back, we can just glue the endpoints at $x = 0, L$.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra6.png"/>
-		    <figcaption><i>Waves on the snipped circle.</i></figcaption>
+		    <figcaption><i>Matter waves on the snipped circle.</i></figcaption>
 	</div>
 	</figure>
 
-Let's consider a "product" of two circles of circumference $L$.
+We are now going to "square the circle", and consider laying two
+snipped circles at right angles to each other.
 Viewed from the snipped perspective, we have two lines of length
 $L$, so their product is a *square* with horizontal coordinate $x$
 and vertical coordinate $y$.
