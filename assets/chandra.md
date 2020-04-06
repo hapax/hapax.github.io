@@ -40,7 +40,7 @@ neighbourhood" of any interlopers
 Electrons automatically clear their orbitals by
 the *Pauli exclusion principle*, a point we will return to below.
 
-That's where the resemblance ends.
+But that's where the resemblance ends.
 The solar system is classical, and planets can orbit the sun at any
 old radius they like.
 In contrast, atoms obey quantum mechanics, and the orbits are
@@ -57,11 +57,10 @@ We're made out of exploded stars, sure, but biology is also quantum mechanics wr
 	</div>
 	</figure>
 
-Rather than think about the fate of heavy elements ejected by
-old stars, we will study the much simpler fate of the compact remnants
+We will study the other aspect of exploded stars: the compact remnants
 left behind.
 For most stars, this remnant is called a *white dwarf*.
-Like life, white dwarfs form a link between stars and atoms, and like
+White dwarfs also form a link between stars and atoms, and like
 atoms, they are governed by quantisation.
 With some dimensional analysis, we can obtain an order-of-magnitude
 bound on the mass of white dwarfs called the *Chandrasekhar limit*, after
@@ -119,7 +118,7 @@ particles, so our rules describes a *quantum gas*.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/chandra2.png"/>
-		    <figcaption><i>A stingy electron looking to stay at Hotel Fermi.</i></figcaption>
+		    <figcaption><i>An electron looking to stay at Hotel Fermi.</i></figcaption>
 	</div>
 	</figure>
 
