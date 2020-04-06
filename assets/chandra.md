@@ -502,7 +502,7 @@ harder, though we boldly make an attempt below.
 
 ---
 
-**Exercise 3.** Let's get a feeling for energy levels on a donut.
+**Exercise 3.** Let's get a feeling for energy levels on a (two-dimensional) donut.
 
 <span style="padding-left: 20px; display:block">
 (a) Compute the lowest three energy levels, and sketch them on the square.
