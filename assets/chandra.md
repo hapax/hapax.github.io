@@ -998,8 +998,7 @@ $$
 M_\text{TOV} \approx 2.17 \, M_\odot.
 $$
 
-Our naive guess gives an accurate order-of-magnitude
-bound on the maximum size of a neutron star!
+Our naive guess agrees with state-of-the-art bounds on the maximum size of a neutron star!
 
 ## 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
