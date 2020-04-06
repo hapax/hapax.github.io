@@ -471,6 +471,7 @@ p^2 = p_x^2 + p_y^2.
 $$
 
 This is just Pythagoras' theorem applied to momentum.
+We depict momentum vectors in two and three dimensions below.
 
 <figure>
     <div style="text-align:center"><img src
