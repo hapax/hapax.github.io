@@ -509,8 +509,8 @@ $$
 
 Again, this follows from Pythagoras' theorem, which (applied twice)
 gives $p^2 = p_x^2 + p_y^2 + p_z^2$.
-If the wavelengths in each direction are $\lambda_x = L/n_x, \lambda_y
-= L/n_y, \lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
+If the wavelengths in each direction are $\lambda_x = L/n_x$, $\lambda_y
+= L/n_y$, $\lambda_z = L/n_z$, with corresponding mode vector $\vec{n} =
 (n_x, n_y, n_z)$, then we can repeat our reasoning for the donut to
 obtain this expression for $E_{\vec{n}}$.
 
