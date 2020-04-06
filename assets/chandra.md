@@ -526,6 +526,9 @@ Similarly, we can view a three-dimensional donut as a *periodic cube*
 	</div>
 	</figure>
 
+We can generalise this to higher-dimensional donuts, but three
+dimensions will be sufficient for our purposes.
+
 ---
 
 **Exercise 3.** Let's get a feeling for energy levels on a (two-dimensional) donut.
