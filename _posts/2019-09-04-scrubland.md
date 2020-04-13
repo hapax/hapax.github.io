@@ -591,7 +591,7 @@ If this is greater than the speed limit, they can issue a fine!
 ##### 2.2. A kink in the argument <a id="sec-2-2" name="sec-2-2"></a>
 
 As fun as the MVT is to prove, it's even more fun to break.
-If the students draw a sharp kink in the curve, they will find that the theorem fails:
+If students draw a sharp kink in the curve, they will find that the theorem fails:
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/mvt7.png"
@@ -608,7 +608,7 @@ This places an important technical constraint on the mean value
 theorem: at every point, the curve must be differentiable, aka
 *straight at infinite zoom*.
 
-We could leave it there, but for kicks, let's try and *maximally
+We could leave it there, but let's try and *maximally
 break* the theorem.
 In the single-kink case, we can simply shift on the endpoints to
 define the function on a subinterval $a' \leq x \leq b'$ where the
@@ -622,7 +622,7 @@ mean value theorem *does* hold. We just avoid the kink!
 	</figure>
 
 So here is the challenge: define a continuous curve where the
-mean value theorem is not applicable in any subinterval.
+mean value theorem is not applicable in *any* subinterval.
 Since we can apply the theorem to any subinterval
 without kinks, we need *every subinterval to contain a kink*.
 In technical parlance, the kinks must be *dense* in $[a, b]$.
@@ -633,14 +633,14 @@ First, let's set $a = 0$ and $b= 1$; we lose nothing by making this
 choice, since we can always scale and shift our answer to recover the
 result for an arbitrary interval.
 We can start with a trangle-shaped function possessing a single kink at $x =
-1/2$, though most functions with a single kink will do.
+1/2$.
 For the triangle, we can apply the MVT to any subinterval entirely to the left of the midpoint,
 or entirely the right of the midpoint.
 Call these intervals, where the MVT applies, *good subintervals*.
 They have maximum length $1/2$.
 
-Our strategy will be to iteratively add kinks, and reduce the length
-of good subintervals by half each time, until they disappear altogether!
+Our strategy will be to iteratively add more and more kinks, reducing the length
+of good subintervals by half each time until they disappear altogether!
 To begin with, let's place kinks at $x = 1/4, 3/4$ so that the
 maximum length is $1/4$.
 A simple way to do this is to *scale down* the triangle function by a
@@ -671,7 +671,7 @@ $n \to \infty$, they have no length at all!
 Informally, this shows that for the blancmange function, there are no good subintervals.
 To make this slightly neater, we can label kinks with their "decimal"
 expansions in base 2.
-The initialy kink is at $x = 0.1$.
+The initial kink is at $x = 0.1$.
 The kinks for $n = 1$ are at $x = 0.01, 0.10, 0.11$.
 The kinks for $n= 2$ are at
 
@@ -697,7 +697,7 @@ In a classroom setting, I think it's probably best to raise both
 problems, but answer them "experimentally": simply graph the function
 at different values of $n$, or get the students to program it
 themselves.
-They should see the function settle down to something continuous as as $n$ gets large.
+They should see the function settle down to something continuous as $n$ gets large.
 (See [this Geogebra applet](https://www.geogebra.org/m/BTRh89uH)
 by David Richeson for example.)
 This is not a proof, but it does give a convincing numerical
@@ -792,15 +792,7 @@ Is this too advanced for students?
 I don't think so.
 It can be motivated as an extension of the usual binomial theorem, and
 "proved" (without worrying too much about convergence) via the
-[Maclaurin series](https://en.wikipedia.org/wiki/Taylor_series):
-
-$$
-(1+x)^\alpha = \sum_{n=0}^\infty \binom{\alpha}{n} x^n, \quad
-\binom{\alpha}{n} = \frac{1}{n!}
-\frac{d^n}{dx^n}(1+x)^\alpha\big|_{x=0} =
-\frac{\alpha\cdot(\alpha-1)\cdots (\alpha-n+1)}{n!}.
-$$
-
+[Maclaurin series](https://en.wikipedia.org/wiki/Taylor_series).
 Now "anti-differentiate" term-by-term:
 
 $$
@@ -837,7 +829,7 @@ Below, I've plotted the first six partial sums.
 	</div>
 	</figure>
 
-Newton derived this formula (using geometry rather than calculus) and
+Newton himself derived this formula (using geometry rather than calculus) and
 exploited the rapid convergence to compute $\pi$ to $15$ decimal
 places in 1666.
 He later wrote, "I am ashamed to tell you to how many figures I carried these
