@@ -14,8 +14,8 @@ date:  2019-09-04
 
 ### Contents
 
-1. <a href="#sec-1">Stuck in the scrubland</a>
-   1. <a href="#sec-1-1">A preamble</a>
+1. <a href="#sec-1">Introduction</a>
+   1. <a href="#sec-1-1">Stuck in the scrubland</a>
    2. <a href="#sec-1-2">A patch of scrubland</a>
    3. <a href="#sec-1-3">Shrubs and maximin</a>
    4. <a href="#sec-1-4">Roads to nowhere</a>
@@ -30,7 +30,7 @@ date:  2019-09-04
 4. <a href="#sec-4">Miscellaneous issues</a>
 5. <a href="#sec-5">Conclusion</a>
 
-## 1. Stuck in the scrubland <a id="sec-1" name="sec-1"></a>
+## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 <span style="padding-left: 20px; display:block">
 The essence of mathematics lies precisely in its freedom.
@@ -54,7 +54,7 @@ I had just never internalised those rules.
 
 Taking philosophy a few years later, I
 encountered set theory for the first time and it blew my gourd.
-First of all, there was the [wonderful paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) of Bertrand Russell about
+First of all, there was Bertrand Russell's [wonderful paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) about
 the set of all sets which don't contain themselves.
 Is this big set a member of itself or not?
 If it is a member of itself, by definition it's not a member of
@@ -86,7 +86,7 @@ and colourful examples that tantalised but did not, ultimately,
 enlighten.
 I began to suspect that I was missing something.
 To paraphrase Galileo, if I wanted to speak with the universe, it
-looked like I needed to learn its lanaguage, which was mathematics
+looked like I needed to learn its language, which was mathematics
 rather than colourful analogies.
 (See Brent Yorgey's
 [blog post](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
@@ -102,8 +102,8 @@ looked back.
 	</div>
 	</figure>
 
-I was lucky, stumbling later in life onto a hidden realm of
-extraordinary beauty and power.
+I was lucky. Despite setting off in the opposite direction, I stumbled
+onto a hidden realm of extraordinary beauty and power.
 But how many students are unlucky?
 How many go through high school, numbed by repetition, cramming and
 copying just enough to pass tests, but never seeing that there's a
@@ -112,7 +112,7 @@ world?
 The problem, I'll argue, is that maths education is stuck in a sort of
 *scrubland* with no views into this enchanted realm.
 
-##### 1.1. A preamble <a id="sec-1-1" name="sec-1-1"></a>
+##### 1.1. Stuck in the scrubland<a id="sec-1-1" name="sec-1-1"></a>
 
 To make the problem more vivid, imagine a
  reality where, instead of maths, you were forced to take *hiking classes* in high school.
@@ -126,7 +126,7 @@ Heck, if you can't walk, how do you expect to get a job!
 Privately, teach had to admit: two monotonous hours in the
 scrubland, every day for six years, did seem excessive, and they hated
  it too.
-But that's just the way things things were done.
+But that's just the way things were done.
 
 <figure>
     <div style="text-align:center"><img src ="/images/posts/scrubland.png"
@@ -158,11 +158,12 @@ needs of society as a whole.
 We need hiking classes to act as an intake mechanism, drawing students
 into the field and equipping them to explore.
 And maybe we just want them to enjoy the natural world!
-This is a statement about *value* rather than *utility*.
+In others, we value mathematical culture for its own sake, and not
+just its utility.
 
 Some students seem to have a natural yen for walking.
 They can walk faster, and for longer distances; some hike outside of
-class, run the school club, and participate in competitions.
+class, join the school club, and even do it competitively.
 Maybe we should channel our resources towards these "natural walkers"
 and let the rest opt out.
 But walking is a skill that can be developed, and most of these
@@ -222,7 +223,7 @@ These questions are unforgivably dull when there is literally hundreds
 of years of material to draw on.
 I wish I was cherry picking, but we will see below that the rest of the chapter is the same.
 This is what I mean by the scrubland: no landmarks, nothing for the eye to latch onto, just an
-endless plain of withered, ankle-height shrubs.
+endless plain of withered, ankle-high shrubs.
 
 ##### 1.3. Shrubs and maximin <a id="sec-1-3" name="sec-1-3"></a>
 
@@ -236,9 +237,11 @@ I propose that they fail the **shrub test**:
 Would they read it if they didn't have to pass a quiz?
 If not, you have shrubs, and shrubs kill interest.
 No one wants to spend hours looking at shrubs.
-If you force them to, you're wasting their time.
+If you force them to, you're wasting their time and teaching
+them to avoid hiking.
 
-The shrub test is a pretty low bar.
+The shrub test is a great start --- and one that very few maths
+classes pass --- but it's still a low bar.
 All we ask is that *somebody* might conceivably read it for fun.
 And this leads to a different failure mode: when questions only appeal
 to a minority of students.
@@ -257,12 +260,11 @@ suggested something called the [**maximin rule**](https://plato.stanford.edu/ent
 maximise the outcomes for those who are least well-off.
 From a game theory perspective, maximin (maximising the
 minimum outcome) is the right strategy when you can't play the numbers
-due to extreme uncertainty (in his framework, associated with a form
-of social contract called the *original position*).
+due to extreme uncertainty.
 A secondary argument is that maximin should lead to a "trickle up"
 effect where *everyone* benefits.
 
-Of the various design principles we could adopt, I think there is a
+Of the various tests we could adopt, I think there is a
 similar **maximin
 test** which should supersede the shrub test:
 
@@ -286,7 +288,7 @@ A game-theoretic argument for the maximin test is the complexity of teaching.
 Besides the choice of material (which I'm emphasising here), there's
 a whole host of other variables to consider, from pedagogy and lesson planning,
 demographics, classroom management, technology,
-and so on, which all play a role in the effectiveness of a class.
+and so on, all of which play a role in the effectiveness of a class.
 How do you optimise average student outcomes in this multidimensional
 landscape?
 It looks intractable for any class which isn't also a research project.
@@ -305,11 +307,11 @@ enticements along the way.
 
 ##### 1.4. Roads to nowhere <a id="sec-1-4" name="sec-1-4"></a>
 
-Students need practice before they can wander off
+Students of hiking need practice before they can wander off
 into the foothills, armed only with a compass and a sense of adventure.
 Similarly, young mathematicians probably need to build their chops before
 they can do real maths.
-But if we show them where we're headed, and all the amazing things
+But if we show them where they're headed, and all the amazing things
 they'll be able to do when they get there, they won't mind practicing.
 And this brings us to the real problem: not that students drill, but that *the
 scrubland never ends*.
@@ -327,8 +329,7 @@ sprinkled from that bag of shrub seeds you got at the nursery.
 The responsibility for getting us out of the scrubland doesn't lie
 with teachers, or even textbook writers, but the people who write the curriculum.
 From their perspective, it's much easier to maintain the
-scrubland, and maybe ride around in a pickup truck painting shrubs different
-colours, than to chart a new course into the mathematical world.
+scrubland than to chart a new course into the mathematical world.
 That takes time, money, and vision, and these are
 perennially in short supply.
 
@@ -364,8 +365,7 @@ Aesthetic considerations are famously important to pure mathematicians.
 The philosopher [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) said that pure maths had a "beauty cold
 and austere, like that of sculpture", and was "capable of a stern
 perfection such as only the greatest art can show".
-I think this underemphasises how much darn fun it is, but it conveys
-some of the appeal.
+(I think this underemphasises how much darn fun it is.)
 English mathematician [G. H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy) elevated beauty to a *requirement*,
 stating that "beauty is the first test: there is no permanent place in the world
 for ugly mathematics."
@@ -390,13 +390,12 @@ shrubs.
 
 Instead of dressing up shrubs, we should find a mountain to scale.
 Now, some mountains can only be scaled by professionals.
-But we don't always need to scale a mountain to appreciate important
-results; with a bit of ingenuity, we can usually find a nearby hill
+But we don't always need to scale a mountain to appreciate big peaks; with a bit of ingenuity, we can usually find a nearby hill
 with a gentler slope and a partial view of the summit.
 In pure mathematics, mountains are things like theorems (important
 proven results), conjectures (important unproven results), definitions
 and examples.
-"Important" and "non-trivial" mean a variety of things, but as Hardy and
+"Important" means a variety of things, but as Hardy and
 Russell suggest, *beauty* is perhaps the principal criterion.
 Beauty in maths, as in art, is subjective, so we are left with the enviable
 task of choosing *multiple beautiful things* for students to look at.
