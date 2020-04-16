@@ -178,7 +178,7 @@ A photon with polarisation angle $\theta$ will pass through a polariser $\theta_
 </span>
 
 $$
-\Pr = \cos^2(\theta -\theta_P).
+p(\theta-\theta_P) = \cos^2(\theta -\theta_P).
 $$
 
 ---
