@@ -12,14 +12,14 @@ date:  2020-04-30
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Photons</a>
+2. <a href="#sec-2">Fun with photons</a>
    1. <a href="#sec-2-1">Flashlights and sunglasses</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
-   3. <a href="#sec-2-3">Probability and superpositions</a>
+   3. <a href="#sec-2-3">Crossed light</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-## 2. Photons <a id="sec-2" name="sec-2"></a>
+## 2. Fun with photons <a id="sec-2" name="sec-2"></a>
 
 Classically, light consists of intertwined electric and magnetic
 fields, separately wobbling up and down, but at right angles to each
@@ -33,13 +33,6 @@ Let's set up a coordinate system with the $z$-axis coinciding with the
 path of the photon, and $x$ and $y$ perpendicular to it.
 The polarization makes an angle $\theta$ with respect to the $x$-axis,
 as picture below.
-We can place the angle on the unit circle in the $x$-$y$ plane, and
-recall that the coordinates of the corresponding point are
-
-$$
-x = \cos\theta, \quad y = \sin \theta.
-$$
-
 A *polariser* is a slit (in real life, a series of aligned slits)
 which allows only certain polarisations to pass through.
 Surprisingly, experiments with polarisers that you can do at home
@@ -155,6 +148,8 @@ $$
 I_2(\theta) = I_1 \cos^2\theta.
 $$
 
+This is called *Malus's law* after
+[Étienne-Louis Malus](https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Malus) (1775--1812).
 If $N_1$ photons come out of the first filter with
 horizontal polarisation, only $N_2 = N_1 \cos^2\theta$ make it through the
 second, so it seems as if the polariser makes a random decision to let
@@ -243,7 +238,17 @@ Use (a) and (b) to argue that $p_{\text{avg}} = 1/2$.
 
 ---
 
-### 2.3. Probability and superpositions <a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. Crossed light <a id="sec-2-3" name="sec-2-3"></a>
+
+When we have two "crossed" filters, i.e. filters at right angles, all
+incoming light is blocked.
+But what if we *combine* these crossed slits into a single polariser?
+Recall that if we place the angle $\theta$ on the unit circle, the
+coordinates of the corresponding point are
+
+$$
+x = \cos\theta, \quad y = \sin \theta.
+$$
 
 #### References
 
