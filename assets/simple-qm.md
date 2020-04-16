@@ -271,13 +271,11 @@ $$
 p_y = \cos^2(\theta - 90^\circ) = \sin^2\theta.
 $$
 
-These probabilities add up to $1$, since
+Every photon gets through since these probabilities add up to $1$:
 
 $$
 p_x + p_y  = \sin^2\theta + \cos^2\theta = 1.
 $$
-
-Every photon gets through.
 
 There is a nice geometric way to interpret this.
 Recall that, if $\theta$ labels an angle on the unit circle, then the
