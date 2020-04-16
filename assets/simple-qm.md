@@ -95,7 +95,19 @@ $$
 
 Here, we used the fact that $w/t = c$ is the speed of light.
 Note that the intensity is proportional to the density of photons,
-$n$, and two constants.
+$n$, and two constants, $c$ and $\epsilon$.
+Using a light meter app, you can check that after the light passes
+through the subglasses, the intensity is reduced by *half*, and hence
+the density of photons is reduced by half:
+
+$$
+I' = n'c\epsilon = \frac{1}{2}I = \frac{1}{2}nc\epsilon \quad
+\Longrightarrow \quad n' = \frac{1}{2}n.
+$$
+
+In other words, even though the photons have random polarisations
+$\theta$, half of them are let through.
+How could this possibly happen?
 
 ### 2.2. Quantum polarisers <a id="sec-2-3" name="sec-2-3"></a>
 
