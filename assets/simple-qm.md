@@ -111,10 +111,25 @@ most get blocked.
 
 Experimentally, we see that only half the photons are blocked, so we
 need to update our model of what the polariser does to a photon.
-To tweak it, let's do a couple more experiments, but now with
-polarised light.
-In other words, let's polarise a beam of light, e.g. using sunglasses.
-We will choose to polarise the light vertically, with $\theta_P = \pi/2$.
+To help us formulate a model, let's do some more experiments, but now
+with multiple polarisers.
+To start off with, apply a polariser with $\theta_P$ to the flashlight
+beam.
+The intensity is halved, and all the light that comes out has
+polarisation angle $\theta_P$.
+To check, we can apply another polariser with angle $\theta_P$.
+The intensity after the second polariser is exactly the same,
+suggesting that all the electrons are allowed through!
+So, this suggests the first aspect of our model:
+
+---
+
+<span style="padding-left: 20px; display:block">
+A polariser with angle $\theta_P$ always admits a photon with
+polarisation angle $\theta_P$.
+</span>
+
+---
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
