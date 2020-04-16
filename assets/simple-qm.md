@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Quantum mechanics made simple"
+title:  "Making light of quantum mechanics"
 categories: [Physics, Hacks]
 date:  2020-04-30
 ---
