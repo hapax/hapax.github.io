@@ -15,7 +15,7 @@ date:  2020-04-30
 2. <a href="#sec-2">Fun with photons</a>
    1. <a href="#sec-2-1">Flashlights and sunglasses</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
-   3. <a href="#sec-2-3">Crossed light</a>
+   3. <a href="#sec-2-3">Splitting light</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -238,7 +238,7 @@ Use (a) and (b) to argue that $p_{\text{avg}} = 1/2$.
 
 ---
 
-### 2.3. Crossed light <a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. Splitting light<a id="sec-2-3" name="sec-2-3"></a>
 
 When we have two "crossed" filters, i.e. filters at right angles, all
 incoming light is blocked.
@@ -261,6 +261,17 @@ Each of these intensities is precisely half the original intensity:
 $$
 I' = I = 2I_1 = 2I_2.
 $$
+
+It looks like every photon that comes along is getting polarised into
+one of the two directions, with half assigned to the first
+polarisation and half to the second.
+
+It's not too hard to account for this when we remember that, with a
+single slit at angle $\theta_P$, half the photons went through (and
+picked up polarisation $\theta_P$) and the other half were absorbed by
+the filter.
+It seems that, instead of being absorbed, the photons are now getting
+spat out with the second polarisation $\theta_P + 90^\circ$.
 
 Recall that if we place the angle $\theta$ on the unit circle, the $x$
 and $y$ coordinates are
