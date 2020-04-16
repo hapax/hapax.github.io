@@ -13,7 +13,7 @@ date:  2020-04-30
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Photons</a>
-   1. <a href="#sec-2-1">Classical polarisers</a>
+   1. <a href="#sec-2-1">Experimenting with polarisers</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
    3. <a href="#sec-2-3">Stern-Gerlach</a>
 
@@ -45,7 +45,7 @@ which allows only certain polarisations to pass through.
 Surprisingly, experiments with polarisers that you can do at home
 reveal the basic features of quantum mechanics!
 
-### 2.1. Classical polarisers <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Experimenting with polarisers <a id="sec-2-1" name="sec-2-1"></a>
 
 Let's grab a polariser and put it at some angle $\theta_P$.
 If a single photon comes along with polarisation $\theta$, what
@@ -100,6 +100,13 @@ $\theta$, half of them are let through.
 How could this possibly happen?
 
 ### 2.2. Quantum polarisers <a id="sec-2-3" name="sec-2-3"></a>
+
+To explain what's happening, let's revisit our original hypothesis:
+only light with $\theta = \theta_P$ would be let through.
+Another way of thinking about this is as follows.
+When light hits the slit, the polariser "measures" the angle $\theta$,
+and decides to let the light through if $\theta = \theta_P$.
+Otherwise, it simply absorbs the photon.
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
