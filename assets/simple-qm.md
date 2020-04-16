@@ -256,7 +256,6 @@ We can learn even more by polarising the light first, and measuring
 the polarisation afterwards.
 For concreteness, orient the cross so that the first slit is at
 $\theta_x = 0$ and the second at $\theta_y = 90^\circ$.
-
 If an incoming beam is polarised at angle $\theta$, it will obey
 Malus's law is true for *both* slits.
 In other words, it will have horizontal orientation $\theta_x = 0$
