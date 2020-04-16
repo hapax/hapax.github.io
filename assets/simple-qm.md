@@ -279,6 +279,14 @@ $$
 
 Every photon gets through.
 
+There is a nice geometric way to interpret this.
+Recall that, if $\theta$ labels an angle on the unit circle, then the
+$x$ and $y$ coordinates of the point are
+
+$$
+x(\theta) = \cos\theta, \quad y(\theta) = \sin \theta.
+$$
+
 #### References
 
 - qm: polarisers/filters, stern-gerlach, superposition, uncertainty,
