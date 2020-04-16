@@ -207,6 +207,8 @@ oriented at $45^\circ$ relative to each.
 
 <span style="padding-left: 20px; display:block">
 (b) Confirm your result experimentally.
+	A couple of minutes at the pharmacy (with the sunglasses range)
+	should suffice.
 </span>
 
 <p align="center">
