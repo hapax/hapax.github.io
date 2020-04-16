@@ -182,7 +182,6 @@ $$
 Notice that this includes (P2') as a special case, since if the photon
 and polariser have relative angle $\Delta\theta =0$, then the
 probability the photon is admitted is $p = \cos^2(0) = 1$.
-
 We have guessed these rules using two filters, but these rules were
 originally were originally derived using *three* filters in the famous
 [Stern-Gerlach experiment](https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment)
@@ -194,10 +193,20 @@ You can predict the outcome of this experiment using rules (P1) and
 
 **Exercise 1 (Stern-Gerlach).** The original Stern-Gerlach experiment
 was performed with electrons.
-Here, we will consider the analogous experiment for photons.
+Here, you can work out what happens in an analogous experiment for
+photons.
+As above, consider a flashlight of intensity $I$ illuminating two
+filters.
+If these are at right angles, they block all incoming light and $I_2 =0$.
 
 <span style="padding-left: 20px; display:block">
-(a)
+(a) Suppose we insert a filter in between the first and the second,
+oriented at $45^\circ$ relative to each.
+	Using rules (P1) and (P2), what is the resultant intensity?
+	</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Confirm your result experimentally.
 </span>
 
 ---
