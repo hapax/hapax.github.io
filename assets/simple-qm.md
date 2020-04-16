@@ -101,7 +101,7 @@ How could this possibly happen?
 ### 2.2. Quantum polarisers <a id="sec-2-3" name="sec-2-3"></a>
 
 To explain what's happening, let's revisit our original hypothesis:
-only light with $\theta = \theta_P$ would be let through.
+only light with $\theta = \theta_P$ is let through.
 Another way of thinking about this is as follows.
 When light hits the slit, the polariser "measures" the angle $\theta$,
 and decides to let the light through if $\theta = \theta_P$.
