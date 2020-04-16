@@ -59,7 +59,7 @@ If $\theta$ is randomly chosen, most of the time $\theta \neq
 \theta_P$, so we might expect a polariser to block the light from a flashlight.
 You can test this prediction with a pair of polarising sunglasses.
 You'll find that they *don't* block the flashlight.
-Indeed, the very fact we make sunglasses with them suggests they will not!
+It would be crazy to make polarised sunglasses otherwise!
 
 Let's see how many photons do get blocked.
 Consider a chunk of the beam of light as it leaves the flashlight.
