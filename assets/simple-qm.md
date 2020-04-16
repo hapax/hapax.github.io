@@ -58,11 +58,10 @@ turning on a flashlight.
 If $\theta$ is randomly chosen, most of the time $\theta \neq
 \theta_P$, so we might expect a polariser to block the light from a flashlight.
 You can test this prediction with a pair of polarising sunglasses.
-You'll find that they *don't* block the beam of a flashlight, and
-indeed, the very fact we make sunglasses with them suggests they will not!
+You'll find that they *don't* block the flashlight.
+Indeed, the very fact we make sunglasses with them suggests they will not!
 
-To get a sense of what's going on, let's a be a little more precise
-about what happens to the light as it passes through the polariser.
+Let's see how many photons do get blocked.
 Consider a chunk of the beam of light as it leaves the flashlight.
 It has some area $A$, a width $w$, and a density of photons $n$, so
 the total number of photons is $N = Awn$.
