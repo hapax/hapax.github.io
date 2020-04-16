@@ -243,8 +243,8 @@ Use (a) and (b) to argue that $p_{\text{avg}} = 1/2$.
 When we have two "crossed" filters, i.e. filters at right angles, all
 incoming light is blocked.
 But what if we *combine* these crossed slits into a single polariser?
-Recall that if we place the angle $\theta$ on the unit circle, the
-coordinates of the corresponding point are
+Recall that if we place the angle $\theta$ on the unit circle, the $x$
+and $y$ coordinates are
 
 $$
 x = \cos\theta, \quad y = \sin \theta.
