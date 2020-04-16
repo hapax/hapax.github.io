@@ -148,11 +148,20 @@ through at all!
 So $I_2(90^\circ) = 0$.
 If you turn first filter $180^\circ$, you once again have $I_2 = I_1$.
 A guess for unifying these observations --- which turns out to be
-correct --- is that
+correct, as further measurements reveal --- is that
 
 $$
-I_2(\theta) = I_1 \cos^2\theta.
+I_2(\theta) = I_1 \cos^2\theta_1.
 $$
+
+Put differently, if the photon density is $n_1$ after the first
+polariser, it is
+
+$$
+n_2 = n_1 \cos^2\theta_1
+$$
+
+after the second filter.
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
