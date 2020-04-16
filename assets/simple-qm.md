@@ -109,7 +109,12 @@ Otherwise, it simply absorbs the photon.
 If this view is correct, then in a beam of randomly polarised photons,
 most get blocked.
 
-Experimentally, we see that only half get blocked.
+Experimentally, we see that only half the photons are blocked, so we
+need to update our model of what the polariser does to a photon.
+To tweak it, let's do a couple more experiments, but now with
+polarised light.
+In other words, let's polarise a beam of light, e.g. using sunglasses.
+We will choose to polarise the light vertically, with $\theta_P = \pi/2$.
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
