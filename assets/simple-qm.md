@@ -14,6 +14,8 @@ date:  2020-04-30
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
+2. <a href="#sec-2">Photons</a>
+   1. <a href="#sec-2-1">Stern-Gerlach with polarisers</a>
 
 - qm: polarisers/filters, stern-gerlach, superposition, uncertainty,
 entanglement, qkd, quantum computing, measurement problem, parallel
@@ -23,6 +25,29 @@ universes
 
 ## 2. Photons <a id="sec-2" name="sec-2"></a>
 
-Light consists of photon, 
+Classically, light consists of intertwined electric and magnetic
+fields, separately wobbling up and down, but at right angles to each
+other.
+In quantum mechanics, this wave can also be viewed as a particle, the
+*photon*.
+Thus, a single photon has some plane in which the corresponding
+electric field wobbles up and down.
+This is called the *polarization* of the photon.
 
-### 2.1. Polarisers <a id="sec-2-1" name="sec-2-1"></a>
+Let's set up a coordinate system with the $z$-axis coinciding with the
+path of the photon, and $x$ and $y$ perpendicular to it.
+The polarization makes an angle $\theta$ with respect to the $x$-axis,
+as picture below.
+We can place the angle on the unit circle in the $x$-$y$ plane, and
+recall that the coordinates of the corresponding point are
+
+$$
+x = \cos\theta, \quad y = \sin \theta.
+$$
+
+A *polariser* is a slit in the same $x$-$y$ plane, at a possibly
+different angle.
+Surprisingly, experiments with polarisers (that you can do at home)
+reveal the basic features of quantum mechanics!
+
+### 2.1. Stern-Gerlach with polarisers <a id="sec-2-1" name="sec-2-1"></a>
