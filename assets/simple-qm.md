@@ -7,16 +7,15 @@ categories: [Physics, Hacks]
 date:  2020-04-30
 ---
 
-**April 30, 2020.** *Light wobbles up and down in a particular
-  direction. From this simple fact, we develop enough quantum quantum
-  mechanics to share secrets and build a quantum computer.*
+**April 30, 2020.**
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Photons</a>
-   1. <a href="#sec-2-1">Polarisers</a>
-   2. <a href="#sec-2-2">Stern-Gerlach</a>
+   1. <a href="#sec-2-1">Classical polarisers</a>
+   2. <a href="#sec-2-2">Quantum polarisers</a>
+   3. <a href="#sec-2-3">Stern-Gerlach</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -25,12 +24,10 @@ date:  2020-04-30
 Classically, light consists of intertwined electric and magnetic
 fields, separately wobbling up and down, but at right angles to each
 other.
-In quantum mechanics, this wave can also be viewed as a particle, the
-*photon*.
-Thus, a single photon has some plane in which the corresponding
-electric field wobbles up and down.
-The direction in which the electric field wobbles is the
-*polarisation* of the photon.
+In quantum mechanics, this wave can also be viewed as a particle
+called the photon.
+The photon's electric field wobbles up and down in some direction
+called the *polarisation*.
 
 Let's set up a coordinate system with the $z$-axis coinciding with the
 path of the photon, and $x$ and $y$ perpendicular to it.
@@ -43,43 +40,66 @@ $$
 x = \cos\theta, \quad y = \sin \theta.
 $$
 
-A *polariser* is a slit (in real life, a grating) which allows only
-certain polarisations to pass through.
+A *polariser* is a slit (in real life, a series of aligned slits)
+which allows only certain polarisations to pass through.
 Surprisingly, experiments with polarisers that you can do at home
 reveal the basic features of quantum mechanics!
 
-### 2.1. Polariser <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Classical polarisers <a id="sec-2-1" name="sec-2-1"></a>
 
-Let's grab a polariser and align it with the $y$ axis at $\theta_y = \pi/2$.
-Now a single photon comes along with polarisation $\theta$.
-What happens?
-A polariser is designed to allow only the polarisation angle
-$\theta_y$ through, so it seems reasonable to guess the photon will
-be blocked unless $\theta = \pi/2$.
-Call this "strong" polarisation.
-To check whether polarisers are strong, consider an ordinary beam of
-light from flashlight.
-This consists of many photons with *random* polarisation angles
-$\theta$, and since $\theta$ can be anywhere on the circle, most
-photons won't have $\theta = \pi/2$.
-If the polariser is strong, most light will be blocked.
+Let's grab a polariser and put it at some angle $\theta_P$.
+If a single photon comes along with polarisation $\theta$, what
+happens?
+Intuitively, the polariser should act like a filter which only lets
+the angle $\theta_P$ through; anything else is blocked.
+Procedurally, we might imagine it as follows: the polariser measures
+the photon's polarisation $\theta$, checks it against the angle of the
+slit $\theta_P$, and if the two are different, "rejects" the photon.
+We call this a "classical" polariser.
 
-You can perform an experiment at home to see if this is true.
+Experimentally, it's easier to access an ordinary beam of light,
+e.g. from a flashlight, than a single photon.
+A beam of light will consist of many photons with *random*
+polarisation angles $\theta$.
+Since $\theta$ can be chosen from anywhere on the circle, most photons
+in the beam won't have $\theta = \theta_P$, and if the polariser is
+classical, will be blocked.
+You can perform a simple experiment to see what happens.
 Take some polarising sunglasses and shine a flashlight at them.
 Is most of the light blocked?
-You should find the answer is *no*.
-Clearly, polarisers do not act in a "strong" way on photons.
+No.
+In fact, the very fact that we make polarising sunglasses suggests it
+is not!
 
-and in fact, if you have a light
-meter (or a light meter app on your phone), you can check that the
-intensity of light is reduced by around half.
+To get a sense of what's going on, let's a be a little more precise
+about what happens to the light as it passes through the polariser.
+Consider a chunk of the beam of light as it leaves the flashlight.
+It has some area $A$, a width $w$, and a density of photons $n$, so
+the total number of photons is $N = Awn$.
+If the beam is monochromatic (one colour), each photon carries the
+same amount of energy, $\epsilon$, so the total amount of energy is
 
-This is the same as saying that the energy carried by the light beam
-is reduced by half.
-Finally, in a monochromatic beam of light, each photon has the same
-energy
+$$
+E = N\epsilon = Awn\epsilon.
+$$
 
-### 2.2. Stern-Gerlach <a id="sec-2-2" name="sec-2-2"></a>
+We can measure the *intensity* of light using a light meter, or even
+an app on your phone.
+It doesn't measure the total energy in a chunk, or even the power
+(energy per unit time) delivered by the beam, but rather, the power
+per unit are:
+
+$$
+I = \frac{E}{t A} = \frac{wn\epsilon}{t} = nc\epsilon.
+$$
+
+Here, we used the fact that $w/t = c$ is the speed of light.
+Note that the intensity is proportional to the density of photons,
+$n$, and two constants.
+
+### 2.2. Quantum polarisers <a id="sec-2-3" name="sec-2-3"></a>
+
+### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
 #### References
 
