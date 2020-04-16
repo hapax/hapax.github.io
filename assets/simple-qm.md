@@ -170,7 +170,8 @@ relative angle between photon and polariser, this suggests a general rule:
 ---
 
 <span style="padding-left: 20px; display:block">P2.
-A photon will pass through a polariser with relative angle $\Delta\theta$ with probability
+If a photon and polariser have relative angle $\Delta\theta$, the
+photon passes through with probability
 </span>
 
 $$
