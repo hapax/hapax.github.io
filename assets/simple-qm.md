@@ -153,17 +153,33 @@ A guess for unifying these observations --- which turns out to be
 correct, as further measurements reveal --- is that
 
 $$
-I_2(\theta) = I_1 \cos^2\theta_1.
+I_2(\theta) = I_1 \cos^2\theta.
 $$
 
 Put differently, if the photon density is $n_1$ after the first
-polariser, it is
+polariser, then the density after the second filter, as a function of
+relative angle, is
 
 $$
-n_2 = n_1 \cos^2\theta_1
+n_2(\theta) = n_1 \cos^2\theta.
 $$
 
-after the second filter.
+There is a very simply way to make sense of this, which we postulate
+as our third rule for polarisers:
+
+---
+
+<span style="padding-left: 20px; display:block">P2'.
+A photon with polarisation angle $\theta$ will pass through a filter of angle $\theta_P$ with probability
+</span>
+
+$$
+P = \cos^2(\theta -\theta_P).
+$$
+
+---
+
+We call this (P2') because it includes (P2) as a special case.
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
