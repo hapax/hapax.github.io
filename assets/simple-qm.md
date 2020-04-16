@@ -55,7 +55,7 @@ the angle $\theta_P$ through; anything else is blocked.
 Procedurally, we might imagine it as follows: the polariser measures
 the photon's polarisation $\theta$, checks it against the angle of the
 slit $\theta_P$, and if the two are different, "rejects" the photon.
-We call this a "classical" polariser.
+We'll call this a "classical" polariser for reasons we explain below.
 
 Experimentally, it's easier to access an ordinary beam of light,
 e.g. from a flashlight, than a single photon.
