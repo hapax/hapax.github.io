@@ -52,24 +52,14 @@ If a single photon comes along with polarisation $\theta$, what
 happens?
 Intuitively, the polariser should act like a filter which only lets
 the angle $\theta_P$ through; anything else is blocked.
-Procedurally, we might imagine it as follows: the polariser measures
-the photon's polarisation $\theta$, checks it against the angle of the
-slit $\theta_P$, and if the two are different, "rejects" the photon.
-We'll call this a "classical" polariser for reasons we explain below.
-
-Experimentally, it's easier to access an ordinary beam of light,
-e.g. from a flashlight, than a single photon.
-A beam of light will consist of many photons with *random*
-polarisation angles $\theta$.
-Since $\theta$ can be chosen from anywhere on the circle, most photons
-in the beam won't have $\theta = \theta_P$, and if the polariser is
-classical, will be blocked.
-You can perform a simple experiment to see what happens.
-Take some polarising sunglasses and shine a flashlight at them.
-Is most of the light blocked?
-No.
-In fact, the very fact that we make polarising sunglasses suggests it
-is not!
+Although it's hard to produce a single photon with fixed polarisation,
+it's easy to produce many photons with random polarisations, simply by
+turning on a flashlight.
+If $\theta$ is randomly chosen, most of the time $\theta \neq
+\theta_P$, so we might expect a polariser to block the light from a flashlight.
+You can test this prediction with a pair of polarising sunglasses.
+You'll find that they *don't* block the beam of a flashlight, and
+indeed, the very fact we make sunglasses with them suggests they will not!
 
 To get a sense of what's going on, let's a be a little more precise
 about what happens to the light as it passes through the polariser.
@@ -118,3 +108,16 @@ How could this possibly happen?
 - qm: polarisers/filters, stern-gerlach, superposition, uncertainty,
 entanglement, qkd, quantum computing, measurement problem, parallel
 universes 
+
+### Extra
+
+Procedurally, we might imagine it as follows: the polariser measures
+the photon's polarisation $\theta$, checks it against the angle of the
+slit $\theta_P$, and if the two are different, "rejects" the photon.
+We'll call this a "classical" polariser for reasons we explain below.
+A beam of light will consist of many photons with *random*
+polarisation angles $\theta$.
+Since $\theta$ can be chosen from anywhere on the circle, most photons
+in the beam won't have $\theta = \theta_P$, and if the polariser is
+classical, will be blocked.
+You can perform a simple experiment to see what happens.
