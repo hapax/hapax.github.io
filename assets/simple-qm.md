@@ -165,7 +165,8 @@ p = \frac{N_2}{N_1} = \cos^2\theta.
 $$
 
 Note that $\theta = \theta_2 - \theta_1 = \Delta\theta$ is the
-relative angle between photon and polariser, this suggests a general rule:
+relative angle between photon and polariser, this suggests a general
+rule (P2), which includes (P2') as a special case:
 
 ---
 
@@ -180,15 +181,14 @@ $$
 
 ---
 
-Notice that this includes (P2') as a special case, since if the photon
-and polariser have relative angle $\Delta\theta =0$, then the
-probability the photon is admitted is $p = \cos^2(0) = 1$.
-We have guessed these rules using two filters, but these rules were
-originally were originally derived using *three* filters in the famous
+We have based our rules on experiments using two filters, but they
+more conventionally introduced using *three* filters and the famous
 [Stern-Gerlach experiment](https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment)
 (1922).
 You can predict the outcome of this experiment using rules (P1) and
 (P2) in Exercise 1.
+In Exercise 2, you can see why intensity is halved when a flashlight
+beam is polarised.
 
 ---
 
