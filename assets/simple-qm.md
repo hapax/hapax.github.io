@@ -252,32 +252,24 @@ and we can continue theory-building from there.
 If you shine a flashlight on the cross, and measure the intensity
 before ($I$) and afterwards ($I'$), you find *no reduction*.
 Every photon gets through!
-Now introduce a second, ordinary polariser, align it with the
-first of the crossed slits, and measure the intensity $I_1$.
-We can similarly measure the intensity $I_2$ when the polariser is
-aligned with the second of the crossed slits.
-Each of these intensities is precisely half the original intensity:
+We can learn even more by polarising the light first, and measuring
+the polarisation afterwards.
+For concreteness, orient the cross so that the first slit is at
+$\theta_x = 0$ and the second at $\theta_y = 90^\circ$.
+
+If an incoming beam is polarised at angle $\theta$, it will obey
+Malus's law is true for *both* slits.
+In other words, it will have horizontal orientation $\theta_x = 0$
+with probability
 
 $$
-I' = I = 2I_1 = 2I_2.
+p_x = \cos^2\theta
 $$
 
-It looks like every photon that comes along is getting polarised into
-one of the two directions, with half assigned to the first
-polarisation and half to the second.
-
-It's not too hard to account for this when we remember that, with a
-single slit at angle $\theta_P$, half the photons went through (and
-picked up polarisation $\theta_P$) and the other half were absorbed by
-the filter.
-It seems that, instead of being absorbed, the photons are now getting
-spat out with the second polarisation $\theta_P + 90^\circ$.
-
-Recall that if we place the angle $\theta$ on the unit circle, the $x$
-and $y$ coordinates are
+and vertical orientation $\theta_y = 90^\circ$ wth probability
 
 $$
-x = \cos\theta, \quad y = \sin \theta.
+p_y = \sin^2\theta = \cos^2(\theta - 90^\circ).
 $$
 
 #### References
@@ -298,3 +290,34 @@ Since $\theta$ can be chosen from anywhere on the circle, most photons
 in the beam won't have $\theta = \theta_P$, and if the polariser is
 classical, will be blocked.
 You can perform a simple experiment to see what happens.
+
+It's not too hard to account for this when we remember that, with a
+single slit at angle $\theta_P$, half the photons went through (and
+picked up polarisation $\theta_P$) and the other half were absorbed by
+the filter.
+It seems that, instead of being absorbed, the photons are now getting
+spat out with the second polarisation $\theta_P + 90^\circ$.
+And the same thing is true if we think about things from the
+perspective of the second filter, so this interpretation is consistent!
+
+Once again, we can do better 
+Recall that if we place the angle $\theta$ on the unit circle, the $x$
+and $y$ coordinates are
+
+$$
+x = \cos\theta, \quad y = \sin \theta.
+$$
+
+It looks like every photon that comes along is getting polarised into
+one of the two directions, with half assigned to the first
+polarisation and half to the second.
+
+Now introduce a second, ordinary polariser, align it with the
+first of the crossed slits, and measure the intensity $I_1$.
+We can similarly measure the intensity $I_2$ when the polariser is
+aligned with the second of the crossed slits.
+Each of these intensities is precisely half the original intensity:
+
+$$
+I' = I = 2I_1 = 2I_2.
+$$
