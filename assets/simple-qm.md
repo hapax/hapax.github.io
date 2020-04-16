@@ -121,6 +121,7 @@ To check this, we can apply another polariser with angle $\theta_2 =
 \theta_1$.
 The intensity after the second polariser is exactly the same, $I_2 =
 I_1$, suggesting that all the photons are allowed through!
+
 This suggests two rules for polarisers:
 
 ---
