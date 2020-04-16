@@ -234,6 +234,12 @@ $$
 (b) Conclude that $p(\theta)$ is symmetric around the line $y =1/2$.
 </span>
 
+<span style="padding-left: 20px; display:block">
+(c) The average value $p_{\text{avg}}$ is the area underneath the
+curve $p(\theta)$ compared to the area beneath the curve with $p = 1$.
+Use (a) and (b) to argue that $p_{\text{avg}} = 1/2$.
+</span>
+
 ---
 
 ### 2.3. Probability and superpositions <a id="sec-2-3" name="sec-2-3"></a>
