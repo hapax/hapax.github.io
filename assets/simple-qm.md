@@ -149,8 +149,8 @@ through at all!
 So $I_2(90^\circ) = 0$.
 If you turn first filter $180^\circ$, once more we have $I_2 = I_1$.
 
-A guess for unifying these observations --- which turns out to be
-correct, as further measurements reveal --- is that
+A guess which unifies these observations (and can be confirmed with
+further measurements) is that
 
 $$
 I_2(\theta) = I_1 \cos^2\theta.
