@@ -243,6 +243,25 @@ Use (a) and (b) to argue that $p_{\text{avg}} = 1/2$.
 When we have two "crossed" filters, i.e. filters at right angles, all
 incoming light is blocked.
 But what if we *combine* these crossed slits into a single polariser?
+Our rules don't apply in this case, so we need to do some more
+experiments.
+Since sunglasses are polarised in a single direction only, this is a
+little harder to perform at home, so I'll just tell you what happens
+and we can continue theory-building from there.
+
+If you shine a flashlight on the cross, and measure the intensity
+before ($I$) and afterwards ($I'$), you find *no reduction*.
+Every photon gets through!
+Now introduce a second, ordinary polariser, align it with the
+first of the crossed slits, and measure the intensity $I_1$.
+We can similarly measure the intensity $I_2$ when the polariser is
+aligned with the second of the crossed slits.
+Each of these intensities is precisely half the original intensity:
+
+$$
+I' = I = 2I_1 = 2I_2.
+$$
+
 Recall that if we place the angle $\theta$ on the unit circle, the $x$
 and $y$ coordinates are
 
