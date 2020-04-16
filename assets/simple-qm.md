@@ -147,7 +147,9 @@ But as we rotate the second polariser away from the $x$-axis, the
 intensity decreases, until it disappears altogether at $\theta =
 90^\circ$.
 When the polarisers are at right angles, no light gets through at all!
-Analysis the measurements, we find that
+
+Fitting a curve to the measurements, one finds that the intensity as a
+function of angle is
 
 $$
 I_2(\theta) = I_1 \cos^2\theta.
@@ -181,7 +183,13 @@ We call this (P2) because it includes (P2') as a special case.
 
 ---
 
-**Exercise 1 (Stern-Gerlach).** Using the rules (P1) and (P2)
+**Exercise 1 (Stern-Gerlach).** Using the rules (P1) and (P2), you can
+  predict the outcomes of one of the most famous experiments in
+  quantum physics.
+
+<span style="padding-left: 20px; display:block">
+(a)
+</span>
 
 ---
 
