@@ -285,6 +285,8 @@ $$
 x(\theta) = \cos\theta, \quad y(\theta) = \sin \theta.
 $$
 
+To get probabilities, we just square coordinates on the unit circle.
+
 #### References
 
 - qm: polarisers/filters, stern-gerlach, superposition, uncertainty,
