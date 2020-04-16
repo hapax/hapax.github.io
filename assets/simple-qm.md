@@ -15,7 +15,7 @@ date:  2020-04-30
 2. <a href="#sec-2">Photons</a>
    1. <a href="#sec-2-1">Experimenting with polarisers</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
-   3. <a href="#sec-2-3">Superpositions</a>
+   3. <a href="#sec-2-3">Probability and superpositions</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -179,13 +179,22 @@ $$
 
 ---
 
-We call this (P2) because it includes (P2') as a special case.
+Notice that this includes (P2') as a special case, since if the photon
+and polariser have relative angle $\Delta\theta =0$, then the
+probability the photon is admitted is $p = \cos^2(0) = 1$.
+
+We have guessed these rules using two filters, but these rules were
+originally were originally derived using *three* filters in the famous
+[Stern-Gerlach experiment](https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment)
+(1922).
+You can predict the outcome of this experiment using rules (P1) and
+(P2) in Exercise 1.
 
 ---
 
-**Exercise 1 (Stern-Gerlach).** Using the rules (P1) and (P2), you can
-  predict the outcomes of one of the most famous experiments in
-  quantum physics.
+**Exercise 1 (Stern-Gerlach).** The original Stern-Gerlach experiment
+was performed with electrons.
+Here, we will consider the analogous experiment for photons.
 
 <span style="padding-left: 20px; display:block">
 (a)
@@ -193,7 +202,7 @@ We call this (P2) because it includes (P2') as a special case.
 
 ---
 
-### 2.3. Superpositions <a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. Probability and superpositions <a id="sec-2-3" name="sec-2-3"></a>
 
 #### References
 
