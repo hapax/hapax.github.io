@@ -155,17 +155,17 @@ $$
 I_2(\theta) = I_1 \cos^2\theta.
 $$
 
-Put differently, if $N_1$ photons come out of the first filter with
+If $N_1$ photons come out of the first filter with
 horizontal polarisation, only $N_2 = N_1 \cos^2\theta$ make it through the
-second, so it seems as if there is a *probability* to get through
+second, so it seems as if the polariser makes a random decision to let
+a photon through, with *probability*
 
 $$
 p = \frac{N_2}{N_1} = \cos^2\theta.
 $$
 
-Since $\theta = \theta_2 - \theta_1$, we can write a slightly more
-general rule for this probability in terms of the relative angle
-between photon and polariser:
+Note that $\theta = \theta_2 - \theta_1 = \Delta\theta$ is the
+relative angle between photon and polariser, this suggests a general rule:
 
 ---
 
