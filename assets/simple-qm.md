@@ -113,14 +113,15 @@ Experimentally, we see that only half the photons are blocked, so we
 need to update our model of what the polariser does to a photon.
 To help us formulate a model, let's do some more experiments, but now
 with multiple polarisers.
-To start off with, apply a polariser with $\theta_P$ to the flashlight
-beam.
-The intensity is halved, and all the light that comes out has
-polarisation angle $\theta_P$.
-To check, we can apply another polariser with angle $\theta_P$.
-The intensity after the second polariser is exactly the same,
-suggesting that all the electrons are allowed through!
-So, this suggests the first two aspects of our model:
+To start off with, apply a polariser with $\theta_1$ to a flashlight
+beam of intensity $I$.
+The intensity is halved to $I_1 = I/2$, and all the light that comes
+out has polarisation angle $\theta_1$.
+To check this, we can apply another polariser with angle $\theta_2 =
+\theta_1$.
+The intensity after the second polariser is exactly the same, $I_2 =
+I_1$, suggesting that all the photons are allowed through!
+This suggests two rules for polarisers:
 
 ---
 
@@ -135,7 +136,23 @@ A polariser with angle $\theta_P$ always admits a photon with angle $\theta_P$.
 
 ---
 
-What about photons
+What about photons with a different angle?
+Using (P1), we can test this very precisely.
+Orient the second polariser so that it is horizontal, $\theta_2 =
+0$.
+Now vary $\theta_1$, and plot the intensity after the beam has passed
+through both polarisers, $I_2(\theta_1)$.
+You find that, in contrast to setting $\theta_2 =\theta_1$, when the
+polarisers are at right angles ($\theta_1 = \pi/2$) no light gets
+through at all!
+So $I_2(90^\circ) = 0$.
+If you turn first filter $180^\circ$, you once again have $I_2 = I_1$.
+A guess for unifying these observations --- which turns out to be
+correct --- is that
+
+$$
+I_2(\theta) = I_1 \cos^2\theta.
+$$
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
