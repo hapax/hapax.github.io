@@ -120,16 +120,22 @@ polarisation angle $\theta_P$.
 To check, we can apply another polariser with angle $\theta_P$.
 The intensity after the second polariser is exactly the same,
 suggesting that all the electrons are allowed through!
-So, this suggests the first aspect of our model:
+So, this suggests the first two aspects of our model:
 
 ---
 
-<span style="padding-left: 20px; display:block">
-A polariser with angle $\theta_P$ always admits a photon with
+<span style="padding-left: 20px; display:block">P1.
+Any photons emerging from a polariser with angle $\theta_P$ have
 polarisation angle $\theta_P$.
 </span>
 
+<span style="padding-left: 20px; display:block">P2.
+A polariser with angle $\theta_P$ always admits a photon with angle $\theta_P$.
+</span>
+
 ---
+
+What about photons
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
