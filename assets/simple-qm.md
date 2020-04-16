@@ -106,6 +106,10 @@ Another way of thinking about this is as follows.
 When light hits the slit, the polariser "measures" the angle $\theta$,
 and decides to let the light through if $\theta = \theta_P$.
 Otherwise, it simply absorbs the photon.
+If this view is correct, then in a beam of randomly polarised photons,
+most get blocked.
+
+Experimentally, we see that only half get blocked.
 
 ### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
 
