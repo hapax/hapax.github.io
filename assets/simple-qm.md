@@ -219,8 +219,20 @@ oriented at $45^\circ$ relative to each.
 unpolarised flashlight beam is halved in intensity.
 Recall that, in a beam of unpolarised light, the angle of individual
 photons $\theta$ is random.
-To halve the intensity, we need the *average* value of $p =
+To halve the intensity, we need the *average* value of $p(\theta) =
 \cos^2\theta$, for $\theta = 0$ to $\theta = 360^\circ$, to be $1/2$.
+
+<span style="padding-left: 20px; display:block">
+(a) Use the double angle formula to show that
+</span>
+
+$$
+\cos^2\theta - \frac{1}{2} = \frac{1}{2}\cos(2x).
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Conclude that $p(\theta)$ is symmetric around the line $y =1/2$.
+</span>
 
 ---
 
