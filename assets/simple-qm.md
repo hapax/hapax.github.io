@@ -168,11 +168,11 @@ between photon and polariser:
 ---
 
 <span style="padding-left: 20px; display:block">P2.
-A photon with polarisation angle $\theta$ will pass through a polariser $\theta_P$ with probability
+A photon will pass through a polariser with relative angle $\Delta\theta$ with probability
 </span>
 
 $$
-p(\theta-\theta_P) = \cos^2(\theta -\theta_P).
+p(\Delta \theta) = \cos^2(\Delta \theta).
 $$
 
 ---
