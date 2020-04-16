@@ -209,6 +209,17 @@ oriented at $45^\circ$ relative to each.
 (b) Confirm your result experimentally.
 </span>
 
+<p align="center">
+  ⁂
+  </p>
+
+**Exercise 2 (halving intensity).** We still haven't explained why the
+unpolarised flashlight beam is halved in intensity.
+Recall that, in a beam of unpolarised light, the angle of individual
+photons $\theta$ is random.
+To halve the intensity, we need the *average* value of $p =
+\cos^2\theta$, for $\theta = 0$ to $\theta = 360^\circ$, to be $1/2$.
+
 ---
 
 ### 2.3. Probability and superpositions <a id="sec-2-3" name="sec-2-3"></a>
