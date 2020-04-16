@@ -167,7 +167,7 @@ rule (P2), which includes (P2') as a special case:
 
 <span style="padding-left: 20px; display:block">P2.
 If a photon and polariser have relative angle $\Delta\theta$, the
-photon passes through with probability
+photon passes through with
 </span>
 
 $$
