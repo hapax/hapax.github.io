@@ -174,7 +174,7 @@ We encode this as our last rule:
 ---
 
 <span style="padding-left: 20px; display:block">P2'.
-A photon with polarisation angle $\theta$ will pass through a polariser of angle $\theta_P$ with probability
+A photon with polarisation angle $\theta$ will pass through a polariser $\theta_P$ with probability
 </span>
 
 $$
