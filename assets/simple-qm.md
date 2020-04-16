@@ -146,7 +146,8 @@ You find that, in contrast to setting $\theta_2 =\theta_1$, when the
 polarisers are at right angles ($\theta_1 = \pi/2$) no light gets
 through at all!
 So $I_2(90^\circ) = 0$.
-If you turn first filter $180^\circ$, you once again have $I_2 = I_1$.
+If you turn first filter $180^\circ$, once more we have $I_2 = I_1$.
+
 A guess for unifying these observations --- which turns out to be
 correct, as further measurements reveal --- is that
 
