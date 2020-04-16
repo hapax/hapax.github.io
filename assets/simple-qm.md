@@ -164,13 +164,17 @@ $$
 n_2(\theta) = n_1 \cos^2\theta.
 $$
 
-There is a very simply way to make sense of this, which we postulate
-as our third rule for polarisers:
+Put differently, out of $N$ photons, only a fraction $\cos^2\theta$
+make it through.
+Since these photons are all the same (as far as we know), it seems
+like the polariser is *randomly* allowing photons through with some
+probability.
+We encode this as our last rule:
 
 ---
 
 <span style="padding-left: 20px; display:block">P2'.
-A photon with polarisation angle $\theta$ will pass through a filter of angle $\theta_P$ with probability
+A photon with polarisation angle $\theta$ will pass through a polariser of angle $\theta_P$ with probability
 </span>
 
 $$
