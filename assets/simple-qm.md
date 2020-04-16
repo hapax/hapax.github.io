@@ -15,7 +15,7 @@ date:  2020-04-30
 2. <a href="#sec-2">Photons</a>
    1. <a href="#sec-2-1">Experimenting with polarisers</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
-   3. <a href="#sec-2-3">Stern-Gerlach</a>
+   3. <a href="#sec-2-3">Superpositions</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -131,7 +131,7 @@ Any photons emerging from a polariser with angle $\theta_P$ have
 polarisation angle $\theta_P$.
 </span>
 
-<span style="padding-left: 20px; display:block">P2.
+<span style="padding-left: 20px; display:block">P2'.
 A polariser with angle $\theta_P$ always admits a photon with angle $\theta_P$.
 </span>
 
@@ -139,41 +139,35 @@ A polariser with angle $\theta_P$ always admits a photon with angle $\theta_P$.
 
 What about photons with a different angle?
 Using (P1), we can test this very precisely.
-Orient the second polariser so that it is horizontal, $\theta_2 =
-0$.
-Now vary $\theta_1$, and plot the intensity after the beam has passed
-through both polarisers, $I_2(\theta_1)$.
-You find that, in contrast to setting $\theta_2 =\theta_1$, when the
-polarisers are at right angles ($\theta_1 = \pi/2$) no light gets
-through at all!
-So $I_2(90^\circ) = 0$.
-If you turn first filter $180^\circ$, once more we have $I_2 = I_1$.
-
-A guess which unifies these observations (and can be confirmed with
-further measurements) is that
+Fix the angle of the first polariser at $\theta_1 = 0$ for simplicity,
+and let the angle $\theta_2 = \theta$ of the second polariser vary.
+We can measure the resultant intensity $I_2(\theta)$.
+At $\theta = 0$, we know from (P2') that the intensity is unchanged, $I_2 = I_1$.
+But as we rotate the second polariser away from the $x$-axis, the
+intensity decreases, until it disappears altogether at $\theta =
+90^\circ$.
+When the polarisers are at right angles, no light gets through at all!
+Analysis the measurements, we find that
 
 $$
 I_2(\theta) = I_1 \cos^2\theta.
 $$
 
-Put differently, if the photon density is $n_1$ after the first
-polariser, then the density after the second filter, as a function of
-relative angle, is
+Put differently, if $N_1$ photons come out of the first filter with
+horizontal polarisation, only $N_2 = N_1 \cos^2\theta$ make it through the
+second, so it seems as if there is a *probability* to get through
 
 $$
-n_2(\theta) = n_1 \cos^2\theta.
+p = \frac{N_2}{N_1} = \cos^2\theta.
 $$
 
-Put differently, out of $N$ photons, only a fraction $\cos^2\theta$
-make it through.
-Since these photons are all the same (as far as we know), it seems
-like the polariser is *randomly* allowing photons through with some
-probability.
-We encode this as our last rule:
+Since $\theta = \theta_2 - \theta_1$, we can write a slightly more
+general rule for this probability in terms of the relative angle
+between photon and polariser:
 
 ---
 
-<span style="padding-left: 20px; display:block">P2'.
+<span style="padding-left: 20px; display:block">P2.
 A photon with polarisation angle $\theta$ will pass through a polariser $\theta_P$ with probability
 </span>
 
@@ -183,9 +177,15 @@ $$
 
 ---
 
-We call this (P2') because it includes (P2) as a special case.
+We call this (P2) because it includes (P2') as a special case.
 
-### 2.3. Stern-Gerlach <a id="sec-2-3" name="sec-2-3"></a>
+---
+
+**Exercise 1 (Stern-Gerlach).** Using the rules (P1) and (P2)
+
+---
+
+### 2.3. Superpositions <a id="sec-2-3" name="sec-2-3"></a>
 
 #### References
 
