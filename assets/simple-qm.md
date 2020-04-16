@@ -13,7 +13,7 @@ date:  2020-04-30
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Photons</a>
-   1. <a href="#sec-2-1">Experimenting with polarisers</a>
+   1. <a href="#sec-2-1">Flashlights and sunglasses</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
    3. <a href="#sec-2-3">Probability and superpositions</a>
 
@@ -45,7 +45,7 @@ which allows only certain polarisations to pass through.
 Surprisingly, experiments with polarisers that you can do at home
 reveal the basic features of quantum mechanics!
 
-### 2.1. Experimenting with polarisers <a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. Flashlights and sunglasses <a id="sec-2-1" name="sec-2-1"></a>
 
 Let's grab a polariser and put it at some angle $\theta_P$.
 If a single photon comes along with polarisation $\theta$, what
