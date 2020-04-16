@@ -266,11 +266,19 @@ $$
 p_x = \cos^2\theta
 $$
 
-and vertical orientation $\theta_y = 90^\circ$ wth probability
+and vertical orientation $\theta_y = 90^\circ$ with probability
 
 $$
-p_y = \sin^2\theta = \cos^2(\theta - 90^\circ).
+p_y = \cos^2(\theta - 90^\circ) = \sin^2\theta.
 $$
+
+These probabilities add up to
+
+$$
+p_x + p_y  = \sin^2\theta + \cos^2\theta = 1,
+$$
+
+so as expected, every photon gets through.
 
 #### References
 
