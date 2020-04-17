@@ -16,7 +16,8 @@ date:  2020-04-30
    1. <a href="#sec-2-1">Flashlights and sunglasses</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
    3. <a href="#sec-2-3">Splitting light</a>
-   4. <a href="#sec-2-4">The uncertainty principle</a>
+3. <a href="#sec-3">Quantum mechanics</a>
+   1. <a href="#sec-3-1">Measurement and uncertainty</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -288,10 +289,11 @@ x(\theta) = \cos\theta, \quad y(\theta) = \sin \theta.
 $$
 
 To get probabilities, we just square coordinates on the unit circle.
+It's useful to 
 
-SUPERPOSITION?
+## 3. Quantum mechanics <a id="sec-3" name="sec-3"></a>
 
-### 2.4. The uncertainty principle<a id="sec-2-4" name="sec-2-4"></a>
+### 3.1. Measurement and uncertainty<a id="sec-3-1" name="sec-3-1"></a>
 
 Let's recap.
 To explain why you can see through polarised sunglasses, we
