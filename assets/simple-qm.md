@@ -307,7 +307,7 @@ God does not play dice.
 Ironically, in his efforts to discredit quantum mechanics, Einstein
 invented *entanglement*, perhaps the most useful and essentially
 quantum phenomenon, as we will see below.
-Even when he was wrong, he was right!
+Even when Einstein was wrong, he was right!
 
 ### 2.4. The uncertainty principle<a id="sec-2-4" name="sec-2-4"></a>
 
