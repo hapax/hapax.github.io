@@ -300,7 +300,7 @@ trajectories.
 Although Einstein was one of the founders of quantum theory, he later
 came to reject it, famously state
 
-<span style="padding-left: 20px; display:block">P1.
+<span style="padding-left: 20px; display:block">
 God does not play dice.
 </span>
 
