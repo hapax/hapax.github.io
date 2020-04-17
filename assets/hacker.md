@@ -13,8 +13,9 @@ to think like a physicist without needing a degree or any advanced
 mathematics.
 Over the course of
 eight lectures, we'll cover everything from trigonometry to special
-relativity.
-If time permits, we might even do some more advanced topics (see below).
+relativity, quantum mechanics and Brownian motion.
+Depending on time and interest, we might cover some of the advanced
+topics below.
 
 ##### Basic
 
