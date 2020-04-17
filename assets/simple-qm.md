@@ -294,7 +294,6 @@ to postulate polarisers make a *fundamentally random decision* about what to do 
 The universe, even at a microscopic level, is probabilistic.
 Maybe this seems natural to you, but this was shocking for physicists
 in the early 20th century, used to thinking of the world in classical terms.
-
 Despite being one of the founders of quantum mechanics, it was too
 much for Einstein's sensibilities.
 He famously wrote
