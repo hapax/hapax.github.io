@@ -14,6 +14,7 @@ mathematics.
 Over the course of
 eight lectures, we'll cover everything from trigonometry to special
 relativity.
+If time permits, we might even do some more advanced topics (see below).
 
 ##### Basic
 
@@ -38,5 +39,5 @@ relativity.
 - The Chandrasekhar limit
 - Cosmology
 - General relativity
-- Physical limits on computation
 - $1 + 2 + 3 + \cdots = -1/12$
+- Physical limits on computation
