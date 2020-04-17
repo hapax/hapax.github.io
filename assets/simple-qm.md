@@ -290,15 +290,14 @@ To get probabilities, we just square coordinates on the unit circle.
 
 Let's recap.
 To explain why you can see through polarised sunglasses, we have
-postulated that, for individual photons, a single or double polariser
-makes a *fundamentally random decision* about what to do with it.
+to postulate polarisers make a *fundamentally random decision* about what to do with it.
 The universe, even at a microscopic level, is probabilistic.
-Maybe this seems natural to you, but the physicists of the early 20th
-century were used to thinking of the universe as made up of tiny
-classical billiard balls, bouncing around on deterministic
-trajectories.
-Although Einstein was one of the founders of quantum theory, he later
-came to reject it, famously state
+Maybe this seems natural to you, but this was shocking for physicists
+in the early 20th century, used to thinking of the world in classical terms.
+
+Despite being one of the founders of quantum mechanics, it was too
+much for Einstein's sensibilities.
+He famously wrote
 
 <span style="padding-left: 20px; display:block">
 God does not play dice.
