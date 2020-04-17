@@ -13,10 +13,7 @@ to think like a physicist without needing a degree or any advanced
 mathematics.
 Over the course of
 eight lectures, we'll cover everything from trigonometry to special
-relativity, Newtonian to quantum mechanics.
-We'll calculate the radius of the earth, build a space
-elevator, see why clouds float and calculate the likelihood of
-intelligent life in the galaxy.
+relativity.
 
 ##### Basic
 
@@ -34,12 +31,12 @@ intelligent life in the galaxy.
 
 ##### Advanced (options)
 
-- Black holes
-- Cosmology
-- Curvature and general relativity
-- The Chandrasekhar limit
 - Fractals and power laws
-- Epidemiology and COVID-19
 - Soap bubbles
+- Epidemiology and COVID-19
+- Black holes
+- The Chandrasekhar limit
+- Cosmology
+- General relativity
 - Physical limits on computation
 - $1 + 2 + 3 + \cdots = -1/12$
