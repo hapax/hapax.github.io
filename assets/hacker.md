@@ -35,7 +35,7 @@ topics below.
 7. <a href="#sec-7">Special relativity</a>
 8. <a href="#sec-8">Quantum mechanics</a>
 
-##### Advanced (options)
+##### Advanced topics
 
 - Fractals and power laws
 - Soap bubbles
