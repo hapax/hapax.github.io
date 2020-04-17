@@ -253,8 +253,9 @@ and we can continue theory-building from there.
 If you shine a flashlight on the cross, and compare the intensity
 before and afterwards, you find no difference.
 Every photon gets through!
-We can learn even more by polarising the light first, and measuring
-the polarisation afterwards.
+On top of that, the polarisations are split evenly between the two
+directions.
+We can learn even more by polarising the light first.
 For concreteness, orient the cross so that the first slit is at
 $\theta_x = 0$ and the second at $\theta_y = 90^\circ$.
 If an incoming beam is polarised at angle $\theta$, it will obey
