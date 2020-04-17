@@ -250,8 +250,8 @@ Since sunglasses are polarised in a single direction only, this is a
 little harder to perform at home, so I'll just tell you what happens
 and we can continue theory-building from there.
 
-If you shine a flashlight on the cross, and measure the intensity
-before ($I$) and afterwards ($I'$), you find *no reduction*.
+If you shine a flashlight on the cross, and compare the intensity
+before and afterwards, you find no difference.
 Every photon gets through!
 We can learn even more by polarising the light first, and measuring
 the polarisation afterwards.
