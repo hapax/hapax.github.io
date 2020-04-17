@@ -7,6 +7,8 @@ categories: [Physics, Hacks]
 date:  2020-04-30
 ---
 
+### Introduction
+
 Welcome to the hacker's guide to physics!
 The goal of these notes (and accompanying videos) is to teach you how
 to think like a physicist without needing a degree or any advanced
@@ -16,6 +18,8 @@ eight lectures, we'll cover everything from trigonometry to special
 relativity, quantum mechanics and Brownian motion.
 Depending on time and interest, we might cover some of the advanced
 topics below.
+
+### Lecture outline
 
 ##### Basic
 
