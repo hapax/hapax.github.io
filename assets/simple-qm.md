@@ -16,6 +16,7 @@ date:  2020-04-30
    1. <a href="#sec-2-1">Flashlights and sunglasses</a>
    2. <a href="#sec-2-2">Quantum polarisers</a>
    3. <a href="#sec-2-3">Splitting light</a>
+   4. <a href="#sec-2-4">The uncertainty principle</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -286,6 +287,30 @@ x(\theta) = \cos\theta, \quad y(\theta) = \sin \theta.
 $$
 
 To get probabilities, we just square coordinates on the unit circle.
+
+Let's recap.
+To explain why you can see through polarised sunglasses, we have
+postulated that, for individual photons, a single or double polariser
+makes a *fundamentally random decision* about what to do with it.
+The universe, even at a microscopic level, is probabilistic.
+Maybe this seems natural to you, but the physicists of the early 20th
+century were used to thinking of the universe as made up of tiny
+classical billiard balls, bouncing around on deterministic
+trajectories.
+Although Einstein was one of the founders of quantum theory, he later
+came to reject it, famously state
+
+<span style="padding-left: 20px; display:block">P1.
+God does not play dice.
+</span>
+
+Ironically, in his efforts to discredit quantum mechanics, Einstein
+invented *entanglement*, perhaps the most useful and essentially
+quantum phenomenon, as we will see below.
+Even when he was wrong, he was right!
+
+### 2.4. The uncertainty principle<a id="sec-2-4" name="sec-2-4"></a>
+
 
 #### References
 
