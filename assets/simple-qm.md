@@ -288,9 +288,14 @@ $$
 
 To get probabilities, we just square coordinates on the unit circle.
 
+SUPERPOSITION?
+
+### 2.4. The uncertainty principle<a id="sec-2-4" name="sec-2-4"></a>
+
 Let's recap.
-To explain why you can see through polarised sunglasses, we have
-to postulate polarisers make a *fundamentally random decision* about what to do with it.
+To explain why you can see through polarised sunglasses, we
+have to assume that polarisers make a *fundamentally random decision*
+about what to do with an incoming photon.
 The universe, even at a microscopic level, is probabilistic.
 Maybe this seems natural to you, but this was shocking for physicists
 in the early 20th century, used to thinking of the world in classical terms.
@@ -304,9 +309,6 @@ Ironically, in his efforts to discredit quantum mechanics, Einstein
 invented *entanglement*, perhaps the most useful and essentially
 quantum phenomenon, as we will see below.
 Even when Einstein was wrong, he was right!
-
-### 2.4. The uncertainty principle<a id="sec-2-4" name="sec-2-4"></a>
-
 
 #### References
 
