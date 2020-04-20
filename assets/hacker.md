@@ -9,7 +9,9 @@ date:  2020-04-30
 
 ### Introduction
 
-Welcome to the hacker’s guide to physics!
+Welcome to the hacker’s guide to physics! Our goal will to be
+introduce modern physics using only high school algebra and
+trigonometry.
 
 ### Lecture outline
 
@@ -30,7 +32,7 @@ Welcome to the hacker’s guide to physics!
 - Speed and diffusion
 4. **Thermodynamics**
 - Ideal gas law
-- Brownian motion and Avogadro's constant
+- Brownian motion
 - Energy and entropy
 - The laws of thermodynamics
 5. **Quantum mechanics**
