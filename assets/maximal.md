@@ -230,7 +230,7 @@ Any departures from a straight line increase length.
 
 ---
 
-### 1.3. Over the moutains<a id="sec-1-3" name="sec-1-3"></a>
+### 1.3. Over the mountains<a id="sec-1-3" name="sec-1-3"></a>
 
 The second surveyor says to the first: "Your reasoning is all well and
 good for a completely flat plane, but there are *mountains* between

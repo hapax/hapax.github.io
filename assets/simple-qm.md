@@ -17,7 +17,9 @@ date:  2020-04-30
    2. <a href="#sec-2-2">Quantum polarisers</a>
    3. <a href="#sec-2-3">Splitting light</a>
 3. <a href="#sec-3">Quantum mechanics</a>
-   1. <a href="#sec-3-1">Measurement and uncertainty</a>
+   1. <a href="#sec-3-1">States and measurements</a>
+   2. <a href="#sec-3-2">An uncertainty principle</a>
+   3. <a href="#sec-3-3">Entanglement</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -293,7 +295,7 @@ It's useful to
 
 ## 3. Quantum mechanics <a id="sec-3" name="sec-3"></a>
 
-### 3.1. Measurement and uncertainty<a id="sec-3-1" name="sec-3-1"></a>
+### 3.1. States and measurements<a id="sec-3-1" name="sec-3-1"></a>
 
 Let's recap.
 To explain why you can see through polarised sunglasses, we
@@ -312,6 +314,10 @@ Ironically, in his efforts to discredit quantum mechanics, Einstein
 invented *entanglement*, perhaps the most useful and essentially
 quantum phenomenon, as we will see below.
 Even when Einstein was wrong, he was right!
+
+### 3.2. An uncertainty principle<a id="sec-3-2" name="sec-3-2"></a>
+
+### 3.3. Entanglement<a id="sec-3-3" name="sec-3-3"></a>
 
 #### References
 

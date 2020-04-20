@@ -9,40 +9,46 @@ date:  2020-04-30
 
 ### Introduction
 
-Welcome to the hacker's guide to physics!
-The goal of these notes (and accompanying videos) is to teach you how
-to think like a physicist without needing a degree or any advanced
-mathematics.
-Over the course of
-eight lectures, we'll cover everything from trigonometry to special
-relativity, quantum mechanics and Brownian motion.
-Depending on time and interest, we might cover some of the advanced
-topics below.
+Bla
 
 ### Lecture outline
 
-##### Basic
-
-1. <a href="#sec-1">Math review</a>
-2. <a href="#sec-2">Physics review</a>
-3. <a href="#sec-3">Dimensional analysis</a>
-4. <a href="#sec-4">Fermi estimates</a>
-
-##### Intermediate
-
-5. <a href="#sec-5">Random walks</a>
-6. <a href="#sec-6">Thermodynamics</a>
-7. <a href="#sec-7">Special relativity</a>
-8. <a href="#sec-8">Quantum mechanics</a>
+1. **Dimensional analysis**
+- Dimensions vs measurements
+- The algebra of dimensions
+- Dimensionless numbers and Buckingham π
+- Fundamental constants
+2. **Fermi estimates**
+- Linear vs logarithmic rulers
+- Geometric means
+- Factorisation
+- Generalised units
+3. **Random walks**
+- Square root scaling
+- Polymers
+- Collisions
+- Speed and diffusion
+4. **Thermodynamics**
+- Ideal gas law
+- Brownian motion and Avogadro's constant
+- Energy and entropy
+- The laws of thermodynamics
+5. **Quantum mechanics**
+- Polarisers and Stern-Gerlach
+- Entanglement
+- Quantum key distribution
+6. **Special relativity**
+- Euclidean surveyors
+- The twin paradox
 
 ##### Advanced topics
 
-- Fractals and power laws
+- Fractals, scaling and power laws
 - Soap bubbles
-- Epidemiology and COVID-19
 - Black holes
-- The Chandrasekhar limit
+- White dwarfs
+- Feynman diagrams
 - Cosmology
 - General relativity
-- $1 + 2 + 3 + \cdots = -1/12$
+- Oscillators
 - Physical limits on computation
