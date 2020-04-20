@@ -9,7 +9,7 @@ date:  2020-04-30
 
 ### Introduction
 
-Bla
+Welcome to the hacker’s guide to physics!
 
 ### Lecture outline
 
@@ -35,15 +35,20 @@ Bla
 - The laws of thermodynamics
 5. **Quantum mechanics**
 - Polarisers and Stern-Gerlach
+- Superposition and measurement
 - Entanglement
 - Quantum key distribution
 6. **Special relativity**
-- Euclidean surveyors
-- The twin paradox
+- The triangle inequality
+- Maximal proper time
+- Geodesics
+- Time, length and energy
+7. **Advanced topic 1**
+8. **Advanced topic 2**
 
 ##### Advanced topics
 
-- Fractals, scaling and power laws
+- Fractals and scaling laws
 - Soap bubbles
 - Black holes
 - White dwarfs
