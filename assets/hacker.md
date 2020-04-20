@@ -51,6 +51,7 @@ trigonometry.
 ##### Advanced topics
 
 - Fractals and scaling laws
+- Electromagnetism
 - Soap bubbles
 - Black holes
 - White dwarfs
