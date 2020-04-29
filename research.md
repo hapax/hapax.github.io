@@ -19,7 +19,7 @@ Papers and other technical notes are listed below.
 
 #### Papers
 
-1. [BCFT entanglement entropy at large central charge and the black hole interior](https://arxiv.org/abs/2004.13088)
+1. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). James Sully, Mark Van Raamsdonk, David Wakeham. arXiv: 2004.13088.
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://arxiv.org/pdf/2002.02971.pdf)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), Moshe
