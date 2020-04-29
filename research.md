@@ -14,8 +14,7 @@ black holes, and statistical mechanics.
     width="55%" />
 	</div>
 	</figure>
-	
-Papers and other technical notes are listed below.
+
 
 #### Papers
 
