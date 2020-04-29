@@ -6,39 +6,35 @@ permalink: /research/
 
 I study quantum mechanics and gravity, with a particular focus on the
 *AdS/CFT correspondence*.
-This is the somewhat magical fact that quantum gravity in
-certain (*d*+1)-dimensional spaces is exactly equivalent to
-quantum-mechanical systems in *d* dimensions.
-In a sense, we can think of AdS/CFT as a perfect algorithm for
-simulating (*d*+1)-dimensional gravity on a *d*-dimensional quantum computer!
+At the moment, I'm interested in boundary conformal field theories,
+black holes, and statistical mechanics.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
     width="55%" />
 	</div>
 	</figure>
-
-At the moment, I'm interested in (a) boundary conformal field theories
-and their holographical duals; and (b) holographic resolutions to the
-black hole information paradox.
-My papers are listed below, followed by sundry technical notes.
+	
+Papers and other technical notes are listed below.
 
 #### Papers
 
-1. [*Eigenstate thermalization and disorder averaging in gravity*](https://arxiv.org/pdf/2002.02971.pdf)
+1. [BCFT entanglement entropy at large central charge and the black hole interior](https://arxiv.org/abs/2004.13088)
+   (2020). James Sully, Mark Van Raamsdonk, David Wakeham. arXiv: 2004.13088.
+2. [*Eigenstate thermalization and disorder averaging in gravity*](https://arxiv.org/pdf/2002.02971.pdf)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), Moshe
    Rozali, James Sully, David Wakeham. arXiv: 2002.02971.
-2. [*Brane dynamics from the first law of entanglement*](https://arxiv.org/pdf/1912.05746.pdf)
+3. [*Brane dynamics from the first law of entanglement*](https://arxiv.org/pdf/1912.05746.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), David
   Wakeham. arXiv: 1912.05746.
-3. [*Information radiation in BCFT models of black holes*](https://arxiv.org/pdf/1910.12836.pdf)
+4. [*Information radiation in BCFT models of black holes*](https://arxiv.org/pdf/1910.12836.pdf)
   (2019). Moshe Rozali,
   [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
   [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
   Christopher Waddell, David Wakeham. arXiv: 1910.12836.
-4. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
+5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
