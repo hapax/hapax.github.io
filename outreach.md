@@ -34,11 +34,12 @@ A few things I've written:
   [*2*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
   [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on classical mechanics and Fourier analysis.
-<!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
-  and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
-<!--  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
-  -
-    [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach. -->
+  <!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. -->
+  <!--  -
+  [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity
+  filters and higher-dimensional donuts. -
+  [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
+  analysis at the beach. -->
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
