@@ -20,3 +20,7 @@ Quantum mechanics: real black magic calculus.
 </span>
 
 <div style="text-align: right"><i>Albert Einstein, 1925</i> </div>
+
+A giant particle accelerator like the Large Hadron Collider (LHC) is
+not so different from a magician's hat.
+We throw in some particles, shake the hat a little, 
