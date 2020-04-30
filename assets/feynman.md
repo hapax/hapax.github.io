@@ -39,8 +39,8 @@ rather Nature herself in the form of *quantum mechanics*.
 
 In this tutorial, we are going to peek inside the hat, and learn some
 of the "black magic calculus" needed to create a rabbit.
-And while we're at, we'll study the rabbits too!
-They give deep insights into what the universe is made out of.
+Once we understand the magic, we can use the rabbits we pull out of
+the hat to learn about the universe!
 
 ### 1.1. Energy and mass <a id="sec-1-1" name="sec-1-1"></a>
 
