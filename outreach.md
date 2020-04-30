@@ -30,8 +30,8 @@ A few things I've written:
   (2018--19). A medley of problems on everything from string theory to
   Starbucks.
 - *Physical systems* (2016). I wrote the tutorials
-  ([*1*]({{hapax.github.io}}/assets/classical-tutes-full.pdf),
-  [*2*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
+  ([*classical*]({{hapax.github.io}}/assets/classical-tutes-full.pdf),
+  [*Fourier*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
   [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on classical mechanics and Fourier analysis.
   <!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. -->
