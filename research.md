@@ -47,8 +47,8 @@ black holes, and statistical mechanics.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). In string
 theory, loop diagrams are Riemann surfaces, leading to a beautiful
-connection between scattering and geometry. In these notes, I
+connection between scattering and geometry. I
 discuss the moduli space and path integral over these surfaces.
 - [*The inflationary spectrum*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Short technical notes on
+  }}/assets/inflation-notes.pdf) (2016). Brief notes on
   scalar and tensor perturbations in cosmological inflation.
