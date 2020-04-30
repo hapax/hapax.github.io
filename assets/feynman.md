@@ -13,6 +13,7 @@ date:  2020-03-??
 
 1. <a href="#sec-1">Introduction</a>
    1. <a href="#sec-1-1">Energy and mass</a>
+   2. <a href="#sec-1-2">Quantum mechanics lite</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -38,7 +39,7 @@ rather Nature herself in the form of *quantum mechanics*.
 
 In this tutorial, we are going to peek inside the hat, and learn some
 of the "black magic calculus" needed to create a rabbit.
-We will learn about matter, energy, the basic ingredients of the
-universe, and even quantum aspects of empty space itself!
 
-## 1.1. Energy and mass <a id="sec-1-1" name="sec-1-1"></a>
+### 1.1. Energy and mass <a id="sec-1-1" name="sec-1-1"></a>
+
+### 1.2. Quantum mechanics lite <a id="sec-1-2" name="sec-1-2"></a>
