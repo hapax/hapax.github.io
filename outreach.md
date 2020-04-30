@@ -30,11 +30,10 @@ A few things I've written:
   - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
   Starbucks.
-- *Physical systems* (2016). I wrote the tutorials
-  ([*classical*]({{hapax.github.io}}/assets/classical-tutes-full.pdf),
-  [*Fourier*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
-  [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
-  on classical mechanics and Fourier analysis.
+- *Physical systems* (2016). I wrote and conducted tutorials
+  for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
+  on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
+  and [*Fourier stuff*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf).
   <!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. -->
   <!--  -
   [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity
