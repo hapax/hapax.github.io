@@ -4,7 +4,8 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-A few different teaching and outreach
+Here are a few different teaching and outreach projects I've been
+involved in.
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
