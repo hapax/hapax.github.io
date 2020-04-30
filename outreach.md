@@ -25,11 +25,10 @@ A few things I've written:
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
   - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
-  introduction to dimensional analysis, with applications to
-  fundamental constants, natural units, and black holes.
+  introduction to dimensional analysis, with applications to black holes.
   - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
-  Starbucks. Requires a strong background in high school physics and maths.
+  Starbucks.
 - *Physical systems* (2016). I wrote the tutorials
   ([*1*]({{hapax.github.io}}/assets/classical-tutes-full.pdf),
   [*2*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
