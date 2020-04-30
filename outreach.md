@@ -16,7 +16,6 @@ permalink: /outreach/
   an outreach program for high school students in the
   Vancouver area.
 A few things I've written:
-
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
   open-ended discussions on black hole collisions and alien signals. -->
