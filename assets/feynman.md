@@ -12,6 +12,7 @@ date:  2020-03-??
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
+   1. <a href="#sec-1-1">Energy and mass</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -39,3 +40,5 @@ In this tutorial, we are going to peek inside the hat, and learn some
 of the "black magic calculus" needed to create a rabbit.
 We will learn about matter, energy, the basic ingredients of the
 universe, and even quantum aspects of empty space itself!
+
+## 1.1. Energy and mass <a id="sec-1-1" name="sec-1-1"></a>
