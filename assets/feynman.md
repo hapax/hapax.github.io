@@ -26,6 +26,8 @@ not so different from a magician's hat.
 We throw in some particles, tap our wand, and produce a rabbit.
 But at the LHC, it is not the magician performing the magic, but
 rather Nature herself in the form of *quantum mechanics*.
+And the sorts of rabbits that come out depend on what goes in, how
+hard we tap, and pure luck!
 
 <figure>
     <div style="text-align:center"><img src
