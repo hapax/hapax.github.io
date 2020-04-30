@@ -4,8 +4,8 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-I like introducing maths and physics to people!
-I describe a few of my teaching and outreach efforts below.
+I like introducing fun maths and physics to people!
+A few of my teaching and outreach efforts are described below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
