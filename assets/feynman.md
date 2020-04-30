@@ -37,5 +37,5 @@ rather Nature herself in the form of *quantum mechanics*.
 
 In this tutorial, we are going to peek inside the hat, and learn some
 of the "black magic calculus" needed to create a rabbit.
-We will see what this tells us about the fundamental nature of the
-universe and space itself.
+We will learn about matter, energy, the basic ingredients of the
+universe, and even quantum aspects of empty space itself!
