@@ -42,7 +42,9 @@ A few things I've written:
   analysis at the beach. -->
 - *Real analysis* (2014--15). I was head tutor for an
   [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
-  and wrote some [extension problems]({{hapax.github.io}}/assets/ra-problems.pdf).
+  and wrote some
+  [extension problems]({{hapax.github.io}}/assets/ra-problems.pdf)
+  during my time.
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
