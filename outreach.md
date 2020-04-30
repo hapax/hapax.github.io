@@ -4,8 +4,8 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-Here are a few different teaching and outreach projects I've been
-involved in.
+I like introducing fun maths and physics to people!
+Here are some of my teaching and outreach efforts.
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
