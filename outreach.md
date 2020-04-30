@@ -4,8 +4,6 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-### UBC Physics Circle
-
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
@@ -13,7 +11,7 @@ permalink: /outreach/
 	</div>
 </figure>
 
-I co-run the
+- *UBC Physics Circle* (2018--20). I co-run the
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for high school students in the
   Vancouver area.
@@ -26,20 +24,18 @@ A few things I've written:
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
-- [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
+  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to
   fundamental constants, natural units, and black holes.
-- [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
+  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
-  Starbucks. Requires a good background in high school physics and maths.
-
-### Teaching
-
-- *Physical systems* (2016). A
+  Starbucks. Requires a strong background in high school physics and maths.
+- *Physical systems* (2016). I wrote the tutorials
+  ([*1*]({{hapax.github.io}}/assets/classical-tutes-full.pdf),
+  [*2*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)) for a
   [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
-  on wave mechanics and Fourier analysis. I wrote the tutorials and
-  assessment below.
-  - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
+  on classical mechanics and Fourier analysis.
+<!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
   and a little Hamiltonian mechanics.
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
 <!--  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.

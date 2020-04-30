@@ -13,8 +13,6 @@ I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david).
 
 I was born and raised in Melbourne, Australia.
-Before moving to Vancouver to study physics, I obtained degrees in
-maths, philosophy, and physics.
 My CV is available on request.
 
 ### Contact me
