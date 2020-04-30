@@ -36,3 +36,8 @@ hard we tap, and pure luck!
     happens, and particles come out.</i></figcaption>
 	</div>
 	</figure>
+
+We are going to peek inside the hat and see how some of the magic
+happens.
+In other words of Einstein, we will learn some of the "black magic
+calculus" that explain how the rabbit appears, and 
