@@ -27,7 +27,7 @@ A giant particle accelerator like the Large Hadron Collider (LHC) is
 not so different from a magician's hat.
 We throw in some particles, tap our wand, and produce a rabbit.
 But at the LHC, it is not the magician performing the magic, but
-rather Nature herself in the form of *quantum mechanics*.
+rather Nature herself.
 
 <figure>
     <div style="text-align:center"><img src
@@ -38,9 +38,10 @@ rather Nature herself in the form of *quantum mechanics*.
 	</figure>
 
 In this tutorial, we are going to peek inside the hat, and learn some
-of the "black magic calculus" needed to create a rabbit.
-Once we understand the magic, we can use the rabbits we pull out of
-the hat to learn about the universe!
+"black magic calculus" called *Feynman diagrams* which explain how
+Nature makes the rabbit.
+And once we understand the magic, we can study the rabbits to learn
+about the universe!
 
 ### 1.1. Energy and mass <a id="sec-1-1" name="sec-1-1"></a>
 
