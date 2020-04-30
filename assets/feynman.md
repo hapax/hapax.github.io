@@ -23,7 +23,6 @@ Quantum mechanics: real black magic calculus.
 
 A giant particle accelerator like the Large Hadron Collider (LHC) is
 not so different from a magician's hat.
-We throw in some particles, shake the hat a little and wave a
-wand.
-When we peer into the hat, we can learn about the fundamental
-constituents of the universe.
+We throw in some particles, tap with our wand (more or less
+energetically), and peer inside.
+What comes out reveals the basic structure of the universe.
