@@ -6,11 +6,6 @@ permalink: /outreach/
 
 ### UBC Physics Circle
 
-I co-run the
-  [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-  an outreach program for high school students in the
-  Vancouver area.
-  Email me if you'd like to get involved!
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
@@ -18,7 +13,11 @@ I co-run the
 	</div>
 </figure>
 
-Some of the material I've written for the circle:
+I co-run the
+  [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
+  an outreach program for high school students in the
+  Vancouver area.
+A few things I've written:
 
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
@@ -32,7 +31,7 @@ Some of the material I've written for the circle:
   fundamental constants, natural units, and black holes.
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
-  Starbucks. Requires only high school physics and a strong constitution.
+  Starbucks. Requires a good background in high school physics and maths.
 
 ### Teaching
 
@@ -43,8 +42,9 @@ Some of the material I've written for the circle:
   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian
   and a little Hamiltonian mechanics.
   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
-  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
-  - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach.
+<!--  - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
+  -
+    [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier analysis at the beach. -->
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)

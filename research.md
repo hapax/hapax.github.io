@@ -43,13 +43,10 @@ black holes, and statistical mechanics.
 #### Other technical notes and talks
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
-  quickly". A talk on both notions to the neutron star
-  group at the University of Melbourne.
+  quickly".
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). In string
 theory, loop diagrams are Riemann surfaces, leading to a beautiful
-connection between scattering and geometry. Final project for a string
-theory course.
-- [*Inflation: inhomogeneities and spectra*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Early quantum wrinkles equal
-  late-time structure! Notes on inflation for a student seminar at the University of Melbourne.
+connection between scattering and geometry.
+- [*The inflationary spectrum*]({{ hapax.github.io
+  }}/assets/inflation-notes.pdf) (2016). Notes on inflation.
