@@ -23,8 +23,9 @@ Quantum mechanics: real black magic calculus.
 
 A giant particle accelerator like the Large Hadron Collider (LHC) is
 not so different from a magician's hat.
-We throw in some particles, tap with our wand, and the magic of
-quantum mechanics can produce a rabbit.
+We throw in some particles, tap our wand, and produce a rabbit.
+But at the LHC, it is not the magician performing the magic, but
+rather Nature herself in the form of *quantum mechanics*.
 
 <figure>
     <div style="text-align:center"><img src
@@ -33,6 +34,3 @@ quantum mechanics can produce a rabbit.
     happens, and particles come out.</i></figcaption>
 	</div>
 	</figure>
-
-The sorts of things that can appear afterwards depend on how hard we
-tap.
