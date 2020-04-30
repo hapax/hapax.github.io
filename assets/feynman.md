@@ -26,8 +26,6 @@ not so different from a magician's hat.
 We throw in some particles, tap our wand, and produce a rabbit.
 But at the LHC, it is not the magician performing the magic, but
 rather Nature herself in the form of *quantum mechanics*.
-And the sorts of rabbits that come out depend on what goes in, how
-hard we tap, and pure luck!
 
 <figure>
     <div style="text-align:center"><img src
@@ -37,7 +35,7 @@ hard we tap, and pure luck!
 	</div>
 	</figure>
 
-We are going to peek inside the hat and see how some of the magic
-happens.
-In other words of Einstein, we will learn some of the "black magic
-calculus" that explain how the rabbit appears, and 
+In this tutorial, we are going to peek inside the hat, and learn some
+of the "black magic calculus" needed to create a rabbit.
+We will see what this tells us about the fundamental nature of the
+universe and space itself.
