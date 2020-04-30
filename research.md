@@ -31,7 +31,7 @@ black holes, and statistical mechanics.
   (2019). Moshe Rozali,
  James Sully,
  Mark Van Raamsdonk,
-  Christopher Waddell, David Wakeham. arXiv: 1910.12836.
+  [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2), David Wakeham. arXiv: 1910.12836.
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
