@@ -56,8 +56,7 @@ exploration, and creativity in technical matters.
 In the words of open-source guru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
-What [hackers] had in common was a love of excellence and
-programming... They wanted to be able to do something in a more
+[Hackers] wanted to be able to do something in a more
 exciting way than anyone believed possible and show 'Look how
 wonderful this is. I bet you didn't believe this could be done.'
 </span>
