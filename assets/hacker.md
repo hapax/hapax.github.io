@@ -86,10 +86,10 @@ building, and physicists like [Albert Einstein](https://en.wikipedia.org/wiki/Al
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) did
 just that.
 
-We will embrace the hacker spirit, and make our motto:
+We will embrace hacker spirit in physics, and make it our goal
 
 <span style="padding-left: 20px; display:block">
-*To learn powerful things about the world using the simplest possible means.*
+To learn powerful things about the world using the simplest possible means.
 </span>
 
 You don't need complicated math to share quantum secrets, size up a
