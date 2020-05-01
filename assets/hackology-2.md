@@ -199,7 +199,7 @@ Argue that walking speed scales as $\mathcal{L}^{1/2}$. *Hint.* Model the leg as
     M^{1/2}$ in order to support the organism's weight.
 
 (b) General Sherman is a giant sequoia tree in California's
-    Sequoia National Park.
+    Sequoia National Park, probably the largest tree in the world.
     The diameter of the trunk is $7.7 \text{ m}$.
     Estimate its mass by comparing to the thickness of the human
     thighbone ($r = 2.3$ cm) and using the radius scaling.
