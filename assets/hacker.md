@@ -103,7 +103,3 @@ Join us!
 		    <figcaption><i>The greatest physics hacker of all.</i></figcaption>
 	</div>
 	</figure>
-
-#### Give an example
-
-If you insist!
