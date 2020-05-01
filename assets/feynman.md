@@ -37,7 +37,7 @@ rather Nature herself.
 	</div>
 	</figure>
 
-In this tutorial, we are going to peek inside the hat, and learn some
+In this tutorial, we are going to peek inside the hat, and learn about the
 "black magic calculus" called *Feynman diagrams* which explain how
 Nature makes the rabbit.
 And once we understand the magic, we can study the rabbits to learn
