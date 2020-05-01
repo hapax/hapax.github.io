@@ -73,7 +73,7 @@ perhaps the most well-known hacker in the world.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/tetris-hack.jpeg" width="45%"/>
+    ="/images/posts/tetris-hack.jpg" width="45%"/>
 		    <figcaption><i>The "holy grail" of MIT hacks: tetris
     implemented on a campus building.</i></figcaption>
 	</div>
