@@ -87,7 +87,7 @@ extraordinary ends.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hacker1.png" width="45%"/>
-		    <figcaption><i>Physics needs more hacker spirit.</i></figcaption>
+		    <figcaption><i>Hacking physics.</i></figcaption>
 	</div>
 	</figure>
 
