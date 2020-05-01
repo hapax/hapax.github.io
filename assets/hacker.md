@@ -22,7 +22,7 @@ More details to come!
 
 ### Lecture outline
 
-1. **Dimensional analysis** (Thursday, May 14)
+1. **Dimensional analysis** (*Thursday, May 14*)
 - Dimensions vs measurements
 - The algebra of dimensions
 - Dimensionless numbers and Buckingham π
