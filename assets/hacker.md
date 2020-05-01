@@ -82,7 +82,10 @@ or easy tool for the job.
 They delight in the unexpected, in using humble means to achieve
 extraordinary ends.
 Viewed this way, we can hack physics just as well as we can hack Lego blocks or a campus
-building.
+building, and physicists like [Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) did
+just that.
+
 We will embrace the hacker spirit, and make our motto:
 
 <span style="padding-left: 20px; display:block">
@@ -91,10 +94,7 @@ We will embrace the hacker spirit, and make our motto:
 
 You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli;
-just a few simple tools and the back of a napkin.
-We will follow in the footsteps of great physics hackers like
-[Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman).
+just a few simple tools and the back of a napkin..
 Join us!
 
 <figure>
