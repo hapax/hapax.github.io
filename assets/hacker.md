@@ -100,6 +100,6 @@ Join us as we hack our way to the heart of modern physics!
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/einstein.jpg" width="45%"/>
-		    <figcaption><i>The greatest physics hacker of all.</i></figcaption>
+		    <figcaption><i>The "holy grail" of physics hackers.</i></figcaption>
 	</div>
 	</figure>
