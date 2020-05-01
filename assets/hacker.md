@@ -89,13 +89,13 @@ just that.
 We will embrace hacker spirit in physics, and make it our goal
 
 <span style="padding-left: 20px; display:block">
-To learn powerful things about the world using the simplest possible means.
+*To learn powerful things about the world using the simplest possible means.*
 </span>
 
 You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli;
-just a few simple tools and the back of a napkin..
-Join us!
+just a few simple tools and the back of a napkin.
+Join us on our journey as we hack our way into the heart of modern physics!
 
 <figure>
     <div style="text-align:center"><img src
