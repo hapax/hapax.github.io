@@ -90,7 +90,7 @@ We will embrace the hacker spirit, and make our motto:
 </span>
 
 You don't need complicated math to share quantum secrets, size up a
-black hole, or guess the length of bacterial DNA;
+black hole, or probe the bacterial genome;
 just a few simple tools and the back of a napkin.
 We will follow in the footsteps of great physics hackers like
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
