@@ -103,6 +103,10 @@ Our goal will be:
 You don't need complicated maths to share quantum secrets, weigh the
 largest tree in the world, or estimate the size of a bacterial genome;
 just a few simple tools and some high school maths.
+We will follow in the footsteps of great physics hackers like
+[Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman).
+Join us!
 
 <figure>
     <div style="text-align:center"><img src
@@ -110,8 +114,3 @@ just a few simple tools and some high school maths.
 		    <figcaption><i>The greatest physics hacker of all.</i></figcaption>
 	</div>
 	</figure>
-
-We will follow in the footsteps of great physics hackers like
-[Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman).
-Join us!
