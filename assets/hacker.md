@@ -16,7 +16,8 @@ This is a virtual successor to the
 A (rapidly evolving) outline of planned topics is below, but the first
 few lectures will be based on
 [this blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
-The first lecture will be on Thursday, May 14.
+
+The first lecture will be on **Thursday, May 14**.
 Stay tuned for further details!
 
 ### Lecture outline
