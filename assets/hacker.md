@@ -13,6 +13,7 @@ Welcome to the Hacker’s Guide to Physics! The goal is to provide an
 introduction to modern physics using basic high school maths.
 This is a virtual successor to the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
+A (rapidly evolving) outline of planned topics is below.
 
 #### Details
 
