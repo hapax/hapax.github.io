@@ -83,15 +83,15 @@ They delight in the unexpected, in using humble means to achieve
 extraordinary ends.
 Viewed this way, we can hack physics just as well as we can hack Lego blocks or a campus
 building.
-Our goal will be as follows:
+We will embrace the hacker spirit, and make our motto:
 
 <span style="padding-left: 20px; display:block">
-Learn powerful things about the world using the simplest possible means.
+*To learn powerful things about the world using the simplest possible means.*
 </span>
 
-You don't need complicated maths to share quantum secrets, weigh the
-largest tree in the world, or estimate the size of a bacterial genome;
-just a few simple tools and some high school maths.
+You don't need complicated math to share quantum secrets, size up a
+black hole, or guess the length of bacterial DNA;
+just a few simple tools and the back of a napkin.
 We will follow in the footsteps of great physics hackers like
 [Albert Einstein](https://en.wikipedia.org/wiki/Albert_einstein) and
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman).
