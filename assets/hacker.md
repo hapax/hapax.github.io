@@ -51,7 +51,7 @@ Stay tuned for further details!
 Nowadays, a "hacker" is someone who breaks into computers.
 But there is an older use of the term referring to a spirit of play,
 exploration, and creativity in technical matters.
-In the words of open-source guru Richard Stallman,
+In the words of open-source guru Richard Stallman:
 
 <span style="padding-left: 20px; display:block">
 [Hackers] wanted to be able to do something in a more
