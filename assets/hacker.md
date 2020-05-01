@@ -55,8 +55,8 @@ In the words of open-source guru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
 [Hackers] wanted to be able to do something in a more
-exciting way than anyone believed possible and show 'Look how
-wonderful this is. I bet you didn't believe this could be done.'
+exciting way than anyone believed possible and show "Look how
+wonderful this is. I bet you didn't believe this could be done."
 </span>
 
 Examples include
