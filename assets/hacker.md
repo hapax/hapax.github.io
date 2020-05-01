@@ -7,8 +7,6 @@ categories: [Physics, Hacks]
 date:  2020-04-30
 ---
 
-### Introduction
-
 Welcome to the Hacker’s Guide to Physics! The goal is to provide an
 introduction to modern physics using basic high school maths.
 This is a virtual successor to the
@@ -20,7 +18,7 @@ few lectures will be based on
 The first lecture will be on **Thursday, May 14**.
 Stay tuned for further details!
 
-### Lecture outline
+#### Lecture outline (preliminary)
 
 1. **Dimensional analysis** (*Thursday, May 14*)
 <!-- - Dimensions vs measurements -->
@@ -48,7 +46,7 @@ Stay tuned for further details!
 <!-- Black holes - White dwarfs - Feynman diagrams - Cosmology - -->
 <!-- General relativity - Oscillators - Physical limits on computation -->
 
-### What's the big idea?
+#### What's the big idea?
 
 Nowadays, a "hacker" is someone who breaks into computers.
 But there is an older use of the term referring to a spirit of play,
