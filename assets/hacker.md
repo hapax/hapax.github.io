@@ -81,15 +81,7 @@ Hackers (in this sense) do not look for the most powerful, or obvious,
 or easy tool for the job.
 They delight in the unexpected, in using humble means to achieve
 extraordinary ends.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/hacker1.png" width="45%"/>
-		    <figcaption><i>Hacking physics.</i></figcaption>
-	</div>
-	</figure>
-
-We can hack physics just as well as we can hack Lego blocks or a campus
+Viewed this way, we can hack physics just as well as we can hack Lego blocks or a campus
 building.
 Our goal will be as follows:
 
