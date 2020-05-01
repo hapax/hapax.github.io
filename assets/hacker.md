@@ -94,10 +94,10 @@ extraordinary ends.
 
 We can hack physics just as well as we can hack Lego blocks or a campus
 building.
-Our goal will be:
+Our goal will be as follows:
 
 <span style="padding-left: 20px; display:block">
-*To learn powerful things about the world using the simplest possible means.*
+*Learn powerful things about the world using the simplest possible means.*
 </span>
 
 You don't need complicated maths to share quantum secrets, weigh the
