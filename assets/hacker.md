@@ -95,7 +95,7 @@ We will embrace hacker spirit in physics, and make it our goal
 You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli;
 just a few simple tools and the back of a napkin.
-Join us on our journey as we hack our way into the heart of modern physics!
+Join us as we hack our way to the heart of modern physics!
 
 <figure>
     <div style="text-align:center"><img src
