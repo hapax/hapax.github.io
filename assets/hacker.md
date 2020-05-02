@@ -44,7 +44,7 @@ Stay tuned for further details!
 <!-- Black holes - White dwarfs - Feynman diagrams - Cosmology - -->
 <!-- General relativity - Oscillators - Physical limits on computation -->
 
-#### What's the big idea?
+#### Isn't hacking bad?
 
 Nowadays, a "hacker" is someone who breaks into computers.
 But there is an older use of the term referring to a spirit of play,
