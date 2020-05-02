@@ -11,9 +11,7 @@ Welcome to the Hacker’s Guide to Physics! The goal is to provide an
 introduction to modern physics using basic high school maths.
 This is a virtual successor to the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
-A (rapidly evolving) outline of planned topics is below, but the first
-few lectures will be based on
-[this blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
+A (rapidly evolving) outline of planned topics is below.
 
 The first lecture will be on **Thursday, May 14**.
 Stay tuned for further details!
@@ -30,7 +28,7 @@ Stay tuned for further details!
 <!-- - Geometric means -->
 <!-- - Factorisation -->
 <!-- - Generalised units -->
-3. **Random walks** (*date TBA*)
+<!-- 3. **Random walks** (*date TBA*) -->
 <!--- Square root scaling -->
 <!--- Polymers -->
 <!--- Collisions -->
