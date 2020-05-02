@@ -24,7 +24,7 @@ Stay tuned for further details!
 
 #### Lecture outline
 
-1. **Dimensional analysis** (*Thursday, May 14*)
+1. **Dimensional analysis** (*Thursday, May 14, 2020*)
 <!-- - Dimensions vs measurements -->
 <!-- - The algebra of dimensions -->
 <!-- - Buckingham π -->
