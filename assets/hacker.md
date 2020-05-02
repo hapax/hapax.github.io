@@ -83,6 +83,13 @@ building, and physicists like [Albert Einstein](https://en.wikipedia.org/wiki/Al
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) did
 just that.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/einstein.jpg" width="45%"/>
+		    <figcaption><i>The "holy grail" of physics hackers.</i></figcaption>
+	</div>
+	</figure>
+
 We will embrace hacker spirit in physics, and make it our goal
 
 <span style="padding-left: 20px; display:block">
@@ -93,10 +100,3 @@ You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli;
 just a few simple tools and the back of a napkin.
 Join us as we hack our way to the heart of modern physics!
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/einstein.jpg" width="45%"/>
-		    <figcaption><i>The "holy grail" of physics hackers.</i></figcaption>
-	</div>
-	</figure>
