@@ -12,7 +12,6 @@ introduction to modern physics using basic high school maths.
 This is a virtual successor to the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 A (rapidly evolving) outline of planned topics is below.
-
 The first lecture will be on **Thursday, May 14**.
 Stay tuned for further details!
 
