@@ -90,13 +90,13 @@ just that.
 	</div>
 	</figure>
 
-We will embrace hacker spirit in physics, and make it our goal
+We will try to approach physics with hacker spirit in physics. In a motto:
 
 <span style="padding-left: 20px; display:block">
-*To learn powerful things about the world using the simplest possible means.*
+Discover deep facts about the world using the simplest possible means.
 </span>
 
 You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli;
 just a few simple tools and the back of a napkin.
-Join us as we hack our way to the heart of modern physics!
+So, join us as we hack our way to the heart of modern physics!
