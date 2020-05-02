@@ -13,6 +13,12 @@ using basic high school maths, and is designed to be a virtual successor to the
 [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/).
 A (rapidly evolving) outline of planned topics is below.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hacker1.png" width="45%"/>
+	</div>
+	</figure>
+
 The first lecture will be on **Thursday, May 14**.
 Stay tuned for further details!
 
