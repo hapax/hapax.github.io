@@ -42,7 +42,7 @@ Hacker culture, in the original sense, grew out of places like MIT
 in the 60s, with its tradition of highbrow silliness and elaborate technical pranks.
 Although associated with programming, hacker spirit can be viewed as
 a broader ethos about play, understanding and creativity.
-In the words of open-source guru Richard Stallman,
+In the words of open-source gnuru Richard Stallman,
 
 <span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and
