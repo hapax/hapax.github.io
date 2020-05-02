@@ -79,7 +79,7 @@ made by Larry Page (co-founder of Google), and even the nerdtastic webcomic [xkc
 
 Hackers do not look for the most powerful, or obvious,
 or easy tool for the job.
-They delight in using humble means to achieve the extraordinary.
+They delight in using humble means to achieve extraordinary ends.
 Viewed this way, we can hack physics just as well as we can hack Lego blocks or a campus
 building.
 
