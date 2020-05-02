@@ -60,9 +60,9 @@ wonderful this is. I bet you didn't believe this could be done.'
 In this older sense, "hacking" is about using technical insights to
 do impossible things.
 Examples include
-[student pranks at MIT](https://en.wikipedia.org/wiki/Hacks_at_the_Massachusetts_Institute_of_Technology) or
+[student pranks at MIT](https://en.wikipedia.org/wiki/Hacks_at_the_Massachusetts_Institute_of_Technology),
 the [Lego inket printer](http://infolab.stanford.edu/~page/lego.html)
-made by Larry Page (co-founder of Google).
+made by Larry Page (co-founder of Google), and even the nerdtastic webcomic [xkcd](https://xkcd.com/).
 
 <figure>
     <div style="text-align:center"><img src
