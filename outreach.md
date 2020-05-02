@@ -4,7 +4,6 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-I like introducing maths and physics to people!
 See [this page](https://hapax.github.io/assets/hacker/) for an
 exciting new venture.
 I list some other outreach and teaching efforts below.
