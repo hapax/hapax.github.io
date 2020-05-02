@@ -46,7 +46,7 @@ Stay tuned for further details!
 
 #### Isn't hacking bad?
 
-Nowadays, a "hacker" is someone who breaks into computers.
+Nowadays, a "hacker" is someone who breaks security systems.
 But there is an older use of the term referring to a spirit of play,
 exploration, and creativity in technical matters.
 In the words of open-source guru Richard Stallman,
