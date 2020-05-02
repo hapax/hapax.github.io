@@ -105,4 +105,4 @@ motto:
 You don't need complicated math to share quantum secrets, size up a
 black hole, or probe the genome of E. coli; just the back of a napkin
 and couple of hacks.
-So, join us as we hack our way to the heart of modern physics!
+Join us as we hack our way to the heart of modern physics!
