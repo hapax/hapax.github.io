@@ -24,12 +24,12 @@ Stay tuned for further details!
 
 #### Lecture outline
 
-1. **Dimensional analysis** (*Thursday, May 14, 2020*)
+1. [**Dimensional analysis**](https://hapax.github.io/assets/dim-slides.pdf) (*Thursday, May 14, 2020*)
 <!-- - Dimensions vs measurements -->
 <!-- - The algebra of dimensions -->
 <!-- - Buckingham π -->
 <!-- - Fundamental constants -->
-2. **Fermi estimates** (*date TBA*)
+2. **Fermi estimates** (*Thursday, May 28, 2020*)
 <!-- - Linear vs logarithmic rulers -->
 <!-- - Geometric means -->
 <!-- - Factorisation -->
