@@ -4,9 +4,9 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-See [this page](https://hapax.github.io/assets/hacker/) for an
-exciting new venture!
-Other outreach and teaching efforts below.
+I think science is a great way to get to know the world, and a
+beautiful thing to share!
+I list some of my outreach and teaching efforts below.
 
 <figure>
     <div style="text-align:center"><img src ="/images/cow.png" width="40%" />
