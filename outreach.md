@@ -18,7 +18,6 @@ I list some of my outreach and teaching efforts below.
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for high school students in the
   Vancouver area.
-A few things I've written:
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
   open-ended discussions on black hole collisions and alien signals. -->
@@ -26,11 +25,11 @@ A few things I've written:
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
-  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
+<!--  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
   introduction to dimensional analysis, with applications to black holes.
   - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
-  Starbucks.
+  Starbucks. -->
 - *Physical systems* (2016). I wrote and conducted tutorials
   for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
@@ -41,11 +40,11 @@ A few things I've written:
   filters and higher-dimensional donuts. -
   [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
   analysis at the beach. -->
-- *Real analysis* (2014--15). I was head tutor for an
+<!-- - *Real analysis* (2014--15). I was head tutor for an
   [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
   and wrote some
   [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf)
-  during my time.
+  during my time. -->
 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
