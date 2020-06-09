@@ -26,8 +26,9 @@ I list some of my outreach and teaching efforts below.
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
 <!--  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
-  introduction to dimensional analysis, with applications to black holes.
-  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
+  introduction to dimensional analysis, with applications to black
+  holes. -->
+<!--  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
   Starbucks. -->
 - *Physical systems* (2016). I wrote and conducted tutorials
