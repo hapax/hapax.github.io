@@ -56,12 +56,13 @@ lectures for students in the UBC Physics Circle, cover
   and wrote some
   [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf)
   during my time. --> 
-[//]: #- Other subjects taught (all at the University of Melbourne):
-[//]: #  - *Quantum field theory* (2017)
-[//]: #  - *Vector calculus* (2017)
-[//]: #  - *Group theory and linear algebra* (2016)
-[//]: #  - *Real analysis* (2013--2016)
-[//]: #  - *Linear algebra* (2013)
+<!-- [//]: #- Other subjects taught (all at the University of
+  Melbourne): -->
+<!--[//]: #  - *Quantum field theory* (2017) -->
+<!--[//]: #  - *Vector calculus* (2017) -->
+<!--[//]: #  - *Group theory and linear algebra* (2016) -->
+<!--[//]: #  - *Real analysis* (2013--2016) -->
+<!--[//]: #  - *Linear algebra* (2013) -->
 
 <!-- - *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure. - -->
 <!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
