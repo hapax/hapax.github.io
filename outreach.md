@@ -28,9 +28,8 @@ lectures for students in the UBC Physics Circle, cover
   - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
   Starbucks.
-  - *Scrappy notes*. Assorted notes on [Fermi estimates](assets/fermi-estimates.pdf)
-  (2019), [colliding black holes](assets/colliding-black-holes.pdf),
-  and [fast-radio bursts and extraterrestrial intelligence]({{hapax.github.io}}/assets/ET-phone-home.pdf).
+  - *Scrappy notes*. Assorted notes on [Fermi estimates](assets/fermi-estimates.pdf), [colliding black holes](assets/colliding-black-holes.pdf),
+  and [talking to aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf).
 
 
 
