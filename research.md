@@ -5,9 +5,10 @@ permalink: /research/
 ---
 
 I study quantum mechanics and gravity, with a particular focus on the
-*AdS/CFT correspondence*.
+AdS/CFT correspondence.
 At the moment, I'm interested in boundary conformal field theories,
-black holes, and statistical mechanics.
+the black hole information problem, Euclidean wormholes, and
+statistical mechanics.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -40,7 +41,7 @@ black holes, and statistical mechanics.
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
   [1810.10601](https://arxiv.org/abs/1810.10601).
 
-#### Other technical notes and talks
+#### Technical notes
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
