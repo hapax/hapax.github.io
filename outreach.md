@@ -14,10 +14,26 @@ I list some of my outreach and teaching efforts below.
 	</div>
 </figure>
 
-- *UBC Physics Circle* (2018--20). I co-run the
+- *The Hacker's Guide to Physics* (2020). A short series of zoom
+lectures for students in the UBC Physics Circle. Slides below:
+   1. [Dimensional analysis](assets/dim-slides.pdf) 
+   2. [Random walks and collisions](assets/random-slides.pdf) 
+   3. [Brownian motion](assets/brownian-slides.pdf)
+- *UBC Physics Circle* (2018--20). I coordinated the
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-  an outreach program for high school students in the
-  Vancouver area.
+  an outreach program for high school students in the Vancouver area.
+  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
+  (2019). An introduction to dimensional analysis, with applications to black
+  holes.
+  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
+  (2018--19). A medley of problems on everything from string theory to
+  Starbucks.
+  - *Scrappy notes*. Assorted notes on [Fermi estimates](assets/fermi-estimates.pdf)
+  (2019), [colliding black holes](assets/colliding-black-holes.pdf),
+  and [fast-radio bursts and extraterrestrial intelligence]({{hapax.github.io}}/assets/ET-phone-home.pdf).
+
+
+
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
   open-ended discussions on black hole collisions and alien signals. -->
@@ -25,16 +41,11 @@ I list some of my outreach and teaching efforts below.
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
-<!--  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf) (2019). An
-  introduction to dimensional analysis, with applications to black
-  holes. -->
-<!--  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
-  (2018--19). A medley of problems on everything from string theory to
-  Starbucks. -->
-- *Physical systems* (2016). I wrote and conducted tutorials
+<!-- - *Physical systems* (2016). I wrote and conducted tutorials
   for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
-  and [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf).
+  and
+  [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). -->
   <!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. -->
   <!--  -
   [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity
@@ -45,8 +56,7 @@ I list some of my outreach and teaching efforts below.
   [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
   and wrote some
   [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf)
-  during my time. -->
-
+  during my time. --> 
 [//]: #- Other subjects taught (all at the University of Melbourne):
 [//]: #  - *Quantum field theory* (2017)
 [//]: #  - *Vector calculus* (2017)
