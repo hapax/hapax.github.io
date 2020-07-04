@@ -29,9 +29,9 @@ lectures for students in the UBC Physics Circle, covering
   Starbucks.
   - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
   (2019). An introduction to dimensional analysis and black hole thermodynamics!
-  - *Assorted scrappy notes* (2019--20). Drafts and scrappy notes on various
+  - *Assorted scrappy notes* (2019--20). Scrappy notes on various
     topics, from [colliding black holes](assets/colliding-black-holes.pdf) to
-    [fast radio bursts and aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
+    [aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
     to [how to estimate just about anything](assets/fermi-estimates.pdf).
 
 #### Teaching
