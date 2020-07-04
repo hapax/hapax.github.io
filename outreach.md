@@ -28,10 +28,14 @@ lectures for students in the UBC Physics Circle, cover
   - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
   (2018--19). A medley of problems on everything from string theory to
   Starbucks.
-  - *Scrappy notes*. Assorted notes on [Fermi estimates](assets/fermi-estimates.pdf), [colliding black holes](assets/colliding-black-holes.pdf),
-  and [talking to aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf).
-
-
+  - *Assorted scrappy notes*. Drafts and scrappy notes on various topics.
+	- [Black hole mergers](assets/colliding-black-holes.pdf). How much
+      energy is released in gravitational waves when black holes collide?
+    - [ET Phone Home]({{hapax.github.io}}/assets/ET-phone-home.pdf). What
+      are fast radio bursts? How do we detect? Could they be aliens?
+	- [Fermi Estimates](assets/fermi-estimates.pdf). How to estimate
+      just about anything, from the number of words in the Harry
+      Potter novels to intelligent life in the galaxy.
 
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
