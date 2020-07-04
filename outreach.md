@@ -14,6 +14,8 @@ I list some of my outreach and teaching efforts below.
 	</div>
 </figure>
 
+#### Outreach
+
 - *The Hacker's Guide to Physics* (2020). A short series of zoom
 lectures for students in the UBC Physics Circle, cover
 [dimensional analysis](assets/dim-slides.pdf),
@@ -32,6 +34,8 @@ lectures for students in the UBC Physics Circle, cover
     topics, from [colliding black holes](assets/colliding-black-holes.pdf) to
     [fast radio bursts and aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
     to [how to estimate just about anything](assets/fermi-estimates.pdf).
+
+#### Teaching
 
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
