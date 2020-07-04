@@ -16,25 +16,26 @@ permalink: /outreach/
 
 #### Outreach
 
-- *The Hacker's Guide to Physics* (2020). A short series of zoom
-lectures for students in the UBC Physics Circle, covering
-[dimensional analysis](assets/dim-slides.pdf),
-[random walks and collisions](assets/random-slides.pdf), and [Brownian motion](assets/brownian-slides.pdf).
-- *UBC Physics Circle* (2018--20). I coordinated the
-  [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
+I coordinated the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for high school students in the Vancouver
-  area. Here are a few of the crazy things we got up to.
-  - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
-  (2018--19). A medley of problems on everything from string theory to
-  Starbucks.
-  - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-  (2019). An introduction to dimensional analysis and black hole thermodynamics!
-  - *Assorted scrappy notes* (2019--20). Scrappy notes on various
-    topics, from [colliding black holes](assets/colliding-black-holes.pdf) to
-    [aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
-    to [how to estimate just about anything](assets/fermi-estimates.pdf).
+  area, from 2019--20. Here are a few of the crazy things we got up to.
+- *The Hacker's Guide to Physics* (2020). A short series of zoom
+lectures, covering [dimensional analysis](assets/dim-slides.pdf),
+[random walks and collisions](assets/random-slides.pdf), and
+[Brownian motion](assets/brownian-slides.pdf).
+- [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
+(2018--19). A medley of problems on everything from string theory to
+Starbucks.
+- [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
+(2019). An introduction to dimensional analysis and black hole thermodynamics!
+- *Assorted scrappy notes* (2019--20). Scrappy notes on various
+  topics, from [colliding black holes](assets/colliding-black-holes.pdf) to
+  [aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
+  to [how to estimate just about anything](assets/fermi-estimates.pdf).
 
 #### Teaching
+
+
 
 <!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
   hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
