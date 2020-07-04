@@ -20,7 +20,8 @@ lectures for students in the UBC Physics Circle, cover
 [random walks and collisions](assets/random-slides.pdf), and [Brownian motion](assets/brownian-slides.pdf).
 - *UBC Physics Circle* (2018--20). I coordinated the
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-  an outreach program for high school students in the Vancouver area.
+  an outreach program for high school students in the Vancouver
+  area. Here are a few of the crazy things we got up to.
   - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
   (2019). An introduction to dimensional analysis, with applications to black
   holes.
