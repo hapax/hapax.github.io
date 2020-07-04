@@ -15,10 +15,9 @@ I list some of my outreach and teaching efforts below.
 </figure>
 
 - *The Hacker's Guide to Physics* (2020). A short series of zoom
-lectures for students in the UBC Physics Circle. Slides below:
-   1. [Dimensional analysis](assets/dim-slides.pdf) 
-   2. [Random walks and collisions](assets/random-slides.pdf) 
-   3. [Brownian motion](assets/brownian-slides.pdf)
+lectures for students in the UBC Physics Circle, cover
+[dimensional analysis](assets/dim-slides.pdf),
+[random walks and collisions](assets/random-slides.pdf), and [Brownian motion](assets/brownian-slides.pdf).
 - *UBC Physics Circle* (2018--20). I coordinated the
   [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
   an outreach program for high school students in the Vancouver area.
