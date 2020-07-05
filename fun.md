@@ -12,19 +12,9 @@ non-science things I enjoy doing.
  	 </div>
   </figure>
 
-### Art
-
-I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
-(yes, it still exists) and photos of urban decay, etc, on
-[Instagram](https://www.instagram.com/dr__abe/). Both accounts are in states of mild abeyance.
-
-### Writing
-
-todo
-
 ### Programming
 
-I occasionally code for fun in [Python](https://www.python.org/)
+I code for fun in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
 [Processing](https://processing.org/) (it's visual). A few small
 projects are listed below:
@@ -36,3 +26,13 @@ distribution of genetic code around a family tree.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery. Based on E. C. Philip's article ["Some Applications of Mathematics to Architecture: Gothic Tracery Curves"](https://www.jstor.org/stable/2298643).
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
   buggy implementation of Pong of which I am inordinately proud.
+
+### Art
+
+I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
+(yes, it still exists) and photos of urban decay, etc, on
+[Instagram](https://www.instagram.com/dr__abe/). Both accounts are in states of mild abeyance.
+
+### Writing
+
+todo
