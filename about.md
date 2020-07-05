@@ -17,7 +17,7 @@ My CV is available on request.
 
 ### Contact me
 
-- *Office*: Hennings, 418 (UBC Vancouver)
+- *Office*: Hennings, 418 (UBC Point Grey)
 - *Email*: d@vid.@.w@keh@magm@il.com (swap 'a' and '@')
 
 - - -
