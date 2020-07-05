@@ -50,7 +50,9 @@ Melbourne.
    - *Assignments*. [Higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf)
      and [Fourier analysis for surfers]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
-     (2013--16). Intro to proofs and real analysis. I wrote [challenge problems]({{hapax.github.io}}/assets/ra-problems.pdf).
+     (2013--16). A subject introducing proofs and real analysis. I
+     made a few [challenge problems]({{hapax.github.io}}/assets/ra-problems.pdf)
+     for fun.
 - Other subjects I taught:
    - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
    - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
