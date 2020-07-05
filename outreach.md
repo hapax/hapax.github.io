@@ -45,24 +45,19 @@ thermodynamics!
   on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). -->
-  <!--  -[*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics. - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. -->
-  <!--  -
-  [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity
-  filters and higher-dimensional donuts. -
-  [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
-  analysis at the beach. -->
-<!-- - *Real analysis* (2014--15). I was head tutor for an
+   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
+   - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
+   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
+   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
+   analysis at the beach.
+- *Real analysis* (2013--16). I was head tutor for an
   [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
-  and wrote some
-  [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf)
-  during my time. --> 
-<!-- [//]: #- Other subjects taught (all at the University of
-  Melbourne): -->
-<!--[//]: #  - *Quantum field theory* (2017) -->
-<!--[//]: #  - *Vector calculus* (2017) -->
-<!--[//]: #  - *Group theory and linear algebra* (2016) -->
-<!--[//]: #  - *Real analysis* (2013--2016) -->
-<!--[//]: #  - *Linear algebra* (2013) -->
+  and wrote a few [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
+- Other subjects taught at the University of Melbourne:
+   - *Quantum field theory* (2017)
+   - *Vector calculus* (2017)
+   - *Group theory and linear algebra* (2016)
+   - *Linear algebra* (2013)
 
 <!-- - *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure. - -->
 <!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
