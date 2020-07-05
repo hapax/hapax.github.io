@@ -4,8 +4,8 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
-Science is more fun when shared!
-I also like finding new and simple ways to explain complicated stuff.
+I like finding new and simple ways to explain complicated stuff.
+Science is also more fun when shared!
 I list some of my teaching and outreach efforts below.
 
 <!--I think science is a great way to get to know the world, and a -->
