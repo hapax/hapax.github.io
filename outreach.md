@@ -16,22 +16,28 @@ permalink: /outreach/
 
 #### Outreach
 
-I coordinated the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/),
-  an outreach program for high school students in the Vancouver
-  area, from 2019--20. Here are a few of the crazy things we got up to.
-- *The Hacker's Guide to Physics* (2020). A short series of zoom
-lectures, covering [dimensional analysis](assets/dim-slides.pdf),
-[random walks and collisions](assets/random-slides.pdf), and
-[Brownian motion](assets/brownian-slides.pdf).
+The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
+  is an outreach program for high school students in the Vancouver
+  area. I was a volunteer in 2018 and coordinated from 2019--20. Here
+  are a few of the crazy things I got up to!
+- *The Hacker's Guide to Physics* (2020). A short series of lectures covering:
+  1. [Dimensional analysis](assets/dim-slides.pdf)
+  2. [Random walks and collisions](assets/random-slides.pdf)
+  3. [Brownian motion](assets/brownian-slides.pdf).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to
 Starbucks.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An introduction to dimensional analysis and black hole thermodynamics!
-- *Assorted scrappy notes* (2019--20). Scrappy notes on various
-  topics, from [colliding black holes](assets/colliding-black-holes.pdf) to
-  [aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf)
-  to [how to estimate just about anything](assets/fermi-estimates.pdf).
+(2019). An introduction to dimensional analysis and black hole
+thermodynamics!
+- *Assorted scrappy notes* (2019--20). Scrappy notes on various topics.
+  - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
+    black holes and gravitational waves.
+  - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Aliens,
+    fast radio bursts, inference to the best explanation, and a little
+    information theory.
+  - [Fermi estimates: from Harry Potter to ET](assets/fermi-estimates.pdf). How
+    to estimate just about anything!
 
 #### Teaching
 
