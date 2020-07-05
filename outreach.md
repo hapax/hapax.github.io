@@ -40,7 +40,7 @@ thermodynamics!
 
 #### Teaching
 
-- *Physical systems* (2016). I wrote and conducted tutorials for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
+- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
   on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf).
@@ -49,14 +49,13 @@ thermodynamics!
    - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
    - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
    analysis at the beach.
-- *Real analysis* (2013--16). I was head tutor for an
-  [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026),
+- [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026) (2013--16). I was head tutor for an introductory real analysis subject,
   and wrote a few [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
 - Other subjects taught at the University of Melbourne:
-   - *Quantum field theory* (2017)
-   - *Vector calculus* (2017)
-   - *Group theory and linear algebra* (2016)
-   - *Linear algebra* (2013)
+   - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
+   - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
+   - [*Group theory and linear algebra*](http://archive.handbook.unimelb.edu.au/view/2016/mast20022/) (2016).
+   - [*Linear algebra*](http://archive.handbook.unimelb.edu.au/view/2014/mast10007/) (2014).
 
 <!-- - *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure. - -->
 <!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
