@@ -4,7 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are non-science
+In the tradition of dorky, maximalist websites, here are some non-science
 things I like.
 
 <figure>
