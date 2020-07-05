@@ -40,8 +40,8 @@ thermodynamics!
 
 #### Teaching
 
-I did a lot of teaching in maths department, and a little in the
-school of physics, at the University of Melbourne, 2013--2017.
+From 2013--2017, I did a lot of teaching at the University of
+Melbourne.
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
   on classical mechanics and Fourier analysis.
