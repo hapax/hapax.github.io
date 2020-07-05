@@ -18,7 +18,7 @@ My CV is available on request.
 ### Contact me
 
 - *Office*: Hennings, 418 (UBC Vancouver)
-- *Email*: david.a.wakeham(at)gmail.com
+- *Email*: d@vid.@.w@keh@magm@il.com (swap 'a' and '@')
 
 - - -
 
