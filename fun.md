@@ -7,6 +7,11 @@ permalink: /fun/
 In the tradition of dorky, maximalist websites, here are non-science
 things I like.
 
+<figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
+ 	 </div>
+  </figure>
+
 ### Art
 
 I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
