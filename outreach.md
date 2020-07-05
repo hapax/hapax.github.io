@@ -44,12 +44,11 @@ From 2013--2017, I did a lot of teaching at the University of
 Melbourne.
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
-  on classical mechanics and Fourier analysis.
+  on classical mechanics and Fourier analysis. Stuff I wrote:
    - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
    - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
-   - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
-   - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
-   analysis at the beach.
+   - *Assignments*. One on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf)
+     and another on [Fourier analysis at the beach]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026) (2013--16). I was head tutor for an introductory real analysis subject,
   and wrote a few [extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
 - Other subjects:
