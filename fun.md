@@ -5,7 +5,7 @@ permalink: /fun/
 ---
 
 In the tradition of dorky, maximalist websites, here are some
-non-science things I like.
+other things I like doing.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
