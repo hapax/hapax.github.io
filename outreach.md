@@ -48,7 +48,7 @@ Melbourne.
    - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
    - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
    - *Assignments*. [Higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf)
-     and another on [Fourier analysis for surfers]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
+     and [Fourier analysis for surfers]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026) (2013--16). I was head tutor for an introductory real analysis subject,
   and wrote a few [extension problems]({{hapax.github.io}}/assets/ra-problems.pdf).
 - Other subjects I taught:
