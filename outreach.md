@@ -51,7 +51,7 @@ school of physics, at the University of Melbourne, 2013--2017.
    - [*Assignment 3*]({{hapax.github.io}}/assets/physical-systems-a3.pdf). Fourier
    analysis at the beach.
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026) (2013--16). I was head tutor for an introductory real analysis subject,
-  and wrote a few [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
+  and wrote a few [extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
 - Other subjects:
    - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
    - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
