@@ -30,7 +30,8 @@ distribution of genetic code around a family tree.
 ### Art
 
 I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
-(yes, it still exists) and photos of urban decay, and so forth, on
+(yes, it still exists) and photos of urban decay, chance Cornellian
+arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/). Both accounts are in states of mild abeyance.
 
 ### Writing
