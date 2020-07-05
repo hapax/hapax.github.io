@@ -4,6 +4,9 @@ title: Outreach and Teaching
 permalink: /outreach/
 ---
 
+Science is more fun when shared!
+Below, a select list of my teaching and outreach activities.
+
 <!--I think science is a great way to get to know the world, and a -->
 <!--beautiful thing to share! I list some of my outreach and teaching -->
 <!--efforts below. -->
