@@ -41,9 +41,7 @@ thermodynamics!
 #### Teaching
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
-  on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
-  and
-  [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf).
+  on classical mechanics and Fourier analysis.
    - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
    - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
    - [*Assignment 2*]({{hapax.github.io}}/assets/physical-systems-a2.pdf). Velocity filters and higher-dimensional donuts.
