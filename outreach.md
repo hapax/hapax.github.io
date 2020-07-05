@@ -28,8 +28,8 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
 (2018--19). A medley of problems on everything from string theory to
 Starbucks.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An introduction to dimensional analysis and black hole
-thermodynamics!
+(2019). An in-depth introduction to dimensional analysis, with
+applications to black hole thermodynamics.
 - *Assorted scrappy notes* (2019--20). Scrappy notes on various topics.
   - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
     black holes and gravitational waves.
