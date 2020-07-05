@@ -6,7 +6,7 @@ permalink: /outreach/
 
 I like finding new and simple ways to explain complicated stuff.
 Science is also more fun when shared!
-I list some of my teaching and outreach efforts below.
+I list some of my teaching and outreach activities below.
 
 <!--I think science is a great way to get to know the world, and a -->
 <!--beautiful thing to share! I list some of my outreach and teaching -->
