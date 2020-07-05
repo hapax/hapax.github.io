@@ -33,9 +33,8 @@ thermodynamics!
 - *Assorted scrappy notes* (2019--20). Scrappy notes on various topics.
   - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
     black holes and gravitational waves.
-  - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Aliens,
-    fast radio bursts, inference to the best explanation, and a little
-    information theory.
+  - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Fast
+    radio bursts and extraterrestrials.
   - [Fermi estimates: from Harry Potter to ET](assets/fermi-estimates.pdf). How
     to estimate just about anything!
 
