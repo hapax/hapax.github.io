@@ -4,8 +4,8 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are some non-science
-things I like.
+In the tradition of dorky, maximalist academic websites, here are some
+non-science things I enjoy doing.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
