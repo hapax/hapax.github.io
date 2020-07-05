@@ -41,17 +41,7 @@ thermodynamics!
 
 #### Teaching
 
-
-
-<!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
-  hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
-  open-ended discussions on black hole collisions and alien signals. -->
-<!-- - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
-  order-of-magnitude estimates. Examples along the way include global
-  computer storage, the length of the Harry Potter novels, and the number
-  of aliens in the galaxy. Rough draft. -->
-<!-- - *Physical systems* (2016). I wrote and conducted tutorials
-  for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
+- *Physical systems* (2016). I wrote and conducted tutorials for a [second year course](https://handbook.unimelb.edu.au/subjects/phyc20014)
   on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). -->
@@ -82,3 +72,11 @@ thermodynamics!
 <!-- hapax.github.io}}/assets/random.pdf) (2018). A long problem set -->
 <!-- on random walks, from the perspective of a hungry *E. coli* -->
 <!-- bacterium. -->
+
+<!-- - [*Colliding black holes*](assets/colliding-black-holes.pdf) and   [*ET phone home*]({{
+  hapax.github.io}}/assets/ET-phone-home.pdf) (2020). Material for
+  open-ended discussions on black hole collisions and alien signals. -->
+<!-- - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A user's guide to
+  order-of-magnitude estimates. Examples along the way include global
+  computer storage, the length of the Harry Potter novels, and the number
+  of aliens in the galaxy. Rough draft. -->
