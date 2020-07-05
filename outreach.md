@@ -40,6 +40,9 @@ thermodynamics!
 
 #### Teaching
 
+I did a lot of teaching in maths department, and a little in the
+school of physics, at the University of Melbourne, 2013--2017.
+
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
   on classical mechanics and Fourier analysis.
    - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
@@ -49,7 +52,7 @@ thermodynamics!
    analysis at the beach.
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026) (2013--16). I was head tutor for an introductory real analysis subject,
   and wrote a few [*extension problems*]({{hapax.github.io}}/assets/ra-problems.pdf) during my time.
-- Other subjects taught at the University of Melbourne:
+- Other subjects:
    - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
    - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
    - [*Group theory and linear algebra*](http://archive.handbook.unimelb.edu.au/view/2016/mast20022/) (2016).
