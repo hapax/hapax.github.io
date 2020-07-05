@@ -30,7 +30,7 @@ satellites sneezed into space.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, with
 applications to black hole thermodynamics.
-- *Assorted scrappy notes* (2019--20). Scrappy notes on various topics.
+- *Assorted scrappy notes* (2019--20). Unpolished notes on various topics.
   - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
     black holes and gravitational waves.
   - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Fast
