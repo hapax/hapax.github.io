@@ -55,7 +55,7 @@ Melbourne.
 - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
      (2013--16). An intro to proofs and real analysis. My
      [extra problems]({{hapax.github.io}}/assets/ra-problems.pdf)!
-- Other subjects I taught:
+- Other subjects taught:
    - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
    - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
    - [*Group theory and linear algebra*](http://archive.handbook.unimelb.edu.au/view/2016/mast20022/) (2016).
