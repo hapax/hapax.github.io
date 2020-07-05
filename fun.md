@@ -4,8 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are some
-other things I like doing when I'm not sciencing or encouraging other
+In the tradition of dorky, maximalist websites, here are some things I like doing when I'm not sciencing or encouraging other
 people to science.
 
 <figure>
