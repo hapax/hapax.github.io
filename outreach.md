@@ -26,7 +26,7 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   [Brownian motion](assets/brownian-slides.pdf).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to
-Starbucks.
+satellites sneezed into space.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, with
 applications to black hole thermodynamics.
