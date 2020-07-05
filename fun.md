@@ -23,7 +23,7 @@ projects are listed below:
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
   partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
-- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery. Based on E. C. Philip's article ["Some Applications of Mathematics to Architecture: Gothic Tracery Curves"](https://www.jstor.org/stable/2298643).
+- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
   buggy implementation of Pong of which I am inordinately proud.
 
