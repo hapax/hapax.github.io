@@ -5,6 +5,7 @@ permalink: /outreach/
 ---
 
 Science is more fun when shared!
+I also like finding new and simple ways to explain complicated stuff.
 
 <!--I think science is a great way to get to know the world, and a -->
 <!--beautiful thing to share! I list some of my outreach and teaching -->
