@@ -15,10 +15,10 @@ I am generously supported by a UBC
 I was born and raised in Melbourne, Australia.
 My CV is available on request.
 
-### Contact me
+<!-- ### Contact me
 
 - *Office*: Hennings, 418 (UBC Point Grey)
-- *Email*: d@vid.@.w@keh@magm@il.com (swap 'a' and '@')
+- *Email*: dvid.a.wakeham@gmail.com (replace 7 with 'a') -->
 
 - - -
 
