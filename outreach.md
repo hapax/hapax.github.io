@@ -40,7 +40,7 @@ applications to black hole thermodynamics.
 
 #### Teaching
 
-From 2013--2017, I did a lot of teaching at the University of
+From 2013--2017, I dropped a lot of math at the University of
 Melbourne.
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
