@@ -22,7 +22,7 @@ I list some of my teaching and outreach activities below.
 
 - [*Why is a soap bubble like a railway?*](assets/brownian-slides.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
-  requiring only pre-calculus maths.
+  requiring only pre-calculus maths. Draft version.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
   (2020, blog post). A paean to the computational power of the humble
   napkin, and its pedagogical possibilities.
