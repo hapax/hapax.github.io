@@ -12,13 +12,6 @@ people to science.
  	 </div>
   </figure>
 
-### Art
-
-I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
-(yes, it still exists) and photos of urban decay, chance Cornellian
-arrangements of rubbish, symmetry, patterns, and so forth, on
-[Instagram](https://www.instagram.com/dr__abe/).
-
 ### Writing
 
 I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
@@ -39,6 +32,13 @@ philosophy degree). Various thoughts:
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
   How the Prisoner’s Dilemma, Newcombe's Paradox, and the rationality
   of smoking are connected, and how (maybe) we should approach them.
+
+### Art
+
+I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
+(yes, it still exists) and photos of urban decay, chance Cornellian
+arrangements of rubbish, symmetry, patterns, and so forth, on
+[Instagram](https://www.instagram.com/dr__abe/).
 
 ### Programming
 
