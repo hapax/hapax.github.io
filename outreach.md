@@ -40,7 +40,7 @@ awesome! My slides are below.
 
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
-  Will it ever come out again? Explore using bits and buckets!
+  I answer "experimentally" using bits and buckets.
 
 The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   is an outreach program for high school students in the Vancouver
