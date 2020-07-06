@@ -49,4 +49,8 @@ philosophy degree). Various thoughts:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). Thoughts on presentism and the psychology of
-  time. I argue for a radical version of Nietzsche's doctrine of eternal recurrence.
+  time. I argue for a radical version of Nietzsche's doctrine of
+  eternal recurrence.
+- [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
+  How the Prisoner’s Dilemma, Newcombe's Paradox, and the rationality
+  of smoking are connected, and how (maybe) we should approach them.
