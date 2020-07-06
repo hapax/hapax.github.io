@@ -47,8 +47,8 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   is an outreach program for high school students in the Vancouver
   area. I was a volunteer in 2018 and coordinated from 2019--20. Here
   are a few of the crazy things I got up to!
-- *The Hacker's Guide to Physics* [1](assets/dim-slides.pdf),
-  [2](assets/random-slides.pdf), [3](assets/brownian-slides.pdf) (2020). A series of lectures
+- *The Hacker's Guide to Physics* [[1](assets/dim-slides.pdf),
+  [2](assets/random-slides.pdf), [3](assets/brownian-slides.pdf)] (2020). A series of lectures
   covering dimensional analysis,
   random walks and collisions, and Brownian motion. Based on aforementioned
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
