@@ -20,7 +20,7 @@ I list some of my teaching and outreach activities below.
 
 #### Expository papers
 
-- [*Why is a soap bubble like a railway?*](assets/brownian-slides.pdf)
+- [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
@@ -38,7 +38,7 @@ spinoff of
 [Nerd Nite North Vancouver](https://northvan.nerdnite.com/). It was
 awesome! My slides are below.
 
-- [*Black holes and information paradox*](assets/dim-slides.pdf)
+- [*Black holes and information paradox*](assets/tnn.pdf)
   (2020). What happens to information that falls into a black hole?
 
 The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
