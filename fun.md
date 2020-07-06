@@ -19,7 +19,7 @@ zombies, science gone mad, and the psychology of time. Winner of the
 computers and geopolitics.
 
 I'm interested in philosophy (in fact, in a prior life I earned a
-philosophy degree). Thoughts on various topics:
+philosophy degree).
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A radical version of eternal recurrence.
