@@ -12,21 +12,6 @@ people to science.
  	 </div>
   </figure>
 
-### Programming
-
-I code for fun in [Python](https://www.python.org/)
-(it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
-[Processing](https://processing.org/) (it's visual). A few small
-projects are listed below:
-
-- [*Genesim*](https://github.com/hapax/genesim). Simulate the random
-distribution of genetic code around a family tree.
-- [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
-  partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
-- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
-- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
-  buggy implementation of Pong of which I am inordinately proud.
-
 ### Art
 
 I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
@@ -54,3 +39,18 @@ philosophy degree). Various thoughts:
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
   How the Prisoner’s Dilemma, Newcombe's Paradox, and the rationality
   of smoking are connected, and how (maybe) we should approach them.
+
+### Programming
+
+I code for fun in [Python](https://www.python.org/)
+(it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
+[Processing](https://processing.org/) (it's visual). A few small
+projects are listed below:
+
+- [*Genesim*](https://github.com/hapax/genesim). Simulate the random
+distribution of genetic code around a family tree.
+- [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
+  partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
+- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
+- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
+  buggy implementation of Pong of which I am inordinately proud.
