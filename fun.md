@@ -46,7 +46,7 @@ distribution of genetic code around a family tree.
   partition identities in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
-  buggy implementation of Pong of which I am inordinately proud.
+  buggy but addictive implementation of Pong. <!-- of which I am inordinately proud.-->
 
 ### Art
 
