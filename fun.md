@@ -36,7 +36,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 
 ### Writing
 
-I like writing . Some recent sci-fi flash fiction:
+I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
 
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
 zombies and the psychology of time. Winner of the
