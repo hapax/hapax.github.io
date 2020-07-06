@@ -37,7 +37,7 @@ I presented at the inaugural
 [Teen Nerd Nite](https://northvan.nerdnite.com/teen-nerd-nite/), a
 spinoff of
 [Nerd Nite North Vancouver](https://northvan.nerdnite.com/). It was
-awesome! My slides are below.
+lots of fun! My slides are below.
 
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
