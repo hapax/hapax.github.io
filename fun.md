@@ -33,13 +33,6 @@ philosophy degree). Various thoughts:
   How the Prisoner’s Dilemma, Newcombe's Paradox, and the rationality
   of smoking are connected, and how (maybe) we should approach them.
 
-### Art
-
-I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
-(yes, it still exists) and photos of urban decay, chance Cornellian
-arrangements of rubbish, symmetry, patterns, and so forth, on
-[Instagram](https://www.instagram.com/dr__abe/).
-
 ### Programming
 
 I code for fun in [Python](https://www.python.org/)
@@ -54,3 +47,10 @@ distribution of genetic code around a family tree.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
   buggy implementation of Pong of which I am inordinately proud.
+
+### Art
+
+I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
+(yes, it still exists) and photos of urban decay, chance Cornellian
+arrangements of rubbish, symmetry, patterns, and so forth, on
+[Instagram](https://www.instagram.com/dr__abe/).
