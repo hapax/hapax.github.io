@@ -38,7 +38,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 
 I like writing science fiction and other stuff. Some recent sci-fi:
 
-- ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telapathic
+- ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
 zombies and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
