@@ -27,19 +27,20 @@ I list some of my teaching and outreach activities below.
   (2020, blog post). A paean to the computational power of the humble
   napkin, and its pedagogical possibilities.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
-  (2019, blog post). A manifesto on how to make math teaching fun and
+  (2019, blog post). A manifesto on how to make high school math teaching fun and
   engaging, applied to derivatives.
 
 #### Outreach
 
-I recently gave a talk at the inaugural
+I presented at the inaugural
 [Teen Nerd Nite](https://northvan.nerdnite.com/teen-nerd-nite/), a
 spinoff of
 [Nerd Nite North Vancouver](https://northvan.nerdnite.com/). It was
 awesome! My slides are below.
 
-- [*Black holes and information paradox*](assets/tnn.pdf)
-  (2020). What happens to information that falls into a black hole?
+- [*Black holes and the information paradox*](assets/tnn.pdf)
+  (2020). What happens if you drop your homework into a black hole?
+  Will it ever come out again? Explore using bits and buckets!
 
 The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   is an outreach program for high school students in the Vancouver
