@@ -32,6 +32,15 @@ I list some of my teaching and outreach activities below.
 
 #### Outreach
 
+I recently gave a talk at the inaugural
+[Teen Nerd Nite](https://northvan.nerdnite.com/teen-nerd-nite/), a
+spinoff of
+[Nerd Nite North Vancouver](https://northvan.nerdnite.com/). It was
+awesome! My slides are below.
+
+- [*Black holes and information paradox*](assets/dim-slides.pdf)
+  (2020). What happens to information that falls into a black hole?
+
 The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
   is an outreach program for high school students in the Vancouver
   area. I was a volunteer in 2018 and coordinated from 2019--20. Here
