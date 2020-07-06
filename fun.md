@@ -23,16 +23,12 @@ zombies, science gone mad, and the psychology of time. Winner of the
 (2020). A somewhat farcical "what if" about large-scale quantum
 computers and geopolitics.
 
-I'm also interested in philosophy (in fact, in a prior life I earned a
+I'm interested in philosophy (in fact, in a prior life I earned a
 philosophy degree). Thoughts on various topics:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
-  (2019, blog post). Thoughts on presentism and the psychology of
-  time. I argue for a radical version of Nietzsche's doctrine of
-  eternal recurrence.
+  (2019, blog post). I argue for a radical version of eternal recurrence.
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
-  How the Prisoner’s Dilemma, Newcombe's Paradox, and the rationality
-  of smoking are connected, and how (maybe) we should approach them.
 
 ### Programming
 
