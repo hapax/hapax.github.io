@@ -23,7 +23,7 @@ zombies and the psychology of time. Winner of the
 (2020). A somewhat farcical "what if" about large-scale quantum computers.
 
 I'm also interested in philosophy (in fact, in a prior life I earned a
-philosophy degree). Various thoughts:
+philosophy degree). Thoughts on various topics:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). Thoughts on presentism and the psychology of
