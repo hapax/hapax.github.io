@@ -17,7 +17,7 @@ people to science.
 I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
 
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
-zombies and the psychology of time. Winner of the
+zombies, science gone mad, and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A somewhat farcical "what if" about large-scale quantum computers.
