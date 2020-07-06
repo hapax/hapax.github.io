@@ -27,7 +27,7 @@ I'm interested in philosophy (in fact, in a prior life I earned a
 philosophy degree). Thoughts on various topics:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
-  (2019, blog post). I argue for a radical version of eternal recurrence.
+  (2019, blog post). A radical version of eternal recurrence.
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
 
 ### Programming
