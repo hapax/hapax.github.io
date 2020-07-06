@@ -18,6 +18,18 @@ I list some of my teaching and outreach activities below.
 	</div>
 </figure>
 
+#### Expository papers
+
+- [*Why is a soap bubble like a railway?*](assets/brownian-slides.pdf)
+  (2020). A low-tech introduction to Steiner trees and soap bubbles,
+  requiring only pre-calculus maths.
+- [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
+  (2020, blog post). A paean to the computational power of the humble
+  napkin, and its pedagogical possibilities.
+- [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
+  (2019, blog post). A manifesto on how to make math teaching fun and
+  engaging, applied to derivatives.
+
 #### Outreach
 
 The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/)
@@ -27,7 +39,7 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
 - *The Hacker's Guide to Physics* (2020). A series of lectures
   covering [dimensional analysis](assets/dim-slides.pdf),
   [random walks](assets/random-slides.pdf), and
-  [Brownian motion](assets/brownian-slides.pdf). Adapted from [this blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
+  [Brownian motion](assets/brownian-slides.pdf).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to
 sneezing cubesats into space.
