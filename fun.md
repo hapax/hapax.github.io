@@ -7,7 +7,7 @@ permalink: /fun/
 In the tradition of dorky, maximalist websites, here are some things I like doing when I'm not sciencing or encouraging other
 people to science.
 
-### Writing
+#### Writing
 
 I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
 
@@ -25,7 +25,7 @@ philosophy degree). Thoughts on various topics:
   (2019, blog post). A radical version of eternal recurrence.
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
 
-### Programming
+#### Programming
 
 I code for fun in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
@@ -40,7 +40,7 @@ distribution of genetic code around a family tree.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
   buggy but addictive implementation of Pong. <!-- of which I am inordinately proud.-->
 
-### Art
+#### Art
 
 I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
 (yes, it still exists) and photos of urban decay, chance Cornellian
