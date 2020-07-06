@@ -7,11 +7,6 @@ permalink: /fun/
 In the tradition of dorky, maximalist websites, here are some things I like doing when I'm not sciencing or encouraging other
 people to science.
 
-<figure>
- <div style="text-align:center"><img src ="/images/x64.png" /> <figcaption><i>A "decadent" Gothic window.</i></figcaption>
- 	 </div>
-  </figure>
-
 ### Writing
 
 I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
@@ -51,3 +46,9 @@ I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
 (yes, it still exists) and photos of urban decay, chance Cornellian
 arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/).
+
+<figure>
+ <div style="text-align:center"><img src ="/images/x64.png" />
+ <figcaption><i>This little robot is very keen.</i></figcaption>
+ 	 </div>
+  </figure>
