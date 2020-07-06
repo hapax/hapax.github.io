@@ -32,8 +32,14 @@ distribution of genetic code around a family tree.
 I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
 (yes, it still exists) and photos of urban decay, chance Cornellian
 arrangements of rubbish, symmetry, patterns, and so forth, on
-[Instagram](https://www.instagram.com/dr__abe/). Both accounts are in states of mild abeyance.
+[Instagram](https://www.instagram.com/dr__abe/).
 
 ### Writing
 
-todo
+I like writing sci-fi and other stuff. Some recent sci-fi:
+
+- ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telapathic
+zombies and the psychology of time. Winner of the
+[2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
+- ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
+(2020). A somewhat farcical "what if"
