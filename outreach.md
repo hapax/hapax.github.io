@@ -48,7 +48,8 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
 - *The Hacker's Guide to Physics* (2020). A series of lectures
   covering [dimensional analysis](assets/dim-slides.pdf),
   [random walks](assets/random-slides.pdf), and
-  [Brownian motion](assets/brownian-slides.pdf).
+  [Brownian motion](assets/brownian-slides.pdf). Based on aforementioned
+  [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to
 sneezing cubesats into space.
