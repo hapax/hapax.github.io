@@ -238,9 +238,10 @@ We can presumably constrain the sub-semigroups in the same way.
 Consider a fractal $F$ invariant under zoom $\lambda$.
 If $F$ has any local features, e.g. at some fixed zoom there is
 a feature with length $\ell$, then under a zoom $Z_{\lambda+\epsilon}$, for
-$\epsilon \ll \\lambda$, this feature should not be reproduced.
+$\epsilon \ll \\lambda$, this feature is spoiled.
 But in a dense sub-semigroup, there will be some element $Z_{\lambda
-+\epsilon}\in \mathcal{G}(F)$.
++\epsilon}\in \mathcal{G}(F)$, a contradiction.
+
 Of course, this is far from rigorous, but it explains why I can't
 construct anything else!
 
