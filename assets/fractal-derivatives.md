@@ -202,7 +202,7 @@ The straight line has the distinction of looking the same at any
 scale, so $Z_\lambda[L_m] = L_m$ for any $\lambda$.
 In fact, a straight line is the only "nice" curve with this property.
 For instance, if we assume that our self-similar curve itself has a
-(regular) derivative, then
+(normal linear) derivative at some point $x$, then
 
 $$
 F'(x) = \lambda^{-1} \frac{d}{dx}F(\lambda x) = F'(\lambda x).
@@ -210,6 +210,12 @@ $$
 
 If this is true for any $\lambda$, the slope at any two points is the
 same, and we get a straight line.
+
+Note that we only need a derivative at *one* point to get a straight
+line from self-similarity under arbitrary zooms.
+This shows that if there are other curves with this property, they are
+nowhere differentiable.
+I don't know any examples off the top of my head.
 
 <!-- #### Higher derivatives
 
