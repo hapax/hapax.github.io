@@ -1,4 +1,4 @@
----
+s---
 Layout: post
 mathjax: true
 comments: true
@@ -120,7 +120,6 @@ $$
 \frac{o(h')}{h'} = 0.
 $$
 
-where we defined $h' = \lambda h$.
 So, local linear approximation could also be thought of as local
 approximation by a self-similar function.
 This is naturally associated to the function at "infinite zoom", since
@@ -223,7 +222,30 @@ These semigroups can be horrendously complicated, but we can focus on
 nice scaling semigroups associated to the curves themselves.
 We denote these by $\mathcal{G}(F)$.
 So, for instance, the semigroup associated with a straight line is
-$\mathcal{G}(L_m) = \mathb{R}^+$, the whole set of positive reals.
+$\mathcal{G}(L_m) = \mathbb{R}^+$, the whole set of positive reals.
 The Koch curve $K$ has $\mathcal{G}(L_m) = \langle 3\rangle$, the
 set of perfect powers of $3$.
-I'm not sure of any constraints on this scaling semigroup in general.
+
+In fact, in general I guess that fractals can only give
+$\mathcal{G}(F) = \langle g\rangle$ for some number $g$.
+Roughly speaking, the argument would go something like this.
+The only additive subgroups of the real line are of the form $a
+\mathbb{Z}$ or *dense* in $\mathbb{R}$.
+We can map these onto multiplicate subgroups of $\mathbb{R}^+$
+homomorphically using the exponential, with the former giving rise to
+the perfect powers $\langle e^a\rangle$, and the latter giving rise to
+some dense multiplicative subgroup.
+We can presumably constrain the sub-semigroups in the same way.
+
+Consider a fractal $F$ invariant under zoom $\lambda$.
+If $F$ has any local features, e.g. at some fixed zoom there is
+a feature with length $\ell$, then under a zoom $Z_{\lambda+\epsilon}$, for
+$\epsilon \ll \\lambda$, this feature should not be reproduced.
+But in a dense sub-semigroup, there will be some element $Z_{\lambda
++\epsilon}\in \mathcal{G}(F)$.
+Of course, this is far from rigorous, but it explains why I can't
+construct anything else!
+
+#### The punchline
+
+Is there any point to all this?
