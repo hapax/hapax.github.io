@@ -79,7 +79,7 @@ Applying the function to the point $\hat{x}$ does nothing.
 We can define a zooming operation $Z_\lambda$, for $\lambda > 0$, which acts on real functions:
 
 $$
-Z_\lambda [f] = \lambda^{-1} f \circ \lambda, \quad Z_\lambda [f](x) =
+Z_\lambda [f] = \lambda^{-1} \circ f \circ \lambda, \quad Z_\lambda [f](x) =
 \lambda^{-1}f(\lambda x).
 $$
 
@@ -102,17 +102,56 @@ coordinates at $x = x_0$ and $y = f(x_0)$.
 In this case, we define
 
 $$
-\Delta f = f(x_0 + h) - f(x_0) \mapsto \lambda \Delta f, \quad h = (x_0 + h) -
-x_0 \mapsto \lambda h,
+\Delta f = f(x_0 + h) - f(x_0) \mapsto \Delta f' = \lambda \Delta f, \quad h = (x_0 + h) -
+x_0 \mapsto h' = \lambda h,
 $$
 
 and our approximation
 
 $$
-\Delta f = L_m(h)
+\Delta f = L_m(h) + o(h) \mapsto \lambda^{-1}
+\left[ L_m(\lambda h) + o( \lambda h)\right] = L_m(h) + \lambda^{-1}o( \lambda h).
 $$
 
-Of course, we can locally approximate by other functions, and this
-corresponds to a large part of mathematics.
-But only the derivative really represents the function at "infinite
-zoom", i.e. as an approximate
+It's not hard to see that the last term is also $o(h)$, since
+
+$$
+\lim_{h\to 0} \frac{o( \lambda h)}{\lambda h} = \lim_{h'\to 0}
+\frac{o(h')}{h'} = 0.
+$$
+
+where we defined $h' = \lambda h$.
+So, local linear approximation could also be thought of as local
+approximation by a self-similar function.
+This is naturally associated to the function at "infinite zoom", since
+self-similar functions are fixed points of scaling.
+
+#### Fractal approximation
+
+Large tracts of mathematics are devoted to approximating functions.
+But these are not usually at "infinite zoom".
+Instead, they are within some small but finite neighbourhood, and the
+functions are not self-similar.
+One familiar example is Taylor series, where we take polynomial
+approximations of higher and higher order.
+A quadratic Taylor expansion, for instance, takes the form
+
+$$
+\Delta f = f'(x_0) h + \frac{1}{2}f''(x_0)h^2 + o(h^2).
+$$
+
+As we zoom in, what happens?
+We now get
+
+$$
+\Delta f \mapsto
+\lambda^{-1}\left[ f'(x_0) \lambda h + \frac{1}{2}f''(x_0) \lambda^2 h^2 + o(\lambda^2 h^2)\right].
+$$
+
+It's clear that the presence of terms of different order in $h$ spoils
+the invariance under zooming, so this is not a self-similar
+approximation.
+
+Rather than consider these other approximation, we will simply ask:
+is the straight line the only thing that can happen at infinite zoom?
+The answer, of course, is no.
