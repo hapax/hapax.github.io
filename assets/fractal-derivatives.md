@@ -296,10 +296,10 @@ $$
 
 Then the difference is
 
-$$
-F_{x_0+h}(h) - F_{x_0}(h) = f(x_0 + 2h) - f(x_0 + h) - f(x_0 + h) +
-f(x_0) + o(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
-$$
+\begin{align*}
+F_{x_0+h}(h) - F_{x_0}(h) &= f(x_0 + 2h) - f(x_0 + h) - f(x_0 + h) +
+f(x_0) + o(h) \\ &= f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
+\end{align*}
 
 This is almost the usual ("second order forward") finite difference for the
 second derivative:
