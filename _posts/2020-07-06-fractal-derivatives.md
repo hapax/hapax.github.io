@@ -7,8 +7,11 @@ categories: Mathematics
 date:  2020-07-06
 ---
 
-**July 6, 2020.** *Stray thoughts on derivatives and local
-  approximation by fractals.*
+**July 6, 2020.** *A derivative is a local linear
+  approximation. Linear approximations are natural candidates for the
+  function at "infinite zoom" since they are self-similar, i.e. fixed
+  points of scaling. Here, we make the natural generalization to local
+  approximation by an arbitrary self-similar curve.*
 
 #### Straight line are fractals
 
