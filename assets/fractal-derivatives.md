@@ -277,9 +277,36 @@ But in a dense sub-semigroup, there will be some element $Z_{\lambda
 Of course, this is far from rigorous, but it explains why I can't
 construct anything else! -->
 
-#### The punchline
+#### Higher derivatives
 
-Is there any point to all this?
-Not really.
-I just think it's cool that you can motivate the derivative in such a
-way as to make it natural to replace it with something much weirder!
+It seems naively as if we can define higher derivatives.
+Let's start with the second derivative.
+Suppose $F_{x_0}$ denotes the local fractal approximation at
+$x_0$, with
+
+$$
+f(x_0 + h) - f(x_0) = F_{x_0}(h) + o(h).
+$$
+
+The local fractal at $x_0+h$ is naturally defined by
+
+$$
+f(x_0 + 2h) - f(x_0 + h) = F_{x_0+h}(h) + o(h).
+$$
+
+Then the difference is
+
+$$
+F_{x_0+h}(h) - F_{x_0}(h) = f(x_0 + 2h) - f(x_0 + h) - f(x_0 + h) +
+f(x_0) + o(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
+$$
+
+This is almost the usual ("second order forward") finite difference for the
+second derivative:
+
+$$
+f''(x_0)h = f'(x_0+h)h - f'(x_0)h+ o(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
+$$
+
+contains a term $f'(x_0+h)h$ which is unnatural in the context of
+self-similiar curves.
