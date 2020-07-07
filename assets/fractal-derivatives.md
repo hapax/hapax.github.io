@@ -24,7 +24,7 @@ $$
 same amount:
 
 $$
-x \maps to x' = \lambda x, \quad y\mapsto y' = \lambda y.
+x \mapsto x' = \lambda x, \quad y\mapsto y' = \lambda y.
 $$
 
 For any function $f$, rescaling both axes gives $y' = f(x')$, or
@@ -73,8 +73,8 @@ Linear approximations are natural since they are what you see at
 "infinite zoom".
 More precisely, a *fixed point* of zooming.
 This is exactly what we mean by self-similarity, but it's useful to explain this fixed point idea.
-A fixed point $x^*$ of a function $g$ satisfies $g(x^*) = x^*$.
-Applying the function to the point $x^*$ does nothing.
+A fixed point $\hat{x}$ of a function $g$ satisfies $g(\hat{x}) = \hat{x}$.
+Applying the function to the point $\hat{x}$ does nothing.
 We can define a zooming operation $Z_\lambda$, for $\lambda > 0$, which acts on real functions:
 
 $$
@@ -85,13 +85,14 @@ $$
 Here, we've overloaded $\lambda$ by making it stand for both a number
 and the function which multiplies by $\lambda$, but hopefully that's
 not confusing.
-A self-similar function is a fixed point of $Z_\lambda$, in the sense
+A self-similar function $\hat{f}$ is a fixed point of $Z_\lambda$, in the sense
 that
 
 $$
-Z_\lambda[f] = f, \quad Z_\lambda [f](x) =
-\lambda^{-1}f(\lambda x) = f(x),
+Z_\lambda[\hat{f}] = f, \quad Z_\lambda [f](x) =
+\lambda^{-1}\hat{f}(\lambda x) = \hat{f}(x),
 $$
 
 just like the straight line, as we calculated above.
-This is what 
+
+This is what makes a straight line a good thing to 
