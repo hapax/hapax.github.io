@@ -186,7 +186,7 @@ zoom in.
  <div style="text-align:center"><img src
  ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KochFlake.svg/800px-KochFlake.svg.png" width="72%"
  />
- <figcaption><i>Iterating the snowflake.</i></figcaption>
+ <figcaption><i>Iterating the snowflake. From Wikipedia.</i></figcaption>
  	 </div>
 	 </figure>
 
