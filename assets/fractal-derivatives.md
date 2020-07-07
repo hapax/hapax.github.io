@@ -7,7 +7,8 @@ categories: Mathematics
 date:  2020-07-06
 ---
 
-**July 6, 2020.** *Late night thoughts on derivatives and local approximation by other fractals.*
+**July 6, 2020.** *Stray thoughts on derivatives and local
+  approximation by fractals.*
 
 #### Straight line are fractals
 
@@ -48,7 +49,7 @@ This is what we mean by self-similarity.
 Derivatives are sometimes called *local linear approximations*.
 Let's unpack that.
 If $f(x)$ is a real function, then its derivative at $x_0$ is defined
-as the limit of the secant line:
+as the limit of the slope of the secant line:
 
 $$
 m = f'(x_0) = \lim_{h\to 0} \frac{f(x_0+h)-f(x_0)}{(x_0 + h)-x_0} =
@@ -72,11 +73,13 @@ $L_m(h)$, and the "approximation" in $o(h)$.
 What has this got to do with fractals?
 Linear approximations are natural since they are what you see at
 "infinite zoom".
-More precisely, a *fixed point* of zooming.
-This is exactly what we mean by self-similarity, but it's useful to explain this fixed point idea.
+More precisely, we can think of infinite zoom as producing *fixed points* of zooming.
+This is exactly what we mean by self-similarity, but it's useful to
+explain in terms of the language of fixed points.
 A fixed point $\hat{x}$ of a function $g$ satisfies $g(\hat{x}) = \hat{x}$.
 Applying the function to the point $\hat{x}$ does nothing.
-We can define a zooming operation $Z_\lambda$, for $\lambda > 0$, which acts on real functions:
+We can define a zooming operation $Z_\lambda$, for $\lambda > 0$,
+which acts on real functions as follows:
 
 $$
 Z_\lambda [f] = \lambda^{-1} \circ f \circ \lambda, \quad Z_\lambda [f](x) =
@@ -94,19 +97,19 @@ Z_\lambda[F] = F, \quad Z_\lambda [F](x) =
 \lambda^{-1}F(\lambda x) = F(x),
 $$
 
-just like the straight line, as we calculated above.
+just like straight lines as we calculated above.
 
 When we do a local linear approximation, we are zooming in until the
 curve is approximately self-similar, at least when we centre the
 coordinates at $x = x_0$ and $y = f(x_0)$.
-In this case, we define
+In this case,
 
 $$
 \Delta f = f(x_0 + h) - f(x_0) \mapsto \Delta f' = \lambda \Delta f, \quad h = (x_0 + h) -
 x_0 \mapsto h' = \lambda h,
 $$
 
-and our approximation
+while our local linear approximation changes as
 
 $$
 \Delta f = L_m(h) + o(h) \mapsto \lambda^{-1}
@@ -127,7 +130,7 @@ self-similar functions are fixed points of scaling.
 
 #### Fractal approximation
 
-Large tracts of mathematics are devoted to approximating functions.
+<!-- Large tracts of mathematics are devoted to approximating functions.
 But these are not usually at "infinite zoom".
 Instead, they are within some small but finite neighbourhood, and the
 functions are not self-similar.
@@ -152,7 +155,7 @@ the invariance under zooming, so this is not a self-similar
 approximation.
 
 So, let's forget about these other approximations and return to
-straight lines.
+straight lines.-->
 Local linear approximation is a natural thing to do because lines look
 the same when you zoom in.
 But they are not the only functions with this property!
@@ -179,7 +182,18 @@ To get an interesting local approximation, we can deform the star at
 large scales, but leave it alone (or deform in some $o(h)$ way) as we
 zoom in.
 
-#### Higher derivatives
+<figure>
+ <div style="text-align:center"><img src
+ ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/KochFlake.svg/800px-KochFlake.svg.png" width="72%"
+ />
+ <figcaption><i>Iterating the snowflake.</i></figcaption>
+ 	 </div>
+	 </figure>
+
+Here, we obviously have a curve rather than a function per se, but the
+ same idea holds. 
+
+<!-- #### Higher derivatives
 
 Can we take higher derivatives?
 The second derivative is just the derivative of $f'$, which can be
@@ -187,9 +201,9 @@ written as
 
 $$
 \Delta F = f''h^2 + o(h^2).
-$$
+$$ -->
 
-#### Scaling semigroups
+<!--#### Scaling semigroups
 
 You may have noticed that I left $\lambda$ ambiguous when defining self-similarity.
 Is a function $F$ self-similar if $Z_\lambda[F] = F$ for *any*
@@ -253,7 +267,7 @@ But in a dense sub-semigroup, there will be some element $Z_{\lambda
 +\epsilon}\in \mathcal{G}(F)$, a contradiction.
 
 Of course, this is far from rigorous, but it explains why I can't
-construct anything else!
+construct anything else! -->
 
 #### The punchline
 
