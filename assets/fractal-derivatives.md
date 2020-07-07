@@ -173,12 +173,11 @@ $$
 
 As a trivial example, a self-similar function $F(x)$ is locally
 approximated by $F(x)$.
-So the Koch curve below left, made by iteratively adding snowflake-like
+So the Koch curve, made by iteratively adding snowflake-like
 stellae, is locally approximated by a Koch curve!
 To get an interesting local approximation, we can deform the star at
 large scales, but leave it alone (or deform in some $o(h)$ way) as we
 zoom in.
-We give an example below right.
 
 #### Scaling semigroups
 
