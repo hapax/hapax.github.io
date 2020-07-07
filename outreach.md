@@ -53,8 +53,8 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   random walks and collisions, and Brownian motion. Based on aforementioned
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
-(2018--19). A medley of problems on everything from string theory to
-sneezing cubesats into space.
+(2018--19). A medley of problems on everything from string theory and
+black holes, to Starbucks and tea cups.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, with
 applications to black hole thermodynamics.

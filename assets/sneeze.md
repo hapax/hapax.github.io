@@ -13,3 +13,11 @@ date:  2020-07-07
   medically unsound) models to get a feel for the problem.*
 
 #### Ballistic droplets
+
+When you sneeze, you eject a range of particles at a range of
+speeds.
+To start with, we will consider the simple case of *ballistic
+droplets*, where droplets are subject only to gravity.
+Suppose a droplet is sneezed out at 
+
+#### References
