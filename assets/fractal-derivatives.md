@@ -235,7 +235,6 @@ homomorphically using the exponential, with the former giving rise to
 the perfect powers $\langle e^a\rangle$, and the latter giving rise to
 some dense multiplicative subgroup.
 We can presumably constrain the sub-semigroups in the same way.
-
 Consider a fractal $F$ invariant under zoom $\lambda$.
 If $F$ has any local features, e.g. at some fixed zoom there is
 a feature with length $\ell$, then under a zoom $Z_{\lambda+\epsilon}$, for
