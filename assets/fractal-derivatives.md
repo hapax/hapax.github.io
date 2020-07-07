@@ -179,6 +179,16 @@ To get an interesting local approximation, we can deform the star at
 large scales, but leave it alone (or deform in some $o(h)$ way) as we
 zoom in.
 
+#### Higher derivatives
+
+Can we take higher derivatives?
+The second derivative is just the derivative of $f'$, which can be
+written as
+
+$$
+\Delta F = f''h^2 + o(h^2).
+$$
+
 #### Scaling semigroups
 
 You may have noticed that I left $\lambda$ ambiguous when defining self-similarity.
@@ -248,4 +258,6 @@ construct anything else!
 #### The punchline
 
 Is there any point to all this?
-Not really, more some late night ramblings.
+Not really.
+I just think it's cool that you can motivate the derivative in such a
+way as to make it natural to replace it with something much weirder!
