@@ -7,7 +7,7 @@ categories: Mathematics
 date:  2020-07-06
 ---
 
-**July 6, 2020.** *Derivatives as local approximation by fractals.*
+**July 6, 2020.** *Derivatives and local approximation by other fractals.*
 
 #### Straight line are fractals
 
