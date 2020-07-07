@@ -191,19 +191,9 @@ zoom in.
 	 </figure>
 
 Here, we obviously have a curve rather than a function per se, but the
- same idea holds. 
+same idea holds.
 
-<!-- #### Higher derivatives
-
-Can we take higher derivatives?
-The second derivative is just the derivative of $f'$, which can be
-written as
-
-$$
-\Delta F = f''h^2 + o(h^2).
-$$ -->
-
-<!--#### Scaling semigroups
+#### Lines are special
 
 You may have noticed that I left $\lambda$ ambiguous when defining self-similarity.
 Is a function $F$ self-similar if $Z_\lambda[F] = F$ for *any*
@@ -220,6 +210,18 @@ $$
 
 If this is true for any $\lambda$, the slope at any two points is the
 same, and we get a straight line.
+
+<!-- #### Higher derivatives
+
+Can we take higher derivatives?
+The second derivative is just the derivative of $f'$, which can be
+written as
+
+$$
+\Delta F = f''h^2 + o(h^2).
+$$ -->
+
+<!--#### Scaling semigroups
 
 But it's important to note that if $F$ is fixed under a certain
 $\lambda$, it's also fixed under all powers of $\lambda$, since
