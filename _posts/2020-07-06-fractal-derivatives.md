@@ -215,7 +215,20 @@ Note that we only need a derivative at *one* point to get a straight
 line from self-similarity under arbitrary zooms.
 This shows that if there are other curves with this property, they are
 nowhere differentiable.
-I don't know any examples off the top of my head.
+
+#### So what?
+
+Is this useful?
+Not as far as I can see.
+For instance, defining a second derivative seems to be unnatural, since
+even though I can define finite differences in the usual way, there
+is no equivalent of Taylor's theorem I can use to guarantee the error
+shrinks as $o(h^2)$.
+So it remains a curiosity.
+But it's nice to notice that functions can exhibit all sorts of
+interesting behaviour at infinite zoom.
+Put differently, the notion of a local self-similar approximation is
+more general than straight lines!
 
 <!-- #### Higher derivatives
 
@@ -277,50 +290,23 @@ But in a dense sub-semigroup, there will be some element $Z_{\lambda
 Of course, this is far from rigorous, but it explains why I can't
 construct anything else! -->
 
-#### Higher derivatives
+<!--#### Higher derivatives -->
 
-It seems naively as if we can define higher derivatives.
-Let's start with the second derivative.
-Suppose $F_{x_0}$ denotes the local fractal approximation at
-$x_0$, with
-
+<!--It seems naively as if we can define higher derivatives. Let's -->
+<!--start with the second derivative. Suppose $F_{x_0}$ denotes the -->
+<!--local fractal approximation at $x_0$, with 
 $$
 f(x_0 + h) - f(x_0) = F_{x_0}(h) + o(h).
 $$
-
-The local fractal at $x_0+h$ is naturally defined by
-
-$$
-f(x_0 + 2h) - f(x_0 + h) = F_{x_0+h}(h) + o(h).
-$$
-
-Then the difference is
-
-$$
-\begin{align*}
-F_{x_0+h}(h) - F_{x_0}(h) &= f(x_0 + 2h) - f(x_0 + h) - f(x_0 + h) +
+The local fractal at $x_0+h$ is naturally defined by -->
+<!--$$ f(x_0 + 2h) - f(x_0 + h) = F_{x_0+h}(h) + o(h). $$ -->
+<!--Then the difference is $$ \begin{align*}F_{x_0+h}(h) - F_{x_0}(h) -->
+<!--&= f(x_0 + 2h) - f(x_0 + h) - f(x_0 + h) + 
 f(x_0) + o(h) \\ &= f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
-\end{align*}
-$$
-
-It's clear that this difference is still self-similar, since
-
-$$
-Z_\lambda [F_{x_0+h} - F_{x_0}](h) = \lambda^{-1}F_{x_0+h}(\lambda
-h) - \lambda^{-1}F_{x_0}(\lambda h) = F_{x_0+h}(h) - F_{x_0}(h).
-$$
-
-So it seems reasonable to define the second "fractal derivative" as
-
-$$
-F^{(2)}_{x_0} = F_{x_0+h}(h) - F_{x_0}(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
-$$
-
-This is almost the usual ("second order forward") finite difference for the
-second derivative:
-
-$$
-f''(x_0)h^2 = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h^2).
-$$
-
-The 
+\end{align*}$$ -->
+<!--  It's clear that this difference is still self-similar, since $$Z_\lambda [F_{x_0+h} - F_{x_0}](h) = \lambda^{-1}F_{x_0+h}(\lambda
+h) - \lambda^{-1}F_{x_0}(\lambda h) = F_{x_0+h}(h) - F_{x_0}(h). $$
+This is similar to, but not quite, the ("second order forward") finite -->
+<!--  difference for the second derivative:
+$$ f''(x_0)h^2 = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h^2). $$
+$$ F^{(2)}_{x_0} = F_{x_0+h}(h) - F_{x_0}(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).$$ -->
