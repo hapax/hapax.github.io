@@ -12,7 +12,7 @@ date:  2020-07-06
 #### Straight line are fractals
 
 A straight line is the simplest fractal. If you pick any point on the
-line and zoom in, it looks the same! In other words is
+line and zoom in, it looks the same! In other words, it is
 *self-similar*. Let's check. A straight line passing through the
 origin has equation
 
@@ -27,15 +27,15 @@ $$
 x \maps to x' = \lambda x, \quad y\mapsto y' = \lambda y.
 $$
 
-For any function $f$, rescaling both axes gives $y' = f(x')$ for, or
+For any function $f$, rescaling both axes gives $y' = f(x')$, or
 
 $$
 y = \lambda^{-1} f(\lambda x).
 $$
 
-After this rescaling, most functions change, so $\lambda^{-1}f(\lambda
+After this rescaling, most functions change, with $\lambda^{-1}f(\lambda
 x)  \neq f(x)$.
-But the line does not:
+But a line does not change under this rescaling:
 
 $$
 \lambda^{-1} L_m(\lambda x) = \lambda^{-1} (m (\lambda x)) = mx = L_m(x).
@@ -66,6 +66,8 @@ So, the "local" is in the fact that is a statement about behaviour in
 a neighbourhood of $x_0$, the "linear" is in $L_m(h)$, and the
 "approximation" in $o(h)$.
 
+#### Zooming in
+
 What has this got to do with fractals?
 Linear approximations are natural since they are what you see at
 "infinite zoom".
@@ -83,5 +85,13 @@ $$
 Here, we've overloaded $\lambda$ by making it stand for both a number
 and the function which multiplies by $\lambda$, but hopefully that's
 not confusing.
-The point is that the rightmost $\lambda$ multiplies $x$ (horizontal
-zoom), we then apply $f$, and apply $\lambda^{-1}$ (vertical zoom).
+A self-similar function is a fixed point of $Z_\lambda$, in the sense
+that
+
+$$
+Z_\lambda[f] = f, \quad Z_\lambda [f](x) =
+\lambda^{-1}f(\lambda x) = f(x),
+$$
+
+just like the straight line, as we calculated above.
+This is what 
