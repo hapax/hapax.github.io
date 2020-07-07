@@ -1,4 +1,4 @@
-s---
+---
 Layout: post
 mathjax: true
 comments: true
