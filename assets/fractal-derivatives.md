@@ -183,12 +183,11 @@ We give an example below right.
 
 #### Scaling semigroups
 
-You may have noticed that I was vague about the nature of $\lambda$
-when we defined self-similarity.
-Is a function $F$ self-similar if $Z_\lambda[F] = F$ for any $\lambda>
-0$, or just a certain fixed $\lambda$?
-The straight line has the distinction of looking the same at *any*
-scale.
+You may have noticed that I left $\lambda$ ambiguous when defining self-similarity.
+Is a function $F$ self-similar if $Z_\lambda[F] = F$ for *any*
+$\lambda> 0$, or just a certain fixed $\lambda$?
+The straight line has the distinction of looking the same at any
+scale, so $Z_\lambda[L_m] = L_m$ for any $\lambda$.
 In fact, a straight line is the only "nice" curve with this property.
 For instance, if we assume that our self-similar curve itself has a
 (regular) derivative, then
