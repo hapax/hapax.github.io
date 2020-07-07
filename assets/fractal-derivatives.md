@@ -152,6 +152,22 @@ It's clear that the presence of terms of different order in $h$ spoils
 the invariance under zooming, so this is not a self-similar
 approximation.
 
-Rather than consider these other approximation, we will simply ask:
-is the straight line the only thing that can happen at infinite zoom?
-The answer, of course, is no.
+So, let's forget about these other approximations and return to
+straight lines.
+Local linear approximation is a natural thing to do because lines look
+the same when you zoom in.
+But they are not the only functions with this property!
+We could replace a line with *any* self-similar function.
+It is therefore natural to consider *local approximation by a
+self-similar fractal* $F$, when
+
+$$
+\Delta f = F(h) + o(h).
+$$
+
+This is unique up to terms which vanish as $o(h)$, simply because
+
+$$
+\Delta f = F(h) + o(h) = G(h) + o(h) \quad \Longrightarrow \quad
+F(h) - G(h)= o(h).
+$$
