@@ -307,7 +307,7 @@ This is almost the usual ("second order forward") finite difference for the
 second derivative:
 
 $$
-f''(x_0)h = f'(x_0+h)h - f'(x_0)h+ o(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
+f''(x_0)h^2 = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h^2).
 $$
 
 contains a term $f'(x_0+h)h$ which is unnatural in the context of
