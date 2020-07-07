@@ -171,3 +171,36 @@ $$
 \Delta f = F(h) + o(h) = G(h) + o(h) \quad \Longrightarrow \quad
 F(h) - G(h)= o(h).
 $$
+
+As a trivial example, a self-similar function $F(x)$ is locally
+approximated by $F(x)$.
+So the Koch curve below left, made by iteratively adding snowflake-like
+stellae, is locally approximated by a Koch curve!
+To get an interesting local approximation, we can deform the star at
+large scales, but leave it alone (or deform in some $o(h)$ way) as we
+zoom in.
+We give an example below right.
+
+#### Straight lines are special
+
+You may have noticed that I was vague about the nature of $\lambda$
+when we defined self-similarity.
+Is a function $f$ self-similar if $Z_\lambda[f] = f$ for any $\lambda>
+0$, or just a certain fixed $\lambda$?
+The straight line has the distinction of looking the same at *any*
+scale.
+In fact, a straight line is the only "nice" curve with this property.
+For instance, if we assume that our self-similar curve itself has a
+(regular) derivative, then
+
+$$
+F'(x) = \lambda^{-1} \frac{d}{dx}F(\lambda x) = F'(\lambda x).
+$$
+
+If this is true for any $\lambda$, the slope at any two points is the
+same, and we get a straight line.
+But if it's only true for some particular $\lambda$, then the curve is
+the same at $x$, $\lambda x$, $\lambda^2 x$, and so on, but not
+necessarily everywhere.
+
+
