@@ -11,9 +11,9 @@ date:  2020-07-06
 
 #### Straight line are fractals
 
-A straight line is the simplest fractal. If you pick any point on the
-line and zoom in, it looks the same! In other words, it is
-*self-similar*. Let's check. A straight line passing through the
+A straight line is the simplest fractal, since if you pick any point on the
+line and zoom in, it looks the same. In other words, it is
+*self-similar*. Let's check! A straight line passing through the
 origin has equation
 
 $$
@@ -48,23 +48,24 @@ This is what we mean by self-similarity.
 Derivatives are sometimes called *local linear approximations*.
 Let's unpack that.
 If $f(x)$ is a real function, then its derivative at $x_0$ is defined
-as
+as the limit of the secant line:
 
 $$
-m = f'(x_0) = \lim_{h\to 0} \frac{f(x_0+h)-f(x_0)}{h},
+m = f'(x_0) = \lim_{h\to 0} \frac{f(x_0+h)-f(x_0)}{(x_0 + h)-x_0} =
+\lim_{h\to 0} \frac{\Delta f}{h},
 $$
 
 if this limit exists. We can rewrite this as
 
 $$
-f(x_0+h) - f(x_0) = mh + o(h) = L_m(h) + o(h),
+f(x_0+h) - f(x_0) = L_m(h) + o(h),
 $$
 
 where $o(h)$ stands for a function which shrinks faster than $h$ as $h
 \to 0$, $o(h)/h \to 0$.
 So, the "local" is in the fact that is a statement about behaviour in
-a neighbourhood of $x_0$, the "linear" is in $L_m(h)$, and the
-"approximation" in $o(h)$.
+a neighbourhood of $x_0$, the "linear" is in the choice of function
+$L_m(h)$, and the "approximation" in $o(h)$.
 
 #### Zooming in
 
@@ -95,4 +96,23 @@ $$
 
 just like the straight line, as we calculated above.
 
-This is what makes a straight line a good thing to 
+When we do a local linear approximation, we are zooming in until the
+curve is approximately self-similar, at least when we centre the
+coordinates at $x = x_0$ and $y = f(x_0)$.
+In this case, we define
+
+$$
+\Delta f = f(x_0 + h) - f(x_0) \mapsto \lambda \Delta f, \quad h = (x_0 + h) -
+x_0 \mapsto \lambda h,
+$$
+
+and our approximation
+
+$$
+\Delta f = L_m(h)
+$$
+
+Of course, we can locally approximate by other functions, and this
+corresponds to a large part of mathematics.
+But only the derivative really represents the function at "infinite
+zoom", i.e. as an approximate
