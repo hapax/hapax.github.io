@@ -86,12 +86,12 @@ $$
 Here, we've overloaded $\lambda$ by making it stand for both a number
 and the function which multiplies by $\lambda$, but hopefully that's
 not confusing.
-A self-similar function $\hat{f}$ is a fixed point of $Z_\lambda$, in the sense
+A self-similar function $F$ is a fixed point of $Z_\lambda$, in the sense
 that
 
 $$
-Z_\lambda[\hat{f}] = f, \quad Z_\lambda [f](x) =
-\lambda^{-1}\hat{f}(\lambda x) = \hat{f}(x),
+Z_\lambda[F] = F, \quad Z_\lambda [F](x) =
+\lambda^{-1}F(\lambda x) = F(x),
 $$
 
 just like the straight line, as we calculated above.
@@ -181,11 +181,11 @@ large scales, but leave it alone (or deform in some $o(h)$ way) as we
 zoom in.
 We give an example below right.
 
-#### Straight lines are special
+#### Scaling semigroups
 
 You may have noticed that I was vague about the nature of $\lambda$
 when we defined self-similarity.
-Is a function $f$ self-similar if $Z_\lambda[f] = f$ for any $\lambda>
+Is a function $F$ self-similar if $Z_\lambda[F] = F$ for any $\lambda>
 0$, or just a certain fixed $\lambda$?
 The straight line has the distinction of looking the same at *any*
 scale.
@@ -199,8 +199,20 @@ $$
 
 If this is true for any $\lambda$, the slope at any two points is the
 same, and we get a straight line.
-But if it's only true for some particular $\lambda$, then the curve is
-the same at $x$, $\lambda x$, $\lambda^2 x$, and so on, but not
-necessarily everywhere.
 
+But it's important to note that if $F$ is fixed under a certain
+$\lambda$, it's also fixed under all powers of $\lambda$, since
 
+$$
+Z_\lambda \circ \cdots \circ Z_\lambda = Z_{\lambda^n}.
+$$
+
+In fact, more generally, these scalings form a *semigroup* under the product
+
+$$
+Z_\lambda \circ Z_\mu = Z_{\lambda \mu}.
+$$
+
+A semigroup is just like a group, in that it's closed under an
+associative product and has an identity, but it doesn't necessarily
+have inverses. The identity of course is $Z_1$.
