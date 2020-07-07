@@ -303,6 +303,19 @@ f(x_0) + o(h) \\ &= f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
 \end{align*}
 $$
 
+It's clear that this difference is still self-similar, since
+
+$$
+Z_\lambda [F_{x_0+h} - F_{x_0}](h) = \lambda^{-1}F_{x_0+h}(\lambda
+h) - \lambda^{-1}F_{x_0}(\lambda h) = F_{x_0+h}(h) - F_{x_0}(h).
+$$
+
+So it seems reasonable to define the second "fractal derivative" as
+
+$$
+F^{(2)}_{x_0} = F_{x_0+h}(h) - F_{x_0}(h) = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h).
+$$
+
 This is almost the usual ("second order forward") finite difference for the
 second derivative:
 
@@ -310,5 +323,4 @@ $$
 f''(x_0)h^2 = f(x_0 + 2h) - 2f(x_0 + h) + f(x_0) + o(h^2).
 $$
 
-contains a term $f'(x_0+h)h$ which is unnatural in the context of
-self-similiar curves.
+The 
