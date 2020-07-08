@@ -65,8 +65,8 @@ Solipsism would not be crazy if you were the only sentient being in a
 world of amoebae.
 You would not need a theory of mind to explain their behaviour.
 But in a world of beings whose behavioural complexity matches your own,
-mental states we cannot access remain the best explanation for their
-behaviour.
+mental states you cannot access remain the best explanation for the
+behaviour of others.
 Solipsists may be good Cartesians, retaining only those ontological
 commitments that might not be spoofed by a malicious Cartesian demon,
 but they are terrible scientists.
