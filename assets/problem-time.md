@@ -178,3 +178,14 @@ I might write about this in more detail some time, partly to motivate
 myself to understand the paper better.
 
 #### Conclusion
+
+Presentists, growing blockers, and other temporal solipsists are
+probably wrong about ontology, but right about epistemology: there is
+something strange about time.
+The usual physical explanations usually *presuppose* a distinguished
+timelike direction.
+Really, the only satisfying explanation, from a four-dimensionalist
+perspective, would be to define physical laws which know nothing about
+time, on a mathematical space which knows nothing about time, and have
+time --- i.e. one-dimensional defects with highly constrained
+correlations --- emerge via spontaneously broken symmetry.
