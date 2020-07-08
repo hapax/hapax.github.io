@@ -117,6 +117,17 @@ may draw the wrong conclusions, the *premises are sound*.
 There is something strange about being in a mind.
 There is something strange about being in time.
 
-#### The problem of time
+#### The bow and the arrow
 
-The problem can be clearly stated as follows: why cause and effect?
+The problem can be clearly stated as follows: *why change*?
+The presentist or blocker might answer: because existence.
+In other words, what exists is changing.
+If we dismiss this as temporal solipsism, and adopt an even-handed
+four-dimensionalist ontology, the question becomes: *why cause and
+effect*?
+Put differently, why can we remember the past but not the future?
+
+At this point, physicists will give a range of answers.
+The relativist says: because spacetime is a Lorentzian manifold.
+This is evidently so, but it explains nothing.
+The statistical mechanic will say: because entropy dictates 
