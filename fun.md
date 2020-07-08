@@ -18,8 +18,8 @@ zombies, science gone mad, and the psychology of time. Winner of the
 (2020). A somewhat farcical "what if" about large-scale quantum
 computers and geopolitics.
 
-I'm interested in philosophy (in fact, in a prior life I earned a
-philosophy degree).
+In a prior life I earned a philosophy degree, and maintain an
+interest. Thoughts on various topics:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A radical version of eternal recurrence.
