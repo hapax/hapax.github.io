@@ -23,8 +23,8 @@ zombies, science gone mad, and the psychology of time. Winner of the
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A farcical "what if" about quantum computers.
 
-In a prior life I earned a philosophy degree, and maintain an
-interest in the field. Some rambling discursions:
+In a prior life I earned a philosophy degree and still take language
+on holiday from time to time. Some rambling discursions:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
