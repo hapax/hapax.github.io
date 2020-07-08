@@ -183,10 +183,9 @@ is the same as the one-dimensional case.
 
 #### Reynolds number and quadratic drag
 
-Our answer is still too large, so perhaps we calculated the drag
-incorrectly.
-And indeed, we did.
-When something moves slowly enough, drag is proportional to $v$.
+Our answer is a wee bit too big, so perhaps something was wrong with
+our drag force.
+In fact, to use Stokes' law, the droplet needs to be moving slowly.
 When it moves fast, however, there is a different physics at play, and
 the drag is *quadratic* in $v$.
 To tell the difference, we have to quantify whether the fluid feels
