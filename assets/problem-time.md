@@ -137,4 +137,36 @@ The statistical mechanic says: because entropy.
 But even this makes no sense unless you have some way for a system to
 change so as to explore phase space.
 In other words, you still need a *microscopic* arrow of time.
-So the question becomes: what is the bow that launches this arrow?
+So the question becomes: what is the bow that launches this
+microscopic arrow?
+
+#### Emergent time
+
+(This section is mildly technical.)
+A satisfying answer, to my mind, would be along the
+following lines.
+Start off with some highly symmetric mathematical object $\mathcal{M}$
+which does not possess any notion of time.
+Introduce some laws $L$ governing patterns or structures or fields, let's
+collectively call them $\Psi$, perhaps written $L(\Psi) = 0$, along
+with some natural boundary conditions for $\Psi$ on
+$\partial\mathcal{M}$.
+These laws $L$ should not make any reference to time.
+Here, $\mathcal{M}$ might be something rather
+different from a manifold, and $\partial$ something rather different
+from a boundary operator. I am being schematic.
+
+I would say this theory gives rise to an *emergent theory of time* if
+the solutions $L(\Psi) = 0$ spontaneously break the symmetry, both of
+$L$ and $\mathcal{M}$, and develop "timelike defects" along which
+correlations are organized asymmetrically.
+These could perhaps be described an emergent Lorentzian metric $g$,
+presumably some effective field built using a coarse-graining
+prescription from the fields $\Phi$ on $\mathcal{M}$.
+
+Now, all this sounds very vague, but it is precisely what
+[Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
+were attempting to do with their no-boundary proposal.
+They had various fundamental fields $\Phi$ on a Euclidean manifold
+$\mathcal{M}$, and their boundary condition was that there was no
+boundary!
