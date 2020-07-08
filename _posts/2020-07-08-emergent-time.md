@@ -98,11 +98,11 @@ Solipsists and presentists notice that there is a quiddity, a
 But from "thisness", they leap to the remarkable inference that
 "thatness" is the same as non-existence!
 A growing blocker or free willer is, I think, fundamentally making the
-same inference, but they are prepared to treat the chains of causation
-binding the past to the present as a certificate of existence.
-To me, these conclusions make no sense, and almost deliberately
-non-explanatory.
+same inference, but they are prepared to let existence spread like a
+contaminant from present effects to their causes.
 
+To me, these conclusions make no sense, and are almost deliberately
+non-explanatory.
 But the fact there is a "thisness" at all is apparently a
 metaphysical fact.
 The quiddity of having a mind is the experience of mental sensations,
