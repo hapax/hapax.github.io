@@ -229,6 +229,13 @@ $$
 v(t) = \frac{m}{\alpha t + mv_0^{-1}}.
 $$
 
+Integrating gives a log:
+
+$$
+x(t_\text{G}) = \int_0^{t_\text{G}} dt \, v(t) =
+\frac{m}{\alpha}\log\left[1 + \frac{\alpha v_0 t_\text{G}}{m}\right].
+$$
+
 #### References
 
 <!-- https://en.wikipedia.org/wiki/Aerosol#Solution_to_the_general_dynamic_equation -->
