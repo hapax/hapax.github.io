@@ -72,7 +72,7 @@ large scales).
 As with human behaviour, these slices *look the same from the outside*.
 A paranoid Cartesian might say: things look different from in here, so
 they are different out there.
-A realist says: they look the same from the outside, and the best
+A realist replies: they look the same from the outside, and the best
 explanation is that they look the same from the inside too.
 But like a context-dependent joke, to see the inside, I guess you need
 to be there.
