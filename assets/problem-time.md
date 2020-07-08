@@ -36,7 +36,7 @@ thing, while only being able to remember the past is not.
 
 #### Temporal solipsism
 
-Let's pause for a moment and untangle a common thread joining these
+Let's pause for a moment and untangle a common thread winding through these
 ideas.
 Presentism, free will, and growing blocks all represent a
 type of *solipsism*.
