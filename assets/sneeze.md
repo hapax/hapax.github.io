@@ -179,6 +179,8 @@ $$
 
 Thus, although the time dependence is different, the maximum distance
 is the same as the one-dimensional case.
+Incidentally, this maximum distance is largest for a horizontally
+fired droplet, unlike pure ballistic motion.
 
 ---
 
