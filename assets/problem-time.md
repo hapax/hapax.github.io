@@ -109,9 +109,11 @@ moment is trivially explicable: the "thisness" of the present and
 [prequel](https://hapax.github.io/philosophy/physics/psychology-time/)
 for more details.) 
 But while the spirit is similar, there is an asymmetry between future
-and past which the growing blocker and free willer are tracking in
-their own misguided way.
+and past which does not exist between up and down.
+In their own misguided way, the growing blocker and free willer are
+using this asymmetry.
 And that is really the point I want to make.
-The folk Cartesian may draw the wrong conclusions, but the *premises are sound*.
+While the folk Cartesian may draw the wrong conclusions, the *premises
+are sound*.
 
 #### The problem of time
