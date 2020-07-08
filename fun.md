@@ -38,12 +38,6 @@ I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
 arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/).
 
-<figure>
- <div style="text-align:center"><img src ="/images/x64.png" />
- <figcaption><i>This little robot is very keen.</i></figcaption>
- 	 </div>
-  </figure>
-
 #### Programming
 
 I code for fun in [Python](https://www.python.org/)
@@ -58,3 +52,9 @@ distribution of genetic code around a family tree.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
   buggy but addictive implementation of Pong. <!-- of which I am inordinately proud.-->
+
+<figure>
+ <div style="text-align:center"><img src ="/images/x64.png" />
+ <figcaption><i>This little robot is very keen.</i></figcaption>
+ 	 </div>
+  </figure>
