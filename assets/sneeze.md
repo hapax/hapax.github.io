@@ -19,18 +19,18 @@ speeds.
 To start with, we will consider the simple case of *ballistic
 droplets*, where droplets are subject only to gravity.
 Suppose your mouth is at height $h$ above the ground.
-The time it takes for a droplet to fall to the ground under the
+The time it takes for a droplet to fall to the ground $t_\text{ground}$ under the
 influence of gravity is given by
 
 $$
-h = \frac{1}{2}gt^2 \quad \Longrightarrow \quad t = \sqrt{\frac{2h}{g}}.
+h = \frac{1}{2}gt_\text{ground}^2 \quad \Longrightarrow \quad t_\text{ground} = \sqrt{\frac{2h}{g}}.
 $$
 
 The *range* is the horizontal distance covered in this time.
 If you impart speed $v_0$ to the droplet, then the range $R$ is
 
 $$
-R = v_0t = v_0 \sqrt{\frac{2h}{g}}.
+R = v_0t_\text{ground} = v_0 \sqrt{\frac{2h}{g}}.
 $$
 
 Let's plug in some numbers and see if the range is reasonable.
@@ -48,15 +48,25 @@ firing angle.
 
 ---
 
-**Exercise 1.** (a) Show that if fired at angle $\theta$ to the
-horizontal, the range is
+**Exercise 1.** (a) Show that if fired at an angle $\theta$ to the
+horizontal, then the droplet reaches the top of the parabolic arc at
+time
 
 $$
-R = v_0t_0 + v_0\sqrt{\frac{2h}{g} + t_0^2}, \quad t_0 = \frac{v_0\sin\theta}{g}.
+t_\text{top} = \frac{v_0\sin\theta}{g}.
 $$
 
-(b) Using the parameters above, how far does a ballistic droplet travel
-when "fired" at $\theta = 45^\circ$?
+(b) Show that, for angle $\theta$, the time it takes for the droplet
+to fall is
+
+$$
+t_\text{ground} = t_\text{top} + \sqrt{\frac{2h}{g} + t_\text{top}^2}.
+$$
+
+(c) Finally, give an expression for the range $R$.
+
+(d) How far does a ballistic droplet travel for $\theta = 45^\circ$?
+Use the parameters $v = 100 \text{ m/s}$ and $h = 2\text{ m}$.
 
 <!-- 140 m! -->
 
@@ -67,10 +77,48 @@ when "fired" at $\theta = 45^\circ$?
 Obviously, we've missed something big. The WHO is not instructing us
 to stay $50$ m away from one another!
 In reality, droplets are subject to *air resistance*.
-This is a force directed against motion, and which increases with velocity.
-The first question is what sort of drag force the sneeze particles are
-subject to.
-To check, we first compute something called the *Reynolds number*,
+This is a force directed against motion, and which increases with
+velocity.
+In the simplest case, the force is directly proportional to the
+velocity:
+
+$$
+\mathbf{F}_\text{drag} = -\gamma \mathbf{v}.
+$$
+
+Solving the problem in two dimensions is a little tricky, so I will
+use a very rough approximation, and see how far it moves in one
+dimension, but in the time $t_\text{ground}$ we discussed in the last
+section.
+Newton's second law is
+
+$$
+m \dot{v} = F_\text{drag} = -\gamma v.
+$$
+
+We can solve immediately using an exponential,
+
+$$
+v(t) = v_0 e^{-\gamma t/ m}.
+$$
+
+To find the position at time $t = t_\text{ground}$, we have to
+integrate once:
+
+$$
+\int_0^{t_\text{ground}} dt \, v(t) = v_0 \int_0^{t_\text{ground}} dt
+\, e^{-\gamma t/ m} = \frac{mv_0}{\gamma} \left(1 - e^{-\gamma t_\text{ground}/m}\right).
+$$
+
+#### References
+
+<!-- https://en.wikipedia.org/wiki/Aerosol#Solution_to_the_general_dynamic_equation -->
+<!-- https://en.wikipedia.org/wiki/Cunningham_correction_factor -->
+<!-- https://arxiv.org/pdf/1009.0557.pdf -->
+<!-- http://farside.ph.utexas.edu/teaching/336k/Newtonhtml/node29.html -->
+
+<!-- The first question is what sort of drag force the sneeze particles are
+subject to. To check, we first compute something called the *Reynolds number*,
 defined as the ratio
 
 $$
@@ -85,27 +133,20 @@ kg/m}^3$.
 Sneeze droplets come in different sizes, but we will start by looking
 at "large" droplets, around $100 \, \mu \text{m} = 10^{-4} \text{m}$
 in diameter.
-If emitted at $100 \text{ m/s}$, the Reynolds number is
+If emitted at $100 \text{ m/s}$, the Reynolds number is -->
 
-$$
+<!-- $$
 \text{Re} = \frac{\rho v D}{\mu} = \frac{1.2 \cdot 100 \cdot
 10^{-4}}{1.8 \times 10^{-5}} \approx 700.
-$$
+$$ -->
 
-Consulting various
+<!-- Consulting various
 [tables](https://www.me.psu.edu/cimbala/me325web_Spring_2012/Labs/Drag/intro.pdf),
 this is large enough for interesting things to happen in the wake of
 the droplet, such as vortex formation and shedding.
-For a droplet of radius $r$, the drag force takes the form
-
-$$
-F \approx \rho v^2 r^2
-$$
+For a droplet of radius $r$, the drag force takes the form -->
 
 <!-- https://www.grc.nasa.gov/www/k-12/airplane/dragsphere.html -->
-As a simple approximation, suppose it still takes $t = \sqrt{2h/g}$
-for the droplet to hit the ground.
-We will focus on how far it travels when subject only to resistance in
-the horizontal direction of motion.
-
-#### References
+<!-- As a simple approximation, suppose it still takes $t = -->
+<!-- \sqrt{2h/g}$ for the droplet to hit the ground. We will focus on how far it travels -->
+<!-- when subject only to resistance in the horizontal direction of motion. -->
