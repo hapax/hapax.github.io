@@ -55,7 +55,10 @@ $$
 R = \frac{v^2\sin\theta}{g} + v\sqrt{\frac{2h}{g}}.
 $$
 
-(b) How far does a real droplet go when "fired" at $\theta = 45^\circ$?
+(b) Using the parameter above, how far does a ballistic droplet travel
+when "fired" at $\theta = 45^\circ$?
+
+<!-- 140 m! -->
 
 ---
 
