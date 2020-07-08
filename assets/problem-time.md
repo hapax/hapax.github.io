@@ -25,7 +25,7 @@ An obvious but nevertheless deep fact is that *we can remember the
 past but not the future.*
 Put differently, our current brain state seems to be influenced by
 past events, but not future ones.
-At the level of folk epistemology, being "lodged" in the present
+At the level of folk epistemology, being lodged in the present
 moment gives rise to presentism, and being "uninfluenced" by future
 events gives rise to the doctrine of free will, and the appeal of
 "growing block" ontologies for spacetime, where the future does not
@@ -89,3 +89,21 @@ But from "thisness", they leap remarkably to the inference that
 A growing blocker or free willer is, I think, fundamentally making the
 same inference, but they are prepared to treat the chains of causation
 binding the past to the present as a certificate of existence.
+To me, these conclusions make no sense, and almost deliberately
+non-explanatory.
+
+But the fact there is a "thisness" at all does seem to be a
+metaphysical fact.
+I think the quiddity of having a mind is mental sensation, or
+*qualia*.
+These qualia to me seem undeniable, though efforts to deny them are
+heroic and often amusing.
+I do not know what these qualia really are, or how to fit them into a
+physicalist framework, though some people claim they can.
+Good luck to them.
+
+In the temporal case, the quiddity of being lodged in the present
+seems to me to be trivially explicable. (See the
+[prequel](https://hapax.github.io/philosophy/physics/psychology-time/)
+for my "trivial" explanation.)
+
