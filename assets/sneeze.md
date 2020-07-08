@@ -2,15 +2,16 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The physics of sneezes"
+title:  "The physics of sneezes (Part I)"
 categories: Physics
 date:  2020-07-07
 ---
 
 **July 7, 2020.** *The physics of sneezing and aeorosols is
-  fascinating and particularly timely given concerns around physical
-  distancing guidelines for COVID. Here, we explore a few simple (and
-  medically unsound) models to get a feel for the problem.*
+  fascinating and important given concerns around physical
+  distancing guidelines for COVID. Here, we explore a few very simple
+  one-dimensional models for the ballistic spray of larger
+  droplets, taking drag into account.*
 
 #### Ballistic droplets
 
@@ -292,8 +293,30 @@ m}.
 $$
 
 This is looking very good!
+To see how much further the droplet travels, we do the same trick for
+the results we derived earlier for linear drag.
+In fact, we can be lazy, and use the maximum distance:
 
-#### References
+$$
+x_\text{max} = \frac{mv_\text{L}}{\gamma} \approx 4.5 \text{ cm}.
+$$
+
+In total, the droplet travels $75 \text{ cm}$ or so, which is pretty
+close to the WHO guidelines!
+So,
+
+---
+
+**Exercise 3.** Redo this simple analysis to see how the range depends
+on droplet size $r$.
+
+**Exercise 4.** (*For the author.*) Redo the analysis in two dimensions.
+
+---
+
+#### Next time
+
+That brings us to the end of Part I.
 
 <!-- https://en.wikipedia.org/wiki/Aerosol#Solution_to_the_general_dynamic_equation -->
 <!-- https://en.wikipedia.org/wiki/Cunningham_correction_factor -->
