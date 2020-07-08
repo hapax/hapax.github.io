@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "The problem of time"
-categories: [Physics, Philosophy[
+categories: [Physics, Philosophy]
 date:  2020-07-07
 ---
 
