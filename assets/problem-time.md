@@ -68,6 +68,10 @@ We live in a spacetime continuum where different temporal slices obey
 the same laws of physics, namely the laws of general relativity (at
 large scales).
 Like humans, they *look the same from the outside*.
+A paranoid Cartesian might say: things look different from in here, so
+they are different.
+The scientist says: they look the same from the outside, and the best
+explanation is that they look the same from the inside too.
 
 #### The pith
 
