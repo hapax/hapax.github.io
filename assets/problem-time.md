@@ -129,6 +129,11 @@ effect*?
 Put differently, why can we remember the past but not the future?
 
 At this point, physicists will give a range of answers.
-The relativist says: because spacetime is a Lorentzian manifold.
-This is evidently so, but it explains nothing.
-The statistical mechanic will say: because entropy dictates 
+The relativist says: because spacetime signature.
+This is evidently so, but it does not explain the asymmetry between
+time and space, but simply bakes it into the geometry.
+The statistical mechanic says: because entropy.
+But even this makes no sense unless you have some way for a system to
+change so as to explore phase space.
+In other words, you still need a *microscopic* arrow of time.
+So the question becomes: what is the bow that launches this arrow?
