@@ -76,7 +76,8 @@ that it survives the scorched-earth epistemic program of
 Cartesian doubt.
 
 Temporally speaking, we do not live in a universe of amoebae.
-We live in a spacetime continuum where different temporal slices obey
+We live in a spacetime continuum where different temporal slices
+richly obey
 the same laws of physics, namely the laws of general relativity (at
 large scales).
 As with human behaviour, these slices *look the same from the
