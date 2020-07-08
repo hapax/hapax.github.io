@@ -181,9 +181,11 @@ Their boundary condition was that there was no boundary!
 They wanted to describe the quantum-mechanical wavefunction $\Psi$ of
 the *whole universe*, using something called the Wheeler-de Witt
 equation, which makes no reference to time.
-I'm not sure their proposal satisfies my wishlist, but I might write
-about the paper in more detail some time, partly to motivate myself to
-understand it better.
+I'm not sure their proposal satisfies all the points on my wishlist,
+but I wil set myself the homework of writing about the paper in more
+detail some time to understand it better and see how well it does.
+In fairness, Hawking was motivated by a different temporal problem,
+namely the awkwardness of the big bang.
 
 #### Conclusion
 
