@@ -139,7 +139,7 @@ four-dimensionalist ontology, the question becomes: *why cause and
 effect*?
 Put differently, why can we remember the past but not the future?
 
-At this point, physicists will give a range of answers.
+At this point, physicists step in and claim to offer a solution.
 The relativist says: because spacetime signature.
 This is evidently so, but it does not explain the asymmetry between
 time and space, but simply bakes it into the geometry.
