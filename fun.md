@@ -28,7 +28,7 @@ on holiday from time to time. Some rambling discursions:
 
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). What is different about time, and how could
-  physicists satisfying explain it?
+  physics satisfyingly explain it?
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
   of time, concluding with a radical version of eternal recurrence.
