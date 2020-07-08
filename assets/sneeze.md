@@ -268,9 +268,9 @@ We can find the time $t_\text{L}$ at which this happens using our equation for
 velocity in the quadratic drag regime:
 
 $$
-v(t_\text{L}) = \frac{m}{\alpha t_\text{L} + mv_0^{-1}} = v_\text{L} \quad
-\Longrightarrow \quad t_\text{L} =
-\frac{m}{\alpha}\left(v_\text{L}^{-1}  - v_0^{-1}\right).
+v(t_{\text{L}}) = \frac{m}{\alpha t_{\text{L}} + mv_0^{-1}} = v_{\text{L}} \quad
+\Longrightarrow \quad t_{\text{L}} =
+\frac{m}{\alpha}\left(v_{\text{L}}^{-1}  - v_0^{-1}\right).
 $$
 
 Plugging this into our formula for distance, along with the recipe
