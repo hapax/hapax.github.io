@@ -78,7 +78,7 @@ explanation is that they look the same from the inside too.
 But like a context-dependent joke, to see the inside, I guess you need
 to be there.
 
-#### Outside in
+#### Thisness and thatness
 
 Let's return to our original question, namely, to what extent brain
 states license metaphysical conclusions.
@@ -96,14 +96,21 @@ But the fact there is a "thisness" at all does seem to be a
 metaphysical fact.
 I think the quiddity of having a mind is mental sensation, or
 *qualia*.
-These qualia to me seem undeniable, though efforts to deny them are
-heroic and often amusing.
-I do not know what these qualia really are, or how to fit them into a
-physicalist framework, though some people claim they can.
-Good luck to them.
+These qualia seem undeniable, though efforts to explain them away, or
+comfortably ensconce them in a physicalist framework, are heroic and
+often amusing.
 
 In the temporal case, the quiddity of being lodged in the present
-seems to me to be trivially explicable. (See the
+moment is trivially explicable: the "thisness" of the present and
+"thatness" of the future and past are indexicals in the same spirit as
+"hereness" and "thereness".
+(See the
 [prequel](https://hapax.github.io/philosophy/physics/psychology-time/)
-for my "trivial" explanation.)
+for more details.) 
+But while the spirit is similar, there is an asymmetry between future
+and past which the growing blocker and free willer are tracking in
+their own misguided way.
+And that is really the point I want to make.
+The folk Cartesian may draw the wrong conclusions, but the *premises are sound*.
 
+#### The problem of time
