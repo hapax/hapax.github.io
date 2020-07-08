@@ -81,4 +81,10 @@ to be there.
 
 Let's return to our original question, namely, to what extent brain
 states license metaphysical conclusions.
-Solipsists, presentists, free willers and growing blockers take 
+Solipsists and presentists notice that there is a quiddity, a
+*thisness*, to being in a mind and being in a moment.
+But from "thisness", they leap remarkably to the inference that
+"thatness" is the same as non-existence!
+A growing blocker or free willer is, I think, fundamentally making the
+same inference, but they are prepared to treat the chains of causation
+binding the past to the present as a certificate of existence.
