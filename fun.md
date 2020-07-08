@@ -25,7 +25,7 @@ zombies, science gone mad, and the psychology of time. Winner of the
 
 In a prior life I earned a philosophy degree, and maintain an
 interest in the field, particularly metaphysics and logic. Various
-thoughts:
+recent-ish thoughts:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A radical version of eternal recurrence.
