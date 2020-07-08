@@ -270,7 +270,7 @@ velocity in the quadratic drag regime:
 $$
 v(t_\text{L}) = \frac{m}{\alpha t_\text{L} + mv_0^{-1}} = v_\text{L} \quad
 \Longrightarrow \quad t_\text{L} =
-\frac{m}{\alpha}\left(v_\text{L}^{-1}  - v_0^{-1}).
+\frac{m}{\alpha}\left(v_\text{L}^{-1}  - v_0^{-1}\right).
 $$
 
 In 
