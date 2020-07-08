@@ -146,7 +146,8 @@ time and space, but simply bakes it into the geometry.
 The statistical mechanic says: because entropy.
 But even this makes no sense unless you have some way for a system to
 change so as to explore phase space.
-In other words, you still need a *microscopic* arrow of time.
+In other words, you still need a *microscopic* arrow of time to
+explain the macroscopic arrow.
 So the question becomes: what is the bow that launches this
 microscopic arrow?
 
