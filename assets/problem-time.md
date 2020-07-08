@@ -49,11 +49,13 @@ they believe in the past, but this is like a "friendly" solipsist who
 believe only in the existence of people they have met.
 
 Solipsism would not be crazy if you were the only sentient being in a
-world of bugs.
-In that case, you would have no reason to believe that the bugs had
-anything like your inner experience.
-But in a world of beings whose complexity of behaviour resembles
-yours, an inability to directly access their mental states does not
-make the existence of these mental states suspect.
-In fact, mental states remain the best explanation for that behaviour.
-Solipsists may be good Cartesians, 
+world of amoebae or dust.
+You would not need a theory of mind to explain their behaviour.
+But in a world of beings whose behavioural complexity matches our own,
+mental states we cannot access remain the best explanation for their
+behaviour.
+Solipsists may be good Cartesians, retaining only those ontological
+commitments that might not be spoofed by a malicious Cartesian demon,
+but they are terrible scientists.
+Solipsism does not appeal because it is explanatory, but because it is
+all that survives the scorched-earth epistemic program of Cartesian doubt.
