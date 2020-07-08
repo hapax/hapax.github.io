@@ -45,14 +45,14 @@ minds as conclusive evidence that other minds do not exist.
 A presentist treats the fact that they only experience the
 present as evidence only the present exists.
 Similarly, an enthusiast of growing blocks or free will imagines the
-future (or particularly their future decisions) do not exist since
-they have yet to encounter them.
+future (or their future decisions) do not exist since they have yet to
+encounter (or make) them.
 To be sure, a growing blocker is more liberal than a presentist, since
 they believe in the past, but this is like a "friendly" solipsist who
-believe only in the existence of people they have met.
+believe only in the existence of the people they have met.
 
 Solipsism would not be crazy if you were the only sentient being in a
-world of amoebae or dust.
+world of amoebae.
 You would not need a theory of mind to explain their behaviour.
 But in a world of beings whose behavioural complexity matches our own,
 mental states we cannot access remain the best explanation for their
