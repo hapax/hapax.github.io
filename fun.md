@@ -9,7 +9,7 @@ do when I'm not sciencing or encouraging other people to science.
 
 #### Writing
 
-I like writing science fiction and other stuff. Some recent sci-fi flash fiction:
+I like writing science fiction. Some recent sci-fi flash fiction:
 
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
 zombies, science gone mad, and the psychology of time. Winner of the
