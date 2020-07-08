@@ -54,8 +54,8 @@ A solipsist proper treats the fact that they cannot experience other
 minds as conclusive evidence that other minds do not exist.
 A presentist treats the fact that they only experience the
 present as evidence only the present exists.
-Similarly, an enthusiast of growing blocks or free will imagines the
-future (or their future decisions) do not exist since they have yet to
+Similarly, an enthusiast of growing blocks or free will imagines that
+future events (or future decisions) do not exist since they have yet to
 encounter (or make) them.
 To be sure, a growing blocker is more liberal than a presentist, since
 they believe in the past, but this is like a "friendly" solipsist who
