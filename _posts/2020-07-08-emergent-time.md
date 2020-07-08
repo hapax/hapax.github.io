@@ -64,7 +64,7 @@ believe only in the existence of the people they have met.
 Solipsism would not be crazy if you were the only sentient being in a
 world of amoebae.
 You would not need a theory of mind to explain their behaviour.
-But in a world of beings whose behavioural complexity matches our own,
+But in a world of beings whose behavioural complexity matches your own,
 mental states we cannot access remain the best explanation for their
 behaviour.
 Solipsists may be good Cartesians, retaining only those ontological
