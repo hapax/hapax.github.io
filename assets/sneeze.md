@@ -19,18 +19,18 @@ speeds.
 To start with, we will consider the simple case of *ballistic
 droplets*, where droplets are subject only to gravity.
 Suppose your mouth is at height $h$ above the ground.
-The time it takes for a droplet to fall to the ground $t_\text{gnd}$ under the
+The time it takes for a droplet to fall to the ground $t_\text{G}$ under the
 influence of gravity is given by
 
 $$
-h = \frac{1}{2}gt_\text{gnd}^2 \quad \Longrightarrow \quad t_\text{gnd} = \sqrt{\frac{2h}{g}}.
+h = \frac{1}{2}gt_\text{G}^2 \quad \Longrightarrow \quad t_\text{G} = \sqrt{\frac{2h}{g}}.
 $$
 
 The *range* is the horizontal distance covered in this time.
 If you impart speed $v_0$ to the droplet, then the range $R$ is
 
 $$
-R = v_0t_\text{gnd} = v_0 \sqrt{\frac{2h}{g}}.
+R = v_0t_\text{G} = v_0 \sqrt{\frac{2h}{g}}.
 $$
 
 Let's plug in some numbers and see if the range is reasonable.
@@ -60,7 +60,7 @@ $$
 to fall is
 
 $$
-t_\text{gnd} = t_\text{top} + \sqrt{\frac{2h}{g} + t_\text{top}^2}.
+t_\text{G} = t_\text{top} + \sqrt{\frac{2h}{g} + t_\text{top}^2}.
 $$
 
 (c) Finally, give an expression for the range $R$.
@@ -72,7 +72,7 @@ Use $v = 100 \text{ m/s}$ and $h = 2\text{ m}$.
 
 ---
 
-#### Resistance is futile
+#### Stokes' law
 
 Obviously, we've missed something big. The WHO is not instructing us
 to stay $50$ m away from one another!
@@ -88,7 +88,7 @@ $$
 
 Solving the problem in two dimensions is a little tricky, so I will
 use a very rough approximation, and see how far it moves in one
-dimension, but in the time $t_\text{gnd}$ we discussed in the last
+dimension, but in the time $t_\text{G}$ we discussed in the last
 section.
 Newton's second law is
 
@@ -102,12 +102,136 @@ $$
 v(t) = v_0 e^{-\gamma t/ m}.
 $$
 
-To find the position at time $t = t_\text{gnd}$, we have to
+To find the position at time $t = t_\text{G}$, we have to
 integrate once:
 
 $$
-\int_0^{t_\text{gnd}} dt \, v(t) = v_0 \int_0^{t_\text{gnd}} dt
-\, e^{-\gamma t/ m} = \frac{mv_0}{\gamma} \left(1 - e^{-\gamma t_\text{gnd}/m}\right).
+x(t_\text{G}) = \int_0^{t_\text{G}} dt \, v(t) = v_0 \int_0^{t_\text{G}} dt
+\, e^{-\gamma t/ m} = \frac{mv_0}{\gamma} \left(1 - e^{-\gamma t_\text{G}/m}\right).
+$$
+
+The particle slows down exponentially and gradually approaches the
+maximum distance of $mv_0/\gamma$.
+Let's plug in some numbers and see what this maximum distance is.
+To find $m$, we need to know that droplets are mostly water, with
+density $ \rho_\text{water} \approx 10^3 \text{ kg/m}^3$ and have
+typical size $r \sim 100 \,\mu\text{m}$, with mass
+
+$$
+m = \rho_\text{water} \cdot \frac{4\pi}{3}r^3 \approx 5.2 \times 10^{-10} \text{ kg}.
+$$
+
+Finally, we need to find $\gamma$.
+This is the trickiest part.
+For a slowly moving droplet, the drag is given by *Stokes' law*:
+
+$$
+\gamma = 6\pi \eta r \approx 1.7 \times 10^{-8} \text{ kg/s},
+$$
+
+where $\eta = 1.8\times 10^{-5} \text{ kg/m s}$ is the viscosity of
+air and $r$ the droplet radius.
+This gives a maximum distance of
+
+$$
+x_\text{max} = \frac{m v_0}{\gamma} \approx \frac{(5.2 \times 10^{-10})
+100}{(1.7 \times 10^{-8}) } \text{ m} \approx 3 \text{ m}.
+$$
+
+This looks much better!
+If we plug in the time to ground from the previous section,
+$t_\text{G} = \sqrt{2h/g} \approx 0.6 \text{ s}$, we almost the same answer.
+This is still a bit larger than the WHO recommendations.
+You can see in the next problem that solving in two dimensions gives
+the same maximum distance.
+
+---
+
+**Exercise 2.** Let's solve the problem in two dimensions, and include a
+nonzero firing angle for the heck of it.
+The velocity is denoted $\mathbf{v} = (v_x, v_y)$, with $\mathbf{v}_0
+= v_0 (\cos\theta, \sin\theta)$.
+The equation of motion is
+
+$$
+m \dot{\mathbf{v}} = -mh \hat{\mathbf{y}} - \gamma \mathbf{v}.
+$$
+
+(a) Separate into $x$ and $y$ components. Solve for $v_x$, and show
+that
+
+$$
+v_x(t) = v_0 \cos\theta e^{-\gamma t/mg}.
+$$
+
+(b) Similarly, show that
+
+$$
+v_y(t) = v_0\sin\theta e^{-\gamma t/mg} - \frac{mg}{\gamma}\left(1 - e^{-\gamma t/mg}\right).
+$$
+
+(c) Integrate your result from part (a) to find
+
+$$
+x(t) = \frac{m v_0 \cos\theta}{\gamma} (1 - e^{-\gamma t/mg}).
+$$
+
+Thus, although the time dependence is different, the maximum distance
+is the same as the one-dimensional case.
+
+---
+
+#### Reynolds number and quadratic drag
+
+Our answer is still too large, so perhaps we calculated the drag
+incorrectly.
+And indeed, we did.
+When something moves slowly enough, drag is proportional to $v$.
+When it moves fast, however, there is a different physics at play, and
+the drag is *quadratic* in $v$.
+To tell the difference, we have to quantify whether the fluid feels
+*sticky* (linear drag) or *bumpy* (quadratic drag) to the droplet.
+The *Reynolds number* tells the stickiness vs the bumpiness.
+It is defined as the ratio
+
+$$
+\text{Re} = \frac{2\rho v r}{\mu}.
+$$
+
+When $\text{Re}  < 1$, Stokes' law applies, but otherwise we should
+use quadratic drag.
+Air has density around $1.2 \text{ kg/m}^3$, and we introduced the
+numbers in the preceding section.
+Plugging them in gives
+
+$$
+\text{Re} = \frac{\rho v D}{\mu} = \frac{1.2 \cdot 100 \cdot
+10^{-4}}{1.8 \times 10^{-5}} \approx 700.
+$$
+
+This is much bigger than $1$!
+So we should be using a form
+
+$$
+\mathbf{F}_\text{drag} = - \alpha v^2 \hat{\mathbf{v}},
+$$
+
+which as before, points in the opposite direction from motion, but is
+now proportional to the magnitude of the velocity squared.
+
+Once more, we are going to solve the toy one-dimensional version of
+the problem.
+The equation of motion is
+
+$$
+F_\text{drag} = m\dot{v} = - \alpha v^2.
+$$
+
+This is easily solved by separation of variables:
+
+$$
+-\frac{dv}{v^2 } = \frac{\alpha}{m} dt \quad \Longrightarrow \quad
+v(t) = \frac{1}{\frac{\alpha t}{m} + v_0^{-1}}.
 $$
 
 #### References
