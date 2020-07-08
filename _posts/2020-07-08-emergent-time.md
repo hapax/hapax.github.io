@@ -203,4 +203,4 @@ correlations --- emerge via spontaneously broken symmetry.
 Maybe Hawking and Hartle have the right idea.
 But it's amusing to note that dubious, folk Cartesian metaphysical
 claims, might, if suitably interpreted, give us clues about
-fundamental theories of emergent time.
+fundamental theories of physics.
