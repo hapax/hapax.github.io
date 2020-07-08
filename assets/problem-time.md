@@ -99,6 +99,7 @@ also called *qualia*.
 These qualia seem undeniable, though efforts to explain them away, or
 comfortably ensconce them in a physicalist framework, are heroic and
 often amusing.
+Good luck to them.
 
 In the temporal case, the quiddity of being lodged in the present
 moment is trivially explicable: the "thisness" of the present and
