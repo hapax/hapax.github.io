@@ -73,6 +73,8 @@ they are different.
 The scientist says: they look the same from the outside, and the best
 explanation is that they look the same from the inside too.
 
-#### The pith
+#### Outside in
 
-Although 
+Let's return to our original question, namely, to what extent brain
+states license metaphysical conclusions.
+Solipsists, presentists, free willers and growing blockers take 
