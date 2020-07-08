@@ -172,7 +172,7 @@ the solutions $L(\Psi) = 0$ spontaneously break some symmetry of both
 $L$ and $\mathcal{M}$, and develop "timelike defects" along which
 correlations are organized asymmetrically.
 These could perhaps be described an emergent Lorentzian metric $g$,
-perhaps included in, or built from, the fields $\Phi$ on $\mathcal{M}$.
+included in, or built from, the fields $\Phi$ on $\mathcal{M}$.
 
 Now, all this sounds very vague, but is similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
