@@ -92,7 +92,7 @@ binding the past to the present as a certificate of existence.
 To me, these conclusions make no sense, and almost deliberately
 non-explanatory.
 
-But the fact there is a "thisness" at all does is a
+But the fact there is a "thisness" at all is apparently a
 metaphysical fact.
 The quiddity of having a mind is the experience of mental sensations,
 also called *qualia*. 
