@@ -24,16 +24,19 @@ zombies, science gone mad, and the psychology of time. Winner of the
 (2020). A farcical "what if" about quantum computers.
 
 In a prior life I earned a philosophy degree, and maintain an
-interest in the field, particularly metaphysics and logic. Various
-recent-ish thoughts:
+interest in the field. Some rambling discursions:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
-  (2019, blog post). A radical version of eternal recurrence.
-- [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/) (2017, blog post).
+  (2019, blog post). A four-dimensionalist account of the psychology of time.
+- [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
+(2017, blog post). How decision problems, from the Prisoner's Dilemma
+to smoking to betting against the Oracle of Delphi, are secretly related.
+<!-- What nuclear war, smoking, and the Oracle of Delphi have in -->
+<!-- common. -->
 
 #### Art
 
-I put my recent digital art on [tumblr](https://caedrix.tumblr.com/)
+I put my digital art on [tumblr](https://caedrix.tumblr.com/)
 (yes, it still exists) and photos of urban decay, chance Cornellian
 arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/).
