@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Free will, solipsism and emergent time"
+title:  "From solipsism to emergent time"
 categories: [Physics, Philosophy]
 date:  2020-07-08
 ---
