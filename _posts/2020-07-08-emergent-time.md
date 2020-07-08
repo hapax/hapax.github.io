@@ -103,13 +103,12 @@ contaminant from present effects to their causes.
 
 To me, these conclusions make no sense, and are almost deliberately
 non-explanatory.
-But the fact there is a "thisness" at all is apparently a
-metaphysical fact.
-The quiddity of having a mind is the experience of mental sensations,
+But the fact there is a "thisness" at all is unavoidable.
+For instance, the quiddity of having a mind is the experience of mental sensations,
 also called *qualia*. 
-These qualia seem undeniable, though efforts to explain them away, or
-comfortably ensconce them in a physicalist framework, are heroic and
-often amusing.
+I don't think it's plausible to deny qualia, though efforts to explain
+them away, or comfortably ensconce them in a physicalist framework,
+are heroic and often amusing.
 I would be very surprised if someone could one day extract my
 subjective experience of the colour red from the standard model
 Lagrangian, but good luck to them.
