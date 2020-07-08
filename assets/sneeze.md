@@ -273,7 +273,25 @@ v(t_\text{L}) = \frac{m}{\alpha t_\text{L} + mv_0^{-1}} = v_\text{L} \quad
 \frac{m}{\alpha}\left(v_\text{L}^{-1}  - v_0^{-1}\right).
 $$
 
-In 
+Plugging this into our formula for distance, along with the recipe
+for$\alpha$, gives
+
+$$
+x(t_\text{L}) = \frac{2m}{\pi \rho r^2}\log\left(\frac{v_0}{v_\text{L}}\right).
+$$
+
+We can plug all our numbers in and see if we get a more sensible
+result.
+Note that this won't be the full answer, just how far the droplet
+moves before Stokes' drag kicks in:
+
+$$
+x(t_\text{L}) \approx \frac{2(5.2 \times 10^{-10})\text{m}}{1.2 \pi(5
+\times 10^{-5})^2}\log\left(\frac{100}{0.15}\right) \approx 0.7 \text{
+m}.
+$$
+
+This is looking very good!
 
 #### References
 
