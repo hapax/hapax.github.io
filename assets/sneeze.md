@@ -208,18 +208,14 @@ $$
 10^{-4}}{1.8 \times 10^{-5}} \approx 700.
 $$
 
-This is much bigger than $1$!
-So we should be using a form
+Stokes' law is definitely not valid!
+We should be using the quadratic form for the drag force,
 
 $$
 \mathbf{F}_\text{drag} = - \alpha v^2 \hat{\mathbf{v}},
 $$
 
-which as before, points in the opposite direction from motion, but is
-now proportional to the magnitude of the velocity squared.
-
-Once more, we are going to solve the toy one-dimensional version of
-the problem.
+To simplify, let's solve the toy one-dimensional version of the problem.
 The equation of motion is
 
 $$
@@ -230,7 +226,7 @@ This is easily solved by separation of variables:
 
 $$
 -\frac{dv}{v^2 } = \frac{\alpha}{m} dt \quad \Longrightarrow \quad
-v(t) = \frac{1}{\frac{\alpha t}{m} + v_0^{-1}}.
+v(t) = \frac{m}{\alpha t + mv_0^{-1}}.
 $$
 
 #### References
