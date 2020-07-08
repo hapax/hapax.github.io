@@ -115,7 +115,7 @@ maximum distance of $mv_0/\gamma$.
 Let's plug in some numbers and see what this maximum distance is.
 To find $m$, we need to know that droplets are mostly water, with
 density $ \rho_\text{water} \approx 10^3 \text{ kg/m}^3$ and have
-typical size $r \sim 100 \,\mu\text{m}$, with mass
+typical size $2r \sim 100 \,\mu\text{m}$, with mass
 
 $$
 m = \rho_\text{water} \cdot \frac{4\pi}{3}r^3 \approx 5.2 \times 10^{-10} \text{ kg}.
@@ -197,9 +197,10 @@ The *Reynolds number* tells the stickiness vs the bumpiness.
 It is defined as the ratio
 
 $$
-\text{Re} = \frac{2\rho v r}{\mu}.
+\text{Re} = \frac{\rho v D}{\mu}.
 $$
 
+where $D = 2r$ is the diameter of the droplet.
 When $\text{Re}  < 1$, Stokes' law applies, but otherwise we should
 use quadratic drag.
 Air has density around $1.2 \text{ kg/m}^3$, and we introduced the
@@ -235,9 +236,44 @@ $$
 Integrating gives a log:
 
 $$
-x(t_\text{G}) = \int_0^{t_\text{G}} dt \, v(t) =
-\frac{m}{\alpha}\log\left[1 + \frac{\alpha v_0 t_\text{G}}{m}\right].
+x(t) = \int_0^{t} dt' \, v(t') =
+\frac{m}{\alpha}\log\left[1 + \frac{\alpha v_0 t}{m}\right].
 $$
+
+It seems there is no longer any maximum distance!
+This is because $v^2$ shrinks *faster* than $v$ at small $v$, so that
+at slow speeds the droplet experiences much less drag.
+Finally, $\alpha$ is to a good approximation given by
+
+$$
+\alpha \approx \frac{1}{2}\rho A = \frac{1}{2}\pi \rho r^2,
+$$
+
+where $\rho$ is the density of air.
+(In fact, there is dimensionless *drag coefficient* sitting out front
+of this which depends on the Reynolds number, but we'll ignore it.)
+
+#### Linear and quadratic drag
+
+Of course, there *is* a maximum distance --- once the particle slows
+down enough, the linear drag begins to dominate!
+This will happen around $\text{Re} = 1$, or
+
+$$
+\text{Re} = \frac{2\rho v_\text{L} r}{\mu} = 1 \quad \Longrightarrow \quad v_\text{L} =
+\frac{\mu}{2\rho r} \approx 0.15 \text{ m/s}.
+$$
+
+We can find the time $t_\text{L}$ at which this happens using our equation for
+velocity in the quadratic drag regime:
+
+$$
+v(t_\text{L}) = \frac{m}{\alpha t_\text{L} + mv_0^{-1}} = v_\text{L} \quad
+\Longrightarrow \quad t_\text{L} =
+\frac{m}{\alpha}\left(v_\text{L}^{-1}  - v_0^{-1}).
+$$
+
+In 
 
 #### References
 
