@@ -21,13 +21,20 @@ I argued that, though compelling at the level of folk psychology,
 presentism is ultimately unable to explain change, and our sense data
 are telling us about brain states rather than metaphysics.
 But perhaps this is a bit too quick.
-I think our brain states *do* tell us something deep about the
-universe, by virtue of the properties they have.
+Our brain states might tell us something deep about the
+universe after all.
+In particular, it seems odd that we can remember the past but not the future.
+As Terry Pratchett puts it in *Reaper Man*:
 
-An obvious but nevertheless deep fact is that *we can remember the
-past but not the future.*
-Put differently, our current brain state seems to be influenced by
-past events, but not future ones.
+<span style="padding-left: 20px; display:block">
+Alone of all the creatures in the world, trolls believe that all
+living things go through Time backwards. 'If the past is visible and
+the future is hidden,' they say, 'then it means you must be facing the
+wrong way.'
+</span>
+
+Why do we face one way and not the other?
+
 At the level of folk epistemology, being lodged in the present
 moment gives rise to presentism, and being "uninfluenced" by future
 events gives rise to the doctrine of free will, and the appeal of
