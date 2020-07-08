@@ -34,7 +34,7 @@ R = vt = v \sqrt{\frac{2h}{g}}.
 $$
 
 Let's plug in some numbers and see if the range is reasonable.
-Droplets can be emitted at speeds of up to $v = 40 \text{m/s}$.
+Droplets can be emitted at speeds of up to $v = 40 \text{ m/s}$.
 A reasonable height is $h \approx 2 \text{m}$, and $g = 9.8 \text{
 m/s}^2$.
 So we get a range of
@@ -55,11 +55,19 @@ $$
 R = \frac{v^2\sin\theta}{g} + v\sqrt{\frac{2h}{g}}.
 $$
 
-(b) Using the parameter above, how far does a ballistic droplet travel
+(b) Using the parameters above, how far does a ballistic droplet travel
 when "fired" at $\theta = 45^\circ$?
 
 <!-- 140 m! -->
 
 ---
+
+#### Resistance is futile
+
+Obviously, we've missed something big. The WHO is not instructing to
+stay $40$ m away from each other!
+In reality, droplets are subject to *air resistance*.
+This is a force directed against the direction of motion, but as a
+simple 
 
 #### References
