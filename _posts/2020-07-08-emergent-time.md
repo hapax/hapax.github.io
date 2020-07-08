@@ -72,7 +72,7 @@ commitments that might not be spoofed by a malicious Cartesian demon,
 but they are terrible scientists.
 They can explain nothing!
 I think the appeal of solipsism is not that it is explanatory, but
-that it is all that survives the scorched-earth epistemic program of
+that it survives the scorched-earth epistemic program of
 Cartesian doubt.
 
 Temporally speaking, we do not live in a universe of amoebae.
