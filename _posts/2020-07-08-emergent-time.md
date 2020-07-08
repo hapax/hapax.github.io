@@ -157,22 +157,21 @@ A satisfying answer, to my mind, would be along the
 following lines.
 Start off with some highly symmetric mathematical object $\mathcal{M}$
 which does not possess any notion of time.
-Introduce some laws $L$ governing patterns or structures or fields, let's
-collectively call them $\Psi$, perhaps written $L(\Psi) = 0$, along
-with some natural boundary conditions for $\Psi$ on
-$\partial\mathcal{M}$.
+Introduce patterns or structures or fields, collectively labelled
+$\Psi$, and some laws $L$ governing, perhaps written as $L(\Psi) = 0$.
 These laws $L$ should not make any reference to time.
+Finally, there might be boundary conditions for $\Psi$ on
+$\partial\mathcal{M}$, which once again should know nothing about time.
 Here, $\mathcal{M}$ might be something rather
 different from a manifold, and $\partial$ something rather different
 from a boundary operator. I am being schematic.
 
-I would say this theory gives rise to an *emergent theory of time* if
-the solutions $L(\Psi) = 0$ spontaneously break the symmetry, both of
+I would say this theory provides an *emergent theory of time* if
+the solutions $L(\Psi) = 0$ spontaneously break some symmetry of both
 $L$ and $\mathcal{M}$, and develop "timelike defects" along which
 correlations are organized asymmetrically.
 These could perhaps be described an emergent Lorentzian metric $g$,
-presumably some effective field built using a coarse-graining
-prescription from the fields $\Phi$ on $\mathcal{M}$.
+perhaps included in, or built from, the fields $\Phi$ on $\mathcal{M}$.
 
 Now, all this sounds very vague, but is similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
