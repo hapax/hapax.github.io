@@ -2,12 +2,15 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The problem of time"
+title:  "Free will, solipsism and emergent time"
 categories: [Physics, Philosophy]
 date:  2020-07-08
 ---
 
-**July 8, 2020.** *TBA*
+**July 8, 2020.** *Why can we remember the past but not the future? I
+  discuss how folk metaphysics draws attention to genuine puzzles
+  about the nature of time, and describe what a satisfying physical
+  explanation might look like.*
 
 #### Brain states and metaphysics
 
@@ -164,9 +167,14 @@ These could perhaps be described an emergent Lorentzian metric $g$,
 presumably some effective field built using a coarse-graining
 prescription from the fields $\Phi$ on $\mathcal{M}$.
 
-Now, all this sounds very vague, but it is precisely what
+Now, all this sounds very vague, but is similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
-were attempting to do with their no-boundary proposal.
+attempted with their "no-boundary" proposal.
 They had various fundamental fields $\Phi$ on a Euclidean manifold
 $\mathcal{M}$, and their boundary condition was that there was no
 boundary!
+But I'm not sure that timelike defects emerge in the way I want.
+I might write about this in more detail some time, partly to motivate
+myself to understand the paper better.
+
+#### Conclusion
