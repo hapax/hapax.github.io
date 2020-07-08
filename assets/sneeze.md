@@ -140,7 +140,8 @@ $$
 
 This looks much better!
 If we plug in the time to ground from the previous section,
-$t_\text{G} = \sqrt{2h/g} \approx 0.6 \text{ s}$, we almost the same answer.
+$t_\text{G} = \sqrt{2h/g} \approx 0.6 \text{ s}$, we get more or less
+the same answer.
 This is still a bit larger than the WHO recommendations.
 You can see in the next problem that solving in two dimensions gives
 the same maximum distance.
