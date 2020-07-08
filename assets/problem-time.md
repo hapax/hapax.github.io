@@ -170,12 +170,13 @@ prescription from the fields $\Phi$ on $\mathcal{M}$.
 Now, all this sounds very vague, but is similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
 attempted with their "no-boundary" proposal.
-They had various fundamental fields $\Phi$ on a Euclidean manifold
-$\mathcal{M}$, and their boundary condition was that there was no
-boundary!
-But I'm not sure that timelike defects emerge in the way I want.
-I might write about this in more detail some time, partly to motivate
-myself to understand the paper better.
+They wanted to describe the quantum-mechanical wavefunction $\Psi$ of
+the *whole universe*, using something called the Wheeler-de Witt
+equation, which makes no reference to time.
+Their boundary condition was that there was no boundary!
+I'm not sure their proposal satisfies my wishlist, but I might write
+about the paper in more detail some time, partly to motivate myself to
+understand it better.
 
 #### Conclusion
 
