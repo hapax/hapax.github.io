@@ -193,7 +193,7 @@ When it moves fast, however, there is a different physics at play, and
 the drag is *quadratic* in $v$.
 To tell the difference, we have to quantify whether the fluid feels
 *sticky* (linear drag) or *bumpy* (quadratic drag) to the droplet.
-The *Reynolds number* tells the stickiness vs the bumpiness.
+The *Reynolds number* is the ratio of bumpiness to stickiness.
 It is defined as the ratio
 
 $$
