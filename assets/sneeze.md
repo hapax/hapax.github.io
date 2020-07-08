@@ -66,7 +66,7 @@ $$
 (c) Finally, give an expression for the range $R$.
 
 (d) How far does a ballistic droplet travel for $\theta = 45^\circ$?
-Use the parameters $v = 100 \text{ m/s}$ and $h = 2\text{ m}$.
+Use $v = 100 \text{ m/s}$ and $h = 2\text{ m}$.
 
 <!-- 140 m! -->
 
