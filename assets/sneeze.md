@@ -314,9 +314,12 @@ on droplet size $r$.
 
 ---
 
-#### Next time
+#### Next time!
 
 That brings us to the end of Part I.
+In Part II, we'll examine the turbulent cloud of smaller particles
+released in a sneeze, which is significantly more controversial than
+the larger droplets I've discussed here.
 
 <!-- https://en.wikipedia.org/wiki/Aerosol#Solution_to_the_general_dynamic_equation -->
 <!-- https://en.wikipedia.org/wiki/Cunningham_correction_factor -->
