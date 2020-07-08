@@ -70,7 +70,7 @@ behaviour of others.
 Solipsists may be good Cartesians, retaining only those ontological
 commitments that might not be spoofed by a malicious Cartesian demon,
 but they are terrible scientists.
-They can explain nothing.
+They can explain nothing!
 I think the appeal of solipsism is not that it is explanatory, but
 that it is all that survives the scorched-earth epistemic program of
 Cartesian doubt.
