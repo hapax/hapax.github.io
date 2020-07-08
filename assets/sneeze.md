@@ -19,18 +19,18 @@ speeds.
 To start with, we will consider the simple case of *ballistic
 droplets*, where droplets are subject only to gravity.
 Suppose your mouth is at height $h$ above the ground.
-The time it takes for a droplet to fall to the ground $t_\text{ground}$ under the
+The time it takes for a droplet to fall to the ground $t_\text{gnd}$ under the
 influence of gravity is given by
 
 $$
-h = \frac{1}{2}gt_\text{ground}^2 \quad \Longrightarrow \quad t_\text{ground} = \sqrt{\frac{2h}{g}}.
+h = \frac{1}{2}gt_\text{gnd}^2 \quad \Longrightarrow \quad t_\text{gnd} = \sqrt{\frac{2h}{g}}.
 $$
 
 The *range* is the horizontal distance covered in this time.
 If you impart speed $v_0$ to the droplet, then the range $R$ is
 
 $$
-R = v_0t_\text{ground} = v_0 \sqrt{\frac{2h}{g}}.
+R = v_0t_\text{gnd} = v_0 \sqrt{\frac{2h}{g}}.
 $$
 
 Let's plug in some numbers and see if the range is reasonable.
@@ -60,7 +60,7 @@ $$
 to fall is
 
 $$
-t_\text{ground} = t_\text{top} + \sqrt{\frac{2h}{g} + t_\text{top}^2}.
+t_\text{gnd} = t_\text{top} + \sqrt{\frac{2h}{g} + t_\text{top}^2}.
 $$
 
 (c) Finally, give an expression for the range $R$.
@@ -88,7 +88,7 @@ $$
 
 Solving the problem in two dimensions is a little tricky, so I will
 use a very rough approximation, and see how far it moves in one
-dimension, but in the time $t_\text{ground}$ we discussed in the last
+dimension, but in the time $t_\text{gnd}$ we discussed in the last
 section.
 Newton's second law is
 
@@ -102,12 +102,12 @@ $$
 v(t) = v_0 e^{-\gamma t/ m}.
 $$
 
-To find the position at time $t = t_\text{ground}$, we have to
+To find the position at time $t = t_\text{gnd}$, we have to
 integrate once:
 
 $$
-\int_0^{t_\text{ground}} dt \, v(t) = v_0 \int_0^{t_\text{ground}} dt
-\, e^{-\gamma t/ m} = \frac{mv_0}{\gamma} \left(1 - e^{-\gamma t_\text{ground}/m}\right).
+\int_0^{t_\text{gnd}} dt \, v(t) = v_0 \int_0^{t_\text{gnd}} dt
+\, e^{-\gamma t/ m} = \frac{mv_0}{\gamma} \left(1 - e^{-\gamma t_\text{gnd}/m}\right).
 $$
 
 #### References
