@@ -33,7 +33,7 @@ I think none of these conclusions is licensed by the properties of our brain sta
 But being lodged in the present seems like a trivially explicable
 thing, while only being able to remember the past does not.
 
-#### Temporal solipsism
+#### The appeal of solipsism
 
 Presentism, free will, and growing blocks all represent a
 type of *solipsism*.
@@ -49,5 +49,12 @@ and appears fixed.
 They are like "friendly" solipsists, who believe only in the existence
 of people they have met.
 
-Solipsism has its advantages and disadvantages.
-It does 
+Solipsism would not be crazy if you were the only sentient being in a
+world of bugs.
+In that case, you would have no reason to believe that the bugs had
+anything like your inner experience.
+But in a world of beings whose complexity of behaviour resembles
+yours, an inability to directly access their mental states does not
+make the existence of these mental states suspect.
+In fact, mental states remain the best explanation for that behaviour.
+Solipsists may be good Cartesians, 
