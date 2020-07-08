@@ -69,11 +69,13 @@ Temporally speaking, we do not live in a universe of amoebae.
 We live in a spacetime continuum where different temporal slices obey
 the same laws of physics, namely the laws of general relativity (at
 large scales).
-Like humans, they *look the same from the outside*.
+As with human behaviour, these slices *look the same from the outside*.
 A paranoid Cartesian might say: things look different from in here, so
-they are different.
-The scientist says: they look the same from the outside, and the best
+they are different out there.
+A realist says: they look the same from the outside, and the best
 explanation is that they look the same from the inside too.
+But like a context-dependent joke, to see the inside, I guess you need
+to be there.
 
 #### Outside in
 
