@@ -39,15 +39,14 @@ Presentism, free will, and growing blocks all represent a
 type of *solipsism*.
 A solipsist proper treats the fact that they cannot experience other
 minds as conclusive evidence that other minds do not exist.
-A presentist treats the fact that only experience the
-present as evidence no other times exist.
-Similarly, an enthusiast of growing blocks or free will treats the
-future as non-existent because they have yet to encounter it.
-Growing blockers are a bit more liberal, however; they are prepared to
-treat the past as existing since it appears to "create" the present
-and appears fixed.
-They are like "friendly" solipsists, who believe only in the existence
-of people they have met.
+A presentist treats the fact that they only experience the
+present as evidence only the present exists.
+Similarly, an enthusiast of growing blocks or free will imagines the
+future (or particularly their future decisions) do not exist since
+they have yet to encounter them.
+To be sure, a growing blocker is more liberal than a presentist, since
+they believe in the past, but this is like a "friendly" solipsist who
+believe only in the existence of people they have met.
 
 Solipsism would not be crazy if you were the only sentient being in a
 world of bugs.
