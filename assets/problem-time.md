@@ -25,16 +25,19 @@ An obvious but nevertheless deep fact is that *we can remember the
 past but not the future.*
 Put differently, our current brain state seems to be influenced by
 past events, but not future ones.
-At a folk psychology level, being "lodged" in the present moment gives
-rise to presentism, and being "uninfluenced" by future events gives
-rise to the doctrine of free will, and the appeal of "growing block"
-ontologies for spacetime.
+At the level of folk epistemology, being "lodged" in the present
+moment gives rise to presentism, and being "uninfluenced" by future
+events gives rise to the doctrine of free will, and the appeal of
+"growing block" ontologies for spacetime, where the future does not
+yet exist.
 I think none of these conclusions is licensed by the properties of our brain states.
 But being lodged in the present seems like a trivially explicable
-thing, while only being able to remember the past does not.
+thing, while only being able to remember the past is not.
 
-#### The appeal of solipsism
+#### Temporal solipsism
 
+Let's pause for a moment and untangle a common thread joining these
+ideas.
 Presentism, free will, and growing blocks all represent a
 type of *solipsism*.
 A solipsist proper treats the fact that they cannot experience other
@@ -59,3 +62,13 @@ commitments that might not be spoofed by a malicious Cartesian demon,
 but they are terrible scientists.
 Solipsism does not appeal because it is explanatory, but because it is
 all that survives the scorched-earth epistemic program of Cartesian doubt.
+
+Temporally speaking, we do not live in a universe of amoebae.
+We live in a spacetime continuum where different temporal slices obey
+the same laws of physics, namely the laws of general relativity (at
+large scales).
+Like humans, they *look the same from the outside*.
+
+#### The pith
+
+Although 
