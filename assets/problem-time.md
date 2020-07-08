@@ -100,7 +100,8 @@ These qualia seem undeniable, though efforts to explain them away, or
 comfortably ensconce them in a physicalist framework, are heroic and
 often amusing.
 I would be very surprised if someone could one day extract my
-subjective experience of the colour red from the standard model Lagrangian.
+subjective experience of the colour red from the standard model
+Lagrangian, but good luck to them.
 
 In the temporal case, the quiddity of being lodged in the present
 moment is trivially explicable: the "thisness" of the present and
