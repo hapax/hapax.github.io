@@ -48,12 +48,14 @@ firing angle.
 
 ---
 
-**Exercise 1.** Show that if fired at angle $\theta$ to the
+**Exercise 1.** (a) Show that if fired at angle $\theta$ to the
 horizontal, the range is
 
 $$
-R = \frac{v^2\sin\theta}{g} + v\sqrt{\frac{2h}{g}} .
+R = \frac{v^2\sin\theta}{g} + v\sqrt{\frac{2h}{g}}.
 $$
+
+(b) How far does a real droplet go when "fired" at $\theta = 45^\circ$?
 
 ---
 
