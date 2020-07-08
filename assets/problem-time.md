@@ -121,7 +121,7 @@ There is something strange about being in time.
 
 The problem can be clearly stated as follows: *why change*?
 The presentist or blocker might answer: because existence.
-In other words, what exists is changing.
+In other words, what exists is changing, so of course we see change.
 If we dismiss this as temporal solipsism, and adopt an even-handed
 four-dimensionalist ontology, the question becomes: *why cause and
 effect*?
