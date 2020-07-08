@@ -115,5 +115,9 @@ using this asymmetry.
 And that is really the point I want to make.
 While the folk Cartesian may draw the wrong conclusions, the *premises
 are sound*.
+There is something strange about being in a mind.
+There is also something strange about being in time.
 
 #### The problem of time
+
+The problem can be clearly stated as follows: why cause and effect?
