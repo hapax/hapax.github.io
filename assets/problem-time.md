@@ -111,7 +111,8 @@ for more details.)
 But while the spirit is similar, there is an asymmetry between future
 and past which does not exist between up and down.
 This asymmetry is what gives free will and the growing block their
-folk appeal
+folk appeal.
+
 And that is really the point I want to make: while the folk Cartesian
 may draw the wrong conclusions, the *premises are sound*.
 There is something strange about being in a mind.
