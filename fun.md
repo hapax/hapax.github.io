@@ -27,7 +27,8 @@ In a prior life I earned a philosophy degree, and maintain an
 interest in the field. Some rambling discursions:
 
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
-  (2019, blog post). A four-dimensionalist account of the psychology of time.
+  (2019, blog post). A four-dimensionalist account of the psychology
+  of time, concluding with a radical version of eternal recurrence.
 - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
 (2017, blog post). How decision problems, from the Prisoner's Dilemma
 to smoking to betting against the Oracle of Delphi, are secretly related.
