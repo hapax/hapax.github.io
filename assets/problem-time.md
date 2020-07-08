@@ -115,7 +115,7 @@ folk appeal
 And that is really the point I want to make: while the folk Cartesian
 may draw the wrong conclusions, the *premises are sound*.
 There is something strange about being in a mind.
-There is also something strange about being in time.
+There is something strange about being in time.
 
 #### The problem of time
 
