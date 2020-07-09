@@ -144,7 +144,7 @@ In other words, the spacetime manifold comes equipped with a timelike
 direction, locally, everywhere.
 This is evidently so, but it does not explain the asymmetry between
 time and space; it simply bakes it into the geometry.
-The statistical mechanic says: because entropy.
+The statistical mechanic says: *because entropy*.
 But even this makes no sense unless you have some way for a system to
 change so as to explore phase space.
 In other words, you still need a *microscopic* arrow of time to
