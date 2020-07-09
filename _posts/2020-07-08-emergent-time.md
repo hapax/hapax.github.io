@@ -213,5 +213,5 @@ time --- i.e. one-dimensional defects with highly constrained
 correlations --- emerge via spontaneously broken symmetry.
 Maybe Hawking and Hartle have the right idea.
 But it's amusing that the collision between folk metaphysics and
-four-dimensionalism might, if suitably interpreted, give us clues
+four-dimensionalism might, if approached with suitable humility, give us clues
 about a fundamental theory of time.
