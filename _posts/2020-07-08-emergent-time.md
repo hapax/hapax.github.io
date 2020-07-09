@@ -147,10 +147,14 @@ time and space; it simply bakes it into the geometry.
 The statistical mechanic says: *because entropy*.
 But even this makes no sense unless you have some way for a system to
 change so as to explore phase space.
-In other words, you still need a *microscopic* arrow of time to
+In other words, you still need some sort of odd, one-dimensional
+defect where objects persist, so that the notion of "the system"
+continues to make sense.
+This is the bow that launches the arrow of time.
+<!-- a *microscopic* arrow of time to
 explain the macroscopic arrow.
 So the question becomes: what is the bow that launches this
-microscopic arrow?
+microscopic arrow? -->
 
 #### Emergent time
 
@@ -170,24 +174,30 @@ from a boundary operator. I am being schematic.
 
 I would say this theory provides an *emergent theory of time* if
 the solutions $L(\Psi) = 0$ spontaneously break some symmetry of both
-$L$ and $\mathcal{M}$, and develop "timelike defects" along which
-correlations are organized asymmetrically.
-These could perhaps be described an emergent Lorentzian metric $g$,
-included in, or built from, the fields $\Phi$ on $\mathcal{M}$.
+$L$ and $\mathcal{M}$, and develop one-dimensional "timelike defects"
+along which correlations between local values $\Psi$ are
+parametrically stronger.
+These strong, unidimensional correlations would be *persisting objects*.
+To get an arrow of time, entropy perhaps is the key, and one would
+need to get some sort of phase space by taking slices transverse to
+this one-dimensional defect, i.e. time slices of the persisting
+objects or correlated configurations of $\Phi$.
+<!-- correlations are organized asymmetrically.-->
+Ideally, these should be described by some emergent Lorentzian
+metric, but even finding a bow to launch the arrow would be progress
+in my books.
 
-Now, all this sounds very vague, but is similar in spirit to what
+All this sounds very vague, but turns out to be similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
-attempted with their "no-boundary" proposal.
+attempt with their "no-boundary" proposal.
 Their boundary condition was that there was no boundary!
 They wanted to describe the quantum-mechanical wavefunction $\Psi$ of
 the *whole universe*, using something called the Wheeler-de Witt
 equation, which makes no reference to time.
 I'm not sure their proposal satisfies all the points on my wishlist,
-but I wil set myself the homework of writing about the paper in more
-detail some time to understand it better and see how well it does.
+but I will set myself the homework of working through the details.
 (In fairness to Hawking, he was motivated by a different temporal problem,
-namely the awkwardness of an initial singularity in our fundamental
-description of the universe, aka the Big Bang.)
+namely the awkwardness of an initial singularity in our description of the universe, aka the Big Bang.)
 
 #### Conclusion
 
