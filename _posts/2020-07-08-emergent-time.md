@@ -256,4 +256,4 @@ correlations --- emerge via spontaneously broken symmetry.
 Maybe Hawking and Hartle have the right idea.
 But it's amusing that the collision between folk metaphysics and
 four-dimensionalism might, if approached with suitable humility, give us clues
-about a fundamental theories of physics.
+about fundamental theories of physics.
