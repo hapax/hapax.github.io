@@ -6,7 +6,7 @@ permalink: /outreach/
 
 I like finding simple ways to explain complicated stuff, and sharing
 my love of physics, maths, and by extension, the world.
-And science is more fun when shared!
+Science is more fun when shared!
 <!-- Science is also more fun when shared!
 I list some of my teaching and outreach activities below.-->
 
