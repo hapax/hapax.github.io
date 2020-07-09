@@ -157,9 +157,12 @@ from a system exploring ways to be.
 Let's examine this claim a little more closely.
 The *entropy* is just the logarithm of the number of ways the system
 can be while looking the same at a macroscopic level, $S = \log N$.
-The usual claim is that if the universe (or a box of gas, or a shiny
-new pair of sneakers, or whatever) is in a low entropy state (LES), then it
-will change, and explore ways to be, in an effectively irreversible
+There can be some maximally likely way for a system to be, which
+corresponds to maximum entropy, $S_\text{max}$.
+But if the universe (or a box of gas, or a shiny
+new pair of sneakers, or whatever) is for some reason in a
+sub-maximal, or *low entropy state (LES)*, then it
+will explore ways to be in an effectively irreversible
 fashion, even though the laws of physics *are* reversible.
 Although the universe might not know about cause and effect at a
 fundamental level, it would be foolish to bet against them.
