@@ -178,8 +178,8 @@ $L$ and $\mathcal{M}$, and develop one-dimensional "timelike defects"
 along which correlations between local values $\Psi$ are
 parametrically stronger.
 These strong, unidimensional correlations would be *persisting objects*.
-To get an arrow of time, entropy perhaps is the key, and one would
-need to get some sort of phase space by taking slices transverse to
+To get an arrow of time, entropy perhaps is the key, and one could
+get phase space by taking slices transverse to
 this one-dimensional defect, i.e. time slices of the persisting
 objects.
 <!-- correlations are organized asymmetrically.-->
