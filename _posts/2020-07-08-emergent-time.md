@@ -22,7 +22,7 @@ presentism is ultimately unable to explain change, and our sense data
 are telling us about brain states rather than metaphysics.
 But perhaps this is a bit too quick.
 Our brain states might tell us something deep about the
-universe after all.
+universe after all!
 In particular, it seems odd that we can remember the past but not the future.
 As Terry Pratchett puts it in *Reaper Man*:
 
@@ -33,16 +33,16 @@ the future is hidden,' they say, 'then it means you must be facing the
 wrong way.'
 </span>
 
-Why do we face one way and not the other?
+Why do we face the wrong way?
 
 At the level of folk epistemology, being lodged in the present
 moment gives rise to presentism, and being "uninfluenced" by future
-events gives rise to the doctrine of free will, and the appeal of
-"growing block" ontologies for spacetime, where the future does not
+events gives rise to the doctrine of free will. At a less folky level,
+it explains the appeal of "growing block" ontologies for spacetime, where the future does not
 yet exist.
 I think none of these conclusions is licensed by the properties of our brain states.
 But being lodged in the present seems like a trivially explicable
-thing, while only being able to remember the past is not.
+thing, while our inability to remember the future is not.
 
 #### Temporal solipsism
 
@@ -53,13 +53,13 @@ type of *solipsism*.
 A solipsist proper treats the fact that they cannot experience other
 minds as conclusive evidence that other minds do not exist.
 A presentist treats the fact that they only experience the
-present as evidence only the present exists.
+present moment as evidence only this moment exists.
 Similarly, an enthusiast of growing blocks or free will imagines that
 future events (or future decisions) do not exist since they have yet to
 encounter (or make) them.
-To be sure, a growing blocker is more liberal than a presentist, since
+To be sure, a blocker is more liberal than a presentist, since
 they believe in the past, but this is like a "friendly" solipsist who
-believe only in the existence of the people they have met.
+believes only in the existence of the people they have met.
 
 Solipsism would not be crazy if you were the only sentient being in a
 world of amoebae.
@@ -68,7 +68,7 @@ But in a world of beings whose behavioural complexity matches your own,
 mental states you cannot access remain the best explanation for the
 behaviour of others.
 Solipsists may be good Cartesians, retaining only those ontological
-commitments that might not be spoofed by a malicious Cartesian demon,
+commitments that cannot be spoofed by a malicious Cartesian demon,
 but they are terrible scientists.
 They can explain nothing!
 I think the appeal of solipsism is not that it is explanatory, but
@@ -78,8 +78,8 @@ Cartesian doubt.
 Temporally speaking, we do not live in a universe of amoebae.
 We live in a spacetime continuum where different temporal slices
 richly obey
-the same laws of physics, namely the laws of general relativity (at
-large scales).
+the same laws of physics, namely, Einstein's general relativity, at
+least at large enough scales.
 As with human behaviour, these slices *look the same from the
 outside*.
 A paranoid Cartesian might say: things look different from in here, so
