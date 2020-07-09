@@ -131,8 +131,8 @@ There is something strange about being in time.
 #### The bow and the arrow
 
 The problem can be clearly stated as follows: *why change*?
-The presentist or blocker might answer: because existence.
-In other words, what exists is changing, so of course we see change.
+The presentist or blocker might answer: *because existence*.
+In other words, what exists is changing, so changes becomes in the world.
 If we dismiss this as temporal solipsism, and adopt an even-handed
 four-dimensionalist ontology, the question becomes: *why cause and
 effect*?
