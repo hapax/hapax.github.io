@@ -122,8 +122,7 @@ moment is trivially explicable: the "thisness" of the present and
 for more details.) 
 But while the spirit is similar, there is an asymmetry between future
 and past which does not exist between up and down, or left and right.
-This asymmetry is what gives free will and the growing block their
-folk appeal.
+This asymmetry is what makes free will and the growing block plausible.
 And that is really the point I want to make: while the folk Cartesian
 may draw the wrong conclusions, the *premises are sound*.
 There is something strange about being in a mind.
