@@ -27,8 +27,8 @@ In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
 
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
-  (2020, blog post). What is different about time, and how could
-  physics satisfyingly explain it?
+  (2020, blog post). What makes time different from space, and what
+  would a physical explanation look like?
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
   of time, concluding with a radical version of eternal recurrence.
