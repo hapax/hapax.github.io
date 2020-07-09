@@ -10,7 +10,7 @@ date:  2020-07-08
 **July 8, 2020.** *Why can we remember the past but not the future? I
   discuss how folk metaphysics draws attention to genuine puzzles
   about the nature of time, and outline some desiderata for a
-  satisfying physical explanation.*
+  satisfactory physical explanation.*
 
 #### Brain states and metaphysics
 
