@@ -164,7 +164,7 @@ following lines.
 Start off with some highly symmetric mathematical object $\mathcal{M}$
 which does not possess any notion of time.
 Introduce patterns or structures or fields, collectively labelled
-$\Psi$, and some laws $L$ governing, perhaps written as $L(\Psi) = 0$.
+$\Psi$, and some laws $L$ governing them, perhaps written as $L(\Psi) = 0$.
 These laws $L$ should not make any reference to time.
 Finally, there might be boundary conditions for $\Psi$ on
 $\partial\mathcal{M}$, which once again should know nothing about time.
