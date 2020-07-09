@@ -181,7 +181,7 @@ These strong, unidimensional correlations would be *persisting objects*.
 To get an arrow of time, entropy perhaps is the key, and one would
 need to get some sort of phase space by taking slices transverse to
 this one-dimensional defect, i.e. time slices of the persisting
-objects or correlated configurations of $\Phi$.
+objects.
 <!-- correlations are organized asymmetrically.-->
 Ideally, these should be described by some emergent Lorentzian
 metric, but even finding a bow to launch the arrow would be progress
