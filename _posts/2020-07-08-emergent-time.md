@@ -7,8 +7,8 @@ categories: [Physics, Philosophy]
 date:  2020-07-08
 ---
 
-**July 8, 2020.** *Why can we remember the past but not the future? I
-  discuss how folk metaphysics draws attention to genuine puzzles
+**July 8, 2020.** *Why can we remember the past but not the future?
+  And why do objects persist? I discuss how folk metaphysics draws attention to genuine puzzles
   about the nature of time, and outline some desiderata for a
   satisfactory physical explanation.*
 
@@ -86,7 +86,7 @@ A paranoid Cartesian might say: things look different from in here, so
 they are different out there.
 A realist replies: they look the same from the outside, and the best
 explanation is that they look the same from the inside too.
-But like a context-dependent joke, to see the inside, I guess you need
+But like certain jokes, to see the inside, I guess you need
 to be there.
 
 #### Thisness and thatness
@@ -145,12 +145,51 @@ direction, locally, everywhere.
 This is evidently so, but it does not explain the asymmetry between
 time and space; it simply bakes it into the geometry.
 The statistical mechanic says: *because entropy*.
-But even this makes no sense unless you have some way for a system to
-change so as to explore phase space.
-In other words, you still need some sort of odd, one-dimensional
-defect where objects persist, so that the notion of "the system"
-continues to make sense.
-This is the bow that launches the arrow of time.
+Roughly speaking, a system with many parts changes in an effectively
+random way, and it will tend towards the most likely outcomes.
+Particularly when the odds for the unlikely outcomes are $p \sim
+10^{-23}$.
+The second law of thermodynamics states that these odds are
+well-approximated by zero.
+
+The claim is that the irreversible, macroscopic arrow of time arises
+from a system exploring ways to be.
+Let's examine this claim a little more closely.
+The *entropy* is just the logarithm of the number of ways the system
+can be while looking the same at a macroscopic level, $S = \log N$.
+The usual claim is that if the universe (or a box of gas, or a shiny
+new pair of sneakers, or whatever) is in a low entropy state (LES), then it
+will change, and explore ways to be, in an effectively irreversible
+fashion, even though the laws of physics *are* reversible.
+Although the universe might not know about cause and effect at a
+fundamental level, it would be foolish to bet against them.
+In the language of physics, the LES "spontaneously
+breaks" the invariance of the laws of physics under time translation.
+The laws may not change with time, but the objects do, and cause and
+effect are born.
+
+This point of view has a curious consequence, and a curious
+assumption, neither of which are usually stated.
+The odd consequence is that if I have an LES, then causes should flow away from that event *in both
+directions*.
+Time not only has a translation symmetry, but a *reflection symmetry*,
+and the residuum after introducing the LES is reflection
+around this special point in time when it occurs.
+In the same fashion, the residuum of time translation symmetry is that
+the LES can occur at *any* point in time.
+In a sense, the LES is a bow which launches the arrow of time, but in
+fact it launches *two* arrows, one in either direction.
+
+The curious assumption is actually very subtle, but not so different
+from the intuition of the presentist.
+Essentially, it is the notion that *objects persist*.
+In other words, slightly different copies of the system are arranged
+along some special dimension, and there is enough correlation between
+these copies that they can actually explore phase space.
+These are evidently very different, and much stronger, than the
+correlations that exist between physical objects along the spatial
+dimensions.
+So, the question "why change" becomes: *why do objects persist?*
 <!-- a *microscopic* arrow of time to
 explain the macroscopic arrow.
 So the question becomes: what is the bow that launches this
@@ -159,8 +198,8 @@ microscopic arrow? -->
 #### Emergent time
 
 (This section is mildly technical.)
-A satisfying answer, to my mind, would be along the
-following lines.
+What would a satisfying answer look like?
+Here are a few preliminary thoughts.
 Start off with some highly symmetric mathematical object $\mathcal{M}$
 which does not possess any notion of time.
 Introduce patterns or structures or fields, collectively labelled
