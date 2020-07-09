@@ -204,7 +204,7 @@ namely the awkwardness of an initial singularity in our description of the unive
 Presentists, growing blockers, and other temporal solipsists are
 probably wrong about ontology, but right about epistemology: there is
 something strange about time.
-The usual physical explanations usually *presuppose* a distinguished
+The usual physical explanations usually *presuppose* change along a distinguished
 timelike direction.
 Really, the only satisfying explanation, from a four-dimensionalist
 perspective, would be to define physical laws which know nothing about
