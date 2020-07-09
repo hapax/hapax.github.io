@@ -192,7 +192,7 @@ these copies that they can actually explore phase space.
 These are evidently very different, and much stronger, than the
 correlations that exist between physical objects along the spatial
 dimensions.
-So, the question "why change" becomes: *why do objects persist?*
+So, the question "why change" becomes: *why persistence?*
 <!-- a *microscopic* arrow of time to
 explain the macroscopic arrow.
 So the question becomes: what is the bow that launches this
