@@ -197,7 +197,7 @@ equation, which makes no reference to time.
 I'm not sure their proposal satisfies all the points on my wishlist,
 but I will set myself the homework of working through the details.
 (In fairness to Hawking, he was motivated by a different temporal problem,
-namely the awkwardness of an initial singularity in our description of the universe, aka the Big Bang.)
+namely the awkwardness of an initial singularity, aka the Big Bang, in our description of the universe.)
 
 #### Conclusion
 
