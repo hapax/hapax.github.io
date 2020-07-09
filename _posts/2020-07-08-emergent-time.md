@@ -180,6 +180,9 @@ and the residuum after introducing the LES is reflection
 around this special point in time when it occurs.
 In the same fashion, the residuum of time translation symmetry is that
 the LES can occur at *any* point in time.
+(Technically, if the symmetry group $\mathbb{R} \times \mathbb{Z}_2$,
+we simply break it to $\mathbb{Z}_2$ with a real line's worth of
+"degenerate" solutions.)
 In a sense, the LES is a bow which launches the arrow of time, but in
 fact it launches *two* arrows, one in either direction.
 
