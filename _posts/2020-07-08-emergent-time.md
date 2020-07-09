@@ -223,8 +223,8 @@ this one-dimensional defect, i.e. time slices of the persisting
 objects.
 <!-- correlations are organized asymmetrically.-->
 Ideally, these should be described by some emergent Lorentzian
-metric, but even finding a bow to launch the arrow would be progress
-in my books.
+metric, but just figuring out why objects persist would be important
+progress in my books.
 
 All this sounds very vague, but turns out to be similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
