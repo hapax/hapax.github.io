@@ -212,6 +212,6 @@ time, on a mathematical space which knows nothing about time, and have
 time --- i.e. one-dimensional defects with highly constrained
 correlations --- emerge via spontaneously broken symmetry.
 Maybe Hawking and Hartle have the right idea.
-But it's amusing to note that dubious, folk Cartesian metaphysical
-claims, might, if suitably interpreted, give us clues about
-fundamental theories of physics.
+But it's amusing that the collision between folk metaphysics and
+four-dimensionalism might, if suitably interpreted, give us clues
+about a fundamental theory of time.
