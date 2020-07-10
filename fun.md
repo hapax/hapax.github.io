@@ -52,6 +52,10 @@ I code for fun in [Python](https://www.python.org/)
 [Processing](https://processing.org/) (it's visual). A few small
 projects are listed below:
 
+- [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
+  designed the prototype version of the university's course
+  planner. I've linked the much snazzer beta version by the talented
+  folks at [Eliiza](https://eliiza.com.au/about/).
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
