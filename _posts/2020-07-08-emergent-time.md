@@ -234,7 +234,7 @@ progress in my books.
 All this sounds very vague, but turns out to be similar in spirit to what
 [Hartle and Hawking (1983)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.28.2960)
 attempt with their "no-boundary" proposal.
-Their boundary condition is that there was no boundary!
+Their boundary condition is that there is no boundary!
 They wanted to describe the quantum-mechanical wavefunction $\Psi$ of
 the *whole universe*, using something called the Wheeler-de Witt
 equation, which makes no reference to time.
