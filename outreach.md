@@ -49,7 +49,8 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
 - *The Hacker's Guide to Physics* [[1](assets/dim-slides.pdf),
   [2](assets/random-slides.pdf), [3](assets/brownian-slides.pdf)] (2020). A series of lectures
   covering dimensional analysis,
-  random walks and collisions, and Brownian motion. Based on aforementioned
+  random walks, and Brownian motion, ending with a DIY calculation of
+  Avogadro's number. Based on aforementioned
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory and
