@@ -172,7 +172,7 @@ The laws may not change with time, but the objects do, and cause and
 effect are born.
 
 This point of view has a curious consequence, and a curious
-assumption, neither of which are usually stated.
+premise, neither of which is usually stated.
 The odd consequence is that if I have an LES, then causes should flow away from that event *in both
 directions*.
 Time not only has a translation symmetry, but a *reflection symmetry*,
