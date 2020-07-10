@@ -54,7 +54,7 @@ projects are listed below:
 
 - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
   designed the prototype version of the university's course
-  planner. I've linked the much snazzy beta version by the folks at [Eliiza](https://eliiza.com.au/about/).
+  planner. I've linked the snazzy beta version by the folks at [Eliiza](https://eliiza.com.au/about/).
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
