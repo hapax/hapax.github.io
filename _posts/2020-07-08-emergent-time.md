@@ -186,8 +186,7 @@ we simply break it to $\mathbb{Z}_2$ with a real line's worth of
 In a sense, the LES is a bow which launches the arrow of time, but in
 fact it launches *two* arrows, one in either direction.
 
-The curious assumption is actually very subtle, but not so different
-from the intuition of the presentist.
+The curious premise is actually very subtle.
 Essentially, it is the notion that *objects persist*.
 In other words, slightly different copies of the system are arranged
 along some special dimension, and there is enough correlation between
