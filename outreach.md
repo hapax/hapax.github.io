@@ -26,7 +26,7 @@ I list some of my teaching and outreach activities below.-->
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  (2020, blog post). A paean to the power of the humble paper napkin, and its pedagogical possibilities for physics.
+  (2020, blog post). A paean to the processing power of the paper napkin, and its pedagogical potential for physics.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
   engaging, applied to derivatives.
