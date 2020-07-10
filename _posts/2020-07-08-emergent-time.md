@@ -150,7 +150,7 @@ random way, and it will tend towards the most likely outcomes.
 Particularly when the odds for the unlikely outcomes are $p \sim
 10^{-23}$.
 The second law of thermodynamics states that these odds are
-well-approximated by zero.
+well approximated by zero.
 
 The claim is that the irreversible, macroscopic arrow of time arises
 from a system exploring ways to be.
