@@ -5,6 +5,7 @@ permalink: /outreach/
 ---
 
 I like finding simple ways to explain complicated stuff.
+I list some of my outreach and teaching activities below.
 <!-- Science is also more fun when shared!
 I list some of my teaching and outreach activities below.-->
 
