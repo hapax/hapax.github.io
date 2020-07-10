@@ -190,7 +190,7 @@ The curious premise is actually very subtle.
 Essentially, it is the notion that *objects persist*.
 In other words, slightly different copies of the system are arranged
 along some special dimension, and there is enough correlation between
-these copies that they can actually explore phase space.
+these copies that they can explore phase space.
 These are evidently very different, and much stronger, than the
 correlations that exist between physical objects along the spatial
 dimensions.
