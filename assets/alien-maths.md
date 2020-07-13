@@ -68,7 +68,8 @@ This seems about as shocking as the existence of the periodic table.
 And I would expect Inuit hunters to outperform most Europeans in tasks
 involving fine-grained assessments of snow since, like a
 chemist, they are trained to do so.
-Put differently, survival *depends* on measurable cognitive differences.
+Put differently, survival *depends* on measurable cognitive
+differences that are plausibly reflected in the language.
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
 
