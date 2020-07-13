@@ -33,5 +33,24 @@ than exist in English, for instance, and according to some linguists,
 the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The view that language affects our perception of reality is called
-*linguistic relativism*, though strictly speaking, this is an umbrella
-term covering a morass of distinctions in strength and emphasis.
+*linguistic relativism*, though the term encompasses a morass of
+distinctions in strength and emphasis.
+
+Perhaps the sharpest version of the hypothesis is that
+[colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
+reflects cultural differences in the perception of colour.
+This ties into the prediliction 19th century Europeans had for
+making cognitive judgments on the basis of style.
+For instance, the paucity of colour words in the works Homer led British politician
+William Gladstone to write that
+
+<span style="padding-left: 20px; display:block">
+...the organ of color and its impressions were but partially
+developed among the Greeks of the heroic age.
+</span>
+
+Pomposity and racism aside, there is a scientific thesis
+here.
+Experiments by cognitive linguists suggest that colour
+terminology does lead to performance differences in tasks involving
+colour memorisation, for example.
