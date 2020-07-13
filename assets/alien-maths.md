@@ -76,7 +76,7 @@ differences that are plausibly reflected in the language. -->
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
 
-But these finer distinctions, if they exist, do not embody a mere
+These finer distinctions, if they exist, do not embody a mere
 "agreement that holds throughout the speech community".
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
 Just like the periodic table, linguistic differences can encode
@@ -109,7 +109,7 @@ enculturation and cognitive bootstrapping via language.
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
 
-But even if linguistic universalism is too strong, there is a
+If linguistic universalism is too strong, there is a
 *cognitive universalism* which seems much more defensible (and which,
 in fairness, is closer to what most universalists believe).
 Human brains are more or less the same.
