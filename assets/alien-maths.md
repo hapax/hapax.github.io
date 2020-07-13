@@ -83,9 +83,10 @@ Just like the periodic table, linguistic differences can encode
 facts about the world we care to pay attention to.
 I use the word "encode" deliberately, since words tokenise relevant
 differences in a way that *aids compression*.
-It literally takes less bites to say things, and lowers the coginitive
-burden of storage and manipulation, thereby facilitating both
-reasoning and communication.
+It literally takes less bytes to say things, and lowers the coginitive
+burden of storage and manipulation, so reasoning and communication are
+both facilitated.
+
 But our big brains, combined with the mammalian need for attachment,
 lead to human culture, woven marvellously through with its language
 games of concept, hierarchy, courtship, religion, and so forth.
@@ -93,7 +94,6 @@ games of concept, hierarchy, courtship, religion, and so forth.
 important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
 Tokenises relevant differences is facilitates reasoning and communication. -->
-
 All this suggests that language organically co-evolves with culture
 and the cognitive demands of life in a particular time and place.
 If we split these forces up and decide on some fixed order of
