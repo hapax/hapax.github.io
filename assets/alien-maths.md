@@ -66,9 +66,9 @@ Would anyone really be surprised to learn that there are more words
 for snow in Inuktitut than Amharic?
 This seems about as shocking as the existence of the periodic table.
 And I would expect Inuit hunters to outperform most Europeans in tasks
-involving fine discriminations between types of snow since, like a
+involving fine-grained assessments of snow since, like a
 chemist, they are trained to do so.
-Survival *depends* on measurable cognitive differences.
+Put differently, survival *depends* on measurable cognitive differences.
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
 
