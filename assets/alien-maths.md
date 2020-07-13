@@ -100,7 +100,7 @@ thought, but rather, because they organically co-evolve.-->
 Linguistic universalism, relativism's opposite number, seems to me to
 make the same error of unidirectional generalisation.
 A mnemonic is a way of shaping cognition with language, and teaching
-is (in part) the mnemonic of a whole culture: a process of
+is (in part) the mnemonic of a whole structure of life: a process of
 enculturation and cognitive bootstrapping via language.
 <!--(Of course, teaching has a strongly social aspect as well, but the -->
 <!--point is that the influence is sometimes relatively unilateral, -->
