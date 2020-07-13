@@ -79,10 +79,10 @@ But these finer distinctions, if they exist, do not embody a mere
 Just like the periodic table, linguistic differences can encode
 facts about the world we care to pay attention to.
 I use the word "encode" deliberately, since words tokenise relevant
-differences in a way that facilitates *compression*.
-This means it literally takes less bites to say things, and
-makes them easier to store and manipulate, facilitating both reasoning
-and communication.
+differences in a way that aids *compression*.
+It literally takes less bites to say things, and lowers the coginitive
+burden of storage and manipulation, thereby facilitating both
+reasoning and communication.
 But our big brains, combined with the mammalian need for attachment,
 lead to human culture, woven marvellously through with its language
 games of concept, hierarchy, courtship, religion, and so forth.
