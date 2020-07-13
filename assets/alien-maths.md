@@ -95,8 +95,8 @@ If we split these forces up and decide on some fixed order of
 influence, the cart will be before the horse, whichever order we choose!
 <!--Linguistic relativism is wrong, not because language does not affect
 thought, but rather, because they organically co-evolve.-->
-Linguistic universalism, relativism's opposite number, seems to make
-the same error of premature generalization.
+Linguistic universalism, relativism's opposite number, seems to me to
+make the same error of unidirectional generalisation.
 A mnemonic is a way of shaping cognition with language, and teaching
 in part is a process of enculturation and cognitive bootstrapping via
 language.
