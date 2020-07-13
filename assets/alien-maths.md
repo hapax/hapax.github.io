@@ -78,8 +78,8 @@ But these finer distinctions, if they exist, do not embody a mere
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
 Just like the periodic table, linguistic differences can encode
 facts about the world we care to pay attention to.
-Words tokenise relevant differences in a way that facilitaites
-*compression*.
+I use the word "encode" deliberately, since words tokenise relevant
+differences in a way that facilitates *compression*.
 This means it literally takes less bites to say things, and
 makes them easier to store and manipulate, facilitating both reasoning
 and communication.
