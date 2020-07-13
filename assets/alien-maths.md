@@ -69,19 +69,28 @@ And I would expect Inuit hunters to outperform most Europeans in tasks
 involving fine discriminations between types of snow since, like a
 chemist, they are trained to do so.
 There is every reason to suppose there are measurable cognitive
-differences.
+differences; survival depends on it.
 
 But do these finer distinctions, if they exist, embody an arbitrary
 "agreement that holds throughout the speech community"?
-Certainly it is an agreement, but it is not arbitrary.
-Just like the periodic table, it reflects facts about the world the
-Inuit care to pay attention to.
-Put differently, it *tokenises relevant differences* in a way that
-facilitates reasoning and communication.
-It will also presumably have cultural relevance, with words playing an
+Certainly it is an agreement, but it not an arbitrary one.
+Just like the periodic table, linguistic differences often reflect
+facts about the world we care to pay attention to.
+Words tokenise relevant differences in a way that facilitaites
+*compression*.
+This means it literally takes less bites to say things, and
+makes them easier to store and manipulate, facilitating both reasoning
+and communication.
+But our big brains, combined with the mammalian need for attachment,
+lead to human culture, woven marvellously through with its language
+games of concept, hierarchy, courtship, religion, and so forth.
+<!-- It will also presumably have cultural relevance, with words playing an
 important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
+Tokenises relevant differences is facilitates reasoning and communication. -->
+
 Linguistic relativism is wrong, not because language does not affect
 thought, but rather, because they organically co-evolve. If we split
 them up and decide on some fixed order of influence, the cart will be
-before the horse, which order we choose.
+before the horse, whichever order we choose.
+More carefluy
