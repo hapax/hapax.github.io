@@ -110,8 +110,8 @@ enculturation and cognitive bootstrapping via language.
 <!--pace universalism.)-->
 
 But even if linguistic universalism is too strong, there is a
-*cognitive universalism* which seems much more defensible (and which I
-think is closer to what most universalists believe).
+*cognitive universalism* which seems much more defensible (and which,
+in fairness, is closer to what most universalists believe).
 Human brains are more or less the same.
 Language and culture can be viewed as *interfaces* between the
 IO of reality and our relatively invariant cognitive hardware.
