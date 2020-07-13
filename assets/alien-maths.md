@@ -68,12 +68,13 @@ This seems about as shocking as the existence of the periodic table.
 And I would expect Inuit hunters to outperform most Europeans in tasks
 involving fine discriminations between types of snow since, like a
 chemist, they are trained to do so.
-There is every reason to suppose there are measurable cognitive
-differences; survival depends on it.
+Survival *depends* on measurable cognitive differences.
+<!-- There is every reason to suppose there are measurable cognitive
+differences; survival depends on it. -->
 
-But do these finer distinctions, if they exist, embody an arbitrary
-"agreement that holds throughout the speech community"?
-Certainly it is an agreement, but it not an arbitrary one.
+But these finer distinctions, if they exist, do not embody an *arbitrary*
+"agreement that holds throughout the speech community".
+<!-- Certainly it is an agreement, but it not an arbitrary one.-->
 Just like the periodic table, linguistic differences often reflect
 facts about the world we care to pay attention to.
 Words tokenise relevant differences in a way that facilitaites
