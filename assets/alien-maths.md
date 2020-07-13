@@ -34,17 +34,17 @@ The Inuit have
 than exist in English, and according to some linguists,
 the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
-The view that language affects our perception of reality is called
+The claim that language affects our perception of reality is called
 *linguistic relativism*, though the term encompasses a morass of
-distinctions in strength and emphasis.
+distinctions in strength and emphasis I don't want to enter into.
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
 reflects cultural differences in the perception of colour.
-This ties into the prediliction 19th century Europeans had for
-making cognitive judgments on the basis of style.
-For instance, the paucity of colour words in the works Homer led British politician
-William Gladstone to write that
+This ties into a 19th century prediliction for making cognitive
+judgments on the basis of style.
+For instance, the paucity of colour words in the epics of Homer led
+British politician William Gladstone to write that
 
 <span style="padding-left: 20px; display:block">
 ...the organ of color and its impressions were but partially
@@ -53,16 +53,15 @@ developed among the Greeks of the heroic age.
 
 Pomposity and racism aside, there is a scientific thesis
 here.
-Experiments by cognitive linguists suggest that colour
-terminology *does* lead to performance differences in tasks involving
-colour memorisation, for example, though the interpretation of the
-results remains controversial.
+In fact, experiments by cognitive linguists suggest that colour
+terminology *does* lead to differential performance in tasks involving
+remembering and categorising colours.
+But the interpretation of these experiments remains controversial.
 
 #### Cognition and language
 
 From the comfortable armchair of a dilettante, the controversy seems
-completely overblown.
+amusingly overblown.
 Would anyone really be surprised to learn that there are more words
 for snow in Inuktitut than Amharic?
-I find this no more or less surprising than the fact that chemists
-have specialised names for chemicals.
+This seems about as shocking as the existence of the periodic table.
