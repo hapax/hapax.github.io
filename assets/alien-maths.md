@@ -89,7 +89,7 @@ both facilitated.
 
 But our big brains, combined with the mammalian need for attachment,
 lead to human culture, woven marvellously through with its language
-games of family, hierarchy, courtship, religion, custom, and so forth.
+games of family, hierarchy, courtship, religion, custom, protocol, and so forth.
 <!-- It will also presumably have cultural relevance, with words playing an
 important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
