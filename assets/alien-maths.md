@@ -108,3 +108,5 @@ enculturation and cognitive bootstrapping via language.
 <!--(Of course, teaching has a strongly social aspect as well, but the -->
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
+
+#### Mathematical language and reality
