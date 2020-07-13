@@ -55,4 +55,8 @@ Pomposity and racism aside, there is a scientific thesis
 here.
 Experiments by cognitive linguists suggest that colour
 terminology *does* lead to performance differences in tasks involving
-colour memorisation, for example.
+colour memorisation, for example, though the interpretation of the
+results remains controversial.
+
+From the comfortable armchair of a dilettante, the controversy seems
+completely overblown.
