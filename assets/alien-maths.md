@@ -76,7 +76,7 @@ differences; survival depends on it. -->
 But these finer distinctions, if they exist, do not embody a mere
 "agreement that holds throughout the speech community".
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
-Just like the periodic table, linguistic differences often reflect
+Just like the periodic table, linguistic differences can encode
 facts about the world we care to pay attention to.
 Words tokenise relevant differences in a way that facilitaites
 *compression*.
