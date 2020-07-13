@@ -68,6 +68,14 @@ This seems about as shocking as the existence of the periodic table.
 And I would expect Inuit hunters to outperform most Europeans in tasks
 involving fine discriminations between types of snow since, like a
 chemist, they are trained to do so.
-I would bet money that there are measurable cognitive differences.
+There is every reason to suppose there are measurable cognitive
+differences.
 
-Would this prove linguistic relativism?
+But do these finer distinctions, if they exist, embody an "agreement
+that holds throughout the speech community"?
+No.
+Just like the periodic table, it reflects facts about the world the
+Inuit care to pay attention to.
+Put differently, it *tokenises differences* to facilitate reasoning
+and communication.
+This is like the periodic table.
