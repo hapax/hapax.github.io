@@ -59,7 +59,7 @@ remembering and categorising colours.
 While the interpretation of these experiments remains controversial, I
 think the whole debate is organised around the poles a false dichotomy.
 
-#### Cognition, language and culture
+#### Language, culture and cognition
 
 From the comfortable armchair of a dilettante, the controversy seems
 amusingly overblown.
