@@ -9,7 +9,7 @@ date:  2020-07-08
 
 **July 13, 2020.** *Bla*
 
-#### Inverting Sapir-Whorf
+#### Linguistic relativism in brief
 
 <span style="padding-left: 20px; display:block">
 We cut nature up, organize it into
@@ -29,7 +29,7 @@ linguistic systems of our minds. -->
 <div style="text-align: right"><i>Benjamin Whorf</i> </div>
 
 Language, it seems, is naturally tied to our view of reality.
-The inuit have
+The Inuit have
 [many more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
 than exist in English, and according to some linguists,
 the
@@ -58,5 +58,11 @@ terminology *does* lead to performance differences in tasks involving
 colour memorisation, for example, though the interpretation of the
 results remains controversial.
 
+#### Cognition and language
+
 From the comfortable armchair of a dilettante, the controversy seems
 completely overblown.
+Would anyone really be surprised to learn that there are more words
+for snow in Inuktitut than Amharic?
+I find this no more or less surprising than the fact that chemists
+have specialised names for chemicals.
