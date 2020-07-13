@@ -112,8 +112,7 @@ enculturation and cognitive bootstrapping via language.
 If linguistic universalism is too strong, there is a
 *cognitive universalism* which seems much more defensible (and which,
 in fairness, is closer to what most universalists believe).
-Human brains are more or less the same.
-Language and culture can be viewed as *interfaces* between the
+Human brains are more or less the same, and language and culture can be viewed as *interfaces* between the
 IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs (sub-Saharan Africa is not
 Nunangat), and even given these differences, the choice of interface is radically non-unique.
@@ -126,9 +125,9 @@ brains in a Hebbian fashion, it is clearly wrong.
 
 #### Mathematical language and reality
 
-But while *intraspecific* cognitive universalism seems plausible,
-*interspecific* cognitive relativism seems beyond doubt.
-Bats experience the world differently because their whole cognitive
-architecture is different.
-The closer two species are on the Tree of Life, the more likely they
-are to have cognitive experience in common, but in general, 
+<!-- But while *intraspecific* cognitive universalism seems plausible,
+*interspecific* cognitive relativism seems beyond doubt. Bats -->
+<!-- experience the world differently because their whole cognitive -->
+<!-- architecture is different. The closer two species are on the Tree -->
+<!-- of Life, the more likely they are to have cognitive experience in -->
+<!-- common, but in general, -->
