@@ -44,7 +44,7 @@ reflects cultural differences in the perception of colour.
 This ties into a 19th century prediliction for making cognitive
 judgments on the basis of style.
 For instance, the paucity of colour words in the epics of Homer led
-British politician William Gladstone to write that
+British politician William Gladstone to the bizarre conclusion that
 
 <span style="padding-left: 20px; display:block">
 ...the organ of color and its impressions were but partially
