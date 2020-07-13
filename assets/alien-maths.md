@@ -89,8 +89,9 @@ important role in the system of concepts, hierarchies, relationships and languag
 games that human culture is built on.
 Tokenises relevant differences is facilitates reasoning and communication. -->
 
-Linguistic relativism is wrong, not because language does not affect
-thought, but rather, because they organically co-evolve. If we split
-them up and decide on some fixed order of influence, the cart will be
-before the horse, whichever order we choose.
-More carefluy
+All this suggests that language organically co-evolves with culture
+and the cognitive demands of life in a particular time and place.
+If we split these forces up and decide on some fixed order of
+influence, the cart will be before the horse, whichever order we choose!
+<!--Linguistic relativism is wrong, not because language does not affect
+thought, but rather, because they organically co-evolve.-->
