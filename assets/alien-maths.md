@@ -58,10 +58,16 @@ terminology *does* lead to differential performance in tasks involving
 remembering and categorising colours.
 But the interpretation of these experiments remains controversial.
 
-#### Cognition and language
+#### Cognition, language and culture
 
 From the comfortable armchair of a dilettante, the controversy seems
 amusingly overblown.
 Would anyone really be surprised to learn that there are more words
 for snow in Inuktitut than Amharic?
 This seems about as shocking as the existence of the periodic table.
+And I would expect Inuit hunters to outperform most Europeans in tasks
+involving fine discriminations between types of snow since, like a
+chemist, they are trained to do so.
+I would bet money that there are measurable cognitive differences.
+
+Would this prove linguistic relativism?
