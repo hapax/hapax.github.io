@@ -73,7 +73,7 @@ differences that are plausibly reflected in the language.
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
 
-But these finer distinctions, if they exist, do not embody an *arbitrary*
+But these finer distinctions, if they exist, do not embody a mere
 "agreement that holds throughout the speech community".
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
 Just like the periodic table, linguistic differences often reflect
