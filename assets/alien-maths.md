@@ -56,7 +56,8 @@ here.
 In fact, experiments by cognitive linguists suggest that colour
 terminology *does* lead to differential performance in tasks involving
 remembering and categorising colours.
-But the interpretation of these experiments remains controversial.
+While the interpretation of these experiments remains controversial, I
+think the whole debate is organised around the poles a false dichotomy.
 
 #### Cognition, language and culture
 
