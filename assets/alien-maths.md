@@ -36,7 +36,7 @@ the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The claim that language affects our perception of reality is called
 *linguistic relativism*, though the term encompasses a morass of
-distinctions in strength and emphasis I don't want to enter into.
+distinctions I won't enter into.
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
