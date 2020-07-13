@@ -24,7 +24,7 @@ zombies, science gone mad, and the psychology of time. Winner of the
 (2020). A farcical "what if" about quantum computers.
 
 In a prior life I earned a philosophy degree, and still take language
-on holiday from time to time. Some rambling discursions:
+on holiday on occasion. Some rambling discursions:
 
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). What makes time different from space, and what
@@ -32,9 +32,10 @@ on holiday from time to time. Some rambling discursions:
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
   of time, concluding with a radical version of eternal recurrence.
-- [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
+<!-- - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
 (2017, blog post). How decision problems, from the Prisoner's Dilemma
-to smoking to betting against the Oracle of Delphi, are secretly related.
+to smoking to betting against the Oracle of Delphi, are secretly
+  related. -->
 <!-- What nuclear war, smoking, and the Oracle of Delphi have in -->
 <!-- common. -->
 
