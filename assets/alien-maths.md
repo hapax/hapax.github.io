@@ -78,10 +78,10 @@ Just like the periodic table, it reflects facts about the world the
 Inuit care to pay attention to.
 Put differently, it *tokenises relevant differences* in a way that
 facilitates reasoning and communication.
-It will also presumably have cultural relevance, with words playing a
-part in the system of concepts, hierarchies, relatioships and language
+It will also presumably have cultural relevance, with words playing an
+important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
-
 Linguistic relativism is wrong, not because language does not affect
-thought, but rather, because they organically co-evolve, and splitting
-them up puts the cart before the horse, whichever way we choose to go!
+thought, but rather, because they organically co-evolve. If we split
+them up and decide on some fixed order of influence, the cart will be
+before the horse, which order we choose.
