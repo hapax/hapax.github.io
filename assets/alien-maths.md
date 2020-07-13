@@ -11,6 +11,17 @@ date:  2020-07-08
 
 #### Linguistic relativism in brief
 
+Language, it seems, is naturally tied to our view of reality.
+The Inuit have
+[many more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
+than exist in English, and according to some linguists,
+the
+[Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
+The claim that language affects our perception of reality is called
+*linguistic relativism*, though the term encompasses a morass of
+distinctions in strength and emphasis I don't want to enter into.
+The most famous relativist, Benjamin Whorf, put it as follows:
+
 <span style="padding-left: 20px; display:block">
 We cut nature up, organize it into
 concepts, and ascribe significances as we do, largely because we are
@@ -24,19 +35,7 @@ categories and types that we isolate from the world of phenomena we do
 not find there because they stare every observer in the face; on the
 contrary, the world is presented in a kaleidoscope flux of impressions
 which has to be organized by our minds—and this means largely by the
-linguistic systems of our minds. -->
-
-<div style="text-align: right"><i>Benjamin Whorf</i> </div>
-
-Language, it seems, is naturally tied to our view of reality.
-The Inuit have
-[many more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
-than exist in English, and according to some linguists,
-the
-[Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
-The claim that language affects our perception of reality is called
-*linguistic relativism*, though the term encompasses a morass of
-distinctions in strength and emphasis I don't want to enter into.
+linguistic systems of our minds. <div style="text-align: right"><i>Benjamin Whorf</i> </div>-->
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
