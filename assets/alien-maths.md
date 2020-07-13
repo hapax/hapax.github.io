@@ -30,8 +30,8 @@ linguistic systems of our minds. -->
 
 Language, it seems, is naturally tied to our view of reality.
 The Inuit have
-[many more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
-than exist in English, and according to some linguists,
+[more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
+than English, and according to some linguists,
 the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The claim that language affects our perception of reality is called
