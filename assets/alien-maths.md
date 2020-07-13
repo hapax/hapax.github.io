@@ -71,11 +71,10 @@ chemist, they are trained to do so.
 There is every reason to suppose there are measurable cognitive
 differences.
 
-But do these finer distinctions, if they exist, embody an "agreement
-that holds throughout the speech community"?
-No.
+But do these finer distinctions, if they exist, embody an arbitrary
+"agreement that holds throughout the speech community"?
+Certainly it is an agreement, but it is not arbitrary.
 Just like the periodic table, it reflects facts about the world the
 Inuit care to pay attention to.
-Put differently, it *tokenises differences* to facilitate reasoning
-and communication.
-This is like the periodic table.
+Put differently, it *tokenises relevant differences* in a way that
+facilitates reasoning and communication.
