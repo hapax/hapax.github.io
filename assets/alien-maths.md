@@ -116,5 +116,11 @@ Language and culture can be viewed as *interfaces* between the
 IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs and the choice of interface
 is radically non-unique.
+But if linguistic relativism is a claim that language changes our
+brains in any way other than the usual
+[Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory) fashion, then
+it is probably wrong.
+Similarly, if universalism claims that language *cannot* change our
+brains in a Hebbian fashion, it is probably wrong.
 
 #### Mathematical language and reality
