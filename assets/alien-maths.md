@@ -109,4 +109,12 @@ enculturation and cognitive bootstrapping via language.
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
 
+But even if linguistic universalism is too strong, there is a sort of
+cognitive universalism which seems much more defensible.
+Human brains are more or less the same.
+Language and culture can perhaps be viewed as *interfaces* between the
+IO of reality and our cognitive hardware.
+Interfaces differ, since reality differs and the choice of interface
+is radically non-unique.
+
 #### Mathematical language and reality
