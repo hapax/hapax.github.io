@@ -172,3 +172,12 @@ consciousness that cannot be captured by reductionism. But his
 argument relies on strong cognitive relativism, and the
 incommensurability of human and chiropteran experience, to establish
 this.
+As he puts it:
+
+<span style="padding-left: 20px; display:block">
+But bat sonar, though clearly a form of perception, is not similar in
+its operation to any sense that we possess, and there is no reason to
+suppose that it is subjectively like anything we can experience or
+imagine. This appears to create difficulties for the notion of what it
+is like to be a bat.
+</span>
