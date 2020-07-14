@@ -250,7 +250,7 @@ that will turn me into a bat.
 #### Alien brain, alien mind?
 
 Despite all this talk of generic non-uniqueness, I think that
-commensurability is probably an empirical question in general.
+commensurability is probably an empirical question.
 If so, the simplest way to phrase cognitive relativism is that
 mind [supervenes](https://plato.stanford.edu/entries/supervenience/) on the
 brain: no experiential difference without a brain difference, though
