@@ -283,6 +283,8 @@ I think humans enjoy the company of dogs, and vice versa, due to a
 generous overlap of *umwelten*.
 Many of their pleasures are our pleasures (though by no means all,
 e.g. frolicking in carrion).
+To establish meaningful connection with an alien mind, the semiosphere
+cannot be empty.
 
 <!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
 passses through a pinhole onto a photoreceptive screen---there is no
