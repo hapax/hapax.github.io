@@ -29,7 +29,7 @@ linguistic systems of our minds. -->
 <div style="text-align: right"><i>Benjamin Whorf</i> </div>
 
 Language, it seems, is naturally tied to our view of reality.
-The Inuit have
+Two infamous examples: the Inuit have
 [more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
 than English, and according to some linguists,
 the
