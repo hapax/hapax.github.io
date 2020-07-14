@@ -130,11 +130,11 @@ brains in a Hebbian fashion, it is clearly wrong.
 
 #### Cognitive relativism and chauvinism
 
-Cognitive universalism within the species seems plausible.
-But when it comes to other species, some form of interspecific
-*cognitive relativism* seems uncontroversially true.
+Cognitive universalism *within* the species seems plausible.
+But *between* species we would expect some form of cognitive
+relativism.
 A dog snuffling around in the undergrowth, or a bat navigating by
-sonar, are experiencing the world in a different way, since they "see"
+sonar, are experiencing the world in a different way; they "see"
 things we don't.
 As with linguistic relativism, we can distinguish two forms of
 cognitive relativism.
