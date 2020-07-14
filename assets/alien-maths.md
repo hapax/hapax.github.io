@@ -182,5 +182,6 @@ to any sense that we possess, and there is no reason to suppose that
 it is subjectively like anything we can experience or imagine.
 </span>
 
-The idea that bats have a fundamentally alien phenomenology seems
-plausible to me.
+Nagel's account of the phenomenology of bats feels more plausible than
+his anti-reductionism, but I will leave a critical evaluation for
+another time.
