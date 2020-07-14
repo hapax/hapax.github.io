@@ -135,8 +135,8 @@ Clearly, language can influence perception and thought.
 #### Cognitive relativism and chauvinism
 
 While the version of linguistic universalism just outlined is wrong,
-*cognitive universalism* seems more defensible (and in fairness, is
-closer to what most universalists believe).
+*cognitive universalism* (closer to what most universalists believe)
+is more defensible.
 Human brains don't magically change when we cross cultural or racial
 boundaries, and indeed, language and culture can be viewed as *interfaces*
 between the IO of reality and our relatively invariant cognitive hardware.
