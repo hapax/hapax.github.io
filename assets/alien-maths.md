@@ -140,11 +140,3 @@ As with linguistic relativism, we can distinguish two forms of
 cognitive relativism.
 The strong form states that *your brain determines your reality*.
 The weak replaces "determines" with "influences".
-
-Linguistic relativism played an important 
-According to some thinkers, the original motivation for linguistic
-relativism was to combat *cultural chauvinism*, and in particular,
-the occidental chauvinism cultural solutions to the
-problems of human nature are unique, or optimal---is so hard to avoid,
-how much *more* difficult to avoid will be the cognitive chauvinism that humans
-have some sort of exclusive purchase on reality?
