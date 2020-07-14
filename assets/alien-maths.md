@@ -88,8 +88,8 @@ rather, it encodes facts about the world chemists care to pay attention to.
 I use the word "encode" deliberately, since words *tokenise relevant
 differences* in a way that aids compression.
 It literally takes less bytes to say things, and lowers the cognitive
-burden of storage and manipulation, so reasoning and communication are
-both facilitated.
+burden of storage and manipulation, so both reasoning and
+communication are facilitated.
 
 But our big brains, combined with the mammalian need for attachment,
 lead to human culture, woven marvellously through with its language
