@@ -29,10 +29,9 @@ linguistic systems of our minds. -->
 <div style="text-align: right"><i>Benjamin Whorf</i> </div>
 
 Language, it seems, is naturally tied to our view of reality.
-Two infamous examples: the Inuit have
+Two infamous examples: according to some linguists, the Inuit have
 [more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
-than English, and according to some linguists,
-the
+than English, while the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The claim that language affects our perception of reality is called
 *linguistic relativism*. More precisely, "strong" linguistic
