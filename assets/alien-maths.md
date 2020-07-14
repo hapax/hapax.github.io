@@ -180,3 +180,6 @@ suppose that it is subjectively like anything we can experience or
 imagine. This appears to create difficulties for the notion of what it
 is like to be a bat.
 </span>
+
+I am not interested, here, in evaluating Nagel's anti-reductionism, or
+the phenomenological aspects of a bat's inner life.
