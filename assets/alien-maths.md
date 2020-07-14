@@ -269,8 +269,8 @@ evolved the same biological camera from the single photoreceptive
 pixel of their most recent common ancestor.
 
 Could mind also develop convergently?
-At first sight, this seems like an obscure philosophical quibble, but
-turns out be one of the central premises of our search for
+At first sight, this seems like an obscure philosophical quibble.
+But this turns out be the central premise in our search for
 extraterrestrial life!
 
 <!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
