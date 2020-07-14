@@ -137,7 +137,7 @@ Clearly, language can influence perception and thought.
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
 
-#### Cognitive relativism and the inner life of bats
+#### Cognitive universalism and relativism
 
 But that influence can't happen in just any old way.
 Brains are brains, obeying the [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory)
@@ -183,6 +183,8 @@ different will have *incommensurable* experiences.
 This is like the claim made by lingustic relativists that certain
 things are untranslatable.
 
+#### The inner life of bats
+
 The most famous argument for cognitive incommensurability is
 Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
@@ -226,18 +228,18 @@ In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
 I think this can take us only so far, since apart from any claims of
 phenomenological incommensurability, operating systems are
-underdetermined by the IO.
-There is more than one way to be in a bat!
-But paying careful attention to the carriers of significance---which
-include sensory modalities, and far more---does, in my view, take us
-closer to the inner life of a bat.
+underdetermined by what you do with them; you can solve the same
+problem in different ways.
+There is more than one way to skin a bat!
 
 #### Chauvinism and relativism
 
+Whether or 
 The usual yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
 imaginative obstructions and the more plausible the strong relativist
-claim that radically different brains lead to radically different 
+claim that radically different brains lead to radically different
+*umwelten*.
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
