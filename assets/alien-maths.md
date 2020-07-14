@@ -234,10 +234,19 @@ There is more than one way to skin a bat!
 
 A Nagelian would argue that even if we rationally understand the
 operating system, that does not render the experience commensurable.
-There is an internal aspect---what is like to be on the other side of
-the interface---that our explanation does not capture.
-I suspect the truth is somewhere in between, and we'll return to this
-question below.
+There is an internal aspect that our model cannot capture.
+I suspect the truth is somewhere in between.
+If we could understand all the relevant carriers of meaning, but more
+subtly, the *ways they are encoded and manipulated by the interface*,
+I think we would be a good deal closer to understanding what it is
+like to be a bat.
+These are in principle discoverable by neuroscience, but not by field
+biology.
+That said, there is probably a gestalt aspect to be *operating the
+interface* which understanding all its parts does not give.
+This is, roughly speaking, the distinction between
+["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
+resurfacing as an obstruction to getting inside the mind of a bat.
 
 #### Convergence and chauvinism
 
