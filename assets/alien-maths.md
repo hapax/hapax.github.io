@@ -165,7 +165,7 @@ incommensurability.
 
 The most famous argument for strong cognitive relativism is
 Thomas Nagel's
-[*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/)
+[*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
 In fact, Nagel wants to establish the different claim that mind in
 general is different from brain, and that there is an interior aspect to
 consciousness that cannot be captured by reductive explanation. But his
