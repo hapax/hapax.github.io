@@ -196,6 +196,11 @@ it is subjectively like anything we can experience or imagine.
 </span>
 
 Nagel's account of the phenomenology of bats feels more plausible than
-his anti-reductionism, but I will leave a critical evaluation for another time.
+his anti-reductionism, but we'll leave a full critical evaluation for another time.
 
 #### Weak relativism and mathematics
+
+The further away we look, and the more pronounced the imaginative
+obstructions, the more plausible strong cognitive relativism seems.
+But it seems much easier for a human to simulate a chimpanzee than an
+anglerfish.
