@@ -112,8 +112,9 @@ enculturation and cognitive bootstrapping via language.
 If linguistic universalism is too strong, there is a
 *cognitive universalism* which seems much more defensible (and which,
 in fairness, is closer to what most universalists believe).
-Human brains are more or less the same, and language and culture can be viewed as *interfaces* between the
-IO of reality and our relatively invariant cognitive hardware.
+Human brains don't magically change when we cross cultural or racial
+boundaries, and indeed, language and culture can be viewed as *interfaces*
+between the IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs (sub-Saharan Africa is not
 Nunangat), and even given these differences, the choice of interface is radically non-unique.
 But if linguistic relativism is a claim that language changes our
@@ -128,12 +129,14 @@ brains in a Hebbian fashion, it is clearly wrong.
 Cognitive universalism within the species seems plausible.
 But what about other species?
 A more provocative thesis than linguistic
-relativism is interspecific *cognitive relativism*: your brain architecture
+relativism is interspecific *cognitive relativism*: your brain
 determines your reality.
 At first sight, this seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
+
+But how relative is intelligence?
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
 *interspecific* cognitive relativism seems beyond doubt. Bats -->
