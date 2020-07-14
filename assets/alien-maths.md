@@ -56,8 +56,11 @@ here.
 In fact, experiments by cognitive linguists suggest that colour
 terminology *does* lead to differential performance in tasks involving
 remembering and categorising colours.
-While the interpretation of these experiments remains controversial, I
-think the whole debate is organised around the poles a false dichotomy.
+In other words, colour terminology does seem to be tied, in some way, to
+measurable differences in perception.
+But rather than proving relativism, I think the best way to understand
+these experiments is to relinquish the false dichotomy between
+relativism and universalism.
 
 #### Language, culture and cognition
 
@@ -83,7 +86,7 @@ Just like the periodic table, linguistic differences can encode
 facts about the world we care to pay attention to.
 I use the word "encode" deliberately, since words tokenise relevant
 differences in a way that *aids compression*.
-It literally takes less bytes to say things, and lowers the coginitive
+It literally takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so reasoning and communication are
 both facilitated.
 
@@ -136,7 +139,7 @@ A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
 
-But how relative is intelligence?
+But linguistic relativism is only interesting when we are comparing 
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
 *interspecific* cognitive relativism seems beyond doubt. Bats -->
