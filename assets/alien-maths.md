@@ -211,7 +211,8 @@ his anti-reductionism, but we'll leave a critical evaluation for another time.
 The usual yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
 imaginative obstructions and the more plausible the strong relativist
-claim that radically different brains lead to radically different experiences.
+claim that radically different brains lead to radically different
+[*umwelten*](https://en.wikipedia.org/wiki/Umwelt), or world experiences.
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
