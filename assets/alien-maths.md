@@ -73,8 +73,7 @@ I would expect Inuit hunters to outperform their Ethiopian
 counterparts in tasks involving fine-grained perceptions of snow,
 since their survival literally depends on it.
 Like chemists, there should be measurable cognitive differences as a
-result of training, with the mental effort of correctly learning the
-use of language part of that training.
+result of training, and learning the lingo is part of that training.
 <!-- since, like a chemist, they are trained to do so.
 Put differently, survival *depends* on measurable cognitive
 differences that are plausibly reflected in the language. -->
