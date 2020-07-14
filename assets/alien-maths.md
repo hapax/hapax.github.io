@@ -232,14 +232,19 @@ underdetermined by what you do with them; you can solve the same
 problem in different ways.
 There is more than one way to skin a bat!
 
+A Nagelian would argue that even if we rationally understand the
+operating system, that does not render the experience commensurable.
+There is an internal aspect---what is like to be on the other side of
+the interface---that our explanation does not capture.
+I suspect the truth is somewhere in between, and we'll return to this
+question below.
+
 #### Chauvinism and relativism
 
-Whether or 
-The usual yardstick for incommensurability is phylogenetic.
+The natural yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
-imaginative obstructions and the more plausible the strong relativist
-claim that radically different brains lead to radically different
-*umwelten*.
+imaginative obstructions, the more exotic the sensory modalities and
+carriers of meaning, the more radically different the *umwelten*.
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
