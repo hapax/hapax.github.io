@@ -149,9 +149,8 @@ it is clearly wrong.
 Similarly, if universalism claims that language *cannot* change our
 brains in a Hebbian fashion, it is clearly wrong.
 
-Cognitive universalism *within* the species seems plausible.
-But *between* species we would expect some form of cognitive
-relativism.
+Cognitive universalism within the species seems plausible.
+But between species, we expect a form of cognitive relativism to hold true.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way; they "see"
 things we don't.
