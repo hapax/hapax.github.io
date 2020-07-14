@@ -157,7 +157,7 @@ sonar, and a human piloting a jet engine, are experiencing the world
 in different ways; each "sees" things the other cannot, and is
 afforded new possibilities for action as a result.
 
-As with linguistic relativism, we can distinguish two forms of
+As with language, we can distinguish two forms of
 cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
 determines your reality, and that different species will have
