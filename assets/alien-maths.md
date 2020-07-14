@@ -116,7 +116,7 @@ Human brains don't magically change when we cross cultural or racial
 boundaries, and indeed, language and culture can be viewed as *interfaces*
 between the IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs (sub-Saharan Africa is not
-Nunangat), and even given these differences, the choice of interface is radically non-unique.
+Nunangat), but even given these differences, the choice of interface is radically non-unique.
 But if linguistic relativism is a claim that language changes our
 brains in any way *other than* the usual
 [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory) fashion, then
