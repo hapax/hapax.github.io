@@ -130,6 +130,10 @@ But what about other species?
 In my opinion, a much more provocative thesis than linguistic
 relativism is *cognitive relativism*: with maximum bombast, your brain
 determines your reality.
+At first sight, this seems uncontroversially true.
+A dog snuffling around in the undergrowth, or a bat navigating by
+sonar, are experiencing the world in a different way; they "see"
+things we don't.
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
 *interspecific* cognitive relativism seems beyond doubt. Bats -->
