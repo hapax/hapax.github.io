@@ -180,10 +180,10 @@ The most famous argument for strong cognitive relativism is
 Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
 In fact, Nagel wants to establish the different claim that there is an interior aspect to
-consciousness that cannot be captured by reductive explanation, so
+consciousness that cannot be captured by reductive explanation, i.e.
 mind is different from brain. But his
-argument relies on strong cognitive relativism and in particular the
-incommensurability of human and chiropteran experience.
+argument relies on the incommensurability of human and chiropteran
+experience.
 As he puts it:
 
 <span style="padding-left: 20px; display:block">
@@ -202,10 +202,9 @@ his anti-reductionism, but we'll leave a full critical evaluation for another ti
 
 The more pronounced the imaginative obstructions, the more plausible
 strong cognitive relativism seems.
-But when we look nearby on the Tree of Life, it becomes less clear.
-An anglerfish is fundamentally alien, but what about a chimpanzee?
-Unlike a bat or an anglerfish, the chimpanzee has no exotic sensory
-modalities that a Nagelian could use as proof of incommensurability.
+But when we look nearby on the Tree of Life, it becomes less certain.
+I doubt I can simulate an anglerfish, but what about a chimpanzee?
+There are no exotic sensory modalities a Nagelian could use as proof
+of incommensurability.
 Their cognitive and perceptual hardware appears to be a subset of
-ours. There is no doubt a gestalt that arises from having *just that*
-hardware, but they are in many respects like us.
+ours.
