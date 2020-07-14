@@ -243,13 +243,13 @@ That said, there is probably a gestalt aspect to *operating the
 interface* which understanding all its parts does not give.
 This is, roughly speaking, the distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
-Put differently, there is no conceivable sequence of Hebbian changes
+And at a cognitive level, there is no conceivable sequence of Hebbian changes
 that will turn me into a bat.
 
 #### Convergence and chauvinism
 
-Despite all this talk of generic non-uniqueness, I think that in
-general, commensurability is an empirical question.
+Despite all this talk of generic non-uniqueness, I think that
+commensurability is probably an empirical question in general.
 If so, the simplest way to phrase cognitive relativism is that
 mind [supervenes](https://plato.stanford.edu/entries/supervenience/) on the
 brain: no experiential difference without a brain difference, though
@@ -258,15 +258,15 @@ Not identifying mind and brain gives ontological wiggle
 room for phenomenology (if one is so inclined), but also allows for
 the possibility that the same sort of mind could arise from different
 sorts of brain.
+Similar minds would be commensurable.
 
-Phyl
-
+There are biological precedents for this idea.
 [Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution)
-is the phenomenon of phylogenetically distant organisms converging on
-structurally similar solutions.
+occurs when phylogenetically distant organisms converge on similar
+solutions to similar problems.
 The most famous example is the eye, where vertebrates and cephalopods
-evolved more or less the same biological camera, while their earliest
-common ancestor had something like a single photoreceptive pixel.
+evolved the same biological camera, while their earliest common
+ancestor had something much more rudimentary, probably a single photoreceptive pixel.
 
 
 <!-- Although *umwelt* theory seems to be phenomenologically oriented, it
