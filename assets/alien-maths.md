@@ -91,13 +91,32 @@ It literally takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so both reasoning and
 communication are facilitated.
 
-But our big brains, combined with the mammalian need for attachment,
-lead to human culture, woven marvellously through with its language
-games of family, hierarchy, courtship, religion, custom, protocol, and so forth.
+But the referential acts of communication and reasoning are only one
+aspect of language.
+<!-- Our brain, with its phylogenetic onion skin of drives of abilities, is
+ fantastically elaborated in human culture. -->
+Our uniquely human drives and need are expressed in culture, woven
+marvellously through with its language games of family, hierarchy,
+courtship, religion, custom, protocol, and so forth.
 <!-- It will also presumably have cultural relevance, with words playing an
 important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
-Tokenises relevant differences is facilitates reasoning and communication. -->
+Tokenises relevant differences is facilitates reasoning and -->
+<!-- communication. -->
+Language and culture are not synonymous, as founding relativist
+Edward Sapir pointed out:
+
+<span style="padding-left: 20px; display:block">
+It is easy to show that language and culture are not intrinsically
+associated. Totally unrelated languages share in one culture; closely
+related languages—even a single language—belong to distinct culture
+spheres.
+</span>
+
+But show me a culture without slang, patois, or other vernacular
+adaptations, and I will show you an incompetent lexicologist.
+In part, culture and language adapt and create each other.
+
 All this suggests that language organically co-evolves with culture
 and the cognitive demands of life in a particular time and place.
 If we split these forces up and decide on some fixed order of
