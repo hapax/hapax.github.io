@@ -139,7 +139,7 @@ Clearly, language can influence perception and thought.
 
 #### Cognitive relativism and the inner life of bats
 
-But that influence can't happen in any old way.
+But that influence can't happen in just any old way.
 Brains are brains, obeying the [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory)
 maxim that "neurons that fire together, wire together".
 If linguistic relativism is a claim that language changes our brains
@@ -147,10 +147,12 @@ in any way *other than* Hebbian learning (or a related learning
 mechanism), then it is probably wrong.
 Similarly, if universalism claims that language *cannot* change our
 brains in a Hebbian fashion, it is wrong.
+And what is Hebbianly possible is a question for neuroscientists
+rather than linguists.
+
 The only way for perception to be fundamentally different---rather
 than the result of Hebbian training---is if brains magically change as we
 cross cultural or racial or geographical boundaries.
-
 *Cognitive universalism* is the empirically defensible claim this
 does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
