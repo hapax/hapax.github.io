@@ -240,8 +240,7 @@ If we could understand all the relevant carriers of meaning, but more
 subtly, the *ways they are encoded and manipulated by the interface*,
 I think we would be a good deal closer to understanding what it is
 like to be a bat.
-These are in principle discoverable by neuroscience, but not by field
-biology.
+These are in principle discoverable by neuroscience, but not zoology.
 That said, there is probably a gestalt aspect to *operating the
 interface* which understanding all its parts does not give.
 This is, roughly speaking, the distinction between
@@ -249,6 +248,8 @@ This is, roughly speaking, the distinction between
 resurfacing as an obstruction to getting inside the mind of a bat.
 
 #### Convergence and chauvinism
+
+But there is a 
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
