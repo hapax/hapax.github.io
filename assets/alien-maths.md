@@ -145,7 +145,7 @@ brains in a Hebbian fashion, it is wrong.
 The only way for perception to be fundamentally different---rather
 than the result of Hebbian training---is if brains magically change as we
 cross cultural or racial or geographical boundaries.
-*Cognitive universalism* is the (empirically defensible) claim this
+Cognitive universalism is the empirically defensible claim this
 does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
