@@ -161,7 +161,7 @@ The strong form states that your brain (or cognitive architecture)
 determines your reality, and that different species will have
 "incommensurable" experiences.
 This is similar to claims of linguistic and cultural
-incommensurability put forward by some linguistic relativists.
+incommensurability.
 
 The most famous argument for strong cognitive relativism is
 Thomas Nagel's
