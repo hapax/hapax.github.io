@@ -196,16 +196,18 @@ it is subjectively like anything we can experience or imagine.
 </span>
 
 Nagel's account of the phenomenology of bats feels more plausible than
-his anti-reductionism, but we'll leave a full critical evaluation for another time.
+his anti-reductionism, but we'll leave a critical evaluation for another time.
 
-#### Sentience and universalism
+#### Chauvinism and relativism
 
 It's easy to be a cognitive relativist about organisms lower on the
 food chain.
-But there is a widespread belief---among scientists, science fiction
-writers and the general public---that cognitive relativism breaks down
-at the top of the evolutionary pyramid.
 
+<!-- http://www.hutter1.net/ai/uaibook.htm -->
+
+<!-- And it seems like the incomparability between these strange -->
+<!-- organisms would be pairwise mutual. An anglerfish and a bat have -->
+<!-- about as much in common as a bat and an anglerfish and a human. But there is a whole class -->
 <!-- The more pronounced the imaginative obstructions, the more plausible
 strong cognitive relativism seems.
 But when we look nearby on the Tree of Life, it becomes less so.
