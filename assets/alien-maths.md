@@ -52,7 +52,7 @@ British politician William Gladstone to write that
 developed among the Greeks of the heroic age.
 </span>
 
-Pomposity and racism aside, there is a scientific thesis
+Pomposity aside, there is a scientific thesis
 here.
 In fact, experiments by cognitive linguists suggest that colour
 terminology *does* lead to differential performance in tasks involving
