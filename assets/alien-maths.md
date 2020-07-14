@@ -35,8 +35,9 @@ than English, and according to some linguists,
 the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The claim that language affects our perception of reality is called
-*linguistic relativism*, though the term encompasses a morass of
-distinctions I won't enter into.
+*linguistic relativism*. More precisely, "strong" linguistic
+relativism states that your languages *determines* your reality, while
+"weak" relativism states that your language merely influences your reality.
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
@@ -131,15 +132,16 @@ brains in a Hebbian fashion, it is clearly wrong.
 
 Cognitive universalism within the species seems plausible.
 But what about other species?
-More provocative than linguistic
-relativism is *(strong) cognitive relativism*: your
-brain determines your reality.
-At first sight, this seems uncontroversially true.
+Some form of interspecific *cognitive relativism* seems beyond doubt.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
+The "strong" form of cognitive relativism states that your brain
+determines your reality.
+The "weak" form replaces "determines" with "influences", in the same
+fashion as 
 
-One of the original motivations for linguistic relativism was to combat 
+Linguistic relativism played an important 
 According to some thinkers, the original motivation for linguistic
 relativism was to combat *cultural chauvinism*, and in particular,
 the occidental chauvinism cultural solutions to the
