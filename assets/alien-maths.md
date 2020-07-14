@@ -131,6 +131,8 @@ enculturation and cognitive bootstrapping via language.
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
 
+#### Cognitive relativism and chauvinism
+
 If linguistic universalism is too strong, there is a
 *cognitive universalism* which seems much more defensible (and which,
 in fairness, is closer to what most universalists believe).
@@ -145,8 +147,6 @@ brains in any way *other than* the usual
 it is clearly wrong.
 Similarly, if universalism claims that language *cannot* change our
 brains in a Hebbian fashion, it is clearly wrong.
-
-#### Cognitive relativism and chauvinism
 
 Cognitive universalism *within* the species seems plausible.
 But *between* species we would expect some form of cognitive
