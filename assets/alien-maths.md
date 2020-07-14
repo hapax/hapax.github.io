@@ -178,19 +178,20 @@ afforded new possibilities for action as a result.
 As with language, we can distinguish two forms of
 cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
-determines your reality, and that different species will have
-"incommensurable" experiences.
-This is similar to claims of linguistic and cultural
-incommensurability.
+determines your reality, with the upshot that brains which are too
+different will have *incommensurable* experiences.
+This is analogous to the claim sometimes made by lingustic relativists
+that certain things are untranslatable.
 
-The most famous argument for strong cognitive relativism is
+The most famous argument for cognitive incommensurability is
 Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
-In fact, Nagel wants to establish the different claim that there is an interior aspect to
-consciousness that cannot be captured by reductive explanation, i.e.
-mind is different from brain. But his
-argument relies on the incommensurability of human and chiropteran
-experience.
+Nagel wants to show there is an *interior* aspect to consciousness
+that cannot be captured by reductive explanation, i.e. mind is
+different from brain. But his argument relies on the
+incommensurability of human and chiropteran experience, that there is
+"something it is like" to be a bat which humans cannot simulate.
+This "something" is mind.
 As he puts it:
 
 <span style="padding-left: 20px; display:block">
