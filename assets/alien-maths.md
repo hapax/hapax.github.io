@@ -131,15 +131,15 @@ brains in a Hebbian fashion, it is clearly wrong.
 
 Cognitive universalism within the species seems plausible.
 But what about other species?
-A more provocative thesis than linguistic
-relativism is interspecific *cognitive relativism*: your brain
-determines your reality.
+More provocative than linguistic
+relativism is the idea of interspecific *cognitive relativism*: your
+brain determines your reality.
 At first sight, this seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
 
-But linguistic relativism is only interesting when we are comparing 
+So, let's turn the screw.
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
 *interspecific* cognitive relativism seems beyond doubt. Bats -->
