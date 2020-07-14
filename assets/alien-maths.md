@@ -205,6 +205,13 @@ strong cognitive relativism seems.
 But when we look nearby on the Tree of Life, it becomes less certain.
 I doubt I can simulate an anglerfish, but what about a chimpanzee?
 There are no exotic sensory modalities a Nagelian could use as proof
-of incommensurability.
-Their cognitive and perceptual hardware appears to be a subset of
+of incommensurability, and in fact, their brain is almost identical to
 ours.
+A human child raised by chimpanzees would probably have the same
+gestalt experience as a chimpanzee, and the imaginative obstructions
+to human adults are likely neuroplastic than fundamentally cognitive.
+
+Of course, this is *consistent* with strong cognitive relativism,
+finessed to take cognitive similarity into account.
+Similar brains lead to similar realities.
+Incommensurability itself is a relative affair.
