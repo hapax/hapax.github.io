@@ -180,8 +180,7 @@ cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
 determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
-This is analogous to the claim sometimes made by lingustic relativists
-that certain things are untranslatable.
+This is like the claim made by lingustic relativists that certain things are untranslatable.
 
 The most famous argument for cognitive incommensurability is
 Thomas Nagel's
