@@ -156,5 +156,6 @@ sonar, are experiencing the world in a different way; they "see"
 things we don't.
 As with linguistic relativism, we can distinguish two forms of
 cognitive relativism.
-The strong form states that *your brain determines your reality*.
+The strong form states that your brain (or cognitive architecture)
+determines your reality.
 The weak replaces "determines" with "influences".
