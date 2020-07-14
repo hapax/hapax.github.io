@@ -248,7 +248,9 @@ carriers of meaning, the more radically different the *umwelten*.
 A bat is not "fundamentally alien".
 It is a mammal, so we share large chunks of brain function and DNA.
 But what if we were to encounter beings from a different Tree altogether?
-I would place a very high prior on some type of incommensurability.
+I would place a very high prior on incommensurability of some sort.
+
+
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
