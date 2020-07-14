@@ -166,20 +166,21 @@ incommensurability.
 The most famous argument for strong cognitive relativism is
 Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
-In fact, Nagel wants to establish the different claim that mind in
-general is different from brain, an interior aspect to
-consciousness that cannot be captured by reductive explanation. But his
-argument relies on strong cognitive relativism, and the
+In fact, Nagel wants to establish the different claim that there is an interior aspect to
+consciousness that cannot be captured by reductive explanation, so
+mind is different from brain. But his
+argument relies on strong cognitive relativism and in particular the
 incommensurability of human and chiropteran experience.
 As he puts it:
 
 <span style="padding-left: 20px; display:block">
-But bat sonar, though clearly a form of perception, is not similar in
-its operation to any sense that we possess, and there is no reason to
-suppose that it is subjectively like anything we can experience or
-imagine. This appears to create difficulties for the notion of what it
-is like to be a bat.
+Even without the benefit of philosophical reflection, anyone who has
+spent some time in an enclosed space with an excited bat knows what it
+is to encounter a fundamentally alien form of life... [B]at sonar,
+though clearly a form of perception, is not similar in its operation
+to any sense that we possess, and there is no reason to suppose that
+it is subjectively like anything we can experience or imagine.
 </span>
 
-I am not interested, here, in evaluating Nagel's anti-reductionism, or
-the phenomenological aspects of a bat's inner life.
+The idea that bats have a fundamentally alien phenomenology seems
+plausible to me.
