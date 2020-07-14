@@ -228,7 +228,8 @@ the operating system from the IO.
 There is a tacit functionalist assumption here that *IO determines OS*.
 But there is more than one way to skin a bat!
 Solutions to biological problems are non-unique, as human culture
-shows; operating systems are underdetermined by what you do with them.
+shows; operating systems are underconstrained by what you do with
+them.
 
 Further, Nagel would argue that even if we rationally understand the
 operating system, that does not render the experience commensurable.
