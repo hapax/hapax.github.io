@@ -239,12 +239,16 @@ the interface---that our explanation does not capture.
 I suspect the truth is somewhere in between, and we'll return to this
 question below.
 
-#### Chauvinism and relativism
+#### Convergence and chauvinism
 
 The natural yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
 imaginative obstructions, the more exotic the sensory modalities and
 carriers of meaning, the more radically different the *umwelten*.
+A bat is not "fundamentally alien".
+It is a mammal, so we share large chunks of brain function and DNA.
+But what if we were to encounter beings from a different Tree altogether?
+I would place a very high prior on some type of incommensurability.
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
