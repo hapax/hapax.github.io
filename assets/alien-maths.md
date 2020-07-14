@@ -255,10 +255,10 @@ If so, the simplest way to phrase cognitive relativism is that
 mind [supervenes](https://plato.stanford.edu/entries/supervenience/) on the
 brain: no experiential difference without a brain difference, though
 the converse need not hold.
-Not identifying mind and brain gives ontological wiggle
-room for Nagelian phenomenology (if one is so inclined), but also allows for
-the possibility that the same sort of mind could arise from different
-sorts of brain.
+Supervenience of mind on brain is weaker than strict identification,
+and gives ontological wiggle room for Nagelian phenomenology (if one
+is so inclined), while allowing for the possibility that the same sort
+of mind could arise from different sorts of brain.
 Similar minds would be commensurable.
 
 There are biological precedents for this idea.
