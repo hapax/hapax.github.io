@@ -43,7 +43,7 @@ Perhaps the sharpest version of the hypothesis is that
 reflects cultural differences in the perception of colour.
 This ties into a 19th century prediliction for making cognitive
 judgments on the basis of style.
-For instance, the paucity of colour words in the epics of Homer led
+For instance, the rarity of colour words in the epics of Homer led
 British politician William Gladstone to write that
 
 <span style="padding-left: 20px; display:block">
@@ -198,20 +198,21 @@ it is subjectively like anything we can experience or imagine.
 Nagel's account of the phenomenology of bats feels more plausible than
 his anti-reductionism, but we'll leave a full critical evaluation for another time.
 
-#### Weak relativism and mathematics
+#### Universalism revisited
 
-The more pronounced the imaginative obstructions, the more plausible
+<!-- The more pronounced the imaginative obstructions, the more plausible
 strong cognitive relativism seems.
-But when we look nearby on the Tree of Life, it becomes less certain.
+But when we look nearby on the Tree of Life, it becomes less so.
 I doubt I can simulate an anglerfish, but what about a chimpanzee?
 There are no exotic sensory modalities a Nagelian could use as proof
-of incommensurability, and in fact, their brain is almost identical to
-ours.
-A human child raised by chimpanzees would probably have the same
+of incommensurability. In fact, their brain is almost identical to
+ours. -->
+<!-- A human child raised by chimpanzees would probably have the same
 gestalt experience as a chimpanzee, and the imaginative obstructions
-to human adults are likely neuroplastic than fundamentally cognitive.
-
-Of course, this is *consistent* with strong cognitive relativism,
+to human adults are more likely neuroplastic than fundamentally
+cognitive. -->
+<!-- This is *consistent* with strong cognitive relativism, 
 finessed to take cognitive similarity into account.
-Similar brains lead to similar realities.
-Incommensurability itself is a relative affair.
+Similar brains lead to similar realities, so incommensurability itself
+is a relative affair.
+But there -->
