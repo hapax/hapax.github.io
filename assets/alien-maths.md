@@ -287,6 +287,17 @@ e.g. frolicking in carrion).
 To establish meaningful connection with an alien mind, the semiosphere
 cannot be empty.
 
+The possibilities for radical difference in alien culture and biology
+are part of an
+[established set](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlienTropes)
+of tropes.
+But in the same way that an intraspecific universalist can fall back
+on the bedrock of conition to ground translation and intercultural
+dialogue, science fiction often falls back on the bedrock of reality
+to ground interspecific dialogue.
+We may find the tentacles offputting and the customs bizarre, but we
+can always talk about gravity and prime numbers instead.
+
 <!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
 passses through a pinhole onto a photoreceptive screen---there is no
 simple definition of intelligence current among biologists. --> 
