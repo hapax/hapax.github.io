@@ -72,7 +72,7 @@ This seems about as shocking as the existence of the periodic table.
 And I would expect Inuit hunters to outperform their Ethiopian
 counterparts in tasks involving fine-grained perceptions of snow,
 since their survival literally depends on it.
-Measurable cognitive differences are the result of training.
+As with chemists, training results in measurable cognitive differences.
 <!-- since, like a chemist, they are trained to do so.
 Put differently, survival *depends* on measurable cognitive
 differences that are plausibly reflected in the language. -->
@@ -127,19 +127,25 @@ it is clearly wrong.
 Similarly, if universalism claims that language *cannot* change our
 brains in a Hebbian fashion, it is clearly wrong.
 
-#### Cognitive relativism
+#### Cognitive relativism and chauvinism
 
 Cognitive universalism within the species seems plausible.
 But what about other species?
 More provocative than linguistic
-relativism is the idea of interspecific *cognitive relativism*: your
+relativism is *(strong) cognitive relativism*: your
 brain determines your reality.
 At first sight, this seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
 
-So, let's turn the screw.
+One of the original motivations for linguistic relativism was to combat 
+According to some thinkers, the original motivation for linguistic
+relativism was to combat *cultural chauvinism*, and in particular,
+the occidental chauvinism cultural solutions to the
+problems of human nature are unique, or optimal---is so hard to avoid,
+how much *more* difficult to avoid will be the cognitive chauvinism that humans
+have some sort of exclusive purchase on reality?
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
 *interspecific* cognitive relativism seems beyond doubt. Bats -->
