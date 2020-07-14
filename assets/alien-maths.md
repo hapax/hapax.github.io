@@ -200,6 +200,7 @@ is to encounter a fundamentally alien form of life... [B]at sonar,
 though clearly a form of perception, is not similar in its operation
 to any sense that we possess, and there is no reason to suppose that
 it is subjectively like anything we can experience or imagine.
+This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
 
 Nagel's account of the phenomenology of bats feels more plausible than
