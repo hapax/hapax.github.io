@@ -81,11 +81,10 @@ differences that are plausibly reflected in the language. -->
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
 
-These finer distinctions, if they exist, do not embody a mere
-"agreement that holds throughout the speech community".
+The periodic table does not embody a mere
+"agreement that holds throughout the speech community";
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
-Just like the periodic table, linguistic differences can encode
-facts about the world we care to pay attention to.
+rather, it encodes facts about the world chemists care to pay attention to.
 I use the word "encode" deliberately, since words tokenise relevant
 differences in a way that *aids compression*.
 It literally takes less bytes to say things, and lowers the cognitive
