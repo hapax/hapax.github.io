@@ -150,7 +150,7 @@ does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
 is more defensible. -->
-Rather, language and culture can be viewed as *interfaces*
+To borrow analogues from computer science, language and culture can be viewed as *interfaces*
 between the IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs (sub-Saharan Africa is not
 Nunangat), and even for the same local conditions, the choice of interface is radically non-unique.
