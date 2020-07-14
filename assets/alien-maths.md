@@ -165,13 +165,12 @@ incommensurability put forward by some linguistic relativists.
 
 The most famous argument for strong cognitive relativism is
 Thomas Nagel's
-[*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
-In fact, Nagel wants to establish the different claim that mind is
-different from brain, and that there is an interior aspect to
-consciousness that cannot be captured by reductionism. But his
+[*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/)
+In fact, Nagel wants to establish the different claim that mind in
+general is different from brain, and that there is an interior aspect to
+consciousness that cannot be captured by reductive explanation. But his
 argument relies on strong cognitive relativism, and the
-incommensurability of human and chiropteran experience, to establish
-this.
+incommensurability of human and chiropteran experience.
 As he puts it:
 
 <span style="padding-left: 20px; display:block">
