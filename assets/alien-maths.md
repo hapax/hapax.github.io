@@ -127,8 +127,8 @@ brains in a Hebbian fashion, it is clearly wrong.
 
 Cognitive universalism within the species seems plausible.
 But what about other species?
-In my opinion, a much more provocative thesis than linguistic
-relativism is *cognitive relativism*: with maximum bombast, your brain
+A more provocative thesis than linguistic
+relativism is interspecific *cognitive relativism*: your brain architecture
 determines your reality.
 At first sight, this seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
