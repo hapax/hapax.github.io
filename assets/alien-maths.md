@@ -204,10 +204,8 @@ The more pronounced the imaginative obstructions, the more plausible
 strong cognitive relativism seems.
 But when we look nearby on the Tree of Life, it becomes less clear.
 An anglerfish is fundamentally alien, but what about a chimpanzee?
-Unlike a bat or an anglerfish, the chimpanzee has none of the exotic
-sensory modalities that a Nagelian would use as proof of
-incommensurability.
-Their cognitive and perceptual hardware appears to be a subset of ours.
-There is no doubt a gestalt that arises from having *just that*
-hardware---being a chimpanzee is not the same as being a human---but
-they are in many respects like us.
+Unlike a bat or an anglerfish, the chimpanzee has no exotic sensory
+modalities that a Nagelian could use as proof of incommensurability.
+Their cognitive and perceptual hardware appears to be a subset of
+ours. There is no doubt a gestalt that arises from having *just that*
+hardware, but they are in many respects like us.
