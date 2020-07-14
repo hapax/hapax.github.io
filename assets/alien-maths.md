@@ -127,6 +127,7 @@ make the same error of unidirectional generalisation.
 A mnemonic is a way of shaping cognition with language, and education
 is (in part) the mnemonic of a whole structure of life, a process of
 enculturation and cognitive bootstrapping via language.
+Clearly, language can influence perception and thought.
 <!--(Of course, teaching has a strongly social aspect as well, but the -->
 <!--point is that the influence is sometimes relatively unilateral, -->
 <!--pace universalism.)-->
