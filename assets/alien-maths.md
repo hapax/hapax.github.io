@@ -139,8 +139,8 @@ Clearly, language can influence perception and thought.
 
 #### Cognitive relativism and the inner life of bats
 
-A simple way to constrain the relationship between language and
-thought is the [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory)
+But that influence can't happen in any old way.
+Brains are brains, obeying the [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory)
 maxim that "neurons that fire together, wire together".
 If linguistic relativism is a claim that language changes our brains
 in any way *other than* Hebbian learning (or a related learning
