@@ -211,15 +211,14 @@ his anti-reductionism, but we'll leave a critical evaluation for
 another time.
 
 A more systematic approach to conceptualising the inner life of other animals is the
-[*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of Jakob von
-Uexküll.
-Uexküll wanted to understand the way that animals create meaning and
-model their environment.
-He called this synthesis the *umwelt* (German for "environment"),
-which is
+[*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of biologist Jakob von Uexküll.
+Uexküll wanted to understand how animals create meaning, model and
+interact with their environments.
+The *umwelt* (German for "environment") is a synthesis of these
+factors,
 
 <span style="padding-left: 20px; display:block">
-constituted by a more or less broad series of elements, 'carriers of
+...constituted by a more or less broad series of elements, 'carriers of
 significance' or 'marks' which are the only things that interest the
 animal.
 </span>
@@ -230,9 +229,9 @@ I think this can take us only so far, since apart from any claims of
 phenomenological incommensurability, operating systems are
 underdetermined by what you do with them; solutions to biological
 problems are non-unique.
-Put differently, there is more than one way to skin a bat!
+There is more than one way to skin a bat!
 
-A Nagelian would argue that even if we rationally understand the
+Nagel would argue that even if we rationally understand the
 operating system, that does not render the experience commensurable.
 There is an internal aspect that our model cannot capture.
 I suspect the truth is somewhere in between.
@@ -244,12 +243,15 @@ These are in principle discoverable by neuroscience, but not zoology.
 That said, there is probably a gestalt aspect to *operating the
 interface* which understanding all its parts does not give.
 This is, roughly speaking, the distinction between
-["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
-resurfacing as an obstruction to getting inside the mind of a bat.
+["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
+Put differently, there is no conceivable sequence of Hebbian changes
+that will turn me into a bat.
 
 #### Convergence and chauvinism
 
-But there is a 
+Although *umwelt* theory seems to be phenomenologically oriented, it
+conceals a tacit functionalist assumption that IO implies OS.
+This functionalist overreach is by no means confined to biology.
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
