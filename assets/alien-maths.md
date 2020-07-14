@@ -198,7 +198,13 @@ it is subjectively like anything we can experience or imagine.
 Nagel's account of the phenomenology of bats feels more plausible than
 his anti-reductionism, but we'll leave a full critical evaluation for another time.
 
-#### Universalism revisited
+#### Sentience and universalism
+
+It's easy to be a cognitive relativist about organisms lower on the
+food chain.
+But there is a widespread belief---among scientists, science fiction
+writers and the general public---that cognitive relativism breaks down
+at the top of the evolutionary pyramid.
 
 <!-- The more pronounced the imaginative obstructions, the more plausible
 strong cognitive relativism seems.
