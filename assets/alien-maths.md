@@ -161,7 +161,7 @@ non-unique.
 Nunangat), and even for the same local conditions, the choice of -->
 <!-- interface is radically non-unique. -->
 
-Cognitive universalism within a species is a biological fact.
+Cognitive universalism within the species is a biological fact.
 But between species, we expect a form of *cognitive relativism* to
 hold.
 A dog snuffling around in the undergrowth, a bat navigating by
