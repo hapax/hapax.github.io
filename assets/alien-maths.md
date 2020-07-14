@@ -180,8 +180,8 @@ cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
 determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
-This is like the claim made by lingustic relativists that certain
-things are untranslatable.
+(This is like the claim made by lingustic relativists that some things
+are untranslatable.)
 
 #### The inner life of bats
 
@@ -225,15 +225,14 @@ animal.
 
 In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
-I think this can take us only so far, since apart from any claims of
-phenomenological incommensurability, operating systems are
-underdetermined by what you do with them; solutions to biological
-problems are non-unique.
-There is more than one way to skin a bat!
+There is a tacit functionalist assumption here that *IO determines OS*.
+But there is more than one way to skin a bat!
+Solutions to biological problems are non-unique, as human culture
+shows; operating systems are underdetermined by what you do with them.
 
-Nagel would argue that even if we rationally understand the
+Further, Nagel would argue that even if we rationally understand the
 operating system, that does not render the experience commensurable.
-There is an internal aspect that our model cannot capture.
+There is an internal aspect our model cannot capture.
 I suspect the truth is somewhere in between.
 If we could understand all the relevant carriers of meaning, but more
 subtly, the *ways they are encoded and manipulated by the interface*,
@@ -249,9 +248,30 @@ that will turn me into a bat.
 
 #### Convergence and chauvinism
 
-Although *umwelt* theory seems to be phenomenologically oriented, it
+Despite all this talk of generic non-uniqueness, I think that in
+general, commensurability is an empirical question.
+If so, the simplest way to phrase cognitive relativism is that
+mind [supervenes](https://plato.stanford.edu/entries/supervenience/) on the
+brain: no experiential difference without a brain difference, though
+the converse need not hold.
+Not identifying mind and brain gives ontological wiggle
+room for phenomenology (if one is so inclined), but also allows for
+the possibility that the same sort of mind could arise from different
+sorts of brain.
+
+Phyl
+
+[Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution)
+is the phenomenon of phylogenetically distant organisms converging on
+structurally similar solutions.
+The most famous example is the eye, where vertebrates and cephalopods
+evolved more or less the same biological camera, while their earliest
+common ancestor had something like a single photoreceptive pixel.
+
+
+<!-- Although *umwelt* theory seems to be phenomenologically oriented, it
 conceals a tacit functionalist assumption that IO implies OS.
-This functionalist overreach is by no means confined to biology.
+This functionalist overreach is by no means confined to biology. -->
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
