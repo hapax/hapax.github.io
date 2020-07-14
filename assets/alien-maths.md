@@ -268,7 +268,7 @@ The most famous example is the eye, where vertebrates and cephalopods
 evolved the same biological camera from the single photoreceptive
 pixel of their most recent common ancestor.
 
-Could mind also develop homologously?
+Could mind also develop convergently?
 At first sight, this seems like an obscure philosophical quibble, but
 turns out be one of the central premises of our search for
 extraterrestrial life!
