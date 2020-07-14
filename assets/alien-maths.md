@@ -34,9 +34,11 @@ Two infamous examples: according to some linguists, the Inuit have
 than English, while the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
 The claim that language affects our perception of reality is called
-*linguistic relativism*. More precisely, "strong" linguistic
-relativism states that your languages *determines* your reality, while
-"weak" relativism states that your language merely influences your reality.
+*linguistic relativism*. "Strong" linguistic
+relativism states that your languages *determines* your reality.
+"Weak" relativism makes the weaker claim that language merely
+influences your reality; perception is somehow downstream from
+language.
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
@@ -54,9 +56,9 @@ developed among the Greeks of the heroic age.
 Pomposity aside, there is a scientific thesis
 here.
 In fact, experiments by cognitive linguists suggest that colour
-terminology *does* lead to differential performance in tasks involving
+terminology *does* lead to differential performance in tasks which involve
 remembering and categorising colours.
-In other words, colour terminology does seem to be tied, in some way, to
+In other words, colour terminology does seem to be tied to
 measurable differences in perception.
 But rather than proving relativism, I think the best way to understand
 these experiments is to relinquish the false dichotomy between
@@ -78,7 +80,6 @@ Put differently, survival *depends* on measurable cognitive
 differences that are plausibly reflected in the language. -->
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
-
 The periodic table does not embody a mere
 "agreement that holds throughout the speech community";
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
