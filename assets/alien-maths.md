@@ -152,7 +152,7 @@ rather than linguists.
 
 The only way for perception to be fundamentally different---rather
 than the result of Hebbian training---is if brains magically change as we
-cross cultural or racial or geographical boundaries.
+cross cultural, racial or even personal boundaries.
 *Cognitive universalism* is the empirically defensible claim this
 does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
@@ -180,7 +180,8 @@ cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
 determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
-This is like the claim made by lingustic relativists that certain things are untranslatable.
+This is like the claim made by lingustic relativists that certain
+things are untranslatable.
 
 The most famous argument for cognitive incommensurability is
 Thomas Nagel's
@@ -204,15 +205,36 @@ This appears to create difficulties for the notion of what it is like to be a ba
 </span>
 
 Nagel's account of the phenomenology of bats feels more plausible than
-his anti-reductionism, but we'll leave a critical evaluation for another time.
+his anti-reductionism, but we'll leave a critical evaluation for
+another time.
+
+A more systematic approach to conceptualising the inner life of other animals is the
+[*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of Jakob von
+Uexküll.
+Uexküll wanted to understand the way that animals create meaning and
+model their environment.
+He called this synthesis the *umwelt* (German for "environment"),
+which is
+
+<span style="padding-left: 20px; display:block">
+constituted by a more or less broad series of elements, 'carriers of
+significance' or 'marks' which are the only things that interest the
+animal...
+</span>
+
+In computational terms, the *umwelt* is an effort to reverse engineer
+the operating system from the IO.
+I think this can take us only so far, since apart from any claims of
+phenomenological incommensurability, operating systems are
+underdetermined by the IO.
+There is more than one way to be in a bat!
 
 #### Chauvinism and relativism
 
 The usual yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
 imaginative obstructions and the more plausible the strong relativist
-claim that radically different brains lead to radically different
-[*umwelten*](https://en.wikipedia.org/wiki/Umwelt), or world experiences.
+claim that radically different brains lead to radically different 
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
