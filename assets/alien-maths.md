@@ -114,7 +114,7 @@ spheres.
 
 But show me a culture without slang, patois, or other vernacular
 adaptations, and I will show you an incompetent lexicologist.
-In part, culture and language adapt and create each other.
+Culture and language partially adapt and create each other.
 
 All this suggests that language organically co-evolves with culture
 and the cognitive demands of life in a particular time and place.
