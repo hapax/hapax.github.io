@@ -145,15 +145,21 @@ brains in a Hebbian fashion, it is wrong.
 The only way for perception to be fundamentally different---rather
 than the result of Hebbian training---is if brains magically change as we
 cross cultural or racial or geographical boundaries.
-Cognitive universalism is the empirically defensible claim this
+
+*Cognitive universalism* is the empirically defensible claim this
 does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
 is more defensible. -->
-To borrow analogues from computer science, language and culture can be viewed as *interfaces*
-between the IO of reality and our relatively invariant cognitive hardware.
-Interfaces differ, since reality differs (sub-Saharan Africa is not
-Nunangat), and even for the same local conditions, the choice of interface is radically non-unique.
+Rather, language and culture can be viewed as operating systems <!-- *interfaces*-->
+interfacing between the IO of reality and our relatively invariant
+cognitive hardware.
+These operating systems differ not only because reality varies (sub-Saharan Africa is not
+Nunangat), but because the choice of interface is radically
+non-unique.
+<!-- Interfaces differ, since reality differs (sub-Saharan Africa is not
+Nunangat), and even for the same local conditions, the choice of -->
+<!-- interface is radically non-unique. -->
 
 Cognitive universalism within the species seems plausible.
 But between species, we expect a form of *cognitive relativism* to
