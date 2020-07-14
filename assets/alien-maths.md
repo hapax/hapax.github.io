@@ -246,7 +246,7 @@ This is, roughly speaking, the distinction between
 And at a cognitive level, there is no conceivable sequence of Hebbian changes
 that will turn me into a bat.
 
-#### Convergence and chauvinism
+#### Alien brain, alien mind?
 
 Despite all this talk of generic non-uniqueness, I think that
 commensurability is probably an empirical question in general.
@@ -267,6 +267,10 @@ solutions to similar problems.
 The most famous example is the eye, where vertebrates and cephalopods
 evolved the same biological camera from the single photoreceptive
 pixel of their most recent common ancestor.
+
+Could mind also develop homologously?
+At first sight, this seems like an obscure philosophical quibble, but
+turns out be one of the central questions in our 
 
 <--Sometimes, intelligence is lumped into the same category as the eye.
 But while the camera eye can be described in a sentence---light
