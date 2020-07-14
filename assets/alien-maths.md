@@ -242,7 +242,7 @@ I think we would be a good deal closer to understanding what it is
 like to be a bat.
 These are in principle discoverable by neuroscience, but not by field
 biology.
-That said, there is probably a gestalt aspect to be *operating the
+That said, there is probably a gestalt aspect to *operating the
 interface* which understanding all its parts does not give.
 This is, roughly speaking, the distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
@@ -250,6 +250,9 @@ resurfacing as an obstruction to getting inside the mind of a bat.
 
 #### Convergence and chauvinism
 
+A bat,
+
+<!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
 The further away you look on the Tree of Life, the greater the
 imaginative obstructions, the more exotic the sensory modalities and
@@ -257,9 +260,7 @@ carriers of meaning, the more radically different the *umwelten*.
 A bat is not "fundamentally alien".
 It is a mammal, so we share large chunks of brain function and DNA.
 But what if we were to encounter beings from a different Tree altogether?
-I would place a very high prior on incommensurability of some sort.
-
-
+I would place a very high prior on incommensurability of some sort. -->
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
