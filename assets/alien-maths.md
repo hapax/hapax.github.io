@@ -132,7 +132,7 @@ relativism is interspecific *cognitive relativism*: your brain architecture
 determines your reality.
 At first sight, this seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
-sonar, are experiencing the world in a different way; they "see"
+sonar, are experiencing the world in a different way, since they "see"
 things we don't.
 
 <!-- But while *intraspecific* cognitive universalism seems plausible,
