@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Cognition and alien mathematics"
+title:  "Cognitive relativism and mathematics"
 categories: [Mathematics, Philosophy]
 date:  2020-07-08
 ---
