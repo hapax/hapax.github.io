@@ -90,11 +90,10 @@ It literally takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so both reasoning and
 communication are facilitated.
 
-But the referential acts of communication and reasoning are only one
-aspect of language.
+But reference is only one aspect of language.
 <!-- Our brain, with its phylogenetic onion skin of drives of abilities, is
  fantastically elaborated in human culture. -->
-Our uniquely human drives and need are expressed in culture, woven
+Our uniquely human drives and needs are expressed in *culture*, woven
 marvellously through with its language games of family, hierarchy,
 courtship, religion, custom, protocol, and so forth.
 <!-- It will also presumably have cultural relevance, with words playing an
@@ -113,19 +112,24 @@ spheres.
 </span>
 
 But show me a culture without slang, register, and other forms of
-sociolinguistic variance, and I will show you an incompetent lexicologist.
-Culture and language partially adapt and create each other.
-<!-- slang, patois,  and other vernacular adaptations -->
+vernacular adaptation and sociolinguistic variance, and I will show
+you an incompetent lexicologist.
 
-All this suggests that language organically co-evolves with culture
-and the cognitive demands of life in a particular time and place.
+Culture and language partially adapt and create each other,
+co-evolving to serve the
+<!-- slang, patois,  and other vernacular adaptations -->
+<!-- All this suggests that language organically co-evolves with -->
+<!-- culture and the -->
+cognitive demands of life in a particular time and place.
 If we split these forces up and decide on some fixed order of
-influence, the cart will be before the horse, whichever order we choose!
+influence, the cart will be before the horse, whichever order we
+choose!
+Language and culture are oceanic rather than riverine.
 <!--Linguistic relativism is wrong, not because language does not affect
 thought, but rather, because they organically co-evolve.-->
 Linguistic universalism, relativism's opposite number, seems to me to
 make the same error of unidirectional generalisation.
-A mnemonic is a way of shaping cognition with language, and education
+A mnemonic, for instance, is a way of shaping cognition with language, and education
 is (in part) the mnemonic of a whole structure of life, a process of
 enculturation and cognitive bootstrapping via language.
 Clearly, language can influence perception and thought.
