@@ -65,7 +65,7 @@ relativism and universalism altogether.
 
 #### Language, culture and cognition
 
-The controversy seems amusingly overblown.
+<!-- The controversy seems amusingly overblown. -->
 Would anyone really be surprised to learn that there are more words
 for snow in Inuktitut than Amharic?
 This seems about as shocking as the existence of the periodic table.
