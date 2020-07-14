@@ -133,9 +133,9 @@ enculturation and cognitive bootstrapping via language.
 
 #### Cognitive relativism and chauvinism
 
-If linguistic universalism is too strong, there is a
-*cognitive universalism* which seems much more defensible (and which,
-in fairness, is closer to what most universalists believe).
+While the version of linguistic universalism just outlined is wrong,
+*cognitive universalism* seems more defensible (and in fairness, is
+closer to what most universalists believe).
 Human brains don't magically change when we cross cultural or racial
 boundaries, and indeed, language and culture can be viewed as *interfaces*
 between the IO of reality and our relatively invariant cognitive hardware.
