@@ -131,15 +131,15 @@ brains in a Hebbian fashion, it is clearly wrong.
 #### Cognitive relativism and chauvinism
 
 Cognitive universalism within the species seems plausible.
-But what about other species?
-Some form of interspecific *cognitive relativism* seems beyond doubt.
+But when it comes to other species, some form of interspecific
+*cognitive relativism* seems uncontroversially true.
 A dog snuffling around in the undergrowth, or a bat navigating by
 sonar, are experiencing the world in a different way, since they "see"
 things we don't.
-The "strong" form of cognitive relativism states that your brain
-determines your reality.
-The "weak" form replaces "determines" with "influences", in the same
-fashion as 
+As with linguistic relativism, we can distinguish two forms of
+cognitive relativism.
+The strong form states that *your brain determines your reality*.
+The weak replaces "determines" with "influences".
 
 Linguistic relativism played an important 
 According to some thinkers, the original motivation for linguistic
@@ -148,10 +148,3 @@ the occidental chauvinism cultural solutions to the
 problems of human nature are unique, or optimal---is so hard to avoid,
 how much *more* difficult to avoid will be the cognitive chauvinism that humans
 have some sort of exclusive purchase on reality?
-
-<!-- But while *intraspecific* cognitive universalism seems plausible,
-*interspecific* cognitive relativism seems beyond doubt. Bats -->
-<!-- experience the world differently because their whole cognitive -->
-<!-- architecture is different. The closer two species are on the Tree -->
-<!-- of Life, the more likely they are to have cognitive experience in -->
-<!-- common, but in general, -->
