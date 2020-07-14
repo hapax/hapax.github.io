@@ -228,6 +228,9 @@ I think this can take us only so far, since apart from any claims of
 phenomenological incommensurability, operating systems are
 underdetermined by the IO.
 There is more than one way to be in a bat!
+But paying careful attention to the carriers of significance---which
+include sensory modalities, and far more---does, in my view, take us
+closer to the inner life of a bat.
 
 #### Chauvinism and relativism
 
