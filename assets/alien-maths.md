@@ -61,7 +61,7 @@ In other words, colour terminology does seem to be tied, in some way, to
 measurable differences in perception.
 But rather than proving relativism, I think the best way to understand
 these experiments is to relinquish the false dichotomy between
-relativism and universalism.
+relativism and universalism altogether.
 
 #### Language, culture and cognition
 
