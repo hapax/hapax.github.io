@@ -111,9 +111,10 @@ related languages—even a single language—belong to distinct culture
 spheres.
 </span>
 
-But show me a culture without slang, patois, or other vernacular
-adaptations, and I will show you an incompetent lexicologist.
+But show me a culture without slang, register, and other forms of
+sociolinguistic variance, and I will show you an incompetent lexicologist.
 Culture and language partially adapt and create each other.
+<!-- slang, patois,  and other vernacular adaptations -->
 
 All this suggests that language organically co-evolves with culture
 and the cognitive demands of life in a particular time and place.
