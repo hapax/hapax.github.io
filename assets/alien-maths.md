@@ -268,12 +268,10 @@ The most famous example is the eye, where vertebrates and cephalopods
 evolved the same biological camera from the single photoreceptive
 pixel of their most recent common ancestor.
 
-Sometimes, intelligence is lumped into the same category as the eye,
-with 
-
-<!-- Although *umwelt* theory seems to be phenomenologically oriented, it
-conceals a tacit functionalist assumption that IO implies OS.
-This functionalist overreach is by no means confined to biology. -->
+<--Sometimes, intelligence is lumped into the same category as the eye.
+But while the camera eye can be described in a sentence---light
+passses through a pinhole onto a photoreceptive screen---there is no
+simple definition of intelligence current among biologists.-->
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
