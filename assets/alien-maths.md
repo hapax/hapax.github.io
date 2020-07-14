@@ -221,7 +221,7 @@ which is
 <span style="padding-left: 20px; display:block">
 constituted by a more or less broad series of elements, 'carriers of
 significance' or 'marks' which are the only things that interest the
-animal...
+animal.
 </span>
 
 In computational terms, the *umwelt* is an effort to reverse engineer
