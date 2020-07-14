@@ -228,9 +228,9 @@ In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
 I think this can take us only so far, since apart from any claims of
 phenomenological incommensurability, operating systems are
-underdetermined by what you do with them; you can solve the same
-problem in different ways.
-There is more than one way to skin a bat!
+underdetermined by what you do with them; solutions to biological
+problems are non-unique.
+Put differently, there is more than one way to skin a bat!
 
 A Nagelian would argue that even if we rationally understand the
 operating system, that does not render the experience commensurable.
@@ -249,8 +249,6 @@ This is, roughly speaking, the distinction between
 resurfacing as an obstruction to getting inside the mind of a bat.
 
 #### Convergence and chauvinism
-
-A bat,
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
