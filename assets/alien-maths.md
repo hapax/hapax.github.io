@@ -272,10 +272,9 @@ Could mind also develop homologously?
 At first sight, this seems like an obscure philosophical quibble, but
 turns out be one of the central questions in our 
 
-<--Sometimes, intelligence is lumped into the same category as the eye.
-But while the camera eye can be described in a sentence---light
+<!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
 passses through a pinhole onto a photoreceptive screen---there is no
-simple definition of intelligence current among biologists.-->
+simple definition of intelligence current among biologists. --> 
 
 <!-- Let's leave the problem
 The natural yardstick for incommensurability is phylogenetic.
