@@ -133,20 +133,26 @@ Clearly, language can influence perception and thought.
 
 #### Cognitive relativism and the inner life of bats
 
-While the version of linguistic universalism just outlined is wrong,
-*cognitive universalism* (closer to what most universalists believe)
-is more defensible.
-Human brains don't magically change when we cross cultural or racial
-boundaries, and indeed, language and culture can be viewed as *interfaces*
+A simple way to constrain the relationship between language and
+thought is the [Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory)
+maxim that "neurons that fire together, wire together".
+If linguistic relativism is a claim that language changes our brains
+in any way *other than* Hebbian learning (or a related learning
+mechanism), then it is probably wrong.
+Similarly, if universalism claims that language *cannot* change our
+brains in a Hebbian fashion, it is wrong.
+The only way for perception to be fundamentally different---rather
+than the result of Hebbian training---is if brains magically change as we
+cross cultural or racial or geographical boundaries.
+*Cognitive universalism* is the (empirically defensible) claim this
+does not happen.
+<!-- While the version of linguistic universalism just outlined is -->
+<!-- wrong, *cognitive universalism* (closer to what most universalists believe)
+is more defensible. -->
+Rather, language and culture can be viewed as *interfaces*
 between the IO of reality and our relatively invariant cognitive hardware.
 Interfaces differ, since reality differs (sub-Saharan Africa is not
 Nunangat), and even for the same local conditions, the choice of interface is radically non-unique.
-But if linguistic relativism is a claim that language changes our
-brains in any way *other than* the usual
-[Hebbian](https://en.wikipedia.org/wiki/Hebbian_theory) fashion, then
-it is clearly wrong.
-Similarly, if universalism claims that language *cannot* change our
-brains in a Hebbian fashion, it is clearly wrong.
 
 Cognitive universalism within the species seems plausible.
 But between species, we expect a form of *cognitive relativism* to
@@ -184,3 +190,5 @@ it is subjectively like anything we can experience or imagine.
 
 Nagel's account of the phenomenology of bats feels more plausible than
 his anti-reductionism, but I will leave a critical evaluation for another time.
+
+#### Weak relativism and mathematics
