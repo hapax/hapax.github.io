@@ -265,9 +265,10 @@ There are biological precedents for this idea.
 occurs when phylogenetically distant organisms converge on similar
 solutions to similar problems.
 The most famous example is the eye, where vertebrates and cephalopods
-evolved the same biological camera, while their earliest common
-ancestor had something much more rudimentary, probably a single photoreceptive pixel.
+evolved the same biological camera, while their most recent common
+ancestor had only a single photoreceptive pixel.
 
+Sometimes, intelligence is lumped into the same category.
 
 <!-- Although *umwelt* theory seems to be phenomenologically oriented, it
 conceals a tacit functionalist assumption that IO implies OS.
