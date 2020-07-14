@@ -267,14 +267,22 @@ solutions to similar problems.
 The most famous example is the eye, where vertebrates and cephalopods
 evolved the same biological camera from the single photoreceptive
 pixel of their most recent common ancestor.
-
 Could mind also develop convergently?
 Though it sounds like a dusty quibble, this question is
-central to our search for extraterrestrial life.
+central to our search for extraterrestrial life!
 From the
 [Voyager record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
 to [SETI@home](https://setiathome.berkeley.edu/), efforts to talk to
 aliens represent experiements in cognitive relativism.
+
+When *umwelten* overlap, Estonian semoiotician Yuri Lotman proposed
+that a ["semiosphere"](https://en.wikipedia.org/wiki/Semiosphere)
+results: a realm of shared meaning that arises by virtue of caring
+about the same environmental "marks".
+I think humans enjoy the company of dogs, and vice versa, due to a
+generous overlap of *umwelten*.
+Many of their pleasures are our pleasures (though by no means all,
+e.g. frolicking in carrion).
 
 <!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
 passses through a pinhole onto a photoreceptive screen---there is no
