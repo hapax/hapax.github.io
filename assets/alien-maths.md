@@ -208,8 +208,9 @@ his anti-reductionism, but we'll leave a critical evaluation for another time.
 
 #### Chauvinism and relativism
 
-It's easy to be a cognitive relativist about organisms lower on the
-food chain.
+The usual yardstick for incommensurability is phylogenetic.
+The further away you look on the Tree of Life, the greater the
+imaginative obstructions.
 
 <!-- http://www.hutter1.net/ai/uaibook.htm -->
 
