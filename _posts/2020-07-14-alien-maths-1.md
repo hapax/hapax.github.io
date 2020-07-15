@@ -222,9 +222,9 @@ it is subjectively like anything we can experience or imagine.
 This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
 
-Unfortunately for Nagel's line of argument, the statement that the
-exotic sensory modality "appears to create difficulties" is the
-strongest justification he can muster.
+The statement that the novelty of echolocation "appears to create difficulties" is the
+best justification for incommensurability he can muster.
+Can we do better?
 
 <!-- Nagel's account of the phenomenology feels more plausible than
 his anti-reductionism, but we'll leave a critical evaluation for
