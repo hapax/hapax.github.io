@@ -262,7 +262,7 @@ machinery seamlessly, in real time.
 The different components form a "functional gestalt", defined
 precisely by all the parts operating together at once.
 In fact, it
-seems reasonable to identify this gestalt with the *umwelt*.
+seems reasonable to identify this gestalt with the *umwelt* itself.
 There is no magic or phenomenology here, just an organism competent at
 living.
 And the competent organism
