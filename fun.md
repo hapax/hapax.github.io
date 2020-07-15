@@ -27,7 +27,7 @@ In a prior life I earned a philosophy degree, and still take language
 on holiday on occasion. Some rambling discursions:
 
 - *Alien algebra, bat brains and other cognitive conundra*
-  [[1](https://hapax.github.io/mathematics/philosophy/alien-maths-1/)]
+  [[1](https://hapax.github.io/philosophy/alien-maths-1/)]
   (2020, blog post). From linguistic relativism to alien mathematics.
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). What makes time different from space, and what
