@@ -211,13 +211,14 @@ it is subjectively like anything we can experience or imagine.
 This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
 
-Nagel's account of chiropteran phenomenology feels more plausible than
+<!-- Nagel's account of the phenomenology feels more plausible than
 his anti-reductionism, but we'll leave a critical evaluation for
-another time.
+another time. -->
 
-A more systematic approach to conceptualising the inner life of other animals is the
-[*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of biologist Jakob von Uexküll.
-Uexküll wanted to understand how animals model and interact with their
+The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of
+biologist Jakob von Uexküll represents a more systematic approach to
+conceptualising the inner life of animals.
+Uexküll wanted to understand how organisms model and interact with their
 environments and thereby create meaning.
 The *umwelt* (German for "environment") is a synthesis of these
 factors,
@@ -228,17 +229,36 @@ significance' or 'marks' which are the only things that interest the
 animal.
 </span>
 
-In computational terms, the *umwelt* is an effort to reverse engineer
+I think this is an instructive approach.
+By carefully considering the "marks" available to the bat, learning
+about cave topography, feeding habits, and social structure, and
+perhaps experimenting with human echolocation, Nagel's claim that our
+experiences are incommensurable becomes less clear.
+Although there is no conceivable sequence of Hebbian changes that will
+turn me into a bat, with enough effort I could maybe simulate one.
+This is similar Daniel Dennett to humorous account of
+"heterophenomenology" in [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).
+
+That said, there is probably a gestalt aspect to operating the
+cognitive machinery which understanding all its parts does not give.
+This is the old distinction between
+["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
+An automotive engineer may not be able to drive, and similarly, an
+Uexküllian expert on bat heterophenomenology may not know how the bat
+does its thing.
+I'm not sure.
+
+<!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
 There is a tacit functionalist assumption here that *IO determines OS*.
 But there is more than one way to skin a bat!
 Solutions to biological problems are non-unique, as human culture
 shows; operating systems are underconstrained by what you do with
-them.
-
-Further, Nagel would argue that even if we rationally understand the
-operating system, that does not render the experience commensurable.
+them. 
+Nagel would argue that even if we rationally understand the
+*umwelt*, that does not render the experience commensurable.
 There is an internal aspect our model cannot capture.
+
 I suspect the truth is somewhere in between.
 If we could understand all the relevant carriers of meaning, but more
 subtly, the *ways they are encoded and manipulated by the interface*,
@@ -250,11 +270,13 @@ interface* which understanding all its parts does not give.
 This is, roughly speaking, the distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
 And at a cognitive level, there is no conceivable sequence of Hebbian changes
-that will turn me into a bat.
+that will turn me into a bat. -->
 
 #### Alien brain, alien mind?
 
-Despite all this talk of generic non-uniqueness, I think that
+Another problem is that knowing a few "marks" radically underconstrains
+
+<!-- Despite all this talk of generic non-uniqueness, I think that
 commensurability is probably an empirical question.
 If so, the simplest way to phrase cognitive relativism is that
 mind [supervenes](https://plato.stanford.edu/entries/supervenience/) on the
@@ -264,7 +286,7 @@ Supervenience of mind on brain is weaker than strict identification,
 and gives ontological wiggle room for Nagelian phenomenology (if one
 is so inclined), while allowing for the possibility that the same sort
 of mind could arise from different sorts of brain.
-Similar minds would be commensurable.
+Similar minds would be commensurable. -->
 
 There are biological precedents for this idea.
 [Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution)
@@ -300,7 +322,7 @@ on the bedrock of conition to ground translation and intercultural
 dialogue, science fiction often falls back on the bedrock of reality
 to ground interspecific dialogue.
 We may find the tentacles offputting and the customs bizarre, but we
-can always talk about gravity and prime numbers instead.
+can always talk about gravity and prime numbers instead. -->
 
 <!-- Sometimes, intelligence is lumped into the same category as the eye. But while the camera eye can be described in a sentence---light
 passses through a pinhole onto a photoreceptive screen---there is no
