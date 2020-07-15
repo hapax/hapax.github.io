@@ -112,9 +112,8 @@ related languages—even a single language—belong to distinct culture
 spheres.
 </span>
 
-But show me a culture without slang, register, and other forms of
-vernacular adaptation and sociolinguistic variance, and I will show
-you an incompetent lexicologist.
+But show me a culture without vernacular adaptation and
+sociolinguistic inflection, and I will show you an incompetent lexicologist.
 
 Culture and language partially adapt and create each other,
 co-evolving to serve the
