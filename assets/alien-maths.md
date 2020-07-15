@@ -37,9 +37,9 @@ than English, while the
 The claim that language affects our perception of reality is called
 *linguistic relativism*. "Strong" linguistic
 relativism states that your languages *determines* your reality.
-"Weak" relativism makes the weaker claim that language merely
-influences your reality; perception is somehow downstream from
-language.
+"Weak" relativism claims that language merely
+influences your reality.
+Perception is downstream either way.
 
 Perhaps the sharpest version of the hypothesis is that
 [colour words](https://en.wikipedia.org/wiki/Linguistic_relativity_and_the_color_naming_debate)
