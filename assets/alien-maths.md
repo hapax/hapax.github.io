@@ -28,11 +28,12 @@ linguistic systems of our minds. -->
 
 <div style="text-align: right"><i>Benjamin Whorf</i> </div>
 
-Language, it seems, is naturally tied to our view of reality.
-Two infamous examples: according to some linguists, the Inuit have
+Language, it seems, is tied to our view of reality.
+Two famous and contested examples: the Inuit have
 [more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
 than English, while the
 [Hopi language reflects a different conception of time](https://en.wikipedia.org/wiki/Hopi_time_controversy).
+(The former seems more attested than the latter.)
 The claim that language affects our perception of reality is called
 *linguistic relativism*. "Strong" linguistic
 relativism states that your languages *determines* your reality.
@@ -278,19 +279,18 @@ aliens represent experiements in cognitive relativism.
 
 When *umwelten* overlap, Estonian semoiotician Yuri Lotman proposed
 that a ["semiosphere"](https://en.wikipedia.org/wiki/Semiosphere)
-results: a realm of shared meaning that arises by virtue of caring
-about the same environmental "marks".
-I think humans enjoy the company of dogs, and vice versa, due to a
-generous overlap of *umwelten*.
+results: a realm of shared meaning that arises by virtue of shared
+"marks".
+For instance, I think humans enjoy the company of dogs, and vice
+versa, due to a generous overlap of *umwelten*.
 Many of their pleasures are our pleasures (though by no means all,
-e.g. frolicking in carrion).
+as frolicking in carrion shows).
 To establish meaningful connection with an alien mind, the semiosphere
 cannot be empty.
 
-The possibilities for radical difference in alien culture and biology
+The possibilities for radical differences in alien culture and biology
 are part of an
-[established set](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlienTropes)
-of tropes.
+[established set of tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlienTropes).
 But in the same way that an intraspecific universalist can fall back
 on the bedrock of conition to ground translation and intercultural
 dialogue, science fiction often falls back on the bedrock of reality
