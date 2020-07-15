@@ -28,6 +28,12 @@ linguistic systems of our minds. -->
 
 <div style="text-align: right"><i>Benjamin Whorf</i> </div>
 
+<span style="padding-left: 20px; display:block">
+If a lion could talk, we could not understand him.
+</span>
+
+<div style="text-align: right"><i>Ludwig Wittgenstein</i> </div>
+
 Language, it seems, is tied to our view of reality.
 Two famous and contested examples: the Inuit have
 [more root words for snow](https://en.wikipedia.org/wiki/Eskimo_words_for_snow)
