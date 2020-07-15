@@ -249,7 +249,7 @@ By carefully considering the "marks" available to the bat, learning
 about cave topography, feeding habits, social structure, and
 experimenting with human echolocation, Nagel's claim that chiropteran
 experience is incommensurable with ours becomes less obvious, since
-the imaginative obstructions do not seem so fundamental.
+the imaginative obstructions do not seem fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 (Cf. Daniel Dennett's humorous account of
