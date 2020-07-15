@@ -59,7 +59,7 @@ here.
 In fact, experiments by cognitive linguists suggest that colour
 terminology *does* lead to small differences of performance in
 tasks involving memorisation and categorisation of colour.
-Colour terminology does have some measurable effect.
+Colour terminology does something.
 But rather than proving relativism, I think the best way to understand
 these experiments is to relinquish the false dichotomy between
 relativism and universalism altogether.
