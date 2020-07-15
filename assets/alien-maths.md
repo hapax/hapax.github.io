@@ -88,7 +88,7 @@ I use the word "encode" deliberately, since words *tokenise relevant
 differences* in a way that aids compression.
 It literally takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so both reasoning and
-communication are facilitated.
+communication are easier.
 
 But reference is only one aspect of language.
 <!-- Our brain, with its phylogenetic onion skin of drives of abilities, is
