@@ -113,7 +113,7 @@ games that human culture is built on.
 Tokenises relevant differences is facilitates reasoning and -->
 <!-- communication. -->
 Language and culture are not synonymous, as founding relativist
-Edward Sapir comments:
+Edward Sapir points out:
 
 <span style="padding-left: 20px; display:block">
 It is easy to show that language and culture are not intrinsically
