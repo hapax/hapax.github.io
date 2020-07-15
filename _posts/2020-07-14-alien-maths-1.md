@@ -247,29 +247,32 @@ animal.
 I think this is an instructive approach.
 By carefully considering the "marks" available to the bat, learning
 about cave topography, feeding habits, social structure, and
-experimenting with human echolocation, Nagel's claim that chiropteran
-experience is incommensurable with ours becomes less obvious, since
-the imaginative obstructions do not seem fundamental.
-Although there is no conceivable sequence of Hebbian changes that will
-turn me into a bat, with enough effort I could maybe simulate one.
+experimenting with human echolocation---in other words, becoming
+ethologists---Nagel's claim that chiropteran experience is incommensurable with ours becomes less obvious.
+The imaginative obstructions do not seem fundamental!
 (This closely parallels Daniel Dennett's account of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
+Although there is no conceivable sequence of Hebbian changes that will
+turn me into a bat, with enough effort I could maybe simulate one.
 
 But while there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its interlocking cognitive
 machinery seamlessly, in real time.
 The different components form a "functional gestalt", defined
-precisely by all the parts operating together at once.
-In fact, it
+precisely by all the parts operating together at once; in fact, it
 seems reasonable to identify this gestalt with the *umwelt* itself.
 There is no magic or phenomenology here, just an organism competent at
 living.
 And the competent organism
 ["knows how"](https://plato.stanford.edu/entries/knowledge-how/) while
-the biologist "knows that".
-You might be an Uexküllian expert on bat heterophenomenology, but not
-know how to drive the batmobile!
+the ethologist "knows that".
+You might be the world's greatest Uexküllian expert on bat
+heterophenomenology.
+But to know how to drive the batmobile, you probably need to spend
+some time in the driver's seat.
+<!-- It's unclear just how an ethologist *could* come to "know
+that" without literally being embedded in the bat brain.
 <!-- This is just the old distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
 but applied to brains interfacing with reality. 
