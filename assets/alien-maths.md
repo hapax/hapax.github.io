@@ -124,7 +124,7 @@ cognitive demands of life in a particular time and place.
 If we split these forces up and decide on some fixed order of
 influence, the cart will be before the horse, whichever order we
 choose.
-They are oceanic rather than riverine.
+<!-- They are oceanic rather than riverine.
 <!--Linguistic relativism is wrong, not because language does not affect
 thought, but rather, because they organically co-evolve.-->
 Linguistic universalism, relativism's opposite number, seems to me to
