@@ -2,7 +2,8 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Bat brains and other cognitive conundra"
+title:  "Alien algebra, bat brains and other cognitive conundra (Part
+I)"
 categories: [Mathematics, Philosophy]
 date:  2020-07-08
 ---
@@ -257,6 +258,17 @@ Put differently, this is just the old distinction between
 but applied to brains.
 You might be an Uexküllian expert on bat heterophenomenology, but not
 know how to drive the batmobile.
+
+#### Next time: alien mathematics
+
+So finishes Part I.
+Next time, we'll consider convergent evolution, aliens, and
+the ways that reality itself might ground interspecific discourse in
+the same way that cognitive universalism grounds intraspecific
+discourse, i.e. translation.
+In particular, we'll consider the claim that mathematics acts as a
+"universal language", and explore some possibilities for alien
+mathematics.
 
 <!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
