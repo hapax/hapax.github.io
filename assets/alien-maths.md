@@ -171,7 +171,7 @@ Nunangat), and even for the same local conditions, the choice of -->
 If cognitive universalism within the species is a biological fact,
 between species we would expect a form of *cognitive relativism* to hold.
 A dog snuffling around in the undergrowth, a bat navigating by
-sonar, and a human piloting a jet engine, are experiencing the world
+sonar, and a human piloting an F-15, are experiencing the world
 in different ways; each "sees" things the other cannot, and is
 afforded new possibilities for action as a result.
 As with language, we can distinguish two forms of
