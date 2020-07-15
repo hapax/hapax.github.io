@@ -258,13 +258,17 @@ turn me into a bat, with enough effort I could maybe simulate one.
 
 While there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its cognitive
-machinery seamlessly, in real time, and as part of the "functional
-gestalt" defined precisely by operating all the parts at once.
+machinery seamlessly, in real time.
+We are not invoking anything magical or phenomenological here.
+The different components are part of the "functional gestalt" defined
+precisely as the operation of all the parts at once to perform IO via
+the *umwelt*.
+It seems plausible to me that this is different from knowing all the parts.
 Put differently, this is just the old distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
-but applied to brains.
+but applied to brains interfacing with reality.
 You might be an Uexküllian expert on bat heterophenomenology, but not
-know how to drive the batmobile.
+know how to drive the batmobile!
 
 #### Next time: alien mathematics
 
