@@ -57,10 +57,9 @@ developed among the Greeks of the heroic age.
 Pomposity aside, there is a scientific thesis
 here.
 In fact, experiments by cognitive linguists suggest that colour
-terminology *does* lead to differential performance in tasks which involve
-remembering and categorising colours.
-In other words, colour terminology does seem to be tied to
-measurable differences in perception.
+terminology *does* lead to small differences of performance in
+tasks involving memorisation and categorisation of colour.
+Colour terminology does have some measurable effect.
 But rather than proving relativism, I think the best way to understand
 these experiments is to relinquish the false dichotomy between
 relativism and universalism altogether.
