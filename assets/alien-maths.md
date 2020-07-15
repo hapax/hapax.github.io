@@ -73,7 +73,7 @@ This seems about as shocking as the existence of the periodic table.
 I would expect Inuit hunters to outperform their Ethiopian
 counterparts in tasks involving fine-grained perceptions of snow,
 since their survival literally depends on it.
-Like chemists, there should be measurable cognitive differences as a
+<!--Like chemists, there should be measurable cognitive differences as a
 result of training, and learning the lingo is part of that training.
 <!-- since, like a chemist, they are trained to do so.
 Put differently, survival *depends* on measurable cognitive
