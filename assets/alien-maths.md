@@ -158,7 +158,7 @@ does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
 is more defensible. -->
-Rather, language and culture can be viewed as operating systems <!-- *interfaces*-->
+Rather, language and culture can be viewed as "operating systems" <!-- *interfaces*-->
 interfacing between the IO of reality and our relatively invariant
 cognitive hardware.
 These operating systems differ not only because reality varies (sub-Saharan Africa is not
