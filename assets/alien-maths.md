@@ -217,8 +217,8 @@ another time.
 
 A more systematic approach to conceptualising the inner life of other animals is the
 [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) model of biologist Jakob von Uexküll.
-Uexküll wanted to understand how animals create meaning, model and
-interact with their environments.
+Uexküll wanted to understand how animals model and interact with their
+environments and thereby create meaning.
 The *umwelt* (German for "environment") is a synthesis of these
 factors,
 
