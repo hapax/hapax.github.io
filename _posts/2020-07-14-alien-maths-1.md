@@ -256,7 +256,7 @@ turn me into a bat, with enough effort I could maybe simulate one.
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
-While there may or may not be something it is like to be a bat, a bat,
+But while there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its interlocking cognitive
 machinery seamlessly, in real time.
 The different components form a "functional gestalt", defined
