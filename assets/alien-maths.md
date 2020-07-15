@@ -185,7 +185,7 @@ cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
 determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
-(This is like the claim made by lingustic relativists that some things
+(This is like the claim that some things
 are untranslatable.)
 The weak version replaces "determines" with "influences".
 I think the weak version is uncontroversially true, so for the rest of this
