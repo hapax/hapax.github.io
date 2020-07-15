@@ -181,6 +181,8 @@ determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
 (This is like the claim made by lingustic relativists that some things
 are untranslatable.)
+The weak version replaces "determines" with "influences", holding onto
+the direction of influence.
 
 #### The inner life of bats
 
