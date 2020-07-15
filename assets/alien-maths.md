@@ -118,8 +118,9 @@ related languages—even a single language—belong to distinct culture
 spheres.
 </span>
 
-But show me a culture without vernacular adaptation and
-sociolinguistic inflection, and I will show you an incompetent lexicologist.
+But show me a culture without register, slang, and other
+sociolinguistic variance, and I will show you an incompetent
+lexicologist.
 
 Culture and language partially adapt and create each other,
 co-evolving to serve the
@@ -296,7 +297,7 @@ is so inclined), while allowing for the possibility that the same sort
 of mind could arise from different sorts of brain.
 Similar minds would be commensurable. -->
 
-There are biological precedents for this idea.
+<!-- There are biological precedents for this idea.
 [Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution)
 occurs when phylogenetically distant organisms converge on similar
 solutions to similar problems.
@@ -309,7 +310,7 @@ central to our search for extraterrestrial life!
 From the
 [Voyager record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
 to [SETI@home](https://setiathome.berkeley.edu/), efforts to talk to
-aliens represent experiements in cognitive relativism.
+aliens represent experiements in cognitive relativism. 
 
 When *umwelten* overlap, Estonian semoiotician Yuri Lotman proposed
 that a ["semiosphere"](https://en.wikipedia.org/wiki/Semiosphere)
