@@ -4,7 +4,7 @@ mathjax: true
 comments: true
 title:  "Alien algebra, bat brains and other cognitive conundra (Part
 I)"
-categories: [Mathematics, Philosophy]
+categories: [Philosophy]
 date:  2020-07-08
 ---
 
