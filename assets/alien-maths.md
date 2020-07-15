@@ -247,14 +247,14 @@ turn me into a bat, with enough effort I could maybe simulate one.
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
-That said, there is probably a gestalt aspect to operating the
-cognitive machinery which understanding all its parts does not give.
-This is the old distinction between
+While there may or may not be something it is like to be a bat, a bat,
+unlike a human, does know how to operate all of its cognitive
+machinery seamlessly, in real time, and as part of a "functional
+gestalt".
+Really, this is just the old distinction between
 ["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
-An automotive engineer may not be able to drive, and similarly, an
-Uexküllian expert on bat heterophenomenology may not know how the bat
-does its thing.
-I'm not sure.
+You might be an Uexküllian expert on bat heterophenomenology, but not
+know how to drive the batmobile.
 
 <!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
