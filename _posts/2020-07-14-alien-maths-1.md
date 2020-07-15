@@ -198,16 +198,16 @@ post, the strong form will be implicit.
 
 #### The inner life of bats
 
-The most provocative aspect of strong cognitive relativism is incommensurability.
-One of the most famous arguments for incommensurability is Thomas
-Nagel's
+The most provocative aspect of strong cognitive relativism is
+incommensurability, and the most famous argument is Thomas
+Nagel's paper
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
-Nagel is actually interested in showing there is an *interior* aspect
+Nagel is really interested in showing there is an *interior* aspect
 to consciousness that cannot be captured by reductive explanation,
 i.e. mind is different from brain. But his argument relies on the
 incommensurability
 <!-- of human and chiropteran experience, that there is-->
-so suggest there s
+to suggest there is
 "something it is like" to be a bat which humans cannot simulate.
 This "something" is mind. 
 As he puts it:
@@ -221,6 +221,10 @@ to any sense that we possess, and there is no reason to suppose that
 it is subjectively like anything we can experience or imagine.
 This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
+
+Unfortunately for Nagel's line of argument, the statement that the
+exotic sensory modality "appears to create difficulties" is the
+strongest justification he can muster.
 
 <!-- Nagel's account of the phenomenology feels more plausible than
 his anti-reductionism, but we'll leave a critical evaluation for
