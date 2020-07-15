@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Cognitive relativism and mathematics"
+title:  "Bat brains and other cognitive conundra"
 categories: [Mathematics, Philosophy]
 date:  2020-07-08
 ---
