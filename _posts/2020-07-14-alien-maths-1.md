@@ -123,7 +123,7 @@ spheres.
 </span>
 
 But show me a culture without register, slang, and other
-sociolinguistic variance, and I will show you an lazy
+sociolinguistic variance, and I will show you a lazy
 lexicologist.
 
 Culture and language partially adapt and create each other,
