@@ -281,7 +281,7 @@ likely requires. -->
 
 So finishes Part I.
 Next time, we'll consider convergent evolution, aliens, and
-the ways that reality itself might ground interspecific discourse in
+how reality itself might ground interspecific discourse in
 the same way that cognitive universalism grounds intraspecific
 discourse, i.e. translation.
 In particular, we'll consider the claim that mathematics acts as a
