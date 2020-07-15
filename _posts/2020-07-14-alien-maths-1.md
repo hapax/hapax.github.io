@@ -123,7 +123,7 @@ spheres.
 </span>
 
 But show me a culture without register, slang, and other
-sociolinguistic variance, and I will show you an incompetent
+sociolinguistic variance, and I will show you an lazy
 lexicologist.
 
 Culture and language partially adapt and create each other,
@@ -257,18 +257,25 @@ turn me into a bat, with enough effort I could maybe simulate one.
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
 While there may or may not be something it is like to be a bat, a bat,
-unlike a human, does know how to operate all of its cognitive
+unlike a human, does know how to operate all of its interlocking cognitive
 machinery seamlessly, in real time.
-We are not invoking anything magical or phenomenological here.
-The different components are part of the "functional gestalt" defined
-precisely as the operation of all the parts at once to perform IO via
-the *umwelt*.
-It seems plausible to me that this is different from knowing all the parts.
-Put differently, this is just the old distinction between
-["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
-but applied to brains interfacing with reality.
+The different components form a "functional gestalt", defined
+precisely by all the parts operating together at once.
+In fact, it
+seems reasonable to identify this gestalt with the *umwelt*.
+There is no magic or phenomenology here, just an organism competent at
+living.
+And the competent organism
+["knows how"](https://plato.stanford.edu/entries/knowledge-how/) while
+the biologist "knows that".
 You might be an Uexküllian expert on bat heterophenomenology, but not
 know how to drive the batmobile!
+<!-- This is just the old distinction between
+["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
+but applied to brains interfacing with reality. 
+We can know all the marks, and how they fit together, but this does
+not allow us to simulate the *fitting together* itself, since this
+likely requires. -->
 
 #### Next time: alien mathematics
 
