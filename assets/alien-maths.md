@@ -211,7 +211,7 @@ it is subjectively like anything we can experience or imagine.
 This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
 
-Nagel's account of the phenomenology of bats feels more plausible than
+Nagel's account of chiropteran phenomenology feels more plausible than
 his anti-reductionism, but we'll leave a critical evaluation for
 another time.
 
