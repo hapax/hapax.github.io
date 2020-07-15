@@ -9,8 +9,8 @@ date:  2020-07-08
 ---
 
 **July 13, 2020.** *Linguistic relativism is the notion that language
-  determines reality. Here, we introduce a variant called cognitive
-  relativism, and consider the inner life of a bat. This will prepare
+  determines reality. Here, I introduce a variant called cognitive
+  relativism, and interrogate the inner life of a bat. This will prepare
   us (hopefully) to think about alien mathematics!*
 
 #### Linguistic relativism in brief
