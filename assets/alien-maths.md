@@ -181,20 +181,24 @@ determines your reality, with the upshot that brains which are too
 different will have *incommensurable* experiences.
 (This is like the claim made by lingustic relativists that some things
 are untranslatable.)
-The weak version replaces "determines" with "influences", holding onto
-the direction of influence.
+The weak version replaces "determines" with "influences".
+I think the weak version is uncontroversially true, so for the rest of this
+post, the strong form will be implicit.
 
 #### The inner life of bats
 
-The most famous argument for cognitive incommensurability is
-Thomas Nagel's
+The most provocative aspect of strong cognitive relativism is incommensurability.
+One of the most famous arguments for incommensurability is Thomas
+Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
-Nagel wants to show there is an *interior* aspect to consciousness
-that cannot be captured by reductive explanation, i.e. mind is
-different from brain. But his argument relies on the
-incommensurability of human and chiropteran experience, that there is
+Nagel is actually interested in showing there is an *interior* aspect
+to consciousness that cannot be captured by reductive explanation,
+i.e. mind is different from brain. But his argument relies on the
+incommensurability
+<!-- of human and chiropteran experience, that there is-->
+so suggest there s
 "something it is like" to be a bat which humans cannot simulate.
-This "something" is mind.
+This "something" is mind. 
 As he puts it:
 
 <span style="padding-left: 20px; display:block">
