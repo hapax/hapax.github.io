@@ -237,13 +237,15 @@ animal.
 
 I think this is an instructive approach.
 By carefully considering the "marks" available to the bat, learning
-about cave topography, feeding habits, and social structure, and
-perhaps experimenting with human echolocation, Nagel's claim that our
+about cave topography, feeding habits, social structure, and
+experimenting with human echolocation, Nagel's claim that our
 experiences are incommensurable becomes less clear.
+The imaginative obstructions do not seem so fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
-This is similar Daniel Dennett to humorous account of
-"heterophenomenology" in [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).
+(This is similar Daniel Dennett to humorous account of
+"heterophenomenology" in
+[his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
 That said, there is probably a gestalt aspect to operating the
 cognitive machinery which understanding all its parts does not give.
