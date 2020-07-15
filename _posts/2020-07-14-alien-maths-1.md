@@ -8,7 +8,10 @@ categories: [Mathematics, Philosophy]
 date:  2020-07-08
 ---
 
-**July 13, 2020.** *Bla*
+**July 13, 2020.** *Linguistic relativism is the notion that language
+  determines reality. Here, we introduce a variant called cognitive
+  relativism, and consider the inner life of a bat. This will prepare
+  us (hopefully) to think about alien mathematics!*
 
 #### Linguistic relativism in brief
 
@@ -110,7 +113,7 @@ games that human culture is built on.
 Tokenises relevant differences is facilitates reasoning and -->
 <!-- communication. -->
 Language and culture are not synonymous, as founding relativist
-Edward Sapir pointed out:
+Edward Sapir comments:
 
 <span style="padding-left: 20px; display:block">
 It is easy to show that language and culture are not intrinsically
@@ -245,7 +248,7 @@ experience is incommensurable with ours becomes less obvious, since
 the imaginative obstructions do not seem so fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
-(This is similar Daniel Dennett to humorous account of
+(Cf. Daniel Dennett's humorous account of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
