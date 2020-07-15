@@ -231,7 +231,7 @@ So it remains a curiosity.
 But it's nice to notice that functions can exhibit all sorts of
 interesting behaviour at infinite zoom.
 Put differently, the notion of a local self-similar approximation is
-more general than straight lines!
+not as straightforward as you might think!
 
 <!-- #### Higher derivatives
 
