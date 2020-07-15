@@ -252,7 +252,7 @@ experience is incommensurable with ours becomes less obvious, since
 the imaginative obstructions do not seem fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
-(Cf. Daniel Dennett's humorous account of
+(This closely parallels Daniel Dennett's account of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
 
