@@ -93,9 +93,10 @@ communication are easier.
 But reference is only one aspect of language.
 <!-- Our brain, with its phylogenetic onion skin of drives of abilities, is
  fantastically elaborated in human culture. -->
-Our uniquely human drives and needs are expressed in *culture*, woven
-marvellously through with its language games of family, hierarchy,
-courtship, religion, custom, protocol, and so forth.
+Our uniquely human drives and needs are expressed in *culture*.
+Culture, in turn, is woven marvellously through with its language
+games of family, hierarchy, art, courtship, religion, custom,
+protocol, and so forth.
 <!-- It will also presumably have cultural relevance, with words playing an
 important role in the system of concepts, hierarchies, relationships and language
 games that human culture is built on.
