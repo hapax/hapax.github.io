@@ -184,8 +184,8 @@ afforded new possibilities for action as a result.
 As with language, we can distinguish two forms of
 cognitive relativism.
 The strong form states that your brain (or cognitive architecture)
-determines your reality, with the upshot that brains which are too
-different will have *incommensurable* experiences.
+determines your reality, with the upshot that different animals will
+have *incommensurable* experiences.
 (This is like the claim that some things
 are untranslatable.)
 The weak version replaces "determines" with "influences".
@@ -250,10 +250,11 @@ turn me into a bat, with enough effort I could maybe simulate one.
 
 While there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its cognitive
-machinery seamlessly, in real time, and as part of a "functional
-gestalt".
-Really, this is just the old distinction between
-["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/).
+machinery seamlessly, in real time, and as part of the "functional
+gestalt" defined precisely by operating all the parts at once.
+Put differently, this is just the old distinction between
+["knowing how" and "knowing that"](https://plato.stanford.edu/entries/knowledge-how/),
+but applied to brains.
 You might be an Uexküllian expert on bat heterophenomenology, but not
 know how to drive the batmobile.
 
@@ -281,9 +282,21 @@ This is, roughly speaking, the distinction between
 And at a cognitive level, there is no conceivable sequence of Hebbian changes
 that will turn me into a bat. -->
 
-#### Alien brain, alien mind?
+<!-- #### Alien brain, alien mind?
 
-Another problem is that knowing a few "marks" radically underconstrains
+Incommensurability has implications for extraterrestrial life.
+From the
+[Voyager record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
+to [SETI@home](https://setiathome.berkeley.edu/), efforts to talk to
+aliens represent experiments in cognitive relativism.
+The question they pose is: could  develop convergently?
+
+[Convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution)
+occurs when phylogenetically distant organisms converge on similar
+solutions to similar problems.
+The most famous example is the eye, where vertebrates and cephalopods
+evolved the same biological camera from the single photoreceptive
+pixel of their most recent common ancestor.
 
 <!-- Despite all this talk of generic non-uniqueness, I think that
 commensurability is probably an empirical question.
