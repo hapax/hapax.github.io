@@ -248,8 +248,9 @@ I think this is an instructive approach.
 By carefully considering the "marks" available to the bat, learning
 about cave topography, feeding habits, social structure, and
 experimenting with human echolocation---in other words, becoming
-ethologists---Nagel's claim that chiropteran experience is incommensurable with ours becomes less obvious.
-The imaginative obstructions do not seem fundamental!
+ethologists---Nagel's claim that chiropteran experience is
+incommensurable with ours becomes less immediate, since the
+imaginative obstructions do not seem fundamental. 
 (This closely parallels Daniel Dennett's account of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
