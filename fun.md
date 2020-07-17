@@ -24,7 +24,7 @@ zombies, science gone mad, and the psychology of time. Winner of the
 (2020). A farcical "what if" about quantum computers.
 
 In a prior life I earned a philosophy degree, and still take language
-on holiday on occasion. Some rambling discursions:
+on holiday from time to time. Some rambling discursions:
 
 - *Alien algebra, bat brains and other cognitive conundra*
   [[1](https://hapax.github.io/philosophy/alien-maths-1/)]

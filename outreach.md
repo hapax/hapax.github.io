@@ -19,11 +19,14 @@ I list some of my teaching and outreach activities below.-->
 	</div>
 </figure>
 
-#### Expository papers
+#### Expository material
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
+- [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
+  post). We determine how big can a white dwarf get before it turns into a black
+  hole?.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
   (2020, blog post). A paean to the processing power of the paper napkin, and its pedagogical potential for physics.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
@@ -53,8 +56,7 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   Avogadro's number. Based on aforementioned
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
-(2018--19). A medley of problems on everything from string theory and
-black holes, to Starbucks and tea cups.
+(2018--19). A medley of problems on everything from string theory to Starbucks.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, with
 applications to black hole thermodynamics.

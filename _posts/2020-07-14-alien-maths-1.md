@@ -90,13 +90,13 @@ Put differently, survival *depends* on measurable cognitive
 differences that are plausibly reflected in the language. -->
 <!-- There is every reason to suppose there are measurable cognitive
 differences; survival depends on it. -->
-The periodic table does not embody a mere
+Similarly, the periodic table does not embody a mere
 "agreement that holds throughout the speech community";
 <!-- Certainly it is an agreement, but it not an arbitrary one.-->
 rather, it encodes facts about the world chemists care to pay attention to.
 I use the word "encode" deliberately, since words *tokenise relevant
 differences* in a way that aids compression.
-It literally takes less bytes to say things, and lowers the cognitive
+It takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so both reasoning and
 communication are easier.
 
