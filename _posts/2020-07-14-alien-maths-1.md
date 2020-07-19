@@ -257,6 +257,8 @@ imaginative obstructions do not seem fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 
+#### Functional gestalts
+
 But while there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its interlocking cognitive
 machinery seamlessly, in real time.
@@ -279,6 +281,28 @@ but applied to brains interfacing with reality.
 We can know all the marks, and how they fit together, but this does
 not allow us to simulate the *fitting together* itself, since this
 likely requires. -->
+
+There is no reason for this functional gestalt to be confined to
+individual organisms. There is a functional gestalt, a "how", to being
+part of a telepathically linked hive mind, something more amorphously
+collective like a slime mould, and so on. In fact, there is a
+functional gestalt associated with being a brick, but I am not
+advocating panpsychism, since there is no "knowing how" with a
+brick. It does not need to be a competent operator, it simply exists
+according to the laws of physics (as far as we know). So in general,
+the mysterious "interiority", the "what it is like" Nagel talks about,
+need not be associated with an individual, but simply any functional
+gestalt that needs some sort of executive coordination to be
+competently wielded.
+
+It is tempting to view this "executive" as consciousness itself, the
+inner experience, qualia, or what have you, but this very easily traps
+us in the bad regress of homonculi and Cartesian theatre. It is just
+the "knowing how" which is itself part of the organism's cognitive
+machinery and can be understood in functional terms. Incidentally, I
+do not wish to Quine qualia; I do think there is something to explain
+(even if it is to heroically explain away). Rather, I just want to
+ground incommensurability on something firmer than Nagelian mysticism!
 
 #### Next time: alien mathematics
 
