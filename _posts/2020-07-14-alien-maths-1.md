@@ -257,7 +257,7 @@ imaginative obstructions do not seem fundamental.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 
-#### Functional gestalts
+#### Incommensurability from functional gestalts
 
 But while there may or may not be something it is like to be a bat, a bat,
 unlike a human, does know how to operate all of its interlocking cognitive
