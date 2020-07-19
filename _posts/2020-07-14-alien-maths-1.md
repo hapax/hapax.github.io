@@ -304,6 +304,16 @@ do not wish to Quine qualia; I do think there is something to explain
 (even if it is to heroically explain away). Rather, I just want to
 ground incommensurability on something firmer than Nagelian mysticism!
 
+And in fact, ths also hows one could potentially learn "what it is
+like" to be a bat: by simply immersing the heterophenomenologist in a
+bat-like environment, and obliging them to use bat-like interfaces to
+solve bat-like problems, in real time, in a coordinated fashion, with
+respect to the *umwelt* marks used by bats.
+It may be that, in some cases, it is simply impossible to arrange a
+suitable analogue experience for the immersion, in which case I think
+we have a well-grounded claim of incommensurability.
+But this does not seem fundamental!
+
 #### Next time: alien mathematics
 
 So finishes Part I.
