@@ -305,15 +305,20 @@ I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is just to ground
 incommensurability on something firmer than Nagelian mysticism.
 
-And in fact, ths also hows one could potentially learn "what it is
-like" to be a bat: by simply immersing the heterophenomenologist in a
-bat-like environment, and obliging them to use bat-like interfaces to
-solve bat-like problems, in real time, in a coordinated fashion, with
-respect to the *umwelt* marks used by bats.
-It may be that, in some cases, it is simply impossible to arrange a
-suitable analogue experience for the immersion, in which case I think
-we have a well-grounded claim of incommensurability.
-But this does not seem fundamental!
+A reasonable objection is that, if executive coordination could be
+understood in functional terms, what is stop someone learning?
+Nothing fundamental, I agree.
+True heterophenomenology, knowing "what it is like" to be a bat, would
+not only consist in research the component abilities and marks.
+This would only be knowing that.
+To know how, you would have to be *immersed* in a bat-like
+environment, obliged to use bat-like interfaces and environment marks
+to solve bat-like problems, in real time, in a coordinated fashion,
+for a suitably long time.
+This is precisely the way that humans adapt to different
+languages cultures!
+If this immersed "driving experience" cannot be arranged, then I think
+we have a well-grounded, empirical claim of incommensurability.
 
 #### Next time: alien mathematics
 
