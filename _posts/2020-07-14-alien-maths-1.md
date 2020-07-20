@@ -297,12 +297,13 @@ competently wielded.
 
 It is tempting to view this "executive" as consciousness itself, the
 inner experience, qualia, or what have you, but this very easily traps
-us in the bad regress of homonculi and Cartesian theatre. It is just
-the "knowing how" which is itself part of the organism's cognitive
-machinery and can be understood in functional terms. Incidentally, I
-do not wish to Quine qualia; I do think there is something to explain
-(even if it is to heroically explain away). Rather, I just want to
-ground incommensurability on something firmer than Nagelian mysticism!
+us in the bad regress of homonculi and Cartesian theatre. The point is
+that the "knowing how" is a central component of the organism's cognitive
+machinery and can be understood in functional terms.
+On the other hand, I don't want to [Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm);
+I think there is still a phenomenological aspect to explain, even if
+it is to heroically explain away. My goal is just to ground
+incommensurability on something firmer than Nagelian mysticism.
 
 And in fact, ths also hows one could potentially learn "what it is
 like" to be a bat: by simply immersing the heterophenomenologist in a
