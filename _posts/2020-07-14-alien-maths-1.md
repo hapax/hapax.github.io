@@ -282,43 +282,42 @@ We can know all the marks, and how they fit together, but this does
 not allow us to simulate the *fitting together* itself, since this
 likely requires. -->
 
+True heterophenomenology, knowing "what it is like" to be a bat, would
+not only consist in researching the component abilities and marks.
+To know how, you would have to be *immersed* in a bat-like
+environment, obliged to use bat-like interfaces and environmental marks
+to solve bat-like problems, in real time, in a coordinated fashion,
+for a suitably long period of time.
+This is precisely the way that humans adapt to different
+languages and cultures!
+If this immersed "driving experience" cannot be arranged, then I think
+we have a well-grounded, empirical claim of incommensurability.
+
 There is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
-collective like a slime mould, and so on. In fact, there is a
-functional gestalt associated with being a brick, but I am not
-advocating panpsychism, since there is no "knowing how" with a
-brick. It does not need to be a competent operator, it simply exists
-according to the laws of physics (as far as we know). So in general,
-the mysterious "interiority", the "what it is like" Nagel talks about,
-need not be associated with an individual, but simply any functional
-gestalt that needs some sort of executive coordination to be
-competently wielded.
+collective like a slime mould, and so on. (We will return to this
+point in the sequel.)
+In fact, there is a functional gestalt associated with being a brick,
+but I am not advocating panpsychism, since there is no "knowing how"
+with a brick. It does not need to be a competent operator, it simply exists
+according to the laws of physics. So in general,
+the mysterious "interiority" Nagel talks about need not be associated
+with an individual, but simply *any* functional gestalt that requires
+executive coordination.
 
 It is tempting to view this "executive" as consciousness itself, the
 inner experience, qualia, or what have you, but this very easily traps
 us in the bad regress of homonculi and Cartesian theatre. The point is
-that the "knowing how" is a central component of the organism's cognitive
-machinery and can be understood in functional terms.
-On the other hand, I don't want to [Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm);
+that the "knowing how" to competently wield everything is a central
+component of the organism's cognitive machinery and can be understood
+in functional terms.
+On the other hand, I don't want to
+[Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm);
 I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is just to ground
-incommensurability on something firmer than Nagelian mysticism.
-
-A reasonable objection is that, if executive coordination could be
-understood in functional terms, what is stop someone learning?
-Nothing fundamental, I agree.
-True heterophenomenology, knowing "what it is like" to be a bat, would
-not only consist in research the component abilities and marks.
-This would only be knowing that.
-To know how, you would have to be *immersed* in a bat-like
-environment, obliged to use bat-like interfaces and environment marks
-to solve bat-like problems, in real time, in a coordinated fashion,
-for a suitably long time.
-This is precisely the way that humans adapt to different
-languages cultures!
-If this immersed "driving experience" cannot be arranged, then I think
-we have a well-grounded, empirical claim of incommensurability.
+incommensurability on something clearer, and more empirical, than
+Nagelian mysticism.
 
 #### Next time: alien mathematics
 
@@ -326,10 +325,10 @@ So finishes Part I.
 Next time, we'll consider convergent evolution, aliens, and
 how reality itself might ground interspecific discourse in
 the same way that cognitive universalism grounds intraspecific
-discourse, i.e. translation.
+discourse.
 In particular, we'll consider the claim that mathematics acts as a
 "universal language", and explore some possibilities for alien
-mathematics.
+mathematics!
 
 <!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
