@@ -162,8 +162,8 @@ And what is Hebbianly possible is a question for neuroscientists
 rather than linguists.
 
 The only way for perception to be fundamentally different---rather
-than the result of Hebbian training---is if brains magically change as we
-cross cultural, racial or even personal boundaries.
+than the result of Hebbian training---is for brains to magically change as we
+cross the boundaries of culture, race or speech community.
 *Cognitive universalism* is the empirically defensible claim this
 does not happen.
 <!-- While the version of linguistic universalism just outlined is -->
