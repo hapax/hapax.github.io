@@ -355,7 +355,7 @@ experience of "being" a flock of birds, responding to those marks, and
 so on.
 
 But while the human may have some inner experience of "what is is
-like" to be a flock of birds, it is highly unlikely that that flock
+like" to be a flock of birds, it is highly unlikely that the flock
 itself has that experience!
 This is simply because the human has some ability over and above the
 flock, namely, a feedback loop on the contents of experience which has
