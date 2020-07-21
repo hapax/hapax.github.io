@@ -276,8 +276,8 @@ living.
 And the competent organism
 ["knows how"](https://plato.stanford.edu/entries/knowledge-how/) while
 the ethologist "knows that".
-You might be the world's greatest expert on bat heterophenomenology.
-But to learn *how* to drive the batmobile, you probably need to spend
+You might be the world's greatest expert on bat heterophenomenology,
+but to learn *how* to drive the batmobile, you probably need to spend
 some time in the driver's seat.
 <!-- It's unclear just how an ethologist *could* come to "know
 that" without literally being embedded in the bat brain.
