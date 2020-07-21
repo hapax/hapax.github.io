@@ -201,13 +201,11 @@ have *incommensurable* experiences.
 are untranslatable.)
 The weak version replaces "determines" with "influences".
 I think the weak version is uncontroversially true, so for the rest of this
-post, the strong form will be implicit.
+post, we will focus on the strong form, and incommensurability in particular.
 
 #### The inner life of bats
 
-The most provocative aspect of strong cognitive relativism is
-incommensurability, and the most famous argument is Thomas
-Nagel's paper
+The most famous argument for incommensurability is Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
 Nagel is really interested in showing there is an *interior* aspect
 to consciousness that cannot be captured by reductive explanation,
