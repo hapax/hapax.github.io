@@ -160,15 +160,20 @@ Similarly, if universalism claims that language *cannot* change our
 brains in a Hebbian fashion, it is wrong.
 And what is Hebbianly possible is a question for neuroscientists
 rather than linguists.
-
 The only way for perception to be fundamentally different---rather
 than the result of Hebbian training---is for brains to magically change as we
 cross the boundaries of culture, race or speech community.
 *Cognitive universalism* is the empirically defensible claim this
 does not happen.
+Different people have different brains, certainly, but the variation
+between individuals is greater than the variation between cultures.
+Brains in Peru form some plane of cognitive variance; a brain in
+Spain falls mainly on this plane.
+<!-- brain in spain falls mainly on the plane -->
 <!-- While the version of linguistic universalism just outlined is -->
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
 is more defensible. -->
+
 Rather, language and culture can be viewed as "operating systems" <!-- *interfaces*-->
 interfacing between the IO of reality and our relatively invariant
 cognitive hardware.
