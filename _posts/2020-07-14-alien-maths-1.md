@@ -208,8 +208,8 @@ post, we will focus on the strong form, and incommensurability in particular.
 The most famous argument for incommensurability is Thomas Nagel's
 [*What is it like to be a bat?*](http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/).
 Nagel is really interested in showing there is an *interior* aspect
-to consciousness that cannot be captured by reductive explanation,
-i.e. mind is different from brain. But his argument relies on the
+to consciousness that cannot be captured by reductive explanation;
+in a slogan, mind is different from brain. But his argument relies on
 incommensurability
 <!-- of human and chiropteran experience, that there is-->
 to suggest there is
