@@ -164,7 +164,8 @@ But if the universe (or a box of gas, or a shiny
 new pair of sneakers, or whatever) is for some reason in a
 sub-maximal, or *low entropy state (LES)*, then it
 will explore ways to be in an effectively irreversible
-fashion, even though the laws of physics *are* reversible.
+fashion, even though the laws of physics *are* reversible, simply
+because it is fantastically unlikely to find its way back to the LES.
 Although the universe might not know about cause and effect at a
 fundamental level, it would be foolish to bet against them.
 In the language of physics, the LES "spontaneously
