@@ -148,9 +148,8 @@ time and space; it simply bakes it into the geometry.
 Is there a more fundamental way of explaining the asymmetry?
 The statistical mechanic says: *because entropy*.
 Roughly speaking, a system with many parts changes in an effectively
-random way, and it will tend towards the most likely outcomes.
-Particularly when the odds for the unlikely outcomes are $p \sim
-10^{-23}$.
+random way, and it will tend towards the most likely outcomes,
+particularly when the odds for the unlikely outcomes are $p \sim 10^{-23}$.
 The second law of thermodynamics states that these odds are
 well approximated by zero.
 
