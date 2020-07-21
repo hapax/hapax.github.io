@@ -156,7 +156,7 @@ well-approximated by zero.
 The claim is that the irreversible, macroscopic arrow of time arises
 from a system exploring ways to be.
 Let's examine this claim a little more closely.
-The *entropy* is just the logarithm of the number of ways the system
+The *entropy* $S$ is just the logarithm of the number of ways $N$ the system
 can be while looking the same at a macroscopic level, $S = \log N$.
 There can be some maximally likely way for a system to be, which
 corresponds to maximum entropy, $S_\text{max}$.
