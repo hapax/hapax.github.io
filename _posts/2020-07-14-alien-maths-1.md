@@ -336,8 +336,7 @@ Nor do I want to
 [Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm).
 I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is get more traction on
-incommensurability than the sweaty palms of a Nagelian mystic can
-give.
+incommensurability than afforded by the sweaty palms of a Nagelian mystic.
 
 Here is a short argument supporting the notion that qualia are
 distinct from the executive operation.
