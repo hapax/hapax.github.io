@@ -236,7 +236,7 @@ Can we do better?
 his anti-reductionism, but we'll leave a critical evaluation for
 another time. -->
 
-The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) of
+The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) theory of
 biologist Jakob von Uexküll represents a more systematic approach to
 conceptualising the inner life of animals.
 Uexküll wanted to understand how organisms model and interact with their
