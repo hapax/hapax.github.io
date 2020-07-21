@@ -204,7 +204,7 @@ microscopic arrow? -->
 
 #### Emergent time
 
-(This section is mildly technical.)
+(This section is both technical and rather preliminary.)
 What would a satisfying answer look like?
 Here are a few preliminary thoughts.
 Start off with some highly symmetric mathematical object $\mathcal{M}$
