@@ -174,8 +174,10 @@ Spain falls mainly on this plane.
 <!-- wrong, *cognitive universalism* (closer to what most universalists believe)
 is more defensible. -->
 
-Rather, language and culture can be viewed as "operating systems" <!-- *interfaces*-->
-interfacing between the IO of reality and our relatively invariant
+Language and culture clearly have effects on how we operate.
+In fact, they can be viewed as "operating systems" <!-- *interfaces*-->
+interfacing between the IO of reality (including the reality of our
+fellow featherless bipeds) and our relatively invariant
 cognitive hardware.
 These operating systems differ not only because reality varies (sub-Saharan Africa is not
 Nunangat), but because the choice of interface is radically
