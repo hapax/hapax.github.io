@@ -21,6 +21,8 @@ I list some of my teaching and outreach activities below.-->
 
 #### Expository chunks
 
+Some hearty chunks of exposition.
+
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
