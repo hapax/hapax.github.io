@@ -354,6 +354,7 @@ whole*; this might be a kind of "collective ethology".
 One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
 so on.
+
 But while the human may have some inner experience of "what is is
 like" to be a flock of birds, it is highly unlikely that that flock
 itself has that experience!
