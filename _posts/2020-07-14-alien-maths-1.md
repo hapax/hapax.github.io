@@ -310,18 +310,14 @@ weird, or the parts too difficult for our brain to operate
 synchronously, I would say we have an empirically grounded claim of
 cognitive incommensurability.
 
-#### Hive minds and qualia
+#### Hive minds, qualia and bricks
 
 There is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
-collective like a slime mould, and so on. (We will return to this
+collective like a slime mould, a planetary consciousness, and so on. (We will return to this
 point in the sequel.)
-In fact, there is a functional gestalt associated with being a brick,
-but I am not advocating panpsychism, since there is no "knowing how"
-with a brick. It does not need to be a competent operator, it simply exists
-according to the laws of physics. So in general,
-the mysterious "interiority" Nagel talks about need not be associated
+So in general, the mysterious "interiority" Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
 
@@ -331,12 +327,46 @@ us in the bad regress of homonculi and Cartesian theatre. The point is
 that the "knowing how" to competently wield everything is a central
 component of the organism's cognitive machinery and can be understood
 in functional terms.
-On the other hand, I don't want to
-[Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm);
+<!-- One curious observation: there is a functional gestalt associated with
+being a brick, or perhaps more 
+I am not advocating panpsychism, since there is no "knowing how"
+with a brick. It does not need to be a competent operator, it simply exists
+according to the laws of physics. -->
+Nor do I want to
+[Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm).
 I think there is still a phenomenological aspect to explain, even if
-it is to heroically explain away. My goal is just to ground
-incommensurability on something clearer, and more empirical, than
-Nagelian mysticism.
+it is to heroically explain away. My goal is get more traction on
+incommensurability than the sweaty palms of a Nagelian mystic can
+give.
+
+Here is a short argument supporting the notion that qualia are
+distinct from the executive operation.
+*Anything* made up of interlocking capacities and abilities has a
+functional gestalt, a fluency of action when those capacities and
+abilities are successfully operated in tandem.
+By that rather liberal definition, there is a functional gestalt
+associated with being a brick or a flock of birds.
+I think it is reasonable and interesting to think about the *umwelt*
+of a flock of birds, the marks that are available *to the flock as a
+whole*; this might be a kind of "collective ethology".
+One can imagine designing a game which immerses humans in the
+experience of "being" a flock of birds, responding to those marks, and
+so on.
+But while the human may have some inner experience of "what is is
+like" to be a flock of birds, it is highly unlikely that that flock
+itself has that experience!
+This is simply because the human has some ability over and above the
+flock, namely, a feedback loop on the contents of experience which is
+strangely qualitative.
+(This clearly has functional aspects, but it is the qualitative aspects
+that trouble philosophers.)
+An even sillier example is the brick, left as homework to the diligent
+heterophenomologist.
+
+<!-- More dramatic and amusing, there is a gestalt associated to *any*
+unrelated collection of functions, defined precisely by being
+unrelated to the extent that they are!
+Is there anything it is like to be  -->
 
 #### Next time: alien mathematics
 
