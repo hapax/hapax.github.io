@@ -19,16 +19,16 @@ I list some of my teaching and outreach activities below.-->
 	</div>
 </figure>
 
-#### Expository material
+#### 
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
-  post). We determine how big can a white dwarf get before it turns into a black
-  hole?.
+  post). We walk through a rough estimate of how big can a white dwarf
+  get before it turns into a black hole.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  (2020, blog post). A paean to the processing power of the paper napkin, and its pedagogical potential for physics.
+  (2020, blog post). A paean to the processing power of the paper napkin.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
   engaging, applied to derivatives.
@@ -58,15 +58,15 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to Starbucks.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An in-depth introduction to dimensional analysis, with
-applications to black hole thermodynamics.
-- *Assorted scrappy notes* (2019--20). Unpolished notes on various topics.
+(2019). An in-depth introduction to dimensional analysis, ending with black hole thermodynamics.
+- *Assorted scrappy notes* (2019--20). Unpolished notes on various
+topics.
+  - [Fermi estimates: from Harry Potter to ET](assets/fermi-estimates.pdf). How
+    to estimate just about anything!
   - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
     black holes and gravitational waves.
   - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Fast
     radio bursts and extraterrestrials.
-  - [Fermi estimates: from Harry Potter to ET](assets/fermi-estimates.pdf). How
-    to estimate just about anything!
 
 #### Teaching
 
@@ -75,7 +75,7 @@ Melbourne.
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
   on classical mechanics and Fourier analysis. Stuff I wrote:
-   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a little Hamiltonian mechanics.
+   - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a dash of Hamiltonian mechanics.
    - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
    - *Assignments*
      [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf),
