@@ -323,7 +323,7 @@ executive coordination.
 It is tempting to view this "executive" as consciousness itself, the
 inner experience, qualia, or what have you, but this very easily traps
 us in the bad regress of homonculi and Cartesian theatre. The point is
-that the "knowing how" to competently wield everything is a central
+that "knowing how" to competently wield a brain is a central
 component of the organism's cognitive machinery and can be understood
 in functional terms.
 <!-- One curious observation: there is a functional gestalt associated with
@@ -331,14 +331,17 @@ being a brick, or perhaps more
 I am not advocating panpsychism, since there is no "knowing how"
 with a brick. It does not need to be a competent operator, it simply exists
 according to the laws of physics. -->
-Nor do I want to
+<!-- Nor do I want to
 [Quine qualia](https://ase.tufts.edu/cogstud/dennett/papers/quinqual.htm).
 I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is get more traction on
-incommensurability than afforded by the sweaty palms of a Nagelian mystic.
+incommensurability than afforded by the sweaty palms of a Nagelian -->
+<!-- mystic. -->
+In fact, it's clear that, from a functional view, merely invoking a
+gestalt is not enough to explain the special properties of what it is
+like to have experience.
 
-Here is a short argument supporting the notion that qualia are
-distinct from the executive operation.
+Here is a short argument.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
@@ -346,7 +349,7 @@ abilities are successfully operated in tandem.
 following arguments are sufficient to my mind.)
 By that rather liberal definition, there is a functional gestalt
 associated with being a brick or a flock of birds.
-I think it is reasonable and interesting to think about the *umwelt*
+It is reasonable and interesting to think about the *umwelt*
 of a flock of birds, the marks that are available *to the flock as a
 whole*; this might be a kind of "collective ethology".
 One can imagine designing a game which immerses humans in the
