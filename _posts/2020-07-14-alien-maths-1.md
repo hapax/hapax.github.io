@@ -299,6 +299,7 @@ for a suitably long period of time.
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
 analogues will do if they mirror these relationships.)
+
 We can think of this as a recipe for producing *fluency* in being a
 bat, and of course, immersion is precisely the way that humans become
 fluent in other languages and cultures, I suspect for the same
