@@ -227,8 +227,9 @@ it is subjectively like anything we can experience or imagine.
 This appears to create difficulties for the notion of what it is like to be a bat.
 </span>
 
-The statement that the novelty of echolocation "appears to create difficulties" is the
-best justification for incommensurability he can muster.
+There is no real argument here (or the rest of the paper for that
+matter), just the bald assertion that echolocation "appears to create
+difficulties" for getting inside a bat's head.
 Can we do better?
 
 <!-- Nagel's account of the phenomenology feels more plausible than
