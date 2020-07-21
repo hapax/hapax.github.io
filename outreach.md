@@ -19,7 +19,7 @@ I list some of my teaching and outreach activities below.-->
 	</div>
 </figure>
 
-#### Chunkier exposition
+#### Expository chunks
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
