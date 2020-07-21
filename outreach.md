@@ -19,7 +19,7 @@ I list some of my teaching and outreach activities below.-->
 	</div>
 </figure>
 
-#### 
+#### Chunkier exposition
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
@@ -32,6 +32,8 @@ I list some of my teaching and outreach activities below.-->
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
   engaging, applied to derivatives.
+- [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
+(2019). An in-depth introduction to dimensional analysis, ending with black hole thermodynamics.
 
 #### Outreach
 
@@ -57,8 +59,6 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to Starbucks.
-- [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An in-depth introduction to dimensional analysis, ending with black hole thermodynamics.
 - *Assorted scrappy notes* (2019--20). Unpolished notes on various
 topics.
   - [Fermi estimates: from Harry Potter to ET](assets/fermi-estimates.pdf). How
