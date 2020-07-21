@@ -362,7 +362,7 @@ flock, namely, a feedback loop on the contents of experience which is
 strangely qualitative.
 (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.)
-An even sillier example is the brick, left as homework to the diligent
+An even sillier example is the brick, which I leave as homework to the diligent
 heterophenomologist.
 
 <!-- More dramatic and amusing, there is a gestalt associated to *any*
