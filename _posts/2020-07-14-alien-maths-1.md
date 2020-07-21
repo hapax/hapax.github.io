@@ -127,11 +127,11 @@ sociolinguistic variance, without culture-specific neologisms,
 formalities, and local colour, and I will show you a sloppy lexicologist.
 
 Culture and language partially adapt and create each other,
-co-evolving to serve the
+co-evolving to serve
 <!-- slang, patois,  and other vernacular adaptations -->
 <!-- All this suggests that language organically co-evolves with -->
-<!-- culture and the -->
-cognitive demands of life in a particular time and place.
+<!-- of life in a particular time and place. -->
+cognitive and social demands.
 If we split these forces up and decide on some fixed order of
 influence, the cart will be before the horse, whichever order we
 choose.
