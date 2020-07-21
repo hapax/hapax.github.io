@@ -145,6 +145,7 @@ In other words, the spacetime manifold comes equipped with a timelike
 direction, locally, everywhere.
 This is evidently so, but it does not explain the asymmetry between
 time and space; it simply bakes it into the geometry.
+Is there a more fundamental way of explaining the asymmetry?
 The statistical mechanic says: *because entropy*.
 Roughly speaking, a system with many parts changes in an effectively
 random way, and it will tend towards the most likely outcomes.
