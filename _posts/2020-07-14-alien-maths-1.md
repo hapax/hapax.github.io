@@ -236,12 +236,11 @@ Can we do better?
 his anti-reductionism, but we'll leave a critical evaluation for
 another time. -->
 
-The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) theory of
-biologist Jakob von Uexküll approaches the inner life of animals a
-little more systematically.
+The German biologist Jakob von Uexküll approached the inner life of
+animals a little more systematically.
 Uexküll wanted to understand how organisms model and interact with their
 environments and thereby create meaning.
-The *umwelt* (German for "environment") is a synthesis of these
+The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") is a synthesis of these
 factors,
 
 <span style="padding-left: 20px; display:block">
