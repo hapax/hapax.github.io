@@ -167,7 +167,7 @@ will explore ways to be in an effectively irreversible
 fashion, even though the laws of physics *are* reversible, simply
 because it is fantastically unlikely to find its way back to the LES.
 Although the universe might not know about cause and effect at a
-fundamental level, it would be foolish to bet against them.
+fundamental level, it would be madness to bet against them!
 In the language of physics, the LES "spontaneously
 breaks" the invariance of the laws of physics under time translation.
 The laws may not change with time, but the objects do, and cause and
