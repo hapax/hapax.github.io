@@ -64,8 +64,7 @@ they believe in the past, but this is like a "friendly" solipsist who
 believes only in the existence of the people they have met.
 
 Solipsism would not be crazy if you were the only sentient being in a
-world of amoebae.
-You would not need a theory of mind to explain their behaviour.
+world of amoebae, since you would not need a theory of mind to explain their behaviour.
 But in a world of beings whose behavioural complexity matches your own,
 mental states you cannot access remain the best explanation for the
 behaviour of others.
