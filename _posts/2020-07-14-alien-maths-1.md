@@ -344,6 +344,8 @@ distinct from the executive operation.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
+(In fact, one can associate a gestalt to unrelated functions, but the
+following arguments are sufficient to my mind.)
 By that rather liberal definition, there is a functional gestalt
 associated with being a brick or a flock of birds.
 I think it is reasonable and interesting to think about the *umwelt*
