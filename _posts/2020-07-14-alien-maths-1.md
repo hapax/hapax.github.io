@@ -122,9 +122,9 @@ related languages—even a single language—belong to distinct culture
 spheres.
 </span>
 
-But show me a culture without register, slang, and other
-sociolinguistic variance, and I will show you a lazy
-lexicologist.
+But show me a culture without register, slang, and other forms of
+sociolinguistic variance, without culture-specific neologisms,
+formalities, and local colour, and I will show you a sloppy lexicologist.
 
 Culture and language partially adapt and create each other,
 co-evolving to serve the
