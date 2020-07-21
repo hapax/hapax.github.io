@@ -28,7 +28,7 @@ on holiday from time to time. Some rambling discursions:
 
 - *Alien algebra, bat brains and other cognitive conundra*
   [[1](https://hapax.github.io/philosophy/alien-maths-1/)]
-  (2020, blog post). Is it impossible to imagine life as a bat? And
+  (2020, blog post). Is it possible to imagine life as a bat? And
   what has this got to do with alien mathematics?
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). What makes time different from space, and what
