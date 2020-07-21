@@ -360,10 +360,12 @@ But while the human may have some inner experience of "what is is
 like" to be a flock of birds, it is highly unlikely that that flock
 itself has that experience!
 This is simply because the human has some ability over and above the
-flock, namely, a feedback loop on the contents of experience which is
-strangely qualitative.
-(This clearly has functional aspects, but it is the qualitative aspects
-that trouble philosophers.)
+flock, namely, a feedback loop on the contents of experience which has
+some puzzling "qualitative" aspects.
+But even in functional terms, it is clearly different from executive
+coordination.
+<!-- (This clearly has functional aspects, but it is the qualitative aspects
+that trouble philosophers.) -->
 An even sillier example is the brick, which I leave as homework to the diligent
 heterophenomologist.
 
