@@ -43,6 +43,8 @@ yet exist.
 I think none of these conclusions is licensed by the properties of our brain states.
 But being lodged in the present seems like a trivially explicable
 thing, while our inability to remember the future is not.
+This is related to an even deeper puzzle, namely that objects
+*persist*, which we will elaborate below.
 
 #### Temporal solipsism
 

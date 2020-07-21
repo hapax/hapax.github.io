@@ -354,7 +354,7 @@ One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
 so on.
 
-But while the human may have some inner experience of "what is is
+But while the human may have some inner experience of "what is it
 like" to be a flock of birds, it is highly unlikely that the flock
 itself has that experience!
 This is simply because the human has some ability over and above the
@@ -362,10 +362,15 @@ flock, namely, a feedback loop on the contents of experience which has
 some puzzling "qualitative" aspects.
 But even in functional terms, it is clearly different from executive
 coordination.
+(A humorous question is whether it is possible to "mock up" a
+functional analogue of conscious experience for a creature which does
+not possess it. This would answer Daniel Dennett's mocking rejoinder
+to Nagel,  "What is it like for there to be something it is like to be
+something?")
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.) -->
-An even sillier example is the brick, which I leave as homework to the diligent
-heterophenomologist.
+An even sillier example than the flock of birds is the brick, which I
+leave as homework to the diligent heterophenomologist.
 
 <!-- More dramatic and amusing, there is a gestalt associated to *any*
 unrelated collection of functions, defined precisely by being
