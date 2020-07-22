@@ -262,9 +262,11 @@ so we will adopt this term for ethologists who try to experience the inner life 
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 
-But while there may or may not be something it is like to be a bat, a bat,
-unlike a human, does know how to operate all of its interlocking cognitive
-machinery seamlessly, in real time.
+<!-- But while there may or may not be something it is like to be a
+bat, -->
+A bat,
+unlike a human, knows how to operate all of its interlocking cognitive
+machinery seamlessly and in real time.
 The different components form a "functional gestalt", defined
 precisely by all the parts operating together at once; in fact, it
 seems reasonable to identify this gestalt with the *umwelt* itself.
@@ -288,14 +290,16 @@ likely requires. -->
 Thus, true heterophenomenology, knowing "what it is like" to be a bat,
 would not only consist in researching the bat's exotic sensory
 modalities, available environmental marks, and so on.
-To know "how", you would have to be *immersed* in a bat-like
-environment and obliged to use bat-like interfaces and marks
-to solve bat-like problems, in real time, in a coordinated fashion,
-for a suitably long period of time.
+To learn "how", you would have to be *immersed* in a bat-like
+environment and obliged to use bat-like interfaces
+to solve bat-like problems, for a suitably long period of time.
 (I think "bat-like" is good enough to reproduce the *functional* aspect
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
 analogues will do if they mirror these relationships.)
+I image a heterophenomenological arcade, filled with VR simulation
+units, haptic feedback controls, and so on, offering a full range of
+inner lives to experience.
 
 We can think of this as a recipe for producing *fluency* in being a
 bat, and of course, immersion is precisely the way that humans become
