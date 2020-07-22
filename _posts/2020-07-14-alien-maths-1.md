@@ -329,8 +329,7 @@ point in the sequel.)
 So in general, the mysterious "interiority" Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
-That sad, I am being a little sloppy about the distinction between the
-functional gestalt and "phenomenological" inner life, and indeed, I was briefly tempted
+<!-- , and indeed, I was briefly tempted 
 to view this executive gestalt operation as consciousness itself.
 <!-- ut this very easily traps
 us in the bad regress of homonculi and Cartesian theatre. The point is
@@ -348,26 +347,28 @@ I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is get more traction on
 incommensurability than afforded by the sweaty palms of a Nagelian -->
 <!-- mystic. -->
-But on reflection, it's clear that even from a functionalist view,
+<!-- But on reflection, it's clear that even from a functionalist view,
 merely invoking a gestalt is not enough to explain the special
-properties of what it is like to have experience.
+properties of what it is like to have experience. -->
 
-Here is a short argument.
+That said, not every functional gestalt has an "interiority".
+While this is obvious, I think the following argument is independently
+interesting.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
-(In fact, one can associate a gestalt to unrelated functions, but we
-will not need to enlist this reductio.)
-By this rather liberal definition, there is a functional gestalt
-associated with being a flock of birds or even a brick.
-It is reasonable and interesting to think about the *umwelt*
-of a flock of birds, the marks that are available *to the flock as a
-whole*.
-Bird flocks can certainly be understood in terms of "collective
-ethology".
-But going even further, one can imagine a murmuration tank in the
-heterophenomenological arcade, simulating the *umwelt* of a flock of
-starlings.
+<!-- (In fact, one can associate a gestalt to unrelated functions, but we
+will not need to enlist this reductio.) -->
+By this liberal definition, there is a functional gestalt
+associated with being a flock of birds or perhaps even a brick.
+A flock of birds also has an *umwelt*, a set of marks that are
+available and of interest *to the flock as a whole*.
+Ethologists do study these sorts of *umwelten* under the umbrella of
+collective animal behaviour,
+<!-- Bird flocks can certainly be understood in terms of "collective
+ethology". -->
+but going even further, one can imagine a murmuration tank in the
+heterophenomenological arcade, simulating the "inner life" of a flock of starlings.
 
 <!-- One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
