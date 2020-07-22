@@ -388,7 +388,7 @@ or perhaps even a brick, but neither of these is likely to have any
 true inner experience, for the simple reason that inner experience is
 something over and above the ability to successfully operate many abilities in tandem: it is a *feedback loop* on the
 contents of its internal representations, as described in ever-increasing
-complexity by people like Dennett and Douglas Hofstadter.
+complexity by people like Dennett and [Douglas Hofstadter](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop).
 Whether or not it is *only* a functional phenomenon, the feedback loop
 of conscous experience has clear functional implications for the organism, since it can
 report on the contents of its internal representations.
