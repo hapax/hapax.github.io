@@ -388,14 +388,16 @@ or perhaps even a brick, but neither of these is likely to have any
 true inner experience, for the simple reason that inner experience is
 something over and above the ability to successfully operate many
 cognitive abilities in tandem: it is a sort of feedback loop on the
-contents of its internal representations.
-This has clear functional implications for the organism, since it can
-report on those contents, and a human simulator for instance might
-enter the murmuration tank in the heterophenomenological arcade,
-simulate the *umwelt* of a flight of starlings, and emerge with some
-"inner experience" of being a flock of birds that that flock does not
-have!
-Even sillier is the brick simulator.
+contents of its internal representations, described in ever-increasing
+complexity by people like Dennett and Douglas Hofstadter.
+Whether or not it is *only* a functional phenomenon, the feedback loop
+of conscous experience has clear functional implications for the organism, since it can
+report on the contents of its internal representations.
+A human operator might enter the murmuration tank in the
+heterophenomenological arcade, successfully wield a flight of
+starlings, and emerge with some "inner experience" of being that flock
+that the flock does not have!
+(Even sillier is the brick simulator.)
 
 <!-- Secondly, while functional gestalts seem like a good way to test
 incommensurability, they are most likely distinct from the
