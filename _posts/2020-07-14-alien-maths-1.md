@@ -380,18 +380,17 @@ itself has that experience.
 This is simply because the human has some ability over and above the
 flock, namely, a feedback loop on the contents of experience which has
 those qualitative aspects that cause the philosophers so much befuddlement.
-In functional terms, this feedback loop is very different from
+In functional terms, this feedback loop seems very different from
 whatever system of cues allows the birds to flock coherently.
-On the other hand, I think that with enough training, a human
-might be able to simulate this system of cues using the feedback loop!
-<!-- Even in functional terms, it is clearly different from executive
+<!-- On the other hand, I think that with enough training, a human
+might be able to simulate this system of cues using the feedback loop. Even in functional terms, it is clearly different from executive
 coordination. 
 This is part of what might allow them to simulate the executive
 coordination of the flock, but it is rather different from whatever
 cues the birds exchange in order to flock coherently. -->
 It is amusing to note that, in a sort of relativist double entendre,
-the language of birds might in some sense determine the cognition of the
-flock.
+the "language" of cues might in some sense determine the cognition of
+the flock!
 
 Above, we suggested that from a functionalist perspective, near enough
 is good enough.
