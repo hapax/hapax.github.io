@@ -464,7 +464,7 @@ machinery to *simulate* consciousness, and one might ask how this
 could be possible if it was not self-aware to begin with. -->
 <!-- It seems hard to imagine, but if such an analogue
 exists, even in principle, I think it-->
-Designing such a simulator would answer Daniel Dennett's mocking
+And designing such a simulator would answer Daniel Dennett's mocking
 rejoinder to Nagel: "What is it like for there to be something it is like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.) -->
