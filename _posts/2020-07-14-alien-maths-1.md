@@ -302,18 +302,19 @@ One imagines the "heterophenomenological arcade"---consisting of full-body VR
 immersion tanks with haptic, olfactory and various other sensory
 feedback loops---offering a full range of non-human inner lives.
 
-Immersion is the a recipe for producing *fluency* in being a
-bat, and not by coincidence, is the main way that humans become fluent
-in other languages and cultures.
-(Speaking from personal experience, merely trying to learn the
-components of a language, such as grammar, vocabulary, etc, without
-functionally uniting them, makes fluency very difficult to achieve.)
+If immersion is a recipe for producing *fluency* in being a
+bat, it is not by coincidence the main way humans become fluent in
+other languages and cultures.
+Speaking from personal experience, merely trying to learn the
+components of a language, without
+functionally uniting them, makes fluency very difficult to achieve.
 <!--, I suspect for the same functionalist reasons. -->
-If it is impossible to find a suitable ensemble of "bat-like"
-elements for the immersion, either because the sensory modalities are too
-weird, or the parts too unwieldy for our brains to coordinate, I would
-say we have an empirically grounded claim of cognitive
-incommensurability.
+But immersion may not always be possible.
+For instance, the sensory modalities might just be too weird, or the
+different parts too unwieldy for our brains to weld into a functional
+whole.
+I would say that in this case, we have an empirically grounded claim
+of cognitive incommensurability.
 
 #### Hive minds, qualia and bricks
 
