@@ -398,7 +398,7 @@ We need not surgically implant bat ears if we can "mock up" a
 functionally equivalent form of echolocation.
 But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
-functional analogue for a creature which does not possess it?
+functional analogue for a creature which does not have conscious experience?
 Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it did not have conscious experience to begin with.
