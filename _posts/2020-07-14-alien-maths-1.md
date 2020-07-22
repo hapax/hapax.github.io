@@ -380,8 +380,7 @@ incommensurability than afforded by the sweaty palms of a Nagelian -->
 <!-- But on reflection, it's clear that even from a functionalist view,
 merely invoking a gestalt is not enough to explain the special
 properties of what it is like to have experience. -->
-
-But not every functional gestalt is likely to have an "interior"
+But not every functional gestalt has an "interior"
 aspect.
 There is a functional gestalt associated with being a flock of birds
 or perhaps even a brick, but neither of these is likely to have any
