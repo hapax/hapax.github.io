@@ -356,7 +356,7 @@ abilities are successfully operated in tandem.
 (In fact, one can associate a gestalt to unrelated functions, but we
 will not need to enlist this reductio.)
 By this rather liberal definition, there is a functional gestalt
-associated with being a brick or a flock of birds.
+associated with being a flock of birds or even a brick.
 It is reasonable and interesting to think about the *umwelt*
 of a flock of birds, the marks that are available *to the flock as a
 whole*; this might be a kind of "collective ethology".
