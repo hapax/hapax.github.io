@@ -320,12 +320,12 @@ immersion tanks with haptic, olfactory and other sensory
 feedback loops.
 
 Even more stringently, we could wire these arcade units up to
-real animals, e.g. the bat tank translated sensory inputs from a
-real bat into human-readable form, and then translted the human
-operator's decisions into bat action.
-If the human could successfully drive the batmobile with enough
-training, i.e. respond to the *umwelt* demands of the bat, I would say
-that its experience was commensurable.
+real animals, e.g. the bat tank could translate sensory inputs from a
+real bat into human-readable form, and then translate the human
+operator's decisions into actions performed by the bat.
+If the human can successfully drive the batmobile with enough
+training, navigating the *umwelt* like a native user, I would say that
+its experience was human-commensurable.
 But if there is no way to produce human-readable functional analogues,
 or train the human to successfully solve bat problems, then we have an
 empirically grounded claim of cognitive incommensurability.
@@ -350,7 +350,7 @@ need a heterophenomenological arcade to test. -->
 
 #### Hive minds, consciousness and bricks
 
-We finish with a couple of miscellaneous observations.
+I'll finish with a couple of miscellaneous commens.
 First, there is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
