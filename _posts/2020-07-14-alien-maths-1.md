@@ -359,10 +359,16 @@ By this rather liberal definition, there is a functional gestalt
 associated with being a flock of birds or even a brick.
 It is reasonable and interesting to think about the *umwelt*
 of a flock of birds, the marks that are available *to the flock as a
-whole*; this might be a kind of "collective ethology".
-One can imagine designing a game which immerses humans in the
+whole*.
+Bird flocks can certainly be understood in terms of "collective
+ethology".
+But going even further, one can imagine a murmuration tank in the
+heterophenomenological arcade, simulating the *umwelt* of a flock of
+starlings.
+
+<!-- One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
-so on.
+so on. -->
 
 But while the human may have some inner experience of "what is it
 like" to be a flock of birds, it is highly unlikely that the flock
