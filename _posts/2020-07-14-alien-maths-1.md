@@ -391,6 +391,9 @@ cues the birds exchange in order to flock coherently. -->
 It is amusing to note that, in a sort of relativist double entendre,
 the "language" of cues might in some sense determine the cognition of
 the flock!
+<!-- (It's tempting to make the same high-flown leap for the collective
+behaviour of humans, but ultimately, I think human culture is more
+tied up in human drives and needs than it is in language.) -->
 
 Above, we suggested that from a functionalist perspective, near enough
 is good enough.
@@ -401,7 +404,7 @@ question: is it possible to mock up a "near enough is good enough"
 functional analogue for a creature which does not have conscious experience?
 Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
-could be possible if it did not have conscious experience to begin with.
+could be possible if it was not self-aware to begin with.
 I will explore some possibilities in Part II, but if such an analogue
 exists, even in principle, it would answer Daniel Dennett's mocking
 rejoinder to Nagel, "What is it like for there to be something it is
