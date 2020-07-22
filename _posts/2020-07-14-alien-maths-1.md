@@ -377,7 +377,7 @@ merely invoking a gestalt is not enough to explain the special
 properties of what it is like to have experience. -->
 
 That said, not every functional gestalt has an "interiority".
-While this is obvious, I think the following argument is independently
+Although this is obvious, the following argument is perhaps independently
 interesting.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
