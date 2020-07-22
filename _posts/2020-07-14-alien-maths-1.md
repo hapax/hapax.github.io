@@ -201,8 +201,20 @@ have *incommensurable* experiences.
 (This is like the claim that some things
 are untranslatable.)
 The weak version replaces "determines" with "influences".
+
 I think the weak version is uncontroversially true, so for the rest of this
-post, we will focus on the strong form, and incommensurability in particular.
+post, we will focus on the strong form, and incommensurability in
+particular.
+An immediate objection is that a gnat is simply not neurally equipped to
+understand human experience, so of course our experience is
+incommensurable to it.
+But what about the other way round?
+Can we "simulate" life as a gnat, which is evidently much lower on the
+cognitive ladder?
+More generally, can *any creature simulate any other creature*?
+This leads to a sharp version of strong cognitive relativism: two
+organisms will have incommensurable experiences unless they have the
+same sort of brain.
 
 #### The inner life of bats
 
@@ -300,23 +312,37 @@ to solve bat-like problems, for a suitably long period of time.
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
 analogues will do if they mirror these relationships.)
-One imagines the "heterophenomenological arcade"---consisting of full-body VR
+One imagines a "heterophenomenological arcade"---consisting of full-body VR
 immersion tanks with haptic, olfactory and various other sensory
 feedback loops---offering a full range of non-human inner lives.
 
-If immersion is a recipe for producing *fluency* in being a
+Even better, perhaps we could wire up a bat and translate its sensory
+input into human-readable form for the immersion tank, and uplink the
+human operator's decisions into bat-readable form which the bat implements.
+If the human can successfully drive the batmobile with enough
+training, i.e. respond to the *umwelt* demands of the bat, I would say
+that its experience is commensurable.
+But if there is no way to produce human-readable functional analogues,
+or train the human to solve bat problems, then we have an empirically
+grounded claim of cognitive incommensurability.
+Thus, to test strong cognitive relativism, we just need a
+heterophenomenological arcade.
+
+<!-- If immersion is a recipe for producing *fluency* in being a
 bat, it is not by coincidence the main way humans become fluent in
 other languages and cultures.
 Speaking from personal experience, merely trying to learn the
 components of a language, without
 functionally uniting them, makes fluency very difficult to achieve.
 <!--, I suspect for the same functionalist reasons. -->
-But immersion may not always be possible.
+<!-- But immersion may not always be possible.
 For instance, the sensory modalities might just be too weird, or the
 different parts too unwieldy for our brains to weld into a functional
 whole.
 I would say that in this case, we have an empirically grounded claim
 of cognitive incommensurability.
+I think strong cognitive relativism is a testable hypothesis, which we
+need a heterophenomenological arcade to test. -->
 
 #### Hive minds, consciousness and bricks
 
