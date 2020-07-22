@@ -398,6 +398,13 @@ starlings, and emerge with some "inner experience" of being that flock
 that the flock does not have!
 (Even sillier is the brick simulator.)
 
+A flight of starlings does not need to be conscious to accomplish
+its executive coordination, and attend to its collectve *umwelt*.
+Instead, the starlings presumably exchange a sort of language of cues.
+It is amusing to note that, in a sort of relativist double entendre,
+the "language" of cues might in some sense determine the cognition of
+the flock!
+
 <!-- Secondly, while functional gestalts seem like a good way to test
 incommensurability, they are most likely distinct from the
 phenomenological aspects of mind Nagel posits.
