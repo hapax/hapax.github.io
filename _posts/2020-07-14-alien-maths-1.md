@@ -320,7 +320,7 @@ immersion tanks with haptic, olfactory and other sensory
 feedback loops.
 
 It would be even more stringent if these arcade units were wired up to
-real animals, e.g. the bat tank took translated sensory inputs from a
+real animals, e.g. the bat tank translated sensory inputs from a
 real bat into human-readable form, and then translted the human
 operator's decisions into bat action.
 If the human could successfully drive the batmobile with enough
