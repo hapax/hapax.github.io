@@ -297,9 +297,9 @@ to solve bat-like problems, for a suitably long period of time.
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
 analogues will do if they mirror these relationships.)
-I image a heterophenomenological arcade, filled with VR simulation
-units, haptic feedback controls, and so on, offering a full range of
-inner lives to experience.
+One imagines a heterophenomenological arcade---consisting of full-body VR
+immersion tanks with haptic, olfactory and various other sensory
+feedback loops---offering a full range of non-human inner lives.
 
 We can think of this as a recipe for producing *fluency* in being a
 bat, and of course, immersion is precisely the way that humans become
