@@ -382,9 +382,8 @@ flock, namely, a feedback loop on the contents of experience which has
 those qualitative aspects that cause the philosophers so much befuddlement.
 In functional terms, this feedback loop is very different from
 whatever system of cues allows the birds to flock coherently.
-On the other hand, I don't doubt that with enough training, a human
-might be able to simulate this system of cues using the feedback loop
-of self-awareness!
+On the other hand, I think that with enough training, a human
+might be able to simulate this system of cues using the feedback loop!
 <!-- Even in functional terms, it is clearly different from executive
 coordination. 
 This is part of what might allow them to simulate the executive
