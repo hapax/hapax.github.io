@@ -399,9 +399,9 @@ starlings, and emerge with some "inner experience" of being that flock
 that the flock does not have!
 (Even sillier is the brick simulator.)
 A flight of starlings does not need to be conscious to accomplish
-its executive coordination, and attend to its collectve *umwelt*.
+its executive coordination, and attend to its collective *umwelt*.
 Instead, the starlings presumably exchange a set of cues.
-It is amusing to note that, in a sort of relativist double entendre,
+In a sort of relativist double entendre,
 the "language" of these cues might in some sense determine the cognition of
 the flock!
 
@@ -464,9 +464,8 @@ machinery to *simulate* consciousness, and one might ask how this
 could be possible if it was not self-aware to begin with. -->
 <!-- It seems hard to imagine, but if such an analogue
 exists, even in principle, I think it-->
-Such a simulator would answer Daniel Dennett's mocking
-rejoinder to Nagel, "What is it like for there to be something it is
-like to be something?"
+Designing such a simulator would answer Daniel Dennett's mocking
+rejoinder to Nagel: "What is it like for there to be something it is like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.) -->
 <!-- An even sillier example than the flock of birds is the brick, which I
