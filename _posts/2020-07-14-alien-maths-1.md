@@ -256,7 +256,7 @@ about cave topography, feeding habits, social structure, and
 experimenting with human echolocation---in other words, becoming
 practical ethologists---Nagel's claims becomes less intuitive, since the
 imaginative obstructions do not seem fundamental. 
-This closely parallels Daniel Dennett's amusing notion of
+This closely parallels Daniel Dennett's notion of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf),
 so we will adopt this term for ethologists who try to experience the inner life of other animals.
@@ -328,9 +328,9 @@ point in the sequel.)
 So in general, the mysterious "interiority" Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
-So far, I have been sloppy about the distinction between gestalt
-functional aspects and inner life, and indeed, I was briefly tempted
-to view this "executive" gestalt operation as consciousness itself.
+That sad, I am being a little sloppy about the distinction between the
+functional gestalt and "phenomenological" inner life, and indeed, I was briefly tempted
+to view this executive gestalt operation as consciousness itself.
 <!-- ut this very easily traps
 us in the bad regress of homonculi and Cartesian theatre. The point is
 that "knowing how" to competently wield a brain is a central
@@ -347,7 +347,7 @@ I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is get more traction on
 incommensurability than afforded by the sweaty palms of a Nagelian -->
 <!-- mystic. -->
-But on reflection it's clear that, even from a functionalist view,
+But on reflection, it's clear that even from a functionalist view,
 merely invoking a gestalt is not enough to explain the special
 properties of what it is like to have experience.
 
