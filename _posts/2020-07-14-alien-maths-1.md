@@ -356,7 +356,7 @@ individual organisms. There is a gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
 collective like a slime mould, a planetary consciousness, and so on.
 <!-- (We will return to this point in the sequel.)-->
-So in general, the inner life Nagel talks about need not be associated
+<!-- So in general, the inner life Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
 <!-- , and indeed, I was briefly tempted 
