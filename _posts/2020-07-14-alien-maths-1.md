@@ -2,8 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Alien algebra, bat brains and other cognitive conundra (Part
-I)"
+title:  "The heterophenomenological arcade (Part I)"
 categories: [Philosophy]
 date:  2020-07-08
 ---
@@ -12,6 +11,8 @@ date:  2020-07-08
   determines reality. Here, I introduce a variant called cognitive
   relativism, and interrogate the inner life of a bat. This will prepare
   us (hopefully) to think about alien mathematics!*
+
+<!-- Alien algebra, bat brains and other cognitive conundra -->
 
 #### Linguistic relativism in brief
 
@@ -297,7 +298,7 @@ to solve bat-like problems, for a suitably long period of time.
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
 analogues will do if they mirror these relationships.)
-One imagines a heterophenomenological arcade---consisting of full-body VR
+One imagines the "heterophenomenological arcade"---consisting of full-body VR
 immersion tanks with haptic, olfactory and various other sensory
 feedback loops---offering a full range of non-human inner lives.
 
