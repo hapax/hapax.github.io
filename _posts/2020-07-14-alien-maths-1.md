@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The heterophenomenological arcade (Part I)"
+title:  "Language, cognition and alien mathematics (Part I)"
 categories: [Philosophy]
 date:  2020-07-08
 ---
