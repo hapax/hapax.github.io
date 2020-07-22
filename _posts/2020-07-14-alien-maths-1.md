@@ -444,8 +444,8 @@ that trouble philosophers.) -->
 <!-- An even sillier example than the flock of birds is the brick, which I
 leave as homework to the diligent heterophenomologist. -->
 
-In the mean time, I leave the heterophenomenology of bricks as
-homework for the diligent reader.
+<!-- In the mean time, I leave the heterophenomenology of bricks as
+homework for the diligent reader. -->
 
 <!-- More dramatic and amusing, there is a gestalt associated to *any*
 unrelated collection of functions, defined precisely by being
