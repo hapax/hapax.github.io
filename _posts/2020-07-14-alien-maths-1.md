@@ -329,7 +329,7 @@ that its experience was commensurable.
 But if there is no way to produce human-readable functional analogues,
 or train the human to successfully solve bat problems, then we have an
 empirically grounded claim of cognitive incommensurability.
-The heterophenomenological arcade is therefore the testing ground for
+The heterophenomenological arcade is the testing ground for
 strong cognitive relativism.
 
 <!-- If immersion is a recipe for producing *fluency* in being a
