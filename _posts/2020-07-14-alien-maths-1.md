@@ -255,7 +255,7 @@ animals a little more systematically. -->
 provides one such approach.
 Uexküll wanted to understand how organisms model and interact with their
 environments, and thereby create meaning.
-He used the term [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") for athe synthesis of factors
+He used the term [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") for a synthesis of factors,
 
 <span style="padding-left: 20px; display:block">
 ...constituted by a more or less broad series of elements, 'carriers of
