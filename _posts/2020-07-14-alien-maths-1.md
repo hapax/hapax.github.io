@@ -368,7 +368,7 @@ collective animal behaviour,
 <!-- Bird flocks can certainly be understood in terms of "collective
 ethology". -->
 but going even further, one can imagine a murmuration tank in the
-heterophenomenological arcade, simulating the "inner life" of a flock of starlings.
+heterophenomenological arcade, simulating the *umwelt* of a flock of starlings.
 
 <!-- One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
