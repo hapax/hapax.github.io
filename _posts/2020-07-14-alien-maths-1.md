@@ -311,7 +311,8 @@ functionally uniting them, makes fluency very difficult to achieve.)
 If it is impossible to find a suitable ensemble of "bat-like"
 elements for the immersion, either because the sensory modalities are too
 weird, or the parts too unwieldy for our brains to coordinate, I would
-say we have an empirically grounded claim of cognitive incommensurability.
+say we have an empirically grounded claim of cognitive
+incommensurability.
 
 #### Hive minds, qualia and bricks
 
