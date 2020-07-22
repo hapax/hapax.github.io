@@ -400,9 +400,9 @@ that the flock does not have!
 (Even sillier is the brick simulator.)
 A flight of starlings does not need to be conscious to accomplish
 its executive coordination, and attend to its collectve *umwelt*.
-Instead, the starlings presumably exchange a sort of language of cues.
+Instead, the starlings presumably exchange a set of cues.
 It is amusing to note that, in a sort of relativist double entendre,
-the "language" of cues might in some sense determine the cognition of
+the "language" of these cues might in some sense determine the cognition of
 the flock!
 
 <!-- Secondly, while functional gestalts seem like a good way to test
@@ -457,11 +457,14 @@ But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
 functional analogue of consciousness for a creature which does not
 possess it?
+This is, of course, the "old" problem of AI: get the computer to
+succeed at conscious experience simulator.
 <!-- Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it was not self-aware to begin with. -->
-It seems hard to imagine, but if such an analogue
-exists, even in principle, I think it would answer Daniel Dennett's mocking
+<!-- It seems hard to imagine, but if such an analogue
+exists, even in principle, I think it-->
+Such a simulator would answer Daniel Dennett's mocking
 rejoinder to Nagel, "What is it like for there to be something it is
 like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
