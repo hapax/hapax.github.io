@@ -401,7 +401,7 @@ Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it did not have conscious experience to begin with.
 I will explore this possibility in Part II.
-But if such an analogue is possible, it would answer Daniel Dennett's
+But if such an analogue exists, even in principle, it would answer Daniel Dennett's
 mocking rejoinder to Nagel, "What is it like for there to be something
 it is like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
@@ -424,7 +424,8 @@ how reality itself might ground interspecific discourse in
 the same way that cognitive universalism grounds intraspecific
 discourse.
 In particular, we'll consider the claim that mathematics acts as a
-"universal language"!
+"universal language" and some radically different forms that alien
+mathematics might take.
 
 <!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
