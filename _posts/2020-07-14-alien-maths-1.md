@@ -392,7 +392,7 @@ complexity by people like Dennett and [Douglas Hofstadter](https://en.wikipedia.
 
 Whether or not it is *only* a functional phenomenon, the feedback loop
 of conscous experience has clear functional implications for the organism, since it can
-report on the contents of its internal representations.
+report on its internal contents.
 A human operator might enter the murmuration tank in the
 heterophenomenological arcade, successfully wield a flight of
 starlings, and emerge with some "inner experience" of being that flock
