@@ -383,7 +383,7 @@ properties of what it is like to have experience. -->
 
 Secondly, while functional gestalts seem like a good way to test
 incommensurability, they are most likely distinct from the
-phenomenological "interiority" Nagel claims.
+phenomenological aspects of mind Nagel posits.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
