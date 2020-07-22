@@ -236,12 +236,12 @@ Can we do better?
 his anti-reductionism, but we'll leave a critical evaluation for
 another time. -->
 
-The German biologist Jakob von Uexküll approached the inner life of
-animals a little more systematically.
-Uexküll wanted to understand how organisms model and interact with their
-environments and thereby create meaning.
-The [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") is a synthesis of these
-factors,
+The German biologist Jakob von Uexküll
+<!-- approached the inner life of
+animals a little more systematically. -->
+wanted to understand how organisms model and interact with their
+environments, and thereby create meaning.
+He used the term [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") for athe synthesis of factors
 
 <span style="padding-left: 20px; display:block">
 ...constituted by a more or less broad series of elements, 'carriers of
@@ -253,12 +253,12 @@ I think this is an instructive approach.
 By carefully considering the "marks" available to the bat, learning
 about cave topography, feeding habits, social structure, and
 experimenting with human echolocation---in other words, becoming
-practical ethologists---Nagel's claim that chiropteran experience is
-incommensurable with ours becomes less intuitive; the
+practical ethologists---Nagel's claims becomes less intuitive, since the
 imaginative obstructions do not seem fundamental. 
-(This closely parallels Daniel Dennett's amusing notion of
+This closely parallels Daniel Dennett's amusing notion of
 "heterophenomenology" in
-[his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf).)
+[his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf),
+so we will adopt this term for ethologists who try to experience the inner life of other animals.
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 
