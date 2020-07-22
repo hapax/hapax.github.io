@@ -318,7 +318,7 @@ whole.
 I would say that in this case, we have an empirically grounded claim
 of cognitive incommensurability.
 
-#### Hive minds, qualia and bricks
+#### Hive minds, consciousness and bricks
 
 There is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
