@@ -391,13 +391,12 @@ abilities are successfully operated in tandem.
 will not need to enlist this reductio.) -->
 By this liberal definition, there is a functional gestalt
 associated with being a flock of birds or perhaps even a brick.
-A flock of birds also has an *umwelt*, a set of marks that are
-available and of interest *to the flock as a whole*.
-Ethologists do study these sorts of *umwelten* under the umbrella of
-collective animal behaviour,
+A flock of birds naturally has an *umwelt*, a set of marks that are
+available and of interest to the flock as a whole, and ethologists
+study these *umwelten* under the umbrella of collective animal behaviour,
 <!-- Bird flocks can certainly be understood in terms of "collective
 ethology". -->
-but going even further, one can imagine a murmuration tank in the
+But going even further, one can imagine a murmuration tank in the
 heterophenomenological arcade, simulating the *umwelt* of a flight of starlings.
 
 <!-- One can imagine designing a game which immerses humans in the
