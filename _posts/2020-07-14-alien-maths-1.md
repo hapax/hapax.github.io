@@ -287,9 +287,9 @@ We can know all the marks, and how they fit together, but this does
 not allow us to simulate the *fitting together* itself, since this
 likely requires. -->
 
-Thus, true heterophenomenology, knowing "what it is like" to be a bat,
+<!-- Thus, true heterophenomenology, knowing "what it is like" to be a bat,
 would not only consist in researching the bat's exotic sensory
-modalities, available environmental marks, and so on.
+modalities, available environmental marks, and so on. -->
 To learn "how", you would have to be *immersed* in a bat-like
 environment and obliged to use bat-like interfaces
 to solve bat-like problems, for a suitably long period of time.
@@ -301,15 +301,17 @@ One imagines a heterophenomenological arcade---consisting of full-body VR
 immersion tanks with haptic, olfactory and various other sensory
 feedback loops---offering a full range of non-human inner lives.
 
-We can think of this as a recipe for producing *fluency* in being a
-bat, and of course, immersion is precisely the way that humans become
-fluent in other languages and cultures, I suspect for the same
-functionalist reasons.
-But if it is impossible to find a suitable ensemble of "bat-like"
-elements for the immersion, either because the modalities are too
-weird, or the parts too difficult for our brain to operate
-synchronously, I would say we have an empirically grounded claim of
-cognitive incommensurability.
+Immersion is the a recipe for producing *fluency* in being a
+bat, and not by coincidence, is the main way that humans become fluent
+in other languages and cultures.
+(Speaking from personal experience, merely trying to learn the
+components of a language, such as grammar, vocabulary, etc, without
+functionally uniting them, makes fluency very difficult to achieve.)
+<!--, I suspect for the same functionalist reasons. -->
+If it is impossible to find a suitable ensemble of "bat-like"
+elements for the immersion, either because the sensory modalities are too
+weird, or the parts too unwieldy for our brains to coordinate, I would
+say we have an empirically grounded claim of cognitive incommensurability.
 
 #### Hive minds, qualia and bricks
 
