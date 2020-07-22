@@ -457,8 +457,8 @@ But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
 functional analogue of consciousness for a creature which does not
 possess it?
-This is, of course, the "old" problem of AI: get the computer to
-succeed at conscious experience simulator.
+This is, of course, the "old" problem of AI: get a computer to
+succeed at the conscious experience simulator.
 <!-- Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it was not self-aware to begin with. -->
