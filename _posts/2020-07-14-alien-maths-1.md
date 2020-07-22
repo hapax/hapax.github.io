@@ -381,9 +381,9 @@ incommensurability than afforded by the sweaty palms of a Nagelian -->
 merely invoking a gestalt is not enough to explain the special
 properties of what it is like to have experience. -->
 
-That said, not every functional gestalt has an "interiority".
-Although this is obvious, the following argument is perhaps independently
-interesting.
+Secondly, while functional gestalts seem like a good way to test
+incommensurability, they are most likely distinct from the
+phenomenological "interiority" Nagel claims.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
