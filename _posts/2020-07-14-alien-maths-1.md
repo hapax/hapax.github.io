@@ -350,9 +350,9 @@ need a heterophenomenological arcade to test. -->
 
 #### Hive minds, consciousness and bricks
 
-I'll finish with a couple of miscellaneous commens.
+I finish with a couple of miscellaneous observations.
 First, there is no reason for this functional gestalt to be confined to
-individual organisms. There is a functional gestalt, a "how", to being
+individual organisms. There is a gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
 collective like a slime mould, a planetary consciousness, and so on.
 <!-- (We will return to this point in the sequel.)-->
