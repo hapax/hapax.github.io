@@ -389,6 +389,7 @@ true inner experience, for the simple reason that inner experience is
 something over and above the ability to successfully operate many abilities in tandem: it is a *feedback loop* on the
 contents of its internal representations, as described in ever-increasing
 complexity by people like Dennett and [Douglas Hofstadter](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop).
+
 Whether or not it is *only* a functional phenomenon, the feedback loop
 of conscous experience has clear functional implications for the organism, since it can
 report on the contents of its internal representations.
@@ -397,7 +398,6 @@ heterophenomenological arcade, successfully wield a flight of
 starlings, and emerge with some "inner experience" of being that flock
 that the flock does not have!
 (Even sillier is the brick simulator.)
-
 A flight of starlings does not need to be conscious to accomplish
 its executive coordination, and attend to its collectve *umwelt*.
 Instead, the starlings presumably exchange a sort of language of cues.
