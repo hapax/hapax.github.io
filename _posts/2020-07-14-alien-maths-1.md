@@ -326,7 +326,6 @@ point in the sequel.)
 So in general, the mysterious "interiority" Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
-
 So far, I have been sloppy about the distinction between gestalt
 functional aspects and inner life, and indeed, I was briefly tempted
 to view this "executive" gestalt operation as consciousness itself.
