@@ -354,8 +354,8 @@ We finish with a couple of miscellaneous observations.
 First, there is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
-collective like a slime mould, a planetary consciousness, and so on. (We will return to this
-point in the sequel.)
+collective like a slime mould, a planetary consciousness, and so on.
+<!-- (We will return to this point in the sequel.)-->
 So in general, the mysterious "interiority" Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
