@@ -396,7 +396,7 @@ Above, we suggested that from a functionalist perspective, near enough
 is good enough.
 We need not surgically implant bat ears if we can "mock up" a
 functionally equivalent form of echolocation.
-But if consciousness has a functional characterization, it raises a humorous
+But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
 functional analogue for a creature which does not possess it?
 Naturally, such a creature would need to have enough cognitive
