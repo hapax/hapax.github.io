@@ -327,8 +327,10 @@ So in general, the mysterious "interiority" Nagel talks about need not be associ
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
 
-It is tempting to view this "executive" as consciousness itself, the
-inner experience, qualia, or what have you, but this very easily traps
+So far, I have been sloppy about the distinction between gestalt
+functional aspects and inner life, and indeed, I was briefly tempted
+to view this "executive" gestalt operation as consciousness itself.
+<!-- ut this very easily traps
 us in the bad regress of homonculi and Cartesian theatre. The point is
 that "knowing how" to competently wield a brain is a central
 component of the organism's cognitive machinery and can be understood
@@ -344,9 +346,9 @@ I think there is still a phenomenological aspect to explain, even if
 it is to heroically explain away. My goal is get more traction on
 incommensurability than afforded by the sweaty palms of a Nagelian -->
 <!-- mystic. -->
-In fact, it's clear that, from a functional view, merely invoking a
-gestalt is not enough to explain the special properties of what it is
-like to have experience.
+But on reflection it's clear that, even from a functionalist view,
+merely invoking a gestalt is not enough to explain the special
+properties of what it is like to have experience.
 
 Here is a short argument.
 *Anything* made up of interlocking capacities and abilities has a
