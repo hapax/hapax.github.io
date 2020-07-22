@@ -379,7 +379,7 @@ like" to be a flock of birds, it is highly unlikely that the flock
 itself has that experience.
 This is simply because the human has some ability over and above the
 flock, namely, a feedback loop on the contents of experience which has
-some puzzling "qualitative" aspects.
+those qualitative aspects that cause the philosophers so much befuddlement.
 In functional terms, this feedback loop is very different from
 whatever system of cues allows the birds to flock coherently.
 On the other hand, I don't doubt that with enough training, a human
