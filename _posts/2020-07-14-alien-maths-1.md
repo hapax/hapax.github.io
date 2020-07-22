@@ -319,7 +319,7 @@ offering a full range of non-human inner lives, consisting of full-body VR
 immersion tanks with haptic, olfactory and other sensory
 feedback loops.
 
-It would be even more stringent if these arcade units were wired up to
+Even more stringently, we could wire these arcade units up to
 real animals, e.g. the bat tank translated sensory inputs from a
 real bat into human-readable form, and then translted the human
 operator's decisions into bat action.
