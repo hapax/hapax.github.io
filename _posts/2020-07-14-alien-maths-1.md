@@ -456,7 +456,7 @@ functionally equivalent form of echolocation.
 But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
 functional analogue of consciousness for a creature which does not
-have conscious experience?
+possess it?
 <!-- Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it was not self-aware to begin with. -->
