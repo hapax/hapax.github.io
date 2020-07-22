@@ -390,15 +390,26 @@ It is amusing to note that, in a sort of relativist double entendre,
 the language of birds might in some sense determine the cognition of the
 flock.
 
-(A humorous question is whether it is possible to "mock up" a
-functional analogue of conscious experience for a creature which does
-not possess it. This would answer Daniel Dennett's mocking rejoinder
-to Nagel,  "What is it like for there to be something it is like to be
-something?")
+Above, we suggested that from a functionalist perspective, near enough
+is good enough.
+We need not surgically implant bat ears if we can "mock up" a
+functionally equivalent form of echolocation.
+But if consciousness has a functional characterization, it raises a humorous
+question: is it possible to mock up a "near enough is good enough"
+functional analogue for a creature which does not possess it?
+Naturally, such a creature would need to have enough cognitive
+machinery to *simulate* consciousness, and one might ask how this
+could be possible if it did not have conscious experience to begin with.
+I will explore this possibility in Part II.
+But if such an analogue is possible, it would answer Daniel Dennett's
+mocking rejoinder to Nagel, "What is it like for there to be something
+it is like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.) -->
-An even sillier example than the flock of birds is the brick, which I
-leave as homework to the diligent heterophenomologist.
+<!-- An even sillier example than the flock of birds is the brick, which I
+leave as homework to the diligent heterophenomologist. -->
+In the mean time, I leave the heterophenomenology of bricks as
+homework for the diligent reader.
 
 <!-- More dramatic and amusing, there is a gestalt associated to *any*
 unrelated collection of functions, defined precisely by being
@@ -413,8 +424,7 @@ how reality itself might ground interspecific discourse in
 the same way that cognitive universalism grounds intraspecific
 discourse.
 In particular, we'll consider the claim that mathematics acts as a
-"universal language", and explore some possibilities for alien
-mathematics!
+"universal language"!
 
 <!-- In computational terms, the *umwelt* is an effort to reverse engineer
 the operating system from the IO.
