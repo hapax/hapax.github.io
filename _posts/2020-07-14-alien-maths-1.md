@@ -407,8 +407,8 @@ But while the human may have some inner experience of "what is it
 like" to be a flock of birds, it is highly unlikely that the flock
 itself has that experience!
 This is simply because the human has some ability over and above the
-flock, namely, a feedback loop on the contents of experience which has
-those qualitative aspects that cause the philosophers so much befuddlement.
+flock, namely, a feedback loop on the contents of experience.
+<!-- which has those qualitative aspects that cause the philosophers so much befuddlement.-->
 In functional terms, this feedback loop seems very different from
 whatever system of cues allows the birds to flock coherently.
 <!-- On the other hand, I think that with enough training, a human
@@ -424,17 +424,18 @@ the flock!
 behaviour of humans, but ultimately, I think human culture is more
 tied up in human drives and needs than it is in language.) -->
 
-Above, we suggested that from a functionalist perspective, near enough
-is good enough.
+Finally, we suggested above that from a functionalist perspective,
+near enough is good enough.
 We need not surgically implant bat ears if we can "mock up" a
 functionally equivalent form of echolocation.
 But if consciousness has a functional characterization, it raises a strange
 question: is it possible to mock up a "near enough is good enough"
-functional analogue for a creature which does not have conscious experience?
-Naturally, such a creature would need to have enough cognitive
+functional analogue of consciousness for a creature which does not
+have conscious experience?
+<!-- Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
-could be possible if it was not self-aware to begin with.
-I will explore some possibilities in Part II, but if such an analogue
+could be possible if it was not self-aware to begin with. -->
+It seems hard to imagine, but if such an analogue
 exists, even in principle, it would answer Daniel Dennett's mocking
 rejoinder to Nagel, "What is it like for there to be something it is
 like to be something?"
@@ -442,6 +443,7 @@ like to be something?"
 that trouble philosophers.) -->
 <!-- An even sillier example than the flock of birds is the brick, which I
 leave as homework to the diligent heterophenomologist. -->
+
 In the mean time, I leave the heterophenomenology of bricks as
 homework for the diligent reader.
 
