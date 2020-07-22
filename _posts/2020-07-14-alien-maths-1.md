@@ -354,8 +354,8 @@ Here is a short argument.
 *Anything* made up of interlocking capacities and abilities has a
 functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
-(In fact, one can associate a gestalt to unrelated functions, but the
-following arguments are sufficient to my mind.)
+(In fact, one can associate a gestalt to unrelated functions, but we
+will not need to enlist this reductio.)
 By that rather liberal definition, there is a functional gestalt
 associated with being a brick or a flock of birds.
 It is reasonable and interesting to think about the *umwelt*
