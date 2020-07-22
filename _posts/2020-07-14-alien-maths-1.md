@@ -307,28 +307,30 @@ likely requires. -->
 <!-- Thus, true heterophenomenology, knowing "what it is like" to be a bat,
 would not only consist in researching the bat's exotic sensory
 modalities, available environmental marks, and so on. -->
-To learn "how", you would have to be *immersed* in a bat-like
+To get driving practice, you would have to be *immersed* in a bat-like
 environment and obliged to use bat-like interfaces
 to solve bat-like problems, for a suitably long period of time.
-(I think "bat-like" is good enough to reproduce the *functional* aspect
+I think "bat-like" is good enough to reproduce the *functional* aspect
 of this gestalt; to adopt the functionalist motto, we simply want to
 reproduce the relationships between outputs and inputs, and
-analogues will do if they mirror these relationships.)
-One imagines a "heterophenomenological arcade"---consisting of full-body VR
-immersion tanks with haptic, olfactory and various other sensory
-feedback loops---offering a full range of non-human inner lives.
+analogues will do if they mirror these relationships.
+Thus, we are led to imagine a "heterophenomenological arcade",
+offering a full range of non-human inner lives, consisting of full-body VR
+immersion tanks with haptic, olfactory and other sensory
+feedback loops.
 
-Even better, perhaps we could wire up a bat and translate its sensory
-input into human-readable form for the immersion tank, and uplink the
-human operator's decisions into bat-readable form which the bat implements.
-If the human can successfully drive the batmobile with enough
+It would be even more stringent if these arcade units were wired up to
+real animals, e.g. the bat tank took translated sensory inputs from a
+real bat into human-readable form, and then translted the human
+operator's decisions into bat action.
+If the human could successfully drive the batmobile with enough
 training, i.e. respond to the *umwelt* demands of the bat, I would say
-that its experience is commensurable.
+that its experience was commensurable.
 But if there is no way to produce human-readable functional analogues,
-or train the human to solve bat problems, then we have an empirically
-grounded claim of cognitive incommensurability.
-Thus, to test strong cognitive relativism, we just need a
-heterophenomenological arcade.
+or train the human to successfully solve bat problems, then we have an
+empirically grounded claim of cognitive incommensurability.
+The heterophenomenological arcade is therefore the testing ground for
+strong cognitive relativism.
 
 <!-- If immersion is a recipe for producing *fluency* in being a
 bat, it is not by coincidence the main way humans become fluent in
@@ -348,7 +350,8 @@ need a heterophenomenological arcade to test. -->
 
 #### Hive minds, consciousness and bricks
 
-There is no reason for this functional gestalt to be confined to
+We finish with a couple of miscellaneous observations.
+First, there is no reason for this functional gestalt to be confined to
 individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
 collective like a slime mould, a planetary consciousness, and so on. (We will return to this
