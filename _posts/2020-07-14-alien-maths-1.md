@@ -252,7 +252,8 @@ another time. -->
 The German biologist Jakob von Uexküll
 <!-- approached the inner life of
 animals a little more systematically. -->
-wanted to understand how organisms model and interact with their
+provides one such approach.
+Uexküll wanted to understand how organisms model and interact with their
 environments, and thereby create meaning.
 He used the term [*umwelt*](https://en.wikipedia.org/wiki/Umwelt) (German for "environment") for athe synthesis of factors
 
@@ -262,12 +263,13 @@ significance' or 'marks' which are the only things that interest the
 animal.
 </span>
 
-I think this is an instructive approach.
+I think this is an instructive philosophy.
 By carefully considering the "marks" available to the bat, learning
-about cave topography, feeding habits, social structure, and
-experimenting with human echolocation---in other words, becoming
-practical ethologists---Nagel's claims becomes less intuitive, since the
-imaginative obstructions do not seem fundamental. 
+about cave topography, feeding habits, social structure,
+experimenting with human echolocation, and so on---in other words, becoming
+practical ethologists---the
+imaginative obstructions do not seem fundamental.
+<!-- Nagel's claims becomes less intuitive, since -->
 This closely parallels Daniel Dennett's notion of
 "heterophenomenology" in
 [his reply to Nagel](https://ase.tufts.edu/cogstud/dennett/papers/what_is_it_like_to_be_a_bat.pdf),
