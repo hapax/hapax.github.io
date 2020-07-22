@@ -402,10 +402,10 @@ functional analogue for a creature which does not have conscious experience?
 Naturally, such a creature would need to have enough cognitive
 machinery to *simulate* consciousness, and one might ask how this
 could be possible if it did not have conscious experience to begin with.
-I will explore this possibility in Part II.
-But if such an analogue exists, even in principle, it would answer Daniel Dennett's
-mocking rejoinder to Nagel, "What is it like for there to be something
-it is like to be something?"
+I will explore some possibilities in Part II, but if such an analogue
+exists, even in principle, it would answer Daniel Dennett's mocking
+rejoinder to Nagel, "What is it like for there to be something it is
+like to be something?"
 <!-- (This clearly has functional aspects, but it is the qualitative aspects
 that trouble philosophers.) -->
 <!-- An even sillier example than the flock of birds is the brick, which I
