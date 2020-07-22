@@ -356,7 +356,7 @@ individual organisms. There is a functional gestalt, a "how", to being
 part of a telepathically linked hive mind, something more amorphously
 collective like a slime mould, a planetary consciousness, and so on.
 <!-- (We will return to this point in the sequel.)-->
-So in general, the mysterious "interiority" Nagel talks about need not be associated
+So in general, the inner life Nagel talks about need not be associated
 with an individual, but simply *any* functional gestalt that requires
 executive coordination.
 <!-- , and indeed, I was briefly tempted 
@@ -381,7 +381,23 @@ incommensurability than afforded by the sweaty palms of a Nagelian -->
 merely invoking a gestalt is not enough to explain the special
 properties of what it is like to have experience. -->
 
-Secondly, while functional gestalts seem like a good way to test
+But not every functional gestalt is likely to have an "interior"
+aspect.
+There is a functional gestalt associated with being a flock of birds
+or perhaps even a brick, but neither of these is likely to have any
+true inner experience, for the simple reason that inner experience is
+something over and above the ability to successfully operate many
+cognitive abilities in tandem: it is a sort of feedback loop on the
+contents of its internal representations.
+This has clear functional implications for the organism, since it can
+report on those contents, and a human simulator for instance might
+enter the murmuration tank in the heterophenomenological arcade,
+simulate the *umwelt* of a flight of starlings, and emerge with some
+"inner experience" of being a flock of birds that that flock does not
+have!
+Even sillier is the brick simulator.
+
+<!-- Secondly, while functional gestalts seem like a good way to test
 incommensurability, they are most likely distinct from the
 phenomenological aspects of mind Nagel posits.
 *Anything* made up of interlocking capacities and abilities has a
@@ -389,35 +405,36 @@ functional gestalt, a fluency of action when those capacities and
 abilities are successfully operated in tandem.
 <!-- (In fact, one can associate a gestalt to unrelated functions, but we
 will not need to enlist this reductio.) -->
-By this liberal definition, there is a functional gestalt
+<!-- By this liberal definition, there is a functional gestalt
 associated with being a flock of birds or perhaps even a brick.
 A flock of birds naturally has an *umwelt*, a set of marks that are
 available and of interest to the flock as a whole, and ethologists
 study these *umwelten* under the umbrella of collective animal behaviour,
 <!-- Bird flocks can certainly be understood in terms of "collective
-ethology". -->
+ethology". 
 But going even further, one can imagine a murmuration tank in the
-heterophenomenological arcade, simulating the *umwelt* of a flight of starlings.
+heterophenomenological arcade, simulating the *umwelt* of a flight of starlings. -->
 
 <!-- One can imagine designing a game which immerses humans in the
 experience of "being" a flock of birds, responding to those marks, and
 so on. -->
 
-But while the human may have some inner experience of "what is it
+<!-- But while the human may have some inner experience of "what is it
 like" to be a flock of birds, it is highly unlikely that the flock
 itself has that experience!
 This is simply because the human has some ability over and above the
-flock, namely, a feedback loop on the contents of experience.
-<!-- which has those qualitative aspects that cause the philosophers so much befuddlement.-->
+flock, namely, a feedback loop on the contents of experience with some
+puzzling qualitative aspects.
+<!-- which has those qualitative aspects that cause the philosophers so much befuddlement.
 In functional terms, this feedback loop seems very different from
-whatever system of cues allows the birds to flock coherently.
+whatever system of cues allows the birds to flock coherently. -->
 <!-- On the other hand, I think that with enough training, a human
 might be able to simulate this system of cues using the feedback loop. Even in functional terms, it is clearly different from executive
 coordination. 
 This is part of what might allow them to simulate the executive
 coordination of the flock, but it is rather different from whatever
 cues the birds exchange in order to flock coherently. -->
-It is amusing to note that, in a sort of relativist double entendre,
+<!-- It is amusing to note that, in a sort of relativist double entendre,
 the "language" of cues might in some sense determine the cognition of
 the flock!
 <!-- (It's tempting to make the same high-flown leap for the collective
