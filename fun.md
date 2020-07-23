@@ -26,10 +26,6 @@ zombies, science gone mad, and the psychology of time. Winner of the
 In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
 
-- *Language, cognition and alien mathematics*
-  [[1](https://hapax.github.io/philosophy/alien-maths-1/)]
-  (2020, blog post). Is it possible to imagine life as a bat? And
-  what has this got to do with alien math?
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). What makes time different from space, and what
   would a physical explanation of this fact look like?
