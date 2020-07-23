@@ -39,7 +39,6 @@ function draw() {
 t = t + 0.01;
 }
 </script>
-<p>Click the button to display a string as a hyperlink.</p>
 
 <button onclick="myFunction()">Sick of tickling?</button>
 
