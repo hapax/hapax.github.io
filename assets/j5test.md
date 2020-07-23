@@ -5,7 +5,7 @@ layout: plain
 
 <div id="sketch-holder"></div>
 
-Tickle the delicate gargle demons.
+Tickle the gargle demons.
 
 <html>
 <head>
