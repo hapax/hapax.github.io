@@ -12,7 +12,8 @@ tags: [bla]
 
 Hello
 
----
+<html>
+<head>
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
 <script>
@@ -57,7 +58,9 @@ function draw() {
   }
 }
 </script>
-
+</head>
+  <body>
+    <main>
 
 
 ```javascript
@@ -102,3 +105,6 @@ function draw() {
   }
 }
 ```
+    </main>
+  </body>
+</html>
