@@ -34,10 +34,10 @@ function draw() {
       const angle = xAngle * (x / width) + yAngle * (y / height);
 
       // each particle moves in a circle
-      const myX = x + 20 * cos(2 * PI * t + angle);
-      const myY = y + 20 * sin(2 * PI * t + angle);
+      const myX = x + 10 * cos(2 * PI * t + angle);
+      const myY = y + 10 * sin(2 * PI * t + angle);
 
-      ellipse(myX, myY, 10); // draw particle
+      ellipse(myX, myY, 5); // draw particle
     }
   }
 
