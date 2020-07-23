@@ -32,10 +32,10 @@ on holiday from time to time. Some rambling discursions:
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
   of time, concluding with a radical version of eternal recurrence.
-<!-- - [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
+- [*Cigarettes, hard labour, and a box full of money*](https://hapax.github.io/philosophy/prisoners/)
 (2017, blog post). How decision problems, from the Prisoner's Dilemma
 to smoking to betting against the Oracle of Delphi, are secretly
-  related. -->
+  related.
 <!-- What nuclear war, smoking, and the Oracle of Delphi have in -->
 <!-- common. -->
 
@@ -48,10 +48,10 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 
 #### Programming
 
-I code for fun and occasionally profit in [Python](https://www.python.org/)
+<!-- I code for fun and occasionally profit in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
-[Processing](https://processing.org/) (it's visual). A few small
-projects are listed below:
+[Processing](https://processing.org/) (it's visual). -->
+I code for fun and occasionally profit. A few small projects:
 
 - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
   designed the prototype version of the university's course
