@@ -1,11 +1,11 @@
 ---
-title: Chubbier Gargle Demon
+title: Rubbed Chromaline Egg
 layout: plain
 ---
 
 <div id="sketch-holder"></div>
 
-Tickle the gargle demons.
+Rub the chromaline eggs.
 
 <html>
 <head>
