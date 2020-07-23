@@ -48,7 +48,7 @@ t = t + 0.01;
 
 <script>
 function myFunction() {
-  var str = "Hatching a plan";
+  var str = "It's a baby link!";
   var result = str.link("https://www.when2meet.com/?9417123-MPoci");
   document.getElementById("demo").innerHTML = result;
 }
