@@ -42,7 +42,7 @@ t = t + 0.01;
 </head>
 </html>
 
-<button onclick="myFunction()">Sick of tickling?</button>
+<button onclick="myFunction()">Hatch the eggs</button>
 
 <p id="demo"></p>
 
