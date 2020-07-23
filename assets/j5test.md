@@ -27,7 +27,7 @@ function setup() {
 function draw() {
   background(10, 10);
 
-let vol = mic.getLevel();
+  let vol = mic.getLevel();
 
   for (let x = -10; x <= width+10; x = x + 60) {
     for (let y = -10; y <= height+10; y = y + 10) {
