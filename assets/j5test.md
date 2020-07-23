@@ -44,14 +44,15 @@ let vol = mic.getLevel();
     }
   }
 
-t = t + 0.01; // update time
-}
-
-function mouseClicked() {
+if vol > 0.5 {
+{
 	let s = 'https://www.when2meet.com/?9417123-MPoci';
     fill(50);
     text(s, 10, 10, 70, 80);
   }
+
+t = t + 0.01; // update time
+}
 </script>
 </head>
 </html>
