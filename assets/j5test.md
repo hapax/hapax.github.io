@@ -7,21 +7,18 @@ layout: plain
 
 Tickle the delicate gube blodgers, and listen to their songs of feeble
 lamentation.
-Then you may begin the Metaplanning.
+Then you may begin the [Metaplanning](https://www.when2meet.com/?9416997-xXJve).
 
 <html>
 <head>
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
 <script>
-
 let t = 0; // time variable
 let osc, fft;
 
  osc = new p5.TriOsc(); // set frequency and type
   osc.amp(0.5);
-
-  fft = new p5.FFT();
   osc.start();
 
 function setup() {
@@ -60,7 +57,6 @@ function draw() {
   let amp = 1;
   osc.amp(amp);
 }
-
 </script>
 </head>
 </html>
