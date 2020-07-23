@@ -14,7 +14,7 @@ Hello
 
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
 <script>
 let num = 2000;
 let range = 6;
