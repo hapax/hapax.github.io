@@ -5,7 +5,7 @@ layout: plain
 
 <div id="sketch-holder"></div>
 
-Tickle the delicate gube blodgers, and listen to their song of feeble
+Tickle the delicate gube blodgers, and listen to their songs of feeble
 lamentation.
 Then you may begin the Metaplanning.
 
