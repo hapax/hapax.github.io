@@ -38,9 +38,9 @@ function draw() {
       const myX = x + 15 * cos(2 * PI * t + angle);
       const myY = y + 15 * sin(2 * PI * t + angle);
 
-      fill(vol*256, x*(256/width), mouseY*(256/width));
+      fill((x+y)*(256/(height+width)), x*(256/width), mouseY*(256/width));
       
-      ellipse(myX, myY, 30); // draw particle
+      ellipse(myX, myY, 30 * (1 - vol)); // draw particle
     }
   }
 
