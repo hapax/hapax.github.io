@@ -1,13 +1,11 @@
 ---
-title: Gube Blodger Harmonic Metaplanning
+title: Chubbier Gargle Demon
 layout: plain
 ---
 
 <div id="sketch-holder"></div>
 
-Tickle the delicate gube blodgers, and listen to their songs of feeble
-lamentation.
-Then you may begin the [Metaplanning](https://www.when2meet.com/?9416997-xXJve).
+Tickle the delicate gargle demons [Metaplanning](https://www.when2meet.com/?9416997-xXJve).
 
 <html>
 <head>
@@ -24,8 +22,8 @@ function setup() {
 function draw() {
   background(10, 10);
 
-  for (let x = 0; x <= width; x = x + 60) {
-    for (let y = 0; y <= height; y = y + 10) {
+  for (let x = -10; x <= width+10; x = x + 60) {
+    for (let y = -10; y <= height+10; y = y + 10) {
       const xAngle = map(mouseX, 0, width, -4 * PI, 4 * PI, true);
       const yAngle = map(mouseY, 0, height, -4 * PI, 4 * PI, true);
       const angle = xAngle * (x / width) + yAngle * (y / height);
@@ -39,7 +37,11 @@ function draw() {
     }
   }
 
-  t = t + 0.01; // update time
+t = t + 0.01; // update time
+
+function mouseClicked() {
+  
+  }
 }
 </script>
 </head>
