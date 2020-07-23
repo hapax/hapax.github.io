@@ -1,11 +1,6 @@
 ---
-title: Brownian test
+title: Gube Blodger Metaplanner
 layout: plain
-tagline: Ooh! Aah!
-<!-- meta-title: P5.js Fireworks Example -->
-<!-- meta-description: Use P5.js to put on a fieworks show! -->
-<!-- meta-image: /examples/p5js/images/fireworks-1.png -->
-tags: [bla]
 ---
 
 <div id="sketch-holder"></div>
