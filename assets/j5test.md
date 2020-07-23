@@ -1,11 +1,12 @@
 ---
-title: Gube Blodger Metaplanning Widget
+title: Gube Blodger Harmonic Metaplanning
 layout: plain
 ---
 
 <div id="sketch-holder"></div>
 
-Hello
+Tickle the delicate gube blodgers, and listen to their sorrowful song.
+Then you may begin the Metaplanning.
 
 <html>
 <head>
