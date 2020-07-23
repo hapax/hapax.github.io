@@ -17,46 +17,38 @@ Hello
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
 <script>
-let num = 2000;
-let range = 6;
 
-let ax = [];
-let ay = [];
-
+let t = 0; // time variable
 
 function setup() {
-  createCanvas(710, 400);
-  for ( let i = 0; i < num; i++ ) {
-    ax[i] = width / 2;
-    ay[i] = height / 2;
-  }
-  frameRate(30);
+  createCanvas(600, 600);
+  noStroke();
+  fill(40, 200, 40);
 }
 
 function draw() {
-  background(51);
+  background(10, 10); // translucent background (creates trails)
 
-  // Shift all elements 1 place to the left
-  for ( let i = 1; i < num; i++ ) {
-    ax[i - 1] = ax[i];
-    ay[i - 1] = ay[i];
+  // make a x and y grid of ellipses
+  for (let x = 0; x <= width; x = x + 60) {
+    for (let y = 0; y <= height; y = y + 10) {
+      // starting point of each circle depends on mouse position
+      const xAngle = map(mouseX, 0, width, -4 * PI, 4 * PI, true);
+      const yAngle = map(mouseY, 0, height, -4 * PI, 4 * PI, true);
+      // and also varies based on the particle's location
+      const angle = xAngle * (x / width) + yAngle * (y / height);
+
+      // each particle moves in a circle
+      const myX = x + 20 * cos(2 * PI * t + angle);
+      const myY = y + 20 * sin(2 * PI * t + angle);
+
+      ellipse(myX, myY, 10); // draw particle
+    }
   }
 
-  // Put a new value at the end of the array
-  ax[num - 1] += random(-range, range);
-  ay[num - 1] += random(-range, range);
-
-  // Constrain all points to the screen
-  ax[num - 1] = constrain(ax[num - 1], 0, width);
-  ay[num - 1] = constrain(ay[num - 1], 0, height);
-
-  // Draw a line connecting the points
-  for ( let j = 1; j < num; j++ ) {
-    let val = j / num * 204.0 + 51;
-    stroke(val);
-    line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
-  }
+  t = t + 0.1; // update time
 }
+
 </script>
 </head>
 </html>
