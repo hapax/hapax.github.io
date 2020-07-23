@@ -5,7 +5,7 @@ layout: plain
 
 <div id="sketch-holder"></div>
 
-Tickle the delicate gargle demons [Metaplanning](https://www.when2meet.com/?9416997-xXJve).
+Tickle the delicate gargle demons.
 
 <html>
 <head>
