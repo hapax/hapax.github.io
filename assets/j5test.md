@@ -1,5 +1,5 @@
 ---
-title: Gube Blodger Metaplanner
+title: Gube Blodger Metaplanning Widget
 layout: plain
 ---
 
@@ -14,11 +14,17 @@ Hello
 <script>
 
 let t = 0; // time variable
+let osc, fft;
+
+ osc = new p5.TriOsc(); // set frequency and type
+  osc.amp(0.5);
+
+  fft = new p5.FFT();
+  osc.start();
 
 function setup() {
   createCanvas(600, 600);
   noStroke();
-  fill(40, 200, 40);
 }
 
 function draw() {
@@ -37,11 +43,20 @@ function draw() {
       const myX = x + 10 * cos(2 * PI * t + angle);
       const myY = y + 10 * sin(2 * PI * t + angle);
 
-      ellipse(myX, myY, 5); // draw particle
+      fill((x+y)*(256/(height+width)), x*(256/width), mouseY*(256/width));
+      
+      ellipse(myX, myY, 30); // draw particle
     }
   }
 
-  t = t + 0.1; // update time
+  t = t + 0.01; // update time
+
+  // change oscillator frequency based on mouseX
+  let freq = map(mouseY, 0, width, 40, 880);
+  osc.freq(freq);
+
+  let amp = 1;
+  osc.amp(amp);
 }
 
 </script>
