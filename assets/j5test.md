@@ -11,8 +11,13 @@ Tickle the delicate gargle demons.
 <head>
 
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.sound.js"></script>
 <script>
 let t = 0;
+let mic;
+
+  mic = new p5.AudioIn();
+  mic.start();
 
 function setup() {
   createCanvas(600, 600);
@@ -21,6 +26,8 @@ function setup() {
 
 function draw() {
   background(10, 10);
+
+let vol = mic.getLevel();
 
   for (let x = -10; x <= width+10; x = x + 60) {
     for (let y = -10; y <= height+10; y = y + 10) {
@@ -31,7 +38,7 @@ function draw() {
       const myX = x + 15 * cos(2 * PI * t + angle);
       const myY = y + 15 * sin(2 * PI * t + angle);
 
-      fill((x+y)*(256/(height+width)), x*(256/width), mouseY*(256/width));
+      fill(vol*256, x*(256/width), mouseY*(256/width));
       
       ellipse(myX, myY, 30); // draw particle
     }
