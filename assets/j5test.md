@@ -39,6 +39,8 @@ function draw() {
 t = t + 0.01;
 }
 </script>
+</head>
+</html>
 
 <button onclick="myFunction()">Sick of tickling?</button>
 
@@ -51,6 +53,3 @@ function myFunction() {
   document.getElementById("demo").innerHTML = result;
 }
 </script>
-
-</head>
-</html>
