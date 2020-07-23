@@ -5,7 +5,7 @@ layout: plain
 
 <div id="sketch-holder"></div>
 
-Tickle the gargle demons, then [plan](https://www.when2meet.com/?9417123-MPoci).
+Tickle the gargle demons.
 
 <html>
 <head>
@@ -39,5 +39,19 @@ function draw() {
 t = t + 0.01;
 }
 </script>
+<p>Click the button to display a string as a hyperlink.</p>
+
+<button onclick="myFunction()">Sick of tickling?</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var str = "Plan with the chubby demons.";
+  var result = str.link("https://www.when2meet.com/?9417123-MPoci");
+  document.getElementById("demo").innerHTML = result;
+}
+</script>
+
 </head>
 </html>
