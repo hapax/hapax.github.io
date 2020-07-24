@@ -47,9 +47,9 @@ statistical mechanics.
 
 #### Technical notes
 
-- [*MIP\* = RE*](assets/mipre.pdf) (2020). Unpolished notes for a group talk on a
-  [breakthough](https://arxiv.org/abs/2001.04383) in complexity
-  theory, showing that entangled provers can convince you of almost anything.
+- [*MIP\* = RE*](assets/mipre.pdf) (2020). Rough notes for a group
+  talk where I gave some context and motivation for an [major breakthough](https://arxiv.org/abs/2001.04383)
+  in complexity theory. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf) (2019). Unpolished notes for a group
   talk on the basics of [sphere packing and conformal field theory](https://arxiv.org/abs/1905.01319).
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
