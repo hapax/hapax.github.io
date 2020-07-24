@@ -9,9 +9,7 @@ date:  2020-07-08
 
 **July 13, 2020.** *Linguistic relativism is the notion that language
   determines reality. Here, I introduce a variant called cognitive
-  relativism, and interrogate the inner life of a bat, a brick, and a
-  flock of birds. This will prepare us (hopefully) to think about
-  alien mathematics!*
+  relativism, and consider whether humans could simulate bats.*
 
 <!-- Alien algebra, bat brains and other cognitive conundra -->
 
