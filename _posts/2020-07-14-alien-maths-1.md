@@ -357,15 +357,15 @@ Although Nagel would like to claim that there is something
 "qualitative" the bat simulation misses, his argument for
 phenomenological difference is *based* on a functional difference, so
 this seems like a reasonable place to start!
-But if you like, we have explored the special case of *functional
+If you like, we have explored the special case of *functional
 incommensurability*.
-This is sufficient for the end goal (to be reached in later posts) of
+But this is all I need for my end goal (to be reached in later posts) of
 exploring the likelihood of "mathematical universality", i.e. that
 radically different forms of intelligent life will be able to
 do each other's math homework.
-On our journey to alien mathematics, we'll consider functional aspects of
-sentience, convergent evolution, and the nature of physical reality
-itself.
+On our journey to alien mathematics, I'll probably consider functional aspects of
+sentience, telepathy, convergent evolution, and Big Thoughts about the
+nature of physical reality.
 So, tune in at some unknown point in futurity for the next instalment!
 
 <!-- how reality itself might ground interspecific discourse in the -->
