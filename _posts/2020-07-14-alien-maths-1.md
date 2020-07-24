@@ -330,13 +330,24 @@ empirically grounded claim of cognitive incommensurability.
 The heterophenomenological arcade is the testing ground for
 strong cognitive relativism.
 
-#### Next time: alien mathematics
+#### Next time
 
 So finishes Part I.
-Next time, we'll consider functional aspects of sentience, convergent
-evolution, aliens, and how reality itself might ground interspecific
-discourse in the same way that cognitive universalism grounds
-intraspecific discourse.
-In particular, we'll consider the claim that mathematics acts as a
-"universal language" and canvas some of the radically different forms
-that alien mathematics might take.
+Although Nagel would like to claim that there is something
+"qualitative" the bat simulation misses, his argument for
+phenomenological difference is *based* on a functional difference, so
+this seems like a reasonable place to start!
+But if you like, we have explored the special case of *functional
+incommensurability*.
+This is sufficient for the end goal (to be reached in later posts) of
+exploring the likelihood of "mathematical universality", i.e. that
+radically different forms of intelligent life will be able to
+do each other's math homework.
+On our journey to alien mathematics, we'll consider functional aspects of
+sentience, convergent evolution, and the nature of physical reality itself.
+
+<!-- how reality itself might ground interspecific discourse in the -->
+<!-- same way that cognitive universalism grounds intraspecific -->
+<!-- discourse. In particular, we'll consider the claim that -->
+<!-- mathematics acts as a "universal language" and canvas some of the -->
+<!-- radically different forms that alien mathematics might take. -->
