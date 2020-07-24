@@ -27,7 +27,7 @@ Some hearty chunks of exposition.
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
-  post). I walk through a rough estimate of how big a white dwarf
+  post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
   (2020, blog post). A paean to the processing power of the paper napkin.
