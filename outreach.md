@@ -25,7 +25,7 @@ Some hearty chunks of exposition.
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to network planning and soap bubbles,
-  requiring only pre-calculus maths. Draft version.
+  requiring only pre-calculus math. Draft version.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
   post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
