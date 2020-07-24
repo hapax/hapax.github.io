@@ -61,9 +61,9 @@ statistical mechanics.
   quickly". A brief introduction to both notions.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). To paraphrase
-Mark Kac, in string theory, a loop amplitude hears the shape of a
-Riemann surface. I explain what this means in terms of path integrals
-and moduli spaces.
+Mark Kac, propagating strings hear the shape of a Riemann surface. I
+explain what this means in terms of path integrals and moduli space
+of vacuum loop amplitudes.
 - [*The inflationary spectrum*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). If you want phenomenological
   constraints for your crazy pet GUT, you could do worse than go
