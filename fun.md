@@ -60,9 +60,10 @@ I code for fun and occasionally profit. A few small projects:
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
   number theory in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
-- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
+<!-- - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing basic gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A
-  buggy but addictive implementation of Pong. <!-- of which I am inordinately proud.-->
+  buggy but addictive implementation of Pong. <!-- of which I am
+  inordinately proud.-->
 
 <figure>
  <div style="text-align:center"><img src ="/images/x64.png" />
