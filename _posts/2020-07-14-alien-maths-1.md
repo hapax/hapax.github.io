@@ -345,7 +345,9 @@ exploring the likelihood of "mathematical universality", i.e. that
 radically different forms of intelligent life will be able to
 do each other's math homework.
 On our journey to alien mathematics, we'll consider functional aspects of
-sentience, convergent evolution, and the nature of physical reality itself.
+sentience, convergent evolution, and the nature of physical reality
+itself.
+So, tune in at some unknown point in futurity for the next instalment!
 
 <!-- how reality itself might ground interspecific discourse in the -->
 <!-- same way that cognitive universalism grounds intraspecific -->
