@@ -49,7 +49,7 @@ statistical mechanics.
 
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
   provers makes you a god. This
-  [recent breakthough in complexity theory](https://arxiv.org/abs/2001.04383)
+  [breakthough](https://arxiv.org/abs/2001.04383) in complexity theory
   also tells us something deep about the structure of entanglement and disproves a major
   conjecture in operator algebra theory. Unpolished notes for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
