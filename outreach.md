@@ -24,7 +24,7 @@ I list some of my teaching and outreach activities below.-->
 Some hearty chunks of exposition.
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
-  (2020). A low-tech introduction to Steiner trees and soap bubbles,
+  (2020). A low-tech introduction to network planning and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
   post). A rough guide to how big a white dwarf
