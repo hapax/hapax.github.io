@@ -30,10 +30,14 @@ Some hearty chunks of exposition.
   post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  (2020, blog post). A paean to the processing power of the paper napkin.
+  (2020, blog post). A paean to the processing power of the paper
+  napkin, exploring topics as diverse as clouds, urban power usage,
+  bacterial genomics, running in the rain, asteroids, and molecular motion.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
-  engaging. I illustrate with derivatives.
+  engaging. I illustrate with derivatives, giving both "pure" highlights (MVT,
+  nowhere-differentiable functions, and an infinite series for $\pi$)
+  and applications (subliming spheres, self-similar spirals, and sandpiles).
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
