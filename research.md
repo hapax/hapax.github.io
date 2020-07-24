@@ -29,7 +29,7 @@ You can find papers and brief descriptions below, as well as assorted technical 
    precise sufficient conditions for this clean slicing (called the
    AdS/BCFT dictionary, and conjectured long ago) but as far as I
    know, stating conditions like this is a first. We also provide
-   neat applications to looking inside black holes, proving some results in [4] and [5] microscopically.
+   neat applications to looking inside black holes, proving some results of [4] and [5] microscopically.
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
