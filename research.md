@@ -67,5 +67,5 @@ and moduli spaces.
 - [*The inflationary spectrum*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). If you want phenomenological
   constraints for your crazy pet GUT, you could do worse than go
-  outside with a microwave camera and look at the night sky. Brief
-  notes on scalar and tensor perturbations in cosmological inflation.
+  outside with a microwave camera and look at the night sky. Seminar
+  talk on perturbations in cosmological inflation.
