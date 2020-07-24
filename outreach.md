@@ -36,8 +36,7 @@ Some hearty chunks of exposition.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
   engaging. I illustrate with derivatives, giving both "pure" highlights (MVT,
-  nowhere-differentiable functions, and an infinite series for $\pi$)
-  and applications (subliming spheres, self-similar spirals, and sandpiles).
+  nowhere-differentiable functions, and infinite series) and applications (subliming spheres, self-similar spirals, and sandpiles).
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
