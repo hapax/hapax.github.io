@@ -22,27 +22,38 @@ statistical mechanics.
 1. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-   David Wakeham. arXiv: 2004.13088. We show that if you chop a
-   holographic CFT in half, you sometimes cleanly slice the bulk. This
-   has some neat applications to looking inside black holes!
+   David Wakeham. arXiv: 2004.13088. From the CFT perspective, we prove
+   that if you chop a holographic CFT in half, you sometimes cleanly
+   slice the bulk. We give some precise sufficient conditions for this
+   clean slicing, called the AdS/BCFT dictionary, which as far as I
+   know is a first. We also provide some neat applications to looking
+   inside black holes!
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
    David Wakeham. PRL, 125:021601. arXiv:
    [2002.02971](https://arxiv.org/pdf/2002.02971.pdf). In a chaotic
-   theory, correlators for random states can be described by
-   wormhole-like shortcuts between replicas of the theory.
+   theory, averaging correlators of random states creates
+   wormhole-like shortcuts between replicas of the theory. This
+   applies to high energy states of a CFT, sure, but also your kettle.
 3. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
  Moshe Rozali, David
-  Wakeham. JHEP, 2020:23. arXiv: [1912.05746](https://arxiv.org/pdf/1912.05746.pdf).
+  Wakeham. JHEP, 2020:23. arXiv:
+  [1912.05746](https://arxiv.org/pdf/1912.05746.pdf). If the AdS/BCFT
+  conjecture is true, then the results of prodding the bulk slice in
+  on the gravity and CFT side should be compatible. We give a general
+  recipe for learning bulk equations of motion from this compatibility
+  requirement, and show that the simplest prescription obeys it.
 4. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
   (2019). Moshe Rozali,
  James Sully,
  Mark Van Raamsdonk,
   [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
-  David Wakeham. JHEP, 2020:4. arXiv: [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
+  David Wakeham. JHEP, 2020:4. arXiv:
+  [1910.12836](https://arxiv.org/pdf/1910.12836.pdf). Certain smart
+  people figured out how to answer 
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
