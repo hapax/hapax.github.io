@@ -312,15 +312,17 @@ environment and obliged to use bat-like interfaces
 to solve bat-like problems, for a suitably long period of time.
 I think "bat-like" is good enough to reproduce the *functional* aspect
 of this gestalt; to adopt the functionalist motto, we simply want to
-capture the relationships between outputs and inputs, and
-analogues will do if they mirror these relationships.
+capture the relationships between outputs and inputs, so
+analogues will do.
 Thus, we are led to imagine a "heterophenomenological arcade",
 offering a full range of non-human inner lives in the form of, say,
-full-body VR immersion tanks. <!-- with haptic, olfactory and other -->
+VR immersion tanks. <!-- with haptic, olfactory and other -->
 <!-- sensory feedback loops. -->
 
-Even more stringently, we could wire these arcade units up to
-real animals, e.g. the bat tank could translate sensory inputs from a
+To get a maximally faithful mirroring of an organism's IO, we could
+wire it up to one of these arcade units, so instead of an arcade, we
+get a "heterophenomenological mecha".
+The bat tank, for instance, could translate sensory inputs from a
 real bat into human-readable form, and then translate the human
 operator's decisions into actions performed by the bat.
 (Of course, this is an ethics approval minefield, but let's push on.)
