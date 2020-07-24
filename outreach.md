@@ -27,15 +27,15 @@ Some hearty chunks of exposition.
   (2020). A low-tech introduction to Steiner trees and soap bubbles,
   requiring only pre-calculus maths. Draft version.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
-  post). We walk through a rough estimate of how big can a white dwarf
-  get before it turns into a black hole.
+  post). I walk through a rough estimate of how big a white dwarf
+  (or a box of electrons) can get before it turns into a black hole.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
   (2020, blog post). A paean to the processing power of the paper napkin.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
-  engaging, applied to derivatives.
+  engaging. I illustrate with derivatives.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An in-depth introduction to dimensional analysis, ending with black hole thermodynamics.
+(2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
 #### Outreach
 
