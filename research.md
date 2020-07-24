@@ -36,7 +36,7 @@ statistical mechanics.
    - In a chaotic theory, averaging correlators of random states
    creates wormhole-like shortcuts between replicas of the
    theory. This applies to high energy states of a CFT, sure, but also
-   your kettle or a heavy nucleus.
+   your kettle or a molybdenum nucleus.
 3. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
@@ -54,8 +54,8 @@ statistical mechanics.
  Mark Van Raamsdonk,
   [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
   David Wakeham. JHEP, 2020:4. arXiv:
-  [1910.12836](https://arxiv.org/pdf/1910.12836.pdf). Certain smart
-  people figured out how to answer 
+  [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
+  - 
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
