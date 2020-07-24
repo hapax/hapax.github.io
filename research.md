@@ -48,11 +48,10 @@ statistical mechanics.
 #### Technical notes
 
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
-  provers makes you a god. This fact, incidentally, tells us something
-  deep about the structure of entanglement and disproves a major
-  conjecture in operator algebra theory. Rough notes on a
-  [recent breakthough](https://arxiv.org/abs/2001.04383) in complexity
-  theory. <!--, showing that entangled provers can convince you of almost anything.-->
+  provers makes you a god. This
+  [recent breakthough in complexity theory](https://arxiv.org/abs/2001.04383)
+  also tells us something deep about the structure of entanglement and disproves a major
+  conjecture in operator algebra theory. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box can tell you about the
   lightest black holes in certain theories of quantum gravity. A group
