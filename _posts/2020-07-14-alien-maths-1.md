@@ -9,7 +9,9 @@ date:  2020-07-08
 
 **July 13, 2020.** *Linguistic relativism is the notion that language
   determines reality. Here, I introduce a variant called cognitive
-  relativism, and consider whether humans could simulate bats.*
+  relativism, and consider whether humans could simulate bats. This
+  will prepare us (hopefully) to consider whether aliens could do our
+  math homework.*
 
 <!-- Alien algebra, bat brains and other cognitive conundra -->
 
