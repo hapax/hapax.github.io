@@ -321,6 +321,7 @@ Even more stringently, we could wire these arcade units up to
 real animals, e.g. the bat tank could translate sensory inputs from a
 real bat into human-readable form, and then translate the human
 operator's decisions into actions performed by the bat.
+(Of course, this is an ethics approval minefield, but let's push on.)
 If the human can successfully drive the batmobile with enough
 training, navigating the *umwelt* in a comparable way to a native
 user, I would say that its experience was human-commensurable.
