@@ -48,8 +48,8 @@ technical notes.
   - When the AdS/BCFT equivalence holds, the results of prodding
   the bulk slice should be compatible with the corresponding prodding
   of the boundary state in the CFT. We give a general recipe for
-  learning bulk equations of motion using this compatibility
-  requirement, and show that the simplest version of AdS/BCFT obeys it.
+  learning bulk equations of motion from the compatibility
+  requirement, and show the simplest version of AdS/BCFT obeys it.
 4. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
   (2019). Moshe Rozali,
  James Sully,
@@ -57,7 +57,9 @@ technical notes.
   [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
   David Wakeham. JHEP, 2020:4. arXiv:
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
-  - 
+  - We cut holes in various theories which, by the magic of
+    AdS/(B)CFT, are dual to evaporating black holes. These evaporating
+    black holes help elucidate 
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
@@ -65,6 +67,10 @@ technical notes.
  Mark Van Raamsdonk,
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
   [1810.10601](https://arxiv.org/abs/1810.10601).
+  - We cut holes in various theories which, by the magic of
+    AdS/(B)CFT, are dual to black hole microstates. In turn, these
+    microstates look like the Big Bang/Big Crunch FRW spacetimes
+    relevant to cosmology!
 
 #### Technical notes
 
