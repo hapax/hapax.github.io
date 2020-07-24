@@ -60,9 +60,8 @@ distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
   number theory in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
 
-Here is a list of
-[Processing](https://processing.org/)/[p5js](https://p5js.org/)
-sketches:
+Here are some fun
+[Processing](https://processing.org/)/[p5js](https://p5js.org/) sketches:
 
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong. <!-- of which I am
