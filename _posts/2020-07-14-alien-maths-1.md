@@ -15,9 +15,6 @@ date:  2020-07-08
 
 <!-- Alien algebra, bat brains and other cognitive conundra -->
 
-*Disclaimer.* This is more of a scrapbook of loosely related thoughts
- than a coherent thesis. I hope to clean it up at some point in the future.
-
 #### Linguistic relativism in brief
 
 <span style="padding-left: 20px; display:block">
