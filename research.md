@@ -47,7 +47,7 @@ You can find papers and brief descriptions below, as well as assorted technical 
   - When the AdS/BCFT equivalence holds, the results of prodding
   the bulk slice should be compatible with the corresponding prodding
   in the CFT. We give a general recipe for learning bulk equations of
-  motion from the compatibility requirement, and show the simplest
+  motion from this compatibility requirement, and show the simplest
   version of AdS/BCFT obeys it.
 4. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
   (2019). Moshe Rozali,
