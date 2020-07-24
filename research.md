@@ -25,10 +25,12 @@ You can find papers and brief descriptions below, as well as assorted technical 
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
    David Wakeham. arXiv: 2004.13088.
    - From the CFT perspective, we prove that if you chop a holographic
-   CFT_2 in half, you sometimes cleanly slice the bulk. We give some
+   CFT_2 in half, you sometimes cleanly slice the bulk. We give
    precise sufficient conditions for this clean slicing (called the
    AdS/BCFT dictionary, and conjectured long ago) but as far as I
-   know, stating conditions like this is a first. We also provide some neat applications to looking inside black holes!
+   know, stating conditions like this is a first. We also provide some
+   neat applications to looking inside black holes, proving some of
+   the results in [4] and [5] microscopically.
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
