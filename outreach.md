@@ -40,6 +40,14 @@ Some hearty chunks of exposition.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
+#### Teaching and course development
+
+<!-- From 2013--2017, I dropped a lot of math and physics at the University of
+Melbourne. -->
+
+- *An introduction to quantum computing* (TBA, University of British Columbia).
+- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016, University of Melbourne). I wrote/delivered tutorials on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf) and [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf), as well as some assignments [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf), [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)].
+
 #### Outreach
 
 I presented at the inaugural
@@ -71,15 +79,8 @@ topics.
   - [Black hole mergers](assets/colliding-black-holes.pdf). Colliding
     black holes and gravitational waves.
   - [Searching for aliens]({{hapax.github.io}}/assets/ET-phone-home.pdf). Fast
-    radio bursts and extraterrestrials.
-
-#### Teaching and course development
-
-<!-- From 2013--2017, I dropped a lot of math and physics at the University of
-Melbourne. -->
-
-- *An introduction to quantum computing* (TBA, University of British Columbia).
-- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016, University of Melbourne). I wrote/delivered tutorials on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf) and [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf), as well as some assignments [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf), [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)].
+  radio bursts and extraterrestrials.
+  
 <!-- I wrote and conducted tutorials for a second year course on classical mechanics and Fourier analysis. Stuff I wrote: [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a dash of Hamiltonian mechanics. [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics. *Assignments*  [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf),  [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)]. Higher-dimensional  donuts and surfing.-->
 <!-- [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
      (2013--16). An intro to proofs and real analysis. My [extra problems]({{hapax.github.io}}/assets/ra-problems.pdf)!
