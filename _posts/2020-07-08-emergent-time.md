@@ -9,8 +9,7 @@ date:  2020-07-08
 
 **July 8, 2020.** *Why can we remember the past but not the future?
   And why do objects persist? I discuss how folk metaphysics draws attention to genuine puzzles
-  about the nature of time, and outline some desiderata for a
-  satisfactory physical explanation.*
+  about the nature of time, and outline some desiderata for a physical explanation.*
 
 #### Brain states and metaphysics
 
