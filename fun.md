@@ -23,9 +23,10 @@ on holiday from time to time. Some rambling discursions:
 - *Language, cognition and alien math*
   [[1](https://hapax.github.io/philosophy/alien-maths-1/)]] (2020,
   blog post). Is it possible to get inside the head of a bat?
+  And what does this tell us about alien math?
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
-  (2020, blog post). What makes time different from space, and what
-  would a physical explanation of this fact look like?
+  (2020, blog post). Time is different from space. What
+  would a good physical explanation of this fact look like?
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
   (2019, blog post). A four-dimensionalist account of the psychology
   of time, concluding with a radical version of eternal recurrence.
