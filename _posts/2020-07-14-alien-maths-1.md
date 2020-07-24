@@ -11,7 +11,7 @@ date:  2020-07-08
   determines reality. Here, I introduce a variant called cognitive
   relativism, and consider whether humans could simulate bats. This
   will prepare us (hopefully) to consider whether aliens could do our
-  math homework.*
+  math homework!*
 
 <!-- Alien algebra, bat brains and other cognitive conundra -->
 
