@@ -31,7 +31,8 @@ I list some of my teaching and outreach activities below.-->
   post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
 - [*Hacking physics from the back of a napkin*](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  (2020, blog post). A paean to the processing power of the paper
+  (2020, blog post) and slides [[1](assets/dim-slides.pdf),
+  [2](assets/random-slides.pdf), [3](assets/brownian-slides.pdf)]. A paean to the processing power of the paper
   napkin, exploring topics as diverse as clouds, urban power usage,
   bacterial genomics, running in the rain, asteroids, and molecular motion.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
@@ -65,12 +66,12 @@ The [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-phy
   is an outreach program for high school students in the Vancouver
   area. I was a volunteer in 2018 and coordinated from 2019--20. Here
   are a few of the crazy things I got up to:
-- *The Hacker's Guide to Physics* [[1](assets/dim-slides.pdf),
+<!-- - *The Hacker's Guide to Physics* [[1](assets/dim-slides.pdf),
   [2](assets/random-slides.pdf), [3](assets/brownian-slides.pdf)] (2020). A series of lectures
   covering dimensional analysis,
   random walks, and Brownian motion, ending with a DIY calculation of
   Avogadro's number. Based on aforementioned
-  [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
+  [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/). -->
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to Starbucks.
 - *Assorted scrappy notes* (2019--20). Unpolished notes on various
