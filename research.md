@@ -58,8 +58,9 @@ technical notes.
   David Wakeham. JHEP, 2020:4. arXiv:
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
   - We cut holes in various theories which, by the magic of
-    AdS/(B)CFT, are dual to evaporating black holes. These evaporating
-    black holes help explain the "easy" version of 
+    AdS/(B)CFT, are dual to evaporating black hole. These black holes
+    shed light (or rather Hawking radiation) on the black hole
+    information problem.
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
@@ -68,15 +69,16 @@ technical notes.
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
   [1810.10601](https://arxiv.org/abs/1810.10601).
   - We cut holes in various theories which, by the magic of
-    AdS/(B)CFT, are dual to black hole microstates. In turn, these
-    microstates look like the Big Bang/Big Crunch FRW spacetimes
-    relevant to cosmology!
+    AdS/(B)CFT, are dual to black hole microstates. These microstates
+    look like the Big Bang/Big Crunch FRW spacetimes relevant to
+    cosmology, so perhaps we live on an end-of-the-world brane behind
+    a black hole horizon! Probably not, but it's a cool thought.
 
 #### Technical notes
 
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
-  provers makes you a god. So says [this breakthough](https://arxiv.org/abs/2001.04383) in complexity
-  theory. It also tells us something deep about the structure of entanglement and disproves a major
+  provers makes you a god. Although this is [a (big) result](https://arxiv.org/abs/2001.04383) in complexity
+  theory, it also tells us something deep about the structure of entanglement and disproves a major
   conjecture in operator algebra theory. Notes for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box can tell you about the
@@ -87,7 +89,7 @@ technical notes.
   quickly". A brief introduction to both notions.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). To paraphrase
-Mark Kac, propagating string hear the shape of every Riemann
+Mark Kac, propagating strings hear the shape of every Riemann
 surface. I explain what this means in terms of the path integral and
 moduli space of a string loop amplitude.
 - [*The inflationary spectrum*]({{ hapax.github.io
