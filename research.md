@@ -59,7 +59,7 @@ You can find papers and brief descriptions below, as well as assorted technical 
   David Wakeham. JHEP, 2020:4. arXiv:
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
   - We cut holes in various theories which, by the magic of
-    AdS/(B)CFT, are dual to evaporating black hole. These configurations
+    AdS/(B)CFT, are dual to evaporating black holes. These configurations
     shed light (or rather Hawking radiation) on the black hole
     information problem.
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
