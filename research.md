@@ -9,6 +9,8 @@ AdS/CFT correspondence.
 At the moment, I'm interested in boundary conformal field theories,
 the black hole information problem, Euclidean wormholes, and
 statistical mechanics.
+I list my papers and describe them briefly below, as well as assorted
+technical notes.
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
