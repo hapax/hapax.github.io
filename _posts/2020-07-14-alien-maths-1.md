@@ -316,7 +316,7 @@ capture the relationships between outputs and inputs, so
 analogues will do.
 Thus, we are led to imagine a "heterophenomenological arcade",
 offering a full range of non-human inner lives in the form of, say,
-VR immersion tanks. <!-- with haptic, olfactory and other -->
+full-body VR immersion tanks. <!-- with haptic, olfactory and other -->
 <!-- sensory feedback loops. -->
 
 To get a maximally faithful mirroring of an organism's IO, we could
