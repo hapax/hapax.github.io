@@ -15,7 +15,8 @@ I like writing sci-fi. Some recent flash fiction:
 zombies, science gone mad, and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
-(2020). A farcical "what if" about quantum computers.
+(2020). A farcical "what if" about large-scale quantum computing,
+geopolitics, and mating shrimp.
 
 In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
