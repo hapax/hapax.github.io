@@ -327,13 +327,14 @@ real bat into human-readable form, and then translate the human
 operator's decisions into actions performed by the bat.
 (Of course, this is an ethics approval minefield, but let's ignore
 this and push on.)
+
 If the human can successfully drive the batmobile with enough
 training, navigating the *umwelt* in a comparable way to a native
 user, I would say that its experience was human-commensurable.
 But if there is no way to produce human-readable functional analogues,
 or train the human to successfully solve bat problems, then we have an
 empirically grounded claim of cognitive incommensurability.
-The heterophenomenological arcade is the testing ground for
+The heterophenomenological mecha is the testing ground for
 strong cognitive relativism.
 
 #### Next time
