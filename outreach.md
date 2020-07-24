@@ -25,7 +25,8 @@ I list some of my teaching and outreach activities below.-->
   (2020). Who said you couldn't minimise without calculus? A low-tech
   introduction to network planning and soap bubbles. Along the
   way, I also touch on complexity theory, physics, curvature,
-  tessellations, time travel and climate change. (Well, kind of.)
+  tessellations, time travel and climate change. (Ok, I'm sort of
+  joking about the last two.)
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
   post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
