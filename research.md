@@ -50,8 +50,9 @@ statistical mechanics.
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Rough notes for a group
   talk, providing context/motivation for a [recent breakthough](https://arxiv.org/abs/2001.04383)
   in complexity theory. <!--, showing that entangled provers can convince you of almost anything.-->
-- [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf) (2019). Unpolished notes for a group
-  talk on the basics of [sphere packing and conformal field theory](https://arxiv.org/abs/1905.01319).
+- [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
+  (2019). The skinny on [sphere packing and conformal field theory](https://arxiv.org/abs/1905.01319). Draft
+  notes for a group talk.
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
