@@ -60,7 +60,7 @@ distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
   number theory in Haskell, now with [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
 
-Here are some fun
+If you're looking for something less serious, here are a few
 [Processing](https://processing.org/)/[p5js](https://p5js.org/) sketches:
 
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
