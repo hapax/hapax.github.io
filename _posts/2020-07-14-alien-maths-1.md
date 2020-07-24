@@ -277,7 +277,7 @@ so we will adopt this term for ethologists who try to experience the inner life 
 Although there is no conceivable sequence of Hebbian changes that will
 turn me into a bat, with enough effort I could maybe simulate one.
 
-#### Functional gestalts and the heterophenomenological arcade
+#### Functional gestalts and heterophenomenological mecha
 
 <!-- But while there may or may not be something it is like to be a
 bat, -->
