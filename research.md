@@ -22,20 +22,21 @@ statistical mechanics.
 1. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-   David Wakeham. arXiv: 2004.13088. From the CFT perspective, we prove
-   that if you chop a holographic CFT in half, you sometimes cleanly
-   slice the bulk. We give some precise sufficient conditions for this
-   clean slicing, called the AdS/BCFT dictionary, which as far as I
-   know is a first. We also provide some neat applications to looking
-   inside black holes!
+   David Wakeham. arXiv: 2004.13088.
+   - From the CFT perspective, we prove that if you chop a holographic
+   CFT in half, you sometimes cleanly slice the bulk. We give some
+   precise sufficient conditions for this clean slicing, called the
+   AdS/BCFT dictionary, which as far as I know is a first. We also
+   provide some neat applications to looking inside black holes!
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
    David Wakeham. PRL, 125:021601. arXiv:
-   [2002.02971](https://arxiv.org/pdf/2002.02971.pdf). In a chaotic
-   theory, averaging correlators of random states creates
-   wormhole-like shortcuts between replicas of the theory. This
-   applies to high energy states of a CFT, sure, but also your kettle.
+   [2002.02971](https://arxiv.org/pdf/2002.02971.pdf).
+   - In a chaotic theory, averaging correlators of random states
+   creates wormhole-like shortcuts between replicas of the
+   theory. This applies to high energy states of a CFT, sure, but also
+   your kettle or a lump of coal.
 3. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
