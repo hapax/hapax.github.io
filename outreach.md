@@ -23,7 +23,7 @@ I list some of my teaching and outreach activities below.-->
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to network planning and soap
-  bubbles. Who said you couldn't minimise without calculus? Draft.
+  bubbles. Who said you couldn't minimise without calculus?
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020, blog
   post). A rough guide to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
