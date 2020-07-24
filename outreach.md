@@ -87,11 +87,12 @@ Melbourne. -->
      donuts and surfing.
 <!-- [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
      (2013--16). An intro to proofs and real analysis. My [extra problems]({{hapax.github.io}}/assets/ra-problems.pdf)!
-- Other subjects taught:
-   - [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008) (2017).
-   - [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009) (2017).
-   - [*Group theory and linear algebra*](http://archive.handbook.unimelb.edu.au/view/2016/mast20022/) (2016).
-   - [*Linear algebra*](http://archive.handbook.unimelb.edu.au/view/2014/mast10007/) (2014). -->
+<!-- Other subjects taught:
+     [*Quantum field theory*](https://handbook.unimelb.edu.au/2017/subjects/phyc90008)
+     (2017). [*Vector calculus*](https://handbook.unimelb.edu.au/2017/subjects/mast20009)
+     (2017). [*Group theory and linear algebra*](http://archive.handbook.unimelb.edu.au/view/2016/mast20022/)
+     (2016). [*Linear algebra*](http://archive.handbook.unimelb.edu.au/view/2014/mast10007/)
+     (2014). -->
 
 <!-- - *Real analysis* (2014). I was head tutor for an [introductory real analysis subject](https://handbook.unimelb.edu.au/subjects/mast20026), and wrote a [few extension problems]({{hapax.github.io}}/assets/ra-problems.pdf) during my tenure. - -->
 <!-- [*Einstein's bottomless beanbag*](assets/conceptual-gravity.pdf) -->
