@@ -213,7 +213,7 @@ Can we "simulate" life as a gnat, which is evidently much lower on the
 cognitive ladder?
 More generally, can *any creature simulate any other creature*?
 This leads to a sharp version of strong cognitive relativism: two
-organisms will have incommensurable experiences unless they have the
+organisms will have (mutually) incommensurable experiences unless they have the
 same sort of brain.
 
 #### The inner life of bats
