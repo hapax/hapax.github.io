@@ -73,7 +73,8 @@ You can find papers and brief descriptions below, as well as assorted technical 
     AdS/(B)CFT, are dual to black hole microstates. These microstates
     look like the Big Bang/Big Crunch FRW spacetimes relevant to
     cosmology, so perhaps we live on an end-of-the-world brane behind
-    a black hole horizon! Probably not, but it's a cool thought.
+    a black hole horizon! Probably not, but it makes for good dinner
+    party conversation.
 
 #### Technical notes
 
