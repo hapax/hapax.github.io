@@ -19,6 +19,8 @@ statistical mechanics.
 
 #### Papers
 
+Here are papers associated with my PhD:
+
 1. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable), [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html), David Wakeham. arXiv: 2004.13088.
 2. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
