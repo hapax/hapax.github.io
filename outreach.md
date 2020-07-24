@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach and Teaching
+title: Other writing about science
 permalink: /outreach/
 ---
 
