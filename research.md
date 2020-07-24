@@ -47,20 +47,26 @@ statistical mechanics.
 
 #### Technical notes
 
-- [*MIP\* = RE*](assets/mipre.pdf) (2020). Rough notes for a group
-  talk, providing context/motivation for a [recent breakthough](https://arxiv.org/abs/2001.04383)
-  in complexity theory. <!--, showing that entangled provers can convince you of almost anything.-->
+- [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
+  provers makes you a god. This fact, incidentally, tells us something
+  deep about the structure of entanglement and disproves a major
+  conjecture in operator algebra theory. Rough notes on a
+  [recent breakthough](https://arxiv.org/abs/2001.04383) in complexity
+  theory. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
-  (2019). The skinny on sphere packing and conformal field
-  theory. Draft of a group talk.
+  (2019). Surprisingly, throwing balls in a box can tell you about the
+  lightest black holes in certain theories of quantum gravity. A group
+  talk on [this paper](https://arxiv.org/abs/1905.01319).
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
 - [*String perturbation theory and Riemann surfaces*]({{
-hapax.github.io }}/assets/strings-project.pdf) (2018). In string
-theory, loop diagrams are Riemann surfaces, leading to a beautiful
-connection between scattering and geometry. I
-discuss the moduli space and path integral over these surfaces.
+hapax.github.io }}/assets/strings-project.pdf) (2018). To paraphrase
+Mark Kac, in string theory, a loop amplitude hears the shape of a
+Riemann surface. I explain what this means in terms of path integrals
+and moduli spaces.
 - [*The inflationary spectrum*]({{ hapax.github.io
-  }}/assets/inflation-notes.pdf) (2016). Brief notes on
-  scalar and tensor perturbations in cosmological inflation.
+  }}/assets/inflation-notes.pdf) (2016). If you want phenomenological
+  constraints for your crazy pet GUT, you could do worse than go
+  outside with a microwave camera and look at the night sky. Brief
+  notes on scalar and tensor perturbations in cosmological inflation.
