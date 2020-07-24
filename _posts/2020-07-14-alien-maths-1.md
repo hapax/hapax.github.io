@@ -344,9 +344,9 @@ thing.
 Languages may be untranslateable, but for
 [elaborate Quinean reasons](https://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 rather than fundamental culture-bound difference.
-I guess that, until we make unethical heterophenomenological
-*umwelt* mechas, we won't be able to assess the status of strong
-cognitive relativism.
+But returning to the problem at hand, I guess that, until we make
+unethical heterophenomenological *umwelt* mechas, we won't be able to
+assess the status of cognitive relativism.
 <!-- The heterophenomenological mecha is the testing ground for strong -->
 <!-- cognitive relativism. -->
 
