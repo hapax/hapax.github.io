@@ -325,17 +325,30 @@ get a "heterophenomenological mecha".
 The bat tank, for instance, could translate sensory inputs from a
 real bat into human-readable form, and then translate the human
 operator's decisions into actions performed by the bat.
-(Of course, this is an ethics approval minefield, but let's ignore
-this and push on.)
-
+(I think this is a horrifically unethical thing to do, but let's treat
+this as a gedanken and move on.)
 If the human can successfully drive the batmobile with enough
 training, navigating the *umwelt* in a comparable way to a native
 user, I would say that its experience was human-commensurable.
 But if there is no way to produce human-readable functional analogues,
 or train the human to successfully solve bat problems, then we have an
 empirically grounded claim of cognitive incommensurability.
-The heterophenomenological mecha is the testing ground for
-strong cognitive relativism.
+
+This is like the "linguistic mecha" of moving to a country where one
+is obliged to speak a second language and operate within a different
+set of cultural norms.
+Doing this successfully indicates fluency.
+While we're at it, the fact that this sort of fluency is common
+suggests that linguistic incommensurability is probably not a real
+thing.
+Languages may be untranslateable, but for
+[elaborate Quinean reasons](https://en.wikipedia.org/wiki/Indeterminacy_of_translation)
+rather than fundamental culture-bound difference.
+I guess that, until we make unethical heterophenomenological
+*umwelt* mechas, we won't be able to assess the status of strong
+cognitive relativism.
+<!-- The heterophenomenological mecha is the testing ground for strong -->
+<!-- cognitive relativism. -->
 
 #### Next time
 
