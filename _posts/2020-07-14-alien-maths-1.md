@@ -325,7 +325,8 @@ get a "heterophenomenological mecha".
 The bat tank, for instance, could translate sensory inputs from a
 real bat into human-readable form, and then translate the human
 operator's decisions into actions performed by the bat.
-(Of course, this is an ethics approval minefield, but let's push on.)
+(Of course, this is an ethics approval minefield, but let's ignore
+this and push on.)
 If the human can successfully drive the batmobile with enough
 training, navigating the *umwelt* in a comparable way to a native
 user, I would say that its experience was human-commensurable.
