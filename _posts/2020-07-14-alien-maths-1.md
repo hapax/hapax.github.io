@@ -370,7 +370,7 @@ do each other's math homework.
 On our journey to alien mathematics, I'll probably consider functional aspects of
 sentience, telepathy, convergent evolution, and Big Thoughts about the
 nature of physical reality.
-So, tune in the near future for the next instalment!
+Stay tuned for the next instalment!
 
 <!-- how reality itself might ground interspecific discourse in the -->
 <!-- same way that cognitive universalism grounds intraspecific -->
