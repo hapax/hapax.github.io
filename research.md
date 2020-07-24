@@ -51,7 +51,7 @@ statistical mechanics.
   provers makes you a god. This
   [breakthough](https://arxiv.org/abs/2001.04383) in complexity theory
   also tells us something deep about the structure of entanglement and disproves a major
-  conjecture in operator algebra theory. Unpolished notes for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
+  conjecture in operator algebra theory. Notes for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box can tell you about the
   lightest black holes in certain theories of quantum gravity. A group
