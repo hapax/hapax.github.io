@@ -7,6 +7,12 @@ permalink: /fun/
 In the tradition of dorky, maximalist websites, here are some things I
 do when I'm not sciencing or encouraging other people to science.
 
+<figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" />
+ <figcaption><i>The gothic window simulator.</i></figcaption>
+ 	 </div>
+  </figure>
+
 #### Writing
 
 I like writing sci-fi. Some recent flash fiction:
@@ -72,9 +78,3 @@ If you're looking for something less serious, here are a few
  <figcaption><i>This little robot is very keen.</i></figcaption>
  	 </div>
   </figure>
-
-<!-- <figure>
- <div style="text-align:center"><img src ="/images/gothic-2.png" />
- <figcaption><i>The gothic window simulator.</i></figcaption>
- 	 </div>
-  </figure> -->
