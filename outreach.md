@@ -19,9 +19,7 @@ I list some of my teaching and outreach activities below.-->
 	</div>
 </figure>
 
-#### Expository chunks
-
-Some hearty chunks of exposition.
+#### Chunky exposition
 
 - [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
   (2020). A low-tech introduction to network planning and soap
