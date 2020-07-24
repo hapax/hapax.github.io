@@ -335,10 +335,10 @@ strong cognitive relativism.
 #### Next time: alien mathematics
 
 So finishes Part I.
-Next time, we'll consider convergent evolution, aliens, and
-how reality itself might ground interspecific discourse in
-the same way that cognitive universalism grounds intraspecific
-discourse.
+Next time, we'll consider functional aspects of sentience, convergent
+evolution, aliens, and how reality itself might ground interspecific
+discourse in the same way that cognitive universalism grounds
+intraspecific discourse.
 In particular, we'll consider the claim that mathematics acts as a
-"universal language" and some radically different forms that alien
-mathematics might take.
+"universal language" and canvas some of the radically different forms
+that alien mathematics might take.
