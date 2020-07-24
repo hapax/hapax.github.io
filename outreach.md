@@ -75,8 +75,9 @@ topics.
 <!-- From 2013--2017, I dropped a lot of math and physics at the University of
 Melbourne. -->
 
-- *An introduction to quantum computing* (TBA).
-- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
+- *An introduction to quantum computing* (TBA, University of British Columbia).
+- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
+-(2016, University of Melbourne). I wrote and conducted tutorials for a second year course
   on classical mechanics and Fourier analysis. Stuff I wrote:
    - [*Classical mechanics tutorials*]({{hapax.github.io}}/assets/classical-tutes-full.pdf). Lagrangian and a dash of Hamiltonian mechanics.
    - [*Fourier analysis tutorials*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Fourier series, Fourier transforms, and optics.
