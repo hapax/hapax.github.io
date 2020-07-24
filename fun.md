@@ -21,7 +21,7 @@ In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
 
 - *Language, cognition and alien math*
-  [[1](https://hapax.github.io/philosophy/alien-maths-1/)]] (2020,
+  [[1](https://hapax.github.io/philosophy/alien-maths-1/)] (2020,
   blog post). Is it possible to get inside the head of a bat?
   And what does this tell us about alien math?
 - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
