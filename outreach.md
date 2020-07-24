@@ -72,8 +72,8 @@ topics.
 
 #### Teaching
 
-From 2013--2017, I dropped a lot of math and physics at the University of
-Melbourne.
+<!-- From 2013--2017, I dropped a lot of math and physics at the University of
+Melbourne. -->
 
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016). I wrote and conducted tutorials for a second year course
   on classical mechanics and Fourier analysis. Stuff I wrote:
@@ -83,7 +83,7 @@ Melbourne.
      [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf),
      [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)]. Higher-dimensional
      donuts and surfing.
-- [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
+<!-- - [*Real analysis*](https://archive.handbook.unimelb.edu.au/view/2016/mast20026)
      (2013--16). An intro to proofs and real analysis. My
      [extra problems]({{hapax.github.io}}/assets/ra-problems.pdf)!
 - Other subjects taught:
