@@ -24,6 +24,15 @@ You can find papers and brief descriptions below, as well as assorted technical 
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
    David Wakeham. arXiv: 2004.13088.
+   <button type="button" class="collapsible">Description</button>
+<div class="content">
+  <p>From the CFT perspective, we prove that if you chop a holographic
+   CFT_2 in half, you sometimes cleanly slice the bulk. We give
+   precise sufficient conditions for this clean slicing (called the
+   AdS/BCFT dictionary, and conjectured long ago) but as far as I
+   know, stating conditions like this is a first. We also provide
+   neat applications to looking inside black holes, proving some results of [4] and [5] microscopically.</p>
+</div>
    - From the CFT perspective, we prove that if you chop a holographic
    CFT_2 in half, you sometimes cleanly slice the bulk. We give
    precise sufficient conditions for this clean slicing (called the
