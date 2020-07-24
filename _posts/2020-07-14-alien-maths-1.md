@@ -338,9 +338,13 @@ This is like the "linguistic mecha" of moving to a country where one
 is obliged to speak a second language and operate within a different
 set of cultural norms.
 Doing this successfully indicates fluency.
-While we're at it, the fact that this sort of fluency is common
-suggests that linguistic incommensurability is probably not a real
-thing.
+The fact that this sort of fluency is fairly common
+provides fairly strong evidence against linguistic
+incommensurability.
+(One could argue that a fluent non-native doesn't have the true
+"interior" phenomenological experience that a native speaker has, but
+the point of introducing functional criteria is to get away from this
+sort of unfalsifiable mysticism.)
 Languages may be untranslateable, but for
 [elaborate Quinean reasons](https://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 rather than fundamental culture-bound difference.
