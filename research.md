@@ -59,7 +59,7 @@ technical notes.
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
   - We cut holes in various theories which, by the magic of
     AdS/(B)CFT, are dual to evaporating black holes. These evaporating
-    black holes help elucidate 
+    black holes help explain the "easy" version of 
 5. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
   (2018). Sean Cooper,
   Moshe Rozali,
@@ -75,8 +75,8 @@ technical notes.
 #### Technical notes
 
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
-  provers makes you a god. [This breakthough](https://arxiv.org/abs/2001.04383) in complexity theory
-  also tells us something deep about the structure of entanglement and disproves a major
+  provers makes you a god. So says [this breakthough](https://arxiv.org/abs/2001.04383) in complexity
+  theory. It also tells us something deep about the structure of entanglement and disproves a major
   conjecture in operator algebra theory. Notes for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box can tell you about the
@@ -87,9 +87,9 @@ technical notes.
   quickly". A brief introduction to both notions.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). To paraphrase
-Mark Kac, propagating strings hear the shape of a Riemann surface. I
-explain what this means in terms of path integrals and moduli space
-of vacuum loop amplitudes.
+Mark Kac, propagating string hear the shape of every Riemann
+surface. I explain what this means in terms of the path integral and
+moduli space of a string loop amplitude.
 - [*The inflationary spectrum*]({{ hapax.github.io
   }}/assets/inflation-notes.pdf) (2016). If you want phenomenological
   constraints for your crazy pet GUT, you could do worse than go
