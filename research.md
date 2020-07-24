@@ -47,11 +47,11 @@ statistical mechanics.
 
 #### Technical notes
 
-- [MIP\* = RE](assets/mipre.pdf) (2020). Unpolished notes for a group talk on a
+- [*MIP\* = RE*](assets/mipre.pdf) (2020). Unpolished notes for a group talk on a
   [recent breakthough](https://arxiv.org/abs/2001.04383) in complexity
-  theory.
+  theory, showing that entangled provers can convince you of almost anything.
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf) (2019). Unpolished notes for a group
-  talk on [sphere packing](https://arxiv.org/abs/1905.01319).
+  talk on the basics of [sphere packing and conformal field theory](https://arxiv.org/abs/1905.01319).
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
