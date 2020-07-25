@@ -12,7 +12,8 @@ I'm David Wakeham, a PhD student in the
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david).
 
-I was born and raised in Melbourne, Australia.
+I was born and raised in Melbourne, Australia, where I also received
+degrees in philosophy, maths, and physics.
 My CV is available on request.
 
 <!-- ### Contact me

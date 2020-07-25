@@ -17,12 +17,12 @@ do when I'm not sciencing or encouraging other people to science.
 
 I like writing sci-fi. Some recent flash fiction:
 
-- ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
-zombies, science gone mad, and the psychology of time. Winner of the
-[2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A farcical "what if" about large-scale quantum computing,
 geopolitics, and shrimp.
+- ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
+zombies, science gone mad, and the psychology of time. Winner of the
+[2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 
 In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
