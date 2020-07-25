@@ -48,7 +48,7 @@ I list some of my teaching and outreach activities below.-->
 Melbourne. -->
 
 - *An introduction to quantum computing* (TBA, University of British Columbia).
-- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016, University of Melbourne). I wrote/delivered tutorials on [*classical mechanics*]({{hapax.github.io}}/assets/classical-tutes-full.pdf) and [*Fourier analysis*]({{hapax.github.io}}/assets/fourier-tutes-full.pdf), and made some assignments [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf), [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)].
+- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014) (2016, University of Melbourne). I wrote/delivered tutorials on [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf) and [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf), and made some whimsical assignments about higher-dimensional donuts and surfing [[1]({{hapax.github.io}}/assets/physical-systems-a2.pdf), [2]({{hapax.github.io}}/assets/physical-systems-a3.pdf)].
 
 #### Outreach
 
