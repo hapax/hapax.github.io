@@ -357,6 +357,9 @@ assess the status of cognitive relativism.
 #### Next time
 
 So finishes Part I.
+I realise this post is rather discursive and open-ended, so perhaps I
+will clean it up in future.
+
 Although Nagel would like to claim that there is something
 "qualitative" the bat simulation misses, his argument for
 phenomenological difference is *based* on a functional difference, so
