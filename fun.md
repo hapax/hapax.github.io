@@ -56,7 +56,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 <!-- I code for fun and occasionally profit in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
 [Processing](https://processing.org/) (it's visual). -->
-<!-- I code for fun and occasionally profit. A few small projects:
+I code for fun and occasionally profit. A few small projects:
 
 - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
   designed the prototype version of the university's course
@@ -65,7 +65,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
   number theory in Haskell, now with
-  [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)! -->
+  [blog post](https://hapax.github.io/mathematics/programming/haskell-partition/)!
 
 If you're looking for something less serious, here are a few
 [Processing](https://processing.org/)/[p5js](https://p5js.org/) sketches:
