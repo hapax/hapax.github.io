@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach and Teaching
+title: Expository
 permalink: /outreach/
 ---
 
