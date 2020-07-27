@@ -56,7 +56,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
 <!-- I code for fun and occasionally profit in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
 [Processing](https://processing.org/) (it's visual). -->
-<!-- I code for fun and occasionally profit.-->
+I code for fun and occasionally profit.
 A few small projects:
 
 - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
