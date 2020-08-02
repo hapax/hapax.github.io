@@ -86,8 +86,7 @@ statistical mechanics.
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box can tell you about the
   lightest black holes in certain theories of quantum gravity. The
-  connection is linear programming! A group
-  talk on [this paper](https://arxiv.org/abs/1905.01319).
+  connection is linear programming! Rough notes for a talk on [this paper](https://arxiv.org/abs/1905.01319).
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
