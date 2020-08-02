@@ -340,7 +340,7 @@ is obliged to speak a second language and operate within a different
 set of cultural norms.
 Doing this successfully indicates fluency.
 The fact that this sort of fluency is fairly common
-provides fairly strong evidence against linguistic
+provides strong evidence against linguistic
 incommensurability.
 (One could argue that a fluent non-native doesn't have the true
 "interior" phenomenological experience that a native speaker has, but
