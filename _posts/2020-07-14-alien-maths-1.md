@@ -281,6 +281,7 @@ turn me into a bat, with enough effort I could maybe simulate one.
 
 <!-- But while there may or may not be something it is like to be a
 bat, -->
+But is it so easy to simulate a bat?
 A bat,
 unlike a human, knows how to operate all of its interlocking cognitive
 machinery seamlessly and in real time.
