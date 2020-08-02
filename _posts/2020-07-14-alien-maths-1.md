@@ -311,10 +311,10 @@ modalities, available environmental marks, and so on. -->
 To get driving practice, you would have to be *immersed* in a bat-like
 environment and obliged to use bat-like interfaces
 to solve bat-like problems, for a suitably long period of time.
-I think "bat-like" is good enough to reproduce the *functional* aspect
+(I think "bat-like" is good enough to reproduce the *functional* aspect
 of this gestalt; to adopt the functionalist motto, we simply want to
 capture the relationships between outputs and inputs, so
-analogues will do.
+analogues will do.)
 Thus, we are led to imagine a "heterophenomenological arcade",
 offering a full range of non-human inner lives in the form of, say,
 full-body VR immersion tanks. <!-- with haptic, olfactory and other -->
