@@ -63,7 +63,7 @@ Presentations:
 
 - [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk) [[slides](assets/ditl.pdf)]
 (2020). A brief video about my path to physics and what a day in the
-life looks like.
+life of a theorist looks like.
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
   We can experiment using bits and buckets.
