@@ -346,9 +346,9 @@ incommensurability.
 "interior" phenomenological experience that a native speaker has, but
 the point of introducing functional criteria is to get away from this
 sort of unfalsifiable mysticism.)
-Languages may be untranslateable, but for
+<!-- It may be that languages are untranslateable for
 [elaborate Quinean reasons](https://en.wikipedia.org/wiki/Indeterminacy_of_translation)
-rather than fundamental culture-bound difference.
+rather than fundamental culture-bound difference.-->
 But returning to the problem at hand, I guess that, until we make
 unethical heterophenomenological *umwelt* mechas, we won't know how
 strongly relativist to be about cognition.
