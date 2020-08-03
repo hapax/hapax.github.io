@@ -1,3 +1,8 @@
+---
+Layout: post
+mathjax: true
+---
+
 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_feynman), the
 bongo-playing, womanising Byron of 20th century physics, comes to
 mind, as does the
