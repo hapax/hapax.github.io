@@ -39,17 +39,18 @@ Simple trigonometry shows this is enough to estimate the radius of the earth!
 	</figure>
 
 We assume the earth is spherical, and the sun far enough away
-  that the arriving rays are parallel.  The angle the sunlight makes
+  that the arriving rays are parallel.  The angle (in radians) the sunlight makes
   with the stick is
   
 $$
     \theta = \tan^{-1}
     \left(\frac{\mathrm{shadow}}{\mathrm{stick}}\right) \approx
-    \tan^{-1} \left(\frac{1}{8}\right) \approx 7.1^\circ.
+    \tan^{-1} \left(\frac{1}{8}\right) \approx \frac{1}{8},
 $$
-	
-  Here, we are making the reasonable assumption that the shadow is
-  small enough to be modelled as a straight line. 
+
+using the small angle approximation $\tan \theta \approx \theta$.
+  We are also making the reasonable assumption that the shadow is
+  small enough to be modelled as a straight line.
   From the diagram, we see that the angle the sunlight makes with the
   rod is the angle subtended by the arc of the great
   circle joining Alexandria and Syene. Since the the length of that
@@ -65,7 +66,7 @@ $$
   
 $$
     \mathrm{radius} = \frac{\mathrm{circumference}}{2\pi} \approx
-    \frac{850 \,\mathrm{km}}{\tan^{-1} \left(\frac{1}{8}\right)}
+    \frac{850 \,\mathrm{km}}{1/8\right)}
     \approx 6800 \, \mathrm{km}.
 $$
 	
