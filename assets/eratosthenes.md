@@ -66,7 +66,7 @@ $$
   
 $$
     \mathrm{radius} = \frac{\mathrm{circumference}}{2\pi} \approx
-    \frac{850 \,\mathrm{km}}{1/8\right)}
+    \frac{850 \,\mathrm{km}}{1/8}
     = 6800 \, \mathrm{km}.
 $$
 	
