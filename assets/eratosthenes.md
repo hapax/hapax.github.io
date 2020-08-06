@@ -42,11 +42,11 @@ We assume the earth is spherical, and the sun far enough away
   that the arriving rays are parallel.  The angle the sunlight makes
   with the stick is
   
-  \[
+$$
     \theta = \tan^{-1}
     \left(\frac{\mathrm{shadow}}{\mathrm{rod}}\right) \approx
     \tan^{-1} \left(\frac{1}{8}\right) \approx 7.1^\circ.
-	\]
+$$
 	
   Here, we are making the reasonable assumption that the shadow is
   small enough to be modelled as a straight line. 
@@ -55,19 +55,19 @@ We assume the earth is spherical, and the sun far enough away
   circle joining Alexandria and Syene. Since the the length of that
   great circle is the circumference of the earth, we have
   
-  \[
+$$
     \frac{\tan^{-1} \left(\frac{1}{8}\right)}{2\pi} \approx \frac{850
       \,\mathrm{km}}{\mathrm{circumference}}.
-	  \]
+$$
 	  
   We rearrange and divide the circumference by $2\pi$ to estimate the
   radius:
   
-  \[
+$$
     \mathrm{radius} = \frac{\mathrm{circumference}}{2\pi} \approx
     \frac{850 \,\mathrm{km}}{\tan^{-1} \left(\frac{1}{8}\right)}
     \approx 6800 \, \mathrm{km}.
-	\]
+$$
 	
   The actual value is around $6300 \, \mathrm{km}$. Not a bad estimate
   from the shadow of a stick!
