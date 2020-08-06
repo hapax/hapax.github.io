@@ -90,5 +90,12 @@ parallel to the equatorial plane.
 	</figure>
 
 I realised, first of all, that measuring the sun at midday would give
-the latitude of Vancouver.
+the latitude $\theta_1$ of Vancouver.
 This in itself is pretty neat!
+I just needed to measure the shadow of a stick, and Eratosthenes'
+trigonometry would give me
+
+$$
+    \theta_1 = \tan^{-1}
+    \left(\frac{\mathrm{shadow}}{\mathrm{stick}}\right).
+$$
