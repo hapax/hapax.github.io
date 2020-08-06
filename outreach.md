@@ -63,7 +63,7 @@ involved in the COVID-friendly
 [online version](https://teennerdnite.wordpress.com/).
 Presentations:
 
-- [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk) [[slides](assets/ditl.pdf)]
+- [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
 (2020). A brief video about my path to physics and what a day in the
 life of a theorist looks like.
 - [*Black holes and the information paradox*](assets/tnn.pdf)
