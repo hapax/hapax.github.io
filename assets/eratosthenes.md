@@ -9,7 +9,7 @@ date:  2020-08-06
 
 **August 6, 2020.** *Eratosthenes measured the size of the earth
   using three data points: two shadows and the distance between
-  them. During the equinox in March, I performed a (much less elegant)
+  them. During the vernal equinox in March, I performed a (much less elegant)
   version of the same experiment, and discuss my results.*
 
 Eratosthenes (276--195 BC) was head librarian at the Library of
