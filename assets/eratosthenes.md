@@ -17,7 +17,7 @@ Eratosthenes (276--195 BC) was head librarian at the Library of
 In a blow to civilization, the library was destroyed by invading Roman
   emperors, and most of Eratosthenes' work along with it.  Thankfully, his elegant method
   for calculating the size of the earth, using only the shadow of a
-  stick, survives.
+  stick (or really two sticks), survives.
 
   On the summer solstice, locals in the Egyptian city of
   Syene noticed that, at noon, the sun hit the bottom of a deep well.
