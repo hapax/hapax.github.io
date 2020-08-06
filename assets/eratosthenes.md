@@ -44,7 +44,7 @@ We assume the earth is spherical, and the sun far enough away
   
 $$
     \theta = \tan^{-1}
-    \left(\frac{\mathrm{shadow}}{\mathrm{rod}}\right) \approx
+    \left(\frac{\mathrm{shadow}}{\mathrm{stick}}\right) \approx
     \tan^{-1} \left(\frac{1}{8}\right) \approx 7.1^\circ.
 $$
 	
