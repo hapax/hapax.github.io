@@ -31,6 +31,13 @@ He also knew from Egyptian surveyors that Syene was roughly $5000$
   He found it was roughly $1/8$ of the length of the rod. 
 Simple trigonometry shows this is enough to estimate the radius of the earth!
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/erat1.png"/>
+		    <figcaption><i>Eratosthenes' elegant setup.</i></figcaption>
+	</div>
+	</figure>
+
 We assume the earth is spherical, and the sun far enough away
   that the arriving rays are parallel.  The angle the sunlight makes
   with the stick is
