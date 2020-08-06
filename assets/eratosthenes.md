@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Measuring the earth"
+title:  "Eratosthenes on the equinox"
 categories: [Physics, Mathematics, Hacks]
 date:  2020-08-06
 ---
@@ -76,4 +76,15 @@ $$
 #### Two for the price of one
 
 During the vernal equinox, I had a chance to do a similar experiment.
-I realised that, first of all, 
+The solstice---when Eratosthenes measured---is the time of year when
+the sun is furthest from the plane of the equator.
+The equinox is the opposite, with the sun passing through this plane.
+Thus, the rays coming in from the sun are (to a good approximation)
+parallel to the equatorial plane.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/erat2.png"/>
+		    <figcaption><i>Equinoctial experiments.</i></figcaption>
+	</div>
+	</figure>
