@@ -37,9 +37,11 @@ I list some of my teaching and outreach activities below.-->
   bacterial genomics, running in the rain, asteroids, and molecular motion.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto on how to make high school math teaching fun and
-  engaging. I illustrate with derivatives, giving both "pure math"
+  engaging.
+  <!-- I illustrate with derivatives, giving both "pure math"
   highlights (including nowhere-differentiable functions and infinite
-  series for π) and applications (subliming spheres, self-similar spirals, and sandpiles).
+  series for π) and applications (subliming spheres, self-similar
+  spirals, and sandpiles). -->
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
