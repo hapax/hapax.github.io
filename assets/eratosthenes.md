@@ -88,3 +88,7 @@ parallel to the equatorial plane.
 		    <figcaption><i>Equinoctial experiments.</i></figcaption>
 	</div>
 	</figure>
+
+I realised, first of all, that measuring the sun at midday would give
+the latitude of Vancouver.
+This in itself is pretty neat!
