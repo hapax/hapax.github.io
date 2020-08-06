@@ -67,10 +67,13 @@ $$
 $$
     \mathrm{radius} = \frac{\mathrm{circumference}}{2\pi} \approx
     \frac{850 \,\mathrm{km}}{1/8\right)}
-    \approx 6800 \, \mathrm{km}.
+    = 6800 \, \mathrm{km}.
 $$
 	
   The actual value is around $6300 \, \mathrm{km}$. Not a bad estimate
   from the shadow of a stick!
 
 #### Two for the price of one
+
+During the vernal equinox, I had a chance to do a similar experiment.
+I realised that, first of all, 
