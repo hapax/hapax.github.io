@@ -99,3 +99,15 @@ $$
     \theta_1 = \tan^{-1}
     \left(\frac{\mathrm{shadow}}{\mathrm{stick}}\right).
 $$
+
+Even better, I could ask someone at a different location, say a
+distance $d$ north, to repeat the experiment and report their latitude
+$\theta_2$.
+For a small difference in angles $\Delta \theta = \theta_2 -
+\theta_1$ in radians, this would give
+
+$$
+    \mathrm{radius} = \frac{\mathrm{circumference}}{2\pi} \approx
+    \frac{d}{\tan^{-1}(\Delta \theta)} \approx \frac{d}{\Delta\theta}.
+$$
+
