@@ -146,12 +146,13 @@ The latitude of Vancouver is around $49.2^\circ$, so this is
 surprisingly good!
 
 In fact, there's quite a bit of luck here.
-I was a few minutes after solar noon, and a few days
-after the equinox (March 23). After the vernal equinox, the subsolar
+I took this photo a few minutes after solar noon, and a few days
+after the equinox (March 23). Following the vernal equinox, the subsolar
 point (directly beneath the sun) begins to wander north, so that at
-solar noon the angle to the sun is decreased.
-But shadows lengthen before and after noon, so in this case, the two
-effects cancelled to produce this deceptively good estimate.
+solar noon the angle to the sun is decreased in the northern hemisphere.
+But shadows lengthen before and after noon.
+In this case, the two effects cancelled to produce this deceptively
+good estimate.
 
 #### Imaginary friend
 
@@ -176,10 +177,14 @@ $$
 km}}{0.02} = 6000 \text{ km}.
 $$
 
-We did about as well as Eratosthenes! To give ourselves a more
-realistic range, let's take $\theta_2 = 50.1\pm 0.2^\circ$.
+We did about as well as Eratosthenes!
+But I've been a bit slick.
+To give ourselves a more realistic range, let's take $\theta_2
+= 50.1\pm 0.3^\circ$.
 Then the range of estimates is
 
 $$
-\text{radius} = 4600-6250 \text{ km}.
+\text{radius} = 4300-6900 \text{ km}.
 $$
+
+So, I don't know 
