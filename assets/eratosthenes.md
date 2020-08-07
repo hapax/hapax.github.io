@@ -193,7 +193,12 @@ The answer is in there somewhere, so I would say we did okay.
 #### Other experiments
 
 There are a few other things I've been meaning to do.
-One is measure shadows at the solstice.
+First of all, if I make a friend in Whislter (difficult under the
+current circumstances) we can perform this experiment any time.
+Although $\theta_{1,2}$ will no longer be latitudes, $\Delta \theta$
+will be invariant provided we measure at the same time.
+Another task is to measure shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
-I missed the June solstice, so I guess I'll have to wait until December.
+I missed the June solstice, so I guess I'll have to wait until
+December.
