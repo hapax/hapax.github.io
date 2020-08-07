@@ -10,7 +10,7 @@ date:  2020-08-06
 **August 6, 2020.** *Eratosthenes measured the size of the earth
   using three data points: two shadows and the distance between
   them. During the vernal equinox in March, I performed a less elegant
-  version of the same experiment. Lacking one
+  version of the same experiment and found the latitude of Vancouver. Lacking one
   data point, I invoke an imaginary friend in Whistler to help me.*
 
 #### Eratosthenes' elegant estimate
