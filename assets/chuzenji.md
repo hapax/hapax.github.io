@@ -4,7 +4,7 @@ title: The Lake
 ---
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake1" />
+    <div style="text-align:center"><img src ="/images/photos/lake1.png" />
     <figcaption><i>The pier.</i></figcaption>
 	</div>
 </figure>
