@@ -75,7 +75,7 @@ $$
   The actual value is around $6300 \, \mathrm{km}$. Not a bad estimate
   from the shadow of a stick!
 
-#### A positive latitude
+#### Can-do latitude
 
 During the vernal equinox in March this year, I had a chance to do a similar experiment.
 The solstice---when Eratosthenes measured---is the time of year when
