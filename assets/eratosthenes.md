@@ -176,4 +176,10 @@ $$
 km}}{0.02} = 6000 \text{ km}.
 $$
 
-We beat Eratosthenes! Of course, I'm assuming 
+We did about as well as Eratosthenes! But to give ourselves a more
+realistic range, let's take $\theta_2 = 50.1\pm 0.3^\circ$.
+Then the range of estimates is
+
+$$
+\text{radius} = 4300--6900 \text{ km}.
+$$
