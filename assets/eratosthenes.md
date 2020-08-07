@@ -200,10 +200,13 @@ There is also a [beautiful method](https://arxiv.org/abs/1405.4580) which involv
 *single* vantage point, exploiting the (tiny) change in apparent size
 of the moon as it passes overhead.
 This requires you to know how big the moon is, but we can turn things
-round, and learn the size of the moon using the radius of the earth!
+around, and learn the size of the moon using the radius of the earth!
 
-I also meant to measure shadows at the solstice.
+Another fun experiment is measuring shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
-I guess I'll have to wait until December though.
-There 
+I missed June, so I guess I'll have to wait until December.
+We've only scraped the surface of practical applications of
+trigonometry, and I might write more about these in future.
+But the autumnal equinox is in a month and a half (Sep 22), so you may
+want to repeat this experiment yourself!
