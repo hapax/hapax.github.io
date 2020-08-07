@@ -152,13 +152,13 @@ after the equinox (March 23). Following the vernal equinox, the subsolar
 point (directly beneath the sun) begins to wander north, so that at
 solar noon the angle to the sun is decreased in the northern hemisphere.
 But shadows lengthen before and after noon.
-In this case, the two effects cancelled to produce this deceptively
+In this case, the two effects cancelled to produce a deceptively
 good estimate.
 
 #### Imaginary friend
 
-Unfortunately, I don't have a friend in Whistler I can call on to make
-random solar measurements.
+Unfortunately, I don't have a friend in Whistler I can call on to take
+random photographs of sticks.
 But as a theoretical physicist, it's my prerogative to imagine I do.
 So, suppose my hypothetical friend in Whistler performs the experiment
 more carefully than I did, finding a clear shadow at solar noon on the
@@ -188,4 +188,4 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-The right answer is in there somewhere.
+Not too bad given that one data point 
