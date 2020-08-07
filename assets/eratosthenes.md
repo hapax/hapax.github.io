@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Eratosthenes on the equinox"
+title:  "An equinoctial experiment"
 categories: [Physics, Mathematics, Hacks]
 date:  2020-08-06
 ---
@@ -73,7 +73,7 @@ $$
   The actual value is around $6300 \, \mathrm{km}$. Not a bad estimate
   from the shadow of a stick!
 
-#### Two for the price of one
+#### A bad latitude
 
 During the vernal equinox in March this year, I had a chance to do a similar experiment.
 The solstice---when Eratosthenes measured---is the time of year when
@@ -128,11 +128,11 @@ with a vague penumbra:
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/latitude.png"/>
-		    <figcaption><i>A cloudy.</i></figcaption>
+		    <figcaption><i>Cloudy with a chance of triangles.</i></figcaption>
 	</div>
 	</figure>
 
-After some post-processing, I was able to make out the shadow, and
+After some very coarse post-processing, I was able to make out the shadow, and
 drew the triangle above.
 It's 137 pixels high and 120 wide, so
 
@@ -144,4 +144,10 @@ $$
 The latitude of Vancouver is around $49^\circ$, so this is pretty
 good!
 Full disclosure: I was a few minutes after solar noon, and a few days
-after the equinox (March 23)
+after the equinox (March 23). After the vernal equinox, the plane of
+the ecliptic (on which the sun sits) begins to tilt north, so that at
+solar noon the angle to the sun is decreased.
+But shadows lengthen away from solar noon, so these two effects
+cancelled each other out to give this lucky estimate.
+
+#### Whistler ahoy
