@@ -75,7 +75,7 @@ $$
 
 #### Two for the price of one
 
-During the vernal equinox, I had a chance to do a similar experiment.
+During the vernal equinox in March this year, I had a chance to do a similar experiment.
 The solstice---when Eratosthenes measured---is the time of year when
 the sun is furthest from the plane of the equator.
 The equinox is the opposite, with the sun passing through this plane.
@@ -111,3 +111,18 @@ $$
     \frac{d}{\tan^{-1}(\Delta \theta)} \approx \frac{d}{\Delta\theta}.
 $$
 
+One subtlety is that midday is not usually the same as solar noon.
+There are
+[fancy equations](https://en.wikipedia.org/wiki/Equation_of_time) for
+dealing with this, but there are high-tech and low-tech shortcuts.
+The low-tech shortcut is to use a sundial (or just track shadows and
+only keep the shortest), and the high-tech shortcut is to look it up
+on the computer.
+So, I discovered 
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/latitude.png"/>
+		    <figcaption><i>A cloudy.</i></figcaption>
+	</div>
+	</figure>
