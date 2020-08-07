@@ -30,7 +30,7 @@ He also knew from Egyptian surveyors that Syene was roughly $5000$
   Eratosthenes performed a single experiment.  At noon on the summer
   solstice, he measured the shadow of a vertical rod in Alexandria.
   He found it was roughly $1/8$ of the length of the rod. 
-Simple trigonometry shows this is enough to estimate the radius of the earth!
+This is enough to estimate the radius of the earth!
 
 <figure>
     <div style="text-align:center"><img src
