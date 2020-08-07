@@ -197,12 +197,11 @@ First of all, if I make a friend in Whislter (difficult under the
 current circumstances) we can perform this experiment any time.
 Although $\theta_{1,2}$ will no longer be latitudes, $\Delta \theta$
 will be invariant provided we measure at the same time.
-Another cute method for measuring the radius of the earth from a
-*single* vantage point is to
-[exploit changes in the apparent size of the moon as it passes overhead](https://arxiv.org/abs/1405.4580).
-This beautiful calculation requires you to know the size of the moon.
-Alternatively, if you know the radius of the earth, you can figure out
-how big the moon is!
+I also recently learned about a beautiful method for measuring the radius of the earth from a
+*single* vantage point,
+[exploiting changes in the apparent size of the moon as it passes overhead](https://arxiv.org/abs/1405.4580).
+You to know the size of the moon to do this, but alternatively, if you
+know the radius of the earth, you can figure out how big the moon is!
 
 Another task is to measure shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
