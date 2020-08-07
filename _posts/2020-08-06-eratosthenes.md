@@ -203,7 +203,7 @@ around, and learn the size of the moon using the radius of the earth!
 Another fun experiment is measuring shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
-I missed June, so I guess I'll have to wait until December.
+I forgot to do this in June, so I guess I'll have to wait until December.
 We've only scraped the surface of practical applications of
 trigonometry, and I might write more about these in future.
 But in the mean time, the autumnal equinox is a month and a half away
