@@ -193,6 +193,7 @@ The answer is in there somewhere, so I would say we did okay.
 #### Other experiments
 
 There are a few other things I've been meaning to do.
-One is measure sticks at the solstice.
-That will tell us the *tilt* of the earth on its axis!
-I missed June, so I have to wait until December.
+One is measure shadows at the solstice.
+By comparing to the equinoctial result, this tells us the *tilt* of
+the earth on its axis!
+I missed June, so I guess I'll have to wait until December.
