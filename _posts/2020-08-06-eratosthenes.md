@@ -209,4 +209,5 @@ trigonometry, which (at the risk of
 sounding like your enthusiastic middle-school math teacher) I might
 write about more in future.
 But in the mean time, the autumnal equinox is a month and a half away
-(Sep 22), so you may wish to repeat the experiment yourself!
+(Sep 22), so you have plenty of time to make friends directly north in
+preparation!
