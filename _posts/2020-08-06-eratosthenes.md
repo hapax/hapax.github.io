@@ -185,8 +185,8 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-The answer is in there somewhere, but given our dubiously cloudy data
-point, we've done okay.
+The answer is in there somewhere. Given our dubiously cloudy data
+point, we've done okay!
 
 #### Other experiments
 
