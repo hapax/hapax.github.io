@@ -115,10 +115,15 @@ One subtlety is that midday is not usually the same as solar noon.
 There are
 [fancy equations](https://en.wikipedia.org/wiki/Equation_of_time) for
 dealing with this, but there are high-tech and low-tech shortcuts.
-The low-tech shortcut is to use a sundial (or just track shadows and
-only keep the shortest), and the high-tech shortcut is to look it up
-on the computer.
-So, I discovered 
+The low-tech shortcut is to use a sundial (or just track the length of
+shadows and record the shortest), and the high-tech shortcut is the
+internet.
+I used the latter.
+
+So, at solar noon, I walked down the street to discover a cloudy day,
+with almost no useable shadows.
+After wandering around for a while, I eventually found a newspaper box
+with a vague penumbra:
 
 <figure>
     <div style="text-align:center"><img src
@@ -126,3 +131,17 @@ So, I discovered
 		    <figcaption><i>A cloudy.</i></figcaption>
 	</div>
 	</figure>
+
+After some post-processing, I was able to make out the shadow, and
+drew the triangle above.
+It's 137 pixels high and 120 wide, so
+
+$$
+\tan \theta_1 \approx \frac{137}{120} \quad \Longrightarrow \quad \theta_1
+\approx \tan^{-1}\left(\frac{137}{120}\right) \approx 48.8^\circ.
+$$
+
+The latitude of Vancouver is around $49^\circ$, so this is pretty
+good!
+Full disclosure: I was a few minutes after solar noon, and a few days
+after the equinox (March 23)
