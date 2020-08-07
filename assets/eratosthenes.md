@@ -161,9 +161,9 @@ Unfortunately, I don't have a friend in Whistler I can call on to take
 random photographs of sticks.
 But as a theoretical physicist, it's my prerogative to imagine I do.
 So, suppose my hypothetical friend in Whistler performs the experiment
-more carefully than I did, finding a clear shadow at solar noon on the
-vernal equinox and calculating a latitude of around $\theta_2
-= 50.1^\circ$.
+more carefully than I did, finding a clear shadow of some stick-like
+object at solar noon on the vernal equinox, and calculating a latitude
+of $\theta_2 \approx 50.1^\circ$.
 The resulting angular difference in radians is
 
 $$
@@ -188,4 +188,4 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-Not too bad given that one data point 
+Not too bad given for an imaginary 
