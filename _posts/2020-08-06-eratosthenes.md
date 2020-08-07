@@ -123,8 +123,7 @@ I used the latter.
 
 So, at solar noon, I walked down the street to discover that the day
 was cloudy and the shadows almost unuseable.
-After wandering for a while, I eventually found a newspaper box
-with a vague penumbra:
+I eventually found a newspaper box with a vague penumbra:
 
 <figure>
     <div style="text-align:center"><img src
