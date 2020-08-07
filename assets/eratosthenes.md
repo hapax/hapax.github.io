@@ -128,7 +128,7 @@ with a vague penumbra:
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/latitude.png"/>
-		    <figcaption><i>Cloudy with a chance of triangles.</i></figcaption>
+		    <figcaption><i>Cloudy with a chance of shadows.</i></figcaption>
 	</div>
 	</figure>
 
@@ -141,16 +141,38 @@ $$
 \approx \tan^{-1}\left(\frac{137}{120}\right) \approx 48.8^\circ.
 $$
 
-The latitude of Vancouver is around $49^\circ$, so this is
+The latitude of Vancouver is around $49.2^\circ$, so this is
 surprisingly good!
 
 In fact, there's quite a bit of luck here.
 I was a few minutes after solar noon, and a few days
-after the equinox (March 23). After the vernal equinox, the plane of
-the ecliptic (on which the sun sits) begins to tilt north, so that at
+after the equinox (March 23). After the vernal equinox, the subsolar
+point (directly beneath the sun) begins to wander north, so that at
 solar noon the angle to the sun is decreased.
-But shadows lengthen before and after noon, and in this case, the two
+But shadows lengthen before and after noon, so in this case, the two
 effects cancelled to produce this deceptively good estimate.
 
-#### Whistler ahoy
+#### Theoretical friends in Whistler
 
+Unfortunately, I don't have a friend in Whistler I can call on to make
+random solar measurements.
+But as a theoretical physicist, it's my prerogative to imagine I did.
+Suppose my hypothetical friend in Whistler performs the experiment
+more carefully than I did, finding a clear shadow at solar noon on the
+vernal equinox and calculating a latitude of around $\theta_2
+= 50.1^\circ$.
+The resulting angular difference in radians is
+
+$$
+\Delta \theta = 1.3^\circ \approx 0.02.
+$$
+
+Given that the distance to Whistler is around $d = 120 \text{ km}$, we
+get an estimate for the radius of the earth
+
+$$
+\text{radius} \approx \frac{d}{\Delta \theta} = \frac{120 \text{
+km}}{0.02} = 6000 \text{ km}.
+$$
+
+We beat Eratosthenes! Of course, I'm assuming 
