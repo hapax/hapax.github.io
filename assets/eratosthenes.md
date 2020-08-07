@@ -181,5 +181,5 @@ realistic range, let's take $\theta_2 = 50.1\pm 0.2^\circ$.
 Then the range of estimates is
 
 $$
-\text{radius} = 4600--6250 \text{ km}.
+\text{radius} = 4600-6250 \text{ km}.
 $$
