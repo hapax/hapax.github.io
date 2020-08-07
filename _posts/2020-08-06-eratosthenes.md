@@ -121,9 +121,9 @@ shadows and record the shortest), while the high-tech shortcut is the
 internet.
 I used the latter.
 
-So, at solar noon, I walked down the street to discover a cloudy day,
-with almost no useable shadows.
-After wandering around for a while, I eventually found a newspaper box
+So, at solar noon, I walked down the street to discover that the day
+was cloudy and the shadows almost unuseable.
+After wandering for a while, I eventually found a newspaper box
 with a vague penumbra:
 
 <figure>
