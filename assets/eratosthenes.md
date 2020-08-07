@@ -202,3 +202,6 @@ By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
 I missed the June solstice, so I guess I'll have to wait until
 December.
+
+This is part of a broader genre of practical applications of
+trigonometry, about which I plan to write about in the future.
