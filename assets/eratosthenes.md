@@ -159,8 +159,8 @@ good estimate.
 
 Unfortunately, I don't have a friend in Whistler I can call on to make
 random solar measurements.
-But as a theoretical physicist, it's my prerogative to imagine I did.
-Suppose my hypothetical friend in Whistler performs the experiment
+But as a theoretical physicist, it's my prerogative to imagine I do.
+So, suppose my hypothetical friend in Whistler performs the experiment
 more carefully than I did, finding a clear shadow at solar noon on the
 vernal equinox and calculating a latitude of around $\theta_2
 = 50.1^\circ$.
@@ -188,4 +188,4 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-So, I don't know 
+The right answer is in there somewhere.
