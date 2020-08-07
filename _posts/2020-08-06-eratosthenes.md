@@ -161,7 +161,7 @@ So, suppose my hypothetical friend in Whistler performed the experiment
 more carefully than I did, finding the shadow of some stick-like
 object at solar noon on the vernal equinox, and estimating a latitude
 of $\theta_2 \approx 50.1^\circ$.
-The resulting angular difference in radians is
+The resulting angular difference is
 
 $$
 \Delta \theta = 1.3^\circ \approx 0.02.
