@@ -6,7 +6,7 @@ title: The Lake
 The buz lurched up the hillside
 
 <p align="center">
-  ⁂
+  ※
 </p>
 
 <figure>
