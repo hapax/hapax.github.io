@@ -152,7 +152,7 @@ solar noon the angle to the sun is decreased.
 But shadows lengthen before and after noon, so in this case, the two
 effects cancelled to produce this deceptively good estimate.
 
-#### Theoretical friends in Whistler
+#### Imaginary friend
 
 Unfortunately, I don't have a friend in Whistler I can call on to make
 random solar measurements.
