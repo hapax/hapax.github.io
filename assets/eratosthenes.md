@@ -192,9 +192,8 @@ The answer is in there somewhere, so I would say we did okay.
 
 #### Other experiments
 
-There are a few extensions or alternatives.
-First of all, if I make a friend in Whislter (difficult under the
-current circumstances) we can perform this experiment whenever we want.
+There are a few extensions and alternatives.
+First of all, if I make a real friend in Whistler, we can perform this experiment whenever we want.
 Although the measured angles $\theta_{1,2}$ will no longer be latitudes, $\Delta \theta$
 will be invariant provided we measure at the same time.
 There is also a [beautiful method](https://arxiv.org/abs/1405.4580) which involves a digital camera and a
@@ -207,6 +206,4 @@ I also meant to measure shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
 I guess I'll have to wait until December though.
-
-There is also a fun genre of practical trigonometry applications,
-which I might write about more in future.
+There 
