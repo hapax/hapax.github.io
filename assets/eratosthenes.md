@@ -188,7 +188,7 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-Still, not too shabby!
+Not too shabby given the dubious data point of a cloudless day.
 
 #### Other experiments
 
