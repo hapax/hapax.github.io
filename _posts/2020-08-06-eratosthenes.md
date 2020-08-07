@@ -206,6 +206,6 @@ the earth on its axis!
 I forgot to do this in June, so I guess I'll have to wait until December.
 We've only scraped the surface of practical applications of
 trigonometry, which I might write more about in future (at the risk of
-sounding like your middle-school math teacher).
+sounding like your enthusiastic middle-school math teacher).
 But in the mean time, the autumnal equinox is a month and a half away
 (Sep 22), so you may wish to repeat the experiment yourself!
