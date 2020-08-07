@@ -10,7 +10,8 @@ date:  2020-08-06
 **August 6, 2020.** *Eratosthenes measured the size of the earth
   using three data points: two shadows and the distance between
   them. During the vernal equinox in March, I performed a (much less elegant)
-  version of the same experiment, and discuss my results.*
+  version of the same experiment, and lacking one
+  data point, invoke an imaginary friend in Whilster.*
 
 #### Eratosthenes' elegant estimate
 
