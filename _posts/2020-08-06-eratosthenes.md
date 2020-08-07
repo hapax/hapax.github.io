@@ -117,7 +117,7 @@ There are
 [fancy equations](https://en.wikipedia.org/wiki/Equation_of_time) for
 dealing with this, but there are high-tech and low-tech shortcuts.
 The low-tech shortcut is to use a sundial (or just track the length of
-shadows and record the shortest), and the high-tech shortcut is the
+shadows and record the shortest), while the high-tech shortcut is the
 internet.
 I used the latter.
 
