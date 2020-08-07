@@ -194,7 +194,7 @@ The answer is in there somewhere, so I would say we did okay.
 
 There are a few extensions or alternatives.
 First of all, if I make a friend in Whislter (difficult under the
-current circumstances) we can perform this experiment any time.
+current circumstances) we can perform this experiment whenever we want.
 Although $\theta_{1,2}$ will no longer be latitudes, $\Delta \theta$
 will be invariant provided we measure at the same time.
 I also recently learned about a beautiful method for measuring the radius of the earth from a
