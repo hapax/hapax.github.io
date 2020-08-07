@@ -209,5 +209,5 @@ the earth on its axis!
 I missed June, so I guess I'll have to wait until December.
 We've only scraped the surface of practical applications of
 trigonometry, and I might write more about these in future.
-But the autumnal equinox is in a month and a half (Sep 22), so you may
-want to repeat this experiment yourself!
+But in the mean time, the autumnal equinox is a month and a half away
+(Sep 22), so you may wish to repeat the experiment yourself!
