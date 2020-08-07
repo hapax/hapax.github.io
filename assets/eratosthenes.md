@@ -196,4 +196,4 @@ There are a few other things I've been meaning to do.
 One is measure shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
-I missed June, so I guess I'll have to wait until December.
+I missed the June solstice, so I guess I'll have to wait until December.
