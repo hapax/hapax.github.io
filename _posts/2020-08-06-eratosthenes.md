@@ -151,6 +151,8 @@ point (directly beneath the sun) begins to wander north, so that at
 solar noon the angle to the sun is decreased in the northern hemisphere.
 But shadows lengthen before and after noon.
 In this case, the two effects cancelled to produce a good estimate.
+It might be fun to estimate *when* I took the photo from the date and
+the angle!
 
 #### Imaginary friend
 
