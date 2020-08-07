@@ -144,14 +144,13 @@ $$
 The latitude of Vancouver is around $49.2^\circ$, so this is
 surprisingly good!
 
-In fact, there's quite a bit of luck here.
+In fact, there's a bit of luck here.
 I took this photo a few minutes after solar noon, and a few days
 after the equinox (March 23). Following the vernal equinox, the subsolar
 point (directly beneath the sun) begins to wander north, so that at
 solar noon the angle to the sun is decreased in the northern hemisphere.
 But shadows lengthen before and after noon.
-In this case, the two effects cancelled to produce a deceptively
-good estimate.
+In this case, the two effects cancelled to produce a good estimate.
 
 #### Imaginary friend
 
