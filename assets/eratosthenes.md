@@ -170,7 +170,7 @@ $$
 \Delta \theta = 1.3^\circ \approx 0.02.
 $$
 
-Given that the distance to Whistler is around $d = 120 \text{ km}$, we
+Given that Whistler is north of Vancouver by $d = 120 \text{ km}$, we
 get an estimate for the radius of the earth
 
 $$
