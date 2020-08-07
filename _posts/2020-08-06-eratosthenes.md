@@ -11,8 +11,7 @@ date:  2020-08-06
   using three data points: two shadows and the distance between
   them. During the vernal equinox in March, I performed a less elegant
   version of the same experiment. Lacking one
-  data point, I invoke an imaginary friend in Whistler to help me find
-  the radius of the earth.*
+  data point, I invoke an imaginary friend in Whistler to help me.*
 
 #### Eratosthenes' elegant estimate
 
