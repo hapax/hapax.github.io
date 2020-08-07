@@ -141,13 +141,16 @@ $$
 \approx \tan^{-1}\left(\frac{137}{120}\right) \approx 48.8^\circ.
 $$
 
-The latitude of Vancouver is around $49^\circ$, so this is pretty
-good!
-Full disclosure: I was a few minutes after solar noon, and a few days
+The latitude of Vancouver is around $49^\circ$, so this is
+surprisingly good!
+
+In fact, there's quite a bit of luck here.
+I was a few minutes after solar noon, and a few days
 after the equinox (March 23). After the vernal equinox, the plane of
 the ecliptic (on which the sun sits) begins to tilt north, so that at
 solar noon the angle to the sun is decreased.
-But shadows lengthen away from solar noon, so these two effects
-cancelled each other out to give this lucky estimate.
+But shadows lengthen before and after noon, and in this case, the two
+effects cancelled to produce this deceptively good estimate.
 
 #### Whistler ahoy
+
