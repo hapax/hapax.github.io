@@ -36,8 +36,8 @@ I list some of my teaching and outreach activities below.-->
   paean to the processing power of the napkin. Applications include clouds, urban power usage,
   bacterial genomics, running in the rain, asteroids, and molecular motion.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
-  (2019, blog post). A manifesto on how to make high school math teaching fun and
-  engaging.
+  (2019, blog post). A manifesto controversially asserting that high
+  school math should be fun, useful and engaging.
   <!-- I illustrate with derivatives, giving both "pure math"
   highlights (including nowhere-differentiable functions and infinite
   series for π) and applications (subliming spheres, self-similar
