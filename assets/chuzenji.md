@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: plain
 title: The Lake
 ---
 
+### The Lake
