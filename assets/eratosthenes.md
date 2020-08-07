@@ -197,16 +197,16 @@ First of all, if I make a friend in Whislter (difficult under the
 current circumstances) we can perform this experiment whenever we want.
 Although the measured angles $\theta_{1,2}$ will no longer be latitudes, $\Delta \theta$
 will be invariant provided we measure at the same time.
-I also recently learned about a beautiful method for measuring the radius of the earth from a
-*single* vantage point,
-[exploiting changes in the apparent size of the moon as it passes overhead](https://arxiv.org/abs/1405.4580).
-You to know the size of the moon to do this, but alternatively, if you
-know the radius of the earth, you can figure out how big the moon is!
+There is also a [beautiful method](https://arxiv.org/abs/1405.4580) which involves a digital camera and a
+*single* vantage point, exploiting the (tiny) change in apparent size
+of the moon as it passes overhead.
+This requires you to know how big the moon is, but we can turn things
+round, and learn the size of the moon using the radius of the earth!
 
-Another task is to measure shadows at the solstice.
+I also meant to measure shadows at the solstice.
 By comparing to the equinoctial result, this tells us the *tilt* of
 the earth on its axis!
-I missed the June solstice, so I guess I'll have to wait until
-December.
+I guess I'll have to wait until December though.
+
 There is also a fun genre of practical trigonometry applications,
 which I might write about more in future.
