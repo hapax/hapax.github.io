@@ -188,4 +188,11 @@ $$
 \text{radius} = 4300-6900 \text{ km}.
 $$
 
-Not too bad given for an imaginary 
+Still, not too shabby!
+
+#### Other experiments
+
+There are a few other things I've been meaning to do.
+One is measure sticks at the solstice.
+That will tell us the *tilt* of the earth on its axis!
+I missed June, so I have to wait until December.
