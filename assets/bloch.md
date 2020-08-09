@@ -282,7 +282,7 @@ zero.
 The circle map was constant on points related by a phase, or unit
 length complex number.
 The 3-sphere map is constant on points related by a unit length
-quaternion $Q$, i.e. $C_3(A, B) = C_3(AQ, BQ)$, defined by
+quaternion $Q$, i.e. $C_3(A, B) = C_3(AQ, BQ)$, where $Q$ is defined by
 
 $$
 Q = Q_0 + Q_1i + Q_2j + Q_3k, \quad Q\overline{Q} = Q_0^2 +
