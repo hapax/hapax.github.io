@@ -213,12 +213,14 @@ We just had to choose the right set of coordinates!
 There are two other Hopf fibrations, i.e. ways of slicing up big
 spheres into little spheres pasted to a sphere:
 
+$$
 \begin{align*}
 \mathbb{S}^3 & \hookrightarrow \mathbb{S}^7 \overset{\pi}{\to}
 \mathbb{S}^4 \\
 \mathbb{S}^7 & \hookrightarrow \mathbb{S}^15 \overset{\pi}{\to}
 \mathbb{S}^15.
 \end{align*}
+$$
 
 Somewhat marvellously, these correspond to descriptions of pure states
 of two and three qubits respectively.
