@@ -72,5 +72,21 @@ We can then choose the phase ambiguity so that $\alpha = |\alpha|$,
 leaving an arbitrary phase in $\beta$,
 
 $$
-\beta = e^{i\phi}\sin\left(\frac{\theta}{2}\right).
+\beta = e^{i\phi}\sin\left(\frac{\theta}{2}\right), \quad \phi \in
+[0, 2\pi).
 $$
+
+Thus, we have the following parameterisation of a qubit:
+
+$$
+|\psi(\theta,\phi)\rangle = \cos\left(\frac{\theta}{2}\right)|1\rangle + e^{i\phi}\sin\left(\frac{\theta}{2}\right),
+$$
+
+for $\theta \in [0,\pi]$ and $\phi \in [0,2\pi)$.
+These angles look a heck of a lot like spherical coordinates, so we draw them on a sphere, and call it the *Bloch sphere*.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/bloch2.png" />
+    <figcaption><i>The Bloch sphere.</i></figcaption>
+	</div>
+</figure> 
