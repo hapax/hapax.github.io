@@ -105,6 +105,9 @@ degenerate into single points which do not depend on $\phi$,
 $|0\rangle$ and $|1\rangle$ as above.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
 to points), and we can put spherical coordinates on it if we like.
-But can we do better?
 
 #### The Hopf fibration
+
+But can we do better?
+In the original vector space $\mathbb{C}^2 \simeq \mathbb{R}^4$, we
+can describe all this explicitly.
