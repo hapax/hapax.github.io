@@ -302,9 +302,8 @@ $$
 This doesn't seem the same as the two qubit states, where global phase
 freedom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
 |\psi\rangle$.
-I'll explain in the next section.
-Before I do that, let's quickly explain how to do the remaining Hopf
-fibration, and why it's the last.
+I'll explain why in the next section.
+But before I do that, let me sketch the remaining Hopf fibration.
 
 We flip three quantum coins, with a total of eight
 outcomes, or $16$ real parameters. Normalization reduces this to a
