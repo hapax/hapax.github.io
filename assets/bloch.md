@@ -182,6 +182,17 @@ $$
 |\beta|^2.
 $$
 
+|\alpha| = 1 + c/2
+
+Using $|\alpha|^2 + |\beta|^2 = 1$ and some trig identities, we
+reproduce the Bloch sphere map:
+
+$$
+\alpha = |\alpha| = \sqrt{\frac{1}{2}(1 + \cos\theta)} =
+\cos\left(\frac{\theta}{2}\right), \quad \beta =
+\sin\left(\frac{\theta}{2}\right) e^{i\phi}.
+$$
+
 #### References
 
 https://www.physast.uga.edu/~mgeller/JPA34p10243.pdf
