@@ -198,20 +198,22 @@ $$
 \mathbb{S}^3 \overset{C}{\to} \hat{\mathbb{C}} \overset{p^{-1}}{\to} \mathbb{S}^2.
 $$
 
-We call $\pi = p^{-1} \circ C$ the *projection map*, taking us from a
-point on the 3-sphere to the point it is "pasted" on the 2-sphere.
-Since we can choose to embed a circle into any class
+The composition $\pi = p^{-1} \circ C$ is called the *Hopf map*, taking us from a
+point on the 3-sphere to the point the circle it belongs to is "pasted" onto the 2-sphere.
+Since we can choose to embed the circle $\mathbb{S}^1$ into any class
 $\{e^{i\gamma}(\alpha,\beta)\} \subseteq \mathbb{S}^3$, we write the
 full fibration as
 
 $$
-\mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overset{\pi}{\to} \mathbb{S}^2.
+\mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overset{\pi}{\to} \mathbb{S}^2,
 $$
 
+where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
 There is one subtlety.
-Our map 
+Our stereographic map doesn't cover the whole Riemann sphere
+$\hat{\mathbb{C}}$, since a point at infinity is mapping to $(0, 0, 1)$
 
 #### References
 
