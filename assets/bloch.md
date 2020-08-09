@@ -317,7 +317,7 @@ This is also a division algebra, and lets us define a 7-sphere map $C_7$ on
 stereographically project onto the 8-sphere:
 
 $$
-\mathbb{S}^7 \hookrightarrow \mathbb{S}^15 \overset{C_7}{\to}
+\mathbb{S}^7 \hookrightarrow \mathbb{S}^{15} \overset{C_7}{\to}
 \hat{\mathbb{C}}^4 \overset{p}{\to} \mathbb{S}^8.
 $$
 
