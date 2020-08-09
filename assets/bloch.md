@@ -102,7 +102,7 @@ Now, is this really a sphere?
 Clearly, for fixed $\theta \in (0, 2\pi)$, we get circles due to the period of the complex exponential $e^{i\phi}$.
 So, at worst, we have a *cylinder* $[0, \pi] \times \mathbb{S}^1$.
 But the north cap of the cylinder degenerates into a single point, since
-$\sin 0 = 0$, leaving only $|0\rangle$, with no dependence on $\phi$.
+$\sin 0 = 0$, leaving only $|0\rangle$ with no dependence on $\phi$.
 
 At the south end, something subtler happens.
 Naively, we have a whole circle of points $e^{i\phi}|1\rangle$, but
