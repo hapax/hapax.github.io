@@ -53,10 +53,11 @@ $$
 |\psi\rangle \sim e^{i\gamma}|\psi\rangle.
 $$
 
-We can view this ambiguity as identifying a *circle* of states on the
-three-sphere $|\alpha|^2 + |\beta|^2 = 1$.
-This seems likely to be a horrible mess.
-But miraculously, it works out rather nicely!
+We can view this ambiguity as collapsing a *circle* of equivalent
+states on the three-sphere $|\alpha|^2 + |\beta|^2 = 1$.
+It seems likely the results of collapsing these circles will be a
+horrible mess.
+But a little miracle occurs, and you get a regular sphere!
 We'll show this in an elementary way here, and do something more slick
 in the next section.
 The basic idea is to note that we can first fix the amplitudes
