@@ -26,8 +26,7 @@ $$
 \in \mathbb{C}^2,
 $$
 
-where we're using Dirac's notation for vectors, $|v\rangle$.
-
+where we're using Dirac's notation for vectors.
 A qubit is basically a quantum coin, with some probability of giving
 $0$ when we look at it, and a complementary probability of giving $1$.
 We would like to interpret $|\alpha|^2$ and $|\beta|^2$ as the
