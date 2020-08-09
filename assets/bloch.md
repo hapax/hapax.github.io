@@ -9,9 +9,8 @@ date:  2020-08-09
 
 **August 9, 2020.** *The Bloch sphere encodes the geometry
   of single qubit states. Remarkably, it is equivalent
-  to the Hopf fibration of the 3-sphere! I prove this, and discuss the
-  relation between Hopf fibrations of the 7- and 15-sphere and states
-  of two and three qubits.* 
+  to the Hopf fibration of the 3-sphere! I prove this result and
+  touch on the generalization to two and three qubits.* 
 
 #### The Bloch sphere
 
@@ -319,8 +318,6 @@ This where the Hopf slicings stop! If we try to generalise to
 systems with more imaginary directions, they no longer form division
 algebras, so the circle map has no analogue.
 
-#### Two qubits
-
 Unfortunately, the relation to the pure states of two and three qubits
 is much messier, for the simple reason that global phase ambiguity is
 still a circle!
@@ -333,9 +330,6 @@ attached to each point of $\mathbb{S}^4$ in the case of two qubits.
 For this reason, people probably justifiably say that the Bloch sphere
 has no analogue for more qubits.
 The full truth is that an analogue exists, but is messy!
-
-We'll sketch what happens with two qubits, and leave three qubits as
-homework for the curious reader.
 
 #### References
 
