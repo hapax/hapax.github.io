@@ -207,7 +207,7 @@ $$
 where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
-We just had to choose the right set of coordinates to see it.
+We just had to choose the right set of coordinates!
 
 #### References
 
