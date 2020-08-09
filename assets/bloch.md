@@ -197,7 +197,7 @@ But the circle map, composed with inverse stereographic projection $p^{-1}$, is
 precisely the Hopf fibration, which we can write as
 
 $$
-\mathbb{S}^3 \overwrite{C}{\to} \hat{\mathbb{C}} \overwrite{p^{-1}}{\to} \mathbb{S}^2.
+\mathbb{S}^3 \overset{C}{\to} \hat{\mathbb{C}} \overset{p^{-1}}{\to} \mathbb{S}^2.
 $$
 
 We call $\pi = p^{-1} \circ C$ the *projection map*, taking us from a
@@ -207,7 +207,7 @@ $\{e^{i\gamma}(\alpha,\beta)\} \subseteq \mathbb{S}^3$, we write the
 full fibration as
 
 $$
-\mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overwrite{\pi}{\to} \mathbb{S}^2.
+\mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overset{\pi}{\to} \mathbb{S}^2.
 $$
 
 #### References
