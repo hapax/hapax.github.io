@@ -102,7 +102,7 @@ $$
 Now, is this really a sphere?
 Clearly, for fixed $\theta \in (0, 2\pi)$, we get circles due to the period of the complex exponential $e^{i\phi}$.
 So, at worst, we have a *cylinder* $[0, \pi] \times \mathbb{S}^1$.
-But north cap of the cylinder degenerates into a single point, since
+But the north cap of the cylinder degenerates into a single point, since
 $\sin 0 = 0$, leaving only $|0\rangle$, with no dependence on $\phi$.
 
 At the south end, something subtler happens.
@@ -209,6 +209,7 @@ $$
 where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
+In this case, we don't have to degenerate caps by hand.
 We just had to choose the right set of coordinates!
 
 #### Bloch chain
