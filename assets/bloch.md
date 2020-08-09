@@ -330,6 +330,9 @@ equivalent states are identifying.
 The pure states therefore end up being split in a complicated
 way between the base and the fibre, e.g. the $\mathbb{S}^3$ which is
 attached to each point of $\mathbb{S}^4$ in the case of two qubits.
+For this reason, people probably justifiably say that the Bloch sphere
+has no analogue for more qubits.
+The full truth is that an analogue exists, but is messy!
 
 We'll sketch what happens with two qubits, and leave three qubits as
 homework for the curious reader.
