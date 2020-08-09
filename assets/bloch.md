@@ -116,12 +116,13 @@ $$
 
 for $\alpha \geq 0$.
 
-#### The Hopf fibration
+#### The Hopf fibration of $\mathbb{S}^3$
 
-To understand this curious mismatch, let's define the Hopf
-fibration in its full glory.
-To start off with, we define a couple of useful functions.
-First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define the circle map
+Let's define the Hopf fibration in its full glory and see if we can
+understand this mismatch better.
+For $(\alpha,\beta)  \in \mathbb{S}^3$, i.e. satisfying our
+normalisation condition $|\alpha|^2 + |\beta|^2 = 1$, define the
+circle map
 
 $$
 C(\alpha, \beta) = \overline{\alpha\beta^{-1}} \in \hat{\mathbb{C}},
@@ -136,22 +137,27 @@ $$
 $$
 
 on the Riemann sphere, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
-The canonical way to identify points on the Riemann sphere with points
-on the normal two-sphere $\mathbb{S}^2$ is (inverse) stereographic
-projection.
-Basically, we just slice the unit sphere in half by the complex plane,
-and for any point $\zeta \in \hat{\mathbb{C}} \simeq \mathbb{R}^2 \cup
-\{\infty\}$, draw a line from $z$ to the north pole of the sphere. The
+
+We can identify points on the Riemann sphere with points
+on the normal two-sphere $\mathbb{S}^2$ in a couple of different ways,
+but they all involve *stereographic projection*.
+Basically, we think of $\mathbb{C} \simeq \mathbb{R}^2$ as a plane,
+put a sphere somewhere, and draw lines from points on the plane to the
+north pole of the sphere.
+Wherever they hit is the (inverse) projection onto the sphere.
+
+There are two common conventions.
+The first is to place a unit sphere at the origin of the plane, so we
+are projecting to $(0, 0, 1)$. The
 point of intersection with the sphere is the result of the projection.
-
-In coordinates, the line from $\zeta = x + iy$ to $(0, 0, 1) = \hat{\mathbf{z}}$ is
-described by a parameter $\lambda$, with
+In coordinates, the line from $\zeta = x + iy$ to $(0, 0, 1)$ is
+given by
 
 $$
-\lambda \zeta + (1-\lambda)\hat{\mathbf{z}} = (\lambda x, \lambda y, 1-\lambda).
+(\lambda x, \lambda y, 1-\lambda), \quad \lambda \in \mathbb{R},
 $$
 
-This has unit length at
+which intersects the unit sphere at
 
 $$
 \lambda^2 (x^2 + y^2) + (1-\lambda)^2 = 1 \quad \Longrightarrow \quad
