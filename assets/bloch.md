@@ -39,4 +39,22 @@ $$
 
 This defines a *sphere* in four-dimensional space $\mathbb{R}^4$.
 Since the sphere itself has three dimensions (it can be locally
-parameterized by $a$, $b$ and $c$), we call this the three-sphere $\mathbb{S}^3$.
+parameterized by $a$, $b$ and $c$), we call this the three-sphere
+$\mathbb{S}^3$.
+
+There is one more ambiguity to worry about.
+Suppose that we rotate our qubit $|\psi\rangle$ by a phase,
+$e^{i\gamma}$.
+Just making observations of the qubit alone, this phase is
+unobservable, since the probabilities don't change,
+i.e. $|e^{i\gamma}\alpha|^2 = |\alpha|^2$.
+We call this the *global* phase ambiguity, and identify
+
+$$
+|\psi\rangle \sim e^{i\gamma}|\psi\rangle.
+$$
+
+We can view this ambiguity as identifying a *circle* of states on the
+three-sphere $|\alpha|^2 + |\beta|^2 = 1$.
+This seems likely to be a horrible mess.
+But miraculously, it 
