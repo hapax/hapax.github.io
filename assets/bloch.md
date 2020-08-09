@@ -217,8 +217,8 @@ $$
 \begin{align*}
 \mathbb{S}^3 & \hookrightarrow \mathbb{S}^7 \overset{\pi}{\to}
 \mathbb{S}^4 \\
-\mathbb{S}^7 & \hookrightarrow \mathbb{S}^15 \overset{\pi}{\to}
-\mathbb{S}^15.
+\mathbb{S}^7 & \hookrightarrow \mathbb{S}^{15} \overset{\pi}{\to}
+\mathbb{S}^8.
 \end{align*}
 $$
 
