@@ -104,8 +104,8 @@ But north cap of the cylinder degenerates into a single point, since
 $\sin 0 = 0$, leaving only $|0\rangle$, with no dependence on $\phi$.
 
 At the south end, something subtler happens.
-Naively, we have a whole circle of points $e^{i\phi}|\1\rangle$, but
-$e^{i\phi}|\1\rangle  \sim |1\rangle$ by residual phase ambiguity.
+Naively, we have a whole circle of points $e^{i\phi}|1\rangle$, but
+$e^{i\phi}|1\rangle  \sim |1\rangle$ by residual phase ambiguity.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
 to points), which we can put spherical coordinates on, but
 *geometrically* we have the hemisphere
@@ -191,6 +191,13 @@ $$
 \alpha = |\alpha| = \sqrt{\frac{1}{2}(1 + \cos\theta)} =
 \cos\left(\frac{\theta}{2}\right), \quad \beta =
 \sin\left(\frac{\theta}{2}\right) e^{i\phi}.
+$$
+
+But the circle map, composed with inverse stereographic projection $p^{-1}$, is
+precisely the Hopf fibration, which we can write as
+
+$$
+\mathbb{S}^3 \overwrite{C}{\to} \hat{\mathbb{C}} \overwrite{p^{-1}}{\to} \mathbb{S}^2.
 $$
 
 #### References
