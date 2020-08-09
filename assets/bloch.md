@@ -9,9 +9,10 @@ date:  2020-08-09
 
 **August 9, 2020.** *The Bloch sphere encodes the geometry
   of single qubit states. Remarkably, it is equivalent
-  to the Hopf fibration. I give a quick proof of this
-  result, and discuss the generalization to pure states of two qubits,
-  which (with a little more work) is equivalent to a fibration of the 7-sphere.* 
+  to the Hopf fibration of the 3-sphere. I give a quick proof of this
+  result, and discuss the generalization to pure states of two and
+  three qubits, which (with a little more work) are equivalent to Hopf
+  fibrations of the 7- and 15-sphere.* 
 
 #### The Bloch sphere
 
