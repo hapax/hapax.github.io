@@ -91,7 +91,8 @@ These angles look a heck of a lot like spherical coordinates, so we draw them on
 	</div>
 </figure> 
 
-A few states of interest are the north pole $|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\rangle$, and the state
+A few states of interest are the north pole
+$|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\rangle$, and the state
 
 $$
 |\psi(\tfrac{\pi}{2}, 0)\rangle = \cos\left(\frac{\pi}{4}\right)|0\rangle + \sin\left(\frac{\pi}{4}\right)|1\rangle = \frac{|0\rangle+|1\rangle}{\sqrt{2}} = |+\rangle.
