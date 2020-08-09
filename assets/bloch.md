@@ -37,9 +37,9 @@ a^2 + b^2 + c^2 + d^2 = 1.
 $$
 
 This defines a *sphere* in four-dimensional space $\mathbb{R}^4$.
-Since the sphere itself has three dimensions (it can be locally
-parameterized by $a$, $b$ and $c$), we call this the three-sphere
-$\mathbb{S}^3$.
+The sphere itself has three dimensions, since it can be locally
+parameterized by $a$, $b$ and $c$.
+For this reason, we call it the three-sphere $\mathbb{S}^3$.
 
 There is one more ambiguity to worry about.
 Suppose that we rotate our qubit $|\psi\rangle$ by a phase,
@@ -59,3 +59,18 @@ This seems likely to be a horrible mess.
 But miraculously, it works out rather nicely!
 We'll show this in an elementary way here, and do something more slick
 in the next section.
+The basic idea is to note that we can first fix the amplitudes
+$|\alpha|, |\beta|$, defining
+
+$$
+|\alpha| = \cos\left(\frac{\theta}{2}\right), \quad |\beta| = \sin\left(\frac{\theta}{2}\right)
+$$
+
+for $\theta \in [0, \pi]$, with the range chosen to ensure the
+functions are positive.
+We can then choose the phase ambiguity so that $\alpha = |\alpha|$,
+leaving an arbitrary phase in $\beta$,
+
+$$
+\beta = e^{i\phi}\sin\left(\frac{\theta}{2}\right).
+$$
