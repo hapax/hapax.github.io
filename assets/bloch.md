@@ -321,8 +321,8 @@ $$
 \hat{\mathbb{C}^4} \overset{p}{\to} \mathbb{S}^8.
 $$
 
-But this where the nice Hopf slicings stop, since there are no more
-division algebras for us to define a Hopf map with!
+But this where the Hopf slicings stop! There are no more
+division algebras for us to define a Hopf map with.
 
 #### Two qubits
 
