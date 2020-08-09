@@ -166,11 +166,20 @@ $$
 \cos\theta = \frac{r^2-1}{1 + r^2}.
 $$
 
-From the circle map, $r^2 = |\alpha/\beta|^2$, so
+From the circle map, $\zeta = \overline{\alpha \beta^{-1}}$.
+If we choose the phase as before so that $\alpha = |\alpha|$ and
+$\beta = |\beta|e^{i\phi}$, we have
+
+$$
+\zeta = \frac{|\alpha|}{|\beta|} e^{i\phi}, 
+$$
+
+and hence
 
 $$
 \cos\theta = \frac{|\alpha/\beta|^2-1}{1 + |\alpha/\beta|^2} =
-\frac{|\alpha|^2 - |\beta|^2}{|\alpha|^2 + |\beta|^2} = |\alpha|^2 - |\beta|^2.
+\frac{|\alpha|^2 - |\beta|^2}{|\alpha|^2 + |\beta|^2} = |\alpha|^2 -
+|\beta|^2.
 $$
 
 #### References
