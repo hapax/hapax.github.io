@@ -28,7 +28,6 @@ $$
 where we're using physicist notation for vectors, $|v\rangle$.
 It's basically a quantum coin, with some probability of giving $0$
 when we look at it, and a complementary probability of giving $1$.
-
 We would like to interpret $|\alpha|^2$ and $|\beta|^2$ as the
 respective probabilities of measuring $0$ and $1$ when we look at the
 qubit.
