@@ -116,7 +116,7 @@ $$
 $$
 
 for $\alpha \geq 0$.
-The problem is that we have used the wrong coordinates!
+Why the mismatch?
 
 #### The Hopf fibration of $\mathbb{S}^3$
 
