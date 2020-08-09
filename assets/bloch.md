@@ -244,7 +244,65 @@ $$
 
 which restricts states to a 7-sphere $\mathbb{S}^7$.
 Here's where things get fancy.
-Instead of using
+To define the circle map above, we use a quotient of complex numbers.
+What we do now is turn our numbers $\alpha, \beta, \gamma, \delta$
+into *quaternions*.
+The quaternions are a generalisation of complex numbers, where instead
+of having a single imaginary unit, we have real combinations of
+*three* imaginary numbers, $i, j$ and $k$.
+They obey some rules carved into a bridge by the great Irish
+mathematician William Hamilton:
+
+$$
+i^2 = j^2 = k^2 = ijk = -1.
+$$
+
+Right-multiplying $ijk = -1$ by $k$, and using $k = -1$, we learn that
+$ij = k$. Hence, if $\beta = a + bi$, then $\beta j = aj + bk$.
+Now, quaternions form a *division algebra*, in the sense that we can
+divide any element by any other.
+
+So, to proceed, we define
+
+$$
+A = \alpha + \beta j, \quad B = \gamma + \delta j,
+$$
+
+with $\mathbb{S}^7$ given by $|A|^2 + |B|^2 = 1$.
+Since quaternions form a division algebra, we can define a 3-sphere
+map (instead of a circle map)
+
+$$
+C(A, B) = \overline{AB^{-1}} \in \hat{\mathbb{C}^2},
+$$
+
+where the complex conjugate is defined by flipping the sign of any
+imaginary unit, and we treat a quaternion as living in $\mathbb{C}^2$.
+We have added a point at infinity as before, in case we divide by
+zero.
+The circle map was constant on points related by a phase, or unit
+length complex number.
+The 3-sphere map is constant on points related by a unit length
+quaternion $Q$, i.e. $C(A, B) = C(AQ, BQ)$, defined by
+
+$$
+Q = Q_0 + Q_1i + Q_2j + Q_3k, \quad Q\overline{Q} = Q_0^2 +
+Q_1^2+Q_2^2 + Q_3^2 = 1.
+$$
+
+The components $Q_0, Q_1, Q_2, Q_3$ are real, so the unit quaternions
+live on a 3-sphere $\mathbb{S}^3$.
+Finally, we stereographically project from $\hat{\mathbb{C}^2}$ onto a 4-sphere, and
+obtain the Hopf fibration
+
+$$
+\mathbb{S}^3 & \hookrightarrow \mathbb{S}^7 \overset{\pi}{\to}
+\mathbb{S}^4.
+$$
+
+This doesn't seem the same as the two qubit states, where global phase
+freeom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
+|\psi\rangle$.
 
 #### References
 
