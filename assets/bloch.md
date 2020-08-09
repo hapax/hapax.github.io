@@ -211,9 +211,8 @@ $$
 where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
-There is one subtlety.
-Our stereographic map doesn't cover the whole Riemann sphere
-$\hat{\mathbb{C}}$, since a point at infinity is mapping to $(0, 0, 1)$
+
+What happened to our earlier mismatch?
 
 #### References
 
