@@ -121,14 +121,21 @@ for $\alpha \geq 0$.
 To understand this curious mismatch, let's introduce the Hopf
 fibration in its full glory.
 To start off with, we define a couple of useful functions.
-First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define
+First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define the circle map
 
 $$
 C(\alpha, \beta) = \overline{\frac{\alpha}{\beta}} \in \hat{\mathbb{C}},
 $$
 
 where $\hat{\mathbb{C}}$ is the Riemann sphere, i.e. the complex plane
-with a "hat" at infinity.
+with a compactifying "hat" at infinity.
+The circle map gives us a point on the Riemann sphere where the circle
+
+$$
+(\alpha,\beta) \sim e^{i\gamma}(\alpha,\beta)
+$$
+
+is mapped to, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
 
 #### References
 
