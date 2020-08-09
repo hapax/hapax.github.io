@@ -124,7 +124,7 @@ To start off with, we define a couple of useful functions.
 First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define the circle map
 
 $$
-C(\alpha, \beta) = \overline{\frac{\alpha}{\beta}} \in \hat{\mathbb{C}},
+C(\alpha, \beta) = \overline{\alpha\beta^{-1}} \in \hat{\mathbb{C}},
 $$
 
 where $\hat{\mathbb{C}}$ is the Riemann sphere, i.e. the complex plane
