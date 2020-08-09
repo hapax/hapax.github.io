@@ -138,19 +138,13 @@ $$
 
 on the Riemann sphere, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
 
-We can identify points on the Riemann sphere with points
-on the normal two-sphere $\mathbb{S}^2$ in a couple of different ways,
-but they all involve *stereographic projection*.
+The canonical way to identify points on the Riemann sphere with points
+on the normal two-sphere $\mathbb{S}^2$ is *stereographic projection*.
 Basically, we think of $\mathbb{C} \simeq \mathbb{R}^2$ as a plane,
-put a sphere somewhere, and draw lines from points on the plane to the
-north pole of the sphere.
+place a unit sphere at the origin so it is sliced in half, and draw
+lines from points on the plane to the north pole of the sphere.
 Wherever they hit is the (inverse) projection onto the sphere.
-
-There are two common conventions.
-The first is to place a unit sphere at the origin of the plane, so we
-are projecting to $(0, 0, 1)$. The
-point of intersection with the sphere is the result of the projection.
-In coordinates, the line from $\zeta = x + iy = r e^{i\phi}$ to $(0, 0, 1)$ is
+In coordinates, the line from $\zeta = x + iy = r e^{i\phi'}$ to $(0, 0, 1)$ is
 given by
 
 $$
@@ -165,11 +159,18 @@ $$
 \left(\frac{2x}{1 + r^2}, \frac{2y}{1 + r^2}, \frac{r^2-1}{1 + r^2}\right).
 $$
 
-The resulting coordinates on the sphere are easily seen to be
-$(\theta, \phi)$, where $\phi$ is the polar angle on the plane, and
+The resulting coordinates on the sphere $(\theta, \phi)$ are easily
+seen to be $\phi = \phi'$ and
 
 $$
-\theta = 
+\cos\theta = \frac{r^2-1}{1 + r^2}.
+$$
+
+From the circle map, $r = |\alpha /\beta|$, so
+
+$$
+\cos\theta = \frac{|\alpha/\beta|^2-1}{1 + |\alpha/\beta|^2} =
+\frac{|\alpha|^2 - |\beta|^2}{|\alpha|^2 + |\beta|^2} = |\alpha|^2 - |\beta|^2.
 $$
 
 #### References
