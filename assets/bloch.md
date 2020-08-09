@@ -168,12 +168,7 @@ $$
 
 From the circle map, $\zeta = \overline{\alpha \beta^{-1}}$.
 If we choose the phase as before so that $\alpha = |\alpha|$ and
-$\beta = |\beta|e^{i\phi}$, we have
-
-$$
-\zeta = \frac{|\alpha|}{|\beta|} e^{i\phi}, 
-$$
-
+$\beta = |\beta|e^{i\phi}$, we have $\zeta = e^{i\phi}|\alpha/\beta|$,
 and hence
 
 $$
@@ -211,8 +206,7 @@ $$
 where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
-
-What happened to our earlier mismatch?
+We just had to choose the right set of coordinates to see it.
 
 #### References
 
