@@ -107,19 +107,20 @@ At the south end, something subtler happens.
 Naively, we have a whole circle of points $e^{i\phi}|1\rangle$, but
 $e^{i\phi}|1\rangle  \sim |1\rangle$ by residual phase ambiguity.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
-to points), which we can put spherical coordinates on, but
-*geometrically* we have the hemisphere
+to points) on which we can introduce spherical coordinates, but
+*geometrically* it appears to be the hemisphere
 
 $$
 \alpha^2 + |\beta|^2 = a^2 + c^2 + d^2 = 1,
 $$
 
 for $\alpha \geq 0$.
+The problem is that we have used the wrong coordinates!
 
 #### The Hopf fibration of $\mathbb{S}^3$
 
-Let's define the Hopf fibration in its full glory.
-In the process, we'll confirm the Bloch sphere is genuinely a sphere.
+Let's define the Hopf fibration in its full glory, and along the way,
+confirm the Bloch sphere is legitimately round.
 For $(\alpha,\beta)  \in \mathbb{S}^3$, i.e. satisfying our
 normalisation condition $|\alpha|^2 + |\beta|^2 = 1$, define the
 circle map
@@ -143,7 +144,7 @@ on the normal two-sphere $\mathbb{S}^2$ is *stereographic projection*.
 Basically, we think of $\mathbb{C} \simeq \mathbb{R}^2$ as a plane,
 place a unit sphere at the origin so it is sliced in half, and draw
 lines from points on the plane to the north pole of the sphere.
-Wherever they hit is the (inverse) projection onto the sphere.
+Wherever they hit is the projection onto the sphere.
 In coordinates, the line from $\zeta = x + iy = r e^{i\phi}$ to $(0, 0, 1)$ is
 given by
 
@@ -186,15 +187,15 @@ $$
 \sin\left(\frac{\theta}{2}\right) e^{i\phi}.
 $$
 
-But the circle map, composed with inverse stereographic projection $p^{-1}$, is
-precisely the Hopf fibration, which we can write as
+But the circle map $C$, composed with (inverse) stereographic projection $p$, is
+precisely the *Hopf map* $\pi = p \circ C$:
 
 $$
 \mathbb{S}^3 \overset{C}{\to} \hat{\mathbb{C}} \overset{p^{-1}}{\to} \mathbb{S}^2.
 $$
 
-The composition $\pi = p^{-1} \circ C$ is called the *Hopf map*, taking us from a
-point on the 3-sphere to the point the circle it belongs to is "pasted" onto the 2-sphere.
+In other words, the Hopf map  us from a point on the 3-sphere to the
+point its circle is "pasted" onto the 2-sphere.
 Since we can choose to embed the circle $\mathbb{S}^1$ into any class
 $\{e^{i\gamma}(\alpha,\beta)\} \subseteq \mathbb{S}^3$, we write the
 full fibration as
