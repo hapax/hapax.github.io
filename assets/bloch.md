@@ -301,7 +301,7 @@ $$
 $$
 
 This doesn't seem the same as the two qubit states, where global phase
-freeom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
+freedom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
 |\psi\rangle$.
 I'll explain in the next section.
 Before I do that, let's quickly explain how to do the remaining Hopf
@@ -321,10 +321,11 @@ $$
 \hat{\mathbb{C}}^4 \overset{p}{\to} \mathbb{S}^8.
 $$
 
-But this where the Hopf slicings stop! There are no more
-division algebras for us to define a Hopf map with.
+But this where the Hopf slicings stop! If we try to generalise to
+systems with more imaginary directions, they fail to form division
+algebras, so we cannot define the analogues of the circle map.
 
-#### Two qubits
+#### Two qubits: phase and entanglement
 
 #### References
 
