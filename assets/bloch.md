@@ -224,6 +224,21 @@ $$
 
 Somewhat marvellously, these correspond to descriptions of pure states
 of two and three qubits respectively.
+A two qubit pure state is a complex linear combination of outcomes for
+two coin flips,
+
+$$
+|\psi\rangle = \alpha|00\rangle + \beta |01\rangle +
+\gamma|10\rangle + \delta |11\rangle, \quad \alpha,\beta,\gamma,\delta\in\mathbb{C}.
+$$
+
+Once again, to intepret these as probabilities, we require
+
+$$
+|\alpha|^2 + |\beta|^2+|\gamma|^2+|\delta|^2 =1,
+$$
+
+which restricts states to a 7-sphere $$
 
 #### References
 
