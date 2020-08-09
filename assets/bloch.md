@@ -69,13 +69,7 @@ $$
 for $\theta \in [0, \pi]$, with the range chosen to ensure the
 functions are positive.
 We can then choose the phase ambiguity so that $\alpha = |\alpha|$,
-leaving an arbitrary phase in $\beta$,
-
-$$
-\beta = e^{i\phi}\sin\left(\frac{\theta}{2}\right), \quad \phi \in
-[0, 2\pi).
-$$
-
+leaving an arbitrary phase $\beta = e^{i\phi}|\beta|$.
 Thus, we have the following parameterisation of a qubit:
 
 $$
