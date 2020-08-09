@@ -225,4 +225,6 @@ of two and three qubits respectively.
 
 #### References
 
-https://www.physast.uga.edu/~mgeller/JPA34p10243.pdf
+- ["Geometry of entangled states, Bloch spheres and
+Hopf fibrations"](https://www.physast.uga.edu/~mgeller/JPA34p10243.pdf)
+(2001), Rémy Mosseri and Rossen Dandoloff.
