@@ -136,6 +136,27 @@ $$
 $$
 
 is mapped to, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
+The canonical way to identify points on the Riemann sphere with points
+on the normal two-sphere $\mathbb{S}^2$ is (inverse) stereographic
+projection.
+Basically, we just slice the unit sphere in half by the complex plane,
+and for any point $\zeta \in \hat{\mathbb{C}} \simeq \mathbb{R}^2 \cup
+\{\infty\}$, draw a line from $z$ to the north pole of the sphere. The
+point of intersection with the sphere is the result of the projection.
+
+In coordinates, the line from $\zeta = x + iy$ to $(0, 0, 1) = \hat{\mathbf{z}}$ is
+described by a parameter $\lambda$, with
+
+$$
+\lambda \zeta + (1-\lambda)\hat{\mathbf{z}} = (\lambda x, \lambda y, 1-\lambda).
+$$
+
+This has unit length at
+
+$$
+\lambda^2 (x^2 + y^2) + (1-\lambda)^2 = 1 \quad \Longrightarrow \quad
+\lambda = \frac{2}{1 + x^2 + y^2}.
+$$
 
 #### References
 
