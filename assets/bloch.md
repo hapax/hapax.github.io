@@ -256,7 +256,7 @@ $$
 i^2 = j^2 = k^2 = ijk = -1.
 $$
 
-Right-multiplying $ijk = -1$ by $k$, and using $k = -1$, we learn that
+Right-multiplying $ijk = -1$ by $k$, and using $k^2 = -1$, we learn that
 $ij = k$. Hence, if $\beta = a + bi$, then $\beta j = aj + bk$.
 Now, quaternions form a *division algebra*, in the sense that we can
 divide any element by any other.
