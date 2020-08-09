@@ -150,7 +150,7 @@ There are two common conventions.
 The first is to place a unit sphere at the origin of the plane, so we
 are projecting to $(0, 0, 1)$. The
 point of intersection with the sphere is the result of the projection.
-In coordinates, the line from $\zeta = x + iy$ to $(0, 0, 1)$ is
+In coordinates, the line from $\zeta = x + iy = r e^{i\phi}$ to $(0, 0, 1)$ is
 given by
 
 $$
@@ -160,8 +160,16 @@ $$
 which intersects the unit sphere at
 
 $$
-\lambda^2 (x^2 + y^2) + (1-\lambda)^2 = 1 \quad \Longrightarrow \quad
-\lambda = \frac{2}{1 + x^2 + y^2}.
+\lambda^2 r^2 + (1-\lambda)^2 = 1 \quad \Longrightarrow \quad
+\lambda = \frac{2}{1 + r^2} \quad \Longrightarrow \quad
+\left(\frac{2x}{1 + r^2}, \frac{2y}{1 + r^2}, \frac{r^2-1}{1 + r^2}\right).
+$$
+
+The resulting coordinates on the sphere are easily seen to be
+$(\theta, \phi)$, where $\phi$ is the polar angle on the plane, and
+
+$$
+\theta = 
 $$
 
 #### References
