@@ -16,7 +16,7 @@ date:  2020-08-09
 
 #### The Bloch sphere
 
-A classical bit is $0$ or $1$.
+A classical bit is $0$ or $1$, or heads and tails on a coin.
 A quantum bit, or *qubit*, is a *complex linear combination* of $0$ and $1$,
 considered as vectors:
 
@@ -25,8 +25,11 @@ $$
 \in \mathbb{C}^2.
 $$
 
+It's basically a quantum coin, with some probability of giving $0$
+when we look at it, and a complementary probability of giving $1$.
 We would like to interpret $|\alpha|^2$ and $|\beta|^2$ as the
-respective probabilities of measuring $0$ and $1$.
+respective probabilities of measuring $0$ and $1$ when we look at the
+qubit.
 For this to make sense, they must satisfy the normalization condition
 $|\alpha|^2 + |\beta|^2 = 1$.
 But, writing this out in terms of the real and imaginary components
