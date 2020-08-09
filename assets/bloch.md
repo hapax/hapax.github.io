@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The Bloch sphere and Hopf fibrations"
 categories: [Physics, Mathematics]
-date:  2020-08-09
+date:  2020-08-08
 ---
 
-**August 9, 2020.** *The Bloch sphere encodes the geometry
+**August 8, 2020.** *The Bloch sphere encodes the geometry
   of single qubit states. Remarkably, it is equivalent
   to the Hopf fibration of the 3-sphere. I give a quick proof of this
   result, and discuss the generalization to pure states of two and
@@ -303,6 +303,7 @@ $$
 This doesn't seem the same as the two qubit states, where global phase
 freeom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
 |\psi\rangle$.
+What gives?
 
 This story repeats almost the same way for the remaining Hopf
 fibration. We flip three quantum coins, with a total of eight
