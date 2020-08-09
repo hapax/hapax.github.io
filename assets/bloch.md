@@ -96,3 +96,7 @@ $|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\
 $$
 \bigg|\psi\left(\frac{\pi}{2}, 0\right)\bigg\rangle = \cos\left(\frac{\pi}{4}\right)|0\rangle + \sin\left(\frac{\pi}{4}\right)|1\rangle = \frac{|0\rangle+|1\rangle}{\sqrt{2}} = |+\rangle.
 $$
+
+Now, is this really a sphere?
+Clearly, for fixed $\theta \in (0, 2\pi)$, we get circles due to the period of the complex exponential $e^{i\phi}$.
+So, at worst, we have a cylinder $[0, \pi] \times \mathbb{S}^1$.
