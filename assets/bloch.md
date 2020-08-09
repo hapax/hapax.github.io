@@ -183,7 +183,7 @@ $$
 $$
 
 Using $|\alpha|^2 + |\beta|^2 = 1$ and some trig identities, we
-reproduce the Bloch sphere map:
+reproduce the Bloch sphere map exactly:
 
 $$
 \alpha = |\alpha| = \sqrt{\frac{1}{2}(1 + \cos\theta)} =
@@ -207,6 +207,11 @@ full fibration as
 $$
 \mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overset{\pi}{\to} \mathbb{S}^2.
 $$
+
+So, we see that the Hopf fibration is exactly equivalent to the Bloch
+sphere, and the Bloch sphere is indeed a sphere.
+There is one subtlety.
+Our map 
 
 #### References
 
