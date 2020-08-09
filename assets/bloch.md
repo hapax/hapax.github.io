@@ -273,7 +273,7 @@ Since quaternions form a division algebra, we can define a 3-sphere
 map (instead of a circle map)
 
 $$
-C_3(A, B) = \overline{AB^{-1}} \in \hat{\mathbb{C}^2},
+C_3(A, B) = \overline{AB^{-1}} \in \hat{\mathbb{C}}^2,
 $$
 
 where the complex conjugate is defined by flipping the sign of any
@@ -292,12 +292,12 @@ $$
 
 The components $Q_0, Q_1, Q_2, Q_3$ are real, so the unit quaternions
 live on a 3-sphere $\mathbb{S}^3$.
-Finally, we stereographically project using $p$ from $\hat{\mathbb{C}^2}$ onto a 4-sphere, and
+Finally, we stereographically project using $p$ from $\hat{\mathbb{C}}^2$ onto a 4-sphere, and
 obtain the Hopf fibration
 
 $$
 \mathbb{S}^3 \hookrightarrow \mathbb{S}^7 \overset{C_3}{\to}
-\hat{\mathbb{C}^2} \overset{p}{\to} \mathbb{S}^4.
+\hat{\mathbb{C}}^2 \overset{p}{\to} \mathbb{S}^4.
 $$
 
 This doesn't seem the same as the two qubit states, where global phase
