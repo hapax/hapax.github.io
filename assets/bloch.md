@@ -124,7 +124,7 @@ Let's define the Hopf fibration in its full glory, and along the way,
 confirm the Bloch sphere is legitimately round.
 For $(\alpha,\beta)  \in \mathbb{S}^3$, i.e. satisfying our
 normalisation condition $|\alpha|^2 + |\beta|^2 = 1$, define the
-circle map
+*circle map*
 
 $$
 C(\alpha, \beta) = \overline{\alpha\beta^{-1}} \in \hat{\mathbb{C}},
