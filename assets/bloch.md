@@ -10,9 +10,8 @@ date:  2020-08-09
 **August 9, 2020.** *The Bloch sphere encodes the geometry
   of single qubit states. Remarkably, it is equivalent
   to the Hopf fibration. I give a quick proof of this
-  result, and discuss the generalization to pure states of two and
-  three qubits, which (with a little more work) are equivalent to
-  fibrations of the 7- and 15-sphere.* 
+  result, and discuss the generalization to pure states of two qubits,
+  which (with a little more work) is equivalent to a fibration of the 7-sphere.* 
 
 #### The Bloch sphere
 
@@ -191,7 +190,7 @@ But the circle map $C$, composed with (inverse) stereographic projection $p$, is
 precisely the *Hopf map* $\pi = p \circ C$:
 
 $$
-\mathbb{S}^3 \overset{C}{\to} \hat{\mathbb{C}} \overset{p^{-1}}{\to} \mathbb{S}^2.
+\mathbb{S}^3 \overset{C}{\to} \hat{\mathbb{C}} \overset{p}{\to} \mathbb{S}^2.
 $$
 
 In other words, the Hopf map  us from a point on the 3-sphere to the
@@ -208,6 +207,8 @@ where $\hookrightarrow$ is fancy math notation for "embed".
 So, we see that the Hopf fibration is exactly equivalent to the Bloch
 sphere, and the Bloch sphere is indeed a sphere.
 We just had to choose the right set of coordinates!
+
+#### The Bloch sphere
 
 #### References
 
