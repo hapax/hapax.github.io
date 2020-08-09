@@ -299,20 +299,17 @@ $$
 \hat{\mathbb{C}}^2 \overset{p}{\to} \mathbb{S}^4.
 $$
 
-This doesn't seem the same as the two qubit states, where global phase
-freedom is still just a circle, $e^{i\gamma}|\psi\rangle \sim
-|\psi\rangle$.
-I'll explain why in the next section.
-But before I do that, let me sketch the remaining Hopf fibration.
-
+Before explaining how this relates to two qubit states, let me sketch
+the remaining Hopf fibration.
 We flip three quantum coins, with a total of eight
 outcomes, or $16$ real parameters. Normalization reduces this to a
 15-sphere of states.
 We proceed in a similar fashion, but replace quaternions with an even
 stranger object called *octonions*, with seven imaginary units.
-This is also a division algebra, and lets us define a 7-sphere map $C_7$ on
-15-sphere, taking us to $\hat{\mathbb{C}}^4$, which we then
-stereographically project onto the 8-sphere:
+This is also a division algebra, and lets us define a 7-sphere map
+$C_7$ on the 15-sphere, with range $\hat{\mathbb{C}}^4$. We then
+stereographically project onto the 8-sphere.
+Thus, we obtain the final Hopf fibration:
 
 $$
 \mathbb{S}^7 \hookrightarrow \mathbb{S}^{15} \overset{C_7}{\to}
@@ -320,10 +317,14 @@ $$
 $$
 
 But this where the Hopf slicings stop! If we try to generalise to
-systems with more imaginary directions, they fail to form division
-algebras, so we cannot define the analogues of the circle map.
+systems with more imaginary directions, they no longer form division
+algebras, so the circle map has no analogue.
+The map to three qubit states is particularly subtle and not
+particularly useful as far as I can tell. We'll just stick to two qubits.
 
 #### Two qubits: phase and entanglement
+
+We finish by talking about some 
 
 #### References
 
