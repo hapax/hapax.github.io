@@ -323,8 +323,16 @@ algebras, so the circle map has no analogue.
 
 Unfortunately, the relation to the pure states of two and three qubits
 is much messier, for the simple reason that global phase ambiguity is
-still a circle, $e^{i\gamma}|\psi\rangle \sim |\psi\rangle$ rather
-than a 3-sphere or a 7-sphere!
+still a circle!
+So the space of two- and three-qubit states is $7-1 = 6$ and $15-1=14$
+respectively, where we subtract one to account for the circles of
+equivalent states are identifying.
+The pure states therefore end up being split in a complicated
+way between the base and the fibre, e.g. the $\mathbb{S}^3$ which is
+attached to each point of $\mathbb{S}^4$ in the case of two qubits.
+
+We'll sketch what happens with two qubits, and leave three qubits as
+homework for the curious reader.
 
 #### References
 
