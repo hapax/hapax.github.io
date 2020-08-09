@@ -144,7 +144,7 @@ Basically, we think of $\mathbb{C} \simeq \mathbb{R}^2$ as a plane,
 place a unit sphere at the origin so it is sliced in half, and draw
 lines from points on the plane to the north pole of the sphere.
 Wherever they hit is the (inverse) projection onto the sphere.
-In coordinates, the line from $\zeta = x + iy = r e^{i\phi'}$ to $(0, 0, 1)$ is
+In coordinates, the line from $\zeta = x + iy = r e^{i\phi}$ to $(0, 0, 1)$ is
 given by
 
 $$
@@ -159,8 +159,8 @@ $$
 \left(\frac{2x}{1 + r^2}, \frac{2y}{1 + r^2}, \frac{r^2-1}{1 + r^2}\right).
 $$
 
-The resulting coordinates on the sphere $(\theta, \phi)$ are easily
-seen to be $\phi = \phi'$ and
+The resulting coordinates $(\theta, \phi')$ on the sphere are easily
+seen to be $\phi' = \phi$ and
 
 $$
 \cos\theta = \frac{r^2-1}{1 + r^2}.
