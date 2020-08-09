@@ -182,8 +182,6 @@ $$
 |\beta|^2.
 $$
 
-|\alpha| = 1 + c/2
-
 Using $|\alpha|^2 + |\beta|^2 = 1$ and some trig identities, we
 reproduce the Bloch sphere map:
 
