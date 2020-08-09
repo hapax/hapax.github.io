@@ -211,7 +211,7 @@ We just had to choose the right set of coordinates!
 #### Bloch chain
 
 There are two other Hopf fibrations, i.e. ways of slicing up big
-spheres into little spheres pasted to a sphere:
+spheres into little spheres pasted to a medium sphere:
 
 $$
 \begin{align*}
