@@ -118,7 +118,7 @@ for $\alpha \geq 0$.
 
 #### The Hopf fibration
 
-To understand this curious mismatch, let's introduce the Hopf
+To understand this curious mismatch, let's define the Hopf
 fibration in its full glory.
 To start off with, we define a couple of useful functions.
 First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define the circle map
@@ -129,13 +129,13 @@ $$
 
 where $\hat{\mathbb{C}}$ is the Riemann sphere, i.e. the complex plane
 with a compactifying "hat" at infinity.
-The circle map gives us a point on the Riemann sphere where the circle
+The circle map tells us the image of a whole circle of equivalent states
 
 $$
 (\alpha,\beta) \sim e^{i\gamma}(\alpha,\beta)
 $$
 
-is mapped to, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
+on the Riemann sphere, since $C(e^{i\gamma}(\alpha,\beta)) = C (\alpha,\beta)$.
 The canonical way to identify points on the Riemann sphere with points
 on the normal two-sphere $\mathbb{S}^2$ is (inverse) stereographic
 projection.
