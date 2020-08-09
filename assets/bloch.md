@@ -106,8 +106,23 @@ $|0\rangle$ and $|1\rangle$ as above.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
 to points), and we can put spherical coordinates on it if we like.
 
+Geometrically, the Bloch sphere is a bit odd. In the full space $\mathbb{C}^2
+\simeq \mathbb{R}^4$, the coordinates satisfy
+
+$$
+\alpha^2 + |\beta|^2 = a^2 + c^2 + d^2 = 1,
+$$
+
+using the fact that $\alpha$ is real. So they lie on a genuine
+two-sphere. But in fact, they only cover the *upper hemisphere*, since
+$\alpha \geq 0$.
+
 #### The Hopf fibration
 
 But can we do better?
 In the original vector space $\mathbb{C}^2 \simeq \mathbb{R}^4$, we
 can describe all this explicitly.
+
+#### References
+
+https://www.physast.uga.edu/~mgeller/JPA34p10243.pdf
