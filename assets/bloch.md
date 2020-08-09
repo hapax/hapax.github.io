@@ -22,11 +22,13 @@ considered as vectors:
 
 $$
 |\psi\rangle = \alpha |0\rangle + \beta |1\rangle, \quad \alpha, \beta
-\in \mathbb{C}^2.
+\in \mathbb{C}^2,
 $$
 
+where we're using physicist notation for vectors, $|v\rangle$.
 It's basically a quantum coin, with some probability of giving $0$
 when we look at it, and a complementary probability of giving $1$.
+
 We would like to interpret $|\alpha|^2$ and $|\beta|^2$ as the
 respective probabilities of measuring $0$ and $1$ when we look at the
 qubit.
@@ -77,7 +79,7 @@ leaving an arbitrary phase $\beta = e^{i\phi}|\beta|$.
 Thus, we have the following parameterisation of a qubit:
 
 $$
-|\psi(\theta,\phi)\rangle = \cos\left(\frac{\theta}{2}\right)|1\rangle + e^{i\phi}\sin\left(\frac{\theta}{2}\right),
+|\psi(\theta,\phi)\rangle = \cos\left(\frac{\theta}{2}\right)|0\rangle + e^{i\phi}\sin\left(\frac{\theta}{2}\right)|1\rangle,
 $$
 
 for $\theta \in [0,\pi]$ and $\phi \in [0,2\pi)$.
@@ -88,3 +90,9 @@ These angles look a heck of a lot like spherical coordinates, so we draw them on
     <figcaption><i>The Bloch sphere.</i></figcaption>
 	</div>
 </figure> 
+
+A few states of interest are the north pole $|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\rangle$, and the state
+
+$$
+|\psi(\tfrac{\pi}{2}, 0)\rangle = \cos\left(\frac{\pi}{4}\right)|0\rangle + \sin\left(\frac{\pi}{4}\right)|1\rangle = \frac{|0\rangle+|1\rangle}{\sqrt{2}} = |+\rangle.
+$$
