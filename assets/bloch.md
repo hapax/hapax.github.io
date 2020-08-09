@@ -12,7 +12,7 @@ date:  2020-08-09
   to the Hopf fibration. I give a quick proof of this
   result, and discuss the generalization to pure states of two and
   three qubits, which (with a little more work) are equivalent to
-  fibrations of the seven- and fifteen-sphere.* 
+  fibrations of the 7- and 15-sphere.* 
 
 #### The Bloch sphere
 
@@ -43,7 +43,7 @@ $$
 This defines a *sphere* in four-dimensional space $\mathbb{R}^4$.
 The sphere itself has three dimensions, since it can be locally
 parameterized by $a$, $b$ and $c$.
-For this reason, we call it the three-sphere $\mathbb{S}^3$.
+For this reason, we call it the 3-sphere $\mathbb{S}^3$.
 
 There is one more ambiguity to worry about.
 Suppose that we rotate our qubit $|\psi\rangle$ by a phase,
@@ -58,7 +58,7 @@ $$
 $$
 
 This ambiguity identifies a *circle* of equivalent
-states on the three-sphere.
+states on the 3-sphere.
 It seems likely the results of collapsing these circles will be a
 horrible mess.
 But a little miracle occurs, and you get a regular sphere!
@@ -198,6 +198,16 @@ precisely the Hopf fibration, which we can write as
 
 $$
 \mathbb{S}^3 \overwrite{C}{\to} \hat{\mathbb{C}} \overwrite{p^{-1}}{\to} \mathbb{S}^2.
+$$
+
+We call $\pi = p^{-1} \circ C$ the *projection map*, taking us from a
+point on the 3-sphere to the point it is "pasted" on the 2-sphere.
+Since we can choose to embed a circle into any class
+$\{e^{i\gamma}(\alpha,\beta)\} \subseteq \mathbb{S}^3$, we write the
+full fibration as
+
+$$
+\mathbb{S}^1 \hookrightarrow \mathbb{S}^3 \overwrite{\pi}{\to} \mathbb{S}^2.
 $$
 
 #### References
