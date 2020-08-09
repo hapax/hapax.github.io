@@ -9,10 +9,9 @@ date:  2020-08-09
 
 **August 9, 2020.** *The Bloch sphere encodes the geometry
   of single qubit states. Remarkably, it is equivalent
-  to the Hopf fibration of the 3-sphere. I give a quick proof of this
-  result, and discuss the generalization to pure states of two and
-  three qubits, which (with a little more work) are equivalent to Hopf
-  fibrations of the 7- and 15-sphere.* 
+  to the Hopf fibration of the 3-sphere! I prove this, and discuss the
+  relation between Hopf fibrations of the 7- and 15-sphere and states
+  of two and three qubits.* 
 
 #### The Bloch sphere
 
@@ -226,7 +225,8 @@ $$
 $$
 
 Somewhat marvellously, these correspond to descriptions of pure states
-of two and three qubits respectively.
+of two and three qubits respectively, but I won't talk about the state
+mapping, just the fibrations.
 A two qubit pure state is a complex linear combination of outcomes for
 two coin flips,
 
@@ -299,8 +299,7 @@ $$
 \hat{\mathbb{C}}^2 \overset{p}{\to} \mathbb{S}^4.
 $$
 
-Before explaining how this relates to two qubit states, let me sketch
-the remaining Hopf fibration.
+The remaining Hopf fibration is similar.
 We flip three quantum coins, with a total of eight
 outcomes, or $16$ real parameters. Normalization reduces this to a
 15-sphere of states.
@@ -316,18 +315,20 @@ $$
 \hat{\mathbb{C}}^4 \overset{p}{\to} \mathbb{S}^8.
 $$
 
-But this where the Hopf slicings stop! If we try to generalise to
+This where the Hopf slicings stop! If we try to generalise to
 systems with more imaginary directions, they no longer form division
 algebras, so the circle map has no analogue.
-The map to three qubit states is particularly subtle and not
-particularly useful as far as I can tell. We'll just stick to two qubits.
 
-#### Two qubits: phase and entanglement
+#### Two qubits
 
-We finish by talking about some 
+Unfortunately, the relation to the pure states of two and three qubits
+is much messier, for the simple reason that global phase ambiguity is
+still a circle, $e^{i\gamma}|\psi\rangle \sim |\psi\rangle$ rather
+than a 3-sphere or a 7-sphere!
 
 #### References
 
 - ["Geometry of entangled states, Bloch spheres and
 Hopf fibrations"](https://www.physast.uga.edu/~mgeller/JPA34p10243.pdf)
 (2001), Rémy Mosseri and Rossen Dandoloff.
+- ["Two and Three Qubits Geometry and Hopf Fibrations"](https://arxiv.org/abs/quant-ph/0310053) (2003), Rémy Mosseri.
