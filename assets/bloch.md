@@ -148,7 +148,7 @@ In coordinates, the line from $\zeta = x + iy = r e^{i\phi'}$ to $(0, 0, 1)$ is
 given by
 
 $$
-(\lambda x, \lambda y, 1-\lambda), \quad \lambda \in \mathbb{R},
+\lambda \zeta + (1-\lambda)(0,0,1) = (\lambda x, \lambda y, 1-\lambda), \quad \lambda \in \mathbb{R},
 $$
 
 which intersects the unit sphere at
