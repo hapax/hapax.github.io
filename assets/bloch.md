@@ -166,7 +166,7 @@ $$
 \cos\theta = \frac{r^2-1}{1 + r^2}.
 $$
 
-From the circle map, $r = |\alpha /\beta|$, so
+From the circle map, $r^2 = |\alpha/\beta|^2$, so
 
 $$
 \cos\theta = \frac{|\alpha/\beta|^2-1}{1 + |\alpha/\beta|^2} =
