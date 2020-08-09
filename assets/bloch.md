@@ -313,12 +313,12 @@ outcomes, or $16$ real parameters. Normalization reduces this to a
 We proceed in a similar fashion, but replace quaternions with an even
 stranger object called *octonions*, with seven imaginary units.
 This is also a division algebra, and lets us define a 7-sphere map $C_7$ on
-15-sphere, taking us to $\hat{\mathbb{C}^4}$, which we then
+15-sphere, taking us to $\hat{\mathbb{C}}^4$, which we then
 stereographically project onto the 8-sphere:
 
 $$
 \mathbb{S}^7 \hookrightarrow \mathbb{S}^15 \overset{C_7}{\to}
-\hat{\mathbb{C}^4} \overset{p}{\to} \mathbb{S}^8.
+\hat{\mathbb{C}}^4 \overset{p}{\to} \mathbb{S}^8.
 $$
 
 But this where the Hopf slicings stop! There are no more
