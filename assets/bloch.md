@@ -118,8 +118,8 @@ for $\alpha \geq 0$.
 
 #### The Hopf fibration of $\mathbb{S}^3$
 
-Let's define the Hopf fibration in its full glory and see if we can
-understand this mismatch better.
+Let's define the Hopf fibration in its full glory.
+In the process, we'll confirm the Bloch sphere is genuinely a sphere.
 For $(\alpha,\beta)  \in \mathbb{S}^3$, i.e. satisfying our
 normalisation condition $|\alpha|^2 + |\beta|^2 = 1$, define the
 circle map
