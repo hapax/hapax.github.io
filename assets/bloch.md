@@ -100,22 +100,20 @@ $$
 Now, is this really a sphere?
 Clearly, for fixed $\theta \in (0, 2\pi)$, we get circles due to the period of the complex exponential $e^{i\phi}$.
 So, at worst, we have a *cylinder* $[0, \pi] \times \mathbb{S}^1$.
-But because $\sin(0) = \sin(\pi) = 0$, the ends of the cylinder
-degenerate into single points which do not depend on $\phi$,
-$|0\rangle$ and $|1\rangle$ as above.
+But north cap of the cylinder degenerates into a single point, since
+$\sin 0 = 0$, leaving only $|0\rangle$, with no dependence on $\phi$.
+At the south end, something subtler happens.
+Naively, we have a whole circle of points $e^{i\phi}|\1\rangle$, but
+$e^{i\phi}|\1\rangle  \sim |1\rangle$ by residual phase ambiguity.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
-to points), and we can put spherical coordinates on it if we like.
-
-Geometrically, the Bloch sphere is a bit odd. In the full space $\mathbb{C}^2
-\simeq \mathbb{R}^4$, the coordinates satisfy
+to points), which we can put spherical coordinates on, but
+*geometrically* we have the hemisphere
 
 $$
 \alpha^2 + |\beta|^2 = a^2 + c^2 + d^2 = 1,
 $$
 
-using the fact that $\alpha$ is real. So they lie on a genuine
-two-sphere. But in fact, they only cover the *upper hemisphere*, since
-$\alpha \geq 0$.
+for $\alpha \geq 0$.
 
 #### The Hopf fibration
 
