@@ -16,18 +16,19 @@ date:  2020-08-09
 
 #### The Bloch sphere
 
-A classical bit is $0$ or $1$, or heads and tails on a coin.
+A classical bit is either $0$ or $1$, or if you prefer coins to
+computers, either heads or tails.
 A quantum bit, or *qubit*, is a *complex linear combination* of $0$ and $1$,
 considered as vectors:
 
 $$
 |\psi\rangle = \alpha |0\rangle + \beta |1\rangle, \quad \alpha, \beta
-\in \mathbb{C}^2,
+\in \mathbb{C}^2.
 $$
 
-where we're using physicist notation for vectors, $|v\rangle$.
-It's basically a quantum coin, with some probability of giving $0$
-when we look at it, and a complementary probability of giving $1$.
+(We are using Dirac's notation for vectors, $|v\rangle$.)
+A qubit is basically a quantum coin, with some probability of giving
+$0$ when we look at it, and a complementary probability of giving $1$.
 We would like to interpret $|\alpha|^2$ and $|\beta|^2$ as the
 respective probabilities of measuring $0$ and $1$ when we look at the
 qubit.
@@ -239,7 +240,9 @@ $$
 |\alpha|^2 + |\beta|^2+|\gamma|^2+|\delta|^2 =1,
 $$
 
-which restricts states to a 7-sphere $$
+which restricts states to a 7-sphere $\mathbb{S}^7$.
+Here's where things get fancy.
+Instead of using
 
 #### References
 
