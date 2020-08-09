@@ -43,7 +43,7 @@ $$
 
 This defines a *sphere* in four-dimensional space $\mathbb{R}^4$.
 The sphere itself has three dimensions, since it can be locally
-parameterized by $a$, $b$ and $c$.
+parameterised by $a$, $b$ and $c$.
 For this reason, we call it the 3-sphere $\mathbb{S}^3$.
 
 There is one more ambiguity to worry about.
