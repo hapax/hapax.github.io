@@ -118,9 +118,17 @@ for $\alpha \geq 0$.
 
 #### The Hopf fibration
 
-But can we do better?
-In the original vector space $\mathbb{C}^2 \simeq \mathbb{R}^4$, we
-can describe all this explicitly.
+To understand this curious mismatch, let's introduce the Hopf
+fibration in its full glory.
+To start off with, we define a couple of useful functions.
+First, for $(\alpha,\beta)  \in \mathbb{S}^3$, define
+
+$$
+C(\alpha, \beta) = \overline{\frac{\alpha}{\beta}} \in \hat{\mathbb{C}},
+$$
+
+where $\hat{\mathbb{C}}$ is the Riemann sphere, i.e. the complex plane
+with a "hat" at infinity.
 
 #### References
 
