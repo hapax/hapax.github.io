@@ -108,8 +108,8 @@ At the south end, something subtler happens.
 Naively, we have a whole circle of points $e^{i\phi}|1\rangle$, but
 $e^{i\phi}|1\rangle  \sim |1\rangle$ by residual phase ambiguity.
 Thus, we have a *topological* sphere (a cylinder with ends collapsed
-to points) on which we can introduce spherical coordinates, but
-*geometrically* it appears to be the hemisphere
+to points) on which we can introduce spherical coordinates.
+*Geometrically*, we instead appear to have a hemisphere
 
 $$
 \alpha^2 + |\beta|^2 = a^2 + c^2 + d^2 = 1,
