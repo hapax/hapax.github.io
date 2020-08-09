@@ -92,7 +92,7 @@ These angles look a heck of a lot like spherical coordinates, so we draw them on
 </figure> 
 
 A few states of interest are the north pole
-$|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\rangle$, and the state
+$|\psi(0,\phi)\rangle = |0\rangle$, the south pole $|\psi(\pi,\phi)\rangle = |1\rangle$, and the point on the equator of zero longitude,
 
 $$
 \bigg|\psi\left(\frac{\pi}{2}, 0\right)\bigg\rangle = \cos\left(\frac{\pi}{4}\right)|0\rangle + \sin\left(\frac{\pi}{4}\right)|1\rangle = \frac{|0\rangle+|1\rangle}{\sqrt{2}} = |+\rangle.
