@@ -7,13 +7,12 @@ categories: [Physics, Mathematics]
 date:  2020-08-09
 ---
 
-**August 9, 2020.** *The Bloch sphere captures the geometry of pure
-  states of a single quantum bit (qubit). Remarkably, it is equivalent
-  to the Hopf fibration, which expresses a three-spheres as a
-  two-sphere with circles pasted onto it. I give a quick proof of this
+**August 9, 2020.** *The Bloch sphere represents the geometry
+  of single qubit states. Remarkably, it is equivalent
+  to the Hopf fibration. I give a quick proof of this
   result, and discuss the generalization to pure states of two and
   three qubits, which (with a little more work) are equivalent to
-  Hopf's fibration of the seven- and fifteen-sphere.* 
+  fibrations of the seven- and fifteen-sphere.* 
 
 #### The Bloch sphere
 
@@ -57,4 +56,6 @@ $$
 We can view this ambiguity as identifying a *circle* of states on the
 three-sphere $|\alpha|^2 + |\beta|^2 = 1$.
 This seems likely to be a horrible mess.
-But miraculously, it 
+But miraculously, it works out rather nicely!
+We'll show this in an elementary way here, and do something more slick
+in the next section.
