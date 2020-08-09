@@ -99,4 +99,12 @@ $$
 
 Now, is this really a sphere?
 Clearly, for fixed $\theta \in (0, 2\pi)$, we get circles due to the period of the complex exponential $e^{i\phi}$.
-So, at worst, we have a cylinder $[0, \pi] \times \mathbb{S}^1$.
+So, at worst, we have a *cylinder* $[0, \pi] \times \mathbb{S}^1$.
+But because $\sin(0) = \sin(\pi) = 0$, the ends of the cylinder
+degenerate into single points which do not depend on $\phi$,
+$|0\rangle$ and $|1\rangle$ as above.
+Thus, we have a *topological* sphere (a cylinder with ends collapsed
+to points), and we can put spherical coordinates on it if we like.
+But can we do better?
+
+#### The Hopf fibration
