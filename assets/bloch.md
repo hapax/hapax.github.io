@@ -57,8 +57,8 @@ $$
 |\psi\rangle \sim e^{i\gamma}|\psi\rangle.
 $$
 
-We can view this ambiguity as collapsing a *circle* of equivalent
-states on the three-sphere $|\alpha|^2 + |\beta|^2 = 1$.
+This ambiguity identifies a *circle* of equivalent
+states on the three-sphere.
 It seems likely the results of collapsing these circles will be a
 horrible mess.
 But a little miracle occurs, and you get a regular sphere!
