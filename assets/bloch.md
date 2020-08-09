@@ -80,7 +80,7 @@ for $\theta \in [0,\pi]$ and $\phi \in [0,2\pi)$.
 These angles look a heck of a lot like spherical coordinates, so we draw them on a sphere, and call it the *Bloch sphere*.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/bloch2.png" />
+    <div style="text-align:center"><img src ="/images/posts/bloch2.png" />
     <figcaption><i>The Bloch sphere.</i></figcaption>
 	</div>
 </figure> 
