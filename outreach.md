@@ -45,21 +45,6 @@ I list some of my teaching and outreach activities below.-->
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
 (2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
 
-#### Teaching and course development
-
-<!-- From 2013--2017, I dropped a lot of math and physics at the University of
-Melbourne. -->
-
-- *An introduction to quantum computing* (2020, University of British
-  Columbia). [Various assignments](assets/big-qc.pdf) for a graduate course
-  that may or may not happen.
-- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
-  (2016, University of Melbourne). I created tutorials on
-  [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
-  and
-  [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
-  for a second-year "honours" course in physics. I also got to make assignments about [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf)!
-
 #### Outreach
 
 I presented at the inaugural
@@ -124,3 +109,18 @@ topics.
   order-of-magnitude estimates. Examples along the way include global
   computer storage, the length of the Harry Potter novels, and the number
   of aliens in the galaxy. Rough draft. -->
+
+#### Teaching and course development
+
+<!-- From 2013--2017, I dropped a lot of math and physics at the University of
+Melbourne. -->
+
+<!-- - *An introduction to quantum computing* (2020, University of British
+  Columbia). [Various assignments](assets/big-qc.pdf) for a graduate course
+  that may or may not happen. -->
+- [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
+  (2016, University of Melbourne). I created tutorials on
+  [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
+  and
+  [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
+  for a second-year "honours" course in physics. I also got to make assignments about [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf)!
