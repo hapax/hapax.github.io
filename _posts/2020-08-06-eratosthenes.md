@@ -211,5 +211,4 @@ trigonometry, which (at the risk of
 sounding like your enthusiastic middle-school math teacher) I might
 write about more in future.
 But in the mean time, the autumnal equinox is a month and a half away
-(Sep 22), so you have plenty of time to make friends on the same line
-of longitude in preparation!
+(Sep 22), so you have plenty of time to prepare!
