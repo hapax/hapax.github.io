@@ -57,8 +57,8 @@ I'll start with some basic results, expanding on the $n
 \approx 1/p$ observation, and compute (asymptotically) the expected
 largest sample for a Gaussian.
 I'll then talk about an analogue of the central limit theorem for
-maxima, due variously to Fisher, Tippett and Gnedenko, and end with
-applications.
+maxima (due variously to Fisher, Tippett and Gnedenko) and end with
+some real-world applications.
 
 #### Exceedance and return
 
