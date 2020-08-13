@@ -34,3 +34,24 @@ Mathematics Division at the National Bureau of Standards.
 The basic idea is simple: if I take $n$
 samples of a random variable with distribution $\mathcal{D}$, what
 does the maximum look like?
+From a practical perspective, outliers are sometimes more important
+than the bulk of observations, for instance with extreme weather
+events or fluctations of the financial market.
+If your goal is flood management, you don't care about average
+rainfall!
+I'll discuss applications below.
+
+This is related to a statistical error Gumbel calls the
+"three $\sigma$ fallacy" (which I suspect is the main reason the
+Bureau called him in).
+We are used to thinking that observations are "very likely" to fall
+within some number of standard deviations of the mean, say three
+$\sigma$ for the normal distribution.
+
+#### Exceedance and return
+
+#### The max central limit theorem
+
+#### Applications
+
+#### References
