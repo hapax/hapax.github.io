@@ -26,7 +26,7 @@ prior to the 1932 elections.
 They did not unite, and the Nazis went on to consolidate their grip
 on Weimar politics.
 Gumbel was forced to leave his Professorship at Heidelberg shortly
-afterwards, and moved to France and then the US, where he taught at
+afterwards, moving to France and then the US, where he taught at
 Columbia until his death in 1966.
 
 Gumbel's lectures were given under the auspices of the Applied
