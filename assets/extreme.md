@@ -49,7 +49,7 @@ But if I make enough observations, I will almost certainly get extreme
 outliers!
 If there is some small probability $p$ of being
 outside $3\sigma$, then with $n \approx 1/p$ observations, I would
-expect to get such an outlier!
+expect to get such an outlier.
 
 My goal is to give a quick outline of some old ideas that were new to
 me and that I found useful or cool.
