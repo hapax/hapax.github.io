@@ -26,8 +26,8 @@ prior to the 1932 elections.
 The politicians did not unite, and the Nazis consolidated their grip
 on Weimar politics.
 Gumbel was forced to leave his Professorship at Heidelberg shortly
-afterwards, and moved to France, before eventually landing in the US
-in 1940, where he taught at Columbia until his death in 1966.
+afterwards, and moved to France and then the US, where he taught at
+Columbia until his death in 1966.
 
 Gumbel's lectures were given under the auspices of the Applied
 Mathematics Division at the National Bureau of Standards.
