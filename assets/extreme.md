@@ -39,7 +39,6 @@ than the bulk of observations, for instance with extreme weather
 events or fluctations of the financial market.
 If your goal is flood management, you don't care about average
 rainfall!
-I'll discuss applications below.
 
 This is related to a statistical error Gumbel calls the
 "three $\sigma$ fallacy" (and I suspect, the main reason the Bureau called him in).
