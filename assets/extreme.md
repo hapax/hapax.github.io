@@ -45,8 +45,21 @@ This is related to a statistical error Gumbel calls the
 "three $\sigma$ fallacy" (which I suspect is the main reason the
 Bureau called him in).
 We are used to thinking that observations are "very likely" to fall
-within some number of standard deviations of the mean, say three
-$\sigma$ for the normal distribution.
+within some number of standard deviations of the mean, say three for the normal distribution.
+But if I make *many* observations, the likelihood that I get extreme
+outliers will grow.
+Put differently, if there is some small probability $p$ of being
+outside $3\sigma$, then with $n \approx 1/p$ observations, I would
+expect to get such an outlier!
+
+My goal is to give a quick outline of some ideas that were new to
+me. They are not new, just cool.
+I'll start with some simple observations which expand on the $n
+\approx 1/p$ calculation, and compute (asymptotically) the expected
+largest sample for the normal distribution.
+I'll then talk about an analogue of the central limit theorem for
+maxima, due variously to Fisher, Tippett and Gnedenko, and finally
+talk about some applications.
 
 #### Exceedance and return
 
