@@ -22,7 +22,7 @@ activist. In the 1920s, he documented political murders by the
 signatories of the
 [*Dringender Appell*](https://en.wikipedia.org/wiki/Urgent_Call_for_Unity),
 calling on non-Nazi politicans to unite "in the rejection of fascism"
-prior to the 1932 elections.
+prior to the 1932 Weimar elections.
 They did not unite, and the Nazis went on to consolidate their grip
 on Weimar politics.
 Gumbel was forced to leave his Professorship at Heidelberg shortly
