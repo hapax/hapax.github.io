@@ -21,9 +21,9 @@ activist. In the 1920s, he documented political murders by the
 *Sturmabteilung*, the Nazi paramilitary wing, and was one of the 33
 signatories of the
 [*Dringender Appell*](https://en.wikipedia.org/wiki/Urgent_Call_for_Unity),
-calling on non-Nazi politicans to unite "in the rejection of fascism",
+calling on non-Nazi politicans to unite "in the rejection of fascism"
 prior to the 1932 elections.
-The politicians did not unite, and the Nazis consolidated their grip
+They did not unite, and the Nazis went on to consolidate their grip
 on Weimar politics.
 Gumbel was forced to leave his Professorship at Heidelberg shortly
 afterwards, and moved to France and then the US, where he taught at
