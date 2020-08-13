@@ -42,8 +42,7 @@ rainfall!
 I'll discuss applications below.
 
 This is related to a statistical error Gumbel calls the
-"three $\sigma$ fallacy" (which I suspect is the main reason the
-Bureau called him in).
+"three $\sigma$ fallacy" (and I suspect, the main reason the Bureau called him in).
 We are used to thinking that observations are "very likely" to fall
 within some number of standard deviations of the mean, say three for the normal distribution.
 But if I make *many* observations, the likelihood that I get extreme
