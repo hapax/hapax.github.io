@@ -29,8 +29,8 @@ Gumbel was forced to leave his Professorship at Heidelberg shortly
 afterwards, moving to France and then the US, where he taught at
 Columbia until his death in 1966.
 
-Gumbel's lectures were given under the auspices of the Applied
+Gumbel's lectures were given, I guess, to the Applied
 Mathematics Division at the National Bureau of Standards.
-The extreme values he considers are rather different---though in some
-cases, comparably dangerous---to those he was resisting in Weimar
-Germany.
+They were worried about different extreme values from those in Weimar
+Germany!
+
