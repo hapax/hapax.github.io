@@ -9,7 +9,7 @@ date:  2020-08-13
 
 **August 13, 2020.** *A quick introduction to extreme values.*
 
-#### Extreme values
+#### Extreme values in politics and probability
 
 I recently stumbled onto the
 [beautiful lectures](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)
@@ -31,6 +31,6 @@ Columbia until his death in 1966.
 
 Gumbel's lectures were given, I guess, to the Applied
 Mathematics Division at the National Bureau of Standards.
-They were worried about different extreme values from those in Weimar
-Germany!
-
+The basic idea is simple: if I take $n$
+samples of a random variable with distribution $\mathcal{D}$, what
+does the maximum look like?
