@@ -9,7 +9,7 @@ date:  2020-08-13
 
 **August 13, 2020.** *A quick introduction to extreme values.*
 
-#### Fighting extreme values
+#### Extreme values in politics and probability
 
 I recently stumbled onto the
 [beautiful lectures](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)
@@ -27,6 +27,10 @@ The politicians did not unite, and the Nazis consolidated their grip
 on Weimar politics.
 Gumbel was forced to leave his Professorship at Heidelberg shortly
 afterwards, and moved to France, before eventually landing in the US
-in 1940, where he taught at Columbia.
+in 1940, where he taught at Columbia until his death in 1966.
 
-The 
+Gumbel's lectures were given under the auspices of the Applied
+Mathematics Division at the National Bureau of Standards.
+The extreme values he considers are rather different---though in some
+cases, comparably dangerous---to those he was resisting in Weimar
+Germany.
