@@ -47,7 +47,7 @@ We are used to thinking that observations are "very likely" to fall
 within some number of standard deviations of the mean, say three for the normal distribution.
 But if I make enough observations, I will almost certainly get extreme
 outliers!
-Put differently, if there is some small probability $p$ of being
+If there is some small probability $p$ of being
 outside $3\sigma$, then with $n \approx 1/p$ observations, I would
 expect to get such an outlier!
 
