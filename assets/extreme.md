@@ -53,13 +53,13 @@ outside $3\sigma$, then with $n \approx 1/p$ observations, I would
 expect to get such an outlier!
 
 My goal is to give a quick outline of some old ideas that were new to
-me and that I found useful.
-I'll start with some simple observations which expand on the $n
-\approx 1/p$ calculation, and compute (asymptotically) the expected
-largest sample for the normal distribution.
+me and that I found useful or cool.
+I'll start with some basic results, expanding on the $n
+\approx 1/p$ observation, and compute (asymptotically) the expected
+largest sample for a Gaussian.
 I'll then talk about an analogue of the central limit theorem for
-maxima, due variously to Fisher, Tippett and Gnedenko, and finally
-talk about some applications.
+maxima, due variously to Fisher, Tippett and Gnedenko, and end with
+applications.
 
 #### Exceedance and return
 
