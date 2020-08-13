@@ -52,8 +52,8 @@ Put differently, if there is some small probability $p$ of being
 outside $3\sigma$, then with $n \approx 1/p$ observations, I would
 expect to get such an outlier!
 
-My goal is to give a quick outline of some ideas that were new to
-me. They are not new, just cool.
+My goal is to give a quick outline of some old ideas that were new to
+me and that I found useful.
 I'll start with some simple observations which expand on the $n
 \approx 1/p$ calculation, and compute (asymptotically) the expected
 largest sample for the normal distribution.
