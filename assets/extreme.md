@@ -51,8 +51,8 @@ If there is some small probability $p$ of being
 outside $3\sigma$, then with $n \approx 1/p$ observations, I would
 expect to get such an outlier.
 
-My goal is to give a quick outline of some old ideas that were new to
-me and that I found useful or cool.
+My goal is to give a quick outline of these beautiful ideas, more or
+less as working notes for myself.
 I'll start with some basic results, expanding on the $n
 \approx 1/p$ observation, and compute (asymptotically) the expected
 largest sample for a Gaussian.
