@@ -9,7 +9,7 @@ date:  2020-08-13
 
 **August 13, 2020.** *A quick introduction to extreme values.*
 
-#### Extreme values in politics and probability
+#### Extreme values
 
 I recently stumbled onto the
 [beautiful lectures](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)
