@@ -45,8 +45,8 @@ This is related to a statistical error Gumbel calls the
 "three $\sigma$ fallacy" (and I suspect, the main reason the Bureau called him in).
 We are used to thinking that observations are "very likely" to fall
 within some number of standard deviations of the mean, say three for the normal distribution.
-But if I make *many* observations, the likelihood that I get extreme
-outliers will grow.
+But if I make enough observations, I will almost certainly get extreme
+outliers!
 Put differently, if there is some small probability $p$ of being
 outside $3\sigma$, then with $n \approx 1/p$ observations, I would
 expect to get such an outlier!
