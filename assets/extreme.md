@@ -14,8 +14,8 @@ date:  2020-08-13
 I recently stumbled onto the
 [beautiful lectures](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)
 of [Emil Gumbel](https://en.wikipedia.org/wiki/Emil_Julius_Gumbel) on
-the statistics of extreme values, an area of probability he helped
-found, along with R. A. Fisher and Leonard Tippett.
+the statistics of extreme values, an area he helped
+found along with R. A. Fisher and Leonard Tippett.
 Gumbel was not only a mathematician, but also a prominent anti-Nazi
 activist. In the 1920s, he documented political murders by the
 *Sturmabteilung*, the Nazi paramilitary wing, and was one of the 33
