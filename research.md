@@ -7,8 +7,7 @@ permalink: /research/
 I study quantum mechanics and gravity, with a particular focus on the
 AdS/CFT correspondence.
 At the moment, I'm interested in boundary conformal field theories,
-the black hole information problem, Euclidean wormholes, and
-statistical mechanics.
+black holes, quantum information and statistical mechanics.
 <!-- You can find papers and brief descriptions below, as well as assorted technical notes.-->
 
 <figure>

@@ -115,9 +115,9 @@ topics.
 <!-- From 2013--2017, I dropped a lot of math and physics at the University of
 Melbourne. -->
 
-<!-- - *An introduction to quantum computing* (2020, University of British
+- *An introduction to quantum computing* (2020, University of British
   Columbia). [Various assignments](assets/big-qc.pdf) for a graduate course
-  that may or may not happen. -->
+  that may or may not happen.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
   (2016, University of Melbourne). I created tutorials on
   [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
