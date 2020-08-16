@@ -8,7 +8,8 @@ permalink: /about/
 
 I'm David Wakeham, a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
-[University of British Columbia](https://www.ubc.ca/) (UBC) studying gravity, quantum information and black holes.
+[University of British Columbia](https://www.ubc.ca/) (UBC) studying
+conformal field theory, quantum information and black holes.
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david).
 
