@@ -27,14 +27,14 @@ zombies, science gone mad, and the psychology of time. Winner of the
 I also have a near-complete
 [chapbook]({{hapax.github.io}}/assets/fearful-spheres.pdf) kicking
 around, parts of which are published here and there.
-In a prior life I earned a philosophy degree, and still take language
+<!-- In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions:
 
 <!-- - *Language, cognition and alien math*
   [[1](https://hapax.github.io/philosophy/alien-maths-1/)] (2020,
   blog post). Is it possible to get inside the head of a bat?
   And what does this tell us about alien math? -->
-- [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
+<!-- - [*From solipsism to emergent time*](https://hapax.github.io/physics/philosophy/emergent-time/)
   (2020, blog post). Time is different from space. What
   would a good physical explanation of this fact look like?
 - [*The endless present*](https://hapax.github.io/philosophy/physics/psychology-time/)
