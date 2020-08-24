@@ -27,8 +27,9 @@ zombies, science gone mad, and the psychology of time. Winner of the
 I also have a near-complete
 [chapbook]({{hapax.github.io}}/assets/fearful-spheres.pdf) kicking
 around, parts of which are published here and there.
+
 <!-- In a prior life I earned a philosophy degree, and still take language
-on holiday from time to time. Some rambling discursions:
+on holiday from time to time. Some rambling discursions: -->
 
 <!-- - *Language, cognition and alien math*
   [[1](https://hapax.github.io/philosophy/alien-maths-1/)] (2020,
