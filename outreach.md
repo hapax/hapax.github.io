@@ -21,7 +21,7 @@ I list some of my teaching and outreach activities below.-->
 
 #### Chunky exposition
 
-- [*Why is a soap bubble like a railway?*](assets/steiner.pdf)
+- [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
   introduction to network planning and soap bubbles. Along the
   way, I also touch on complexity theory, physics, curvature,
