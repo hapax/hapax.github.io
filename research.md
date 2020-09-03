@@ -23,8 +23,6 @@ black holes, quantum information and statistical mechanics.
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
    [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). arXiv: 2009.00632.
-2. [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
-   (2020). DW. arXiv: 2008.09611.
 3. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
