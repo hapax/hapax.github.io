@@ -86,7 +86,7 @@ black holes, quantum information and statistical mechanics.
   involves some neat results from the theory of martingales.
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
   provers makes you a god, in the sense that they can quickly and reliably
-  convince you of "yes" answers to recursively enumerable problems, e.g. the Halting Problem. In turn,
+  convince you of "yes" answers to the Halting Problem. In turn,
   this tells us something deep about the nature of entanglement and
   operator algebras.
   Notes on [this (big) result](https://arxiv.org/abs/2001.04383) for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
