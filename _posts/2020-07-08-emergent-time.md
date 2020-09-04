@@ -257,7 +257,7 @@ perspective, would be to define physical laws which know nothing about
 time, on a mathematical space which knows nothing about time, and have
 time --- i.e. one-dimensional defects with highly constrained
 correlations --- emerge via spontaneously broken symmetry.
-Maybe Hawking and Hartle have the right idea.
+<!-- Maybe Hawking and Hartle have the right idea.-->
 But it's amusing that the collision between folk metaphysics and
 four-dimensionalism might, if approached with suitable humility, give us clues
 about fundamental theories of physics.
