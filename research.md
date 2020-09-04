@@ -80,6 +80,10 @@ black holes, quantum information and statistical mechanics.
 
 #### Technical notes
 
+- [*Maxwell's demon goes to Vegas*](assets/gambling-demons.pdf)
+  (2020). Can demons playing thermodynamic slot machines violate the
+  second law, i.e. make free energy for free? Yes! Showing this
+  involves some neat results from the theory of martingales.
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
   provers makes you a god, in the sense that they can quickly and reliably
   convince you of "yes" answers to, e.g. the Halting Problem. In turn,
