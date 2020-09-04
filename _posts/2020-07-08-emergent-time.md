@@ -149,7 +149,7 @@ The statistical mechanic says: *because entropy*.
 Roughly speaking, a system with many parts changes in an effectively
 random way, and it will tend towards the most likely outcomes,
 particularly when the odds for the unlikely outcomes are roughly one in $2^{10^{23}}$.
-The second law of thermodynamics states that these odds are
+The second law of thermodynamics states that such odds are
 well-approximated by zero.
 
 The claim is that the irreversible, macroscopic arrow of time arises
