@@ -17,13 +17,13 @@ date:  2020-07-08
 
 #### Linguistic relativism in brief
 
-<span style="padding-left: 20px; display:block">
+<!-- <span style="padding-left: 20px; display:block">
 We cut nature up, organize it into
 concepts, and ascribe significances as we do, largely because we are
 parties to an agreement to organize it in this way—an agreement that
 holds throughout our speech community and is codified in the patterns
 of our language.
-</span>
+</span> <div style="text-align: right"><i>Benjamin Whorf</i> </div>-->
 
 <!-- We dissect nature along lines laid down by our native language. The
 categories and types that we isolate from the world of phenomena we do
@@ -32,7 +32,11 @@ contrary, the world is presented in a kaleidoscope flux of impressions
 which has to be organized by our minds—and this means largely by the
 linguistic systems of our minds. -->
 
-<div style="text-align: right"><i>Benjamin Whorf</i> </div>
+<span style="padding-left: 20px; display:block">
+He who learns a new language, acquires a new soul.
+</span> <div style="text-align: right">
+
+<div style="text-align: right"><i>Czech proverb</i> </div>
 
 <span style="padding-left: 20px; display:block">
 If a lion could talk, we could not understand him.
@@ -102,7 +106,7 @@ It takes less bytes to say things, and lowers the cognitive
 burden of storage and manipulation, so both reasoning and
 communication are easier.
 
-But reference is only one aspect of language.
+Reference is only one aspect of language.
 <!-- Our brain, with its phylogenetic onion skin of drives of abilities, is
  fantastically elaborated in human culture. -->
 Our uniquely human drives and needs are expressed in *culture*.
@@ -124,7 +128,7 @@ related languages—even a single language—belong to distinct culture
 spheres.
 </span>
 
-Show me a culture without register, slang, or other forms of
+Sure. But show me a culture without register, slang, or other forms of
 sociolinguistic variance and local colour, and I will show you a sloppy lexicologist.
 
 Culture and language partially adapt and create each other,
