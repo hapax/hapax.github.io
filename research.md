@@ -91,7 +91,7 @@ black holes, quantum information and statistical mechanics.
   operator algebras.
   Notes on [this (big) result](https://arxiv.org/abs/2001.04383) for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
-  (2019). Surprisingly, throwing balls in a box can tell you about the
+  (2019). Surprisingly, throwing balls in a box constrains the
   lightest black holes in certain theories of quantum gravity. The
   connection is linear programming! Rough notes for a talk on [this paper](https://arxiv.org/abs/1905.01319).
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
