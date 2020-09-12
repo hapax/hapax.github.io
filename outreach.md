@@ -43,7 +43,8 @@ I list some of my teaching and outreach activities below.-->
   series for π) and applications (subliming spheres, self-similar
   spirals, and sandpiles). -->
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-(2019). An in-depth introduction to dimensional analysis, starring black hole thermodynamics.
+(2019). An in-depth introduction to dimensional analysis, fundamental
+constants, and black hole thermodynamics.
 
 #### Outreach
 
