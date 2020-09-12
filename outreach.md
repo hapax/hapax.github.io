@@ -37,7 +37,7 @@ I list some of my teaching and outreach activities below.-->
   bacterial genomics, running in the rain, asteroids, and molecular motion.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019, blog post). A manifesto controversially asserting that high
-  school math should be fun, useful and engaging.
+  school math should be fun, useful and engaging. Examples included.
   <!-- I illustrate with derivatives, giving both "pure math"
   highlights (including nowhere-differentiable functions and infinite
   series for π) and applications (subliming spheres, self-similar
