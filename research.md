@@ -19,11 +19,11 @@ black holes, quantum information and statistical mechanics.
 
 #### Papers
 
-1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
+<!-- 1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
-   [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). arXiv: 2009.00632.
-3. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
+   [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). arXiv: 2009.00632. -->
+2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
    David Wakeham. arXiv: 2004.13088.
@@ -35,7 +35,7 @@ black holes, quantum information and statistical mechanics.
    neat applications to looking inside black holes, proving some
    results of [4] and [5] microscopically. -->
 4. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
-   (2020). Jason Pollack,
+   (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
    David Wakeham. PRL, 125:021601. arXiv:
    [2002.02971](https://arxiv.org/pdf/2002.02971.pdf).
