@@ -17,7 +17,7 @@ black holes, quantum information and statistical mechanics.
 	</figure>
 
 
-#### Papers
+#### Selected papers
 
 <!-- 1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
