@@ -34,7 +34,7 @@ linguistic systems of our minds. -->
 
 <span style="padding-left: 20px; display:block">
 He who learns a new language, acquires a new soul.
-</span> <div style="text-align: right">
+</span>
 
 <div style="text-align: right"><i>Czech proverb</i> </div>
 
