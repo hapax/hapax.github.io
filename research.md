@@ -19,10 +19,10 @@ black holes, quantum information and statistical mechanics.
 
 #### Selected papers
 
-<!-- 1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
+ 1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
-   [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). arXiv: 2009.00632. -->
+   [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). arXiv: 2009.00632.
 2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
@@ -34,8 +34,8 @@ black holes, quantum information and statistical mechanics.
    know, stating conditions like this is a first. We also provide
    neat applications to looking inside black holes, proving some
    results of [4] and [5] microscopically. -->
-4. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
-   (2020). [Jason Pollack](https://www.phas.ubc.ca/~jpollack/),
+3. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
+   (2020). Jason Pollack,
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
    David Wakeham. PRL, 125:021601. arXiv:
    [2002.02971](https://arxiv.org/pdf/2002.02971.pdf).
@@ -43,7 +43,7 @@ black holes, quantum information and statistical mechanics.
    creates wormhole-like shortcuts between replicas of the
    theory. This applies to high energy states of a CFT and black
    holes, sure, but also your kettle or a molybdenum nucleus. -->
-5. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
+4. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
  Moshe Rozali, David
@@ -54,7 +54,7 @@ black holes, quantum information and statistical mechanics.
   in the CFT. We give a general recipe for learning bulk equations of
   motion from this compatibility requirement, and show the simplest
   version of AdS/BCFT obeys it. -->
-6. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
+5. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
   (2019). Moshe Rozali,
  James Sully,
  Mark Van Raamsdonk,
@@ -65,9 +65,8 @@ black holes, quantum information and statistical mechanics.
     AdS/(B)CFT, are dual to evaporating black holes. These configurations
     shed light (or rather Hawking radiation) on the black hole
     information problem. -->
-7. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
-  (2018). Sean Cooper,
-  Moshe Rozali,
+6. [*Black hole microstate cosmology*](https://link.springer.com/content/pdf/10.1007%2FJHEP07%282019%29065.pdf)
+  (2018). Sean Cooper, Moshe Rozali,
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
  Mark Van Raamsdonk,
   Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
