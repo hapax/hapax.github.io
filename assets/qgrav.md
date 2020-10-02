@@ -253,10 +253,10 @@ We'll finish with a brief survey of some sensible things you can ask.
 
 1. *Black holes.* Black holes are the guardians of the secrets of
 quantum gravity, appearing whenever we try to probe below the Planck
-scale. But they are also guides, providing generous albeit indirect
-clues, such as the [Bekenstein-Hawking entropy](http://www.scholarpedia.org/article/Bekenstein-Hawking_entropy).
-Understanding how they store and release information is one of the key
-questions in quantum gravity.
+scale. But they are also guides, providing generous (albeit indirect)
+clues such as the [Bekenstein-Hawking entropy](http://www.scholarpedia.org/article/Bekenstein-Hawking_entropy).
+In particular, understanding how they store and release information is
+one of the key questions in quantum gravity.
 2. *Non-local observables.* Even though local observables do not make
    sense when spacetime fluctuates, there are *non-local* observables
    that do.
