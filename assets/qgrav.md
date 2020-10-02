@@ -140,7 +140,7 @@ Now, what does this all mean?
 Very simply, if the resolution $\Delta x$ of our microscope is within
 the associated black hole radius, then our energy fluctuations will
 produce a tiny black hole!
-We won't see anything at all.
+We won't see anything at all this black hole at all.
 This happens when
 
 $$
@@ -148,8 +148,8 @@ $$
 \Longrightarrow \quad \Delta x \lesssim \ell_P.
 $$
 
-If we try to zoom in to the Planck scale, our microscope will create a
-black hole.
+In other words, we can't see below the Planck scale without making
+black holes.
 Clearly, microscopes this powerful should be kept away from theorists!
 
 #### No local observables
@@ -194,9 +194,10 @@ In the beautiful maxim of John Wheeler,
 *Spacetime tells matter how to move; matter tells spacetime how to curve.*
 </span>
 
-Sure, spacetime is made up of points. But the relation between those
-points --- the shape of space --- depends on what I choose to put there! I
-can’t
+Sure, spacetime is made up of points.
+But the relation between those points --- the shape of space ---
+depends on what I choose to put there!
+
 
 #### Strong coupling
 
