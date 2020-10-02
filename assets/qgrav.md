@@ -78,14 +78,14 @@ To see how light figures in Newton's law, we need to give it a mass.
 In classical physics, light is massless, but but we know better: Einstein's
 formula tells us that it has some *relativistic* mass related to its
 energy, $E = mc^2$.
-(If you're curious, the mass of a particle of light, the photon,
+[If you're curious, the mass of a particle of light, the photon,
 depends on its frequency $f$ via
 
 $$
 m = \frac{E}{c^2} = \frac{2\pi\hbar f}{c^2},
 $$
 
-now using another formula ($E = 2\pi \hbar f$) discovered by Einstein.)
+now using another formula ($E = 2\pi \hbar f$) discovered by Einstein.]
 Let's continue.
 For a black hole of mass $M$, and radius $r_s$, the force it exerts on
 a photon with mass-energy $m$ is
@@ -152,6 +152,8 @@ black hole.
 Clearly, microscopes this powerful should be kept away from theorists!
 
 #### What's the point?
+
+Maybe
 
 #### Strong coupling
 
