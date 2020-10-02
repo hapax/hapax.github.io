@@ -212,7 +212,7 @@ $$
 \mathbf{G} = \frac{8\pi G}{c^4}\mathbf{T}.
 $$
 
-Physicists have a hack for enforcing dependence only on the
+Physicists have a hack for enforcing this dependence only on the
 shape of things.
 Clearly, the label of the point $P$ will depend on my labelling
 system.
