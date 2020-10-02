@@ -24,7 +24,7 @@ The real problem is that Nature is secretive: it hides the details of
 quantum gravity inside black holes!
 Let's see why.
 
-#### Powerful microscopes make energy
+#### Microscopes make energy
 
 Suppose we have a microscope which has can resolve lengths $\Delta x$.
 Heisenberg's uncertainty principle says that the smaller this
@@ -105,7 +105,7 @@ $$
 Although we've been rather sloppy, this guess is correct up to a
 factor of $2$!
 So, if we take a mass $M$ and squish into a ball of radius $\lesssim
-r_s$, it will make a black hole.
+GM/c^2$, it will make a black hole.
 
 #### Microscopes make black holes
 
@@ -202,6 +202,16 @@ It doesn't make much sense to talk about stuff happening at a point
 $P$ itself.
 Rather, physically meaningful statements will involve the shape of
 space and matter in the vicinity of $P$.
+The shape of space is captured by an object $\mathbf{G}$ called the
+*Einstein tensor*, while the "shape" of matter is captured by an
+energy-like quantity called the *stress-energy tensor* $\mathbf{T}$.
+The governing equation of general relativity is the *Einstein field
+equation*,
+
+$$
+\mathbf{G} = \frac{8\pi G}{c^4}\mathbf{T}.
+$$
+
 Physicists have a hack for enforcing this.
 Clearly, the label of the point $P$ will depend on my labelling
 system.
@@ -247,7 +257,7 @@ $$
 \langle F \rangle = m\langle a \rangle.
 $$
 
-For completeness, 
+Is there an equivalent statement for gravity?
 The shape of space is given by some object $g(P)$ called the metric,
 while the matter floating around is specified by some functions
 $\phi(P)$, telling us how much is where.
