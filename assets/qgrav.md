@@ -287,8 +287,8 @@ keys to making progress in quantum gravity.
   fundamentally different.
   Alternatively, [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
    directly treats the shape of spacetime as a fuzzy quantum variable, like the position of the electron.
-  To make this manageable, the idea is to discretise spacetime into a
-    microscopic, graph-like fabric called a *spin
+  To make this manageable, you need to chop space up into a
+    microscopic, graph-like structure called a *spin
     networks*, whose edges are around a Planck-length long.
 	Look any closer, and you see nothing at all! This is a very
    different way the theory can fail to make sense below the Planck
