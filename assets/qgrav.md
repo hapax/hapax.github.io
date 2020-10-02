@@ -110,9 +110,9 @@ GM/c^2$, it will make a black hole.
 
 #### Microscopes make black holes
 
-Now, let's return to our microscope.
-In order to zoom in, Heisenberg's principle means it makes some energy
-fluctuations, and by $E = mc^2$ these fluctuations have mass.
+Let's return to our microscope.
+Zooming in makes energy fluctuations, and by $E = mc^2$ these
+fluctuations have mass.
 The associated black hole radius is
 
 $$
@@ -272,7 +272,7 @@ keys to making progress in quantum gravity.
    problem with microscopes. The formation of black holes is a
    picturesque way of saying that general relativity is *inconsistent*
    at high energies, and some new theory has to kick before we hit the
-   Planck length. The most promising candidate is *string theory*, which makes
+   Planck length. The most promising candidate is [*string theory*](https://en.wikipedia.org/wiki/String_theory), which makes
    the remarkable prediction that spacetime is build out of tiny,
    vibrating strings. If they have a length $\ell_s \gtrsim
    \ell_P$, our microscopes will see them before we start poking black
@@ -280,8 +280,16 @@ keys to making progress in quantum gravity.
    In this case, spacetime *emerges* from some very different looking
    theory, revealed at high energies, a phenomenon we call *emergent
    spacetime*.
-   But figuring out how to get our universe to emerge from string
-   theory remains a difficult open problem.
-4. *Small fluctuations.* You might wonder if there is anything to be gained
-
+   Although this is a consistent theory of quantum gravity, figuring
+   out how to get our universe to emerge from string theory remains a
+   difficult open problem.
+4. *Quantizing spacetime.* An alternative to string theory is to treat
+    the shape of spacetime itself as a fuzzy variable, like the position of the electron.
+	The most popular approach in this paradigm is
+    [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity).
+	In this case, the structure of spacetime is described by a
+    microscopic fabric of discrete, graph-like structures called *spin
+    networks*. Edges in these graphs are around a Planck-length
+    long. In
+	
 #### Further reading
