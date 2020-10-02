@@ -195,6 +195,11 @@ In the beautiful maxim of John Wheeler,
 *Spacetime tells matter how to move; matter tells spacetime how to curve.*
 </span>
 
+What does this imply about physics?
+There is no fixed arena!
+I can't independently talk about matter or space, only a sort of
+dynamic union of the two.
+
 Sure, spacetime is made up of points.
 But the relation between those points --- the shape of space ---
 depends on what I choose to put there!
