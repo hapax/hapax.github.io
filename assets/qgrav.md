@@ -216,31 +216,14 @@ So in fancy language, the constraint becomes
 *Physically meaninful statements are invariant under diffeomorphisms.*
 </span>
 
-
+I can't really ask about whether an electron appeared at $P$ because
+this question changes when I relabel $P$.
 
 #### What is quantum gravity even about?
 
 If I can't ask whether an electron appears at $P$, what questions can I ask?
 It depends who you talk to!
 In a sense, the questions you can ask depend on 
-
-#### Extra
-
-What does this imply about physics?
-Without a fixed arena, it becomes harder to say things.
-For instance, Newton's law says that two bodies at a distance $r$
-experience a certain attractive force.
-In spacetime, the distance $r$ depends on what I put there!
-Rather than talking about distance, which assumes a fixed arena,
-physics needs to be phrased in a way
-
-I can't independently talk about matter or space, only a sort of
-dynamic union of the two.
-
-Sure, spacetime is made up of points.
-But the relation between those points --- the shape of space ---
-depends on what I choose to put there!
-The only physically meaningful statement
 
 <!--- We can translate this dimensional argument into the language of -->
 <!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
