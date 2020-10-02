@@ -166,8 +166,7 @@ Or does it really?
 If my electron detector can tell what's happening at the point $P$
 itself, it's acting as a microscope with infinite resolution!
 Clearly, this is not consistent with the argument above.
-At best, I can expect to tell whether the electron appears in some
-region comparable to the Planck length.
+At best, I can look for electrons in regions larger than the Planck length.
 
 Instead of talking about black holes, we usually say that spacetime
 *breaks down* when we try to look too close.
