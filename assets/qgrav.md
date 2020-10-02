@@ -255,8 +255,8 @@ We'll finish with a brief survey of some sensible things you can ask.
 quantum gravity, appearing whenever we try to probe below the Planck
 scale. But they are also guides, providing generous (albeit indirect)
 clues such as the [Bekenstein-Hawking entropy](http://www.scholarpedia.org/article/Bekenstein-Hawking_entropy).
-In particular, understanding how they store and release information is
-one of the key questions in quantum gravity.
+Understanding how they store and release information is one of the
+keys to making progress in quantum gravity.
 2. *Non-local observables.* Even though local observables do not make
    sense when spacetime fluctuates, there are *non-local* observables
    that do.
