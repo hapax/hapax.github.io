@@ -258,13 +258,7 @@ $$
 \langle F \rangle = m\langle a \rangle.
 $$
 
-Is there an equivalent statement for gravity?
-The shape of space is given by some object $g(P)$ called the metric,
-while the matter floating around is specified by some functions
-$\phi(P)$, telling us how much is where.
-Note that both of these are functions of position $P$.
-The *curvature tensor* of space is given by some function
-$\mathbf{G}[g]$, which depends only on the metric, and the *energy-momentum tensor* $\mathbf{T}[\phi, g]$
+A reasonable seeming guess 
 
 <!--- We can translate this dimensional argument into the language of -->
 <!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
