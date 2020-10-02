@@ -104,7 +104,8 @@ $$
 r_s \sim \frac{GM}{c^2}.
 $$
 
-Although we've been rather sloppy, this guess is correct!
+Although we've been rather sloppy, this guess is correct up to a
+factor of $2$!
 So, if we take a mass $M$ and squish into a ball of radius $\lesssim
 r_s$, it will make a black hole.
 
