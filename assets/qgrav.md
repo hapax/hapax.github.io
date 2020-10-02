@@ -14,13 +14,12 @@ date:  2020-10-02
 #### Introduction
 
 Gravity is a theory of heavy things; quantum mechanics is a theory of
-small, fuzzy things; *quantum gravity* applies to things which are
-both heavy and fuzzy.
+fuzzy things; *quantum gravity* applies to things which are both heavy and fuzzy.
 People often say that the two theories are "incompatible" because
-they use different mathematics.
-This is a tad misleading.
-The real problem is that Nature is secretive: it hides the details of
-quantum gravity inside black holes!
+they use different mathematical frameworks.
+This makes it seem like a technical problem, which is misleading.
+The real problem is that the details of quantum gravity are hidden
+inside black holes!
 Let's see why.
 
 #### Microscopes make energy
@@ -253,6 +252,9 @@ First of all, black holes seem to appearing all over the place, so
 understanding how they hide and release information is essential to
 making progress on quantum gravity.
 This is not just a problem for small black holes.
-The quantum-mechanical aspects of large black holes (formed from
-collapsed stars) are still largely mysterious, though progress is
+Many quantum-mechanical aspects of large black holes (formed from
+collapsed stars) remain mysterious, though progress is
 being made.
+Clearly, though, if we can 
+
+#### Further reading
