@@ -9,10 +9,10 @@ date:  2020-10-02
 
 **October 2, 2020.** *People often say that quantum gravity is hard
   because quantum mechanics and gravity are incompatible. I'll give a
-  short, relatively non-technical explanation of the real problem: the
-  secrets of quantum gravity are guarded by black holes. This implies
-  various other statements involving local observables and
-  diffeomorphism invariance, which we briefly outline.*
+  short, relatively non-technical explanation of the real problem:
+  powerful microscopes make black holes. This is related to various
+  other statements, such as diffeomorphism invariance and the
+  impossibility of local observables, which we briefly sketch.*
 
 #### Introduction
 
@@ -274,7 +274,7 @@ one of the key questions in quantum gravity.
    at high energies, and some new theory has to kick before we hit the
    Planck length. The most promising candidate is *string theory*, which makes
    the remarkable prediction that spacetime is build out of tiny,
-   vibrating strings. They have a length $\ell_s \gtrsim \ell_P$, so
+   vibrating strings. They should have a length $\ell_s \gtrsim \ell_P$, so
    we expect to see them before we start poking tiny black holes in
    spacetime with our microscope.
 
