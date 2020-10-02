@@ -281,6 +281,7 @@ keys to making progress in quantum gravity.
    theory, revealed at high energies, a phenomenon we call *emergent
    spacetime*.
    But figuring out how to get our universe to emerge from string
-   theory remains a very difficult open problem.
+   theory remains a difficult open problem.
+4. *Small fluctuations.* You might wonder if there is anything to be gained
 
 #### Further reading
