@@ -285,9 +285,10 @@ keys to making progress in quantum gravity.
 4. *Fuzzy shapes.* In emergent theories, our familiar macroscopic
   universe only appears as we zoom out from something that looks
   fundamentally different.
-  Alternatively, [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
-   directly treats the shape of spacetime as a fuzzy quantum variable, like the position of the electron.
-  To make this mathematically manageable, you need to divide space into a
+  An alternative pursued by [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
+   is to directly treat the shape of spacetime as a fuzzy variable,
+  like the position of an electron.
+  To make this manageable, you need to divide space into a
     discrete, graph-like structure called a *spin
     networks*, whose edges are around a Planck-length long.
 	Look any closer, and you see nothing at all! This is a very
