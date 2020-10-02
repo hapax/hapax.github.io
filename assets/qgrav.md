@@ -110,6 +110,8 @@ Although we've been rather sloppy, this guess is correct!
 So, if we take a mass $M$ and squish into a ball of radius $\lesssim
 r_s$, it will make a black hole.
 
+#### Microscopes make black holes
+
 Now, let's return to our microscope.
 In order to zoom in, Heisenberg's principle means it makes some energy
 fluctuations, and by $E = mc^2$ these fluctuations have mass.
@@ -122,17 +124,33 @@ $$
 It may seem sketchy to replace $E$ with $\Delta E$, but if the energy
 of particles has fluctuations of size $\Delta E$ around $E = 0$, some
 of them will have energy $E$.
-Now, we can clean up the last expression:
+We can clean up this expression by packaging all these constants into
+a single object called the *Planck length*:
 
 $$
-r_s \sim \frac{G\hbar}{\Delta x \cdot c^3} = \frac{\ell_P^2}{\Delta
-x}, \quad \ell_P := \sqrt{\frac{G\hbar}{c^3}}.
+\ell_P := \sqrt{\frac{G\hbar}{c^3}}.
 $$
 
-The length $\ell_P$ is called the *Planck length*.
-If $\Delta x \lesssim \ell_P$, then $r_S \gtrsim \Delta x$.
-In other words, if we try to probe below the Planck scale, our microscope will
-create a black hole.
+Then the associated black hole radius for our microscope is
+
+$$
+r_s \sim \frac{\ell_P^2}{\Delta x}.
+$$
+
+Now, what does this all mean?
+Very simply, if the resolution $\Delta x$ of our microscope is within
+the associated black hole radius, then our energy fluctuations will
+produce a tiny black hole!
+We won't see anything at all.
+This happens when
+
+$$
+\Deltax \lesssim r_s \sim \frac{\ell_P^2}{\Delta x} \quad
+\Longrightarrow \quad \Delta x \lesssim \ell_P.
+$$
+
+If we try to zoom in to the Planck scale, our microscope will create a
+black hole.
 Clearly, microscopes this powerful should be kept away from theorists!
 
 #### What's the point?
