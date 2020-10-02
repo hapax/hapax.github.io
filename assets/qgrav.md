@@ -15,21 +15,46 @@ date:  2020-10-02
 
 #### Introduction
 
-Heavy things are governed by gravity, and small things are governed by
-quantum mechanics.
-Quantum gravity is the theory of things which are both small, heavy things, like the Big
-Bang and black holes.
-Unfortuntely, small heavy things are secretive.
-Not only are the mathematical obstacles to combining gravity and
-quantum mechanics formidable, but for fundamental reasons, nature
-obscures the workings of quantum gravity with black holes.
+Gravity is a theory of heavy things.
+Quantum mechanics is a theory of small, fuzzy things.
+*Quantum gravity* is a theory of things which are both small and
+heavy, i.e. dense, like black holes or the Big Bang.
+Often, people say that the two theories are "incompatible" because
+they use different mathematics.
+This is a tad misleading.
+The real problem is that Nature is secretive: it hides the details of
+quantum gravity inside black holes!
+Let's see why.
 
 #### Microscopes make black holes
 
-The reason is simple.
-Suppose we have a microscope which probes some length scale $\Delta x$.
-By Heisenberg's uncertainty principle $\Delta x\Delta p \sim \hbar$
-and de Broglie's relation $E = pc$, this corresponds to an energy scale
+Suppose we have a microscope which has can resolve lengths $\Delta x$.
+Heisenberg's uncertainty principle says that the smaller this
+resolution, the larger the uncertainty about the momentum of things we
+measure, with
+
+$$
+\Delta p \gtrsim \frac{\hbar}{\Delta x}
+$$
+
+for Planck's constant $\hbar \approx 10^{-34} \text{ J/s}$.
+We can relate this to the energy of the particles using Einstein's
+famous formula $E = mc^2$.
+In fact, we will write it in the much less well-known form
+
+$$
+E^2 = m^2c^4 = p^2c^2 + m_0^2 c^4,
+$$
+
+where $m_0$ is the mass of the particle at rest and $m$ is the
+*relativistic mass*, which increases when it picks up kinetic energy.
+When the particle is moving very quickly, the momentum can be much
+larger than the rest mass energy, and $p \approx E/c$.
+If we measure very small distances, Heisenberg's principle tells us we
+will be smacking around particles at very high momenta, so this is the
+form we should use.
+Thus, the uncertainty in the energy of particles our microscope is
+examining is
 
 $$
 \Delta E \sim \frac{\hbar c}{\Delta x}\;.
