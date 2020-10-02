@@ -179,10 +179,13 @@ This conclusion is so important we put it in a quote box:
 *In quantum gravity, there are no local observables.*
 </span> 
 
-#### Diffeomorphism invariance
-
 In fact, this conclusion is already suggested by Einstein's
 *classical* theory of gravity, general relativity.
+Without going into details, we can briefly explain why, and some of
+the fancy words physicists use to dress up the idea.
+
+#### Diffeomorphism invariance
+
 In Newtonian gravity, spacetime is a sort of fixed arena where objects
 float around and exert forces on each other. In this picture, gravity
 is just another force.
@@ -213,7 +216,7 @@ by "diffeomorphism", and "does not depend on" by "invariance".
 So in fancy language, the constraint becomes
 
 <span align="center" style="padding-left: 20px; display:block">
-*Physically meaninful statements are invariant under diffeomorphisms.*
+*Physically meaningful statements are invariant under diffeomorphisms.*
 </span>
 
 I can't really ask about whether an electron appeared at $P$ because
