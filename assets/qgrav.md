@@ -277,15 +277,13 @@ keys to making progress in quantum gravity.
    vibrating strings. If they have a length $\ell_s \gtrsim
    \ell_P$, our microscopes will see them before we start making black
    holes.
-   In this case, spacetime *emerges* from some very different looking
-   theory, revealed at high energies, a phenomenon we call *emergent
-   spacetime*.
+   When spacetime materializes from some very different looking
+   theory at high energies, we say it is *emergent.*
 <!--   Although this is a consistent theory of quantum gravity, figuring
    out how to get our universe to emerge from string theory remains a
    difficult open problem. -->
-4. *Fuzzy shapes.* In string theory and other emergent theories, the familiar
-   contours of spacetime appear as we zoom out from something that
-   looks fundamentally different; it is a forest emerging from the trees.
+4. *Fuzzy shapes.* In emergent theories, spacetime is a forest
+  emerging from radically different-looking trees.
   Alternatively, [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
    directly treats the shape of spacetime as a fuzzy quantum variable, like the position of the electron.
   To make this manageable, the idea is to discretise spacetime into a
@@ -295,6 +293,7 @@ keys to making progress in quantum gravity.
    different way the theory can fail to make sense below the Planck
    scale.
 
-I've sketched a few different 
+I've sketched a few different questions one can ask in quantum
+gravity. Hopefully that's enought to whet your appetite!
 
 #### Further reading
