@@ -283,15 +283,18 @@ keys to making progress in quantum gravity.
    Although this is a consistent theory of quantum gravity, figuring
    out how to get our universe to emerge from string theory remains a
    difficult open problem.
-4. *Loops.* An alternative to string theory is to treat
-    the shape of spacetime itself as a fuzzy variable, like the position of the electron.
-	The most popular approach in this paradigm is
-    [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity).
-	In this case, the structure of spacetime is described by a
-    microscopic fabric of discrete, graph-like structures called *spin
-    networks*. Edges in the network are around a Planck-length
-    long. Look any closer, and you see nothing at all! This is a
-    different way that the theory can fail to make sense below the
-    Planck scale.
-	
+4. *Loops.* In string theory and other emergent theories, the familiar
+   contours of spacetime appear as we zoom out from something that
+   looks fundamentally different; it is a forest emerging from the trees.
+  Alternatively, [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
+   directly treats the shape of spacetime as a fuzzy quantum variable, like the position of the electron.
+  To make this manageable, the idea is to discretise spacetime into a
+    microscopic, graph-like fabric called a *spin
+    networks*, whose edges are around a Planck-length long.
+	Look any closer, and you see nothing at all! This is a very
+   different way the theory can fail to make sense below the Planck
+   scale.
+
+There
+
 #### Further reading
