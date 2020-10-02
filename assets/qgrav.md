@@ -179,8 +179,6 @@ This conclusion is so important we put it in a quote box:
 *In quantum gravity, there are no local observables.*
 </span> 
 
-#### No local observables
-
 In fact, this conclusion is already suggested by Einstein's
 *classical* theory of gravity, general relativity.
 In Newtonian gravity, spacetime is a sort of fixed arena where objects
@@ -194,6 +192,19 @@ In the beautiful maxim of John Wheeler,
 <span align="center" style="padding-left: 20px; display:block">
 *Spacetime tells matter how to move; matter tells spacetime how to curve.*
 </span>
+
+It doesn't make much sense to talk about stuff happening at a point
+$P$ itself.
+Rather, physically meaningful statements will involve the shape of
+space in the vicinity of $P$.
+
+#### What is quantum gravity even about?
+
+If I can't ask whether an electron appears at $P$, what questions can I ask?
+It depends who you talk to!
+In a sense, the questions you can ask depend on 
+
+#### Extra
 
 What does this imply about physics?
 Without a fixed arena, it becomes harder to say things.
