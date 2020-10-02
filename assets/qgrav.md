@@ -277,9 +277,7 @@ keys to making progress in quantum gravity.
    vibrating strings. If they have a length $\ell_s \gtrsim
    \ell_P$, our microscopes will see them before we start poking black
    holes in spacetime.
-4. *Perturbative quantum gravity.* In general, there is no
-   fixed spacetime arena. But we can imagine taking a classical solution
-   to Einstein's equations $\mathbf{G} = 8\pi G\mathbf{T}/c^4$, and
-   zoom out enough that spacetime fluctuations are small.
+   In this case, spacetime *emerges* from some very different looking
+   theory, revealed at high energies, a phenomenon we call *emergent spacetime*.
 
 #### Further reading
