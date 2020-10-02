@@ -9,7 +9,8 @@ date:  2020-10-02
 
 **October 2, 2020.** *People often say that quantum gravity is hard
   because quantum mechanics and gravity are incompatible. I'll give a
-  short, relatively non-technical explanation of the real problem: spacetime breaks down when we look too close!*
+  short, relatively non-technical explanation of the real problem: the
+  secrets of quantum gravity are guarded by black holes.*
 
 #### Introduction
 
@@ -248,11 +249,10 @@ relativity under relabelling points.
 But if spacetime itself is fluctuating, what is quantum gravity even about?
 We'll finish with a brief survey of some sensible things you can ask.
 
-1. *Black holes.* Black holes seem to appearing all over the place, so
-understanding how they hide and release information is essential to
-making progress on quantum gravity. This is not just a problem for
-small black holes. Many quantum-mechanical aspects of large black
-holes (formed from collapsed stars) remain mysterious, though progress
-is being made. Clearly, though, if we can 
+1. *Black holes.* Black holes are the guardians of the secrets of
+quantum gravity, appearing whenever we try to probe below the Planck scale.
+Understanding how they hide and possibly release information is hugely
+important. There is in fact a suite of results suggesting that black
+holes act like very special quantum computers,
 
 #### Further reading
