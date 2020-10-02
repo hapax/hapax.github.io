@@ -155,6 +155,28 @@ Clearly, microscopes this powerful should be kept away from theorists!
 
 So, the basic difficulty with quantum gravity is that zooming in makes
 black holes.
+This problem appears in many different guises.
+For instance, suppose I want to make statements about what is
+happening at a *point* $X$ in spacetime, e.g. an electron has some
+probability of being observed there.
+So, I wait around with my electron detector to see if the electron
+appears at $P$, and in due course, it does.
+Or does it really?
+If my electron detector can tell what's happening at the point $P$
+itself, it's acting as a microscope with infinite resolution!
+Clearly, this is not consistent with the argument above.
+At best, I can expect to tell whether the electron appears in some
+region comparable to the Planck length.
+
+Instead of talking about black holes, we usually say that spacetime
+*breaks down* when we try to look too close.
+For this reason, it doesn't make sense to talk about what is
+happening at a point in spacetime.
+The electron detector is an example of something called a *local
+observable*: it is defined at a point (local) and makes a
+quantum-mechanical measurement (observable).
+We've just argued that, in quantum gravity, *there are no local
+observables*.
 
 #### Strong coupling
 
