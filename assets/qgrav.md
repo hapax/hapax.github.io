@@ -212,8 +212,13 @@ $$
 \mathbf{G} = \frac{8\pi G}{c^4}\mathbf{T}.
 $$
 
-Physicists have a hack for enforcing this dependence only on the
-shape of things.
+Spacetime curves on the left; matter moves on the right; the equality
+sign means they are giving each other instructions.
+
+This is not the only equation you can write down, and indeed there are
+many ways to generalize Einstein's equation. But all generalizations
+should only depend on the shape of things.
+Physicists have a nice hack for enforcing this shape-only dependence.
 Clearly, the label of the point $P$ will depend on my labelling
 system.
 But however I choose to label $P$ (and the surrounding points), the
@@ -235,38 +240,20 @@ Like I said above, there is no quantum mechanics here.
 Once we add quantum mechanics, Nature itself enforces invariance under
 diffeomorphisms by shrouding ill-formed questions with black holes.
 
-#### What is quantum gravity even about? (Advanced)
+#### What is quantum gravity even about?
 
 The moral is that, in quantum gravity, spacetime fluctuates.
 If I zoom in enough, these fluctuations are violent enough to form
 black holes, so there are no local observables.
 This is also suggested by the *classical* invariance of general
 relativity under relabelling points.
-But if spacetime itself is fluctuating, what questions can I ask?
+But if spacetime itself is fluctuating, what is quantum gravity even about?
+We'll finish with a brief survey of some sensible things you can ask.
 
-To get a feeling for this, let's think about a (hopefully) familiar
-example, Newtons second law $F = ma$.
-If I have a *quantum-mechanical* particle, then measurements of the
-position $x$ and momentum can $p$ fluctuate.
-But I can still take *averages* over where I expect it to be, which we
-denote by $\langle x\rangle$.
-If I do this, I find that Newton's second law still holds for
-averages!
-This is called *Ehrenfest's theorem*:
-
-$$
-\langle F \rangle = m\langle a \rangle.
-$$
-
-A reasonable seeming guess 
-
-<!--- We can translate this dimensional argument into the language of -->
-<!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
-<!--is a \emph{dimensionful} coupling constant for gravity, with mass -->
-<!--dimension $[G] = -2$. Perturbation theory is controlled by the -->
-<!--effective *dimensionless* coupling constant appearing at energy -->
-<!--$E$, roughly $g(E) = GE^{2}$. This leads to a strongly coupled -->
-<!--theory when $g \sim 1$, or $E \sim --> 
-<!--\sqrt{\frac{1}{G}} \sim E_P\;,$ where $E_P = \sqrt{1/G}$ is the Planck energy.
-At the Planck energy, when we expect quantum effects to become
-important, the theory becomes strongly coupled! --->
+First of all, black holes seem to appearing all over the place, so
+understanding how they hide and release information is essential to
+making progress on quantum gravity.
+This is not just a problem for small black holes.
+The quantum-mechanical aspects of large black holes (formed from
+collapsed stars) are still largely mysterious, though progress is
+being made.
