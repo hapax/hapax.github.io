@@ -177,7 +177,7 @@ observable*: it is defined at a point (local) and makes a
 quantum-mechanical measurement (observable).
 This conclusion is so important we put it in a quote box:
 
-<span align="center" style="padding-left: 20px; display:block">
+<span align="center"; display:block">
 *In quantum gravity, there are no local observables.*
 </span> 
 
@@ -190,7 +190,7 @@ at all! Rather, *gravity is the shape of space*.
 Conversely, *space is shaped by matter.*
 In the immortal words of John Wheeler:
 
-<span style="padding-left: 20px; display:block">
+<span align="center"; display:block">
 *Spacetime tells matter how to move; matter tells spacetime how to curve.*
 </span>
 
