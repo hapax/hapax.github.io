@@ -179,6 +179,8 @@ This conclusion is so important we put it in a quote box:
 *In quantum gravity, there are no local observables.*
 </span> 
 
+#### Diffeomorphism invariance
+
 In fact, this conclusion is already suggested by Einstein's
 *classical* theory of gravity, general relativity.
 In Newtonian gravity, spacetime is a sort of fixed arena where objects
@@ -197,6 +199,24 @@ It doesn't make much sense to talk about stuff happening at a point
 $P$ itself.
 Rather, physically meaningful statements will involve the shape of
 space in the vicinity of $P$.
+
+Physicists have a hack for enforcing this.
+Clearly, the label of the point $P$ will depend on my labelling
+system.
+But however I choose to label $P$ (and the surrounding points), the
+shape of space doesn't change.
+A sphere is still a sphere, even if I label points using days of the
+week!
+Thus, physically meaningful statements do not depend on how we label points.
+Physicists like fancy terminology, and "relabelling points" often goes
+by "diffeomorphism", and "does not depend on" by "invariance".
+So in fancy language, the constraint becomes
+
+<span align="center" style="padding-left: 20px; display:block">
+*Physically meaninful statements are invariant under diffeomorphisms.*
+</span>
+
+
 
 #### What is quantum gravity even about?
 
