@@ -215,9 +215,9 @@ $$
 
 Spacetime curves on the left; matter moves on the right; the equality
 sign means they are giving each other instructions.
-This is not the only equation you can write down, and indeed there are
-many ways to generalize Einstein's equation. But all generalizations
-should only depend on the shape of things.
+This is not the only theory of gravity you can write down, and indeed, there are
+many ways to generalize Einstein's equation. But they should obey
+Einstein's insight that gravitational physics only depends on the shape of things.
 
 Physicists have a nice hack for enforcing this shape-only dependence.
 Clearly, the label of the point $P$ will depend on my labelling
