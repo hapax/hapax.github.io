@@ -151,7 +151,7 @@ If we try to zoom in to the Planck scale, our microscope will create a
 black hole.
 Clearly, microscopes this powerful should be kept away from theorists!
 
-#### What's the point?
+#### No local observables
 
 So, the basic difficulty with quantum gravity is that zooming in makes
 black holes.
@@ -177,6 +177,22 @@ observable*: it is defined at a point (local) and makes a
 quantum-mechanical measurement (observable).
 We've just argued that, in quantum gravity, *there are no local
 observables*.
+
+There is another way of arriving at this conclusion, involving
+Einstein's theory of *general relativity*.
+In Newtonian gravity, spacetime is a sort of fixed arena where objects
+float around and exert forces on each other.
+Gravity is a force just like electromagnetism or friction.
+Einstein had the profound realization that gravity is not a real force
+at all. Rather, *gravity is the shape of space*.
+Conversely, *space is shaped by matter.*
+In the immortal words of John Wheeler:
+
+<span style="padding-left: 20px; display:block">
+Spacetime tells matter how to move and matter tells spacetime how to curve.
+</span>
+
+So, 
 
 #### Strong coupling
 
