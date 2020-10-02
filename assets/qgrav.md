@@ -221,6 +221,9 @@ So in fancy language, the constraint becomes
 
 I can't really ask about whether an electron appeared at $P$ because
 this question depends on how I label $P$.
+Like I said above, there is no quantum mechanics here.
+Once we add quantum mechanics, Nature itself enforces invariance under
+diffeomorphisms by swallowing bad questions with black holes.
 
 #### What is quantum gravity even about?
 
