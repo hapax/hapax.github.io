@@ -153,7 +153,8 @@ Clearly, microscopes this powerful should be kept away from theorists!
 
 #### What's the point?
 
-Maybe
+So, the basic difficulty with quantum gravity is that zooming in makes
+black holes.
 
 #### Strong coupling
 
