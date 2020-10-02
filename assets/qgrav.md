@@ -274,8 +274,12 @@ keys to making progress in quantum gravity.
    at high energies, and some new theory has to kick before we hit the
    Planck length. The most promising candidate is *string theory*, which makes
    the remarkable prediction that spacetime is build out of tiny,
-   vibrating strings. They should have a length $\ell_s \gtrsim \ell_P$, so
-   we expect to see them before we start poking tiny black holes in
-   spacetime with our microscope.
+   vibrating strings. If they have a length $\ell_s \gtrsim
+   \ell_P$, our microscopes will see them before we start poking black
+   holes in spacetime.
+4. *Perturbative quantum gravity.* Although, in general, there is no
+   fixed spacetime arena, we can imagine taking a classical solution
+   to Einstein's equations $\mathbf{G} = 8\pi G c^{-4}\mathbf{T}$ and
+   then putting *weak*
 
 #### Further reading
