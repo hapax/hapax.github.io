@@ -280,9 +280,9 @@ keys to making progress in quantum gravity.
    In this case, spacetime *emerges* from some very different looking
    theory, revealed at high energies, a phenomenon we call *emergent
    spacetime*.
-   Although this is a consistent theory of quantum gravity, figuring
+<!--   Although this is a consistent theory of quantum gravity, figuring
    out how to get our universe to emerge from string theory remains a
-   difficult open problem.
+   difficult open problem. -->
 4. *Loops.* In string theory and other emergent theories, the familiar
    contours of spacetime appear as we zoom out from something that
    looks fundamentally different; it is a forest emerging from the trees.
