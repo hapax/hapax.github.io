@@ -194,8 +194,9 @@ In the beautiful maxim of John Wheeler,
 *Spacetime tells matter how to move; matter tells spacetime how to curve.*
 </span>
 
-Since space and matter determine each other, it is hopeless to expect
-we can specify one, and 
+Sure, spacetime is made up of points. But the relation between those
+points --- the shape of space --- depends on what I choose to put there! I
+can’t
 
 #### Strong coupling
 
