@@ -289,7 +289,9 @@ keys to making progress in quantum gravity.
     [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity).
 	In this case, the structure of spacetime is described by a
     microscopic fabric of discrete, graph-like structures called *spin
-    networks*. Edges in these graphs are around a Planck-length
-    long. If you look any closer, you see nothing!
+    networks*. Edges in the network are around a Planck-length
+    long. Look any closer, and you see nothing at all! This is a
+    different way that the theory can fail to make sense below the
+    Planck scale.
 	
 #### Further reading
