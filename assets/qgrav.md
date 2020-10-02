@@ -9,17 +9,15 @@ date:  2020-10-02
 
 **October 2, 2020.** *People often say that quantum gravity is hard
   because quantum mechanics and gravity are incompatible. I'll give a
-  short, relatively non-technical explanation of why is false, what the real
-  problem is (spacetime breaks down when we look too close), and some
-  methods for fixing it.*
+  short, relatively non-technical explanation of the real problem ---
+  spacetime breaks down when we look too close.*
 
 #### Introduction
 
-Gravity is a theory of heavy things.
-Quantum mechanics is a theory of small, fuzzy things.
-*Quantum gravity* is a theory of things which are both small and
-heavy, i.e. dense, like black holes or the Big Bang.
-Often, people say that the two theories are "incompatible" because
+Gravity is a theory of heavy things; quantum mechanics is a theory of
+small, fuzzy things; *quantum gravity* applies to things which are
+both heavy and fuzzy.
+People often say that the two theories are "incompatible" because
 they use different mathematics.
 This is a tad misleading.
 The real problem is that Nature is secretive: it hides the details of
@@ -181,6 +179,8 @@ This conclusion is so important we put it in a quote box:
 *In quantum gravity, there are no local observables.*
 </span> 
 
+#### No local observables
+
 In fact, this conclusion is already suggested by Einstein's
 *classical* theory of gravity, general relativity.
 In Newtonian gravity, spacetime is a sort of fixed arena where objects
@@ -196,6 +196,12 @@ In the beautiful maxim of John Wheeler,
 </span>
 
 What does this imply about physics?
+Without a fixed arena, it becomes harder to say things.
+For instance, Newton's law says that two bodies at a distance $r$
+experience a certain attractive force.
+In spacetime, the distance $r$ depends on what I put there!
+Rather than talking about distance, which assumes a fixed arena,
+physics needs to be phrased in a way
 
 I can't independently talk about matter or space, only a sort of
 dynamic union of the two.
