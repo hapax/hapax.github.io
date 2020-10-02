@@ -258,6 +258,14 @@ clues, such as the [Bekenstein-Hawking entropy](http://www.scholarpedia.org/arti
 Understanding how they store and release information is one of the key
 questions in quantum gravity.
 2. *Non-local observables.* Even though local observables do not make
-   sense, there are *non-local* observables that 
+   sense when spacetime fluctuates, there are *non-local* observables
+   that do.
+   The basic idea is that certain spacetimes have parts which don't
+   fluctuate, since it would take too much energy to wobble them.
+   We can imagine sitting in this non-fluctuating part with a fishing
+   rod with electron-detector lure, which I dangle near the point
+   $P$. The end of the fishing rod will fluctuate in position, but
+   because I sit somewhere stable, the whole procedure is well-defined.
+3. *Emergent spacetime.* 
 
 #### Further reading
