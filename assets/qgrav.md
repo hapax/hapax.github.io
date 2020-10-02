@@ -196,7 +196,7 @@ In the beautiful maxim of John Wheeler,
 </span>
 
 What does this imply about physics?
-There is no fixed arena!
+
 I can't independently talk about matter or space, only a sort of
 dynamic union of the two.
 
@@ -205,22 +205,13 @@ But the relation between those points --- the shape of space ---
 depends on what I choose to put there!
 The only physically meaningful statement
 
-#### Strong coupling
-
-We can translate this dimensional argument into the language of
-quantum field theory.
-Set $\hbar = c = 1$.
-Newton's constant $G$ is a \emph{dimensionful} coupling constant for gravity, with mass
-dimension $[G] = -2$.
-Perturbation theory is controlled by the effective
-*dimensionless* coupling constant appearing at energy $E$,
-roughly $g(E) = GE^{2}$.
-This leads to a strongly coupled theory when $g \sim 1$, or
-
-$$
-E \sim \sqrt{\frac{1}{G}} \sim E_P\;,
-$$
-
-where $E_P = \sqrt{1/G}$ is the Planck energy.
+<!--- We can translate this dimensional argument into the language of -->
+<!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
+<!--is a \emph{dimensionful} coupling constant for gravity, with mass -->
+<!--dimension $[G] = -2$. Perturbation theory is controlled by the -->
+<!--effective *dimensionless* coupling constant appearing at energy -->
+<!--$E$, roughly $g(E) = GE^{2}$. This leads to a strongly coupled -->
+<!--theory when $g \sim 1$, or $E \sim --> 
+<!--\sqrt{\frac{1}{G}} \sim E_P\;,$ where $E_P = \sqrt{1/G}$ is the Planck energy.
 At the Planck energy, when we expect quantum effects to become
-important, the theory becomes strongly coupled!
+important, the theory becomes strongly coupled! --->
