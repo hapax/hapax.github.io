@@ -220,7 +220,7 @@ So in fancy language, the constraint becomes
 </span>
 
 I can't really ask about whether an electron appeared at $P$ because
-this question changes when I relabel $P$.
+this question depends on how I label $P$.
 
 #### What is quantum gravity even about?
 
