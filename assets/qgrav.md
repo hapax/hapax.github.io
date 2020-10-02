@@ -48,7 +48,7 @@ $$
 
 where $m_0$ is the mass of the particle at rest, $c = 3 \times 10^8
 \text{ m/s}$ is the speed of light, and $m$ is the *relativistic
-mass*, which increases when it picks up kinetic energy.
+mass*, which increases (without limit) as the particle speeds up.
 When the particle is moving very quickly, the momentum can be much
 larger than the rest mass energy, and $p \approx E/c$.
 If we measure very small distances, Heisenberg's principle tells us we
