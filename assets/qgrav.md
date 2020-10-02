@@ -265,7 +265,10 @@ questions in quantum gravity.
    We can imagine sitting in this non-fluctuating part with a fishing
    rod with electron-detector lure, which I dangle near the point
    $P$. The end of the fishing rod will fluctuate in position, but
-   because I sit somewhere stable, the whole procedure is well-defined.
+   because I sit somewhere stable, the whole procedure is
+   well-defined.
+   (There are other non-local observables. These fishing-rod
+   measurements are called *dressed observables* in the literature.)
 3. *Emergent spacetime.* 
 
 #### Further reading
