@@ -260,13 +260,13 @@ keys to making progress in quantum gravity.
 2. *Non-local observables.* Even though local observables do not make
    sense when spacetime fluctuates, there are *non-local* observables
    that do.
-   The basic idea is that certain spacetimes have parts which don't
-   fluctuate, since it would take too much energy to wobble them.
-   We can imagine sitting in this non-fluctuating part with a fishing
-   rod with electron-detector lure, which I dangle near the point
-   $P$. The end of the fishing rod will fluctuate in position, but
-   because I sit somewhere stable, the whole procedure is
-   well-defined.
+   The basic idea is that certain spacetimes have regions which are
+   protected from fluctuation, since it would take too much energy to
+   wobble them.
+   Sitting in this non-fluctuating part, we can attach an
+   electron-detector lure to a fishing rod, and dangle it near the point
+   $P$. The lure will fluctuate in position, but because I sit
+   somewhere stable, the whole procedure is well-defined.
    (These fishing-rod measurements are called *dressed observables* in the literature.)
 3. *String theory.* I have somewhat understated the
    problem with microscopes. The formation of black holes is a
