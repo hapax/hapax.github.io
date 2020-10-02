@@ -26,7 +26,7 @@ The real problem is that Nature is secretive: it hides the details of
 quantum gravity inside black holes!
 Let's see why.
 
-#### Microscopes make black holes
+#### Powerful microscopes make energy
 
 Suppose we have a microscope which has can resolve lengths $\Delta x$.
 Heisenberg's uncertainty principle says that the smaller this
@@ -46,8 +46,9 @@ $$
 E^2 = m^2c^4 = p^2c^2 + m_0^2 c^4,
 $$
 
-where $m_0$ is the mass of the particle at rest and $m$ is the
-*relativistic mass*, which increases when it picks up kinetic energy.
+where $m_0$ is the mass of the particle at rest, $c = 3 \times 10^8
+\text{ m/s}$ is the speed of light, and $m$ is the *relativistic
+mass*, which increases when it picks up kinetic energy.
 When the particle is moving very quickly, the momentum can be much
 larger than the rest mass energy, and $p \approx E/c$.
 If we measure very small distances, Heisenberg's principle tells us we
@@ -60,20 +61,75 @@ $$
 \Delta E \sim \frac{\hbar c}{\Delta x}\;.
 $$
 
-The \emph{Schwarzschild radius} $r_s$ of a (four-dimensional) spherical black hole is
-related to its mass-energy $E$ by
+#### Energy makes black holes
+
+Let's now recall Newton's universal law of gravitation,
 
 $$
-r_s \sim \frac{GE}{c^4}\;.
+F = \frac{Gm_1 m_2}{r^2},
 $$
 
-Thus, the Schwarzschild radius associated with our microscope is
+where $G = 6.7\times 10^{-11} \text{ N m}^2\text{ /kg}$ is *Newton's
+constant*.
+We can use this to estimate the size of a black hole!
+A black hole is a region of space where gravity is so strong light
+is unable to escape.
+To see how light figures in Newton's law, we need to give it a mass.
+In classical physics, light is massless, but but we know better: Einstein's
+formula tells us that it has some *relativistic* mass related to its
+energy, $E = mc^2$.
+If you're curious, the mass of a particle of light, the photon,
+depends on its frequency $f$ via
 
 $$
-r_s \sim \frac{G\hbar}{\Delta x \cdot c^3} = \frac{\ell_P^2}{\Delta x}\;,
+m = \frac{E}{c^2} = \frac{2\pi\hbar f}{c^2},
 $$
 
-where $\ell_P := \sqrt{G\hbar/c^3}$ is the *Planck length*.
+now using another formula ($E = 2\pi \hbar f$) discovered by Einstein.
+We won't need this however!
+
+So let's continue.
+For a black hole of mass $M$, and radius $r_s$, the force it exerts on
+a photon with mass-energy $m$ is
+
+$$
+F \sim \frac{GMm}{r_s^2}.
+$$
+
+Using the work formula, we can view force as energy divided by
+distance.
+Since the energy of the photon is $E = mc^2$, and the relevant
+distance is probably the black hole size $r_s$, we have
+
+$$
+\frac{mc^2}{r_s} \sim \frac{GMm}{r_s^2} \quad \Longrightarrow \quad
+r_s \sim \frac{GM}{c^2}.
+$$
+
+Although we've been rather sloppy, this guess is correct!
+So, if we take a mass $M$ and squish into a ball of radius $\lesssim
+r_s$, it will make a black hole.
+
+Now, let's return to our microscope.
+In order to zoom in, Heisenberg's principle means it makes some energy
+fluctuations, and by $E = mc^2$ these fluctuations have mass.
+The associated black hole radius is
+
+$$
+r_s \sim \frac{Gm}{c^2} = \frac{G\Delta E}{c^4} = \frac{G\hbar}{\Delta x \cdot c^3}.
+$$
+
+It may seem sketchy to replace $E$ with $\Delta E$, but if the energy
+of particles has fluctuations of size $\Delta E$ around $E = 0$, some
+of them will have energy $E$.
+Now, we can clean up the last expression:
+
+$$
+r_s \sim \frac{G\hbar}{\Delta x \cdot c^3} = \frac{\ell_P^2}{\Delta
+x}, \quad \ell_P := \sqrt{\frac{G\hbar}{c^3}}.
+$$
+
+The length $\ell_P$ is called the *Planck length*.
 If $\Delta x \lesssim \ell_P$, then $r_S \gtrsim \Delta x$.
 In other words, if we try to probe below the Planck scale, our microscope will
 create a black hole.
