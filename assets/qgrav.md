@@ -278,6 +278,9 @@ keys to making progress in quantum gravity.
    \ell_P$, our microscopes will see them before we start poking black
    holes in spacetime.
    In this case, spacetime *emerges* from some very different looking
-   theory, revealed at high energies, a phenomenon we call *emergent spacetime*.
+   theory, revealed at high energies, a phenomenon we call *emergent
+   spacetime*.
+   But figuring out how to get our universe to emerge from string
+   theory remains a very difficult open problem.
 
 #### Further reading
