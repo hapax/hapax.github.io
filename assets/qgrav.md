@@ -10,7 +10,9 @@ date:  2020-10-02
 **October 2, 2020.** *People often say that quantum gravity is hard
   because quantum mechanics and gravity are incompatible. I'll give a
   short, relatively non-technical explanation of the real problem: the
-  secrets of quantum gravity are guarded by black holes.*
+  secrets of quantum gravity are guarded by black holes. This implies
+  various other statements involving local observables and
+  diffeomorphism invariance, which we briefly outline.*
 
 #### Introduction
 
