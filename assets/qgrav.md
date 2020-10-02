@@ -37,7 +37,7 @@ $$
 
 for Planck's constant $\hbar \approx 10^{-34} \text{ J/s}$.
 We can relate this to the energy of the particles using Einstein's
-famous formula $E = mc^2$.
+famous $E = mc^2$.
 In fact, we will write it in the much less well-known form
 
 $$
