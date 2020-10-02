@@ -268,7 +268,7 @@ keys to making progress in quantum gravity.
    $P$. The lure will fluctuate in position, but because I sit
    somewhere stable, the whole procedure is well-defined.
    (These fishing-rod measurements are called *dressed observables* in the literature.)
-3. *String theory.* I have somewhat understated the
+3. *Strings.* I have somewhat understated the
    problem with microscopes. The formation of black holes is a
    picturesque way of saying that general relativity is *inconsistent*
    at high energies, and some new theory has to kick before we hit the
@@ -283,13 +283,13 @@ keys to making progress in quantum gravity.
    Although this is a consistent theory of quantum gravity, figuring
    out how to get our universe to emerge from string theory remains a
    difficult open problem.
-4. *Quantizing spacetime.* An alternative to string theory is to treat
+4. *Loops.* An alternative to string theory is to treat
     the shape of spacetime itself as a fuzzy variable, like the position of the electron.
 	The most popular approach in this paradigm is
     [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity).
 	In this case, the structure of spacetime is described by a
     microscopic fabric of discrete, graph-like structures called *spin
     networks*. Edges in these graphs are around a Planck-length
-    long. In
+    long. If you look any closer, you see nothing!
 	
 #### Further reading
