@@ -248,13 +248,11 @@ relativity under relabelling points.
 But if spacetime itself is fluctuating, what is quantum gravity even about?
 We'll finish with a brief survey of some sensible things you can ask.
 
-First of all, black holes seem to appearing all over the place, so
+1. *Black holes.* Black holes seem to appearing all over the place, so
 understanding how they hide and release information is essential to
-making progress on quantum gravity.
-This is not just a problem for small black holes.
-Many quantum-mechanical aspects of large black holes (formed from
-collapsed stars) remain mysterious, though progress is
-being made.
-Clearly, though, if we can 
+making progress on quantum gravity. This is not just a problem for
+small black holes. Many quantum-mechanical aspects of large black
+holes (formed from collapsed stars) remain mysterious, though progress
+is being made. Clearly, though, if we can 
 
 #### Further reading
