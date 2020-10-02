@@ -223,13 +223,16 @@ I can't really ask about whether an electron appeared at $P$ because
 this question depends on how I label $P$.
 Like I said above, there is no quantum mechanics here.
 Once we add quantum mechanics, Nature itself enforces invariance under
-diffeomorphisms by swallowing bad questions with black holes.
+diffeomorphisms by shrouding ill-formed questions with black holes.
 
 #### What is quantum gravity even about?
 
-If I can't ask whether an electron appears at $P$, what questions can I ask?
-It depends who you talk to!
-In a sense, the questions you can ask depend on 
+The moral is that, in quantum gravity, spacetime fluctuates.
+If I zoom in enough, these fluctuations are violent enough to form
+black holes, so there are no local observables.
+This is also suggested by the *classical* invariance of general
+relativity under relabelling points.
+But if spacetime itself is fluctuating, what questions can I ask?
 
 <!--- We can translate this dimensional argument into the language of -->
 <!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
