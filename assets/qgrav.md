@@ -201,8 +201,7 @@ In the beautiful maxim of John Wheeler,
 It doesn't make much sense to talk about stuff happening at a point
 $P$ itself.
 Rather, physically meaningful statements will involve the shape of
-space in the vicinity of $P$.
-
+space and matter in the vicinity of $P$.
 Physicists have a hack for enforcing this.
 Clearly, the label of the point $P$ will depend on my labelling
 system.
@@ -225,7 +224,7 @@ Like I said above, there is no quantum mechanics here.
 Once we add quantum mechanics, Nature itself enforces invariance under
 diffeomorphisms by shrouding ill-formed questions with black holes.
 
-#### What is quantum gravity even about?
+#### What is quantum gravity even about? (Advanced)
 
 The moral is that, in quantum gravity, spacetime fluctuates.
 If I zoom in enough, these fluctuations are violent enough to form
@@ -233,6 +232,28 @@ black holes, so there are no local observables.
 This is also suggested by the *classical* invariance of general
 relativity under relabelling points.
 But if spacetime itself is fluctuating, what questions can I ask?
+
+To get a feeling for this, let's think about a (hopefully) familiar
+example, Newtons second law $F = ma$.
+If I have a *quantum-mechanical* particle, then measurements of the
+position $x$ and momentum can $p$ fluctuate.
+But I can still take *averages* over where I expect it to be, which we
+denote by $\langle x\rangle$.
+If I do this, I find that Newton's second law still holds for
+averages!
+This is called *Ehrenfest's theorem*:
+
+$$
+\langle F \rangle = m\langle a \rangle.
+$$
+
+For completeness, 
+The shape of space is given by some object $g(P)$ called the metric,
+while the matter floating around is specified by some functions
+$\phi(P)$, telling us how much is where.
+Note that both of these are functions of position $P$.
+The *curvature tensor* of space is given by some function
+$\mathbf{G}[g]$, which depends only on the metric, and the *energy-momentum tensor* $\mathbf{T}[\phi, g]$
 
 <!--- We can translate this dimensional argument into the language of -->
 <!--quantum field theory. Set $\hbar = c = 1$. Newton's constant $G$ -->
