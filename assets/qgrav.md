@@ -268,7 +268,7 @@ keys to making progress in quantum gravity.
    $P$. The lure will fluctuate in position, but because I sit
    somewhere stable, the whole procedure is well-defined.
    (These fishing-rod measurements are called *dressed observables* in the literature.)
-3. *Strings.* I have somewhat understated the
+3. *Emergent spacetime.* I have somewhat understated the
    problem with microscopes. The formation of black holes is a
    picturesque way of saying that general relativity is *inconsistent*
    at high energies, and some new theory has to kick before we hit the
@@ -283,7 +283,7 @@ keys to making progress in quantum gravity.
 <!--   Although this is a consistent theory of quantum gravity, figuring
    out how to get our universe to emerge from string theory remains a
    difficult open problem. -->
-4. *Loops.* In string theory and other emergent theories, the familiar
+4. *Fuzzy shapes.* In string theory and other emergent theories, the familiar
    contours of spacetime appear as we zoom out from something that
    looks fundamentally different; it is a forest emerging from the trees.
   Alternatively, [*loop quantum gravity*](https://en.wikipedia.org/wiki/Loop_quantum_gravity)
@@ -295,6 +295,6 @@ keys to making progress in quantum gravity.
    different way the theory can fail to make sense below the Planck
    scale.
 
-There
+I've sketched a few different 
 
 #### Further reading
