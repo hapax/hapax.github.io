@@ -275,8 +275,8 @@ keys to making progress in quantum gravity.
    Planck length. The most promising candidate is [*string theory*](https://en.wikipedia.org/wiki/String_theory), which makes
    the remarkable prediction that spacetime is build out of tiny,
    vibrating strings. If they have a length $\ell_s \gtrsim
-   \ell_P$, our microscopes will see them before we start poking black
-   holes in spacetime.
+   \ell_P$, our microscopes will see them before we start making black
+   holes.
    In this case, spacetime *emerges* from some very different looking
    theory, revealed at high energies, a phenomenon we call *emergent
    spacetime*.
