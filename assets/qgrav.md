@@ -184,7 +184,8 @@ This conclusion is so important we put it in a quote box:
 In fact, this conclusion is already suggested by Einstein's
 *classical* theory of gravity, general relativity.
 In Newtonian gravity, spacetime is a sort of fixed arena where objects
-float around and exert forces on each other. Gravity is just another force.
+float around and exert forces on each other. In this picture, gravity
+is just another force.
 Einstein's profound realization was that gravity isn't a real force at
 all!
 Rather, *gravity is the shape of space*, and *space is shaped by matter.*
@@ -197,7 +198,7 @@ In the beautiful maxim of John Wheeler,
 Sure, spacetime is made up of points.
 But the relation between those points --- the shape of space ---
 depends on what I choose to put there!
-
+The only physically meaningful statement
 
 #### Strong coupling
 
