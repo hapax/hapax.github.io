@@ -206,7 +206,7 @@ The shape of space is captured by an object $\mathbf{G}$ called the
 *Einstein tensor*, while the "shape" of matter is captured by an
 energy-like quantity called the *stress-energy tensor* $\mathbf{T}$.
 The governing equation of general relativity is the *Einstein field
-equation*,
+equation*:
 
 $$
 \mathbf{G} = \frac{8\pi G}{c^4}\mathbf{T}.
