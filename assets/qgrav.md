@@ -85,7 +85,7 @@ $$
 m = \frac{E}{c^2} = \frac{2\pi\hbar f}{c^2},
 $$
 
-now using another formula ($E = 2\pi \hbar f$) discovered by Einstein.]
+using the formula for the energy of a photon, $E = 2\pi \hbar f$, also discovered by Einstein.]
 Let's continue.
 For a black hole of mass $M$, and radius $r_s$, the force it exerts on
 a photon with mass-energy $m$ is
