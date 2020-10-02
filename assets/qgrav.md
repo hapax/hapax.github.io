@@ -267,7 +267,7 @@ one of the key questions in quantum gravity.
    $P$. The end of the fishing rod will fluctuate in position, but
    because I sit somewhere stable, the whole procedure is
    well-defined.
-   (There are other non-local observables. These fishing-rod
+   (There are other non-local observables I haven't mentioned. These fishing-rod
    measurements are called *dressed observables* in the literature.)
 3. *String theory.* I have somewhat understated the
    problem with microscopes. The formation of black holes is a
