@@ -269,6 +269,14 @@ one of the key questions in quantum gravity.
    well-defined.
    (There are other non-local observables. These fishing-rod
    measurements are called *dressed observables* in the literature.)
-3. *Emergent spacetime.* 
+3. *String theory.* I have somewhat understated the
+   problem with microscopes. The formation of black holes is a
+   picturesque way of saying that general relativity is *inconsistent*
+   at high energies, and some new theory has to kick in when we zoom
+   in. The most promising candidate is *string theory*, which makes
+   the remarkable prediction that spacetime is build out of tiny,
+   vibrating strings. They have a length $\ell_s \gtrsim \ell_P$, so
+   we expect to see them before we start poking tiny black holes in
+   spacetime with our microscope.
 
 #### Further reading
