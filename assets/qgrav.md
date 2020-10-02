@@ -143,7 +143,7 @@ We won't see anything at all.
 This happens when
 
 $$
-\Deltax \lesssim r_s \sim \frac{\ell_P^2}{\Delta x} \quad
+\Delta x \lesssim r_s \sim \frac{\ell_P^2}{\Delta x} \quad
 \Longrightarrow \quad \Delta x \lesssim \ell_P.
 $$
 
