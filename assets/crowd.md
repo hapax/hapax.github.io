@@ -30,7 +30,7 @@ This operator is linear.
 For any constant $C$, we therefore have
 
 $$
-\langle (x - C)^2 \rangle = \langle x^2 \rangle - 2 C\langle x
+\langle (x - C)^2 \rangle = \langle x^2 - 2Cx + C^2 \rangle = \langle x^2 \rangle - 2 C\langle x
 \rangle + C^2.
 $$
 
@@ -42,6 +42,9 @@ $$
 X^2 = (C - X)^2.
 $$
 
-This is precisely the parallel axis theorem in one dimension, identifying
-$mI_\text{cm} = \langle (x - X)^2 \rangle$, $mI = \langle (x - X)^2
-\rangle$, and $d = C - X$.
+This is precisely the parallel axis theorem in one dimension, where we
+identify $X$ with the centre of mass, $I/m = \langle (x - C)^2
+\rangle$ with the inertia around $C$, and $d = |C - X|$.
+For a vectorial random variable $\mathbf{x}$, and constant vector
+$\mathbf{C}$, the proof immediately generalizes.
+
