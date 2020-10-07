@@ -63,11 +63,16 @@ The one-dimensional parallel axis theorem has a remarkable
 application to the social sciences: it explains the *wisdom of the crowd*.
 Suppose that, at a country fair, we ask a group of onlookers to
 estimate the weight of the prize pig.
-The crowd volunteers some estimates, which average to $C$.
-Let us suppose
+The crowd volunteers some estimates, which we can view as a random
+variable $x$, with average $X$.
+Suppose $C$ is the correct weight for the pig.
+Then the parallel axis theorem gives
 
 $$
 (C - X)^2 = \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle.
 $$
+
+The squared difference between the crowd's average and the true result
+involves two terms: a 
 
 #### Fermi estimates
