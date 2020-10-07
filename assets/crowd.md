@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  ""
+title:  "Parallel axes and the groupthink theorem"
 categories: [Physics, Mathematics, Statistics]
 date:  2020-10-07
 ---
