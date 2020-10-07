@@ -35,7 +35,7 @@ $$
 $$
 
 Define $X = \langle x\rangle$. Setting $C = X$ in the expression
-above, and then 
+above, and then subtracting from the above, we find 
 
 $$
 \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle = X^2 - 2CX +
