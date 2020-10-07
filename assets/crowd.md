@@ -43,17 +43,20 @@ X^2 = (C - X)^2.
 $$
 
 This is precisely the parallel axis theorem in one dimension, where we
-identify $X$ with the centre of mass, $I/m = \langle (x - C)^2
+identify $X$ with the centre of mass, $I = m\langle (x - C)^2
 \rangle$ with the inertia around $C$, and $d = |C - X|$.
 For a vectorial random variable $\mathbf{x}= (x_i)$, and constant vector
 $\mathbf{C} = (C_i)$, the proof immediately generalizes. In the plane
 for instance, we have
 
 $$
-\langle |\mathbf{x} - \mathbf{C})^2 \rangle = \langle (x_1 - C_1)^2
+\langle |\mathbf{x} - \mathbf{C}|^2 \rangle = \langle (x_1 - C_1)^2
 \rangle + \langle (x_2 - C_2)^2 \rangle.
 $$
 
+This interpretation makes sense provided we view the normalised mass
+density $\rho(\mathbf{x})/m$ as a *probability* density.
+
 #### Diversity of prediction
 
-The one-dimensional
+The one-dimensional parallel axis theorem
