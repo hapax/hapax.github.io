@@ -45,9 +45,9 @@ $$
 This is precisely the parallel axis theorem in one dimension, where we
 identify $X$ with the centre of mass, $I/m = \langle (x - C)^2
 \rangle$ with the inertia around $C$, and $d = |C - X|$.
-For a vectorial random variable $\mathbf{x}$, and constant vector
-$\mathbf{C}$, the proof immediately generalizes, since in the plane
-(for instance)
+For a vectorial random variable $\mathbf{x}= (x_i)$, and constant vector
+$\mathbf{C} = (C_i)$, the proof immediately generalizes. In the plane
+for instance, we have
 
 $$
 \langle |\mathbf{x} - \mathbf{C})^2 \rangle = \langle (x_1 - C_1)^2
