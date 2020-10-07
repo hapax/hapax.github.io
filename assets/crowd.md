@@ -59,4 +59,4 @@ density $\rho(\mathbf{x})/m$ as a *probability* density.
 
 #### Diversity of prediction
 
-The one-dimensional parallel axis theorem
+The one-dimensional parallel axis theorem has a remarkable *social* application.
