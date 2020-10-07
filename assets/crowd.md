@@ -84,11 +84,11 @@ The more variance, the better, and in the extreme case, the variance
 of guesses cancels individual error so that $X = C$.
 
 The crowd is not wise when individuals are off the mark, but agree
-with each other, so the first term is not cancelled by the second.
+with each other, and the first term is not cancelled by the second.
 This makes the peril of groupthink clear in a precise statistical
 sense.
 In the social sciences, this is called the *diversity of prediction
-theorem*, though I personally feel that *wisdom of the crowd theorem*
-or *groupthink theorem* are a little more concrete.
+theorem*, though I personally feel that the *groupthink theorem* is
+snappier.
 
 #### Fermi estimates
