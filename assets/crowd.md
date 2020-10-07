@@ -44,8 +44,8 @@ $$
 X^2 = (C - X)^2.
 $$
 
-To connect to mass distributions, we identify must identify
-the probability $p(x)$ with a normalized mass $m(x)/M$.
+To connect to mass distributions, we identify
+the probability $p(x)$ of outcome $x$ with a normalized mass $m(x)/M$.
 Then $X$ with the centre of mass, $I = m\langle (x - C)^2
 \rangle$ is the inertia around $C$, and setting $d = |C - X|$, we
 obtain the parallel axis theorem in one dimension.
@@ -82,6 +82,6 @@ of guesses cancels individual error so that $X = C$.
 
 The crowd is not wise when individuals are off the mark, but agree
 with each other, so the first term is not cancelled by the second.
-This is, in a precise statistical sense, the peril of groupthink.
+This makes the peril of groupthink clear in a precise statistical sense.
 
 #### Fermi estimates
