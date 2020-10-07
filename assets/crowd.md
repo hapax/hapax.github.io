@@ -36,7 +36,8 @@ $$
 $$
 
 Define $X = \langle x\rangle$. Setting $C = X$ in the expression
-above, and then subtracting from the above, we find 
+above gives the variance $\sigma^2 = \langle
+(x-X)^2\rangle$. Subtracting from the expression involving $C$, we find 
 
 $$
 \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle = X^2 - 2CX +
@@ -72,7 +73,15 @@ $$
 (C - X)^2 = \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle.
 $$
 
-The squared difference between the crowd's average and the true result
-involves two terms: a 
+The LHS measures the crowd's (squared) error.
+The RHS is the average *individual* (squared) error, minus the variance of the
+crowd's guess.
+In other words, difference of opinion improves the estimate!
+The more variance, the better, and in the extreme case, the variance
+of guesses cancels individual error so that $X = C$.
+
+The crowd is not wise when individuals are off the mark, but agree
+with each other, so the first term is not cancelled by the second.
+This is, in a precise statistical sense, the peril of groupthink.
 
 #### Fermi estimates
