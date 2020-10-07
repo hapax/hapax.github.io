@@ -58,10 +58,13 @@ $$
 \rangle + \langle (x_2 - C_2)^2 \rangle.
 $$
 
+We won't worry about the generalizations here.
+Instead, we'll focus on the one-dimensional theorem, due to a
+remarkable application in the social sciences: it explains the *wisdom
+of the crowd*.
+
 #### Wisdom of the crowd
 
-The one-dimensional parallel axis theorem has a remarkable
-application to the social sciences: it explains the *wisdom of the crowd*.
 Suppose that, at a country fair, we ask a group of onlookers to
 estimate the weight of the prize pig.
 The crowd volunteers some estimates, which we can view as a random
@@ -82,6 +85,10 @@ of guesses cancels individual error so that $X = C$.
 
 The crowd is not wise when individuals are off the mark, but agree
 with each other, so the first term is not cancelled by the second.
-This makes the peril of groupthink clear in a precise statistical sense.
+This makes the peril of groupthink clear in a precise statistical
+sense.
+In the social sciences, this is called the *diversity of prediction
+theorem*, though I personally feel that *wisdom of the crowd theorem*
+or *groupthink theorem* are a little more concrete.
 
 #### Fermi estimates
