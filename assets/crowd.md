@@ -21,8 +21,8 @@ $$
 I = I_\text{cm} + md^2.
 $$
 
-The proof usually involves some lamentable sequence of integrals.
-There is a more elegant proof using *expectations*.
+The usual proof involves some distracting and lamentable integrals.
+A more elegant approach uses *expectations*.
 Let $x$ be a random variable, with $\langle f(x)\rangle$ the
 expectation operator (a sum of outcomes weighted by probability) for
 any function $f(x)$.
@@ -57,6 +57,17 @@ $$
 This interpretation makes sense provided we view the normalised mass
 density $\rho(\mathbf{x})/m$ as a *probability* density.
 
-#### Diversity of prediction
+#### Wisdom of the crowd
 
-The one-dimensional parallel axis theorem has a remarkable *social* application.
+The one-dimensional parallel axis theorem has a remarkable
+application to the social sciences: it explains the *wisdom of the crowd*.
+Suppose that, at a country fair, we ask a group of onlookers to
+estimate the weight of the prize pig.
+The crowd volunteers some estimates, which average to $C$.
+Let us suppose
+
+$$
+(C - X)^2 = \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle.
+$$
+
+#### Fermi estimates
