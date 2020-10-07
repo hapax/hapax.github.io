@@ -41,3 +41,7 @@ $$
 \langle (x - C)^2 \rangle - \langle (x - X)^2 \rangle = X^2 - 2CX +
 X^2 = (C - X)^2.
 $$
+
+This is precisely the parallel axis theorem in one dimension, identifying
+$mI_\text{cm} = \langle (x - X)^2 \rangle$, $mI = \langle (x - X)^2
+\rangle$, and $d = C - X$.
