@@ -46,7 +46,13 @@ This is precisely the parallel axis theorem in one dimension, where we
 identify $X$ with the centre of mass, $I/m = \langle (x - C)^2
 \rangle$ with the inertia around $C$, and $d = |C - X|$.
 For a vectorial random variable $\mathbf{x}$, and constant vector
-$\mathbf{C}$, the proof immediately generalizes.
+$\mathbf{C}$, the proof immediately generalizes, since in the plane
+(for instance)
+
+$$
+\langle |\mathbf{x} - \mathbf{C})^2 \rangle = \langle (x_1 - C_1)^2
+\rangle + \langle (x_2 - C_2)^2 \rangle.
+$$
 
 #### Diversity of prediction
 
