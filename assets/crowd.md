@@ -2,13 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Parallel axes and the groupthink theorem"
+title:  "Parallel axes and wisdom of the crowd"
 categories: [Physics, Mathematics, Statistics]
 date:  2020-10-07
 ---
 
-**October 7, 2020.** *Bla bla bla Fermi estimates bla bla diversity of
-  prediction*
+**October 7, 2020.** *A quick post showing that the parallel axis
+  theorem from first-year mechanics is mathematically equivalent to
+  the wisdom of the crowd, aka diversity of prediction.*
 
 #### The parallel axis theorem
 
@@ -25,7 +26,7 @@ where $M$ is the total mass.
 The usual proof involves some distracting and lamentable integrals.
 A more elegant approach uses *expectations*.
 Let $x$ be a random variable, with $\langle f(x)\rangle$ the
-expectation operator (a sum of outcomes weighted by probability) for
+expectation operator (a sum of outcomes weighted by probability $p(x)$) for
 any function $f(x)$.
 This operator is linear.
 For any constant $C$, we therefore have
@@ -44,27 +45,51 @@ $$
 X^2 = (C - X)^2.
 $$
 
-To connect to mass distributions, we identify
-the probability $p(x)$ of outcome $x$ with a normalized mass $m(x)/M$.
-Then $X$ with the centre of mass, $I = m\langle (x - C)^2
-\rangle$ is the inertia around $C$, and setting $d = |C - X|$, we
-obtain the parallel axis theorem in one dimension.
-For a vectorial random variable $\mathbf{x}= (x_i)$, and constant vector
-$\mathbf{C} = (C_i)$, the proof immediately generalizes. In the plane
-for instance, we have
+So far, this does not obviously resemble a moment of inertia.
+But let us consider a vectorial random variable $\mathbf{x}= (x_1,
+x_2)$, and constant vector
+$\mathbf{C} = (C_1, C_2)$. The proof immediately generalizes, since
 
 $$
 \langle |\mathbf{x} - \mathbf{C}|^2 \rangle = \langle (x_1 - C_1)^2
 \rangle + \langle (x_2 - C_2)^2 \rangle.
 $$
 
-We won't worry about the generalizations here.
-Instead, we'll focus on the one-dimensional theorem, due to a
-remarkable application in the social sciences: it explains the *wisdom
-of the crowd*.
+Applying our result to each term individually, then recombining, we
+find that
+
+$$
+\langle |\mathbf{x} - \mathbf{C}|^2 \rangle - \langle |\mathbf{x} -
+\mathbf{X}|^2 \rangle = |\mathbf{x} - \mathbf{C}|^2.
+$$
+
+To connect this to moments of inertia, note that we can identify the
+probability distribution $p(\mathbf{x})$ with a *mass* distribution, $p(\mathbf{x})) =
+m(\mathbf{x}))/M$, where $M$ is the total mass.
+This is the mass at location $\mathbf{x})$.
+For an axis of rotation orthogonal to the plane, and passing through
+$\mathbf{C}$, the moment of inertia is
+
+$$
+I_\mathbf{C} = \int d^2\mathbf{x}\, m(\mathbf{x}) |\mathbf{x}-\mathbf{C}|^2 = M\int
+d^2\mathbf{x}\, p(\mathbf{x}) |\mathbf{x}-\mathbf{C}|^2 = M\langle |\mathbf{x}-\mathbf{C}|^2\rangle.
+$$
+
+Since $\mathbf{X}$ is the centre of mass of the distribution, and
+setting $d = |\mathbf{C}-\mathbf{X}|$, we recover the parallel axis theorem:
+
+$$
+I - I_\text{cm} = md^2.
+$$
+
+Note that this theorem applies to *three-dimensional* mass
+distributions, where $m(\mathbf{x})$ the total mass density along the
+line parallel to the rotation axis at coordinate $\mathbf{x}$.
 
 #### Wisdom of the crowd
 
+Let's return to the one-dimensional theorem, and a remarkable application in the social sciences: it explains the
+*wisdom of the crowd*.
 Suppose that, at a country fair, we ask a group of onlookers to
 estimate the weight of the prize pig.
 The crowd volunteers some estimates, which we can view as a random
@@ -79,16 +104,37 @@ $$
 The LHS measures the crowd's (squared) error.
 The RHS is the average *individual* (squared) error, minus the variance of the
 crowd's guess.
-In other words, difference of opinion improves the estimate!
+
+The key point: difference of opinion improves the estimate!
 The more variance, the better, and in the extreme case, the variance
 of guesses cancels individual error so that $X = C$.
+This also explains the utility of a devil's advocate: by introducing
+another opinion and averaging, we are adding diversity "by hand".
+Political scientist Scott Page calls this result the [*diversity of prediction
+theorem*](https://sites.lsa.umich.edu/scottepage/home/the-difference/)),
+and has written at length about the importance of diversity of thought
+in society at large.
 
-The crowd is not wise when individuals are off the mark, but agree
-with each other, and the first term is not cancelled by the second.
-This makes the peril of groupthink clear in a precise statistical
-sense.
-In the social sciences, this is called the *diversity of prediction
-theorem*, though I personally feel that the *groupthink theorem* is
-snappier.
+#### Groupthink and correlation
 
-#### Fermi estimates
+The crowd is not wise when individual error is high and variance is
+low, i.e. people agree on the wrong answer.
+This makes the peril of *groupthink* clear, in a precise statistical
+sense!
+Then again, groupthink involves more than a low-variance set of
+guesses: it involves *correlation between guesses*, i.e. the tendency
+people have to think the same thing as their neighbour.
+Modelling this requires we treat guesses not as samples from the
+same underlying distribution $x$, but rather, samples from different
+distributions, which may be correlated with each other.
+
+I leave a fuller exploration of this problem to another time.
+But we can distinguish between two tendencies.
+If we tend to correlate our guesses with *accurate guesses*, the
+crowd can be accurate by reducing the average individual error.
+Groupthink more properly is the tendency to correlate our guesses
+for no reason other than minimising social discomfort.
+In this case, diversity of opinion is low, and there is no reason to
+expect average individual error to be low.
+Unless you have good reason to believe your neighbour, better to make
+up your own mind, or even disagree!
