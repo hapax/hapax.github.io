@@ -22,7 +22,7 @@ I = I_\text{cm} + md^2.
 $$
 
 The proof usually involves some lamentable sequence of integrals.
-There is a quick and much more general proof using *expectations*.
+There is a more elegant proof using *expectations*.
 Let $x$ be a random variable, with $\langle f(x)\rangle$ the
 expectation operator (a sum of outcomes weighted by probability) for
 any function $f(x)$.
@@ -48,3 +48,6 @@ identify $X$ with the centre of mass, $I/m = \langle (x - C)^2
 For a vectorial random variable $\mathbf{x}$, and constant vector
 $\mathbf{C}$, the proof immediately generalizes.
 
+#### Diversity of prediction
+
+The one-dimensional
