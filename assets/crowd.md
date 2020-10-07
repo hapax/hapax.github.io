@@ -18,9 +18,10 @@ around the centre of mass, and the moment $I$ around any parallel axis
 a distance $d$ away, are related by
 
 $$
-I = I_\text{cm} + md^2.
+I = I_\text{cm} + Md^2,
 $$
 
+where $M$ is the total mass.
 The usual proof involves some distracting and lamentable integrals.
 A more elegant approach uses *expectations*.
 Let $x$ be a random variable, with $\langle f(x)\rangle$ the
@@ -42,9 +43,11 @@ $$
 X^2 = (C - X)^2.
 $$
 
-This is precisely the parallel axis theorem in one dimension, where we
-identify $X$ with the centre of mass, $I = m\langle (x - C)^2
-\rangle$ with the inertia around $C$, and $d = |C - X|$.
+To connect to mass distributions, we identify must identify
+the probability $p(x)$ with a normalized mass $m(x)/M$.
+Then $X$ with the centre of mass, $I = m\langle (x - C)^2
+\rangle$ is the inertia around $C$, and setting $d = |C - X|$, we
+obtain the parallel axis theorem in one dimension.
 For a vectorial random variable $\mathbf{x}= (x_i)$, and constant vector
 $\mathbf{C} = (C_i)$, the proof immediately generalizes. In the plane
 for instance, we have
@@ -53,9 +56,6 @@ $$
 \langle |\mathbf{x} - \mathbf{C}|^2 \rangle = \langle (x_1 - C_1)^2
 \rangle + \langle (x_2 - C_2)^2 \rangle.
 $$
-
-This interpretation makes sense provided we view the normalised mass
-density $\rho(\mathbf{x})/m$ as a *probability* density.
 
 #### Wisdom of the crowd
 
