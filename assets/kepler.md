@@ -59,11 +59,11 @@ $$
 
 If $L$ is fixed, then in a fixed, small time increment $dt$, $r^2\,
 d\theta$ is fixed.
-But this is half the area swept out!
+But this is twice the area swept out!
 We simply calculate the area of the corresponding circle at that radius:
 
 $$
-A = \pi r^2 \cdot \frac{d\theta}{2\pi} = \frac{1}{2} r^2 \,d\theta.
+dA = \pi r^2 \cdot \frac{d\theta}{2\pi} = \frac{1}{2} r^2 \,d\theta.
 $$
 
 While $r$ itself can change a little, this contributes a negligible
@@ -125,8 +125,29 @@ Effective potentials work as follows.
 If the planet has total energy $E$, then
 
 $$
-E = K + U_{\text{eff}}(eff), \quad K = \frac{1}{2}m v_u^2,
+E = K + U_{\text{eff}}(eff), \quad K = \frac{1}{2}m \left(\frac{du}{d\tau}\right)^2,
 $$
 
-where $v_u$ is the speed with respect to the $u$ variable.
-Ignoring the fact the $u$ should only be positive, the motion is simply
+where $K$ is the linear kinetic energy, and $\tau$ is the
+relevant time variable for the $u$ coordinate.
+Somewhat subtly, this is *not* the same as the regular time $t$. If we
+want to interpret $K$ as the linear kinetic energy for the planet in
+$r$ coordinates as well, we must have the relation
+
+$$
+\left|\frac{dr}{dt}\right| = \left|\frac{du}{d\tau}\right| \quad
+\Longrightarrow \quad \frac{1}{r^2}\frac{dr}{d\tau} = \frac{dr}{dt},
+$$
+
+using $u = 1/r$.
+Here, we can sneakily use conservation of momentum again!
+Recall from above that $L\, dt = m r^2\,  d\theta$.
+Thus, we can immediately solve for the time variable in $u$ coordinates:
+
+$$
+r^2 \, d\tau = dt \quad \Longrightarrow \quad  \tau = \frac{m}{L} \theta.
+$$
+
+In other words, time in $u$ coordinates is proportional to angle!
+
+#### Stuff about ellipses
