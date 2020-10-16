@@ -118,7 +118,7 @@ The motion will be about the minimum of the potential, which occurs
 halfway between the two roots at
 
 $$
-u_0 = \frac{GMm^2}{L^2}.
+u_0 = \frac{GMm^2}{L^2}, \quad U_\text{eff}(u_0) = -\frac{1}{2}\left(\frac{GMm}{L}\right)^2.
 $$
 
 Effective potentials work as follows.
@@ -129,3 +129,4 @@ E = K + U_{\text{eff}}(eff), \quad K = \frac{1}{2}m v_u^2,
 $$
 
 where $v_u$ is the speed with respect to the $u$ variable.
+Ignoring the fact the $u$ should only be positive, the motion is simply
