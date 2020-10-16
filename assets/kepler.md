@@ -179,8 +179,8 @@ $$
 This is the equation for an ellipse of eccentricity $\varepsilon = A
 u_0^{-1}$ and semi-lattice rectum $p = u_0^{-1}$, with a focus at $r = 0$,
 i.e. $u = \infty$.
-There are many things we could check here, but one sensible thing to
-consider is the relation between eccentricity and energy $E$.
+There are many things we could check here, but a simple thing we can
+check is the relation between eccentricity and energy $E$.
 We have
 
 $$
@@ -193,4 +193,22 @@ $$
 A = \sqrt{u_0^2 + E}.
 $$
 
-The energy 
+A circular orbit has $A = 0$ and $r = 1/u_0$, which implies energy $E = -u_0^2$.
+We can check this energy is correct, since
+
+$$
+E = \frac{L^2}{2m}u_0^2 - GMm u_0 = -u_0^2.
+$$
+
+Since orbits are bound, i.e. have negative total energy, we expect
+they will cease at $E = 0$, or $A = u_0$.
+If we plug this into the eccentricity, we find
+
+$$
+\varepsilon = A u_0^{-1} = 1,
+$$
+
+which is the eccentricity of a parabola, so the orbit is indeed
+unbound.
+For strictly positive energies, we have hyperbolic orbits, $\epsilon >
+1$.
