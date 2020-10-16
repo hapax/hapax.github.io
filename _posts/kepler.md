@@ -56,7 +56,7 @@ angular velocity $\omega = d\theta/dt$.
 Then the angular momentum $L$ is
 
 $$
-L = mr^2 \omega = m \frac{r^2\,  d\theta}{dt}.
+L = mr^2 \omega = m \cdot \frac{r^2\,  d\theta}{dt}.
 $$
 
 If $L$ is fixed, then in a fixed, small time increment $dt$, $r^2\,
@@ -167,12 +167,12 @@ $$
 u - u_0 = A \cos(\Omega \tau) = A \cos(\theta).
 $$
 
-This is an ellipse with a focus at infinity! Maybe you don't believe
-me, so the next section includes more details.
+This is an ellipse with a focus at infinity! In case you don't believe
+me, the next section includes more details.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/kepler.png" width="75%"/>
+    ="/images/posts/kepler.png" width="80%"/>
     <figcaption><i>The effective potential in both radial and inverse
     radial coordinates.</i></figcaption>
 	</div>
@@ -207,7 +207,7 @@ A circular orbit has $A = 0$ and $r = 1/u_0$, which implies energy $E = -u_0^2$.
 We can check this energy is correct, since
 
 $$
-E = \frac{L^2}{2m}u_0^2 - GMm u_0 = -u_0^2.
+E = \frac{L^2}{2m}\cdot u_0^2 - GMm u_0 = -u_0^2.
 $$
 
 Since orbits are bound, i.e. have negative total energy, we expect
@@ -222,31 +222,6 @@ which is the eccentricity of a parabola, so the orbit is indeed
 unbound.
 For strictly positive energies, we have hyperbolic orbits, $\varepsilon >
 1$.
-
-Another sanity check is the third law.
-There is a trick to doing this.
-First, we note that the area of the ellipse is $A = \pi ab$, where $a$
-and $b$ are the "width" and "height" of the ellipse.
-In terms of $u$, they correspond to the maximum and minimum values,
-$u_\pm = u_0 \pm A$, or
-
-$$
-A = \frac{\pi}{u_+u_-} = \frac{\pi}{(u_0 + \sqrt{u_0^2+E}) (u_0 +
-\sqrt{u_0^2+E})} = \frac{\pi}{E}.
-$$
-
-This is also telling us that the planet flies off to infinity at $E =
-0$.
-Anyway, the period is the time taken to sweep out the whole area,
-which from the second law, occurs at the constant rate we calculate
-above:
-
-$$
-\frac{dA}{dt} = \frac{2L}{m} \quad \Longrightarrow \quad T =
-\frac{A}{dA/dt} = \frac{2L\pi}{E m}.
-$$
-
-On the other hand, 
 
 #### Conclusion
 
