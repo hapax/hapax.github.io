@@ -217,4 +217,12 @@ So, we get all the usual stuff we want.
 
 #### Conclusion
 
-
+Put simply, the effective potential is quadratic in $u = 1/r$, and all
+the conic sections arise from simple harmonic motion.
+This includes elliptical orbits, which wobble back and forth.
+The ones that pass through $u = 0$ are going off to infinity in the
+$r$ coordinate.
+Although going to $u = 1/r$ is common, I've never seen the connecton
+to simple harmonic motion made.
+But as this is a several hundred year old problem, and there is
+nothing new orbiting the sun.
