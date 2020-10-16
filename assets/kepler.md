@@ -149,7 +149,6 @@ r^2 \, d\tau = dt \quad \Longrightarrow \quad  \tau = \frac{m}{L} \theta.
 $$
 
 In other words, time in $u$ coordinates is proportional to angle!
-
 Finally, let's determine the motion in $u$ coordinates.
 The "stiffness" $k$ of the restoring force, and hence angular frequency
 $\Omega$, are given by
