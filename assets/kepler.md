@@ -163,7 +163,7 @@ If we fix $E$, then the planet will oscillate around $u_0$ with some
 amplitude $A$, according to
 
 $$
-u - u_0 = A \cos(\Omega \tau) = 
+u - u_0 = A \cos(\Omega \tau) = A \cos(\theta).
 $$
 
 #### Stuff about ellipses
