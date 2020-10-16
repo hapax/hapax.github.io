@@ -17,7 +17,7 @@ I've always found Kepler's laws a mixed bag. Here they are in their
 full glory:
 
 1. The orbit of a planet is an ellipse with the sun at one focus.
-2. Planets sweep out equal times in equal areas.
+2. Planets sweep out equal areas in equal time.
 3. The square of the orbital period is proportional to the cube of the semi-major axis.
 
 It's fairly simple to if we specialize the ellipse to a circle.
