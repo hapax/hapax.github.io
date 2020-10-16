@@ -101,7 +101,7 @@ U(r) = K + U_\text{grav} = \frac{L^2}{2m r^2} -\frac{GMm}{r}.
 $$
 
 We are now left with *Kepler's problem*: determining what orbits are
-allowed for this potential.
+allowed.
 
 #### Hacking Kepler's first law
 
