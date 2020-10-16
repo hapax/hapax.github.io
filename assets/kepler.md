@@ -168,7 +168,7 @@ $$
 This is an ellipse with a focus at infinity! Maybe you don't believe
 me, so the next section includes more details.
 
-#### Stuff about ellipses
+#### More about ellipses
 
 Let's rewrite the harmonic motion in terms of $r$:
 
@@ -176,5 +176,21 @@ $$
 r = \frac{u_0^{-1}}{1 + A u_0^{-1} \cos(\theta)}.
 $$
 
-This is the equation for an ellipse of eccentricity $\epsilon = A
-u_0^{-1}$ and semi-lattice rectum $u_0^{-1}$.
+This is the equation for an ellipse of eccentricity $\varepsilon = A
+u_0^{-1}$ and semi-lattice rectum $p = u_0^{-1}$, with a focus at $r = 0$,
+i.e. $u = \infty$.
+There are many things we could check here, but one sensible thing to
+consider is the relation between eccentricity and energy $E$.
+We have
+
+$$
+0 = U_\text{eff}(u) - E = (u-u_0)^2 - u_0^2 - E.
+$$
+
+The amplitude is simply the distance between the $u_0$ and the roots,
+
+$$
+A = \sqrt{u_0^2 + E}.
+$$
+
+The energy 
