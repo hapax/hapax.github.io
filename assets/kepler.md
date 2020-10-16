@@ -7,8 +7,8 @@ categories: [Physics, Hacks]
 date:  2020-10-16
 ---
 
-**October 16, 2020.** *A quick, late night insight into Kepler's
-problem: an elliptical orbit is just simple harmonic motion with
+**October 16, 2020.** *Night thoughts on Kepler's
+problem. Main takeaway: an elliptical orbit is just simple harmonic motion with
 respect to inverse radius!*
 
 #### Kepler's laws
