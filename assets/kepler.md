@@ -151,7 +151,7 @@ $$
 In other words, time in $u$ coordinates is proportional to angle!
 
 Finally, let's determine the motion in $u$ coordinates.
-The "stiffness" of the restoring force, and hence angular frequency
+The "stiffness" $k$ of the restoring force, and hence angular frequency
 $\Omega$, are given by
 
 $$
