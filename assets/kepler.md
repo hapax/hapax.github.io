@@ -40,10 +40,26 @@ $$
 
 So far so good. The messiness comes from the fact that the first law
 allows for more mysterious *elliptical* orbits! Where the heck do
-these come from?
+these come from? Last night, I was finding it hard to fall asleep and
+a sweet hack occurred to me.
 
 #### Angular momentum
 
-As a warm up, let's remind ourselves
+As opposed to Newton, who started with Kepler's laws and derived his
+from there, we are going to go in the other direction, and use
+Newtonian notions to get the ellipses.
+First, let's recall the basics of angular momentum.
+Suppose an object of mass $m$ is at a distance $r$ from some point, and has an
+angular velocity $\omega = d\theta/dt$.
+Then the angular momentum $L$ is
+
+$$
+L = m \frac{r^2\,  d\theta}{d\t}.
+$$
+
+If $L$ is fixed, then in a fixed, small time increment $dt$, $r^2\,
+d\theta$ is fixed.
+But this is twice the area swept out!
+
 
 #### The first law
