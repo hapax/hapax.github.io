@@ -172,7 +172,7 @@ me, so the next section includes more details.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/kepler.png" width="100%"/>
+    ="/images/posts/kepler.png" width="75%"/>
     <figcaption><i>The effective potential in both radial and inverse
     radial coordinates.</i></figcaption>
 	</div>
