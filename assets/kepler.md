@@ -173,6 +173,8 @@ me, so the next section includes more details.
 Let's rewrite the harmonic motion in terms of $r$:
 
 $$
-r = \frac{1}{u_0 + A \cos(\theta)}.
+r = \frac{u_0^{-1}}{1 + A u_0^{-1} \cos(\theta)}.
 $$
 
+This is the equation for an ellipse of eccentricity $\epsilon = A
+u_0^{-1}$ and semi-lattice rectum $u_0^{-1}$.
