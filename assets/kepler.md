@@ -16,7 +16,7 @@ full glory:
 
 1. The orbit of a planet is an ellipse with the sun at one focus.
 2. Planets sweep out equal times in equal areas.
-3. The square of the planet's orbital period is proportional to the cube of its semi-major axis.
+3. The square of the orbital period is proportional to the cube of the semi-major axis.
 
 It's fairly simple to if we specialize the ellipse to a circle.
 The focus is the centre, where the sun (when taken to be much heavier
