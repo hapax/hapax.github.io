@@ -8,7 +8,8 @@ date:  2020-10-16
 ---
 
 **October 16, 2020.** *A quick, late night insight into Kepler's
-problem: an elliptical orbit is just simple harmonic motion in inverse radius!*
+problem: an elliptical orbit is just simple harmonic motion with
+respect to inverse radius!*
 
 #### Kepler's laws
 
