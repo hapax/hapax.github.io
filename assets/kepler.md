@@ -7,7 +7,8 @@ categories: [Physics, Hacks]
 date:  2020-10-16
 ---
 
-**October 16, 2020.** A quick hack for deriving Kepler's first law --- the hard one about ellipses!
+**October 16, 2020.** *A quick, late night insight into Kepler's
+problem: an elliptical orbit is just simple harmonic motion in inverse radius!*
 
 #### Kepler's laws
 
@@ -212,3 +213,8 @@ which is the eccentricity of a parabola, so the orbit is indeed
 unbound.
 For strictly positive energies, we have hyperbolic orbits, $\epsilon >
 1$.
+So, we get all the usual stuff we want.
+
+#### Conclusion
+
+
