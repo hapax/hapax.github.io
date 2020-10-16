@@ -165,4 +165,14 @@ $$
 u - u_0 = A \cos(\Omega \tau) = A \cos(\theta).
 $$
 
+This is an ellipse with a focus at infinity! Maybe you don't believe
+me, so the next section includes more details.
+
 #### Stuff about ellipses
+
+Let's rewrite the harmonic motion in terms of $r$:
+
+$$
+r = \frac{1}{u_0 + A \cos(\theta)}.
+$$
+
