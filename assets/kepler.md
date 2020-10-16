@@ -80,7 +80,7 @@ The hack involves working with the potential energies, so we first
 recall the gravitational potential:
 
 $$
-U = -\frac{GMm}{r}.
+U_\text{grav} = -\frac{GMm}{r}.
 $$
 
 Angular momentum has a counterpart, rotational kinetic energy:
@@ -97,12 +97,20 @@ it* to the potential, to get an *effective potential* for the planet
 which is a function of $r$ only:
 
 $$
-E(r) = K + U = \frac{L^2}{2m r^2} - -\frac{GMm}{r}.
+U(r) = K + U_\text{grav} = \frac{L^2}{2m r^2} -\frac{GMm}{r}.
 $$
 
 We are now left with *Kepler's problem*: determining what orbits are
 allowed for this potential.
 
-#### The first law
+#### Hacking Kepler's first law
 
-Here is the hack:
+The hack is, very simply, to change to a new variable, $u = 1/r$.
+Then the potential becomes
+
+$$
+U(r) = u\left(\frac{L^2}{2m}u -GMm\right).
+$$
+
+This is a quadratic, and we all know what quadratic potentials are
+associated with: simple harmonic motion!
