@@ -229,3 +229,7 @@ the conic sections arise from simple harmonic motion.
 This includes elliptical orbits, which wobble back and forth, and the
 parabolic and hyperbolic "orbits" which hit $u = 0$, i.e. go off to
 infinity in the $r$ coordinate.
+Although the $u= 1/r$ transformation is well-known --- there is
+nothing new orbiting the sun --- I have not been able to find anything
+like the low-tech treatment given here, so hopefully there is some
+small novelty in presentation.
