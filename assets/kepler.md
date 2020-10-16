@@ -169,6 +169,13 @@ $$
 This is an ellipse with a focus at infinity! Maybe you don't believe
 me, so the next section includes more details.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/posts/kepler.png"/>
+    <figcaption><i>The effective potential in both radial and inverse
+    radial coordinates.</i></figcaption>
+	</div>
+	</figure>
+
 #### More about ellipses
 
 Let's rewrite the harmonic motion in terms of $r$:
