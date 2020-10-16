@@ -150,4 +150,20 @@ $$
 
 In other words, time in $u$ coordinates is proportional to angle!
 
+Finally, let's determine the motion in $u$ coordinates.
+The "stiffness" of the restoring force, and hence angular frequency
+$\Omega$, are given by
+
+$$
+k = U''_\text{eff}(u) = \frac{L^2}{m}, \quad \Omega =
+\sqrt{\frac{k}{m}} = \frac{L}{m}.
+$$
+
+If we fix $E$, then the planet will oscillate around $u_0$ with some
+amplitude $A$, according to
+
+$$
+u - u_0 = A \cos(\Omega \tau) = 
+$$
+
 #### Stuff about ellipses
