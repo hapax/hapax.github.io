@@ -54,7 +54,7 @@ angular velocity $\omega = d\theta/dt$.
 Then the angular momentum $L$ is
 
 $$
-L = mr^2 \omega = m \frac{r^2\,  d\theta}{d\t}.
+L = mr^2 \omega = m \frac{r^2\,  d\theta}{dt}.
 $$
 
 If $L$ is fixed, then in a fixed, small time increment $dt$, $r^2\,
