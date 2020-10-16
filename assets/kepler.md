@@ -224,20 +224,29 @@ For strictly positive energies, we have hyperbolic orbits, $\varepsilon >
 1$.
 
 Another sanity check is the third law.
-The semi-major axis $a$ of an ellipse is just the larger radius,
-corresponding to the smallest value of $u$,
+There is a trick to doing this.
+First, we note that the area of the ellipse is $A = \pi ab$, where $a$
+and $b$ are the "width" and "height" of the ellipse.
+In terms of $u$, they correspond to the maximum and minimum values,
+$u_\pm = u_0 \pm A$, or
 
 $$
-u_\text{min} = u_0 - A = u_0 - \sqrt{u_0^2 + E}.
+A = \frac{\pi}{u_+u_-} = \frac{\pi}{(u_0 + \sqrt{u_0^2+E}) (u_0 +
+\sqrt{u_0^2+E})} = \frac{\pi}{E}.
 $$
 
-The orbital period is slightly trickier, but using the relation $L\,
-dt = m r^2\,  d\theta$, we have
+This is also telling us that the planet flies off to infinity at $E =
+0$.
+Anyway, the period is the time taken to sweep out the whole area,
+which from the second law, occurs at the constant rate we calculate
+above:
 
 $$
-T = \int_0^{2\pi} \frac{dt}{d\theta}\,  d\theta =
-\frac{m}{L}\int_0^{2\pi} \frac{d\theta}{(u_0 + A \cos(\theta))^2}
+\frac{dA}{dt} = \frac{2L}{m} \quad \Longrightarrow \quad T =
+\frac{A}{dA/dt} = \frac{2L\pi}{E m}.
 $$
+
+On the other hand, 
 
 #### Conclusion
 
