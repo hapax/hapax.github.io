@@ -178,7 +178,7 @@ me, so the next section includes more details.
 	</div>
 	</figure>
 
-#### More about ellipses
+#### Some sanity checks
 
 Let's rewrite the harmonic motion in terms of $r$:
 
@@ -220,9 +220,24 @@ $$
 
 which is the eccentricity of a parabola, so the orbit is indeed
 unbound.
-For strictly positive energies, we have hyperbolic orbits, $\epsilon >
+For strictly positive energies, we have hyperbolic orbits, $\varepsilon >
 1$.
-So, we get all the usual stuff we want.
+
+Another sanity check is the third law.
+The semi-major axis $a$ of an ellipse is just the larger radius,
+corresponding to the smallest value of $u$,
+
+$$
+u_\text{min} = u_0 - A = u_0 - \sqrt{u_0^2 + E}.
+$$
+
+The orbital period is slightly trickier, but using the relation $L\,
+dt = m r^2\,  d\theta$, we have
+
+$$
+T = \int_0^{2\pi} \frac{dt}{d\theta}\,  d\theta =
+\frac{m}{L}\int_0^{2\pi} \frac{d\theta}{(u_0 + A \cos(\theta))^2}
+$$
 
 #### Conclusion
 
