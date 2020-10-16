@@ -86,7 +86,7 @@ $$
 Angular momentum has a counterpart, rotational kinetic energy:
 
 $$
-K = \frac{1}{2}mr^2\omega^2 = \frac{L^2}{2m r^2}.
+K_\text{rot} = \frac{1}{2}mr^2\omega^2 = \frac{L^2}{2m r^2}.
 $$
 
 If $L$ is fixed, both kinetic and potential energies are a function of
@@ -97,20 +97,35 @@ it* to the potential, to get an *effective potential* for the planet
 which is a function of $r$ only:
 
 $$
-U(r) = K + U_\text{grav} = \frac{L^2}{2m r^2} -\frac{GMm}{r}.
+U_\text{eff}(r) = K_\text{rot} + U_\text{grav} = \frac{L^2}{2m r^2} -\frac{GMm}{r}.
 $$
 
+This is some complicated looking beast.
 We are now left with *Kepler's problem*: determining what orbits are
 allowed.
 
 #### Hacking Kepler's first law
 
-The hack is, very simply, to change to a new variable, $u = 1/r$.
-Then the potential becomes
+The hack is to change to a new variable, $u = 1/r$, so the potential becomes
 
 $$
-U(r) = u\left(\frac{L^2}{2m}u -GMm\right).
+U_\text{eff}(u) = u\left(\frac{L^2}{2m}u -GMm\right).
 $$
 
-This is a quadratic, and we all know what quadratic potentials are
-associated with: simple harmonic motion!
+This is quadratic, and quadratic potentials are
+easy: they lead to simple harmonic motion!
+The motion will be about the minimum of the potential, which occurs
+halfway between the two roots at
+
+$$
+u_0 = \frac{GMm^2}{L^2}.
+$$
+
+Effective potentials work as follows.
+If the planet has total energy $E$, then
+
+$$
+E = K + U_{\text{eff}}(eff), \quad K = \frac{1}{2}m v_u^2,
+$$
+
+where $v_u$ is the speed with respect to the $u$ variable.
