@@ -101,7 +101,7 @@ $$
 U_\text{eff}(r) = K_\text{rot} + U_\text{grav} = \frac{L^2}{2m r^2} -\frac{GMm}{r}.
 $$
 
-This is some complicated looking beast.
+This is a complicated looking beast.
 We are now left with *Kepler's problem*: determining what orbits are
 allowed.
 
