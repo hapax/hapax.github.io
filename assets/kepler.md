@@ -125,7 +125,7 @@ Effective potentials work as follows.
 If the planet has total energy $E$, then
 
 $$
-E = K + U_{\text{eff}}(eff), \quad K = \frac{1}{2}m \left(\frac{du}{d\tau}\right)^2,
+E = K + U_{\text{eff}}(u), \quad K = \frac{1}{2}m \left(\frac{du}{d\tau}\right)^2,
 $$
 
 where $K$ is the linear kinetic energy, and $\tau$ is the
