@@ -40,8 +40,8 @@ $$
 
 So far so good. The messiness comes from the fact that the first law
 allows for more mysterious *elliptical* orbits! Where the heck do
-these come from? Last night, I was finding it hard to fall asleep and
-a sweet hack occurred to me.
+these come from? Last night, I was finding it hard to sleep when
+a sweet hack for finding them occurred to me.
 
 #### Angular momentum
 
@@ -54,12 +54,55 @@ angular velocity $\omega = d\theta/dt$.
 Then the angular momentum $L$ is
 
 $$
-L = m \frac{r^2\,  d\theta}{d\t}.
+L = mr^2 \omega = m \frac{r^2\,  d\theta}{d\t}.
 $$
 
 If $L$ is fixed, then in a fixed, small time increment $dt$, $r^2\,
 d\theta$ is fixed.
-But this is twice the area swept out!
+But this is half the area swept out!
+We simply calculate the area of the corresponding circle at that radius:
 
+$$
+A = \pi r^2 \cdot \frac{d\theta}{2\pi} = \frac{1}{2} r^2 \,d\theta.
+$$
+
+While $r$ itself can change a little, this contributes a negligible
+amount as $dt$ gets small.
+Adding all these changes up, we find Kepler's second law: equal areas
+are swept out in equal times.
+Once again, Newton reasoned to conservation of angular momentum based
+on the second law.
+We will, instead, assume conservation of angular momentum, which
+indeed holds for a central force like gravity.
+
+Let's focus now on figuring out what orbits are allowed by gravity.
+The hack involves working with the potential energies, so we first
+recall the gravitational potential:
+
+$$
+U = -\frac{GMm}{r}.
+$$
+
+Angular momentum has a counterpart, rotational kinetic energy:
+
+$$
+K = \frac{1}{2}mr^2\omega^2 = \frac{L^2}{2m r^2}.
+$$
+
+If $L$ is fixed, both kinetic and potential energies are a function of
+$r$, suggesting that life will be simpler if we work with a single
+variable.
+To capture the contribution of this rotational term, we simply *add
+it* to the potential, to get an *effective potential* for the planet
+which is a function of $r$ only:
+
+$$
+E(r) = K + U = \frac{L^2}{2m r^2} - -\frac{GMm}{r}.
+$$
+
+We are now left with *Kepler's problem*: determining what orbits are
+allowed for this potential.
 
 #### The first law
+
+Here is the hack:
