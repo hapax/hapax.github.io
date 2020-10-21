@@ -88,7 +88,9 @@ We can expand the LHS and solve for $r$ using the quadratic formula:
 $$
 r^2+2r\left(R - \frac{2GM}{R^2}\right) + R^2 = 0 \quad
 \Longrightarrow \quad r =
-\frac{2GM}{R^2}\right) - R + \sqrt{\left(R - \frac{2GM}{R^2}\right)^2 - R^2}\right].
+\frac{2GM}{R^2}\right) - R + \sqrt{\left(R - \frac{2GM}{R^2}\right) \left(R + \frac{2GM}{R^2}\right)}\right].
 $$
+
+<!-- \sqrt{\left(R - \frac{2GM}{R^2}\right)^2 - R^2} -->
 
 #### Comparing to reality
