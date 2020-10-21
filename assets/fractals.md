@@ -215,13 +215,12 @@ $$
 
 If this is true for any $\lambda$, the slope at any two points is the
 same, and we get a straight line.
-
 Note that we only need a derivative at *one* point to get a straight
 line from self-similarity under arbitrary zooms.
 This shows that if there are other curves with this property, they are
 nowhere differentiable.
 
-#### Other varieites of self-similarity*
+#### Random fractals*
 
 What if zoomed in differently on the $x$ and $y$ axes?
 In other words, let's consider a generalization of the $Z_\lambda$
@@ -251,7 +250,13 @@ Instead of a fixed, deterministic function $f$, I can imagine some
 function $\hat{f}$ which fluctuates randomly.
 It could be stock market data, dice rolls, or the position of a
 bacterium motoring around in search of nutrients.
-Whatever the source of randomness, 
+Whatever the source of randomness, it may make the function jumpy
+enough to be non-differentiable, i.e. jagged when you zoom in, but not
+describable by a *deterministic* fractal either.
+But perhaps it can be described by a random fractal!
+
+Let's see what sort of behaviour is reasonable.
+
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
