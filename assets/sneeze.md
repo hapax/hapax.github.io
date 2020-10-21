@@ -2,16 +2,13 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The physics of sneezing (Part I)"
+title:  "The physics of sneezing"
 categories: Physics
 date:  2020-07-07
 ---
 
-**July 7, 2020.** *I study some simple models for the ballistic spray
-  of larger droplets of a sneeze. Including drag, the results are
-  consistent with the WHO guidelines. Note: I am not an aerosol
-  physicist, epidemiologist, doctor, or allied health practitioner of any sort. These calculations are
- solely for my own (and perhaps others') entertainment.*
+**July 7, 2020.** *I play around with very crude models of a
+  sneeze. Including drag, the results are consistent with the WHO guidelines.*
 
 #### Ballistic droplets
 
@@ -228,6 +225,9 @@ $$
 \mathbf{F}_\text{drag} = - \alpha v^2 \hat{\mathbf{v}},
 $$
 
+In two dimensions, this cannot be solved analytically, at least if we
+want everything as a function of time. (See the Appendix for a
+different approach.)
 To simplify, let's solve the toy one-dimensional version of the problem.
 The equation of motion is
 
@@ -242,7 +242,7 @@ $$
 v(t) = \frac{m}{\alpha t + mv_0^{-1}}.
 $$
 
-Integrating gives a log:
+Integrating gives a logarithm:
 
 $$
 x(t) = \int_0^{t} dt' \, v(t') =
@@ -321,18 +321,22 @@ $$
 R(r) = \frac{2m}{\pi \rho r^2} \left[\log\left(\frac{2 \rho r v_0}{\eta}\right) + \frac{1}{24}\right].
 $$
 
-Will larger droplets, $r \sim 200 \, \mu\text{m}$, travel more or less?
+<!-- Will larger droplets, $r \sim 200 \, \mu\text{m}$, travel more or -->
+<!-- less? -->
 
 <!-- (b) By setting $R'= 0$, find the maximum range and corresponding
 droplet size. Does this seem reasonable? -->
 
-(b) This equation only applies when there is a period where the
+(b) Show that for small particles, this model gives nonsensical
+results, and explain why the physical reasoning breaks down.
+
+<!-- This equation only applies when there is a period where the
 droplet undergoes quadratic drag, i.e. $v_0 > v_\text{L}$.
 Show that the minimum droplet size is
 
 $$
 r > \frac{\eta}{2\rho v_0} \approx \frac{}{}
-$$
+$$-->
 
 <!-- r = e^(13/24)(1.8\times 10^{-5})/(2 *1.2*100) = 0.1 microns -->
 <!-- range is ridiculous -->
@@ -358,13 +362,19 @@ their hand, and found ways to get around this constraint. -->
 
 <!-- 2*(5.2 \times 10^{-10})/(pi*1.2*(1*10^(-6))^2) (1/24 + log(2*100*1.2*(1*10^(-6))/(1.8\times 10^{-5}))) -->
 
-#### Next time!
+<!-- That brings us to the end of Part I. In Part II, we’ll examine -->
+<!-- the effects of turbulence, convective currents, and Brownian -->
+<!-- motion on the spray of droplets. Who would have thought aerosol -->
+<!-- physics could be the subject of worldwide controversy! -->
 
-That brings us to the end of Part I.
-In Part II, we'll examine the effects of turbulence, convective
-currents, and Brownian motion on the spray of droplets.
-Who would have thought aerosol physics could be the subject of
-worldwide controversy!
+#### Conclusion
+
+Our simple model gives reasonable results in accord with WHO
+recommendations, at least for large particles.
+For smaller particles the model is obviously broken.
+But as the world ponders the epidemiological significance of the ballistic
+range of a sneeze, it seems timely to explore some of the basic
+physics as well!
 <!-- This is the bit that appears to be most controversial! -->
 
 <!-- https://en.wikipedia.org/wiki/Aerosol#Solution_to_the_general_dynamic_equation -->
@@ -405,3 +415,5 @@ For a droplet of radius $r$, the drag force takes the form -->
 <!-- As a simple approximation, suppose it still takes $t = -->
 <!-- \sqrt{2h/g}$ for the droplet to hit the ground. We will focus on how far it travels -->
 <!-- when subject only to resistance in the horizontal direction of motion. -->
+
+#### Appendix: 
