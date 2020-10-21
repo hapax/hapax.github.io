@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Derivatives, fractals and randomness"
 categories: Mathematics
-date:  2020-07-06
+date:  2020-10-20
 ---
 
-**July 6, 2020.** *A derivative is a local linear
+**October 20, 2020.** *A derivative is a local linear
   approximation. Linear approximations are natural candidates for the
   function at "infinite zoom" since they are self-similar, i.e. fixed
   points of scaling. Here, I make the natural generalization to local
@@ -294,9 +294,26 @@ add.
 Hence, 
 
 $$
-\hat{f}(x_0 +h) - \hat{f}(x_0) = [\hat{f}(x_0 +h) - \hat{f}(x_0+ h/2)] +
-[\hat{f}(x_0 +h/2) - \hat{f}(x_0)] \sim \mathcal{N}(0, (h/2)^n) +
-\mathcal{N}(0, (h/2)^n) + o(h) \sim \mathcal{N}(0, h) + o(h)
+\begin{align*}
+\Delta f(h) & = \Delta f(h/2) + \Delta f(h/2) \\
+& \sim \mathcal{N}(0, (h/2)^n) +
+\mathcal{N}(0, (h/2)^n) + o(h) \\ & \sim \mathcal{N}(0, h^n) + o(h),
+\end{align*}
+$$
+
+where the last equation follows from the definition of $\Delta f$
+above.
+This is only consistent if
+
+$$
+2\left(\frac{h}{2}\right)^n = h^n \quad \Longrightarrow \quad n = 1.
+$$
+
+We have just constructed Brownian motion!
+It obeys
+
+$$
+\Delta f
 $$
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
