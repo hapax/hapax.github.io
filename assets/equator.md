@@ -83,17 +83,20 @@ $$
 (R+r)^2 = \frac{2GMr}{\omega^2 R^2}.
 $$
 
-We can expand the LHS and solve for $r$ using the quadratic formula:
+We can expand the LHS and solve for $r$ using the quadratic formula.
+But since we've approximated away $r^2$ once, we should be consistent
+and do it again.
+In other words, we expand the LHS and keep only the *linear* term, to get
 
 $$
-r^2+2r\left(R - \frac{2GM}{R^2}\right) + R^2 = 0 \quad
-\Longrightarrow \quad R + r =
-\frac{2GM}{R^2} + \sqrt{\left(R - \frac{2GM}{R^2}\right) \left(R + \frac{2GM}{R^2}\right)\right]}.
+r \approx R\left(\frac{GM}{\omega^2 R^3} - 1\right)^{-1}.
 $$
 
-It looks a bit complicated, but that's it!
-We can just plug in numbers and see what comes out.
+This is reasonably simple!
 
+<!-- $$ r^2+2r\left(R - \frac{2GM}{R^2}\right) + R^2 = 0 \quad -->
+<!-- \Longrightarrow \quad R + r = \frac{2GM}{R^2} + \sqrt{\left(R - -->
+<!-- \frac{2GM}{R^2}\right) \left(R + \frac{2GM}{R^2}\right)\right]}. $$-->
 <!-- \sqrt{\left(R - \frac{2GM}{R^2}\right)^2 - R^2} -->
 
 #### Comparing to reality
@@ -101,7 +104,32 @@ We can just plug in numbers and see what comes out.
 The mass and polar radius of the earth are approximately
 
 $$
-M = 5.97 \times 10^{24} \text{kg}, \quad R = 6360 \text{km},
+M = 5.972 \times 10^{24} \, \text{kg}, \quad R = 6.357 \times 10^6 \, \text{m},
 $$
 
-while Newton's constant is $G = $
+while Newton's constant is $G = 6.674 \times 10^{-11}$ in SI units.
+The angular frequency is just 1 revolution per day, or
+
+$$
+\omega = \frac{2\pi}{T} = \frac{2\pi}{24 \text{hours}} = 7.272 \times
+10^{-5} \, \text{s}^{-1}.
+$$
+
+Plugging these numbers in, we get an estimate for the equatorial
+bulge,
+
+$$
+r = 21700 \, \text{m},
+$$
+
+or $r \approx 22 \text{ km}$.
+Now, for the real result. Drum roll please...
+
+$$
+r = 21385 \, \text{m}!
+$$
+
+We are only off by $300$ metres or so!
+
+<!-- (6.357 \times 10^6)\left(\frac{(6.674 \times 10^(-11))(5.972 \times 10^(24))}{(7.272 \times
+10^{-5})^2 (6.357 \times 10^6)^3} - 1\right)^(-1) -->
