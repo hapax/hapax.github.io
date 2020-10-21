@@ -19,5 +19,6 @@ date:  2020-10-21
 
 Reading is a process of copying information from a text into your
 brain.
-This is a computational process, implemented in a complex but
-beautiful way by eyeballs and grey matter.
+This is implemented in a complex but beautiful way by our eyeballs and
+grey matter, but at the end of day, it's a simple computation process:
+copying bits from one pad to another.
