@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Derivatives and fractals"
+title:  "Derivatives, fractals and randomness"
 categories: Mathematics
 date:  2020-07-06
 ---
