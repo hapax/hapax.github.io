@@ -234,14 +234,14 @@ which obeys $Z_{(\lambda,\lambda)} = Z_\lambda$.
 This can also have fixed points, $Z_{\lambda_1, \lambda_2}[F] = F$,
 fractals which scale differently in different directions.
 As an example, polynomials are fractals in this sense.
-For instance, consider $F(x) = x^2$.
+For instance, consider $F(x) = \sqrt{x}$.
 Then
 
 $$
-Z_{(\alpha,\beta)}[F] = \alpha^{-1} (\beta x)^2 = (\alpha^{-1}\beta^2) x^2,
+Z_{(\alpha,\beta)}[F] = \alpha^{-1} \sqrt{\beta x} = \alpha^{-1}\sqrt{\beta} f(x),
 $$
 
-and hence $F$ is a fixed point of $Z_{(\alpha, \sqrt{\alpha})}$ for
+and hence $F$ is a fixed point of $Z_{(\alpha, \alpha^2)}$ for
 any $\alpha$.
 
 The last ingredient in this pot-pourri of ideas is *randomness*.
@@ -295,14 +295,14 @@ Hence,
 
 $$
 \begin{align*}
-\Delta f(h) & = \Delta f(h/2) + \Delta f(h/2) \\
+\Delta \hat{f}(h) & = \Delta \hat{f}(h/2) + \Delta \hat{f}(h/2) \\
 & \sim \mathcal{N}(0, (h/2)^n) +
 \mathcal{N}(0, (h/2)^n) + o(h) \\ & \sim \mathcal{N}(0, h^n) + o(h),
 \end{align*}
 $$
 
 where the last equation follows from the local random approximation to
-$\Delta f(h)$.
+$\Delta \hat{f}(h)$.
 From additivity of variances, the last equation is only consistent if
 
 $$
@@ -310,11 +310,24 @@ $$
 $$
 
 We have just constructed Brownian motion!
-It obeys
+More precisely, we say that $\hat{F}$ is undergoing *Brownian motion* if
 
 $$
-\Delta f
+\Delta \hat{F}(h) \sim \mathcal{N}(0, h) + o(h).
 $$
+
+Although this is not self-similar in the homogeneous sense we
+introduced earlier, it *is* self-similar in the inhomogenous sense.
+Recaling the variance rescales the vertical distance *squared*, so that
+
+$$
+\alpha^{-1}\Delta \hat{F}(h) \sim \mathcal{N}(0, \alpha^{-2} h) + o(h).
+$$
+
+Clearly, we can offset this by rescaling $h$ by $\alpha^2$, so that
+Brownian motion is indeed a random fractal, a fixed point of
+$Z_{(\alpha, \alpha^2)}$ for any $\alpha$.
+In this respect, it is the random cousin of the square root function.
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
