@@ -11,9 +11,9 @@ date:  2020-07-06
   approximation. Linear approximations are natural candidates for the
   function at "infinite zoom" since they are self-similar, i.e. fixed
   points of scaling. Here, I make the natural generalization to local
-  approximation by an arbitrary self-similar curve, and discuss a
-  generalization to inhomogeneous zoom and stochastic approximation
-  which leads naturally to Brownian stochastic motion.*
+  approximation by an arbitrary self-similar curve. I finish with
+  stochastic derivatives, here interpreted as random fractals, and
+  introduce Brownian motion as a simple example.*
 
 #### Straight line are fractals
 
@@ -263,25 +263,41 @@ $$
 $$
 
 where $\mathcal{P}(h)$ is some probability distribution depending on
-$h$, well-defined in the limit $h \to 0$.
-Note that here, we are conditioning on the value at $\hat{f}(x_0)$.
+$h$ and possiby the value at $\hat{f}(x_0)$, and which is well-defined
+in the limit $h \to 0$.
 We will use *random fractal* as a clickbait term for "self-similar
 probability distribution", i.e. such that $\mathcal{P}(h)$ is a
 fixed-point of some $Z_{(\alpha,\beta).}$
+More precisely, we mean that
 
-Let us try to build such an example.
+$$
+\alpha^{-1}\Delta f \sim \mathcal{P}(\beta h) + o(h).
+$$
+
+Let us try to build an example.
 We will *construct* $\hat{f}$ by starting the function at some point
-and simply letting it evolve randomly using the local random
-approximation, or random fractal of choice.
-The simplest example is a normal distribution, with mean zero, and
-whose variance is some polynomial in $h$, say $\mathcal{N}(0, h^n)$.
-So we want a function obeying
+and simply letting it evolve randomly using the local approximation,
+i.e. a random fractal of choice.
+The simplest example is a normal distribution.
+It should probably have mean zero so it has a chance of being
+continuous, and the variance (spread) should also decrease as some
+polynomial in $h$, say $\mathcal{N}(0, h^n)$.
+Then as $h\to 0$, we will get $\Delta f \to 0$ almost certainly, and
+continuity is guaranteed.
+
+What is a reasonable choice of $n$?
+A hugely important observation is that *variances add*, i.e. if $X$
+and $Y$ are indepenent random variables, then $\text{var}(X+Y) =
+\text{var}(X)+\text{var}(Y)$.
+And we can split a step $h$ into many small changes whose variances
+add.
+Hence, 
 
 $$
-\Delta f \sim \mathcal{N}(0,h^n) + o(h).
+\hat{f}(x_0 +h) - \hat{f}(x_0) = [\hat{f}(x_0 +h) - \hat{f}(x_0+ h/2)] +
+[\hat{f}(x_0 +h/2) - \hat{f}(x_0)] \sim \mathcal{N}(0, (h/2)^n) +
+\mathcal{N}(0, (h/2)^n) + o(h) \sim \mathcal{N}(0, h) + o(h)
 $$
-
-The question now is: what is a reasonable choice of $h$?
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
