@@ -301,9 +301,9 @@ $$
 \end{align*}
 $$
 
-where the last equation follows from the definition of $\Delta f$
-above.
-This is only consistent if
+where the last equation follows from the local random approximation to
+$\Delta f(h)$.
+From additivity of variances, the last equation is only consistent if
 
 $$
 2\left(\frac{h}{2}\right)^n = h^n \quad \Longrightarrow \quad n = 1.
