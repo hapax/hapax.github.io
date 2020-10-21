@@ -87,10 +87,21 @@ We can expand the LHS and solve for $r$ using the quadratic formula:
 
 $$
 r^2+2r\left(R - \frac{2GM}{R^2}\right) + R^2 = 0 \quad
-\Longrightarrow \quad r =
-\frac{2GM}{R^2} - R + \sqrt{\left(R - \frac{2GM}{R^2}\right) \left(R + \frac{2GM}{R^2}\right)}\right].
+\Longrightarrow \quad R + r =
+\frac{2GM}{R^2} + \sqrt{\left(R - \frac{2GM}{R^2}\right) \left(R + \frac{2GM}{R^2}\right)\right]}.
 $$
+
+It looks a bit complicated, but that's it!
+We can just plug in numbers and see what comes out.
 
 <!-- \sqrt{\left(R - \frac{2GM}{R^2}\right)^2 - R^2} -->
 
 #### Comparing to reality
+
+The mass and polar radius of the earth are approximately
+
+$$
+M = 5.97 \times 10^{24} \text{kg}, \quad R = 6360 \text{km},
+$$
+
+while Newton's constant is $G = $
