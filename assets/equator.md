@@ -51,7 +51,7 @@ Technically, if the earth is *not* a sphere, then the sphere theorem
 (that objects are attracted to the centre) no longer applies, but the
 corrections will be small enough we can ignore them.
 
-#### An equatorial equation
+#### An equatorial expansion
 
 Now, suppose that the radius at the equator is slightly larger, $R +
 r$.
@@ -60,4 +60,25 @@ Then, including the centrifugal potential,
 $$
 U_{\text{eq}} = U_{\text{cent}}(R+r) + U_{\text{grav}}(R+r) = -\frac{1}{2}m
 \omega^2 (R+r)^2 -\frac{GMm}{R+r}.
+$$
+
+We want to equate this with $U_\text{pole}$ and solve for $r$, but
+this will lead to a horrible cubic equation to solve.
+To proceed, we use a typical physicist's trick: if $\epsilon \ll 1$, then
+
+$$
+\frac{1}{1+\epsilon} \approx 1 - \epsilon,
+$$
+
+since $(1+\epsilon)(1-\epsilon) = 1 - \epsilon^2 \approx 1$.
+In our case, this gives
+
+$$
+\frac{1}{R+r} = \frac{1}{R(1+r/R)} \approx \frac{1}{R} - \frac{r}(R^2),
+$$
+
+and hence, dividing by $GMm$ and simplifying, an equation for the equatorial radius
+
+$$
+\frac{1}{2GM}\omega^2 (R+r)^2 = \frac{r}{R^2}.
 $$
