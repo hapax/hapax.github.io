@@ -10,8 +10,10 @@ date:  2020-07-06
 **July 6, 2020.** *A derivative is a local linear
   approximation. Linear approximations are natural candidates for the
   function at "infinite zoom" since they are self-similar, i.e. fixed
-  points of scaling. Here, we make the natural generalization to local
-  approximation by an arbitrary self-similar curve.*
+  points of scaling. Here, I make the natural generalization to local
+  approximation by an arbitrary self-similar curve, and discuss a
+  generalization to inhomogeneous zoom which leads naturally to
+  Brownian stochastic motion.*
 
 #### Straight line are fractals
 
@@ -219,19 +221,17 @@ line from self-similarity under arbitrary zooms.
 This shows that if there are other curves with this property, they are
 nowhere differentiable.
 
-#### So what?
+#### Inhomogeneous zoom
 
-Is this useful?
-Not as far as I can see.
-For instance, defining a second derivative seems to be unnatural, since
-even though I can define finite differences in the usual way, there
-is no equivalent of Taylor's theorem I can use to guarantee the error
-shrinks as $o(h^2)$.
-So it remains a curiosity.
-But it's nice to notice that functions can exhibit all sorts of
-interesting behaviour at infinite zoom.
-Put differently, the notion of a local self-similar approximation is
-not as "straightforward" as you might think!
+What if zoomed in differently on the $x$ and $y$ axes?
+In other words, let's consider a generalization of the $Z_\lambda$
+operator, $Z_{\lambda_1, \lambda_2}$, which is defined by
+
+$$
+Z_{\lambda_1, \lambda_2}[f] = \lambda_{2}^{-1} \circ f \circ \lambda_1.
+$$
+
+This can also have fixed points, $Z$
 
 <!-- #### Higher derivatives
 
