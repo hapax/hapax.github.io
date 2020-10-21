@@ -74,7 +74,7 @@ since $(1+\epsilon)(1-\epsilon) = 1 - \epsilon^2 \approx 1$.
 In our case, this gives
 
 $$
-\frac{1}{R+r} = \frac{1}{R(1+r/R)} \approx \frac{1}{R} - \frac{r}(R^2),
+\frac{1}{R+r} = \frac{1}{R(1+r/R)} \approx \frac{1}{R} - \frac{r}{R^2},
 $$
 
 and hence, after some algebra, an equation for the equatorial radius
