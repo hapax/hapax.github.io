@@ -14,3 +14,10 @@ date:  2020-10-21
   fidelity of processing. I perform some less responsible "research"
   and show that, even for a brain vastly superior to ours, there are
   fundamental physics limits on speed reading.*
+
+#### What is reading?
+
+Reading is a process of copying information from a text into your
+brain.
+This is a computational process, implemented in a complex but
+beautiful way by eyeballs and grey matter.
