@@ -221,7 +221,7 @@ line from self-similarity under arbitrary zooms.
 This shows that if there are other curves with this property, they are
 nowhere differentiable.
 
-#### Inhomogenous zooms and stochasticity*
+#### Self-similarity, inhomogenous and stochastic*
 
 What if zoomed in differently on the $x$ and $y$ axes?
 In other words, let's consider a generalization of the $Z_\lambda$
