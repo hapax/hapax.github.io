@@ -249,7 +249,7 @@ any $\alpha$.
 #### Stochastic self-similarity
 
 The last ingredient in this somewhat discursive pot-pourri of ideas is
-a *random curve*.
+a *random* or *stochastic curve*.
 Instead of a fixed, deterministic function $f$, I can imagine some
 function $\hat{f}$ which fluctuates randomly.
 It could be stock market data, dice rolls, or the position of a
