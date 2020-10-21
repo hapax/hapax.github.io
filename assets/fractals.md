@@ -250,7 +250,11 @@ any $\alpha$.
 
 The last ingredient in this somewhat discursive pot-pourri of ideas is
 a *random curve*.
-In other words, instead of 
+Instead of a fixed, deterministic function $f$, I can imagine some
+function $\hat{f}$ which fluctuates randomly.
+It could be stock market data, dice rolls, or the position of a
+bacterium motoring around in search of nutrients.
+Whatever the source of randomness, 
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
