@@ -244,8 +244,7 @@ $$
 and hence $F$ is a fixed point of $Z_{(\alpha, \sqrt{\alpha})}$ for
 any $\alpha$.
 
-The last ingredient in this somewhat discursive pot-pourri of ideas is
-a *random* or *stochastic curve*.
+The last ingredient in this pot-pourri of ideas is *randomness*.
 Instead of a fixed, deterministic function $f$, I can imagine some
 function $\hat{f}$ which fluctuates randomly.
 It could be stock market data, dice rolls, or the position of a
@@ -255,7 +254,8 @@ enough to be non-differentiable, i.e. jagged when you zoom in, but not
 describable by a *deterministic* fractal either.
 But perhaps it can be described by a random fractal!
 
-First, let's see what a local random approximation means.
+First, let's see what a local random approximation means (also called
+*stochastic derivatives*).
 A natural guess is
 
 $$
@@ -265,6 +265,15 @@ $$
 where $\mathcal{P}(h)$ is some probability distribution depending on
 $h$, well-defined in the limit $h \to 0$.
 Note that here, we are conditioning on the value at $\hat{f}(x_0)$.
+We will use *random fractal* as a clickbait term for "self-similar
+probability distribution", i.e. such that $\mathcal{P}(h)$ is a
+fixed-point of some $Z_{(\alpha,\beta).}$
+
+Let us try to build such an example.
+We will *construct* $\hat{f}$ by starting the function at some point
+and simply letting it evolve randomly using the local random
+approximation, or random fractal of choice.
+What are some 
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
