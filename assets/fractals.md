@@ -231,7 +231,7 @@ $$
 Z_{\lambda_1, \lambda_2}[f] = \lambda_{2}^{-1} \circ f \circ \lambda_1.
 $$
 
-This can also have fixed points, $Z$
+This can also have fixed points, $Z_{\lambda_1, \lambda_2}[F] = F$.
 
 <!-- #### Higher derivatives
 
