@@ -198,7 +198,7 @@ zoom in.
 Here, we obviously have a curve rather than a function per se, but the
 same idea holds.
 
-#### Lines are special
+<!-- #### Lines are special-->
 
 You may have noticed that I left $\lambda$ ambiguous when defining self-similarity.
 Is a function $F$ self-similar if $Z_\lambda[F] = F$ for *any*
@@ -221,7 +221,7 @@ line from self-similarity under arbitrary zooms.
 This shows that if there are other curves with this property, they are
 nowhere differentiable.
 
-#### Inhomogeneous zoom
+#### Inhomogenous zooms and stochasticity*
 
 What if zoomed in differently on the $x$ and $y$ axes?
 In other words, let's consider a generalization of the $Z_\lambda$
@@ -234,7 +234,6 @@ $$
 which obeys $Z_{(\lambda,\lambda)} = Z_\lambda$.
 This can also have fixed points, $Z_{\lambda_1, \lambda_2}[F] = F$,
 fractals which scale differently in different directions.
-
 As an example, polynomials are fractals in this sense.
 For instance, consider $F(x) = x^2$.
 Then
@@ -245,8 +244,6 @@ $$
 
 and hence $F$ is a fixed point of $Z_{(\alpha, \sqrt{\alpha})}$ for
 any $\alpha$.
-
-#### Stochastic self-similarity
 
 The last ingredient in this somewhat discursive pot-pourri of ideas is
 a *random* or *stochastic curve*.
