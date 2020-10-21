@@ -243,7 +243,7 @@ $$
 Z_{(\alpha,\beta)}[F] = \alpha^{-1} (\beta x)^2 = (\alpha^{-1}\beta^2) x^2,
 $$
 
-and hence $F$ is a fixed point of $F_{(\alpha, \sqrt{\alpha})}$ for
+and hence $F$ is a fixed point of $Z_{(\alpha, \sqrt{\alpha})}$ for
 any $\alpha$.
 
 #### Stochastic self-similarity
