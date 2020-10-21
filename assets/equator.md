@@ -23,7 +23,7 @@ a = \frac{v^2}{r} = \omega^2 r.
 $$
 
 This looks like a *centrifugal force* $F = ma$, arising from a quadratic
-potential centred at $r = 0$:
+potential
 
 $$
 F = -\frac{dU_\text{cent}}{dr} \quad \Longrightarrow \quad U_\text{cent} = -\frac{1}{2}m
@@ -77,8 +77,18 @@ $$
 \frac{1}{R+r} = \frac{1}{R(1+r/R)} \approx \frac{1}{R} - \frac{r}(R^2),
 $$
 
-and hence, dividing by $GMm$ and simplifying, an equation for the equatorial radius
+and hence, after some algebra, an equation for the equatorial radius
 
 $$
-\frac{1}{2GM}\omega^2 (R+r)^2 = \frac{r}{R^2}.
+(R+r)^2 = \frac{2GMr}{\omega^2 R^2}.
 $$
+
+We can expand the LHS and solve for $r$ using the quadratic formula:
+
+$$
+r^2+2r\left(R - \frac{2GM}{R^2}\right) + R^2 = 0 \quad
+\Longrightarrow \quad r =
+\frac{2GM}{R^2}\right) - R + \sqrt{\left(R - \frac{2GM}{R^2}\right)^2 - R^2}\right].
+$$
+
+#### Comparing to reality
