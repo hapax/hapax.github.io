@@ -259,7 +259,7 @@ First, let's see what a local random approximation means (also called
 A natural guess is
 
 $$
-\hat{f}(x_0 + h) - \hat{f}(x_0) = \Delta f = \mathcal{P}(h) + o(h),
+\hat{f}(x_0 + h) - \hat{f}(x_0) = \Delta f \sim \mathcal{P}(h) + o(h),
 $$
 
 where $\mathcal{P}(h)$ is some probability distribution depending on
@@ -273,7 +273,15 @@ Let us try to build such an example.
 We will *construct* $\hat{f}$ by starting the function at some point
 and simply letting it evolve randomly using the local random
 approximation, or random fractal of choice.
-What are some 
+The simplest example is a normal distribution, with mean zero, and
+whose variance is some polynomial in $h$, say $\mathcal{N}(0, h^n)$.
+So we want a function obeying
+
+$$
+\Delta f \sim \mathcal{N}(0,h^n) + o(h).
+$$
+
+The question now is: what is a reasonable choice of $h$?
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
