@@ -225,13 +225,35 @@ nowhere differentiable.
 
 What if zoomed in differently on the $x$ and $y$ axes?
 In other words, let's consider a generalization of the $Z_\lambda$
-operator, $Z_{\lambda_1, \lambda_2}$, which is defined by
+operator, $Z_{(\alpha,\beta)}$, which is defined by
 
 $$
-Z_{\lambda_1, \lambda_2}[f] = \lambda_{2}^{-1} \circ f \circ \lambda_1.
+Z_{(\alpha,\beta)}[f] = \alpha^{-1} \circ f \circ \beta,
 $$
 
-This can also have fixed points, $Z_{\lambda_1, \lambda_2}[F] = F$.
+which obeys $Z_{(\lambda,\lambda)} = Z_\lambda$.
+This can also have fixed points, $Z_{\lambda_1, \lambda_2}[F] = F$,
+fractals which scale differently in different directions.
+
+As an example, polynomials are fractals in this sense.
+For instance, consider $F(x) = x^2$.
+Then
+
+$$
+Z_{(\alpha,\beta)}[F] = \alpha^{-1} (\beta x)^2 = (\alpha^{-1}\beta^2) x^2,
+$$
+
+and hence $F$ is a fixed point of $F_{(\alpha, \sqrt{\alpha})}$ for
+any $\alpha$.
+
+<!--Is this useful? Not as far as I can see. For instance, defining a -->
+<!--second derivative seems to be unnatural, since even though I can -->
+<!--define finite differences in the usual way, there is no equivalent -->
+<!--of Taylor’s theorem I can use to guarantee the error shrinks as -->
+<!--o(h2). So it remains a curiosity. But it’s nice to notice that -->
+<!--functions can exhibit all sorts of interesting behaviour at -->
+<!--infinite zoom. Put differently, the notion of a local self-similar -->
+<!--approximation is not as “straightforward” as you might think! -->
 
 <!-- #### Higher derivatives
 
