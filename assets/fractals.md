@@ -255,8 +255,16 @@ enough to be non-differentiable, i.e. jagged when you zoom in, but not
 describable by a *deterministic* fractal either.
 But perhaps it can be described by a random fractal!
 
-Let's see what sort of behaviour is reasonable.
+First, let's see what a local random approximation means.
+A natural guess is
 
+$$
+\hat{f}(x_0 + h) - \hat{f}(x_0) = \Delta f = \mathcal{P}(h) + o(h),
+$$
+
+where $\mathcal{P}(h)$ is some probability distribution depending on
+$h$, well-defined in the limit $h \to 0$.
+Note that here, we are conditioning on the value at $\hat{f}(x_0)$.
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
