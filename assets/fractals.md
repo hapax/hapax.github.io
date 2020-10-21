@@ -12,8 +12,8 @@ date:  2020-07-06
   function at "infinite zoom" since they are self-similar, i.e. fixed
   points of scaling. Here, I make the natural generalization to local
   approximation by an arbitrary self-similar curve, and discuss a
-  generalization to inhomogeneous zoom which leads naturally to
-  Brownian stochastic motion.*
+  generalization to inhomogeneous zoom and stochastic approximation
+  which leads naturally to Brownian stochastic motion.*
 
 #### Straight line are fractals
 
@@ -245,6 +245,12 @@ $$
 
 and hence $F$ is a fixed point of $F_{(\alpha, \sqrt{\alpha})}$ for
 any $\alpha$.
+
+#### Stochastic self-similarity
+
+The last ingredient in this somewhat discursive pot-pourri of ideas is
+a *random curve*.
+In other words, instead of 
 
 <!--Is this useful? Not as far as I can see. For instance, defining a -->
 <!--second derivative seems to be unnatural, since even though I can -->
