@@ -48,8 +48,17 @@ v = \frac{\partial \omega}{\partial k}\big|_{k_0} = \frac{\hbar
 $$
 
 using $E = \hbar \omega$ and $p = \hbar \omega$.
-If we define $\Delta t = \Delta x/v$, the position-momentum version gives
+If we identify $\Delta t$ as the time taken for the wavepacket to
+travel its own spread, $\Delta x$, then $v\Delta t = \Delta x$.
+The position-momentum uncertainty principle then gives
 
+$$
+\Delta x \cdot \Delta p = \frac{\partial E}{\partial p}|_{k_0} \Delta
+t \cdot \Delta p \gtrsim \hbar.
+$$
+
+If you squint, i.e. assume $v = \Delta E/\Delta p$, you get the
+energy-time form.
 
 #### MTML bound
 
