@@ -48,17 +48,37 @@ v = \frac{\partial \omega}{\partial k}\bigg|_{k_0} = \frac{\hbar
 $$
 
 using $E = \hbar \omega$ and $p = \hbar \omega$.
-If we identify $\Delta t$ as the time taken for the wavepacket to
-travel its own spread, $\Delta x$, then $v\Delta t = \Delta x$.
+If we linearize around the central wavenumber, we have
+
+$$
+\omega(k) \approx \omega(k_0) + v(k - k_0) \quad \Longrightarrow \quad
+v = \frac{\Delta \omega}{\Delta k} = \frac{\Delta E}{\Delta p},
+$$
+
+where now $\Delta p$ is interpreted as the momentum spread of the
+wavepacket and $\Delta E$ is the correspond energy spread.
+Let $\Delta t$ be the time taken for the wavepacket to
+travel the distance of its own spread, $\Delta x$, then $v\Delta t =
+\Delta x$.
 The position-momentum uncertainty principle then gives
 
 $$
-\Delta x \cdot \Delta p = \frac{\partial E}{\partial p}\bigg|_{k_0} \Delta
-t \cdot \Delta p \gtrsim \hbar.
+\Delta x \cdot \Delta p \approx \frac{\Delta E}{\Delta p} \Delta
+t \cdot \Delta p = \Delta E \cdot \Delta t \gtrsim \hbar.
 $$
 
-If you squint, i.e. assume $v = \Delta E/\Delta p$, you get the
-energy-time form of the uncertainty principle.
+So we get the energy-time form of the uncertainty principle!
+
+But it's actually quite different from the position-momentum form.
+Position and momentum are bases to measure the wavepacket in, and
+correspond to legitimate quantum-mechanical operators.
+Energy also corresponds to an operator, namely the Hamiltonian.
+But time is not an operator! Here, it appears very specifically as the
+time the wavepacket takes to move a whole $\Delta x$ away.
+Physically, this is the point at which *the position changes
+distinguishably*.
+Before that, there is overlap, and the wavepacket has some large
+chance of appearing in the same spot.
 
 #### MTML bound
 
