@@ -82,6 +82,9 @@ chance of appearing in the same spot.
 
 #### MTML bound
 
+This is the seed of a rigorous version of the energy-time uncertainty
+principle which doesn't depend on having a localized wavepacket.
+
 #### Virtual particles
 
 #### References
