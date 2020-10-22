@@ -16,7 +16,7 @@ date:  2020-10-22
 
 #### Uncertain uncertainty
 
-*Prerequisites: basic quantum mechanics.*
+*Prerequisites: quantum mechanics.*
 
 When Heisenberg layed down his uncertainty principle in 1927, it came
 in two flavours: position-momentum and energy-time.
@@ -27,7 +27,29 @@ $$
 \Delta t \gtrsim \hbar.
 $$
 
-In a sense, the second just follows from the first, provided we view
+What we mean by uncertainty is a bit uncertain.
+Often, the first semi-rigorous context we encounter these notions in
+is the *wavepacket*, i.e. a well-localized wavefunction in space
+$|\Psi(x)\rangle$.
+This has some spread of positions $\Delta x$, but we can Fourier
+transform to momentum space, where it will have some spread $\Delta p$.
+The uncertainty principle is then a mathematical result about the
+Fourier transform, and in fact, it is true for any wavefunction.
+
+We can derive the energy-time form for a wavepacket using the
+following hack.
+Let $\Psi(x, t)$ denote the profile of the wavepacket.
+We assume it's well-localised around some wavenumber $k_0$, so it has *group
+velocity*,
+
+$$
+v = \frac{\partial \omega}{\partial k}\big|_{k_0} = \frac{\hbar
+\partial \omega}{\hbar\partial k}|_{k_0} = \frac{\partial E}{\partial p}|_{k_0},
+$$
+
+using $E = \hbar \omega$ and $p = \hbar \omega$.
+If we define $\Delta t = \Delta x/v$, the position-momentum version gives
+
 
 #### MTML bound
 
