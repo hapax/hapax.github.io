@@ -97,6 +97,8 @@ principle which doesn't depend on having a localized wavepacket.
 uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08023)
 (2017), Sebastian Deffner and Steve Campbell.
 <!-- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd. -->
+- ["The Uncertainty Relation Between Energy and Time in Non-relativistic Quantum Mechanics"](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
+  (1945), L. MandelstamIg. Tamm.
 - ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
 
 <!-- *If you believe the speed-reading hype, you can
