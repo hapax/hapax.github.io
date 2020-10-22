@@ -24,7 +24,7 @@ Schematically, these are usually written
 
 $$
 \Delta x \cdot \Delta p \gtrsim \hbar, \quad \Delta E \cdot
-\Delta t \geq \hbar.
+\Delta t \gtrsim \hbar.
 $$
 
 These were not rigorously motiv
