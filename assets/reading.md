@@ -43,8 +43,8 @@ We assume it's well-localised around some wavenumber $k_0$, so it has *group
 velocity*,
 
 $$
-v = \frac{\partial \omega}{\partial k}\big|_{k_0} = \frac{\hbar
-\partial \omega}{\hbar\partial k}|_{k_0} = \frac{\partial E}{\partial p}|_{k_0},
+v = \frac{\partial \omega}{\partial k}\bigg|_{k_0} = \frac{\hbar
+\partial \omega}{\hbar\partial k}\bigg|_{k_0} = \frac{\partial E}{\partial p}\bigg|_{k_0},
 $$
 
 using $E = \hbar \omega$ and $p = \hbar \omega$.
@@ -53,12 +53,12 @@ travel its own spread, $\Delta x$, then $v\Delta t = \Delta x$.
 The position-momentum uncertainty principle then gives
 
 $$
-\Delta x \cdot \Delta p = \frac{\partial E}{\partial p}|_{k_0} \Delta
+\Delta x \cdot \Delta p = \frac{\partial E}{\partial p}\bigg|_{k_0} \Delta
 t \cdot \Delta p \gtrsim \hbar.
 $$
 
 If you squint, i.e. assume $v = \Delta E/\Delta p$, you get the
-energy-time form.
+energy-time form of the uncertainty principle.
 
 #### MTML bound
 
