@@ -2,23 +2,53 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Fundamental limits to speed reading"
-categories: [Physics, Computation]
-date:  2020-10-21
+title:  "Virtual particles and uncertainty"
+categories: [Physics]
+date:  2020-10-22
 ---
 
-**October 21, 2020.** *If you believe the speed-reading hype, you can
+**October 22, 2020.**  *According to quantum mechanics folklore,
+  virtual particles are objects which can flit in and out of existence,
+  governed by Heisenberg's uncertainty principle in its energy-time
+  form. But what is uncertainty in time? And what are virtual
+  particles in a quantum-mechanically responsible sense? Here, we
+  connect the two rigorously.*
+
+#### Uncertain uncertainty
+
+When Heisenberg layed down his uncertainty principle in 19
+
+#### MTML bound
+
+#### Virtual particles
+
+#### References
+
+<!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
+  (1981), Jakob D. Bekenstein. -->
+<!-- - ["Quantum noise and information"](https://projecteuclid.org/euclid.bsmsp/1200513783)
+  (1967), H. J. Bremmerman. -->
+- ["Quantum speed limits: from Heisenberg’s
+uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08023)
+(2017), Sebastian Deffner and Steve Campbell.
+<!-- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd. -->
+- ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
+
+<!-- *If you believe the speed-reading hype, you can
   read as fast as you like without sacrificing
   comprehension. Responsible psychological research shows this is not
   the case: there is inevitably a cognitive tradeoff between speed and
   fidelity of processing. I perform some less responsible "research"
   and show that, even for a brain vastly superior to ours, there are
-  fundamental physics limits on speed reading.*
+  fundamental physics limits on speed reading.* -->
 
-#### What is reading?
-
-Reading is a process of copying information from a text into your
-brain.
-This is implemented in a complex but beautiful way by our eyeballs and
-grey matter, but at the end of day, it's a simple computation process:
-copying bits from one pad to another.
+<!-- Now we return to our original problem, namely, placing a fundamental
+physical limit on speed reading.
+As a test case, we consider Marcel Proust's six-volume epic, *In Search of Lost Time*.
+It has around $1.3$ million words, which translates to around
+$6$ million bits, assuming a compressibility of one bit per character,
+as discussed above. The Bremmerman-Bekenstein bound depends on how heavy the book is.
+The Modern Library edition weights in at $m = 3.7 \text{ kg}$, with a
+maximal rate $$\nu \leq \frac{\pi mc^2}{\hbar ln 2} \approx 1.5 \times 10^{52} \text{ bit s}^{-1}.
+$$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
+a decrease in time in direct proportion to how much you skim.-->
