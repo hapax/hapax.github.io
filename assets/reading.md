@@ -27,7 +27,7 @@ $$
 \Delta t \gtrsim \hbar.
 $$
 
-These were not rigorously motiv
+In a sense, the second just follows from the first, provided we view
 
 #### MTML bound
 
