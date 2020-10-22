@@ -78,11 +78,19 @@ Physically, this is the point at which *the position changes
 distinguishably*.
 Prior to this time, there is large overlap between the wavepackets at
 the two different times.
+This is the seed of a rigorous version of the energy-time uncertainty
+principle which doesn't depend on having a localized wavepacket.
 
 #### MTML bound
 
-This is the seed of a rigorous version of the energy-time uncertainty
-principle which doesn't depend on having a localized wavepacket.
+In 1945,
+[Mandelstamm and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
+gave the first rigorous version of the energy-time uncertainty
+relation.
+It's important, because it tells us what it means!
+I'll present the nice proof from
+[Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf),
+since it's closely related 
 
 #### Virtual particles
 
