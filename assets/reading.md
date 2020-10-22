@@ -16,7 +16,18 @@ date:  2020-10-22
 
 #### Uncertain uncertainty
 
-When Heisenberg layed down his uncertainty principle in 19
+*Prerequisites: basic quantum mechanics.*
+
+When Heisenberg layed down his uncertainty principle in 1927, it came
+in two flavours: position-momentum and energy-time.
+Schematically, these are usually written
+
+$$
+\Delta x \cdot \Delta p \gtrsim \hbar, \quad \Delta E \cdot
+\Delta t \geq \hbar.
+$$
+
+These were not rigorously motiv
 
 #### MTML bound
 
