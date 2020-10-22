@@ -76,8 +76,9 @@ But time is not an operator! Here, it appears very specifically as the
 time the wavepacket takes to move a whole $\Delta x$ away.
 Physically, this is the point at which *the position changes
 distinguishably*.
-Before that, there is overlap, and the wavepacket has some large
-chance of appearing in the same spot.
+Prior to this time, there is overlap, and if we measured the position
+of the wavepacket it would have a large chance of appearing in the
+same spot.
 
 #### MTML bound
 
