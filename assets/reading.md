@@ -68,8 +68,7 @@ t \cdot \Delta p = \Delta E \cdot \Delta t \gtrsim \hbar.
 $$
 
 So we get the energy-time form of the uncertainty principle!
-
-But it's actually quite different from the position-momentum form.
+But it's very different from the position-momentum form.
 Position and momentum are bases to measure the wavepacket in, and
 correspond to legitimate quantum-mechanical operators.
 Energy also corresponds to an operator, namely the Hamiltonian.
