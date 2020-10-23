@@ -245,8 +245,10 @@ $$
 \Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A, B]\rangle|.
 $$
 
-This is called the *Robertson uncertainty principle*, after
-[Howard Percy Robertson](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163).
+This is called the *Robertson-Schrödinger uncertainty principle*
+(continuing our pattern of double-barrel uncertainty relations) after
+[Howard Percy Robertson](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163)
+and Erwin Schrödinger.
 The expectation of the commutator lower bounds the
 product of uncertainties.
 We can connect this to energy-time uncertainty by plugging in the
@@ -263,7 +265,7 @@ $$
 \tau \leq \tau_A = \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-where $\tau_A$ is a "Mandelstam-Tamm-Robertson" (MTR) timescale
+where $\tau_A$ is a "Mandelstam-Tamm-Robertson-Schrödinger" (MTRS) timescale
 associated with $A$.
 The time needed to evolve to an orthogonal
 state has a bound made smaller by the amount of
@@ -285,7 +287,7 @@ If the expectation of $A$ is changing, it witnesses that
 $|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
-In fact, I think the MTR timescale should precisely be the time needed
+In fact, I think the MTRS timescale should precisely be the time needed
 for the state to become effectively distinguishable using $A$,
 just like $x$ in the wavepacket case, but I haven't been able to show
 this formally yet.
@@ -296,7 +298,8 @@ $$
 \langle A\rangle_{\tau_A} - \langle A\rangle_{0} \sim \Delta A.
 $$
 
-In other words, the expectations change by 
+In other words, I think the expectations should change by the spread
+of $A$ in the initial state.
 
 #### Virtual particles
 
