@@ -410,8 +410,8 @@ $$
 Thus, the MTRS timescale is
 
 $$
-\tau = \pi \hbar \left[\frac{\sqrt{\sum_n |A_n|^2
-n(n - N)}}{2\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}}\right].
+\tau = \frac{\pi \hbar}{2\lambda} \left[\frac{\sqrt{\sum_n |A_n|^2
+n(n - N)}}{\left|\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}\right|}\right].
 $$
 
 #### References
