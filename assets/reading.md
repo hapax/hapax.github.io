@@ -261,10 +261,10 @@ general, that the lower bound on the energy uncertainty from
 Mandelstam-Tamm is comparable:
 
 $$
-\tau_\text{MTR} \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
+\tau_A \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-where $\tau_\text{MTR}$ is the "Mandelstam-Tamm-Robertson" timescale
+where $\tau_A$ is the "Mandelstam-Tamm-Robertson" (MTR) timescale
 associated with $A$.
 It suggests that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
@@ -327,7 +327,7 @@ distinguishable states in the sense that the time scale for
 achieving orthogonality is
 
 $$
-\tau \sim \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
+\tau_i \sim \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
 
 Of course, this raises a bevy of questions:
