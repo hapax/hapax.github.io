@@ -431,6 +431,10 @@ $$
 This has some sensible features.
 If $\lambda = 0$, and there is no interaction, then we will never see
 any change in expected particle number.
+If $\theta = 0$, then $\alpha$ has no imaginary part, and there is no
+transition; roughly, $\theta$ tells us the asymmetry between the
+forward and the backward process, required for there to be an overall
+change in expected particle number.
 
 #### References
 
