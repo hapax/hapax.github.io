@@ -434,7 +434,8 @@ forward and the backward process, required for there to be an overall
 change in expected particle number.
 Finally, as $\alpha \to 0$, we simply recover the ground state of the
 unperturbed Hamiltonian, which cannot change
-expected particle number since we need particles to make particles.
+expected particle number since we need particles to make or destroy
+particles.
 
 #### 6. Conclusion <a id="sec-6" name="sec-6"></a>
 
