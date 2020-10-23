@@ -348,8 +348,7 @@ distinguishable by measurements of the number operator $N_i$ itself.
 #### A cubic example
 
 This is all very nice but it is a bit formal.
-Can we see particles popping into and out of existence slightly more
-explicitly?
+Can we see particles popping into and out of existence in an explicit example?
 Let's consider the simplest nontrivial example, a perturbed harmonic
 oscillator with Hamiltonian
 
