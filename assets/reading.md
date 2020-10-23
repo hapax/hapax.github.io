@@ -396,7 +396,13 @@ $$
 n^2 - \langle N\rangle^2.
 $$
 
-Using $a^\dagger|n\rangle = \sqrt{n+1}|n+1\rangle$, the expectation of $[N, I]$ is
+Using the identity,
+
+$$
+a^\dagger|n\rangle = \sqrt{n+1}|n+1\rangle,
+$$
+
+the expectation of $[N, I]$ is
 
 $$
 \begin{align*}
