@@ -286,8 +286,9 @@ $|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
 In fact, I think the MTR timescale should precisely be the time needed
-for the state to become distinguishable using $A$, something like the
-wavepacket case, but I haven't been able to show this formally.
+for the state to become effectively distinguishable using $A$,
+just like $x$ in the wavepacket case, but I haven't been able to show
+this formally yet.
 
 #### Virtual particles
 
