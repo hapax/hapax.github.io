@@ -28,13 +28,13 @@ $$
 $$
 
 What we mean by uncertainty is a bit uncertain.
-Often, the first semi-rigorous context we encounter these notions in
-is the *wavepacket*, i.e. a well-localized wavefunction in space
-$|\psi(x)\rangle$.
+Often, the first semi-rigorous context we encounter these notions is
+the *wavepacket*, i.e. a well-localized wavefunction in space $|\psi(x)\rangle$.
 This has some spread of positions $\Delta x$, but we can Fourier
 transform to momentum space, where it will have some spread $\Delta p$.
 The uncertainty principle is then a mathematical result about the
-Fourier transform, and in fact, it is true for any wavefunction.
+Fourier transform, and in fact, it is true for any wavefunction, not
+merely the well-localised ones.
 
 We can derive the energy-time form for a wavepacket using the
 following hack.
@@ -94,6 +94,8 @@ I'll present the nice proof from
 [Levitin and Toffoli (2009)](https://arxiv.org/abs/0905.3417).
 Consider some initial state $|\psi_0\rangle$ in a Hilbert space, which
 evolves according to a Hamiltonian $H$ with eigenstates $|E_n\rangle$.
+Averages with respect to this state are denoted $\langle A\rangle_0 =
+\langle\psi_0|A|\psi_0\rangle$.
 We can expand our state $|\psi_0\rangle$ and its time-evolved
 counterpart in energy eigenstates as
 
@@ -196,7 +198,7 @@ $$
 $$
 
 where $E = \langle H\rangle$ is the average energy.
-As before, when the state evolves so that $O(\tau) = 0$, the real and
+As before, when the state evolves to an orthogonal state with $O(\tau) = 0$, the real and
 imaginary part vanish, and we are left with the uncertainty relation
 of [Margolus and Levitin (1997)](https://arxiv.org/abs/quant-ph/9710043):
 
@@ -212,6 +214,15 @@ $$
 $$
 
 #### Virtual particles
+
+Let's return to the position-momentum version for a moment.
+As before, for a state $|\psi_0\rangle$, we define the spread as the
+variance of operators measured in the state:
+
+$$
+\Delta x = \sqrt{\langle x^2\rangle_0 -\langle x\rangle_0^2}, \quad
+\Delta p = \sqrt{\langle p^2\rangle_0 -\langle p\rangle_0^2}.
+$$
 
 #### References
 
