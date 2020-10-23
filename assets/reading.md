@@ -256,19 +256,19 @@ $$
 \Delta E \geq \frac{1}{2 \Delta A}|\langle [H, A]\rangle|.
 $$
 
-At this point, we will make the assumption, which need not hold in
-general, that the lower bound on the energy uncertainty from
-Mandelstam-Tamm is comparable:
+Levitin and Toffoli (2009) showed that Mandelstam-Tamm is sometimes
+tight, so we assume it is the higher bound. In this case,
 
 $$
-\tau_A \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
+\tau \leq \tau_A = \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
 where $\tau_A$ is the "Mandelstam-Tamm-Robertson" (MTR) timescale
 associated with $A$.
-It suggests that $\tau$, the time it takes to evolve to an orthogonal
-state, is made smaller by the amount of *non-conservation* of $A$, as
-measured by $[H, A]$, and large by the variance $\Delta A$.
+Then $\tau$, the time it takes to evolve to an orthogonal
+state, is upper bounded by a timescale smaller by the amount of
+*non-conservation* of $A$, as measured by $[H, A]$, and large by the
+variance $\Delta A$.
 As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
 conserved by time evolution, since
 
@@ -285,8 +285,8 @@ If the expectation of $A$ is changing, it witnesses that
 $|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
-(I suspect the MTR timescale can be sharply related to
-distinguishability using $A$.)
+I suspect the MTR timescale can be sharply related to
+distinguishability using $A$, but haven't been able to show this.
 
 #### Virtual particles
 
