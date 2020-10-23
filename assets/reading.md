@@ -281,35 +281,46 @@ The time needed to evolve to an orthogonal
 state has a bound made smaller by the amount of
 *non-conservation* of $A$, as measured by $[H, A]$, and larger by the
 variance $\Delta A$.
-As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
-conserved by time evolution, since
+As a quick reminder, in the Heisenberg picture $[H, A] = i\hbar\dot{A}$.
+Thus, if they commute, the expectation of $A$ is
+conserved.
 
-$$
-\begin{align*}
-\langle A\rangle_t = \langle \psi(t)| A |\psi(t) \rangle & = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
+<!-- $$\begin{align*}
+\langle A\rangle_t = \langle \psi(t)| A |\psi(t) \rangle & = \langle \psi| A(t) |\psi \rangle 
+\\ & = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
 \rangle \\
 & = \langle \psi(0)| A e^{i H t/\hbar} e^{-i H t/\hbar} |\psi(t) \rangle = \langle A\rangle_0.
-\end{align*}
-$$
+\end{align*} $$-->
 
 This connection seems physically reasonable.
 If the expectation of $A$ is changing, it witnesses that
-$|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
+$|\psi(t)\rangle$ is becoming more distinguishable from
+$|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
-In fact, I think the MTRS timescale should precisely be the time needed
-for the state to become effectively distinguishable using $A$,
-just like $x$ in the wavepacket case, but I haven't been able to show
-this formally yet.
-But guided by the wavepacket example, I would expect that after
-$\tau_A$, we have something like
+In fact, since $[H, A] = i\hbar\dot{A}$, we should have
 
 $$
-\langle A\rangle_{\tau_A} - \langle A\rangle_{0} \sim \Delta A.
+|\langle [H, A] \rangle| = \hbar |\langle \dot{A}\rangle| \sim \hbar
+\frac{|\Delta A|}{|\Delta \tau|}.
 $$
 
-In other words, I think that after the MTRS timescale, the expectation
-of $A$ should change by its spread in the initial state.
+If we interpret $|\Delta A| = \Delta A$ as the spread, and plug into
+MTRS, we get
+
+$$
+\tau_A = \pi \Delta \tau,
+$$
+
+where $\Delta \tau$ is the time needed to change the expectation of
+$A$ by $\Delta A$:
+
+$$
+\langle A\rangle_{\tau_A/\pi} - \langle A\rangle_{0} \sim \Delta A.
+$$
+
+This is very similar to the wavepacket case, and uses the same sort of
+implicit localisation, but in the $A$-basis.
 
 #### 4. Virtual particles<a id="sec-4" name="sec-4"></a>
 
@@ -352,8 +363,7 @@ $$
 \tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
 
-And indeed, if my little hypothesis is correct, they will become
-distinguishable by measurements of the number operator $N_i$ itself.
+If my interpretation of the MTRS timescale is correct, they will become distinguishable by measurements of the number operator $N_i$ itself.
 
 #### 5. A coherent cubic example<a id="sec-5" name="sec-5"></a>
 
@@ -422,7 +432,7 @@ for $\theta = \text{arg}(\alpha)$.
 The MTRS timescale can then be written
 
 $$
-\tau = \frac{\pi \hbar}{2 |\lambda\alpha^2 \sin\theta|}.
+\tau_N = \frac{\pi \hbar}{2 |\lambda\alpha^2 \sin\theta|}.
 $$
 
 This has some sensible features.
@@ -439,30 +449,15 @@ particles.
 
 #### 6. Conclusion <a id="sec-6" name="sec-6"></a>
 
-It would be nice to prove the MTMR timescale $\tau_A$ does what I
-expect it to do, i.e. give the time required for a $\Delta A$ change in
-$\langle A\rangle$.
+It would be nice to prove more formally that the MTMR timescale
+$\tau_A$ is the time required for a $\Delta A$ change in $\langle
+A\rangle$, perhaps using similar techniques to Levitin and Toffoli.
 It would also be interesting to explore how these timescales relate to
-the Margous-Levitin timescale in the case where we start in a ground
-state, for instance.
-These are formal problems in non-relativistic quantum mechanics.
+other uncertainty relation timescales.
 More intriguingly, it remains to connect this non-relativistic picture
-to the other rigorous interpretation of virtual particles as mediating
-interactions in quantum field theory.
-
-I suspect a more complicated (or general) Fock space construction
-should illuminate the connection to the virtual or *off-shell*
-particles in the Feynman diagrams of relativistic quantum field
+to the other rigorous interpretation of virtual particles as
+*off-shell* excitations mediating interactions in quantum field
 theory.
-For instance, it would be interesting to consider a finite
-one-dimensional string, with Hamiltonian
-
-$$
-H_0 = \sum_q \hbar \omega_q \left(N_q + \frac{1}{2}\right), \quad H =
-H_0 + \lambda I,
-$$
-
-for some set of interactions $I$.
 
 #### References
 
