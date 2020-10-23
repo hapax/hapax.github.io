@@ -449,10 +449,20 @@ These are formal problems in non-relativistic quantum mechanics.
 More intriguingly, it remains to connect this non-relativistic picture
 to the other rigorous interpretation of virtual particles as mediating
 interactions in quantum field theory.
+
 I suspect a more complicated (or general) Fock space construction
 should illuminate the connection to the virtual or *off-shell*
 particles in the Feynman diagrams of relativistic quantum field
 theory.
+For instance, it would be interesting to consider a finite
+one-dimensional string, with Hamiltonian
+
+$$
+H_0 = \sum_q \hbar \omega_q \left(N_q + \frac{1}{2}\right), \quad H =
+H_0 + \lambda I,
+$$
+
+for some set of interactions $I$.
 
 #### References
 
