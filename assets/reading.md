@@ -150,7 +150,15 @@ We can simplify this by observing that the second term is
 $$
 \sum_{mn}|C_nC_m|^2
 \sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
-E_n)t}{\hbar} = -t\frac{d}{dt}|O(t)|^2.
+E_n)t}{\hbar} = -t\frac{d}{dt}|O(t)|^2,
+$$
+
+which will vanish when $O(\tau) = 0$.
+The last term is related to the energy spread, and in fact
+
+$$
+\Delta H^2 = \langle H^2\rangle_0 - \langle H\rangle_0^2 = \sum_n
+C_n^2 E_n - \sum_{mn} C_nC_m E_n E_m
 $$
 
 #### Virtual particles
