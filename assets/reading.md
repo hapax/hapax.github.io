@@ -345,6 +345,20 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable using the number operator $N_i$.
 
+This is all very nice but it is a bit formal.
+Can we see particles popping into and out of existence slightly more
+explicitly?
+Let's consider the simplest nontrivial example, a perturbed harmonic
+oscillator with Hamiltonian
+
+$$
+H = \hbar \omega (N + \frac{1}{2}) + \lambda
+\left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + I,
+$$
+
+where $N = aa^\dagger$ and $H_0$ is the unperturbed harmonic
+oscillator, wth $[N, H_0] = 0$.
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
