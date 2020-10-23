@@ -110,14 +110,9 @@ O(t) = \langle \psi_0 | \psi(t)\rangle = \sum_n |C_n|^2 e^{-i E_n t/\hbar}.
 $$
 
 Motivated by the wavepacket example, we expect an energy-time relation
-between the energy uncertainty
-
-$$
-\Delta E = \sqrt{\langle H^2\rangle_0 - \langle H\rangle_0^2},
-$$
-
-and the time $\tau$ taken to evolve to a state with no overlap, $O(\tau)
-= 0$, i.e. a state which is perfectly distinguishable.
+between the energy uncertainty $\Delta E = \sqrt{\langle
+H^2\rangle_0 - \langle H\rangle_0^2}$, and the time $\tau$ taken to
+evolve to a state with no overlap, $O(\tau) = 0$, i.e. a state which is perfectly distinguishable.
 First, we write out the overlap squared:
 
 $$
