@@ -152,10 +152,22 @@ which will vanish when $O(\tau) = 0$.
 The last term is related to the energy spread, since
 
 $$
-\begin{align*}
-\Delta H^2 & = \langle H^2\rangle_0 - \langle H\rangle_0^2 \\
-& = \sum_{n}C_n E_n\left(E_n- E\right)
-\end{align*}
+\sum_{mn} |C_nC_m|^2(E_m - E_n)^2 =\sum_{mn} |C_nC_m|^2(E_m^2 +
+E_n^2 - 2E_m E_n) = 2\langle H^2\rangle - 2\langle H\rangle^2 =
+2\Delta E.
+$$
+
+Thus, we find that when $O(\tau) = 0$,
+
+$$
+0 \geq 1 - \frac{1}{\pi^2}\left(\frac{2t \Delta E}{\hbar}\right)^2.
+$$
+
+Rearranging gives the Mandelstamm-Tamm form of the energy-time
+uncertainty principle:
+
+$$
+\Delta E \cdot \tau \geq \frac{\pi \hbar}{2}.
 $$
 
 #### Virtual particles
