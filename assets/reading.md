@@ -378,7 +378,7 @@ everything is zero, both $\Delta N$ and the expectation of $[N, I]$,
 since
 
 $$
-\langle [N, I]\rangle \propto \langle a^dagger \rangle - \langle a
+\langle [N, I]\rangle \propto \langle a^\dagger \rangle - \langle a
 \rangle = 0.
 $$
 
@@ -395,6 +395,8 @@ $$
 \langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
 n^2 - \langle N\rangle^2.
 $$
+
+
 
 #### References
 
