@@ -215,7 +215,7 @@ $$
 \tau \geq \text{max}\left\{\frac{\pi\hbar}{2\Delta E}, \frac{\pi\hbar}{2E}\right\}.
 $$
 
-#### Non-conservation and orthogonality
+#### A conjecture about non-conservation and orthogonality
 
 Let's return to the position-momentum version for a moment.
 As before, for a state $|\psi\rangle$, we define the spread as the
