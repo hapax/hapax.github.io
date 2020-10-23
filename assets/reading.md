@@ -265,9 +265,9 @@ $$
 
 where $\tau_A$ is the "Mandelstam-Tamm-Robertson" (MTR) timescale
 associated with $A$.
-Then $\tau$, the time it takes to evolve to an orthogonal
-state, is upper bounded by a timescale smaller by the amount of
-*non-conservation* of $A$, as measured by $[H, A]$, and large by the
+The minimum time needed to evolve to an orthogonal
+state is made smaller by the amount of
+*non-conservation* of $A$, as measured by $[H, A]$, and larger by the
 variance $\Delta A$.
 As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
 conserved by time evolution, since
