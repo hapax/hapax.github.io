@@ -396,7 +396,7 @@ $$
 n^2 - \langle N\rangle^2.
 $$
 
-The expectation of $[N, I]$, on the other hand, is
+Using $a^\dagger|n\rangle = \sqrt{n+1}|n+1\rangke$, the expectation of $[N, I]$ is
 
 $$
 \begin{align*}
