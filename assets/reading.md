@@ -219,10 +219,10 @@ $$
 
 Let's return to the position-momentum version for a moment.
 As before, for a state $|\psi\rangle$, we define the spread as the
-variance of operators measured in the state:
+standard deviation of expectations measured in the state:
 
 $$
-\Delta x = \sqrt{\langle x^2\rangle-\langle x\rangle_0^2}, \quad
+\Delta x = \sqrt{\langle x^2\rangle-\langle x\rangle^2}, \quad
 \Delta p = \sqrt{\langle p^2\rangle -\langle p\rangle^2}.
 $$
 
@@ -289,8 +289,8 @@ is too blurry to usefully tell us about changes in the state.
 #### Virtual particles
 
 We'll now turn to a specific example of $A$: *particle number*.
-The basic setup requires that our Hilbert space take the form of a
-Fock space, which we take to be bosonic for simplicity.
+The basic setup requires a Fock space, which we take to be bosonic for
+simplicity.
 We have a set of creation and annihilation operators $a_i^\dagger,
 a_i$, satisfying commutation relations
 
@@ -313,7 +313,20 @@ $$
 N_i |n_1, n_2, \ldots, n_k\rangle = n_i |n_1, n_2, \ldots, n_k\rangle.
 $$
 
+Now, this is all static; it has nothing to do with the Hamiltonian.
+In particular, *particle number need not be conserved*.
+A state may have a well-defined particle number, with $\Delta N_i$
+small, but the expected number of particles can change quickly
+depending on the commutator $[H, N_i]$.
+The particles which appear out of nowhere, or rather, by virtue of
+time evolution, are precisely virtual particles.
+These virtual particles can mediate transitions to new,
+distinguishable states in the sense that the time scale for
+achieving orthogonality is
 
+$$
+\tau \sim \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
+$$
 
 #### References
 
