@@ -301,7 +301,7 @@ The states take the form of products of single particle states built
 by acting on the vacuum with creation operators:
 
 $$
-|n_1, n_2, \ldots, n_k\rangle = C (a_1^\dagger)^{n_1}\cdots (a_k\dagger)^{n_k}|0\rangle,
+|n_1, n_2, \ldots, n_k\rangle = C (a_1^\dagger)^{n_1}\cdots (a_k^\dagger)^{n_k}|0\rangle,
 $$
 
 for a normalisation constant $C$.
