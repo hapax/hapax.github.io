@@ -201,7 +201,7 @@ imaginary part vanish, and we are left with the uncertainty relation
 of [Margolus and Levitin (1997)](https://arxiv.org/abs/quant-ph/9710043):
 
 $$
-E \tau  \frac{\pi \hbar}{2}.
+E \tau \geq \frac{\pi \hbar}{2}.
 $$
 
 Both bounds are correct, so we use whichever is most constraining.
