@@ -63,7 +63,8 @@ travel the distance of its own spread, $\Delta x$, then $v\Delta t =
 The position-momentum uncertainty principle then gives
 
 $$
-\Delta x \cdot \Delta p \approx \frac{\Delta E}{\Delta p} \Delta
+\Delta x \cdot \Delta p = v\Delta
+t \cdot \Delta p \approx \frac{\Delta E}{\Delta p} \cdot \Delta
 t \cdot \Delta p = \Delta E \cdot \Delta t \gtrsim \hbar.
 $$
 
