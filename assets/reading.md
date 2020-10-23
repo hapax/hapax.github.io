@@ -396,7 +396,7 @@ For such a state, the commutator is
 
 $$
 \langle [N, I]\rangle_\alpha = \langle a^\dagger N\rangle_\alpha -
-\langle N a\rangle_\alpha = 2\Im[\alpha] |\alpha|^2.
+\langle N a\rangle_\alpha = -2\Im[\alpha] |\alpha|^2.
 $$
 
 Setting $\alpha = |\alpha|e^{i\theta}$, the MTRS timescale can be written
