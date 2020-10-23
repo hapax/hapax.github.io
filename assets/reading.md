@@ -379,7 +379,7 @@ since
 
 $$
 \langle [N, I]\rangle \propto \langle a^\dagger \rangle - \langle a
-\rangle = 0.
+\rangle = 2\Im \langle a^\dagger \rangle = 0.
 $$
 
 So, to get something nontrivial, we need a spread of number
