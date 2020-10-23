@@ -259,11 +259,11 @@ general, that the lower bound on the energy uncertainty from
 Mandelstam-Tamm is comparable:
 
 $$
-\tau \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|}.
+\tau_\text{MTR} \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-This heuristic "Mandelstam-Tamm-Robertson" (MTR) equation is
-interesting.
+where $\tau_\text{MTR}$ is a sort of Mandelstam-Tamm-Robertson
+timescale.
 It tells us that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
 measured by $[H, A]$, and large by the variance $\Delta A$.
