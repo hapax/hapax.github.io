@@ -14,7 +14,7 @@ date:  2020-10-22
   particles in a quantum-mechanically responsible sense? Here, we
   connect the two rigorously.*
 
-#### Uncertain uncertainty
+#### Introduction to uncertainty
 
 *Prerequisites: quantum mechanics.*
 
@@ -56,7 +56,7 @@ v = \frac{\Delta \omega}{\Delta k} = \frac{\Delta E}{\Delta p},
 $$
 
 where now $\Delta p$ is interpreted as the momentum spread of the
-wavepacket and $\Delta E$ is the correspond energy spread.
+wavepacket and $\Delta E$ is the corresponding energy spread.
 Let $\Delta t$ be the time taken for the wavepacket to
 travel the distance of its own spread, $\Delta x$, then $v\Delta t =
 \Delta x$.
@@ -69,10 +69,11 @@ t \cdot \Delta p = \Delta E \cdot \Delta t \gtrsim \hbar.
 $$
 
 So we get the energy-time form of the uncertainty principle!
+
 But it's very different from the position-momentum form.
-Position and momentum are bases to measure the wavepacket in, and
-correspond to legitimate quantum-mechanical operators.
-Energy also corresponds to an operator, namely the Hamiltonian.
+Position and momentum are *bases* to measure the wavepacket in,
+i.e. they correspond to legitimate quantum-mechanical operators.
+Energy is also a legitimate operator, namely the Hamiltonian.
 But time is not an operator! Here, it appears very specifically as the
 time the wavepacket takes to move a whole $\Delta x$ away.
 Physically, this is the point at which *the position changes
@@ -90,8 +91,14 @@ gave the first rigorous version of the energy-time uncertainty
 relation.
 It's important, because it tells us what it means!
 I'll present the nice proof from
-[Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf),
-since it's closely related 
+[Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf).
+First, we need the trigonometric inequality
+
+$$
+\cos(x) \leq 1 - \frac{4}{\pi^2} x \sin x - \frac{2}{\pi^2x^2}.
+$$
+
+
 
 #### Virtual particles
 
