@@ -452,12 +452,11 @@ particles.
 It would be nice to prove more formally that the MTMR timescale
 $\tau_A$ is the time required for a $\Delta A$ change in $\langle
 A\rangle$, perhaps using similar techniques to Levitin and Toffoli.
-It would also be interesting to explore how these timescales relate to
-other uncertainty relation timescales.
-More intriguingly, it remains to connect this non-relativistic picture
-to the other rigorous interpretation of virtual particles as
-*off-shell* excitations mediating interactions in quantum field
-theory.
+It would also be interesting to explore how the MTMR timescale is
+related to MTML.
+Perhaps more intriguingly, it remains to connect this non-relativistic picture
+to the other rigorous interpretation of virtual particles: *off-shell*
+excitations mediating interactions in quantum field theory.
 
 #### References
 
