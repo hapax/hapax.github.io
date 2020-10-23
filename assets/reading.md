@@ -124,7 +124,7 @@ $$
 The last equality follows because the overlap squared is real, so we can take the real
 part of each term without prejudice.
 To proceed, we need to invoke a slightly magical trigonometric
-inequality,
+inequality (proved in the appendix),
 
 $$
 \cos x \geq 1 - \frac{4}{\pi^2}x \sin x - \frac{2}{\pi^2}x^2.
@@ -192,3 +192,5 @@ The Modern Library edition weights in at $m = 3.7 \text{ kg}$, with a
 maximal rate $$\nu \leq \frac{\pi mc^2}{\hbar ln 2} \approx 1.5 \times 10^{52} \text{ bit s}^{-1}.
 $$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
 a decrease in time in direct proportion to how much you skim.-->
+
+#### Appendix: magical inequalities
