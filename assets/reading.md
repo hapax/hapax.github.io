@@ -89,16 +89,26 @@ In 1945,
 [Mandelstamm and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
 gave the first rigorous version of the energy-time uncertainty
 relation.
-It's important, because it tells us what it means!
+It's important, because it tells us what it really means!
 I'll present the nice proof from
 [Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf).
-First, we need the trigonometric inequality
+Consider some initial state $|\Psi_0\rangle$ in a Hilbert space, which
+evolves according to a Hamiltonian $H$.
+Define the overlap
 
 $$
-\cos(x) \leq 1 - \frac{4}{\pi^2} x \sin x - \frac{2}{\pi^2x^2}.
+O(t) = \langle \Psi_0 | \Psi(t)\rangle.
 $$
 
+Motivated by the wavepacket example, we expect an energy-time relation
+between the energy uncertainty
 
+$$
+\Delta E = \sqrt{\langle H^2\rangle_0 - \langle H\rangle_0^2},
+$$
+
+and the time $\tau$ taken to evolve to a state with no overlap, $O(t)
+= 0$.
 
 #### Virtual particles
 
