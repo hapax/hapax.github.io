@@ -296,5 +296,3 @@ $$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
 a decrease in time in direct proportion to how much you skim.-->
 
 #### Appendix: magical inequalities
-
-#### Appendix: Schrödinger uncertainty relation
