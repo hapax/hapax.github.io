@@ -83,7 +83,7 @@ the two different times.
 This is the seed of a rigorous version of the energy-time uncertainty
 principle which doesn't depend on having a localized wavepacket.
 
-#### Mandelstamm-Tamm bound
+#### MTML bound
 
 In 1945,
 [Mandelstamm and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
@@ -133,10 +133,12 @@ $$
 Applied to the overlap squared, this yields
 
 $$
-|O(t)|^2 \geq 1 - \frac{4}{\pi^2}\sum_{mn}|C_nC_m|^2
+\begin{align*}
+|O(t)|^2 \geq 1 - &\frac{4}{\pi^2}\sum_{mn}|C_nC_m|^2
 \sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
-E_n)t}{\hbar} - \frac{2}{\pi^2}\sum_{mn} |C_nC_m|^2\left[\frac{(E_m -
+E_n)t}{\hbar} \\ - & \frac{2}{\pi^2}\sum_{mn} |C_nC_m|^2\left[\frac{(E_m -
 E_n)t}{\hbar}\right]^2,
+\end{align*}
 $$
 
 where the first term uses $\sum_{mn}|C_mC_n|^2 = 1$.
@@ -152,9 +154,12 @@ which will vanish when $O(\tau) = 0$.
 The last term is related to the energy spread, since
 
 $$
-\sum_{mn} |C_nC_m|^2(E_m - E_n)^2 =\sum_{mn} |C_nC_m|^2(E_m^2 +
-E_n^2 - 2E_m E_n) = 2\langle H^2\rangle - 2\langle H\rangle^2 =
+\begin{align*}
+\sum_{mn} |C_nC_m|^2(E_m - E_n)^2 & =\sum_{mn} |C_nC_m|^2(E_m^2 +
+E_n^2 - 2E_m E_n) \\
+& = 2\langle H^2\rangle - 2\langle H\rangle^2 =
 2\Delta E.
+\end{align*}
 $$
 
 Thus, we find that when $O(\tau) = 0$,
@@ -168,6 +173,24 @@ uncertainty principle:
 
 $$
 \Delta E \cdot \tau \geq \frac{\pi \hbar}{2}.
+$$
+
+You might wonder if we could have manipulated things a different way
+and obtained a different result.
+In fact, we can!
+We will need another magical inequality,
+
+$$
+\cos x \geq 1 - \frac{2}{\pi}(x + \sin x).
+$$
+
+Now just take the real part of $O(t)$:
+
+$$
+\begin{align*}
+\Re[O(t)] & = \sum_n |C_n|^2 \cos(E_nt/\hbar) \\
+	& \geq \sum_n |C_n|^2 \left[1 - \frac{2}{\pi}\left(\frac{E_nt}{\hbar}+\sin\left(\frac{E_nt}{\hbar}\right)\right)\right]
+\end{align*}
 $$
 
 #### Virtual particles
