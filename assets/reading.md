@@ -150,7 +150,7 @@ We can simplify this by observing that the second term is
 $$
 \sum_{mn}|C_nC_m|^2
 \sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
-E_n)t}{\hbar} = t\frac{d}{dt}|O(t)|^2.
+E_n)t}{\hbar} = -t\frac{d}{dt}|O(t)|^2.
 $$
 
 #### Virtual particles
