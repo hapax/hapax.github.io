@@ -404,7 +404,7 @@ $$
 N|n\rangle\\
 & = 2\Im\sum_{mn} A_m^* A_n n \langle m| a^\dagger
 |n\rangle \\
-& = \sum_{mn} A_m^* A_n m\sqrt{n+1}\langle m |n+1\rangle \\ & = 2\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}.
+ & = 2\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}.
 \end{align*}
 $$
 
