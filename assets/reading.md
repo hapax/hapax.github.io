@@ -11,10 +11,11 @@ date:  2020-10-22
   virtual particles are objects which can flit in and out of existence,
   governed by Heisenberg's uncertainty principle in its energy-time
   form. But what is uncertainty in time? And what are virtual
-  particles? I provide a semi-rigorous connection by combining the
-  uncertainty relations of Mandelstam-Tamm and Robertson-Schrödinger
-  to get a timescale for evolving to a distinguishable state via
-  virtual particles, as measured by the corresponding particle number.*
+  particles? I combine the uncertainty relations of Mandelstam-Tamm and Robertson-Schrödinger
+  to get a timescale for evolving into a distinguishable state via
+  virtual particles, as measured by the corresponding particle
+  number. I discuss a simple example, and conjecture on the relation
+  to particle physics.*
 
 #### Contents
 
@@ -23,6 +24,7 @@ date:  2020-10-22
 3. <a href="#sec-3">Robertson-Schrödinger uncertainty</a>
 4. <a href="#sec-4">Virtual particles</a>
 5. <a href="#sec-5">A coherent cubic example</a>
+6. <a href="#sec-6">Conclusion</a>
 
 #### 1. Introduction to uncertainty<a id="sec-1" name="sec-1"></a>
 
@@ -447,8 +449,9 @@ These are formal problems in non-relativistic quantum mechanics.
 More intriguingly, it remains to connect this non-relativistic picture
 to the other rigorous interpretation of virtual particles as mediating
 interactions in quantum field theory.
-I suspect a slightly more complicated Fock space example should show
-that the very 
+I suspect a slightly more complicated Fock space example should
+illuminate the connection to the virtual, i.e. off-shell, particles in
+Feynman diagrammology.
 
 #### References
 
