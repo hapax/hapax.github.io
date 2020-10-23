@@ -11,8 +11,9 @@ date:  2020-10-22
   virtual particles are objects which can flit in and out of existence,
   governed by Heisenberg's uncertainty principle in its energy-time
   form. But what is uncertainty in time? And what are virtual
-  particles in a quantum-mechanically responsible sense? Here, we
-  connect the two rigorously.*
+  particles in a quantum-mechanically responsible sense? We introduce
+  the uncertainty relations of Mandelstam-Tamm and Margolus-Levitin,
+  and makse a somewhat more rigorous connection to virtual particles.*
 
 #### Introduction to uncertainty
 
