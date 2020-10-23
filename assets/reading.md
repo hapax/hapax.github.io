@@ -263,10 +263,10 @@ $$
 \tau \leq \tau_A = \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-where $\tau_A$ is the "Mandelstam-Tamm-Robertson" (MTR) timescale
+where $\tau_A$ is a "Mandelstam-Tamm-Robertson" (MTR) timescale
 associated with $A$.
-The minimum time needed to evolve to an orthogonal
-state is made smaller by the amount of
+The time needed to evolve to an orthogonal
+state has a bound made smaller by the amount of
 *non-conservation* of $A$, as measured by $[H, A]$, and larger by the
 variance $\Delta A$.
 As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
