@@ -372,6 +372,30 @@ $$
 N - Na.
 $$
 
+We want to find the expectation in this state.
+If $|\psi\rangle$ is an eigenstate of the number operator, then
+everything is zero, both $\Delta N$ and the expectation of $[N, I]$,
+since
+
+$$
+\langle [N, I]\rangle \propto \langle a^dagger \rangle - \langle a
+\rangle = 0.
+$$
+
+So, to get something nontrivial, we need a spread of number
+eigenstates, say
+
+$$
+|\psi\rangle = \sum_n A_n |n\rangle,
+$$
+
+so that
+
+$$
+\langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
+n^2 - \langle N\rangle^2.
+$$
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
