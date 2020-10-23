@@ -280,9 +280,9 @@ $$
 $$
 
 This connection seems physically reasonable.
-If the expectation of $A$ is changing, $|\psi(t)\rangle$ is becoming
-more distinguishable.
-On the other hand, a large variance washes out this effect, since $A$
+If the expectation of $A$ is changing, it witnesses that
+$|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
+On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
 
 #### Virtual particles
