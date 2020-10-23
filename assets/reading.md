@@ -141,8 +141,10 @@ $$
 |O(t)|^2 \geq 1 - \frac{4}{\pi^2}\sum_{mn}|C_nC_m|^2
 \sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
 E_n)t}{\hbar} - \frac{2}{\pi^2}\sum_{mn} |C_nC_m|^2\left[\frac{(E_m -
-E_n)t}{\hbar}\right]^2.
+E_n)t}{\hbar}\right]^2,
 $$
+
+where the first term uses $\sum_{mn}|C_mC_n|^2 = 1$.
 
 #### Virtual particles
 
