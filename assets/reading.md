@@ -285,6 +285,8 @@ If the expectation of $A$ is changing, it witnesses that
 $|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
+(I suspect the MTR timescale can be sharply related to
+distinguishability using $A$.)
 
 #### Virtual particles
 
@@ -327,6 +329,8 @@ achieving orthogonality is
 $$
 \tau \sim \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
+
+Of course, this raises a bevy of questions:
 
 #### References
 
