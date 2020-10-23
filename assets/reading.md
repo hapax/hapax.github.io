@@ -198,14 +198,14 @@ $$
 where $E = \langle H\rangle$ is the average energy.
 As before, when the state evolves so that $O(\tau) = 0$, the real and
 imaginary part vanish, and we are left with the uncertainty relation
-of [Margolous and Levitin](https://arxiv.org/abs/quant-ph/9710043):
+of [Margolus and Levitin](https://arxiv.org/abs/quant-ph/9710043):
 
 $$
 E \tau  \frac{\pi \hbar}{2}.
 $$
 
 Both bounds are correct, so we use whichever is most constraining.
-This leads  to the *Margolous-Levitin-Mandelstam-Tamm (MLMT) uncertainty relation*:
+This leads  to the *Margolus-Levitin-Mandelstam-Tamm (MLMT) uncertainty relation*:
 
 $$
 \tau \geq \max\left\{\frac{\pi}{2}\frac{\hbar}{\Delta E}, \frac{\pi}{2}\frac{\hbar}{E}\right\}.
