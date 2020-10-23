@@ -30,7 +30,7 @@ $$
 What we mean by uncertainty is a bit uncertain.
 Often, the first semi-rigorous context we encounter these notions in
 is the *wavepacket*, i.e. a well-localized wavefunction in space
-$|\Psi(x)\rangle$.
+$|\psi(x)\rangle$.
 This has some spread of positions $\Delta x$, but we can Fourier
 transform to momentum space, where it will have some spread $\Delta p$.
 The uncertainty principle is then a mathematical result about the
@@ -38,7 +38,7 @@ Fourier transform, and in fact, it is true for any wavefunction.
 
 We can derive the energy-time form for a wavepacket using the
 following hack.
-Let $\Psi(x, t)$ denote the profile of the wavepacket.
+Let $\psi(x, t)$ denote the profile of the wavepacket.
 We assume it's well-localised around some wavenumber $k_0$, so it has *group
 velocity*,
 
@@ -92,14 +92,17 @@ relation.
 It's important, because it tells us what it really means!
 I'll present the nice proof from
 [Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf).
-Consider some initial state $|\Psi_0\rangle$ in a Hilbert space, which
-evolves according to a Hamiltonian $H$.
-Define the overlap
+Consider some initial state $|\psi_0\rangle$ in a Hilbert space, which
+evolves according to a Hamiltonian $H$ with eigenstates $|E_n\rangle$.
+We can expand our state $|\psi_0\rangle$ and its time-evolved
+counterpart in energy eigenstates as
 
 $$
-O(t) = \langle \Psi_0 | \Psi(t)\rangle.
+|\psi_0\rangle = \sum_n C_n |E_n\rangle, \quad |\psi_t\rangle = \sum_n
+C_n e^{-i E_n t/\hbar} |E_n\rangle.
 $$
 
+Define the overlap $O(t) = \langle \psi_0 | \psi(t)\rangle$.
 Motivated by the wavepacket example, we expect an energy-time relation
 between the energy uncertainty
 
@@ -109,6 +112,19 @@ $$
 
 and the time $\tau$ taken to evolve to a state with no overlap, $O(t)
 = 0$.
+To prove this, we need a somewhat ugly trigonometric identity,
+
+$$
+\cos (x) \leq 1- \frac{4}{\pi^2}x\sin x - \frac{2x^2}{\pi^2}.
+$$
+
+The overlap squared can be written
+
+$$
+\begin{align*}
+|O(t)|^2 & = \sum_{mn}C_nC^*_m 
+\end{align*}
+$$
 
 #### Virtual particles
 
