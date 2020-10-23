@@ -136,7 +136,7 @@ $$
 The last equality follows because the overlap squared is real, so we can take the real
 part of each term without prejudice.
 To proceed, we need to invoke a slightly magical trigonometric
-inequality (proved in the appendix),
+inequality,
 
 $$
 \cos x \geq 1 - \frac{4}{\pi^2}x \sin x - \frac{2}{\pi^2}x^2.
@@ -355,10 +355,6 @@ distinguishable by measurements of the number operator $N_i$ itself.
 
 #### 5. A coherent cubic example<a id="sec-5" name="sec-5"></a>
 
-The connection to the quantum-mechanics folklore is unclear.
-Aren't virtual particles unobservable?
-If they come into existence momentarily, don't they go out of
-existence again?
 To get a feeling for what's going on, consider the simplest nontrivial
 example, a perturbed harmonic oscillator with Hamiltonian
 
@@ -439,6 +435,21 @@ Finally, as $\alpha \to 0$, we simply recover the ground state of the
 unperturbed Hamiltonian, which cannot change
 expected particle number since we need particles to make particles.
 
+#### 6. Conclusion <a id="sec-6" name="sec-6"></a>
+
+It would be nice to prove the MTMR timescale $\tau_A$ does what I
+expect it does, i.e. give the time required for a $\Delta A$ change in
+$\langle A\rangle$.
+It would also be interesting to explore how these timescales relate to
+the Margous-Levitin timescale in the case where we start in a ground
+state, for instance.
+These are formal problems in non-relativistic quantum mechanics.
+More intriguingly, it remains to connect this non-relativistic picture
+to the other rigorous interpretation of virtual particles as mediating
+interactions in quantum field theory.
+I suspect a slightly more complicated Fock space example should show
+that the very 
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
@@ -475,8 +486,7 @@ maximal rate $$\nu \leq \frac{\pi mc^2}{\hbar ln 2} \approx 1.5 \times 10^{52} \
 $$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
 a decrease in time in direct proportion to how much you skim.-->
 
-#### Appendix: magical inequalities
-
+<!-- #### Appendix: magical inequalities-->
 
 <!-- If $|\psi\rangle$ is an eigenstate of the number operator, then
 everything is zero, both $\Delta N$ and the expectation of $[N, I]$,
