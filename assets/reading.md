@@ -11,10 +11,10 @@ date:  2020-10-22
   virtual particles are objects which can flit in and out of existence,
   governed by Heisenberg's uncertainty principle in its energy-time
   form. But what is uncertainty in time? And what are virtual
-  particles in a quantum-mechanically responsible sense? In this post,
-  I derive the uncertainty relations of Mandelstam-Tamm and
-  Margolus-Levitin, and make a semi-rigorous connection between
-  virtual particles and transitioning to a distinguishable state.*
+  particles? I provide a semi-rigorous connection by combining the
+  uncertainty relations of Mandelstam-Tamm and Robertson-Schrödinger
+  to get a timescale for evolving to a distinguishable state via
+  virtual particles, as measured by the corresponding particle number.*
 
 #### Introduction to uncertainty
 
