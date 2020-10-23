@@ -225,11 +225,7 @@ $$
 $$
 
 For this definition, the precise form of the uncertainty relation is
-
-$$
-\Delta x \cdot \Delta p \geq \frac{\hbar}{2}.
-$$
-
+$\Delta x \cdot \Delta p \geq \hbar/2$.
 The *canonical commutation relations* $[x, p] = i\hbar$ tell us that
 position and momentum do not commute, and cannot be measured
 simultaneously. Since this is true for any state, it is true that
