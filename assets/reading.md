@@ -263,9 +263,8 @@ $$
 \tau_\text{MTR} \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-where $\tau_\text{MTR}$ is a sort of Mandelstam-Tamm-Robertson
-timescale.
-It tells us that $\tau$, the time it takes to evolve to an orthogonal
+where $\tau_\text{MTR}$ is the "Mandelstam-Tamm-Robertson" timescale.
+It suggests that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
 measured by $[H, A]$, and large by the variance $\Delta A$.
 As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
@@ -286,6 +285,18 @@ On the other hand, a large uncertainty $\Delta A$ washes out this effect, since 
 is too blurry to usefully tell us about changes in the state.
 
 #### Virtual particles
+
+We'll now turn to a specific example of $A$: *particle number*.
+The basic setup requires that our Hilbert space take the form of a
+Fock space, which we take to be bosonic for simplicity.
+So, states are generated from the vacuum by some set of creation
+operators $a_i^\dagger$, with
+
+$$
+|n_1, n_2, \ldots, n_k\rangle = C (a_1^\dagger)^{n_1}\cdots (a_k\dagger)^{n_k}|0\rangle,
+$$
+
+for a normalisation constant $C$.
 
 #### References
 
