@@ -354,15 +354,23 @@ Let's consider the simplest nontrivial example, a perturbed harmonic
 oscillator with Hamiltonian
 
 $$
-H = \hbar \omega (N + \frac{1}{2}) + \lambda
+H = \hbar \omega \left(N + \frac{1}{2}\right) + \lambda
 \left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + \lambda I,
 $$
 
-where $N = aa^\dagger$ and $H_0$ is the unperturbed harmonic
+where $N = a^\dagger a$ and $H_0$ is the unperturbed harmonic
 oscillator, with $[N, H_0] = 0$, and $\lambda I$ is a cubic
 interaction which can fuse two particles into one, or split a particle
 into two.
 Both processes are required for unitarity, i.e. a Hermitian $H$.
+The number operator doesn't commute with the interaction.
+Using the commutator identity $[A, BC] = [A, B]C + B[A, C]$, it's easy
+to show that
+
+$$
+[N, I] = [N, a^\dagger N + Na] = [N, a^\dagger]N + N[N, a] = a^\dagger
+N - Na.
+$$
 
 #### References
 
