@@ -335,13 +335,14 @@ small, but the expected number of particles can change quickly
 depending on the commutator $[H, N_i]$.
 The particles which appear out of nowhere, or rather, by virtue of
 time evolution, are precisely virtual particles!
-We know the state will become distinguishable after the MTR timescale,
+When Mandelstam-Tamm is tight, we know the state will become
+distinguishable after the MTR timescale,
 
 $$
-\tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|},
+\tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
 
-and indeed, if my little hypothesis is correct, they will become
+And indeed, if my little hypothesis is correct, they will become
 distinguishable using the number operator $N_i$.
 
 #### References
