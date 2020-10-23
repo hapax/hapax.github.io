@@ -91,7 +91,7 @@ gave the first rigorous version of the energy-time uncertainty
 relation.
 It's important, because it tells us what it really means!
 I'll present the nice proof from
-[Defner and Campell (2017)](https://arxiv.org/pdf/1705.08023.pdf).
+[Levitin and Toffoli (2009)](https://arxiv.org/abs/0905.3417).
 Consider some initial state $|\psi_0\rangle$ in a Hilbert space, which
 evolves according to a Hamiltonian $H$ with eigenstates $|E_n\rangle$.
 We can expand our state $|\psi_0\rangle$ and its time-evolved
@@ -198,7 +198,7 @@ $$
 where $E = \langle H\rangle$ is the average energy.
 As before, when the state evolves so that $O(\tau) = 0$, the real and
 imaginary part vanish, and we are left with the uncertainty relation
-of [Margolus and Levitin](https://arxiv.org/abs/quant-ph/9710043):
+of [Margolus and Levitin (1997)](https://arxiv.org/abs/quant-ph/9710043):
 
 $$
 E \tau  \frac{\pi \hbar}{2}.
