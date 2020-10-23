@@ -345,6 +345,8 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable using the number operator $N_i$.
 
+#### A cubic example
+
 This is all very nice but it is a bit formal.
 Can we see particles popping into and out of existence slightly more
 explicitly?
@@ -353,11 +355,14 @@ oscillator with Hamiltonian
 
 $$
 H = \hbar \omega (N + \frac{1}{2}) + \lambda
-\left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + I,
+\left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + \lambda I,
 $$
 
 where $N = aa^\dagger$ and $H_0$ is the unperturbed harmonic
-oscillator, wth $[N, H_0] = 0$.
+oscillator, with $[N, H_0] = 0$, and $\lambda I$ is a cubic
+interaction which can fuse two particles into one, or split a particle
+into two.
+Both processes are required for unitarity, i.e. a Hermitian $H$.
 
 #### References
 
