@@ -329,8 +329,6 @@ $$
 \tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
 
-
-
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
