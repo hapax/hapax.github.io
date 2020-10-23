@@ -342,7 +342,7 @@ $$
 $$
 
 and indeed, if my little hypothesis is correct, they will become
-distinguishable with $N_i$.
+distinguishable using the number operator $N_i$.
 
 #### References
 
