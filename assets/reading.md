@@ -216,12 +216,12 @@ $$
 #### Non-conservation and orthogonality
 
 Let's return to the position-momentum version for a moment.
-As before, for a state $|\psi_0\rangle$, we define the spread as the
+As before, for a state $|\psi\rangle$, we define the spread as the
 variance of operators measured in the state:
 
 $$
-\Delta x = \sqrt{\langle x^2\rangle_0 -\langle x\rangle_0^2}, \quad
-\Delta p = \sqrt{\langle p^2\rangle_0 -\langle p\rangle_0^2}.
+\Delta x = \sqrt{\langle x^2\rangle-\langle x\rangle_0^2}, \quad
+\Delta p = \sqrt{\langle p^2\rangle -\langle p\rangle^2}.
 $$
 
 For this definition, the precise form of the uncertainty relation is
@@ -229,18 +229,18 @@ $\Delta x \cdot \Delta p \geq \hbar/2$.
 The *canonical commutation relations* $[x, p] = i\hbar$ tell us that
 position and momentum do not commute, and cannot be measured
 simultaneously. Since this is true for any state, it is true that
-$\langle[x, p]\rangle_0 = i\hbar$.
+$\langle[x, p]\rangle = i\hbar$.
 So, we can rewrite position-momentum uncertainty as
 
 $$
-\Delta x \cdot \Delta p \geq \frac{1}{2} |\langle [x, p]\rangle_0|.
+\Delta x \cdot \Delta p \geq \frac{1}{2} |\langle [x, p]\rangle|.
 $$
 
 In fact, it's a relatively straightforward exercise to generalise this to
 *arbitrary* operators in a pure state:
 
 $$
-\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A, B]\rangle_0|.
+\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A, B]\rangle|.
 $$
 
 This is called the *Robertson uncertainty principle*, after
@@ -251,7 +251,7 @@ We can connect this to energy-time uncertainty by plugging in the
 Hamiltonian for one of the operators:
 
 $$
-\Delta E \geq \frac{1}{2 \Delta A}|\langle [H, A]\rangle_0|.
+\Delta E \geq \frac{1}{2 \Delta A}|\langle [H, A]\rangle|.
 $$
 
 At this point, we will make the assumption, which need not hold in
@@ -259,7 +259,20 @@ general, that the lower bound on the energy uncertainty from
 Mandelstam-Tamm is comparable:
 
 $$
-\pi\hbar \Delta A \sim \tau|\langle [H, A]\rangle_0|.
+\pi\hbar \Delta A \sim \tau|\langle [H, A]\rangle|.
+$$
+
+This is an interesting equation.
+It tells us that $\tau$, the time it takes to evolve to an orthogonal
+state, is made smaller by the amount of *non-conservation* of $A$, as
+measured by $[H, A]$, and large by the variance.
+As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
+conserved by time evolution, since
+
+$$
+\langle A\rangle_t = \langle \psi(t)| A |\psi(t) \rangle = \langle \psi(0)| e^{i H t/\hbar}
+A e^{-i H t/\hbar} |\psi(t) \rangle = \langle \psi(0)| A e^{i H
+t/\hbar} e^{-i H t/\hbar} |\psi(t) \rangle = \langle A\rangle_0.
 $$
 
 #### References
