@@ -383,13 +383,7 @@ $$
 $$
 
 So, to get something nontrivial, we need a spread of number
-eigenstates, say
-
-$$
-|\psi\rangle = \sum_n A_n |n\rangle,
-$$
-
-so that
+eigenstates, say $|\psi\rangle = \sum_n A_n |n\rangle$, so that
 
 $$
 \langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
