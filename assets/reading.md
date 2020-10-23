@@ -448,9 +448,10 @@ These are formal problems in non-relativistic quantum mechanics.
 More intriguingly, it remains to connect this non-relativistic picture
 to the other rigorous interpretation of virtual particles as mediating
 interactions in quantum field theory.
-I suspect a slightly more complicated Fock space example should
-illuminate the connection to the virtual, i.e. off-shell, particles in
-Feynman diagrammology.
+I suspect a more complicated (or general) Fock space construction
+should illuminate the connection to the virtual or *off-shell*
+particles in the Feynman diagrams of relativistic quantum field
+theory.
 
 #### References
 
