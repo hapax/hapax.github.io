@@ -417,8 +417,12 @@ for $\theta = \text{arg}(\alpha)$.
 The MTRS timescale can then be written
 
 $$
-\tau = \frac{\pi \hbar}{2 \lambda|\alpha^2 \sin\theta|}.
+\tau = \frac{\pi \hbar}{2 |\lambda\alpha^2 \sin\theta|}.
 $$
+
+This has some sensible features.
+If $\lambda = 0$, and there is no interaction, then we will never see
+any change in expected particle number.
 
 #### References
 
