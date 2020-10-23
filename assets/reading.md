@@ -298,8 +298,8 @@ $$
 \langle A\rangle_{\tau_A} - \langle A\rangle_{0} \sim \Delta A.
 $$
 
-In other words, I think the expectations should change by the spread
-of $A$ in the initial state.
+In other words, I think that after the MTRS timescale, the expectation
+of $A$ should change by its spread in the initial state.
 
 #### Virtual particles
 
