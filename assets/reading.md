@@ -264,7 +264,8 @@ $$
 \tau_\text{MTR} \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|},
 $$
 
-where $\tau_\text{MTR}$ is the "Mandelstam-Tamm-Robertson" timescale.
+where $\tau_\text{MTR}$ is the "Mandelstam-Tamm-Robertson" timescale
+associated with $A$.
 It suggests that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
 measured by $[H, A]$, and large by the variance $\Delta A$.
