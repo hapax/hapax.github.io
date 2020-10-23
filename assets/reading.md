@@ -400,7 +400,7 @@ The expectation of $[N, I]$, on the other hand, is
 
 $$
 \begin{align*}
-\langle[N, I]\rangle & = 2\Im\sum_{mn} A_m^* A_n \langle m| ma^dagger
+\langle[N, I]\rangle & = 2\Im\sum_{mn} A_m^* A_n \langle m| ma^\dagger
 |n\rangle \\
 & = 2\Im\sum_{mn} A_m^* A_n m\sqrt{n+1}\langle m |n+1\rangle \\
 & = 2\Im \sum_{n\geq 1} A_n^* A_{n-1} n^{3/2}.
