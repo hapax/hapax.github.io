@@ -265,18 +265,20 @@ $$
 This is an interesting equation.
 It tells us that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
-measured by $[H, A]$, and large by the variance.
+measured by $[H, A]$, and large by the variance $\Delta A$.
 As a quick reminder, if $[H, A] = 0$, then the expectation of $A$ is
 conserved by time evolution, since
 
 $$
 \begin{align*}
-\langle A\rangle_t & = \langle \psi(t)| A |\psi(t) \rangle \\
-& = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
+\langle A\rangle_t & = \langle \psi(t)| A |\psi(t) \rangle  = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
 \rangle \\
 & = \langle \psi(0)| A e^{i H t/\hbar} e^{-i H t/\hbar} |\psi(t) \rangle = \langle A\rangle_0.
 \end{align*}
 $$
+
+This is physically reasonable.
+If $A$ is conserved,
 
 #### References
 
