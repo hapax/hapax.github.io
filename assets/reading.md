@@ -345,6 +345,60 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable by measurements of the number operator $N_i$ itself.
 
+#### A cubic example
+
+The connection to the quantum-mechanics folklore is unclear.
+Aren't virtual particles unobservable?
+If they come into existence momentarily, don't they go out of
+existence again?
+To get a feeling for what's going on, consider the simplest nontrivial
+example, a perturbed harmonic oscillator with Hamiltonian
+
+$$
+H = \hbar \omega \left(N + \frac{1}{2}\right) + \lambda
+\left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + \lambda I,
+$$
+
+where $N = a^\dagger a$ and $H_0$ is the unperturbed harmonic
+oscillator, with $[N, H_0] = 0$, and $\lambda I$ is a cubic
+interaction which can fuse two particles into one, or split a particle
+into two.
+Both processes are required for unitarity, i.e. a Hermitian $H$.
+The number operator doesn't commute with the interaction.
+Using the commutator identity $[A, BC] = [A, B]C + B[A, C]$, it's easy
+to show that
+
+$$
+[N, I] = [N, a^\dagger N + Na] = [N, a^\dagger]N + N[N, a] = a^\dagger
+N - Na.
+$$
+
+Eigenstates of $N$ have zero spread in particle number, but also zero
+commutator expectation, as a quick calculation shows.
+A more reasonable example is a
+[coherent state](https://en.wikipedia.org/wiki/Coherent_state), an
+eigenvalue of $a$ rather than $N$:
+
+$$
+|\alpha\rangle = e^{-|\alpha|^2/2}\sum_{n\geq
+0}\frac{\alpha^n}{\sqrt{n!}}|n\rangle, \quad a |\alpha\rangle = \alpha
+|\alpha\rangle,
+$$
+
+where $\alpha$ is an arbitrary complex number.
+This has the following properties:
+
+$$
+\langle N\rangle_\alpha = |\alpha|^2, \quad \Delta N =|\alpha|,
+$$
+
+For such a state, the commutator is
+
+$$
+\langle [N, I]\rangle_\alpha = \langle a^\dagger N\rangle_\alpha -
+\langle N a\rangle_\alpha = 2\Im[\alpha] |\alpha|^2.
+$$
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
@@ -383,33 +437,7 @@ a decrease in time in direct proportion to how much you skim.-->
 
 #### Appendix: magical inequalities
 
-#### A cubic example
 
-This is all very nice but it is a bit formal.
-Can we see particles popping into and out of existence in an explicit example?
-Let's consider the simplest nontrivial example, a perturbed harmonic
-oscillator with Hamiltonian
-
-$$
-H = \hbar \omega \left(N + \frac{1}{2}\right) + \lambda
-\left[(a^\dagger)^2 a + a^\dagger a^2\right] = H_0 + \lambda I,
-$$
-
-where $N = a^\dagger a$ and $H_0$ is the unperturbed harmonic
-oscillator, with $[N, H_0] = 0$, and $\lambda I$ is a cubic
-interaction which can fuse two particles into one, or split a particle
-into two.
-Both processes are required for unitarity, i.e. a Hermitian $H$.
-The number operator doesn't commute with the interaction.
-Using the commutator identity $[A, BC] = [A, B]C + B[A, C]$, it's easy
-to show that
-
-$$
-[N, I] = [N, a^\dagger N + Na] = [N, a^\dagger]N + N[N, a] = a^\dagger
-N - Na.
-$$
-
-We want to find the expectation in this state.
 If $|\psi\rangle$ is an eigenstate of the number operator, then
 everything is zero, both $\Delta N$ and the expectation of $[N, I]$,
 since
