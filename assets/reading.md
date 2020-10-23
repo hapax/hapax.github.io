@@ -292,7 +292,7 @@ for the state to become effectively distinguishable using $A$,
 just like $x$ in the wavepacket case, but I haven't been able to show
 this formally yet.
 But guided by the wavepacket example, I would expect that after
-$\tau_A$, we have a statement like
+$\tau_A$, we have something like
 
 $$
 \langle A\rangle_{\tau_A} - \langle A\rangle_{0} \sim \Delta A.
