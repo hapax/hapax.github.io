@@ -345,6 +345,44 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable by measurements of the number operator $N_i$ itself.
 
+#### References
+
+<!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
+  (1981), Jakob D. Bekenstein. -->
+<!-- - ["Quantum noise and information"](https://projecteuclid.org/euclid.bsmsp/1200513783)
+  (1967), H. J. Bremmerman. -->
+- ["Quantum speed limits: from Heisenberg’s
+uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08023)
+(2017), Sebastian Deffner and Steve Campbell.
+- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd.
+- ["The fundamental limit on the rate of quantum dynamics: the unified bound is tight"](https://arxiv.org/abs/0905.3417) (2009), Lev B. Levitin and
+  Tommaso Toffoli.
+- ["The uncertainty relation between energy and time in non-relativistic quantum mechanics"](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
+  (1945), L. Mandelstam and Ig. Tamm.
+- ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
+- ["The uncertainty principle"](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163) (1929), H. P. Robertson.
+
+<!-- *If you believe the speed-reading hype, you can
+  read as fast as you like without sacrificing
+  comprehension. Responsible psychological research shows this is not
+  the case: there is inevitably a cognitive tradeoff between speed and
+  fidelity of processing. I perform some less responsible "research"
+  and show that, even for a brain vastly superior to ours, there are
+  fundamental physics limits on speed reading.* -->
+
+<!-- Now we return to our original problem, namely, placing a fundamental
+physical limit on speed reading.
+As a test case, we consider Marcel Proust's six-volume epic, *In Search of Lost Time*.
+It has around $1.3$ million words, which translates to around
+$6$ million bits, assuming a compressibility of one bit per character,
+as discussed above. The Bremmerman-Bekenstein bound depends on how heavy the book is.
+The Modern Library edition weights in at $m = 3.7 \text{ kg}$, with a
+maximal rate $$\nu \leq \frac{\pi mc^2}{\hbar ln 2} \approx 1.5 \times 10^{52} \text{ bit s}^{-1}.
+$$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
+a decrease in time in direct proportion to how much you skim.-->
+
+#### Appendix: magical inequalities
+
 #### A cubic example
 
 This is all very nice but it is a bit formal.
@@ -386,7 +424,7 @@ eigenstates, say $|\psi\rangle = \sum_n A_n |n\rangle$, so that
 
 $$
 \langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
-n(n - N).
+n(n - \langle N\rangle).
 $$
 
 Using the identity,
@@ -407,47 +445,9 @@ N|n\rangle\\
 \end{align*}
 $$
 
-Thus, the MTRS timescale is
+If the state is sharply peaked around some large integer particle number
+$\langle N\rangle = N^*$, with $\Delta N \ll N^*$,
 
 $$
-\tau = \frac{\pi \hbar}{2\lambda} \left[\frac{\sqrt{\sum_n |A_n|^2
-n(n - N)}}{\left|\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}\right|}\right].
+\langle[N, I]\rangle \approx 2\Im[A_{N^*+1}^* A_{N^*}] n\sqrt{n+1}.
 $$
-
-#### References
-
-<!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
-  (1981), Jakob D. Bekenstein. -->
-<!-- - ["Quantum noise and information"](https://projecteuclid.org/euclid.bsmsp/1200513783)
-  (1967), H. J. Bremmerman. -->
-- ["Quantum speed limits: from Heisenberg’s
-uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08023)
-(2017), Sebastian Deffner and Steve Campbell.
-- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd.
-- ["The fundamental limit on the rate of quantum dynamics: the unified bound is tight"](https://arxiv.org/abs/0905.3417) (2009), Lev B. Levitin and
-  Tommaso Toffoli.
-- ["The uncertainty relation between energy and time in non-relativistic quantum mechanics"](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
-  (1945), L. Mandelstam and Ig. Tamm.
-- ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
-- ["The uncertainty principle"](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163) (1929), H. P. Robertson.
-
-<!-- *If you believe the speed-reading hype, you can
-  read as fast as you like without sacrificing
-  comprehension. Responsible psychological research shows this is not
-  the case: there is inevitably a cognitive tradeoff between speed and
-  fidelity of processing. I perform some less responsible "research"
-  and show that, even for a brain vastly superior to ours, there are
-  fundamental physics limits on speed reading.* -->
-
-<!-- Now we return to our original problem, namely, placing a fundamental
-physical limit on speed reading.
-As a test case, we consider Marcel Proust's six-volume epic, *In Search of Lost Time*.
-It has around $1.3$ million words, which translates to around
-$6$ million bits, assuming a compressibility of one bit per character,
-as discussed above. The Bremmerman-Bekenstein bound depends on how heavy the book is.
-The Modern Library edition weights in at $m = 3.7 \text{ kg}$, with a
-maximal rate $$\nu \leq \frac{\pi mc^2}{\hbar ln 2} \approx 1.5 \times 10^{52} \text{ bit s}^{-1}.
-$$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
-a decrease in time in direct proportion to how much you skim.-->
-
-#### Appendix: magical inequalities
