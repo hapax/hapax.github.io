@@ -208,7 +208,7 @@ Both bounds are correct, so we use whichever is most constraining.
 This leads  to the *Margolus-Levitin-Mandelstam-Tamm (MLMT) uncertainty relation*:
 
 $$
-\tau \geq \max\left\{\frac{\pi}{2}\frac{\hbar}{\Delta E}, \frac{\pi}{2}\frac{\hbar}{E}\right\}.
+\tau \geq \max\left\{\frac{\pi\hbar}{2\Delta E}, \frac{\frac{\pi\hbar}{2E}\right\}.
 $$
 
 #### Virtual particles
