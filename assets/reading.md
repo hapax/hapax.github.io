@@ -159,7 +159,7 @@ The last term is related to the energy spread, and in fact
 $$
 \begin{align*}
 \Delta H^2 & = \langle H^2\rangle_0 - \langle H\rangle_0^2 \\
-& = \sum_{nm}C_nE_n^2 - \sum_{mn} C_nC_m E_n E_m
+& = \sum_{n}C_nE_n^2 - \sum_{mn} C_nC_m E_n E_m
 \end{align*}
 $$
 
