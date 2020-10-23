@@ -401,7 +401,8 @@ Using $a^\dagger|n\rangle = \sqrt{n+1}|n+1\rangle$, the expectation of $[N, I]$ 
 $$
 \begin{align*}
 \langle[N, I]\rangle & = 2\Im \sum_{mn} A_m^* A_n \langle m| a^\dagger
-N\\ & = 2\Im\sum_{mn} A_m^* A_n n \langle m| a^\dagger
+N|n\rangle\\
+& = 2\Im\sum_{mn} A_m^* A_n n \langle m| a^\dagger
 |n\rangle \\
 & = 2\Im\sum_{mn} A_m^* A_n m\sqrt{n+1}\langle m |n+1\rangle \\
 & = 2\Im \sum_{n\geq 1} A_n^* A_{n-1} (n-1)\sqrt{n}.
