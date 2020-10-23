@@ -289,14 +289,29 @@ is too blurry to usefully tell us about changes in the state.
 We'll now turn to a specific example of $A$: *particle number*.
 The basic setup requires that our Hilbert space take the form of a
 Fock space, which we take to be bosonic for simplicity.
-So, states are generated from the vacuum by some set of creation
-operators $a_i^\dagger$, with
+We have a set of creation and annihilation operators $a_i^\dagger,
+a_i$, satisfying commutation relations
+
+$$
+[a_i, a^\dagger_j] = \delta_{ij}.
+$$
+
+The states take the form of products of single particle states built
+by acting on the vacuum with creation operators:
 
 $$
 |n_1, n_2, \ldots, n_k\rangle = C (a_1^\dagger)^{n_1}\cdots (a_k\dagger)^{n_k}|0\rangle,
 $$
 
 for a normalisation constant $C$.
+The *number operator* $N_i = a_i^\dagger a_i$ counts the number of $i$
+quanta, since the commutation relations imply
+
+$$
+N_i |n_1, n_2, \ldots, n_k\rangle = n_i |n_1, n_2, \ldots, n_k\rangle.
+$$
+
+
 
 #### References
 
