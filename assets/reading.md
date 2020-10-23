@@ -285,8 +285,9 @@ If the expectation of $A$ is changing, it witnesses that
 $|\psi(t)\rangle$ is becoming more distinguishable from $|\psi(0)\rangle$.
 On the other hand, a large uncertainty $\Delta A$ washes out this effect, since $A$
 is too blurry to usefully tell us about changes in the state.
-I suspect the MTR timescale can be sharply related to
-distinguishability using $A$, but haven't been able to show this.
+In fact, I think the MTR timescale should precisely be the time needed
+for the state to become distinguishable using $A$, something like the
+wavepacket case, but I haven't been able to show this formally.
 
 #### Virtual particles
 
@@ -321,9 +322,8 @@ A state may have a well-defined particle number, with $\Delta N_i$
 small, but the expected number of particles can change quickly
 depending on the commutator $[H, N_i]$.
 The particles which appear out of nowhere, or rather, by virtue of
-time evolution, are precisely virtual particles.
-These virtual particles can mediate transitions to new,
-distinguishable states in the sense that an MTR upper bound
+time evolution, are precisely virtual particles!
+They can be reliably detected after the MTR timescale
 
 $$
 \tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
