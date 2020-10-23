@@ -295,7 +295,9 @@ is too blurry to usefully tell us about changes in the state.
 - ["Quantum speed limits: from Heisenberg’s
 uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08023)
 (2017), Sebastian Deffner and Steve Campbell.
-<!-- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd. -->
+- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd.
+- ["The fundamental limit on the rate of quantum dynamics: the unified bound is tight"](https://arxiv.org/abs/0905.3417) (2009), Lev B. Levitin and
+  Tommaso Toffoli.
 - ["The Uncertainty Relation Between Energy and Time in Non-relativistic Quantum Mechanics"](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
   (1945), L. Mandelstam and Ig. Tamm.
 - ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
