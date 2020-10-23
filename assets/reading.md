@@ -387,7 +387,7 @@ eigenstates, say $|\psi\rangle = \sum_n A_n |n\rangle$, so that
 
 $$
 \langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
-n^2 - \langle N\rangle^2.
+n(n - N).
 $$
 
 Using the identity,
