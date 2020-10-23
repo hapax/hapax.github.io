@@ -75,7 +75,7 @@ So we get the energy-time form of the uncertainty principle!
 But it's very different from the position-momentum form.
 Position and momentum are *bases* to measure the wavepacket in,
 i.e. they correspond to legitimate quantum-mechanical operators.
-Energy is also a legitimate operator, namely the Hamiltonian.
+Energy is also a legitimate operator; we call it the Hamiltonian.
 But time is not an operator! Here, it appears very specifically as the
 time the wavepacket takes to move a whole $\Delta x$ away.
 Physically, this is the point at which *the position changes
