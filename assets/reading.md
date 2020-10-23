@@ -458,6 +458,13 @@ Perhaps more intriguingly, it remains to connect this non-relativistic picture
 to the other rigorous interpretation of virtual particles: *off-shell*
 excitations mediating interactions in quantum field theory.
 
+I expect that we can generalize the cubic example to multiple particle
+species and more interesting interactions, and see how, for example,
+changes in the state of some species $i$ are sped up by interactions
+through a coupled species $j$, which is "unobserved" in the sense that
+we use changes in $N_i$.
+I'll leave this for another time though!
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
