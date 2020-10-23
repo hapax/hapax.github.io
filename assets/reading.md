@@ -213,7 +213,7 @@ $$
 \tau \geq \text{max}\left\{\frac{\pi\hbar}{2\Delta E}, \frac{\pi\hbar}{2E}\right\}.
 $$
 
-#### Virtual particles
+#### Non-conservation and orthogonality
 
 Let's return to the position-momentum version for a moment.
 As before, for a state $|\psi_0\rangle$, we define the spread as the
@@ -251,6 +251,20 @@ This is called the *Robertson uncertainty principle*, after
 [Howard Percy Robertson](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163).
 The expectation of the commutator lower bounds the
 product of uncertainties.
+We can connect this to energy-time uncertainty by plugging in the
+Hamiltonian for one of the operators:
+
+$$
+\Delta E \geq \frac{1}{2 \Delta A}|\langle [H, A]\rangle_0|.
+$$
+
+At this point, we will make the assumption, which need not hold in
+general, that the lower bound on the energy uncertainty from
+Mandelstam-Tamm is comparable:
+
+$$
+\pi\hbar \Delta A \sim \tau|\langle [H, A]\rangle_0|.
+$$
 
 #### References
 
@@ -286,3 +300,5 @@ $$ So it can be properly read in $T = 4 \times 10^{-46} \text{ s}$, with
 a decrease in time in direct proportion to how much you skim.-->
 
 #### Appendix: magical inequalities
+
+#### Appendix: Schrödinger uncertainty relation
