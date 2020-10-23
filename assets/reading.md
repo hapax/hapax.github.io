@@ -16,7 +16,15 @@ date:  2020-10-22
   to get a timescale for evolving to a distinguishable state via
   virtual particles, as measured by the corresponding particle number.*
 
-#### Introduction to uncertainty
+#### Contents
+
+1. <a href="#sec-1">Introduction to uncertainty</a>
+2. <a href="#sec-2">MTML bound</a>
+3. <a href="#sec-3">Robertson-Schrödinger uncertainty</a>
+4. <a href="#sec-4">Virtual particles</a>
+5. <a href="#sec-5">A coherent cubic example</a>
+
+#### 1. Introduction to uncertainty<a id="sec-1" name="sec-1"></a>
 
 *Prerequisites: quantum mechanics.*
 
@@ -85,7 +93,7 @@ the two different times.
 This is the seed of a rigorous version of the energy-time uncertainty
 principle which doesn't depend on having a localized wavepacket.
 
-#### MTML bound
+#### 2. MTML bound<a id="sec-2" name="sec-2"></a>
 
 In 1945,
 [Mandelstam and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
@@ -215,7 +223,7 @@ $$
 \tau \geq \text{max}\left\{\frac{\pi\hbar}{2\Delta E}, \frac{\pi\hbar}{2E}\right\}.
 $$
 
-#### A conjecture about non-conservation and orthogonality
+#### 3. Robertson-Schrödinger uncertainty<a id="sec-3" name="sec-3"></a>
 
 Let's return to the position-momentum version for a moment.
 As before, for a state $|\psi\rangle$, we define the spread as the
@@ -301,7 +309,7 @@ $$
 In other words, I think that after the MTRS timescale, the expectation
 of $A$ should change by its spread in the initial state.
 
-#### Virtual particles
+#### 4. Virtual particles<a id="sec-4" name="sec-4"></a>
 
 We'll now turn to a specific example of $A$: *particle number*.
 The basic setup requires a Fock space, which we take to be bosonic for
@@ -345,7 +353,7 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable by measurements of the number operator $N_i$ itself.
 
-#### A coherent cubic computation
+#### 5. A coherent cubic example<a id="sec-5" name="sec-5"></a>
 
 The connection to the quantum-mechanics folklore is unclear.
 Aren't virtual particles unobservable?
@@ -463,31 +471,24 @@ a decrease in time in direct proportion to how much you skim.-->
 #### Appendix: magical inequalities
 
 
-If $|\psi\rangle$ is an eigenstate of the number operator, then
+<!-- If $|\psi\rangle$ is an eigenstate of the number operator, then
 everything is zero, both $\Delta N$ and the expectation of $[N, I]$,
 since
-
 $$
 \langle [N, I]\rangle \propto \langle a^\dagger \rangle - \langle a
 \rangle = 2\Im \langle a^\dagger \rangle = 0.
 $$
-
 So, to get something nontrivial, we need a spread of number
 eigenstates, say $|\psi\rangle = \sum_n A_n |n\rangle$, so that
-
 $$
 \langle N\rangle = \sum_n |A_n|^2 n, \quad \Delta N^2 = \sum_n |A_n|^2
 n(n - \langle N\rangle).
 $$
-
 Using the identity,
-
 $$
 a^\dagger|n\rangle = \sqrt{n+1}|n+1\rangle,
 $$
-
 the expectation of $[N, I]$ is
-
 $$
 \begin{align*}
 \langle[N, I]\rangle & = 2\Im \sum_{mn} A_m^* A_n \langle m| a^\dagger
@@ -497,10 +498,8 @@ N|n\rangle\\
  & = 2\sum_{n} \Im[A_{n+1}^* A_{n}] n\sqrt{n+1}.
 \end{align*}
 $$
-
 If the state is sharply peaked around some large integer particle number
 $\langle N\rangle = N^*$, with $\Delta N \ll N^*$,
-
 $$
 \langle[N, I]\rangle \approx 2\Im[A_{N^*+1}^* A_{N^*}] n\sqrt{n+1}.
-$$
+$$-->
