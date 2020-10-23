@@ -11,11 +11,11 @@ date:  2020-10-22
   virtual particles are objects which can flit in and out of existence,
   governed by Heisenberg's uncertainty principle in its energy-time
   form. But what is uncertainty in time? And what are virtual
-  particles? I combine the uncertainty relations of Mandelstam-Tamm and Robertson-Schrödinger
-  to get a timescale for evolving some initial state in Hilbert space
-  into a distinguishable state via virtual particles, as measured by
-  the corresponding particle number. I discuss a simple example, and
-  conjecture on the relation to particle physics.*
+  particles? It turns out we can combine the uncertainty relations of Mandelstam-Tamm and Robertson-Schrödinger
+  to get a semi-rigorous timescale for evolving some initial state in
+  Hilbert space into a distinguishable state via virtual particles, as
+  measured by the corresponding particle number. I'll also discuss a simple
+  example, and conjecture on the relation to particle physics.*
 
 #### Contents
 
