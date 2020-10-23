@@ -240,8 +240,8 @@ $$
 \Delta x \cdot \Delta p \geq \frac{1}{2} |\langle [x, p]\rangle_0|.
 $$
 
-In fact, it's an easy exercise to generalise this to
-*arbitrary* operators:
+In fact, it's a relatively straightforward exercise to generalise this to
+*arbitrary* operators in a pure state:
 
 $$
 \Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A, B]\rangle_0|.
@@ -249,12 +249,8 @@ $$
 
 This is called the *Robertson uncertainty principle*, after
 [Howard Percy Robertson](https://journals.aps.org/pr/abstract/10.1103/PhysRev.34.163).
-the expectation of the commutator provides a lower bound on the
+The expectation of the commutator lower bounds the
 product of uncertainties.
-I won't prove this, mainly because it appears in most advanced
-quantum mechanics textbooks, unlike MLMT.
-
-We can connect
 
 #### References
 
