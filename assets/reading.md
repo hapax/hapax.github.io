@@ -392,7 +392,21 @@ $$
 \langle N\rangle_\alpha = |\alpha|^2, \quad \Delta N =|\alpha|,
 $$
 
-For such a state, the commutator is
+In the absence of interactions, this is a Gaussian wavepacket which
+wobbles back and forth in position space, without changing shape, at
+the frequency of the oscillator.
+There will be an position-momentum uncertainty, associated with this
+motion, and indeed this saturates the wavepacket uncertainty relation
+discussed above.
+
+But when we introduce the cubic interaction, there is a new source of
+uncertainty: changes to the measured particle number, which still
+appear even if we cling to the wobbling wavepacket and measure its
+properties.
+Rather than solve for the wavefunction over time (an analytically
+impossible task), we can use the MTRS timescale to estimate when the
+interaction appreciable changes particle number!
+For a coherent state, the commutator is
 
 $$
 \langle [N, I]\rangle_\alpha = \langle a^\dagger N\rangle_\alpha -
