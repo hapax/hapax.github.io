@@ -99,10 +99,16 @@ counterpart in energy eigenstates as
 
 $$
 |\psi_0\rangle = \sum_n C_n |E_n\rangle, \quad |\psi_t\rangle = \sum_n
-C_n e^{-i E_n t/\hbar} |E_n\rangle.
+C_n e^{-i E_n t/\hbar} |E_n\rangle,
 $$
 
-Define the overlap $O(t) = \langle \psi_0 | \psi(t)\rangle$.
+with normalization giving $\sum_n |C_n|^2 = 1$.
+Define the overlap
+
+$$
+O(t) = \langle \psi_0 | \psi(t)\rangle = \sum_n |C_n|^2 e^{-i E_n t/\hbar}.
+$$
+
 Motivated by the wavepacket example, we expect an energy-time relation
 between the energy uncertainty
 
@@ -110,20 +116,32 @@ $$
 \Delta E = \sqrt{\langle H^2\rangle_0 - \langle H\rangle_0^2},
 $$
 
-and the time $\tau$ taken to evolve to a state with no overlap, $O(t)
-= 0$.
-To prove this, we need a somewhat ugly trigonometric identity,
-
-$$
-\cos (x) \leq 1- \frac{4}{\pi^2}x\sin x - \frac{2x^2}{\pi^2}.
-$$
-
-The overlap squared can be written
+and the time $\tau$ taken to evolve to a state with no overlap, $O(\tau)
+= 0$, i.e. a state which is perfectly distinguishable.
+First, we write out the overlap squared:
 
 $$
 \begin{align*}
-|O(t)|^2 & = \sum_{mn}C_nC^*_m 
+|O(t)|^2 & = \sum_{mn}|C_nC_m|^2 e^{i(E_m - E_n)t/\hbar} =\sum_{mn}|C_nC_m|^2 \cos\left[\frac{(E_m - E_n)t}{\hbar}\right].
 \end{align*}
+$$
+
+The last equality follows because the overlap squared is real, so we can take the real
+part of each term without prejudice.
+To proceed, we need to invoke a slightly magical trigonometric
+inequality,
+
+$$
+\cos x \geq 1 - \frac{4}{\pi^2}x \sin x - \frac{2}{\pi^2}x^2.
+$$
+
+Applied to $|O(t)|^2$, this yields
+
+$$
+|O(t)|^2 \geq 1 - \frac{4}{\pi^2}\sum_{mn}|C_nC_m|^2
+\sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
+E_n)t}{\hbar} - \frac{2}{\pi^2}\sum_{mn} |C_nC_m|^2\left[\frac{(E_m -
+E_n)t}{\hbar}\right]^2.
 $$
 
 #### Virtual particles
