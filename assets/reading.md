@@ -83,7 +83,7 @@ the two different times.
 This is the seed of a rigorous version of the energy-time uncertainty
 principle which doesn't depend on having a localized wavepacket.
 
-#### MTML bound
+#### Mandelstamm-Tamm bound
 
 In 1945,
 [Mandelstamm and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
@@ -145,6 +145,13 @@ E_n)t}{\hbar}\right]^2,
 $$
 
 where the first term uses $\sum_{mn}|C_mC_n|^2 = 1$.
+We can simplify this by observing that the second term is
+
+$$
+\sum_{mn}|C_nC_m|^2
+\sin\left[\frac{(E_m - E_n)t}{\hbar}\right]\frac{(E_m -
+E_n)t}{\hbar} = t\frac{d}{dt}|O(t)|^2.
+$$
 
 #### Virtual particles
 
