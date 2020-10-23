@@ -370,7 +370,6 @@ oscillator, with $[N, H_0] = 0$, and $\lambda I$ is a cubic
 interaction which can fuse two particles into one, or split a particle
 into two.
 Both processes are required for unitarity, i.e. a Hermitian $H$.
-The number operator doesn't commute with the interaction.
 Using the commutator identity $[A, BC] = [A, B]C + B[A, C]$, it's easy
 to show that
 
