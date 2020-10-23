@@ -345,7 +345,7 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable using the number operator $N_i$.
 
-#### A cubic example
+#### A cubic calculation
 
 This is all very nice but it is a bit formal.
 Can we see particles popping into and out of existence slightly more
