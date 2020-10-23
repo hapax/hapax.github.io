@@ -323,12 +323,13 @@ depending on the commutator $[H, N_i]$.
 The particles which appear out of nowhere, or rather, by virtue of
 time evolution, are precisely virtual particles.
 These virtual particles can mediate transitions to new,
-distinguishable states in the sense that the MTR time scale for
-achieving orthogonality is
+distinguishable states in the sense that an MTR upper bound
 
 $$
 \tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
 $$
+
+
 
 #### References
 
