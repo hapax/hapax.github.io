@@ -345,7 +345,7 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable by measurements of the number operator $N_i$ itself.
 
-#### Cubic
+#### A coherent cubic computation
 
 The connection to the quantum-mechanics folklore is unclear.
 Aren't virtual particles unobservable?
