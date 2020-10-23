@@ -224,6 +224,32 @@ $$
 \Delta p = \sqrt{\langle p^2\rangle_0 -\langle p\rangle_0^2}.
 $$
 
+For this definition, the precise form of the uncertainty relation is
+
+$$
+\Delta x \cdot \Delta p \geq \frac{\hbar}{2}.
+$$
+
+The *canonical commutation relations* $[x, p] = i\hbar$ tell us that
+position and momentum do not commute, and cannot be measured
+simultaneously. Since this is true for any state, it is true that
+$\langle[x, p]\rangle_0 = i\hbar$.
+So, we can rewrite position-momentum uncertainty as
+
+$$
+\Delta x \cdot \Delta p \geq \frac{1}{2} |\langle [x, p]\rangle_0|.
+$$
+
+In fact, it's an oft-assigned textbook exercise to generalise this to
+*arbitrary* operators:
+
+$$
+\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A, B]\rangle_0|.
+$$
+
+The expectation of the commutator in the state provides a lower bound
+on the product of uncertainties.
+
 #### References
 
 <!-- - ["Energy Cost of Information Transfer"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.623)
