@@ -86,7 +86,7 @@ principle which doesn't depend on having a localized wavepacket.
 #### MTML bound
 
 In 1945,
-[Mandelstamm and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
+[Mandelstam and Tamm](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
 gave the first rigorous version of the energy-time uncertainty
 relation.
 It's important, because it tells us what it really means!
@@ -168,7 +168,7 @@ $$
 0 \geq 1 - \frac{1}{\pi^2}\left(\frac{2t \Delta E}{\hbar}\right)^2.
 $$
 
-Rearranging gives the Mandelstamm-Tamm form of the energy-time
+Rearranging gives the Mandelstam-Tamm form of the energy-time
 uncertainty principle:
 
 $$
@@ -189,8 +189,26 @@ Now just take the real part of $O(t)$:
 $$
 \begin{align*}
 \Re[O(t)] & = \sum_n |C_n|^2 \cos(E_nt/\hbar) \\
-	& \geq \sum_n |C_n|^2 \left[1 - \frac{2}{\pi}\left(\frac{E_nt}{\hbar}+\sin\left(\frac{E_nt}{\hbar}\right)\right)\right]
+	& \geq \sum_n |C_n|^2
+	\left[1 - \frac{2}{\pi}\left(\frac{E_nt}{\hbar}+\sin\left(\frac{E_nt}{\hbar}\right)\right)\right]\\
+	& = 1 - \frac{2 Et}{\pi \hbar} + \Im[O(t)],
 \end{align*}
+$$
+
+where $E = \langle H\rangle$ is the average energy.
+As before, when the state evolves so that $O(\tau) = 0$, the real and
+imaginary part vanish, and we are left with the uncertainty relation
+of [Margolous and Levitin](https://arxiv.org/abs/quant-ph/9710043):
+
+$$
+E \tau  \frac{\pi \hbar}{2}.
+$$
+
+Both bounds are correct, so we use whichever is most constraining.
+This leads  to the *Margolous-Levitin-Mandelstam-Tamm (MLMT) uncertainty relation*:
+
+$$
+\tau \geq \max\left\{\frac{\pi}{2}\frac{\hbar}{\Delta E}, \frac{\pi}{2}\frac{\hbar}{E}\right\}.
 $$
 
 #### Virtual particles
@@ -206,7 +224,7 @@ uncertainty principle to optimal quantum control"](https://arxiv.org/abs/1705.08
 (2017), Sebastian Deffner and Steve Campbell.
 <!-- ["Ultimate physical limits to computation"](https://arxiv.org/abs/quant-ph/9908043) (2000), Seth Lloyd. -->
 - ["The Uncertainty Relation Between Energy and Time in Non-relativistic Quantum Mechanics"](https://link.springer.com/chapter/10.1007/978-3-642-74626-0_8)
-  (1945), L. MandelstamIg. Tamm.
+  (1945), L. Mandelstam and Ig. Tamm.
 - ["The maximum speed of dynamical evolution"](https://arxiv.org/abs/quant-ph/9710043) (1997), Norman Margolus, Lev B. Levitin.
 
 <!-- *If you believe the speed-reading hype, you can
