@@ -435,6 +435,9 @@ If $\theta = 0$, then $\alpha$ has no imaginary part, and there is no
 transition; roughly, $\theta$ tells us the asymmetry between the
 forward and the backward process, required for there to be an overall
 change in expected particle number.
+Finally, as $\alpha \to 0$, we simply recover the ground state of the
+unperturbed Hamiltonian, which cannot change
+expected particle number since we need particles to make particles.
 
 #### References
 
