@@ -345,7 +345,7 @@ $$
 And indeed, if my little hypothesis is correct, they will become
 distinguishable by measurements of the number operator $N_i$ itself.
 
-#### A cubic example
+#### Cubic
 
 The connection to the quantum-mechanics folklore is unclear.
 Aren't virtual particles unobservable?
@@ -397,6 +397,12 @@ For such a state, the commutator is
 $$
 \langle [N, I]\rangle_\alpha = \langle a^\dagger N\rangle_\alpha -
 \langle N a\rangle_\alpha = 2\Im[\alpha] |\alpha|^2.
+$$
+
+Hence, the MTRS timescale is
+
+$$
+\tau = \frac{\pi \hbar}{2 \lambda|\alpha\Im[\alpha]|}
 $$
 
 #### References
