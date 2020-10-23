@@ -262,7 +262,8 @@ $$
 \tau \sim \frac{\pi\hbar\Delta A}{|\langle [H, A]\rangle|}.
 $$
 
-This is an interesting equation.
+This heuristic "Mandelstam-Tamm-Robertson" (MTR) equation is
+interesting.
 It tells us that $\tau$, the time it takes to evolve to an orthogonal
 state, is made smaller by the amount of *non-conservation* of $A$, as
 measured by $[H, A]$, and large by the variance $\Delta A$.
@@ -277,8 +278,13 @@ $$
 \end{align*}
 $$
 
-This is physically reasonable.
-If $A$ is conserved,
+This connection seems physically reasonable.
+If the expectation of $A$ is changing, $|\psi(t)\rangle$ is becoming
+more distinguishable.
+On the other hand, a large variance washes out this effect, since $A$
+is too blurry to usefully tell us about changes in the state.
+
+#### Virtual particles
 
 #### References
 
