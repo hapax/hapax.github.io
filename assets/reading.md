@@ -440,7 +440,7 @@ expected particle number since we need particles to make particles.
 #### 6. Conclusion <a id="sec-6" name="sec-6"></a>
 
 It would be nice to prove the MTMR timescale $\tau_A$ does what I
-expect it does, i.e. give the time required for a $\Delta A$ change in
+expect it to do, i.e. give the time required for a $\Delta A$ change in
 $\langle A\rangle$.
 It would also be interesting to explore how these timescales relate to
 the Margous-Levitin timescale in the case where we start in a ground
