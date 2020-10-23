@@ -289,6 +289,14 @@ In fact, I think the MTR timescale should precisely be the time needed
 for the state to become effectively distinguishable using $A$,
 just like $x$ in the wavepacket case, but I haven't been able to show
 this formally yet.
+But guided by the wavepacket example, I would expect that after
+$\tau_A$, we have a statement like
+
+$$
+\langle A\rangle_{\tau_A} - \langle A\rangle_{0} \sim \Delta A.
+$$
+
+In other words, the expectations change by 
 
 #### Virtual particles
 
@@ -324,11 +332,14 @@ small, but the expected number of particles can change quickly
 depending on the commutator $[H, N_i]$.
 The particles which appear out of nowhere, or rather, by virtue of
 time evolution, are precisely virtual particles!
-They can be reliably detected after the MTR timescale
+We know the state will become distinguishable after the MTR timescale,
 
 $$
-\tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|}.
+\tau_i = \frac{\pi\hbar\Delta N_i}{|\langle [H, N_i]\rangle|},
 $$
+
+and indeed, if my little hypothesis is correct, they will become
+distinguishable with $N_i$.
 
 #### References
 
