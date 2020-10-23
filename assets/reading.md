@@ -154,7 +154,7 @@ E_n)t}{\hbar} = -t\frac{d}{dt}|O(t)|^2,
 $$
 
 which will vanish when $O(\tau) = 0$.
-The last term is related to the energy spread, and in fact
+The last term is related to the energy spread, since
 
 $$
 \begin{align*}
