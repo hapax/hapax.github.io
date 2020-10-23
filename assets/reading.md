@@ -399,10 +399,10 @@ $$
 \langle N a\rangle_\alpha = 2\Im[\alpha] |\alpha|^2.
 $$
 
-Hence, the MTRS timescale is
+Setting $\alpha = |\alpha|e^{i\theta}$, the MTRS timescale can be written
 
 $$
-\tau = \frac{\pi \hbar}{2 \lambda|\alpha\Im[\alpha]|}
+\tau = \frac{\pi \hbar}{2 \lambda|\alpha^2 \sin\theta|}.
 $$
 
 #### References
