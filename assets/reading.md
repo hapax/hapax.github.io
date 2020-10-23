@@ -272,7 +272,7 @@ conserved by time evolution, since
 
 $$
 \begin{align*}
-\langle A\rangle_t & = \langle \psi(t)| A |\psi(t) \rangle  = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
+\langle A\rangle_t = \langle \psi(t)| A |\psi(t) \rangle & = \langle \psi(0)| e^{i H t/\hbar} A e^{-i H t/\hbar} |\psi(t)
 \rangle \\
 & = \langle \psi(0)| A e^{i H t/\hbar} e^{-i H t/\hbar} |\psi(t) \rangle = \langle A\rangle_0.
 \end{align*}
