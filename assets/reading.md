@@ -259,7 +259,7 @@ general, that the lower bound on the energy uncertainty from
 Mandelstam-Tamm is comparable:
 
 $$
-\pi\hbar \Delta A \sim \tau|\langle [H, A]\rangle|.
+\tau \sim \frac{\pi\hbar \Delta A}{|\langle [H, A]\rangle|}.
 $$
 
 This is an interesting equation.
