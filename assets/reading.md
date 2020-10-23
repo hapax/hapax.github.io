@@ -135,7 +135,7 @@ $$
 \cos x \geq 1 - \frac{4}{\pi^2}x \sin x - \frac{2}{\pi^2}x^2.
 $$
 
-Applied to $|O(t)|^2$, this yields
+Applied to the overlap squared, this yields
 
 $$
 |O(t)|^2 \geq 1 - \frac{4}{\pi^2}\sum_{mn}|C_nC_m|^2
