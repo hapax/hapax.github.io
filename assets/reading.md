@@ -343,7 +343,7 @@ $$
 $$
 
 And indeed, if my little hypothesis is correct, they will become
-distinguishable using the number operator $N_i$.
+distinguishable by measurements of the number operator $N_i$ itself.
 
 #### A cubic example
 
