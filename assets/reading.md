@@ -410,10 +410,11 @@ For a coherent state, the commutator is
 
 $$
 \langle [N, I]\rangle_\alpha = \langle a^\dagger N\rangle_\alpha -
-\langle N a\rangle_\alpha = -2\Im[\alpha] |\alpha|^2.
+\langle N a\rangle_\alpha = -2\Im[\alpha] |\alpha|^2 = -2|\alpha|^3\sin\theta
 $$
 
-Setting $\alpha = |\alpha|e^{i\theta}$, the MTRS timescale can be written
+for $\theta = \text{arg}(\alpha)$.
+The MTRS timescale can then be written
 
 $$
 \tau = \frac{\pi \hbar}{2 \lambda|\alpha^2 \sin\theta|}.
