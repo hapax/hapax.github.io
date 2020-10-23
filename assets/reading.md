@@ -157,8 +157,10 @@ which will vanish when $O(\tau) = 0$.
 The last term is related to the energy spread, and in fact
 
 $$
-\Delta H^2 = \langle H^2\rangle_0 - \langle H\rangle_0^2 = \sum_n
-C_n^2 E_n - \sum_{mn} C_nC_m E_n E_m
+\begin{align*}
+\Delta H^2 & = \langle H^2\rangle_0 - \langle H\rangle_0^2 \\
+& = \sum_{nm}C_nE_n^2 - \sum_{mn} C_nC_m E_n E_m
+\end{align*}
 $$
 
 #### Virtual particles
