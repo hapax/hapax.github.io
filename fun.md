@@ -15,16 +15,14 @@ do when I'm not sciencing or encouraging other people to science.
 
 #### Writing
 
-I like writing:
-
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A farcical "what if" about large-scale quantum computing,
 geopolitics, and shrimp.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
 zombies and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
-- ["Fearful spheres]({{hapax.github.io}}/assets/fearful-spheres.pdf)
-(2018). An old chapbook, parts of which are published here and there.
+- ["Fearful spheres"]({{hapax.github.io}}/assets/fearful-spheres.pdf)
+(2018). An old chapbook.
 
 <!-- In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions: -->
