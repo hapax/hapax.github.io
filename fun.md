@@ -4,14 +4,14 @@ title: Fun
 permalink: /fun/
 ---
 
-<!-- In the tradition of dorky, maximalist websites, here are some things I
-do when I'm not sciencing or encouraging other people to science. -->
-
 <figure>
- <div style="text-align:center"><img src ="/images/gothic-2.png" />
- <figcaption><i>The gothic window simulator.</i></figcaption>
+ <div style="text-align:center"><img src ="/images/x64.png" />
+ <figcaption><i>This little robot is very keen.</i></figcaption>
  	 </div>
   </figure>
+
+<!-- In the tradition of dorky, maximalist websites, here are some things I
+do when I'm not sciencing or encouraging other people to science. -->
 
 #### Writing
 
@@ -78,7 +78,7 @@ distribution of genetic code around a family tree.
   inordinately proud.-->
 
 <figure>
- <div style="text-align:center"><img src ="/images/x64.png" />
- <figcaption><i>This little robot is very keen.</i></figcaption>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" />
+ <figcaption><i>The gothic window simulator.</i></figcaption>
  	 </div>
   </figure>
