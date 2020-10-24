@@ -4,8 +4,8 @@ title: Fun
 permalink: /fun/
 ---
 
-In the tradition of dorky, maximalist websites, here are some things I
-do when I'm not sciencing or encouraging other people to science.
+<!-- In the tradition of dorky, maximalist websites, here are some things I
+do when I'm not sciencing or encouraging other people to science. -->
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
