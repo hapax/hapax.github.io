@@ -24,7 +24,7 @@ I list some of my teaching and outreach activities below.-->
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). An introduction to general relativity and singularities for
   high school students. I also wrote some
-  [problems](sing-problems.pdf) to go with it.
+  [problems](assets/sing-problems.pdf) to go with it.
 - [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
   introduction to network planning and soap bubbles. Along the
