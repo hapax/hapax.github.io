@@ -21,7 +21,7 @@ I like writing sci-fi. Some recent flash fiction:
 (2020). A farcical "what if" about large-scale quantum computing,
 geopolitics, and shrimp.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
-zombies, science gone mad, and the psychology of time. Winner of the
+zombies and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 
 <!-- I also have a near-complete
