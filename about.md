@@ -8,14 +8,15 @@ permalink: /about/
 
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
-self-organised into a human more recently.
+self-organised into a human in Melbourne, Australia, more recently.
 I study black holes and conformal field theory in the
-[string theory](http://www.phas.ubc.ca/~strings/) group at [UBC](https://www.ubc.ca/) (UBC).
+[string theory](http://www.phas.ubc.ca/~strings/) group at the
+[University of British Columbia](https://www.ubc.ca/).
 <!-- studying
 conformal field theory, quantum information and black holes.
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david). -->
-I was born and raised in Melbourne, Australia.
+<!-- I was born and raised in Melbourne, Australia.-->
 <!-- , and picked up degrees in
 philosophy, maths, and physics along the way. -->
 <!-- My CV is available if you ask nicely.-->
