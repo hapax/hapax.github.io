@@ -15,7 +15,7 @@ Fun! Will report back when I remember how to have it.
 <!-- In the tradition of dorky, maximalist websites, here are some things I
 do when I'm not sciencing or encouraging other people to science. -->
 
-#### Writing
+<!-- #### Writing 
 
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A farcical "what if" about large-scale quantum computing,
@@ -24,7 +24,7 @@ geopolitics, and shrimp.
 zombies and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["Fearful spheres"]({{hapax.github.io}}/assets/fearful-spheres.pdf)
-(2018). An old chapbook.
+(2018). An old chapbook. -->
 
 <!-- In a prior life I earned a philosophy degree, and still take language
 on holiday from time to time. Some rambling discursions: -->
@@ -53,7 +53,7 @@ I put my digital art on [tumblr](https://caedrix.tumblr.com/)
 arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/).
 
-#### Programming
+<!-- #### Programming -->
 
 <!-- I code for fun and occasionally profit in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
@@ -63,7 +63,7 @@ A few small projects: -->
 
 <!-- - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
   designed the prototype version of the university's course
-  planner. I've linked the snazzy beta version by the folks at [Eliiza](https://eliiza.com.au/about/).-->
+  planner. I've linked the snazzy beta version by the folks at [Eliiza](https://eliiza.com.au/about/).
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
 distribution of genetic code around a family tree.
 - [*Partitions*](https://github.com/hapax/haskell-partitions). Experimental
