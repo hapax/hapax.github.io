@@ -21,7 +21,7 @@ I list some of my teaching and outreach activities below.-->
 
 #### Chunky exposition
 
-- [*General relativity and the Penrose singularity theorem](assets/singularity.pdf)
+- [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). An introduction to general relativity and singularities for
   high school students. I also wrote some
   [problems](sing-problems.pdf) to go with it.
