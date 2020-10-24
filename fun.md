@@ -55,15 +55,15 @@ I put my digital art on [tumblr](https://caedrix.tumblr.com/)
 arrangements of rubbish, symmetry, patterns, and so forth, on
 [Instagram](https://www.instagram.com/dr__abe/).
 
-#### Programming
+<!-- #### Programming -->
 
 <!-- I code for fun and occasionally profit in [Python](https://www.python.org/)
 (it's quick), [Haskell](https://www.haskell.org/) (it's beautiful) and
-[Processing](https://processing.org/) (it's visual). -->
+[Processing](https://processing.org/) (it's visual). 
 I code for fun and occasionally profit.
-A few small projects:
+A few small projects: -->
 
-- [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
+<!-- - [*University of Melbourne course planner*](https://students.unimelb.edu.au/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/course-planning-tools). I
   designed the prototype version of the university's course
   planner. I've linked the snazzy beta version by the folks at [Eliiza](https://eliiza.com.au/about/).
 - [*Genesim*](https://github.com/hapax/genesim). Simulate the random
