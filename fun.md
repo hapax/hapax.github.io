@@ -6,6 +6,13 @@ permalink: /fun/
 
 Fun! Will report back when I remember how to have it.
 
+#### Art
+
+I put my digital art on [tumblr](https://caedrix.tumblr.com/)
+(yes, it still exists) and photos of urban decay, chance Cornellian
+arrangements of rubbish, symmetry, patterns, and so forth, on
+[Instagram](https://www.instagram.com/dr__abe/).
+
 <figure>
  <div style="text-align:center"><img src ="/images/x64.png" />
  <figcaption><i>This little robot is very keen.</i></figcaption>
@@ -45,13 +52,6 @@ to smoking to betting against the Oracle of Delphi, are secretly
   related.
 <!-- What nuclear war, smoking, and the Oracle of Delphi have in -->
 <!-- common. -->
-
-#### Art
-
-I put my digital art on [tumblr](https://caedrix.tumblr.com/)
-(yes, it still exists) and photos of urban decay, chance Cornellian
-arrangements of rubbish, symmetry, patterns, and so forth, on
-[Instagram](https://www.instagram.com/dr__abe/).
 
 <!-- #### Programming -->
 
