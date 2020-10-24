@@ -15,7 +15,7 @@ do when I'm not sciencing or encouraging other people to science.
 
 #### Writing
 
-I like writing sci-fi. Some recent flash fiction:
+I like writing:
 
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf)
 (2020). A farcical "what if" about large-scale quantum computing,
