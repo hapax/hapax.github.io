@@ -6,10 +6,15 @@ permalink: /about/
 
 <div style="text-align:center"><img src ="/images/selfie1.png" width="250px" /></div>
 
-I'm David Wakeham, a PhD student in the
+I'm David Wakeham.
+My elements formed from exploding stars billions of years ago, but
+self-organised into a human more recently.
+I'm a PhD student in the
 [string theory](http://www.phas.ubc.ca/~strings/) group at the
-[University of British Columbia](https://www.ubc.ca/) (UBC) studying
-conformal field theory, quantum information and black holes.
+[University of British Columbia](https://www.ubc.ca/) (UBC), studying
+black holes and conformal field theory.
+<!-- studying
+conformal field theory, quantum information and black holes.-->
 I am generously supported by a UBC
 [International Doctoral Fellowship](https://www.grad.ubc.ca/campus-community/meet-our-students/wakeham-david).
 
