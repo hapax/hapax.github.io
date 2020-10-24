@@ -4,7 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-Fun! A work in progress.
+Fun! Will report back when I remember how to have it.
 
 <figure>
  <div style="text-align:center"><img src ="/images/x64.png" />
