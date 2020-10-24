@@ -23,9 +23,7 @@ geopolitics, and shrimp.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf) (2019). Telekinetic
 zombies and the psychology of time. Winner of the
 [2019 Ubyssey sci-fi competition](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
-
-<!-- I also have a near-complete
-[chapbook]({{hapax.github.io}}/assets/fearful-spheres.pdf) kicking
+- I also have an old [chapbook]({{hapax.github.io}}/assets/fearful-spheres.pdf) kicking
 around, parts of which are published here and there.
 
 <!-- In a prior life I earned a philosophy degree, and still take language
