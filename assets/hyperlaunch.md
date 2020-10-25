@@ -150,7 +150,7 @@ though we will discuss other possibilities below.
 
 Perhaps, to be really responsible, we should drop our oomeist
 prejudices for a moment and acknowledge that it gets colder and
-gravity weakens as you go up, and that air is not ideal.
+gravity weakens as you go up.
 How does that change things?
 Gravity is easiest.
 From Newton's universal law of gravitation,
@@ -249,12 +249,6 @@ by much. It now hits $20 \text{ kPa}$ a bit earlier at $z  = 11 \text{
 km}$.
 The average height of the atmosphere is $12 \text{ km}$, so both
 estimates are reasonable.
-
-What about a non-ideal gas? It was somewhat finicky to calculate
-the simple adiabatic lapse rate, so for the purposes of this modest
-feasibility study, it seems unnecessary to consider the complexities
-of real weather and the associated thermodynamics.
-I'll leave that 
 
 ##### 3.3. Taking the plunge<a id="sec-3-3" name="sec-3-3"></a>
 
