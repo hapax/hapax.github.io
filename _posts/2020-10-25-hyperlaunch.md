@@ -611,7 +611,7 @@ $$
 
 <!--\frac{500 \times 10^6}{8 \times 10^3 (9.8)}-->
 Before our steel cylinder reaches a scale height, it will collapse
-under its own weight.
+under its own weight!
 Thus, we see that in order to fully exploit the power of atmospheric
 pressure for launching rockets, we have another engineering problem to solve: finding a
 suitably strong but light material which can replace steel.
