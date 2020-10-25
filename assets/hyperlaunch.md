@@ -22,7 +22,8 @@ date:  2020-10-26
    3. <a href="#sec-2-3">The size of the plunger</a>
 4. <a href="#sec-3">Design considerations</a>
    1. <a href="#sec-3-1">Vacuum vexation</a>
-   2. <a href="#sec-3-2">The French press</a>
+   2. <a href="#sec-3-2">Tubes and tilts</a>
+   3. <a href="#sec-3-3">Construction</a>
 
 ##### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
@@ -433,18 +434,18 @@ I imagine a sort of shutter mechanism, which can progressively opened
 as the payload comes through, minimising the amount of flooding.
 So now our French press-vacuum cleaner is combined with a camera!
 
-#### 3.2. The French press<a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Tubes and tilts<a id="sec-3-2" name="sec-3-2"></a>
 
-I've been discussing "cylinders" this whole time, remaining cagey
-about the actual shape of the plunger.
+I've been discussing "cylinders" this whole time, without discussing
+the shape of the plunger.
 It seems that, for reasons a symmetry, an old-fashioned circular
 cross-section should work best.
 If the platform had corners, for instance, these might form points of
 preferential vacuum leakage, while a circular platform means we have
 one uniform design problem for the edge.
-Let's address that problem now.
+But the circle has an additional advantage we will see in a moment.
 
-First of all, if an instability develops, the plunger can tilt, or
+If an instability develops, the plunger can tilt, or
 even flip, which would obviously be disastrous for the payload.
 There needs to be some way to counteract this.
 A simple mechanical constraint is a *thick* plunger which
@@ -467,6 +468,19 @@ of scraping.
 I leave the calculation of the energy dissipation from bearings to a
 longer paper expected April next year.
 
-A final question is the 
+A final question is how the vacuum itself is maintained around the
+edges of the plunger.
+Another cute possibility is to use the vacuum against itself, adding a
+"collar" at the edge, a membrane which seals the regions around the
+perimeter with the rolling bearings.
+The vacuum will press the collar against the walls of the cylinder and
+keep it sealed!
+Depending on the interface between the collar and the walls, large
+amounts of sliding friction may be generated; this is another
+engineering problem I leave to future work.
+But in case air does enter the bearing region, one could also equip
+the base of the plunger with a means of ejecting it, for instance a
+scroll-compressor which can be "charged" with excess launch energy,
+and then act as an expander which ejects unwanted air.
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
