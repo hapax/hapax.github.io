@@ -51,18 +51,21 @@ One can then flood the the area beneath the plunger with air from
 outside the cylinder, at atmospheric pressure, which rushes in and
 pushes the plunger into the vacuum above it, from ground level to the
 top of the atmosphere, where the object, if it has acquired enough
-energy, is released into space.
+energy, is liberated from the earth's gravitational pull.
 If you prefer household objects to technocrats, we can think of the
 hyperlaunch as a French press combined with a vacuum cleaner.
 
-We will first discuss some simple models of atmospheric pressure, and
-check that
+In the next section, we'll discuss simple models of atmospheric
+pressure, and check that our scheme can, in principle, launch objects
+into space.
+In the final section, we discuss some elementary issues of design and
+engineering.
 
 #### 2. The physics<a id="sec-2" name="sec-2"></a>
 
 Now that the high-concept pitch is out of the way, we have some physics to do. Can we
 launch anything? How light must it be? What physics are we neglecting?
-We'll address all of these, though using a suitably oomeist viewpoint.
+We'll address all of these, though with a more or less oomeist lens.
 
 ##### 2.1. The barometric equation<a id="sec-2-1" name="sec-2-1"></a>
 
