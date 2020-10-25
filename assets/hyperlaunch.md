@@ -621,5 +621,8 @@ suitably strong but light material which can replace steel.
 What started a couple of days ago as a light-hearted tribute to the
 pioneering spirit of Elon Musk has, by this point, become a circus of
 highbrow oomism. I hope you've enjoyed it; I certainly have.
-Please leave a comment or drop me an email if you have any suggestions
-for getting this out of the wonderland 
+Please leave a comment or drop me an email if you spot any errors, or
+have suggestions for improving the design, and taking us from a world
+of kerosene and boosters to a frisbee sucked by a vacuum cleaner up a
+French press to deliver rockets through a camera lens and into space,
+our hyperlauncher to the stars.
