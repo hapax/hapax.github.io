@@ -578,7 +578,7 @@ d = \frac{RP_0}{\epsilon\mathcal{E}} = \frac{17(101.1 \times
 10^3)}{2.5\times 10^{-3}(200 \times 10^9)} \text{ m} \approx 3 \text{ mm}.
 $$
 
-So, steel $3 \text{mm}$ thick should resist buckling, and contract
+So, steel $3 \text{ mm}$ thick should resist buckling, and contract
 around $\epsilon 3 \text{ mm} = 8$ microns in radius.
 The pressures drop as we ascend, so this thickness can be reduced as
 we go up, and the radius slowly varied to ensure close to uniform
