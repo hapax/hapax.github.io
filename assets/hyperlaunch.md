@@ -213,8 +213,8 @@ Plugging this into the result for hydrostatic equilibrium, we find that
 
 $$
 dT = \frac{V}{C_P} \, dP = -\frac{Mg(\gamma-1)}{k_B\gamma }\, dz \quad
-\Longrightarrow \quad T = T_0 -\left(\frac{Mg(\gamma-1)}{k_B\gamma
-}\right) z.
+\Longrightarrow \quad T = T_0 -\left[\frac{Mg(\gamma-1)}{k_B\gamma
+}\right] z.
 $$
 
 For nitrogen or oxygen gas, $f = 5$ for three translational and two
