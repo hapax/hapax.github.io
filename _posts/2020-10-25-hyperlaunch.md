@@ -590,8 +590,7 @@ $$
 V = 2\pi R d H = 2700 X \text{ m}^3.
 $$
 
-A cubic meter of steel costs around $\text{USD}4000$, so ignoring
-construction, the raw materials for a hyperlauncher a couple of scale
+A cubic meter of steel costs around $\text{USD}4000$, so the raw materials for a hyperlauncher a couple of scale
 heights high will cost a mere $\text{USD}22$ million dollars, ignoring
 savings due to tapering thickness or costs needed for additional
 structural reinforcement.
