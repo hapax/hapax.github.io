@@ -366,10 +366,47 @@ construction.
 
 A simple question is: realistically, how big does the tube need to be?
 If it is only $12 \text{ km}$, there is still a pressure of $20 \text{
-kPa}$ or so. Even if we evacuate the cylinder, air will immediately
+kPa}$ or so, not to mention mass. Even if we evacuate the cylinder, air will immediately
 flood back in at the top.
-We either need to seal the cylinder at both ends, and open the top
-as the plunger approaches during launch, or make the cylinder much taller.
+But how quickly?
+Consider the slice of air of height $h$ just above the
+cylinder, at height $H$.
+We would like $h$ much smaller than the rate of change of $P$,
+so it is effectively constant.
+This slice mass and is subject to a pressure $P$ from above, so that it is
+subject to a combined pressure
+
+$$
+P_\text{top} = P + nM gh.
+$$
+
+A unit area part of this slice will fall (initially) according to
+
+$$
+z(t) = H - \left(\frac{P + nM gh}{2nM h}\right) t^2.
+$$
+
+The timescale for appreciable flooding of the top of the cylinder is thus
+
+$$
+\tau_\text{flood} \sim \sqrt{\frac{2H}{P/nMh + g}}.
+$$
+
+We can make this timescale large enough for practical purposes by
+making $P$ small.
+For analytic simplicity, let's work with the constant temperature
+barometric formula.
+Consider $h \ll \lambda$, so
+
+$$
+\frac{P}{nMh} \gg g.
+$$
+
+Then
+
+$$
+\tau_\text{flood} \sim \sqrt{\frac{2nhMH}{P(H)}} = \sqrt{\frac{2nhMH}{P_0}}e^{H/2\lambda}.
+$$
 
 #### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
 
