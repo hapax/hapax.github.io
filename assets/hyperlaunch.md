@@ -96,7 +96,7 @@ This is a differential equation we can solve immediately by
 integrating both sides:
 
 $$
-P = P_0\exp\left[ -\lambda_s z\right], \quad \lambda_s = \frac{Mg}{k_BT},
+P = P_0\exp\left[ -\lambda_s^{-1} z\right], \quad \lambda_s = \frac{k_BT}{Mg},
 $$
 
 where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
@@ -122,5 +122,21 @@ molecular mass
 $$
 M = 29 \text{ amu} = 48 \times 10^{-26} \text{ kg}.
 $$
+
+Neither temperature nor gravitational acceleration are really fixed as
+we go far away from the earth.
+But we'll assume they vary slowly enough that the scale height can be
+computed keeping them constant, and see if this is reasonable.
+The average surface temperature of the earth is a cool room, $T = 15^\circ
+\text{ C} = 288 \text{ K}$, and gravitational acceleration at the
+surface is $g = 9.8 \text{ m/s}^2$.
+Putting it all together, we get a scale height
+
+$$
+\lambda_s = \frac{k_BT}{Mg} = \frac{(1.38 \times 10^{-23})288}{(4.8
+\times 10^{-26})(9.8)} \text{ m} = 8.45 \text{ km}.
+$$
+
+This is fairly small, so for 
 
 ##### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
