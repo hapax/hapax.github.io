@@ -505,7 +505,7 @@ pressure.
 In line with oomism, we will ignore inhomogeneities, and think about
 how a perfect cylinder is compressed by atmospheric pressure, called
 *cylinder stress*.
-This is the source of engineering disasters, though usually the
+This is the source of many an engineering disaster, though usually the
 pressure is on the *inside*, e.g. the
 [great Molasses flood](https://en.wikipedia.org/wiki/Great_Molasses_Flood).
 
