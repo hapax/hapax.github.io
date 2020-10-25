@@ -557,7 +557,7 @@ fuel, but we are not taking the weight of the plunger into account.
 At any rate, the radius will be
 
 $$
-R = \sqrt{\frac{A}{\pi}} = \sqrt{\frac{900 \text{ m^2}}{\pi}} = 17
+R = \sqrt{\frac{A}{\pi}} = \sqrt{\frac{900 \text{ m}^2}{\pi}} = 17
 \text{ m}.
 $$
 
