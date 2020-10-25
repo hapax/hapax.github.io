@@ -247,6 +247,9 @@ P = P_0\left(1 - \frac{Lz}{T_0}\right)^{Mg/k_B L}.
 $$
 
 Does this change the "vacuum cleaner" height of the atmosphere? Not
-by much. It now hits $20 \text{ kPa}$ a bit earlier at $z  = 11 \text{ km}$.
+by much. It now hits $20 \text{ kPa}$ a bit earlier at $z  = 11 \text{
+km}$.
+The average height of the atmosphere is $12 \text{ km}$, so both
+estimates are reasonable.
 
 ##### 3.3. High pressure environment<a id="sec-3-3" name="sec-3-3"></a>
