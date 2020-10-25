@@ -396,17 +396,32 @@ We can make this timescale large enough for practical purposes by
 making $P$ small.
 For analytic simplicity, let's work with the constant temperature
 barometric formula.
-Consider $h \ll \lambda$, so
+Consider $h \ll \lambda$, so that (after a little algebra)
 
 $$
 \frac{P}{nMh} \gg g.
 $$
 
-Then
+Then using the ideal gas law,
 
 $$
-\tau_\text{flood} \sim \sqrt{\frac{2nhMH}{P(H)}} = \sqrt{\frac{2nhMH}{P_0}}e^{H/2\lambda}.
+\tau_\text{flood} \sim \sqrt{\frac{2nhMH}{P}} = \sqrt{\frac{2hMH}{k_BT}}.
 $$
+
+Let's express our heights in terms of scale heights, $x = h/\lambda$
+and $X = H/\lambda$.
+Then our earlier numbers give
+
+$$
+\tau_\text{flood} \approx 0.04 \sqrt{Xx} \text{ s}.
+$$
+
+The flooding timescale depends on the geometric mean of the cylinder height $H$
+and parcel height $h$, or $\sqrt{Xx}$ in terms of scale heights.
+If we want a window of, say, $5$ minutes, we will need an absurd
+number of scale heights.
+I doubt the situation will improve in more realistic models, so
+really, we will need to seal the top of the cylinder when we evacuate it.
 
 #### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
 
