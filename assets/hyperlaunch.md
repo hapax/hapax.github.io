@@ -21,6 +21,7 @@ date:  2020-10-26
    2. <a href="#sec-2-2">Temperature and gravity*</a>
    3. <a href="#sec-2-3">The size of the plunger</a>
 4. <a href="#sec-3">Design considerations</a>
+   1. <a href="#sec-3-1">Vacuum vexation</a>
 
 ##### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
@@ -362,6 +363,12 @@ Next, we turn to some basic design considerations.
 
 ##### 3. Design considerations<a id="sec-3" name="sec-3"></a>
 
+In this last section, we'll address a few basic design concerns, such
+as establishing and maintaining the vacuum, the firing mechanism, and
+construction.
+
 #### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
 
-#### 3.2. Overshooting<a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
+
+#### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
