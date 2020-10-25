@@ -249,7 +249,7 @@ L = \frac{Mg(\gamma-1)}{k_B\gamma} = \frac{(4.8
 $$
 
 It drops roughly $10^\circ \text{ C}$ for every kilometre we go up.
-Finally, if we plug this result for temperature back into our
+Finally, if we substitute this result for temperature back into our
 differential equation for hydrostatic equilibrium, we find
 
 $$
