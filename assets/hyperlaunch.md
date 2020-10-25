@@ -29,7 +29,7 @@ proposed a wacky, high-speed alternative to trains: the *hyperloop*,
 the pneumatic tube for people. In this post, I conduct an initial
 feasibility study for combining these two ideas, and launching rockets
 into space with *vertical* hyperloops.
-I call this "hyperlaunch".
+I call this the "hyperlaunch".
 
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
