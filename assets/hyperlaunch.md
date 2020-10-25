@@ -607,9 +607,10 @@ Thus, at the thickness needed to resist buckling, the maximum height
 (in scale heights) is
 
 $$
-X = \frac{\sigma_\text{YP}}{\lambda\rho g} = 0.75. <!--\frac{500 \times 10^6}{8 \times 10^3 (9.8)}-->
+X = \frac{\sigma_\text{YP}}{\lambda\rho g} = 0.75.
 $$
 
+<!--\frac{500 \times 10^6}{8 \times 10^3 (9.8)}-->
 Before our steel cylinder reaches a scale height, it will collapse
 under its own weight.
 Thus, we see that in order to fully exploit the power of atmospheric
