@@ -326,3 +326,10 @@ than the area of the Falcon Heavy if laid flat.
 If we want to launch a $m  = 1\text{ kg}$ cubesat instead, however,
 then our platform can be a million times smaller; a plunger $10$ times
 larger than the base of the cubesat itself will be sufficient.
+
+Of course, we are ignoring the mass of the platform.
+Assuming it has some areal density $\rho$, then we must instead have
+
+$$
+A \geq \frac{m g R_\oplus}{P_0 \lambda - \rho g R_\oplus}.
+$$
