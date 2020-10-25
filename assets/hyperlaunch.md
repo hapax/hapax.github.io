@@ -17,7 +17,8 @@ date:  2020-10-26
    1. <a href="#sec-2-1">Pendulous pumpkins</a>
 3. <a href="#sec-3">The physics</a>
    1. <a href="#sec-3-1">The barometric equation</a>
-   2. <a href="#sec-3-2">High pressure environment</a>
+   2. <a href="#sec-3-2">Temperature and gravity*</a>
+   3. <a href="#sec-3-3">High pressure environment</a>
 4. <a href="#sec-4">Design challenges</a>
 
 #### 1. Introduction<a id="sec-1" name="sec-1"></a>
@@ -67,7 +68,7 @@ PV = Nk_BT \quad \Longrightarrow \quad P = n k_BT,
 $$
 
 where $P$ is pressure, $V$ is volume, $k_B
-= 1.38 \times 10^{-23}$ in SI units, and $T$ is absolute temperature,
+= 1.4 \times 10^{-23}$ in SI units, and $T$ is absolute temperature,
 e.g. in Kelvin.
 Finally, $N$ is particle number and $n = N/V$ is the number per unit
 volume
@@ -93,7 +94,7 @@ $$
 $$
 
 This is a differential equation we can solve immediately by
-integrating both sides:
+integrating both sides, and obtain the *barometric formula*:
 
 $$
 P = P_0\exp\left[ -\lambda_s^{-1} z\right], \quad \lambda_s = \frac{k_BT}{Mg},
@@ -116,7 +117,7 @@ The scale depends on a number of things, including temperature,
 gravity, and the mass of air molecules.
 The last one is easiest.
 Air is mostly nitrogen gas $\text{N}_2$ ($28$ atomic mass units), made a
-bit heavier by oxygen in various compounds, leading an average
+bit heavier by oxygen gas $\text{O}_2$ ($32$ amu), leading to an average
 molecular mass
 
 $$
@@ -128,15 +129,92 @@ we go far away from the earth.
 But we'll assume they vary slowly enough that the scale height can be
 computed keeping them constant, and see if this is reasonable.
 The average surface temperature of the earth is a cool room, $T = 15^\circ
-\text{ C} = 288 \text{ K}$, and gravitational acceleration at the
+\text{ C} \approx 290 \text{ K}$, and gravitational acceleration at the
 surface is $g = 9.8 \text{ m/s}^2$.
 Putting it all together, we get a scale height
 
 $$
-\lambda_s = \frac{k_BT}{Mg} = \frac{(1.38 \times 10^{-23})288}{(4.8
-\times 10^{-26})(9.8)} \text{ m} = 8.45 \text{ km}.
+\lambda_s = \frac{k_BT}{Mg} = \frac{(1.4 \times 10^{-23})290}{(4.8
+\times 10^{-26})(9.8)} \text{ m} = 8.4 \text{ km}.
 $$
 
-This is fairly small, so for 
+This is pretty small! The pressure inside a vacuum clear is around $20
+\text{ kPa}$, so this occurs around height
 
-##### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
+$$
+z = \lambd_s \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
+$$
+
+A vacuum cleaner seems like a good place to cap off the atmosphere.
+
+##### 3.2. Temperature and gravity*<a id="sec-3-2" name="sec-3-2"></a>
+
+Perhaps, to be really responsible, we should drop our oomeist
+prejudices for a moment and acknowledge that it gets colder and
+gravity weakens as you go up, and that air is not ideal.
+How does that change things?
+Gravity is easiest.
+From Newton's universal law of gravitation,
+
+$$
+g(z) = \frac{GM_\oplus}{(R_\oplus + z)^2},
+$$
+
+where $R_\oplus = 6.3 \times 10^6 \text{ m}$ is the radius of the
+earth, $M_\oplus = 6.0 \times 10^{24} \text{ kg}$ is its mass, and
+$G = 6.67 \times 10^{-11}$ is Newton's constant, in SI units.
+This leads to an equation
+
+$$
+\frac{dP}{P} = -\frac{M GM_\oplus}{k_BT}\, \frac{dz}{(R_\oplus + z)^2}.
+$$
+
+Once again, we just integrate to get
+
+$$
+P = P_0 e^{-\lambda_s} \exp\left[\frac{M GM_\oplus}{k_BT (R_\oplus + z)}\right].
+$$
+
+To see if we really need to worry about this, we do a binomial
+expansion for $z \ll R_\oplus$ (which is all we will ever worry about)
+
+$$
+\frac{1}{R_\oplus + z} \approx \frac{1}{R_\oplus}\left(1 - \frac{z}{R_\oplus}\right).
+$$
+
+Plugging back in returns our original barometric formula.
+So, as long as we stick to heights much smaller than the earth's
+radius, we're good.
+
+What about temperature? This is tricky, since we need some
+thermodynamics, and in particular, a further equilibrium condition to
+obtain a relation between $T$ and $P$.
+Let's assume it isn't raining, and the atmosphere is dry enough for
+equilibrium to be set by an *adiabatic* process, where $dQ = T\, dS = 0$.
+Then we can relate $T$ and $P$ using the $T\, dS$ equation for
+variables $T$ and $P$, using the ideal gas law:
+
+$$
+  0 = C_P \, dT - T \frac{\partial V}{\partial T}\bigg|_P \, dP = C_P
+  \, dT - V \, dP,
+  $$
+
+where we used the ideal gas law, and $C_P$ is the heat capacity for a
+volume $V$ of air at constant pressure.
+Hence, we find that
+
+$$
+dT = \frac{V}{C_P} \, dP.
+$$
+
+Note that $C_P$ can be written in terms of the degrees of freedom $f$
+of the gas as
+
+$$
+  C_P = \frac{\gamma N k_B}{\gamma - 1}, \quad \gamma = 1 +
+  \frac{2}{f}.
+  $$
+
+For nitrogen or oxygen gas, $f = 5$ for three translational and two rotational degrees of freedom, and hence $\gamma = 1.4$.
+
+##### 3.3. High pressure environment<a id="sec-3-3" name="sec-3-3"></a>
