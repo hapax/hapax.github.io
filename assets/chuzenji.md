@@ -8,9 +8,9 @@ title: The Third Realm
 
 #### Contents
 
-1. <a href="#sec-1"></a>
+1. <a href="#sec-1">The mountain shrine</a>
 
-#### Introduction<a id="sec-1" name="sec-1"></a>
+#### The mountain shrine<a id="sec-1" name="sec-1"></a>
 
 In 782, the Buddhist monk Shōdō Shōnin (勝道上人) 
 
@@ -21,7 +21,7 @@ In 782, the Buddhist monk Shōdō Shōnin (勝道上人)
 </p>
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake1.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake10.png" />
     <figcaption><i>The pier.</i></figcaption>
 	</div>
 </figure>
