@@ -34,14 +34,14 @@ proposed a wacky, high-speed alternative to trains: the *hyperloop*,
 the pneumatic tube for people. In this post, I conduct an initial
 feasibility study for combining these two ideas, and launching rockets
 into space with *vertical* hyperloops.
-I call this the "hyperlaunch".
+I call this the "hyperlauncher".
 
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
 And even though I am focusing on the physics, I will adopt a
 philosophy of order-of-magnitude (oom) estimates, which I call
 *oomism*.
-I state for the record that "oomism" and the "hyperlaunch" are very,
+I state for the record that "oomism" and the "hyperlauncher" are very,
 very serious business.
 
 #### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
@@ -578,5 +578,19 @@ $$
 
 So, steel $3 \text{mm}$ thick should resist buckling, and contract
 around $\epsilon 3 \text{ mm} = 8$ microns in radius.
+The pressures drop as we ascend, so this thickness can be reduced as
+we go up, and the radius slowly varied to ensure close to uniform
+thickness (though the Young's modulus may be high enough to ignore
+this).
+So, for a cylinder of height $H = X\lambda$, we estimate the volume of steel
+require to resist buckling is at most
+
+$$
+V = 2\pi R d H = 2700 X \text{ m}^3.
+$$
+
+A cubic meter of steel costs around USD$\$ 4000$, so ignoring
+construction, the raw materials for a hyperlauncher a couple of scale
+heights high will cost only a USD$\$ 22\text{ M}$.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
