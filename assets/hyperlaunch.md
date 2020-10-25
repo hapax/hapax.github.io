@@ -217,7 +217,17 @@ dT = \frac{V}{C_P} \, dP = -\frac{Mg(\gamma-1)}{k_B\gamma }\, dz \quad
 }\right] z.
 $$
 
-For nitrogen or oxygen gas, $f = 5$ for three translational and two
-rotational degrees of freedom, and hence $\gamma = 1.4$.
+For nitrogen or oxygen gas at atmospheric temperatures, $f = 5$,
+consisting of three translational and two rotational degrees of
+freedom. There is a vibrational mode at higher temperatures we can
+ignore.
+Plugging these in, we get a rate of change of temperature, or
+*temperature lapse rate*
+
+$$
+L_s = \frac{Mg(\gamma-1)}{k_B\gamma} = \frac{(4.8
+\times 10^{-26}) 9.8 \cdot 0.4}{(1.4 \times 10^{-23}) 1.4} \text{ K/m}
+\approx 9.6 \text{ K/km}.
+$$
 
 ##### 3.3. High pressure environment<a id="sec-3-3" name="sec-3-3"></a>
