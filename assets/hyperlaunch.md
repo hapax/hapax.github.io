@@ -508,16 +508,16 @@ This is the source of engineering disasters, though usually the
 pressure is on the *inside*, e.g. the
 [great Molasses flood](https://en.wikipedia.org/wiki/Great_Molasses_Flood).
 
-Suppose the cylinder has radius $R$ and thickness $t \ll R$.
+Suppose the cylinder has radius $R$ and thickness $d \ll R$.
 For thin walls, the
 [Young-Laplace equation](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
 applies, and the cylinder is compressed by a stress
 
 $$
-\sigma = \frac{RP}{t}.
+\sigma = \frac{RP}{d}.
 $$
 
-Here, the surface tension is $\sigma t$ (force per unit length), but
+Here, the surface tension is $\sigma d$ (force per unit length), but
 the tensile stress is $\sigma$ (for per unit area).
 We now treat the cylinder as a bent sheet, subject to a stress
 $\sigma$.
@@ -526,13 +526,13 @@ with launch energy), the *strain* $\epsilon$ or fractional change in
 length is
 
 $$
-\epsilon = \frac{\Delta R}{R} = \frac{\sigma}{\mathcal{E}} = \frac{RP}{t \mathcal{E}}.
+\epsilon = \frac{\Delta R}{R} = \frac{\sigma}{\mathcal{E}} = \frac{RP}{d \mathcal{E}}.
 $$
 
 Thus, the change in radius is
 
 $$
-\Delta R = \frac{R^2P}{t \mathcal{E}}.
+\Delta R = \frac{R^2P}{d\mathcal{E}}.
 $$
 
 This relationship only holds up to the *yield point*, a
@@ -546,7 +546,7 @@ Our goal now will be to see what materials we could use and how thick
 they will need to be, noting that the strain at ground level is
 
 $$
-\epsilon = \frac{RP_0}{t \mathcal{E}}.
+\epsilon = \frac{RP_0}{d \mathcal{E}}.
 $$
 
 First, let's take our earlier calculation of the Falcon Heavy
@@ -563,5 +563,20 @@ $$
 For concreteness, let's use steel, which can sustain a stress of
 around $\sigma_\text{YP} = 500 \text{ MPa}$, with a Young's modulus of
 around $\mathcal{E} = 200 \text{ GPa}$.
+Then at the yield point, we have a strain
+
+$$
+\epsilon = \frac{500 \times 10^6}{200 \times 10^9} = 2.5\times 10^{-3}
+$$
+
+This corresponds to a thickness of at least
+
+$$
+d = \frac{RP_0}{\epsilon\mathcal{E}} = \frac{17(101.1 \times
+10^3)}{2.5\times 10^{-3}(200 \times 10^9)} \text{ m} \approx 3 \text{ mm}.
+$$
+
+So, steel $3 \text{mm}$ thick should resist buckling, and contract
+around $\epsilon 3 \text{ mm} = 8$ microns in radius.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
