@@ -22,6 +22,7 @@ date:  2020-10-26
    3. <a href="#sec-2-3">The size of the plunger</a>
 4. <a href="#sec-3">Design considerations</a>
    1. <a href="#sec-3-1">Vacuum vexation</a>
+   2. <a href="#sec-3-2">Tube shape</a>
 
 ##### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
@@ -417,7 +418,7 @@ $$
 $$
 
 The flooding timescale depends on the geometric mean of the cylinder height $H$
-and parcel height $h$, or $\sqrt{Xx}$ in terms of scale heights.
+and parcel height $h$, or $\sqrt{Xx}$ in dimensionless terms.
 If we want a window of, say, $5$ minutes, we will need an absurd
 number of scale heights.
 I doubt the situation will improve in more realistic models, so it
@@ -427,6 +428,8 @@ We will need to open it so that the payload arrives well before the
 flooding timescale.
 This would seem to be one of the major engineering challenges.
 
-#### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Tube shape<a id="sec-3-2" name="sec-3-2"></a>
+
+I've been discussing "cylinders" this whole time, while 
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
