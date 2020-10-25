@@ -13,13 +13,12 @@ date:  2020-10-26
 #### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Hyperlaunchers</a>
-   1. <a href="#sec-2-1">Pendulous pumpkins</a>
-3. <a href="#sec-3">The physics</a>
-   1. <a href="#sec-3-1">The barometric equation</a>
-   2. <a href="#sec-3-2">Temperature and gravity*</a>
-   3. <a href="#sec-3-3">Taking the plunge</a>
-4. <a href="#sec-4">Design challenges</a>
+   1. <a href="#sec-1-1">The basic design</a>
+3. <a href="#sec-2">The physics</a>
+   1. <a href="#sec-2-1">The barometric equation</a>
+   2. <a href="#sec-2-2">Temperature and gravity*</a>
+   3. <a href="#sec-2-3">The size of the plunger</a>
+4. <a href="#sec-3">Design considerations</a>
 
 #### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
@@ -39,20 +38,33 @@ philosophy of order-of-magnitude-estimates (oome), which I call
 I state for the record that "oomeism" and the "hyperlaunch" are very,
 very serious business.
 
-#### 2. Hyperlaunchers<a id="sec-2" name="sec-2"></a>
+##### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
 
-The basic idea is simple.
-Make a giant cylinder stretching from the
+The basic idea of the hyperlaunch is simple.
+Take a giant cylinder, stretching from the ground to the top of the
+atmosphere, and put a "plunger" inside which can move up and down,
+just like a French press.
+If the cylinder and plunger are airtight, one can imagine evacuating
+the cylinder and placing the plunger at the bottom, just above the
+ground.
+One can then flood the the area beneath the plunger with air from
+outside the cylinder, at atmospheric pressure, which rushes in and
+pushes the plunger into the vacuum above it, from ground level to the
+top of the atmosphere, where the object, if it has acquired enough
+energy, is released into space.
+If you prefer household objects to technocrats, we can think of the
+hyperlaunch as a French press combined with a vacuum cleaner.
 
-##### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
+We will first discuss some simple models of atmospheric pressure, and
+check that
 
-#### 3. The physics<a id="sec-3" name="sec-3"></a>
+#### 2. The physics<a id="sec-2" name="sec-2"></a>
 
 Now that the high-concept pitch is out of the way, we have some physics to do. Can we
 launch anything? How light must it be? What physics are we neglecting?
 We'll address all of these, though using a suitably oomeist viewpoint.
 
-##### 3.1. The barometric equation<a id="sec-3-1" name="sec-3-1"></a>
+##### 2.1. The barometric equation<a id="sec-2-1" name="sec-2-1"></a>
 
 In order to understand how much force is supplied to the plunger, we
 need to understand how pressure varies with height, and indeed, how
@@ -147,7 +159,7 @@ $$
 A vacuum cleaner seems like a good place to cap off the atmosphere,
 though we will discuss other possibilities below.
 
-##### 3.2. Temperature and gravity*<a id="sec-3-2" name="sec-3-2"></a>
+##### 2.2. Temperature and gravity*<a id="sec-2-2" name="sec-2-2"></a>
 
 Perhaps, to be really responsible, we should drop our oomeist
 prejudices for a moment and acknowledge that it gets colder and
@@ -251,7 +263,7 @@ km}$.
 The average height of the atmosphere is $12 \text{ km}$, so both
 estimates are reasonable.
 
-##### 3.3. Taking the plunge<a id="sec-3-3" name="sec-3-3"></a>
+##### 2.3. The size of the plunger<a id="sec-2-3" name="sec-2-3"></a>
 
 Let's see how much energy can be delivered to our giant plunger when
 we flood the base with air at atmospheric pressure.
@@ -334,3 +346,16 @@ Assuming it has some areal density $\rho$, then we must instead have
 $$
 A \geq \frac{m g R_\oplus}{P_0 \lambda - \rho g R_\oplus}.
 $$
+
+This means that if $P_0\lambda > \rho g R_\oplus$, i.e. the plunger
+can launch itself, it can launch anything else, provided the object is
+light enough or the plunger big enough.
+This completes our oomeist proof of concept that a French press cross
+vacuum cleaner can launch rockets.
+Next, we turn to some basic design considerations.
+
+##### 3. Design considerations<a id="sec-3" name="sec-3"></a>
+
+##### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
+
+##### 3.2. Overshooting<a id="sec-3-2" name="sec-3-2"></a>
