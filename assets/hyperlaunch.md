@@ -266,12 +266,35 @@ use.
 For the constant temperature case, the energy is
 
 $$
-E = A\int_0^H dz \, P_0 e^{-z/\lambda} = AP_0 \lambda \left(1 - e^{-H/\lambda}\right).
+E_1(H) = A\int_0^H dz \, P_0 e^{-z/\lambda} = AP_0 \lambda \left(1 - e^{-H/\lambda}\right).
 $$
 
 For a lapse rate $L$, we instead have
 
 $$
-E = A\int_0^H dz \, P_0\left(1 - \frac{Lz}{T_0}\right)^{\Lambda} =
-\frac{AP_0T_0}{L(\Lambda+1)}\left[1 - \left(1 - \frac{Lz}{T_0}\right)^{\Lambda+1}\right].
+E_2(H) = A\int_0^H dz \, P_0\left(1 - \frac{Lz}{T_0}\right)^{\Lambda} =
+\frac{AP_0T_0}{L(\Lambda+1)}\left[1 - \left(1 - \frac{LH}{T_0}\right)^{\Lambda+1}\right].
 $$
+
+Both have some maximum energy they can provide per unit area of
+plunger.
+In the first case, take $H \gg \lambda$, we obtain
+
+$$
+\epsilon_1 = \frac{E_1}{A} = P_0 \lambda = 8.5 \times 10^{8}
+\text{ J/m}^2.
+$$
+
+In the second case, our formula stops making sense when the
+temperature hits zero, at $H  = T_0/L$, so we have
+
+$$
+\epsilon_1 = \frac{E_2}{A} = \frac{P_0T_0}{L(\Lambda+1)} = 6.8 \times 10^{7}
+\text{ J/m}^2.
+$$
+
+<!-- 101.1*290/((9.6/1000)(1+((4.8 \times 10^{-26}) 9.8)/((1.4 \times 10^{-23})*(9.6/1000))))-->
+This is smaller because we have to cut it off at a smaller height.
+Obviously, this version of the barometric formula must break down as
+we go up. We will instead take the constant temperature estimate as
+our oomeist standard.
