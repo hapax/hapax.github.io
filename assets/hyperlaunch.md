@@ -594,7 +594,6 @@ $$
 A cubic meter of steel costs around $\text{USD}4000$, so ignoring
 construction, the raw materials for a hyperlauncher a couple of scale
 heights high will cost a mere $\text{USD}22\text{ M}$.
-
 Of course, the real problem is weight.
 Steel has a density of $\rho = 8 \text{ tonnes/m}^3$. The resulting
 strain at the base is
