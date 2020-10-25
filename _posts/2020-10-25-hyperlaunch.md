@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A hyperlaunch to space"
+title:  "A hyperlauncher to space"
 categories: [Physics, Engineering]
 date:  2020-10-25
 ---
