@@ -355,7 +355,6 @@ can launch itself, it can launch anything else, provided the object is
 light enough or the plunger big enough.
 This completes our oompoc that a French press cross
 vacuum cleaner can launch rockets.
-Next, we turn to some basic design considerations.
 
 ##### 3. Design considerations<a id="sec-3" name="sec-3"></a>
 
