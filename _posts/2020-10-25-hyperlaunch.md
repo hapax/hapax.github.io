@@ -433,7 +433,7 @@ This seal does not need to be particularly hardy, since the pressures
 at the top will be low.
 More importantly, it will need to open quickly so that the payload
 arrives well before the flooding timescale.
-I imagine a sort of shutter mechanism, which can progressively opened
+I imagine a sort of shutter mechanism, which can be progressively opened
 as the payload comes through, minimising the amount of flooding.
 So now our French press-vacuum cleaner is combined with a camera!
 
@@ -622,7 +622,7 @@ suitably strong but light material which can replace steel.
 
 What started a couple of days ago as a light-hearted tribute to the
 pioneering spirit of Elon Musk has, by this point, become a circus of
-highbrow oomism. I hope you've enjoyed it; I certainly have.
+farcical, high-concept oomism. I hope you've enjoyed it; I certainly have.
 Please leave a comment or drop me an email if you spot any errors, or
 have suggestions for improving the design.
 Perhaps one day we will leave the world of kerosene and boosters
