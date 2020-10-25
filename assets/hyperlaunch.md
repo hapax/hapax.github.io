@@ -421,12 +421,17 @@ The flooding timescale depends on the geometric mean of the cylinder height $H$
 and parcel height $h$, or $\sqrt{Xx}$ in dimensionless terms.
 If we want a window of, say, $5$ minutes, we will need an absurd
 number of scale heights.
+
 I doubt the situation will improve in more realistic models, so it
 seems we must seal the top of the cylinder when we evacuate it, and
 open it when we launch.
-We will need to open it so that the payload arrives well before the
-flooding timescale.
-This would seem to be one of the major engineering challenges.
+This seal does not need to be particularly hardy, since the pressures
+at the top will be low.
+More importantly, it will need to open quickly so that the payload
+arrives well before the flooding timescale.
+I imagine a sort of shutter mechanism, which can progressively opened
+as the payload comes through, minimising the amount of flooding.
+So now our French press-vacuum cleaner is combined with a camera!
 
 #### 3.2. The French press<a id="sec-3-2" name="sec-3-2"></a>
 
