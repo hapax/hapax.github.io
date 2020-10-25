@@ -439,8 +439,7 @@ So now our French press-vacuum cleaner is combined with a camera!
 
 #### 3.2. Stabilising the plunger<a id="sec-3-2" name="sec-3-2"></a>
 
-I've been discussing "cylinders" this whole time, without discussing
-the shape of the plunger.
+I've been discussing "cylinders" this whole time, hedging on the shape of the plunger.
 It seems that, for reasons a symmetry, an old-fashioned circular
 cross-section should work best.
 If the platform had corners, for instance, these might form points of
