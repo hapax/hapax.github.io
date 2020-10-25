@@ -63,12 +63,44 @@ Let's unpack these.
 An ideal gas satisfies the ideal gas law,
 
 $$
-PV = n k_BT,
+PV = Nk_BT \quad \Longrightarrow \quad P = n k_BT,
 $$
 
-where $P$ is pressure, $V$ is volume, $n$ is particle number, $k_B
+where $P$ is pressure, $V$ is volume, $k_B
 = 1.38 \times 10^{-23}$ in SI units, and $T$ is absolute temperature,
 e.g. in Kelvin.
-Hydrostatic equilibrium means that 
+Finally, $N$ is particle number and $n = N/V$ is the number per unit
+volume
+
+Hydrostatic equilibrium means that the mass of a small parcel of has
+is supported because pressure below is greater than pressure from above.
+If the parcel has height $h$ and area $A$, its mass $m$ is the volume
+$Ah$, multiplied by the density of particles $n$, multiplied by the
+mass per particle $M$.
+Using the ideal gas law,
+
+$$
+mg = (n MAh)g = \frac{MPAhg}{k_BT}.
+$$
+
+Consider an infinitesimally thin parcel, $h = dz$, where $z$ is the
+height above the ground.
+The difference in pressure above and below is $-dP$ (decreasing as $z$
+increases), so that $mg = -A \, dP$ implies
+
+$$
+\frac{dP}{P} = -\frac{Mg}{k_BT}\, dz.
+$$
+
+This is a differential equation we can solve immediately by
+integrating both sides:
+
+$$
+P = P_0\exp\left[ -\lambda_s z\right], \quad \lambda_s = \frac{Mg}{k_BT},
+$$
+
+where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
+*scale height*.
+So, in our oomeist model, pressure decreases exponenentially, 
 
 ### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
