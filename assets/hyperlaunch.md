@@ -624,7 +624,8 @@ What started a couple of days ago as a light-hearted tribute to the
 pioneering spirit of Elon Musk has, by this point, become a circus of
 highbrow oomism. I hope you've enjoyed it; I certainly have.
 Please leave a comment or drop me an email if you spot any errors, or
-have suggestions for improving the design, and taking us from a world
-of kerosene and boosters to rockets on frisbees sucked by a vacuum cleaner up a
-French press and spat out through a camera shutter: a hyperlauncher
+have suggestions for improving the design.
+Perhaps one day we will leave the world of kerosene and boosters
+behind us, and embark on a bold new age of rockets on frisbees sucked by vacuum cleaners up a
+French press and spat out through a camera shutter: our hyperlauncher
 to the stars.
