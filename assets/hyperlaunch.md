@@ -35,7 +35,7 @@ I call this the "hyperlaunch".
 
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
-And even though I am focusing on the physics, I will adopt an
+And even though I am focusing on the physics, I will adopt a
 philosophy of order-of-magnitude (oom) estimates, which I call
 *oomism*.
 I state for the record that "oomism" and the "hyperlaunch" are very,
