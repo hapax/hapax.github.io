@@ -18,7 +18,7 @@ date:  2020-10-26
 3. <a href="#sec-3">The physics</a>
    1. <a href="#sec-3-1">The barometric equation</a>
    2. <a href="#sec-3-2">Temperature and gravity*</a>
-   3. <a href="#sec-3-3">High pressure environment</a>
+   3. <a href="#sec-3-3">Taking the plunge</a>
 4. <a href="#sec-4">Design challenges</a>
 
 #### 1. Introduction<a id="sec-1" name="sec-1"></a>
@@ -103,10 +103,8 @@ $$
 where $P_0$ is the pressure at $z=0$, and $\lambda$ is called the
 *scale height*.
 So, in our oomeist model, pressure decreases exponenentially, and is
-effectively zero after a few scale heights. We will discuss the
-number of scale heights needed for engineering purposes below.
-
-Let's add some numbers now.
+effectively zero after a few scale heights. 
+Let's calculate some actual numbers.
 The pressure at ground height is just atmospheric pressure,
 
 $$
@@ -183,7 +181,7 @@ $$
 \frac{1}{R_\oplus + z} \approx \frac{1}{R_\oplus}\left(1 - \frac{z}{R_\oplus}\right).
 $$
 
-Plugging back in returns our original barometric formula.
+Plugging this in, we recover our original barometric formula.
 So, as long as we stick to heights much smaller than the earth's
 radius, we're good.
 
@@ -252,4 +250,7 @@ km}$.
 The average height of the atmosphere is $12 \text{ km}$, so both
 estimates are reasonable.
 
-##### 3.3. High pressure environment<a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Taking the plunge<a id="sec-3-3" name="sec-3-3"></a>
+
+Let's see how much energy can be delivered to our giant plunger when
+we flood the base with air at atmospheric pressure.
