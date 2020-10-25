@@ -369,6 +369,13 @@ construction.
 
 #### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
 
+A simple question is: realistically, how big does the tube need to be?
+If it is only $12 \text{ km}$, there is still a pressure of $20 \text{
+kPa}$ or so. Even if we evacuate the cylinder, air will immediately
+flood back in at the top.
+We either need to seal the cylinder at both ends, and open the top
+as the plunger approaches during launch, or make the cylinder much taller.
+
 #### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
