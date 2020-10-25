@@ -16,14 +16,15 @@ date:  2020-10-26
 
 1. <a href="#sec-1">Introduction</a>
    1. <a href="#sec-1-1">The basic design</a>
-3. <a href="#sec-2">The physics</a>
+2. <a href="#sec-2">The physics</a>
    1. <a href="#sec-2-1">The barometric equation</a>
    2. <a href="#sec-2-2">Temperature and gravity*</a>
    3. <a href="#sec-2-3">The size of the plunger</a>
-4. <a href="#sec-3">Design considerations</a>
+3. <a href="#sec-3">Design considerations</a>
    1. <a href="#sec-3-1">Vacuum vexation</a>
-   2. <a href="#sec-3-2">Tubes and tilts</a>
-   3. <a href="#sec-3-3">Construction</a>
+   2. <a href="#sec-3-2">Stabilising the plunger</a>
+   3. <a href="#sec-3-3">Cylinder stress and construction</a>
+4. <a href="#sec-4">Conclusion</a>
 
 ##### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
@@ -434,7 +435,7 @@ I imagine a sort of shutter mechanism, which can progressively opened
 as the payload comes through, minimising the amount of flooding.
 So now our French press-vacuum cleaner is combined with a camera!
 
-#### 3.2. Tubes and tilts<a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Stabilising the plunger<a id="sec-3-2" name="sec-3-2"></a>
 
 I've been discussing "cylinders" this whole time, without discussing
 the shape of the plunger.
@@ -480,12 +481,87 @@ amounts of sliding friction may be generated; this is another
 engineering problem I leave to future work.
 But in case air does enter the pocket, one could also equip
 the base of the plunger with a means of ejecting it.
-One possibility is a scroll-compressor which can be isolated from the
+Again, we could use excess launch energy to power small vacuum pumps
+which, connected to the pocket, can flush out any stray air.
+
+<!-- One possibility is a scroll-compressor which can be isolated from the
 pocket during a "charging" phase --- once again with excess launch
 energy --- but connects to the pocket sucks air out of it during the
-"discharging" phase.
-The budget of excess energy, and expenditure on stabilisation and
+"discharging" phase.The budget of excess energy, and expenditure on stabilisation and
 vacuum maintenance, is an interesting problem but beyond the scope of
-our oomist considerations.
+our oomist considerations.-->
 
-#### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
+#### 3.3. Cylinder stress and construction<a id="sec-3-3" name="sec-3-3"></a>
+
+Finally, we come to the elephant in the oom: the construction of the
+cylinder itself.
+We are envisioning a structure on the order of a scale height, more
+than $10$ times taller than the tallest building ever constructed.
+It must not only stand up, i.e. support its own weight, but resist
+buckling under the massive pressure of air outside it.
+Again, a circular design leads to a uniform distribution of this
+pressure.
+In line with oomism, we will ignore inhomogeneities, and think about
+how a perfect cylinder is compressed by atmospheric pressure, called
+*cylinder stress*.
+This is the source of engineering disasters, though usually the
+pressure is on the *inside*, e.g. the
+[great Molasses flood](https://en.wikipedia.org/wiki/Great_Molasses_Flood).
+
+Suppose the cylinder has radius $R$ and thickness $t \ll R$.
+For thin walls, the
+[Young-Laplace equation](https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation)
+applies, and the cylinder is compressed by a stress
+
+$$
+\sigma = \frac{RP}{t}.
+$$
+
+Here, the surface tension is $\sigma t$ (force per unit length), but
+the tensile stress is $\sigma$ (for per unit area).
+We now treat the cylinder as a bent sheet, subject to a stress
+$\sigma$.
+If the material has Young's modulus $\mathcal{E}$ (not to be confused
+with launch energy), the *strain* $\epsilon$ or fractional change in
+length is
+
+$$
+\epsilon = \frac{\Delta R}{R} = \frac{\sigma}{\mathcal{E}} = \frac{RP}{t \mathcal{E}}.
+$$
+
+Thus, the change in radius is
+
+$$
+\Delta R = \frac{R^2P}{t \mathcal{E}}.
+$$
+
+This relationship only holds up to the *yield point*, a
+material-dependent value of the stress at which the response to further stress becomes
+nonlinear.
+<!-- Somewhere beyond this point, the material itself will
+rupture.We can imagine engineering $R$ and $t$ so as to obtain a uniform
+cylinder, though we are ignoring the complexities of axial stress for
+the purposes of oompoc.-->
+Our goal now will be to see what materials we could use and how thick
+they will need to be, noting that the strain at ground level is
+
+$$
+\epsilon = \frac{RP_0}{t \mathcal{E}}.
+$$
+
+First, let's take our earlier calculation of the Falcon Heavy
+launchpad.
+Rockets will be much lighter if they don't need to carry their own
+fuel, but we are not taking the weight of the plunger into account.
+At any rate, the radius will be
+
+$$
+R = \sqrt{\frac{A}{\pi}} = \sqrt{\frac{900 \text{ m^2}}{\pi}} = 17
+\text{ m}.
+$$
+
+For concreteness, let's use steel, which can sustain a stress of
+around $\sigma_\text{YP} = 500 \text{ MPa}$, with a Young's modulus of
+around $\mathcal{E} = 200 \text{ GPa}$.
+
+##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
