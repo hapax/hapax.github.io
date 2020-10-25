@@ -136,8 +136,9 @@ $$
 \times 10^{-26})(9.8)} \text{ m} = 8.4 \text{ km}.
 $$
 
-This is pretty small! The pressure inside a vacuum clear is around $20
-\text{ kPa}$, so this occurs around height
+This is pretty small! To get some sense of how quickly this drops,
+note that the pressure inside a vacuum cleaner is around $20
+\text{ kPa}$. This occurs around height
 
 $$
 z = \lambda \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
@@ -313,7 +314,7 @@ $$
 A = \frac{|U|}{\epsilon_1} = \frac{mg R_\oplus}{P_0 \lambda}.
 $$
 
-A typical rocket is on the orer of $m = 10^6 \text{ kg}$, so the
+A typical rocket mass is on the order of $m = 10^6 \text{ kg}$, so the
 minimum area of plunger needed is
 
 $$
