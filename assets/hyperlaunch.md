@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "A hyperlaunch to space"
 categories: [Physics, Engineering]
-date:  2020-10-26
+date:  2020-10-25
 ---
 
-**October 26, 2020.** *In which I pretend to be Elon Musk, and propose
+**October 25, 2020.** *In which I pretend to be Elon Musk, and propose
   to launch rockets into space using vacuum tubes. We'll learn a
   little about atmospheric physics, rockets, and building giant
   cylinders, in order to sketch a proof-of-concept.*
@@ -43,6 +43,8 @@ philosophy of order-of-magnitude (oom) estimates, which I call
 *oomism*.
 I state for the record that "oomism" and the "hyperlauncher" are very,
 very serious business.
+
+*Note: pictures to come.*
 
 #### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
 
@@ -592,5 +594,29 @@ $$
 A cubic meter of steel costs around USD$\$ 4000$, so ignoring
 construction, the raw materials for a hyperlauncher a couple of scale
 heights high will cost only a USD$\$ 22\text{ M}$.
+Of course, the real problem is weight.
+Steel has a density of $\rho = 8 \text{ tonnes/m}^3$. The resulting
+strain at the base is
+
+$$
+\sigma_\text{mass} = \frac{V\rho}{2\pi R t} = \rho g H.
+$$
+
+Thus, at the thickness needed to resist buckling, the maximum height
+(in scale heights) is
+
+$$
+X = \frac{\sigma_\text{YP}}{\lambda\rho g} = 0.75. <!--\frac{500 \times 10^6}{8 \times 10^3 (9.8)}-->
+$$
+
+Before our steel cylinder reaches a scale height, it will collapse
+under its own weight.
+Thus, we see that in order to fully exploit the power of atmospheric
+pressure, we have another engineering problem to solve: finding a
+suitably strong but light material which can replace steel.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
+
+What started a couple of days ago as a light-hearted tribute to the
+pioneering spirit of Elon Musk has, by this point, become a circus of
+highbrow oomism. I hope you've enjoyed it. Please let me 
