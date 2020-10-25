@@ -437,5 +437,15 @@ cross-section should work best.
 If the platform had corners, for instance, these might form points of
 preferential vacuum leakage, while a circular platform means we have
 one uniform design problem for the edge.
+Let's address that problem now.
+
+First of all, if an instability develops, the plunger can tilt, or
+even flip, which would obviously be disastrous for the payload.
+So there needs to be some way to counteract this.
+A simple mechanical constraint is to design a *thick* plunger which
+does not physical have room to flip.
+This increases the mass, and obviously, we do not want the plunger
+scraping the sides of the cylinder since this friction will reduce
+launch energies.
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
