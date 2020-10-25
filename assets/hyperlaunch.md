@@ -101,6 +101,8 @@ $$
 
 where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
 *scale height*.
-So, in our oomeist model, pressure decreases exponenentially, 
+So, in our oomeist model, pressure decreases exponenentially, and is
+effectively zero after a few scale heights. (We will discuss the
+number of scale heights needed for engineering purposes below.)
 
 ##### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
