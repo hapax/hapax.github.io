@@ -241,7 +241,7 @@ Integrating both sides gives a modified barometric equation, obeying a
 power law rather than an exponential:
 
 $$
-P = P_0\left(1 - \frac{Lz}{T_0}\right)^{Mg/k_B L}.
+P = P_0\left(1 - \frac{Lz}{T_0}\right)^{\Lambda}, \quad \Lambda = \frac{Mg}{k_BL}.
 $$
 
 Does this change the "vacuum cleaner" height of the atmosphere? Not
