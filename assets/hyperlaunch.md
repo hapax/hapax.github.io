@@ -30,9 +30,10 @@ important engineering problems, and focus on the physics.
 And even though I am focusing on the physics, I will adopt an
 order-of-magnitude-estimate (OOME) philosophy, which I will call
 *oomeism*.
-I state for the record that "oomeism" and the "hyperlaunch" are very
-serious.
+I state for the record that "oomeism" and the "hyperlaunch" are very,
+very serious business.
 
 #### 2. The barometric equation<a id="sec-2" name="sec-2"></a>
 
+To start off 
 The barometric 
