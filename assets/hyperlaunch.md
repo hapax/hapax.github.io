@@ -324,5 +324,5 @@ $$
 This is about $10$ football pitches, and around $100$ times larger
 than the area of the Falcon Heavy if laid flat.
 If we want to launch a $m  = 1\text{ kg}$ cubesat instead, however,
-then our platform can be a million times smaller; a plunger the size
-of the cubesat itself will be sufficient.
+then our platform can be a million times smaller; a plunger $10$ times
+larger than the cubesat itself will be sufficient.
