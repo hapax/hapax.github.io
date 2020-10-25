@@ -221,7 +221,7 @@ consisting of three translational and two rotational degrees of
 freedom. There is a vibrational mode at higher temperatures we can
 ignore.
 Plugging these in, we get a rate of change of temperature, or
-*temperature lapse rate*
+*lapse rate*
 
 $$
 L = \frac{Mg(\gamma-1)}{k_B\gamma} = \frac{(4.8
@@ -250,7 +250,34 @@ km}$.
 The average height of the atmosphere is $12 \text{ km}$, so both
 estimates are reasonable.
 
+What about a non-ideal gas? It was somewhat finicky to calculate
+the simple adiabatic lapse rate, so for the purposes of this modest
+feasibility study, it seems unnecessary to consider the complexities
+of real weather and the associated thermodynamics.
+I'll leave that 
+
 ##### 3.3. Taking the plunge<a id="sec-3-3" name="sec-3-3"></a>
 
 Let's see how much energy can be delivered to our giant plunger when
 we flood the base with air at atmospheric pressure.
+If $A$ is the area of the plunger, then as we travel up a height $H$,
+the total energy delivered is just the work done by pressure:
+
+$$
+E = A\int_0^H dz \, P(z).
+$$
+
+The result will depend on which version of the barometric formula we
+use.
+For the constant temperature case, the energy is
+
+$$
+E = A\int_0^H dz \, P_0 e^{-z/\lambda} = AP_0 \lambda \left(1 - e^{-H/\lambda}\right).
+$$
+
+For a lapse rate $L$, we instead have
+
+$$
+E = A\int_0^H dz \, P_0\left(1 - \frac{Lz}{T_0}\right)^{\Lambda} =
+\frac{AP_0T_0}{L(\Lambda+1)}\left[1 - \left(1 - \frac{Lz}{T_0}\right)^{\Lambda+1}\right].
+$$
