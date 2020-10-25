@@ -471,16 +471,21 @@ longer paper expected April next year.
 A final question is how the vacuum itself is maintained around the
 edges of the plunger.
 Another cute possibility is to use the vacuum against itself, adding a
-"collar" at the edge, a membrane which seals the regions around the
+"collar" at the edge, a membrane which seals the "pocket" around the
 perimeter with the rolling bearings.
 The vacuum will press the collar against the walls of the cylinder and
-keep it sealed!
+keep the pocket sealed!
 Depending on the interface between the collar and the walls, large
 amounts of sliding friction may be generated; this is another
 engineering problem I leave to future work.
-But in case air does enter the bearing region, one could also equip
-the base of the plunger with a means of ejecting it, for instance a
-scroll-compressor which can be "charged" with excess launch energy,
-and then act as an expander which ejects unwanted air.
+But in case air does enter the pocket, one could also equip
+the base of the plunger with a means of ejecting it.
+One possibility is a scroll-compressor which can be isolated from the
+pocket during a "charging" phase --- once again with excess launch
+energy --- but connects to the pocket sucks air out of it during the
+"discharging" phase.
+The budget of excess energy, and expenditure on stabilisation and
+vacuum maintenance, is an interesting problem but beyond the scope of
+our oomist considerations.
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
