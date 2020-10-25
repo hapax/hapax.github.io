@@ -102,7 +102,25 @@ $$
 where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
 *scale height*.
 So, in our oomeist model, pressure decreases exponenentially, and is
-effectively zero after a few scale heights. (We will discuss the
-number of scale heights needed for engineering purposes below.)
+effectively zero after a few scale heights. We will discuss the
+number of scale heights needed for engineering purposes below.
+
+Let's add some numbers now.
+The pressure at ground height is just atmospheric pressure,
+
+$$
+P_0 = 1 \text{ atm} =  101.1 \text{ kPA}.
+$$
+
+The scale depends on a number of things, including temperature,
+gravity, and the mass of air molecules.
+The last one is easiest.
+Air is mostly nitrogen gas $\text{N}_2$ ($28$ atomic mass units), made a
+bit heavier by oxygen in various compounds, leading an average
+molecular mass
+
+$$
+M = 29 \text{ amu} = 48 \times 10^{-26} \text{ kg}.
+$$
 
 ##### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
