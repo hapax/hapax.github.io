@@ -289,7 +289,7 @@ In the second case, our formula stops making sense when the
 temperature hits zero, at $H  = T_0/L$, so we have
 
 $$
-\epsilon_1 = \frac{E_2}{A} = \frac{P_0T_0}{L(\Lambda+1)} = 6.8 \times 10^{7}
+\epsilon_2 = \frac{E_2}{A} = \frac{P_0T_0}{L(\Lambda+1)} = 6.8 \times 10^{7}
 \text{ J/m}^2.
 $$
 
@@ -297,4 +297,28 @@ $$
 This is smaller because we have to cut it off at a smaller height.
 Obviously, this version of the barometric formula must break down as
 we go up. We will instead take the constant temperature estimate as
-our oomeist standard.
+our oomeist standard, and see where it gets us.
+
+A rocket of mass $m$ at the earth's surface has gravitational potential energy
+
+$$
+U = -\frac{GM_\oplus m}{R_\oplus} = -mg R_\oplus.
+$$
+
+If we want to launch this into space, we need to provide at least this
+much energy in order for it to escape the earth's gravitational field.
+The minimum plunger size is then
+
+$$
+A = \frac{|U|}{\epsilon_1} = \frac{mg R_\oplus}{P_0 \lambda}.
+$$
+
+A typical rocket is on the orer of $m = 10^6 \text{ kg}$, so the
+minimum area of plunger needed is
+
+$$
+A = \frac{10^6 \cdot 9.8 \cdot (6.3 \times 10^6)}{8.5 \times 10^{8}}
+\text{ m}^2 = 7.3 \times 10^{4} \text{ m}^2.
+$$
+
+This is about $10$ football pitches.
