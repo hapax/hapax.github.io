@@ -363,7 +363,7 @@ In this last section, we'll address a few basic design concerns, such
 as establishing and maintaining the vacuum, the firing mechanism, and
 construction.
 
-#### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
+#### 3.1. Vacuum vexation<a id="sec-3-1" name="sec-3-1"></a>
 
 A simple question is: realistically, how big does the tube need to be?
 If it is only $12 \text{ km}$, there is still a pressure of $20 \text{
@@ -452,5 +452,16 @@ does not have the room to flip within the cylinder.
 This increases the mass, and obviously, we don't want the plunger
 scraping the sides since friction will reduce launch energies.
 We want a smooth ride, with no tilt and no friction.
+
+One entertaining possibility is to stabilise the plunger by spinning,
+just like a frisbee.
+The energy for spinning can be obtained during launch itself, with any
+excess energy. In fact, we *want* the plunger to be travelling as slow
+as possible so as to still launch, since it will need to break as it
+approaches the end of the cylinder.
+This excess energy could be stored, e.g. in flywheels, but
+stabilisation is also a judicious use.
+The payload itself need not spin, if placed on a gyroscopically
+isolated platform above the base of the plunger.
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
