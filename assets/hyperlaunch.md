@@ -591,9 +591,10 @@ $$
 V = 2\pi R d H = 2700 X \text{ m}^3.
 $$
 
-A cubic meter of steel costs around USD$\$ 4000$, so ignoring
+A cubic meter of steel costs around $\text{USD}4000$, so ignoring
 construction, the raw materials for a hyperlauncher a couple of scale
-heights high will cost only a USD$\$ 22\text{ M}$.
+heights high will cost a mere $\text{USD}22\text{ M}$.
+
 Of course, the real problem is weight.
 Steel has a density of $\rho = 8 \text{ tonnes/m}^3$. The resulting
 strain at the base is
@@ -619,4 +620,6 @@ suitably strong but light material which can replace steel.
 
 What started a couple of days ago as a light-hearted tribute to the
 pioneering spirit of Elon Musk has, by this point, become a circus of
-highbrow oomism. I hope you've enjoyed it. Please let me 
+highbrow oomism. I hope you've enjoyed it; I certainly have.
+Please leave a comment or drop me an email if you have any suggestions
+for getting this out of the wonderland 
