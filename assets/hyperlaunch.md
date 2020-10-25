@@ -43,7 +43,7 @@ very serious business.
 The basic idea is simple.
 Make a giant cylinder stretching from the
 
-### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
+##### 2.1. Pendulous pumpkins <a id="sec-2-1" name="sec-2-1"></a>
 
 #### 3. The physics<a id="sec-3" name="sec-3"></a>
 
@@ -51,7 +51,7 @@ With the concept now described, we have some physics to do. Can we
 launch anything? How light must it be? What physics are we neglecting?
 We'll address all of these, though using a suitably oomeist viewpoint.
 
-### 3.1. The barometric equation<a id="sec-3-1" name="sec-3-1"></a>
+##### 3.1. The barometric equation<a id="sec-3-1" name="sec-3-1"></a>
 
 In order to understand how much force is supplied to the plunger, we
 need to understand how pressure varies with height, and indeed, how
@@ -103,4 +103,4 @@ where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
 *scale height*.
 So, in our oomeist model, pressure decreases exponenentially, 
 
-### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
+##### 3.2. High pressure environment<a id="sec-3-2" name="sec-3-2"></a>
