@@ -94,10 +94,10 @@ $$
 $$
 
 This is a differential equation we can solve immediately by
-integrating both sides, and obtain the *barometric formula*:
+integrating both sides, and obtain the *barometric equation*:
 
 $$
-P = P_0\exp\left[ -\lambda_s^{-1} z\right], \quad \lambda_s = \frac{k_BT}{Mg},
+P = P_0e^{-z/\lambda_s}, \quad \lambda_s = \frac{k_BT}{Mg},
 $$
 
 where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
