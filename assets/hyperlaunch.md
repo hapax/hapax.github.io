@@ -97,10 +97,10 @@ This is a differential equation we can solve immediately by
 integrating both sides, and obtain the *barometric equation*:
 
 $$
-P = P_0e^{-z/\lambda_s}, \quad \lambda_s = \frac{k_BT}{Mg},
+P = P_0e^{-z/\lambda}, \quad \lambda = \frac{k_BT}{Mg},
 $$
 
-where $P_0$ is the pressure at $z=0$, and $\lambda_s$ is called the
+where $P_0$ is the pressure at $z=0$, and $\lambda$ is called the
 *scale height*.
 So, in our oomeist model, pressure decreases exponenentially, and is
 effectively zero after a few scale heights. We will discuss the
@@ -134,7 +134,7 @@ surface is $g = 9.8 \text{ m/s}^2$.
 Putting it all together, we get a scale height
 
 $$
-\lambda_s = \frac{k_BT}{Mg} = \frac{(1.4 \times 10^{-23})290}{(4.8
+\lambda = \frac{k_BT}{Mg} = \frac{(1.4 \times 10^{-23})290}{(4.8
 \times 10^{-26})(9.8)} \text{ m} = 8.4 \text{ km}.
 $$
 
@@ -142,10 +142,11 @@ This is pretty small! The pressure inside a vacuum clear is around $20
 \text{ kPa}$, so this occurs around height
 
 $$
-z = \lambda_s \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
+z = \lambda \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
 $$
 
-A vacuum cleaner seems like a good place to cap off the atmosphere.
+A vacuum cleaner seems like a good place to cap off the atmosphere,
+though we will discuss other possibilities below.
 
 ##### 3.2. Temperature and gravity*<a id="sec-3-2" name="sec-3-2"></a>
 
@@ -172,7 +173,7 @@ $$
 Once again, we just integrate to get
 
 $$
-P = P_0 e^{-\lambda_s} \exp\left[\frac{M GM_\oplus}{k_BT (R_\oplus + z)}\right].
+P = P_0 e^{-\lambda} \exp\left[\frac{M GM_\oplus}{k_BT (R_\oplus + z)}\right].
 $$
 
 To see if we really need to worry about this, we do a binomial
@@ -225,9 +226,27 @@ Plugging these in, we get a rate of change of temperature, or
 *temperature lapse rate*
 
 $$
-L_s = \frac{Mg(\gamma-1)}{k_B\gamma} = \frac{(4.8
+L = \frac{Mg(\gamma-1)}{k_B\gamma} = \frac{(4.8
 \times 10^{-26}) 9.8 \cdot 0.4}{(1.4 \times 10^{-23}) 1.4} \text{ K/m}
 \approx 9.6 \text{ K/km}.
 $$
+
+It drops roughly $10^\circ \text{ C}$ for every kilometre we go up.
+Finally, if we plug this result for temperature back into our result
+for hydrostatic equilibrium, we find
+
+$$
+\frac{dP}{P} = -\frac{Mg}{k_B(T_0 - L z)}\, dz.
+$$
+
+Integrating both sides gives a modified barometric equation, obeying a
+power law rather than an exponential:
+
+$$
+P = P_0\left(1 - \frac{Lz}{T_0}\right)^{Mg/k_B L}.
+$$
+
+Does this change the "vacuum cleaner" height of the atmosphere? Not
+by much. It now hits $20 \text{ kPa}$ a bit earlier at $z  = 11 \text{ km}$.
 
 ##### 3.3. High pressure environment<a id="sec-3-3" name="sec-3-3"></a>
