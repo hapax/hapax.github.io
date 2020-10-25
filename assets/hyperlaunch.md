@@ -615,7 +615,7 @@ $$
 Before our steel cylinder reaches a scale height, it will collapse
 under its own weight.
 Thus, we see that in order to fully exploit the power of atmospheric
-pressure, we have another engineering problem to solve: finding a
+pressure for launching rockets, we have another engineering problem to solve: finding a
 suitably strong but light material which can replace steel.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
