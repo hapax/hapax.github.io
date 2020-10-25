@@ -142,7 +142,7 @@ This is pretty small! The pressure inside a vacuum clear is around $20
 \text{ kPa}$, so this occurs around height
 
 $$
-z = \lambd_s \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
+z = \lambda_s \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
 $$
 
 A vacuum cleaner seems like a good place to cap off the atmosphere.
