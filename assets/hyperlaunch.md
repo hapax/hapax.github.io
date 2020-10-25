@@ -28,7 +28,7 @@ I call this "hyperlaunch".
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
 And even though I am focusing on the physics, I will adopt an
-order-of-magnitude-estimate (OOME) philosophy, which I will call
+order-of-magnitude-estimate (oome) philosophy, which I will call
 *oomeism*.
 I state for the record that "oomeism" and the "hyperlaunch" are very,
 very serious business.
