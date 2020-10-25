@@ -309,16 +309,13 @@ In the second case, our formula stops making sense when the
 temperature hits zero, at $H  = T_0/L$, so we have
 
 $$
-\epsilon_2 = \frac{E_2}{A} = \frac{P_0T_0}{L(\Lambda+1)} = 6.8 \times 10^{7}
+\epsilon_2 = \frac{E_2}{A} = \frac{P_0T_0}{L(\Lambda+1)} = 6.8 \times 10^{10}
 \text{ J/m}^2.
 $$
 
 <!-- 101.1*290/((9.6/1000)(1+((4.8 \times 10^{-26}) 9.8)/((1.4 \times 10^{-23})*(9.6/1000))))-->
-This is smaller because we have to cut it off at a smaller height.
-Obviously, this version of the barometric formula must break down as
-we go up. We will instead take the constant temperature estimate as
-our oomist standard, and see where it gets us.
-
+We will use the latter estimate because it gives us more energy!
+Ahem, I mean because it is more realistic.
 A rocket of mass $m$ at the earth's surface has gravitational potential energy
 
 $$
@@ -330,22 +327,21 @@ much energy in order for it to escape the earth's gravitational field.
 The minimum plunger size is then
 
 $$
-A = \frac{|U|}{\epsilon_1} = \frac{mg R_\oplus}{P_0 \lambda}.
+A = \frac{|U|}{\epsilon_2} = \frac{mg R_\oplus L(\Lambda+1)}{P_0T_0}.
 $$
 
 A typical rocket mass is on the order of $m = 10^6 \text{ kg}$, so the
 minimum area of plunger needed is
 
 $$
-A = \frac{10^6 \cdot 9.8 \cdot (6.3 \times 10^6)}{8.5 \times 10^{8}}
-\text{ m}^2 = 7.3 \times 10^{4} \text{ m}^2.
+A = \frac{10^6 \cdot 9.8 \cdot (6.3 \times 10^6)}{6.8 \times 10^{10}}
+\text{ m}^2 = 900 \text{ m}^2.
 $$
 
-This is about $10$ football pitches, and around $100$ times larger
-than the area of the Falcon Heavy if laid flat.
-If we want to launch a $m  = 1\text{ kg}$ cubesat instead, however,
-then our platform can be a million times smaller; a plunger $10$ times
-larger than the base of the cubesat itself will be sufficient.
+This is only slightly larger than the area of the Falcon Heavy if laid flat!
+If we want to launch a $m  = 1\text{ kg}$ cubesat instead, our
+platform can be a million times smaller, so the $100 \text{ cm}^2$
+base of the cubesat itself is more than sufficient.
 
 Of course, we are ignoring the mass of the platform.
 Assuming it has some areal density $\rho$, then we must instead have
