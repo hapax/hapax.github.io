@@ -321,4 +321,7 @@ A = \frac{10^6 \cdot 9.8 \cdot (6.3 \times 10^6)}{8.5 \times 10^{8}}
 \text{ m}^2 = 7.3 \times 10^{4} \text{ m}^2.
 $$
 
-This is about $10$ football pitches.
+This is about $10$ football pitches, and around $100$ times larger
+than the area of the Falcon Heavy if laid flat.
+If we want to launch a $m  = 1\text{ kg}$ cubesat instead, then a
+plunger the size of the cubesat itself is overkill.
