@@ -48,7 +48,7 @@ Make a giant cylinder stretching from the
 
 #### 3. The physics<a id="sec-3" name="sec-3"></a>
 
-With the concept now described, we have some physics to do. Can we
+Now that the high-concept pitch is out of the way, we have some physics to do. Can we
 launch anything? How light must it be? What physics are we neglecting?
 We'll address all of these, though using a suitably oomeist viewpoint.
 
