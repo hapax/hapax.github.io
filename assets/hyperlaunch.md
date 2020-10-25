@@ -420,8 +420,11 @@ The flooding timescale depends on the geometric mean of the cylinder height $H$
 and parcel height $h$, or $\sqrt{Xx}$ in terms of scale heights.
 If we want a window of, say, $5$ minutes, we will need an absurd
 number of scale heights.
-I doubt the situation will improve in more realistic models, so
-really, we will need to seal the top of the cylinder when we evacuate it.
+I doubt the situation will improve in more realistic models, so it
+seems we must seal the top of the cylinder when we evacuate it, and
+open it when we launch.
+We will need to open it so that the payload arrives well before the
+flooding timescale.
 
 #### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
 
