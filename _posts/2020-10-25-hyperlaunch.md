@@ -446,7 +446,6 @@ If the platform had corners, for instance, these might form points of
 preferential vacuum leakage, while a circular platform means we have
 one uniform design problem for the edge.
 But the circle has an additional advantage we will see in a moment.
-
 If an instability develops, the plunger can tilt, or
 even flip, which would obviously be disastrous for the payload.
 There needs to be some way to counteract this.
