@@ -507,7 +507,8 @@ how a perfect cylinder is compressed by atmospheric pressure, called
 *cylinder stress*.
 This is the source of many an engineering disaster, though usually the
 pressure is on the *inside*, e.g. the
-[great Molasses flood](https://en.wikipedia.org/wiki/Great_Molasses_Flood).
+[great Molasses flood](https://en.wikipedia.org/wiki/Great_Molasses_Flood)
+of 1919.
 
 Suppose the cylinder has radius $R$ and thickness $d \ll R$.
 For thin walls, the
