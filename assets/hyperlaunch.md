@@ -463,5 +463,9 @@ This excess energy could be stored, e.g. in flywheels, but
 stabilisation is also a judicious use.
 The payload itself need not spin, if placed on a gyroscopically
 isolated platform above the base of the plunger.
+The plunger can rotate by means of bearings around its perimeter, with
+rolling friction instead of scraping.
+I leave calculation of the energy dissipation due to these bearings
+for a longer paper expected April next year.
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
