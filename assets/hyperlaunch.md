@@ -453,19 +453,20 @@ This increases the mass, and obviously, we don't want the plunger
 scraping the sides since friction will reduce launch energies.
 We want a smooth ride, with no tilt and no friction.
 
-One entertaining possibility is to stabilise the plunger by spinning,
+One entertaining possibility is to stabilise the plunger by spinning it,
 just like a frisbee.
-The energy for spinning can be obtained during launch itself, with any
-excess energy. In fact, we *want* the plunger to be travelling as slow
-as possible so as to still launch, since it will need to break as it
-approaches the end of the cylinder.
-This excess energy could be stored, e.g. in flywheels, but
-stabilisation is also a judicious use.
 The payload itself need not spin, if placed on a gyroscopically
 isolated platform above the base of the plunger.
-The plunger can rotate by means of bearings around its perimeter, with
-rolling friction instead of scraping.
-I leave calculation of the energy dissipation due to these bearings
-for a longer paper expected April next year.
+The energy for spinning can be obtained during launch itself by
+deploying an array of angled flanges beneath the plunger, and any
+excess energy not used for rotation can be stored in flywheels to help
+depress the plunger on future runs.
+Regarding the rotation itself, the stabilised plunger could spin by
+means of bearings around its perimeter, with rolling friction instead
+of scraping.
+I leave the calculation of the energy dissipation from bearings to a
+longer paper expected April next year.
+
+A final question is the 
 
 #### 3.3. Construction<a id="sec-3-3" name="sec-3-3"></a>
