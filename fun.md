@@ -4,7 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-Fun! Will report back when I remember how to have it.
+Will report back when I remember how to have it.
 
 #### Art
 
