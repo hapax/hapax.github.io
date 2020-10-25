@@ -8,7 +8,9 @@ date:  2020-10-26
 ---
 
 **October 26, 2020.** *In which I pretend to be Elon Musk, and propose
-  to launch rockets into space using vacuum tubes.*
+  to launch rockets into space using vacuum tubes. We'll learn a
+  little about atmospheric physics and rockets, and much less about
+  real design considerations, in the process of sketching a proof-of-concept.*
 
 #### Contents
 
@@ -20,7 +22,7 @@ date:  2020-10-26
    3. <a href="#sec-2-3">The size of the plunger</a>
 4. <a href="#sec-3">Design considerations</a>
 
-#### 1. Introduction<a id="sec-1" name="sec-1"></a>
+##### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
 Elon Musk is the CEO and founder of SpaceX, a company which sends
 rockets into space. Along with engineers at Tesla and SpaceX, he also
@@ -33,12 +35,12 @@ I call this the "hyperlaunch".
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
 And even though I am focusing on the physics, I will adopt an
-philosophy of order-of-magnitude-estimates (oome), which I call
-*oomeism*.
-I state for the record that "oomeism" and the "hyperlaunch" are very,
+philosophy of order-of-magnitude (oom) estimates, which I call
+*oomism*.
+I state for the record that "oomism" and the "hyperlaunch" are very,
 very serious business.
 
-##### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
+#### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
 
 The basic idea of the hyperlaunch is simple.
 Take a giant cylinder, stretching from the ground to the top of the
@@ -58,16 +60,17 @@ hyperlaunch as a French press combined with a vacuum cleaner.
 In the next section, we'll discuss simple models of atmospheric
 pressure, and check that our scheme can, in principle, launch objects
 into space.
+This will constitute an oomist proof-of-concept, or *oompoc*.
 In the final section, we discuss some elementary issues of design and
 engineering.
 
-#### 2. The physics<a id="sec-2" name="sec-2"></a>
+##### 2. The physics<a id="sec-2" name="sec-2"></a>
 
 Now that the high-concept pitch is out of the way, we have some physics to do. Can we
 launch anything? How light must it be? What physics are we neglecting?
-We'll address all of these, though with a more or less oomeist lens.
+We'll address all of these, though with a more or less oomist lens.
 
-##### 2.1. The barometric equation<a id="sec-2-1" name="sec-2-1"></a>
+#### 2.1. The barometric equation<a id="sec-2-1" name="sec-2-1"></a>
 
 In order to understand how much force is supplied to the plunger, we
 need to understand how pressure varies with height, and indeed, how
@@ -117,7 +120,7 @@ $$
 
 where $P_0$ is the pressure at $z=0$, and $\lambda$ is called the
 *scale height*.
-So, in our oomeist model, pressure decreases exponenentially, and is
+So, in our oomist model, pressure decreases exponenentially, and is
 effectively zero after a few scale heights. 
 Let's calculate some actual numbers.
 The pressure at ground height is just atmospheric pressure,
@@ -162,9 +165,9 @@ $$
 A vacuum cleaner seems like a good place to cap off the atmosphere,
 though we will discuss other possibilities below.
 
-##### 2.2. Temperature and gravity*<a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. Temperature and gravity*<a id="sec-2-2" name="sec-2-2"></a>
 
-Perhaps, to be really responsible, we should drop our oomeist
+Perhaps, to be really responsible, we should drop our oomy
 prejudices for a moment and acknowledge that it gets colder and
 gravity weakens as you go up.
 How does that change things?
@@ -266,7 +269,7 @@ km}$.
 The average height of the atmosphere is $12 \text{ km}$, so both
 estimates are reasonable.
 
-##### 2.3. The size of the plunger<a id="sec-2-3" name="sec-2-3"></a>
+#### 2.3. The size of the plunger<a id="sec-2-3" name="sec-2-3"></a>
 
 Let's see how much energy can be delivered to our giant plunger when
 we flood the base with air at atmospheric pressure.
@@ -313,7 +316,7 @@ $$
 This is smaller because we have to cut it off at a smaller height.
 Obviously, this version of the barometric formula must break down as
 we go up. We will instead take the constant temperature estimate as
-our oomeist standard, and see where it gets us.
+our oomist standard, and see where it gets us.
 
 A rocket of mass $m$ at the earth's surface has gravitational potential energy
 
@@ -353,12 +356,12 @@ $$
 This means that if $P_0\lambda > \rho g R_\oplus$, i.e. the plunger
 can launch itself, it can launch anything else, provided the object is
 light enough or the plunger big enough.
-This completes our oomeist proof of concept that a French press cross
+This completes our oompoc that a French press cross
 vacuum cleaner can launch rockets.
 Next, we turn to some basic design considerations.
 
 ##### 3. Design considerations<a id="sec-3" name="sec-3"></a>
 
-##### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
+#### 3.1. Vacuum vexation <a id="sec-3-1" name="sec-3-1"></a>
 
-##### 3.2. Overshooting<a id="sec-3-2" name="sec-3-2"></a>
+#### 3.2. Overshooting<a id="sec-3-2" name="sec-3-2"></a>
