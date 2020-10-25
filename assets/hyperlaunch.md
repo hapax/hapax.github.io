@@ -183,7 +183,7 @@ $$
 
 Plugging this in, we recover our original barometric formula.
 So, as long as we stick to heights much smaller than the earth's
-radius, we're good.
+radius, we don't need to worry about changing gravity.
 
 What about temperature? This is tricky, since we need some
 thermodynamics, and in particular, a further equilibrium condition to
