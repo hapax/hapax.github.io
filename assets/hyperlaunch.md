@@ -623,6 +623,6 @@ pioneering spirit of Elon Musk has, by this point, become a circus of
 highbrow oomism. I hope you've enjoyed it; I certainly have.
 Please leave a comment or drop me an email if you spot any errors, or
 have suggestions for improving the design, and taking us from a world
-of kerosene and boosters to a frisbee sucked by a vacuum cleaner up a
-French press to deliver rockets through a camera lens and into space,
-our hyperlauncher to the stars.
+of kerosene and boosters to rockets on frisbees sucked by a vacuum cleaner up a
+French press and spat out through a camera shutter: a hyperlauncher
+to the stars.
