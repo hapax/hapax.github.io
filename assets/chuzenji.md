@@ -1,9 +1,20 @@
 ---
+title:  "Straight, self-similar or stochastic?"
+categories: Mathematics
+date:  2020-07-06
 layout: plain
-title: 男体
+title: The Third Realm
 ---
 
+#### Contents
+
+1. <a href="#sec-1"></a>
+
+#### Introduction<a id="sec-1" name="sec-1"></a>
+
 In 782, the Buddhist monk Shōdō Shōnin (勝道上人) 
+
+男体
 
 <p align="center">
   ⁂
