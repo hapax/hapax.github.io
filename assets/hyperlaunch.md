@@ -10,7 +10,7 @@ date:  2020-10-26
 **October 26, 2020.** *In which I pretend to be Elon Musk, and propose
   to launch rockets into space using vacuum tubes. We'll learn a
   little about atmospheric physics and rockets, and much less about
-  real design considerations, in the process of sketching a proof-of-concept.*
+  real design considerations, to provide a proof-of-concept.*
 
 #### Contents
 
@@ -425,6 +425,7 @@ seems we must seal the top of the cylinder when we evacuate it, and
 open it when we launch.
 We will need to open it so that the payload arrives well before the
 flooding timescale.
+This would seem to be one of the major engineering challenges.
 
 #### 3.2. Overshooting the moon<a id="sec-3-2" name="sec-3-2"></a>
 
