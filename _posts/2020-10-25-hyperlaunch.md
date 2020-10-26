@@ -615,12 +615,13 @@ under its own weight!
 
 Thus, we see that in order to fully exploit the power of atmospheric
 pressure for launching rockets, we have another engineering problem to solve: finding a
-suitably strong but light material which can replace steel.
-Another major problem is *wind loading*,
-i.e. ensuring the structure will not be knocked over by the wind.
+suitably strong but light material to replace steel.
+A related problem is *wind engineering*,
+i.e. ensuring the structure will not be knocked over by the wind, a
+major design consideration for tall buildings.
 It may be that the structural reinforcements which solve this problem
 also help distribute the cylinder's weight.
-But I won't discuss either of these issues further here.
+But I'll both issues for another time.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
@@ -633,3 +634,4 @@ Perhaps one day we will leave the world of kerosene and boosters
 behind us, and embark on a bold new age of rockets on frisbees sucked by vacuum cleaners up a
 French press and spat out through a camera shutter: our hyperlauncher
 to the stars.
+Then again, maybe not.
