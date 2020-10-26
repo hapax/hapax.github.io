@@ -168,8 +168,7 @@ $$
 z = \lambda \log \left(\frac{101.1}{20}\right) \approx 13 \text{ km}.
 $$
 
-A vacuum cleaner seems like a good place to cap off the atmosphere,
-though we will discuss other possibilities below.
+This seems like a reasonable place to cap off the atmosphere.
 
 #### 2.2. Temperature and gravity*<a id="sec-2-2" name="sec-2-2"></a>
 
