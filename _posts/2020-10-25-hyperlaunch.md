@@ -7,8 +7,7 @@ categories: [Physics, Engineering]
 date:  2020-10-25
 ---
 
-**October 25, 2020.** *In which I pretend to be Elon Musk, and propose
-  to launch rockets into space using vacuum tubes. We'll learn a
+**October 25, 2020.** *In which I pretend to be Elon Musk, and launch rockets into space using vacuum tubes. We'll learn a
   little about atmospheric physics, rockets, and building giant
   cylinders, in order to sketch a proof-of-concept.*
 
