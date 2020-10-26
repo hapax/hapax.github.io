@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A SpaceLoop to the stars"
+title:  "A SpaceLoop oompoc"
 categories: [Physics, Engineering]
 date:  2020-10-25
 ---
@@ -622,7 +622,7 @@ But I'll leave both issues for another time.
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
 What started a couple of days ago as a light-hearted tribute to the
-pioneering spirit of Elon Musk has, by this point, become a circus of
+pioneering spirit of Elon Musk has become, by this point, a circus of
 high-concept oomism. I hope you've enjoyed it; I certainly have.
 Please leave a comment or drop me an email if you spot any errors, or
 have suggestions for improving the design.
