@@ -453,7 +453,7 @@ A simple mechanical constraint is a *thick* plunger which
 does not have the room to flip within the cylinder.
 This increases the mass, and obviously, we don't want the plunger
 scraping the sides since friction will reduce launch energies.
-We want a smooth ride, with no tilt and no friction.
+We want a smooth ride, with no tilt and minimal friction.
 
 One entertaining possibility is to stabilise the plunger by spinning it,
 just like a frisbee.
