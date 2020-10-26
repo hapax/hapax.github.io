@@ -612,15 +612,21 @@ $$
 <!--\frac{500 \times 10^6}{8 \times 10^3 (9.8)}-->
 Before our steel cylinder reaches a scale height, it will collapse
 under its own weight!
+
 Thus, we see that in order to fully exploit the power of atmospheric
 pressure for launching rockets, we have another engineering problem to solve: finding a
 suitably strong but light material which can replace steel.
+Another major problem is *wind loading*,
+i.e. ensuring the structure will not be knocked over by the wind.
+It may be that the structural reinforcements which solve this problem
+also help distribute the cylinder's weight.
+But I won't discuss either of these issues further here.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
 What started a couple of days ago as a light-hearted tribute to the
 pioneering spirit of Elon Musk has, by this point, become a circus of
-farcical, high-concept oomism. I hope you've enjoyed it; I certainly have.
+high-concept oomism. I hope you've enjoyed it; I certainly have.
 Please leave a comment or drop me an email if you spot any errors, or
 have suggestions for improving the design.
 Perhaps one day we will leave the world of kerosene and boosters
