@@ -426,15 +426,13 @@ and parcel height $h$, or $\sqrt{Xx}$ in dimensionless terms.
 If we want a window of, say, $5$ minutes, we will need an absurd
 number of scale heights.
 
-I doubt the situation will improve in more realistic models, so it
-seems we must seal the top of the cylinder when we evacuate it, and
-open it when we launch.
-This seal does not need to be particularly hardy, since the pressures
-at the top will be low.
-More importantly, it will need to open quickly so that the payload
-arrives well before the flooding timescale.
-I imagine a sort of shutter mechanism, which can be progressively opened
-as the payload comes through, minimising the amount of flooding.
+Although this flooding timescale increases when we take temperature lapse
+into account, it is still much too short at any reasonable height.
+It seems we must seal the top of the cylinder when we evacuate it, and
+open it again during launch.
+It will need to open quickly so that the payload
+arrives well before the flooding timescale; I imagine a sort of
+shutter mechanism, which can be progressively opened as the payload comes through.
 So now our French press-vacuum cleaner is combined with a camera!
 
 #### 3.2. Stabilising the plunger<a id="sec-3-2" name="sec-3-2"></a>
