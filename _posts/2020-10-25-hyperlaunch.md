@@ -547,11 +547,11 @@ $$
 \epsilon = \frac{RP_0}{d \mathcal{E}}.
 $$
 
-First, let's take our earlier calculation of the Falcon Heavy
-launchpad.
-Rockets will be much lighter if they don't need to carry their own
-fuel, but we are not taking the weight of the plunger into account.
-At any rate, the radius will be
+Let's use our earlier calculation of the area required to launch the
+Falcon Heavy.
+If rockets don't need to carry their own fuel, they will be lighter,
+but we neglected the mass of the plunger.
+Assuming these two terms cancel, the radius needed is
 
 $$
 R = \sqrt{\frac{A}{\pi}} = \sqrt{\frac{900 \text{ m}^2}{\pi}} = 17
