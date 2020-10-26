@@ -617,7 +617,7 @@ i.e. ensuring the structure will not be knocked over by the wind, a
 major design consideration for tall buildings.
 It may be that the structural reinforcements which solve this problem
 also help distribute the cylinder's weight.
-But I'll both issues for another time.
+But I'll leave both issues for another time.
 
 ##### 4. Conclusion<a id="sec-4" name="sec-4"></a>
 
