@@ -35,3 +35,4 @@ In 782, the Buddhist monk Shodo Shonin (勝道上人) --- who had
 <p align="center">
   ⁂
 </p>
+https://www.rinnoji.jp/signboard/qr0038.html#
