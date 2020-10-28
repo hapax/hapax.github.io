@@ -39,9 +39,9 @@ Its crumbling facades chart the rise and fall of the Nikkei.
 </figure>
 
 The town was initially a toilet break on my way to the
-Senjogahara marshland, a sprawling wetland 1400 meters above sea
+Senjogahara marshland, a sprawling, picturesque wetland 1400 meters above sea
 level, covered in hare's-tail cottongrass and spiderwebbed with
-picturesque boardwalk, if the brochure was to be trusted.
+boardwalk.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
@@ -77,3 +77,5 @@ In a sense, visiting the lake is a particularly vivid lesson
 a residue of better times, the
 80s boom and the liquidity it freed up for domestic tourism, and the
 asset price bubble of the 90s
+
+ if the brochure was to be trusted.
