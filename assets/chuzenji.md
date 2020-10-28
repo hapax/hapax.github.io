@@ -36,6 +36,11 @@ But if the mass of cloud had also settled on the adjoining plateaus, I
 would see very little from the boardwalks.
 So I decided to explore the town, 
 
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake3.png" />
+</div>
+</figure>
+
 Dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
 all in states of disrepair.
