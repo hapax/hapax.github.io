@@ -34,6 +34,11 @@ I would see very little of the picturesque wetlands. I decided to explore
 the town instead.
 
 <figure>
+    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
+</div>
+</figure>
+
+<figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
 </div>
 </figure>
