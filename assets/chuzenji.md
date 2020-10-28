@@ -34,12 +34,12 @@ the asset price bubble burst in the 90s.
 Its crumbling facades also chart the Nikkei.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake7.png" />
 	</div>
 </figure>
 
-I was passing through on my way to the Senjogahara marshland, but a
-cloud seem to have descended on the lake and plateau.
+The town was little more than a toilet break on my way to the Senjogahara
+marshland, a boardwalked preserve on a 
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
