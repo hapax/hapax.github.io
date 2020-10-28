@@ -1,5 +1,5 @@
 ---
-title:  "The third way"
+title:  "The argument from perishable beings"
 date:  2020-07-06
 layout: post
 ---
@@ -23,7 +23,7 @@ years, both were closed to women, horses and cows.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake0.png" />
-	</div>
+</div>
 </figure>
 
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
