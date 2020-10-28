@@ -39,7 +39,7 @@ the town instead.
 </figure>
 
 Chuzenji strings out a loose "V", angling around the lake from one
-pretty waterfall to another, to the eponymous temple, and dots the
+pretty waterfall to another to the eponymous temple, and dots the
 lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
 in various states of disrepair.
