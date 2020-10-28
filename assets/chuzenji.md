@@ -21,8 +21,8 @@ In a perversely literal obedience to the latter, both lake and
 mountain were closed to women, horses and cows for over a thousand years.
 
 The town, called variously Chuzenji and Okunikko (奥日光, "inner
-Nikko"), is defined by its proximity to other things than any unique
-spirit of its own.
+Nikko"), is defined by its proximity to other things rather than any
+intrinsic properties.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
