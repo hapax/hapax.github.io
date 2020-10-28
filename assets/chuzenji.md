@@ -24,8 +24,8 @@ years, both lake and mountain were closed to women, horses and cows.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
-It is in between, or around---stringing out a loose "V" formed by two
-pretty waterfalls and the eponymous temple---but never "here".
+It is in between, or around---stringing out a loose "V" along two
+pretty waterfalls to the eponymous temple---but never "here".
 And appropriately enough, the day I arrived, Chuzenji was huddled in a
 blanket of fog and almost invisible; the town that wasn't there.
 It was initially no more than a pitstop on my way to the
