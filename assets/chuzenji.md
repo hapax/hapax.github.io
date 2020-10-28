@@ -42,10 +42,10 @@ Chuzenji strings out a loose "V", angling around the lake from one
 pretty waterfall to another to the eponymous temple, and dots the
 lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
-in various states of disrepair.
-It is a tourist town washed up on the shore, a residue of the 80s boom which
-freed up liquidity for domestic travel, and came crashing down when
-the asset price bubble burst in the 90s.
+all in various states of disrepair.
+It is a tourist town washed up like fantastic flotsam on the shore, a
+residue of the 80s boom which freed up liquidity for domestic travel,
+and came crashing down when the asset price bubble burst in the 90s.
 Its crumbling facades chart the rise and fall of the Nikkei.
 
 <figure>
