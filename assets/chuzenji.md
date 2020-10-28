@@ -13,7 +13,7 @@ around the convulsed base of the Akechidaira plateau, you arrive at a
 small town wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
-In perversely literal obedience to the latter, for over a thousand
+In a perversely literal obedience, for over a thousand
 years, both lake and mountain were closed to women, horses and cows.
 
 <figure>
@@ -22,8 +22,9 @@ years, both lake and mountain were closed to women, horses and cows.
 </figure>
 
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
-Nikko"), and even in this ambiguity, seems defined by its shifting proximity to other things than by
+Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
+It is in between, or around, but never there.
 It strings out a loose "V" between two pretty waterfalls and the eponymous
 temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
