@@ -27,10 +27,11 @@ any properties of its own.
 It strings out a loose "V" between two waterfalls and the eponymous
 temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
-all in various states of disrepair.
-It is a town washed up on the shore, a residue of better times, the
-80s boom and the liquidity it freed up for domestic tourism, and the
-asset price bubble of the 90s
+all in states of disrepair.
+It is a town washed up on the shore, a residue of the 80s boom which
+freed up liquidity for domestic tourism, and came crashing down with
+the asset price bubble of the 90s.
+Its crumbling facades chart the Nikkei using a different metric.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -68,3 +69,7 @@ sort of encrustation along the corridors
 of travel between the eponymous buddhist temple and two waterfalls.
 
 In a sense, visiting the lake is a particularly vivid lesson
+
+a residue of better times, the
+80s boom and the liquidity it freed up for domestic tourism, and the
+asset price bubble of the 90s
