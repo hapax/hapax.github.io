@@ -4,11 +4,11 @@ date:  2020-07-06
 layout: default
 ---
 
-##### Contents
+#### Contents
 
 1. <a href="#sec-1">The mountain shrine</a>
 
-##### The mountain shrine<a id="sec-1" name="sec-1"></a>
+#### The mountain shrine<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of the Shinkyo bridge, through Nikko's dusty
@@ -26,7 +26,7 @@ Perhaps in the deference to the latter, they were closed to women for over a tho
 </figure>
 
 
-##### Extra
+#### Extra
 
 In 782,
 Hashiri Daikokutendo
