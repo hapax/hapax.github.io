@@ -9,7 +9,7 @@ layout: post
 1. <a href="#sec-2">Going inside</a>
 2. <a href="#sec-2">The lesser shrine</a>
 
-#### Going inside<a id="sec-1" name="sec-1"></a>
+#### Chuzenji<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
