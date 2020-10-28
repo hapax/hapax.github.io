@@ -24,7 +24,7 @@ years, both lake and mountain were closed to women, horses and cows.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
-It is in between, or around, but never there.
+It is in between, or around, but never "here".
 It strings out a loose "V" between two pretty waterfalls and the eponymous
 temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
