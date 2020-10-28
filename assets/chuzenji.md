@@ -24,24 +24,24 @@ years, both lake and mountain were closed to women, horses and cows.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
-It is in between, or around---stringing out a loose "V" along two
-pretty waterfalls to the eponymous temple---but never "here".
-And appropriately enough, the day I arrived, Chuzenji was huddled in a
+It is in between, or around, but never "here".
+Appropriately enough, the day I arrived, Chuzenji was huddled in a
 blanket of fog and almost invisible; the town that wasn't there.
-It was initially no more than a pitstop on my way to the
-Senjogahara marshland, a wet and sprawling plain, 1400 meters above sea
+Initially, it was no more than a pitstop on my way to the
+Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk, if my Lonely Planet was to be trusted.
-But if the mass of cloud had also settled on the adjoining plateaus, I
-would see very little from the boardwalks.
-So I decided to explore the town, 
+But if the mass of cloud had settled on the adjoining plateaus, I
+would see very little from the boardwalk.
+So I decided to explore the town.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
 </div>
 </figure>
 
-Dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
+Chuzenji strings out a loose "V" from two pretty waterfalls to the
+eponymous temple, and dots the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
 all in states of disrepair.
 It is a tourist town washed up on the shore, a residue of the 80s boom which
