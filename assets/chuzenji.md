@@ -38,8 +38,9 @@ Its crumbling facades also chart the Nikkei.
 	</div>
 </figure>
 
-The town was little more than a toilet break on my way to the Senjogahara
-marshland, a boardwalked preserve on a 
+The town was initially no more than a toilet break on my way to the
+Senjogahara marshland, a sprawling wetland 1400 meters above sea
+level, covered in hare's-tail cottongrass
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
