@@ -13,7 +13,7 @@ layout: post
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
-outskirts, Kiyotaki, and winding though misty switchbacks up and
+outskirts, Kiyotaki, winding though tunnels and misty switchbacks up and
 around the convulsed mass of the Akechidaira plateau, you arrive at a
 tourist town wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
