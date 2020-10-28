@@ -22,12 +22,13 @@ In perversely literal obedience to the latter, both were closed to
 women, horses and cows for over a thousand years.
 
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
-Nikko"), and seems defined by its proximity to other things than by
-any properties of its own, a sort of encrustation along the corridors
-of travel between the eponymous buddhist temple and two waterfalls.
-But the tumbledown hotels, souvenir stores, ramen shops, jetties, and
-oversized emporia, are washed up on the shore of the lake like a
-residue of better times.
+Nikko"), and even in this ambiguity, seems defined by its proximity to other things than by
+any properties of its own.
+It spans a loose chevron between two waterfalls and the eponymous
+temple, encrusting the lake with tumbledown hotels, souvenir stores,
+ramen shops, jetties, and oversized emporia, all in various states of
+disrepair.
+It is a town washed up on the shore, a residue of better times.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -61,3 +62,5 @@ Its chief attraction is the eponymous buddhist temple and its statue of Kannon, 
 It gives the lake a crust of jetties, tumbledown hotels, souvenir
 shops, and strangely large emporia in various states of disrepair;
 washed up on shore, a residue of better times.
+sort of encrustation along the corridors
+of travel between the eponymous buddhist temple and two waterfalls.
