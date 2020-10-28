@@ -14,17 +14,20 @@ layout: post
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki and up and around the convulsed mass of the
-Akechidaira plateau, the traveller arrives at a crumbling onsen town
+Akechidaira plateau, the traveller arrives at an onsen town
 wedged between a sacred lake and a sacred mountain.
-The lake, Chuzenjiko (中禅寺湖), literally means "lake of the Chinese
-zen temple", while Mount Nantai (男体) translates to "man's body".
-In a perversely literal obedience to the latter, both lake and
-mountain were closed to women, horses and cows for over a thousand years.
+The name of the lake, Chuzenjiko (中禅寺湖), literally means "lake of
+the Chinese zen temple", while the mountain, Nantai (男体), translates to "man's body".
+In perversely literal obedience to the latter, both were closed to
+women, horses and cows for over a thousand years.
 
-The town, called variously Chuzenji and Okunikko (奥日光, "inner
-Nikko"), is defined by its proximity to other things rather than any
-intrinsic properties.
-It is a sleepy, deteriorating encrustment of 
+The town is called variously Chuzenji and Okunikko (奥日光, "inner
+Nikko"), and seems defined by its proximity to other things than by
+any properties of its own.
+Its chief attraction is the eponymous buddhist temple, Chuzenji
+temple, and its towering statue of Kannon, the goddess of mercy.
+It gives the lake a sleepy, deteriorating
+crust of tumbledown hotels, 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
