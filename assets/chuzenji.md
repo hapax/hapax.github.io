@@ -14,7 +14,7 @@ layout: post
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, and up and around the convulsed mass of the
-Akechidaira plateau, the traveller arrives at a tourist town
+Akechidaira plateau, you arrive at a tourist town
 wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
@@ -25,10 +25,13 @@ The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems defined by its proximity to other things than by
 any properties of its own.
 It spans a loose chevron between two waterfalls and the eponymous
-temple, encrusting the lake with tumbledown hotels, souvenir stores,
+temple, dotting the lakeside with tumbledown hotels, souvenir stores,
 ramen shops, jetties, and oversized emporia, all in various states of
 disrepair.
-It is a town washed up on the shore, a residue of better times.
+It is a town washed up on the shore, a residue of better times,
+presumably the 80s economic boom and the liquidity it freed up for
+domestic tourism.
+In a sense, visiting the lake is a particularly vivid lesson
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
