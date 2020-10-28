@@ -4,7 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-- [*caedrix feuilleton*](https://caedrix.tumblr.com/). Singing of the *principium creaturarum*.
+- [*caedrix feuilleton*](https://caedrix.tumblr.com/). Song of the *principium creaturarum*.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Quantum computing, geopolitics, and shrimp.
