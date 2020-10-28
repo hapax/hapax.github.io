@@ -11,7 +11,7 @@ layout: default
 #### The mountain shrine<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
-and the candy apple arc of the Shinkyo bridge, through Nikko's dusty
+and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki and up and around the convulsed mass of the
 Akechidaira plateau, the traveller arrives at a crumbling onsen town
 between a sacred lake and a sacred mountain.
