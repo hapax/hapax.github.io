@@ -9,7 +9,7 @@ layout: post
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, winding though tunnels and misty switchbacks up and
-around the convulsed mass of the Akechidaira plateau, you arrive at a
+around the convulsed base of the Akechidaira plateau, you arrive at a
 small town wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
@@ -38,7 +38,7 @@ Its crumbling facades chart the rise and fall of the Nikkei.
 	</div>
 </figure>
 
-The town was initially a toilet break on my way to the
+The town was initially no more than a pitstop on my way to the
 Senjogahara marshland, a sprawling, picturesque wetland 1400 meters above sea
 level, covered in hare's-tail cottongrass and spiderwebbed with
 boardwalk.
