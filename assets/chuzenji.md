@@ -26,7 +26,8 @@ Nikko"), and even in this small ambiguity, seems more defined by its shifting pr
 any properties of its own.
 It is in between, or around, but never "here".
 Appropriately enough, on the day I arrived, Chuzenji was swaddled in a
-blanket of fog and almost invisible; the town that wasn't there.
+blanket of fog and almost invisible; I was in the town, but it was
+nowhere to be seen.
 I was on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk, and Chuzenji was little more than a pitstop.
@@ -95,3 +96,5 @@ But fog had descended on the lake and the adjoining plataeaus, so
 
 Initially, it was no more than a pitstop on my way to the
 Senjogahara marshland
+
+the town that wasn't there.
