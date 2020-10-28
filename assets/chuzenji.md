@@ -1,7 +1,7 @@
 ---
 title:  "The third way"
 date:  2020-07-06
-layout: default
+layout: post
 ---
 
 #### Contents
