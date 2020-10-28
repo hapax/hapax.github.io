@@ -27,7 +27,7 @@ years, both were closed to women, horses and cows.
 </figure>
 
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
-Nikko"), and even in this ambiguity, seems defined by its proximity to other things than by
+Nikko"), and even in this ambiguity, seems defined by its shifting proximity to other things than by
 any properties of its own.
 It strings out a loose "V" between two waterfalls and the eponymous
 temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
