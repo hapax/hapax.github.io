@@ -16,8 +16,8 @@ and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, and up and around the convulsed mass of the
 Akechidaira plateau, the traveller arrives at a tourist town
 wedged between a sacred lake and a sacred mountain.
-The name of the lake, Chuzenjiko (中禅寺湖), literally means "lake of
-the Chinese zen temple", while the mountain, Nantai (男体), translates to "man's body".
+Chuzenjiko (中禅寺湖) translates to "lake of
+the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
 In perversely literal obedience to the latter, both were closed to
 women, horses and cows for over a thousand years.
 
