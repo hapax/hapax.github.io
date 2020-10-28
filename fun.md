@@ -4,10 +4,12 @@ title: Fun
 permalink: /fun/
 ---
 
-Will report back when I remember how to have it.
+- [*caedrix feuilleton*](https://caedrix.tumblr.com/). Singing of the *principium creaturarum*.
+- ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Quantum computing, geopolitics, and shrimp.
+- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
+- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
 
-#### Art
-
+<!-- Will report back when I remember how to have it.
 I put my digital art on [tumblr](https://caedrix.tumblr.com/)
 (yes, it still exists) and photos of urban decay, chance Cornellian
 arrangements of rubbish, symmetry, patterns, and so forth, on
@@ -17,7 +19,7 @@ arrangements of rubbish, symmetry, patterns, and so forth, on
  <div style="text-align:center"><img src ="/images/x64.png" />
  <figcaption><i>This little robot is very keen.</i></figcaption>
  	 </div>
-  </figure>
+  </figure>-->
 
 <!-- In the tradition of dorky, maximalist websites, here are some things I
 do when I'm not sciencing or encouraging other people to science. -->
