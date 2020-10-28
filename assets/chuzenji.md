@@ -24,10 +24,11 @@ women, horses and cows for over a thousand years.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and seems defined by its proximity to other things than by
 any properties of its own.
+It gives the lake a crust of jetties, tumbledown hotels, souvenir
+shops, and strangely large emporia in various states of disrepair;
+washed up on shore, a residue of better times.
+
 Its chief attraction is the eponymous buddhist temple and its statue of Kannon, the goddess of mercy.
-But the scattering of tumbledown hotels, souvenir shops, 
-It gives the lake a sleepy, deteriorating
-crust of tumbledown hotels, 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -52,3 +53,7 @@ deteriorating tourist town nestled between a sacred lake and a sacred mountain.
 Lake Chuzenjiko (中禅寺湖) literally means "Lake of the Chinese Zen
 Temple, while Mt. Nantai (男体) is "man's body".
 Both were closed to women and horses for over a thousand years.
+
+But the scattering of tumbledown hotels, souvenir shops, 
+It gives the lake a sleepy, deteriorating
+crust of tumbledown hotels, 
