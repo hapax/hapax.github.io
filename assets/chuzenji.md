@@ -24,11 +24,10 @@ years, both lake and mountain were closed to women, horses and cows.
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this small ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
-It is in between, or around, but never "here".
-Appropriately enough, on the day I arrived, Chuzenji was swaddled in a
-blanket of fog and almost invisible; I was in the town, but it was
-nowhere to be seen.
-Initially, it was no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
+It is in between, or around, but never "here", and the day I arrived,
+the town was swaddled in a blanket of fog and almost invisible; I was
+in it, but it was nowhere to be seen.
+Initially, Chuzenji was no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk.
 But the mass of cloud had settled onto the adjoining plateaus, and
