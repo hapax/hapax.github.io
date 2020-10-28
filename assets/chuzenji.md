@@ -1,9 +1,7 @@
 ---
-title:  "Straight, self-similar or stochastic?"
-categories: Mathematics
+title:  "The argument from perishable beings"
 date:  2020-07-06
 layout: plain
-title: The Third Realm
 ---
 
 #### Contents
