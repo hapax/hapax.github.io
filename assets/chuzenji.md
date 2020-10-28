@@ -32,6 +32,9 @@ It was initially no more than a pitstop on my way to the
 Senjogahara marshland, a wet and sprawling plain, 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk, if my Lonely Planet was to be trusted.
+But if the mass of cloud had also settled on the adjoining plateaus, I
+would see very little from the boardwalks.
+So I decided to explore the town, 
 
 Dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
