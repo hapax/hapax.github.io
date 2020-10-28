@@ -38,10 +38,8 @@ Its crumbling facades also chart the Nikkei.
 	</div>
 </figure>
 
-I didn't come here to 
-I was passing through on my way to the Senjogahara marshland, after a
-conference in Kyoto and a week spent on the more or less beaten track
-with friends.
+I was passing through on my way to the Senjogahara marshland, but a
+cloud seem to have descended on the lake and plateau.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
