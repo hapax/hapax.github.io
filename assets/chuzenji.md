@@ -28,8 +28,7 @@ It is in between, or around, but never "here", and the day I arrived,
 the town was swaddled in a blanket of fog and almost invisible; I was
 in it, but it was nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
-level, covered in hare's-tail cottongrass and spidered with
-boardwalk, if the brochures were to be believed.
+level, covered in hare's-tail cottongrass and rambling boardwalks.
 But the mass of cloud had settled onto the adjoining plateaus, and
 I would see very little from the boardwalk. I decided to explore
 the town instead.
@@ -98,3 +97,5 @@ Initially, it was no more than a pitstop on my way to the
 Senjogahara marshland
 
 the town that wasn't there.
+
+spidered with boardwalk
