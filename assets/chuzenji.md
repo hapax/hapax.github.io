@@ -21,7 +21,7 @@ years, both lake and mountain were closed to women, horses and cows.
 </div>
 </figure>
 
-The town is called variously Chuzenji and Okunikko (奥日光, "inner
+The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
 It is in between, or around, but never "here".
