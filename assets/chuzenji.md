@@ -38,8 +38,9 @@ freed up liquidity for domestic tourism, and came crashing down when
 the asset price bubble burst in the 90s.
 Its crumbling facades chart the Nikkei in a different metric.
 
-After a conference in Kyoto, and a week spent breathlessly taking in
-the sights with other graduate students, I was passing through on my way to the Senjogahara marshland,
+I was passing through on my way to the Senjogahara marshland, after a
+conference in Kyoto and a week spent on the more or less beaten track
+with friends.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
