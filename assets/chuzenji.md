@@ -30,8 +30,8 @@ blanket of fog and almost invisible; the town that wasn't there.
 I was on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk, and Chuzenji was little more than a pitstop.
-But the mass of cloud had settled on the adjoining plateaus.
-I would see very little from the boardwalk, so I decided to explore
+But the mass of cloud had also settled onto the adjoining plateaus, so
+Iwould see very little from the boardwalk. I decided to explore
 the town instead.
 
 <figure>
