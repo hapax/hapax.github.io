@@ -33,15 +33,15 @@ freed up liquidity for domestic travel, and came crashing down when
 the asset price bubble burst in the 90s.
 Its crumbling facades chart the Nikkei on a different metric.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
+	</div>
+</figure>
+
 I didn't come here to 
 I was passing through on my way to the Senjogahara marshland, after a
 conference in Kyoto and a week spent on the more or less beaten track
 with friends.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake1.png" />
-	</div>
-</figure>
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
