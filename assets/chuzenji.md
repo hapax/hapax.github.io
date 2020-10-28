@@ -20,6 +20,9 @@ zen temple", while Mount Nantai (男体) translates to "man's body".
 In a perversely literal obedience to the latter, both lake and
 mountain were closed to women, horses and cows for over a thousand years.
 
+The town, called variously Chuzenji and Okunikko (奥日光, "inner
+Nikko"), is defined by what it is near.
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
     <figcaption><i>The pier.</i></figcaption>
