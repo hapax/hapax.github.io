@@ -8,15 +8,15 @@ layout: post
 
 1. <a href="#sec-1">The mountain shrine</a>
 
-#### The mountain shrine<a id="sec-1" name="sec-1"></a>
+#### 1. The mountain shrine<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki and up and around the convulsed mass of the
 Akechidaira plateau, the traveller arrives at a crumbling onsen town
-between a sacred lake and a sacred mountain.
+wedged between a sacred lake and a sacred mountain.
 The lake, Chuzenjiko (中禅寺湖), literally means "lake of the Chinese
-zen temple", while Mount Nantai (男体) is "man's body".
+zen temple", while Mount Nantai (男体) translates to "man's body".
 Perhaps in the deference to the latter, they were closed to women for over a thousand years.
 
 <figure>
