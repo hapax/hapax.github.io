@@ -42,8 +42,7 @@ The town was initially a toilet break on my way to the
 Senjogahara marshland, a sprawling, picturesque wetland 1400 meters above sea
 level, covered in hare's-tail cottongrass and spiderwebbed with
 boardwalk.
-But fog had descended on the two and presumably the Senjogahara
-plataeau, so 
+But fog had descended on the lake and the adjoining plataeaus, so 
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
