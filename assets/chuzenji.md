@@ -38,7 +38,7 @@ Its crumbling facades chart the rise and fall of the Nikkei.
 	</div>
 </figure>
 
-The town was initially no more than a toilet break on my way to the
+The town was initially a toilet break on my way to the
 Senjogahara marshland, a sprawling wetland 1400 meters above sea
 level, covered in hare's-tail cottongrass and spiderwebbed with
 picturesque boardwalk, if the brochure was to be trusted.
