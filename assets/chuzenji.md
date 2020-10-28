@@ -17,8 +17,8 @@ Akechidaira plateau, the traveller arrives at a crumbling onsen town
 wedged between a sacred lake and a sacred mountain.
 The lake, Chuzenjiko (中禅寺湖), literally means "lake of the Chinese
 zen temple", while Mount Nantai (男体) translates to "man's body".
-Perhaps in the deference to the latter, both lake and mountain were
-closed to women for over a thousand years.
+In a perversely literal obedience to the latter, both lake and
+mountain were closed to women, horses and cows for over a thousand years.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
