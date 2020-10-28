@@ -24,14 +24,13 @@ women, horses and cows for over a thousand years.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems defined by its proximity to other things than by
 any properties of its own.
-It spans a loose chevron between two waterfalls and the eponymous
-temple, dotting the lakeside with tumbledown hotels, souvenir stores,
-ramen shops, jetties, and oversized emporia, all in various states of
-disrepair.
-It is a town washed up on the shore, a residue of better times,
-presumably the 80s economic boom and the liquidity it freed up for
-domestic tourism.
-In a sense, visiting the lake is a particularly vivid lesson
+It strings out a loose "V" between two waterfalls and the eponymous
+temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
+high-walled embassies, mom-and-pop kitchens, and oversized emporia,
+all in various states of disrepair.
+It is a town washed up on the shore, a residue of better times, the
+80s boom and the liquidity it freed up for domestic tourism, and the
+asset price bubble of the 90s
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -67,3 +66,5 @@ shops, and strangely large emporia in various states of disrepair;
 washed up on shore, a residue of better times.
 sort of encrustation along the corridors
 of travel between the eponymous buddhist temple and two waterfalls.
+
+In a sense, visiting the lake is a particularly vivid lesson
