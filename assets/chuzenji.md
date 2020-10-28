@@ -4,11 +4,6 @@ date:  2020-07-06
 layout: post
 ---
 
-#### Contents
-
-1. <a href="#sec-2">Going inside</a>
-2. <a href="#sec-2">The lesser shrine</a>
-
 #### Chuzenji<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
@@ -33,11 +28,12 @@ It strings out a loose "V" between two waterfalls and the eponymous
 temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
 all in states of disrepair.
-It is a town washed up on the shore, a residue of the 80s boom which
-freed up liquidity for domestic tourism, and came crashing down when
+It is a tourist town washed up on the shore, a residue of the 80s boom which
+freed up liquidity for domestic travel, and came crashing down when
 the asset price bubble burst in the 90s.
-Its crumbling facades chart the Nikkei in a different metric.
+Its crumbling facades chart the Nikkei on a different metric.
 
+I didn't come here to 
 I was passing through on my way to the Senjogahara marshland, after a
 conference in Kyoto and a week spent on the more or less beaten track
 with friends.
