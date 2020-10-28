@@ -31,7 +31,7 @@ all in states of disrepair.
 It is a tourist town washed up on the shore, a residue of the 80s boom which
 freed up liquidity for domestic travel, and came crashing down when
 the asset price bubble burst in the 90s.
-Its crumbling facades also chart the Nikkei.
+Its crumbling facades chart the rise and fall of the Nikkei.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake7.png" />
