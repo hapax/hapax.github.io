@@ -1,5 +1,5 @@
 ---
-title:  "The argument from perishable beings"
+title:  "The third way"
 date:  2020-07-06
 layout: plain
 ---
@@ -10,10 +10,12 @@ layout: plain
 
 #### The mountain shrine<a id="sec-1" name="sec-1"></a>
 
-Nikko (日光), meaning "sunlight", is one of Japan's holy places.
-In 782, the Buddhist monk Shōdō Shōnin (勝道上人) tried 
+The Buddhist monk Shodo Shonin (勝道上人) was
 
+In 782,
+Hashiri Daikokutendo
 男体
+The argument from perishable beings
 
 <p align="center">
   ⁂
