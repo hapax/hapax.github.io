@@ -28,11 +28,11 @@ It is in between, or around, but never "here".
 Appropriately enough, on the day I arrived, Chuzenji was swaddled in a
 blanket of fog and almost invisible; I was in the town, but it was
 nowhere to be seen.
-I was on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
+Initially, it was no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
-boardwalk, and Chuzenji was little more than a pitstop.
-But the mass of cloud had also settled onto the adjoining plateaus, so
-Iwould see very little from the boardwalk. I decided to explore
+boardwalk.
+But the mass of cloud had settled onto the adjoining plateaus, and
+I would see very little from the boardwalk. I decided to explore
 the town instead.
 
 <figure>
