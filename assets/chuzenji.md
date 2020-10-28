@@ -28,10 +28,10 @@ It is in between, or around---stringing out a loose "V" formed by two
 pretty waterfalls and the eponymous temple---but never "here".
 And appropriately enough, the day I arrived, Chuzenji was huddled in a
 blanket of fog and almost invisible; the town that wasn't there.
-Chuzenji was initially no more than a pitstop on my way to the
+It was initially no more than a pitstop on my way to the
 Senjogahara marshland, a wet and sprawling plain, 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
-boardwalks, if the brochure from Nikko station was to be believed.
+boardwalk, if my Lonely Planet was to be trusted.
 
 Dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
