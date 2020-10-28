@@ -4,6 +4,12 @@ title: Fun
 permalink: /fun/
 ---
 
+<figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" />
+ <figcaption><i>The gothic window simulator.</i></figcaption>
+ 	 </div>
+ </figure>
+
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/). Singing of the *principium creaturarum*.
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Quantum computing, geopolitics, and shrimp.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
@@ -81,9 +87,3 @@ distribution of genetic code around a family tree.
 <!-- - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong. <!-- of which I am
   inordinately proud.-->
-
-<!-- <figure>
- <div style="text-align:center"><img src ="/images/gothic-2.png" />
- <figcaption><i>The gothic window simulator.</i></figcaption>
- 	 </div>
-  </figure> -->
