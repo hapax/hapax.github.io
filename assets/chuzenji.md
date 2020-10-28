@@ -40,7 +40,7 @@ Its crumbling facades also chart the Nikkei.
 
 The town was initially no more than a toilet break on my way to the
 Senjogahara marshland, a sprawling wetland 1400 meters above sea
-level, covered in hare's-tail cottongrass and spidered with
+level, covered in hare's-tail cottongrass and spiderwebbed with
 picturesque boardwalk, if the brochure was to be trusted.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
