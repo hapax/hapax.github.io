@@ -34,11 +34,6 @@ I would see very little of the picturesque wetlands. I decided to explore
 the town instead.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
-</div>
-</figure>
-
-<figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
 </div>
 </figure>
@@ -54,8 +49,8 @@ and came crashing down when the asset price bubble burst in the 90s.
 Its crumbling facades chart the rise and fall of the Nikkei.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake7.png" />
-	</div>
+    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
+</div>
 </figure>
 
 
