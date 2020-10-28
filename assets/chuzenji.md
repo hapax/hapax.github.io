@@ -14,7 +14,7 @@ layout: post
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, and up and around the convulsed mass of the
-Akechidaira plateau, the traveller arrives at an onsen town
+Akechidaira plateau, the traveller arrives at a tourist town
 wedged between a sacred lake and a sacred mountain.
 The name of the lake, Chuzenjiko (中禅寺湖), literally means "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), translates to "man's body".
@@ -23,12 +23,11 @@ women, horses and cows for over a thousand years.
 
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and seems defined by its proximity to other things than by
-any properties of its own.
-It gives the lake a crust of jetties, tumbledown hotels, souvenir
-shops, and strangely large emporia in various states of disrepair;
-washed up on shore, a residue of better times.
-
-Its chief attraction is the eponymous buddhist temple and its statue of Kannon, the goddess of mercy.
+any properties of its own, a sort of encrustation along the corridors
+of travel between the eponymous buddhist temple and two waterfalls.
+But the tumbledown hotels, souvenir stores, ramen shops, jetties, and
+oversized emporia, are washed up on the shore of the lake like a
+residue of better times.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -57,3 +56,8 @@ Both were closed to women and horses for over a thousand years.
 But the scattering of tumbledown hotels, souvenir shops, 
 It gives the lake a sleepy, deteriorating
 crust of tumbledown hotels, 
+Its chief attraction is the eponymous buddhist temple and its statue of Kannon, the goddess of mercy.
+
+It gives the lake a crust of jetties, tumbledown hotels, souvenir
+shops, and strangely large emporia in various states of disrepair;
+washed up on shore, a residue of better times.
