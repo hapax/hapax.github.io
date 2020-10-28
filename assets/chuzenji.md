@@ -29,7 +29,7 @@ the town was swaddled in a blanket of fog and almost invisible; I was
 in it, but it was nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
-boardwalk.
+boardwalk, if the brochures were to be believed.
 But the mass of cloud had settled onto the adjoining plateaus, and
 I would see very little from the boardwalk. I decided to explore
 the town instead.
