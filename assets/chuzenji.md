@@ -34,9 +34,9 @@ temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
 all in states of disrepair.
 It is a town washed up on the shore, a residue of the 80s boom which
-freed up liquidity for domestic tourism, and came crashing down with
-the asset price bubble of the 90s.
-Its crumbling facades chart the Nikkei using a different metric.
+freed up liquidity for domestic tourism, and came crashing down when
+the asset price bubble burst in the 90s.
+Its crumbling facades chart the Nikkei in a different metric.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
