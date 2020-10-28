@@ -9,7 +9,7 @@ layout: post
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, winding though tunnels and misty switchbacks up and
-around the convulsed base of the Akechidaira plateau, you arrive at a
+around the convulsed base of the Akechidaira plateau, you come to a
 small town wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
@@ -24,9 +24,16 @@ years, both lake and mountain were closed to women, horses and cows.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its shifting proximity to other things than by
 any properties of its own.
-It is in between, or around, but never "here".
-It strings out a loose "V" between two pretty waterfalls and the eponymous
-temple, dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
+It is in between, or around---stringing out a loose "V" between two
+pretty waterfalls and the eponymous temple---but never "here".
+Appropriately enough, the day I arrived, Chuzenji was huddled in a
+blanket of mist and almost invisible; the town that wasn't there.
+Chuzenji was initially no more than a pitstop on my way to the
+Senjogahara marshland, a wet and sprawling plain, 1400 meters above sea
+level, covered in hare's-tail cottongrass and spidered with
+boardwalks, if the brochure from Nikko station was to be believed.
+
+Dotting the lakeside with jetties, tumbledown hotels, souvenir stores,
 high-walled embassies, mom-and-pop kitchens, and oversized emporia,
 all in states of disrepair.
 It is a tourist town washed up on the shore, a residue of the 80s boom which
@@ -39,11 +46,6 @@ Its crumbling facades chart the rise and fall of the Nikkei.
 	</div>
 </figure>
 
-The town was initially no more than a pitstop on my way to the
-Senjogahara marshland, a sprawling, picturesque wetland 1400 meters above sea
-level, covered in hare's-tail cottongrass and spiderwebbed with
-boardwalk.
-But fog had descended on the lake and the adjoining plataeaus, so 
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
@@ -81,3 +83,5 @@ a residue of better times, the
 asset price bubble of the 90s
 
  if the brochure was to be trusted.
+
+But fog had descended on the lake and the adjoining plataeaus, so 
