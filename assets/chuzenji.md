@@ -31,9 +31,9 @@ Initially, it was no more than a pitstop on my way to the
 Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
 boardwalk, if my Lonely Planet was to be trusted.
-But if the mass of cloud had settled on the adjoining plateaus, I
-would see very little from the boardwalk.
-So I decided to explore the town.
+But the mass of cloud had settled on the adjoining plateaus.
+I would see very little from the boardwalk, so I decided to explore
+the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
