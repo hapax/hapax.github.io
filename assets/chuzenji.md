@@ -10,7 +10,8 @@ layout: plain
 
 #### The mountain shrine<a id="sec-1" name="sec-1"></a>
 
-In 782, the Buddhist monk Shōdō Shōnin (勝道上人) 
+Nikko (日光), meaning "sunlight", is one of Japan's holy places.
+In 782, the Buddhist monk Shōdō Shōnin (勝道上人) tried 
 
 男体
 

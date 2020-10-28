@@ -4,17 +4,17 @@ title: Fun
 permalink: /fun/
 ---
 
-<figure>
- <div style="text-align:center"><img src ="/images/gothic-2.png" />
- <figcaption><i>The gothic window simulator.</i></figcaption>
- 	 </div>
- </figure>
-
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/). Singing of the *principium creaturarum*.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Quantum computing, geopolitics, and shrimp.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Telekinetic zombies and the psychology of time.
+
+<figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" />
+ <figcaption><i>The gothic window simulator.</i></figcaption>
+ 	 </div>
+ </figure>
 
 <!-- Will report back when I remember how to have it.
 I put my digital art on [tumblr](https://caedrix.tumblr.com/)
