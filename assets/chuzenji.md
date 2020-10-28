@@ -24,8 +24,7 @@ women, horses and cows for over a thousand years.
 The town is called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), and seems defined by its proximity to other things than by
 any properties of its own.
-Its chief attraction is the eponymous buddhist temple and its large
-statue of Kannon, the goddess of mercy.
+Its chief attraction is the eponymous buddhist temple and its statue of Kannon, the goddess of mercy.
 But the scattering of tumbledown hotels, souvenir shops, 
 It gives the lake a sleepy, deteriorating
 crust of tumbledown hotels, 
