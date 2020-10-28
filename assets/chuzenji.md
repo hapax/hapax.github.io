@@ -6,9 +6,10 @@ layout: post
 
 #### Contents
 
-1. <a href="#sec-1">The mountain shrine</a>
+1. <a href="#sec-2">Going inside</a>
+2. <a href="#sec-2">The lesser shrine</a>
 
-#### 1. The mountain shrine<a id="sec-1" name="sec-1"></a>
+#### Going inside<a id="sec-1" name="sec-1"></a>
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
@@ -23,6 +24,7 @@ mountain were closed to women, horses and cows for over a thousand years.
 The town, called variously Chuzenji and Okunikko (奥日光, "inner
 Nikko"), is defined by its proximity to other things rather than any
 intrinsic properties.
+It is a sleepy, deteriorating encrustment of 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake1.png" />
@@ -30,6 +32,7 @@ intrinsic properties.
 	</div>
 </figure>
 
+#### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
 #### Extra
 
