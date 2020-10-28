@@ -27,10 +27,9 @@ any properties of its own.
 It is in between, or around, but never "here".
 Appropriately enough, on the day I arrived, Chuzenji was swaddled in a
 blanket of fog and almost invisible; the town that wasn't there.
-Initially, it was no more than a pitstop on my way to the
-Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
+I was on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and spidered with
-boardwalk, if my Lonely Planet was to be trusted.
+boardwalk, and Chuzenji was little more than a pitstop.
 But the mass of cloud had settled on the adjoining plateaus.
 I would see very little from the boardwalk, so I decided to explore
 the town instead.
@@ -93,3 +92,6 @@ asset price bubble of the 90s
  if the brochure was to be trusted.
 
 But fog had descended on the lake and the adjoining plataeaus, so 
+
+Initially, it was no more than a pitstop on my way to the
+Senjogahara marshland
