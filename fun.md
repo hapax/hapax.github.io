@@ -12,7 +12,6 @@ permalink: /fun/
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
- <figcaption><i>The gothic window simulator.</i></figcaption>
  	 </div>
  </figure>
 
@@ -88,3 +87,9 @@ distribution of genetic code around a family tree.
 <!-- - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong. <!-- of which I am
   inordinately proud.-->
+
+<!-- <figure>
+ <div style="text-align:center"><img src ="/images/gothic-2.png" />
+ <figcaption><i>The gothic window simulator.</i></figcaption>
+ 	 </div>
+ </figure> -->
