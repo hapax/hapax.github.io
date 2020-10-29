@@ -83,7 +83,7 @@ are many ways to decay.
 In the language of physics, decay is entropically preferred.
 There are many ways to be, and only a few happen to please the human eye.
 Harmony is a vanishing sliver of phase space, and ruin is the freedom
-of matter from human conceit.
+of matter from our conceits of order.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
