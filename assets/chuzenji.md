@@ -103,7 +103,7 @@ Curiously, Thomas Aquinas saw in this perishability a proof of God's
 existence.
 In his *Tertia Via*, he argues the world is full of perishable beings,
 who exist for a time, but by processes of death, corruption and
-change, then cease to exist.
+change, will eventually cease to exist.
 Since they themselves
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
