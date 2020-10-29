@@ -42,9 +42,8 @@ pretty waterfall to another to the eponymous temple, cluttering the
 lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
 all in various states of closure and disrepair.
-The town is washed up on the shore like fantastically decay flotsam, a
-residue of the boom of the 80s, with its liquidity for domestic
-travel, and the collapse of the 90s.
+The town is washed up on the shore like fantastic flotsam, a
+residue of the boom of the 80s and the collapse of the 90s.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers in sweatpants and big hair, pouring
