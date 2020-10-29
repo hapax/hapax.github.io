@@ -11,8 +11,7 @@ layout: post
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
-outskirts, Kiyotaki, then tunnels and misty switchbacks up and
-around the convulsed base of the Akechidaira plateau, you come to a
+outskirts, Kiyotaki, then tunnels and switchbacks around the convulsed base of the Akechidaira plateau, you come to a
 small town wedged between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
@@ -152,3 +151,6 @@ But the dream fades, and I am left with the dead boats, headless and
 run aground, looming at me out of the gloaming air.
 
 ike the suspiciously happy families of a Coke ad.
+
+outskirts, Kiyotaki, then tunnels and misty switchbacks up and
+around the convulsed base of the Akechidaira plateau, you come to a
