@@ -80,11 +80,11 @@ That would make ruin an aesthetic phenomenon akin to beauty.
 But disharmony is different from beauty, since it is easier
 to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
-In the language of statistical mechanics, disharmony is entropically
-preferred; there are many ways of arrange parts, and only a few happen
-to please the human eye.
-Harmony is a vanishing sliver of phase space.
-Ruin is the freedom of matter from human conceit.
+In the language of statistical mechanics, decay is entropically
+preferred. Of the many ways to be, and to have one's parts arranged,
+and only a few happen to please the human eye.
+But harmony is a vanishing sliver of phase space; ruin is the freedom
+of matter from human conceit.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
