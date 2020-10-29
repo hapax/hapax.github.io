@@ -90,7 +90,7 @@ When an organism is sufficiently ruined, it dies; when enough shops
 close, and people move away, so does a town.
 As an ordered composite, arranged in ever greater ordered hierarchies, we
 operate in tiny slivers of phase space.
-If the second law wins, we cease to exist.
+If entropy is maximized, we cease to exist.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
