@@ -108,3 +108,5 @@ spoiling my designs on the picturesque wetlands
 
 and dots the
 lakeside
+
+residue of the 80s boom 
