@@ -48,8 +48,10 @@ It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers in chinos and sweatpants and big hair, pouring
 in from the suburbs of Tokyo and flitting about to sample the Nikko
-World Heritage Cheese Egg or take the cygnine pleasure crafts for a
-whirl on the lake.
+World Heritage Cheese Egg, or take cygnine pleasure crafts for a whirl
+on the lake.
+The ghosts of better times fade into the gloom of the present and its
+headless swans.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2.png" />
