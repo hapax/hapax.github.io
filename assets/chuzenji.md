@@ -85,13 +85,14 @@ Ruin is the freedom of matter from the human conceits of order.
 </div>
 </figure>
 
-This democratic view suits the parts, who are ignorant
-of ruin and know only combinatorics, but the assemblage does not have this luxury.
-When an organism is sufficiently ruined, it dies; when enough shops
-close, and people move away, so does a town.
-As an ordered composite, arranged in ever greater hierarchies of order, we
-operate in tiny slivers of phase space, and if entropy is maximized,
-we will cease to exist.
+This democratic view suits the parts, the crumbling staircase and the
+peeling wallpaper, who are ignorant
+of ruin and know only combinatorics.
+But the assemblage does not have this luxury:
+when an organism is sufficiently ruined, it dies; when a building
+collapses, it is no more; when enough shops close, and people move
+away, you get a ghost town.
+Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
@@ -215,3 +216,7 @@ In his *Tertia Via*, he argues that there are perishable beings, who
 exist but need not.
 
 dampening my plans for a picturesque hike
+
+As an ordered composite, arranged in ever greater hierarchies of order, we
+operate in tiny slivers of phase space, and if entropy is maximized,
+we will cease to exist.
