@@ -76,7 +76,7 @@ I continue wandering, taking in the spectacle of ruin.
 I ask myself: what is ruin?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
-That would make ruin an aesthetic phenomenon.
+That would make ruin an aesthetic phenomenon akin to beauty.
 But disharmony is different from beauty, since it is easier
 to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
