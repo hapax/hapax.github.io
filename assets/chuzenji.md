@@ -28,7 +28,7 @@ blanket of fog and almost invisible; Chuzenji is in all directions but nowhere t
 Initially, it was no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
 But the mass of cloud has settled onto the wetland as well as the lake,
-dampening my plans for a picturesque hike. I decide to explore the town instead.
+dampening my plans for a picturesque hike, so I decide to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
