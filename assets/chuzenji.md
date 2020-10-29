@@ -39,7 +39,7 @@ dampening my plans for a picturesque hike. I decided to explore the town instead
 
 Chuzenji strings out in a loose "V" from from one
 pretty waterfall to another to the eponymous temple, cluttering the lakeside in
-between with jetties, tumbledown hotels, souvenir stores, high-walled
+between with jetties, hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
 in various states of closure and disrepair.
 It is like flotsam, washed up on the shore by the 80s boom and left to
@@ -47,8 +47,8 @@ rot in the "lost decade" of the 90s, with its sharp decline in
 liquidity and domestic tourism.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
-I imagine hordes of daytrippers pouring in from the suburbs of Tokyo,
-all chinos and sweatpants and big hair, flitting about to unironically
+I imagine hordes of daytrippers pouring in from the suburbs of
+Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
 chow down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure crafts
 for a whirl on the lake.
 
