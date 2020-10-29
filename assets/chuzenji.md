@@ -70,7 +70,8 @@ I continue taking in the spectacle of ruin.
 But I wonder: what *is* ruin?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
-That would make ruin an aesthetic phenomenon like beauty.
+That would make ruin an aesthetic phenomenon like beauty, and in a
+way, ruin *is* beautiful.
 But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
 second law of thermodynamics, there are many more ways to fall apart than
