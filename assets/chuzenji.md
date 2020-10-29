@@ -67,20 +67,20 @@ swan.
 </figure>
 
 I continue wandering, taking in the spectacle of ruin.
-It becomes tiring;
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
 </div>
 </figure>
 
+What is ruin?
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
 
-After a couple of hours of wandering, I begin to find the extravagance
-of the absence and decay suspicious.
+
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
