@@ -81,7 +81,9 @@ But there is something different about disharmony, since it is easier
 to achieve; as Leo Tolstoy says of unhappy families, there are many
 ways to fall to ruin.
 In the language of statistical mechanics, disharmony is entropically
-preferred; there are more
+preferred; there are many ways of arrange parts, and only a few happen
+to please the human eye.
+Beauty is a vanishing sliver of phase space.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
