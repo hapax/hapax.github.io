@@ -76,11 +76,10 @@ I continue wandering, taking in the spectacle of ruin.
 I ask myself: what is ruin?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
-That would make ruin an aesthetic phenomenon in the same way as
-beauty.
-But there is something different about disharmony, since it is easier
-to achieve; as Leo Tolstoy says of unhappy families, there are many
-ways to fall to ruin.
+That would make ruin an aesthetic phenomenon.
+But disharmony is different from beauty, since it is easier
+to achieve; to paraphrase the opening lines of Anna Karenina, there
+are many ways to decay.
 In the language of statistical mechanics, disharmony is entropically
 preferred; there are many ways of arrange parts, and only a few happen
 to please the human eye.
