@@ -12,7 +12,7 @@ between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
 In a perversely literal obedience to the latter, for over a thousand
-years, both lake and mountain were closed to horses, cows, and women.
+years, this sacred lake and mountain were closed to horses, cows, and women.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake0.png" />
@@ -25,10 +25,11 @@ any properties of its own.
 It is in between, or nearby, but never "here". The day my bus
 rolls up the mountain and into the carpark, it is swaddled in a
 blanket of fog and almost invisible; Chuzenji is in all directions but nowhere to be seen.
-Initially, it was no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
-level, covered in hare's-tail cottongrass and rambling boardwalks.
+Initially, it was no more than a pitstop on my way to the Senjogahara
+marshland, a sprawling plain of hare's-tail cottongrass and rambling
+boardwalks, 1400 meters above sea level.
 But the mass of cloud has settled onto the wetland as well as the lake,
-dampening my plans for a picturesque hike, so I decide to explore the town instead.
+dampening my plans for a hike, so I decide to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
@@ -36,7 +37,7 @@ dampening my plans for a picturesque hike, so I decide to explore the town inste
 </figure>
 
 Chuzenji is strung along a loose "V" between two waterfalls and the
-eponymous buddhist temple, cluttering the
+eponymous buddhist temple, and clutters the
 intervening lakeside with jetties, hotels, souvenir stores,
 embassies, and mom-and-pop kitchens, in various states of closure and disrepair.
 Off-season it may be, but for the lugubrious pensions and noodle
@@ -58,8 +59,8 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the reality of a beached and headless swan, a
-perfect specimen of the Chuzenji grotesque.
+bubble, shattered by the reality of a beached and headless swan;
+a perfect specimen of the Chuzenji grotesque.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
@@ -212,3 +213,5 @@ the human eye.
 
 In his *Tertia Via*, he argues that there are perishable beings, who
 exist but need not.
+
+dampening my plans for a picturesque hike
