@@ -90,8 +90,9 @@ peeling wallpaper, who are ignorant
 of ruin and know only combinatorics.
 But the assemblage does not have this luxury:
 when an organism is sufficiently ruined, it dies; when a building
-collapses, it is no more; when enough shops close, and people move
-away, you get a ghost town.
+decays and collapses, it is no more; if the excursionists stay home,
+and the shops close, and the people move away, the town is replaced by
+its ghost.
 Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
