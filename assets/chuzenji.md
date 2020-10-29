@@ -98,9 +98,9 @@ ordered being.
 </div>
 </figure>
 
-Curiously, Thomas Aquinas saw in this perishability a proof of God's
-existence.
-In his *Tertia Via*, he argues that the world is full of perishable beings,
+Curiously, Thomas Aquinas saw in this perishability a proof of the
+existence of God.
+In his *Tertia Via* (Third Way), he argues that the world is full of perishable beings,
 who exist for a time, but by processes of death, corruption and
 change, later cease to exist.
 Something imperishable must underwrite this process; it certainly
