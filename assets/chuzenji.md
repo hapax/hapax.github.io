@@ -66,8 +66,8 @@ swan.
 </div>
 </figure>
 
-I continue wandering.
-One tires of the spectacle of ruin.
+I continue wandering, taking in the spectacle of ruin.
+It becomes tiring;
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake14.png" />
