@@ -109,11 +109,11 @@ who exist for a time, but by processes of death, corruption and
 change, later cease to exist.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
-existence, and take whatever causative powers they carried with them.
-Thus, Aquinas arrives at the strange notion of God as a metaphysical
-principle of ruin.
+existence, and take whatever causative powers they effected with them.
+To my mind, the Third Way does not establish a Judeo-Christian Father,
+wrathful or provident, bur rather God as a metaphysical principle of ruin.
 
-So I wonder: does the god of ruin smile on this place?
+I wonder: does the god of ruin smile on this place?
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
