@@ -50,9 +50,9 @@ These crumbling facades chart the rise and fall of the Nikkei along
 with the ravages of time.
 
 By the cruise terminal, I pause and imagine the daytrippers pouring in
-from the suburbs of Tokyo, all chinos and sweatpants and big hair,
-restless after the bus ride and now flitting about the streets to
-watch the glassblower at work, or unironically chow down on Nikko
+from the suburbs of Tokyo, all chinos and sweatpants and big hair.
+They are restless after the bus ride and now flit wordlessly about the
+streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
 They take the cygnine pleasure crafts for a whirl on the lake, and
 Otousan falls in the water; guileless laughter.
