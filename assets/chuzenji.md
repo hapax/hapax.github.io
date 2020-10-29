@@ -67,7 +67,7 @@ swan.
 </figure>
 
 I continue taking in the spectacle of ruin.
-A place like this moves me to ask: what is ruin?
+But what is ruin anyway?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
 That would make ruin an aesthetic phenomenon, akin to beauty.
