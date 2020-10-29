@@ -105,7 +105,14 @@ In his *Tertia Via*, he argues that the world is full of perishable beings,
 who exist for a time, but by processes of death, corruption and
 change, will later cease to exist.
 Something imperishable must underwrite this process; it certainly
-cannot be the perishable beings themselves.
+cannot be the perishable beings themselves, since they pass out of
+existence, and the power to effect change with them.
+Thus, Aquinas arrives at the notion of God as a metaphysical principle of ruin.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+</div>
+</figure>
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
