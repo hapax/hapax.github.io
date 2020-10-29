@@ -49,13 +49,16 @@ decline in liquidity and domestic tourism.
 These crumbling facades chart the rise and fall of the Nikkei along
 with the ravages of time.
 
-By the cruise terminal, I pause and imagine the daytrippers pouring in
+I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair,
-restless after the bus ride, and now flitting about the streets to
+restless after the bus ride and now flitting about the streets to
 watch the glassblower at work, take the cygnine pleasure crafts for a
-whirl, and unironically chow down on Nikko World Heritage Cheese
+whirl, or unironically chow down on Nikko World Heritage Cheese
 Eggs.
 Otousan falls in the water and the family laughs guilelessly.
+Clumsy Otousan!
+It is a mirage, like a Coke ad or an asset price bubble, burst
+abruptly by 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
