@@ -67,12 +67,6 @@ swan.
 </figure>
 
 I continue wandering, taking in the spectacle of ruin.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
-</div>
-</figure>
-
 I ask myself: what is ruin?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
@@ -86,11 +80,17 @@ Harmony is a vanishing sliver of phase space, and ruin is the freedom
 of matter from our conceits of order.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
 
-Perhaps ruin teaches us something about the entropic
+But this is not only a thermodynamic occurrence; it is a human one.
+It is a place where people live, work, and die, where a Tokyo family 
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
+</div>
+</figure>
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
