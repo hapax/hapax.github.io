@@ -49,12 +49,10 @@ decline in liquidity and domestic tourism.
 These crumbling facades chart the rise and fall of the Nikkei along
 with the ravages of time.
 
-I imagine hordes of daytrippers pouring in from the suburbs of
+I imagine daytrippers pouring in from the suburbs of
 Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
 chow down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure crafts
 for a whirl on the lake.
-But the dream fades, and I am left with the dead boats, headless and
-run aground, looming at me out of the gloaming air.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
