@@ -29,8 +29,8 @@ rolled into town, it was swaddled in a blanket of fog and almost invisible,
 all around but nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
-The mass of cloud had settled onto the adjoining plateaus,
-spoiling my designs on the wetland; I decided to explore the town instead.
+But the mass of cloud had settled onto the adjoining plateaus, and
+extinguished the possibility of a picturesque hike, so I decided to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
