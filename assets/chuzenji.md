@@ -46,12 +46,11 @@ The town is washed up on the shore like fantastic flotsam, a
 residue of the boom of the 80s and the collapse of the 90s.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
-I imagine hordes of daytrippers in chinos and sweatpants and big hair, pouring
-in from the suburbs of Tokyo and flitting about to sample the Nikko
-World Heritage Cheese Egg, or take cygnine pleasure crafts for a whirl
-on the lake.
-The ghosts of better times fade into the gloom of the present and its
-headless swans.
+I imagine hordes of daytrippers pouring in from the suburbs of Tokyo,
+all chinos and sweatpants and big hair, and flitting about to sample
+the Nikko World Heritage Cheese Egg, or take cygnine pleasure crafts
+for a whirl on the lake.
+The ghosts of better times fade, leaving headless swans in midday gloom.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2.png" />
