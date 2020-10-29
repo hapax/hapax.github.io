@@ -72,10 +72,9 @@ Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
 That would make ruin an aesthetic phenomenon like beauty.
 But disharmony is different from beauty, since easier
-to achieve; to paraphrase the opening lines of *Anna Karenina*, there
-are many ways to decay.
-Or, to paraphrase the second law of thermodynamics, decay is entropically
-preferred, since there are many more ways to do that than look good.
+to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
+second law of thermodynamics, there are many more ways to fall apart than
+look good.
 Harmony is a vanishing sliver of phase space, and ruin is the freedom
 of matter from our conceits of order.
 
