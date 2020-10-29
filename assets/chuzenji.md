@@ -25,7 +25,7 @@ The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, it seems more defined by its proximity to other things than
 any properties of its own.
 It is in between, or around, but never "here". The day my bus
-rolled into town, it was swaddled in a blanket of fog and almost invisible,
+rolled into town, it was swaddled in a blanket of fog and almost invisible;
 all around but nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
