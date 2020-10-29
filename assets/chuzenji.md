@@ -54,11 +54,11 @@ from the suburbs of Tokyo, all chinos and sweatpants and big hair.
 They are restless after the bus ride and now flit wordlessly about the
 streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
-They take the cygnine pleasure crafts for a whirl on the lake, and
+After some mild negotiation, they take a cygnine pleasure craft for a whirl on
+the lake.
 Otousan falls in the water; guileless laughter.
 Clumsy Otousan!
-Of course, it is a mirage, like a Coke ad or an asset price bubble,
-burst by the apparation of a headless boat, 
+Of course, it is all a mirage, like a Coke ad or an asset price bubble,
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
