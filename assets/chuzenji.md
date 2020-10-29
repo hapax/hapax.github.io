@@ -41,7 +41,7 @@ Chuzenji strings out in a loose "V" around the lake, angled from one
 pretty waterfall to another to the eponymous temple, and clutters the
 lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
-all in various states of disrepair.
+all in various states of closure and disrepair.
 It is a tourist town washed up like fantastic flotsam on the shore, a
 residue of the 80s boom which freed up liquidity for domestic travel,
 and came crashing down when the asset price bubble burst in the 90s.
