@@ -37,7 +37,7 @@ extinguishing my chances for a picturesque hike. I decided to explore the town i
 </div>
 </figure>
 
-Chuzenji strings out in a loose "V" around the lake, angled from one
+Chuzenji strings out in a loose "V", angled from one
 pretty waterfall to another to the eponymous temple, and clutters the
 lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
@@ -123,3 +123,5 @@ and came crashing down when the asset price bubble burst in the 90s.
 
 More than the mere passage of time, the crumbling facades chart the
 rise and fall of the Nikkei.
+
+Chuzenji strings out in a loose "V" around the lake
