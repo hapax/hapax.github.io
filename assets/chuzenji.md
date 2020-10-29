@@ -86,8 +86,9 @@ of matter from our conceits of order.
 But while the parts may not know about ruin, the assemblage does.
 When an organism is sufficiently ruined, it dies; when enough shops
 close, and people move away, so does a town.
-When we are ordered composites, or ordered parts thereof, we cannot
-afford to let thermodynamics run riot.
+As an ordered composite, part of greater ordered composites, we
+operate in tiny slivers of phase space, and cannot afford to let
+thermodynamics run riot.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
