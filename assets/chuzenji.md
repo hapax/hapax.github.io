@@ -88,9 +88,9 @@ This democratic view of arrangement suits the parts, who are ignorant
 of ruin and know only combinatorics, but the assemblage does not have this luxury.
 When an organism is sufficiently ruined, it dies; when enough shops
 close, and people move away, so does a town.
-As an ordered composite, part of greater ordered composites, we
-operate in tiny slivers of phase space, and cannot afford to let
-thermodynamics run riot.
+As an ordered composite, arranged in ever greater hierarchies of order, we
+operate in tiny slivers of phase space.
+If we thermodynamics runs riot, we cease to exist.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
