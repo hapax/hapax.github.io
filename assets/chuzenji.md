@@ -58,7 +58,7 @@ Eggs.
 Otousan falls in the water and the family laughs guilelessly.
 Clumsy Otousan!
 It is a mirage, like a Coke ad or an asset price bubble, burst
-abruptly by 
+by a grotesquely acephalous swan boat beached on the sedge.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
