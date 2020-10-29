@@ -43,8 +43,8 @@ in various states of closure and disrepair.
 It is like flotsam, washed up on the shore by the 80s boom and left to
 rot in the "lost decade" of the 90s, with its sharp decline in
 liquidity and domestic tourism.
-The rise and fall of the Nikkei is charted by these crumbling facades,
-and not just the passage of time.
+The rise and fall of the Nikkei is charted on these crumbling facades,
+and not just the ravages of time.
 
 I imagine hordes of daytrippers pouring in from the suburbs of
 Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
