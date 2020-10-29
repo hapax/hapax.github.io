@@ -40,11 +40,14 @@ pretty waterfall to another to the eponymous temple, cluttering the lakeside in
 between with jetties, hotels, souvenir stores,
 embassies, mom-and-pop kitchens, and oversized emporia,
 in various states of closure and disrepair.
-It is like flotsam, washed up on the shore by the 80s boom and left to
-rot in the "lost decade" of the 90s, with its sharp decline in
-liquidity and domestic tourism.
-The rise and fall of the Nikkei is charted on these crumbling facades,
-and not just the ravages of time.
+Off-season it may be, but for the lugubrious pensions and noodle
+shops, it is off-season forever.
+With its qualities of supernumerary variety and fantastic decay,
+Chuzenji looks like flotsam, washed up on the shore by the 80s boom
+and left to rot in the "lost decade" of the 90s, with its sharp
+decline in liquidity and domestic tourism.
+These crumbling facades chart the rise and fall of the Nikkei along
+with the ravages of time.
 
 I imagine hordes of daytrippers pouring in from the suburbs of
 Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
