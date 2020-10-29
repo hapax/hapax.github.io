@@ -51,10 +51,11 @@ with the ravages of time.
 
 By the cruise terminal, I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair,
-restless after the bus ride, now flitting about to unironically chow
-down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure
-crafts for a whirl on the lake, laughing guilelessly at each other
-like the suspiciously happy families of a Coke ad.
+restless after the bus ride, and now flitting about the streets to
+watch the glassblower at work, take the cygnine pleasure crafts for a
+whirl, and unironically chow down on Nikko World Heritage Cheese
+Eggs.
+Otousan falls in the water and the family laughs guilelessly.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
@@ -144,3 +145,5 @@ embassies, mom-and-pop kitchens, and oversized emporia,
 
 But the dream fades, and I am left with the dead boats, headless and
 run aground, looming at me out of the gloaming air.
+
+ike the suspiciously happy families of a Coke ad.
