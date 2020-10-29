@@ -26,7 +26,7 @@ Nikko"), and even in this ambiguity, it seems more defined by its proximity to o
 any properties of its own.
 It is in between, or around, but never "here". The day my bus
 rolled into town, it was swaddled in a blanket of fog and almost invisible;
-all around but nowhere to be seen.
+in all directions but nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
 But the mass of cloud had settled onto the wetland as well as the lake,
@@ -37,13 +37,14 @@ dampening my plans for a picturesque hike. I decided to explore the town instead
 </div>
 </figure>
 
-Chuzenji strings out in a loose "V", angled from one
-pretty waterfall to another to the eponymous temple, cluttering the
-lakeside with jetties, tumbledown hotels, souvenir stores, high-walled
+Chuzenji strings out in a loose "V" from from one
+pretty waterfall to another to the eponymous temple, cluttering the lakeside in
+between with jetties, tumbledown hotels, souvenir stores, high-walled
 embassies, mom-and-pop kitchens, and oversized emporia,
-all in various states of closure and disrepair.
-The town is washed up on the shore like fantastic flotsam, a
-residue of the boom of the 80s and the collapse of the 90s.
+in various states of closure and disrepair.
+It is like flotsam, washed up on the shore by the 80s boom and left to
+rot in the "lost decade" of the 90s, with its sharp decline in
+liquidity and domestic tourism.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers pouring in from the suburbs of Tokyo,
@@ -132,3 +133,6 @@ rise and fall of the Nikkei.
 Chuzenji strings out in a loose "V" around the lake
 
 But the mass of cloud had settled onto the adjoining plateaus,
+
+It is a town washed up on the shore like flotsam, a
+residue of the boom of the 80s and the collapse of the 90s.
