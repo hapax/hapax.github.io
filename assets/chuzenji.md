@@ -77,14 +77,15 @@ are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
 preferred, since there are many more ways to do that than look good.
 Harmony is a vanishing sliver of phase space, and ruin is the freedom
-of matter from the conceit of order.
+of matter from our conceits of order.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
 
-But while the parts may not know about ruin, the assemblage does.
+This democratic view of arrangement suits the parts, who are ignorant
+of ruin and know only combinatorics, but the assemblage does not have this luxury.
 When an organism is sufficiently ruined, it dies; when enough shops
 close, and people move away, so does a town.
 As an ordered composite, part of greater ordered composites, we
