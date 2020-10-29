@@ -49,7 +49,7 @@ decline in liquidity and domestic tourism.
 These crumbling facades chart the rise and fall of the Nikkei along
 with the ravages of time.
 
-I pause and imagine the daytrippers pouring in
+By the cruise terminal, I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair,
 restless after the bus ride and now flitting about the streets to
 watch the glassblower at work, take the cygnine pleasure crafts for a
