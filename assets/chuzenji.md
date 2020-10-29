@@ -11,6 +11,16 @@ layout: post
 </div>
 </figure>
 
+About an hour's bus ride from Nikko station, over Daiya river
+and the candy apple arc of Shinkyo bridge, through Nikko's dusty
+outskirts, Kiyotaki, then tunnels and misty switchbacks up and
+around the convulsed base of the Akechidaira plateau, you come to a
+small town wedged between a sacred lake and a sacred mountain.
+Chuzenjiko (中禅寺湖) translates to "lake of
+the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
+In a perversely literal obedience, for over a thousand
+years, both lake and mountain were closed to women, horses and cows.
+
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, it seems more defined by its proximity to other things than
 any properties of its own.
@@ -21,16 +31,6 @@ Chuzenji was initially no more than a pitstop on my way to the Senjogahara marsh
 level, covered in hare's-tail cottongrass and rambling boardwalks.
 But the mass of cloud had settled onto the wetland as well as the lake,
 dampening my plans for a picturesque hike. I decided to explore the town instead.
-
-About an hour's bus ride from Nikko station, over Daiya river
-and the candy apple arc of Shinkyo bridge, through Nikko's dusty
-outskirts, Kiyotaki, then tunnels and misty switchbacks up and
-around the convulsed base of the Akechidaira plateau, you come to a
-small town wedged between a sacred lake and a sacred mountain.
-Chuzenjiko (中禅寺湖) translates to "lake of
-the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
-In a perversely literal obedience, for over a thousand
-years, both lake and mountain were closed to women, horses and cows.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
