@@ -72,7 +72,7 @@ Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
 That would make ruin an aesthetic phenomenon, akin to beauty.
 But disharmony is different from beauty, since it is easier
-to achieve; to paraphrase the opening lines of Anna Karenina, there
+to achieve; to paraphrase the opening lines of *Anna Karenina*, there
 are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
 preferred, since there are many more ways to do that than look good.
