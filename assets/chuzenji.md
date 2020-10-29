@@ -102,7 +102,7 @@ ordered being.
 </div>
 </figure>
 
-Curiously, Thomas Aquinas saw in this perishability a proof of the
+Thomas Aquinas saw in this perishability a proof of the
 existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of perishable beings,
 who exist for a time, but by processes of death, corruption and
@@ -110,8 +110,8 @@ change, exist no longer.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
-To my mind, the Third Way does not establish a Judeo-Christian Father,
-wrathful or provident, bur rather God as a metaphysical principle of ruin.
+To my mind, the Third Way is no route to the Judeo-Christian Father,
+wrathful or provident, but rather God as a metaphysical principle of ruin.
 
 I wonder: does the god of ruin smile on this place?
 
