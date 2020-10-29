@@ -11,8 +11,8 @@ layout: post
 
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
-outskirts, Kiyotaki, then tunnels and switchbacks around the convulsed base of the Akechidaira plateau, you come to a
-small town wedged between a sacred lake and a sacred mountain.
+outskirts, Kiyotaki, then tunnels and switchbacks which surmount the Akechidaira plateau, you come to a small town wedged
+between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
 In a perversely literal obedience to the latter, for over a thousand
