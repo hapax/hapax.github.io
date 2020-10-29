@@ -73,8 +73,15 @@ I continue wandering, taking in the spectacle of ruin. I ask myself: what is rui
 </div>
 </figure>
 
-Is it mere grotesquerie, like the headless swan, things disharmonious
+Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
+That would make ruin an aesthetic phenomenon in the same way as
+beauty.
+But there is something different about disharmony, since it is easier
+to achieve; as Leo Tolstoy says of unhappy families, there are many
+ways to fall to ruin.
+In the language of statistical mechanics, disharmony is entropically
+preferred; there are more
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
