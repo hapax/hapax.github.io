@@ -52,13 +52,13 @@ with the ravages of time.
 By the cruise terminal, I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair,
 restless after the bus ride and now flitting about the streets to
-watch the glassblower at work, take the cygnine pleasure crafts for a
-whirl, or unironically chow down on Nikko World Heritage Cheese
-Eggs.
-Otousan falls in the water and the family laughs guilelessly.
+watch the glassblower at work, or unironically chow down on Nikko
+World Heritage Cheese Eggs.
+They take the cygnine pleasure crafts for a whirl on the lake, and
+Otousan falls in the water; guileless laughter.
 Clumsy Otousan!
-It is a mirage, like a Coke ad or an asset price bubble, burst
-by a grotesquely acephalous swan boat beached on the sedge.
+Of course, it is a mirage, like a Coke ad or an asset price bubble,
+burst by the apparation of a headless boat, 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
