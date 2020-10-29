@@ -51,6 +51,7 @@ with the ravages of time.
 
 By the cruise terminal, I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair.
+I zoom in on one family, a mother, father, two sisters and a younger brother.
 They are restless after the bus ride and now flit wordlessly about the
 streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
