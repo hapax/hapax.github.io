@@ -76,7 +76,7 @@ to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
 preferred.
-Harmony is a vanishing sliver of phase space, so ruin is the freedom
+Harmony is a vanishing sliver of phase space; ruin is the freedom
 of matter from our conceits of order.
 
 <figure>
@@ -84,8 +84,9 @@ of matter from our conceits of order.
 </div>
 </figure>
 
-But this is not only a thermodynamic occurrence; it is a human one.
-It is a place where people live, work, and die, where a Tokyo family 
+But while the parts may not know about ruin, the assemblage does.
+When an organism is sufficiently ruined, it dies; when enough shops
+close, and people move away, so does a town.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
