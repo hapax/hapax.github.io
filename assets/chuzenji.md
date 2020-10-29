@@ -97,6 +97,12 @@ ordered being.
 </div>
 </figure>
 
+Curiously, Thomas Aquinas saw in this perishability a proof of God's
+existence.
+In his *Tertia Via*, he argues that contingent beings exist; they are,
+but need not be.
+The 
+
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
 #### Extra
