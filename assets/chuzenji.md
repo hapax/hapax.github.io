@@ -30,7 +30,7 @@ all around but nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
 But the mass of cloud had settled onto the adjoining plateaus,
-extinguishing my chances for a picturesque hike. I decided to explore the town instead.
+extinguishing my plans for a picturesque hike. I decided to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
