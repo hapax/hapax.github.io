@@ -45,11 +45,11 @@ rot in the "lost decade" of the 90s, with its sharp decline in
 liquidity and domestic tourism.
 The rise and fall of the Nikkei is charted by these crumbling facades,
 and not just the passage of time.
+
 I imagine hordes of daytrippers pouring in from the suburbs of
 Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
 chow down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure crafts
 for a whirl on the lake.
-
 But the dream fades, and I am left with the dead boats, headless and
 run aground, looming at me out of the gloaming air.
 
