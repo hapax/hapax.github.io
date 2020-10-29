@@ -77,7 +77,7 @@ are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
 preferred, since there are many more ways to do that than look good.
 Harmony is a vanishing sliver of phase space, and ruin is the freedom
-of matter from our conceits of order.
+of matter from the conceits of order.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
