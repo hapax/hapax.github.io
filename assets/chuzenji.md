@@ -4,11 +4,6 @@ date:  2020-07-06
 layout: post
 ---
 
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake0.png" />
-</div>
-</figure>
-
 About an hour's bus ride from Nikko station, over Daiya river
 and the candy apple arc of Shinkyo bridge, through Nikko's dusty
 outskirts, Kiyotaki, then the tunnels and switchbacks which surmount
@@ -18,6 +13,11 @@ Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
 In a perversely literal obedience to the latter, for over a thousand
 years, both lake and mountain were closed to horses, cows, and women.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake0.png" />
+</div>
+</figure>
 
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its proximity to other things than
