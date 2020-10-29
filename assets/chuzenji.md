@@ -29,8 +29,8 @@ rolled into town, it was swaddled in a blanket of fog and almost invisible;
 all around but nowhere to be seen.
 Chuzenji was initially no more than a pitstop on my way to the Senjogahara marshland, a wet and sprawling plain 1400 meters above sea
 level, covered in hare's-tail cottongrass and rambling boardwalks.
-But the mass of cloud had settled onto the adjoining plateaus,
-extinguishing my plans for a picturesque hike. I decided to explore the town instead.
+But the mass of cloud had settled onto the wetland as well as the lake,
+dampening my plans for a picturesque hike. I decided to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
@@ -130,3 +130,5 @@ More than the mere passage of time, the crumbling facades chart the
 rise and fall of the Nikkei.
 
 Chuzenji strings out in a loose "V" around the lake
+
+But the mass of cloud had settled onto the adjoining plateaus,
