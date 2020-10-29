@@ -83,7 +83,7 @@ Ruin is the freedom of matter from our conceits of order.
 </div>
 </figure>
 
-This democratic view of decay suits the parts, who are ignorant
+This democratic view suits the parts, who are ignorant
 of ruin and know only combinatorics, but the assemblage does not have this luxury.
 When an organism is sufficiently ruined, it dies; when enough shops
 close, and people move away, so does a town.
