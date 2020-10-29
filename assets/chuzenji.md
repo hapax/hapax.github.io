@@ -36,7 +36,7 @@ dampening my plans for a picturesque hike. I decide to explore the town instead.
 </figure>
 
 Chuzenji is strung along a loose "V" from one
-pretty waterfall to another to the eponymous temple, cluttering the
+waterfall to another to the eponymous temple, cluttering the
 intervening lakeside with jetties, hotels, souvenir stores,
 embassies, and mom-and-pop kitchens, in various states of closure and disrepair.
 Off-season it may be, but for the lugubrious pensions and noodle
