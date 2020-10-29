@@ -72,6 +72,9 @@ Is there anything here besides a zen temple and the spectacle of ruin?
 </div>
 </figure>
 
+After a couple of hours of wandering, I begin to find the extravagance
+of the absence and decay suspicious.
+
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
 #### Extra
