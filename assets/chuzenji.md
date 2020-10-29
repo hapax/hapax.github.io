@@ -56,7 +56,7 @@ But the dream fades, and I am left with the dead boats, headless and
 run aground, looming at me out of the gloaming air.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake2.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
 </div>
 </figure>
 
