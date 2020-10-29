@@ -45,8 +45,8 @@ all in various states of closure and disrepair.
 The town is washed up on the shore like fantastically decay flotsam, a
 residue of the boom of the 80s, with its liquidity for domestic
 travel, and the collapse of the 90s.
-More than the mere passage of time, its crumbling facades chart the
-rise and fall of the Nikkei.
+It is not the mere passage of time, but the rise and fall of the
+Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers in sweatpants and big hair, pouring
 in from the suburbs of Tokyo and flitting about the ramen 
 
@@ -118,3 +118,6 @@ residue of the 80s boom
 It is a tourist town washed up on the shore,
 fantastic flotsam from the 80s boom which freed up liquidity for domestic travel,
 and came crashing down when the asset price bubble burst in the 90s.
+
+More than the mere passage of time, the crumbling facades chart the
+rise and fall of the Nikkei.
