@@ -1,5 +1,5 @@
 ---
-title:  "The great darkness"
+title:  "The god of great darkness"
 date:  2020-07-06
 layout: post
 ---
