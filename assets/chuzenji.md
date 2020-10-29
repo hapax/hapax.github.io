@@ -65,7 +65,7 @@ an original Chuzenji grotesque.
 </div>
 </figure>
 
-Is there anything here beyond knickknacks and the spectacle of ruin?
+Is there anything here besides a zen temple and the spectacle of ruin?
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
