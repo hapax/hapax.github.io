@@ -1,5 +1,5 @@
 ---
-title:  "The secrets of Chuzenji"
+title:  "The secrets of Inner Nikko"
 date:  2020-07-06
 layout: post
 ---
