@@ -69,14 +69,14 @@ swan.
 I continue wandering, taking in the spectacle of ruin.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
 
-What is ruin?
+But what is ruin?
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
 </div>
 </figure>
 
