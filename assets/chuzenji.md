@@ -67,7 +67,7 @@ perfect specimen of the Chuzenji grotesque.
 </figure>
 
 I continue taking in the spectacle of ruin.
-But I begin to wonder: what *is* ruin?
+But I wonder: what *is* ruin?
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
 That would make ruin an aesthetic phenomenon, akin to beauty.
