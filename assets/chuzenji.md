@@ -73,7 +73,7 @@ I continue wandering, taking in the spectacle of ruin. I ask myself: what is rui
 </div>
 </figure>
 
-Is it mere grotesqueness, like the headless swan, things disharmonious
+Is it mere grotesquerie, like the headless swan, things disharmonious
 in the arrangement of their parts?
 
 <figure>
