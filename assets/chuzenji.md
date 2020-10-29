@@ -101,9 +101,10 @@ ordered being.
 
 Curiously, Thomas Aquinas saw in this perishability a proof of God's
 existence.
-In his *Tertia Via*, he argues that there are perishable beings, who
-exist but need not.
-If *only* the perishable exists, then in time, nothing must exist.
+In his *Tertia Via*, he argues the world is full of perishable beings,
+who exist for a time, but by processes of death, corruption and
+change, then cease to exist.
+Since they themselves
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
@@ -197,3 +198,6 @@ a Chuzenji grotesque.
 
 Either way, there are many ways to be, and only a few happen to please
 the human eye.
+
+In his *Tertia Via*, he argues that there are perishable beings, who
+exist but need not.
