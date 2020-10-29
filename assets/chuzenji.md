@@ -47,7 +47,7 @@ and left to rot in the "lost decade" of the 90s, with its sharp
 decline in liquidity and domestic tourism.
 These crumbling facades chart not only the ravages of time, but the rise and fall of the Nikkei.
 
-By the cruise terminal, I pause and imagine the daytrippers pouring in
+By the cruise terminal, I pause and imagine the 80s daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair.
 I zoom in on one family, a mother, father, two sisters and a younger brother.
 They are restless after the bus ride and now flit wordlessly about the
