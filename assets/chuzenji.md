@@ -1,10 +1,8 @@
 ---
-title:  "The argument from perishable beings"
+title:  "The secrets of Chuzenji"
 date:  2020-07-06
 layout: post
 ---
-
-#### Chuzenji<a id="sec-1" name="sec-1"></a>
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake0.png" />
