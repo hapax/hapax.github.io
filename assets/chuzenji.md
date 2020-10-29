@@ -42,7 +42,7 @@ embassies, and mom-and-pop kitchens, in various states of closure and disrepair.
 Off-season it may be, but for the lugubrious pensions and noodle
 shops, it is off-season forever.
 With its qualities of supernumerary variety and fantastic decay,
-Chuzenji looks like flotsam, washed up on the shore by the 80s boom
+Chuzenji is like flotsam, washed up on the shore by the 80s boom
 and left to rot in the "lost decade" of the 90s, with its sharp
 decline in liquidity and domestic tourism.
 These crumbling facades chart not only the ravages of time, but the rise and fall of the Nikkei.
