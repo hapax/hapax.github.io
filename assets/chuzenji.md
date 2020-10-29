@@ -37,7 +37,7 @@ dampening my plans for a picturesque hike. I decided to explore the town instead
 </div>
 </figure>
 
-Chuzenji strings out in a loose "V" from one
+Chuzenji is strung along a loose "V" from one
 pretty waterfall to another to the eponymous temple, cluttering the lakeside in
 between with jetties, hotels, souvenir stores,
 embassies, mom-and-pop kitchens, and oversized emporia,
@@ -57,7 +57,7 @@ for a whirl on the lake.
 </div>
 </figure>
 
-But instead,
+The daytrippers fade, leaving me with the headless swans
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
