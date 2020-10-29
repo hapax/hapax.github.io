@@ -75,8 +75,8 @@ But disharmony is different from beauty, since it is easier
 to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
-preferred.
-Harmony is a vanishing sliver of phase space, so ruin is the freedom
+preferred, since there are many more ways to do that than look good.
+Harmony is a vanishing sliver of phase space, and ruin is the freedom
 of matter from our conceits of order.
 
 <figure>
