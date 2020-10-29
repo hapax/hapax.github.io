@@ -56,7 +56,7 @@ They are restless after the bus ride and now flit wordlessly about the
 streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
 After some mild negotiation (Okaasan wants to visit the temple), they
-take a cygnine pleasure craft for a whirl on the lake, and Otousan
+take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
