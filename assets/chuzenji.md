@@ -65,7 +65,7 @@ bubble, shattered by a Chuzenji grotesque: a beached and headless swan.
 </div>
 </figure>
 
-Is there anything here besides a zen temple and the spectacle of ruin?
+As I 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
