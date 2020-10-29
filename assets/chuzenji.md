@@ -74,9 +74,9 @@ That would make ruin an aesthetic phenomenon akin to beauty.
 But disharmony is different from beauty, since it is easier
 to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
-In the language of physics, decay is entropically preferred.
-There are many ways to be, and only a few happen to please the human eye.
-Harmony is a vanishing sliver of phase space, and ruin is the freedom
+To paraphrase the second law of thermodynamics, decay is entropically
+preferred.
+Harmony is a vanishing sliver of phase space, so ruin is the freedom
 of matter from our conceits of order.
 
 <figure>
@@ -181,3 +181,6 @@ embassies, mom-and-pop kitchens, and oversized emporia,
 
 shattered by the reality of a beached and headless swan;
 a Chuzenji grotesque.
+
+Either way, there are many ways to be, and only a few happen to please
+the human eye.
