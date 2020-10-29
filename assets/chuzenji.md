@@ -61,7 +61,7 @@ falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
 bubble, shattered in this case by the appearance of a grotesquely beached and
-headless swan boat.
+headless swan.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
