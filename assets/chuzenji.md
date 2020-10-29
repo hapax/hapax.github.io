@@ -75,7 +75,7 @@ to achieve; to paraphrase the opening lines of Anna Karenina, there
 are many ways to decay.
 To paraphrase the second law of thermodynamics, decay is entropically
 preferred.
-Harmony is a vanishing sliver of phase space; ruin is the freedom
+Harmony is a vanishing sliver of phase space, so ruin is the freedom
 of matter from our conceits of order.
 
 <figure>
