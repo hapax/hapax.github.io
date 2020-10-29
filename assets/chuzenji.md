@@ -90,7 +90,7 @@ Beauty is a vanishing sliver of phase space.
 </div>
 </figure>
 
-
+Perhaps ruin teaches us something about the entropic
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
