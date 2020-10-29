@@ -52,12 +52,13 @@ Tokyo, all chinos and sweatpants and big hair, flitting about to unironically
 chow down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure crafts
 for a whirl on the lake.
 
+But the dream fades, and I am left with the dead boats, headless and
+run aground, looming at me out of the gloaming air.
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2.png" />
 </div>
 </figure>
-
-The daytrippers fade, leaving me with the headless swans
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
