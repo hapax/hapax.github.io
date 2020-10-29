@@ -60,7 +60,7 @@ take a cygnine pleasure craft for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered in this case by the appearance of a grotesquely beached and
+bubble, shattered by the appearance of a grotesquely beached and
 headless swan.
 
 <figure>
