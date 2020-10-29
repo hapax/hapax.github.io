@@ -47,16 +47,21 @@ residue of the boom of the 80s and the collapse of the 90s.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers pouring in from the suburbs of Tokyo,
-all chinos and sweatpants and big hair, and flitting about to sample
+all chinos and sweatpants and big hair, flitting about to sample
 the Nikko World Heritage Cheese Egg, or take cygnine pleasure crafts
 for a whirl on the lake.
-The ghosts of better times fade, leaving headless swans in midday gloom.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2.png" />
 </div>
 </figure>
 
+But instead,
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+</div>
+</figure>
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
