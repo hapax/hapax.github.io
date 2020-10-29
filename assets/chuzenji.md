@@ -46,7 +46,7 @@ The town is washed up on the shore like fantastic flotsam, a
 residue of the boom of the 80s and the collapse of the 90s.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
-I imagine hordes of daytrippers in sweatpants and big hair, pouring
+I imagine hordes of daytrippers in chinos and sweatpants and big hair, pouring
 in from the suburbs of Tokyo and flitting about the cruise terminal,
 Adonis coffee shop, or taking the cygnine pleasure craft out for a
 whirl on the lake.
