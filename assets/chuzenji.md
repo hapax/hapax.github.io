@@ -110,6 +110,8 @@ existence, and take whatever causative powers they carried with them.
 Thus, Aquinas arrives at the strange notion of God as a metaphysical
 principle of ruin.
 
+So I wonder: does the god of ruin smile on this place?
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
 </div>
