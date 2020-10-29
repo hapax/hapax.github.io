@@ -73,8 +73,8 @@ I continue wandering, taking in the spectacle of ruin. I ask myself: what is rui
 </div>
 </figure>
 
-Is it mere grotesqueness, like the headless swan, things out of proper
-order, or disharmonious in the arrangement of their parts?
+Is it mere grotesqueness, like the headless swan, things disharmonious
+in the arrangement of their parts?
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
