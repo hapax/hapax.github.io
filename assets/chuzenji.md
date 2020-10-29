@@ -58,7 +58,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by a Chuzenji grotesque: a beached and headless
+bubble, shattered by the Chuzenji grotesque: a beached and headless
 swan.
 
 <figure>
@@ -72,6 +72,8 @@ I continue wandering, taking in the spectacle of ruin. I ask myself: what is rui
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
+
+Is it simply 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
