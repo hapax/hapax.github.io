@@ -84,7 +84,7 @@ In the language of statistical mechanics, disharmony is entropically
 preferred; there are many ways of arrange parts, and only a few happen
 to please the human eye.
 Harmony is a vanishing sliver of phase space.
-Ruin is the freedom of matter from human order.
+Ruin is the freedom of matter from human conceit.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
