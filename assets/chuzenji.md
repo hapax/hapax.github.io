@@ -44,8 +44,7 @@ With its qualities of supernumerary variety and fantastic decay,
 Chuzenji looks like flotsam, washed up on the shore by the 80s boom
 and left to rot in the "lost decade" of the 90s, with its sharp
 decline in liquidity and domestic tourism.
-These crumbling facades chart the rise and fall of the Nikkei along
-with the ravages of time.
+These crumbling facades chart not only the ravages of time, but the rise and fall of the Nikkei.
 
 By the cruise terminal, I pause and imagine the daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair.
