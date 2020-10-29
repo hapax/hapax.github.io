@@ -39,7 +39,7 @@ dampening my plans for a picturesque hike. I decided to explore the town instead
 
 Chuzenji strings out in a loose "V" from from one
 pretty waterfall to another to the eponymous temple, cluttering the lakeside in
-between with jetties, hotels, souvenir stores, high-walled
+between with jetties, hotels, souvenir stores,
 embassies, mom-and-pop kitchens, and oversized emporia,
 in various states of closure and disrepair.
 It is like flotsam, washed up on the shore by the 80s boom and left to
@@ -136,3 +136,6 @@ But the mass of cloud had settled onto the adjoining plateaus,
 
 It is a town washed up on the shore like flotsam, a
 residue of the boom of the 80s and the collapse of the 90s.
+
+between with jetties, hotels, souvenir stores, high-walled
+embassies, mom-and-pop kitchens, and oversized emporia,
