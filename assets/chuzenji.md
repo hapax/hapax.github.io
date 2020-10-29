@@ -69,7 +69,7 @@ a Chuzenji grotesque.
 Is there anything here besides a zen temple and the spectacle of ruin?
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
 </div>
 </figure>
 
