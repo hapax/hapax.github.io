@@ -47,8 +47,8 @@ residue of the boom of the 80s and the collapse of the 90s.
 It is not the mere passage of time, but the rise and fall of the
 Nikkei charted by these crumbling facades.
 I imagine hordes of daytrippers pouring in from the suburbs of Tokyo,
-all chinos and sweatpants and big hair, flitting about to sample
-the Nikko World Heritage Cheese Egg, or take cygnine pleasure crafts
+all chinos and sweatpants and big hair, flitting about to unironically
+chow down on Nikko World Heritage Cheese Eggs, or take the cygnine pleasure crafts
 for a whirl on the lake.
 
 <figure>
