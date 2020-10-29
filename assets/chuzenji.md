@@ -1,5 +1,5 @@
 ---
-title:  "A trip to Inner Nikko"
+title:  "The great darkness"
 date:  2020-07-06
 layout: post
 ---
@@ -58,7 +58,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the Chuzenji grotesque: a beached and headless
+bubble, shattered, in this instance, by the Chuzenji grotesque: a beached and headless
 swan.
 
 <figure>
