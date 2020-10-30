@@ -119,6 +119,9 @@ principle of ruin.
 </div>
 </figure>
 
+Does the god of ruin smile on this place?
+Is, perhaps,
+
 No insights into the nature of contingency and order, however
 profound, will conjure up a place to sleep. I remember that the cruise
 terminal has a small konbini, so I walk back and dawdle in
