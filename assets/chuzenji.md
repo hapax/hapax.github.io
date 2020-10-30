@@ -36,7 +36,7 @@ extinguishing my plans for a hike. I decide to explore the town instead.
 </div>
 </figure>
 
-Chuzenji is strung along a loose "V" between two waterfalls and the
+Chuzenji is strung out in a loose "V" between two waterfalls and the
 eponymous buddhist temple, and clutters the
 intervening lakeside with jetties, hotels, souvenir stores,
 embassies, and mom-and-pop kitchens, in various states of closure and disrepair.
