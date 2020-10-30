@@ -121,9 +121,10 @@ principle of ruin.
 
 Does the god of ruin smile on this place?
 The only way to find out 
-
 No insights, however
-profound, will conjure up a place to sleep. I remember that the cruise
+profound, will conjure up a place to sleep.
+
+I remember that the cruise
 terminal has a small konbini, so I walk back and dawdle in
 the snack aisle, wracked by indecision over novelty
 chip flavours, while I scope out local hotels on the wifi.
