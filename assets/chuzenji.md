@@ -130,8 +130,7 @@ terminal has a small *konbini*, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
 local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
-the Swallows are playing the Baystars---and watches my performance
-with quiet indulgence.
+the Swallows are playing the Baystars---and watches me with quiet indulgence.
 He has nowhere to be; he yawns and switches stations; I can play at
 browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
