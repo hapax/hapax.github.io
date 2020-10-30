@@ -54,7 +54,7 @@ I zoom in on one family, a mother, father, two sisters and a younger brother.
 They are restless after the bus ride and now flit wordlessly about the
 streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
-After some mild negotiation (Okaasan wants to visit the temple), they
+After some negotiation (Okaasan wants to visit the temple), they
 take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
@@ -130,7 +130,7 @@ Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
 Here, in one of His dwelling places, I may have the chance
 to find out.
-But I am not a god of ruin; I cannot sleep in the 
+The mist plays over 
 
 I remember passing a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
