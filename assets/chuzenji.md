@@ -108,14 +108,14 @@ wrathful or provident, but rather God as a metaphysical principle of ruin.
 </div>
 </figure>
 
-Does the god of ruin smile on this place?
+Does the god of ruin smile on this place? A querent would know.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
 </div>
 </figure>
 
-Having framed this 
+Having framed this disquisition, 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
