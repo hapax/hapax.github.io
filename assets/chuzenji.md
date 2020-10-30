@@ -99,10 +99,10 @@ ordered being.
 The great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
-perishable beings, or more generally perishable order, things like
-boats and people and economic growth.
-They come into being for a time, but by the operation of death, corruption and
-change, go out of it again.
+perishable order, things like
+boats and people and economic growth which come into being for a time,
+but by the operation of death, corruption and change, go out of it
+again, the ontological revolving door.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
@@ -120,7 +120,7 @@ rather, it establishes God as a metaphysical principle of ruin.
 </div>
 </figure>
 
-Is there a theodicy of ruin? Some 
+Is there a theodicy of ruin? Some
 
 I remember that the cruise
 terminal has a small *konbini*, so I walk back and dawdle in
@@ -263,3 +263,7 @@ Does the god of ruin smile on this place?
 The only way to find out 
 No insights, however
 profound, will conjure up a place to sleep.
+
+In his *Tertia Via* (Third Way), he argues that the world is full of
+perishable beings, or more generally perishable order, things like
+boats and people and economic growth.
