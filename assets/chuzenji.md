@@ -119,10 +119,10 @@ principle of ruin.
 </div>
 </figure>
 
-Having framed this disquisition, 
+I wander up 
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake9.png" />
 </div>
 </figure>
 
