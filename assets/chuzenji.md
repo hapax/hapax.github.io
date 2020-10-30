@@ -154,16 +154,16 @@ Little Forest Inn is near the westward fall, cushioned in between an
 enormous shed and an empty weedlot.
 I leave the convenience store, armed with an array of flavoured
 pretzels, and cut up concrete stairs to the backstreet.
-The weedlot is a little forest, poetically appose to the guesthouse,
-and I clamber over a fence and down a stonewall to take in its
-petrichor and glistening tussock before I check in.
+The weedlot really is a little forest, in poetic apposition to the
+guesthouse, and I clamber over a fence and down a stonewall to take in
+its petrichor and glistening tussock before.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
 </div>
 </figure>
 
-The Little Forest Inn presents me with various unmarked doors, all locked.
+The Little Forest Inn presents a puzzle of locked and unmarked doors.
 I pick a door at random and knock quietly; nothing. I knock harder. A
 woman in her late 30s shuffles to the door
 
