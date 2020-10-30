@@ -173,11 +173,11 @@ is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and deposit my backpack.
-Just as I am about to leave, a toddler appears by himself on the
-counter, and smiling hugely, hands me a random set of keys.
-The woman emerges from some other part of the house to
-retrieve him, and apologises profusely, but does not, I notice,
-entirely suppress a smile of her own.
+As I am leaving, a toddler appears all by himself on the
+counter, smiling hugely, and hands me a set of random keys.
+The woman dashes out from some other darkened corridor to retrieve him
+and the keys, apologising profusely.
+She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
