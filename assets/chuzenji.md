@@ -105,8 +105,8 @@ They exist for a time, but by the operation of death, corruption and change, exi
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
-Could be a mortal be responsibility for Mortality, something
-contingent for Contingency?
+Could be a mortal be responsibility for Mortality, or something
+contingent for Contingency itself?
 Certainly not, he concludes.
 Some imperishable force must drive the whole thing.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
