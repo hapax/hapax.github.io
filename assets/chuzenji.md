@@ -59,7 +59,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the reality of a headless swan;
+bubble, shattered by the reality of a headless swan,
 a perfect specimen of the Chuzenji grotesque.
 
 <figure>
