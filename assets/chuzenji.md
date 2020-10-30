@@ -135,7 +135,7 @@ I am cold. I will need a place to sleep.
 
 I passed a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
-local hotels on the wifi.
+local hotels on the free wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches me with quiet indulgence.
 He has nowhere to be; he yawns and switches stations; I can play at
