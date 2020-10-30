@@ -178,7 +178,7 @@ counter, and smiling hugely, hands me a random set of keys.
 The woman emerges from some other part of the house to
 retrieve him, apologises profusely, but does not, I notice, suppress a
 smile of her own.
-Disorder in not only the condition for death, but also for life.
+Disorder is the condition for life as well as death.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
