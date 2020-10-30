@@ -126,7 +126,7 @@ profound, will conjure up a place to sleep.
 
 I remember that the cruise
 terminal has a small *konbini*, so I walk back and dawdle in
-the snack aisle, wracked by apparent indecision, while I scope out
+the snack aisle, wracked by apparent indecision, while scoping out
 local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches my performance
