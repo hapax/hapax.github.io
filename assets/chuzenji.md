@@ -99,9 +99,9 @@ ordered being.
 
 The great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
-In his *Tertia Via* (Third Way), he argues that the world is full of
-perishable order, things like
-boats and people and economic growth which come into being for a time,
+In his *Tertia Via* (the Third Way of Five), he argues that the world is full of
+perishable order---things like
+boats and people and economic growth---which come into being for a time,
 but by the operation of death, corruption and change, go out of it
 again, the ontological revolving door.
 Something imperishable must underwrite this process; it certainly
