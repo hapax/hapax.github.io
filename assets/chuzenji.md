@@ -156,7 +156,7 @@ I leave the convenience store, armed with an array of flavoured
 pretzels, and cut up concrete stairs to the backstreet.
 The weedlot really is a little forest, in poetic apposition to the
 guesthouse, and I clamber over a fence and down a stonewall to take in
-its petrichor and glistening tussock before.
+its petrichor and glistening tussock before checking in.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
