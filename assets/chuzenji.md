@@ -1,5 +1,5 @@
 ---
-title:  "A theodicy fore perishable beings"
+title:  "The Okuikko theodicy"
 date:  2020-07-06
 layout: post
 ---
