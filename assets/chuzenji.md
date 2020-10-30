@@ -165,9 +165,9 @@ its petrichor and glistening tussock before checking in.
 
 At street level, the Little Forest presents an enigma of locked
 and unmarked doors.
-I pick a door at random and knock quietly; nothing. I knock harder.
-A blob appears behind the frosted glass, resolving as the door opens
-into a woman in her late 30s, thin and somewhat frayed.
+I pick one at random and knock quietly; nothing. I knock harder.
+After a few minutes, a blob appears behind the frosted glass,
+resolving as the door opens into a thin and somewhat frayed woman in her late 30s.
 She conducts me inside apologetically, and between her broken English
 and my broken Japanese, 
 
