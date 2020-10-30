@@ -111,9 +111,9 @@ contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
 ticking over.
-To my mind, the Third Way is no route to a Judeo-Christian Father,
-wrathful or provident; rather, it enshrines God as a metaphysical
-principle of ruin. 
+But the Third Way is no route to a Judeo-Christian Father,
+wrathful or provident as the various Testaments would have us believe;
+rather, it establishes God as a metaphysical principle of ruin.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
@@ -127,7 +127,7 @@ profound, will conjure up a place to sleep.
 
 I remember that the cruise
 terminal has a small *konbini*, so I walk back and dawdle in
-the snack aisle, wracked by apparent indecision, while scoping out
+the snack aisle, wracked by performative indecision, while scoping out
 local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches my performance
@@ -136,7 +136,7 @@ He has nowhere to be; he yawns and switches stations; I can play at
 browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
 listening to baseball scores, while a gaijin picks up one brand of
-pretzel after another, all with the imperturbable slowness of a
+pretzel after another after another, all with the imperturbable slowness of a
 dream.
 A convenience store is a good place to visit eternity.
 
@@ -260,3 +260,5 @@ A convenience store is perhaps the best place to know what forever
 feels like.
 It feels like a balding clerk listening to the baseball scores while a
 gaijin pretends to look at snacks.
+
+rather, it enshrines God as a metaphysical principle of ruin.
