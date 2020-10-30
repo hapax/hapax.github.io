@@ -75,8 +75,8 @@ That would make it an aesthetic phenomenon like beauty, and in a
 way, ruin *is* beautiful, or at least, arresting in some gropingly analogous way.
 But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
-second law of thermodynamics, there are many more ways to fall apart than
-look good.
+second law of thermodynamics, there are many more ways to fall apart
+than to look good.
 Harmony is a vanishing sliver of phase space, and ruin frees matter from the human conceit of order.
 
 Now, this democratic view suits the parts, the crumbling staircase and the
