@@ -148,7 +148,7 @@ dream.
 A convenience store is a good place to visit eternity.
 
 On the northern shore, Chuzenji has a single backstreet, pitched up
-the hill the middle of the "V", and running like a droplet back
+the hill from the middle of the "V", and running like a droplet back
 into the lake as the road crawls westward.
 Little Forest Inn is near the westward fall, cushioned in between an
 enormous shed and an empty weedlot.
