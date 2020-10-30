@@ -91,6 +91,11 @@ Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
+</div>
+</figure>
+
 Curiously, the great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
@@ -105,14 +110,7 @@ contingent for Contingency?
 Certainly not, he concludes.
 Some imperishable force must drive the whole thing.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
-wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
-</div>
-</figure>
-
-Does the god of ruin smile on this place? A querent would know.
+wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin. 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
@@ -229,3 +227,5 @@ operate in tiny slivers of phase space, and if entropy is maximized,
 we will cease to exist.
 
 bubble, shattered by the reality of a beached and headless swan;
+
+Does the god of ruin smile on this place? A querent would know.
