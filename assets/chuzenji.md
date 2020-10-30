@@ -141,7 +141,7 @@ the Swallows are playing the Baystars---and watches me with quiet indulgence.
 He has nowhere to be and all the time in the world; he yawns, switches
 stations; I can play at browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
-listening to baseball scores, while a gaijin picks up one brand of
+listening to baseball scores, while a gaijin picks up one brand of novelty
 pretzel after another after another, all with the imperturbable slowness of a
 dream.
 A convenience store is a good place to visit eternity.
