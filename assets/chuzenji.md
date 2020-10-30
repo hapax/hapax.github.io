@@ -119,7 +119,9 @@ principle of ruin.
 </div>
 </figure>
 
-I wander up 
+No insights into the nature of ruin, however profound, will conjure up
+a place to sleep. There is a small Circle K konbini in the cruise
+terminal; I hook into the wi-fi and 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
