@@ -169,8 +169,8 @@ I pick one at random and knock quietly; nothing. I knock harder.
 After a few minutes, a blob appears behind the frosted glass,
 resolving as the door opens into a thin and somewhat frayed woman in her late 30s.
 She conducts me inside, and, as if to certify a position of which she
-is unsure, shuffles behind a curtain and re-emerges to face me with
-exaggerated formality.
+is unsure, shuffles behind a curtain and re-emerges to face me over a
+counter with exaggerated formality.
 Between her broken English and my broken Japanese, a room is booked.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
