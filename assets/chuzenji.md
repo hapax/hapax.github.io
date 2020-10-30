@@ -103,13 +103,13 @@ In his *Tertia Via* (the Third Way of Five), he argues that the world is full of
 perishable order---things like
 boats and people and economic growth---which come into being for a time,
 but by the operation of death, corruption and change, go out of it
-again, a sort of revolving door of ontology.
+again, a sort of ontological revolving door.
 So far, he is in agreement with Heraclitus, the pre-Socratic genius
 who pithily observed that "nothing endures but change."
 
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
-But what (Aquinas asks) underwrites all that, and makes the door revolve?
+But what (Aquinas asks) underwrites all that, and makes the door of ontology revolve?
 It can't be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
