@@ -172,12 +172,12 @@ She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
-tramp upstairs and leave my backpack.
+tramp upstairs and deposit my backpack.
 Just as I am about to leave, a toddler appears by himself on the
 counter, and smiling hugely, hands me a random set of keys.
 The woman emerges from some other part of the house to
-retrieve him, apologises profusely, but does not, I notice, suppress a
-smile of her own.
+retrieve him, and apologises profusely, but does not, I notice,
+entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
