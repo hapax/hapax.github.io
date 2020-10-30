@@ -136,6 +136,7 @@ I am cold. I have no cell reception. I will need a place to sleep.
 I passed a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, and look up
 local hotels on wifi.
+Little Forest Inn appears to have rooms.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches me with quiet indulgence.
 He has nowhere to be and all the time in the world; he yawns, switches
