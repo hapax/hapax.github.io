@@ -120,12 +120,12 @@ principle of ruin.
 </figure>
 
 No insights into the nature of contingency and order, however
-profound, will conjure up a place to sleep. I remember that the cruise
-terminal incorporates a small konbini, so I walk back and dawdle in
-the snack aisle and look up hotels on the free wifi.
+profound, will conjure up a place to stay the night. I remember that the cruise
+terminal had a small konbini, so I hotfoot it back and dawdle in
+the snack aisle, pretending to be wracked by indecision over different
+flavours of kabukiage, while I scope out local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
-the Swallows are playing the Baystars---and watches me with a mixture
-of curiosity and faint amusement, either by the 
+the Swallows are playing the Baystars---and watches me with what I
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
