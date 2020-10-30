@@ -85,7 +85,7 @@ of decline and know only combinatorics.
 But the assemblage does not have this luxury:
 when an organism is sufficiently disarranged, it dies; when a building
 decays and collapses, it is no more; if the daytrippers stay home,
-and the swans lose their heads, and folk move back to the city, a
+and the swans lose their heads, and folk move away, a
 bustling settlement becomes a ghost town.
 Ordered composites can only exist and operate in tiny slivers of phase space.
 Ruin then becomes a statement about the perishability of
