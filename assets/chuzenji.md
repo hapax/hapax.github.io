@@ -122,7 +122,8 @@ rather, it establishes God as a metaphysical principle of ruin.
 
 Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
-Here, in one of the dwelling place of the god 
+Here, in one of the dwelling places of the god of ruin, I perhaps have
+an opportunity to find out.
 
 I remember that the cruise
 terminal has a small *konbini*, so I walk back and dawdle in
