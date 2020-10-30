@@ -149,11 +149,13 @@ A convenience store is a good place to visit eternity.
 On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill at Kegon waterfall in the east (the middle of the "V"), and running like a droplet back
 into the lake as the road crawls westward.
-Little Forest Inn is near this westward fall, cushioned in between an
+Little Forest Inn is near the westward fall, cushioned in between an
 enormous shed and an empty weedlot.
-I descent into this little forest, so poetically apposition to the
-guesthouse, and take in the wet petrichor of the tall grass.
-So much for the marshland.
+I leave the convenience store, armed with an array of flavoured
+pretzels, and cut up concrete stairs to the backstreet.
+The weedlot is a little forest, poetically appose to the guesthouse,
+and I clamber over a fence and down a stonewall to take in its wet
+petrichor.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
@@ -299,3 +301,7 @@ Something imperishable must underwrite this process
 
 It certainly cannot be the perishable beings themselves, since they pass out of
 existence and take their causal powers with them.
+
+Westward and past the guesthouse when I see the weedlot, a little forest in poetic apposition.
+I take in the petrichor of the tall, wet grass, and imagines .
+So much for the marshland.
