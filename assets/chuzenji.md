@@ -163,7 +163,7 @@ its petrichor and glistening tussock before checking in.
 </div>
 </figure>
 
-The Little Forest Inn presents a puzzle of locked and unmarked doors.
+The Little Forest Inn presents an enigma of locked and unmarked doors.
 I pick a door at random and knock quietly; nothing. I knock harder. A
 woman in her late 30s shuffles out of the murk and lets me in.
 She has an air of 
