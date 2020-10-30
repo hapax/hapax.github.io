@@ -190,7 +190,8 @@ It is a surface phenomenon in phase space, something which has evolved
 in accord with thermodynamics not to preserve order, but to dissipate it with maximum efficiency; England calls this "dissipation-driven adaptation".
 Life, it seems, is the revolver of the door of being par excellence,
 the genius of ruin, and there is no
-better illustration than the wildflowers sprouting through the gravel of a tumbledown plot by the ramp.
+better illustration than the wildflowers sprouting through the gravel
+of a tumbledown plot by the ramp to the backstreet.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
