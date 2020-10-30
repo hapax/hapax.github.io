@@ -164,9 +164,9 @@ its petrichor and glistening tussock before checking in.
 </figure>
 
 The Little Forest Inn presents an enigma of locked and unmarked doors.
-I pick a door at random and knock quietly; nothing. I knock harder. A
-woman in her late 30s shuffles out of the murk and lets me in.
-She has an air of 
+I pick a door at random and knock quietly; nothing. I knock harder.
+A blob appears behind the frosted glass, and the door opens to reveal
+a woman in her late 30s, thin, frayed,
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
