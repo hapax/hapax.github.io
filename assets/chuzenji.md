@@ -67,7 +67,7 @@ a perfect specimen of the Chuzenji grotesque.
 </div>
 </figure>
 
-Among these melancholy and disquieting spectacles, I begin to ponder
+Among these melancholy and disquieting creatures, I begin to ponder
 the nature of ruin.
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
