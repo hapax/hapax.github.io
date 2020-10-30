@@ -163,7 +163,7 @@ petrichor.
 </figure>
 
 There are various unmarked doors, all locked.
-A handsome mailslot suggests that one is 
+I pick a door at random and knock hard; no answer.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
