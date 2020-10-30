@@ -29,7 +29,7 @@ Initially, it is no more than a pitstop on my way to the Senjogahara
 marshland, a sprawling plain of hare's-tail cottongrass and rambling
 boardwalks 1400 meters above sea level.
 But the mass of cloud has settled onto the wetland as well as the lake,
-dampening my plans for a hike, so I decide to explore the town instead.
+extinguishing my plans for a hike. I decide to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
