@@ -183,10 +183,10 @@ Disorder is the condition for life as well as death.
 Perhaps life is more than an island of order in a sea of chaos.
 Jeremy England, a brilliant young professor of physics at MIT, has
 suggested the converse: life is not the island of order, but the waves
-lapping at the shore which gradually dissolve the landmass into the
+lapping at the shore, gradually dissolving the landmass into the
 ocean.
 It is a surface phenomenon in phase space, something which has evolved
-not to preserve order, but to dissipate it with maximum efficiency;
+in accord with thermodynamics not to preserve order, but to dissipate it with maximum efficiency;
 *life* is the revolver of the door of being par excellence.
 England calls this "dissipation-driven adaptation", and there is no
 better illustration than wildflowers sprouting through the gravel of a tumbledown plot by the backstreet ramp.
