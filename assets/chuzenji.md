@@ -25,7 +25,7 @@ any properties of its own.
 It is in between, or nearby, but never "here". The day my bus
 rolls up the mountain and into the carpark, it is swaddled in a
 blanket of fog and almost invisible; Chuzenji is in all directions but nowhere to be seen.
-Initially, it was no more than a pitstop on my way to the Senjogahara
+Initially, it is no more than a pitstop on my way to the Senjogahara
 marshland, a sprawling plain of hare's-tail cottongrass and rambling
 boardwalks, 1400 meters above sea level.
 But the mass of cloud has settled onto the wetland as well as the lake,
