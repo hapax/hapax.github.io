@@ -100,8 +100,12 @@ They exist for a time, but by processes of death, corruption and change, exist n
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
+Could be a mortal be responsibility for Mortality, something
+contingent for Contingency?
+Certainly not, he concludes.
+Some imperishable force must drive the whole thing.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
-wrathful or provident, but rather God as a metaphysical principle of ruin.
+wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake8.png" />
