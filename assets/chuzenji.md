@@ -88,7 +88,7 @@ decays and collapses, it is no more; if the daytrippers stay home,
 and the swans lose their heads, and folk move away, a
 bustling settlement becomes a ghost town.
 Ordered composites can only exist and operate in tiny slivers of phase space.
-Ruin then becomes a statement about the perishability of
+Ruin is a statement about the perishability of
 ordered being.
 
 <figure>
