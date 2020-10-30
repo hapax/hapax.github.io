@@ -105,7 +105,7 @@ boats and people and economic growth---which come into being for a time,
 but by the operation of death, corruption and change, go out of it
 again, a sort of revolving door of ontology.
 So far, he is in agreement with Heraclitus, the pre-Socratic genius
-who wrote that "nothing endures but change."
+who pithily observed that "nothing endures but change."
 
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
