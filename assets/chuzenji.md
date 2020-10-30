@@ -133,7 +133,7 @@ Mist plays over the remains of a housefire, and draws my eye up,
 towards the hidden peak of Nantai.
 I am cold. I will need a place to sleep.
 
-I remember passing a *konbini* in the cruise terminal, so I walk back and dawdle in
+I passed a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
 local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
