@@ -171,8 +171,8 @@ resolving as the door opens into a thin and slightly frayed woman in her late 30
 She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain in order to re-emerge and face me
 with exaggerated formality over the counter.
-Between her broken English and my broken Japanese, a room and keycard
-are negotiated.
+Between her broken English and my broken Japanese, a room is booked
+and a keycard is given.
 Just as I am about to leave, a toddler appears beside us on the
 counter, and smiling hugely, hands me a random set of keys.
 The woman apologetically retreives the keys, and hands the toddler to
