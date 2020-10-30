@@ -108,14 +108,15 @@ So far, he is in agreement with Heraclitus, the pre-Socratic genius
 who wrote that "nothing endures but change."
 
 But here, Aquinas makes his bold departure.
-*Something imperishable must underwrite this process*.
+There is change, there is flux, there is destruction; very well.
+But what underwrites all that, and makes the door revolve?
 It certainly cannot be the perishable beings themselves, since they pass out of
-existence, and take their causal powers with them.
+existence and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
-ticking over, must govern the revolving door.
+ticking over.
 But the Third Way is no route to a Judeo-Christian Father,
 wrathful or provident as the various Testaments would have us believe;
 rather, it establishes God as a metaphysical principle of ruin.
@@ -280,3 +281,5 @@ Here, in one of the dwelling places of this ruinous god, I may have
 the chance to find out.
 
 existence, and take whatever causative powers they effected with them.
+
+Something imperishable must underwrite this process
