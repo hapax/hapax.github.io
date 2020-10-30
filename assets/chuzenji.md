@@ -153,6 +153,7 @@ Little Forest Inn is near this westward fall, cushioned in between an
 enormous shed and an empty weedlot.
 I descent into this little forest, so poetically apposition to the
 guesthouse, and take in the wet petrichor of the tall grass.
+So much for the marshland.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
