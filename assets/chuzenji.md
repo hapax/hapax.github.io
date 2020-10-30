@@ -120,18 +120,22 @@ principle of ruin.
 </figure>
 
 Does the god of ruin smile on this place?
-Is, perhaps,
+The only way to find out 
 
-No insights into the nature of contingency and order, however
+No insights, however
 profound, will conjure up a place to sleep. I remember that the cruise
 terminal has a small konbini, so I walk back and dawdle in
-the snack aisle, pretending to be wracked by indecision over kabukiage
-flavours, while I scope out local hotels on the wifi.
+the snack aisle, wracked by indecision over novelty
+chip flavours, while I scope out local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches my performance
-with amused indulgence.
-He has nowhere to be; I can play at browsing snacks for as long as I
-like.
+with indulgence.
+He has nowhere to be; he yawns and switches stations; I can play at
+browsing snacks for as long as I like.
+A convenience store is perhaps the best place to know what forever
+feels like.
+It feels like a balding clerk listening to the baseball scores while a
+gaijin pretends to look at snacks.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
@@ -243,3 +247,8 @@ we will cease to exist.
 bubble, shattered by the reality of a beached and headless swan;
 
 Does the god of ruin smile on this place? A querent would know.
+
+A convenience store, overflowing as it is with the contingent, is
+paradoxically one of the best places to experience eternity.
+
+No insights into the nature of contingency and order, however
