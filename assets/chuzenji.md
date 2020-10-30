@@ -147,11 +147,13 @@ dream.
 A convenience store is a good place to visit eternity.
 
 On the northern shore, Chuzenji has a single backstreet, pitched up
-the hill at Kegon falls in the east (the middle of the "V"), and running like a droplet back
+the hill at Kegon waterfall in the east (the middle of the "V"), and running like a droplet back
 into the lake as the road crawls westward.
 Little Forest Inn is near this westward fall, cushioned in between an
-enormous shed and an empty weedlot, a little forest poetically apposed
-by the guesthouse.
+enormous shed and an empty weedlot, a little forest in poetic
+apposition to the guesthouse.
+There are various unmarked doors, all locked.
+A handsome mailslot suggests that one is 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
