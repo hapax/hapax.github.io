@@ -111,7 +111,8 @@ Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
 ticking over.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
-wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin. 
+wrathful or provident; rather, it enshrines God as a metaphysical
+principle of ruin. 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
