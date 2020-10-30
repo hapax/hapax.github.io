@@ -111,7 +111,7 @@ There is change, there is flux, there is destruction; very well.
 But what (Aquinas asks) underwrites all that, and revolves the door of ontology?
 It cannot be the perishable beings themselves, since they
 disappear and take their causal powers with them.
-Could be a mortal be responsible for Mortality, or something
+Could a mortal be responsible for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
