@@ -173,7 +173,7 @@ is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and leave my backpack.
-Just as I am about to leave, a toddler appears on the
+Just as I am about to leave, a toddler appears by himself on the
 counter, and smiling hugely, hands me a random set of keys.
 The woman emerges from behind the curtain and apologetically retrieves
 him, but not, I notice, without a smile of her own.
