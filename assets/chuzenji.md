@@ -163,7 +163,7 @@ petrichor.
 </figure>
 
 There are various unmarked doors, all locked.
-I pick a door at random and knock hard; no answer.
+I pick a door at random and knock quietly; nothing. I knock harder.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
