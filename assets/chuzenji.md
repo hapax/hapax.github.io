@@ -103,7 +103,8 @@ In his *Tertia Via* (the Third Way of Five), he argues that the world is full of
 perishable order---things like
 boats and people and economic growth---which come into being for a time,
 but by the operation of death, corruption and change, go out of it
-again, the ontological revolving door.
+again, a sort of revolving door of ontology.
+
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
@@ -111,7 +112,7 @@ Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
-ticking over.
+ticking over, must govern the revolving door.
 But the Third Way is no route to a Judeo-Christian Father,
 wrathful or provident as the various Testaments would have us believe;
 rather, it establishes God as a metaphysical principle of ruin.
@@ -125,7 +126,7 @@ Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
 Here, in one of His mansions and dwelling place, I may have the chance
 to find out.
-But this 
+But 
 
 I remember passing a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
