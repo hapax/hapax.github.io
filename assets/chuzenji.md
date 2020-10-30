@@ -150,8 +150,8 @@ On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill at Kegon falls in the east, and running like a droplet back
 into the lake as the road crawls westward.
 Little Forest Inn is near this westward fall, cushioned between an
-enormous shed and an empty weedlot, a little forest in poetic
-apposition by the guesthouse.
+enormous shed and an empty weedlot, a little forest poetically apposed
+by the guesthouse.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
