@@ -123,8 +123,7 @@ rather, it establishes God as a metaphysical principle of ruin.
 
 Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
-Here, in one of the dwelling places of the god of ruin, I perhaps have
-an opportunity to find out.
+Here, in one of His mansions and dwelling place, I may have the chance to find out.
 
 I remember that the cruise
 terminal has a small *konbini*, so I walk back and dawdle in
@@ -271,3 +270,6 @@ profound, will conjure up a place to sleep.
 In his *Tertia Via* (Third Way), he argues that the world is full of
 perishable beings, or more generally perishable order, things like
 boats and people and economic growth.
+
+Here, in one of the dwelling places of this ruinous god, I may have
+the chance to find out.
