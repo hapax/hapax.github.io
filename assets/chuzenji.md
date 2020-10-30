@@ -139,7 +139,7 @@ local hotels on wifi.
 Little Forest Inn appears to have rooms.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches me with quiet indulgence.
-He has nowhere to be and all the time in the world; he yawns, switches
+He has nowhere to be and all the time in the world. He yawns, switches
 stations; I can play at browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
 listening to baseball scores, while a gaijin picks up one brand of novelty
