@@ -96,7 +96,7 @@ ordered being.
 </div>
 </figure>
 
-Curiously, the great theologian Thomas Aquinas saw in this
+The great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
 perishable beings, or more generally perishable order, things like
