@@ -190,15 +190,17 @@ It is a surface phenomenon in phase space, something which has evolved
 in accord with thermodynamics not to preserve order, but to dissipate it with maximum efficiency; England calls this "dissipation-driven adaptation".
 Life, it seems, is the revolver of the door of being par excellence,
 the genius of ruin, and there is no
-better illustration than wildflowers sprouting through the gravel of a tumbledown plot by the backstreet ramp.
+better illustration than the wildflowers sprouting through the gravel of a tumbledown plot by the ramp.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
 </div>
 </figure>
 
-The lean-to at the back of the plot feels almost like a makeshift
+There is a lean-to at the back of the plot.
+feels almost like a makeshift
 Shinto shrine, a celebration of the hidden forces of the world.
+惟神の道
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
