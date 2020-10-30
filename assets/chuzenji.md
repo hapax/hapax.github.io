@@ -168,6 +168,8 @@ and unmarked doors.
 I pick a door at random and knock quietly; nothing. I knock harder.
 A blob appears behind the frosted glass, resolving as the door opens
 into a woman in her late 30s, thin and somewhat frayed.
+She conducts me inside apologetically, and between her broken English
+and my broken Japanese, 
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
