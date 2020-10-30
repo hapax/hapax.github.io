@@ -153,7 +153,7 @@ into the lake as the road crawls westward.
 Little Forest Inn is near this westward fall, cushioned between an
 enormous shed and an empty weedlot.
 I leave the convenience store, now armed with an array of flavoured
-pretzels, and cut up concrete stairs to the backstreet.
+pretzels, and cut up concrete ramp to the backstreet.
 The weedlot really is a little forest, a poetic apposition to the
 guesthouse, and I clamber over a fence and down a stone wall to take in
 its petrichor and glistening tussock before checking in.
@@ -187,6 +187,7 @@ lapping at the shore which gradually dissolve the landmass into the ocean, a sur
 phenomenon which has evolved in accord with thermodynamics to
 *dissipate order with maximum efficiency*.
 He calls this "dissipation-driven adaptation".
+There is no better illustration than wildflowers sprouting 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
