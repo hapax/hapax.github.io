@@ -83,7 +83,7 @@ Now, this democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
 of decline and know only combinatorics.
 But the assemblage does not have this luxury:
-when an organism is sufficiently ruined, it dies; when a building
+when an organism is sufficiently disarranged, it dies; when a building
 decays and collapses, it is no more; if the daytrippers stay home,
 and the swans lose their heads, and enough people move back to the city, a
 bustling settlement becomes a ghost town.
