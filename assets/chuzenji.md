@@ -109,7 +109,7 @@ who pithily observed that "nothing endures but change."
 
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
-But what (Aquinas asks) underwrites all that, and makes the door revolve?
+But what underwrites all that (Aquinas asks), and makes the door revolve?
 It can't be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
