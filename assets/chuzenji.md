@@ -133,10 +133,10 @@ the Swallows are playing the Baystars---and watches my performance
 with quiet indulgence.
 He has nowhere to be; he yawns and switches stations; I can play at
 browsing snacks for as long as I like.
-
 Incidentally, this is what forever feels like: a balding clerk
-listening to baseball scores while a gaijin pretends to browse snacks,
-all with the imperturbable slowness of a dream.
+listening to baseball scores, while a gaijin picks up one brand of
+pretzel after another, all with the imperturbable slowness of a
+dream.
 A convenience store is a good place to visit eternity.
 
 <figure>
