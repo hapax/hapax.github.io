@@ -108,7 +108,8 @@ existence, and take whatever causative powers they effected with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
-Some imperishable force must drive the whole thing.
+Something necessary and immortal must keep those machineries of decay
+ticking over.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
 wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin. 
 
