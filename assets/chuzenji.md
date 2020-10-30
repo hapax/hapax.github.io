@@ -125,7 +125,9 @@ terminal has a small konbini, so I walk back and dawdle in
 the snack aisle, pretending to be wracked by indecision over kabukiage
 flavours, while I scope out local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
-the Swallows are playing the Baystars---and watches me with what I
+the Swallows are playing the Baystars---and watches my clumsy
+performance with amusement.
+He has nowhere to be; only a gaijin would
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
