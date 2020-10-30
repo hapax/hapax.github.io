@@ -91,8 +91,8 @@ Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
-Thomas Aquinas saw in this perishability a proof of the
-existence of God.
+Curiously, the great theologian Thomas Aquinas saw in this
+perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of perishable beings,
 who exist for a time, but by processes of death, corruption and
 change, exist no longer.
