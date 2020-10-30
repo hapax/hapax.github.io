@@ -1,5 +1,5 @@
 ---
-title:  "A theodicy of ruin"
+title:  "A theodicy fore perishable beings"
 date:  2020-07-06
 layout: post
 ---
