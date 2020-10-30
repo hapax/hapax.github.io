@@ -80,7 +80,7 @@ look good.
 Harmony is a vanishing sliver of phase space.
 Ruin frees matter from the human conceit of order.
 
-This democratic view suits the parts, the crumbling staircase and the
+Now, this democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
 of ruin and know only combinatorics.
 But the assemblage does not have this luxury:
