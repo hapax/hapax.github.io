@@ -138,8 +138,8 @@ the snack aisle, wracked by performative indecision, and look up
 local hotels on wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches me with quiet indulgence.
-He has nowhere to be; he yawns and switches stations; I can play at
-browsing snacks for as long as I like.
+He has nowhere to be and all the time in the world; he yawns, switches
+stations; I can play at browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
 listening to baseball scores, while a gaijin picks up one brand of
 pretzel after another after another, all with the imperturbable slowness of a
