@@ -149,9 +149,9 @@ A convenience store is a good place to visit eternity.
 On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill at Kegon falls in the east, and running like a droplet back
 into the lake as it crawls westward.
-Little Forest Inn is near this westward fall, cushioned between an
-anomous shed and an empty weedlot, a Little Forest poetically
-apposed.
+Little Forest Inn is near this westward fall, cushioned between a
+box-like shed and an empty weedlot, a Little Forest, apposed almost
+poetically by the guesthouse.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
