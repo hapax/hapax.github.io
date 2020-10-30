@@ -104,10 +104,13 @@ perishable order---things like
 boats and people and economic growth---which come into being for a time,
 but by the operation of death, corruption and change, go out of it
 again, a sort of revolving door of ontology.
+So far, he is in agreement with Heraclitus, the pre-Socratic genius
+who said "Nothing endures but change."
 
-Something imperishable must underwrite this process; it certainly
-cannot be the perishable beings themselves, since they pass out of
-existence, and take whatever causative powers they effected with them.
+But here, Aquinas makes his bold departure.
+*Something imperishable must underwrite this process*.
+It certainly cannot be the perishable beings themselves, since they pass out of
+existence, and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
@@ -275,3 +278,5 @@ boats and people and economic growth.
 
 Here, in one of the dwelling places of this ruinous god, I may have
 the chance to find out.
+
+existence, and take whatever causative powers they effected with them.
