@@ -20,7 +20,7 @@ years, this sacred lake and mountain were closed to horses, cows, and women.
 </figure>
 
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
-Nikko"), and in this ambiguity, seems more defined by its proximity to other things than
+Nikko"), and even in this ambiguity, seems more defined by its proximity to other things than
 any properties of its own.
 It is in between, or nearby, but never "here". The day my bus
 rolls up the mountain and into the carpark, it is swaddled in a
