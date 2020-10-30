@@ -163,8 +163,9 @@ petrichor and glistening tussock before I check in.
 </div>
 </figure>
 
-There are various unmarked doors, all locked.
-I pick a door at random and knock quietly; nothing. I knock harder.
+The Little Forest Inn presents me with various unmarked doors, all locked.
+I pick a door at random and knock quietly; nothing. I knock harder. A
+woman in her late 30s shuffles to the door
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
