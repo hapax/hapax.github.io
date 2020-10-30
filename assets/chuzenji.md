@@ -146,6 +146,11 @@ pretzel after another after another, all with the imperturbable slowness of a
 dream.
 A convenience store is a good place to visit eternity.
 
+On the northern shore, Chuzenji has a single backstreet, pitched up
+the hill at Kegon falls in the east, and running like a droplet back
+into the lake at a small shinto shrine.
+Along this street is the Little Forest Inn, 
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
 </div>
