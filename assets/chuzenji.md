@@ -196,6 +196,9 @@ better illustration than wildflowers sprouting through the gravel of a tumbledow
 </div>
 </figure>
 
+The lean-to at the back of the plot feels almost like a makeshift
+Shinto shrine, a celebration of the hidden forces of the world.
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
 </div>
