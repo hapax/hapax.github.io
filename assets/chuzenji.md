@@ -150,15 +150,17 @@ On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill at Kegon waterfall in the east (the middle of the "V"), and running like a droplet back
 into the lake as the road crawls westward.
 Little Forest Inn is near this westward fall, cushioned in between an
-enormous shed and an empty weedlot, a little forest in poetic
-apposition to the guesthouse.
-There are various unmarked doors, all locked.
-A handsome mailslot suggests that one is 
+enormous shed and an empty weedlot.
+I descent into this little forest, so poetically apposition to the
+guesthouse, and take in the wet petrichor of the tall grass.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
 </div>
 </figure>
+
+There are various unmarked doors, all locked.
+A handsome mailslot suggests that one is 
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
