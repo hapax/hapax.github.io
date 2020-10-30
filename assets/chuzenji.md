@@ -120,8 +120,12 @@ principle of ruin.
 </figure>
 
 No insights into the nature of ruin, however profound, will conjure up
-a place to sleep. There is a small Circle K konbini in the cruise
-terminal; I hook into the wi-fi and 
+a place to sleep. I remember that the cruise terminal has a Circle K
+konbini, so I walk back and surf the snack aisle, and free wi-fi,
+while a balding clerk listens to the baseball---from what I can tell,
+the Swallows are playing the Baystars---and watches me with a mixture
+of curiosity and suspicion.
+I'm taking way too long to decide between
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
