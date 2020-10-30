@@ -175,8 +175,8 @@ Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and deposit my backpack.
 As I am leaving, a toddler appears all by himself on the
 counter, smiling hugely, and hands me a set of random keys.
-The woman dashes out from some other darkened corridor to retrieve him
-and the keys, apologising profusely.
+The woman dashes out from some other darkened corridor to retrieve
+both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
