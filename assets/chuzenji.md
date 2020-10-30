@@ -1,5 +1,5 @@
 ---
-title:  "The god of great darkness"
+title:  "A theodicy of ruin"
 date:  2020-07-06
 layout: post
 ---
