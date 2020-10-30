@@ -125,7 +125,7 @@ rather, it establishes God as a metaphysical principle of ruin.
 </div>
 </figure>
 
-Is there a theodicy of ruin, some way to reconcile ourselves with
+Is there a theodicy of ruin? Some way to reconcile ourselves with
 contingency and the true vastness of phase space?
 Here, in one of His dwelling places, I may have the chance
 to find out.
