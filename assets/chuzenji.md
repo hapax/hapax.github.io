@@ -101,14 +101,14 @@ perishability a proof of the existence of God.
 In his *Tertia Via* (the Third Way of Five), he argues that the world is full of
 perishable orders---things like
 boats and people and economic growth---which come into being for a time,
-but by the agency of death, corruption and change, go out of it
-again, through a sort of ontological revolving door.
+but by the agency of death, corruption and change, go out again,
+through an ontological revolving door.
 So far, he is in agreement with Heraclitus, the pre-Socratic genius
 who pithily observed that "nothing endures but change."
 
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
-And what (Aquinas asks) underwrites all that, revoling the door of ontology?
+And what (Aquinas asks) underwrites all that, revolving the door of ontology?
 It can't be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
