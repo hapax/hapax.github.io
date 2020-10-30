@@ -163,7 +163,7 @@ its petrichor and glistening tussock.
 </div>
 </figure>
 
-At street level, the Little Forest presents an enigma of locked
+Back at street level, the Little Forest presents an enigma of locked
 and unmarked doors.
 I pick one at random and knock quietly; nothing. I knock harder.
 After a few minutes, a blob appears behind the frosted glass,
