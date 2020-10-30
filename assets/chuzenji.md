@@ -123,10 +123,11 @@ rather, it establishes God as a metaphysical principle of ruin.
 
 Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
-Here, in one of His mansions and dwelling place, I may have the chance to find out.
+Here, in one of His mansions and dwelling place, I may have the chance
+to find out.
+But this 
 
-I remember that the cruise
-terminal has a small *konbini*, so I walk back and dawdle in
+I remember passing a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
 local hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
