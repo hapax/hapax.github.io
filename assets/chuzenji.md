@@ -163,7 +163,7 @@ its petrichor and glistening tussock before checking in.
 </div>
 </figure>
 
-At street level, the Little Forest Inn presents an enigma of locked
+At street level, the Little Forest presents an enigma of locked
 and unmarked doors.
 I pick a door at random and knock quietly; nothing. I knock harder.
 A blob appears behind the frosted glass, resolving as the door opens
