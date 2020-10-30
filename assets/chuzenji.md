@@ -116,7 +116,7 @@ contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
 ticking over.
-This Third Way is no route to a Judeo-Christian Father,
+But this Third Way is no route to a Judeo-Christian Father,
 wrathful or provident as the various Testaments would have us believe;
 rather, it establishes God as a metaphysical principle of ruin.
 
