@@ -108,7 +108,7 @@ existence, and take whatever causative powers they effected with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
-Something necessary and immortal must keep those machineries of decay
+Something necessary and immortal must keep the machineries of decay
 ticking over.
 To my mind, the Third Way is no route to a Judeo-Christian Father,
 wrathful or provident; rather, it enshrines God as a metaphysical principle of ruin. 
