@@ -106,9 +106,9 @@ through a sort of ontological revolving door.
 So far, he is in agreement with Heraclitus, the pre-Socratic
 who pithily observed that "nothing endures but change."
 
-But here, Aquinas makes his bold departure.
+Here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
-And what (Aquinas asks) underwrites all that, and revolves the door of ontology?
+But what (Aquinas asks) underwrites all that, and revolves the door of ontology?
 It cannot be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsible for Mortality, or something
