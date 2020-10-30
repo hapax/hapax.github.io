@@ -188,8 +188,8 @@ lapping at the shore, gradually dissolving the landmass into the
 ocean.
 It is a surface phenomenon in phase space, something which has evolved
 in accord with thermodynamics not to preserve order, but to dissipate it with maximum efficiency; England calls this "dissipation-driven adaptation".
-*life* is the revolver of the door of being par excellence, the genius
-of ruin, and there is no
+*Life*, it seems, is the revolver of the door of being par excellence,
+the genius of ruin, and there is no
 better illustration than wildflowers sprouting through the gravel of a tumbledown plot by the backstreet ramp.
 
 <figure>
