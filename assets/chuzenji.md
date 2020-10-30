@@ -77,17 +77,16 @@ But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
 second law of thermodynamics, there are many more ways to fall apart than
 look good.
-Harmony is a vanishing sliver of phase space.
-Ruin frees matter from the human conceit of order.
+Harmony is a vanishing sliver of phase space, and ruin frees matter from the human conceit of order.
 
 Now, this democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
 of ruin and know only combinatorics.
 But the assemblage does not have this luxury:
 when an organism is sufficiently ruined, it dies; when a building
-decays and collapses, it is no more; if the excursionists stay home,
-and the shops close, and the people move away, the town is replaced by
-its ghost.
+decays and collapses, it is no more; if the daytrippers stay home,
+and the swans lose their heads, and enough people move away, the place
+becomes a ghost town.
 Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
