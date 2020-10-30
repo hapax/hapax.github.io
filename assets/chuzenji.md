@@ -94,8 +94,9 @@ ordered being.
 Curiously, the great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
-perishable beings, the buildings and people and swan boats,
-which exist for a time but by processes of death, corruption and change, exist no longer.
+perishable beings, or more generally perishable order, things like
+civilizations, temples, people, even relationships or moods.
+They exist for a time, but by processes of death, corruption and change, exist no longer.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
