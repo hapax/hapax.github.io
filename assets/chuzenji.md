@@ -99,7 +99,7 @@ ordered being.
 Curiously, the great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
-perishable orders---things like
+perishable orderings---things like
 boats and people and economic growth---which come into being for a time,
 but by the agency of death, corruption and change, go out again,
 through a sort of ontological revolving door.
