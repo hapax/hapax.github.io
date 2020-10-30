@@ -154,8 +154,8 @@ Little Forest Inn is near the westward fall, cushioned in between an
 enormous shed and an empty weedlot.
 I leave the convenience store, now armed with an array of flavoured
 pretzels, and cut up concrete stairs to the backstreet.
-The weedlot really is a little forest, in poetic apposition to the
-guesthouse, and I clamber over a fence and down a stonewall to take in
+The weedlot really is a little forest, a poetic apposition to the
+guesthouse, and I clamber over a fence and down a wall to take in
 its petrichor and glistening tussock before checking in.
 
 <figure>
