@@ -155,8 +155,8 @@ enormous shed and an empty weedlot.
 I leave the convenience store, armed with an array of flavoured
 pretzels, and cut up concrete stairs to the backstreet.
 The weedlot is a little forest, poetically appose to the guesthouse,
-and I clamber over a fence and down a stonewall to take in its wet
-petrichor.
+and I clamber over a fence and down a stonewall to take in its
+petrichor and glistening tussock before I check in.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
