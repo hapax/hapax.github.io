@@ -77,8 +77,7 @@ But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
 second law of thermodynamics, there are many more ways to fall apart
 than not.
-Harmony is a vanishing sliver of phase space. Ruin frees matter from
-the human conceit.
+Harmony is a vanishing sliver of phase space. Ruin is the freedom of matter from human conceit.
 
 Now, this democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
