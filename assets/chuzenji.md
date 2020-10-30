@@ -180,8 +180,9 @@ both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
-Perhaps life is something more than fragile order in a sea of chaos.
-Jeremy England, 
+Perhaps life is more than an island of order in a sea of chaos.
+Jeremy England, a brilliant young professor at MIT, has suggested the
+converse: 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
