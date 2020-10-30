@@ -1,5 +1,5 @@
 ---
-title:  "The Okuikko theodicy"
+title:  "The Okunikko theodicy"
 date:  2020-07-06
 layout: post
 ---
