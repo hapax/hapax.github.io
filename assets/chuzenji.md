@@ -100,7 +100,7 @@ Curiously, the great theologian Thomas Aquinas saw in this
 perishability a proof of the existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of
 perishable beings, or more generally perishable order, things like
-civilizations, temples, people, animals, religions, even relationships and moods.
+civilizations, religions, temples, people, animals, even relationships and moods.
 They exist for a time, but by the operation of death, corruption and change, exist no longer.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
