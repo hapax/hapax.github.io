@@ -82,7 +82,7 @@ the human conceit.
 
 Now, this democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
-of ruin and know only combinatorics.
+of decline and know only combinatorics.
 But the assemblage does not have this luxury:
 when an organism is sufficiently ruined, it dies; when a building
 decays and collapses, it is no more; if the daytrippers stay home,
