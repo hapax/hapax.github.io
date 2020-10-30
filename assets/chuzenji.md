@@ -180,6 +180,18 @@ both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
+Jeremy England is a brilliant young physicist
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+</div>
+</figure>
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake5.png" />
+</div>
+</figure>
+
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
 #### Extra
