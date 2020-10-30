@@ -169,13 +169,12 @@ I pick one at random and knock quietly; nothing. I knock harder.
 After a few minutes, a blob appears behind the frosted glass,
 resolving as the door opens into a thin and slightly frayed woman in her late 30s.
 She conducts me inside, and, as if to certify a position of which she
-is unsure, shuffles behind a curtain in order to re-emerge and face me
+is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
-Between her broken English and my broken Japanese, a room is booked.
-Just as I am about to leave, a toddler appears beside us on the
+Between her broken English and my broken Japanese, a room is booked; I
+tramp upstairs and leave my backpack.
+Just as I am about to leave, a toddler appears on the
 counter, and smiling hugely, hands me a random set of keys.
-The woman apologetically retreives the keys, and hands the toddler to
-a disembodied pair of hands that emerge from the curtain.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
@@ -324,3 +323,6 @@ the hill at Kegon waterfall in the east (the middle of the "V")
 exaggerated formality over a desk, with its guestbook and brochure.
 
 and a map is shyly embellished with points of local interest.
+
+The woman apologetically retreives the keys, and hands the toddler to
+a disembodied pair of hands that emerge from the curtain.
