@@ -59,7 +59,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the reality of a beached and headless swan;
+bubble, shattered by the reality of a headless swan;
 a perfect specimen of the Chuzenji grotesque.
 
 <figure>
@@ -67,11 +67,11 @@ a perfect specimen of the Chuzenji grotesque.
 </div>
 </figure>
 
-I continue taking in the spectacle of ruin.
-But I wonder: what *is* ruin?
+Among these melancholy and disquieting spectacles, I begin to ponder
+the nature of ruin.
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
-That would make ruin an aesthetic phenomenon like beauty, and in a
+That would make it an aesthetic phenomenon like beauty, and in a
 way, ruin *is* beautiful.
 But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
@@ -79,11 +79,6 @@ second law of thermodynamics, there are many more ways to fall apart than
 look good.
 Harmony is a vanishing sliver of phase space.
 Ruin frees matter from the human conceit of order.
-
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
-</div>
-</figure>
 
 This democratic view suits the parts, the crumbling staircase and the
 peeling wallpaper, who are ignorant
@@ -97,11 +92,6 @@ Ordered composites can only exist and operate in tiny slivers of phase space.
 Viewed this way, ruin becomes a statement about the perishability of
 ordered being.
 
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
-</div>
-</figure>
-
 Thomas Aquinas saw in this perishability a proof of the
 existence of God.
 In his *Tertia Via* (Third Way), he argues that the world is full of perishable beings,
@@ -110,10 +100,22 @@ change, exist no longer.
 Something imperishable must underwrite this process; it certainly
 cannot be the perishable beings themselves, since they pass out of
 existence, and take whatever causative powers they effected with them.
-To my mind, the Third Way is no route to the Judeo-Christian Father,
+To my mind, the Third Way is no route to a Judeo-Christian Father,
 wrathful or provident, but rather God as a metaphysical principle of ruin.
 
-I wonder: does the god of ruin smile on this place?
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake8.png" />
+</div>
+</figure>
+
+Does the god of ruin smile on this place?
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake20.png" />
+</div>
+</figure>
+
+Having framed this 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
@@ -221,3 +223,5 @@ dampening my plans for a picturesque hike
 As an ordered composite, arranged in ever greater hierarchies of order, we
 operate in tiny slivers of phase space, and if entropy is maximized,
 we will cease to exist.
+
+bubble, shattered by the reality of a beached and headless swan;
