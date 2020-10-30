@@ -175,6 +175,8 @@ Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and leave my backpack.
 Just as I am about to leave, a toddler appears on the
 counter, and smiling hugely, hands me a random set of keys.
+The woman emerges from behind the curtain and apologetically retrieves
+him, but not, I notice, without a smile of her own.
 
 #### The lesser shrine<a id="sec-2" name="sec-2"></a>
 
