@@ -188,9 +188,8 @@ ocean.
 It is a surface phenomenon in phase space, something which has evolved
 not to preserve order, but to dissipate it with maximum efficiency;
 *life* is the revolver of the door of being par excellence.
-Engaldn calls this "dissipation-driven adaptation", and there is no
-better illustration than wildflowers sprouting through the cracks of
-the tumbledown lot by the backstreet ramp.
+England calls this "dissipation-driven adaptation", and there is no
+better illustration than wildflowers sprouting through the gravel of a tumbledown plot by the backstreet ramp.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -355,3 +354,6 @@ a disembodied pair of hands that emerge from the curtain.
 
  has evolved in accord with thermodynamics to
 *dissipate order with maximum efficiency*.
+
+better illustration than wildflowers sprouting through the cracks of
+the tumbledown lot by the backstreet ramp.
