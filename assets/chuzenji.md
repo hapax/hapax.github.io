@@ -119,8 +119,8 @@ principle of ruin.
 </div>
 </figure>
 
-No insights into the nature of ruin, however profound, will conjure up
-a place to sleep. I remember that the cruise terminal has a Circle K
+No insights into the nature of contingency and order, however
+profound, will conjure up a place to sleep. I remember that the cruise terminal has a Circle K
 konbini, so I walk back and surf the snack aisle, and free wi-fi,
 while a balding clerk listens to the baseball---from what I can tell,
 the Swallows are playing the Baystars---and watches me with a mixture
