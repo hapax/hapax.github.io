@@ -124,7 +124,7 @@ rather, it establishes God as a metaphysical principle of ruin.
 
 Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
-Here, in one of His mansions and dwelling place, I may have the chance
+Here, in one of His dwelling places, I may have the chance
 to find out.
 But 
 
