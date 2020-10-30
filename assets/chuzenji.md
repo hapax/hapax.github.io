@@ -181,8 +181,10 @@ She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 Perhaps life is more than an island of order in a sea of chaos.
-Jeremy England, a brilliant young professor at MIT, has suggested the
-converse: 
+Jeremy England, a brilliant young professor of physics at MIT, has
+suggested the converse: life is not the island of order, but a surface
+phenomenon which has evolved to *dissipate order with maximum
+efficiency*. He calls this "dissipation-driven adaptation".
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
