@@ -76,7 +76,7 @@ way, ruin *is* beautiful, or at least, arresting in some gropingly analogous fas
 But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
 second law of thermodynamics, there are many more ways to fall apart
-than to look good.
+than not.
 Harmony is a vanishing sliver of phase space. Ruin frees matter from
 the human conceit.
 
