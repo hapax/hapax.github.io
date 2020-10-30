@@ -132,10 +132,11 @@ the Swallows are playing the Baystars---and watches my performance
 with indulgence.
 He has nowhere to be; he yawns and switches stations; I can play at
 browsing snacks for as long as I like.
-A convenience store is perhaps the best place to know what forever
-feels like.
-It feels like a balding clerk listening to the baseball scores while a
-gaijin pretends to look at snacks.
+
+Incidentally, this is what forever feels like: a balding clerk
+listening to baseball scores while a gaijin pretends to browse snacks,
+all with the imperturbable slowness of a dream.
+A convenience store is a good place to visit eternity.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake9.png" />
@@ -252,3 +253,8 @@ A convenience store, overflowing as it is with the contingent, is
 paradoxically one of the best places to experience eternity.
 
 No insights into the nature of contingency and order, however
+
+A convenience store is perhaps the best place to know what forever
+feels like.
+It feels like a balding clerk listening to the baseball scores while a
+gaijin pretends to look at snacks.
