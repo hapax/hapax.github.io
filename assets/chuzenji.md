@@ -180,15 +180,16 @@ both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
-Jeremy England is a brilliant young physicist
+Perhaps life is something more than fragile order in a sea of chaos.
+Jeremy England, 
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake5.png" />
 </div>
 </figure>
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/lake5.png" />
+    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
 </div>
 </figure>
 
