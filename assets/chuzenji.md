@@ -138,7 +138,7 @@ the snack aisle, wracked by performative indecision, and look up
 local hotels on wifi.
 Little Forest Inn has rooms.
 A balding clerk listens to the baseball---from what I can tell,
-the Swallows are playing the Baystars---and watches me with quiet indulgence.
+the Swallows are leading the Baystars---and watches me with quiet indulgence.
 He has nowhere to be and all the time in the world. He yawns, switches
 stations; I can play at browsing snacks for as long as I like.
 Incidentally, this is what forever feels like: a balding clerk
@@ -150,7 +150,7 @@ A convenience store is a good place to visit eternity.
 On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill from the middle of the "V" and running like a droplet back
 into the lake as the road crawls westward.
-Little Forest Inn is near this westward fall, cushioned in between an
+Little Forest Inn is near this westward fall, cushioned between an
 enormous shed and an empty weedlot.
 I leave the convenience store, now armed with an array of flavoured
 pretzels, and cut up concrete stairs to the backstreet.
