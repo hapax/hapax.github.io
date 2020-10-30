@@ -120,7 +120,7 @@ principle of ruin.
 </figure>
 
 No insights into the nature of contingency and order, however
-profound, will conjure up a place to stay the night. I remember that the cruise
+profound, will conjure up a place to sleep. I remember that the cruise
 terminal had a small konbini, so I hotfoot it back and dawdle in
 the snack aisle, pretending to be wracked by indecision over different
 flavours of kabukiage, while I scope out local hotels on the wifi.
