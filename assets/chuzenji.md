@@ -109,14 +109,13 @@ who pithily observed that "nothing endures but change."
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
 And what (Aquinas asks) underwrites all that, revolving the door of ontology?
-It can't be the perishable beings themselves, since they
+It cannot be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
 Certainly not, he concludes.
 Something necessary and immortal must keep the machineries of decay
 ticking over.
-
 But this Third Way is no route to a Judeo-Christian Father,
 wrathful or provident as the various Testaments would have us believe;
 rather, it establishes God as a metaphysical principle of ruin.
