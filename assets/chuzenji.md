@@ -110,7 +110,7 @@ who wrote that "nothing endures but change."
 But here, Aquinas makes his bold departure.
 There is change, there is flux, there is destruction; very well.
 But what (Aquinas asks) underwrites all that, and makes the door revolve?
-It certainly cannot be the perishable beings themselves, since they
+It can't be the perishable beings themselves, since they
 disappear and take their causal powers with them.
 Could be a mortal be responsibility for Mortality, or something
 contingent for Contingency itself?
