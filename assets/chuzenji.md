@@ -130,7 +130,9 @@ Is there a theodicy of ruin, some way to reconcile ourselves with
 contingency and the true vastness of phase space?
 Here, in one of His dwelling places, I may have the chance
 to find out.
-The mist plays over 
+Mist plays over the remains of a housefire, and draws my eye up,
+towards the hidden peak of Nantai.
+I am cold, and realize I will need a place to sleep.
 
 I remember passing a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, while scoping out
