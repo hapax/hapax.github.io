@@ -184,8 +184,8 @@ Disorder is also the condition for life.
 </div>
 </figure>
 
-Life seems a little like an incongruous teapot I found in the remains of the
-housefire, an island of order in a sea of chaos.
+At first, life seems like the incongruous teapot I found in the
+remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
 dissolving the sand into the ocean.
