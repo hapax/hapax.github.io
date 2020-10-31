@@ -198,8 +198,8 @@ possible physical explanation for life itself; life as the genius of ruin.
 Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
-variables will raise the dead.
-Loss is loss is loss, and non-equilibrium processes have no say in the matter.
+timescales will raise the dead.
+Loss is loss is loss, into which life rushes headlong.
 
 I head back down to the main street, no plans in mind; life would mess
 them up anyway, as a matter of thermodynamic necessity.
@@ -401,3 +401,5 @@ There is more to life than the sliver of phase space, the island of
 order in a sea of chaos.
 
 A lean-to at the back reminds of a Shinto shrines dotted over the country, like wild mushrooms in autumn.
+
+Loss is loss is loss, and non-equilibrium processes have no say in the matter.
