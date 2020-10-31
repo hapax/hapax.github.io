@@ -179,7 +179,7 @@ The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
-At first, life seems as incongruous as teapot I found in the
+At first, life seems as incongruous as the teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
@@ -189,6 +189,7 @@ in accord with thermodynamics, not to preserve order but to *dissipate
 it with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
 possible thermodynamic explanation for life itself.
+Life as the genius of ruin.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
@@ -201,10 +202,13 @@ restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
 
+I head back down to the main street, with thoughts of life, disorder,
+being and ruin, orbiting about me.
+I have no plans; life will them anyway.
 England's notion of life as the genius of ruin is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot by the
 ramp.
-At the back is a lean-to which reminds me of a makeshift shrine.
+At the back is a lean-to which looks almost like a makeshift shrine.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
