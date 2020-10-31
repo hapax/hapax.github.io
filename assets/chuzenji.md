@@ -188,7 +188,7 @@ It is a surface phenomenon which has evolved,
 in accord with thermodynamics, not to preserve order but to *dissipate
 it with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
-possible physical explanation for life itself; life as the genius of ruin.
+possible physical explanation for life itself; as the genius of ruin.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
