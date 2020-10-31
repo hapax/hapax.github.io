@@ -136,11 +136,11 @@ I am cold. I have no cell reception. I will need a place to sleep.
 I passed a *konbini* in the cruise terminal, so I walk back and dawdle in
 the snack aisle, wracked by performative indecision, which search
 for hotels on the wifi.
-Little Forest Inn has rooms.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are leading the Baystars---and watches me with quiet indulgence.
 He has nowhere to be and all the time in the world. He yawns, switches
 stations; I can play at browsing snacks for as long as I like.
+Little Forest Inn has rooms.
 Incidentally, this is what forever feels like: a balding clerk
 listening to baseball scores, while a gaijin picks up one brand of novelty
 pretzel after another after another, all with the imperturbable slowness of a
