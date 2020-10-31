@@ -179,8 +179,6 @@ The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
-I head back down to the main street, with thoughts of life, disorder,
-being and ruin, orbiting about me.
 There is more to life than the sliver of phase space, the island of
 order in a sea of chaos.
 Jeremy England, a brilliant young physicist at MIT, has
@@ -385,3 +383,6 @@ T
 
 The woman materialises and retrieves toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
+
+I head back down to the main street, with thoughts of life, disorder,
+being and ruin, orbiting about me.
