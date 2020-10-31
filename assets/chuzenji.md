@@ -183,9 +183,9 @@ At first, life seems as incongruous as the teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
-dissolving the sand into the ocean.
+washing the sand into the ocean.
 It is a surface phenomenon, a bleeding edge evolved
-in accord with thermodynamics, not to preserve order but to *dissipate
+in accord with thermodynamics not to preserve order but to *dissolve
 it with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
 possible physical explanation for life itself; as the genius of ruin.
@@ -204,7 +204,7 @@ The fact that we may be rushing headlong into it, as a matter of
 thermodynamic necessity, does not comfort me.
 
 I head back down to the main street, no plans in mind.
-Life would nibble at them anyway.
+Life would nibble away at them anyway.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 At the back sits a rusty lean-to.
