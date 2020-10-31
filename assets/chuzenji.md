@@ -206,8 +206,7 @@ I head back down to the main street, no plans in mind; life would mess
 them up anyway, as a matter of thermodynamic necessity.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-A lean-to at the back reminds of the Shinto shrines dotted all over
-the country, like wild mushrooms in autumn.
+A lean-to at the back reminds of a Shinto shrine.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -401,3 +400,5 @@ a skin of chaos
 
 There is more to life than the sliver of phase space, the island of
 order in a sea of chaos.
+
+A lean-to at the back reminds of a Shinto shrines dotted over the country, like wild mushrooms in autumn.
