@@ -181,17 +181,19 @@ She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 I head back down to the main street.
-Life. Perhaps it is more than a fragile sliver, the island of order in a sea of chaos.
-Jeremy England, a brilliant young professor of physics at MIT, has
-suggested the converse: life is not the island of order, but the waves
+Life, disorder, being and ruin. There is more to it than the island of
+order in a sea of chaos.
+Jeremy England, a brilliant young physicist at MIT, has
+suggested that life is not the island of order, but the waves
 lapping at the shore, gradually dissolving the landmass into the
 ocean.
-It is a surface phenomenon, a skin of chaos, which has evolved
-in accord with thermodynamics not to preserve order but to dissipate
+It is a surface phenomenon: a skin of chaos which has evolved,
+in accord with thermodynamics, not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
-If England is correct, life is the genius of ruin, and there is no
-better illustration than the wildflowers sprouting through the gravel
+If he is correct, life is the genius of ruin, the pre-eminent revolver
+of the door.
+There is no better illustration than the wildflowers sprouting through the gravel
 of a tumbledown plot by the ramp.
 
 <figure>
