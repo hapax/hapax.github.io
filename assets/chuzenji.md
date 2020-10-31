@@ -172,7 +172,7 @@ She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
-tramp upstairs and deposit my backpack and pretzels.
+tramp upstairs to deposit my backpack and pretzels.
 As I come back down the stairs, a toddler appears on the counter,
 smiling hugely, and hands me a set of random keys.
 The woman materialises out of the gloom to retrieve toddler and keys,
