@@ -193,14 +193,13 @@ It is a surface phenomenon which has evolved,
 in accord with thermodynamics, not to preserve order but to *dissipate
 it with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
-thermodynamic explanation for life itself.
+possible thermodynamic explanation for life itself.
 
 Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
-Loss is loss is loss.
-Non-equilibrium processes have no say in the matter.
+Loss is loss is loss, and non-equilibrium processes have no say in the matter.
 But if England is correct, life is the genius of ruin, exemplified by
 the wildflowers sprouting through the gravel of a tumbledown plot by the ramp.
 
