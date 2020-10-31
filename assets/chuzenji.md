@@ -179,15 +179,21 @@ The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
-Life is perhaps more than an island of order in a sea of chaos.
-Jeremy England, a brilliant young physicist at MIT, has
-suggested the converse: life is not the island of order, but the waves
-lapping at the shore and gradually dissolving the sand into the
-ocean.
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/teapot.png" />
+</div>
+</figure>
+
+Life seems a little like an incongruous teapot I found in the remains of the
+housefire, an island of order in a sea of chaos.
+But physicist Jeremy England has suggested the converse: life is not
+the island of order, but the waves lapping at the shore and gradually
+dissolving the sand into the ocean.
 It is a surface phenomenon which has evolved,
-in accord with thermodynamics, not to preserve order but to dissipate
-it with maximum efficiency; England calls this "dissipation-driven
-adaptation".
+in accord with thermodynamics, not to preserve order but to *dissipate
+it with maximum efficiency*.
+England calls this "dissipation-driven adaptation", and it provides a
+thermodynamic explanation for life itself.
 
 Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
