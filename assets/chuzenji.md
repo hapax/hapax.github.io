@@ -1,6 +1,6 @@
 ---
 title:  "The Okunikko theodicy"
-date:  2020-07-06
+date:  2020-10-31
 layout: post
 ---
 
@@ -199,11 +199,12 @@ Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
-Loss is loss is loss, a vacuum we rush headlong into as if our lives
-depended on it; perhaps they do.
+Loss is loss is loss.
+The fact that we may be rushing headlong into it, as a matter of
+thermodynamic necessity, does not comfort me.
 
 I head back down to the main street, no plans in mind.
-Life would mess them up anyway, as a matter of necessity.
+Life would mess them up anyway.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 At the back sits a rusty lean-to.
@@ -406,3 +407,6 @@ A lean-to at the back reminds of a Shinto shrines dotted over the country, like 
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
 
 A lean-to at the back reminds of a Shinto shrine.
+
+Loss is loss is loss, a vacuum we rush headlong into as if our lives
+depended on it; perhaps they do.
