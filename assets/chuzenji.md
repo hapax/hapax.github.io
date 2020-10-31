@@ -205,9 +205,9 @@ thermodynamic necessity, does not comfort me.
 
 I head back down to the main street, no plans in mind.
 Life would nibble away at them anyway.
-By the ramp, England's hypothesis is exemplified by the
+By the ramp, England's hypothesis is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-At the back sits a rusty lean-to.
+At the back, a rusty lean-to 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
