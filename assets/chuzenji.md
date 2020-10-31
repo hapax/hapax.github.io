@@ -71,7 +71,7 @@ Among these melancholy and disquieting creatures, I begin to ponder
 the nature of ruin.
 Is it mere grotesquerie, like the swan, things disharmonious
 in the arrangement of their parts?
-That would make it an aesthetic phenomenon like beauty, and in a
+That would make it an aesthetic judgment like beauty, and in a
 way, ruin *is* beautiful, or at least, arresting in some gropingly analogous fashion.
 But disharmony is different from beauty, since easier
 to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
