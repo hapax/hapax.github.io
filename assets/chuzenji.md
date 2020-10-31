@@ -180,8 +180,8 @@ both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
-I head back down to the main street.
-Life, disorder, being and ruin. There is more to it than the island of
+I head back down to the main street, with thoughts of life, disorder,
+being and ruin, orbiting about me. There is more to it than the island of
 order in a sea of chaos.
 Jeremy England, a brilliant young physicist at MIT, has
 suggested that life is not the island of order, but the waves
