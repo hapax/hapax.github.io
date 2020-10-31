@@ -181,12 +181,12 @@ She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 I head back down to the main street.
-Life. Perhaps it is more than an island of order in a sea of chaos.
+Life. Perhaps it is more than a fragile sliver, the island of order in a sea of chaos.
 Jeremy England, a brilliant young professor of physics at MIT, has
 suggested the converse: life is not the island of order, but the waves
 lapping at the shore, gradually dissolving the landmass into the
 ocean.
-It is a surface phenomenon in phase space, a skin of chaos, which has evolved
+It is a surface phenomenon, a skin of chaos, which has evolved
 in accord with thermodynamics not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
@@ -368,3 +368,8 @@ better illustration than wildflowers sprouting through the cracks of
 the tumbledown lot by the backstreet ramp.
 
 is the revolver of the door of being par excellence,
+
+It is a surface phenomenon in phase space, a skin of chaos, which has evolved
+in accord with thermodynamics not to preserve order but to dissipate
+it with maximum efficiency; England calls this "dissipation-driven
+adaptation".
