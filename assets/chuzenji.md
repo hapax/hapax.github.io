@@ -190,7 +190,7 @@ It is a surface phenomenon, a skin of chaos, which has evolved
 in accord with thermodynamics not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
-Life, if England is correct, is the genius of ruin, and there is no
+If England is correct, life is the genius of ruin, and there is no
 better illustration than the wildflowers sprouting through the gravel
 of a tumbledown plot by the ramp.
 
@@ -199,7 +199,12 @@ of a tumbledown plot by the ramp.
 </div>
 </figure>
 
-This, by itself, is too glib to constitute a theodicy.
+Life may thrive at the margins of disorder, but this is too glib to
+constitute a theodicy.
+No application of Jarzynski's inequality, however ingenious, can
+restore the Library of Alexandria; no judicious separation of
+variables raise the dead.
+
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
 Shinto shrine, a celebration of the hidden forces of the world.
