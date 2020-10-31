@@ -199,8 +199,8 @@ Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
-Loss is loss is loss.
-We rush headlong into the sea of chaos as if our lives depended on it; and perhaps they do.
+Loss is loss is loss, a vacuum we rush headlong into as if our lives
+depended on it; perhaps they do.
 
 I head back down to the main street, no plans in mind.
 Life would mess them up anyway as a matter of necessity.
