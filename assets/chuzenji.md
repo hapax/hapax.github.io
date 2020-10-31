@@ -179,8 +179,7 @@ The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
-There is more to life than the sliver of phase space, the island of
-order in a sea of chaos.
+Life is perhaps more than an island of order in a sea of chaos.
 Jeremy England, a brilliant young physicist at MIT, has
 suggested the converse: life is not the island of order, but the waves
 lapping at the shore and gradually dissolving the sand into the
@@ -196,9 +195,8 @@ restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss.
 Non-equilibrium processes have no say in the matter.
-But if England is correct, life is the genius of ruin, and there is no
-better illustration than the wildflowers sprouting through the gravel
-of a tumbledown plot by the ramp.
+But if England is correct, life is the genius of ruin, exemplified by
+the wildflowers sprouting through the gravel of a tumbledown plot by the ramp.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -391,3 +389,6 @@ Life may thrive at the margins of disorder, but this is too glib to
 constitute a theodicy.
 
 a skin of chaos
+
+There is more to life than the sliver of phase space, the island of
+order in a sea of chaos.
