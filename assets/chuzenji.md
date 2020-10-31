@@ -174,23 +174,23 @@ with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and deposit my backpack and pretzels.
 As I am leaving, a toddler appears all by himself on the
-counter, smiling hugely, and hands me a set of random keys.
-The woman dashes out from some other darkened corridor to retrieve
+counter, and smiling hugely, hands me a set of random keys.
+The woman dashes out from another room to retrieve
 both toddler and keys, apologising profusely.
 She does not, I notice, entirely suppress a smile of her own.
 Disorder is the condition for life as well as death.
 
 I head back down to the main street.
-Perhaps life is more than an island of order in a sea of chaos.
+Life. Perhaps it is more than an island of order in a sea of chaos.
 Jeremy England, a brilliant young professor of physics at MIT, has
 suggested the converse: life is not the island of order, but the waves
 lapping at the shore, gradually dissolving the landmass into the
 ocean.
 It is a surface phenomenon in phase space, a skin of chaos, which has evolved
-in accord with thermodynamics not to preserve order, but to dissipate
+in accord with thermodynamics not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
-Life, it seems, is the genius of ruin, and there is no
+Life, if England is correct, is the genius of ruin, and there is no
 better illustration than the wildflowers sprouting through the gravel
 of a tumbledown plot by the ramp.
 
@@ -199,7 +199,7 @@ of a tumbledown plot by the ramp.
 </div>
 </figure>
 
-This, by itself, does not constitute a theodicy; it is too glib, too clever. 
+This, by itself, is too glib to constitute a theodicy.
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
 Shinto shrine, a celebration of the hidden forces of the world.
