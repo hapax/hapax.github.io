@@ -173,18 +173,19 @@ is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and deposit my backpack and pretzels.
-As I am leaving, a toddler appears all by himself on the
-counter, and smiling hugely, hands me a set of random keys.
+As I come back down the stairs, a toddler appears on the counter, and
+smiling hugely, hands me a set of random keys.
 The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
 I head back down to the main street, with thoughts of life, disorder,
-being and ruin, orbiting about me. There is more to it than the island of
+being and ruin, orbiting about me.
+There is more to life than the sliver of phase space, the island of
 order in a sea of chaos.
 Jeremy England, a brilliant young physicist at MIT, has
-suggested that life is not the island of order, but the waves
-lapping at the shore, gradually dissolving the landmass into the
+suggested the converse: life is not the island of order, but the waves
+lapping at the shore and gradually dissolving the landmass into the
 ocean.
 It is a surface phenomenon: a skin of chaos which has evolved,
 in accord with thermodynamics, not to preserve order but to dissipate
