@@ -197,10 +197,11 @@ of a tumbledown plot by the ramp.
 </div>
 </figure>
 
-Life may thrive at the margins of disorder, but this is no theodicy.
+Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
+Non-equilibrium 
 
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
