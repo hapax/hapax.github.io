@@ -201,8 +201,9 @@ restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
 
-Life as the genius of ruin is illustrated by the wildflowers sprouting
-through the gravel of a tumbledown plot by the ramp.
+England's notion of life as the genius of ruin is illustrated by the
+wildflowers sprouting through the gravel of a tumbledown plot by the
+ramp.
 At the back is a lean-to which reminds me of a makeshift shrine.
 
 <figure>
