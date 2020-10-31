@@ -102,7 +102,7 @@ In his *Tertia Via* (Third Way), he argues that the world is full of
 perishable orderings---things like
 boats and people and economic growth---which come into being for a time,
 but by the agency of death, corruption and change, go out of it again,
-through a sort of ontological revolving door.
+through a sort of revolving door of ontology.
 So far, he is in agreement with Heraclitus, the pre-Socratic
 who pithily observed that "nothing endures but change."
 
