@@ -197,8 +197,7 @@ of a tumbledown plot by the ramp.
 </div>
 </figure>
 
-Life may thrive at the margins of disorder, but this is too glib to
-constitute a theodicy.
+Life may thrive at the margins of disorder, but this is no theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
@@ -386,3 +385,6 @@ She does not, I notice, entirely suppress a smile of her own.
 
 I head back down to the main street, with thoughts of life, disorder,
 being and ruin, orbiting about me.
+
+Life may thrive at the margins of disorder, but this is too glib to
+constitute a theodicy.
