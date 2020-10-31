@@ -201,7 +201,8 @@ Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
-Non-equilibrium 
+Loss is loss is loss.
+Non-equilibrium processes have no say in the matter.
 
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
