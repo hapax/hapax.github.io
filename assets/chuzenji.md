@@ -134,7 +134,7 @@ towards the hidden peak of Nantai.
 I am cold. I have no cell reception. I will need a place to sleep.
 
 I passed a *konbini* in the cruise terminal, so I walk back and dawdle in
-the snack aisle, wracked by performative indecision, and look up
+the snack aisle, wracked by performative indecision, and sneakily look up
 local hotels on wifi.
 Little Forest Inn has rooms.
 A balding clerk listens to the baseball---from what I can tell,
