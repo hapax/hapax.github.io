@@ -175,10 +175,9 @@ Between her broken English and my broken Japanese, a room is booked; I
 tramp upstairs and deposit my backpack and pretzels.
 As I am leaving, a toddler appears all by himself on the
 counter, and smiling hugely, hands me a set of random keys.
-The woman dashes out from another room to retrieve
-both toddler and keys, apologising profusely.
-She does not, I notice, entirely suppress a smile of her own.
-Disorder is the condition for life as well as death.
+The woman materialises out of the gloom to retrieve toddler and keys,
+muttering apologies, but not without suppressing a smile of her own.
+Disorder is also the condition for life.
 
 I head back down to the main street, with thoughts of life, disorder,
 being and ruin, orbiting about me. There is more to it than the island of
@@ -382,3 +381,6 @@ adaptation".
 the pre-eminent revolver
 of the door.
 T
+
+The woman materialises and retrieves toddler and keys, apologising profusely.
+She does not, I notice, entirely suppress a smile of her own.
