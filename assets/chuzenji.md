@@ -202,12 +202,10 @@ restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
 
-I head back down to the main street, with thoughts of life, disorder,
-being and ruin, orbiting about me.
-I have no plans; life will them anyway.
-England's notion of life as the genius of ruin is illustrated by the
-wildflowers sprouting through the gravel of a tumbledown plot by the
-ramp.
+I head back down to the main street, no plans in mind; life would mess
+them up anyway, as a matter of thermodynamic necessity.
+By the ramp, England's hypothesis is exemplified by the
+wildflowers sprouting through the gravel of a tumbledown plot.
 At the back is a lean-to which looks almost like a makeshift shrine.
 
 <figure>
