@@ -203,11 +203,11 @@ Loss is loss is loss.
 The fact that we may be rushing headlong into it, as a matter of
 thermodynamic necessity, does not comfort me.
 
-I head back down to the main street, no plans in mind, no islands for
-life to eat away at.
+I head back down to the main street, no plans in mind, nothing for
+life to nibble at.
 By the ramp, England's hypothesis is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-At the back, a rusty lean-to 
+At the back, a rusty lean-to
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
