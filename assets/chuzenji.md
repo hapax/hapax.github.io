@@ -206,7 +206,8 @@ I head back down to the main street, no plans in mind; life would mess
 them up anyway, as a matter of thermodynamic necessity.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-At the back is a lean-to which looks almost like a makeshift shrine.
+A lean-to at the back reminds of the Shinto shrines dotted all over
+the country, like wild mushrooms in autumn.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
