@@ -188,7 +188,7 @@ It is a surface phenomenon, a bleeding edge evolved
 in accord with thermodynamics not to preserve order but to *convert to
 disorder with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
-possible physical explanation for life itself; as the genius of ruin.
+possible physical explanation for life itself.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
@@ -203,8 +203,8 @@ Loss is loss is loss.
 The fact that we may be rushing headlong into it, as a matter of
 thermodynamic necessity, does not comfort me.
 
-I head back down to the main street, no plans in mind.
-Life would nibble away at them anyway.
+I head back down to the main street, no plans in mind, no islands for
+life to eat away at.
 By the ramp, England's hypothesis is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 At the back, a rusty lean-to 
