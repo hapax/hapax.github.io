@@ -206,7 +206,7 @@ I head back down to the main street, no plans in mind.
 Life would mess them up anyway, as a matter of necessity.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-A lean-to at the back reminds of a Shinto shrine.
+At the back sits a rusty lean-to.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -404,3 +404,5 @@ order in a sea of chaos.
 A lean-to at the back reminds of a Shinto shrines dotted over the country, like wild mushrooms in autumn.
 
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
+
+A lean-to at the back reminds of a Shinto shrine.
