@@ -200,15 +200,15 @@ No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss, and non-equilibrium processes have no say in the matter.
-But if England is correct, life is the genius of ruin, exemplified by
-the wildflowers sprouting through the gravel of a tumbledown plot by the ramp.
+
+Life as the genius of ruin is illustrated by the wildflowers sprouting
+through the gravel of a tumbledown plot by the ramp.
+At the back is a lean-to which reminds me of a makeshift shrine.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
 </div>
 </figure>
-
-At the back of the plot is a lean-to which looks almost like a makeshift shrine.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
