@@ -191,9 +191,7 @@ It is a surface phenomenon: a skin of chaos which has evolved,
 in accord with thermodynamics, not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
-If he is correct, life is the genius of ruin, the pre-eminent revolver
-of the door.
-There is no better illustration than the wildflowers sprouting through the gravel
+If he is correct, life is the genius of ruin, and there is no better illustration than the wildflowers sprouting through the gravel
 of a tumbledown plot by the ramp.
 
 <figure>
@@ -380,3 +378,7 @@ It is a surface phenomenon in phase space, a skin of chaos, which has evolved
 in accord with thermodynamics not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
+
+the pre-eminent revolver
+of the door.
+T
