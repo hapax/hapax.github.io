@@ -204,19 +204,17 @@ variables will raise the dead.
 Loss is loss is loss.
 Non-equilibrium processes have no say in the matter.
 
-There is a lean-to at the back of the plot which feels almost like a
-makeshift shrine.
-Shinto shrine, a celebration of the hidden forces of the world.
-惟神の道
+At the back of the plot is a lean-to which looks almost like a makeshift shrine.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake6.png" />
 </div>
 </figure>
 
-#### The lesser shrine<a id="sec-2" name="sec-2"></a>
-
 #### Extra
+
+Shinto shrine, a celebration of the hidden forces of the world.
+惟神の道
 
 In 782,
 Hashiri Daikokutendo
