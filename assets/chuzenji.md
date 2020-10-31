@@ -204,8 +204,8 @@ variables will raise the dead.
 Loss is loss is loss.
 Non-equilibrium processes have no say in the matter.
 
-There is a lean-to at the back of the plot.
-feels almost like a makeshift
+There is a lean-to at the back of the plot which feels almost like a
+makeshift shrine.
 Shinto shrine, a celebration of the hidden forces of the world.
 惟神の道
 
