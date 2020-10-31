@@ -203,7 +203,7 @@ Loss is loss is loss, a vacuum we rush headlong into as if our lives
 depended on it; perhaps they do.
 
 I head back down to the main street, no plans in mind.
-Life would mess them up anyway as a matter of necessity.
+Life would mess them up anyway, as a matter of necessity.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 A lean-to at the back reminds of a Shinto shrine.
