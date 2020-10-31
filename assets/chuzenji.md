@@ -199,12 +199,11 @@ Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
-Loss is loss is loss, and we rush headlong into the sea of disorder as
-if our lives depended on it; and perhaps they do.
+Loss is loss is loss.
+We rush headlong into the sea of chaos as if our lives depended on it; and perhaps they do.
 
 I head back down to the main street, no plans in mind.
-life would mess
-them up anyway, as a matter of thermodynamic necessity.
+Life would mess them up anyway as a matter of necessity.
 By the ramp, England's hypothesis is exemplified by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 A lean-to at the back reminds of a Shinto shrine.
