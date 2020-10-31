@@ -203,7 +203,7 @@ Life may thrive at the margins of disorder, but this is too glib to
 constitute a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
-variables raise the dead.
+variables will raise the dead.
 
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
