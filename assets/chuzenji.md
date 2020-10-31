@@ -192,17 +192,17 @@ adaptation".
 If he is correct, life is the genius of ruin, and there is no better illustration than the wildflowers sprouting through the gravel
 of a tumbledown plot by the ramp.
 
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake5.png" />
-</div>
-</figure>
-
 Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 variables will raise the dead.
 Loss is loss is loss.
 Non-equilibrium processes have no say in the matter.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake5.png" />
+</div>
+</figure>
 
 At the back of the plot is a lean-to which looks almost like a makeshift shrine.
 
