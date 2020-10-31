@@ -207,7 +207,7 @@ I head back down to the main street, no plans in mind, nothing for
 life to nibble at.
 By the ramp, England's hypothesis is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot.
-At the back, a rusty lean-to
+At the back sits a rusty lean-to.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
