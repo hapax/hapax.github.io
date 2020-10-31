@@ -172,7 +172,7 @@ She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked; I
-tramp upstairs and deposit my backpack.
+tramp upstairs and deposit my backpack and pretzels.
 As I am leaving, a toddler appears all by himself on the
 counter, smiling hugely, and hands me a set of random keys.
 The woman dashes out from some other darkened corridor to retrieve
@@ -186,18 +186,20 @@ Jeremy England, a brilliant young professor of physics at MIT, has
 suggested the converse: life is not the island of order, but the waves
 lapping at the shore, gradually dissolving the landmass into the
 ocean.
-It is a surface phenomenon in phase space, something which has evolved
-in accord with thermodynamics not to preserve order, but to dissipate it with maximum efficiency; England calls this "dissipation-driven adaptation".
-Life, it seems, is the revolver of the door of being par excellence,
-the genius of ruin, and there is no
+It is a surface phenomenon in phase space, a skin of chaos, which has evolved
+in accord with thermodynamics not to preserve order, but to dissipate
+it with maximum efficiency; England calls this "dissipation-driven
+adaptation".
+Life, it seems, is the genius of ruin, and there is no
 better illustration than the wildflowers sprouting through the gravel
-of a tumbledown plot by the ramp to the backstreet.
+of a tumbledown plot by the ramp.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
 </div>
 </figure>
 
+This, by itself, does not constitute a theodicy; it is too glib, too clever. 
 There is a lean-to at the back of the plot.
 feels almost like a makeshift
 Shinto shrine, a celebration of the hidden forces of the world.
@@ -364,3 +366,5 @@ a disembodied pair of hands that emerge from the curtain.
 
 better illustration than wildflowers sprouting through the cracks of
 the tumbledown lot by the backstreet ramp.
+
+is the revolver of the door of being par excellence,
