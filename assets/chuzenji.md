@@ -185,7 +185,7 @@ Jeremy England, a brilliant young physicist at MIT, has
 suggested the converse: life is not the island of order, but the waves
 lapping at the shore and gradually dissolving the sand into the
 ocean.
-It is a surface phenomenon: a skin of chaos which has evolved,
+It is a surface phenomenon, a skin of chaos which has evolved,
 in accord with thermodynamics, not to preserve order but to dissipate
 it with maximum efficiency; England calls this "dissipation-driven
 adaptation".
