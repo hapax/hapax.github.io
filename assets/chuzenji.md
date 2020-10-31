@@ -179,11 +179,6 @@ The woman materialises out of the gloom to retrieve toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/teapot.png" />
-</div>
-</figure>
-
 At first, life seems like the incongruous teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
@@ -194,6 +189,11 @@ in accord with thermodynamics, not to preserve order but to *dissipate
 it with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
 possible thermodynamic explanation for life itself.
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/teapot.png" />
+</div>
+</figure>
 
 Life may thrive at the margins of disorder, but this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
