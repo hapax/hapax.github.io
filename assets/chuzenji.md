@@ -175,7 +175,7 @@ Between her broken English and my broken Japanese, a room is booked.
 With the infinite solicitude of *omotenashi* (Japanese hospitality),
 she unfolds a map and inscribes some points of interest---the
 temple, the falls, the grocer---in between demotic hesitation markers and
-regrets for the seasonal closures, as if it were a careless oversight
+regrets for seasonal closures, as if it were a careless oversight
 on her part not to keep them open for me.
 
 I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of
