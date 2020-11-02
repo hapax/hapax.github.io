@@ -181,11 +181,13 @@ on her part not to keep them open for me.
 I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of
 complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
-terraced dwellings between the back and mainstreets.
-Descending again, a toddler appears on the counter,
-smiling hugely, and hands me a set of random keys.
-My host materialises out of the gloom again to rescue toddler and keys,
-muttering and bowing apologies, though not without suppressing a smile of her own.
+terraced dwellings between the back and mainstreets; I feel like the
+town has floated into the stratosphere.
+Descending again, a toddler has appeared on the counter, smiling
+hugely, and hands me a set of random keys.
+Almost as miraculously as the toddler, my host materialises again to
+recover toddler and keys, bowing apologies, but not entirely
+suppressing a smile of her own.
 Disorder is also the condition for life.
 
 At first, life seems as incongruous as the teapot I found in the
@@ -437,3 +439,5 @@ selection, whatever the elegance of its mechanism, cannot
 a map of the area inscribed with points of interest---the bus
 stop, grocer, Italian restaurant---punctuated with the "anos" and
 "etos" of 
+
+my host materialises out of the gloom again to rescue toddler and keys,
