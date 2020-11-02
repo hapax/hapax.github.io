@@ -212,8 +212,8 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-Say life thrives at the frontiers of ruin. Is this a theodicy?
-No application of Jarzynski's inequality, however ingenious, can
+Say life thrives at the frontiers of ruin. Is this a theodicy? I think
+not. No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
 Loss is loss is loss, and when order runs out, so does life.
