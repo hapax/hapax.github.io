@@ -217,7 +217,7 @@ from first principles; these tasks fall to other systems of thought.
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
-By the ramp, England's hypothesis is illustrated by the splendid
+By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
 At the back sits a rusty lean-to, 
 
