@@ -235,7 +235,6 @@ shrine, housing rakes and chain-tires in place of the Tablets of
 Law. Religion, humour, art.
 But the lean-to might also contain fertiliser, or swan heads, or
 nothing at all.
-It is a *concealed presence* and a space for the possible; now philosophy.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -508,3 +507,5 @@ But perspective guides my thoughts along this linear strip of growth
 to the rusted lean-to
 
 a representative instance of England's hypothesis.
+
+It is *concealed presence*, and comparing 
