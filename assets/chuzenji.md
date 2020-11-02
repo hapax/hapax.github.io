@@ -190,8 +190,7 @@ town has floated into the stratosphere.
 Descending again, a toddler sits on the counter, and with a
 smile of inexpressible joy at his act of mimicry, hands me a set of
 housekeys.
-My host materialises again to recover toddler and keys, bowing
-apologies, but not entirely suppressing a smile of her own;
+My host materialises again to recover toddler and keys, apologising profusely, but not entirely suppressing a smile of her own;
 a little life peeping through the formality.
 
 I leave the inn thinking of life and its relation to disorder, the toddler's true gift.
