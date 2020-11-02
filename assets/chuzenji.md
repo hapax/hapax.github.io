@@ -227,7 +227,7 @@ broader responsibilities and margins of error: religion, philosophy,
 art, humour.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
-plot, a representative instance of England's hypothesis.
+plot, a diagram of England's hypothesis.
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
@@ -503,3 +503,5 @@ Loss is loss is loss, and when order runs out, so does life.
 
 But perspective guides my thoughts along this linear strip of growth
 to the rusted lean-to
+
+a representative instance of England's hypothesis.
