@@ -194,7 +194,7 @@ My host materialises again to rescue toddler and keys, apologising
 profusely but not entirely suppressing a smile of her own;
 a little life peeping through the formality.
 
-I leave the inn thinking about the toddler's gift, life and its relation to disorder.
+I leave the inn thinking about the toddler's gift: life and its relation to disorder.
 At first, life seems as incongruous as a teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
@@ -220,7 +220,7 @@ Loss is loss is loss, and when order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
-religion, philosophy, art, the ordinary necessities of human existence.
+religion, philosophy, art, humour.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
@@ -472,3 +472,5 @@ Spheres within spheres.
 
 But the rusty lean-to at the back gestures towards other forces.
 A box, by construction, conceals void; 
+
+the ordinary necessities of human existence.
