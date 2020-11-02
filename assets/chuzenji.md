@@ -183,9 +183,9 @@ complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
 terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler has appeared on the counter, and smiling
-hugely, hands me a set of random keys.
-His joy in this small act of mimicry is inexpressible.
+Descending again, a toddler has appeared miraculously on the counter,
+and hands me a set of random keys with inexpressible joy at his act of
+mimicry.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
 disorder is also the condition for life.
@@ -444,3 +444,5 @@ stop, grocer, Italian restaurant---punctuated with the "anos" and
 my host materialises out of the gloom again to rescue toddler and keys,
 
 Almost as miraculously as the toddler, my host materialises again to
+
+His joy in this small act of mimicry is inexpressible.
