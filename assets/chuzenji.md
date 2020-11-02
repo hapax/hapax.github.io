@@ -178,8 +178,7 @@ temple, the falls, the grocer---between demotic hesitation markers and
 regrets for seasonal closures, as if it were a careless oversight on
 her part not to keep them open on my behalf.
 
-I tramp upstairs to deposit my backpack and pretzels, catch my breath,
-and take in the view of the lake.
+I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of complimentary *matcha*.
 Descending again, a toddler appears on the counter,
 smiling hugely, and hands me a set of random keys.
 My host materialises out of the gloom again to rescue toddler and keys,
