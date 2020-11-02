@@ -212,7 +212,7 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-Even if life thrives at the frontiers of ruin, this is not a theodicy.
+Say life thrives at the frontiers of ruin. Is this a theodicy?
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
@@ -220,7 +220,7 @@ Loss is loss is loss, and when order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
-religion, philosophy, art, and the ordinary necessities of human existence.
+religion, philosophy, art, the ordinary necessities of human existence.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
