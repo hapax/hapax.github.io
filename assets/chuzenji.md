@@ -231,7 +231,8 @@ plot, a representative instance of England's hypothesis.
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
-shrine, housing rakes and chain-tires in place of the Tablets of Law.
+shrine, housing rakes and chain-tires in place of the Tablets of
+Law. Religion and humour.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
