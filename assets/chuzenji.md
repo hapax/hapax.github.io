@@ -188,8 +188,8 @@ the blaze that consumed the house.
 It is a surface phenomenon evolved
 in accord with thermodynamics not to preserve order but to *convert to
 disorder with maximum efficiency*.
-England calls this "dissipation-driven adaptation", and it provides a
-possible physical explanation for life itself.
+England calls this "dissipation-driven adaptation", and it may explain
+why, with enough chaos, life is physically inevitable.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
@@ -413,3 +413,6 @@ Loss is loss is loss, a vacuum we rush headlong into as if our lives
 depended on it; perhaps they do.
 
 It is a surface phenomenon, a bleeding edge evolved
+
+England calls this "dissipation-driven adaptation", and it provides a
+possible physical explanation for life itself.
