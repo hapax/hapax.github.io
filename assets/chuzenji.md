@@ -188,8 +188,7 @@ My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
 a little life peeping through the formality.
 
-I leave the inn thinking of life and its relation to disorder, as if
-this were the toddler's true gift.
+I leave the inn thinking of life and its relation to disorder, the toddler's true gift.
 At first, life seems as incongruous as a teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
@@ -455,3 +454,6 @@ At first, life seems as incongruous as the teapot I found in the remains of the 
 disorder is also the condition for life.
 
 Even if life thrives at the margins of ruin, this is not a theodicy.
+
+I leave the inn thinking of life and its relation to disorder, as if
+this were the toddler's true gift.
