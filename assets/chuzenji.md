@@ -205,7 +205,7 @@ The fact that we may be rushing headlong into it, as a matter of
 thermodynamic necessity, does not comfort me.
 
 I head back down to the main street, no plans in mind, nothing for
-life to nibble at.
+life to nibble away at.
 By the ramp, England's hypothesis is illustrated by the
 wildflowers sprouting through the gravel of a tumbledown plot.
 At the back sits a rusty lean-to, 
