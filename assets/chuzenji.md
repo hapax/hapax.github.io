@@ -188,8 +188,7 @@ the blaze that consumed the house.
 It is a surface phenomenon, evolved
 in accord with thermodynamics not to preserve order but to *convert to
 disorder with maximum efficiency*.
-England calls this "dissipation-driven adaptation".
-It may explain why, with enough chaos, life is physically inevitable.
+England calls this "dissipation-driven adaptation", and it may explain why life is physically inevitable.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
