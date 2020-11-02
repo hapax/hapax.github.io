@@ -197,8 +197,8 @@ the island of order, but the waves lapping at the shore and gradually
 dissolving the sand into the ocean, less like the teapot and more like
 the blaze that consumed the house.
 It is a surface phenomenon, evolved
-in accord with thermodynamics not to preserve order but to *convert to
-disorder with maximum efficiency*.
+in accord with thermodynamics not to preserve order, but to *convert
+it to disorder with maximum efficiency*.
 England calls this "dissipation-driven adaptation".
 With enough order to burn, life could be inevitable.
 
