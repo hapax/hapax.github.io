@@ -180,7 +180,7 @@ her part not to keep them open on my behalf.
 
 I tramp upstairs to deposit my backpack and pretzels, catch my breath,
 and take in the view of the lake.
-As I come back down the stairs, a toddler appears on the counter,
+Descending again, a toddler appears on the counter,
 smiling hugely, and hands me a set of random keys.
 The woman materialises out of the gloom to rescue toddler and keys,
 muttering apologies, but not without suppressing a smile of her own.
