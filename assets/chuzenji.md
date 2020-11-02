@@ -213,7 +213,8 @@ restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
 Loss is loss is loss.
 Physics cannot render mechanism into human value, or expiate from
-first principles; these tasks fall to other systems of thought.
+first principles; these tasks fall to other systems of thought, the
+spheres within spheres of which any 
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
