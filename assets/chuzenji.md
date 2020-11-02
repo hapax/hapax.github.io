@@ -218,7 +218,7 @@ scales will raise the dead.
 Loss is loss is loss, and that we are so wholly creatures of the god
 of ruin is no comfort.
 Besides, whatever the facts of life, physics cannot render mechanism
-into human value, or expiate from first principles; anyone who has
+into human value, or expiate from first principles. Anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
 scales as the millennia of death.
