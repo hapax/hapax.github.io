@@ -211,7 +211,7 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-Even if life thrives at the edge of ruin, this is not a theodicy.
+Even if life thrives at the frontiers of ruin, this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
@@ -223,7 +223,8 @@ religion, philosophy, art. Spheres within spheres.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
-The rusty lean-to at the back gestures in some other direction.
+But the rusty lean-to at the back gestures towards other forces.
+A box, by construction, conceals void; 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
