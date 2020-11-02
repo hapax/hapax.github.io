@@ -79,8 +79,8 @@ second law of thermodynamics, there are many more ways to fall apart
 than not.
 Harmony is a vanishing sliver of phase space; ruin is the freedom of matter from human conceit.
 
-Now, this democratic view suits the parts, the crumbling staircase and the
-peeling wallpaper, who are ignorant
+Now, this democratic view suits the parts, the rusting staircase and
+the peeling paint, who are ignorant
 of decline and know only combinatorics.
 But the assemblage does not have this luxury:
 when an organism is sufficiently disarranged, it dies; when a building
@@ -159,7 +159,7 @@ Little Forest Inn is near this westward fall, cushioned between an
 enormous shed and an empty weedlot.
 I leave the convenience store, now armed with an array of
 pretzels, and cut up a concrete ramp to the backstreet.
-The weedlot really is a little forest in poetic apposition to the
+The weeds form a little forest in poetic apposition to the
 guesthouse, and I clamber over a fence and down a stone wall to take in
 its petrichor and glistening tussock before checking in.
 
@@ -187,10 +187,9 @@ complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
 terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler sits on the counter, and with a
-smile of inexpressible joy at his act of mimicry, hands me a set of
-housekeys.
-My host materialises again to rescue toddler and keys, apologising
+Descending again, a toddler sits on the counter and hands me a set of
+housekeys, smiling with inexpressible joy at his act of mimicry.
+The host materialises again to rescue toddler and keys, apologising
 profusely but not entirely suppressing a smile of her own;
 a little life peeping through the formality.
 
@@ -222,13 +221,10 @@ from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
 religion, philosophy, art, humour.
 
-By the ramp is a splendid illustration of England's hypothesis:
-wildflowers sprouting through the gravel of a tumbledown plot.
-Presiding over this growth is a rusted lean-to, concealing in all
-probability nothing more exotic than rakes and tire-chains.
-But I am reminded of the Shinto shrines that dot the country like
-autumn mushrooms, and something about the lean-to, in its state of
-*sabi* decrepitude, gives it the air of a makeshift altar.
+By the ramp, wildflowers sprout through the gravel of a tumbledown
+plot, a representative instance of England's hypothesis.
+But perspective guides my thoughts along this linear strip of growth
+to the rusted lean-to
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -478,3 +474,19 @@ But the rusty lean-to at the back gestures towards other forces.
 A box, by construction, conceals void; 
 
 the ordinary necessities of human existence.
+
+Presiding over this growth is a rusted lean-to, concealing in all
+probability nothing more exotic than rakes and tire-chains.
+But I am reminded of the Shinto shrines that dot the country like
+autumn mushrooms, and something about the lean-to, in its state of
+*sabi* decrepitude, gives it the air of a makeshift altar.
+
+At the back, a rusted lean-to seems to carry these thoughts and their
+momentum along the linear strip of growth and into different territory
+altogether.
+
+, a
+bleeding edge between order and chaos
+
+crumbling staircase and the
+peeling wallpaper, who are ignorant
