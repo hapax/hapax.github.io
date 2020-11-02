@@ -189,7 +189,7 @@ It is a surface phenomenon, evolved
 in accord with thermodynamics not to preserve order but to *convert to
 disorder with maximum efficiency*.
 England calls this "dissipation-driven adaptation".
-With enough order to burn, life could be physically inevitable.
+With enough order to burn, life could be inevitable.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/teapot.png" />
@@ -201,8 +201,7 @@ No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
 Loss is loss is loss.
-The fact that we may be rushing headlong into it, as a matter of
-thermodynamic necessity, does not comfort me.
+Its reality is 
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
@@ -416,3 +415,6 @@ It is a surface phenomenon, a bleeding edge evolved
 
 England calls this "dissipation-driven adaptation", and it provides a
 possible physical explanation for life itself.
+
+The fact that we may be rushing headlong into it, as a matter of
+thermodynamic necessity, does not comfort me.
