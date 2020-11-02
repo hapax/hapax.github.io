@@ -218,8 +218,11 @@ scales will raise the dead.
 Loss is loss is loss.
 That we are so wholly creatures of the god of ruin is not a comfort.
 Besides, whatever the facts of life, physics cannot render mechanism
-into human value, or expiate from first principles; these tasks fall
-to other systems of thought, systems with broader responsibilities and
+into human value, or expiate from first principles; anyone who has
+spent a moment thinking about natural selection, for instance, will
+see that the elegance of its explanation cannot be placed on the same
+balance as the millennia of pointless death.
+These tasks fall to other systems of thought, systems with broader responsibilities and
 margins of error: religion, philosophy, art, humour.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
