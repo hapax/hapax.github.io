@@ -183,14 +183,13 @@ complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
 terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler has appeared miraculously on the counter,
-and hands me a set of random keys with inexpressible joy at his act of
-mimicry.
+Descending again, a toddler has appeared on the counter, and with a
+smile of inexpressible joy at his act of mimicry, hands me a set of random keys.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
 disorder is also the condition for life.
 
-At first, life seems as incongruous as the teapot I found in the
+At first, life seems as incongruous as a teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
@@ -446,3 +445,7 @@ my host materialises out of the gloom again to rescue toddler and keys,
 Almost as miraculously as the toddler, my host materialises again to
 
 His joy in this small act of mimicry is inexpressible.
+
+Descending again, a toddler has appeared on the counter, and smiling hugely, hands me a set of random keys. His joy in this small act of mimicry is inexpressible.
+
+At first, life seems as incongruous as the teapot I found in the remains of the housefire, an island of order in a sea of chaos.
