@@ -207,7 +207,7 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-But even if life thrives at the margins of disorder, this is not a theodicy.
+But even if life thrives at the margins of ruin, this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
