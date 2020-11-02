@@ -224,7 +224,8 @@ religion, philosophy, art, humour.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
-Presiding over this growth is a rusted lean-to.
+Presiding over this growth is a rusted lean-to, concealing in all
+probability nothing more exotic than rakes and tire-chains.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
