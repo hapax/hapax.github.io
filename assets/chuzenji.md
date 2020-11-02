@@ -225,7 +225,6 @@ religion, philosophy, art, the ordinary necessities of human existence.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
 Presiding over this growth is a rusted lean-to.
-It probably conceals nothing more exotic than rakes, fertiliser, 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
