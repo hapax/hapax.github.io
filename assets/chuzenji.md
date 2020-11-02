@@ -185,7 +185,7 @@ terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
 Descending again, a toddler has appeared on the counter, and smiling
 hugely, hands me a set of random keys.
-His joy in this simple act is inexpressible.
+His joy in this small act of mimicry is inexpressible.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
 disorder is also the condition for life.
