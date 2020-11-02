@@ -220,7 +220,7 @@ Loss is loss is loss, and when order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
-religion, philosophy, art.
+religion, philosophy, art, the ordinary necessities.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
