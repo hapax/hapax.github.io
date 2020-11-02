@@ -185,7 +185,7 @@ But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
 dissolving the sand into the ocean, less like the teapot and more like
 the blaze that consumed the house.
-It is a surface phenomenon, a bleeding edge evolved
+It is a surface phenomenon evolved
 in accord with thermodynamics not to preserve order but to *convert to
 disorder with maximum efficiency*.
 England calls this "dissipation-driven adaptation", and it provides a
@@ -411,3 +411,5 @@ A lean-to at the back reminds of a Shinto shrine.
 
 Loss is loss is loss, a vacuum we rush headlong into as if our lives
 depended on it; perhaps they do.
+
+It is a surface phenomenon, a bleeding edge evolved
