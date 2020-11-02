@@ -206,14 +206,14 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-Even if life thrives at the margins of ruin, this is not a theodicy.
+Even if life thrives at the edge of ruin, this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
 Loss is loss is loss, and when the order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
-systems with broader responsibilities and looser margins of error:
+systems with broader responsibilities and margins of error:
 religion, philosophy, art.
 
 I head back down to the main street, no plans in mind, nothing for
@@ -457,3 +457,5 @@ Even if life thrives at the margins of ruin, this is not a theodicy.
 
 I leave the inn thinking of life and its relation to disorder, as if
 this were the toddler's true gift.
+
+Even if life thrives at the margins of ruin, this is not a theodicy.
