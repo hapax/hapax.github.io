@@ -214,7 +214,8 @@ restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
 Loss is loss is loss, and when the order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
-from first principles; these tasks fall to other systems of thought.
+from first principles; these tasks fall to other systems of thought,
+systems with broader responsibilities and looser margins of error.
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
