@@ -215,8 +215,8 @@ So, say life thrives at the edges of disorder. Is this a theodicy? I think
 not. No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
-Loss is loss is loss.
-That we are so wholly creatures of the god of ruin is not a comfort.
+Loss is loss is loss, and that we are so wholly creatures of the god
+of ruin is no comfort.
 Besides, whatever the facts of life, physics cannot render mechanism
 into human value, or expiate from first principles; anyone who has
 spent a moment thinking about natural selection, for instance, will
