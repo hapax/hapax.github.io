@@ -1,5 +1,5 @@
 ---
-title:  "The Okunikko theodicy"
+title:  "The argument from perishable beings"
 date:  2020-10-31
 layout: post
 ---
