@@ -216,7 +216,7 @@ from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
 religion, philosophy, art.
 
-I head back down to the main street, no plans in mind, nothing for
+I hit the main street, no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
@@ -459,3 +459,6 @@ I leave the inn thinking of life and its relation to disorder, as if
 this were the toddler's true gift.
 
 Even if life thrives at the margins of ruin, this is not a theodicy.
+
+I head back down to the main street, no plans in mind, nothing for
+life to nibble away at.
