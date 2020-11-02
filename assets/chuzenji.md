@@ -183,7 +183,7 @@ complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
 terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler has appeared on the counter, and with a
+Descending again, a toddler has appeared miraculously on the counter, and with a
 smile of inexpressible joy at his act of mimicry, hands me a set of random keys.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
