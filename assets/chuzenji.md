@@ -193,7 +193,7 @@ At first, life seems as incongruous as a teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
 the island of order, but the waves lapping at the shore and gradually
-dissolving the sand into the ocean, less like the teapot and more like
+dissolving sand into ocean, less like the teapot and more like
 the blaze that consumed the house.
 It is a surface phenomenon, evolved
 in accord with thermodynamics not to preserve order, but to *convert
