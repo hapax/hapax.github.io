@@ -187,8 +187,9 @@ Descending again, a toddler has appeared on the counter, and with a
 smile of inexpressible joy at his act of mimicry, hands me a set of random keys.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
-disorder is also the condition for life.
+a little life peeping through the formality.
 
+I leave the inn thinking of life and its relation to disorder.
 At first, life seems as incongruous as a teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
 But physicist Jeremy England has suggested the converse: life is not
@@ -449,3 +450,5 @@ His joy in this small act of mimicry is inexpressible.
 Descending again, a toddler has appeared on the counter, and smiling hugely, hands me a set of random keys. His joy in this small act of mimicry is inexpressible.
 
 At first, life seems as incongruous as the teapot I found in the remains of the housefire, an island of order in a sea of chaos.
+
+disorder is also the condition for life.
