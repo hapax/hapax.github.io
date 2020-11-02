@@ -225,8 +225,7 @@ I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
-The rusty lean-to at the back seems to gesture towards something
-else, however:
+The rusty lean-to at the back gestures in some other direction.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
