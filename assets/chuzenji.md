@@ -187,7 +187,7 @@ complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
 terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler has appeared miraculously on the counter, and with a
+Descending again, a toddler has appeared on the counter, and with a
 smile of inexpressible joy at his act of mimicry, hands me a set of random keys.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
@@ -221,8 +221,6 @@ from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
 religion, philosophy, art. Spheres within spheres.
 
-I hit the main street with no plans in mind, nothing for
-life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
 The rusty lean-to at the back gestures in some other direction.
@@ -465,3 +463,6 @@ life to nibble away at.
 
 the ordinary necessities of sleeping and
 eating and loving
+
+I hit the main street with no plans in mind, nothing for
+life to nibble away at.
