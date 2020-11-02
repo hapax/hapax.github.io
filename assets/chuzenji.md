@@ -182,8 +182,8 @@ I tramp upstairs to deposit my backpack and pretzels, catch my breath,
 and take in the view of the lake.
 Descending again, a toddler appears on the counter,
 smiling hugely, and hands me a set of random keys.
-The woman materialises out of the gloom to rescue toddler and keys,
-muttering apologies, but not without suppressing a smile of her own.
+My host materialises out of the gloom again to rescue toddler and keys,
+muttering and bowing apologies, though not without suppressing a smile of her own.
 Disorder is also the condition for life.
 
 At first, life seems as incongruous as the teapot I found in the
