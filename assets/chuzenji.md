@@ -211,15 +211,16 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-Say life thrives at the frontiers of ruin. Is this a theodicy? I think
+So, say life thrives at the edges of disorder. Is this a theodicy? I think
 not. No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
-Loss is loss is loss, and when order runs out, so does life.
-Besides, physics cannot render mechanism into human value, or expiate
-from first principles; these tasks fall to other systems of thought,
-systems with broader responsibilities and margins of error:
-religion, philosophy, art, humour.
+Loss is loss is loss.
+That we are so wholly creatures of the god of ruin is not comfort.
+Besides, whatever the facts of life, physics cannot render mechanism
+into human value, or expiate from first principles; these tasks fall
+to other systems of thought, systems with broader responsibilities and
+margins of error: religion, philosophy, art, humour.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
 plot, a representative instance of England's hypothesis.
@@ -490,3 +491,5 @@ bleeding edge between order and chaos
 
 crumbling staircase and the
 peeling wallpaper, who are ignorant
+
+Loss is loss is loss, and when order runs out, so does life.
