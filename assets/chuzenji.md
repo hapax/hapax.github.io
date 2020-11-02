@@ -181,14 +181,14 @@ on her part not to keep them open for me.
 I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of
 complimentary *matcha*.
 Although my window faces the lake, visibility is limited to the
-terraced dwellings between the back and mainstreets; I feel like the
+terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
-Descending again, a toddler has appeared on the counter, smiling
-hugely, and hands me a set of random keys.
-Almost as miraculously as the toddler, my host materialises again to
-recover toddler and keys, bowing apologies, but not entirely
-suppressing a smile of her own.
-Disorder is also the condition for life.
+Descending again, a toddler has appeared on the counter, and smiling
+hugely, hands me a set of random keys.
+His joy in this simple act is inexpressible.
+My host materialises again to recover toddler and keys, bowing
+apologies, but not entirely suppressing a smile of her own;
+disorder is also the condition for life.
 
 At first, life seems as incongruous as the teapot I found in the
 remains of the housefire, an island of order in a sea of chaos.
@@ -441,3 +441,5 @@ stop, grocer, Italian restaurant---punctuated with the "anos" and
 "etos" of 
 
 my host materialises out of the gloom again to rescue toddler and keys,
+
+Almost as miraculously as the toddler, my host materialises again to
