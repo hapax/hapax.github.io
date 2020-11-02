@@ -192,16 +192,17 @@ England calls this "dissipation-driven adaptation".
 With enough order to burn, life could be inevitable.
 
 <figure>
-    <div style="text-align:center"><img src ="/images/photos/teapot.png" />
+    <div style="text-align:center"><img src ="/images/photos/teapot2.png" />
 </div>
 </figure>
 
-Life may thrive at the margins of disorder, but this is not a theodicy.
+But even if life thrives at the margins of disorder, this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
 Loss is loss is loss.
-Its reality is 
+Physics cannot render mechanism into human value, or expiate from
+first principles; these tasks fall to other systems of thought.
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
@@ -418,3 +419,8 @@ possible physical explanation for life itself.
 
 The fact that we may be rushing headlong into it, as a matter of
 thermodynamic necessity, does not comfort me.
+
+Life may thrive at the margins of disorder, but this is not a theodicy.
+
+the same way that natural
+selection, whatever the elegance of its mechanism, cannot 
