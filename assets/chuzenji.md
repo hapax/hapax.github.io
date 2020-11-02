@@ -219,15 +219,15 @@ Loss is loss is loss, and when the order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
-religion, philosophy, art.
+religion, philosophy, art, the ordinary necessities of sleeping and
+eating and loving.
 
-I hit the main street with no plans in mind, nothing for
+Spheres within spheres. I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
 The rusty lean-to at the back seems to gesture towards something
-else.
-
+else, however:
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
