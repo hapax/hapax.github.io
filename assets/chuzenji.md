@@ -221,7 +221,7 @@ Besides, whatever the facts of life, physics cannot render mechanism
 into human value, or expiate from first principles; anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
-scales as the millennia of brutal death.
+scales as the millennia of death.
 These tasks fall to other systems of thought, systems with broader responsibilities and
 margins of error: religion, philosophy, art, humour.
 
