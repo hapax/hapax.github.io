@@ -224,8 +224,6 @@ religion, philosophy, art, and the ordinary necessities of human existence.
 
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
-But the rusty lean-to at the back gestures towards other forces.
-A box, by construction, conceals void; 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -470,3 +468,6 @@ I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 
 Spheres within spheres.
+
+But the rusty lean-to at the back gestures towards other forces.
+A box, by construction, conceals void; 
