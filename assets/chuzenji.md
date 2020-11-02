@@ -189,7 +189,7 @@ terraced dwellings between the back and mainstreets; it looks like the
 town has floated into the stratosphere.
 Descending again, a toddler sits on the counter, and with a
 smile of inexpressible joy at his act of mimicry, hands me a set of
-house keys.
+housekeys.
 My host materialises again to recover toddler and keys, bowing
 apologies, but not entirely suppressing a smile of her own;
 a little life peeping through the formality.
