@@ -216,7 +216,7 @@ from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
 religion, philosophy, art.
 
-I hit the main street, no plans in mind, nothing for
+I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
