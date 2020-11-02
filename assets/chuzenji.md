@@ -222,11 +222,14 @@ into human value, or expiate from first principles. Anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
 scales as the millennia of death.
-
 The task of expiation falls to other systems of thought, systems with
-broader responsibilities and margins of error: religion, philosophy, art, humour.
+broader responsibilities and margins of error: religion, philosophy,
+art, humour.
+
 By the ramp, wildflowers sprout through the gravel of a tumbledown
 plot, a representative instance of England's hypothesis.
+My eyes run along the linear strip of growth to the rusted lean-to at
+the back.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
