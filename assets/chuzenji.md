@@ -172,8 +172,11 @@ She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked.
-With the infinite solicitude of *omotenashi*, Japanese hospitality,
-she unfolds a map and inscribes the few local points of interest.
+With the infinite solicitude of *omotenashi* (Japanese hospitality),
+she unfolds a map and inscribes some points of interest---the
+temple, the falls, the grocer---between demotic hesitation markers and
+regrets for seasonal closures, as if it were a careless oversight on
+her part not to keep them open on my behalf.
 
 I tramp upstairs to deposit my backpack and pretzels, catch my breath,
 and take in the view of the lake.
