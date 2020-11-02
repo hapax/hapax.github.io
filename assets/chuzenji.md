@@ -211,8 +211,8 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-So, say life thrives at the edges of disorder. Is this a theodicy? I think
-not. No application of Jarzynski's inequality, however ingenious, can
+So, say life thrives at the edges of disorder. Is this a theodicy? No;
+no application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
 Loss is loss is loss, and that we are so wholly creatures of the god
@@ -227,8 +227,6 @@ The task of expiation falls to other systems of thought, systems with
 broader responsibilities and margins of error: religion, philosophy, art, humour.
 By the ramp, wildflowers sprout through the gravel of a tumbledown
 plot, a representative instance of England's hypothesis.
-But perspective guides my thoughts along this linear strip of growth
-to the rusted lean-to
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -496,3 +494,6 @@ crumbling staircase and the
 peeling wallpaper, who are ignorant
 
 Loss is loss is loss, and when order runs out, so does life.
+
+But perspective guides my thoughts along this linear strip of growth
+to the rusted lean-to
