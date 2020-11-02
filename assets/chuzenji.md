@@ -216,7 +216,7 @@ not. No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 scales will raise the dead.
 Loss is loss is loss.
-That we are so wholly creatures of the god of ruin is not comfort.
+That we are so wholly creatures of the god of ruin is not a comfort.
 Besides, whatever the facts of life, physics cannot render mechanism
 into human value, or expiate from first principles; these tasks fall
 to other systems of thought, systems with broader responsibilities and
