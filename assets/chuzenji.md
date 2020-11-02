@@ -207,7 +207,7 @@ With enough order to burn, life could be inevitable.
 </div>
 </figure>
 
-But even if life thrives at the margins of ruin, this is not a theodicy.
+Even if life thrives at the margins of ruin, this is not a theodicy.
 No application of Jarzynski's inequality, however ingenious, can
 restore the Library of Alexandria; no judicious separation of
 timescales will raise the dead.
@@ -452,3 +452,5 @@ Descending again, a toddler has appeared on the counter, and smiling hugely, han
 At first, life seems as incongruous as the teapot I found in the remains of the housefire, an island of order in a sea of chaos.
 
 disorder is also the condition for life.
+
+Even if life thrives at the margins of ruin, this is not a theodicy.
