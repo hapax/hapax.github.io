@@ -227,7 +227,7 @@ wildflowers sprouting through the gravel of a tumbledown plot.
 Presiding over this growth is a rusted lean-to, concealing in all
 probability nothing more exotic than rakes and tire-chains.
 But I am reminded of the Shinto shrines that dot the country like
-mushrooms in autumn, and something about the lean-to, in its state of
+autumn mushrooms, and something about the lean-to, in its state of
 *sabi* decrepitude, gives it the air of a makeshift altar.
 
 <figure>
