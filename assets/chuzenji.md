@@ -219,10 +219,9 @@ Loss is loss is loss, and when the order runs out, so does life.
 Besides, physics cannot render mechanism into human value, or expiate
 from first principles; these tasks fall to other systems of thought,
 systems with broader responsibilities and margins of error:
-religion, philosophy, art, the ordinary necessities of sleeping and
-eating and loving.
+religion, philosophy, art. Spheres within spheres.
 
-Spheres within spheres. I hit the main street with no plans in mind, nothing for
+I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
@@ -464,3 +463,6 @@ Even if life thrives at the margins of ruin, this is not a theodicy.
 
 I head back down to the main street, no plans in mind, nothing for
 life to nibble away at.
+
+the ordinary necessities of sleeping and
+eating and loving
