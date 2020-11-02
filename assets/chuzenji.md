@@ -147,6 +147,11 @@ pretzel after another after another, all with the imperturbable slowness of a
 dream.
 A convenience store is a good place to visit eternity.
 
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
+</div>
+</figure>
+
 On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill from the middle of the "V" and running like a droplet back
 into the lake as the road crawls westward.
@@ -220,15 +225,12 @@ I hit the main street with no plans in mind, nothing for
 life to nibble away at.
 By the ramp is a splendid illustration of England's hypothesis:
 wildflowers sprouting through the gravel of a tumbledown plot.
-At the back sits a rusty lean-to, 
+The rusty lean-to at the back seems to gesture towards something
+else.
+
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
-</div>
-</figure>
-
-<figure>
-    <div style="text-align:center"><img src ="/images/photos/lake6.png" />
 </div>
 </figure>
 
