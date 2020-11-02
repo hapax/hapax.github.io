@@ -174,11 +174,14 @@ with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked.
 With the infinite solicitude of *omotenashi* (Japanese hospitality),
 she unfolds a map and inscribes some points of interest---the
-temple, the falls, the grocer---between demotic hesitation markers and
-regrets for seasonal closures, as if it were a careless oversight on
-her part not to keep them open on my behalf.
+temple, the falls, the grocer---in between demotic hesitation markers and
+regrets for the seasonal closures, as if it were a careless oversight
+on her part not to keep them open for me.
 
-I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of complimentary *matcha*.
+I tramp upstairs to deposit backpack and pretzels, and enjoy a cup of
+complimentary *matcha*.
+Although my window faces the lake, visibility is limited to the
+terraced dwellings between the back and mainstreets.
 Descending again, a toddler appears on the counter,
 smiling hugely, and hands me a set of random keys.
 My host materialises out of the gloom again to rescue toddler and keys,
