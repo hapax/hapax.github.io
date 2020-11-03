@@ -226,7 +226,7 @@ The task of expiation falls to other systems of thought---e.g. religion, philoso
 art, humour---with broader responsibilities and margins of error.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
-plot, life consuming order.
+plot; life consuming order.
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
