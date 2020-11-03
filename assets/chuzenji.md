@@ -221,20 +221,18 @@ Besides, whatever the facts of life, physics cannot render mechanism
 into human value, or expiate from first principles. Anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
-scales as the millennia of death.
-The task of expiation falls to other systems of thought, systems with
-broader responsibilities and margins of error: religion, philosophy,
-art, humour.
+balance as the eons of death.
+The task of expiation falls to other systems of thought---e.g. religion, philosophy,
+art, humour---with broader responsibilities and margins of error.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
-plot, a diagram of England's hypothesis.
+plot, life consuming order.
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
-shrine, housing rakes and chain-tires in place of the Tablets of
-Law. Religion and humour.
-But the lean-to might also contain fertiliser, or swan heads, or
-nothing at all.
+shrine, housing rakes and chain-tires in place of cult objects or the
+Tablets of Law.
+(Religion and humour.)
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
@@ -509,3 +507,6 @@ to the rusted lean-to
 a representative instance of England's hypothesis.
 
 It is *concealed presence*, and comparing 
+
+But the lean-to might also contain fertiliser, or swan heads, or
+nothing at all.
