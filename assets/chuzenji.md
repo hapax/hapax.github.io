@@ -221,7 +221,7 @@ Besides, whatever the facts of life, physics cannot render mechanism
 into human value, or expiate from first principles. Anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
-balance as the eons of death.
+balance as eons of pointless death.
 The task of expiation falls to other systems of thought---e.g. religion, philosophy,
 art, humour---with broader responsibilities and margins of error.
 
