@@ -227,8 +227,7 @@ art, humour---with broader responsibilities and margins of error.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
 plot; life consuming order.
-My eyes run along the linear strip of growth to the rusted lean-to at
-the back.
+At the back is a rusted lean-to.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
 shrine, housing rakes and chain-tires in place of cult objects or the
 Tablets of Law.
@@ -510,3 +509,6 @@ It is *concealed presence*, and comparing
 
 But the lean-to might also contain fertiliser, or swan heads, or
 nothing at all.
+
+My eyes run along the linear strip of growth to the rusted lean-to at
+the back.
