@@ -206,14 +206,14 @@ The law of sines implies
 
 $$
 \frac{d_{i+1}}{\beta_i} = \frac{d_{i}}{\gamma_i} \quad \Longrightarrow
-\quad d_{i+1} = d_i \frac{\beta_i}{\pi - \frac{2\pi}{n} - \beta_i}.
+\quad d_{i+1} = d_i \left(\frac{\beta_i}{\pi - \frac{2\pi}{n} - \beta_i}\right).
 $$
 
 Then our condition that $\Delta h_i$ is constant implies
 
 $$
-(1- \cos\beta_i) = \frac{\beta_i}{\pi - \frac{2\pi}{n} -
-\beta_i} (1-\cos\beta_{i+1})
+(1- \cos\beta_i) = \left(\frac{\beta_i}{\pi - \frac{2\pi}{n} -
+\beta_i}\right) (1-\cos\beta_{i+1})
 $$
 
 #### Fine print
