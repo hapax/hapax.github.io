@@ -56,9 +56,8 @@ We will need some further parameters.
 Let us label the corners $c_i$ and faces $f_i$ anticlockwise, $i = 1,
 \ldots, n$, with $f_i$ between $c_i$ and $c_{i+1}$.
 Each corner is a distance $d_i$ from the centre of mass, and each face
-subtends a *face angle* $\phi_i$.
-At each corner, there is also a *deficit angle* $\delta_i$, related to
-differences of face angles in a way we will discuss below.
+subtends a *face angle* $\alpha_i$, as well as a left corner angle
+$\beta_i$, defined in the figure.
 
 When the dice is rolled, the roller imparts some angular momentum
 $L = \omega I$ around the centre of mass, where $I$ is the moment of
@@ -67,7 +66,7 @@ We will assume that when the dice falls, it lands at some random,
 uniformly chosen angle around $C$.
 It will almost certainly land on a corner, and then roll one or more
 times so it sits on a face.
-We are going to ignore linear motion, gravity, and friction, and focus
+We are going to ignore linear motion, and focus
 only on the effects of angular momentum on the probability
 distribution.
 Finally, we assume that the result of the throw is that face it lands on.
@@ -80,7 +79,7 @@ it will fall onto this face.
 Thus, the probability of obtaining this face is
 
 $$
-p_i^\text{slow} = \frac{\phi_i}{2\pi}.
+p_i^\text{slow} = \frac{\alpha_i}{2\pi}.
 $$
 
 The probabilities $p_i^\text{slow}$ remain a good
@@ -91,11 +90,33 @@ We say that a dice obeys a *slow fairness* condition if this
 probability distribution is uniform, or
 
 $$
-\phi_i = \frac{2\pi}{n}.
+\alpha_i = \frac{2\pi}{n}.
 $$
 
 The faces of a slowly fair dice subtend equal angles.
 Incidentally, this does not mean faces have the same areas!
-But a large face requires
+But a comparatively large face, subtending the same angle, means the
+centre of mass is closer to the short sides.
+The smaller area is compensated for by the concentration of mass.
 
 #### Speedy fairness
+
+Let us now take the opposite limit where the angular momentum is very
+high (we will say how high, parametrically speaking, in the next
+section).
+In order to analyse this, let's analyse how much energy it takes to
+flip the dice from face $f_i$ to $f_{i-1}$, supposing it rolls clockwise.
+The centre of mass sits at a height
+
+$$
+h_i = d_i cos \beta_i.
+$$
+
+In order to roll over to $f_{i-1}$, it needs to be raised to a height
+$d_i$, a height difference of
+
+$$
+\delta h_i = d_i(1 - \cos\beta_i).
+$$
+
+#### Variable loading*
