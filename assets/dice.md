@@ -142,15 +142,16 @@ $$
 
 In order to roll over to $f_{i-1}$, it needs to be raised to a height
 $d_i$, so the dice is standing on the corner with the line from $C$ to
-$c_i$ vertical. The height difference is then
+$c_i$ vertical.
+(Note that this assumes the dice is acute; otherwise,
+it may not be possible for the line from $C$ to $c_i$ to be vertical
+while the dice is standing on $c_i$.)
+The height difference is then
 
 $$
 \delta h_i = d_i(1 - \cos\beta_i).
 $$
 
-Note that this is tacitly assuming that the dice is acute; otherwise,
-it may not be possible for the line from $C$ to $c_i$ to be vertical
-while the dice is standing on $c_i$.
 We draw a picture below:
 
 <figure>
@@ -193,7 +194,11 @@ $$
 $$
 
 is the same for all faces.
-Is this independent of  demand slow fairness, $\alpha_i = 2\pi/n$, do we learn
+But we note that
+
+$$
+\sum_i \alpha_i = 2\pi 
+$$
 
 #### Fine print
 
