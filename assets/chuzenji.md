@@ -59,13 +59,15 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the reality of a headless swan,
+bubble, shattered by the reality of a headless swan;
 a perfect specimen of the Chuzenji grotesque.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
 </div>
 </figure>
+
+(More on buildings, frog, owl. Perhaps Hotel Asian?)
 
 Among these melancholy and disquieting creatures, I begin to ponder
 the nature of ruin.
@@ -78,8 +80,6 @@ to achieve; to paraphrase the opening lines of *Anna Karenina*, or the
 second law of thermodynamics, there are many more ways to fall apart
 than not.
 Harmony is a vanishing sliver of phase space; ruin is the freedom of matter from human conceit.
-
-(More on buildings, perhaps Hotel Asian?)
 
 Now, this democratic view suits the parts, the rusting staircase and
 the peeling paint, who are ignorant
