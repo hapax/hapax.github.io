@@ -30,7 +30,7 @@ describe them here.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/platonic.png" width="70%/>
+    ="/images/posts/platonic.png" width="70%"/>
 		    <figcaption><i>The Platonic solids provide fair (isohedral) dice.</i></figcaption>
 	</div>
 	</figure>
