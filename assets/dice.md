@@ -109,6 +109,15 @@ The probabilities $p_i^\text{slow}$ remain a good
 approximation to the probability distribution when the dice are rolled
 very slowly (we will explain how slow below), so the chance of tipping
 over due to angular momentum is low.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/dice1.png"/>
+		    <figcaption><i>A slow dice falling on a random angle
+    inside the first face.</i></figcaption>
+	</div>
+	</figure>
+
 We say that a dice obeys a *slow fairness* condition if this
 probability distribution is uniform, or
 
