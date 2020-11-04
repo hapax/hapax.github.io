@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Asymmetric dice cannot be fair"
+title:  "Asymmetric dice are unfair"
 categories: [Mathematics, Physics, Statistics]
 date:  2020-11-03
 ---
@@ -222,7 +222,7 @@ $$
 \quad \Longrightarrow \quad \beta_i = \pi - \frac{2\pi}{n} - \beta_i
 $$
 
-and hence $\beta_i = \gamma_i = \pi(2^{-1} - n^{-1})$, and the angles
+and hence $\beta_i = \gamma_i = \pi(2^{-1} - n^{-1})$, so the angles
 are uniform. Then constancy of $\Delta h_i$ implies $d_i$ are uniform,
 and we end up with a regular polygon with centre of mass at the
 geometric centroid!
