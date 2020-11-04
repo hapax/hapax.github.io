@@ -209,6 +209,13 @@ $$
 \quad d_{i+1} = d_i \frac{\beta_i}{\pi - \frac{2\pi}{n} - \beta_i}.
 $$
 
+Then our condition that $\Delta h_i$ is constant implies
+
+$$
+(1- \cos\beta_i) = \frac{\beta_i}{\pi - \frac{2\pi}{n} -
+\beta_i} (1-\cos\beta_{i+1})
+$$
+
 #### Fine print
 
 #### Extra
