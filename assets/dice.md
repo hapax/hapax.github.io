@@ -37,7 +37,7 @@ how you roll*.
 This leads to a notion of "dynamic loading": a dice which is fair in
 some regime can be loaded by rolling it differently.
 
-#### Dice in two dimension
+#### Dice in two dimensions
 
 We're going to focus on a simple setup where everything can be done
 reasonably explicitly: a two-dimensional dice.
@@ -65,11 +65,10 @@ We will assume that when the dice falls, it lands at some random,
 uniformly chosen angle around $C$.
 It will almost certainly land on a corner, and then roll one or more
 times so it sits on a face.
-We are going to ignore linear motion and friction, and determine the
-effects of angular momentum on the probability distribution.
+We are going to ignore linear motion, gravity, and friction, and focus
+only on the effects of angular momentum on the probability
+distribution.
 Finally, we assume that the result of the throw is that face it lands on.
-
-#### Static fairness
 
 To begin with, let's suppose that $\omega = 0$.
 The dice simply falls down at some random, uniformly chosen angle
@@ -81,3 +80,9 @@ Thus, the probability of obtaining this face is
 $$
 p_i = \frac{\phi_i}{2\pi}.
 $$
+
+Thus, these random drops will be fair if all the subtended angles are
+equal, or $\phi_i = 2\pi/n$.
+We will call this *static fairness*.
+
+#### Speedy fairness
