@@ -28,6 +28,13 @@ There is a more general class of a isohedral shapes which are not
 symmetric between vertices, called the *Catalan solids*, but I won't
 describe them here.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/platonic.png" width="45%"/>
+		    <figcaption><i>The Platonic solids also provide fair dice.</i></figcaption>
+	</div>
+	</figure>
+
 It's clear that, however you roll the dice, as long as the way it
 lands or *impact parameter* is random, the probability distribution
 should be uniform.
@@ -121,25 +128,25 @@ $$
 $$
 
 If the dice has mass $m$, the corresponding change in gravitational
-potential energy is
+potential energy or *flip barrier* is
 
 $$
-\Delta U = mg \Delta h_i = mg d_i(1 - \cos\beta_i).
+B_i = mg \Delta h_i = mg d_i(1 - \cos\beta_i).
 $$
 
 This energy will be supplied in the form of rotational kinetic energy
 by the roller.
 If the dice has kinetic energy $K = I\omega^2/2$, it will be able to
-flip to the next face provided
+flip to the next face provided $K > B_i$.
 
-$$
-K = \frac{1}{2}I\omega^2 \geq mg d_i(1 - \cos\beta_i).
-$$
+#### Dynamic loading
 
-This *flip barrier* between faces immediately shows that dice can be
+The flip barrier between faces immediately shows that dice can be
 dynamically loaded, i.e. that the probability distribution will depend
 on the speed of rolling.
-The argument is simple: when the dice 
+The argument is simple.
+When the dice lands, it will roll one or more times.
+corner at some angle
 
 #### Extra
 
