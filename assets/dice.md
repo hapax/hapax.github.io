@@ -113,7 +113,7 @@ over due to angular momentum is low.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/dice1.png"/>
+    ="/images/posts/dice3.png"/>
 		    <figcaption><i>A slow dice falling on a random angle
     inside the first face.</i></figcaption>
 	</div>
@@ -151,6 +151,15 @@ $$
 \delta h_i = d_i(1 - \cos\beta_i).
 $$
 
+We draw a picture below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/dice4.png"/>
+		    <figcaption><i>The flip barrier between faces.</i></figcaption>
+	</div>
+	</figure>
+	
 If the dice has mass $m$, the corresponding change in gravitational
 potential energy or *flip barrier* is
 
@@ -165,7 +174,7 @@ flip to the next face provided $K > B_i$.
 Incidentally, this tells when our first approximation is good: when
 the kinetic energy $K \ll B_i$ for any face.
 
-#### Dynamic loading
+#### Dynamic loading and fairness
 
 The flip barrier shows that dice can be *dynamically loaded*, i.e. that
 the probability distribution will depend on the speed of rolling.
@@ -183,6 +192,8 @@ $$
 $$
 
 is the same for all faces.
+
+#### Fine print
 
 #### Extra
 
