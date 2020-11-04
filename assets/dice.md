@@ -213,8 +213,20 @@ Then our condition that $\Delta h_i$ is constant implies
 
 $$
 (1- \cos\beta_i) = \left(\frac{\beta_i}{\pi - \frac{2\pi}{n} -
-\beta_i}\right) (1-\cos\beta_{i+1})
+\beta_i}\right) (1-\cos\beta_{i+1}).
 $$
+
+Iterating $n$ times around the whole polygon, we find that
+
+$$
+\left(\frac{\beta_i}{\pi - \frac{2\pi}{n} - \beta_i}\right)^n = 1
+\quad \Longrightarrow \quad \beta_i = \pi - \frac{2\pi}{n} - \beta_i
+$$
+
+and hence $\beta_i = \gamma_i = \pi(2^{-1} - n^{-1})$, and the angles
+are uniform. Then constancy of $\Delta h_i$ implies $d_i$ are uniform,
+and we end up with a regular polygon with centre of mass at the
+geometric centroid!
 
 #### Fine print
 
