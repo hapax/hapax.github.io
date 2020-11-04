@@ -76,7 +76,8 @@ $\beta_i$, defined in the figure.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/dice2.png"/>
-		    <figcaption><i>Rolling the dice.</i></figcaption>
+		    <figcaption><i>Rolling the dice with some (clockwise)
+    angular momentum.</i></figcaption>
 	</div>
 	</figure>
 
@@ -172,7 +173,6 @@ $c_{i+1}$.
 Whether it continues rolling depends on whether it can overcome the
 flip barrier, which will clearly depend on how much rotational kinetic
 energy it has to begin with.
-
 Before we delve into the fine print, we note that of course, this
 argument fails when the flip barrier is uniform, and hence
 
