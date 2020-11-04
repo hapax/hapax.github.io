@@ -162,6 +162,8 @@ This energy will be supplied in the form of rotational kinetic energy
 by the roller.
 If the dice has kinetic energy $K = I\omega^2/2$, it will be able to
 flip to the next face provided $K > B_i$.
+Incidentally, this tells when our first approximation is good: when
+the kinetic energy $K \ll B_i$ for any face.
 
 #### Dynamic loading
 
