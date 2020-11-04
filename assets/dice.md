@@ -194,10 +194,19 @@ $$
 $$
 
 is the same for all faces.
-But we note that
+If we also assume static fairness, $\alpha_i = 2\pi/n$, we find that
+the remaining angle must obey
 
 $$
-\sum_i \alpha_i = 2\pi 
+\beta_i + \gamma_i = \pi - \frac{2\pi}{n},
+$$
+
+since the angles add up to $\pi$.
+The law of sines implies
+
+$$
+\frac{d_{i+1}}{\beta_i} = \frac{d_{i}}{\gamma_i} \quad \Longrightarrow
+\quad d_{i+1} = d_i \frac{\beta_i}{\pi - \frac{2\pi}{n} - \beta_i}.
 $$
 
 #### Fine print
