@@ -50,7 +50,7 @@ In more detail, suppose we have a convex polygon of $n$ sides.
 It has some varying density, and because it is convex, the centre of
 mass $C$ is inside the polygon.
 (Hopefully this is intuitive; to get it to fall outside the shape, one
-needs some non-convex "wings".)
+needs some non-convex "wings" which spread out.)
 
 We will need some further parameters.
 Let us label the corners $c_i$ and faces $f_i$ anticlockwise, $i = 1,
@@ -103,15 +103,13 @@ The smaller area is compensated for by the concentration of mass.
 
 #### The flip barrier
 
-Let us now take the opposite limit where the angular momentum is very
-high (we will say how high, parametrically speaking, in the next
-section).
-In order to analyse this, let's analyse how much energy it takes to
+Let's now consider nonzero $\omega$.
+In particular, we can analyse how much energy it takes to
 flip the dice from face $f_i$ to $f_{i-1}$, supposing it rolls clockwise.
 The centre of mass sits at a height
 
 $$
-h_i = d_i cos \beta_i.
+h_i = d_i \cos \beta_i.
 $$
 
 In order to roll over to $f_{i-1}$, it needs to be raised to a height
@@ -131,6 +129,20 @@ $$
 
 This energy will be supplied in the form of rotational kinetic energy
 by the roller.
+If the dice has kinetic energy $K = I\omega^2/2$, it will be able to
+flip to the next face provided
+
+$$
+K = \frac{1}{2}I\omega^2 \geq mg d_i(1 - \cos\beta_i).
+$$
+
+This *flip barrier* between faces immediately shows that dice can be
+dynamically loaded, i.e. that the probability distribution will depend
+on the speed of rolling.
+The argument is simple: when the dice 
+
+#### Extra
+
 If the dice has angular velocity $\omega$ around the centre of mass,
 and hits at corner $c_i$ without slipping, it now pivots around the
 corner.
