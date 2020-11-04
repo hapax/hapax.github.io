@@ -27,7 +27,7 @@ rolls up the mountain and into the carpark, it is swaddled in a
 blanket of fog and almost invisible; Chuzenji is in all directions but nowhere to be seen.
 Initially, it is no more than a pitstop on my way to the Senjogahara
 marshland, a sprawling plain of hare's-tail cottongrass and rambling
-boardwalks 1400 meters above sea level.
+boardwalks 1400 meters above sea level and 20 minutes down the road.
 But the mass of cloud has settled onto the wetland as well as the lake,
 extinguishing my plans for a hike. I decide to explore the town instead.
 
@@ -79,6 +79,8 @@ second law of thermodynamics, there are many more ways to fall apart
 than not.
 Harmony is a vanishing sliver of phase space; ruin is the freedom of matter from human conceit.
 
+(More on buildings, perhaps Hotel Asian?)
+
 Now, this democratic view suits the parts, the rusting staircase and
 the peeling paint, who are ignorant
 of decline and know only combinatorics.
@@ -120,6 +122,8 @@ This Third Way is no route to a Judeo-Christian Father,
 wrathful or provident as the various Testaments would have us believe;
 rather, it establishes God as a metaphysical principle of ruin.
 
+(House fire)
+
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake20.png" />
 </div>
@@ -138,9 +142,13 @@ the snack aisle, wracked by performative indecision, which search
 for hotels on the wifi.
 A balding clerk listens to the baseball---from what I can tell,
 the Swallows are leading the Baystars---and watches me with quiet indulgence.
-He has nowhere to be and all the time in the world. He yawns, switches
-stations; I can play at browsing snacks for as long as I like.
-Little Forest Inn has rooms.
+He has nowhere to be and all the time in the world.
+He yawns, switches stations; I can play at browsing snacks for as long
+as I like.
+Perhaps this is the convenience store version of *omotenashi*,
+Japan's famous hospitality, repackaged as a small and portable
+indifference to my blundering efforts.
+
 Incidentally, this is what forever feels like: a balding clerk
 listening to baseball scores, while a gaijin picks up one brand of novelty
 pretzel after another after another, all with the imperturbable slowness of a
@@ -152,6 +160,7 @@ A convenience store is a good place to visit eternity.
 </div>
 </figure>
 
+So, I discover Little Forest Inn has rooms.
 On the northern shore, Chuzenji has a single backstreet, pitched up
 the hill from the middle of the "V" and running like a droplet back
 into the lake as the road crawls westward.
@@ -177,7 +186,7 @@ She conducts me inside, and, as if to certify a position of which she
 is unsure, shuffles behind a curtain to then re-emerge and face me
 with exaggerated formality over the counter.
 Between her broken English and my broken Japanese, a room is booked.
-With the infinite solicitude of *omotenashi* (Japanese hospitality),
+With the infinite solicitude of *omotenashi*,
 she unfolds a map and inscribes some points of interest---the
 temple, the falls, the grocer---in between demotic hesitation markers and
 regrets for seasonal closures, as if it were a personal oversight not to keep them open for me.
@@ -222,11 +231,9 @@ into human value, or expiate from first principles. Anyone who has
 thought about natural selection, for instance, will
 see that its explanatory elegance cannot be weighed on the same
 balance as eons of pointless death.
-The task of expiation falls to other systems of thought---e.g. religion, philosophy,
-art, humour---with broader responsibilities and margins of error.
 
 By the ramp, wildflowers sprout through the gravel of a tumbledown
-plot; life consuming order.
+plot.
 At the back is a rusted lean-to.
 With its air of *sabi* decrepitude, it reminds me of a makeshift
 shrine, housing rakes and chain-tires in place of cult objects or the
@@ -237,6 +244,13 @@ Tablets of Law.
     <div style="text-align:center"><img src ="/images/photos/lake5.png" />
 </div>
 </figure>
+
+The task of expiation falls to other systems of thought---religion, philosophy,
+art, humour---with broader responsibilities and margins of error.
+In Japan, this broader system is aesthetics,
+https://en.wikipedia.org/wiki/Wabi-sabi
+https://en.wikipedia.org/wiki/Kintsugi
+https://en.wikipedia.org/wiki/Mono_no_aware
 
 #### Extra
 
