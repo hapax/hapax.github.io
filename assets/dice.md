@@ -91,7 +91,13 @@ times so it sits on a face.
 We are going to ignore linear motion, and focus
 only on the effects of angular momentum on the probability
 distribution.
-Finally, we assume that the result of the throw is that face it lands on.
+
+Finally, we assume that the result of the throw is that face it lands
+on.
+In order to ensure it can land on all faces, we assume that the centre
+of mass lies above all the faces when they lay flush with the surface.
+Put differently, none of the triangles $\bigtriangleup Cc_{i}c_{i+1}$ are oblique.
+We call such a dice *acute*.
 
 #### Slow fairness
 
@@ -151,6 +157,8 @@ $$
 \delta h_i = d_i(1 - \cos\beta_i).
 $$
 
+Note that this is tacitly assuming that the dice is acute; otherwise,
+it may not be possible for the line $Cc_i$
 We draw a picture below:
 
 <figure>
