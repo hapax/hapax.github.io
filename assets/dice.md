@@ -30,7 +30,7 @@ describe them here.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/platonic.png" width="70%"/>
+    ="/images/posts/platonic.png" width="60%"/>
 		    <figcaption><i>The Platonic solids provide fair (isohedral) dice.</i></figcaption>
 	</div>
 	</figure>
@@ -184,6 +184,7 @@ $c_{i+1}$.
 Whether it continues rolling depends on whether it can overcome the
 flip barrier, which will clearly depend on how much rotational kinetic
 energy it has to begin with.
+
 Before we delve into the fine print, we note that of course, this
 argument fails when the flip barrier is uniform, and hence
 
@@ -192,6 +193,7 @@ $$
 $$
 
 is the same for all faces.
+Is this independent of  demand slow fairness, $\alpha_i = 2\pi/n$, do we learn
 
 #### Fine print
 
