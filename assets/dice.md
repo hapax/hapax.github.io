@@ -223,9 +223,9 @@ $$
 $$
 
 and hence $\beta_i = \gamma_i = \pi(2^{-1} - n^{-1})$, so the angles
-are uniform. Then constancy of $\Delta h_i$ implies $d_i$ are uniform,
-and we end up with a regular polygon with centre of mass at the
-geometric centroid!
+are uniform. Then constancy of $\Delta h_i$ then implies the $d_i$ are uniform.
+So we end up with a regular polygon with centre of mass at the
+geometric centre!
 Taking the contrapositive, we learn that *asymmetric dice must be
 unfair*.
 They can always be dynamically loaded.
