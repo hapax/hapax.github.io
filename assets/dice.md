@@ -73,6 +73,13 @@ Each corner is a distance $d_i$ from the centre of mass, and each face
 subtends a *face angle* $\alpha_i$, as well as a left corner angle
 $\beta_i$, defined in the figure.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/dice2.png"/>
+		    <figcaption><i>Rolling the dice.</i></figcaption>
+	</div>
+	</figure>
+
 When the dice is rolled, the roller imparts some angular momentum
 $L = \omega I$ around the centre of mass, where $I$ is the moment of
 inertia and $\omega$ the angular velocity.
