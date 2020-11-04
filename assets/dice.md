@@ -186,8 +186,7 @@ Whether it continues rolling depends on whether it can overcome the
 flip barrier, which will clearly depend on how much rotational kinetic
 energy it has to begin with.
 
-Before we delve into the fine print, we note that of course, this
-argument fails when the flip barrier is uniform, and hence
+Of course, this argument fails when the flip barrier is uniform, and
 
 $$
 \Delta h_i = d_i(1 - \cos\beta_i)
@@ -228,25 +227,4 @@ are uniform. Then constancy of $\Delta h_i$ implies $d_i$ are uniform,
 and we end up with a regular polygon with centre of mass at the
 geometric centroid!
 
-#### Fine print
-
-#### Extra
-
-If the dice has angular velocity $\omega$ around the centre of mass,
-and hits at corner $c_i$ without slipping, it now pivots around the
-corner.
-According to the parallel axis theorem, the moment of inertia around
-this corner is
-
-$$
-I_i = I + md_i^2.
-$$
-
-Since a force now acts on the centre of mass, angular momentum is not
-conserved, but rotational kinetic energy is, and the new angular
-$\omega_i$ obeys
-
-$$
-I_i \omega_i^2 = I \omega^2 \quad \Longrightarrow\quad \omega_i =
-\left[1 + \frac{md_i^2}{I}\right]^{-1/2}\omega.
-$$
+#### Fine print*
