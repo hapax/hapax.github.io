@@ -11,4 +11,4 @@ date:  2020-11-04
   the world is flat. More recently, this fringe has itself developed a
   fringe, which believes the earth is shaped like a donut. In this post,
   I'll explain why you can have your donut and eat it too: the earth
-  could be a flat torus! (To be extremely clear, this is a joke.)*
+  could be a flat torus! (To be abundantly clear, this is a joke.)*
