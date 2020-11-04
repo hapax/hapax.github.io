@@ -31,7 +31,7 @@ describe them here.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/platonic.png" width="55%"/>
-		    <figcaption><i>The Platonic solids provide fair (isohedral) dice.</i></figcaption>
+		    <figcaption><i>The Platonic solids provide a nice set of fair (isohedral) dice.</i></figcaption>
 	</div>
 	</figure>
 
@@ -73,14 +73,6 @@ Each corner is a distance $d_i$ from the centre of mass, and each face
 subtends a *face angle* $\alpha_i$, as well as a left corner angle
 $\beta_i$, defined in the figure.
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/dice2.png"/>
-		    <figcaption><i>Rolling the dice with some (clockwise)
-    angular momentum.</i></figcaption>
-	</div>
-	</figure>
-
 When the dice is rolled, the roller imparts some angular momentum
 $L = \omega I$ around the centre of mass, where $I$ is the moment of
 inertia and $\omega$ the angular velocity.
@@ -116,6 +108,14 @@ The probabilities $p_i^\text{slow}$ remain a good
 approximation to the probability distribution when the dice are rolled
 very slowly (we will explain how slow below), so the chance of tipping
 over due to angular momentum is low.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/dice3.png"/>
+		    <figcaption><i>Randomly dropping onto an angle in the first face.</i></figcaption>
+	</div>
+	</figure>
+
 We say that a dice obeys a *slow fairness* condition if this
 probability distribution is uniform, or
 
