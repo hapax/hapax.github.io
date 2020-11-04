@@ -231,3 +231,24 @@ unfair*.
 They can always be dynamically loaded.
 
 #### Fine print*
+
+Above, I said that when the dice is rolled, it lands on some corner
+and must overcome the flip barrier. Really, this only holds *after*
+the
+
+#### Higher dimensions
+
+I've only been talking about two-dimensional dice.
+Does this result hold in higher dimensions?
+I think it should.
+Instead of choosing a random angle, we choose a random point on the
+sphere (or hypersphere!) to set down the dice.
+Assuming it is acute, so that the centre of mass is above a face when
+it sits flat on the surface, the slow fairness argument can be
+repeated to show that any face must subtend the same solid angle.
+
+Similarly, adjacent faces will be separated by a flip barrier.
+I'm not sure how to generalize the two-dimensional argument, but it
+seems possible that slowly fair dice with uniform flip barriers are
+regular, or at least isohedral.
+I'll leave that argument for another post, but it seems neat!
