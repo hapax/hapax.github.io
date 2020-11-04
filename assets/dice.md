@@ -78,11 +78,22 @@ it will fall onto this face.
 Thus, the probability of obtaining this face is
 
 $$
-p_i = \frac{\phi_i}{2\pi}.
+p_i^\text{slow} = \frac{\phi_i}{2\pi}.
 $$
 
-Thus, these random drops will be fair if all the subtended angles are
-equal, or $\phi_i = 2\pi/n$.
-We will call this *static fairness*.
+The probabilities $p_i^\text{slow}$ remain a good
+approximation to the probability distribution when the dice are rolled
+very slowly (we will explain how slow below), so the chance of tipping
+over due to angular momentum is low.
+We say that a dice obeys a *slow fairness* condition if this
+probability distribution is uniform, or
+
+$$
+\phi_i = \frac{2\pi}{n}.
+$$
+
+The faces of a slowly fair dice subtend equal angles.
+Incidentally, this does not mean faces have the same areas!
+But a large face requires
 
 #### Speedy fairness
