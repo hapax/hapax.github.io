@@ -30,7 +30,7 @@ describe them here.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/platonic.png" width="45%"/>
+    ="/images/posts/platonic.png"/>
 		    <figcaption><i>The Platonic solids also provide fair dice.</i></figcaption>
 	</div>
 	</figure>
@@ -59,6 +59,13 @@ mass $C$ is inside the polygon.
 (Hopefully this is intuitive; to get it to fall outside the shape, one
 needs some non-convex "wings" which spread out.)
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/dice1.png"/>
+		    <figcaption><i>An asymmetric, two-dimensional dice.</i></figcaption>
+	</div>
+	</figure>
+
 We will need some further parameters.
 Let us label the corners $c_i$ and faces $f_i$ anticlockwise, $i = 1,
 \ldots, n$, with $f_i$ between $c_i$ and $c_{i+1}$.
@@ -68,7 +75,7 @@ $\beta_i$, defined in the figure.
 
 When the dice is rolled, the roller imparts some angular momentum
 $L = \omega I$ around the centre of mass, where $I$ is the moment of
-inertia and $\omega the angular velocity$.
+inertia and $\omega$ the angular velocity.
 We will assume that when the dice falls, it lands at some random,
 uniformly chosen angle around $C$.
 It will almost certainly land on a corner, and then roll one or more
@@ -141,12 +148,14 @@ flip to the next face provided $K > B_i$.
 
 #### Dynamic loading
 
-The flip barrier between faces immediately shows that dice can be
-dynamically loaded, i.e. that the probability distribution will depend
-on the speed of rolling.
+The flip barrier shows that dice can be dynamically loaded, i.e. that
+the probability distribution will depend on the speed of rolling.
 The argument is simple.
-When the dice lands, it will roll one or more times.
-corner at some angle
+The dice is rolled clockwise with some energy $K$ and lands at corner
+$c_{i+1}$.
+It can slump anticlockwise and stop rolling, or it can roll
+clockwise.
+Depending on where it lands, 
 
 #### Extra
 
