@@ -71,6 +71,8 @@ only on the effects of angular momentum on the probability
 distribution.
 Finally, we assume that the result of the throw is that face it lands on.
 
+#### Slow fairness
+
 To begin with, let's suppose that $\omega = 0$.
 The dice simply falls down at some random, uniformly chosen angle
 around the centre of mass, and tilts over to lie on the closest side.
@@ -99,7 +101,7 @@ But a comparatively large face, subtending the same angle, means the
 centre of mass is closer to the short sides.
 The smaller area is compensated for by the concentration of mass.
 
-#### Speedy fairness
+#### The flip barrier
 
 Let us now take the opposite limit where the angular momentum is very
 high (we will say how high, parametrically speaking, in the next
@@ -113,10 +115,23 @@ h_i = d_i cos \beta_i.
 $$
 
 In order to roll over to $f_{i-1}$, it needs to be raised to a height
-$d_i$, a height difference of
+$d_i$, so the dice is standing on the corner with the line from $C$ to
+$c_i$ vertical. The height difference is then
 
 $$
 \delta h_i = d_i(1 - \cos\beta_i).
 $$
 
-#### Variable loading*
+If the dice has mass $m$, the corresponding change in gravitational
+potential energy is
+
+$$
+\Delta U = mg \Delta h_i = mg d_i(1 - \cos\beta_i).
+$$
+
+This energy will be supplied in the form of rotational kinetic energy
+by the roller.
+If the dice has angular velocity $\omega$ around the centre of mass,
+and hits at corner $c_i$ without slipping, it now pivots around the
+corner.
+The moment of inertia is (via the parallel axis therem)
