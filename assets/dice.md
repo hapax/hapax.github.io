@@ -249,6 +249,8 @@ repeated to show that any face must subtend the same solid angle.
 
 Similarly, adjacent faces will be separated by a flip barrier.
 I'm not sure how to generalize the two-dimensional argument, but it
-seems possible that slowly fair dice with uniform flip barriers are
+seems likely that slowly fair dice with uniform flip barriers are
 regular, or at least isohedral.
-I'll leave that argument for another post, but it seems neat!
+I'll leave this argument for another post.
+But even in the two-dimensional case, it's nice to see symmetry
+*emerge* from fairness, rather than the other way round!
