@@ -134,4 +134,18 @@ by the roller.
 If the dice has angular velocity $\omega$ around the centre of mass,
 and hits at corner $c_i$ without slipping, it now pivots around the
 corner.
-The moment of inertia is (via the parallel axis therem)
+According to the parallel axis theorem, the moment of inertia around
+this corner is
+
+$$
+I_i = I + md_i^2.
+$$
+
+Since a force now acts on the centre of mass, angular momentum is not
+conserved, but rotational kinetic energy is, and the new angular
+$\omega_i$ obeys
+
+$$
+I_i \omega_i^2 = I \omega^2 \quad \Longrightarrow\quad \omega_i =
+\left[1 + \frac{md_i^2}{I}\right]^{-1/2}\omega.
+$$
