@@ -25,7 +25,8 @@ but the vertices are indistinguishable. These have 4 (tetrahedron), 6
 (cube), 8 (octahedron), 12 (icosahedron) and 20 (dodecahedron) sides
 respectively.
 There is a more general class of a isohedral shapes which are not
-symmetric between vertices, called the *Catalan solids*.
+symmetric between vertices, called the *Catalan solids*, but I won't
+describe them here.
 
 It's clear that, however you roll the dice, as long as the way it
 lands or *impact parameter* is random, the probability distribution
@@ -36,6 +37,7 @@ In this case, as we will see, *the probability distribution depends on
 how you roll*.
 This leads to a notion of "dynamic loading": a dice which is fair in
 some regime can be loaded by rolling it differently.
+This gives us another, very strong reason to prefer symmetry dice.
 
 #### Dice in two dimensions
 
