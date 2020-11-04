@@ -148,14 +148,13 @@ flip to the next face provided $K > B_i$.
 
 #### Dynamic loading
 
-The flip barrier shows that dice can be dynamically loaded, i.e. that
+The flip barrier shows that dice can be *dynamically loaded*, i.e. that
 the probability distribution will depend on the speed of rolling.
 The argument is simple.
 The dice is rolled clockwise with some energy $K$ and lands at corner
 $c_{i+1}$.
-It can slump anticlockwise and stop rolling, or it can roll
-clockwise.
-Depending on where it lands, 
+Whether it continues rolling depends on whether it can overcome the
+flip barrier, which will clearly depend on how much
 
 #### Extra
 
