@@ -54,16 +54,19 @@ For a closed surface with no holes, the only constant-curvature option
 is a uniform sphere.
 This is what our earth in fact looks like.
 
+What about the donut?
 It would seem that the torus cannot be embedded in a
 constant-curvature way, and this is indeed true in three dimensions.
+(We will discuss the proof below.)
 The torus will be more curved on the inside than on the
-outside, and as you travel around the globe, you would in principle be able to see this difference.
-Does this rule out the torus?
+outside, and as you travel around the globe, you should in principle
+be able to see this difference.
+Assuming the earth has constant curvature, does this rule the torus out?
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/donut2.png"/>
-		    <figcaption><i>A normal donut curves less on the outside.</i></figcaption>
+		    <figcaption><i>An ordinary 3d donut curves less on the outside.</i></figcaption>
 	</div>
 	</figure>
 
