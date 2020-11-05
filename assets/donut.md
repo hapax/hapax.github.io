@@ -13,7 +13,7 @@ appeared on the scene claiming the earth is shaped like a donut. In
 this post, I'll explain how you can have your donut and eat it too:
 the earth could be both flat and toroidal, by embedding in higher
 dimensions! I'll examine some amusing implications and (decisive)
-objections.*
+objections to this model.*
 
 #### Introduction
 
