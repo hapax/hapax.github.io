@@ -91,9 +91,7 @@ rule out the possibility we live in a flat, toroidal braneworld.
 
 #### The Theorema Egregium and the flat torus
 
-Let's start by constructing the flat, four-dimensional torus.
-It's actually very simple; checking it's flat will be the hardest
-thing.
+Let's start by constructing the flat torus.
 
 #### Braneworlds
 
