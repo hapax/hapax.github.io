@@ -28,10 +28,11 @@ has *periodic boundary* conditions.
 
 There are two possibilities consistent with these expeditions.
 First, the top and bottom are glued, and the left and right glued
-separately., we
-As illustrated below, doing this gluing yields a *donut*.
+separately.
+As illustrated below left, doing this gluing yields a *donut*.
 If, on the other hand, we explain the periodicity by gluing all four
-sides together, we get a surface with the topology of a sphere.
+sides together, we get a surface with the topology of a sphere, shown
+below right.
 Thus, we are led naturally to consider the sphere and the donut as two
 options for the shape of the earth.
 
