@@ -44,9 +44,9 @@ options for the shape of the earth.
 	</figure>
 
 So much for topology.
-The next observation is *geometric*, involve lengths and angles, the
-rigid structure of the earth.
-Everywhere we go, the earth looks more or less the same.
+The next observation involves *geometry*, the rigid aspects of the
+earth's surface like lengths and angles.
+Here it is: everywhere we go, the earth looks more or less the same.
 This suggests that the *curvature*, or departure from flatness, is the
 same everywhere.
 Our two topological possibilities lead to two geometric possibilities.
