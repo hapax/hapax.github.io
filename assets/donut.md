@@ -61,6 +61,14 @@ outside, so as you travel around the globe, this should in principle
 be able to see this difference.
 This would appear to rule out the torus.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/donut2.png"/>
+		    <figcaption><i>A normal donut curves differently in
+    different places.</i></figcaption>
+	</div>
+	</figure>
+
 But there a sneaky math factoid we can use: you can embed a torus
 in *four* spatial dimensions in such a way that it remains flat!
 I'll demonstrate in an elementary way how this works below.
