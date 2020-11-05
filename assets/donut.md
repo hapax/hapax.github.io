@@ -52,7 +52,8 @@ same everywhere.
 Our two topological possibilities lead to two geometric possibilities.
 For a closed surface with no holes, the only constant-curvature option
 is a uniform sphere.
-This is what our earth in fact looks like.
+This is what our earth in fact looks like, up to small changes due to
+the equatorial flattening.
 
 What about the donut?
 It would seem that the torus cannot be embedded in a
