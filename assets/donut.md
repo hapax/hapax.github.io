@@ -7,22 +7,17 @@ categories: [Mathematics, Physics]
 date:  2020-11-04
 ---
 
-**November 4, 2020.** *For the most part, flat earthers believe that
-  the world is flat. More recently, this fringe has itself developed a
-  fringe, which believes the earth is shaped like a donut. In this post,
-  I'll explain why you can have your donut and eat it too: the earth
-  could be a flat torus! (To be abundantly clear, this is a joke.)*
+**November 4, 2020.** *The central dogma of flat earthism would seem
+to be that the earth is flat. More recently, though, heretics have
+appeared on the scene claiming the earth is shaped like a donut. In
+this post, I'll explain how you can have your donut and eat it too:
+the earth could be both flat and toroidal, by embedding in higher
+dimensions. I'll survey some objections to this model, and solve some
+using a braneworld-type confinement mechanism.*
 
 #### Introduction
 
-The central dogma of flat earthism would seem to be that the earth is
-flat. More recently, though, heretics have appeared on the scene
-claiming the earth is shaped like a donut.
-Now, all of these ideas are ridiculous, but flat earthers often
-display a sort of perverse ingenuity in evading objections.
-But they are not imaginative enough!
-In this post, I'll explain how you can have your donut and eat it too:
-the earth could be *both* flat and toroidal!
+
 
 The solution involves the fun math factoid that you can embed a torus
 in *four* spatial dimensions in such a way that it remains flat.
