@@ -11,7 +11,7 @@ date:  2020-11-04
 to be that the earth is flat. More recently, though, heretics have
 appeared on the scene claiming the earth is shaped like a donut. In
 this post, I'll explain how you can have your donut and eat it too:
-the earth could be both flat and toroidal, by embedding in higher
+the earth could be both flat and torus-shaped, by embedding in higher
 dimensions! I'll examine some amusing implications and (decisive)
 objections to this model.*
 
