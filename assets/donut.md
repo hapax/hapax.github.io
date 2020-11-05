@@ -38,19 +38,38 @@ options for the shape of the earth.
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/donut1.png"/>
-		    <figcaption><i>Two possibilities of gluing the Mercator projection.</i></figcaption>
+		    <figcaption><i>Two possibilities for gluing the Mercator
+    projection: a donut and a sphere.</i></figcaption>
 	</div>
 	</figure>
 
-The solution involves the fun math factoid that you can embed a torus
-in *four* spatial dimensions in such a way that it remains flat.
+So much for topology.
+The next observation is *geometric*, involve lengths and angles, the
+rigid structure of the earth.
+Everywhere we go, the earth looks more or less the same.
+This suggests that the *curvature*, or departure from flatness, is the
+same everywhere.
+Our two topological possibilities lead to two geometric possibilities.
+For a closed surface with no holes, the only constant-curvature option
+is a uniform sphere.
+This is what our earth in fact looks like.
+
+It would seem that the torus cannot be embedded in a
+constant-curvature way, and this is indeed true in three dimensions.
+The torus will be more curved on the inside, for instance, than on the
+outside, so as you travel around the globe, this should in principle
+be able to see this difference.
+This would appear to rule out the torus.
+
+But there a sneaky math factoid we can use: you can embed a torus
+in *four* spatial dimensions in such a way that it remains flat!
 I'll demonstrate in an elementary way how this works below.
 The natural objection is that we live in three dimensions, not four,
 so I will talk about a way to localize standard model fields to a
 "braneworld" which is more consistent with what we see.
 This also helps explain the weakness of gravity.
-We'll end with more serious objections which, to my mind, very
-definitely rule out the possibility we live in a flat, toroidal braneworld.
+I'll end with more serious objections which, to my mind, decisively
+rule out the possibility we live in a flat, toroidal braneworld.
 
 #### The topology of the torus
 
