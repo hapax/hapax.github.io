@@ -58,7 +58,7 @@ It would seem that the torus cannot be embedded in a
 constant-curvature way, and this is indeed true in three dimensions.
 The torus will be more curved on the inside than on the
 outside, and as you travel around the globe, you would in principle be able to see this difference.
-Does this appear rule out the torus?
+Does this rule out the torus?
 
 <figure>
     <div style="text-align:center"><img src
