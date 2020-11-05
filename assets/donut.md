@@ -56,27 +56,28 @@ This is what our earth in fact looks like.
 
 It would seem that the torus cannot be embedded in a
 constant-curvature way, and this is indeed true in three dimensions.
-The torus will be more curved on the inside, for instance, than on the
-outside, so as you travel around the globe, this should in principle
-be able to see this difference.
-This would appear to rule out the torus.
+The torus will be more curved on the inside than on the
+outside, and as you travel around the globe, you would in principle be able to see this difference.
+Does this appear rule out the torus?
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/donut2.png"/>
-		    <figcaption><i>A normal donut curves differently in
-    different places.</i></figcaption>
+		    <figcaption><i>A normal donut curves less on the outside.</i></figcaption>
 	</div>
 	</figure>
 
-But there a sneaky math factoid we can use: you can embed a torus
-in *four* spatial dimensions in such a way that it remains flat!
+Not quite!
+There a sneaky math factoid we can use: you can embed a torus in
+*four* spatial dimensions in such a way that it is not only constant
+curvature, but flat.
+This would seem, them to naturally combine both flat earthism and
+donut earthism!
 I'll demonstrate in an elementary way how this works below.
-The natural objection is that we live in three dimensions, not four,
-so I will talk about a way to localize standard model fields to a
-"braneworld" which is more consistent with what we see.
-This also helps explain the weakness of gravity.
-I'll end with more serious objections which, to my mind, decisively
+Obviously, we only see three dimensions, not four,
+so I will talk about a way to localize physics to a three-dimensional
+"braneworld", which also helps explain the weakness of gravity.
+I'll end with some more serious objections which, to my mind, decisively
 rule out the possibility we live in a flat, toroidal braneworld.
 
 #### The topology of the torus
