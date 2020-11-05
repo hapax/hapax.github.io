@@ -75,12 +75,13 @@ Not quite!
 There a sneaky math factoid we can use: you can embed a torus in
 *four* spatial dimensions in such a way that it is not only constant
 curvature, but flat.
-This would seem, them to naturally combine both flat earthism and
+This naturally combines both flat earthism and
 donut earthism!
-I'll demonstrate in an elementary way how this works below.
-Obviously, we only see three dimensions, not four,
+I'll demonstrate how the construction works in an elementary way below.
+An obvious objection is that we only see three dimensions, not four,
 so I will talk about a way to localize physics to a three-dimensional
-"braneworld", which also helps explain the weakness of gravity.
+"braneworld".
+This also helps explain the weakness of gravity.
 I'll end with some more serious objections which, to my mind, decisively
 rule out the possibility we live in a flat, toroidal braneworld.
 
