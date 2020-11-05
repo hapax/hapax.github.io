@@ -58,17 +58,19 @@ the equatorial flattening.
 What about the donut?
 It would seem that the torus cannot be embedded in a
 constant-curvature way, and this is indeed true in three dimensions.
-(We will discuss the proof below.)
-The torus will be more curved on the inside than on the
-outside, and as you travel around the globe, you should in principle
-be able to see this difference.
-Assuming the earth has constant curvature, does this rule the torus out?
+The torus will be curved in totally different ways on the outside and
+the inside!
+On the outside, it is *positively* curved, bulging outwards like a
+sphere, and on the inside *negatively* curved like a saddle.
+We should in principle be able to detect these changes in curvature,
+but we don't.
+Does this rule the torus out?
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/donut2.png"/>
-		    <figcaption><i>An ordinary 3d donut curves less on the
-    outside and more on the inside.</i></figcaption>
+		    <figcaption><i>An ordinary 3d donut curves positively
+    outside and negatively inside.</i></figcaption>
 	</div>
 	</figure>
 
