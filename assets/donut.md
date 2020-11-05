@@ -23,7 +23,7 @@ Led by Sir Ranulph Fiennes, in 1979--1982, the
 [Transglobe Expedition](https://en.wikipedia.org/wiki/Transglobe_Expedition)
 completed the first longitudinal circumnavigation by ground transport
 (i.e. no planes).
-So, if we draw latitude and longitude on a rectangle, it seems the earth
+So, if we draw latitude and longitude on a rectangle (the Mercator projection), it seems the earth
 has *periodic boundary* conditions.
 
 There are two possibilities consistent with these expeditions.
@@ -34,6 +34,13 @@ If, on the other hand, we explain the periodicity by gluing all four
 sides together, we get a surface with the topology of a sphere.
 Thus, we are led naturally to consider the sphere and the donut as two
 options for the shape of the earth.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/donut1.png"/>
+		    <figcaption><i>Two possibilities of gluing the Mercator projection.</i></figcaption>
+	</div>
+	</figure>
 
 The solution involves the fun math factoid that you can embed a torus
 in *four* spatial dimensions in such a way that it remains flat.
