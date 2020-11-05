@@ -67,7 +67,8 @@ Assuming the earth has constant curvature, does this rule the torus out?
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/donut2.png"/>
-		    <figcaption><i>An ordinary 3d donut curves less on the outside.</i></figcaption>
+		    <figcaption><i>An ordinary 3d donut curves less on the
+    outside and more on the inside.</i></figcaption>
 	</div>
 	</figure>
 
