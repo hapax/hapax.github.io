@@ -158,8 +158,8 @@ needs of society as a whole.
 We need hiking classes to act as an intake mechanism, drawing students
 into the field and equipping them to explore.
 And maybe we just want them to enjoy the natural world!
-In others, we value mathematical culture for its own sake, and not
-just its utility.
+<!--In others, we value mathematical culture for its own sake, and not
+just its utility.-->
 
 Some students seem to have a natural yen for walking.
 They can walk faster, and for longer distances; some hike outside of
@@ -1466,7 +1466,7 @@ This post is partly an experiment with format.
 The first experiment was informal, expository and visual (section 2),
 while the second experiment was an attempt to turn difficult problems
 into bite-sized chunks (in section 3). I'm not sure the latter
-succeeded, but that's the point of the experiment!
+succeeded, but the point of the experiment is to check!
 
 #### What's next?
 
