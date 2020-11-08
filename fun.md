@@ -6,14 +6,14 @@ permalink: /fun/
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/). A tumblr for my
   recent visual art. <!-- *principium creaturarum*.-->
+- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
+- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Flash fiction about quantum computing and geopolitics.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 - ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
   essay on creativity and personality development.
-- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
-- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
