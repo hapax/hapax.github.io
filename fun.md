@@ -10,7 +10,7 @@ permalink: /fun/
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
-- ["Calling down the lightning"](({{hapax.github.io}}/assets/lightning.pdf). An
+- ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
   essay on creativity and personality development.
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
