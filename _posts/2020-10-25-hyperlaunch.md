@@ -444,6 +444,7 @@ If the platform had corners, for instance, these might form points of
 preferential vacuum leakage, while a circular platform means we have
 one uniform design problem for the edge.
 But the circle has additional advantages, as we will see in a moment.
+
 If an instability develops, the plunger can tilt, or
 even flip, which would obviously be disastrous for the payload.
 There needs to be some way to counteract this.
@@ -455,19 +456,19 @@ We want a smooth ride, with no tilt and minimal friction.
 
 One entertaining possibility is to stabilise the plunger by spinning it,
 just like a frisbee.
-The payload itself need not spin, if placed on a gyroscopically
+The payload need not spin, if placed on a gyroscopically
 isolated platform above the base of the plunger.
-The energy for spinning can be obtained during launch itself by
+The energy for spinning can be obtained during launch by
 deploying an array of angled flanges beneath the plunger, and any
 excess energy not used for rotation can be stored in flywheels to help
 depress the plunger on future runs.
-Regarding the rotation itself, the stabilised plunger could spin by
+Regarding the rotation, the stabilised plunger could spin by
 means of bearings around its perimeter, with rolling friction instead
 of scraping.
 I leave the calculation of the energy dissipation from bearings to a
 longer paper expected April next year.
 
-A final question is how the vacuum itself is maintained around the
+A final question is how the vacuum is maintained around the
 edges of the plunger.
 Another cute possibility is to use the vacuum against itself, adding a
 "collar" at the edge, a membrane which seals the "pocket" around the
@@ -492,7 +493,7 @@ our oomist considerations.-->
 #### 3.3. Cylinder stress and construction<a id="sec-3-3" name="sec-3-3"></a>
 
 Finally, we come to the elephant in the oom: the construction of the
-cylinder itself.
+cylinder.
 We are envisioning a structure on the order of a scale height, more
 than $10$ times taller than the tallest building ever constructed.
 It must not only stand up, i.e. support its own weight, but resist
@@ -520,8 +521,7 @@ Here, the surface tension is $\sigma d$ (force per unit length), but
 the tensile stress is $\sigma$ (for per unit area).
 We now treat the cylinder as a bent sheet, subject to a stress
 $\sigma$.
-If the material has Young's modulus $\mathcal{E}$ (not to be confused
-with launch energy), the *strain* $\epsilon$ or fractional change in
+If the material has Young's modulus $\mathcal{E}$, the *strain* $\epsilon$ or fractional change in
 length is
 
 $$
