@@ -581,7 +581,7 @@ The pressures drop as we ascend, so this thickness can be reduced as
 we go up, and the radius slowly varied to ensure close to uniform
 thickness (though the Young's modulus may be high enough to ignore
 this).
-So, for a cylinder of height $H = X\lambda$, we estimate the volume of steel
+For a cylinder of height $H = X\lambda$, we estimate the volume of steel
 require to resist buckling is at most
 
 $$
