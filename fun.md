@@ -4,7 +4,8 @@ title: Fun
 permalink: /fun/
 ---
 
-- [*caedrix feuilleton*](https://caedrix.tumblr.com/). Recent visual art. <!-- *principium creaturarum*.-->
+- [*caedrix feuilleton*](https://caedrix.tumblr.com/). A tumblr for my
+  recent visual art. <!-- *principium creaturarum*.-->
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Flash fiction about quantum computing and geopolitics.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
