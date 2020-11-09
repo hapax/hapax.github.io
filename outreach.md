@@ -23,38 +23,37 @@ permalink: /outreach/
   with [exercises](assets/sing-problems.pdf)
   and a [lay summary](assets/penrose.pdf).
 - [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
-(2020). A brief video for Vancouver's
+(2020). A video for Vancouver's
 [Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
 physics and what a day in the life looks like.
 - [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
-  intro to network planning and soap bubbles. Along the
-  way, I also touch on complexity theory, physics, curvature,
-  tessellations, time travel and climate change. (Ok, I'm sort of
-  joking about the last two.)
+  intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
+  tessellations, time travel and climate change.
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
-  An experiment using bits and buckets, presented at the inaugural
+  An experiment using bits and buckets, carried out at the inaugural
   Teen Nerd Nite.
 - *The hacker's guide to physics* (2020). A short lecture series for
   UBC Physics Circle based on
   [this](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  blog post: [dimensional analysis](assets/dim-slides.pdf),
-  [random walks](assets/random-slides.pdf), and
-  [Brownian motion](assets/brownian-slides.pdf)].
-- [**Black hole mergers**](assets/colliding-black-holes.pdf). Note for
+  blog post: (1) [dimensional analysis](assets/dim-slides.pdf),
+  (2) [random walks](assets/random-slides.pdf), and
+  (3) [Brownian motion](assets/brownian-slides.pdf).
+- [*Black hole mergers*](assets/colliding-black-holes.pdf). Note for
     an open-ended Physics Circle discussion of colliding black holes and LIGO.
-- [**Searching for aliens**]({{hapax.github.io}}/assets/ET-phone-home.pdf)
+- [*Searching for aliens*]({{hapax.github.io}}/assets/ET-phone-home.pdf)
   (2020). Notes for an open-ended Physics Circle discussion of fast radio bursts and
   extraterrestrials.
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to Starbucks.
-- [**Fermi estimates: from Harry Potter to ET**](assets/fermi-estimates.pdf). A
+- [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf). A
 	Physics Circle talk on how to estimate just about anything,
-	from the length of the Harry Potter novels, to 
+	from the amount of computer storage in the world to the amount of
+	money concealed in couches across Canada.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
-    (2019). A lengthy introduction to dimensional analysis for the UBC
-    Physics Circle. The payoff: black hole thermodynamics.
+    (2019). A tutorial on dimensional analysis for the UBC
+    Physics Circle, paying off in black hole thermodynamics.
 
 #### Teaching and course development
 
