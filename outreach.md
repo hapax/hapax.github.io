@@ -44,8 +44,8 @@ physics and what a day in the life looks like.
 - [*Black hole mergers*](assets/colliding-black-holes.pdf). Note for
     an open-ended Physics Circle discussion of colliding black holes and LIGO.
 - [*Searching for aliens*]({{hapax.github.io}}/assets/ET-phone-home.pdf)
-  (2020). Notes for an open-ended Physics Circle discussion of fast radio bursts and
-  extraterrestrials.
+  (2020). Notes for an open-ended Physics Circle discussion of fast
+  radio bursts, signals, and extraterrestrials.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019). A manifesto controversially asserting that high
   school math should be fun, useful and engaging. Examples included.
