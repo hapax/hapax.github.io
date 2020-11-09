@@ -67,6 +67,8 @@ a perfect specimen of the Chuzenji grotesque.
 </div>
 </figure>
 
+#### Old stuff
+
 (More on buildings, frog, owl. Perhaps Hotel Asian?)
 
 Among these melancholy and disquieting creatures, I begin to ponder
