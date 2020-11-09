@@ -64,8 +64,8 @@ physics and what a day in the life looks like.
   Columbia). [Various assignments](assets/big-qc.pdf) for a graduate
   course which is in the works.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
-  (2016, University of Melbourne). I created tutorials on
+  (2016, University of Melbourne). I wrote tutorials on
   [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
-  for a second-year honours course in physics. I also wrote assignments on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
+  for a second-year honours course in physics, as well as assignments on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
