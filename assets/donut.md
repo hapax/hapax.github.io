@@ -85,9 +85,9 @@ This naturally combines both flat earthism and
 donut earthism!
 I'll demonstrate how the construction works in an elementary way below.
 An obvious objection is that we only see three dimensions, not four,
-so I will talk about a way to localize physics to a three-dimensional
-"braneworld".
-This also helps explain the weakness of gravity.
+so I will talk about a physicist's trick for localizing physics called
+a "braneworld".
+This has the other benefit of explaining why gravity is weak.
 I'll end with some more serious objections which, to my mind, decisively
 rule out the possibility we live in a flat, toroidal braneworld.
 
