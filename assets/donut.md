@@ -24,11 +24,11 @@ Led by Sir Ranulph Fiennes, in 1979--1982, the
 completed the first longitudinal circumnavigation by ground transport
 (i.e. no planes).
 So, if we draw latitude and longitude on a rectangle (the Mercator projection), it seems the earth
-has *periodic boundary* conditions.
+has *periodic boundary conditions*.
 
 There are two possibilities consistent with these expeditions.
-First, the top and bottom are glued, and the left and right glued
-separately.
+First, the top and bottom are glued, and the left and right glued, but
+these gluings are separate.
 As illustrated below left, doing this gluing yields a *donut*.
 If, on the other hand, we explain the periodicity by gluing all four
 sides together, we get a surface with the topology of a sphere, shown
@@ -44,28 +44,30 @@ options for the shape of the earth.
 	</div>
 	</figure>
 
-So much for topology.
-The next observation involves *geometry*, the rigid aspects of the
-earth's surface like lengths and angles.
-Here it is: everywhere we go, the earth looks more or less the same.
-This suggests that the *curvature*, or departure from flatness, is the
-same everywhere.
-Our two topological possibilities lead to two geometric possibilities.
-For a closed surface with no holes, the only constant-curvature option
-is a uniform sphere.
-This is what our earth in fact looks like, up to small changes due to
-the equatorial flattening.
+Moving beyond the rough shape of the earth, we come to the question of
+geometry, properties of lengths, angles, and curves on the earth's
+surface.
+Prior to flatness, even, there is a simpler observation we can make:
+the earth looks more or less the same everywhere.
+If there were no mountains or valleys, you would be hard-pressed to
+tell where you are by drawing large triangles on the ground.
+So the question now becomes: given our two topological possibilities
+of donut and sphere, can we equip them with geometries which look the
+same everywhere?
 
+For our second option---a closed surface with no holes---the only
+possibility is a uniform sphere.
+This is what our earth in fact looks like, apart from a little
+squashing at the poles.
+So this is constent with the boundary conditions and uniformity.
 What about the donut?
-It would seem that the torus cannot be embedded in a
-constant-curvature way, and this is indeed true in three dimensions.
-The torus will be curved in totally different ways on the outside and
-the inside!
+The standard way of embedding a donut, or *torus* in the mathematical
+language, looks very different as you move around.
 On the outside, it is *positively* curved, bulging outwards like a
-sphere, and on the inside *negatively* curved like a saddle.
-We should in principle be able to detect these changes in curvature,
-but we don't.
-Does this rule the torus out?
+sphere, but on the inside, it is *negatively* curved like a saddle.
+We will define curvature below, but the point is that
+you could detect this different by carefully drawing large triangles.
+Does this rule the torus out as a possible shape for the earth?
 
 <figure>
     <div style="text-align:center"><img src
