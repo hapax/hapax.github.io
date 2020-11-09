@@ -64,4 +64,4 @@ physics and what a day in the life looks like.
   [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
-  for a second-year honours course in physics, and wrote assignments on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
+  for a second-year honours course in physics. I also wrote assignments on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
