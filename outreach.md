@@ -53,8 +53,7 @@ physics and what a day in the life looks like.
 (2018--19). A medley of problems on everything from string theory to Starbucks.
 - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf). A
 	Physics Circle talk on how to estimate just about anything,
-	from the amount of computer storage in the world to the amount of
-	money concealed in couches across Canada.
+	from the amount of computer storage in the world to the loonies concealed in couches across Canada.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
     (2019). A tutorial on dimensional analysis for the UBC
     Physics Circle, paying off in black hole thermodynamics.
