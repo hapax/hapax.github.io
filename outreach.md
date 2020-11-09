@@ -22,14 +22,14 @@ permalink: /outreach/
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
   with [exercises](assets/sing-problems.pdf)
   and a [lay summary](assets/penrose.pdf).
-- [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
-(2020). A video for Vancouver's
-[Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
-physics and what a day in the life looks like.
 - [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
   tessellations, time travel and climate change.
+- [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
+(2020). A video for Vancouver's
+[Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
+physics and what a day in the life looks like.
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
   An experiment using bits and buckets, carried out at the inaugural
