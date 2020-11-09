@@ -34,6 +34,8 @@ physics and what a day in the life looks like.
   (2020). What happens if you drop your homework into a black hole?
   An experiment using bits and buckets, carried out at the inaugural
   Teen Nerd Nite.
+- [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/) (2020). A rough guide to how big a white dwarf
+  (or a box of electrons) can get before it turns into a black hole.
 - *The hacker's guide to physics* (2020). A short lecture series for
   UBC Physics Circle covering [dimensional analysis](assets/dim-slides.pdf),
   [random walks](assets/random-slides.pdf), and
@@ -44,6 +46,9 @@ physics and what a day in the life looks like.
 - [*Searching for aliens*]({{hapax.github.io}}/assets/ET-phone-home.pdf)
   (2020). Notes for an open-ended Physics Circle discussion of fast radio bursts and
   extraterrestrials.
+- [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
+  (2019). A manifesto controversially asserting that high
+  school math should be fun, useful and engaging. Examples included.
 - [*Physics Circle: problems and solutions*](assets/circle-probs.pdf)
 (2018--19). A medley of problems on everything from string theory to Starbucks.
 - [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf). A
