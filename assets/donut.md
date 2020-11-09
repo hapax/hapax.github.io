@@ -94,6 +94,20 @@ rule out the possibility we live in a flat, toroidal braneworld.
 #### The Theorema Egregium and the flat torus
 
 Let's start by constructing the flat torus.
+Recall that the donut has a blue edge of latitude which is glued at
+the ends, and a red edge of longitude which is glued at the ends.
+If we do this in three dimensions, we get a torus which curves
+differently on the inside and the outside.
+But suppose that each coloured edge has its *own plane* to roll into
+the circle.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/donut3.png"/>
+		    <figcaption><i>The flat torus, with the two sides rolled
+    into circles. The non-flat torus in the middle is a visual aide only.</i></figcaption>
+	</div>
+	</figure>
 
 #### Braneworlds
 
