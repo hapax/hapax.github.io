@@ -35,11 +35,10 @@ physics and what a day in the life looks like.
   An experiment using bits and buckets, carried out at the inaugural
   Teen Nerd Nite.
 - *The hacker's guide to physics* (2020). A short lecture series for
-  UBC Physics Circle based on
-  [this](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-  blog post: (1) [dimensional analysis](assets/dim-slides.pdf),
-  (2) [random walks](assets/random-slides.pdf), and
-  (3) [Brownian motion](assets/brownian-slides.pdf).
+  UBC Physics Circle covering [dimensional analysis](assets/dim-slides.pdf),
+  [random walks](assets/random-slides.pdf), and
+  [Brownian motion](assets/brownian-slides.pdf). Based on a
+  [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/).
 - [*Black hole mergers*](assets/colliding-black-holes.pdf). Note for
     an open-ended Physics Circle discussion of colliding black holes and LIGO.
 - [*Searching for aliens*]({{hapax.github.io}}/assets/ET-phone-home.pdf)
