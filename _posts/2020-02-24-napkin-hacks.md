@@ -382,7 +382,9 @@ We will look at the opposite regime, where the sphere moves very
 slowly.
 In this case, the sphere smoothly shears through the water without
 collisions, so neither $m$ nor $\rho$ are relevant.
-Drag is dominated by the viscosity $\mu$ and the geometry of the sphere.
+Drag is dominated by the viscosity $\mu$ and the geometry of the
+sphere.
+This force would be present, even if both where arbitrarily light!
 
 <figure>
     <div style="text-align:center"><img src
