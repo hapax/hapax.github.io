@@ -591,7 +591,8 @@ Celsius or Kelvin for instance) and *amount
 of stuff* $N$ (usually measured in mol).
 These are crucial in atomic physics, thermodynamics and
 chemistry.
-We will use them heavily in Exercise 3 and the tutorial on random walks.
+We will introduce them properly in Exercise 3, and lean heavily on
+them for the tutorial on random walks.
 
 *Constants.* Numbers are dimensionless constants.
 However, *dimensionful* constants secretly encode physics!
