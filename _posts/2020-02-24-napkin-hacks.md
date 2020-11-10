@@ -239,7 +239,7 @@ $$
 
 (We will explain another way to get factors of $2\pi$ in Exercise 4.)
 Dimensional analysis is nothing fancier than guessing that $\omega$ is related to $m$,
-$\ell$ and $g$ by a relation of the form
+$\ell$ and $g$ by an equation of the form
 
 $$
 \omega = m^a \ell^b g^c,
