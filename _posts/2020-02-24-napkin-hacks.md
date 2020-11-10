@@ -361,7 +361,7 @@ Here are some factors that might be relevant:
 
 In general, all of these factors are involved, but this is too much
 for dimensional analysis to handle!
-I'll explain why <a href="#sec-2-4">below</a>.
+(I'll explain why <a href="#sec-2-4">below</a>.)
 So what can we do?
 
 <figure>
