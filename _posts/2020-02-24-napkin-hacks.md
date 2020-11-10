@@ -570,7 +570,7 @@ them all!
 There are further subtleties, but they are all captured in a nice
 result called the
 [Buckingham $\pi$ theorem](https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem).
-For a very elementary treatment, see [my notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf).
+For a very elementary treatment, see [my detailed notes on dimensional analysis](https://hapax.github.io/assets/dimensional-analysis.pdf).
 
 *Where is the physics?* You might think that dimensional analysis is
 algebra rather than physics.
