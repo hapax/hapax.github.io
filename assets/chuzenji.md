@@ -50,7 +50,7 @@ These crumbling facades chart not only the ravages of time, but the rise and fal
 
 By the cruise terminal, I pause and imagine the 80s daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair.
-I zoom in on one family, a mother, father, two sisters and a younger brother.
+I zoom in on one family: a mother, father, a boy and a girl. <!-- two sisters and a younger brother.-->
 They are restless after the bus ride and now flit wordlessly about the
 streets to watch the glassblower at work, or unironically chow down on Nikko
 World Heritage Cheese Eggs.
@@ -64,6 +64,19 @@ a perfect specimen of the Chuzenji grotesque.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
+</div>
+</figure>
+
+This is not the only disquieting familiar of Chuzenji.
+By the waterfront is *Hotel Lake Garden*, abandoned and fallin 
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake11.png" />
+</div>
+</figure>
+
+<figure>
+    <div style="text-align:center"><img src ="/images/photos/lake12.png" />
 </div>
 </figure>
 
