@@ -67,8 +67,12 @@ a perfect specimen of the Chuzenji grotesque.
 </div>
 </figure>
 
-This is not the only disquieting familiar of Chuzenji.
-By the waterfront is *Hotel Lake Garden*, abandoned and fallin 
+The town has other disquieting familiars.
+Further down the waterfront is the abandoned *Hotel Lake Garden* (ホテル・レイク・
+ガ－デン).
+Two inexplicable guardians keep watch over the ruin: a frog and an
+owl.
+Their presence is melancholy and yet somehow comforting.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
