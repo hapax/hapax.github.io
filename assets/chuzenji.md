@@ -68,8 +68,9 @@ a perfect specimen of the Chuzenji grotesque.
 </figure>
 
 The town has other disquieting familiars.
-Further down the waterfront is the abandoned *Hotel Lake Garden* (ホテル・レイク・
-ガ－デン).
+Further along the main road is the frontage of *Hotel Lake
+Garden* (ホテル・レイク・ ガ－デン), sprawling, abandoned to the
+weather, a portrait of ruin in crumbling lace and peeling wallpaper.
 Two inexplicable guardians keep watch over the ruin: a frog and an
 owl.
 Their presence is melancholy and yet somehow comforting.
@@ -545,3 +546,4 @@ nothing at all.
 
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
+ 
