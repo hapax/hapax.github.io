@@ -132,7 +132,7 @@ physics: *dimensional analysis*.
 Physics is ultimately about experimental measurements.
 Take some object, maybe an old pumpkin, and poke or prod it with a
 measuring device.
-The device returns a number, but that's now what interests us;
+The device returns a number, but that's not what interests us;
 instead, we want to know the *physical property* probed by that
 device.
 This is what we mean by *dimension*.

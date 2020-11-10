@@ -98,8 +98,10 @@ Recall that the donut has a blue edge of latitude which is glued at
 the ends, and a red edge of longitude which is glued at the ends.
 If we do this in three dimensions, we get a torus which curves
 differently on the inside and the outside.
-But suppose that each coloured edge has its *own plane* to roll into
-the circle.
+But suppose that each coloured edge has a separate two-dimensional
+plane where it gets rolled into a circle.
+We picture this below, as well as a "curved" torus to help us
+visualise things.
 
 <figure>
     <div style="text-align:center"><img src
@@ -108,6 +110,15 @@ the circle.
     into circles. The non-flat torus in the middle is a visual aide only.</i></figcaption>
 	</div>
 	</figure>
+
+Since each circle needs two dimensions, there are four dimensions
+altogether.
+But the torus itself is still a two-dimensional surface!
+We can label it with a latitude coordinate $\phi \in [0, 2\pi)$ and a longitude
+coordinate $\theta \in (-\pi, \pi]$.
+We no longer have north and south poles, but rather, north and south
+"circles" at $\theta = \pi/2$ and $\theta = -\pi/2$.
+The equator 
 
 #### Braneworlds
 
