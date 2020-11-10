@@ -350,7 +350,7 @@ against another.
 
 A sphere moving through fluid splits the layers at the front, then
 joins them at the back, a bit like a zipper. This is a shearing force
-and will experience viscous drag.
+and will lead to viscous resistance.
 Our goal will be to determine the precise drag force on the sphere.
 Here are some factors that might be relevant:
 - the radius of the sphere $r$, with $[r] = L$;
