@@ -76,7 +76,7 @@ rust, and lace curtains that horror auteur Hideo Nakata would probably
 endorse.
 In the ghostlight of other times, our family troops into the
 restaurant, where Otousan helps himself to huge slices of Kobe beef,
-and oneesan, a light eater, watches on with disapproving fascination.
+and Oneesan, a light eater, watches on with disapproving fascination.
 They fade into peeling wallpaper and furniture in disarray.
 
 <figure>
@@ -84,7 +84,7 @@ They fade into peeling wallpaper and furniture in disarray.
 </div>
 </figure>
 
-The hotel is flanked by two incongruous figures: a
+The hotel is flanked by two apparently incongruous figures: a
 stone toad and a wooden owl.
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
@@ -101,7 +101,10 @@ more a hunched anthropoid.
 
 Less disquieting is the owl, perched on remnants of the tree from
 which it was carved.
-It pauses, head cocked, as if alerted to a vole in the undergrowth.
+It pauses, head cocked expressively as if alerted to a vole in the
+undergrowth.
+It is a guard rather than a sphinx or an apparition beneath a well.
+But these Occidental distinctions and categories seem to miss
 
 #### Old stuff
 
