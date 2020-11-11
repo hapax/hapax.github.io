@@ -76,7 +76,8 @@ rust, and lace curtains that horror auteur Hideo Nakata would probably
 endorse.
 In the ghostlight of other times, our family troops into the
 restaurant, where Otousan helps himself to huge slices of Kobe beef,
-and oneesan, a light eater, watches on with mingled fascination and horror.
+and oneesan, a light eater, watches on with disapproving fascination.
+They fade into peeling wallpaper and furniture in disarray.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
