@@ -77,15 +77,17 @@ endorse.
 In the ghostlight of other times, our family troops into the
 restaurant, where Otousan relishingly helps himself to huge slices of Kobe beef,
 and Oneesan, a light eater, watches on with disapproving fascination.
+Otouto 
 They fade into peeling wallpaper and furniture in disarray.
+The hotel is flanked by two apparently incongruous figures: a
+stone toad and a wooden owl.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
 </div>
 </figure>
 
-The hotel is flanked by two apparently incongruous figures: a
-stone toad and a wooden owl.
+
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
 fairytale, the soldier could summon with a tinderbox, and like the
@@ -108,6 +110,8 @@ But these Occidental distinctions and categories seem to miss
 
 #### Old stuff
 
+The hotel is flanked by two apparently incongruous figures: a
+stone toad and a wooden owl.
 In the light of another time, I imagine our daytrippers staying here:
 otouto finds a small wooden plane in the souvenir store; Otousan
 relishing his Kobe beef; oneesan bored by the whole affair.
