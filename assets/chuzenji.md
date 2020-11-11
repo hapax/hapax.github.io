@@ -73,17 +73,18 @@ teppenyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
 The box-like hotel is guarded by two inexplicable objects: a
-stone toad and a wooden own.
-The toad is huge, coarse, and discoloured by mould, and reminds of the
-fairytale dogs with eyes as big as saucers that the
-old Danish soldier could summon with a tinderbox.
-The toad would be more at home beneath a well than the carpark of a
-teppenyaki joint.
+stone toad and a wooden owl.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
 </div>
 </figure>
+
+The toad is huge, coarse, and discoloured by mould, and reminds of the
+fairytale dogs with eyes as big as saucers that the
+old Danish soldier could summon with a tinderbox.
+The toad would be more at home beneath a well than the carpark of a
+teppenyaki joint.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake12.png" />
