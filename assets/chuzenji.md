@@ -85,6 +85,8 @@ stone toad and a wooden owl.
 </div>
 </figure>
 
+Neither object belongs.
+
 #### Old stuff
 
 Two guardians, a stone frog and  keep watch over the ruin: a frog and an
@@ -554,3 +556,5 @@ the back.
 a perfect specimen of the Chuzenji grotesque.
 
 lace crumbling sinisterly behind the oddly clean windows.
+
+(Even less explicable is the marooned dinghy, almost hidden by vines.)
