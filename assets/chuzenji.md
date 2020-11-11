@@ -17,7 +17,7 @@ between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
 In a perversely literal obedience to the latter, for over a thousand
-years, the region was closed to horses, cows, and women.
+years, the region was closed to horses, women, and cows.
 
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
 Nikko"), and even in this ambiguity, seems more defined by its proximity to other things than
