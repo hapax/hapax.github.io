@@ -85,14 +85,13 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
   involves some neat results from the theory of martingales.
 - [*MIP\* = RE*](assets/mipre.pdf) (2020). Consulting entangled
   provers makes you a god, in the sense that they can quickly and reliably
-  convince you of "yes" answers to the Halting Problem. In turn,
-  this tells us something deep about the nature of entanglement and
+  convince you of "yes" answers to the Halting Problem. This tells us something deep about the nature of entanglement and
   operator algebras.
-  Notes on [this (big) result](https://arxiv.org/abs/2001.04383) for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
+  <!-- Notes on [this (big) result](https://arxiv.org/abs/2001.04383) for a group talk. <!--, showing that entangled provers can convince you of almost anything.-->
 - [*Sphere packing and the modular bootstrap*](assets/sphere-packing.pdf)
   (2019). Surprisingly, throwing balls in a box constrains the
   lightest black holes in certain theories of quantum gravity. The
-  connection is linear programming! Rough notes for a talk on [this paper](https://arxiv.org/abs/1905.01319).
+  connection is linear programming! <!-- Rough notes for a talk on [this paper](https://arxiv.org/abs/1905.01319).-->
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
   mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
   quickly". A brief introduction to both notions.
