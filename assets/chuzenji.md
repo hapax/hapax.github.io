@@ -59,7 +59,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the apparition of a headless swan.
+bubble, shattered by the headless swan I find looming out of the mist.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
@@ -68,12 +68,14 @@ bubble, shattered by the apparition of a headless swan.
 
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
-frontage once offering travellers the trifold amenities of omiyage,
+complex once offering the trifold amenities of *omiyage* (souvenirs),
 teppenyaki, and hotel.
-Long abandoned, *Lake Garden* now offers little more than a dereliction of weeds,
+Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
-The box-like hotel is guarded by two inexplicable objects: a large
-stone toad and a wooden owl.
+The box-like hotel is guarded by two inexplicable objects: a
+stone toad and a wooden own.
+The toad is huge, coarse, and discoloured by mould, and whose
+obscenely sightless eyes remind of the subterranean dogs of "The Tinderbox".
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
