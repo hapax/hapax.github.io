@@ -83,9 +83,8 @@ stone toad and a wooden owl.
 
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
-fairytale, the soldier could summon with a tinderbox.
-The toad would be more at home in the dank of a well than the carpark of a
-teppanyaki joint.
+fairytale, the soldier could summon with a tinderbox, and the toad
+would be more at home in the dank of a well than the carpark of a teppanyaki joint.
 But even stranger than the sightless eyes is the thin, delphic smile
 drawn across its face, giving it the appearance less of a toad and
 more of a hunched anthropoid.
