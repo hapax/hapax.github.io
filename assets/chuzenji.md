@@ -92,7 +92,7 @@ fairytale, the soldier could summon with a tinderbox, and like the
 dogs, the toad would be more at home in the dank of a well than the carpark of a teppanyaki joint.
 But even stranger than the eyes is the thin, delphic smile
 drawn across its face, giving it the appearance less of a toad and
-more a hunched anthropoid.
+more a hunched anthropoid or sphinx.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake12.png" />
