@@ -72,7 +72,8 @@ Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
-rust, and lace curtains that Hideo Nakata would endorse.
+rust, and lace curtains that horror auteur Hideo Nakata would probably
+endorse.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
