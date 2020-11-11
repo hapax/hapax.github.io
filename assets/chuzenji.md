@@ -93,7 +93,7 @@ teppenyaki joint.
 </div>
 </figure>
 
-Neither object belongs.
+The owl pauses, head cocked, vigilantly upon its pole.
 
 #### Old stuff
 
