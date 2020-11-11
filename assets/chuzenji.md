@@ -70,8 +70,8 @@ The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 frontage once offering travellers the trifold amenities of omiyage,
 teppenyaki, and hotel.
-Long abandoned, is now offers little more than a dereliction of weeds,
-rust, and lace curtains Hideo Nakata might approve of.
+Long abandoned, *Lake Garden* now offers little more than a dereliction of weeds,
+rust, and lace curtains that Hideo Nakata might approve of.
 The hotel section is bookended by two inexplicable objects: a large
 stone toad (technically, sitting in the teppenyaki carpark) and a
 wooden owl.
