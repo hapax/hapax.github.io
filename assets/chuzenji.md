@@ -94,7 +94,7 @@ teppenyaki joint.
 </figure>
 
 The owl pauses, head cocked, as if it has just heard the rustling of a
-vole in the undergrowth.
+vole in the vines woven thickly around its perch.
 
 #### Old stuff
 
