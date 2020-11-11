@@ -93,7 +93,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
   lightest black holes in certain theories of quantum gravity. The
   connection is linear programming! <!-- Rough notes for a talk on [this paper](https://arxiv.org/abs/1905.01319).-->
 - [*Chaos and thermalisation*](assets/chaos.pdf) (2018). In quantum
-  mechanics, "chaotic" can mean either "looks random" or "spreads exponentially
+  mechanics, "chaotic" can mean either "looks random" or "spreads
   quickly". A brief introduction to both notions.
 - [*String perturbation theory and Riemann surfaces*]({{
 hapax.github.io }}/assets/strings-project.pdf) (2018). To paraphrase
