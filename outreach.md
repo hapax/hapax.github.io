@@ -49,14 +49,13 @@ physics and what a day in the life looks like.
 - [*The Scrubland Manifesto*](https://hapax.github.io/maths/teaching/hacks/scrubland/)
   (2019). A manifesto controversially asserting that high
   school math should be fun, useful and engaging. Examples included.
-- [*Physics Circle problems*](assets/circle-probs.pdf)
-(2018--19). A medley of problems on everything from string theory to Starbucks.
-- [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf). A
+- [*Fermi estimates: from Harry Potter to ET*](assets/fermi-estimates.pdf) (2019). A
 	Physics Circle talk on how to estimate just about anything,
 	from the amount of computer storage in the world to the loonies concealed in couches across Canada.
 - [*Dimensional analysis and black holes*](assets/dimensional-analysis.pdf)
     (2019). A tutorial on dimensional analysis for the UBC
     Physics Circle, paying off in black hole thermodynamics.
+- [*Physics Circle problems*](assets/circle-probs.pdf) (2018--19). A medley of problems on everything from string theory to Starbucks.
 
 #### Teaching and course development
 
