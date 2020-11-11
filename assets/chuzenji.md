@@ -59,21 +59,23 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the reality of a headless swan;
-a perfect specimen of the Chuzenji grotesque.
+bubble, shattered by the apparition of a headless swan.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
 </div>
 </figure>
 
-The town has other disquieting familiars.
-Further along the main road is the frontage of *Hotel Lake
-Garden* (ホテル・レイク・ ガ－デン), sprawling, abandoned to the
-weather, a portrait of ruin in crumbling lace and peeling wallpaper.
-Two inexplicable guardians keep watch over the ruin: a frog and an
-owl.
-Their presence is melancholy and yet somehow comforting.
+The town has other, less disquieting, familiars.
+Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
+frontage once offering travellers the trifold amenities of bath,
+teppenyaki, and hotel.
+Long abandoned, is now offers little more than a dereliction of weeds,
+rust, and lace curtains Hideo Nakata might approve of.
+The hotel section is bookended by two inexplicable objects: a large
+stone toad (technically, sitting in the teppenyaki carpark) and a
+wooden owl.
+Though neither belong, both are comforting.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
@@ -86,6 +88,10 @@ Their presence is melancholy and yet somehow comforting.
 </figure>
 
 #### Old stuff
+
+Two guardians, a stone frog and  keep watch over the ruin: a frog and an
+owl.
+Their presence is melancholy and yet somehow comforting.
 
 (More on buildings, frog, owl. Perhaps Hotel Asian?)
 
@@ -547,3 +553,6 @@ nothing at all.
 My eyes run along the linear strip of growth to the rusted lean-to at
 the back.
  
+a perfect specimen of the Chuzenji grotesque.
+
+lace crumbling sinisterly behind the oddly clean windows.
