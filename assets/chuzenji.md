@@ -74,6 +74,9 @@ teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that horror auteur Hideo Nakata would probably
 endorse.
+In the ghostlight of other times, our family troops into the
+restaurant, where Otousan helps himself to huge slices of Kobe beef,
+and oneesan, a light eater, watches on with mingled fascination and horror.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
@@ -99,11 +102,11 @@ Less disquieting is the owl, perched on remnants of the tree from
 which it was carved.
 It pauses, head cocked, as if alerted to a vole in the undergrowth.
 
+#### Old stuff
+
 In the light of another time, I imagine our daytrippers staying here:
 otouto finds a small wooden plane in the souvenir store; Otousan
 relishing his Kobe beef; oneesan bored by the whole affair.
-
-#### Old stuff
 
 Two guardians, a stone frog and  keep watch over the ruin: a frog and an
 owl.
