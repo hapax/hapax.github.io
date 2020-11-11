@@ -72,15 +72,15 @@ Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering the threefold amenities of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
-rust, and lace curtains that Hideo Nakata might approve of.
-The hotel is flanked by two incongruous figures: a
-stone toad and a wooden owl.
+rust, and lace curtains that Hideo Nakata would endorse.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
 </div>
 </figure>
 
+The hotel is flanked by two incongruous figures: a
+stone toad and a wooden owl.
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
 fairytale, the soldier could summon with a tinderbox, and the toad
