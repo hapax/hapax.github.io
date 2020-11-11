@@ -59,7 +59,7 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
 Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the headless swan suddenly looming out of the
+bubble, shattered by the headless swan which suddenly looms out of the
 mist at me.
 
 <figure>
@@ -69,11 +69,11 @@ mist at me.
 
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
-complex once offering the trifold amenities of *omiyage* (souvenirs),
-teppenyaki restaurant, and hotel.
+complex once offering the threefold amenities of *omiyage* (souvenirs),
+teppenyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
-The hotel is guarded by two incongruous figures: a
+The hotel is flanked by two incongruous figures: a
 stone toad and a wooden owl.
 
 <figure>
@@ -83,8 +83,7 @@ stone toad and a wooden owl.
 
 The toad is huge, coarse, and discoloured by mould.
 It reminds of the fairytale dogs with eyes as big as saucers that
-Hans Christian Andersen's soldier could summon with a
-tinderbox.
+soldier could summon with a tinderbox.
 The toad would be more at home in the dank of a well than the carpark of a
 teppenyaki joint.
 
@@ -93,8 +92,9 @@ teppenyaki joint.
 </div>
 </figure>
 
-The owl pauses, head cocked, as if it has just heard the rustling of a
-vole in the vines woven thickly around its perch.
+The owl sits on a pole, right next to a beached dinghy wreathed in
+creepers.
+It pauses, head cocked, as if it has just heard a vole in the undergrowth.
 
 #### Old stuff
 
