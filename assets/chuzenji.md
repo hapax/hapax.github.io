@@ -73,7 +73,7 @@ complex once offering the trifold amenities of *omiyage* (souvenirs),
 teppenyaki restaurant, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
-The box-like hotel is guarded by two inexplicable objects: a
+The hotel is guarded by two inexplicable animals: a
 stone toad and a wooden owl.
 
 <figure>
