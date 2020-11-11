@@ -70,9 +70,13 @@ mist at me.
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering the threefold amenities of *omiyage* (souvenirs),
-teppenyaki, and hotel.
+teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
+In the light of another time, I imagine our daytrippers staying here:
+otouto finds a small wooden plane in the souvenir store; Otousan
+relishing his Kobe beef; oneesan bored by the whole affair.
+
 The hotel is flanked by two incongruous figures: a
 stone toad and a wooden owl.
 
@@ -85,7 +89,7 @@ The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
 fairytale, the soldier could summon with a tinderbox.
 The toad would be more at home in the dank of a well than the carpark of a
-teppenyaki joint.
+teppanyaki joint.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake12.png" />
