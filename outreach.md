@@ -41,7 +41,7 @@ physics and what a day in the life looks like.
   and lecture series for the Physics Circle covering [dimensional analysis](assets/dim-slides.pdf),
   [random walks](assets/random-slides.pdf), and
   [Brownian motion](assets/brownian-slides.pdf).
-- [*Black hole mergers*](assets/colliding-black-holes.pdf). Notes for
+- [*Black hole mergers*](assets/colliding-black-holes.pdf) (2020). Notes for
     an open-ended Physics Circle discussion of colliding black holes and LIGO.
 - [*Searching for aliens*]({{hapax.github.io}}/assets/ET-phone-home.pdf)
   (2020). Notes for an open-ended Physics Circle discussion of fast
