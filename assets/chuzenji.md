@@ -75,8 +75,10 @@ rust, and lace curtains that Hideo Nakata might approve of.
 The box-like hotel is guarded by two inexplicable objects: a
 stone toad and a wooden own.
 The toad is huge, coarse, and discoloured by mould, and reminds of the
-fairytale dogs from beneath the well, with eyes as big as saucers, the
+fairytale dogs with eyes as big as saucers that the
 old Danish soldier could summon with a tinderbox.
+The toad would be more at home beneath a well than the carpark of a
+teppenyaki joint.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
