@@ -93,7 +93,8 @@ teppenyaki joint.
 </div>
 </figure>
 
-The owl pauses, head cocked, vigilantly upon its pole.
+The owl pauses, head cocked, as if it has just heard the rustling of a
+vole in the undergrowth.
 
 #### Old stuff
 
