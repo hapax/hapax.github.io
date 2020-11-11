@@ -82,7 +82,7 @@ stone toad and a wooden owl.
 </figure>
 
 The toad is huge, coarse, and discoloured by mould.
-It reminds of the fairytale dogs with eyes as big as saucers that
+It reminds me of the fairytale dogs with eyes as big as saucers the
 soldier could summon with a tinderbox.
 The toad would be more at home in the dank of a well than the carpark of a
 teppenyaki joint.
