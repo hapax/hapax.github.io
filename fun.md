@@ -7,7 +7,8 @@ permalink: /fun/
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/). A tumblr for my
   recent visual art. <!-- *principium creaturarum*.-->
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
-- [*Pong mania*](https://www.openprocessing.org/sketch/590092). A buggy but addictive implementation of Pong.
+- [*Pong mania*](https://www.openprocessing.org/sketch/590092). An
+  infinite game of Pong against a buggy opponent.
 
 ---
 
