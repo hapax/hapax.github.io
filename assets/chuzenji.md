@@ -69,7 +69,7 @@ bubble, shattered by the headless swan I find looming out of the mist.
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering the trifold amenities of *omiyage* (souvenirs),
-teppenyaki, and hotel.
+teppenyaki restaurant, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
 The box-like hotel is guarded by two inexplicable objects: a
