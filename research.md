@@ -77,7 +77,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
     cosmology, so perhaps we live on an end-of-the-world brane behind
     a black hole horizon! Probably not, but it's a conversation opener.-->
 
-#### Technical notes
+#### Notes
 
 - [*Maxwell's demon goes to Vegas*](assets/gambling-demons.pdf)
   (2020). Can demons playing thermodynamic slot machines violate the
