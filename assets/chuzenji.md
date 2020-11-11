@@ -67,7 +67,7 @@ mist.
 </div>
 </figure>
 
-The town has other, less disquieting, familiars.
+The town has other familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
@@ -95,9 +95,9 @@ more a hunched anthropoid.
 </div>
 </figure>
 
-The owl perches next to a beached dinghy wreathed in creepers.
-It pauses, head cocked, as if it has just heard a vole in the
-undergrowth.
+Less disquieting is the owl, perched on remnants of the tree from
+which it was carved.
+It pauses, head cocked, as if alerted to a vole in the undergrowth.
 
 In the light of another time, I imagine our daytrippers staying here:
 otouto finds a small wooden plane in the souvenir store; Otousan
