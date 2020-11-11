@@ -69,7 +69,7 @@ mist.
 
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
-complex once offering the threefold amenities of *omiyage* (souvenirs),
+complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata would endorse.
