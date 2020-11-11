@@ -74,8 +74,9 @@ Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
 The box-like hotel is guarded by two inexplicable objects: a
 stone toad and a wooden own.
-The toad is huge, coarse, and discoloured by mould, and whose
-obscenely sightless eyes remind of the subterranean dogs of "The Tinderbox".
+The toad is huge, coarse, and discoloured by mould, and reminds of the
+fairytale dogs from beneath the well, with eyes as big as saucers, the
+old Danish soldier could summon with a tinderbox.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
