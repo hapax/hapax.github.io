@@ -68,7 +68,7 @@ bubble, shattered by the apparition of a headless swan.
 
 The town has other, less disquieting, familiars.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
-frontage once offering travellers the trifold amenities of bath,
+frontage once offering travellers the trifold amenities of omiyage,
 teppenyaki, and hotel.
 Long abandoned, is now offers little more than a dereliction of weeds,
 rust, and lace curtains Hideo Nakata might approve of.
