@@ -24,7 +24,7 @@ More accurately, we would construct a sentence *L* (for "liar") which says
 If the formal system is *consistent* — it can't prove false statements — then it cannot prove *L*, since if *L* was provable, the sentence would be false. This means *L* must be true! A formal system which cannot prove all the statements about it that are true is called *incomplete*. So, the First Incompleteness Theorem just states that consistent systems which can refer to themselves, and make statements about provability, must be incomplete. 
  
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://media1.britannica.com/eb-media/33/129233-004-EE51BAF4.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="450" data-original-width="328" height="400" src="https://media1.britannica.com/eb-media/33/129233-004-EE51BAF4.jpg" width="291" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://media.nature.com/lw800/magazine-assets/d41586-019-00083-3/d41586-019-00083-3_16384300.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="450" data-original-width="328" height="400" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00083-3/d41586-019-00083-3_16384300.jpg" width="291" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Kurt Gödel (aka The Dark Lord). Alfred Eisenstaedt, Time Life Pictures.</td></tr>
 </tbody></table>
 
