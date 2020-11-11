@@ -94,8 +94,7 @@ more of a hunched anthropoid.
 </div>
 </figure>
 
-The owl sits on a pole, right next to a beached dinghy wreathed in
-creepers.
+The owl perches next to a beached dinghy wreathed in creepers.
 It pauses, head cocked, as if it has just heard a vole in the
 undergrowth.
 
