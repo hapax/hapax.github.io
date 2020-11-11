@@ -21,7 +21,7 @@ permalink: /outreach/
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
   with [exercises](assets/sing-problems.pdf)
-  and a [lay summary](assets/penrose.pdf).
+  and [lay summary](assets/penrose.pdf)!
 - [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
