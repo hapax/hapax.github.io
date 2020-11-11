@@ -73,10 +73,6 @@ complex once offering the threefold amenities of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that Hideo Nakata might approve of.
-In the light of another time, I imagine our daytrippers staying here:
-otouto finds a small wooden plane in the souvenir store; Otousan
-relishing his Kobe beef; oneesan bored by the whole affair.
-
 The hotel is flanked by two incongruous figures: a
 stone toad and a wooden owl.
 
@@ -98,7 +94,12 @@ teppanyaki joint.
 
 The owl sits on a pole, right next to a beached dinghy wreathed in
 creepers.
-It pauses, head cocked, as if it has just heard a vole in the undergrowth.
+It pauses, head cocked, as if it has just heard a vole in the
+undergrowth.
+
+In the light of another time, I imagine our daytrippers staying here:
+otouto finds a small wooden plane in the souvenir store; Otousan
+relishing his Kobe beef; oneesan bored by the whole affair.
 
 #### Old stuff
 
