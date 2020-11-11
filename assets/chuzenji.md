@@ -83,7 +83,7 @@ stone toad and a wooden owl.
 
 The toad is huge, coarse, and discoloured by mould.
 It reminds of the fairytale dogs with eyes as big as saucers that
-Hans Christian Andersen's returning veteran could summon with a
+Hans Christian Andersen's soldier could summon with a
 tinderbox.
 The toad would be more at home in the dank of a well than the carpark of a
 teppenyaki joint.
