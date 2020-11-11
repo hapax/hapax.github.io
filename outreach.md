@@ -60,11 +60,10 @@ physics and what a day in the life looks like.
 
 #### Teaching and course development
 
-- *An introduction to quantum computing* (2020, University of British
-  Columbia). [Various assignments](assets/big-qc.pdf) for a graduate
-  course which is in the works.
+- *An introduction to quantum computing* (2020). [Various assignments](assets/big-qc.pdf) for a graduate
+  course in the works at UBC.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
-  (2016, University of Melbourne). I wrote tutorials on
+  (2016). I wrote tutorials on
   [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
   [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
