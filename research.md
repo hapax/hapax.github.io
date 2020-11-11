@@ -27,7 +27,7 @@ For a technical overview, see my [thesis proposal](assets/proposal.pdf).
 2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-   David Wakeham. arXiv: 2004.13088.
+   DW. arXiv: 2004.13088.
 <!--   - From the CFT perspective, we prove that if you chop a holographic
    CFT_2 in half, you sometimes cleanly slice the bulk. We give
    precise sufficient conditions for this clean slicing (called the
@@ -38,7 +38,7 @@ For a technical overview, see my [thesis proposal](assets/proposal.pdf).
 3. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). Jason Pollack,
    [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
-   David Wakeham. PRL, 125:021601. arXiv:
+   DW. PRL, 125:021601. arXiv:
    [2002.02971](https://arxiv.org/pdf/2002.02971.pdf).
 <!--   - In a chaotic theory, averaging correlators of random states
    creates wormhole-like shortcuts between replicas of the
@@ -47,8 +47,7 @@ For a technical overview, see my [thesis proposal](assets/proposal.pdf).
 4. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
   (2019). [Sean Cooper](https://seancooper.info/),
   [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
- Moshe Rozali, David
-  Wakeham. JHEP, 2020:23. arXiv:
+ Moshe Rozali, DW. JHEP, 2020:23. arXiv:
   [1912.05746](https://arxiv.org/pdf/1912.05746.pdf).
 <!--  - When the AdS/BCFT equivalence holds, the results of prodding
   the bulk slice should be compatible with the corresponding prodding
@@ -60,7 +59,7 @@ For a technical overview, see my [thesis proposal](assets/proposal.pdf).
  James Sully,
  Mark Van Raamsdonk,
   [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
-  David Wakeham. JHEP, 2020:4. arXiv:
+  DW. JHEP, 2020:4. arXiv:
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
 <!--  - We cut holes in various theories which, by the magic of
     AdS/(B)CFT, are dual to evaporating black holes. These configurations
@@ -70,7 +69,7 @@ For a technical overview, see my [thesis proposal](assets/proposal.pdf).
   (2018). Sean Cooper, Moshe Rozali,
   [Brian Swingle](https://sites.google.com/site/physicsmonkey/),
  Mark Van Raamsdonk,
-  Christopher Waddell, David Wakeham. JHEP, 2019:65. arXiv:
+  Christopher Waddell, DW. JHEP, 2019:65. arXiv:
   [1810.10601](https://arxiv.org/abs/1810.10601).
 <!--  - We cut holes in various theories which, by the magic of
     AdS/(B)CFT, are dual to black hole microstates. These microstates
