@@ -108,10 +108,10 @@ It is altogether less disquieting than the toad, or the swan, more
 explicable, and with its air of quiet alertness and rustic handicraft,
 sounds a comforting note.
 
-But I suspect these distinctions and categories are Occidental, and do
-not belong to the objects.
-There is secrete oneness between these animals, some thread which ties
-them together but which is as yet obscure to me, and which perhaps 
+But I suspect these distinctions and categories are Occidental,
+belonging to me and not the objects themselves.
+There is secret oneness between the animals, some thread which ties
+them together, and to the fate of the town, but which is as yet obscure to me.
 
 #### Old stuff
 
