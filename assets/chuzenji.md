@@ -88,7 +88,7 @@ arrangements of furniture.
 The hotel is flanked by two seemingly incongruous figures: a stone toad and a wooden owl.
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the Danish
-fairytale, the soldier could summon with a tinderbox. Like the
+fairytale, the soldier could summon from the bottom of the well with a tinderbox. Like the
 dogs, the toad would have been more at home in the dank of a well than the carpark of a teppanyaki joint.
 But even stranger than the eyes is the delphic smile
 drawn thinly across its face, giving it the appearance less of a toad and
@@ -102,8 +102,9 @@ more a hunched anthropoid or sphinx.
 The owl is perched on the stump of the tree from which it was carved.
 It pauses, head cocked expressively, as if it had just heard the rustle
 of a vole in the undergrowth.
-It is less disquieting than the toad, more explicable, and with its
-air of alertness and rustic handicraft, an almost comforting 
+It is altogether less disquieting than the toad, or the swan, more
+explicable, and with its air of quiet alertness and rustic handicraft,
+provides a comforting
 
 #### Old stuff
 
