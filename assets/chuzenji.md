@@ -99,7 +99,8 @@ more a hunched anthropoid or sphinx.
 </div>
 </figure>
 
-The owl is perched on the stump of the tree from which it was carved.
+The owl, on the other side of hotel's main frontage, is perched on the
+stump of the tree from which it was carved.
 It pauses, head cocked expressively, as if it had just heard the rustle
 of a vole in the undergrowth.
 It is altogether less disquieting than the toad, or the swan, more
