@@ -99,8 +99,8 @@ more a hunched anthropoid or sphinx.
 </div>
 </figure>
 
-Less disquieting is the owl, perched on the stump of the tree from
-which it was carved.
+The owl, perched on the stump of the tree from which it was carved, is
+less disquieting.
 It pauses, head cocked expressively as if it has just heard a vole in the
 undergrowth.
 
