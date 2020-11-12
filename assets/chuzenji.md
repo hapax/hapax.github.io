@@ -105,7 +105,11 @@ It pauses, head cocked expressively, as if it had just heard the rustle
 of a vole in the undergrowth.
 It is altogether less disquieting than the toad, or the swan, more
 explicable, and with its air of quiet alertness and rustic handicraft,
-provides a comforting
+sounds a comforting note.
+
+But I suspect these distinctions and categories are Occidental, and do
+not belong to the objects.
+There is secrete oneness among these animals, 
 
 #### Old stuff
 
