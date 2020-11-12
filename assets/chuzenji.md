@@ -74,7 +74,7 @@ teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
 rust, and lace curtains that horror auteur Hideo Nakata would probably
 endorse.
-In the ghostlight of other times, our family troops into the
+In the ghostlight, our family troops into the
 restaurant, where Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
 This tableau fades into peeling wallpaper and disconsolate
