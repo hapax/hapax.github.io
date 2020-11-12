@@ -103,12 +103,13 @@ more a hunched anthropoid or a sphinx.
 
 Less disquieting is the owl, perched on remnants of the tree from
 which it was carved.
-It pauses, head cocked expressively as if alerted to a vole in the
+It pauses, head cocked expressively as if it has just heard a vole in the
 undergrowth.
-It is a guard rather than a sphinx or an apparition beneath a well.
-But these Occidental distinctions and categories seem to miss
 
 #### Old stuff
+
+It is a guard rather than a sphinx or an apparition beneath a well.
+But these Occidental distinctions and categories seem to miss
 
 The hotel is flanked by two apparently incongruous figures: a
 stone toad and a wooden owl.
