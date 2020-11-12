@@ -57,7 +57,6 @@ World Heritage Cheese Eggs.
 After some negotiation (Okaasan wants to visit the temple), they
 take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water; guileless laughter.
-Clumsy Otousan!
 Of course, it is all a mirage, like a Coke ad or an asset price
 bubble, shattered by the headless swan which suddenly looms at me out of the
 mist.
