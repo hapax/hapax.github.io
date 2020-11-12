@@ -99,9 +99,11 @@ more a hunched anthropoid or sphinx.
 </div>
 </figure>
 
-Less disquieting is the owl, perched on the stump of the tree from which it was carved.
-It pauses, head cocked expressively as if it has just heard the rustle
+The owl is perched on the stump of the tree from which it was carved.
+It pauses, head cocked expressively, as if it had just heard the rustle
 of a vole in the undergrowth.
+It is less disquieting than the toad, more explicable, and with its
+air of alertness and rustic handicraft, an almost comforting 
 
 #### Old stuff
 
