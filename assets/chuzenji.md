@@ -78,7 +78,7 @@ In the ghostlight of time past, our family troops into the
 restaurant, where Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
 This tableau fades once more into peeling wallpaper and disconsolate
-arrangements of broken furniture.
+heaps of furniture.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
