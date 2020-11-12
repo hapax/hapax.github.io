@@ -93,6 +93,7 @@ dogs, the toad would have been more at home in the dank of a sewer than the carp
 But even stranger than the eyes is the delphic smile
 drawn thinly across its face, giving it the appearance less of a toad and
 more a hunched anthropoid or sphinx.
+It awaits an answer.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake12.png" />
