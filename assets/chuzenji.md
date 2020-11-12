@@ -72,10 +72,9 @@ Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
-rust, and lace curtains that horror auteur Hideo Nakata would probably
-endorse.
-In the ghostlight of time past, our family troops into the
-restaurant, where Otousan relishingly helps himself to three huge slices of Kobe beef,
+rust, and lace curtains that horror auteur Hideo Nakata could get behind.
+In the ghostlight of times past, the family troops into the
+restaurant and Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
 This tableau fades once more into peeling wallpaper and disconsolate
 heaps of furniture.
@@ -109,8 +108,8 @@ explicable, and with its air of quiet alertness and rustic handicraft,
 sounds a comforting note.
 
 But I suspect these distinctions and categories are Occidental,
-belonging to me and not the objects themselves.
-There is secret oneness between the animals, some thread which ties
+belonging to me and not to the objects themselves.
+There is a secret oneness between the animals, some thread which ties
 them together, and to the fate of the town, but which is as yet obscure to me.
 
 #### Old stuff
