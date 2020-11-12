@@ -91,7 +91,7 @@ It reminds me of the dogs with eyes as big as saucers that, in the Danish
 fairytale, the soldier could summon with a tinderbox. Like the
 dogs, the toad would have been more at home in the dank of a well than the carpark of a teppanyaki joint.
 But even stranger than the eyes is the delphic smile
-drawn across its face, giving it the appearance less of a toad and
+drawn thinly across its face, giving it the appearance less of a toad and
 more a hunched anthropoid or sphinx.
 
 <figure>
