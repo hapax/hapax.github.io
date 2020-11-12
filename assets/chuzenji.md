@@ -67,7 +67,7 @@ looms at me out of the mist.
 </div>
 </figure>
 
-The town has other familiars.
+The swan is not the town's only familiar.
 Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
