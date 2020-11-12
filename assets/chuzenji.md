@@ -93,14 +93,14 @@ fairytale, the soldier could summon with a tinderbox. Like the
 dogs, the toad would be more at home in the dank of a well than the carpark of a teppanyaki joint.
 But even stranger than the eyes is the delphic smile
 drawn across its face, giving it the appearance less of a toad and
-more a hunched anthropoid or a sphinx.
+more a hunched anthropoid or sphinx.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake12.png" />
 </div>
 </figure>
 
-Less disquieting is the owl, perched on remnants of the tree from
+Less disquieting is the owl, perched on the stump of the tree from
 which it was carved.
 It pauses, head cocked expressively as if it has just heard a vole in the
 undergrowth.
