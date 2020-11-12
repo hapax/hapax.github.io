@@ -78,7 +78,7 @@ In the ghostlight of other times, our family troops into the
 restaurant, where Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
 This tableau fades into peeling wallpaper and disconsolate
-arrangements of furniture.
+islands of furniture.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
@@ -101,8 +101,8 @@ more a hunched anthropoid or sphinx.
 
 The owl, perched on the stump of the tree from which it was carved, is
 less disquieting.
-It pauses, head cocked expressively as if it has just heard a vole in the
-undergrowth.
+It pauses, head cocked expressively as if it has just heard the rustle
+of a vole in the undergrowth.
 
 #### Old stuff
 
