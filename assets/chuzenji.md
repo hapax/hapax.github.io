@@ -109,7 +109,8 @@ sounds a comforting note.
 
 But I suspect these distinctions and categories are Occidental, and do
 not belong to the objects.
-There is secrete oneness among these animals, 
+There is secrete oneness between these animals, some thread which ties
+them together but which is as yet obscure to me, and which perhaps 
 
 #### Old stuff
 
