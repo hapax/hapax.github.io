@@ -91,7 +91,7 @@ This has the other benefit of explaining why gravity is weak.
 I'll end with some more serious objections which, to my mind, decisively
 rule out the possibility we live in a flat, toroidal braneworld.
 
-#### The Theorema Egregium and the flat torus
+#### Theorema Egregium and the flat torus
 
 Let's start by constructing the flat torus.
 Recall that the donut has a blue edge of latitude which is glued at
