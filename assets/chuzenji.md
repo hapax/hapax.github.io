@@ -77,16 +77,15 @@ endorse.
 In the ghostlight of other times, our family troops into the
 restaurant, where Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
-This tableau fades into peeling wallpaper.
-The hotel is flanked by two apparently incongruous figures: a
-stone toad and a wooden owl.
+This tableau fades into peeling wallpaper and disconsolate
+arrangements of furniture.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake11.png" />
 </div>
 </figure>
 
-
+The hotel is flanked by two incongruous figures: a stone toad and a wooden owl.
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
 fairytale, the soldier could summon with a tinderbox. Like the
