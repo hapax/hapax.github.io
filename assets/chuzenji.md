@@ -59,8 +59,8 @@ take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water, to the accompaniment of pure, guileless laughter.
 Better times.
 Of course, it is all a mirage, like a Coke ad or an asset price
-bubble, shattered by the headless swan which suddenly looms at me out of the
-mist.
+bubble, shattered in this instance by the headless swan which suddenly
+looms at me out of the mist.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
