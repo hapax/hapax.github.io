@@ -85,7 +85,7 @@ arrangements of furniture.
 </div>
 </figure>
 
-The hotel is flanked by two incongruous figures: a stone toad and a wooden owl.
+The hotel is flanked by two seemingly incongruous figures: a stone toad and a wooden owl.
 The toad is huge, coarse, and discoloured by mould.
 It reminds me of the dogs with eyes as big as saucers that, in the
 fairytale, the soldier could summon with a tinderbox. Like the
