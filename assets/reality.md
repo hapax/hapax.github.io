@@ -92,7 +92,7 @@ average bear, but that's not the point. The point is that, in order to
 do any of that, he first needed to ask the simple question: why does the
 apple fall? And then he needed to admit that he didn't understand the
 answer Aristotle gave. And in trying to satisfy his own
-curiosity, he created modern physics and math.
+curiosity, he created physics and math as we know them.
 
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
