@@ -39,10 +39,10 @@ Generally, scientists don't look like either of these pictures. And even
 when they do, the stereotypes don't really tell us what the scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
-is actually a prerequisite.
-Nevertheless, these are narratives about science---not very good ones---so I
-would like to tell you a counter-narrative about what the
-prerequisites are, and what a scientist does and why they do it.
+is actually a prerequisite!
+Nevertheless, these are narratives about science that can guide career
+decisions, so I would like to tell you a counter-narrative about what
+the prerequisites are, what a scientist does and why they do it.
 
 Really, the main prerequisite is very simple.
 All you need is the courage to admit you don't know something, and the
