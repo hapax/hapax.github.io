@@ -6,8 +6,8 @@ layout: post
 
 I would like to thank the organizers of the Quantum Leaps conference
 for inviting me to speak, all of you for listening, and the Coast
-Salish peoples --- the Squamish, Musqueam and Tsleil-Waututh --- on
-whose unceded and ancestral territory we are all situated.
+Salish peoples---the Squamish, Musqueam and Tsleil-Waututh---on
+whose unceded and ancestral territory we are situated.
 I'll be sharing a broad and personal perspective on what science is,
 and what scientists do. But first of all, I'm going to talk about what science
 is *not*, or at least, not primarily.
