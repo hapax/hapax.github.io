@@ -82,8 +82,8 @@ other words, the earth pulls the apple towards it. Thus, he continues,
 "there must be a drawing power in matter, and the sum of the drawing
 power in the matter of the earth must be in the earth's center."
 
-This little observation carried the seed for the productive year
-anyone has ever had ever. In 1666, the lazy student invented Newtonian
+This little observation carried the seed for the most productive year
+anyone has ever had in recorded history. In 1666, the lazy student invented Newtonian
 mechanics in order to explain how the apple started and stopped
 moving, the law of gravitation to explain why the apple moved in the
 first place, and why it was drawn towards the centre of the earth, and
