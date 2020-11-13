@@ -127,6 +127,6 @@ colour. You could be male, you could be female, you can identify as
 something else altogether. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
-to try and answer, then you have all that it takes, and more, in order
-to be a good scientist. And with that, I will conclude. Thank you very
-much.
+to try and answer, then you have all that it takes, and probably much
+more, to be a good scientist. And with that, I will conclude. Thank
+you very much for listening.
