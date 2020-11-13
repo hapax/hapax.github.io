@@ -60,8 +60,7 @@ Conversely, if I take a clod of dirt, and let it go, it
 will drop back down to ground, where it belongs and likes to be, below
 the air.
 
-Like I say, this was the accepted view for more than a thousand
-years. But in 1665, Cambridge University closed due to fears of the
+Like I say, this was the accepted view for most of recorded history. But in 1665, Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
 today---and one of its recent graduates, a lazy and
 undistinguished young man, came home, had no more exams to study for,
