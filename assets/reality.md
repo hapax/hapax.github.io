@@ -30,7 +30,7 @@ blackboard. Instead of a microscope or pipette, their tools are chalk,
 equations and big ideas.
 If we roll with the pop culture version of this stereotype, they're
 probably white and male, perhaps confined to a wheelchair, or crazy,
-or simply possess an eccentric shock of white hair.
+or possessing an eccentric shock of white hair.
 They are, in other words, the stock type of genius, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
