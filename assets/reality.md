@@ -81,30 +81,32 @@ other words, the earth pulls the apple towards it. Thus, he continues,
 "there must be a drawing power in matter, and the sum of the drawing
 power in the matter of the earth must be in the earth's center."
 
-This little observation carried the seed for the most productive year
-any person, at any time, in any walk of life, has ever experienced. In
+This little observation planted the seed for the most productive year
+any human being has ever had. In
 1666, the lazy student invented Newtonian mechanics to explain how the apple started and stopped
-moving, the law of gravitation to explain why it was drawn towards the centre of the earth, and
+moving, the law of gravitation to explain why it was drawn towards the
+centre of the earth in the first place, and
 then an entirely new branch of mathematics called calculus, to help
 solve some of the math problems that cropped up.
 Now, Newton was smarter than the
 average bear, but that's not the point. The point is that, in order to
 do any of that, he first needed to ask the simple question: why does the
-apple fall? And then he needed to admit that he didn't understand the
-answer Aristotle gave. And in trying to satisfy his own
-curiosity, he created physics and math as we know them.
+apple fall? And he needed to admit that he didn't understand
+Aristotle's answer. And in trying to satisfy his own
+curiosity, he created physics and math as we know them know.
 
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
 giant brain. Certainly, Newton had a giant brain; not all of us
-are going to invent new branches of mathematics to solve problems in
+are going to invent a new branch of mathematics to solve problems in
 the new branch of physics we just created! But Newton's achievements
 are the achievements of an ordinary scientist writ large. He asked
 questions, and with great tenacity, careful observation, and generous
 hints from his predececssors, he answered them. And
 that's what science is, whether you're studying physics or
 oceanography or the social hierarchy of lemurs, whether you approach
-questions big or small or in between.
+questions big or small or somewhere in between.
+It's the same thing.
 
 Newton would later write. "I do not know what I may appear to the
 world, but to myself I seem to have been only like a boy playing on
@@ -117,12 +119,39 @@ stereotypes, Newton is actually giving us a very clear picture of why scientists
 what they do. They do what they do because they care about the
 answers; because the answers are beautiful; because the questions are
 beautiful. For Newton and scientists of all times, the universe really is
-a diverting seashore of smooth pebbles and pretty shells. And the microscopes
-and pipettes and equations are all just a means to get closer to the
-pebbles and shells, to know their nature better, and learn some of
-their secrets, which gives us hints about that great ocean of truth.
+a seashore of smooth pebbles and pretty shells. And the microscopes
+and pipettes and equations are all just a means to get closer to these
+diverting objects, to know their nature better, and learn some of
+their secrets.
 
-To put it differently, science is an exercise in falling in love with
+But there's another important lesson here.
+The pebbles and shells give us hints about the nature of the ocean.
+It might lie undiscovered in its unfathomable depths before us, but it
+scatters its clues on the shore.
+So we really should start with the pebbles and shells, the small questions,
+like: why does an apple fall? And not: what makes the world go round?
+Newton answered the big question, but only because he asked the little
+question first. So if we allow our curiosity to settle on the
+ordinary things, on the humble things, we may, like Newton, see things
+other people have missed, and they, in turn, can lead us down the path
+towards the greater secrets. 
+
+One of these great secrets is that everything is interesting; this is
+one the perks of being a scientist, that you get to see that the
+universe is a fractal of wonder, it exhibits wonder on every length
+scale. Einstein wrote a paper about tea leaves; Richard Feynman, one
+of the most famous physicists of the 20th century, was perplexed by
+the way that spaghetti always snaps into three pieces.
+There is nothing more wonderful to a geneticist than an E. coli
+bacterium, and to an entomologist, a puddle of stagnant water.
+Sometimes, people say that science, by insisting on explanations,
+empties the universe of mystery and meaning.
+But I think the opposite is true; it makes it full, and there is no
+better place to seek mystery than the natural world.
+You will not exhaust it soon.
+
+
+Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
 colour. You could be male, you could be female, you can identify as
 something else altogether. It doesn't matter. As long as you
