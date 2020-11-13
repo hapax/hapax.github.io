@@ -76,7 +76,7 @@ its level. But the young man---who, as you may have guessed, was none
 other than Isaac Newton---didn't understand this explanation. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
-his own explanation. He said: "Assuredly, the earth draws it." In
+his own explanation. He concluded that "assuredly, the earth draws it." In
 other words, the earth pulls the apple towards it. Thus, he continues,
 "there must be a drawing power in matter, and the sum of the drawing
 power in the matter of the earth must be in the earth's center."
