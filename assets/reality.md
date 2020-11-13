@@ -14,7 +14,7 @@ is *not*, or at least, not primarily.
 
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
-The first type is the industrious labrat, complete with white coat, safety
+The first type is the industrious labrat, complete with labcoat, safety
 goggles, and latex gloves, maybe peering into a microscope or wielding a
 pipette.
 These are the props of a scientist if we believe the
@@ -23,7 +23,7 @@ everywhere in popular culture.
 Whatever its flaws, this stereotype has one saving grace: it is democratic; everyone can
 aspire to wear a labcoat and look through a microscope.
 
-The second stock type does not wear a lab coat,
+The second stock type does not wear a labcoat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
