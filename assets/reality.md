@@ -35,7 +35,7 @@ They are, in other words, the stock type of genius, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
 
-Most scientists don't look like either of these pictures. And even
+Generally, scientists don't look like either of these pictures. And even
 when they do, the stereotypes don't really tell us what the scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
