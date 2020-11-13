@@ -18,7 +18,7 @@ The first type is the industrious labrat, complete with white coat, safety
 goggles, and latex gloves, maybe peering into a microscope or wielding a
 pipette.
 These are the props of a scientist if we believe the
-canonical stereotype, the one we see in films, television, books, really
+canonical stereotype, the one we see in films, television, books, and really
 everywhere else in popular culture.
 Whatever its flaws, this stereotype has one saving grace: it is democratic; everyone can
 aspire to wear a labcoat and look through a microscope.
