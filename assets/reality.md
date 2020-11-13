@@ -124,7 +124,7 @@ pebbles and shells, and to know their nature.
 To put it differently, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
 colour. You could be male, you could be female, you can identify as
-something else altogether. It doesn't matter. As long as you can
+something else altogether. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and more, in order
