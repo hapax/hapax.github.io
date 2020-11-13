@@ -31,7 +31,7 @@ equations and ideas.
 If we take the stereotype to its logical, or rather pop culture,
 extreme, they're probably white and male, confined to a wheelchair, or crazy,
 or possessing an eccentric shock of white hair.
-They are, in other words, the stock type of genius, the Albert
+They are, in other words, the stock type of scientific genius, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
 
