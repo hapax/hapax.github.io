@@ -4,10 +4,10 @@ date:  2020-11-12
 layout: post
 ---
 
-I would like to thank the organizers of the Quantum Leaps conference
-for inviting me to speak, all of you for listening, and the Coast
-Salish peoples---the Squamish, Musqueam and Tsleil-Waututh---on
-whose unceded and ancestral territory we are situated.
+I would like to thank Sogand and Aaliyah for inviting me to speak, all
+of you for listening, and the Coast Salish peoples---the Squamish,
+Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
+we are situated.
 I'll be sharing a broad and personal perspective on what science is,
 and what scientists do. But first of all, I'm going to talk about what science
 is *not*, or at least, not primarily.
@@ -19,19 +19,19 @@ goggles, and latex gloves, maybe peering into a microscope or wielding a
 pipette.
 These are the props of a scientist if we believe the
 canonical stereotype, the one we see in films, television, books, and really
-everywhere else in popular culture.
+everywhere in popular culture.
 Whatever its flaws, this stereotype has one saving grace: it is democratic; everyone can
 aspire to wear a labcoat and look through a microscope.
 
-The second stereotype does not wear a lab coat,
+The second stock type does not wear a lab coat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
 equations and ideas.
-If we take the stereotype to its logical, or rather pop culture,
+If we take the stereotype to its logical, or rather pop cultural,
 extreme, they're probably white and male, confined to a wheelchair, or crazy,
 or possessing an eccentric shock of white hair.
-They are, in other words, the stock type of scientific genius, the Albert
+They are, in other words, scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
 
@@ -44,50 +44,50 @@ Nevertheless, these are narratives about science that can guide career
 decisions, so I would like to tell you a counter-narrative about what
 the prerequisites are, what a scientist does and why they do it.
 
-Really, the main prerequisite is very simple.
+Really, the main prerequisites are very simple.
 All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
 I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
-fell to the ground, and why some things floated in the air.
-The Greek philosopher Aristotle tells us that different
-objects are made from different elements---earth, water, fire, and
-air---and different elements are heavier or lighter, and naturally
-occupy different strata.
-If you release a helium balloon, it will float up, because it's mainly
+fell to the ground, and why some things floated in the air, thanks to
+the Greek philosopher Aristotle.
+Aristotle tells us that different objects are made from different elements---earth, water, fire, and
+air---and different elements are heavier or lighter, and therefore naturally
+occupy different strata, the ground, the air, and the fiery points
+slowly revolving on the celestial sphere.
+So if you release a helium balloon, it floats up because it's mainly
 air, and air is light and likes to be high.
 Conversely, if I take a clod of dirt, and let it go, it
-will drop back down to ground, where it belongs and likes to be, below
-the air.
+will drop back down to ground, where it belongs and likes to be.
 
 Like I say, this was the accepted view for most of recorded history. But in 1665, Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
 today---and one of its recent graduates, a lazy and
 undistinguished young man, came home, had no more exams to study for,
 no more tests to pass, and nothing better to do that to sit around and
-ask idle questions. One of these questions concerned the motion of
-the clod of earth, personified, for the lazy student, by an apple.
+ask idle questions. One of these idle questions concerned the motion of
+the clod of earth, represented, for the lazy student, by an apple
+falling from a tree.
 
-"Why should it not go
-sideways, or upwards? but constantly to the earths centre?" he
-wondered. Of course, the apple is a combination of earth and water, so
+"Why should it not go sideways, or upwards? but constantly to the
+earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
 if we believe Aristotle as most other people did, it just wants to find
 its level. But the young man---who, as you may have guessed, was none
 other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
-his own explanation. He concluded that "assuredly, the earth draws it." In
+his own explanation. He very sensibly concluded that "assuredly, the earth draws it." In
 other words, the earth pulls the apple towards it. Thus, he continues,
 "there must be a drawing power in matter, and the sum of the drawing
 power in the matter of the earth must be in the earth's center."
 
 This little observation planted the seed for the most productive year
-any human being has ever had. In
-1666, the lazy student invented Newtonian mechanics to explain how the apple started and stopped
-moving, the law of gravitation to explain why it was drawn towards the
+any human being has ever had. In 1666, a year later, the lazy student
+invented Newtonian mechanics to explain how the apple started and
+stopped moving, the law of gravitation to explain why it was drawn towards the
 centre of the earth in the first place, and
 then an entirely new branch of mathematics called calculus, to help
-solve some of the math problems that cropped up.
+him solve some of the math problems that cropped up.
 Now, Newton was smarter than the
 average bear, but that's not the point. The point is that, in order to
 do any of that, he first needed to ask the simple question: why does the
@@ -98,7 +98,7 @@ curiosity, he created physics and math as we know them know.
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
 giant brain. Certainly, Newton had a giant brain; not all of us
-are going to invent a new branch of mathematics to solve problems in
+are going to invent a new branch of math just to solve problems in
 the new branch of physics we just created! But Newton's achievements
 are the achievements of an ordinary scientist writ large. He asked
 questions, and with great tenacity, careful observation, and generous
@@ -106,7 +106,7 @@ hints from his predececssors, he answered them. And
 that's what science is, whether you're studying physics or
 oceanography or the social hierarchy of lemurs, whether you approach
 questions big or small or somewhere in between.
-It's the same thing.
+It's the same basic enterprise.
 
 Newton would later write. "I do not know what I may appear to the
 world, but to myself I seem to have been only like a boy playing on
@@ -124,26 +124,28 @@ and pipettes and equations are all just a means to get closer to these
 diverting objects, to know their nature better, and learn some of
 their secrets.
 
-But there's another important lesson here.
-The pebbles and shells give us hints about the nature of the ocean.
+There's another important lesson here: the pebbles and shells give us
+hints about the nature of the ocean.
 It might lie undiscovered in its unfathomable depths before us, but it
 scatters its clues on the shore.
-So we really should start with the pebbles and shells, the small questions,
-like: why does an apple fall? And not: what makes the world go round?
-Newton answered the big question, but only because he asked the little
-question first. So if we allow our curiosity to settle on the
-ordinary things, on the humble things, we may, like Newton, see things
-other people have missed, and they, in turn, can lead us down the path
-towards the greater secrets. 
+So, before we wade in and risk drowning, we really should start with
+the pebbles and shells, the small questions, like: why does an apple
+fall? And not: what makes the world go round? Newton answered the big
+question, but only because he asked the little question first. So if
+we allow our curiosity to settle on the ordinary things, on the humble
+things, we may, like Newton, discover truths that other people have
+missed, and they, in turn, can guide us towards the deeper truths of
+that undiscovered ocean.
 
-One of these great secrets is that everything is interesting; this is
-one the perks of being a scientist, that you get to see that the
-universe is a fractal of wonder, it exhibits wonder on every length
-scale. Einstein wrote a paper about tea leaves; Richard Feynman, one
-of the most famous physicists of the 20th century, was perplexed by
+One of these deeper truths is simply that everything is interesting; this is
+one the perks of being a scientist, that you get to see the
+universe as a kind of fractal of wonder, exhibiting wonder at every length
+scale. Einstein wrote a paper about tea leaves; Richard Feynman,
+another famous 20th century physicist, was perplexed by
 the way that spaghetti always snaps into three pieces.
 There is nothing more wonderful to a geneticist than an E. coli
 bacterium, and to an entomologist, a puddle of stagnant water.
+You get the idea.
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
 But I think the opposite is true; it makes it full, and there is no
