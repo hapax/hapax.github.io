@@ -73,7 +73,7 @@ sideways, or upwards? but constantly to the earths centre?" he
 wondered. Of course, the apple is a combination of earth and water, so
 if we believe Aristotle as most other people did, it just wants to find
 its level. But the young man---who, as you may have guessed, was none
-other than Isaac Newton---didn't understand this explanation. He just didn't get it! What mechanism caused the apple to
+other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
 his own explanation. He concluded that "assuredly, the earth draws it." In
