@@ -82,8 +82,8 @@ other words, the earth pulls the apple towards it. Thus, he continues,
 power in the matter of the earth must be in the earth's center."
 
 This little observation carried the seed for the most productive year
-anyone has ever had in recorded history. In 1666, the lazy student invented Newtonian
-mechanics in order to explain how the apple started and stopped
+any person, at any time, in any walk of life, has ever experienced. In
+1666, the lazy student invented Newtonian mechanics to explain how the apple started and stopped
 moving, the law of gravitation to explain why it was drawn towards the centre of the earth, and
 then an entirely new branch of mathematics called calculus, to help
 solve some of the math problems that cropped up.
