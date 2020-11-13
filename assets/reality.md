@@ -23,11 +23,11 @@ everywhere else in popular culture.
 Whatever its flaws, this stereotype has one saving grace: it is democratic; everyone can
 aspire to wear a labcoat and look through a microscope.
 
-A second stereotype does not wear a lab coat,
+The second stereotype does not wear a lab coat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
-equations and big ideas.
+equations and ideas.
 If we roll with the pop culture version of this stereotype, they're
 probably white and male, perhaps confined to a wheelchair, or crazy,
 or possessing an eccentric shock of white hair.
