@@ -85,10 +85,10 @@ power in the matter of the earth must be in the earth's center."
 This little observation carried the seed for the most productive year
 anyone has ever had in recorded history. In 1666, the lazy student invented Newtonian
 mechanics in order to explain how the apple started and stopped
-moving, the law of gravitation to explain why the apple moved in the
-first place, and why it was drawn towards the centre of the earth, and
-then, to help solve some of the math problems that cropped up, he
-invented calculus. Now, Newton was smarter than the
+moving, the law of gravitation to explain why it was drawn towards the centre of the earth, and
+then an entirely new branch of mathematics called calculus, to help
+solve some of the math problems that cropped up.
+Now, Newton was smarter than the
 average bear, but that's not the point. The point is that, in order to
 do any of that, he first needed to ask the simple question: why does the
 apple fall? And then he needed to admit that he didn't understand the
