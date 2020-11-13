@@ -116,7 +116,7 @@ playing around the whole time? Come on! But I think that unlike the
 stereotypes, Newton is actually giving us a very clear picture of why scientists do
 what they do. They do what they do because they care about the
 answers; because the answers are beautiful; because the questions are
-beautiful. For Newton, and for most scientists, the universe really is
+beautiful. For Newton and scientists of all times, the universe really is
 a diverting seashore of smooth pebbles and pretty shells. And the microscopes
 and pipettes and equations are all just a means to get closer to the
 pebbles and shells, and to know their nature.
