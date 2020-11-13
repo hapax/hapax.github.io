@@ -150,13 +150,11 @@ But I think the opposite is true; it makes it full, and there is no
 better place to seek mystery than the natural world.
 You will not exhaust it soon.
 
-
 Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
-colour. You could be male, you could be female, you can identify as
-something else altogether. It doesn't matter. As long as you
+colour. You can be male, you can be female, you can be non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
-more, to be a good scientist. And with that, I will conclude. Thank
+more, to be a great scientist. And with that, I will conclude. Thank
 you very much for listening.
