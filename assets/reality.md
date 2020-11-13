@@ -119,7 +119,8 @@ answers; because the answers are beautiful; because the questions are
 beautiful. For Newton and scientists of all times, the universe really is
 a diverting seashore of smooth pebbles and pretty shells. And the microscopes
 and pipettes and equations are all just a means to get closer to the
-pebbles and shells, and to know their nature.
+pebbles and shells, to know their nature better, and to learn a few of
+their secrets, hints and preambles to that great ocean of truth.
 
 To put it differently, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
