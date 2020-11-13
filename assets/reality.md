@@ -91,7 +91,7 @@ Now, Newton was smarter than the
 average bear, but that's not the point. The point is that, in order to
 do any of that, he first needed to ask the simple question: why does the
 apple fall? And then he needed to admit that he didn't understand the
-answer everybody else gave. And in trying to satisfy his own
+answer Aristotle gave. And in trying to satisfy his own
 curiosity, he gave us modern physics and maths.
 
 The courage to admit you don't know, and the curiosity to ask; these
