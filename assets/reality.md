@@ -67,7 +67,9 @@ today---and one of its recent graduates, a lazy and
 undistinguished young man, came home, had no more exams to study for,
 no more tests to pass, and nothing better to do that to sit around and
 ask idle questions. One of these questions concerned the motion of
-the clod of earth, personified, for the lazy student, by an apple. "Why should it not go
+the clod of earth, personified, for the lazy student, by an apple.
+
+"Why should it not go
 sideways, or upwards? but constantly to the earths centre?" he
 wondered. Of course, the apple is a combination of earth and water, so
 if we believe Aristotle as everyone else did, it just wants to find
