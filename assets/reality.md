@@ -51,11 +51,10 @@ curiosity to wonder about the answer.
 I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated in the air, thanks to
-the Greek philosopher Aristotle, who tells us that different objects
+the Greek philosopher Aristotle, who told us that different objects
 are made from different elements---earth, water, fire, and air---which
-are heavier or lighter, and move up or down to find
-their level, and end up occupying these different strata,
-from the dirt under your feet to the atmosphere to the fiery points
+are heavier or lighter, and therefore move up or down to find
+their level, from the dirt under your feet to the atmosphere to the fiery points
 revolving far above us.
 So if you release a helium balloon, it floats up because it's mainly
 air, and air is light and likes to be high.
