@@ -38,7 +38,7 @@ Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
 
 Generally, scientists don't look like either of these pictures. And even
-when they do, the stereotypes don't tell us what the scientist does, or
+when they do, the stereotypes don't tell us what a scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
 is actually a prerequisite!
@@ -55,8 +55,8 @@ fell to the ground, and why some things floated off in the air, thanks to
 the Greek philosopher Aristotle. He told us that different objects
 are made from different elements---earth, water, fire, and air---which
 are heavier or lighter, and therefore move up or down to find
-their level, explaining why the dirt is under your feet, the
-atmosphere is layered over it, and the fiery points of starlight
+their level, explaining why the dirt is under our feet, the
+atmosphere is layered over it, and the fiery pinpricks of starlight
 revolve far above.
 
 So, if I take a clod of earth, and let it go, Aristotle says it will
