@@ -50,15 +50,13 @@ All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
 I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
-fell to the ground, and why some things floated in the air, thanks to
-the Greek philosopher Aristotle, who told us that different objects
+fell to the ground, and why some things floated off in the air, thanks to
+the Greek philosopher Aristotle. He told us that different objects
 are made from different elements---earth, water, fire, and air---which
 are heavier or lighter, and therefore move up or down to find
-their level, from the dirt under your feet to the atmosphere to the
-fiery points of starlight revolving far above us.
-So if you release a helium balloon, it floats up because it's mainly
-air, and air is light and likes to be high.
-Conversely, if I take a clod of earth, and let it go, it
+their level, explaining why the dirt is under your feet, the
+atmosphere is above us, and the fiery points of starlight revolve far above.
+If I take a clod of earth, and let it go, it
 will drop back down to ground, where it belongs and likes to be.
 
 Like I say, this was the accepted view for most of recorded history. But in 1665, Cambridge University closed due to fears of the
