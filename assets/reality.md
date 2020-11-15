@@ -149,7 +149,9 @@ Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
 But I think the opposite is true; it makes it full, and there is no
 better place to seek mystery than the natural world.
-You will not exhaust it soon.
+You're not going exhaust it any time soon!
+It's like the surface of a balloon; the more we know, the more we
+realize we don't know.
 
 Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
