@@ -21,10 +21,11 @@ pipette.
 These are the props of a scientist if we believe the
 canonical stereotype, the one we see in films, television, books, and really
 everywhere in popular culture.
-Whatever its flaws, this stereotype has one saving grace: it is democratic; everyone can
+But hatever its flaws, this stereotype has one saving grace: it is
+democratic. Everyone can
 aspire to wear a labcoat and look through a microscope.
 
-The second stock type does not wear a labcoat,
+The second stock type doesn't wear a labcoat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
