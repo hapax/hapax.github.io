@@ -148,7 +148,7 @@ bacterium, and to an entomologist, a puddle of stagnant water.
 You get the idea.
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
-But I think the opposite is true; it makes it full, and there is no
+But I think the opposite is true: it makes it full, and there is no
 better place to seek mystery than the natural world.
 You're not going exhaust it any time soon!
 It's like the surface of a balloon; the more we know, the more we
