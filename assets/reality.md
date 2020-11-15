@@ -136,8 +136,8 @@ he asked the little question first. So if we allow our curiosity to settle on th
 things, the shells and pebbles, we may, like Newton, stumble onto
 deeper truths in that undiscovered sea.
 
-One of these deep truths is that everything is interesting; this is
-one the perks of being a scientist, that you get to see the
+One of these deep truths is that everything is interesting.
+This is one the perks of being a scientist; you get to see the
 universe as a kind of fractal of wonder, exhibiting wonder in every
 object and at every length scale. Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
