@@ -131,8 +131,8 @@ It might lie undiscovered in all its unfathomable depth before us, but it
 scatters its clues on the shore.
 The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
-question, but only because he asked the little question first. So if
-we allow our curiosity to settle on the ordinary things, on the humble
+question, gravity explains why the world goes round, but only because
+he asked the little question first. So if we allow our curiosity to settle on the ordinary things, on the humble
 things, we may, like Newton, discover truths that other people have
 missed, and they, in turn, can guide us towards the deeper truths of
 that undiscovered ocean.
