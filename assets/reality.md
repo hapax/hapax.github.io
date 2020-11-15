@@ -156,10 +156,9 @@ snapping spaghetti; and mathematician Jean Taylor devoted her career to
 proving results about soap bubbles. Everything is interesting.
 
 Sometimes, people say that, by insisting on explanation and
-testability, science empties the universe of meaning, it "demystifies"
-the world.
+testability, science empties the universe of meaning.
 But I think the opposite is true: it makes it full, and there is no
-better place to seek mystery.
+better place to seek mystery than the natural world.
 You're not going exhaust it any time soon!
 It's like the surface of a balloon; the more we know, the more we
 realize we don't know.
