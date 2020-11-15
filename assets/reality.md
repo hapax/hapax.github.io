@@ -129,8 +129,7 @@ There's another important lesson here: the pebbles and shells give us
 hints about the nature of the ocean, since that's where they come from.
 It might lie undiscovered in all its unfathomable depth before us, but it
 scatters its clues on the shore.
-So, before we wade in and risk drowning, we really should start with
-the pebbles and shells, the small questions, like: why does an apple
+The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
 question, but only because he asked the little question first. So if
 we allow our curiosity to settle on the ordinary things, on the humble
