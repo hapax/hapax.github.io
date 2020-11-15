@@ -54,8 +54,8 @@ fell to the ground, and why some things floated in the air, thanks to
 the Greek philosopher Aristotle, who told us that different objects
 are made from different elements---earth, water, fire, and air---which
 are heavier or lighter, and therefore move up or down to find
-their level, from the dirt under your feet to the atmosphere to the fiery points
-revolving far above us.
+their level, from the dirt under your feet to the atmosphere to the
+fiery points of starlight revolving far above us.
 So if you release a helium balloon, it floats up because it's mainly
 air, and air is light and likes to be high.
 Conversely, if I take a clod of earth, and let it go, it
