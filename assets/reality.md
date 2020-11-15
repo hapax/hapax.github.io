@@ -73,7 +73,7 @@ falling from a tree.
 "Why should it not go sideways, or upwards? but constantly to the
 earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
 if we believe Aristotle as most other people did, it just wants to find
-its level. But the young man---who, as you may have guessed, was none
+its level. That's why it falls down. But the young man---who, as you may have guessed, was none
 other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
