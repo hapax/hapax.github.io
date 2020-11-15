@@ -147,7 +147,8 @@ conservationist, whale poop; and a soft matter theorist, watching
 paint dry.
 You get the idea!
 But you don't need to take other people's word for it.
-You can also explore this fractal for yourself, and get interested in everything.
+You can also explore this fractal for yourself, and allow yourself to
+get interested in everything.
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
