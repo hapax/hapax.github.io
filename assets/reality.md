@@ -125,7 +125,7 @@ and pipettes and equations are all just a means to get closer to these
 diverting objects, to know their nature better, and learn some of
 their secrets.
 
-There's another important lesson here: the pebbles and shells give us
+There's another important lesson here. The pebbles and shells give us
 hints about the nature of the ocean, since that's where they come from.
 It might lie undiscovered in all its unfathomable depth before us, but it
 scatters its clues on the shore.
