@@ -133,7 +133,7 @@ The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
 question, he explained why the world goes round, but only because
 he asked the little question first. So if we allow our curiosity to settle on the ordinary things, on the humble
-things, the shells and pebbles, we may, like Newton, stumble onto
+things, the shells and pebbles on the beach, we may, like Newton, stumble onto
 deeper truths in that undiscovered sea.
 
 One of these deep truths is that everything is interesting.
