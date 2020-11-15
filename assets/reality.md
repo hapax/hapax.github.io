@@ -151,7 +151,8 @@ You can also explore this fractal for yourself, and get interested in everything
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
-spaghetti.
+spaghetti; mathematician Jean Taylor devoted her career to
+proving results about soap bubbles.
 Everything is interesting.
 
 Sometimes, people say that science, by insisting on explanations,
