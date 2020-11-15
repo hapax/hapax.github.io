@@ -152,7 +152,7 @@ become interested in everything!
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by the problem of
-snapping spaghetti; mathematician Jean Taylor devoted her career to
+snapping spaghetti; and mathematician Jean Taylor devoted her career to
 proving results about soap bubbles. Everything is interesting.
 
 Sometimes, people say that, by insisting on explanation and
