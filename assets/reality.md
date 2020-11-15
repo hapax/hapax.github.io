@@ -126,7 +126,7 @@ diverting objects, to know their nature better, and learn some of
 their secrets.
 
 There's another important lesson here: the pebbles and shells give us
-hints about the nature of the ocean.
+hints about the nature of the ocean, since that's where they come from.
 It might lie undiscovered in its unfathomable depths before us, but it
 scatters its clues on the shore.
 So, before we wade in and risk drowning, we really should start with
