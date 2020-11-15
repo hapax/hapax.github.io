@@ -59,8 +59,8 @@ atmosphere is layered over it, and the fiery points of starlight
 revolve far above.
 
 So, if I take a clod of earth, and let it go, Aristotle says it will
-drop back down to ground, where it belongs and likes to be. This
-was the accepted view for most of recorded history. But in 1665,
+drop back down to ground because this is where it belongs and likes to
+be. That was the accepted view for most of recorded history. But in 1665,
 Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
 today---and one of its recent graduates, a lazy and
