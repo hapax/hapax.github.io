@@ -137,9 +137,12 @@ things, the shells and pebbles, we may, like Newton, stumble onto
 deeper truths in that undiscovered sea.
 
 One of these deep truths is that everything is interesting.
-This is one the perks of being a scientist; you get to see the
-universe as a kind of fractal of wonder, exhibiting wonder in every
-object and at every length scale. Einstein wrote a paper about tea
+This is one the perks of being a scientist; you are part of a
+human-operated scheme for turning the universe into a fractal of
+wonder, something which exhibits wonder in every object and at every
+length scale. But you can also explore this fractal for yourself, and
+get interested in everything!
+Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
 spaghetti.
