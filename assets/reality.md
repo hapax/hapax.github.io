@@ -85,7 +85,7 @@ power in the matter of the earth must be in the earth's center."
 This little observation planted the seed for the most productive year
 any human being has ever had, ever. In 1666, a year later, the lazy student
 invented Newtonian mechanics to explain how the apple started and
-stopped moving, the law of gravitation to explain why it was drawn towards the
+stopped moving, the law of gravitation to explain why it was pulled towards the
 centre of the earth in the first place, and
 then an entirely new branch of mathematics called calculus, to help
 him solve some of the math problems that cropped up.
