@@ -166,7 +166,7 @@ What is most of the universe made of?
 And how many universes are there?
 What happens inside a black hole?
 And why does spaghetti always snap into three pieces?
-Deep mysteries.
+The mysteries of the world are endless.
 
 Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
