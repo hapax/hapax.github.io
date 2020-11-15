@@ -165,6 +165,8 @@ realize we don't know.
 What is most of the universe made of?
 And how many universes are there?
 What happens inside a black hole?
+And why does spaghetti always snap into three pieces?
+Deep mysteries.
 
 Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
