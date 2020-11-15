@@ -52,8 +52,8 @@ I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated in the air, thanks to
 the Greek philosopher Aristotle, who tells us that different objects
-are made from the four elements---earth, water, fire, and air.
-Different elements are heavier or lighter, and move up or down to find
+are made from different elements---earth, water, fire, and air---which
+are heavier or lighter, and move up or down to find
 their level, and end up occupying these different strata,
 from the dirt under your feet to the atmosphere to the fiery points
 revolving far above us.
