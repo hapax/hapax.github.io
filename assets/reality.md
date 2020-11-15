@@ -164,7 +164,8 @@ You're not going exhaust it any time soon!
 It's like the surface of a balloon; the more we know, the more we
 realize we don't know.
 What is most of the universe made of?
-And how many universes are there?
+How many universes are there?
+Do wavefunctions collapse?
 What happens inside a black hole?
 And why does spaghetti always snap into three pieces?
 The mysteries of the world are endless.
