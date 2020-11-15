@@ -58,7 +58,7 @@ from the dirt under your feet to the atmosphere to the fiery points
 revolving far above us.
 So if you release a helium balloon, it floats up because it's mainly
 air, and air is light and likes to be high.
-Conversely, if I take a clod of dirt, and let it go, it
+Conversely, if I take a clod of earth, and let it go, it
 will drop back down to ground, where it belongs and likes to be.
 
 Like I say, this was the accepted view for most of recorded history. But in 1665, Cambridge University closed due to fears of the
