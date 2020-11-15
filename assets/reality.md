@@ -133,9 +133,8 @@ The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
 question, gravity explains why the world goes round, but only because
 he asked the little question first. So if we allow our curiosity to settle on the ordinary things, on the humble
-things, we may, like Newton, discover truths that other people have
-missed, and they, in turn, can guide us towards the deeper truths of
-that undiscovered ocean.
+things, the shells and pebbles, we may, like Newton, find out
+something about the ocean floor.
 
 One of these deeper truths is simply that everything is interesting; this is
 one the perks of being a scientist, that you get to see the
