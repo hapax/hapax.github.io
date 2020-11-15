@@ -98,7 +98,7 @@ curiosity, he created physics and math as we know them know.
 
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
-giant brain. Certainly, Newton had a giant brain; not all of us
+giant brain. I'm not going to deny that Newton had a giant brain; not all of us
 are going to invent a new branch of math just to solve problems in
 the new branch of physics we just created! But Newton's achievements
 are the achievements of an ordinary scientist writ large. He asked
