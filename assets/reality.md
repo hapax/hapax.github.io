@@ -105,7 +105,7 @@ are the achievements of an ordinary scientist writ large. He asked
 questions, and with great tenacity, careful observation, and generous
 hints from his predececssors, he answered them. And
 that's what science is, whether you're studying physics or
-oceanography or the social hierarchy of lemurs, whether you approach
+oceanography or the social habits of lemurs, whether you approach
 questions big or small or somewhere in between.
 It's the same basic enterprise.
 
