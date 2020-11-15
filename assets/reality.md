@@ -163,9 +163,8 @@ You're not going exhaust it any time soon!
 It's like the surface of a balloon; the more we know, the more we
 realize we don't know.
 What is most of the universe made of?
-How many universes are there?
+And how many universes are there?
 What happens inside a black hole?
-Why does the earth's magnetic field switch?
 
 Ultimately, science is an exercise in falling in love with
 reality. You can wear anything you like. Your skin can be any
