@@ -142,15 +142,16 @@ human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
 length scale.
 There is nothing more wonderful to a geneticist than an E. coli
-bacterium, and to an entomologist, a puddle of stagnant water.
-You get the idea.
-But you don't need to take other people's word for it!
+bacterium; to an entomologist, a puddle of stagnant water; a wildlife
+conservationist, whale poop; and a soft matter theorist, watching
+paint dry.
+You get the idea!
+But you don't need to take other people's word for it.
 You can also explore this fractal for yourself, and get interested in everything.
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
 spaghetti.
-I recently read a great article on the science of watching paint dry.
 
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
