@@ -89,16 +89,16 @@ stopped moving, the law of gravitation to explain why it was pulled towards the
 centre of the earth in the first place, and
 then an entirely new branch of mathematics called calculus, to help
 him solve some of the math problems that cropped up.
-Now, Newton was smarter than the
-average bear, but that's not the point. The point is that, in order to
-do any of that, he first needed to ask the simple question: why does the
-apple fall? And he needed to admit that he didn't understand
-Aristotle's answer. And in trying to satisfy his own
-curiosity, he created physics and math as we know them know.
+Now, Newton was smarter than the average bear, but that's not the
+point. The point is that, in order to do any of that, he first needed
+to ask the simple question: why does the apple fall? And he needed to
+admit that he didn't understand Aristotle's answer. And in trying to
+satisfy his own curiosity, he created physics and math as we know them
+know.
 
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
-giant brain. I'm not going to deny that Newton had a giant brain; not all of us
+giant brain. I'm not going to deny that Newton had a giant brain. Not all of us
 are going to invent a new branch of math just to solve problems in
 the new branch of physics we just created! But Newton's achievements
 are the achievements of an ordinary scientist writ large. He asked
@@ -133,8 +133,8 @@ The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
 question, gravity explains why the world goes round, but only because
 he asked the little question first. So if we allow our curiosity to settle on the ordinary things, on the humble
-things, the shells and pebbles, we may, like Newton, learn some of the
-grand secrets of the ocean floor.
+things, the shells and pebbles, we may, like Newton, stumble onto
+deeper truths in that undiscovered sea.
 
 One of these grand secrets is that everything is interesting; this is
 one the perks of being a scientist, that you get to see the
