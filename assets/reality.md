@@ -143,7 +143,7 @@ object and at every length scale. Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was perplexed by dry spaghetti.
 There is nothing more wonderful to a geneticist than an E. coli
-bacterium, and to an entomologist, a puddle of stagnant water.
+bacterium, and to an entomologist, than a puddle of stagnant water.
 You get the idea.
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
