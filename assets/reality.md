@@ -138,8 +138,9 @@ grand secrets of the ocean floor.
 
 One of these grand secrets is that everything is interesting; this is
 one the perks of being a scientist, that you get to see the
-universe as a kind of fractal of wonder, exhibiting wonder at every length
-scale. Einstein wrote a paper about tea leaves; Richard Feynman,
+universe as a kind of fractal of wonder, exhibiting wonder in every
+object and at every length scale. Einstein wrote a paper about tea
+leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was perplexed by
 the way that spaghetti always snaps into three pieces.
 There is nothing more wonderful to a geneticist than an E. coli
