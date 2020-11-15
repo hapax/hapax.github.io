@@ -40,7 +40,7 @@ when they do, the stereotypes don't tell us what the scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
 is actually a prerequisite!
-Nevertheless, these are narratives about science that can guide career
+Nevertheless, these are narratives about science that can and do guide career
 decisions, so I would like to tell you a counter-narrative about what
 the prerequisites are, what a scientist does and why they do it.
 
@@ -52,9 +52,10 @@ For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated in the air, thanks to
 the Greek philosopher Aristotle.
 Aristotle tells us that different objects are made from different elements---earth, water, fire, and
-air---and different elements are heavier or lighter, and therefore naturally
-occupy different strata, the ground, the air, and the fiery points
-slowly revolving on the celestial sphere.
+air---and different elements are heavier or lighter, and move up or
+down to find their level, and end up occupying these different strata,
+from the dirt under your feet to the atmosphere to the fiery points
+revolving far above us.
 So if you release a helium balloon, it floats up because it's mainly
 air, and air is light and likes to be high.
 Conversely, if I take a clod of dirt, and let it go, it
