@@ -4,8 +4,9 @@ date:  2020-11-12
 layout: post
 ---
 
-I would like to thank Sogand and Aaliyah for inviting me to speak, all
-of you for listening, and the Coast Salish peoples---the Squamish,
+I would like to thank the organizers of the Quantum Leaps Conference
+for inviting me to speak, all of you for listening, and the Coast
+Salish peoples---the Squamish,
 Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
 we are situated.
 I'll be sharing a broad and personal perspective on what science is,
