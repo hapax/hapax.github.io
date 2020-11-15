@@ -142,7 +142,7 @@ human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
 length scale.
 There is nothing more wonderful to a geneticist than an E. coli
-bacterium; to an entomologist, a puddle of stagnant water; a wildlife
+bacterium; to an entomologist, than a puddle of stagnant water; a wildlife
 conservationist, whale poop; and a soft matter theorist, watching
 paint dry.
 You get the idea!
