@@ -155,8 +155,8 @@ another famous 20th century physicist, was stumped by the problem of
 snapping spaghetti; mathematician Jean Taylor devoted her career to
 proving results about soap bubbles. Everything is interesting.
 
-Sometimes, people say that science, by insisting on explanations,
-empties the universe of mystery and meaning.
+Sometimes, people say that, by insisting on explanation and
+testability, science empties the universe of mystery and meaning.
 But I think the opposite is true: it makes it full, and there is no
 better place to seek mystery than the natural world.
 You're not going exhaust it any time soon!
