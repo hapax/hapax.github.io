@@ -55,7 +55,8 @@ the Greek philosopher Aristotle. He told us that different objects
 are made from different elements---earth, water, fire, and air---which
 are heavier or lighter, and therefore move up or down to find
 their level, explaining why the dirt is under your feet, the
-atmosphere is above us, and the fiery points of starlight revolve far above.
+atmosphere is layered over it, and the fiery points of starlight
+revolve far above.
 If I take a clod of earth, and let it go, it
 will drop back down to ground, where it belongs and likes to be.
 
