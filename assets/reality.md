@@ -31,7 +31,7 @@ sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
 equations and ideas.
 If we take the stereotype to its logical, or rather pop cultural,
-extreme, they're probably white and male, confined to a wheelchair, or crazy,
+extreme, they're probably white and male, and confined to a wheelchair, or crazy,
 or possessing an eccentric shock of white hair.
 They are, in other words, scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
