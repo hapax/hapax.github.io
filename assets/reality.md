@@ -5,7 +5,7 @@ layout: post
 ---
 
 I would like to thank the organizers of the Quantum Leaps Conference
-for inviting me to speak, all of you for listening, and the Coast
+for inviting me to speak, all of you in advance for listening, and the Coast
 Salish peoples---the Squamish,
 Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
 we are situated.
