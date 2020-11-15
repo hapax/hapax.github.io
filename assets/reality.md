@@ -150,6 +150,7 @@ Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
 spaghetti.
+I recently read a great article on the science of watching paint dry.
 
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
