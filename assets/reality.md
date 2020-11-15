@@ -152,6 +152,7 @@ Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by snapping
 spaghetti.
+Everything is interesting.
 
 Sometimes, people say that science, by insisting on explanations,
 empties the universe of mystery and meaning.
