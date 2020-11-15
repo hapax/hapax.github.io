@@ -141,8 +141,7 @@ one the perks of being a scientist, that you get to see the
 universe as a kind of fractal of wonder, exhibiting wonder in every
 object and at every length scale. Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
-another famous 20th century physicist, was perplexed by
-the way that spaghetti always snaps into three pieces.
+another famous 20th century physicist, was perplexed by dry spaghetti.
 There is nothing more wonderful to a geneticist than an E. coli
 bacterium, and to an entomologist, a puddle of stagnant water.
 You get the idea.
