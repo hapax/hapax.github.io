@@ -29,7 +29,7 @@ The second stock type doesn't wear a labcoat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
-equations and ideas.
+equations and big ideas.
 If we take the stereotype to its logical, or rather pop cultural,
 extreme, they're probably white and male, and confined to a wheelchair, or crazy,
 or possessing an eccentric shock of white hair.
@@ -42,7 +42,8 @@ when they do, the stereotypes don't tell us what a scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
 is actually a prerequisite!
-Nevertheless, these are narratives about science that can and do guide career
+Nevertheless, these are narratives about science that can and very
+often do guide career
 decisions, so I would like to tell you a counter-narrative about what
 the prerequisites are, what a scientist does and why they do it.
 
@@ -53,14 +54,15 @@ I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated off into the air, thanks to
 the Greek philosopher Aristotle. He told us that different objects
-are made from different elements---earth, water, fire, and air---which
+are made from different elements---earth, water, air, and fire---which
 are heavier or lighter, and therefore move up or down to find
-their level, explaining why the dirt is under our feet, the
+their level.
+This explains why the dirt is under our feet, the
 atmosphere is layered over the top of it, and the fiery pinpricks of starlight
 revolve far above.
 
 So, if I take a clod of earth, and let it go, Aristotle says it will
-drop back down to ground because this is where it belongs and likes to
+drop back down to ground because the ground is where it belongs and likes to
 be. That was the accepted view for most of recorded history. But in 1665,
 Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
@@ -84,7 +86,7 @@ other words, the earth pulls the apple towards it. Thus, he continues,
 power in the matter of the earth must be in the earth's center."
 
 This little observation planted the seed for the most productive year
-any human being has ever had, ever. A year later, in 1666, the lazy student
+any human being has ever had, ever. In 1666, the lazy student
 invented Newtonian mechanics to explain how the apple started and
 stopped moving, the law of gravitation to explain why it was pulled towards the
 centre of the earth in the first place, and
@@ -137,12 +139,11 @@ things, the shells and pebbles on the beach, we may, like Newton, stumble onto
 deeper truths in that undiscovered sea.
 
 And one of these deep truths is that everything is interesting.
-This is one the perks of being a scientist; you are part of a
+This is one of the perks of being a scientist; you are part of a
 human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
 length scale.
-There is nothing more wonderful to a geneticist than an E. coli
-bacterium; to an entomologist, than a puddle of stagnant water; a wildlife
+There is nothing more wonderful to a geneticist than a bacterium; to an entomologist, than a puddle of stagnant water; a wildlife
 conservationist, whale poop; and a soft matter theorist, watching
 paint dry.
 You get the idea!
@@ -161,7 +162,7 @@ But I think the opposite is true: it makes it full.
 The 19 stars which form the constellation we call Orion, for instance,
 have a rich history of human interpretation. To the ancient
 Babylonians, these stars represented Anu, the heavenly shepherd and
-chief god; to the ancient Egyptians, it was the destination of the
+chief of the gods; to the ancient Egyptians, it was the destination of the
 pharaoh's spirit after death; it was a giant to the Arab astronomers;
 a fool to the Hebrews; and a hunter, not only to the Greeks, who gave
 it the name Orion, but the Magyars of Hungary, the Seri people of
@@ -178,7 +179,7 @@ Betelguese is a renegade.
 It grew up in a pocket of debris with other young stars, but got
 kicked out, or maybe left to find its fortune, and now hurtles through space at 30 km/s.
 As it travels through the interstellar medium, a light
-sprinkling of hydrogen, its magnetic field dislodges the atoms,
+sprinkling of hydrogen and other elements, its magnetic field dislodges atoms,
 forming what's called a bow shock, the same way that the prow of a
 boat creates a wake as it moves through and displaces water.
 The magnetic wake of Betelguese is three times wider than the solar system, and if
@@ -189,21 +190,21 @@ seas of space.
 Now, there are many more things I could say about Betelguese, but this
 is a single star.
 One of 19 in the constellation of Orion, which is one of hundreds of
-constellations that humans of different times and places have invented
-over the course of history.
-These are drawn using the bright stars visible to the naked eye, a
-sliver of the total number of stars in the galaxy.
+constellations that humans of different times and places have invented.
+These picture are drawn using stars visible to the naked eye, a sliver
+of the total number of stars in the galaxy.
 Like our sun, we expect most of these stars to have planets, and for
-some of these planets to have their own inhabitants, forming stories
-and pictures from the bright stars in their vicinity, and perhaps,
-every now and again, asking why things fall.
+some of these planets to have their own inhabitants, and for some of
+these inhabitants to form their own stories and pictures from the
+bright stars in their vicinity, and perhaps, every now and again,
+ask why things fall.
 
 Each star, each planet, each organism, each atom in the space
 between stars, and most mysterious of all, empty space itself, each
 of these moving parts is a constellation to the scientist, a
 dot-to-dot onto which we project scientific images and meanings, and
 which can change as new data points become visible or old ones
-disappear.
+dim and disappear.
 Betelguese has just as many stories to tell as Orion.
 The universe, in all its awe and complexity and strangeness, is far fuller
 than any human culture has ever dared to imagine.
