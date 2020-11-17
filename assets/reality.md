@@ -216,3 +216,14 @@ that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
 more, to be a great scientist. And with that, I will conclude. Thank
 you very much for listening.
+
+<!-- Sometimes, people say that, by insisting on explanation and -->
+<!-- testability, science empties the universe of meaning. But I think -->
+<!-- the opposite is true: it makes it full, and there is no better -->
+<!-- place to seek mystery than the natural world. You’re not going -->
+<!-- exhaust it any time soon! It’s like the surface of a balloon; the -->
+<!-- more we know, the more we realize we don’t know. What is most of -->
+<!-- the universe made of? How many universes are there? Do quantum -->
+<!-- wavefunctions collapse? What happens inside a black hole? And why -->
+<!-- does spaghetti always snap into three pieces? The mysteries of -->
+<!-- the world are endless. -->
