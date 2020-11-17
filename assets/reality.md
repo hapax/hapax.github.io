@@ -21,7 +21,7 @@ pipette.
 These are the props of a scientist if we believe the
 canonical stereotype, the one we see in films, television, books, and really
 everywhere in popular culture.
-But hatever its flaws, this stereotype has one saving grace: it is
+But whatever its flaws, this stereotype has one saving grace: it is
 democratic. Everyone can
 aspire to wear a labcoat and look through a microscope.
 
@@ -51,12 +51,12 @@ All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
 I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
-fell to the ground, and why some things floated off in the air, thanks to
+fell to the ground, and why some things floated off into the air, thanks to
 the Greek philosopher Aristotle. He told us that different objects
 are made from different elements---earth, water, fire, and air---which
 are heavier or lighter, and therefore move up or down to find
 their level, explaining why the dirt is under our feet, the
-atmosphere is layered over it, and the fiery pinpricks of starlight
+atmosphere is layered over the top of it, and the fiery pinpricks of starlight
 revolve far above.
 
 So, if I take a clod of earth, and let it go, Aristotle says it will
@@ -74,8 +74,8 @@ falling from a tree.
 "Why should it not go sideways, or upwards? but constantly to the
 earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
 if we believe Aristotle as most other people did, it just wants to find
-its level. That's why it falls down. But the young man---who, as you may have guessed, was none
-other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
+its level. That's why it falls down. But the young man---who, as you
+may have guessed by now, was none other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
 his own explanation. He very sensibly concluded that "assuredly, the earth draws it." In
@@ -84,7 +84,7 @@ other words, the earth pulls the apple towards it. Thus, he continues,
 power in the matter of the earth must be in the earth's center."
 
 This little observation planted the seed for the most productive year
-any human being has ever had, ever. A year later in 1666, the lazy student
+any human being has ever had, ever. A year later, in 1666, the lazy student
 invented Newtonian mechanics to explain how the apple started and
 stopped moving, the law of gravitation to explain why it was pulled towards the
 centre of the earth in the first place, and
@@ -127,8 +127,8 @@ their secrets.
 
 There's another important lesson here. The pebbles and shells give us
 hints about the nature of the ocean, since that's where they come from.
-It might lie undiscovered in all its unfathomable depth before us, but it
-scatters its clues on the shore.
+It might lie undiscovered in all its unfathomable depth before us, but
+the sea scatters its clues on the shore.
 The pebbles and shells are the small questions, thing like: why does an apple
 fall? And not: what makes the world go round? Newton answered the big
 question, he explained why the world goes round, but only because
@@ -136,7 +136,7 @@ he asked the little question first. So if we allow our curiosity to settle on th
 things, the shells and pebbles on the beach, we may, like Newton, stumble onto
 deeper truths in that undiscovered sea.
 
-One of these deep truths is that everything is interesting.
+And one of these deep truths is that everything is interesting.
 This is one the perks of being a scientist; you are part of a
 human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
@@ -147,31 +147,70 @@ conservationist, whale poop; and a soft matter theorist, watching
 paint dry.
 You get the idea!
 But you don't need to take other people's word for it.
-You can also explore this fractal, and allow yourself to
+You can dive into this fractal, and allow yourself to
 become interested in everything!
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by the problem of
-snapping spaghetti; and mathematician Jean Taylor devoted years to
-proving results about soap bubbles. Everything is interesting.
+snapping spaghetti; and mathematician Jean Taylor devoted much of her
+career to proving results about soap bubbles. Everything is interesting.
 
-Sometimes, people say that, by insisting on explanation and
-testability, science empties the universe of meaning.
-But I think the opposite is true: it makes it full, and there is no
-better place to seek mystery than the natural world.
-You're not going exhaust it any time soon!
-It's like the surface of a balloon; the more we know, the more we
-realize we don't know.
-What is most of the universe made of?
-How many universes are there?
-Do quantum wavefunctions collapse?
-What happens inside a black hole?
-And why does spaghetti always snap into three pieces?
-The mysteries of the world are endless.
+Sometimes, people say that science reduces the world to a bunch of
+moving parts, to mere cause and effect, and thereby empties it of meaning.
+But I think the opposite is true: it makes it full.
+The 19 stars which form the constellation we call Orion, for instance,
+have a rich history of human interpretation. To the ancient
+Babylonians, these stars represented Anu, the heavenly shepherd and
+chief god; to the ancient Egyptians, it was the destination of the
+pharaoh's spirit after death; it was a giant to the Arab astronomers;
+a fool to the Hebrews; and a hunter, not only to the Greeks, who gave
+it the name Orion, but the Magyars of Hungary, the Seri people of
+Mexico, and the Chuckchi of Siberia.
 
-Ultimately, science is an exercise in falling in love with
-reality. You can wear anything you like. Your skin can be any
-colour. You can be male, you can be female, you can be non-binary. It doesn't matter. As long as you
+But as colourful and varied as they are, these images we project onto
+the night sky pale in comparison to the splendour of creation itself.
+Each of the 19 points in this dot-to-dot is a vast
+thermonuclear furnace, formed millions or billions of years ago from
+collapsing clouds of dust, and with a tortuous life history of its own.
+One of the brightest stars in the constellation is Betelguese, a star so huge that,
+if placed in the centre of our solar system, it would swallow up Jupiter.
+Betelguese is a renegade.
+It grew up in a pocket of debris with other young stars, but got
+kicked out, or maybe left to find its fortune, and now hurtles through space at 30 km/s.
+As it travels through the interstellar medium, a light
+sprinkling of hydrogen, its magnetic field dislodges the atoms,
+forming what's called a bow shock, the same way that the prow of a
+boat creates a wake as it moves through and displaces water.
+The magnetic wake of Betelguese is three times wider than the solar system, and if
+you happen to have an infrared camera, it's visible as a brilliant
+stroke of light, marking the passage of this lonely ship through the
+seas of space.
+
+Now, there are many more things I could say about Betelguese, but this
+is a single star.
+One of 19 in the constellation of Orion, which is one of hundreds of
+constellations that humans of different times and places have invented
+over the course of history.
+These are drawn using the bright stars visible to the naked eye, a
+sliver of the total number of stars in the galaxy.
+Like our sun, we expect most of these stars to have planets, and for
+some of these planets to have their own inhabitants, forming stories
+and pictures from the bright stars in their vicinity, and perhaps,
+every now and again, asking why things fall.
+
+Each star, each planet, each organism, each atom in the space
+between stars, and most mysterious of all, empty space itself, each
+of these moving parts is a constellation to the scientist, a
+dot-to-dot onto which we project scientific images and meanings, and
+which can change as new data points become visible or old ones
+disappear.
+Betelguese has just as many stories to tell as Orion.
+The universe, in all its awe and complexity and strangeness, is far fuller
+than any human culture has ever dared to imagine.
+
+Ultimately, science is the act of falling in love with
+reality and its endless constellations. You can wear anything you like. Your skin can be any
+colour. You can be male, or female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
