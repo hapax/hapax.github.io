@@ -211,7 +211,7 @@ chemistry which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
 
 In a universe so much older, and larger, and stranger than anything
-the old myths prepared us for, we need a new set of stories to orient
+the ancient myths prepared us for, we need a new set of stories to orient
 us. Science provides these stories and weaves them into the world. <!-- Science provides them.; it makes the universe full.-->
 It tells us that the force which drew the apple and hauls the earth,
 also swells the cosmos.
