@@ -168,8 +168,8 @@ a fool to the Hebrews; and a hunter, not only to the Greeks, who gave
 it the name Orion, but the Magyars of Hungary, the Seri people of
 Mexico, and the Chuckchi of Siberia.
 
-But as colourful and varied as they are, these images we project onto
-the night sky pale in comparison to the splendour of creation itself.
+But as colourful and varied as they are, these images pale in
+comparison to the splendour of creation itself.
 Each of the 19 points in this dot-to-dot is a vast
 thermonuclear furnace, formed millions or billions of years ago from
 collapsing clouds of dust, and with a tortuous life history of its own.
@@ -179,8 +179,8 @@ Betelguese is a renegade.
 It grew up in a pocket of debris humorously called the OB1
 Association, and perhaps as a result of some Star Wars, it got kicked
 out, and now hurtles through space at 30 km/s.
-As it travels through the interstellar medium, a light
-sprinkling of hydrogen and other elements, its magnetic field
+As it travels through the interstellar medium (a light
+sprinkling of hydrogen and other elements) its magnetic field
 dislodges atoms from its path, forming what's called a bow shock, the
 same way that the prow of a boat creates a wake as it displaces water. 
 The magnetic wake of Betelguese is three times wider than the solar system, and if
