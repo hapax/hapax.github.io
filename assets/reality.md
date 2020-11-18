@@ -15,8 +15,8 @@ is *not*, or at least, not primarily.
 
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
-The first type is the industrious labrat, complete with labcoat, safety
-goggles, and latex gloves, maybe peering into a microscope or wielding a
+The first type is the industrious labrat, complete with white coat, safety
+goggles, and gloves, maybe peering into a microscope or wielding a
 pipette.
 These are the props of a scientist if we believe the
 canonical stereotype, the one we see in films, television, books, and really
@@ -176,9 +176,9 @@ collapsing clouds of dust, and with a tortuous life history of its own.
 One of the brightest stars in the constellation is Betelguese, a star so huge that,
 if placed in the centre of our solar system, it would swallow up Jupiter.
 Betelguese is a renegade.
-It grew up in a pocket of debris called the OB1 Association, and
-perhaps as a result of some Star Wars, it got kicked out, and now
-hurtles through space at 30 km/s.
+It grew up in a pocket of debris humorously called the OB1
+Association, and perhaps as a result of some Star Wars, it got kicked
+out, and now hurtles through space at 30 km/s.
 As it travels through the interstellar medium, a light
 sprinkling of hydrogen and other elements, its magnetic field
 dislodges atoms from its path, forming what's called a bow shock, the
@@ -189,15 +189,14 @@ stroke of light, marking the passage of this lonely ship through the
 deeps of space.
 
 Now, there are many more things I could say about Betelguese, but this
-is a single star.
-One of 19 in the constellation of Orion, which is one of hundreds of
-that humans of different times and places have invented.
-They are drawn using only the stars visible to the naked eye,
-which are a mere sliver of the total number of stars in the galaxy,
-not to mention the stars in other galaxies.
-And like our sun, we expect most of these stars, both visible and
-invisible, to have planets, and for some of these planets to have
-their own inhabitants, and for some of these inhabitants to form their
+is a single star, one of 19 in the constellation of Orion, which is
+one of hundreds that humans of different times and
+places have invented.
+These constellations are drawn using only the stars visible to the
+naked eye, which are a mere sliver of the total number of stars in the
+galaxy, not to mention the stars in other galaxies. Like our sun,
+we expect most of these stars, both visible and invisible, to have
+planets, and for some of these planets to have their own inhabitants, and for some of these inhabitants to form their
 own stories and pictures from the bright stars in their vicinity.
 Perhaps, every now and again, they ask why things fall.
 
@@ -207,13 +206,18 @@ dot-to-dot onto which we project scientific images and meanings, and
 which change as new data points become visible and old ones
 dim and disappear.
 For every human culture which has looked up at Orion and seen
-something different, there is a subfield of astronomy or astrophysics
-which looks up and sees the same diversity in Betelguese.
+something different, there is a subfield of astronomy or physics or
+nuclear chemistry which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
+
+In a universe so much older, and larger, and stranger, and more
+complex than anything the old myths prepared us for, we need a new set
+of stories and meanings to help orient ourselves.
+Science provides those meanings; it makes the universe full.
 
 Ultimately, science is the act of falling in love with
 reality. You can wear anything you like. Your skin can be any
-colour. You can be male, or female, or non-binary. It doesn't matter. As long as you
+colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
