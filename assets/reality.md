@@ -29,9 +29,9 @@ The second stock type doesn't wear a labcoat,
 and is more likely to be sporting, I don't know, a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
-equations and big ideas.
+equations and ideas.
 If we take the stereotype to its logical, or rather pop cultural,
-extreme, they're probably white and male, and confined to a wheelchair, or crazy,
+extreme, they're probably white and male, and confined to a wheelchair, or schizophrenic,
 or possessing an eccentric shock of white hair.
 They are, in other words, scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
@@ -71,7 +71,7 @@ undistinguished young man, came home, had no more exams to study for,
 no more tests to pass, and nothing better to do that to sit around and
 ask idle questions. One of these idle questions concerned the motion of
 the clod of earth, represented, for the lazy student, by an apple
-falling from a tree.
+he saw fall from a tree.
 
 "Why should it not go sideways, or upwards? but constantly to the
 earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
