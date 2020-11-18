@@ -176,9 +176,9 @@ collapsing clouds of dust, and with a tortuous life history of its own.
 One of the brightest stars in the constellation is Betelguese, a star so huge that,
 if placed in the centre of our solar system, it would swallow up Jupiter.
 Betelguese is a renegade.
-It grew up in a pocket of debris with other young stars, humorously
-called the OB1 Association, and perhaps, as a result of some Star
-Wars, it got kicked out, and now hurtles through space at 30 km/s.
+It grew up in a pocket of debris called the OB1 Association, and
+perhaps as a result of some Star Wars, it got kicked out, and now
+hurtles through space at 30 km/s.
 As it travels through the interstellar medium, a light
 sprinkling of hydrogen and other elements, its magnetic field
 dislodges atoms from its path, forming what's called a bow shock, the
@@ -206,7 +206,11 @@ medium, even empty space itself, each of these moving parts is a constellation t
 dot-to-dot onto which we project scientific images and meanings, and
 which can change as new data points become visible and old ones
 dim and disappear.
-Betelguese has just as many stories to tell as Orion.
+For every human culture which has looked up at Orion and seen
+something different, there is a subfield of astronomy or astrophysics
+which looks up and sees the same diversity in Betelguese.
+The Renegade has just as many stories to tell as the Hunter.
+
 The universe, in all its awe and complexity and strangeness, is far fuller
 than any human culture has ever dared to imagine.
 
