@@ -193,8 +193,8 @@ is a single star, one of 19 in the constellation of Orion, which is
 one of hundreds that humans of different times and
 places have invented.
 These constellations are drawn using only the stars visible to the
-naked eye, which are a mere sliver of the total number of stars in the
-galaxy, not to mention the stars in other galaxies. Like our sun,
+naked eye, which are in turn a mere sliver of the total number of
+stars in the galaxy. Like our sun,
 we expect most of these stars, both visible and invisible, to have
 planets, and for some of these planets to have their own inhabitants, and for some of these inhabitants to form their
 own stories and pictures from the bright stars in their vicinity.
@@ -207,13 +207,19 @@ which change as new data points become visible and old ones
 dim and disappear.
 For every human culture which has looked up at Orion and seen
 something different, there is a subfield of astronomy or physics or
-nuclear chemistry which looks up and sees the same diversity in Betelguese.
+chemistry which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
 
-In a universe so much older, and larger, and stranger, and more
-complex than anything the old myths prepared us for, we need a new set
-of stories and meanings to orient us.
+In a universe so much older, and larger, and stranger than anything
+the old myths prepared us for, we need a new set of stories and
+meanings to orient us.
 Science provides those meanings; it makes the universe full.
+It tells us that the force which drew the apple, and hauls the eath,
+also drives the cosmos.
+It tells us that when stars die, they sometimes rip holes in
+spacetime.
+And it tells us that the most exotic material in creation is not dark
+matter, 
 
 Ultimately, science is the act of falling in love with
 reality. You can wear anything you like. Your skin can be any
@@ -244,3 +250,10 @@ than any mythology ever dared to imagine. -->
 <!-- wavefunctions collapse? What happens inside a black hole? And why -->
 <!-- does spaghetti always snap into three pieces? The mysteries of -->
 <!-- the world are endless. -->
+
+<!-- It tells us that the force which drew the apple, and hauls the
+earth around the sun, makes space itself expand; Newton's dream of the
+oneness of gravity was truer than he knew.
+It tells us that 
+It tells us that the most exotic substance in creation is not pentaquarks, but life, a fragile, self-replicating material
+which can -->
