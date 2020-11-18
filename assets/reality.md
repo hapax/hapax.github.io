@@ -217,8 +217,8 @@ Science provides those meanings; it makes the universe full.
 It tells us that the force which drew the apple, and hauls the eath,
 also swells the cosmos.
 It tells us that when stars die, they rip holes in spacetime.
-And it tells us that the most precious substance is life, fragile,
-self-replicating, and coming to know itself.
+And it tells us that the most precious substance is life, a fragile,
+self-replicating anomaly which can come to know itself.
 
 Ultimately, science is the act of falling in love with
 reality. You can wear anything you like. Your skin can be any
