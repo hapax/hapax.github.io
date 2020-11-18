@@ -184,7 +184,7 @@ sprinkling of hydrogen and other elements) its magnetic field
 dislodges atoms from its path, forming what's called a bow shock, the
 same way that the prow of a boat creates a wake as it displaces water. 
 The magnetic wake of Betelguese is three times wider than the solar system, and if
-you happen to have an infrared camera, it's visible as a brilliant
+you happen to have an infrared telescope, it's visible as a brilliant
 arc of light, marking the passage of this lonely ship through the
 deeps of space.
 
