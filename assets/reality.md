@@ -201,10 +201,10 @@ their own inhabitants, and for some of these inhabitants to form their
 own stories and pictures from the bright stars in their vicinity.
 Perhaps, every now and again, they ask why things fall.
 
-Each star, each planet, each organism, each atom of the interstellar
+Each star, planet, and organism, each atom of the interstellar
 medium, even empty space itself, each of these moving parts is a constellation to the scientist, a
 dot-to-dot onto which we project scientific images and meanings, and
-which can change as new data points become visible and old ones
+which change as new data points become visible and old ones
 dim and disappear.
 For every human culture which has looked up at Orion and seen
 something different, there is a subfield of astronomy or astrophysics
