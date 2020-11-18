@@ -188,7 +188,7 @@ you happen to have an infrared telescope, it's visible as a brilliant
 curve of light, marking the passage of this lonely ship through the
 deeps of space.
 
-Now, there are many more things I could say about Betelguese, but this
+There are many more things I could say about Betelguese, but this
 is a single star, one of 19 in the constellation of Orion, which is
 one of hundreds that humans of different times and
 places have invented.
