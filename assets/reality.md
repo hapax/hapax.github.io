@@ -214,7 +214,7 @@ In a universe so much older, and larger, and stranger than anything
 the old myths prepared us for, we need a new set of stories and
 meanings to orient us.
 Science provides those meanings; it makes the universe full.
-It tells us that the force which drew the apple, and hauls the eath,
+It tells us that the force which drew the apple and hauls the eath,
 also swells the cosmos.
 It tells us that when stars die, they rip holes in spacetime.
 It tells us that there is a rare, self-replicating substance called
