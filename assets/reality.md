@@ -185,7 +185,7 @@ dislodges atoms from its path, forming what's called a bow shock, the
 same way that the prow of a boat creates a wake as it displaces water. 
 The magnetic wake of Betelguese is three times wider than the solar system, and if
 you happen to have an infrared camera, it's visible as a brilliant
-stroke of light, marking the passage of this lonely ship through the
+arc of light, marking the passage of this lonely ship through the
 deeps of space.
 
 Now, there are many more things I could say about Betelguese, but this
