@@ -211,22 +211,24 @@ chemistry which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
 
 In a universe so much older, and larger, and stranger than anything
-the old myths prepared us for, we need a new set of stories and
-meanings to orient us.
-Science provides those meanings; it makes the universe full.
-It tells us that the force which drew the apple and hauls the eath,
+the old myths prepared us for, we need a new set of stories to orient
+us, and science provides them. <!--; it makes the universe full.-->
+It tells us that the force which drew the apple and hauls the earth,
 also swells the cosmos.
 It tells us that when stars die, they rip holes in spacetime.
 It tells us that there is a rare, self-replicating substance called
 life, and on at least one planet, it has come to know itself.
+Science is really just this strange substance, life, falling in love
+with reality and filling it with meaning.
 
-Ultimately, science is the act of falling in love with
-reality. You can wear anything you like. Your skin can be any
+I'll conclude by returning to our original question: how to be a
+scientist if the stereotypes are wrong.
+You can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
-more, to be a great scientist. And with that, I will conclude. Thank
+more, to be a great scientist. <!-- And with that, I will conclude.--> Thank
 you very much for listening.
 
 <!-- Far from being empty, the universe is a tapestry of densely interwoven
