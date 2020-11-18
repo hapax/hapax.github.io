@@ -190,15 +190,15 @@ deeps of space.
 
 There are many more things I could say about Betelguese, but this
 is a single star, one of 19 in the constellation of Orion, which is
-one of hundreds that humans of different times and
-places have invented.
-These constellations are drawn using only the stars visible to the
-naked eye, which are in turn a mere sliver of the total number of
-stars in the galaxy. Like our sun,
-we expect most of these stars, both visible and invisible, to have
-planets, and for some of these planets to have their own inhabitants, and for some of these inhabitants to form their
-own stories and pictures from the bright stars in their vicinity.
-Perhaps, every now and again, they ask why things fall.
+one of hundreds of constellations that humans of different times and
+places have invented, using only the stars visible to the
+naked eye. These visible stars, in turn, are a mere sliver of the
+total number of stars in the galaxy, and our galaxy is one of
+billions. Like the sun, we expect most of these stars to have planets,
+and for some of these planets to have their own inhabitants, and for
+some of these inhabitants to form their own stories and pictures from
+the bright stars in their vicinity. Perhaps, every now and again, they
+ask why things fall.
 
 Each star, planet, and organism, each atom of the interstellar
 medium, even empty space itself, each of these moving parts is a constellation to the scientist, a
