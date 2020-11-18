@@ -212,7 +212,7 @@ which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
 
 The universe, in all its awe and complexity and strangeness, is far fuller
-than any human culture has ever dared to imagine.
+than any mythology ever dared to imagine.
 
 Ultimately, science is the act of falling in love with
 reality and its endless constellations. You can wear anything you like. Your skin can be any
