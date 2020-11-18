@@ -191,9 +191,10 @@ seas of space.
 Now, there are many more things I could say about Betelguese, but this
 is a single star.
 One of 19 in the constellation of Orion, which is one of hundreds of
-constellations that humans of different times and places have invented.
-These picture are drawn using only the stars visible to the naked eye,
-which are a sliver of the total number of stars in the galaxy.
+that humans of different times and places have invented.
+They are drawn using only the stars visible to the naked eye,
+which are a mere sliver of the total number of stars in the galaxy,
+not to mention the stars in other galaxies.
 And like our sun, we expect most of these stars, both visible and
 invisible, to have planets, and for some of these planets to have
 their own inhabitants, and for some of these inhabitants to form their
