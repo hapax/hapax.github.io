@@ -211,14 +211,21 @@ something different, there is a subfield of astronomy or astrophysics
 which looks up and sees the same diversity in Betelguese.
 The Renegade has just as many stories to tell as the Hunter.
 
+Far from being empty, the universe is a tapestry of densely interwoven
+stories, more complex and awesome and strange than any human mythology
+has dared to imagine.
+
 Ultimately, science is the act of falling in love with
-reality and its endless constellations. You can wear anything you like. Your skin can be any
+reality. You can wear anything you like. Your skin can be any
 colour. You can be male, or female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
 more, to be a great scientist. And with that, I will conclude. Thank
 you very much for listening.
+
+<!-- Ultimately, science is the act of falling in love with
+reality and its endless constellations.-->
 
 <!-- The universe, in all its awe and complexity and strangeness, is far fuller
 than any mythology ever dared to imagine. -->
