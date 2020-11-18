@@ -176,12 +176,13 @@ collapsing clouds of dust, and with a tortuous life history of its own.
 One of the brightest stars in the constellation is Betelguese, a star so huge that,
 if placed in the centre of our solar system, it would swallow up Jupiter.
 Betelguese is a renegade.
-It grew up in a pocket of debris with other young stars, but got
-kicked out, or maybe left to find its fortune, and now hurtles through space at 30 km/s.
+It grew up in a pocket of debris with other young stars, humorously
+called the OB1 Association, and perhaps, as a result of some Star
+Wars, it got kicked out, and now hurtles through space at 30 km/s.
 As it travels through the interstellar medium, a light
-sprinkling of hydrogen and other elements, its magnetic field dislodges atoms,
-forming what's called a bow shock, the same way that the prow of a
-boat creates a wake as it moves through and displaces water.
+sprinkling of hydrogen and other elements, its magnetic field
+dislodges atoms from its path, forming what's called a bow shock, the
+same way that the prow of a boat creates a wake as it displaces water. 
 The magnetic wake of Betelguese is three times wider than the solar system, and if
 you happen to have an infrared camera, it's visible as a brilliant
 stroke of light, marking the passage of this lonely ship through the
@@ -191,19 +192,18 @@ Now, there are many more things I could say about Betelguese, but this
 is a single star.
 One of 19 in the constellation of Orion, which is one of hundreds of
 constellations that humans of different times and places have invented.
-These picture are drawn using stars visible to the naked eye, a sliver
-of the total number of stars in the galaxy.
-Like our sun, we expect most of these stars to have planets, and for
-some of these planets to have their own inhabitants, and for some of
-these inhabitants to form their own stories and pictures from the
-bright stars in their vicinity, and perhaps, every now and again,
-ask why things fall.
+These picture are drawn using only the stars visible to the naked eye,
+which are a sliver of the total number of stars in the galaxy.
+And like our sun, we expect most of these stars, both visible and
+invisible, to have planets, and for some of these planets to have
+their own inhabitants, and for some of these inhabitants to form their
+own stories and pictures from the bright stars in their vicinity.
+Perhaps, every now and again, they ask why things fall.
 
-Each star, each planet, each organism, each atom in the space
-between stars, and most mysterious of all, empty space itself, each
-of these moving parts is a constellation to the scientist, a
+Each star, each planet, each organism, each atom of the interstellar
+medium, even empty space itself, each of these moving parts is a constellation to the scientist, a
 dot-to-dot onto which we project scientific images and meanings, and
-which can change as new data points become visible or old ones
+which can change as new data points become visible and old ones
 dim and disappear.
 Betelguese has just as many stories to tell as Orion.
 The universe, in all its awe and complexity and strangeness, is far fuller
