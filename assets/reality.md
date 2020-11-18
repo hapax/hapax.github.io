@@ -212,7 +212,7 @@ The Renegade has just as many stories to tell as the Hunter.
 
 In a universe so much older, and larger, and stranger, and more
 complex than anything the old myths prepared us for, we need a new set
-of stories and meanings to help orient ourselves.
+of stories and meanings to orient us.
 Science provides those meanings; it makes the universe full.
 
 Ultimately, science is the act of falling in love with
