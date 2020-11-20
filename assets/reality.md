@@ -208,28 +208,32 @@ dim and disappear.
 For every human culture which has looked up at Orion and seen
 something different, there is a subfield of astronomy or physics or
 chemistry which looks up and sees the same diversity in Betelguese.
-The Renegade has just as many stories to tell as the Hunter.
+The Renegade has just as many stories to tell as the Hunter, but they
+are about itself rather than something else.
 
-In a universe so much older, and larger, and stranger than anything
-the ancient myths prepared us for, we need a new set of stories to orient
-us. Science provides these stories and weaves them into the world. <!-- Science provides them.; it makes the universe full.-->
-It tells us that the force which drew the apple and hauls the earth,
-also swells the cosmos.
-It tells us that when stars die, they rip holes in spacetime.
+In a universe so much older, and larger, and more complex than anything
+the ancient myths prepared us for, we need new stories to orient
+us.
+The stories are told by the objects themselves, and woven into the world. <!-- Science provides them.; it makes the universe full.-->
+
+<!-- They are much stranger than anything dreamt of in our mythologies.
+Science tells us that the force which pulled the apple, and
+hauls the earth, governs the shape and fate of the
+cosmos.
 It tells us that there is a rare, self-replicating substance called
 life, and on at least one planet, it has come to know itself.
-Science is really just this strange substance, life, falling in love
-with reality and filling it with meaning.
+Science is really just life, this exotic material, falling in love
+with reality and filling it with meaning. -->
 
 I'll conclude by returning to our original question: how to be a
-scientist if the stereotypes are wrong.
+scientist if we can't trust the stereotypes.
 You can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
 more, to be a great scientist. <!-- And with that, I will conclude.--> Thank
-you very much for listening.
+you very much for listening. -->
 
 <!-- Far from being empty, the universe is a tapestry of densely interwoven
 stories, more complex and awesome and strange than any human mythology
