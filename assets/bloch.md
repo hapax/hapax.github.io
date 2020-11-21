@@ -1,6 +1,9 @@
 ---
-title: Noise on the Bloch sphere
-layout: plain
+Layout: post
+mathjax: true
+comments: true
+title:  "Noise on the Bloch sphere"
+date:  2020-11-20
 ---
 
 <div id="sketch-holder"></div>
