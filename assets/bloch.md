@@ -87,6 +87,6 @@ The sliders, in order, control the strength of various noise channels:
 - bit/phase flip channel;
 - depolarization.
 
-There are various bugs to be fixed in future editions.
+You can also drag the sphere around with the mouse. Various bugs to be fixed in future editions!
 
 ---
