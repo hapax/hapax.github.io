@@ -88,3 +88,5 @@ and the green point $|+\rangle$.
 - *Top right*: bit flip.
 - *Bottom left*: bit/phase flip.
 - *Bottom right*: depolarization.
+
+There are various bugs I will fix at some point.
