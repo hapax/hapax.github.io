@@ -74,7 +74,7 @@ function draw() {
 </head>
 </html>
 
-The sketch above represents the effect of different single-qubit noise
+The sketch below represents the effect of different single-qubit noise
 channels on the Bloch sphere.
 The white circle lies on the *y-z* plane, while green lies on
 *x-y*, and purple on *x-z*.
