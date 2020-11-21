@@ -18,16 +18,16 @@ let rad0=100;
 function setup() {
   createCanvas(400, 400, WEBGL);
   phase = createSlider(1,24, 1);
-  phase.position(5+5, 10+190);
+  phase.position(5+5, 10+210);
   phase.style('width', '80px');
   bit = createSlider(1,24, 1);
-  bit.position(5+85+5,10+190);
+  bit.position(5+85+5,10+210);
   bit.style('width', '80px');
   phaseBit = createSlider(1,24, 1);
-  bit.position(5+85+85+5,10+190);
+  phaseBit.position(5+85+85+5,10+210);
   phaseBit.style('width', '80px');
   depol = createSlider(1,24, 1);
-  depol.position(5+85+85+85+5,10+190);
+  depol.position(5+85+85+85+5,10+210);
   depol.style('width', '80px');
 }
 
