@@ -87,7 +87,6 @@ The sliders, in order, control the strength of various noise channels:
 - bit/phase flip channel;
 - depolarization.
 
-There are various bugs I will fix at some point. I might also add
-amplitude damping.
+There are various bugs to be fixed in future editions.
 
 ---
