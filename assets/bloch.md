@@ -66,3 +66,8 @@ function draw() {
 </script>
 </head>
 </html>
+
+- *Top left*: bit flip.
+- *Top right*: phase flip.
+- *Bottom left*: bit/phase flip.
+- *Bottom right*: depolarization.
