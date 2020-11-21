@@ -76,7 +76,7 @@ function draw() {
 
 The sketch below represents the effect of different single-qubit noise
 channels on the Bloch sphere.
-The white circle lies on the *y-z* plane, while green lies on
+The white circle lies on the *y-z* plane, green lies on
 *x-y* and purple on *x-z*.
 The white point represents |0⟩, the black point |1⟩,
 and the green point |+⟩.
