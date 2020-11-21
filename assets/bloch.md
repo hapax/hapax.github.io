@@ -1,7 +1,6 @@
 ---
 Layout: plain
 mathjax: true
-comments: true
 title:  "Noise on the Bloch sphere"
 date:  2020-11-20
 ---
@@ -67,6 +66,9 @@ function draw() {
 </head>
 </html>
 
+The sketch above represents the effect of different noise channels on
+the Bloch sphere.
+The white circle lies on the $y$-$z$ plane, while green lies on $$
 - *Top left*: bit flip.
 - *Top right*: phase flip.
 - *Bottom left*: bit/phase flip.
