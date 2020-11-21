@@ -64,7 +64,7 @@ function draw() {
   point(0,rad0+10);
   rotateY(-PI/2);
   rotateZ(PI/2);
-  stroke(100,140,20);
+  stroke(120,160,40);
   strokeWeight(5);
   point(0,-rad0-10);
   
