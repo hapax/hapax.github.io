@@ -1,6 +1,5 @@
 ---
-Layout: plain
-mathjax: true
+layout: plain
 title:  "Noise on the Bloch sphere"
 date:  2020-11-20
 ---
