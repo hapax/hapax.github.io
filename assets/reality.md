@@ -224,6 +224,14 @@ process is self-correcting.
 Science is the act of falling in love with reality and filling it with
 meaning.
 
+So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
+colour. You can be male, female, or non-binary. It doesn't matter. As long as you
+approach the universe with an open mind, with the humility to admit
+that you don't know, the curiosity to ask, and enough love and wonder
+to try and answer, then you have all that it takes, and probably much
+more, to be a great scientist. <!-- And with that, I will conclude. Thank
+you very much for listening. -->
+
 <!-- They are much stranger than anything dreamt of in our mythologies.
 Science tells us that the force which pulled the apple, and
 hauls the earth, governs the shape and fate of the
@@ -235,13 +243,6 @@ with reality and filling it with meaning. -->
 
 <!-- I'll conclude by returning to our original question: how to be a
 scientist if we can't trust the stereotypes. -->
-So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
-colour. You can be male, female, or non-binary. It doesn't matter. As long as you
-approach the universe with an open mind, with the humility to admit
-that you don't know, the curiosity to ask, and enough love and wonder
-to try and answer, then you have all that it takes, and probably much
-more, to be a great scientist. <!-- And with that, I will conclude. Thank
-you very much for listening. -->
 
 <!-- Far from being empty, the universe is a tapestry of densely interwoven
 stories, more complex and awesome and strange than any human mythology
