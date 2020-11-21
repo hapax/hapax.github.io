@@ -235,7 +235,7 @@ with reality and filling it with meaning. -->
 
 <!-- I'll conclude by returning to our original question: how to be a
 scientist if we can't trust the stereotypes. -->
-So, to be a scientist, you can wear anything you like. Your skin can be any
+So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
