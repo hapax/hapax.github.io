@@ -228,7 +228,7 @@ So, to be a scientist, you don't need a labcoat. You can wear anything you like.
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
-to try and listen to reality's answer, then you have all that it takes, and probably much
+to listen to reality's answer, then you have all that it takes, and probably much
 more, to be a great scientist. Thank you. <!-- And with that, I will conclude. Thank
 you very much for listening. -->
 
