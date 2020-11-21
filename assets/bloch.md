@@ -5,7 +5,7 @@ layout: plain
 
 <div id="sketch-holder"></div>
 
-Rub the chromaline eggs.
+Bloch sphere things
 
 <html>
 <head>
@@ -19,16 +19,16 @@ let rad0=100;
 function setup() {
   createCanvas(400, 400, WEBGL);
   phase = createSlider(1,24, 1);
-  phase.position(10, 5);
+  phase.position(10, 10+50);
   phase.style('width', '80px');
   bit = createSlider(1,24, 1);
-  bit.position(width-85,10);
+  bit.position(width-85,10+50);
   bit.style('width', '80px');
   phaseBit = createSlider(1,24, 1);
-  phaseBit.position(5,height-25);
+  phaseBit.position(5,height-25+50);
   phaseBit.style('width', '80px');
   depol = createSlider(1,24, 1);
-  depol.position(width-85, height-25);
+  depol.position(width-85, height-25+50);
   depol.style('width', '80px');
 }
 
