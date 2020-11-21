@@ -21,13 +21,13 @@ function setup() {
   phase.position(5+5, 10+190);
   phase.style('width', '80px');
   bit = createSlider(1,24, 1);
-  bit.position(width-85+5,10+190);
+  bit.position(5+85+5,10+190);
   bit.style('width', '80px');
   phaseBit = createSlider(1,24, 1);
-  phaseBit.position(5+5,height-25+190);
+  bit.position(5+85+85+5,10+190);
   phaseBit.style('width', '80px');
   depol = createSlider(1,24, 1);
-  depol.position(width-85+5, height-25+190);
+  depol.position(5+85+85+85+5,10+190);
   depol.style('width', '80px');
 }
 
@@ -87,3 +87,5 @@ and the green point |+⟩.
 - *Bottom right*: depolarization.
 
 There are various bugs I will fix at some point.
+
+---
