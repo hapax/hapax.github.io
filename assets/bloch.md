@@ -80,12 +80,14 @@ The white circle lies on the *y-z* plane, while green lies on
 *x-y*, and purple on *x-z*.
 The white point represents |0⟩, the black point |1⟩,
 and the green point |+⟩.
+The sliders, in order, representing the strength of various noise channels:
 
-- *Top left*: phase flip.
-- *Top right*: bit flip.
-- *Bottom left*: bit/phase flip.
-- *Bottom right*: depolarization.
+- phase flip channel;
+- bit flip channel;
+- bit/phase flip channel;
+- depolarization.
 
-There are various bugs I will fix at some point.
+There are various bugs I will fix at some point. I might also add
+amplitude damping.
 
 ---
