@@ -6,8 +6,6 @@ date:  2020-11-20
 
 <div id="sketch-holder"></div>
 
-Bloch sphere things
-
 <html>
 <head>
 
@@ -20,16 +18,16 @@ let rad0=100;
 function setup() {
   createCanvas(400, 400, WEBGL);
   phase = createSlider(1,24, 1);
-  phase.position(5, 10+90);
+  phase.position(5+5, 10+190);
   phase.style('width', '80px');
   bit = createSlider(1,24, 1);
-  bit.position(width-85,10+90);
+  bit.position(width-85+5,10+190);
   bit.style('width', '80px');
   phaseBit = createSlider(1,24, 1);
-  phaseBit.position(5,height-25+90);
+  phaseBit.position(5+5,height-25+190);
   phaseBit.style('width', '80px');
   depol = createSlider(1,24, 1);
-  depol.position(width-85, height-25+90);
+  depol.position(width-85+5, height-25+190);
   depol.style('width', '80px');
 }
 
@@ -78,10 +76,10 @@ function draw() {
 
 The sketch above represents the effect of different single-qubit noise
 channels on the Bloch sphere.
-The white circle lies on the $y$-$z$ plane, while green lies on
-$x$-$y$, and purple on $x$-$z$.
-The white point represents $|0\rangle$, the black point $|1\rangle$,
-and the green point $|+\rangle$.
+The white circle lies on the *y-z* plane, while green lies on
+*x-y*, and purple on *x-z*.
+The white point represents |0⟩, the black point |1⟩,
+and the green point |+⟩.
 
 - *Top left*: phase flip.
 - *Top right*: bit flip.
