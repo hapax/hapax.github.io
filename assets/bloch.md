@@ -21,13 +21,13 @@ function setup() {
   phase.position(5+5, 10+212);
   phase.style('width', '80px');
   bit = createSlider(1,24, 1);
-  bit.position(5+90+5,10+212);
+  bit.position(5+95+5,10+212);
   bit.style('width', '80px');
   phaseBit = createSlider(1,24, 1);
-  phaseBit.position(5+90+90+5,10+212);
+  phaseBit.position(5+95+95+5,10+212);
   phaseBit.style('width', '80px');
   depol = createSlider(1,24, 1);
-  depol.position(5+90+90+90+5,10+212);
+  depol.position(5+95+95+95+5,10+212);
   depol.style('width', '80px');
 }
 
