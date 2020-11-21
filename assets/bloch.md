@@ -1,5 +1,5 @@
 ---
-Layout: post
+Layout: plain
 mathjax: true
 comments: true
 title:  "Noise on the Bloch sphere"
