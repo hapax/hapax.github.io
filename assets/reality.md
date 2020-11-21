@@ -1,5 +1,5 @@
 ---
-title:  "Falling in love with reality"
+title:  "Counter-narratives for young scientists"
 date:  2020-11-12
 layout: post
 ---
@@ -214,7 +214,15 @@ are about itself rather than something else.
 In a universe so much older, and larger, and more complex than anything
 the ancient myths prepared us for, we need new stories to orient
 us.
-The stories are told by the objects themselves, and woven into the world. <!-- Science provides them.; it makes the universe full.-->
+The stories are told by the objects themselves and woven into the
+world, <!-- Science provides them.; it makes the universe full.-->
+and the job of the scientist is to listen and interpret.
+Of course we make errors, mishear, misunderstand, or interpret after our own
+biases. But at the end of the day, we come back to what the world is
+trying to tell us; because we care about the underlying stories, the
+process is self-correcting.
+Science is the act of falling in love with reality and filling it with
+meaning.
 
 <!-- They are much stranger than anything dreamt of in our mythologies.
 Science tells us that the force which pulled the apple, and
@@ -225,14 +233,14 @@ life, and on at least one planet, it has come to know itself.
 Science is really just life, this exotic material, falling in love
 with reality and filling it with meaning. -->
 
-I'll conclude by returning to our original question: how to be a
-scientist if we can't trust the stereotypes.
-You can wear anything you like. Your skin can be any
+<!-- I'll conclude by returning to our original question: how to be a
+scientist if we can't trust the stereotypes. -->
+So, to be a scientist, you can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to try and answer, then you have all that it takes, and probably much
-more, to be a great scientist. <!-- And with that, I will conclude.--> Thank
+more, to be a great scientist. <!-- And with that, I will conclude. Thank
 you very much for listening. -->
 
 <!-- Far from being empty, the universe is a tapestry of densely interwoven
