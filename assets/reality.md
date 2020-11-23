@@ -208,20 +208,18 @@ dim and disappear.
 For every human culture which has looked up at Orion and seen
 something different, there is a subfield of astronomy or physics or
 chemistry which looks up and sees the same diversity in Betelguese.
-
-The Renegade has just as many stories to tell as the Hunter, but they
-are about itself rather than something else.
-And in a universe so much older, and larger, and more complex than anything
+The Renegade has just as many stories to tell as the Hunter. But
+unlike Orion, they are stories about itself rather than something else.
+And in a universe so much older, larger, and stranger than anything
 the ancient myths prepared us for, we need new stories to orient
-us.
-And the most effective stories are the ones told by the objects themselves and woven into the
+us, preferably those told by the objects themselves and woven into the
 world. <!-- Science provides them.; it makes the universe full.-->
 The job of the scientist is to listen and interpret.
 Of course we make errors, we mishear, we misunderstand, or interpret after our own
 biases. But at the end of the day, we come back to what the world is
 trying to tell us; because we care about the underlying stories, the
 process is self-correcting.
-Boradly put, science is the act of falling in love with reality,
+Broadly put, science is the act of falling in love with reality,
 listening to its stories, and filling it with meaning.
 
 So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
