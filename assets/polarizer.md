@@ -12,14 +12,14 @@ date:  2020-12-07
 2. <a href="#sec-2">Fun with photons</a>
    1. <a href="#sec-2-1">Light is a particle</a>
 
-## 1. Introduction <a id="sec-1" name="sec-1"></a>
+### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 In this tutorial, we'll be introducing quantum mechanics in a simple,
 experimentally motivated way. From the apparently unremarkable fact
 that you can see through sunglasses, we will learn about the quantum
 nature of light, and end by exchanging quantum secrets and teleportation!
 
-## 2. Fun with photons <a id="sec-2" name="sec-2"></a>
+### 2. Fun with photons <a id="sec-2" name="sec-2"></a>
 
 According to Maxwell's laws, light is a self-propagating
 electromagnetic wave: a changing electric field creates a changing
@@ -31,25 +31,28 @@ transparency, or the fringes you see when you shine a pocket laser at
 a thread of hair.
 But there is more to light than meets the eye.
 
-### 2.1. Light is a particle <a id="sec-2-1" name="sec-2-1"></a>
+#### 2.1. Light is a particle <a id="sec-2-1" name="sec-2-1"></a>
 
 In the early 20th century, experiments began to suggest there was
 something amiss with this wave picture.
-On the one hand, assuming light is a continuous, wave-like disturbance
-implies that a lump of hot coal emits an infinite amount of
-energy. Clearly, this can't be true, and
+Most dramatically, assuming light is a wave implies that a lump of hot
+coal emits an infinite amount of energy, and would destroy anything
+and everything around it.
+This is crazy! Clearly, this can't be true, and
 [Max Planck](https://en.wikipedia.org/wiki/Max_Planck#Black-body_radiation)
-figured out that to get the right answer, light needs to come into
-discrete bundles of energy called *quanta*.
-If the light has angular frequency $\omega = 2\pi f$, one of these bundles has energy
+figured out that in order to get the right answer, light needs to come
+in discrete bundles of energy called *quanta*.
+For light of frequency $f$, these quanta or *photons* have energy
 
 $$
-E = \hbar \omega, \quad \hbar \sim 10^{-34} \text{ J s},
+E = hf, \quad h \sim 6.34 \times 10^{-34} \text{ J s},
 $$
 
-where $\hbar$ is called *Planck's constant*.
+where $h is called *Planck's constant*.
+
 A few years later, Einstein used Planck's quanta to explain how
-light creates electricity (the basis of solar panels, for instance).
+light creates electricity.
+This *photoelectric effect* is the basis of solar panels, for instance.
 Briefly, the idea is as follows.
 At an atomic level, a chunk of metal looks like a rigid array of
 positive nuclei surrounded by a free-flowing sea of negative
@@ -61,14 +64,15 @@ energy $\epsilon_\text{bind}$ called the *binding energy*.
 We can create a sort of electrostatic hoover which sucks up any
 free electrons and tells us when they have been liberated.
 
-We can deliver energy by shining a torch on the chunk.
-Classically, this is identical to the way ocean waves deposit energy on the shore.
-To complete the analogy, imagine the electron as a beach ball
-sitting in a small dip in the sand.
+We can deliver energy by shining a torch on the metal.
+Physicists expected this to work the same way ocean waves deposit
+energy on the shore.
+Imagine the electron as a beach ball sitting in a small dip in the sand.
 An arriving wave will continuously deliver energy to the ball until it
 gets enough ($\epsilon_\text{bind}$) to be dislodged from the dip.
 The waves could be very high, or arrive one after the other in quick
 succession, but it makes no difference to the beach ball.
+It just needs to receive enough energy to get out of the dip.
 
 For light, the equivalent of the height of waves is the *amplitude* $A$
 and the rate waves come in is the frequency $\omega$.
@@ -84,10 +88,15 @@ What gives?
 
 Einstein's explanation was simple.
 He took Planck's idea that light carried energy in discrete lumps $E =
-\hbar\omega$ depending only on frequency, and deposits it to the
+hf$ depending only on frequency, and deposits it to the
 electrons as a lump sum.
-In other words, we need
+The amplitude is then related to *how many* photons our torch
+produces.
+Then in order to free electrons, photons need to have a minimum
+frequency
 
 $$
-E = \hbar\omega > \epsilon_\text{bind}.
+f_\text{min} = \frac{\epsilon_\text{bind}}{\hbar}.
 $$
+
+This works out perfectly.
