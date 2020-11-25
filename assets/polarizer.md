@@ -90,13 +90,15 @@ Einstein's explanation was simple.
 He took Planck's idea that light carried energy in discrete lumps $E =
 hf$ depending only on frequency, and deposits it to the
 electrons as a lump sum.
-The amplitude is then related to *how many* photons our torch
-produces.
-Then in order to free electrons, photons need to have a minimum
-frequency
+The electrons will begin to flow as soon as the frequency $f$ satisfies
 
 $$
-f_\text{min} = \frac{\epsilon_\text{bind}}{\hbar}.
+E = hf \geq \epsilon_\text{bind}.
 $$
 
-This works out perfectly.
+In this picture, the amplitude is related to *how many* photons are
+coming out of our torch per second, so increasing amplitude will just
+liberate more electrons.
+So it's like the waves at the beach are themselves *made of beach
+balls*, whose energy depends on the frequency of waves, and only one
+ball interacts with the ball in the dip at a time.
