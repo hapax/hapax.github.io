@@ -83,4 +83,11 @@ to dislodge the beach ball.
 What gives?
 
 Einstein's explanation was simple.
-He 
+He took Planck's idea that light carried energy in discrete lumps $E =
+\hbar\omega$ depending only on frequency, and deposits it to the
+electrons as a lump sum.
+In other words, we need
+
+$$
+E = \hbar\omega > \epsilon_\text{bind}.
+$$
