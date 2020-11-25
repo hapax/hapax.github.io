@@ -11,6 +11,7 @@ date:  2020-12-07
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Fun with photons</a>
    1. <a href="#sec-2-1">Light is a particle</a>
+   2. <a href="#sec-2-2">Flashlights and sunglasses</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -102,3 +103,8 @@ liberate more electrons.
 So it's like the waves at the beach are themselves *made of beach
 balls*, whose energy depends on the frequency of waves, and only one
 ball interacts with the ball in the dip at a time.
+
+### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
+
+So, Planck and Einstein teach us that light comes in discrete lumps.
+But there's nothing these don't behave like little beach balls.
