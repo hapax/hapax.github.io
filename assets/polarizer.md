@@ -89,7 +89,7 @@ What gives?
 
 Einstein's explanation was simple.
 He took Planck's idea that light carried energy in discrete lumps $E =
-hf$ depending only on frequency, and deposits it to the
+hf$ depending only on frequency, and gives it to the
 electrons as a lump sum.
 The electrons will begin to flow as soon as the frequency $f$ satisfies
 
@@ -100,9 +100,11 @@ $$
 In this picture, the amplitude is related to *how many* photons are
 coming out of our torch per second, so increasing amplitude will just
 liberate more electrons.
-So it's like the waves at the beach are themselves *made of beach
-balls*, whose energy depends on the frequency of waves, and only one
-ball interacts with the ball in the dip at a time.
+It's like the waves at the beach are themselves made of beach
+balls, whose energy depends on the frequency of waves, and increasing
+the amplitude just stacks more balls on the wave.
+Balls can only collide one at a time, so a tsunami wave of low-energy
+beach balls cannot dislodge the ball from the dip.
 
 ### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
 
