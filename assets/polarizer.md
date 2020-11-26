@@ -77,6 +77,7 @@ It just needs to receive enough energy to get out of the dip.
 
 For light, the equivalent of the height of waves is the *amplitude* $A$
 and the rate waves come in is the frequency $\omega$.
+In fact, the energy delivered is proportional to the *intensity* $I = A^2$.
 If light is like the waves trying to dislodge the beach ball, we
 expect that we could liberate electrons either by making $A$ big or
 $\omega$ big.
@@ -97,9 +98,9 @@ $$
 E = hf \geq \epsilon_\text{bind}.
 $$
 
-In this picture, the amplitude is related to *how many* photons are
-coming out of our flashlight per second, so increasing amplitude will just
-liberate more electrons.
+In this picture, the intensity is proportional to *how many* photons
+are coming out of our flashlight per second, so increasing intensity
+will just liberate more electrons.
 It's like the waves at the beach are themselves made of beach
 balls, whose energy depends on the frequency of waves, and increasing
 the amplitude just stacks more balls on the wave.
@@ -149,5 +150,9 @@ of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
 
 Since we can see through sunglasses, something else must be
-happening. One option is that there is a "fan" of polarizations that
+happening. One option is that there is a "wedge" of polarizations that
 are allowed through.
+You can install a lightmeter app on your smartphone, and check that
+the intensity drops by *half*, so half the light is allowed through.
+Thus, this "wedge" would include all polarizations within $45^\circ$
+of the polarizer.
