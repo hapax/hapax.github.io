@@ -147,5 +147,5 @@ If the polarizer only lets through photons with *precisely* the right
 polarization, then almost no light will get through, since the chance
 of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
-But a simple experiment at the chemist shows you can see through these
-sunglasses.
+
+
