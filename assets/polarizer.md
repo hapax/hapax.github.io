@@ -12,6 +12,7 @@ date:  2020-12-07
 2. <a href="#sec-2">Fun with photons</a>
    1. <a href="#sec-2-1">Light is a particle</a>
    2. <a href="#sec-2-2">Flashlights and sunglasses</a>
+   3. <a href="#sec-2-3">The law of Malus</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -109,7 +110,7 @@ beach balls cannot dislodge the ball from the dip.
 
 ---
 
-**Exercise 1 (photoelectric effect).** Something?
+**Exercise 1.** Something?
 
 ---
 
@@ -148,11 +149,34 @@ If the polarizer only lets through photons with *precisely* the right
 polarization, then almost no light will get through, since the chance
 of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
-
 Since we can see through sunglasses, something else must be
-happening. One option is that there is a "wedge" of polarizations that
-are allowed through.
-You can install a lightmeter app on your smartphone, and check that
-the intensity drops by *half*, so half the light is allowed through.
-Thus, this "wedge" would include all polarizations within $45^\circ$
-of the polarizer.
+happening.
+
+---
+
+**Exercise 2.** To help us understand, remember that intensity tells
+us how many photons there are.
+You can install a lightmeter app on your smartphone that measures
+intensity, so you can tell how many photons are getting through.
+Now, let's do an experiment!
+
+<span style="padding-left: 20px; display:block">P1.
+(a) Measure the intensity of the flashlight, $I_0$.
+Pass it through the sunglasses, and measure the intensity, $I_1$.
+	What is the ratio $I_1/I_0$?
+	</span>
+
+<span style="padding-left: 20px; display:block">P1.
+(b) Now pass the light through *two* aligned pairs of sunglasses, and
+measure the intensity, $I_2$.
+	What is the ratio $I_2/I_1$?
+</span>
+
+---
+
+Your experiment should show that the intensity drops by *half* after
+the first pair, and should be approximately the same after the second.
+In other words, half the photons are blocked, but then most get
+through!
+
+#### 2.3. The law of Malus <a id="sec-2-3" name="sec-2-3"></a>
