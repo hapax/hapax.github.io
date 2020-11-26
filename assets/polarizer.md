@@ -65,7 +65,7 @@ energy $\epsilon_\text{bind}$ called the *binding energy*.
 We can create a sort of electrostatic hoover which sucks up any
 free electrons and tells us when they have been liberated.
 
-We can deliver energy by shining a torch on the metal.
+We can deliver energy by shining a flashlight on the metal.
 Physicists expected this to work the same way ocean waves deposit
 energy on the shore.
 Imagine the electron as a beach ball sitting in a small dip in the sand.
@@ -82,7 +82,7 @@ expect that we could liberate electrons either by making $A$ big or
 $\omega$ big.
 But experimentalists noticed that, weirdly, for a given metal, below a
 certain frequency electrons would never be liberated, no matter what
-the intensity of the torchlight!
+the intensity of the flashlight!
 This is very surprising, almost like a low-frequency tsunami failing
 to dislodge the beach ball.
 What gives?
@@ -98,7 +98,7 @@ E = hf \geq \epsilon_\text{bind}.
 $$
 
 In this picture, the amplitude is related to *how many* photons are
-coming out of our torch per second, so increasing amplitude will just
+coming out of our flashlight per second, so increasing amplitude will just
 liberate more electrons.
 It's like the waves at the beach are themselves made of beach
 balls, whose energy depends on the frequency of waves, and increasing
@@ -132,4 +132,11 @@ The polarization makes an angle $\theta$ with respect to the $x$-axis,
 as pictured below.
 A *polarizer* is a filter which allows only certain polarizations to
 pass through.
-A simple example is the polarizing sunglasses that you can find at the chemist.
+A simple example is the polarizing sunglasses that you can find at the
+chemist.
+
+Hidden inside the phrase "only allows certain polarizations" is a
+revolution in physics.
+To see why, consider the photons coming out of a flashlight.
+They have a more or less fixed frequency, corresponding to their
+colour, but 
