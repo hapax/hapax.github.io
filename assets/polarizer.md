@@ -144,6 +144,8 @@ atomic collisions.
 What should we expect when the randomly polarized light approaches the
 polarizer?
 If the polarizer only lets through photons with *precisely* the right
-polarization, then almost no light will get through.
+polarization, then almost no light will get through, since the chance
+of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
+
 Clearly, something else is going on.
