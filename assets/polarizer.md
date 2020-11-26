@@ -108,5 +108,12 @@ beach balls cannot dislodge the ball from the dip.
 
 ### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
 
-So, Planck and Einstein teach us that light comes in discrete lumps.
-But there's nothing these don't behave like little beach balls.
+Planck and Einstein teach us that light comes in discrete lumps.
+But there's nothing to prevent these lumps from behaving like little,
+classical beach balls.
+We will see, however, that quantum mechanics is fundamentally
+different.
+To see how this happens, let's remember that according to classical
+electromagnetism, light has an electric component which wobbles up and
+down.
+The plane in which this wobbling happens is called the *polarization*.
