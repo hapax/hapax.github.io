@@ -138,5 +138,12 @@ chemist.
 Hidden inside the phrase "only allows certain polarizations" is a
 revolution in physics.
 To see why, consider the photons coming out of a flashlight.
-They have a more or less fixed frequency, corresponding to their
-colour, but 
+The polarizations are *random*, for the simple reason that the
+flashlight just heats up a filament, and creates light using random
+atomic collisions.
+What should we expect when the randomly polarized light approaches the
+polarizer?
+If the polarizer only lets through photons with *precisely* the right
+polarization, then almost no light will get through.
+We wouldn't be able to see through polarizing sunglasses at all!
+Clearly, something else is going on.
