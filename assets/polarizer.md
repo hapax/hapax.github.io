@@ -180,3 +180,6 @@ In other words, half the photons are blocked, and then most get
 through!
 
 #### 2.3. The law of Malus <a id="sec-2-3" name="sec-2-3"></a>
+
+Why do half get through, and then none?
+The simplest explanation for 
