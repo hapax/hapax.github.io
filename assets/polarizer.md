@@ -149,4 +149,5 @@ of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
 
 Since we can see through sunglasses, something else must be
-happening. One option is that
+happening. One option is that there is a "fan" of polarizations that
+are allowed through.
