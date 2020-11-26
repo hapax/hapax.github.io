@@ -51,7 +51,7 @@ $$
 
 where $h$ is called *Planck's constant*.
 
-A few years later, Einstein used Planck's quanta to explain how
+A few years later, Einstein invoked photons to explain how
 light creates electricity.
 This *photoelectric effect* is the basis of solar panels, for instance.
 Briefly, the idea is as follows.
@@ -148,4 +148,5 @@ polarization, then almost no light will get through, since the chance
 of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
 
-
+Since we can see through sunglasses, something else must be
+happening. One option is that
