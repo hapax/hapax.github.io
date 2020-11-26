@@ -151,11 +151,11 @@ of getting this exact polarization is miniscule.
 We wouldn't be able to see through polarizing sunglasses at all!
 Since we can see through sunglasses, something else must be
 happening.
+We can use intensity to help us understand.
 
 ---
 
-**Exercise 2.** To help us understand, remember that intensity tells
-us how many photons there are.
+**Exercise 2.** Remember that intensity tells us how many photons there are.
 You can install a lightmeter app on your smartphone that measures
 intensity, so you can tell how many photons are getting through.
 Now, let's do an experiment!
@@ -176,7 +176,7 @@ measure the intensity, $I_2$.
 
 Your experiment should show that the intensity drops by *half* after
 the first pair, and should be approximately the same after the second.
-In other words, half the photons are blocked, but then most get
+In other words, half the photons are blocked, and then most get
 through!
 
 #### 2.3. The law of Malus <a id="sec-2-3" name="sec-2-3"></a>
