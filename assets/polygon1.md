@@ -19,18 +19,18 @@ function setup() {
   createCanvas(400, 400);
   
   input1 = createInput();
-  input1.position(30, 45);
+  input1.position(30, 50);
   input1.size(50);
   
   input2 = createInput();
-  input2.position(30, 65);
+  input2.position(30, 70);
   input2.size(50);
   
   greeting1 = createElement('h3', 'd=');
-  greeting1.position(8, 26);
+  greeting1.position(8, 31);
   
   greeting2 = createElement('h3', 's=');
-  greeting2.position(10, 46);
+  greeting2.position(10, 51);
 }
 
 function draw() {
