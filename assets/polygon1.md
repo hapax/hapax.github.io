@@ -43,6 +43,12 @@ function draw() {
   strokeWeight(2);
   stroke(0);
   polygon(height/2, width/2, rad, input1.value(), input2.value());
+
+  strokeWeight(10); // Make the points 10 pixels in size
+  point(width/2+rad, height/2);
+  stroke(255);
+  strokeWeight(6);
+  point(width/2+rad, height/2);
 }
 
 function polygon(x, y, radius, d, s) {
