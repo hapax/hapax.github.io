@@ -112,7 +112,7 @@ beach balls cannot dislodge the ball from the dip.
 
 ---
 
-### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
 
 Planck and Einstein teach us that light comes in discrete lumps.
 But there's nothing to prevent these lumps from behaving like little,
