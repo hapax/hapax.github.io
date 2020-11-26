@@ -160,13 +160,13 @@ You can install a lightmeter app on your smartphone that measures
 intensity, so you can tell how many photons are getting through.
 Now, let's do an experiment!
 
-<span style="padding-left: 20px; display:block">P1.
+<span style="padding-left: 20px; display:block">
 (a) Measure the intensity of the flashlight, $I_0$.
 Pass it through the sunglasses, and measure the intensity, $I_1$.
 	What is the ratio $I_1/I_0$?
 	</span>
 
-<span style="padding-left: 20px; display:block">P1.
+<span style="padding-left: 20px; display:block">
 (b) Now pass the light through *two* aligned pairs of sunglasses, and
 measure the intensity, $I_2$.
 	What is the ratio $I_2/I_1$?
