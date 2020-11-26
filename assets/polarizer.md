@@ -135,8 +135,8 @@ pass through.
 A simple example is the polarizing sunglasses that you can find at the
 chemist.
 
-Hidden inside the phrase "only allows certain polarizations" is a
-revolution in physics.
+Hidden inside the phrase "only allows certain polarizations to pass
+through" is a revolution in physics.
 To see why, consider the photons coming out of a flashlight.
 The polarizations are *random*, for the simple reason that the
 flashlight just heats up a filament, and creates light using random
