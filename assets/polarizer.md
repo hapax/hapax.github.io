@@ -103,8 +103,14 @@ liberate more electrons.
 It's like the waves at the beach are themselves made of beach
 balls, whose energy depends on the frequency of waves, and increasing
 the amplitude just stacks more balls on the wave.
-Balls can only collide one at a time, so a tsunami wave of low-energy
+Balls can only collide one at a time, so even a tsunami wave of low-energy
 beach balls cannot dislodge the ball from the dip.
+
+---
+
+**Exercise 1 (photoelectric effect).** Something?
+
+---
 
 ### 2.2. Flashlights and sunglasses <a id="sec-2-2" name="sec-2-2"></a>
 
@@ -117,3 +123,13 @@ To see how this happens, let's remember that according to classical
 electromagnetism, light has an electric component which wobbles up and
 down.
 The plane in which this wobbling happens is called the *polarization*.
+
+Although wobbling is a classical notion, it is still a valid property
+associated with a photon.
+Let's set up a coordinate system with the $z$-axis coinciding with the
+path of the photon, and $x$ and $y$ perpendicular to it.
+The polarization makes an angle $\theta$ with respect to the $x$-axis,
+as pictured below.
+A *polarizer* is a filter which allows only certain polarizations to
+pass through.
+A simple example is the polarizing sunglasses that you can find at the chemist.
