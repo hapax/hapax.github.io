@@ -49,7 +49,7 @@ $$
 E = hf, \quad h \sim 6.34 \times 10^{-34} \text{ J s},
 $$
 
-where $h is called *Planck's constant*.
+where $h$ is called *Planck's constant*.
 
 A few years later, Einstein used Planck's quanta to explain how
 light creates electricity.
