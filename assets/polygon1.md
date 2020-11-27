@@ -39,8 +39,8 @@ function setup() {
 function draw() {
   background(255);
   
-  strokeWeight(1);
-  stroke(100);
+  strokeWeight(2);
+  stroke(200);
   circle(height/2, width/2, 2*rad);
   
   strokeWeight(2);
