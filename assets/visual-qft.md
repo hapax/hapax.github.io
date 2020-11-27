@@ -36,4 +36,12 @@ answering, we end up building a robust computational tool called the
 
 ### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
+We have evolved in a three-dimensional world to see three-dimensional
+things.
+Directly visualizing anything in more than three dimensions, using
+axes mutually at $90^\circ$ to each other, seems out of the question.
+Our visual cortex just isn't built for that!
+But there are various hacks and workarounds, and you already
+(secretly) know about them.
+
 ### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
