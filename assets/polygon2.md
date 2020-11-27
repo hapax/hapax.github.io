@@ -84,7 +84,7 @@ function draw() {
 }
 
 function mousePressed() {
-  if ((mouseX > 40) && (mouseY > 40)) {
+  if ((mouseX > 60) && (mouseY > 60)) {
     mx.push(mouseX);
     my.push(mouseY);
   }
