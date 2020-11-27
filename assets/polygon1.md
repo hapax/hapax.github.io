@@ -48,7 +48,7 @@ function draw() {
   let myInputs = int(myTextInputs);
   len = myInputs.length;
   let s = input2.value();
-  if (copyToggle === 0) {
+  if (copyToggle + factorToggle === 0) {
     for (let i = 0; i < len; i++) {
       myCol = 255*(1-(i+1)/len);
       stroke(myCol);
@@ -61,8 +61,8 @@ function draw() {
       prod = prod*myInputs[i];
     }
     stroke(0);
-    polygon(height/2, width/2, rad, prod, input2.value(), 0);
-    if (factorToggle === 1) {
+    if (copyToggle + factorToggle === 2) {
+      polygon(height/2, width/2, rad, prod, input2.value(), 0);
       let quot = prod/myInputs[0];
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
@@ -74,6 +74,20 @@ function draw() {
         polygon(0, 0, rad, myInputs[0], input2.value(), myCol);
         pop();
       }
+    } else if (factorToggle === 1) {
+      let quot = prod/myInputs[0];
+      let angle = s * TWO_PI / prod;
+      for (let a = 0; a < quot; a++) {
+        myCol = 105+150*(1-(a+1)/quot);
+        stroke(myCol)
+        push();
+        translate(width/2,height/2);
+        rotate(a*angle);
+        polygon(0, 0, rad, myInputs[0], input2.value(), myCol);
+        pop();
+      }
+    } else if (copyToggle === 1) {
+      polygon(height/2, width/2, rad, prod, input2.value(), 0);
     }
   }
 
