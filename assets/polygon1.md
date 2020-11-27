@@ -16,6 +16,7 @@ let rad = 180;
 let input1, button1, input2, button2, greeting1, greeting2;
 let tipWidth = 3, tipHeight = 8, firstRad = 9;
 let myTextInputs, myInputs;
+let copyToggle = 1;
 
 function setup() {
   createCanvas(400, 400);
@@ -43,14 +44,15 @@ function draw() {
   circle(height/2, width/2, 2*rad);
   
   strokeWeight(2);
-
+  //stroke(0);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
   len = myInputs.length;
   s = input2.value()
   for (let i = 0; i < len; i++) {
-    stroke(255-255*(i+1)/len);
-    polygon(height/2, width/2, rad, myInputs[i], s)
+    myCol = 255-255*(i+1)/len;
+    stroke(myCol);
+    polygon(height/2, width/2, rad, myInputs[i], s, myCol);
     s = s/myInputs[i];
   }
 
@@ -61,7 +63,7 @@ function draw() {
   point(width/2+rad, height/2);
 }
 
-function polygon(x, y, radius, d, s) {
+function polygon(x, y, radius, d, s, color) {
   let angle = s * TWO_PI / d;
   beginShape();
   for (let a = 0; a < d; a++) {
@@ -75,7 +77,7 @@ function polygon(x, y, radius, d, s) {
   for (let a = 1; a < d; a++) {
     let sx = x + cos((a)*angle) * radius;
     let sy = y - sin((a)*angle) * radius;
-    fill(0);
+    fill(color);
     push();
     translate(sx, sy);
     rotate(-(a-1/2)*angle);
@@ -85,15 +87,23 @@ function polygon(x, y, radius, d, s) {
   }
 }
 
-function mouseClicked() {
-  if (tipWidth === 3) {
-    tipWidth = 0;
-    tipHeight = 0;
-    firstRad = 0;
-  } else {
-    tipWidth = 3;
-    tipHeight = 8;
-    firstRad = 6;
+function keyPressed() {
+  if (keyCode == 67) {
+    if (copyToggle === 0) {
+      copyToggle === 1;
+    } else { 
+      copyToggle === 0;
+    }  
+  } else if (keyCode == 76) {
+      if (tipWidth === 3) {
+      tipWidth = 0;
+      tipHeight = 0;
+      firstRad = 0;
+    } else {
+      tipWidth = 3;
+      tipHeight = 8;
+      firstRad = 6;
+    }
   }
 }
 
