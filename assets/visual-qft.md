@@ -14,7 +14,7 @@ date:  2020-11-27
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-*Prerequisites: basic quantum mechanics.*
+*Prerequisites: basic quantum mechanics and linear algebra.*
 
 In quantum mechanics, the state of a physical system is a vector
 $|\psi\rangle$ living in a Hilbert space $\mathcal{H}$, equipped with
