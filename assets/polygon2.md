@@ -41,7 +41,7 @@ function draw() {
     if (polyToggle === 1) {
       for (let i = 0; i < len-1; i++) {
         strokeWeight(1);
-        stroke(230);
+        stroke(130);
         line(mx[i], my[i], mx[i+1], my[i+1]);
       }
       line(mx[len-1], my[len-1], mx[0], my[0]);
@@ -60,11 +60,11 @@ function draw() {
     for (let i = 0; i < len; i++) {
       let sumx = 0, sumy = 0;
       let angle = DFToggle * input.value() * TWO_PI / len;
-      rotx[i] = mx[i] * cos(i * angle) - my[i] * sin(i * angle);
-      roty[i] = mx[i] * sin(i * angle) + my[i] * cos(i * angle);
+      rotx[i] = (mx[i]-width/2) * cos(i * angle) - (my[i]-height/2) * sin(i * angle);
+      roty[i] = (mx[i]-width/2) * sin(i * angle) + (my[i]-height/2) * cos(i * angle);
       for (let j = 0; j < i+1; j++) {
-        sumx = sumx + (rotx[j] - width/2);
-        sumy = sumy + (roty[j] - height/2);
+        sumx = sumx + rotx[j];
+        sumy = sumy + roty[j];
       }
       Mx[i] = sumx + width/2;
       My[i] = sumy + height/2;
