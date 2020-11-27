@@ -20,11 +20,11 @@ function setup() {
   createCanvas(400, 400);
   
   input = createInput();
-  input.position(30, 30);
+  input.position(30, 50);
   input.size(50);
   
   greeting = createElement('h3', 's=');
-  greeting.position(8, 11);
+  greeting.position(8, 31);
   }
 
 function draw() {
@@ -84,8 +84,10 @@ function draw() {
 }
 
 function mousePressed() {
-  mx.push(mouseX);
-  my.push(mouseY);
+  if ((mouseX > 40) && (mouseY > 40)) {
+    mx.push(mouseX);
+    my.push(mouseY);
+  }
 }
 
 function keyPressed() {
