@@ -57,19 +57,19 @@ function polygon(x, y, radius, d, s) {
   beginShape();
   for (let a = 0; a < d; a++) {
     let sx = x + cos(a*angle) * radius;
-    let sy = y + sin(a*angle) * radius;
+    let sy = y - sin(a*angle) * radius;
     vertex(sx, sy);
   }
   endShape(CLOSE);
 
   let compAngle = PI - TWO_PI / d;
   for (let a = 0; a < d; a++) {
-    let sx = x + cos(a*angle) * radius;
-    let sy = y + sin(a*angle) * radius;
+    let sx = x + cos((a)*angle) * radius;
+    let sy = y - sin((a)*angle) * radius;
     fill(0);
     push();
     translate(sx, sy);
-    rotate((a+1/2)*angle);
+    rotate(-(a-1/2)*angle);
     triangle(0, 0, tipWidth, tipHeight, -tipWidth, tipHeight);
     pop();
     noFill();
