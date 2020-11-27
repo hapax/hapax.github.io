@@ -14,7 +14,7 @@ date:  2020-11-26
 
 let firstRad = 6, rad = 180;
 let mx = [], my = [], Mx = [], My = [];
-let input1, greeting, sumToggle = 0;
+let input1, greeting, linkageToggle = 0;
 
 function setup() {
   createCanvas(400, 400);
@@ -37,7 +37,7 @@ function draw() {
   point(height/2, width/2);
   
   let len = mx.length;
-  if (sumToggle === 0) {
+  if (linkageToggle === 0) {
     for (let i = 0; i < len; i++) {
       strokeWeight(2);
       stroke(200, 0, 0);      
@@ -57,11 +57,11 @@ function mousePressed() {
 }
 
 function keyPressed() {
-  if (keyCode == 83) {
-    if (sumToggle === 0) {
-      sumToggle = 1;
+  if (keyCode == 76) {
+    if (linkageToggle === 0) {
+      linkageToggle = 1;
     } else { 
-      sumToggle = 0;
+      linkageToggle = 0;
     }  
   }
 }

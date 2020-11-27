@@ -136,7 +136,7 @@ function keyPressed() {
     } else { 
       factorToggle = 0;
     }  
-  } else if (keyCode == 76) {
+  } else if (keyCode == 84) {
       if (tipWidth === 3) {
       tipWidth = 0;
       tipHeight = 0;
