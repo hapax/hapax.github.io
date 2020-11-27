@@ -16,7 +16,7 @@ let rad = 180;
 let input1, button1, input2, button2, greeting1, greeting2;
 let tipWidth = 3, tipHeight = 8, firstRad = 9;
 let myTextInputs, myInputs;
-let copyToggle = 1;
+let copyToggle = 0, factorToggle = 0;
 
 function setup() {
   createCanvas(400, 400);
@@ -44,16 +44,24 @@ function draw() {
   circle(height/2, width/2, 2*rad);
   
   strokeWeight(2);
-  //stroke(0);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
   len = myInputs.length;
   s = input2.value()
-  for (let i = 0; i < len; i++) {
-    myCol = 255-255*(i+1)/len;
-    stroke(myCol);
-    polygon(height/2, width/2, rad, myInputs[i], s, myCol);
-    s = s/myInputs[i];
+  if (copyToggle === 0) {
+    for (let i = 0; i < len; i++) {
+      myCol = 255*(1-(i+1)/len);
+      stroke(myCol);
+      polygon(height/2, width/2, rad, myInputs[i], s, myCol);
+      s = s/myInputs[i];
+    } 
+  } else {
+    let prod = 1;
+    for (let i = 0; i < len; i++) {
+      prod = prod*myInputs[i];
+    }
+    stroke(0);
+    polygon(height/2, width/2, rad, prod, s, 0);
   }
 
   strokeWeight(firstRad*(5/3));
@@ -90,9 +98,15 @@ function polygon(x, y, radius, d, s, color) {
 function keyPressed() {
   if (keyCode == 67) {
     if (copyToggle === 0) {
-      copyToggle === 1;
+      copyToggle = 1;
     } else { 
-      copyToggle === 0;
+      copyToggle = 0;
+    }  
+  } else if (keyCode == 70) {
+    if (factorToggle === 0) {
+      factorToggle = 1;
+    } else { 
+      factorToggle = 0;
     }  
   } else if (keyCode == 76) {
       if (tipWidth === 3) {
