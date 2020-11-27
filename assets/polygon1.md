@@ -13,7 +13,7 @@ date:  2020-11-26
 <script>
 
 let rad = 180;
-let input1, button1, input2, button2, greeting1, greeting2;
+let input1, input2, greeting1, greeting2;
 let tipWidth = 3, tipHeight = 8, firstRad = 9;
 let myTextInputs, myInputs;
 let copyToggle = 0, factorToggle = 0;
