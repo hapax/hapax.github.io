@@ -17,8 +17,7 @@ date:  2020-11-27
 *Prerequisites: basic quantum mechanics and linear algebra.*
 
 In quantum mechanics, the state of a physical system is a vector
-$|\psi\rangle$ living in a Hilbert space $\mathcal{H}$, equipped with
-an inner product and other goodies.
+$|\psi\rangle$ living in a Hilbert space $\mathcal{H}$.
 The computational magic of the quantum arises from multiple sources,
 but chief among these is the fact that *Hilbert space is huge*.
 A set of $n$ classical bits can be viewed as an $n$-dimensional
