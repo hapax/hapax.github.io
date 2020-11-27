@@ -77,6 +77,7 @@ function draw() {
     }
   }
 
+  stroke(0);
   strokeWeight(firstRad*(5/3));
   point(width/2+rad, height/2);
   stroke(255);
