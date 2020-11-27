@@ -66,7 +66,7 @@ function draw() {
       let quot = prod/myInputs[0];
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
-        myCol = 255*(1-(a+1)/quot);
+        myCol = 105+150*(1-(a+1)/quot);
         stroke(myCol)
         push();
         translate(width/2,height/2);
