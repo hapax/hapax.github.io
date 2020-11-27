@@ -70,10 +70,16 @@ function draw() {
       My[i] = sumy + height/2;
     }
     strokeWeight(2);
-    stroke(0, 0, 200); 
+    stroke(0, 200, 200); 
     line(width/2, height/2,Mx[0],My[0]);
     for (let i = 0; i < len-1; i++) {
       line(Mx[i],My[i],Mx[i+1],My[i+1]);
+    }
+    
+    if (DFToggle === 1) {
+      strokeWeight(2);
+      stroke(0, 0, 200);
+      line(width/2, height/2, Mx[len-1],My[len-1]);
     }
     strokeWeight(firstRad*(5/3));
     point(Mx[len-1],My[len-1]);
