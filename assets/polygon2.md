@@ -20,11 +20,11 @@ function setup() {
   createCanvas(400, 400);
   
   input = createInput();
-  input.position(30, 50);
+  input.position(30, 30);
   input.size(50);
   
   greeting = createElement('h3', 's=');
-  greeting.position(8, 31);
+  greeting.position(8, 11);
   }
 
 function draw() {
