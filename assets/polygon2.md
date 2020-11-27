@@ -13,8 +13,8 @@ date:  2020-11-26
 <script>
 
 let firstRad = 6, rad = 180;
-let mx = [], my = [], Mx = [], My = [];
-let input1, greeting, linkageToggle = 0;
+let mx = [], my = [], rotx = [], roty = [], Mx = [], My = [];
+let input1, greeting, linkageToggle = 0, polyToggle = 0, DFToggle=0;
 
 function setup() {
   createCanvas(400, 400);
@@ -23,8 +23,8 @@ function setup() {
   input.position(30, 50);
   input.size(50);
   
-  greeting1 = createElement('h3', 's=');
-  greeting1.position(8, 31);
+  greeting = createElement('h3', 's=');
+  greeting.position(8, 31);
   }
 
 function draw() {
@@ -33,11 +33,19 @@ function draw() {
   strokeWeight(2);
   stroke(200);
   circle(height/2, width/2, 2*rad);
-  strokeWeight(6);
+  strokeWeight(12);
   point(height/2, width/2);
   
   let len = mx.length;
   if (linkageToggle === 0) {
+    if (polyToggle === 1) {
+      for (let i = 0; i < len-1; i++) {
+        strokeWeight(1);
+        stroke(230);
+        line(mx[i], my[i], mx[i+1], my[i+1]);
+      }
+      line(mx[len-1], my[len-1], mx[0], my[0]);
+    }
     for (let i = 0; i < len; i++) {
       strokeWeight(2);
       stroke(200, 0, 0);      
@@ -48,6 +56,30 @@ function draw() {
       strokeWeight(firstRad);
       point(mx[i], my[i]);
     }
+  } else if (linkageToggle === 1) {
+    for (let i = 0; i < len; i++) {
+      let sumx = 0, sumy = 0;
+      let angle = DFToggle * input.value() * TWO_PI / len;
+      rotx[i] = mx[i] * cos(i * angle) - my[i] * sin(i * angle);
+      roty[i] = mx[i] * sin(i * angle) + my[i] * cos(i * angle);
+      for (let j = 0; j < i+1; j++) {
+        sumx = sumx + (rotx[j] - width/2);
+        sumy = sumy + (roty[j] - height/2);
+      }
+      Mx[i] = sumx + width/2;
+      My[i] = sumy + height/2;
+    }
+    strokeWeight(2);
+    stroke(0, 0, 200); 
+    line(width/2, height/2,Mx[0],My[0]);
+    for (let i = 0; i < len-1; i++) {
+      line(Mx[i],My[i],Mx[i+1],My[i+1]);
+    }
+    strokeWeight(firstRad*(5/3));
+    point(Mx[len-1],My[len-1]);
+    stroke(255);
+    strokeWeight(firstRad);
+    point(Mx[len-1],My[len-1]);
   }
 }
 
@@ -62,6 +94,18 @@ function keyPressed() {
       linkageToggle = 1;
     } else { 
       linkageToggle = 0;
+    }  
+  } else if (keyCode == 80) {
+    if (polyToggle === 0) {
+      polyToggle = 1;
+    } else { 
+      polyToggle = 0;
+    }  
+  } else if (keyCode == 84) {
+    if (DFToggle === 0) {
+      DFToggle = 1;
+    } else { 
+      DFToggle = 0;
     }  
   }
 }
