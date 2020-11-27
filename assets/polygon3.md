@@ -1,6 +1,6 @@
 ---
 layout: plain
-title:  "Polygonal basis elements"
+title:  "Basic copygons"
 date:  2020-11-26
 ---
 
@@ -16,6 +16,7 @@ let rad = 180;
 let input1, button1, input2, button2, greeting1, greeting2;
 let tipWidth = 3, tipHeight = 8, firstRad = 9;
 let myTextInputs, myInputs;
+let copyToggle = 1;
 
 function setup() {
   createCanvas(400, 400);
@@ -27,6 +28,14 @@ function setup() {
   input2 = createInput();
   input2.position(30, 70);
   input2.size(50);
+  
+  button = createButton('copy');
+  button.position(30, 110)
+  button.mousePressed(copyGon);
+  
+  button = createButton('label');
+  button.position(30, 90)
+  button.mousePressed(tips);
   
   greeting1 = createElement('h3', 'd=');
   greeting1.position(8, 31);
@@ -43,14 +52,14 @@ function draw() {
   circle(height/2, width/2, 2*rad);
   
   strokeWeight(2);
-
+  //stroke(0);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
   len = myInputs.length;
   s = input2.value()
   for (let i = 0; i < len; i++) {
     stroke(255-255*(i+1)/len);
-    polygon(height/2, width/2, rad, myInputs[i], s)
+    polygon(height/2, width/2, rad, myInputs[i], s);
     s = s/myInputs[i];
   }
 
@@ -85,7 +94,7 @@ function polygon(x, y, radius, d, s) {
   }
 }
 
-function mouseClicked() {
+function tips() {
   if (tipWidth === 3) {
     tipWidth = 0;
     tipHeight = 0;
@@ -94,6 +103,14 @@ function mouseClicked() {
     tipWidth = 3;
     tipHeight = 8;
     firstRad = 6;
+  }
+}
+
+function copyGon() {
+  if (copyToggle === 0) {
+    copyToggle === 1;
+  } else { 
+    copyToggle === 0;
   }
 }
 
