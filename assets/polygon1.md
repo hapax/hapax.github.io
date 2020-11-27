@@ -14,7 +14,7 @@ date:  2020-11-26
 
 let rad = 180;
 let input1, button1, input2, button2, greeting1, greeting2;
-let tipWidth = 5, tipHeight = 15, firstRad = 9;
+let tipWidth = 3, tipHeight = 8, firstRad = 9;
 
 function setup() {
   createCanvas(400, 400);
@@ -77,13 +77,13 @@ function polygon(x, y, radius, d, s) {
 }
 
 function mouseClicked() {
-  if (tipWidth === 5) {
+  if (tipWidth === 3) {
     tipWidth = 0;
     tipHeight = 0;
     firstRad = 0;
   } else {
-    tipWidth = 5;
-    tipHeight = 15;
+    tipWidth = 3;
+    tipHeight = 8;
     firstRad = 6;
   }
 }
