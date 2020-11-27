@@ -14,6 +14,7 @@ date:  2020-11-26
 
 let rad = 180;
 let input1, button1, input2, button2, greeting1, greeting2;
+let tipWidth = 5, tipHeight = 15;
 
 function setup() {
   createCanvas(400, 400);
@@ -44,7 +45,7 @@ function draw() {
   stroke(0);
   polygon(height/2, width/2, rad, input1.value(), input2.value());
 
-  strokeWeight(10); // Make the points 10 pixels in size
+  strokeWeight(10);
   point(width/2+rad, height/2);
   stroke(255);
   strokeWeight(6);
@@ -60,6 +61,19 @@ function polygon(x, y, radius, d, s) {
     vertex(sx, sy);
   }
   endShape(CLOSE);
+
+  let compAngle = PI - TWO_PI / d;
+  for (let a = 0; a < d; a++) {
+    let sx = x + cos(a*angle) * radius;
+    let sy = y + sin(a*angle) * radius;
+    fill(0);
+    push();
+    translate(sx, sy);
+    rotate((a+1/2)*angle);
+    triangle(0, 0, tipWidth, tipHeight, -tipWidth, tipHeight);
+    pop();
+    noFill();
+  }
 }
 
 </script>
