@@ -24,8 +24,8 @@ vectors space (over a finite field $\mathbb{F}_2$), with $n$ basis vectors.
 A set of $n$ *quantum* bits also gives rise to vector space, but every
 single $n$-bit string is now a basis vector, so it has $2^n$ basis
 vectors and is exponentially larger.
-(It also is over an infinitely bigger field $\mathbb{C}$, but this turns out
-to be less useful than the exponential increase in dimension.)
+It also is over an infinitely bigger field $\mathbb{C}$, but the rules
+of quantum mechanics make this less useful than the exponential increase in dimension.
 
 Figuring out how to use this exponential increase for physics and
 computer science is an ongoing question.
