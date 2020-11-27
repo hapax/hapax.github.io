@@ -18,8 +18,7 @@ date:  2020-11-27
 
 In quantum mechanics, the state of a physical system is a vector
 $|\psi\rangle$ living in a Hilbert space $\mathcal{H}$.
-The computational magic of the quantum arises from multiple sources,
-but chief among these is the fact that *Hilbert space is huge*.
+There are many sources of quantum computational magic, but chief among these is the fact that *Hilbert space is huge*.
 A set of $n$ classical bits can be viewed as an $n$-dimensional
 vectors space (over a finite field $\mathbb{F}_2$), with $n$ basis vectors.
 A set of $n$ *quantum* bits also gives rise to vector space, but every
