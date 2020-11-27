@@ -14,7 +14,7 @@ date:  2020-11-26
 
 let firstRad = 6, rad = 180;
 let mx = [], my = [], rotx = [], roty = [], Mx = [], My = [];
-let input1, greeting, linkageToggle = 0, polyToggle = 0, DFToggle=0;
+let input1, linkageToggle = 0, polyToggle = 0, DFToggle=0;
 
 function setup() {
   createCanvas(400, 400);
@@ -22,9 +22,6 @@ function setup() {
   input = createInput();
   input.position(30, 50);
   input.size(50);
-  
-  greeting = createElement('h3', 's=');
-  greeting.position(8, 31);
   }
 
 function draw() {
@@ -37,6 +34,11 @@ function draw() {
   point(height/2, width/2);
   
   let len = mx.length;
+  strokeWeight(0);
+  textSize(18);
+  text('d= ' + str(mx.length), 7, 45);
+  text('s= ', 8, 67)
+  
   if (linkageToggle === 0) {
     if (polyToggle === 1) {
       for (let i = 0; i < len-1; i++) {
