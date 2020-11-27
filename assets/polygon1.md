@@ -63,7 +63,7 @@ function polygon(x, y, radius, d, s) {
   endShape(CLOSE);
 
   let compAngle = PI - TWO_PI / d;
-  for (let a = 0; a < d; a++) {
+  for (let a = 1; a < d; a++) {
     let sx = x + cos((a)*angle) * radius;
     let sy = y - sin((a)*angle) * radius;
     fill(0);
