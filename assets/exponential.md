@@ -52,7 +52,7 @@ I could split the year into $n$ equal lengths, and use those to
 compound interest, i.e. recalculate the next instalment based on the
 current value, including the interest generated so far.
 Let's call this value $I_{\text{comp}(n)}$.
-As $n$ increases, so will the total value $I_{\text{compound}(n)}$ of
+As $n$ increases, so will the total value $I_{\text{comp}(n)}$ of
 our investment, and in fact it has the value
 
 $$
