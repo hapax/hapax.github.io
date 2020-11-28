@@ -93,4 +93,7 @@ $$
 I_{\text{comp}(n)} \to e^r I_0.
 $$
 
+*Hint.* Consider redefining $n$ so that the interest term looks more
+ like the definition of $e$.
+
 ---
