@@ -156,7 +156,15 @@ is the number of ways of choosing $k$ from $n$ objects, also called a
 I'm going to assume you know about binomial coefficients, but not
 necessarily the binomial theorem.
 But if you know about binomial coefficients, the theorem is easy!
-
+When we expand $(1+x)^n$, we can generate terms by choosing either $1$
+or $x$ in each factor.
+To obtain a term $x^k$, in $k$ factors we choose $x$, and in the
+remaining factors we choose $1$.
+We add all our choices together to get the final answer, so the total
+number of ways to get $x^k$ (and hence the coefficient) is just the
+number of ways we can choose $k$ from a total of $n$ factors,
+$\binom{n}{k}$.
+Done!
 
 #### Small changes
 
