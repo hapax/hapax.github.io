@@ -137,7 +137,8 @@ $$
 These are different polynomials, but the first two terms are the same.
 More generally, we can ask: what do the polynomials $(1+x/n)^n$ look
 like?
-And do terms look the same as $n$ gets large?
+And do coefficients, like the $1$ multiplying $x$, always "stabilize" as $n$
+gets large?
 Our tool to explore this will be the *binomial theorem*.
 This states that
 
