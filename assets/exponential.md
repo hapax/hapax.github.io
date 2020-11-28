@@ -117,7 +117,8 @@ e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
 $$
 
 In the rest of this post, we will explore a few of its remarkable
-properties and applications using an elementary approach.
+properties and applications, from an elementary, pre-calculus
+viewpoint.
 
 #### A very large polynomial
 
