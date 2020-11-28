@@ -131,7 +131,7 @@ $$
 With a bit more labour, we can expand out the term for $n = 3$:
 
 $$
-\left(1 + \frac{x{3}\right)^3 = 1 + x + \frac{x^2}{3} + \frac{x^3}{27}.
+\left(1 + \frac{x}{3}\right)^3 = 1 + x + \frac{x^2}{3} + \frac{x^3}{27}.
 $$
 
 These are different polynomials, but the first two terms are the same.
