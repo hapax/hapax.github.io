@@ -79,7 +79,7 @@ it settles to a finite value.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/exp-plot.png" width="50%"/>
+    ="/images/posts/exp-plot.png"/>
 	</div>
 	</figure>
 
