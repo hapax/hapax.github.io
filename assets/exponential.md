@@ -76,25 +76,25 @@ Proving this actually rather difficult, but it's easy to see with a
 computer.
 We can just plot $(1+r/n)^n$ for increasingly large $n$ and see that
 it settles to a finite value.
-We'll come back to a proof later.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/exp-plot.png" width="50%"/>
-		    <figcaption><i>A plot of our limit for *r* = 1.</i></figcaption>
 	</div>
 	</figure>
 
+We show a few values for $r = 1$ above.
+For large $n$, say a million, we get a number $2.71828...$.
+Assuming it does converge, we use the $r =1$ limit to define the
+famous mathematical constant $e$:
+
+$$
+e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n \approx 2.781828.
+$$
+
 ---
 
-*Exercise 1.* We define the mathematical constant $e$ by
-
-$$
-e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n.
-$$
-
-Using numerics, you can find 
-Show that in the limit of "continuous" compound interest, i.e. large
+*Exercise 1.* Show that in the limit of "continuous" compound interest, i.e. large
 $n$, the total value of our principal $I_0$ at the end of the year is
 
 $$
