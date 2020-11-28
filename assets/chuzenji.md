@@ -16,7 +16,7 @@ the Akechidaira plateau, you come to a small town wedged
 between a sacred lake and a sacred mountain.
 Chuzenjiko (中禅寺湖) translates to "lake of
 the Chinese zen temple", while the mountain, Nantai (男体), means "man's body".
-In a perversely literal obedience to the moutain's name, for over a thousand
+In a perverse literalism, for over a thousand
 years, the region was closed to horses, women, and cows.
 
 The town is sometimes called Chuzenji, sometimes Okunikko (奥日光, "inner
@@ -24,43 +24,44 @@ Nikko"), and even in this ambiguity seems more defined by its proximity to other
 any properties of its own.
 It is in between, or nearby, but never "here". The day my bus
 rolls up the mountain and into the carpark, it is swaddled in a
-blanket of fog and almost invisible; in all directions but nowhere to be seen.
+blanket of fog and almost invisible, in all directions but nowhere to be seen.
 Initially, Chuzenji was no more than a pitstop on my way to the Senjogahara
 marshland, a sprawling plain of hare's-tail cottongrass and rambling
 boardwalks 1400 meters above sea level and 20 minutes down the road.
-But the mass of cloud has settled onto the wetland as well as the lake,
-extinguishing my plans for a hike. I decide to explore the town instead.
+But the mass of cloud has settled onto wetland and lake,
+dampening my plans for a hike. I decide to explore the town instead.
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake3.png" />
 </div>
 </figure>
 
-Chuzenji is strung out in a loose "V" between two waterfalls and the
-eponymous buddhist temple, and clutters the
+Chuzenji forms a loose "V" between two waterfalls and the
+eponymous buddhist temple, cluttering the
 intervening lakeside with jetties, hotels, souvenir stores,
 embassies, and mom-and-pop kitchens, in various states of closure and disrepair.
 Off-season it may be, but for the lugubrious pensions and noodle
 shops, it is off-season forever.
 With its qualities of supernumerary variety and fantastic decay,
 Chuzenji reminds me of flotsam, washed up on the shore by the 80s boom
-and left to rot in the "lost decade" of the 90s, with its sharp
-decline in liquidity and domestic tourism.
+and left to rot in the downturn of the 90s.
+<!-- , with its sharp decline in liquidity and domestic tourism.-->
 These crumbling facades chart not only the ravages of time, but the rise and fall of the Nikkei.
 
 By the cruise terminal, I pause and imagine the 80s daytrippers pouring in
 from the suburbs of Tokyo, all chinos and sweatpants and big hair.
-I zoom in on one family: a mother, father, a boy and a girl. <!-- two sisters and a younger brother.-->
-They are restless after the bus ride and now flit wordlessly about the
-streets to watch the glassblower at work, or unironically chow down on Nikko
-World Heritage Cheese Eggs.
-After some negotiation (Okaasan wants to visit the temple), they
+<!-- I zoom in on one family: a mother, father, a boy and a girl. <!-- -->
+<!-- two sisters and a younger brother. They are restless after the bus ride and now -->
+They flit wordlessly about the streets to watch the glassblower at
+work, unironically chow down on Nikko World Heritage Cheese Eggs, and
+take a turn on the cygnine pleasure crafts.
+<!-- After some negotiation (Okaasan wants to visit the temple), they
 take two of the cygnine pleasure crafts for a whirl on the lake, and Otousan
 falls in the water, to the accompaniment of pure, guileless laughter.
-Better times.
-Of course, it is all a mirage, like a Coke ad or an asset price
+Better times. Of course, it is all a mirage, like a Coke ad or an asset price
 bubble, shattered in this instance by the headless swan which suddenly
-looms at me out of the mist.
+looms at me out of the mist.-->
+The fantasy 
 
 <figure>
     <div style="text-align:center"><img src ="/images/photos/lake2v2.png" />
@@ -72,7 +73,7 @@ Along the main road is *Lake Garden* (レイク・ガ－デ ン), a sprawling
 complex once offering travellers the threefold amenity of *omiyage* (souvenirs),
 teppanyaki, and hotel.
 Long abandoned, it now offers little more than a dereliction of weeds,
-rust, and lace curtains that horror auteur Hideo Nakata could get behind.
+rust, and lace curtains out of a horror film. <!-- that horror auteur Hideo Nakata could get behind.-->
 In the ghostlight of times past, the family troops into the
 restaurant and Otousan relishingly helps himself to three huge slices of Kobe beef,
 while Oneesan, a light eater, watches on with disapproving fascination.
@@ -107,12 +108,12 @@ It is altogether less disquieting than the toad, or the swan, more
 explicable, and with its air of quiet alertness and rustic handicraft,
 sounds a comforting note.
 
+#### Old stuff
+
 But I suspect these distinctions and categories are Occidental,
 belonging to me and not to the objects themselves.
 There is a secret oneness between the animals, some thread which ties
 them together, and to the fate of the town, but which is as yet obscure to me.
-
-#### Old stuff
 
 It is a guard rather than a sphinx or an apparition beneath a well.
 But these Occidental distinctions and categories seem to miss
