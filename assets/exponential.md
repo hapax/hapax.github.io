@@ -68,5 +68,6 @@ some finite value?
 Mathematically, this is just the question:
 
 $$
-\lim_{n\to \infty}\left(1 + \frac{r}{n}\right)^n = ?
+\lim_{n\to \infty}\left(1 + \frac{r}{n}\right)^n = \,\,?
 $$
+
