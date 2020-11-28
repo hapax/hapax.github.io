@@ -184,11 +184,13 @@ $$
 For $k \leq n$, the coefficient of $x^k$ is
 
 $$
-\binom{n}{k}\frac{x^k}{n^k} = \left(\frac{n!}{(n-k)! n^k}\right) \frac{x^k}{k!},
+\binom{n}{k}\frac{x^k}{n^k} = \left[\frac{n!}{(n-k)! n^k}\right] \frac{x^k}{k!},
 $$
 
 where we've separated it into a part which depends on $n$ and a part
 which doesn't.
+Let's focus on the stuff which depends on $n$, and see if we can
+understand what happens when $n$ gets large.
 
 #### Small changes
 
