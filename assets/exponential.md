@@ -52,4 +52,21 @@ I could split the year into $n$ equal lengths, and use those to
 compound interest, i.e. recalculate the next instalment based on the
 current value, including the interest generated so far.
 Let's call this value $I_{\text{compound}(n)}$.
-As $n$ increases, so will the total value
+As $n$ increases, so will the total value $I_{\text{compound}(n)}$ of
+our investment, and in fact it has the value
+
+$$
+I_{\text{compound}(n)} = \left(1 + \frac{r}{n}\right)^n I_0
+$$
+
+since the interest rate for any period is $r/n$, so we multiply by
+$1 + r/n$ at the end of each period.
+A natural question is: how big can the interest at the end of the year
+get?
+Will it get infinitely large as I make $n$ large, or will it approach
+some finite value?
+Mathematically, this is just the question:
+
+$$
+\lim_{n\to \infty}\left(1 + \frac{r}{n}\right)^n = ?
+$$
