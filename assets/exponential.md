@@ -194,9 +194,11 @@ understand what happens when $n$ gets large.
 We can write
 
 $$
-\frac{n!}{(n-k)! n^k} = \frac{n \times (n-1) \times \cdots \times
-(n-k+ 1)}{n^k} = \frac{n}{n} \times \frac{n-1}{n} \times \frac{n-2}{n}
+\begin{align*}
+\frac{n!}{(n-k)! n^k} & = \frac{n \times (n-1) \times \cdots \times
+(n-k+ 1)}{n^k} \\ & = \frac{n}{n} \times \frac{n-1}{n} \times \frac{n-2}{n}
 \times \cdots \times \frac{n-k + 1}{n},
+\end{align*}
 $$
 
 where we've paired the factors of $n$ downstairs with factors of
