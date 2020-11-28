@@ -147,7 +147,7 @@ Our tool to explore this will be the *binomial theorem*.
 This states that
 
 $$
-(1 + x)^n = 1 + \binom{n}{1}x + \binom{n}{2}x^2 + \cdots + \binom{n}{n}x^n,
+(1 + X)^n = 1 + \binom{n}{1}X + \binom{n}{2}X^2 + \cdots + \binom{n}{n}X^n,
 $$
 
 where
@@ -162,22 +162,33 @@ I'm going to assume you know about binomial coefficients, but not
 necessarily the binomial theorem.
 But if you know about binomial coefficients, the theorem is easy!
 
-When we expand $(1+x)^n$, we can generate terms by choosing either $1$
-or $x$ in each factor.
-To obtain a term $x^k$, in $k$ factors we choose $x$, and in the
+When we expand $(1+X)^n$, we can generate terms by choosing either $1$
+or $X$ in each factor.
+To obtain a term $X^k$, in $k$ factors we choose $X$, and in the
 remaining factors we choose $1$.
 We add all our choices together to get the final answer, so the total
-number of ways to get $x^k$ (and hence the coefficient) is just the
+number of ways to get $X^k$ (and hence the coefficient) is just the
 number of ways we can choose $k$ from a total of $n$ factors,
 $\binom{n}{k}$.
 Done!
 Now we can figure out what the coefficient of $x^k$ looks like in
 $p_n(x)$.
-By the binomial theorem,
+Setting $X = x/n$ in the binomial theorem, we find that
 
 $$
-p_n(x) = \left(1 + \frac{x}{n}\right)^n = 1 + \binom{n}{1}\frac{x}{n} + \binom{n}{2}\frac{x^2}{n^2} + \cdots + \binom{n}{n}\frac{x^n}{n^n}.
+p_n(x) = \left(1 + \frac{x}{n}\right)^n = 1 +
+\binom{n}{1}\frac{x}{n} + \binom{n}{2}\frac{x^2}{n^2} + \cdots +
+\binom{n}{n}\frac{x^n}{n^n}.
 $$
+
+For $k \leq n$, the coefficient of $x^k$ is
+
+$$
+\binom{n}{k}\frac{x^k}{n^k} = \left(\frac{n!}{(n-k)! n^k}\right) \frac{x^k}{k!},
+$$
+
+where we've separated it into a part which depends on $n$ and a part
+which doesn't.
 
 #### Small changes
 
