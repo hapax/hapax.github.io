@@ -8,8 +8,8 @@ date:  2020-11-28
 ---
 
 **November 28, 2020.** *I discuss some of the key properties of the
-  exponential function without (explicitly) invoking calculus,
-  starting with its relation to compound interest. From there, we
+  exponential function without (explicitly) invoking calculus.
+  Starting with its relation to compound interest, we
   learn about its series expansion, Euler's formula, the sum of
   all positive numbers, and various other fun facts.*
 
