@@ -156,6 +156,7 @@ is the number of ways of choosing $k$ from $n$ objects, also called a
 I'm going to assume you know about binomial coefficients, but not
 necessarily the binomial theorem.
 But if you know about binomial coefficients, the theorem is easy!
+
 When we expand $(1+x)^n$, we can generate terms by choosing either $1$
 or $x$ in each factor.
 To obtain a term $x^k$, in $k$ factors we choose $x$, and in the
