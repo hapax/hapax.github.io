@@ -196,8 +196,9 @@ We can write
 $$
 \begin{align*}
 \frac{n!}{(n-k)! n^k} & = \frac{n \times (n-1) \times \cdots \times
-(n-k+ 1)}{n^k} \\ & = \frac{n}{n} \times \frac{n-1}{n} \times \frac{n-2}{n}
-\times \cdots \times \frac{n-k + 1}{n},
+(n-k+ 1)}{n^k} \\ & = \left(\frac{n}{n}\right) \times
+\left(\frac{n-1}{n}\right) \times \cdots \times \left(\frac{n-k +
+1}{n}\right),
 \end{align*}
 $$
 
