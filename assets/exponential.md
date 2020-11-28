@@ -129,19 +129,19 @@ elementary, pre-calculus point of view.
 Above, we expanded the term $p_2(x)$:
 
 $$
-\left(1 + \frac{x}{2}\right)^2 = 1 + x + \frac{x^2}{2}.
+p_2(x) = \left(1 + \frac{x}{2}\right)^2 = 1 + x + \frac{x^2}{4}.
 $$
 
-With a bit more labour, we can expand out the term for $n = 3$:
+With a bit more labour, we can expand out the expression for three periods, $p_3(x)$:
 
 $$
-\left(1 + \frac{x}{3}\right)^3 = 1 + x + \frac{x^2}{3} + \frac{x^3}{27}.
+p_3(x) = \left(1 + \frac{x}{3}\right)^3 = 1 + x + \frac{x^2}{3} + \frac{x^3}{27}.
 $$
 
 These are different polynomials, but the first two terms are the same.
-More generally, we can ask: what do the polynomials $(1+x/n)^n$ look
+More generally, we can ask: what do the polynomials $p_n(x) = (1+x/n)^n$ look
 like?
-And do coefficients, like the $1$ multiplying $x$, always "stabilize" as $n$
+And like the $1$ multiplying $x$, do coefficients in the polynomial $p_n(x)$ "stabilize" as $n$
 gets large?
 Our tool to explore this will be the *binomial theorem*.
 This states that
@@ -171,7 +171,13 @@ number of ways to get $x^k$ (and hence the coefficient) is just the
 number of ways we can choose $k$ from a total of $n$ factors,
 $\binom{n}{k}$.
 Done!
-Now we can figure out what 
+Now we can figure out what the coefficient of $x^k$ looks like in
+$p_n(x)$.
+By the binomial theorem,
+
+$$
+p_n(x) = \left(1 + \frac{x}{n}\right)^n = 1 + \binom{n}{1}\frac{x}{n} + \binom{n}{2}\frac{x^2}{n^2} + \cdots + \binom{n}{n}\frac{x^n}{n^n}.
+$$
 
 #### Small changes
 
