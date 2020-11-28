@@ -122,6 +122,42 @@ viewpoint.
 
 #### A very large polynomial
 
+Above, we expanded the term for $n = 2$:
+
+$$
+\left(1 + \frac{x}{2}\right)^2 = 1 + x + \frac{x^2}{2}.
+$$
+
+With a bit more labour, we can expand out the term for $n = 3$:
+
+$$
+\left(1 + \frac{x{3}\right)^3 = 1 + x + \frac{x^2}{3} + \frac{x^3}{27}.
+$$
+
+These are different polynomials, but the first two terms are the same.
+More generally, we can ask: what do the polynomials $(1+x/n)^n$ look
+like?
+And do terms look the same as $n$ gets large?
+Our tool to explore this will be the *binomial theorem*.
+This states that
+
+$$
+(1 + x)^n = 1 + \binom{n}{1}x + \binom{n}{2}x^2 + \cdots + \binom{n}{n}x^n,
+$$
+
+where
+
+$$
+\binom{n}{k} = \frac{n!}{(n-k)! k!}
+$$
+
+is the number of ways of choosing $k$ from $n$ objects, also called a
+*binomial coefficient*.
+I'm going to assume you know about binomial coefficients, but not
+necessarily the binomial theorem.
+But if you know about binomial coefficients, the theorem is easy!
+
+
 #### Small changes
 
 #### Euler's formula
