@@ -191,6 +191,16 @@ where we've separated it into a part which depends on $n$ and a part
 which doesn't.
 Let's focus on the stuff which depends on $n$, and see if we can
 understand what happens when $n$ gets large.
+We can write
+
+$$
+\frac{n!}{(n-k)! n^k} = \frac{n \times (n-1) \times \cdots \times
+(n-k+ 1)}{n^k} = \frac{n}{n} \times \frac{n-1}{n} \times \frac{n-2}{n}
+\times \cdots \times \frac{n-k + 1}{n},
+$$
+
+where we've paired the factors of $n$ downstairs with factors of
+$n!/(n-k)!$ upstairs.
 
 #### Small changes
 
