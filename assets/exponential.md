@@ -84,7 +84,8 @@ it settles to a finite value.
 	</figure>
 
 We show a few values for $r = 1$ above.
-For large $n$, say a million, we get a number $2.71828...$.
+For large $n$, say a million, we get a number $2.71828...$, plotted as
+the horizontal black line.
 Assuming it does converge, we use the $r =1$ limit to define the
 famous mathematical constant $e$:
 
