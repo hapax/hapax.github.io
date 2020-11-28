@@ -98,7 +98,7 @@ $$
 $n$, the total value of our principal $I_0$ at the end of the year is
 
 $$
-I_{\text{comp}(n)} \to e^r I_0.
+\lim_{n\to\infty} I_{\text{comp}(n)} = e^r I_0.
 $$
 
 *Hint.* Consider redefining $n$ so that the interest term looks more
