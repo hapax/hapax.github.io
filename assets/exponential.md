@@ -113,16 +113,20 @@ Assuming this limit of continuous compounding exists, we define the
 *exponential function* as
 
 $$
-e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
+e^x = \lim_{n\to\infty} p_n(x), \quad p_n(x) = \left(1 + \frac{x}{n}\right)^n.
 $$
 
-In the rest of this post, we will explore a few of its remarkable
-properties and applications, from an elementary, pre-calculus
-viewpoint.
+where for convenience, we've defined the polynomial $p_n(x) =
+(1+x/n)^n$.
+Thus, if the interest rate per annum is $r$, and we compound with $n$
+intervals, the total value at the end of the year is $p_n(r)I_0$.
+In the rest of this post, we will explore some of the remarkable
+properties and applications of the exponential function, but from an
+elementary, pre-calculus point of view.
 
 #### A very large polynomial
 
-Above, we expanded the term for $n = 2$:
+Above, we expanded the term $p_2(x)$:
 
 $$
 \left(1 + \frac{x}{2}\right)^2 = 1 + x + \frac{x^2}{2}.
@@ -167,6 +171,7 @@ number of ways to get $x^k$ (and hence the coefficient) is just the
 number of ways we can choose $k$ from a total of $n$ factors,
 $\binom{n}{k}$.
 Done!
+Now we can figure out what 
 
 #### Small changes
 
