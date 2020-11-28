@@ -93,6 +93,8 @@ $$
 e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n \approx 2.781828.
 $$
 
+We'll return to the mathematical question of convergence below.
+
 ---
 
 *Exercise 1.* Show that in the limit of "continuous" compound interest, i.e. large
@@ -106,3 +108,21 @@ $$
  like the definition of $e$.
 
 ---
+
+Assuming this limit of continuous compounding exists, we define the
+*exponential function* as
+
+$$
+e^x = \lim_{n\to\infty} \left(1 + \frac{x}{n}\right)^n.
+$$
+
+In the rest of this post, we will explore a few of its remarkable
+properties and applications using an elementary approach.
+
+#### A very large polynomial
+
+#### Small changes
+
+#### Euler's formula
+
+#### Ramanujan's mysterious sum
