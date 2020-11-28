@@ -71,3 +71,26 @@ $$
 \lim_{n\to \infty}\left(1 + \frac{r}{n}\right)^n = \,\,?
 $$
 
+It turns out this has a finite limit!
+Proving this actually rather difficult, but it's easy to see with a
+computer.
+We can just plot $(1+r/n)^n$ for increasingly large $n$ and see that
+it settles to a finite value.
+We'll come back to a proof later.
+
+---
+
+*Exercise 1.* We define the mathematical constant $e$ by
+
+$$
+e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n.
+$$
+
+Show that in the limit of "continuous" compound interest, i.e. large
+$n$, the total value of our principal $I_0$ at the end of the year is
+
+$$
+I_{\text{comp}(n)} \to e^r I_0.
+$$
+
+---
