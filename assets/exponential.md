@@ -13,7 +13,14 @@ date:  2020-11-28
   learn about its series expansion, response to small changes, Euler's
   formula, and the sum of all positive numbers.*
 
-#### Compound interest
+### Contents
+
+1. <a href="#sec-1">Compound interest</a>
+2. <a href="#sec-2">An infinite polynomial</a>
+3. <a href="#sec-3">From compound interest to small change</a>
+4. <a href="#sec-4">Euler's formula</a> 
+
+#### 1. Compound interest <a id="sec-1" name="sec-1"></a>
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
@@ -124,7 +131,7 @@ In the rest of this post, we will explore some of the remarkable
 properties and applications of the exponential function, but from an
 elementary, pre-calculus point of view.
 
-#### An infinite polynomial
+#### 2. An infinite polynomial <a id="sec-2" name="sec-2"></a>
 
 Above, we expanded the term $p_2(x)$:
 
@@ -246,7 +253,7 @@ using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal places.
 
 ---
 
-#### From compound interest to small change
+#### 3. From compound interest to small change<a id="sec-3" name="sec-3"></a> 
 
 Another unique property of the exponential is how it responds to
 small changes.
@@ -307,7 +314,7 @@ take for a single atom to decay? *Hint.* Use the formula for small changes.
 
 ---
 
-#### Euler's formula
+#### 4. Euler's formula<a id="sec-4" name="sec-4"></a>
 
 At this point, we are going to propose a remarkable reinterpretation
 of the exponential in the complex plane $\mathbb{C}$.
