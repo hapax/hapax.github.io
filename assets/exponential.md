@@ -220,9 +220,13 @@ In fact, we can view the exponential function as $p_\infty(x)$, a sort
 of infinitely large polynomial with these coefficients:
 
 $$
-e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots +
+e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \cdots +
 \frac{x^k}{k!} + \cdots
 $$
+
+It can rigorously established that the exponential function can be
+written as this infinite polynomial, also called a *power series*. But
+we will continue to play fast and loose with the rules.
 
 #### Small changes
 
