@@ -559,7 +559,7 @@ person to write it down and clearly understand it was
 Our approach, which differs from Ramanujan's, is the one used by
 physicists, and we will focus on a "physical" understanding of the equation.
 
-We need a few more elementary facts to get started.
+We need one more elementary fact to get started.
 Recall the *geometric series*, stating that if $|r| < 1$, then
 the sum of its powers is
 
@@ -576,15 +576,6 @@ s - 1 = r + r^2 + r^3 + \cdots = r (1 + r + r^2 + \cdots ) = rs \quad
 \Longrightarrow \quad s = \frac{1}{1-r}.
 $$
 
-We can turn this around and learn the following.
-If $|r| \ll 1$ is very small, then
-
-$$
-\frac{1}{1-r} = 1 + r + r^2 + \cdots \approx 1 + r,
-$$
-
-for the same reasons we gave above, namely that the higher powers in
-$r$ contribute much less.
 Now we can begin our magic show.
 First, set $r = e^{-x}$ in the geometric series:
 
@@ -634,3 +625,22 @@ $$
 e^{-3x} + \cdots.
 $$
 
+To get the sum of natural numbers on the RHS, we would like to take
+$x \to 0$, so that $e^{-x} = 1$.
+On the LHS, the denominator will go to zero, so the whole expression
+will blow up, which is what we expect.
+But we will do this a bit more carefully, keeping track of powers of
+$x$.
+First, observe that
+
+$$
+1 - e^{-x} = 1 - \left(1 - x + \frac{x^2}{2} - \frac{x^3}{6} + \cdots \right) =
+x\left(1 - \frac{x}{2} + \frac{x^3}{6} \cdots\right),
+$$
+
+and hence
+
+$$
+\frac{1}{1 - e^{-x}} = \frac{1}{x\left(1 - \frac{x}{2} +
+\cdots\right)} \approx \frac{1}{x}\left(1 + \frac{x}{2} + \cdots\right)
+$$
