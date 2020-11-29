@@ -402,7 +402,7 @@ $$
 z_n = 1 + \frac{i\theta}{n} = z_n(r_n, \theta_n).
 $$
 
-Then $e^{i\theta} = z(r_\infty, \theta_\infty)$, where
+Then the rules for multiplication give $e^{i\theta} = z(r_\infty, \theta_\infty)$, where
 
 $$
 r_\infty = \lim_{n\to\infty} r_n^n, \quad \theta_\infty = \lim_{n\to\infty} n\theta_n.
