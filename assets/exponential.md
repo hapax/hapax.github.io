@@ -226,8 +226,8 @@ $$
 
 It can rigorously established that the exponential function can be
 written as this infinite polynomial $p_\infty(x)$, also called a *power series*. But
-we will continue to play fast and loose with the rules, and ignore
-formal proofs.
+we will continue to play fast and loose with the rules, ignoring the
+messy business of formal proof.
 
 #### Small changes
 
