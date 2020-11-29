@@ -242,7 +242,7 @@ e^{x + \delta} = e^x e^{\delta} = e^x \left(1 + \delta +
 $$
 
 If $\delta$ is very small, then most of the change is captured by
-the linear term in the polynomial, $e^\delta \approx 1 + \delta,
+the linear term in the polynomial, $e^\delta \approx 1 + \delta$,
 since all the higher terms, proportional to $\delta^2, \delta^3$,
 and so on, are miniscule, since $\delta \ll 1$ implies (multiplying
 both sides by $\delta$) that $\delta^2 \ll \delta$, and so on.
@@ -260,6 +260,10 @@ $$
 e^{x+\delta} - e^x \approx e^x
 \left[(1 + \delta) - 1\right] = \delta e^x.
 $$
+
+So the response to a small change is *proportional to the function
+itself*.
+As a simple example, $$
 
 #### Euler's formula
 
