@@ -585,3 +585,7 @@ $$
 
 for the same reasons we gave above, namely that the higher powers in
 $r$ contribute much less.
+This, along with the results on the exponential we have given so far,
+are all we need.
+
+
