@@ -626,11 +626,11 @@ s_{x} - s_{x+\delta} & = \frac{1}{1-e^{-x}} -
 \end{align*}
 $$
 
-Equating our two expressions and dividing by $\delta$, we get the
-equation
+Equating our two expressions, dividing by $\delta$, and setting
+$\delta = 0$, we get the equation
 
 $$
-\frac{e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})} \approx e^{-kx} + 2 e^{-2kx} + 3
+\frac{e^{-x}}{(1-e^{-x})^2} \approx e^{-kx} + 2 e^{-2kx} + 3
 e^{-3kx} + \cdots.
 $$
 
