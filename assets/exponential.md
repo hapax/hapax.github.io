@@ -13,7 +13,7 @@ date:  2020-11-28
   learn about its series expansion, Euler's formula, the sum of
   all positive numbers, and various other fun facts.*
 
-#### An interesting limit
+#### Continuously interesting numbers
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
