@@ -638,7 +638,7 @@ $$
 x\left(1 - \frac{x}{2} + \frac{x^3}{6} \cdots\right),
 $$
 
-and hence
+and hence, using the geometric series in reverse,
 
 $$
 \begin{align*}
@@ -647,7 +647,7 @@ $$
 & \approx
 \frac{1}{x}\left[1 + \left(x/2 - x^2/6\right) + \left(x/2 - x^2/6\right)^2 + \cdots\right] \\
 & =
-\frac{1}{x}\left[1 + x/2 - x^2/6 + x^2/4 + \cdots\right] =
-\frac{1}{x}\left[1 + x/2 + x^2/12 + \cdots\right].
+\frac{1}{x}\left[1 + \frac{x}{2} - \frac{x^2}{6} + \frac{x^2}{4} + \cdots\right] =
+\frac{1}{x}\left[1 + \frac{x}{2} + \frac{x^2}{12} + \cdots\right].
 \end{align*}
 $$
