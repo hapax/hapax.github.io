@@ -261,8 +261,9 @@ $$
 If $\delta$ is very small, then most of the change is captured by
 the linear term in the polynomial, $e^\delta \approx 1 + \delta$,
 since all the higher terms, proportional to $\delta^2, \delta^3$,
-and so on, are miniscule, since $\delta \ll 1$ implies (multiplying
-both sides by $\delta$) that $\delta^2 \ll \delta$, and so on.
+and so on, are miniscule. More precisely, taking $\delta \ll 1$ and multiplying
+both sides by $\delta$, we find that $\delta^2 \ll \delta$, and hence
+$\delta^3 \ll \delta^2 \ll \delta$, and so on.
 For instance, if $\delta = 0.001$, then
 
 $$
