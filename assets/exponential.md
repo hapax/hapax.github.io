@@ -13,7 +13,7 @@ date:  2020-11-28
   learn about its series expansion, response to small changes, Euler's
   formula, and the sum of all positive numbers.*
 
-#### An interesting limit
+#### Making the most of your investments
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
@@ -113,7 +113,7 @@ Assuming this limit of continuous compounding exists, we define the
 *exponential function* as
 
 $$
-e^x = \lim_{n\to\infty} p_n(x), \quad p_n(x) = \left(1 + \frac{x}{n}\right)^n.
+e^x = \lim_{n\to\infty} p_n(x), \quad p_n(x) = \left(1 + \frac{x}{n}\right)^n,
 $$
 
 where for convenience, we've defined the polynomial $p_n(x) =
@@ -307,6 +307,8 @@ take for a single atom to decay? *Hint.* Use the formula for small changes.
 
 ---
 
-#### Euler's formula
+#### A turn 
+
+At this point, we are going 
 
 #### Ramanujan's mysterious sum
