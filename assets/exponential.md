@@ -13,7 +13,7 @@ date:  2020-11-28
   learn about its series expansion, response to small changes, Euler's
   formula, and the sum of all positive numbers.*
 
-#### Many returns
+#### Compound interest
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
@@ -333,13 +333,16 @@ $$
 This rule seems a bit fiddly, but becomes much more transparent in
 *polar* coordinates on the plane.
 Recall that instead of specifying the $x$ and $y$ components, we can
-specify the angle $\theta$ from the positive $x$ axis and distance $r$
+specify the angle $\theta$ (in radians) from the positive $x$ axis and distance $r$
 from the origin.
 These give the $x$ and $y$ components using the usual rules of
 trigonometry:
 
 $$
-x = r \cos \theta, \quad y = r \sin\theta.
+\begin{align*}
+x & = r \cos \theta, \quad y = r \sin\theta \\
+r = \sqrt{x^2 + y^2}, \quad \theta = \tan^{-1}\left(\frac{y}{x}\right).
+\end{align*}
 $$
 
 We denote the corresponding complex number $z(r, \theta)$.
@@ -376,5 +379,115 @@ $$
 
 In other words, a product of two complex numbers simply multiplies the
 lengths and adds the angles.
+Great! Now we can make magic happen.
+Without stopping to worry too much, let's just plug an *imaginary*
+number into the exponential function, and use our formula for compound interest:
+
+$$
+e^{i\theta} = \lim_{n\to\infty} \left(1 + \frac{i\theta}{n}\right)^n.
+$$
+
+We know about complex multiplication, so we can understand $e^{i\theta}$ by analyzing the term in brackets:
+
+$$
+z_n = 1 + \frac{i\theta}{n} = z_n(r_n, \theta_n).
+$$
+
+Then
+
+$$
+e^{i\theta} = z(r_\infty, \theta_\infty), \quad r_\infty =
+\lim_{n\to\infty} r_n^n, \quad \theta_\infty = \lim_{n\to\infty} n\theta_n.
+$$
+
+From the formulas for converting from Cartesian to polar coordinates,
+we have a radius
+
+$$
+r_n^2 = 1 + \frac{\theta^2}{n^2}.
+$$
+
+When $n$ gets large, this gets very close to $1$, and in fact, you can
+prove in the exercise below that
+
+$$
+r_\infty = \lim_{n\to \infty} r_n^{n} = 1.
+$$
+
+So $e^{i\theta}$ lies a unit distance from the origin.
+The angle $\theta_n$ is a bit trickier. The conversion formula tells
+us that
+
+$$
+\theta_n = \tan^{-1}\left(\frac{y_n}{x_n}\right) = \tan^{-1}\left(\frac{\theta}{n}\right).
+$$
+
+For large $n$, $\theta/n$ is very small, so the small angle
+approximation $\tan^{-1} x \approx x$ tells us that
+
+$$
+\theta_n \approx \frac{\theta}{n},
+$$
+
+and this approximation becomes better and better as $n$ increases.
+But then
+
+$$
+\theta_\infty = \lim_{n \to \infty} n\theta_n = \theta.
+$$
+
+Hence, $e^{i\theta} = z(1, \theta)$, or
+
+$$
+e^{i\theta} = \cos\theta + i \sin\theta.
+$$
+
+This result was first derived by Euler and hence is called *Euler's
+formula.*
+It is nothing short of a miracle. It yields an equation often said to be the most beautiful in
+mathematics:
+
+$$
+e^{i\pi} = \cos\pi + i \sin\pi = -1.
+$$
+
+There are many more wonderful things that can be done with Euler's
+formula, but we will leave them for another time.
+
+---
+
+*Exercise 4.* We will step through a (heurist) proof that $r_\infty = 1$.
+
+<span style="padding-left: 20px; display:block">
+(a) Use the binomial theorem to show that
+</span>
+
+$$
+\left(1 + \frac{\theta^2}{n^2}\right)^n = 1 +
+\binom{n}{1}\left(\frac{\theta}{n}\right)^2 +
+\binom{n}{2}\left(\frac{\theta}{n}\right)^4 + \cdots + \binom{n}{n}\left(\frac{\theta}{n}\right)^{2n}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) From this answer, deduce that the coefficient of
+$\theta^{2k}$ can be written
+</span>
+
+$$
+\frac{n!}{(n-k)!n^{k}} \cdot \frac{1}{n^k} \cdot \frac{1}{k!}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) Use the fact that the first term approaches $1$ (which we argued
+loosely above) to conclude that the whole term vanishes as $n\to\infty$.
+</span>
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 5.*
+
+---
 
 #### Ramanujan's mysterious sum
