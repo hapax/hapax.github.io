@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Playing with exponentials"
+title:  "The continually interesting exponential"
 categories: [Maths, Physics, Hacks]
 date:  2020-11-28
 ---
@@ -13,7 +13,7 @@ date:  2020-11-28
   learn about its series expansion, Euler's formula, the sum of
   all positive numbers, and various other fun facts.*
 
-#### Continuously interesting numbers
+#### An interesting limit
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
