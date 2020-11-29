@@ -705,7 +705,7 @@ $$
 e^{-1/N} + 2 e^{-2/N} + 3 e^{-3/N} + \cdots
 $$
 
-as the sum of natural numbers, but with terms above $N/100$ ignored.
+as the sum of natural numbers, but with terms above $N/100$ smoothly ignored.
 To a physicist, we must ignore these large terms to get a sensible,
 finite answer, but the choice of $N$ is an arbitrary one without
 physical meaning. So in our final answer,
