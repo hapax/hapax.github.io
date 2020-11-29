@@ -124,7 +124,7 @@ In the rest of this post, we will explore some of the remarkable
 properties and applications of the exponential function, but from an
 elementary, pre-calculus point of view.
 
-#### The binomial theorem
+#### A very large polynomial
 
 Above, we expanded the term $p_2(x)$:
 
@@ -216,6 +216,13 @@ So each term approaches $1$, and hence the product approaches $1$ as
 $n$ gets large.
 So we conclude that, as we take $n \to \infty$, the coefficient of
 $x^k$ in $p_n(x)$ approaches $1/k!$.
+In fact, we can view the exponential function as $p_\infty(x)$, a sort
+of infinitely large polynomial with these coefficients:
+
+$$
+e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots +
+\frac{x^k}{k!} + \cdots
+$$
 
 #### Small changes
 
