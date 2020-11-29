@@ -300,7 +300,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) If there are $10^{26}$ atoms in a lump, roughly how long does it
-take for a single atom to decay?
+take for a single atom to decay? *Hint.* Use the formula for small changes.
 </span>
 
 ---
