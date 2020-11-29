@@ -72,7 +72,7 @@ $$
 $$
 
 It turns out this has a finite limit!
-Proving this actually rather difficult, but it's easy to see with a
+Proving this is actually rather difficult, but it's easy to see with a
 computer.
 We can just plot $(1+r/n)^n$ for increasingly large $n$ and see that
 it settles to a finite value.
@@ -231,7 +231,7 @@ messy (and distracting) business of formal proof.
 
 #### Small changes
 
-One remarkable fact about the exponential is how to it responds to
+One remarkable fact about the exponential is how it responds to
 small changes.
 Consider some tiny $\delta \ll 1$.
 The usual index laws and the power series tell us that
