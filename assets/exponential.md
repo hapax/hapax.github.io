@@ -607,8 +607,8 @@ $$
 Hence, we can write
 
 $$
-s_{x} - s_{x+\delta} \approx \delta e^{-kx} + 2 \delta e^{-2kx} + 3
-\delta e^{-3kx} + \cdots.
+s_{x} - s_{x+\delta} \approx \delta e^{-x} + 2 \delta e^{-2x} + 3
+\delta e^{-3x} + \cdots.
 $$
 
 On the right, we have a sum which is looking potentially helpful,
@@ -630,7 +630,7 @@ Equating our two expressions, dividing by $\delta$, and setting
 $\delta = 0$ (where the approximation becomes exact) we get the equation
 
 $$
-\frac{e^{-x}}{(1-e^{-x})^2} = e^{-kx} + 2 e^{-2kx} + 3
-e^{-3kx} + \cdots.
+\frac{e^{-x}}{(1-e^{-x})^2} = e^{-x} + 2 e^{-2x} + 3
+e^{-3x} + \cdots.
 $$
 
