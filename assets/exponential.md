@@ -124,7 +124,7 @@ In the rest of this post, we will explore some of the remarkable
 properties and applications of the exponential function, but from an
 elementary, pre-calculus point of view.
 
-#### A very large polynomial
+#### The binomial theorem
 
 Above, we expanded the term $p_2(x)$:
 
@@ -204,6 +204,18 @@ $$
 
 where we've paired the factors of $n$ downstairs with factors of
 $n!/(n-k)!$ upstairs.
+If we fix $k$, and let $n$ get very large, each of these terms gets
+very close to $1$. For instance, each term is bigger than
+
+$$
+\frac{n-k}{n} = 1 - \frac{k}{n},
+$$
+
+and as $n \to \infty$ with $k$ a fixed number, this approaches $1$.
+So each term approaches $1$, and hence the product approaches $1$ as
+$n$ gets large.
+So we conclude that, as we take $n \to \infty$, the coefficient of
+$x^k$ in $p_n(x)$ approaches $1/k!$.
 
 #### Small changes
 
