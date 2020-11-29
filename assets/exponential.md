@@ -229,6 +229,23 @@ $p_\infty(x)$ is called a *power series*. But
 we will continue to play fast and loose with the rules, ignoring the
 messy (and distracting) business of formal proof.
 
+---
+
+*Exercise 2.* The numerical approximation to $e$ from evaluating
+$p_n(1)$ is very slow.
+We present a much quicker algorithm here.
+
+<span style="padding-left: 20px; display:block">
+(a) Express $e$ in terms of the power series $p_\infty(x)$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Use your answer to (a) to create a method for approximating $e$
+using $k$ rather than $n$. Find $e$ to $10$ decimal places.
+</span>
+
+---
+
 #### Small changes
 
 One remarkable fact about the exponential is how it responds to
