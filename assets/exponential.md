@@ -240,8 +240,8 @@ We present a much quicker algorithm here.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Use your answer to (a) to create a method for approximating $e$
-using $k$ rather than $n$. Find $e$ to $10$ decimal places.
+(b) From your answer to (a), create a method for approximating $e$
+using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal places.
 </span>
 
 ---
@@ -280,7 +280,9 @@ $$
 
 So the response to a small change is *proportional to the function
 itself*.
-As a simple example, $$
+As a simple example, suppose a virus is infecting people at an
+exponential rate, with the total number of infected people given by $I
+= e^{\alpha t}$ where $\alpha$ is a constant and $t$ is the time in days.
 
 #### Euler's formula
 
