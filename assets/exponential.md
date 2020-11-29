@@ -689,3 +689,32 @@ $-1/12$ survives!
 Of course, there is also a term $1/x^2$, which blows up and gives us
 the infinity we expect.
 
+So why do physicists tend to ignore it?
+Consider a small $x \approx 1/N$ for a large number $N$.
+Then $e^{-kx}$ is close to $1$ until around $x \approx N/100$, since
+
+$$
+e^{-N/100N} = e^{-1/100} \approx 0.99.
+$$
+
+Terms below $N/100$ contribute to the sum, while terms above it are
+slowly but surely ignored, since they are multiplied by an exponential
+which goes to zero much faster than they blow up.
+So we can think of the series
+
+$$
+e^{-1/N} + 2 e^{-2/N} + 3 e^{-3/N} + \cdots
+$$
+
+as the sum of natural numbers, but with terms above $N/100$ ignored.
+To a physicist, we must ignore these large terms to get a sensible,
+finite answer, but the choice of $N$ is an arbitrary one without
+physical meaning. So in our final answer,
+
+$$
+e^{-1/N} + 2 e^{-2/N} + 3 e^{-3/N} + \cdots = N^2 - \frac{1}{12} + \cdots,
+$$
+
+we should ignore the $N^2$ on the RHS. It is simply a way to
+discipline a badly behaved sum, and get it spit out it's true value.
+That is the term independent of $N$, namely $-1/12$.
