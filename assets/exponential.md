@@ -641,6 +641,10 @@ $$
 and hence
 
 $$
-\frac{1}{1 - e^{-x}} = \frac{1}{x\left(1 - \frac{x}{2} +
-\cdots\right)} \approx \frac{1}{x}\left(1 + \frac{x}{2} + \cdots\right)
+\begin{align*}
+\frac{1}{1 - e^{-x}} & = \frac{1}{x\left(1 - x/2 + x^2/6
+\cdots\right)} \\
+& \approx
+\frac{1}{x}\left[1 + \left(x/2 - x^2/6\right) + \left(x/2 - x^2/6\right)^2 + \cdots\right)
+\end{align*}
 $$
