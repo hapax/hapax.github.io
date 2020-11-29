@@ -465,7 +465,7 @@ Our one example is Exercise 5, where we use it to give "infinite polynomials" fo
 
 ---
 
-*Exercise 4.* We will step through a (heurist) proof that $r_\infty = 1$.
+*Exercise 4.* We will step through a (heuristic) proof that $r_\infty = 1$.
 
 <span style="padding-left: 20px; display:block">
 (a) Use the binomial theorem to show that
