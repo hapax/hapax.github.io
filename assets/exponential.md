@@ -627,10 +627,10 @@ s_{x} - s_{x+\delta} & = \frac{1}{1-e^{-x}} -
 $$
 
 Equating our two expressions, dividing by $\delta$, and setting
-$\delta = 0$, we get the equation
+$\delta = 0$ (where the approximation becomes exact) we get the equation
 
 $$
-\frac{e^{-x}}{(1-e^{-x})^2} \approx e^{-kx} + 2 e^{-2kx} + 3
+\frac{e^{-x}}{(1-e^{-x})^2} = e^{-kx} + 2 e^{-2kx} + 3
 e^{-3kx} + \cdots.
 $$
 
