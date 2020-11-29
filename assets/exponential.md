@@ -342,4 +342,39 @@ $$
 x = r \cos \theta, \quad y = r \sin\theta.
 $$
 
+We denote the corresponding complex number $z(r, \theta)$.
+Let's multiply two such complex numbers:
+
+$$
+\begin{align*}
+z(r_1, \theta_1) z(r_2, \theta_2) & = r_1 (\cos\theta_1 + i\sin
+\theta_1) \cdot r_2 (\cos\theta_2 + i\sin \theta_2) \\
+& = r_1 r_2
+[(\cos\theta_1 \cos\theta_2 - \sin\theta_1 \sin\theta_2) + i (\cos\theta_1 \sin\theta _ 2 + \sin\theta_1 \cos\theta _ 2)].
+\end{align*}
+$$
+
+This still looks like a mess, but we can simplify dramatically using
+the compound angle formulas, which we recall are
+
+$$
+\begin{align*}
+\cos(\theta_1 + \theta_2) & = \cos\theta_1 \cos\theta_2 - \sin\theta_1
+\sin\theta_2\\
+\sin(\theta_1 + \theta_2) & = \cos\theta_1 \sin\theta _ 2 +
+\sin\theta_1 \cos\theta _ 2.
+\end{align*}
+$$
+
+This immediately gives
+
+$$
+z(r_1, \theta_1) z(r_2, \theta_2) = r_1 r_2
+[\cos (\theta_1 + \theta_2) + i \sin (\theta_1 + \theta_2)] = z(r_1
+r_2, \theta_1+\theta_2).
+$$
+
+In other words, a product of two complex numbers simply multiplies the
+lengths and adds the angles.
+
 #### Ramanujan's mysterious sum
