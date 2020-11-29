@@ -456,9 +456,10 @@ It is nothing short of a miracle, and yields an equation often said to be the mo
 mathematics:
 
 $$
-e^{i\pi} = \cos\pi + i \sin\pi = -1.
+e^{i\pi} = -1
 $$
 
+since $\cos\pi = -1$ and $\sin\pi = 0$.
 There are many wonderful things that can be done with Euler's
 formula, most of which we leave for another time.
 Our one example will be Exercise 5, where we use it to give "infinite polynomial" versions of sine and cosine.
