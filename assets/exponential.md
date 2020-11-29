@@ -645,7 +645,7 @@ $$
 \frac{1}{1 - e^{-x}} & = \frac{1}{x\left(1 - x/2 + x^2/6
 \cdots\right)} \\
 & =
-\frac{1}{x}\left[1 + \left(x/2 - x^2/6\right) + \left(x/2 - x^2/6\right)^2 + \cdots\right] \\
+\frac{1}{x}\left[1 + \left(\frac{x}{2} - \frac{x^2}{6}\right) + \left(\frac{x}{2} - \frac{x^2}{6}\right)^2 + \cdots\right] \\
 & =
 \frac{1}{x}\left[1 + \frac{x}{2} - \frac{x^2}{6} + \frac{x^2}{4} + \cdots\right] =
 \frac{1}{x}\left[1 + \frac{x}{2} + \frac{x^2}{12} + \cdots\right].
