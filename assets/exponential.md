@@ -223,7 +223,7 @@ So each term approaches $1$, and hence the product approaches $1$ as
 $n$ gets large.
 So we conclude that, as we take $n \to \infty$, the coefficient of
 $x^k$ in $p_n(x)$ approaches $1/k!$.
-In fact, we can view the exponential function as $p_\infty(x)$, a sort
+We can view the exponential function as $p_\infty(x)$, a sort
 of infinitely large polynomial with these coefficients:
 
 $$
@@ -288,7 +288,7 @@ $$
 
 So the response to a small change is *proportional to the function
 itself*.
-In fact, this gives another way to define the exponential!
+This even gives another way to define the exponential!
 But more importantly, it underlies the many application of the
 exponential to real-world phenomena.
 
@@ -414,7 +414,7 @@ $$
 r_n^2 = 1 + \frac{\theta^2}{n^2}.
 $$
 
-When $n$ gets large, this gets very close to $1$, and in fact, you can
+When $n$ gets large, this gets very close to $1$. In fact, you can
 prove in *Exercise 4* below that
 
 $$
