@@ -556,4 +556,6 @@ person to write it down was
 [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
 
 Ramanujan justified it in various different ways, but we will give a
-different justification, which makes clear what it means
+different justification. In fact, the derivation we give is the one
+used by string theorists, and makes the "physics" of the result
+clearest.
