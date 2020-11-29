@@ -460,9 +460,8 @@ e^{i\pi} = -1
 $$
 
 since $\cos\pi = -1$ and $\sin\pi = 0$.
-There are many wonderful things that can be done with Euler's
-formula, most of which we leave for another time.
-Our one example will be Exercise 5, where we use it to give "infinite polynomial" versions of sine and cosine.
+There are many wonderful things Euler's formula can do.
+Our one example is Exercise 5, where we use it to give "infinite polynomials" for sine and cosine.
 
 ---
 
