@@ -661,3 +661,17 @@ $$
 \cdots\right)^2.
 \end{align*}
 $$
+
+We can multiply out all the terms in brackets (or use
+[WolframAlpha](https://www.wolframalpha.com/input/?i=expand+%281+-+x+%2B+x%5E2%2F2%29%281+%2B+x%2F2+%2B+x%5E2%2F12%29%5E2)),
+and find that
+
+$$
+\begin{align*}
+\frac{e^{-x}}{(1-e^{-x})^2} & = \frac{1}{x^2}\left(1 -\frac{x^2}{12} +
+\cdots \right) \\
+& = \frac{1}{x^2} - \frac{1}{12} + \cdots.
+\end{align*}
+$$
+
+where the $\cdots$ stand for positive powers of $x$.
