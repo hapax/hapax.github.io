@@ -675,3 +675,14 @@ $$
 $$
 
 where the $\cdots$ stand for positive powers of $x$.
+So, all in all, we have
+
+$$
+\frac{1}{x^2} - \frac{1}{12} + \cdots = e^{-x} + 2 e^{-2x} + 3
+e^{-3x} + \cdots.
+$$
+
+As we take $x \to 0$, $e^{-kx} \to 1$ and hence the RHS gives us the
+sum of natural numbers.
+On the LHS, the powers of $x$ (in the $\cdots$) vanish, and the
+$1/x^2$ term blows up.
