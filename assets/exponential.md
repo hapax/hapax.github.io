@@ -521,6 +521,11 @@ $$
 \frac{(-1)^k\theta^{2k+1}}{(2k+1)!} + \cdots.
 $$
 
+<span style="padding-left: 20px; display:block">
+(c) Use these to create numerical routines to calculate $\cos\theta$
+and $\sin\theta$, like you did for $e$ in Exercise 2.
+</span>
+
 ---
 
 #### Ramanujan's mysterious sum
