@@ -678,11 +678,11 @@ where the $\cdots$ stand for positive powers of $x$.
 So, all in all, we have
 
 $$
-\frac{1}{x^2} - \frac{1}{12} + \cdots = e^{-x} + 2 e^{-2x} + 3
-e^{-3x} + \cdots.
+ e^{-x} + 2 e^{-2x} + 3
+e^{-3x} + \cdots = \frac{1}{x^2} - \frac{1}{12} + \cdots.
 $$
 
-As we take $x \to 0$, $e^{-kx} \to 1$ and hence the RHS gives us the
+As we take $x \to 0$, $e^{-kx} \to 1$ and hence the LHS gives us the
 sum of natural numbers.
-On the LHS, the powers of $x$ (in the $\cdots$) vanish, and the
-$1/x^2$ term blows up.
+On the RHS, the powers of $x$ in the $\cdots$ vanish, but the
+$-1/12$ survives!
