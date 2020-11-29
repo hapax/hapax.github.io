@@ -299,8 +299,8 @@ N(t) = N_0 e^{-t/\lambda}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) A company wants to open a uranium mine, but is delayed $7$ years
-by legal action. If the 
+(b) If there are $10^{26}$ atoms in a lump, roughly how long does it
+take for a single atom to decay?
 </span>
 
 ---
