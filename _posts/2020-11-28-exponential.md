@@ -690,7 +690,7 @@ the infinity we expect.
 
 So why do physicists tend to ignore it?
 Consider $x \approx 1/N$ for a large number $N$.
-Then $e^{-kx}$ is close to $1$ until around $x \approx N/100$, since
+Then $e^{-kx}$ is close to $1$ until around $k \approx N/100$, since
 
 $$
 e^{-N/100N} = e^{-1/100} \approx 0.99.
