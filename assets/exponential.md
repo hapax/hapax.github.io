@@ -531,7 +531,7 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) Create numerical routines to calculate $\cos\theta$
+(c) Create numerical routines for $\cos\theta$
 and $\sin\theta$, like you did for $e$ in Exercise 2.
 </span>
 
