@@ -13,7 +13,7 @@ date:  2020-11-28
   learn about its series expansion, response to small changes, Euler's
   formula, and the sum of all positive numbers.*
 
-#### Making the most of your investments
+#### Many returns
 
 Suppose you make an investment $I_0$ which promises a return rate $r$ per
 year.
@@ -124,7 +124,7 @@ In the rest of this post, we will explore some of the remarkable
 properties and applications of the exponential function, but from an
 elementary, pre-calculus point of view.
 
-#### A powerful polynomial
+#### An infinite polynomial
 
 Above, we expanded the term $p_2(x)$:
 
@@ -307,7 +307,7 @@ take for a single atom to decay? *Hint.* Use the formula for small changes.
 
 ---
 
-#### Taking turns
+#### Euler's formula
 
 At this point, we are going to propose a remarkable reinterpretation
 of the exponential in the complex plane $\mathbb{C}$.
