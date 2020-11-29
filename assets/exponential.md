@@ -221,7 +221,7 @@ of infinitely large polynomial with these coefficients:
 
 $$
 e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \cdots +
-\frac{x^k}{k!} + \cdots
+\frac{x^k}{k!} + \cdots.
 $$
 
 This formula can rigorously established, and the infinite polynomial
@@ -470,7 +470,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) From this answer, deduce that the coefficient of
-$\theta^{2k}$ can be written
+$\theta^{2k}$, for $k \geq 1$, can be written
 </span>
 
 $$
@@ -479,14 +479,47 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (c) Use the fact that the first term approaches $1$ (which we argued
-loosely above) to conclude that the whole term vanishes as $n\to\infty$.
+loosely above) to conclude that the whole term vanishes as
+$n\to\infty$.
 </span>
+
+In other words, in limit that $n \to \infty$, only the first term $1$
+of the infinite polynomial survives. Hence, $r_\infty = 1$.
 
 <p align="center">
   ⁂
   </p>
 
-*Exercise 5.*
+*Exercise 5.* Let's suppose that the infinite polynomial expression
+still holds for $e^{i\theta}$, so that
+
+$$
+e^{i\theta} = p_\infty(i\theta) = 1 + i\theta + \frac{(i\theta)^2}{2!} + \cdots +
+\frac{(i\theta)^k}{k!} + \cdots.
+$$
+
+Euler's formula tells us that the real part of this formula is
+$\cos\theta$ and the imaginary part (multiplying $i$) is $\sin\theta$.
+
+<span style="padding-left: 20px; display:block">
+(a) By simplifying the factors of $i$ in $p_\infty(i\theta)$, argue
+that
+</span>
+
+$$
+\cos\theta = 1 - \frac{\theta^2}{2!} + \frac{\theta^4}{4!} + \cdots +
+\frac{(-1)^k\theta^{2k}}{(2k)!} + \cdots.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Similarly, by consider the part proportional to $i$, argue that
+sine can be written as an infinite polynomial
+</span>
+
+$$
+\sin\theta = \theta - \frac{\theta^3}{3!} + \cdots +
+\frac{(-1)^k\theta^{2k+1}}{(2k+1)!} + \cdots.
+$$
 
 ---
 
