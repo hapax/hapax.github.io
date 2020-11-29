@@ -644,10 +644,20 @@ $$
 \begin{align*}
 \frac{1}{1 - e^{-x}} & = \frac{1}{x\left(1 - x/2 + x^2/6
 \cdots\right)} \\
-& \approx
+& =
 \frac{1}{x}\left[1 + \left(x/2 - x^2/6\right) + \left(x/2 - x^2/6\right)^2 + \cdots\right] \\
 & =
 \frac{1}{x}\left[1 + \frac{x}{2} - \frac{x^2}{6} + \frac{x^2}{4} + \cdots\right] =
 \frac{1}{x}\left[1 + \frac{x}{2} + \frac{x^2}{12} + \cdots\right].
+\end{align*}
+$$
+
+Finally, we can combine all these terms together in the expression
+
+$$
+\begin{align*}
+\frac{e^{-x}}{(1-e^{-x})^2} & = \frac{1}{x^2}\left(1 - x +
+\frac{x^2}{2} + \cdots\right)\left(1 + \frac{x}{2} + \frac{x^2}{12} +
+\cdots\right)^2.
 \end{align*}
 $$
