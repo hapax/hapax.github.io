@@ -355,7 +355,7 @@ z(r_1, \theta_1) z(r_2, \theta_2) & = r_1 (\cos\theta_1 + i\sin
 $$
 
 This still looks like a mess, but we can simplify dramatically using
-the compound angle formulas, which we recall are
+the compound angle formulas:
 
 $$
 \begin{align*}
@@ -366,7 +366,7 @@ $$
 \end{align*}
 $$
 
-This immediately gives
+Applying these to $z(r_1, \theta_1)z(r_2,\theta_2)$ immediately gives
 
 $$
 z(r_1, \theta_1) z(r_2, \theta_2) = r_1 r_2
