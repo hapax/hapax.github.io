@@ -402,11 +402,10 @@ $$
 z_n = 1 + \frac{i\theta}{n} = z_n(r_n, \theta_n).
 $$
 
-Then
+Then $e^{i\theta} = z(r_\infty, \theta_\infty)$, where
 
 $$
-e^{i\theta} = z(r_\infty, \theta_\infty), \quad r_\infty =
-\lim_{n\to\infty} r_n^n, \quad \theta_\infty = \lim_{n\to\infty} n\theta_n.
+r_\infty = \lim_{n\to\infty} r_n^n, \quad \theta_\infty = \lim_{n\to\infty} n\theta_n.
 $$
 
 From the formulas for converting from Cartesian to polar coordinates,
