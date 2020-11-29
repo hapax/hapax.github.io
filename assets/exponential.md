@@ -287,7 +287,7 @@ exponential function.
 
 *Exercise 3.* A sample of Uranium-235 awaits testing. It has a
  *half-life* of $\lambda = 700$ million years, meaning that if there is a lump
- of $N$ uranium 235 atoms, half will disappear after a time $\lambda$.
+ of $N$ uranium 235 atoms, half the lump will disappear after a time $\lambda$.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose we start with $N_0$ atoms. Using the analogy to compound
