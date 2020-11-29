@@ -246,7 +246,7 @@ using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal places.
 
 ---
 
-#### Small changes
+#### From compound interest to small change
 
 One remarkable fact about the exponential is how it responds to
 small changes.
