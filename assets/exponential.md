@@ -662,9 +662,9 @@ $$
 \end{align*}
 $$
 
-We can multiply out all the terms in brackets (or use
+Multiplying out all the terms in brackets (or using
 [WolframAlpha](https://www.wolframalpha.com/input/?i=expand+%281+-+x+%2B+x%5E2%2F2%29%281+%2B+x%2F2+%2B+x%5E2%2F12%29%5E2)),
-and find that
+we find that
 
 $$
 \begin{align*}
@@ -686,3 +686,6 @@ As we take $x \to 0$, $e^{-kx} \to 1$ and hence the LHS gives us the
 sum of natural numbers.
 On the RHS, the powers of $x$ in the $\cdots$ vanish, but the
 $-1/12$ survives!
+Of course, there is also a term $1/x^2$, which blows up and gives us
+the infinity we expect.
+
