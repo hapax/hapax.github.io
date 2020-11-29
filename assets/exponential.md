@@ -225,8 +225,9 @@ e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \cdots +
 $$
 
 It can rigorously established that the exponential function can be
-written as this infinite polynomial, also called a *power series*. But
-we will continue to play fast and loose with the rules.
+written as this infinite polynomial $p_\infty(x)$, also called a *power series*. But
+we will continue to play fast and loose with the rules, and ignore
+formal proofs.
 
 #### Small changes
 
