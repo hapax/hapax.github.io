@@ -622,6 +622,6 @@ $$
 s_{x} - s_{x+\delta} & = \frac{1}{1-e^{-x}} -
 \frac{1}{1-e^{-(x+\delta)}}\\
 & = \frac{e^{-x}-e^{-(x+\delta)}}{(1-e^{-x})(1-e^{-(x+\delta)})} \\
-& = \frac{\delta e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})}.
+& \approx \frac{\delta e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})}.
 \end{align*}
 $$
