@@ -549,16 +549,16 @@ $$
 1 + 2 + 3 + 4 + \cdots = -\frac{1}{12}.
 $$
 
-In other words, the sum of all the positive natural numbers is not
-only finite, but negative!
+It is a paradox: the sum of all the positive natural numbers is
+apparently not only finite, but negative!
+Although it seems insane, there is a rigorous way to interpret this
+statement.
 Some speculate that Euler may have known about it, but the first
-person to write it down was
+person to write it down and clearly understand it was
 [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
+Our approach, which differs from Ramanujan's, is the one used by
+physicists, and we will focus on a "physical" understanding of the equation.
 
-Ramanujan justified it in various different ways, but we will give a
-different justification. In fact, the derivation we give is the one
-used by string theorists, and makes the "physics" of the result
-clearest.
 We need a few more elementary facts to get started.
 Recall the *geometric series*, stating that if $|r| < 1$, then
 the sum of its powers is
@@ -585,7 +585,6 @@ $$
 
 for the same reasons we gave above, namely that the higher powers in
 $r$ contribute much less.
-This, along with the results on the exponential we have given so far,
-are all we need.
+
 
 
