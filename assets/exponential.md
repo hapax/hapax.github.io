@@ -18,7 +18,8 @@ date:  2020-11-28
 1. <a href="#sec-1">Compound interest</a>
 2. <a href="#sec-2">An infinite polynomial</a>
 3. <a href="#sec-3">From compound interest to small change</a>
-4. <a href="#sec-4">Euler's formula</a> 
+4. <a href="#sec-4">Euler's formula</a>
+5. <a href="#sec-5">Ramanujan's mysterious sum</a>
 
 #### 1. Compound interest <a id="sec-1" name="sec-1"></a>
 
@@ -415,7 +416,7 @@ r_n^2 = 1 + \frac{\theta^2}{n^2}.
 $$
 
 When $n$ gets large, this gets very close to $1$. In fact, you can
-prove in *Exercise 4* below that
+prove in Exercise 4 below that
 
 $$
 r_\infty = \lim_{n\to \infty} r_n^{n} = 1.
@@ -449,7 +450,7 @@ $$
 e^{i\theta} = \cos\theta + i \sin\theta.
 $$
 
-This result was first derived by Euler and hence is called *Euler's
+This result was first derived by [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and hence is called *Euler's
 formula.*
 It is nothing short of a miracle. It yields an equation often said to be the most beautiful in
 mathematics:
@@ -458,9 +459,9 @@ $$
 e^{i\pi} = \cos\pi + i \sin\pi = -1.
 $$
 
-There are many more wonderful things that can be done with Euler's
-formula. We will use it to give "infinite polynomial" versions of sine
-and cosine in *Exercise 5*.
+There are many wonderful things that can be done with Euler's
+formula, most of which we leave for another time.
+Our one example will be Exercise 5, where we use it to give "infinite polynomial" versions of sine and cosine.
 
 ---
 
@@ -491,7 +492,7 @@ loosely above) to conclude that the whole term vanishes as
 $n\to\infty$.
 </span>
 
-In other words, in limit that $n \to \infty$, only the first term $1$
+In other words, in the limit $n \to \infty$, only the first term $1$
 of the infinite polynomial survives. Hence, $r_\infty = 1$.
 
 <p align="center">
@@ -536,4 +537,23 @@ and $\sin\theta$, like you did for $e$ in Exercise 2.
 
 ---
 
-#### Ramanujan's mysterious sum
+#### 5. Ramanujan's mysterious sum <a id="sec-1" name="sec-1"></a>
+
+As miraculous as Euler's formula is, when we make the connection
+between compound interest and compound angles, it becomes clear why it
+works.
+An equation which seems so miraculous as to be blatantly wrong is the
+following:
+
+$$
+1 + 2 + 3 + 4 + \cdots = -\frac{1}{12}.
+$$
+
+In other words, the sum of all the positive natural numbers is not
+only finite, but negative!
+Some speculate that Euler may have known about it, but the first
+person to write it down was
+[Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
+
+Ramanujan justified it in various different ways, but we will give a
+different justification, which makes clear what it means
