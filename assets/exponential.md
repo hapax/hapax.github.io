@@ -280,9 +280,6 @@ $$
 
 So the response to a small change is *proportional to the function
 itself*.
-As a simple example, suppose a virus is infecting people at an
-exponential rate, with the total number of infected people given by $I
-= e^{\alpha t}$ where $\alpha$ is a constant and $t$ is the time in days.
 
 #### Euler's formula
 
