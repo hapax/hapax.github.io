@@ -586,5 +586,11 @@ $$
 for the same reasons we gave above, namely that the higher powers in
 $r$ contribute much less.
 
+Now we can get started.
+First, set $r = e^{-x}$ in the geometric series:
+
+$$
+1 + e^{-x} + e^{-2x} + e^{-3x} + \cdots = \frac{1}{1-e^{-x}}.
+$$
 
 
