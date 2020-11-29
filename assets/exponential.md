@@ -522,7 +522,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (b) Similarly, by consider the part proportional to $i$, argue that
-sine can be written as an infinite polynomial
+sine can be written as an infinite polynomial:
 </span>
 
 $$
@@ -559,3 +559,29 @@ Ramanujan justified it in various different ways, but we will give a
 different justification. In fact, the derivation we give is the one
 used by string theorists, and makes the "physics" of the result
 clearest.
+We need a few more elementary facts to get started.
+Recall the *geometric series*, stating that if $|r| < 1$, then
+the sum of its powers is
+
+$$
+1 + r + r^2 + r^3 + \cdots = \frac{1}{1-r}.
+$$
+
+The argument, if you haven't seen it, is simplicity itself.
+Let $s$ be the series.
+Then
+
+$$
+s - 1 = r + r^2 + r^3 + \cdots = r (1 + r + r^2 + \cdots ) = rs \quad
+\Longrightarrow \quad s = \frac{1}{1-r}.
+$$
+
+We can turn this around and learn the following.
+If $|r| \ll 1$ is very small, then
+
+$$
+\frac{1}{1-r} = 1 + r + r^2 + \cdots \approx 1 + r,
+$$
+
+for the same reasons we gave above, namely that the higher powers in
+$r$ contribute much less.
