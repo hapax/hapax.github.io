@@ -452,7 +452,7 @@ $$
 
 This result was first derived by [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and hence is called *Euler's
 formula.*
-It is nothing short of a miracle. It yields an equation often said to be the most beautiful in
+It is nothing short of a miracle, and yields an equation often said to be the most beautiful in
 mathematics:
 
 $$
