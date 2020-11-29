@@ -408,7 +408,7 @@ r_n^2 = 1 + \frac{\theta^2}{n^2}.
 $$
 
 When $n$ gets large, this gets very close to $1$, and in fact, you can
-prove in the exercise below that
+prove in *Exercise 4* below that
 
 $$
 r_\infty = \lim_{n\to \infty} r_n^{n} = 1.
@@ -452,7 +452,8 @@ e^{i\pi} = \cos\pi + i \sin\pi = -1.
 $$
 
 There are many more wonderful things that can be done with Euler's
-formula, but we will leave them for another time.
+formula. We will use it to give "infinite polynomial" versions of sine
+and cosine in *Exercise 5*.
 
 ---
 
