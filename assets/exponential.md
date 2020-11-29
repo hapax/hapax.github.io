@@ -289,7 +289,7 @@ exponential to real-world phenomena.
 
 *Exercise 3.* A sample of Uranium-235 awaits testing. It has a
  *half-life* of $\lambda = 700$ million years, meaning that if there is a lump
- of $N$ uranium 235 atoms, half the lump will disappear after a time $\lambda$.
+ of $N$ Uranium-235 atoms, half of it will disappear after a time $\lambda$.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose we start with $N_0$ atoms. Using the analogy to compound
@@ -307,8 +307,39 @@ take for a single atom to decay? *Hint.* Use the formula for small changes.
 
 ---
 
-#### A turn 
+#### Taking turns
 
-At this point, we are going 
+At this point, we are going to propose a remarkable reinterpretation
+of the exponential in the complex plane $\mathbb{C}$.
+In order to see how this comes about, we first have to review a few
+facts about complex multiplication.
+The one crazy idea, from which you can build everything else, is that
+there is some "imaginary" number $i$ such that $i^2 = -1$.
+A *complex number* has the form $z = x + iy$, where $x$ and $y$ are
+real numbers.
+We can picture these numbers as coordinates $(x, y)$ on the Cartesian
+plane.
+But unlike points on the Cartesian plane, there is now a natural way
+to multiply two complex numbers, based on $i^2 = -1$:
+
+$$
+\begin{align*}
+z_1 z_2 & = (x_1 + iy_1)(x_2 + iy_2) \\ & = x_1 x_2 + i(x_1 y_2 + y_2 x_1) +
+i^2 y_1 y_2 \\
+& = (x_1 x_2 - y_1 y_2) + i(x_1 y_2 + y_2 x_1).
+\end{align*}
+$$
+
+This rule seems a bit fiddly, but becomes much more transparent in
+*polar* coordinates on the plane.
+Recall that instead of specifying the $x$ and $y$ components, we can
+specify the angle $\theta$ from the positive $x$ axis and distance $r$
+from the origin.
+These give the $x$ and $y$ components using the usual rules of
+trigonometry:
+
+$$
+x = r \cos \theta, \quad y = r \sin\theta.
+$$
 
 #### Ramanujan's mysterious sum
