@@ -718,3 +718,10 @@ there is nothing meaningful about the $N^2$ on the RHS. It reflects an
 arbitrary choice about how to discipline a badly behaved sum, and
 force that sum to tell us its true value.
 That true value is the term independent of $N$, namely $-1/12$.
+This is what we mean by
+
+$$
+1 + 2 + 3 + 4 + \cdots = -\frac{1}{12},
+$$
+
+no more and no less.
