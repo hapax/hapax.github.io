@@ -557,7 +557,7 @@ Some speculate that Euler may have known about it, but the first
 person to write it down and clearly understand it was
 [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
 Our approach, which differs from Ramanujan's, is the one used by
-physicists, and we will focus on a "physical" understanding of the equation.
+physicists, and we will focus on the "physical" meaning.
 
 We need one more elementary fact to get started.
 Recall the *geometric series*, stating that if $|r| < 1$, then
