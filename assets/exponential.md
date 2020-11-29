@@ -10,8 +10,8 @@ date:  2020-11-28
 **November 28, 2020.** *I discuss some of the key properties of the
   exponential function without (explicitly) invoking calculus.
   Starting with its relation to compound interest, we
-  learn about its series expansion, Euler's formula, the sum of
-  all positive numbers, and various other fun facts.*
+  learn about its series expansion, response to small changes, Euler's
+  formula, and the sum of all positive numbers.*
 
 #### An interesting limit
 
@@ -248,7 +248,7 @@ using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal places.
 
 #### From compound interest to small change
 
-One remarkable fact about the exponential is how it responds to
+Another unique property of the exponential is how it responds to
 small changes.
 Consider some tiny $\delta \ll 1$.
 The usual index laws and the power series tell us that
@@ -281,8 +281,9 @@ $$
 
 So the response to a small change is *proportional to the function
 itself*.
-This underlies many of the most important applications of the
-exponential function.
+In fact, this gives another way to define the exponential!
+But more importantly, it underlies the many application of the
+exponential to real-world phenomena.
 
 ---
 
