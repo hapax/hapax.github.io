@@ -241,7 +241,7 @@ e^{x + \delta} = e^x e^{\delta} = e^x \left(1 + \delta +
 \frac{\delta^2}{2!} + \cdots\right).
 $$
 
-If $\delta is very small, then most of the change is captured by
+If $\delta$ is very small, then most of the change is captured by
 the linear term in the polynomial, $e^\delta \approx 1 + \delta,
 since all the higher terms, proportional to $\delta^2, \delta^3$,
 and so on, are miniscule, since $\delta \ll 1$ implies (multiplying
@@ -254,7 +254,7 @@ $$
 
 Our linear approximation has an error of less than one part in a
 million.
-Thus, under a very small change $\delta,
+Thus, under a very small change $\delta$,
 
 $$
 e^{x+\delta} - e^x \approx e^x
