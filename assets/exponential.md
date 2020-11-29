@@ -590,7 +590,39 @@ Now we can get started.
 First, set $r = e^{-x}$ in the geometric series:
 
 $$
-1 + e^{-x} + e^{-2x} + e^{-3x} + \cdots = \frac{1}{1-e^{-x}}.
+s_x = 1 + e^{-x} + e^{-2x} + e^{-3x} + \cdots = \frac{1}{1-e^{-x}}.
 $$
 
+Consider a small change, $x \to x + \delta$ for $\delta \ll 1$:
 
+$$
+s_{x+\delta} = 1 + e^{-(x+\delta)} + e^{-2(x+\delta)} + e^{-3(x+\delta)} + \cdots = \frac{1}{1-e^{-(x+\delta)}}.
+$$
+
+To compare to the first the terms on the LHS, we can use the formula for small changes:
+
+$$
+e^{-kx} - e^{-k(x+\delta)} \approx k \delta e^{-kx}.
+$$
+
+Hence, we can write
+
+$$
+s_{x} - s_{x+\delta} \approx \delta e^{-kx} + 2 \delta e^{-2kx} + 3
+\delta e^{-3kx} + \cdots
+$$
+
+On the right, we have a sum which is looking potentially helpful,
+since the natural numbers now appear out the front of the exponential
+powers.
+But to evaluate the LHS more explicitly, we can sum the two geometric
+series:
+
+$$
+\begin{align*}
+s_{x} - s_{x+\delta} & = \frac{1}{1-e^{-x}} -
+\frac{1}{1-e^{-(x+\delta)}}\\
+& = \frac{e^{-x}-e^{-(x+\delta)}}{(1-e^{-x})(1-e^{-(x+\delta)})} \\
+& = \frac{\delta e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})}.
+\end{align*}
+$$
