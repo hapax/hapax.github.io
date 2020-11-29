@@ -285,7 +285,7 @@ exponential function.
 
 ---
 
-*Exercise 3.* A sample of uranium 235 awaits testing. It has a
+*Exercise 3.* A sample of Uranium-235 awaits testing. It has a
  *half-life* of $\lambda = 700$ million years, meaning that if there is a lump
  of $N$ uranium 235 atoms, half will disappear after a time $\lambda$.
 
