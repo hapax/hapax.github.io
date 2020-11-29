@@ -698,7 +698,7 @@ $$
 
 Terms below $N/100$ contribute to the sum, while terms above it are
 slowly but surely ignored, since they are multiplied by an exponential
-which goes to zero much faster than they blow up.
+which goes to zero much faster than they increase.
 So we can think of the series
 
 $$
