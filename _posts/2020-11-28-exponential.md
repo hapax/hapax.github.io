@@ -669,8 +669,7 @@ we find that
 $$
 \begin{align*}
 \frac{e^{-x}}{(1-e^{-x})^2} & = \frac{1}{x^2}\left(1 -\frac{x^2}{12} +
-\cdots \right) \\
-& = \frac{1}{x^2} - \frac{1}{12} + \cdots.
+\cdots \right)  = \frac{1}{x^2} - \frac{1}{12} + \cdots.
 \end{align*}
 $$
 
