@@ -249,7 +249,8 @@ We present a much quicker algorithm here.
 
 <span style="padding-left: 20px; display:block">
 (b) From your answer to (a), create a method for approximating $e$
-using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal places.
+using $k$ rather than $n$. Use this to estimate $e$ to $10$ decimal
+places. How many terms do you need?
 </span>
 
 ---
