@@ -585,7 +585,6 @@ $$
 
 for the same reasons we gave above, namely that the higher powers in
 $r$ contribute much less.
-
 Now we can get started.
 First, set $r = e^{-x}$ in the geometric series:
 
