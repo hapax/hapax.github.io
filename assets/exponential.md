@@ -608,7 +608,7 @@ Hence, we can write
 
 $$
 s_{x} - s_{x+\delta} \approx \delta e^{-kx} + 2 \delta e^{-2kx} + 3
-\delta e^{-3kx} + \cdots
+\delta e^{-3kx} + \cdots.
 $$
 
 On the right, we have a sum which is looking potentially helpful,
@@ -624,4 +624,12 @@ s_{x} - s_{x+\delta} & = \frac{1}{1-e^{-x}} -
 & = \frac{e^{-x}-e^{-(x+\delta)}}{(1-e^{-x})(1-e^{-(x+\delta)})} \\
 & \approx \frac{\delta e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})}.
 \end{align*}
+$$
+
+Equating our two expressions and dividing by $\delta$, we get the
+equation
+
+$$
+frac{e^{-x}}{(1-e^{-x})(1-e^{-(x+\delta)})} \approx e^{-kx} + 2 e^{-2kx} + 3
+e^{-3kx} + \cdots.
 $$
