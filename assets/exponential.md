@@ -124,7 +124,7 @@ In the rest of this post, we will explore some of the remarkable
 properties and applications of the exponential function, but from an
 elementary, pre-calculus point of view.
 
-#### A prodigious polynomial
+#### A powerful polynomial
 
 Above, we expanded the term $p_2(x)$:
 
