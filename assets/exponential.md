@@ -231,6 +231,35 @@ messy business of formal proof.
 
 #### Small changes
 
+One remarkable fact about the exponential is how to it responds to
+small changes.
+Consider some tiny $\epsilon \ll 1$.
+The usual index laws and the power series tell us that
+
+$$
+e^{x + \epsilon} = e^x e^{\epsilon} = e^x \left(1 + \epsilon +
+\frac{\epsilon^2}{2!} + \cdots\right).
+$$
+
+If $\epsilon$ is very small, then most of the change is captured by
+the linear term in the polynomial, $e^\epsilon \approx 1 + \epsilon$,
+since all the higher terms, proportional to $\epsilon^2, \epsilon^3$,
+and so on, are miniscule.
+For instance, if $\epsilon = 0.001$, then
+
+$$
+e^\epsilon = 1.00100050\ldots \approx 1.001 = 1 + \epsilon.
+$$
+
+Our linear approximation has an error of less than one part in a
+million.
+Thus, under a very small change $\epsilon$,
+
+$$
+\Delta_\epsilon e^{x} = e^{x+\epsilon} - e^x \approx e^x
+\left[(1 + \epsilon) - 1\right] = \epsilon e^x.
+$$
+
 #### Euler's formula
 
 #### Ramanujan's mysterious sum
