@@ -415,8 +415,8 @@ $$
 r_n^2 = 1 + \frac{\theta^2}{n^2}.
 $$
 
-When $n$ gets large, this gets very close to $1$. In fact, you can
-prove in Exercise 4 below that
+When $n$ gets large, this is very close to $1$. In fact, you can
+prove in Exercise 4 that
 
 $$
 r_\infty = \lim_{n\to \infty} r_n^{n} = 1.
