@@ -17,10 +17,11 @@ date:  2020-11-28
 
 1. <a href="#sec-1">Compound interest</a>
 2. <a href="#sec-2">An infinite polynomial</a>
-3. <a href="#sec-3">From compound interest to small change</a>
-4. <a href="#sec-4">Euler's formula</a>
-5. <a href="#sec-5">Factorization and the Basel problem</a>
-6. <a href="#sec-6">Ramanujan's mysterious sum*</a>
+3. <a href="#sec-3">Stirling's approximation</a>
+4. <a href="#sec-4">From interest to small change</a>
+5. <a href="#sec-5">Euler's formula</a>
+6. <a href="#sec-6">Factorization and the Basel problem</a>
+7. <a href="#sec-7">Ramanujan's mysterious sum*</a>
 
 #### 1. Compound interest <a id="sec-1" name="sec-1"></a>
 
@@ -262,7 +263,7 @@ places. How many terms do you need?
 
 ---
 
-#### 3. From compound interest to small change<a id="sec-3" name="sec-3"></a> 
+#### 3. From interest to small change<a id="sec-3" name="sec-3"></a> 
 
 Another unique property of the exponential is how it responds to
 small changes.
@@ -323,7 +324,44 @@ take for a single atom to decay? *Hint.* Use the formula for small changes.
 
 ---
 
-#### 4. Euler's formula<a id="sec-4" name="sec-4"></a>
+#### 4. Stirling's approximation <a id="sec-4" name="sec-4"></a>
+
+We have just seen an approximation that works for very small arguments
+of the exponential.
+In this section, we present a rough guess for large arguments, which
+leads in turn to a beautiful approximation of the factorial.
+This is called *Stirling's approximation* after [James Stirling](https://en.wikipedia.org/wiki/James_Stirling_(mathematician)), though
+credit should also go to
+[Abraham de Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre)
+who discovered it slightly earlier.
+The basic idea is to consider $e^n$.
+From our infinite polynomial, this can be written
+
+$$
+e^n = 1 + n + \frac{n^2}{2!} + \cdots + \frac{n^k}{k!} + \cdots.
+$$
+
+If we start counting from $k = 0$, the $k$th term is
+
+$$
+a_k := \frac{n^k}{k!} = \left(\frac{n}{1}\right) \times
+\left(\frac{n}{2}\right) \times \cdots \times \left(\frac{n}{k}\right).
+$$
+
+This gets progressively larger while $n \geq k$. But once we hit
+$n = k$, the subsequent factors will be less than $1$, so it begins to
+shrink again.
+The nearby terms are of similar size, but soon they begin to shrink
+and become negligible.
+We plot the $a_k$ for $n = 10$, from $k = 0$ to $k = 20$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/stirling.png"/>
+	</div>
+	</figure>
+
+#### 5. Euler's formula<a id="sec-5" name="sec-4"></a>
 
 At this point, we are going to propose a remarkable reinterpretation
 of the exponential in the complex plane $\mathbb{C}$.
@@ -471,8 +509,8 @@ $$
 
 since $\cos\pi = -1$ and $\sin\pi = 0$.
 There are many wonderful things Euler's formula can do.
-Our one example is Exercise 5, where we use it to give "infinite
-polynomials" for sine and cosine.
+We give two examples: de Moivre's theorem in Exercise 5, and "infinite
+polynomials" for sine and cosine in Exercise 6.
 
 ---
 
@@ -510,7 +548,20 @@ of the infinite polynomial survives. Hence, $r_\infty = 1$.
   ⁂
   </p>
 
-*Exercise 5.* Let's suppose that the infinite polynomial expression
+*Exercise 5.* As a special case of Euler's formula, deduce *de
+Moivre's theorem*,
+
+$$
+(\cos \theta + i \sin\theta)^n = \cos(n\theta) + i \sin (n\theta).
+$$
+
+Use this to find triple-angle formulas for $\cos(3\theta)$ and $\sin(3\theta)$.
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 6.* Let's suppose that the infinite polynomial expression
 still holds for $e^{i\theta}$, so that
 
 $$
@@ -548,9 +599,9 @@ and $\sin\theta$, like you did for $e$ in Exercise 2.
 
 ---
 
-#### 5. Factorization and reciprocal squares <a id="sec-5" name="sec-5"></a>
+#### 6. Factorization and reciprocal squares <a id="sec-6" name="sec-6"></a>
 
-In Exercise 5, we derived infinite polynomials for sine and cosine.
+In Exercise 6, we derived infinite polynomials for sine and cosine.
 Rather than repeat these derivations, let's simply find the first two
 terms for sine.
 First, we notice that
@@ -720,7 +771,7 @@ $$
 
 ---
 
-#### 6. Ramanujan's mysterious sum* <a id="sec-6" name="sec-6"></a>
+#### 7. Ramanujan's mysterious sum* <a id="sec-7" name="sec-7"></a>
 
 Euler's results, as miraculous as they seem at first glance, follow from
 straightforward if slapdash manipulations.
@@ -910,7 +961,7 @@ no more and no less.
 
 ---
 
-*Exercise 7.* We can use this approach to evaluate other crazy sums.
+*Exercise 8.* We can use this approach to evaluate other crazy sums.
 
 <span style="padding-left: 20px; display:block">
 (a) Using Ramanujan's sum, give a simple argument that
