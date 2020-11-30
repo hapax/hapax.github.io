@@ -631,8 +631,8 @@ $$
 \end{align*}
 $$
 
-Though we have arrived by a slightly suspect route, it turns out this
-formula is rigorously correct.
+Though we have arrived by a slightly suspect route, this formula can
+proved formally, though as usual we will not do so.
 Nifty as it is, we have not factorized for its own sake, but in order
 to do something even cooler.
 We just matched up the first term in the expanded polynomial for
