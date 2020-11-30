@@ -430,7 +430,6 @@ less than $1$%!
  more time and machinery than we can afford. Instead, we will continue
  our sloppy ways, and improve our estimate of $e^n$ using guesswork
  and computers!
-
 Our first inspired guess is that the curve
  we plotted for $n = 10$ looks like a
  [Bell curve](https://en.wikipedia.org/wiki/Normal_distribution)! This
