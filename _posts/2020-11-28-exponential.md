@@ -483,7 +483,7 @@ They should look the picture below.
 (d) The relationship is definitely not linear!
 	To see what it is, plot the points on a log-log
 	plot, and fit a straight line to the data. You should get
-	something like
+	something like:
 	</span>
 
 <figure>
