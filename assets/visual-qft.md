@@ -16,10 +16,28 @@ date:  2020-11-27
 
 *Prerequisites: basic quantum mechanics and linear algebra.*
 
-In quantum mechanics, the state of a physical system is a vector
-$|\psi\rangle$ living in a Hilbert space $\mathcal{H}$.
-The main reason that quantum computers are more powerful than
-classical computers is that *Hilbert space is huge*.
+In quantum mechanics, a system is describe by a vector in a Hilbert
+space.
+These Hilbert spaces are huge, and this is in some sense the main
+reason quantum computers are more powerful than classical ones.
+But this leads to two problems: how can we effectively take advantage
+of a these big Hilbert spaces?
+And how can we picture what's going on?
+It turns out that, sometimes, these questions have the same answer.
+In seeking a convenient way to visualize high-dimensional Hilbert
+spaces, we will stumble onto the *quantum Fourier transform* (QFT), a
+workhorse protocol in quantum computing that underlies some of the
+most dramatic quantum speedups, such as Shor's algorithm.
+
+##### 2. Polygons<a id="sec-2" name="sec-2"></a>
+
+But there are various hacks and workarounds, and one of the most
+powerful you already (secretly) know about.
+Using Cartesian axes, we can draw 
+
+##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
+
+##### Extra
 
 A set of $n$ classical bits can be viewed as an $n$-dimensional
 vectors space (over a finite field $\mathbb{F}_2$), with $n$ basis vectors.
@@ -40,11 +58,3 @@ We will start with a simpler question --- how to *visualize* the
 higher dimensional vectors and operations --- and find that, in
 answering, we end up building a robust computational tool called the
 *quantum Fourier transform* (QFT).
-
-### 2. Polygons<a id="sec-2" name="sec-2"></a>
-
-But there are various hacks and workarounds, and one of the most
-powerful you already (secretly) know about.
-Using Cartesian axes, we can draw 
-
-### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
