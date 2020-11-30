@@ -685,7 +685,9 @@ The problem of summing these reciprocal squares was posed in 1650 by
 Italian mathematician
 [Pietro Mongoli](https://en.wikipedia.org/wiki/Pietro_Mengoli), and
 solved 85 years later by a young Euler.
-It is called the *Basel problem* in honor of Euler.
+It is called the *Basel problem* in honor of Euler, and the famous
+Bernoulli tribe of mathematicians who made valiant but unsuccessful
+attempts to solve it.
 
 ---
 
