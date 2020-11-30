@@ -354,7 +354,7 @@ $n = k$, the subsequent factors will be less than $1$, so it begins to
 shrink again.
 The nearby terms are of similar size, but soon they begin to shrink
 and become negligible.
-We plot the $a_k$ for $n = 10$, from $k = 0$ to $k = 20$ below:
+We plot the terms $a_k$ for $n = 10$, from $k = 0$ to $k = 20$ below:
 
 <figure>
     <div style="text-align:center"><img src
