@@ -50,7 +50,9 @@ function draw() {
     }
     for (let i = 0; i < len; i++) {
       strokeWeight(2);
-      stroke(200, 0, 0);      
+      if (i === 0) {
+          stroke(0);
+	  else {         stroke(200, 0, 0); }
       line(width/2, height/2, mx[i], my[i]);
       strokeWeight(firstRad*(5/3));
       point(mx[i], my[i]);
