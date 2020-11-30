@@ -19,7 +19,8 @@ date:  2020-11-28
 2. <a href="#sec-2">An infinite polynomial</a>
 3. <a href="#sec-3">From compound interest to small change</a>
 4. <a href="#sec-4">Euler's formula</a>
-5. <a href="#sec-5">Ramanujan's mysterious sum</a>
+5. <a href="#sec-5">Factorization and reciprocal squares</a>
+6. <a href="#sec-6">Ramanujan's mysterious sum*</a>
 
 #### 1. Compound interest <a id="sec-1" name="sec-1"></a>
 
@@ -110,6 +111,12 @@ $n$, the total value of our principal $I_0$ at the end of the year is
 
 $$
 \lim_{n\to\infty} I_{\text{comp}(n)} = e^r I_0.
+$$
+
+You can assume that
+
+$$
+\lim_{n\to\infty} x_n^r = \left[\lim_{n\to\infty} x_n\right]^2.
 $$
 
 *Hint.* Consider redefining $n$ so that the interest term looks more
@@ -452,7 +459,9 @@ $$
 
 This result was first derived by [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and is called *Euler's
 formula* in his honor.
-It is nothing short of a miracle, and yields an equation often said to be the most beautiful in
+It is nothing short of a miracle that compound angles and compound
+interest are connected this way!
+As a special case, the formula yields an equation often said to be the most beautiful in
 mathematics:
 
 $$
@@ -461,7 +470,8 @@ $$
 
 since $\cos\pi = -1$ and $\sin\pi = 0$.
 There are many wonderful things Euler's formula can do.
-Our one example is Exercise 5, where we use it to give "infinite polynomials" for sine and cosine.
+Our one example is Exercise 5, where we use it to give "infinite
+polynomials" for sine and cosine.
 
 ---
 
@@ -537,27 +547,186 @@ and $\sin\theta$, like you did for $e$ in Exercise 2.
 
 ---
 
-#### 5. Ramanujan's mysterious sum <a id="sec-1" name="sec-1"></a>
+#### 5. Factorization and reciprocal squares <a id="sec-5" name="sec-5"></a>
 
-As miraculous as Euler's formula is, when we make the connection
-between compound interest and compound angles, it becomes clear why it
-works.
-An equation which seems so miraculous as to be blatantly wrong is the
-following:
+In Exercise 5, we derived infinite polynomials for sine and cosine.
+Rather than repeat these derivations, let's simply find the first two
+terms for sine.
+First, we notice that
+
+$$
+e^{i\theta} = 1 + i\theta + \frac{i^2\theta^2}{2} +
+\frac{i^3\theta^3}{6} + \cdots = 1 + i\theta - \frac{\theta^2}{2} -
+\frac{i\theta^3}{6} + \cdots.
+$$
+
+Since $e^{i\theta} = \cos\theta + i \sin\theta$, the terms
+proportional to $i$ must organize into some sort of infinite
+polynomial for $\sin\theta$.
+But we only need the ones above:
+
+$$
+\sin \theta = \theta - \frac{\theta^3}{6} + \cdots
+$$
+
+There are two ways of writing ordinary polynomials: expanded and
+factorized. For instance, when we write
+
+$$
+-2 - x + x^2 = (x - 2)(x+1),
+$$
+
+we have the expanded form on the left and the factorized form on the
+right.
+We will boldly follow Euler and assume that this can sometimes be done
+for infinite polynomials as well!
+Recall that if a polynomial $p(x)$ has factorized form
+
+$$
+p(x) = C(x - a_1)(x-a_2) \cdots (x - a_n),
+$$
+
+then it equals zero precisely at $x = a_1, a_2, \ldots, a_n$.
+We know that $\sin\theta$ equals zero at
+
+$$
+\theta = 0, \pm \pi, \pi 2 \pi, \pm 3\pi, \ldots.
+$$
+
+This suggests that the infinite polynomial can be factorized as
+
+$$
+\sin\theta = C \theta (\theta - \pi) (\theta + \pi) (\theta - 2\pi) (\theta + 2\pi) \cdots.
+$$
+
+This vanishes at the right places, but we still need to determine $C$.
+With a bit of ingenuity, we can just take $\theta \ll 1$, and use the
+first term in the expanded form, $\sin\theta \approx \theta$.
+When $\theta \ll 1$, then in each factor $\theta \ll \pm k \pi$, and
+hence
+
+$$
+\sin\theta = C \theta (\theta - \pi) (\theta + \pi) \cdots \approx
+\theta C(-\pi)(+\pi) (-2\pi)(+2\pi) \cdots.
+$$
+
+To get this to equal $\theta$, we simply make the choice
+
+$$
+C =[(-\pi)(+\pi) (-2\pi)(+2\pi) \cdots]^{-1}..
+$$
+
+This seems $C$ has to be infinite!
+But assuming we can do this, we end up with
+
+$$
+\sin\theta = C \theta (\theta - \pi) (\theta + \pi) \cdots = \theta
+\left(1-\frac{\theta^2}{\pi^2}\right) \left(1-\frac{\theta^2}{4\pi}\right) \left(1-\frac{\theta^2}{9\pi}\right) \cdots.
+$$
+
+Though we have arrived by a slightly suspect route, it turns out this
+formula is rigorously correct.
+Nifty as it is, we have not factorized for its own sake, but in order
+to do something even cooler.
+We just matched up the first term in the expanded polynomial for
+$\sin\theta$, and its factorized form, in order to figure out $C$.
+What about the next term?
+Recall that, in expanded form, it is $-\theta^3/6$.
+In factorized form, we have an unavoidable factor of $\theta$ out the
+front, so it is going to be given by the quadratic term (proportional
+to $\theta^2$) when we expand
+
+$$
+\left(1-\frac{\theta^2}{\pi^2}\right) \left(1-\frac{\theta^2}{4\pi}\right) \left(1-\frac{\theta^2}{9\pi}\right) \cdots.
+$$
+
+Just like with the binomial theorem, we can think of this in terms of
+the choices we can make to get terms like $\theta^2$.
+Since each factor contains a multiple of $\theta^2$ or $1$, we can
+only choose it once! In every other factor we have to choose $1$.
+If we choose the $\theta^2$ term in the first factor, we get
+
+$$
+\left(1-\frac{\theta^2}{\pi^2}\right) \to -\frac{\theta^2}{\pi^2}
+$$
+
+and $1$ from everything else.
+If instead we choose the $\theta^2$ from he second factor, we get
+
+$$
+\left(1-\frac{\theta^2}{4\pi^2}\right) \to -\frac{\theta^2}{4\pi^2}
+$$
+
+and $1$ from everything else.
+In general, if we choose factor $k$, we will get a contribution
+$-\theta^2/(k\pi)^2$.
+So we will get a term
+
+$$
+\frac{\theta^2}{\pi^2}\left(1 + \frac{1}{4} + \frac{1}{9} + \cdots \right).
+$$
+
+We are (laboriously) expanding the factorized form, so the results
+must match the term we got from the exponential.
+Adding the $\theta$ back in, this means
+
+$$
+\frac{\theta^3}{\pi^2}\left(1 + \frac{1}{4} + \frac{1}{9} + \cdots
+\right) = -\frac{\theta^3}{6},
+$$
+
+and hence
+
+$$
+1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}.
+$$
+
+We have stumbled onto another result first proved by Euler: the sum of
+reciprocals of perfect squares is $\pi^2/6$.
+
+---
+
+*Exercise 7.* Now it's time to do it yourself!
+
+<span style="padding-left: 20px; display:block">
+(a) Find an infinite product form for $\cos\theta$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) By matching the coefficients of $\theta^2$, argue that the sum of
+reciprocals of odd numbers is
+</span>
+
+$$
+1 + \frac{1}{3^2} + frac{1}{5^2} + \cdots =  \frac{\pi^2}{8}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) Show that (b) also follows from the sum of reciprocal squares.
+</span>
+
+---
+
+#### 6. Ramanujan's mysterious sum* <a id="sec-6" name="sec-6"></a>
+
+Euler's results, as miraculous as they seem at first glance, follow from
+straightforward if slapdash manipulations.
+But the following chestnut seems so miraculous as to be blatantly wrong:
 
 $$
 1 + 2 + 3 + 4 + \cdots = -\frac{1}{12}.
 $$
 
-It is a paradox: the sum of all the positive natural numbers is
+It is a paradox. The sum of all the positive natural numbers is
 apparently not only finite, but negative!
-Although it seems insane, there is a rigorous way to interpret this
-statement.
+Although it seems like it cannot possibly be true, there is a rigorous
+way to interpret this statement so that is not only mathematically
+correct but useful.
 Some speculate that Euler may have known about it, but the first
 person to write it down and clearly understand it was
 [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
-Our approach, which differs from Ramanujan's, is the one used by
-physicists, and we will focus on the "physical" meaning.
+Our approach, which differs slightly from Ramanujan's, is the one used by
+physicists, and we will focus on its "physical" meaning.
 
 We need one more elementary fact to get started.
 Recall the *geometric series*, stating that if $|r| < 1$, then
@@ -725,3 +894,30 @@ $$
 $$
 
 no more and no less.
+
+---
+
+*Exercise 7.* We can use this approach to evaluate other crazy sums.
+
+<span style="padding-left: 20px; display:block">
+(a) Using Ramanujan's sum, give a simple argument that
+</span>
+
+$$
+1 - 2 + 3 - 4 + \cdots = \frac{1}{4}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Without using Ramanujan's sum, repeat the arguments from this
+section to evaluate
+</span>
+
+$$
+1 e^{-x} - 2 e^{-2x} + 3 e^{-x} - \cdots - (-1)^k k e^{-kx} + \cdots
+$$
+
+<span style="padding-left: 20px; display:block">
+and hence provide a rigorous interpretation of (a).
+</span>
+
+---
