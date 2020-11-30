@@ -1108,7 +1108,6 @@ On the RHS, the powers of $x$ in the $\cdots$ vanish, but the
 $-1/12$ survives.
 Of course, there is also a term $1/x^2$, which blows up and gives us
 the infinity we expect.
-
 So why do physicists tend to ignore it?
 Consider $x \approx 1/N$ for a large number $N$.
 Then $e^{-kx}$ is close to $1$ until around $k \approx N/100$, since
