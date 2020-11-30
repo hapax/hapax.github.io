@@ -47,6 +47,21 @@ To make our problem sharp, let's consider the simplest nontrivial
 system: a single qubit.
 The classical bit can be in states $b = 0, 1$, so each of these is a
 basis state of the qubit, $|b\rangle$.
+A general vector in this Hilbert space is
+
+$$
+|\psi\rangle = \alpha |0\rangle + \beta |1\rangle, \quad \alpha, \beta
+\in \mathbb{C}.
+$$
+
+Without further work, the space of states lives in $\mathbb{C}^2
+\simeq \mathbb{R}^4$, which is already impossible to picture.
+Our visual cortex evolved for three dimensions only!
+There are some tricks that mean we *can* draw directly draw the space
+of sinqle qubit states on a sphere, but as soon as we have a bigger
+Hilbert space, this method fails.
+It is radically non-scaleable.
+Clearly, we cannot approach this problem directly!
 
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
