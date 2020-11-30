@@ -457,8 +457,9 @@ $$
 e^{i\theta} = \cos\theta + i \sin\theta.
 $$
 
-This result was first derived by Swiss giant [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and is called *Euler's
-formula* in his honor.
+This result was first derived by Swiss giant of mathematics
+[Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler), and is
+called *Euler's formula* in his honor.
 It is nothing short of a miracle that compound angles and compound
 interest are connected this way!
 As a special case, the formula yields an equation often said to be the most beautiful in
