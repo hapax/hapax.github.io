@@ -29,6 +29,12 @@ spaces, we will stumble onto the *quantum Fourier transform* (QFT), a
 workhorse protocol in quantum computing that underlies some of the
 most dramatic quantum speedups, such as Shor's algorithm.
 
+To be a little more precise, let's consider a classical computer which
+stores $n$ bits.
+There are $2^n$ possible states of the computer.
+For the purposes of analogy, we can view these strings as vectors in
+an $n$-dimensional vector space of $\mathbb{F}_2$.
+
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
 But there are various hacks and workarounds, and one of the most
