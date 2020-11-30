@@ -481,18 +481,39 @@ They should look the picture below.
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-(d) Above, I've plotted my answers for part (c).
-I've also drawn the curve $y = \sqrt{x}$ in black over the top.
-The almost perfect agreement suggests that
+(d) The relationship is definitely not linear!
+	To see what the relationship is, plot the points on a log-log
+	plot, and fit a straight line to the data. You should get
+	something like
+	</span>
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/stirling3.png"/>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(e) Let $Y = \log y$ and $X = \log x$. Show that if $Y = mx$ on a
+log-log plot, then
 </span>
 
 $$
-k_\sigma(n) = \sqrt{n}.
+y = x^m.
 $$
 
 <span style="padding-left: 20px; display:block">
-From this computationally-motivated guess, make the further guess $C_n
-\approx \sqrt{2\pi n}$ and hence derive
+(e) From your answer to (d), or my plot, deduce that $m = 1/2$, and
+hence to a good approximation,
+	</span>
+
+$$
+k_\sigma(n) \approx \sqrt{n}.
+$$
+
+<span style="padding-left: 20px; display:block">
+From this computationally-motivated guess, deduce the *improved
+Stirling approximation*:
 </span>
 
 $$
