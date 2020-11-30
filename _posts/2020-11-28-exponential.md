@@ -428,7 +428,7 @@ less than $1$%!
 
 *Exercise 4.* Unfortunately, proving that $C_n \leq n$ takes a bit
  more time and machinery than we can afford. Rather than mend our
- sloppy ways, we will dig in, and improve our estimate of $e^n$ using
+ sloppy ways, we will dig in, and estimate $C_n$ using
  guesswork and computers!
 Our first inspired guess is that the curve
  we plotted for $n = 10$ looks like a
