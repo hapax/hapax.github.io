@@ -48,6 +48,8 @@ function draw() {
 		fill(130);
 		push();
 		translate(mx[i+1], my[i+1]);
+		let angle = atan((mx[i+1] - my[i+1])/(mx[i] - my[i]));
+		rotate(angle);
 		triangle(0, 0, 2, 5, -2, 5);
 		pop();
 		noFill();
