@@ -415,6 +415,21 @@ $$
 \ln n! \approx n\ln n - n.
 $$
 
+As a quick example, we can estimate
+
+$$
+\ln 100! \approx 100 \ln 100 - 100 \approx 361.
+$$
+
+Evaluating $\ln 100!$ exactly on a calculator gives $364$, an error of
+less than $1$%!
+
+---
+
+*Exercise 4.*
+
+---
+
 #### 5. Euler's formula<a id="sec-5" name="sec-4"></a>
 
 At this point, we are going to propose a remarkable reinterpretation
@@ -515,7 +530,7 @@ r_n^2 = 1 + \frac{\theta^2}{n^2}.
 $$
 
 When $n$ gets large, this is very close to $1$. In fact, you can
-prove in Exercise 4 that
+prove in Exercise 5 that
 
 $$
 r_\infty = \lim_{n\to \infty} r_n^{n} = 1.
@@ -563,12 +578,12 @@ $$
 
 since $\cos\pi = -1$ and $\sin\pi = 0$.
 There are many wonderful things Euler's formula can do.
-We give two examples: de Moivre's theorem in Exercise 5, and "infinite
-polynomials" for sine and cosine in Exercise 6.
+We give two examples: de Moivre's theorem in Exercise 6, and "infinite
+polynomials" for sine and cosine in Exercise 7.
 
 ---
 
-*Exercise 4.* We will step through a (heuristic) proof that $r_\infty = 1$.
+*Exercise 5.* We will step through a (heuristic) proof that $r_\infty = 1$.
 
 <span style="padding-left: 20px; display:block">
 (a) Use the binomial theorem to show that
@@ -602,7 +617,7 @@ of the infinite polynomial survives. Hence, $r_\infty = 1$.
   ⁂
   </p>
 
-*Exercise 5.* As a special case of Euler's formula, deduce *de
+*Exercise 6.* As a special case of Euler's formula, deduce *de
 Moivre's theorem*,
 
 $$
@@ -615,7 +630,7 @@ Use this to find triple-angle formulas for $\cos(3\theta)$ and $\sin(3\theta)$.
   ⁂
   </p>
 
-*Exercise 6.* Let's suppose that the infinite polynomial expression
+*Exercise 7.* Let's suppose that the infinite polynomial expression
 still holds for $e^{i\theta}$, so that
 
 $$
@@ -655,7 +670,7 @@ and $\sin\theta$, like you did for $e$ in Exercise 2.
 
 #### 6. Factorization and reciprocal squares <a id="sec-6" name="sec-6"></a>
 
-In Exercise 6, we derived infinite polynomials for sine and cosine.
+In Exercise 7, we derived infinite polynomials for sine and cosine.
 Rather than repeat these derivations, let's simply find the first two
 terms for sine.
 First, we notice that
@@ -804,7 +819,7 @@ attempts to solve it.
 
 ---
 
-*Exercise 7.* Now it's time to do it yourself!
+*Exercise 8.* Now it's time to do it yourself!
 
 <span style="padding-left: 20px; display:block">
 (a) Find an infinite product form for $\cos\theta$.
@@ -1015,7 +1030,7 @@ no more and no less.
 
 ---
 
-*Exercise 8.* We can use this approach to evaluate other crazy sums.
+*Exercise 9.* We can use this approach to evaluate other crazy sums.
 
 <span style="padding-left: 20px; display:block">
 (a) Using Ramanujan's sum, give a simple argument that
