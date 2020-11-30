@@ -1010,7 +1010,7 @@ $$
 s_{x+\delta} = 1 + e^{-(x+\delta)} + e^{-2(x+\delta)} + e^{-3(x+\delta)} + \cdots = \frac{1}{1-e^{-(x+\delta)}}.
 $$
 
-To compare to the first the terms on the LHS, we can use the formula for small changes:
+To compare to $s_x$, we can use the formula for small changes:
 
 $$
 e^{-kx} - e^{-k(x+\delta)} \approx k \delta e^{-kx}.
