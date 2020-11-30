@@ -620,8 +620,15 @@ It seems $C$ has to be infinite!
 But assuming we can do this, we end up with
 
 $$
-\sin\theta = C \theta (\theta - \pi) (\theta + \pi) \cdots = \theta
-\left(1-\frac{\theta^2}{\pi^2}\right) \left(1-\frac{\theta^2}{4\pi}\right) \left(1-\frac{\theta^2}{9\pi}\right) \cdots.
+\begin{align*}
+\sin\theta & = C \theta (\theta - \pi) (\theta + \pi) (\theta - 2\pi) (\theta + 2\pi) \cdots \\
+& = \theta \frac{(\theta - \pi)}{-\pi} \frac{(\theta + \pi)}{\pi} \frac{(\theta - 2\pi)}{-2\pi} \frac{(\theta + 2\pi)}{2\pi}
+\cdots \\
+& = \theta
+\left(1-\frac{\theta^2}{\pi^2}\right)
+\left(1-\frac{\theta^2}{4\pi}\right)
+\left(1-\frac{\theta^2}{9\pi}\right) \cdots.
+\end{align*}
 $$
 
 Though we have arrived by a slightly suspect route, it turns out this
