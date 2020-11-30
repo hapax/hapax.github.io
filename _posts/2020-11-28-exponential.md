@@ -639,7 +639,7 @@ to do something even cooler.
 We just matched up the first term in the expanded polynomial for
 $\sin\theta$, and its factorized form, in order to figure out $C$.
 What about the next term?
-Recall that, in expanded form, it is $-\theta^3/6$.
+This is $-\theta^3/6$.
 In factorized form, we have an unavoidable factor of $\theta$ out the
 front, so it is going to be given by the quadratic term (proportional
 to $\theta^2$) when we expand
