@@ -622,8 +622,8 @@ $$
 
 In other words, a product of two complex numbers simply multiplies the
 lengths and adds the angles.
-Great! Now we can make magic happen.
-Without stopping to worry too much, let's just plug an *imaginary*
+Great! Now things can take an interesting "turn" (ahem).
+Without stopping to worry about justification, let's plug an *imaginary*
 number into the exponential function, and use our formula for compound interest:
 
 $$
