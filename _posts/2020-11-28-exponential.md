@@ -353,13 +353,66 @@ $n = k$, the subsequent factors will be less than $1$, so it begins to
 shrink again.
 The nearby terms are of similar size, but soon they begin to shrink
 and become negligible.
-We plot the $a_k$ for $n = 10$, from $k = 0$ to $k = 20$:
+We plot the $a_k$ for $n = 10$, from $k = 0$ to $k = 20$ below:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/stirling.png"/>
 	</div>
 	</figure>
+
+It starts small, peaks at $k = 9, 10$, then quickly drops down again.
+Our guess is very simple: the total value $e^n$ is proportional to
+this maximum value,
+
+$$
+e^n = C_n a_n = C_n \frac{n^n}{n!},
+$$
+
+with some constant of proportionality $C_n$ to account for the
+contribution of other terms.
+From the picture, it seems plausible that $e^n$ (which comes from
+adding all the dots) is much smaller than $n$ dots of height $a_n$,
+and hence
+
+$$
+e^n = C_n a_n \leq n a_n \quad \Longrightarrow \quad C_n \leq n.
+$$
+
+This is a very sloppy estimate of $e^n$ because of the factor of
+$C_n$.
+But we can turn this into a good estimate of something else simply by
+taking *logarithms*.
+I assume you know about logs, and in particular, that taking log to
+the base $e$ makes sense, but as a quick reminder, here is the
+defining equation:
+
+$$
+\log_e x = y \quad \Leftrightarrow \quad e^y = x.
+$$
+
+We write $\log_e$ as $\ln$ for "logarithm natural", as the French
+would have it. If we take logs of $e^n = C_n a_n$, the LHS gives
+
+$$
+\begin{align}
+\ln e^n & = n \ln e = n,
+\end{align}
+$$
+
+while the RHS gives
+
+$$
+\ln (C_n a_n) = \ln C_n + \ln n^n - \ln n! = \ln C_n + n\ln n - \ln n!.
+$$
+
+Since $C_n \leq n$, $\ln C_n$ is much smaller than the other terms in
+the equation, so we can throw it away!
+Combining the two equations and rearranging a little gives *Stirling's approximation*:
+
+$$
+\ln n! \approx n\ln n - n.
+$$
 
 #### 5. Euler's formula<a id="sec-5" name="sec-4"></a>
 
