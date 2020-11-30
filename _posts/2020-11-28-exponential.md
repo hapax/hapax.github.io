@@ -10,8 +10,9 @@ date:  2020-11-28
 **November 28, 2020.** *I discuss some of the key properties of the
   exponential function without (explicitly) invoking calculus.
   Starting with its relation to compound interest, we
-  learn about its series expansion, response to small changes, Euler's
-  formula, the Basel problem, and finally the sum of all positive numbers.*
+  learn about its series expansion, Stirling's approximation, Euler's
+  formula, the Basel problem, and the sum of all positive numbers,
+  among other things.*
 
 ### Contents
 
