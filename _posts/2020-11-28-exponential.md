@@ -1125,7 +1125,7 @@ $$
 e^{-1/N} + 2 e^{-2/N} + 3 e^{-3/N} + \cdots
 $$
 
-as the sum of natural numbers, but with terms above $N/100$ smoothly ignored.
+as the sum of natural numbers, but with terms above $N/100$ gradually ignored.
 To a physicist, we must ignore these large terms to get a sensible,
 finite answer, but the choice of $N$ is an arbitrary one without
 physical meaning. So, in the identity
@@ -1135,10 +1135,10 @@ e^{-1/N} + 2 e^{-2/N} + 3 e^{-3/N} + \cdots = N^2 - \frac{1}{12} + \cdots,
 $$
 
 there is nothing meaningful about the $N^2$ on the RHS. It reflects an
-arbitrary choice about how to discipline a badly behaved sum, and
-force that sum to tell us its true value.
+arbitrary choice about how to discipline a badly behaved sum, which
+forces it to tell us its true value.
 That true value is the term independent of $N$, namely $-1/12$.
-This is what we mean by
+This is what physicists mean by
 
 $$
 1 + 2 + 3 + 4 + \cdots = -\frac{1}{12},
