@@ -382,7 +382,7 @@ $$
 
 This is a very sloppy estimate of $e^n$ because of the factor of
 $C_n$.
-But we can turn this into a good estimate of something else simply by
+But we can turn this into a good estimate of something else, simply by
 taking *logarithms*.
 I assume you know about logs, and in particular, that taking log to
 the base $e$ makes sense, but as a quick reminder, here is the
