@@ -1023,7 +1023,7 @@ s_{x} - s_{x+\delta} \approx \delta e^{-x} + 2 \delta e^{-2x} + 3
 \delta e^{-3x} + \cdots.
 $$
 
-On the right, we have a sum which is looking potentially helpful,
+This sum looks potentially helpful,
 since the natural numbers now appear out the front of the exponential
 powers.
 But to evaluate the LHS more explicitly, we can sum the two geometric
