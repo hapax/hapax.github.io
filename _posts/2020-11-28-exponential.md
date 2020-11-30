@@ -11,7 +11,7 @@ date:  2020-11-28
   exponential function without (explicitly) invoking calculus.
   Starting with its relation to compound interest, we
   learn about its series expansion, response to small changes, Euler's
-  formula, and the sum of all positive numbers.*
+  formula, the Basel problem, and finally the sum of all positive numbers.*
 
 ### Contents
 
@@ -19,7 +19,7 @@ date:  2020-11-28
 2. <a href="#sec-2">An infinite polynomial</a>
 3. <a href="#sec-3">From compound interest to small change</a>
 4. <a href="#sec-4">Euler's formula</a>
-5. <a href="#sec-5">Factorization and reciprocal squares</a>
+5. <a href="#sec-5">Factorization and the Basel problem</a>
 6. <a href="#sec-6">Ramanujan's mysterious sum*</a>
 
 #### 1. Compound interest <a id="sec-1" name="sec-1"></a>
@@ -457,7 +457,7 @@ $$
 e^{i\theta} = \cos\theta + i \sin\theta.
 $$
 
-This result was first derived by [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and is called *Euler's
+This result was first derived by Swiss giant [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) and is called *Euler's
 formula* in his honor.
 It is nothing short of a miracle that compound angles and compound
 interest are connected this way!
@@ -681,8 +681,11 @@ $$
 1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}.
 $$
 
-We have stumbled onto another result first proved by Euler: the sum of
-reciprocals of perfect squares is $\pi^2/6$.
+The problem of summing these reciprocal squares was posed in 1650 by
+Italian mathematician
+[Pietro Mongoli](https://en.wikipedia.org/wiki/Pietro_Mengoli), and
+solved 85 years later by a young Euler.
+It is called the *Basel problem* in honor of Euler.
 
 ---
 
@@ -723,7 +726,7 @@ Although it seems like it cannot possibly be true, there is a rigorous
 way to interpret this statement so that is not only mathematically
 correct but useful.
 Some speculate that Euler may have known about it, but the first
-person to write it down and clearly understand it was
+person to write it down and clearly understand it was Indian mathematician
 [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan).
 Our approach, which differs slightly from Ramanujan's, is the one used by
 physicists, and we will focus on its "physical" meaning.
