@@ -299,7 +299,7 @@ $$
 
 So the response to a small change is *proportional to the function
 itself*.
-This even gives another way to define the exponential!
+This actually gives another way to define the exponential!
 But more importantly, it underlies the many application of the
 exponential to real-world phenomena.
 
@@ -426,7 +426,94 @@ less than $1$%!
 
 ---
 
-*Exercise 4.*
+*Exercise 4.* Unfortunately, proving that $C_n \leq n$ takes a bit
+ more time and machinery than we can afford. Instead, we will continue
+ our sloppy ways, and improve our estimate of $e^n$ using guesswork
+ and computers!
+
+Our first inspired guess is that the curve
+ we plotted for $n = 10$ looks like a
+ [Bell curve](https://en.wikipedia.org/wiki/Normal_distribution)! This
+ is the probability distribution obeyed that almost every trait,
+ e.g. height, weight, etc, obey.
+ A Bell curve with *average* $\mu$ and *standard deviation* $\sigma$ has
+ two important properties:
+ 
+ - It has a maximum height of $1/\sqrt{2\pi}\sigma$ at $\mu$.
+ - A standard deviation away from $\mu$, the probability drops to
+   around $0.6$ of its maximum height.
+
+Over to you!
+
+<span style="padding-left: 20px; display:block">
+(a) The area under the curve made by the points $a_k$ is around $e^n$,
+since we add them all up to get this value.
+Argue that, if the $a_k$ do describe an approximate Bell curve, it
+must be scaled vertically by a factor $e^n$, and hence has a height
+</span>
+
+$$
+h = \frac{e^n}{\sigma\sqrt{2\pi}}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Assuming (a) is true, deduce that
+</span>
+
+$$
+C_n \approx \sigma \sqrt{2\pi}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) It remains for us to estimate $\sigma$, the standard deviation of
+this putative Bell curve.
+Write some code that takes $n$ and outputs $k_\sigma(n)$, the first point
+$k_\sigma \geq$ such that $a_{k_\sigma}$ is less than $0.6$ of the
+maximum value $a_n$.
+Calculate $k_\sigma(n)$ up until $n = 500$ or so and plot your results.
+</span>
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/stirling.png"/>
+	</div>
+	</figure>
+
+<span style="padding-left: 20px; display:block">
+(d) Above, I've plotted my answers for part (c).
+I've also drawn the curve $y = \sqrt{x}$ in black over the top.
+The almost perfect agreement suggests that
+</span>
+
+$$
+k_\sigma(n) = \sqrt{n}.
+$$
+
+<span style="padding-left: 20px; display:block">
+From this computationally-motivated guess, make the further guess $C_n
+\approx \sqrt{2\pi n}$ and hence derive
+</span>
+
+$$
+n! \approx \sqrt{2\pi n} \left(\frac{n}{e}\right)^n.
+$$
+
+<!-- import math
+
+def ak(n,k):
+   return n**k/math.factorial(k)
+
+def sigma(n):
+   i = n
+   while ak(n, i) > 0.6*ak(n,n):
+      i = i+1
+   return (i - n)
+
+mylst = [[n, sigma(n)] for n in range(23**2)]
+
+for [n, m] in mylst:
+   print(str(n) + ', ' + str(m))
+-->
 
 ---
 
