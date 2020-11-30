@@ -20,7 +20,7 @@ function setup() {
   createCanvas(400, 400);
   
   input = createInput();
-  input.position(35, 110);
+  input.position(35, 107);
   input.size(50);
   }
 
