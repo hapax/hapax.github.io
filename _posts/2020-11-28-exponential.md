@@ -1056,7 +1056,7 @@ First, observe that
 
 $$
 1 - e^{-x} = 1 - \left(1 - x + \frac{x^2}{2} - \frac{x^3}{6} + \cdots \right) =
-x\left(1 - \frac{x}{2} + \frac{x^3}{6} \cdots\right),
+x\left(1 - \frac{x}{2} + \frac{x^3}{6} + \cdots\right),
 $$
 
 and hence, using the geometric series in reverse,
@@ -1105,7 +1105,7 @@ $$
 As we take $x \to 0$, $e^{-kx} \to 1$ and hence the LHS gives us the
 sum of natural numbers.
 On the RHS, the powers of $x$ in the $\cdots$ vanish, but the
-$-1/12$ survives!
+$-1/12$ survives.
 Of course, there is also a term $1/x^2$, which blows up and gives us
 the infinity we expect.
 
