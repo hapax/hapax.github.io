@@ -435,7 +435,7 @@ Our first inspired guess is that the curve
  [Bell curve](https://en.wikipedia.org/wiki/Normal_distribution)! This
  is a ubiquitous probability distribution that traits like height and
  weight obey.
- A Bell curve with *average* $\mu$ and *standard deviation* $\sigma$ has
+ A Bell curve with *mean* $\mu$ and *standard deviation* $\sigma$ has
  two important properties:
  
  - It has a maximum height of $1/\sigma\sqrt{2\pi}$ at $\mu$.
