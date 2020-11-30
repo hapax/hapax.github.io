@@ -39,9 +39,14 @@ In quantum mechanics, the corresponding vector space of $n$ quantum
 bits, or *qubits*, is *exponentially* bigger, since *each $n$-bit
 string* is now a basis element, $|b_1 b_2\cdots b_n\rangle$.
 The vector space is exponentially bigger.
-It's also over the complex numbers, $\mathbb{C}$, rather than a finite
+(It's also over the complex numbers, $\mathbb{C}$, rather than a finite
 field, but this turns out to be less useful than the increase in
-dimension.
+dimension.)
+
+So, Hilbert space is huge.
+Our task is to learn how to see it, reason about it, and make use of it.
+
+##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
 To make our problem sharp, let's consider the simplest nontrivial
 system: a single qubit.
@@ -62,14 +67,15 @@ of sinqle qubit states on a sphere, but as soon as we have a bigger
 Hilbert space, this method fails.
 It is radically non-scaleable.
 Clearly, we cannot approach this problem directly!
-
-##### 2. Polygons<a id="sec-2" name="sec-2"></a>
-
-But there are various hacks and workarounds, and one of the most
-powerful you already (secretly) know about.
-Using Cartesian axes, we can draw 
+The question becomes: is there useful a way to visualize points in an
+arbitrary Hilbert space?
 
 ##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
+
+
+The answer is a resounding yes, and in fact, you probably (perhaps
+secretly) already know it.
+Consider a graph $y = f(x)$ on the Cartesian plane.
 
 ##### Extra
 
