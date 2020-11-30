@@ -710,7 +710,7 @@ reciprocals of odd numbers is
 </span>
 
 $$
-1 + \frac{1}{3^2} + frac{1}{5^2} + \cdots =  \frac{\pi^2}{8}.
+1 + \frac{1}{3^2} + \frac{1}{5^2} + \cdots =  \frac{\pi^2}{8}.
 $$
 
 <span style="padding-left: 20px; display:block">
