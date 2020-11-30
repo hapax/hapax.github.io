@@ -20,7 +20,7 @@ function setup() {
   createCanvas(400, 400);
   
   input = createInput();
-  input.position(35, 107);
+  input.position(35, 87);
   input.size(50);
   }
 
@@ -36,8 +36,8 @@ function draw() {
   let len = mx.length;
   strokeWeight(0);
   textSize(18);
-  text('d= ' + str(mx.length), 7, 45);
-  text('s= ', 8, 67)
+  text('d= ' + str(mx.length), 7, 25);
+  text('s= ', 8, 47)
   
   if (linkageToggle === 0) {
     if (polyToggle === 1) {
