@@ -78,4 +78,18 @@ You can add functions together and multiply them by real numbers, and
 this turns them into a vector space!
 Moreover, it's an *infinite-dimensional* vector space, since we can
 think of each point $x$ as a basis vector.
-We won't need to 
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft1.png"/>
+	</div>
+	</figure>
+
+We certainly don't need all of those dimensions!
+Instead, we can make do with $d$ of them:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft2.png"/>
+	</div>
+	</figure>
