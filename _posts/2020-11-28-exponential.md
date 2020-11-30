@@ -523,7 +523,7 @@ of our data points:
 	</figure>
 
 <span style="padding-left: 20px; display:block">
-From this computationally-motivated guess for $k_\sigma(n)$, deduce
+(f) From this computationally-motivated guess for $k_\sigma(n)$, deduce
 that $C_n \approx \sqrt{2\pi n}$ and hence the *improved
 Stirling approximation*:
 </span>
