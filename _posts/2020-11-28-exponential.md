@@ -584,7 +584,7 @@ trigonometry:
 $$
 \begin{align*}
 x & = r \cos \theta, \quad y = r \sin\theta \\
-r = \sqrt{x^2 + y^2}, \quad \theta = \tan^{-1}\left(\frac{y}{x}\right).
+r & = \sqrt{x^2 + y^2}, \quad \theta = \tan^{-1}\left(\frac{y}{x}\right).
 \end{align*}
 $$
 
