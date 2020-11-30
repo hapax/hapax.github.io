@@ -933,7 +933,7 @@ Italian mathematician
 [Pietro Mongoli](https://en.wikipedia.org/wiki/Pietro_Mengoli), and
 solved 85 years later by a young Euler.
 It is called the *Basel problem* in honor of Euler, and the famous
-Bernoulli tribe of mathematicians who also made valiant but
+Bernoulli tribe of mathematicians who made valiant but
 unsuccessful attempts to crack Mongoli's chestnut.
 
 ---
