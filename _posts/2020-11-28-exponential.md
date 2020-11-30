@@ -511,8 +511,18 @@ $$
 k_\sigma(n) \approx \sqrt{n}.
 $$
 
+In case you're suspicious, here is a plot $y = \sqrt{x}$ over the top
+of our data points:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/stirling4.png"/>
+	</div>
+	</figure>
+
 <span style="padding-left: 20px; display:block">
-From this computationally-motivated guess, deduce the *improved
+From this computationally-motivated guess for $k_\sigma(n)$, deduce
+that $C_n \approx \sqrt{2\pi n}$ and hence the *improved
 Stirling approximation*:
 </span>
 
