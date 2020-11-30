@@ -72,29 +72,10 @@ arbitrary Hilbert space?
 
 ##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
 
-
-The answer is a resounding yes, and in fact, you probably (perhaps
-secretly) already know it.
+The answer is a resounding yes, and in fact, you probably (secretly) already know it.
 Consider a graph $y = f(x)$ on the Cartesian plane.
-
-##### Extra
-
-A set of $n$ classical bits can be viewed as an $n$-dimensional
-vectors space (over a finite field $\mathbb{F}_2$), with $n$ basis vectors.
-A set of $n$ *quantum* bits also gives rise to vector space, but every
-single $n$-bit string is now a basis vector, so it has $2^n$ basis
-vectors and is exponentially larger.
-(It also is over an infinitely bigger field $\mathbb{C}$, but the rules
-of quantum mechanics make this less useful than the exponential increase in dimension.)
-Figuring out how to best make use of this exponentially larger vector
-space is a subtle and ongoing question.
-
-But even a 
-We have evolved in a three-dimensional world to see three-dimensional
-things.
-Our visual cortex just isn't designed for anything more than that!
-
-We will start with a simpler question --- how to *visualize* the
-higher dimensional vectors and operations --- and find that, in
-answering, we end up building a robust computational tool called the
-*quantum Fourier transform* (QFT).
+You can add functions together and multiply them by real numbers, and
+this turns them into a vector space!
+Moreover, it's an *infinite-dimensional* vector space, since we can
+think of each point $x$ as a basis vector.
+We won't need to 
