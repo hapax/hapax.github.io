@@ -438,7 +438,7 @@ Our first inspired guess is that the curve
  A Bell curve with *average* $\mu$ and *standard deviation* $\sigma$ has
  two important properties:
  
- - It has a maximum height of $1/\sqrt{2\pi}\sigma$ at $\mu$.
+ - It has a maximum height of $1/\sigma\sqrt{2\pi}$ at $\mu$.
  - A distance $\sigma$ away from $\mu$ (left or right), the probability drops to
    around $0.6$ of its maximum height.
 
