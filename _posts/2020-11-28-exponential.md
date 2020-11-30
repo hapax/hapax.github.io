@@ -448,7 +448,7 @@ Over to you!
 (a) The area under the curve made by the points $a_k$ is around $e^n$,
 since we add them all up to get this value.
 Argue that, if the $a_k$ do describe an approximate Bell curve, it
-must be scaled vertically by a factor $e^n$, and hence has a height
+must be scaled vertically by a factor $e^n$, and hence has a maximum height
 </span>
 
 $$
