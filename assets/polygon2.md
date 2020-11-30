@@ -49,17 +49,17 @@ function draw() {
       line(mx[len-1], my[len-1], mx[0], my[0]);
     }
     for (let i = 0; i < len; i++) {
+      strokeWeight(2);
+      stroke(200, 0, 0);
+      line(width/2, height/2, mx[i], my[i]);
       if (i === 0) {
       stroke(0);
-	  } else {         stroke(200, 0, 0); }
+	  } else {  }
       strokeWeight(firstRad*(5/3));
       point(mx[i], my[i]);
       stroke(255);
       strokeWeight(firstRad);
       point(mx[i], my[i]);
-	  stroke(200, 0, 0);
-	  strokeWeight(2);
-      line(width/2, height/2, mx[i], my[i]);
     }
   } else if (linkageToggle === 1) {
     for (let i = 0; i < len; i++) {
