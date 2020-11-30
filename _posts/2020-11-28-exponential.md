@@ -439,7 +439,7 @@ Our first inspired guess is that the curve
  two important properties:
  
  - It has a maximum height of $1/\sigma\sqrt{2\pi}$ at $\mu$.
- - A distance $\sigma$ away from $\mu$ (left or right), the probability drops to
+ - A distance $\sigma$ to the left or right of $\mu$, the probability drops to
    around $0.6$ of its maximum height.
 
 Over to you!
