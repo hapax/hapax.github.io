@@ -43,7 +43,10 @@ It's also over the complex numbers, $\mathbb{C}$, rather than a finite
 field, but this turns out to be less useful than the increase in
 dimension.
 
-
+To make our problem sharp, let's consider the simplest nontrivial
+system: a single qubit.
+The classical bit can be in states $b = 0, 1$, so each of these is a
+basis state of the qubit, $|b\rangle$.
 
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
