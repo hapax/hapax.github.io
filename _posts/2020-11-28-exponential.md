@@ -728,10 +728,9 @@ $$
 (c) Use the fact that the first term approaches $1$ (which we argued
 loosely above) to conclude that the whole term vanishes as
 $n\to\infty$.
-</span>
-
 In other words, in the limit $n \to \infty$, only the first term $1$
 of the infinite polynomial survives. Hence, $r_\infty = 1$.
+</span>
 
 <p align="center">
   ⁂
