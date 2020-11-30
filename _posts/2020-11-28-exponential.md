@@ -573,7 +573,7 @@ i^2 y_1 y_2 \\
 \end{align*}
 $$
 
-This rule seems a bit fiddly, but becomes much more transparent in
+This rule is a bit fiddly, but becomes much more transparent in
 *polar* coordinates on the plane.
 Recall that instead of specifying the $x$ and $y$ components, we can
 specify the angle $\theta$ (in radians) from the positive $x$ axis and distance $r$
@@ -963,7 +963,7 @@ $$
 
 Euler's results, as miraculous as they seem at first glance, follow from
 straightforward if slapdash manipulations.
-But the following chestnut seems so miraculous as to be blatantly wrong:
+But the following chestnut is so miraculous it appears blatantly wrong:
 
 $$
 1 + 2 + 3 + 4 + \cdots = -\frac{1}{12}.
