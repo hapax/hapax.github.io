@@ -574,7 +574,7 @@ i^2 y_1 y_2 \\
 $$
 
 This rule is a bit fiddly, but becomes much more transparent in
-*polar* coordinates on the plane.
+*polar* coordinates.
 Recall that instead of specifying the $x$ and $y$ components, we can
 specify the angle $\theta$ (in radians) from the positive $x$ axis and distance $r$
 from the origin.
