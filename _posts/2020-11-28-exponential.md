@@ -563,7 +563,7 @@ $$
 Since $e^{i\theta} = \cos\theta + i \sin\theta$, the terms
 proportional to $i$ must organize into some sort of infinite
 polynomial for $\sin\theta$.
-But we only need the ones above:
+The first few terms are
 
 $$
 \sin \theta = \theta - \frac{\theta^3}{6} + \cdots
