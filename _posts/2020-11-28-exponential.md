@@ -18,8 +18,8 @@ date:  2020-11-28
 
 1. <a href="#sec-1">Compound interest</a>
 2. <a href="#sec-2">An infinite polynomial</a>
-3. <a href="#sec-3">Stirling's approximation</a>
-4. <a href="#sec-4">From interest to small change</a>
+3. <a href="#sec-3">From interest to small change</a>
+4. <a href="#sec-4">Stirling's approximation</a>
 5. <a href="#sec-5">Euler's formula</a>
 6. <a href="#sec-6">Factorization and the Basel problem</a>
 7. <a href="#sec-7">Ramanujan's mysterious sum*</a>
