@@ -481,7 +481,7 @@ They should look the picture below.
 
 <span style="padding-left: 20px; display:block">
 (d) The relationship is definitely not linear!
-	To see what the relationship is, plot the points on a log-log
+	To see what it is, plot the points on a log-log
 	plot, and fit a straight line to the data. You should get
 	something like
 	</span>
