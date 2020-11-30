@@ -1164,7 +1164,7 @@ section to evaluate
 </span>
 
 $$
-1 e^{-x} - 2 e^{-2x} + 3 e^{-x} - \cdots - (-1)^k k e^{-kx} + \cdots
+1 e^{-x} - 2 e^{-2x} + 3 e^{-x} - \cdots + (-1)^{k+1} k e^{-kx} + \cdots
 $$
 
 <span style="padding-left: 20px; display:block">
