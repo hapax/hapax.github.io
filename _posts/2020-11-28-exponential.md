@@ -311,7 +311,7 @@ exponential to real-world phenomena.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose we start with $N_0$ atoms. Using the analogy to compound
-interest, argue that the number of atoms after time $t$ is
+interest, argue that the number of atoms after time $t$ is (to a good approximation)
 </span>
 
 $$
