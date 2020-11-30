@@ -33,7 +33,7 @@ To be a little more precise, let's consider a classical computer which
 stores $n$ bits.
 There are $2^n$ possible states of the computer.
 For the purposes of analogy, we can view these strings as vectors in
-an $n$-dimensional vector space of $\mathbb{F}_2$.
+an $n$-dimensional vector space of $\mathbb{F}_2 = \{0, 1\}$.
 
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
