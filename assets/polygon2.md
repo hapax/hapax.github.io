@@ -53,12 +53,13 @@ function draw() {
       if (i === 0) {
       stroke(0);
 	  } else {         stroke(200, 0, 0); }
-      line(width/2, height/2, mx[i], my[i]);
       strokeWeight(firstRad*(5/3));
       point(mx[i], my[i]);
       stroke(255);
       strokeWeight(firstRad);
       point(mx[i], my[i]);
+	  stroke(200, 0, 0);
+      line(width/2, height/2, mx[i], my[i]);
     }
   } else if (linkageToggle === 1) {
     for (let i = 0; i < len; i++) {
