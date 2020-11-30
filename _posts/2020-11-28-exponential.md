@@ -616,7 +616,7 @@ $$
 C =[(-\pi)(+\pi) (-2\pi)(+2\pi) \cdots]^{-1}..
 $$
 
-This seems $C$ has to be infinite!
+It seems $C$ has to be infinite!
 But assuming we can do this, we end up with
 
 $$
