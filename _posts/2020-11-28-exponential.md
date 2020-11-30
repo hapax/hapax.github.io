@@ -467,8 +467,7 @@ $$
 (c) It remains for us to estimate $\sigma$, the standard deviation of
 this putative Bell curve.
 Write some code that takes $n$ and outputs $k_\sigma(n)$, the first point
-$k_\sigma \geq$ such that $a_{k_\sigma}$ is less than $0.6$ of the
-maximum value $a_n$.
+$k_\sigma \geq$ such that $a_{k_\sigma} \leq 0.6 a_n$.
 Calculate $k_\sigma(n)$ up until $n = 500$ or so and plot your
 results.
 They should look the picture below.
