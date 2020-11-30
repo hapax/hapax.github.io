@@ -440,7 +440,7 @@ Our first inspired guess is that the curve
  two important properties:
  
  - It has a maximum height of $1/\sqrt{2\pi}\sigma$ at $\mu$.
- - A standard deviation away from $\mu$, the probability drops to
+ - A distance $\sigma$ away from $\mu$ (left or right), the probability drops to
    around $0.6$ of its maximum height.
 
 Over to you!
