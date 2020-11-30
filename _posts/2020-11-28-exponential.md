@@ -475,7 +475,7 @@ Calculate $k_\sigma(n)$ up until $n = 500$ or so and plot your results.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/stirling.png"/>
+    ="/images/posts/stirling2.png"/>
 	</div>
 	</figure>
 
