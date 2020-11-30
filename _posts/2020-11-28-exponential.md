@@ -511,8 +511,10 @@ $$
 k_\sigma(n) \approx \sqrt{n}.
 $$
 
+<span style="padding-left: 20px; display:block">
 In case you're suspicious, here is a plot $y = \sqrt{x}$ over the top
 of our data points:
+</span>
 
 <figure>
     <div style="text-align:center"><img src
