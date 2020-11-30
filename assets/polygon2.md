@@ -52,7 +52,6 @@ function draw() {
 		rotate(angle);
 		triangle(0, 0, 2, 5, -2, 5);
 		pop();
-		noFill();
       }
       line(mx[len-1], my[len-1], mx[0], my[0]);
     }
