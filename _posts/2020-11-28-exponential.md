@@ -433,8 +433,8 @@ less than $1$%!
 Our first inspired guess is that the curve
  we plotted for $n = 10$ looks like a
  [Bell curve](https://en.wikipedia.org/wiki/Normal_distribution)! This
- is the probability distribution obeyed that almost every trait,
- e.g. height, weight, etc, obey.
+ is a ubiquitous probability distribution that traits like height and
+ weight obey.
  A Bell curve with *average* $\mu$ and *standard deviation* $\sigma$ has
  two important properties:
  
