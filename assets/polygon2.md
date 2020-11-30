@@ -45,6 +45,12 @@ function draw() {
         strokeWeight(1);
         stroke(130);
         line(mx[i], my[i], mx[i+1], my[i+1]);
+		fill(130);
+		push();
+		translate(mx[i+1], my[i+1]);
+		triangle(0, 0, 2, 5, -2, 5);
+		pop();
+		noFill();
       }
       line(mx[len-1], my[len-1], mx[0], my[0]);
     }
