@@ -142,4 +142,4 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 
 ##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
 
-This proposal is still
+This sounds good, but there a few loose ends here (pun intended).
