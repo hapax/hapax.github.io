@@ -220,3 +220,5 @@ S = \left[
 \end{matrix}
 \right].
 $$
+
+We will simply choose our basis to be eigenstates of $S$.
