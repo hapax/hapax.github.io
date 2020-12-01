@@ -125,7 +125,7 @@ with a point on the curve, as the image below shows.
 Of course, we could stack copies of $\mathcal{C}$ on top of each
 other, but this is harder to draw.
 More importantly, it is unnecessary in finite dimensions!
-We can recover the information about which $i$ maps to which complex
+We can recover the information about which $k$ maps to which complex
 number as long as the function is into, i.e. there are no overlaps.
 We simply draw a chain of points, and mark the first some way,
 e.g. with a black dot.
