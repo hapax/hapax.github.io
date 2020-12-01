@@ -30,6 +30,12 @@ spaces, we will stumble onto the *quantum Fourier transform* (QFT), a
 workhorse protocol in quantum computing that underlies some of the
 most dramatic quantum speedups, such as Shor's algorithm.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qubit.png"/>
+	</div>
+	</figure>
+
 To be a little more precise, let's consider a classical computer which
 stores $n$ bits, $b_1, b_2, \ldots, b_n$.
 There are $2^n$ possible states of the computer, consisting of all
