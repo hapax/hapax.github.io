@@ -174,7 +174,7 @@ Here's what most of the basis vectors look like:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/qft5.png"/>
+    ="/images/posts/qft6.png"/>
 	</div>
 	</figure>
 
