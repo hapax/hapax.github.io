@@ -88,7 +88,7 @@ think of each point $x$ as a basis vector.
 We certainly don't need all of those dimensions!
 Instead of a continuous variable $x$, we can imagine a finite number
 of points labelled by $i \in I, I = \{0, 1, \ldots, d- 1\}$.
-Then we can represent a vector in $\mathbb{R}^d$ as a map $$
+Then we can represent a vector in $\mathbb{R}^d$ as a map $I \to \mathbb{R}$.
 
 <figure>
     <div style="text-align:center"><img src
