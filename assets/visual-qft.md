@@ -174,11 +174,11 @@ prefer polygons shortly.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
-Now we have a nice representation, let's see what we can do with it.
-Our first task is to picture the computational basis states, $|k\rangle$ for
-$k \in I$, since (as the name suggests) this is a nice basis for doing
+We have this nice representation, so let's see what we can do with it.
+A warm-up task is simply to draw the computational basis states, $|k\rangle$ for
+$k \in I$, since (as the name suggests) this is a good basis for doing
 computations.
-Unfortunately, our method does terribly!
+Unfortunately, our method fails at the first hurdle!
 Here's what most of the basis vectors look like:
 
 <figure>
@@ -189,4 +189,4 @@ Here's what most of the basis vectors look like:
 
 We start at $0$, stay there for a while, go to $1$ when we hit $k$,
 then return to the origin.
-To even tell what state we're in, we need to introduce more labels!
+We can't even tell what state we're in unless we introduce more labels.
