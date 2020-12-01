@@ -92,6 +92,8 @@ of points labelled by $i \in I, I = \{0, 1, \ldots, d- 1\}$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
+To figure out which $i \in I$ gave rise to a point, we simply project
+onto the $x$ axis.
 
 <figure>
     <div style="text-align:center"><img src
@@ -134,3 +136,4 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 
 ##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
 
+This proposal is still
