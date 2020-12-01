@@ -169,8 +169,8 @@ origin, shown below:
 	</div>
 	</figure>
 
-The same of course holds for open chains, but we will see a reason to
-prefer polygons shortly.
+All of this holds for open chains as well, but we will see a reason to
+prefer polygons in a moment.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
