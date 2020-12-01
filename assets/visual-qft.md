@@ -152,7 +152,7 @@ If we connect these, we turn the chain into a closed loop.
 There is no law against this, but it does make the correspondence
 between points and arguments $k \in I$ ambiguous, unless we specify a
 direction to go around the loop.
-So let's just add some arrows:
+We can also add some arrows to make the direction clear:
 
 <figure>
     <div style="text-align:center"><img src
