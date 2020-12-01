@@ -42,7 +42,7 @@ The vector space is exponentially bigger.
 (It's also over the complex numbers, $\mathbb{C}$, rather than a finite
 field, but this turns out to be less useful than the increase in
 dimension.)
-So, Hilbert space is huge, and we have to learn some ways to navigate it.
+If Hilbert space is huge, we must learn to navigate it.
 <!-- So, Hilbert space is huge.
 Our task is to see it, reason about it, and make use of it. -->
 
