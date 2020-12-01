@@ -118,7 +118,7 @@ with a point on the curve, as the image below shows.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/qft3.png"/>
+    ="/images/posts/qft3v1.png"/>
 	</div>
 	</figure>
 
