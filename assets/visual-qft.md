@@ -243,3 +243,28 @@ We illustrate for an equilateral triangle below:
     ="/images/posts/qft7.png"/>
 	</div>
 	</figure>
+
+Let's find the eigenstates of $S$.
+If
+
+$$
+|\psi \rangle = \sum_k \alpha_k |k\rangle,
+$$
+
+then
+
+$$
+S |\psi\rangle = \sum_k \alpha_k |k+1\rangle = \omega |\psi\rangle \quad
+\Longrightarrow \quad \alpha_{k} = \omega \alpha_{k+1},
+$$
+
+for $k$ modulo $d$.
+At least one $\alpha_k$ is nonzero so we have a state, and
+applying this relation $d$ times gives
+
+$$
+\alpha_k = \omega\alpha_{k+1} = \omega^2\alpha_{k+2} = \cdots =
+\omega^d \alpha_k.
+$$
+
+We learn that $\omega^d = 1$, and hence $\omega$ is a $d$th root of unity.
