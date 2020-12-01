@@ -53,8 +53,8 @@ Our task is to see it, reason about it, and make use of it. -->
 
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
-To make our problem sharp, let's consider the simplest nontrivial
-system: a single qubit.
+To make our problem sharper, let's consider the problem of visualizing
+the simplest nontrivial system, a single qubit.
 The classical bit can be in states $b = 0, 1$, so each of these is a
 basis state of the qubit, $|b\rangle$.
 A general vector in this Hilbert space is
