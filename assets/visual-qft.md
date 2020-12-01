@@ -162,7 +162,7 @@ in a natural way.
 If we write an arbitrary scalar as $z = \lambda e^{i\theta}$,
 multiplication by $z$ scales the whole figure by $\lambda$ and rotates
 it an angle $\theta$ counterclockwise, both with respect to the
-origin, shown below:
+origin. We give examples below:
 
 <figure>
     <div style="text-align:center"><img src
