@@ -132,7 +132,7 @@ e.g. with a black dot.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/qft4.png"/>
+    ="/images/posts/qft4v2.png"/>
 	</div>
 	</figure>
 
