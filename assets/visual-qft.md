@@ -144,7 +144,14 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 These maps add component-wise, and scalar multiply by complex numbers
 in a natural way.
 
-##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
+##### 2.2. Going loopy <a id="sec-2-2" name="sec-2-2"></a>
 
-This sounds good, but there a couple of loose ends here (pun
-intended).
+There a couple of loose ends here, quite literally, with the first and
+last point on the chain unattached.
+We will add a single, suggestive edge:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft5.png"/>
+	</div>
+	</figure>
