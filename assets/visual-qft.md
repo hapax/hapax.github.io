@@ -20,10 +20,9 @@ date:  2020-11-27
 
 In quantum mechanics, a system is describe by a vector in a Hilbert
 space.
-These Hilbert spaces are huge, and this is in some sense the main
-reason quantum computers are more powerful than classical ones.
-But this leads to two problems: how can we effectively take advantage
-of a these big Hilbert spaces?
+Hilbert space is very, very large, and this is the main reason quantum
+computers are more powerful than classical ones. But this leads to two
+problems: how can we effectively use a big Hilbert space?
 And how can we picture what's going on?
 It turns out that, sometimes, these questions have the same answer.
 In seeking a convenient way to visualize high-dimensional Hilbert
