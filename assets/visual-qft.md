@@ -122,11 +122,13 @@ with a point on the curve, as the image below shows.
 	</div>
 	</figure>
 
-But when we go to finite dimensions, we can recover this information,
-as long as the function is into, i.e. there are no overlaps.
+Of course, we could stack copies of $\mathcal{C}$ on top of each
+other, but this is harder to draw.
+More importantly, it is unnecessary in finite dimensions!
+We can recover the information about which $i$ maps to which complex
+number as long as the function is into, i.e. there are no overlaps.
 We simply draw a chain of points, and mark the first some way,
 e.g. with a black dot.
-We give an example below.
 
 <figure>
     <div style="text-align:center"><img src
@@ -143,3 +145,4 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 ##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
 
 This sounds good, but there a few loose ends here (pun intended).
+A finite index set $I$
