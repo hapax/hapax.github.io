@@ -94,11 +94,11 @@ think of each point $x$ as a basis vector.
 
 We certainly don't need all of those dimensions!
 Instead of a continuous variable $x$, we can imagine a finite number
-of points labelled by $i \in I, I = \{0, 1, \ldots, d- 1\}$.
+of points labelled by $k \in I, k = \{0, 1, \ldots, d- 1\}$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
-To figure out which $i \in I$ gave rise to a point, we simply project
+To figure out which $k \in I$ gave rise to a point, we simply project
 onto the $x$ axis.
 
 <figure>
@@ -144,5 +144,6 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 
 ##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
 
-This sounds good, but there a few loose ends here (pun intended).
-A finite index set $I$
+This sounds good, but there a couple of loose ends here (pun
+intended).
+Basically, 
