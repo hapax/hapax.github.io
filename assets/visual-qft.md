@@ -148,10 +148,16 @@ in a natural way.
 
 There a couple of loose ends here, quite literally, with the first and
 last point on the chain unattached.
-We will add a single, suggestive edge to turn the line into a closed loop:
+If we connect these, we turn the chain into a closed loop.
+There is no law against this, but it does make the correspondence
+between points and arguments $k \in I$ ambiguous, unless we specify a
+direction to go around the loop.
+So let's just add some arrows:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/qft5.png"/>
 	</div>
 	</figure>
+
+As long as we mark the first point in black, we can 
