@@ -98,7 +98,7 @@ of points labelled by $k \in I, I = \\{0, 1, \ldots, d- 1\\}$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
-To figure out which $k \in I$ gave rise to a point, we simply project
+To figure out which $k \in I$ is responsible for which point on the plane, we simply project
 onto the $x$ axis.
 
 <figure>
