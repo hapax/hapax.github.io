@@ -11,7 +11,7 @@ date:  2020-11-27
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
-   2. <a href="#sec-2-2">Loops</a>
+   2. <a href="#sec-2-2">Going loopy</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
