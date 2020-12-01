@@ -11,6 +11,7 @@ date:  2020-11-27
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
+   2. <a href="#sec-2-2">Loops</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -117,9 +118,19 @@ But when we go to finite dimensions, we can recover this information,
 as long as the function is into, i.e. there are no overlaps.
 We simply draw a chain of points, and mark the first some way,
 e.g. with a black dot.
+We give an example below.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/qft4.png"/>
 	</div>
 	</figure>
+
+In principle, we are done.
+We now have a way to represent any vector in any finite-dimensional
+Hilbert space.
+If $I$ labels the basis, then we can think of a vector as a map $f: I
+\to \mathbb{C}$ and draw its image on the complex plane.
+
+##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
+
