@@ -15,7 +15,8 @@ date:  2020-11-27
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-*Prerequisites: basic quantum mechanics and linear algebra.*
+*Prerequisites: basic quantum mechanics, linear algebra, and group
+ theory (optional).*
 
 In quantum mechanics, a system is describe by a vector in a Hilbert
 space.
@@ -196,3 +197,13 @@ There are two ways we could see this: a failing of our method, or a
 failing of the basis.
 We will, of course, take the partisan viewpoint that the basis is at
 fault, and look for a better one.
+If we were dealing with chains, the way to proceed would be murky.
+But our choice of polygons now pays off, since the nice objects to use
+as a basis are the *regular* polygons!
+We could more or less jump straight to the answer, but we will provide
+a slightly more elegant (but optional) route through group theory.
+
+When we draw vectors as marked chains, we are thinking of $I$ as an
+ordered set.
+When we draw a polygon, we are implicitly thinking of $I$ as a *cyclic
+group*, say $I = \mathbb{Z}/d\mathbb{Z}$.
