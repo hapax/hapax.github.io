@@ -199,11 +199,13 @@ ugly and non-unique.
 But our choice of polygons pays off, since the uniquely nice objects
 to use are the *regular* polygons!
 We could more or less jump straight to the answer, but we will provide
-a slightly more elegant (but optional) route through group theory.
-If you prefer, you can skip straight to the definition of regular
-polygons below.
+a slightly more elegant (optional) route through group theory.
+If you prefer, you can skip the discussion enclosed by vertical lines.
 
-When we draw vectors as marked chains, we are thinking of $I$ as an
+
+---
+
+*Optional group theory.* When we draw vectors as marked chains, we are thinking of $I$ as an
 ordered set.
 When we draw a polygon, we are implicitly thinking of $I$ as a *cyclic
 group*, say $I = \mathbb{Z}/d\mathbb{Z}$.
@@ -268,3 +270,5 @@ $$
 $$
 
 We learn that $\omega^d = 1$, and hence $\omega$ is a $d$th root of unity.
+
+---
