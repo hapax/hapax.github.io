@@ -261,7 +261,7 @@ S |\psi\rangle = \sum_k \alpha_k |k+1\rangle = \omega |\psi\rangle \quad
 $$
 
 for $k$ modulo $d$.
-At least one $\alpha_k$ is nonzero so we have a state, and
+At least one $\alpha_k$ is nonzero (otherwise our state won't be normalizable!), and
 applying this relation $d$ times gives
 
 $$
