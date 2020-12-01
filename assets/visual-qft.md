@@ -72,7 +72,7 @@ arbitrary Hilbert space?
 
 ##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
 
-The answer is a resounding yes, and in fact, you probably (secretly) already know it.
+The answer is a resounding yes, and in fact, you probably (secretly) already know how.
 Consider a graph $y = f(x)$ on the Cartesian plane.
 You can add functions together and multiply them by real numbers, and
 this turns them into a vector space!
@@ -88,10 +88,24 @@ think of each point $x$ as a basis vector.
 We certainly don't need all of those dimensions!
 Instead of a continuous variable $x$, we can imagine a finite number
 of points labelled by $i \in I, I = \{0, 1, \ldots, d- 1\}$.
-Then we can represent a vector in $\mathbb{R}^d$ as a map $I \to \mathbb{R}$.
+Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
+\mathbb{R}$.
+We can add and multiply these maps as usual, $f  +g, \lambda f$.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/qft2.png"/>
+	</div>
+	</figure>
+
+What about a *complex* vector with $d$ components?
+A hack is simply to treat $\mathbb{C}^d \simeq \mathbb{R}^{2d}$, but
+then multiplying a vector a complex number looks very unnatural.
+Instead, we once again take inspiration from a familiar
+infinite-dimensional trick: drawing the image of a parametrized curve
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft3.png"/>
 	</div>
 	</figure>
