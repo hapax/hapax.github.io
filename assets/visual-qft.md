@@ -41,7 +41,7 @@ stores $n$ bits, $b_1, b_2, \ldots, b_n$.
 There are $2^n$ possible states of the computer, consisting of all
 $n$-bit strings $b_1b_2\cdots b_n$.
 For the purposes of analogy, we can view these strings as vectors in
-an $n$-dimensional vector space over the field with two elements $\mathbb{F} = \{0, 1\}$.
+an $n$-dimensional vector space over the field with two elements $\mathbb{F} = \\{0, 1\\}$.
 In quantum mechanics, the corresponding vector space of $n$ quantum
 bits, or *qubits*, is *exponentially* bigger, since *each $n$-bit
 string* is now a basis element, $|b_1 b_2\cdots b_n\rangle$.
@@ -94,7 +94,7 @@ think of each point $x$ as a basis vector.
 
 We certainly don't need all of those dimensions!
 Instead of a continuous variable $x$, we can imagine a finite number
-of points labelled by $k \in I, k = \{0, 1, \ldots, d- 1\}$.
+of points labelled by $k \in I, I = \\{0, 1, \ldots, d- 1\\}$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
