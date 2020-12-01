@@ -41,13 +41,11 @@ stores $n$ bits, $b_1, b_2, \ldots, b_n \in \\{0, 1\\}$.
 There are $2^n$ possible states of the computer, consisting of all
 $n$-bit strings $b_1b_2\cdots b_n$.
 For the purposes of comparison, we can view these strings as vectors in
-an $n$-dimensional vector space over the field with two elements, $\mathbb{F} = \\{0, 1\\}$.
-In quantum mechanics, the corresponding vector space of $n$ quantum
-bits, or *qubits*, is *exponentially* bigger, since *each $n$-bit
-string* is now a basis element, $|b_1 b_2\cdots b_n\rangle$.
-The vector space is exponentially bigger.
-(It's also over the complex numbers, $\mathbb{C}$, rather than a finite
-field, but this turns out to be less useful than the increase in
+an $n$-dimensional vector space over the field with two elements, $\mathbb{F}_2 = \\{0, 1\\}$.
+For $n$ *quantum bits*, or *qubits*, each $n$-bit string is now a basis element, $|b_1 b_2\cdots b_n\rangle$.
+Thus, the vector space is exponentially bigger.
+(It's also a vector space over the complex numbers, $\mathbb{C}$,
+rather than a finite field, but this turns out to be less useful than the increase in
 dimension.)
 If Hilbert space is huge, we must learn to navigate it.
 <!-- So, Hilbert space is huge.
