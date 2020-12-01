@@ -11,7 +11,7 @@ date:  2020-11-27
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
-   2. <a href="#sec-2-2">Going loopy</a>
+   2. <a href="#sec-2-2">A better basis</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -136,7 +136,6 @@ e.g. with a black dot.
 	</div>
 	</figure>
 
-In principle, we are done.
 We now have a way to represent any vector in any finite-dimensional
 Hilbert space.
 If $I$ labels the basis, then we can think of a vector as a map $f: I
@@ -147,15 +146,15 @@ If we write an arbitrary scalar as $z = \lambda e^{i\theta}$,
 multiplication by $z$ scales the whole figure by $\lambda$ and rotates
 it an angle $\theta$ counterclockwise, both with respect to the origin.
 
-##### 2.2. Going loopy <a id="sec-2-2" name="sec-2-2"></a>
-
-There a couple of loose ends here---quite literally!
+Before we move on, there is a loose end here---or rather, two loose ends!
 The first and last point on the chain are unattached, but if we
-connect them, we turn the chain into a closed loop.
+connect them, the chain becomes a closed loop.
 There is no law against this, but it does make the correspondence
-between points and arguments ambiguous, unless we specify a
+between points and arguments ambiguous unless we specify a
 direction to go around the loop.
-We can do this by making edges directed:
+We can do this by making edges directed.
+So rather than a chain with one marked end, vectors are now marked,
+directed polygons.
 
 <figure>
     <div style="text-align:center"><img src
@@ -163,14 +162,7 @@ We can do this by making edges directed:
 	</div>
 	</figure>
 
-So rather than a chain with one marked end, vectors are now marked,
-directed polygons.
+##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
-Let's consider a $d$-dimensional Hilbert space, with $I = \{0, 1, 2,
-\ldots, d-1\}$.
-The open chain suggests that we interpret $I$ as a totally ordered
-set.
-This is not a particularly interesting structure.
-The closed loop suggests that, instead, we view $I = C_d$, the
-*cyclic* group on $d$ elements.
-This is more interest
+Finally, we can try some calculations!
+Our very first task is to represent 
