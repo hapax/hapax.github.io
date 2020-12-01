@@ -165,5 +165,19 @@ directed polygons.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
-Finally, we can try some calculations!
-Our very first task is to represent 
+Now we have a nice representation, let's see what we can do with it.
+Our first task is to picture the computational basis states, $|k\rangle$ for
+$k \in I$, since (as the name suggests) this is a nice basis for doing
+computations.
+Unfortunately, our method does terribly!
+Here's what most of the basis vectors look like:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft5.png"/>
+	</div>
+	</figure>
+
+We start at $0$, stay there for a while, go to $1$ when we hit $k$,
+then return to the origin.
+To even tell what state we're in, we need to introduce more labels!
