@@ -141,9 +141,10 @@ We now have a way to represent any vector in any finite-dimensional
 Hilbert space.
 If $I$ labels the basis, then we can think of a vector as a map $f: I
 \to \mathbb{C}$ and draw its image on the complex plane.
+These maps add component-wise, and scalar multiply by complex numbers
+in a natural way.
 
 ##### 2.2. Loops<a id="sec-2-2" name="sec-2-2"></a>
 
 This sounds good, but there a couple of loose ends here (pun
 intended).
-Basically, 
