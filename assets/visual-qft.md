@@ -148,7 +148,7 @@ in a natural way.
 
 There a couple of loose ends here, quite literally, with the first and
 last point on the chain unattached.
-We will add a single, suggestive edge:
+We will add a single, suggestive edge to turn the line into a closed loop:
 
 <figure>
     <div style="text-align:center"><img src
