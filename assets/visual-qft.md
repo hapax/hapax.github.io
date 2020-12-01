@@ -149,13 +149,13 @@ angle $\theta$ counterclockwise.
 
 ##### 2.2. Going loopy <a id="sec-2-2" name="sec-2-2"></a>
 
-There a couple of loose ends here, quite literally, with the first and
-last point on the chain unattached.
-If we connect these, we turn the chain into a closed loop.
+There a couple of loose ends here---quite literally!
+The first and last point on the chain are unattached, but if we
+connect them, we turn the chain into a closed loop.
 There is no law against this, but it does make the correspondence
-between points and arguments $k \in I$ ambiguous, unless we specify a
+between points and arguments ambiguous, unless we specify a
 direction to go around the loop.
-We can also add some arrows to make the direction clear:
+We can do this by making edges directed:
 
 <figure>
     <div style="text-align:center"><img src
