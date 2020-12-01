@@ -175,7 +175,7 @@ prefer polygons in a moment.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
-We have this nice representation, so let's see what we can do with it.
+Let's see what we can do with all this pictorial power at our disposal.
 A warm-up task is simply to draw the computational basis states, $|k\rangle$ for
 $k \in I$, since (as the name suggests) this is a good basis for doing
 computations.
