@@ -40,7 +40,7 @@ To be a little more precise, let's consider a classical computer which
 stores $n$ bits, $b_1, b_2, \ldots, b_n \in \\{0, 1\\}$.
 There are $2^n$ possible states of the computer, consisting of all
 $n$-bit strings $b_1b_2\cdots b_n$.
-For the purposes of analogy, we can view these strings as vectors in
+For the purposes of comparison, we can view these strings as vectors in
 an $n$-dimensional vector space over the field with two elements $\mathbb{F} = \\{0, 1\\}$.
 In quantum mechanics, the corresponding vector space of $n$ quantum
 bits, or *qubits*, is *exponentially* bigger, since *each $n$-bit
