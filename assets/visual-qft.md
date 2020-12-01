@@ -187,6 +187,10 @@ Here's what most of the basis vectors look like:
 	</div>
 	</figure>
 
-We start at $0$, stay there for a while, go to $1$ when we hit $k$,
-then return to the origin.
-We can't even tell what state we're in unless we introduce more labels.
+It starts at $0$, stays there for a while, goes to $1$ at the $k$th
+node, then returns to the origin.
+We can't even tell what state we're in unless we introduce more
+labels!
+
+There are two ways we could view this: a failing of our method, or a
+failing of the basis.
