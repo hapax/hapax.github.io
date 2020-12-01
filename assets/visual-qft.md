@@ -197,9 +197,10 @@ There are two ways we could see this: a failing of our method, or a
 failing of the basis.
 We will, of course, take the partisan viewpoint that the basis is at
 fault, and look for a better one.
-If we were dealing with chains, the way to proceed would be murky.
-But our choice of polygons now pays off, since the nice objects to use
-as a basis are the *regular* polygons!
+If we were dealing with chains, the way forward would be decidedly
+ugly and non-unique.
+But our choice of polygons pays off, since the uniquely nice objects
+to use are the *regular* polygons!
 We could more or less jump straight to the answer, but we will provide
 a slightly more elegant (but optional) route through group theory.
 If you prefer, you can skip straight to the definition of regular
