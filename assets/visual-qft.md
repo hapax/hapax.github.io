@@ -27,8 +27,8 @@ And how can we picture what's going on?
 It turns out that, sometimes, these questions have the same answer.
 In seeking a convenient way to visualize high-dimensional Hilbert
 spaces, we will stumble onto the *quantum Fourier transform* (QFT), a
-workhorse protocol in quantum computing that underlies some of the
-most dramatic quantum speedups, such as Shor's algorithm.
+workhorse protocol in quantum computing that underlies dramatic
+speedups like Shor's algorithm.
 
 <figure>
     <div style="text-align:center"><img src
