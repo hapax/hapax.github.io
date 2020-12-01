@@ -213,10 +213,10 @@ This corresponds to a *matrix* on the Hilbert space $\mathcal{H}_d$:
 $$
 S = \left[
 \begin{matrix}
-0 & 1 & 0 & \cdots \\
-0 & 0 & 1 & \cdots \\
-&&\ddots& \\
-1 & 0 & 0 & \cdots 
+0 & 1 & 0 & \cdots & 0 \\
+0 & 0 & 1 & \cdots  & 0\\
+&&\ddots& & \\ 
+1 & 0 & 0 & \cdots & 0
 \end{matrix}
 \right].
 $$
