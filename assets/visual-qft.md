@@ -163,9 +163,14 @@ We can do this by making edges directed:
 	</div>
 	</figure>
 
+So rather than a chain with one marked end, vectors are now marked,
+directed polygons.
+
 Let's consider a $d$-dimensional Hilbert space, with $I = \{0, 1, 2,
 \ldots, d-1\}$.
 The open chain suggests that we interpret $I$ as a totally ordered
 set.
+This is not a particularly interesting structure.
 The closed loop suggests that, instead, we view $I = C_d$, the
 *cyclic* group on $d$ elements.
+This is more interest
