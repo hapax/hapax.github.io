@@ -247,28 +247,12 @@ We illustrate for an equilateral triangle below:
 	</figure>
 
 Let's find the eigenstates of $S$.
-If
+Since $S^d = \mathbb{I}$, for any eigenstate $|\psi\rangle$ we have
 
 $$
-|\psi \rangle = \sum_k \alpha_k |k\rangle,
+S^d |\psi\rangle = \omega^d |\psi\rangle = |\psi\rangle,
 $$
 
-then
-
-$$
-S |\psi\rangle = \sum_k \alpha_k |k+1\rangle = \omega |\psi\rangle \quad
-\Longrightarrow \quad \alpha_{k} = \omega \alpha_{k+1},
-$$
-
-for $k$ modulo $d$.
-At least one $\alpha_k$ is nonzero (otherwise our state won't be normalizable!), and
-applying this relation $d$ times gives
-
-$$
-\alpha_k = \omega\alpha_{k+1} = \omega^2\alpha_{k+2} = \cdots =
-\omega^d \alpha_k.
-$$
-
-We learn that $\omega^d = 1$, and hence $\omega$ is a $d$th root of unity.
+and hence $\omega^d = 1$. This means $\omega$ is a $d$th root of unity.
 
 ---
