@@ -189,6 +189,7 @@ It starts at $0$, stays there for a while, goes to $1$ at the $k$th
 node, then returns to the origin.
 We can't even tell what state we're in unless we introduce more
 labels!
+
 There are two ways we could see this: a failing of our method, or a
 failing of the basis.
 We will, of course, take the partisan viewpoint that the basis is at
@@ -231,3 +232,14 @@ S |\psi\rangle = e^{i\theta} |\psi\rangle \sim |\psi\rangle,
 $$
 
 due to global phase ambiguity.
+For our polygons, all $S$ does is shift the black dot along, and if
+they are eigenstates, we can undo this by a rotation.
+All nodes look the same, up to a rotation around the origin, and hence
+describe a regular polygon.
+We illustrate for an equilateral triangle below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft7.png"/>
+	</div>
+	</figure>
