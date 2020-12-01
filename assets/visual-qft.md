@@ -70,7 +70,7 @@ Without further work, the space of states lives in $\mathbb{C}^2
 \simeq \mathbb{R}^4$, which is already impossible to picture.
 Our visual cortex evolved for three dimensions only!
 There are some tricks that mean we *can* draw directly draw the space
-of sinqle qubit states on a sphere, but as soon as we have a bigger
+of sinqle qubit states on a sphere (as above), but as soon as we have a bigger
 Hilbert space, this method fails.
 It is radically non-scaleable.
 Clearly, we cannot approach this problem directly!
