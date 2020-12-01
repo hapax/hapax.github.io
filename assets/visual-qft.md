@@ -136,17 +136,7 @@ e.g. with a black dot.
 	</div>
 	</figure>
 
-We now have a way to represent any vector in any finite-dimensional
-Hilbert space.
-If $I$ labels the basis, then we can think of a vector as a map $f: I
-\to \mathbb{C}$ and draw its image on the complex plane.
-These maps add component-wise, and scalar multiply by complex numbers
-in a natural way.
-If we write an arbitrary scalar as $z = \lambda e^{i\theta}$,
-multiplication by $z$ scales the whole figure by $\lambda$ and rotates
-it an angle $\theta$ counterclockwise, both with respect to the origin.
-
-Before we move on, there is a loose end here---or rather, two loose ends!
+There is a loose end here---or rather, two loose ends!
 The first and last point on the chain are unattached, but if we
 connect them, the chain becomes a closed loop.
 There is no law against this, but it does make the correspondence
@@ -162,6 +152,25 @@ We can do this by making edges directed:
 
 So rather than a chain with one marked end, vectors are now marked,
 directed polygons.
+This gives us a way to represent any vector in any finite-dimensional
+Hilbert space.
+<!-- If $I$ labels the basis, then we can think of a vector as a map $f: I
+\to \mathbb{C}$ and draw its image on the complex plane.-->
+These polygons add component-wise, and scalar multiply by complex numbers
+in a natural way.
+If we write an arbitrary scalar as $z = \lambda e^{i\theta}$,
+multiplication by $z$ scales the whole figure by $\lambda$ and rotates
+it an angle $\theta$ counterclockwise, both with respect to the
+origin, shown below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/transform.png"/>
+	</div>
+	</figure>
+
+The same of course holds for open chains, but we will see a reason to
+prefer polygons shortly.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
