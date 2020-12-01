@@ -103,9 +103,23 @@ A hack is simply to treat $\mathbb{C}^d \simeq \mathbb{R}^{2d}$, but
 then multiplying a vector a complex number looks very unnatural.
 Instead, we once again take inspiration from a familiar
 infinite-dimensional trick: drawing the image of a parametrized curve
+$f: I \to \mathbb{C}$, where $I \subseteq \mathbb{R}$.
+We lose the information about *which* element of $I$ is associated
+with a point on the curve, as the image below shows.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/qft3.png"/>
+	</div>
+	</figure>
+
+But when we go to finite dimensions, we can recover this information,
+as long as the function is into, i.e. there are no overlaps.
+We simply draw a chain of points, and mark the first some way,
+e.g. with a black dot.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft4.png"/>
 	</div>
 	</figure>
