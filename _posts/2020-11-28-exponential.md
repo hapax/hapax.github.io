@@ -550,6 +550,15 @@ for [n, m] in mylst:
 
 ---
 
+In case you're wondering, the points $a_k$ really *do* describe an
+approximate Bell curve, and the approximation gets better as $n$
+increases.
+This is because the rescaled points $p_k = e^{-n}a_k$ are examples of
+something called the *Poisson distribution* (also co-discovered by de
+Moivre!), wth mean $n$ and standard deviation $\sqrt{n}$, and which
+approach a Bell curve due to a major result of probability called the
+[central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem).
+
 #### 5. Euler's formula<a id="sec-5" name="sec-4"></a>
 
 At this point, we are going to propose a remarkable reinterpretation
