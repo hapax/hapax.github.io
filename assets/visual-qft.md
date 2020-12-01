@@ -143,9 +143,9 @@ If $I$ labels the basis, then we can think of a vector as a map $f: I
 \to \mathbb{C}$ and draw its image on the complex plane.
 These maps add component-wise, and scalar multiply by complex numbers
 in a natural way.
-If we write an arbitrary scalar as $z = \lambda e^{i\theta}$, then
-multiply by $z$ scales the whole figure by $\lambda$ and rotates it an
-angle $\theta$ counterclockwise.
+If we write an arbitrary scalar as $z = \lambda e^{i\theta}$,
+multiplication by $z$ scales the whole figure by $\lambda$ and rotates
+it an angle $\theta$ counterclockwise, both with respect to the origin.
 
 ##### 2.2. Going loopy <a id="sec-2-2" name="sec-2-2"></a>
 
