@@ -86,7 +86,8 @@ think of each point $x$ as a basis vector.
 	</figure>
 
 We certainly don't need all of those dimensions!
-Instead, to model a vector space with $d$ real dimensions,
+Instead of a continuous variable $x$, we can imagine a finite number
+of points labelled by $i = 0, 1, \ldots, d- 1$.
 
 <figure>
     <div style="text-align:center"><img src
