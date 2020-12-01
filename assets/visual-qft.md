@@ -189,7 +189,6 @@ It starts at $0$, stays there for a while, goes to $1$ at the $k$th
 node, then returns to the origin.
 We can't even tell what state we're in unless we introduce more
 labels!
-
 There are two ways we could see this: a failing of our method, or a
 failing of the basis.
 We will, of course, take the partisan viewpoint that the basis is at
