@@ -152,15 +152,16 @@ connect them, the chain becomes a closed loop.
 There is no law against this, but it does make the correspondence
 between points and arguments ambiguous unless we specify a
 direction to go around the loop.
-We can do this by making edges directed.
-So rather than a chain with one marked end, vectors are now marked,
-directed polygons.
+We can do this by making edges directed:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/qft5.png"/>
 	</div>
 	</figure>
+
+So rather than a chain with one marked end, vectors are now marked,
+directed polygons.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
