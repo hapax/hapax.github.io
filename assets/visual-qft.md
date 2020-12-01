@@ -42,9 +42,9 @@ The vector space is exponentially bigger.
 (It's also over the complex numbers, $\mathbb{C}$, rather than a finite
 field, but this turns out to be less useful than the increase in
 dimension.)
-
-So, Hilbert space is huge.
-Our task is to learn how to see it, reason about it, and make use of it.
+So, Hilbert space is huge, and we have to learn some ways to navigate it.
+<!-- So, Hilbert space is huge.
+Our task is to see it, reason about it, and make use of it. -->
 
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
@@ -86,7 +86,7 @@ think of each point $x$ as a basis vector.
 	</figure>
 
 We certainly don't need all of those dimensions!
-Instead, we can make do with $d$ of them:
+Instead, to model a vector space with $d$ real dimensions,
 
 <figure>
     <div style="text-align:center"><img src
