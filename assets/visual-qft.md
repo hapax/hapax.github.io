@@ -195,3 +195,8 @@ There are two ways we could see this: a failing of our method, or a
 failing of the basis.
 We will, of course, take the partisan viewpoint that the basis is at
 fault, and look for a better one.
+
+At this point, our reason for going loopy becomes clear.
+When we connect the ends of the chain, it is less natural to view $I$
+as an ordered set, and more natural to view it as a *cyclic group*
+like $\mathbb{Z}/d\mathbb{Z}$.
