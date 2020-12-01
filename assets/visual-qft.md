@@ -222,3 +222,12 @@ S = \left[
 $$
 
 We will simply choose our basis to be eigenstates of $S$.
+Since $S^d = \mathbb{I}$ is the identity, it follows that any
+eigenstates of $S$ must be phases $\omega = e^{i\theta}$.
+Thus, any eigenstate gets mapped to itself under $S$,
+
+$$
+S |\psi\rangle = e^{i\theta} |\psi\rangle \sim |\psi\rangle,
+$$
+
+due to global phase ambiguity.
