@@ -12,7 +12,7 @@ date:  2020-11-28
   Starting with its relation to compound interest, we
   learn about its series expansion, Stirling's approximation, Euler's
   formula, the Basel problem, and the sum of all positive numbers,
-  among other things.*
+  among other fun facts.*
 
 ### Contents
 
@@ -1180,3 +1180,10 @@ and hence provide a rigorous interpretation of (a).
 </span>
 
 ---
+
+##### Acknowledgments
+
+Thanks to J.A. for inspiring discussions. Section 7 is loosely based on Joe
+Polchinski's textbook *String theory*. To my knowledge, the arguments
+in Sections 4 and 5 are original. The rest I have cribbed from sources
+beyond my power to recall.
