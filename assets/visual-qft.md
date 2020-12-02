@@ -223,7 +223,7 @@ S = \left[
 0 & 1 & 0 & \cdots & 0 \\
 0 & 0 & 1 & \cdots  & 0\\
 &&\ddots& & \\ 
-1 & 0 & 0 & \cdots & 0
+1 & 0 & 0 & & \cdots
 \end{matrix}
 \right].
 $$
@@ -239,18 +239,16 @@ $$
 
 and hence $\omega^d = 1$.
 Thus, $\omega$ must be a root of unity.
-I
-
-Thus, any eigenstate gets mapped to itself under $S$, up to a global phase:
+Before determining these eigenvectors, note that because $\omega$ is a
+phase, an eigenvector is mapped to itself due to phase ambiguity:
 
 $$
 S |\psi\rangle = \omega |\psi\rangle \sim |\psi\rangle.
 $$
 
 For a polygon, all $S$ does is shift the black dot along, and if it is
-aneigenstate, we can undo this by a rotation.
-This means all nodes look the same, up to a rotation around the
-origin, and hence describe regular polygon.
+an eigenstate, we can undo this by a rotation.
+Thus, eigenstates must be regular polygons!
 We illustrate for an equilateral triangle below:
 
 <figure>
