@@ -265,7 +265,7 @@ Without loss of generality (and ignoring normalization for the
 moment), we can set $\alpha_0 = 1$ and iterate this relation, so that
 
 $$
-|\psi\rangle = \sum_k \omega^k |k\rangle.
+|\psi\rangle \propto \sum_k \omega^k |k\rangle.
 $$
 
 ---
