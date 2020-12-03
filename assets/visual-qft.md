@@ -316,7 +316,7 @@ between each node, we execute a full revolution around the origin.
 In fact, there is a less extreme degeneracy where regular polygons
 overlap themselves.
 We give the example of $d = 8, s = 4$ below, where a "regular octagon"
-has wrapped itself, and thereby looks like a square.
+has degenerated into two squares sitting on top of each other:
 
 <figure>
     <div style="text-align:center"><img src
@@ -324,7 +324,7 @@ has wrapped itself, and thereby looks like a square.
 	</div>
 	</figure>
 
-It seems that, even for this basis, degeneracy is unavoidable, but the
-degeneracy is patterned in a way that seems potentially useful.
+Although degeneracy is unavoidable, unlike the computational basis,
+the degeneracy in this basis is patterned in a useful way.
 
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
