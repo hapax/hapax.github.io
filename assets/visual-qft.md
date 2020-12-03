@@ -470,6 +470,14 @@ $$
 which extends linearly to the full Hilbert space.
 As a simple example, our $d =2$ example above shows that $\text{QFT}_2
 = H$, the Hadamard matrix.
+We show the action on the basis for $d = 5$ below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft11.png"/>
+	</div>
+	</figure>
+	
 We could finish the tutorial here if we liked, but in the next few
 sections, we'll outline some fun features of the QFT,
 including a neat geometrical interpretation, some factorization
