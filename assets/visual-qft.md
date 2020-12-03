@@ -454,6 +454,9 @@ $$
 \text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle.
 $$
 
+Based on our example above, we see that for $\text{QFT}_2 = H$, the
+Hadamard matrix.
+
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
