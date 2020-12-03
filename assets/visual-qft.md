@@ -357,17 +357,25 @@ You can toggle arrow tips with "t":
 	</div>
 	</figure>
 
+The degeneracies we mentioned above obey simple patterns.
+For any $d$, there are only two convex, non-degenerate regular
+polygons, occurring at $s = 1$ and $s = d-1$.
+For other values of $s$ which are relatively prime with $d$, i.e. have
+no common factor other than $1$, we get *stellated* non-degenerate
+polygons.
+Finally, if $s$ and $d$ have greatest common factor $g := (s, d)$,
+then the polygon is $g$-degenerate, in the sense that it wraps around
+itself $g$ times.
 We end this section with an amusing (and once again optionally
 readable) consequence for number theory.
 
 ---
 
 *Number theory aside.*
-If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
-$\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
+If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, and define
 
 $$
-\\{s, d\\} := \frac{d}{(s, d)}
+{s, d} := \frac{d}{(s, d)}
 $$
 
 sides.
