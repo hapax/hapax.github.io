@@ -245,6 +245,7 @@ S = \left[
 \begin{matrix}
 0 & 0 & 0 & \cdots & 0 & 1 \\
 1 & 0 & 0 & \cdots  & 0 & 0\\
+0 & 1 & 0 & \cdots  & 0 & 0\\
 &&&\ddots& \\
 0 & 0 & 0 & \cdots & 1 & 0
 \end{matrix}
@@ -363,13 +364,6 @@ In fact, this has an amusing (optional) consequence for number theory.
 *Number theory aside.*
 
 ---
-
------------------------ ------------------------------------
-![Tip](images/tip.png)\ Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
-
-----------------------------------------------------------------
 
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
 
