@@ -527,7 +527,7 @@ interpretation.
 We can take a vector $\vec{v} = \sum_k v_k |k\rangle$, and concatenate the
 complex numbers $v_k$, tip-to-tail, on the complex plane.
 We'll call this a *linkage*.
-The *value* of the linkage is the point at which the last vector ends.
+The *value* $V(\vec{v})$ is the point at which the last vector of the linkage ends.
 We give an example for a qutrit below, with the usual polygon in red,
 the linkage in cyan, and the value in purple.
 
@@ -536,10 +536,27 @@ the linkage in cyan, and the value in purple.
     ="/images/posts/linkage1.png"/>
 	</div>
 	</figure>
-	
-The components of $\vec{\chi}^s_d$ are phases, $\omega_d^{ks}$, so
-they have the effect of rotating the coefficient $\alpha_k$ by an
-angle $2\pi ks/d$ on the complex plane.
+
+The overlap $(\vec{\chi}^s_d)^\dagger \vec{v}$ is just the value of
+the vector
+
+$$
+\vec{v}_s = \sum_k v_k \omega_d^{-ks} |k\rangle.
+$$
+
+Mechanically, we can think of $\vec{v}_s$ as a hinged motion of the
+linkage associated with $\vec{v}$.
+We leave the first vector in the linkage alone, then rotate the rest
+by $\omega_d^{-s}$.
+Then we move along and rotate all but the first two by
+$\omega_d^{-s}$.
+We continue in this way until $v_k$ has been rotated by
+$\omega_d^{-ks}$.
+Finally, to get the overlap with $|\chi^s_d\rangle$, we simply divide
+by $\sqrt{d}$.
+
+You can gain intuition for this hinged motion in the
+[linkage applet](https://hapax.github.io/assets/polygon1/).
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
