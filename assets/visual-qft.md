@@ -22,7 +22,7 @@ date:  2020-11-27
 *Prerequisites: basic quantum mechanics, linear algebra, and group
  theory (optional).*
 
-In quantum mechanics, a system is describe by a vector in a Hilbert
+In quantum mechanics, a system is described by a vector in a Hilbert
 space.
 Hilbert space is very, very large, and this is the main reason quantum
 computers are more powerful than classical ones. But this leads to two
