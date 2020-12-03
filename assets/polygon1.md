@@ -40,9 +40,10 @@ function draw() {
   background(255);
   
   strokeWeight(2);
-  stroke(200, 0, 0);
+  stroke(200);
   circle(height/2, width/2, 2*rad);
-  
+
+  stroke(200, 0, 0);
   strokeWeight(2);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
