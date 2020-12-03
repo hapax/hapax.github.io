@@ -224,7 +224,7 @@ We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
-*Optional group theory.* Our choice of representation is guided by the
+*Group theory aside.* Our choice of representation is guided by the
 structure we put on the index set $I$ itself.
 When we draw vectors as marked chains, we are effectively thinking of
 $I$ as an ordered set.
@@ -319,17 +319,6 @@ There is a less extreme degeneracy where regular polygons
 overlap themselves.
 We give the example of $d = 8, s = 2$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
-But although degeneracy is unavoidable, in this basis the degeneracy is
-patterned in a useful way.
-If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
-$\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
-
-$$
-\frac{d}{(s, d)}
-$$
-
-sides.
-This includes $s = 0$, since $(0, d) = d$.
 
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using [this doodad](https://hapax.github.io/assets/polygon1/).
@@ -349,6 +338,25 @@ You can toggle arrow tips with "t":
     ="/images/posts/poly2.png"/>
 	</div>
 	</figure>
+
+But although degeneracy is unavoidable, in this basis the degeneracy is
+patterned in a useful way.
+If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
+$\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
+
+$$
+\frac{d}{(s, d)}
+$$
+
+sides.
+This includes $s = 0$, since $(0, d) = d$.
+In fact, this has an amusing (optional) consequence for number theory.
+
+---
+
+*Number theory aside.*
+
+---
 
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
 
