@@ -458,7 +458,7 @@ $$
 As a simple example, our $d =2$ example above shows that $\text{QFT}_2
 = H$, the Hadamard matrix.
 We could finish the tutorial here if we liked, but in the next few
-sections, we'll outline a few interesting features of the QFT,
+sections, we'll outline some features of the QFT,
 including a neat geometrical interpretation, some factorization
 results, and finally, algorithms for performing the QFT on a quantum
 computer.
