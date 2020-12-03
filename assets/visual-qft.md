@@ -524,7 +524,7 @@ $$
 
 It turns out that the coefficients $A_s$ have a simple geometric
 interpretation.
-We can take a vector $\vec{v} = v_k |k\rangle$, and concatenate the
+We can take a vector $\vec{v} = \sum_k v_k |k\rangle$, and concatenate the
 complex numbers $v_k$, tip-to-tail, on the complex plane, to form a
 *linkage*.
 The *value* of the linkage is
