@@ -460,8 +460,7 @@ As a simple example, our $d =2$ example above shows that $\text{QFT}_2
 We could finish the tutorial here if we liked, but in the next few
 sections, we'll outline some fun features of the QFT,
 including a neat geometrical interpretation, some factorization
-results, and their algorithmic implications for classical and quantum
-computers.
+results, and their algorithmic implications.
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
