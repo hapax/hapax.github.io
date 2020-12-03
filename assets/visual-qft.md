@@ -303,6 +303,14 @@ $$
 
 ##### 2.3. Peculiar polygons<a id="sec-2-3" name="sec-2-3"></a>
 
-When picturing these polygons, there are a 
+When picturing these regular polygons, there are a few peculiarities
+to keep in mind.
+First of all, when $s = 0$, all the points lie at $1$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft8.png"/>
+	</div>
+	</figure>
 
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
