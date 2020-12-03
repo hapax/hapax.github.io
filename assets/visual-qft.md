@@ -308,9 +308,8 @@ This means we have a relation $\alpha_{k+1} = \omega\alpha_{k}$ for
 all $k$, modulo $d$.
 Without loss of generality (and ignoring normalization for the
 moment), we can set $\alpha_0 = 1$ and iterate, so that $\alpha_k =
-\omega^k$. If we choose a primitive root of unity $\omega = e^{2\pi i/d}$, then
-all roots of unity have the form $2^{2\pi i s/d}$ for $s = 0, 1, 2,
-\ldots, d- 1$.
+\omega^k$. If we choose a primitive root of unity $\omega_d = e^{2\pi i/d}$, then
+all roots of unity have the form $\omega_d^{s}$ for $s \in [d]$.
 This gives rise to the $d$ unnormalized eigenvectors, and
 corresponding eigenstates, we found above:
 
@@ -483,7 +482,7 @@ with elements
 
 $$
 \langle j|\text{QFT}_d |k\rangle = \langle j|\chi^k_d\rangle =
-\frac{1}{\sqrt{d}}e^{2\pi i jk/d}.
+\frac{1}{\sqrt{d}}\omega_d^{jk}.
 $$
 
 We could finish the tutorial here if we liked, but in the next few
@@ -508,7 +507,7 @@ from an overlap:
 $$
 \begin{align*}
 A_s = \langle \chi^s_d |\psi\rangle & = \sum_k \alpha_k \langle
-\chi^s_d|k\rangle = \frac{1}{\sqrt{d}}\sum_k \alpha_k e^{-2\pi i ks/d}.
+\chi^s_d|k\rangle = \frac{1}{\sqrt{d}}\sum_k \alpha_k \omega_d^{-ks}.
 \end{align*}
 $$
 
@@ -520,8 +519,12 @@ computational basis, are given by the DFT:
 
 $$
 \text{QFT}|\psi\rangle = \sum_k \alpha_k \text{QFT}|k\rangle = \frac{1}{\sqrt{d}}\sum_s
-\sum_k \alpha_k e^{2\pi i ks/d} |s\rangle = \sum_s A_{-s}|s\rangle.
+\sum_k \alpha_k \omega_d^{ks} |s\rangle = \sum_s A_{-s}|s\rangle.
 $$
+
+It turns out that the coefficients $A_s$ have a simple geometric
+interpretation.
+The components of $\vec{\chi}^s_d$ are phases, $\omega_d^{ks}$.
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
