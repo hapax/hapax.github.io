@@ -76,10 +76,11 @@ below:
 	</div>
 	</figure>
 
-But as soon as we have a bigger
-Hilbert space, this method fails.
-It is radically non-scaleable.
-Clearly, we cannot approach this problem directly!
+Similarly, there is a way to visualize the states of a qutrit, with $d
+= 3$.
+But any bigger, and the method fails!
+This scaling behaviour is terrible.
+Clearly, we cannot approach this problem directly.
 The question becomes: is there useful a way to visualize points in an
 arbitrary Hilbert space, and help us navigate the hugeness?
 
