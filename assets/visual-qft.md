@@ -110,7 +110,7 @@ of points labelled by $k \in I, I = \\{0, 1, \ldots, d- 1\\} =: [d]$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
-To figure out which $k \in I$ is responsible for which point on the plane, we simply project
+To figure out which $k \in [d]$ is responsible for which point on the plane, we simply project
 onto the $x$ axis.
 
 <figure>
@@ -188,7 +188,7 @@ for reasons we will discover shortly.
 
 Let's see what we can do with all this pictorial power at our disposal.
 A warm-up task is simply to draw the computational basis states, $|k\rangle$ for
-$k \in I$, since (as the name suggests) this is a good basis for doing
+$k \in [d]$, since (as the name suggests) this is a good basis for doing
 computations.
 Unfortunately, our method fails at the first hurdle!
 Here's what most of the basis vectors look like:
