@@ -15,6 +15,7 @@ date:  2020-11-27
    3. <a href="#sec-2-3">Peculiar polygons</a>
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
+   2. <a href="#sec-3-2">Tensor products</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -360,3 +361,5 @@ In fact, this has an amusing (optional) consequence for number theory.
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
+
+##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
