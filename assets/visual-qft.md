@@ -486,7 +486,7 @@ $$
 |\psi\rangle = \sum_k \alpha_k |k\rangle = \sum_s A_s |\chi^s_d\rangle.
 $$
 
-Since $|\chi^s_d$ is an orthonormal basis, its easy to extract $A_s$
+Since $|\chi^s_d\rangle$ is an orthonormal basis, its easy to extract $A_s$
 from an overlap:
 
 $$
