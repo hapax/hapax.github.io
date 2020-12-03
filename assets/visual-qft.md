@@ -89,7 +89,8 @@ arbitrary Hilbert space, and help us navigate the hugeness?
 
 ##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
 
-The answer is a resounding yes, and in fact, you probably (secretly) already know how.
+The answer is a resounding yes, and in fact, you probably (secretly)
+already know the solution.
 Consider a graph $y = f(x)$ on the Cartesian plane.
 You can add functions together and multiply them by real numbers, and
 this turns them into a vector space!
