@@ -249,7 +249,7 @@ We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
-**Group theory aside.** Our choice of representation is guided by the
+*Group theory aside.* Our choice of representation is guided by the
 structure we put on the index set $I$ itself. When we draw vectors as
 marked chains, we are effectively thinking of $I$ as an ordered set.
 When we draw it as a polygon, we are implicitly thinking of $I$ as a *cyclic
@@ -424,7 +424,7 @@ This has an amusing (and optionally readable) consequence for number theory.
 
 ---
 
-**Number theory aside.**
+*Number theory aside.*
  The count of $s \in [d]$ relatively prime to $d$ is given by Euler’s
  totient function $\phi(d)$. Similarly, $\phi(d/f)$ counts the
  values $s$ for which $\text{gcd}(d, s) = f$, since $\text{gcd}(d, s)
