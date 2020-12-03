@@ -599,8 +599,8 @@ the box above left:
 	</div>
 	</figure>
 
-The terms $A_{-s}$ is divided by a factor of $\sqrt{d}$, but we have
-omitted this for the purposes of visual clarity.
+Technically, the Fourier coefficient $A_{-s}$ is divided by a factor
+of $\sqrt{d}$, but we have omitted this for the purposes of visual clarity.
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
