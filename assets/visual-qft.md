@@ -477,7 +477,15 @@ We show the action on the basis for $d = 5$ below:
     ="/images/posts/qft11.png"/>
 	</div>
 	</figure>
-	
+
+In general, it is a matrix (also called the *Walsh-Hadamard matrix*)
+with elements
+
+$$
+\langle j|\text{QFT}_d |k\rangle = \langle j|\chi^k_d\rangle =
+\frac{1}{\sqrt{d}}e^{2\pi i jk/d}.
+$$
+
 We could finish the tutorial here if we liked, but in the next few
 sections, we'll outline some fun features of the QFT,
 including a neat geometrical interpretation, some factorization
