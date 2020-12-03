@@ -486,7 +486,7 @@ $$
 |\psi\rangle = \sum_k \alpha_k |k\rangle = \sum_s A_s |\chi^s_d\rangle.
 $$
 
-Since $|\chi^s_d\rangle$ is an orthonormal basis, its easy to extract $A_s$
+Since $|\chi^s_d\rangle$ is an orthonormal basis, it's easy to extract $A_s$
 from an overlap:
 
 $$
@@ -495,6 +495,9 @@ A_s = \langle \chi^s_d |\psi\rangle & = \sum_k \alpha_k \langle
 \chi^s_d|k\rangle = \sum_k \alpha_k e^{-2\pi i ks/d}.
 \end{align*}
 $$
+
+This passive operation is called the Discrete Fourier Transform
+(DFT).
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
