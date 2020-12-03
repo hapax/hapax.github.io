@@ -477,17 +477,22 @@ results, and their algorithmic implications.
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
-Let's see what the QFT does to an arbitrary vector in the
-computational basis.
-For $|\psi\rangle = \sum_s \alpha_s |s\rangle$, we get
+The QFT is, by definition, an active change of basis.
+In the context of linear algebra, its slightly more natural to think
+of a *passive* change of basis, which finds the coefficients $A_s$ in
+the polygonal basis,
+
+$$
+|\psi\rangle = \sum_k \alpha_k |k\rangle = \sum_s A_s |\chi^s_d\rangle.
+$$
+
+Since $|\chi^s_d$ is an orthonormal basis, its easy to extract $A_s$
+from an overlap:
 
 $$
 \begin{align*}
-\text{QFT}|\psi\rangle & = \sum_s \alpha_s \text{QFT}|s\rangle
-   & = \sum_s \alpha_s |\chi^s_d\rangle \\
-	& = \frac{1}{\sqrt{d}}\sum_s \alpha_s \sum_k e^{2\pi i
-	sk/d}|k\rangle \\
-	& = \sum_k \left(\frac{1}{\sqrt{d}}\sum_s \alpha_s e^{2\pi isk/d}\right)|k\rangle.
+A_s = \langle \chi^s_d |\psi\rangle & = \sum_k \alpha_k \langle
+\chi^s_d|k\rangle = \sum_k \alpha_k e^{-2\pi i ks/d}.
 \end{align*}
 $$
 
