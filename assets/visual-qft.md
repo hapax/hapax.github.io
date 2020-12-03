@@ -317,10 +317,11 @@ between each node, we execute a full revolution around the origin:
 
 There is a less extreme degeneracy where regular polygons
 overlap themselves.
-We give the example of $d = 8, s = 4$ above, where a "regular octagon"
+We give the example of $d = 8, s = 2$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
 But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
+
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using [this doodad](https://hapax.github.io/assets/polygon1/).
 For instance, we can enter $d = 17$ and $s = 7$, and the corresponding
