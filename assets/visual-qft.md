@@ -448,7 +448,7 @@ between the computational and polygonal vectors.
 The general process of converting between bases can be performed by a
 *change of basis* matrix.
 The Quantum Fourier Transform (QFT) is simply the active change of
-basis from the computational states to polygons:
+basis from computational states to polygons:
 
 $$
 \text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle.
