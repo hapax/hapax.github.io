@@ -500,7 +500,7 @@ from an overlap:
 $$
 \begin{align*}
 A_s = \langle \chi^s_d |\psi\rangle & = \sum_k \alpha_k \langle
-\chi^s_d|k\rangle = \sum_k \alpha_k e^{-2\pi i ks/d}.
+\chi^s_d|k\rangle = \frac{1}{\sqrt{d}}\sum_k \alpha_k e^{-2\pi i ks/d}.
 \end{align*}
 $$
 
@@ -511,7 +511,7 @@ coefficients of a quantum Fourier-transformed vector, in the
 computational basis, are given by the DFT:
 
 $$
-\text{QFT}|\psi\rangle = \sum_k \alpha_k \text{QFT}|k\rangle = \sum_s
+\text{QFT}|\psi\rangle = \sum_k \alpha_k \text{QFT}|k\rangle = \frac{1}{\sqrt{d}}\sum_s
 \sum_k \alpha_k e^{2\pi i ks/d} |s\rangle = \sum_s A_{-s}|s\rangle.
 $$
 
