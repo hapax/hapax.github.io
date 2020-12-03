@@ -399,7 +399,14 @@ The wrapped polygons obey a simple pattern.
 For any $d$, there are only two convex, non-degenerate regular
 polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
 For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
-polygons, which have $d$ sides but intsersecting edges.
+polygons, which have $d$ sides but intersecting edges.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft10.png"/>
+	</div>
+	</figure>
+
 To understand the general case, note that if $f$ is a common divisor of
 $d$ and $s$, then $k = d/f$ is an integer such that
 
