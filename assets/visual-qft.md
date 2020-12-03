@@ -237,9 +237,9 @@ This corresponds to a unitary matrix acting on the Hilbert space $\mathcal{H}_d$
 $$
 S = \left[
 \begin{matrix}
-0 & 0 & \cdots & 0 & 1 \\
-1 & 0 & \cdots  & 0 & 0\\
-&&\ddots& \\
+0 & 0 & 0 & \cdots & 0 & 1 \\
+1 & 0 & 0 & \cdots  & 0 & 0\\
+&&&\ddots& \\
 0 & 0 & 0 & \cdots & 1 & 0
 \end{matrix}
 \right].
