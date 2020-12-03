@@ -395,7 +395,7 @@ You can toggle arrow tips with "t":
 	</div>
 	</figure>
 
-The wrapped polygons obey simple patterns.
+The wrapped polygons obey a simple pattern.
 For any $d$, there are only two convex, non-degenerate regular
 polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
 For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
