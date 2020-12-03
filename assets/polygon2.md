@@ -34,9 +34,12 @@ function draw() {
   point(height/2, width/2);
   
   let len = mx.length;
+  strokeWeight(0);
+  fill(0);
   textSize(18);
   text('d= ' + str(mx.length), 7, 25);
-  text('s= ', 8, 47)
+  text('s= ', 8, 47);
+  noFill();
   
   if (linkageToggle === 0) {
     if (polyToggle === 1) {
@@ -51,7 +54,7 @@ function draw() {
 		rotate(angle);
 		triangle(0, 0, 4, 10, -4, 10);
 		pop();
-		fill(255);
+		noFill(0);
       }
       line(mx[len-1], my[len-1], mx[0], my[0]);
     }
