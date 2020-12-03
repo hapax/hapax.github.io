@@ -322,7 +322,9 @@ has degenerated into two squares sitting on top of each other.
 But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
 You can enter your own values of $s$ and $d$, and see the
-corresponding patterns in [this doodad](https://hapax.github.io/assets/polygon1/).
+corresponding patterns in
+[this doodad](https://hapax.github.io/assets/polygon1/), for instance
+$d = 17$ and $s = 7$.
 
 <figure>
     <div style="text-align:center"><img src
