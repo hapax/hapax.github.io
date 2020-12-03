@@ -42,7 +42,7 @@ function draw() {
   strokeWeight(2);
   stroke(200);
   circle(height/2, width/2, 2*rad);
-
+  
   strokeWeight(2);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
@@ -51,7 +51,7 @@ function draw() {
   if (copyToggle + factorToggle === 0) {
     for (let i = 0; i < len; i++) {
       myCol = 255*(1-(i+1)/len);
-      stroke(myCol, 0, 0);
+      stroke(myCol);
       polygon(height/2, width/2, rad, myInputs[i], s, myCol);
       s = s/myInputs[i];
     } 
@@ -67,7 +67,7 @@ function draw() {
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
         myCol = 105+150*(1-(a+1)/quot);
-        stroke(myCol, 0, 0)
+        stroke(myCol)
         push();
         translate(width/2,height/2);
         rotate(a*angle);
@@ -79,16 +79,15 @@ function draw() {
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
         myCol = 105+150*(1-(a+1)/quot);
-        stroke(myCol, 0, 0)
+        stroke(myCol)
         push();
         translate(width/2,height/2);
         rotate(a*angle);
         polygon(0, 0, rad, myInputs[0], input2.value(), myCol);
         pop();
       }
-      } else if (copyToggle === 1) {
-        stroke(200, 0, 0);
-        polygon(height/2, width/2, rad, prod, input2.value(), 0);
+    } else if (copyToggle === 1) {
+      polygon(height/2, width/2, rad, prod, input2.value(), 0);
     }
   }
 
@@ -114,7 +113,7 @@ function polygon(x, y, radius, d, s, color) {
   for (let a = 1; a < d; a++) {
     let sx = x + cos((a)*angle) * radius;
     let sy = y - sin((a)*angle) * radius;
-    stroke(color, 0, 0);
+    fill(color);
     push();
     translate(sx, sy);
     rotate(-(a-1/2)*angle);

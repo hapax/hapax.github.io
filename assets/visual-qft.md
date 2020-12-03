@@ -319,7 +319,7 @@ There is a less extreme degeneracy where regular polygons
 overlap themselves.
 We give the example of $d = 8, s = 4$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
-But although degeneracy is unavoidable, in the basis the degeneracy is
+But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
 
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
