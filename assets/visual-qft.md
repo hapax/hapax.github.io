@@ -321,6 +321,15 @@ We give the example of $d = 8, s = 2$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
 But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
+If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
+$\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
+
+$$
+\frac{d}{(s, d)}
+$$
+
+sides.
+This includes $s = 0$, since $(0, d) = d$.
 
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using [this doodad](https://hapax.github.io/assets/polygon1/).
