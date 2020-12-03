@@ -76,12 +76,12 @@ below:
 	</div>
 	</figure>
 
-Similarly, there is a way to visualize the states of a qutrit, with $d
-= 3$.
+<!-- Similarly, there is a way to directly visualize the states of a qutrit, with $d
+= 3$. -->
 But any bigger, and the method fails!
-This scaling behaviour is terrible.
-Clearly, we cannot approach this problem directly.
-The question becomes: is there useful a way to visualize points in an
+So trying to directly visualize things does not scale at all.
+<!-- Clearly, we cannot approach this problem directly. -->
+The question becomes: is there useful indirect way to picture points in an
 arbitrary Hilbert space, and help us navigate the hugeness?
 
 <figure>
