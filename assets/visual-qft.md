@@ -305,10 +305,9 @@ But we leave that for another time!
 
 When picturing these regular polygons, there are a few peculiarities
 to keep in mind.
-First of all, when $s = 0$, all the points lie at $1$.
+First, when $s = 0$, all the points lie at $1$.
 This is, in a sense, a sort of degenerate regular polygon where,
-between each node, we execute a full revolution around the origin.
-We picture this belo:
+between each node, we execute a full revolution around the origin:
 
 <figure>
     <div style="text-align:center"><img src
