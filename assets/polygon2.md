@@ -72,7 +72,7 @@ function draw() {
   } else if (linkageToggle === 1) {
     for (let i = 0; i < len; i++) {
       let sumx = 0, sumy = 0;
-      let angle = valToggle * input.value() * TWO_PI / len;
+      let angle = -valToggle * input.value() * TWO_PI / len;
       rotx[i] = (mx[i]-width/2) * cos(i * angle) - (my[i]-height/2) * sin(i * angle);
       roty[i] = (mx[i]-width/2) * sin(i * angle) + (my[i]-height/2) * cos(i * angle);
       for (let j = 0; j < i+1; j++) {
