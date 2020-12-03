@@ -461,7 +461,7 @@ We can have our basis and eat it too if we find a way to *convert*
 between the computational and polygonal vectors.
 This is where the Quantum Fourier Transform (QFT) comes from.
 It is simply the active change of basis from computational states to
-polygons,
+regular-polygonal states,
 
 $$
 \text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle,
