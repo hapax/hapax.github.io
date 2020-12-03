@@ -529,7 +529,7 @@ complex numbers $v_k$, tip-to-tail, on the complex plane.
 We'll call this a *linkage*.
 The *value* of the linkage is the point at which the last vector ends.
 We give an example for a qutrit below, with the usual polygon in red,
-the linkage in blue, and the value in purple.
+the linkage in cyan, and the value in purple.
 
 <figure>
     <div style="text-align:center"><img src
