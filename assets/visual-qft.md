@@ -307,6 +307,7 @@ to keep in mind.
 First of all, when $s = 0$, all the points lie at $1$.
 This is, in a sense, a sort of degenerate regular polygon where,
 between each node, we execute a full revolution around the origin.
+We picture this belo:
 
 <figure>
     <div style="text-align:center"><img src
@@ -314,7 +315,7 @@ between each node, we execute a full revolution around the origin.
 	</div>
 	</figure>
 
-In fact, there is a less extreme degeneracy where regular polygons
+There is a less extreme degeneracy where regular polygons
 overlap themselves.
 We give the example of $d = 8, s = 4$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
