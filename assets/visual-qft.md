@@ -339,7 +339,7 @@ Thus, we have indeed eliminated the ambiguity that plagued the
 computational basis.
 
 You can enter your own values of $s$ and $d$, and see the
-corresponding polygons using [this doodad](https://hapax.github.io/assets/polygon1/).
+corresponding polygons using the [polygon applet](https://hapax.github.io/assets/polygon1/).
 For instance, we can enter $d = 17$ and $s = 7$, and the corresponding
 basis element will be displayed:
 
