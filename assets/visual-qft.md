@@ -282,13 +282,7 @@ This means we have a relation $\alpha_{k+1} = \omega\alpha_{k}$ for
 all $k$, modulo $d$.
 Without loss of generality (and ignoring normalization for the
 moment), we can set $\alpha_0 = 1$ and iterate, so that $\alpha_k =
-\omega^k$ and hence
-
-$$
-|\psi\rangle \propto \sum_k \omega^k |k\rangle.
-$$
-
-If we choose a primitive root of unity $\omega = e^{i 2\pi/d}$, then
+\omega^k$. If we choose a primitive root of unity $\omega = e^{i 2\pi/d}$, then
 all roots of unity have the form $2^{i 2\pi s/d}$ for $s = 0, 1, 2,
 \ldots, d- 1$.
 This gives rise to the $d$ unnormalized eigenvectors, and
