@@ -358,6 +358,13 @@ In fact, this has an amusing (optional) consequence for number theory.
 
 ---
 
+----------------------- ------------------------------------
+![Tip](images/tip.png)\ Table multiline text bla bla bla bla
+                        bla bla bla bla bla bla bla ... the
+                        blank line below is important 
+
+----------------------------------------------------------------
+
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
