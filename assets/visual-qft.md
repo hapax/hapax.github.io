@@ -456,13 +456,12 @@ came up with a new basis which jived better.
 But we shouldn't throw out the computational basis altogether!
 It's the closest thing we have to working with bit strings, and hence
 a natural place to do many quantum information-processing tasks.
-We can have our basis and eat it to if we find a way to *convert*
-between the computational and polygonal vectors.
 
-The general process of converting between bases can be performed by a
-*change of basis* matrix.
-The Quantum Fourier Transform (QFT) is simply the active change of
-basis from computational states to polygons:
+We can have our basis and eat it too if we find a way to *convert*
+between the computational and polygonal vectors.
+This is where the Quantum Fourier Transform (QFT) comes from.
+It is simply the active change of basis from computational states to
+polygons:
 
 $$
 \text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle.
