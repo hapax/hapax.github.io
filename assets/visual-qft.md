@@ -12,7 +12,8 @@ date:  2020-11-27
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
    2. <a href="#sec-2-2">A better basis</a>
-   3. <a href="#sec-2-3">Overlaps and linkages</a>
+   3. <a href="#sec-2-3">Peculiar polygons</a>
+   4. <a href="#sec-2-4">Overlaps and linkages</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -290,17 +291,18 @@ $$
 If we choose a primitive root of unity $\omega = e^{i 2\pi/d}$, then
 all roots of unity have the form $2^{i 2\pi s/d}$ for $s = 0, 1, 2,
 \ldots, d- 1$.
-This gives rise to the $d$ unnormalized eigenvectors, and corresponding eigenstates,
+This gives rise to the $d$ unnormalized eigenvectors, and
+corresponding eigenstates, we found above:
 
 $$
 \vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{i 2\pi s/d} |k\rangle, \quad
-|\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d,
+|\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
-
-as above.
 
 ---
 
-When we try to pi
+##### 2.3. Peculiar polygons<a id="sec-2-3" name="sec-2-3"></a>
 
-##### 2.3. Overlaps and linkages<a id="sec-2-3" name="sec-2-3"></a>
+When picturing these polygons, there are a 
+
+##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
