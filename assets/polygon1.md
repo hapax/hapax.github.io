@@ -113,7 +113,7 @@ function polygon(x, y, radius, d, s, color) {
   for (let a = 1; a < d; a++) {
     let sx = x + cos((a)*angle) * radius;
     let sy = y - sin((a)*angle) * radius;
-    fill(color);
+    fill(color, 0, 0);
     push();
     translate(sx, sy);
     rotate(-(a-1/2)*angle);
