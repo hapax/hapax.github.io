@@ -55,6 +55,12 @@ If Hilbert space is huge, we must learn to navigate it.
 <!-- So, Hilbert space is huge.
 Our task is to see it, reason about it, and make use of it. -->
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qubit2.png"/>
+	</div>
+	</figure>
+
 ##### 2. Polygons<a id="sec-2" name="sec-2"></a>
 
 To make our problem sharper, let's consider the problem of visualizing
