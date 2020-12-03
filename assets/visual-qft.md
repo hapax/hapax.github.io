@@ -302,9 +302,9 @@ $$
 $$
 
 More generally, if $I$ is interpreted as some other finite group $G$,
-figuring out how to draw the maps $G \to \mathbb{C}$ and choose a
-basis is an interesting problem.
-But we leave that for another time!
+symmetries act as unitary matrices.
+Figuring out how to draw the maps $G \to \mathbb{C}$, and choosing a
+basis, is an interesting problem we leave for another time!
 
 ---
 
