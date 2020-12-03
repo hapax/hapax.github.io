@@ -555,7 +555,7 @@ $\omega_d^{-ks}$.
 Finally, to get the overlap with $|\chi^s_d\rangle$, we simply divide
 by $\sqrt{d}$.
 
-You can gain intuition for this hinged motion in the
+You can gain intuition for how the Fourier transform is related to hinged motion in this
 [linkage applet](https://hapax.github.io/assets/polygon1/).
 Click to create the points in the vector, which are now displayed as
 complex numbers, i.e. arrows from the origin:
