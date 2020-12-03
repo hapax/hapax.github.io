@@ -40,7 +40,7 @@ function draw() {
   background(255);
   
   strokeWeight(2);
-  stroke(200);
+  stroke(200, 0, 0);
   circle(height/2, width/2, 2*rad);
   
   strokeWeight(2);
