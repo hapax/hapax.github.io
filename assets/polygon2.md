@@ -58,7 +58,7 @@ function draw() {
     }
     for (let i = 0; i < len; i++) {
       strokeWeight(2);
-      stroke(200, 0, 0);
+      stroke(0, 200, 200);
       line(width/2, height/2, mx[i], my[i]);
       if (i === 0) {
       stroke(0);
@@ -91,7 +91,7 @@ function draw() {
     
     if (valToggle === 1) {
       strokeWeight(2);
-      stroke(0, 0, 200);
+      stroke(200, 0, 200);
       line(width/2, height/2, Mx[len-1],My[len-1]);
     }
     strokeWeight(firstRad*(5/3));
