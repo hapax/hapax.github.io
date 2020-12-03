@@ -227,7 +227,7 @@ normalize later to get states.
 We define the resulting regular polygonal vectors and eigenstates by
 
 $$
-\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{i 2\pi s/d} |k\rangle, \quad
+\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{2\pi i s/d} |k\rangle, \quad
 |\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
 
@@ -235,7 +235,7 @@ We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
-***Group theory aside.*** Our choice of representation is guided by the
+**Group theory aside.** Our choice of representation is guided by the
 structure we put on the index set $I$ itself. When we draw vectors as
 marked chains, we are effectively thinking of $I$ as an ordered set.
 When we draw it as a polygon, we are implicitly thinking of $I$ as a *cyclic
@@ -294,14 +294,14 @@ This means we have a relation $\alpha_{k+1} = \omega\alpha_{k}$ for
 all $k$, modulo $d$.
 Without loss of generality (and ignoring normalization for the
 moment), we can set $\alpha_0 = 1$ and iterate, so that $\alpha_k =
-\omega^k$. If we choose a primitive root of unity $\omega = e^{i 2\pi/d}$, then
-all roots of unity have the form $2^{i 2\pi s/d}$ for $s = 0, 1, 2,
+\omega^k$. If we choose a primitive root of unity $\omega = e^{2\pi i/d}$, then
+all roots of unity have the form $2^{2\pi i s/d}$ for $s = 0, 1, 2,
 \ldots, d- 1$.
 This gives rise to the $d$ unnormalized eigenvectors, and
 corresponding eigenstates, we found above:
 
 $$
-\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{i 2\pi s/d} |k\rangle, \quad
+\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{2\pi i s/d} |k\rangle, \quad
 |\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
 
@@ -337,6 +337,27 @@ If it arrives at a point $e^{i\theta}$, then $s = d\theta/2\pi$.
 Thus, we have indeed eliminated the ambiguity that plagued the
 computational basis, without any need for additional labels.
 
+Let's give a simple example.
+For a qubit, $d = 2$, and the two polygonal states are
+
+$$
+\begin{align*}
+|\chi^0_2\rangle & = \frac{1}{\sqrt{2}}\sum_{k=0}^1 e^{2\pi i
+0 \cdot k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle) \\
+|\chi^1_2\rangle & = \frac{1}{\sqrt{2}}\sum_{k=0}^1 e^{2\pi i 1 \cdot k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle - |1\rangle).
+\end{align*}
+$$
+
+These are just the familiar eigenstates $|\pm\rangle$ of the $X$
+observable!
+We draw them below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qft9.png"/>
+	</div>
+	</figure>
+
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using the [polygon applet](https://hapax.github.io/assets/polygon1/).
 For instance, we can enter $d = 17$ and $s = 7$, and the corresponding
@@ -369,7 +390,7 @@ $$
 $$
 
 Thus, at the $k$th node the polygon wraps back to $1$.
-If $g = \text{gcd}(s, d)$ is the greatest common divisor, then $k =
+If $g = \text{gcd}(s, d)$ is the *greatest* common divisor, then $k =
 d/g$ is the first node at which the polygon $\vec{\chi}^s_d$ returns
 to $1$.
 Hence, $\vec{\chi}^s_d$ is a polygon with $d/g$ sides which wraps
@@ -378,11 +399,11 @@ This has an amusing (and optionally readable) consequence for number theory.
 
 ---
 
-*Number theory aside.*
+**Number theory aside.**
  The count of $s \in [d]$ relatively prime to $d$ is given by *Euler’s
  totient function* $\phi(d)$. Similarly, $\phi(d/f)$ counts the
  values $s$ for which $\text{gcd}(d, s) = f$, since $\text{gcd}(d, s)
- = f$ just in case $\text{gcd}((d/f, s) = 1$. Thus, $\phi(d/f)$
+ = f$ just in case $\text{gcd}(d/f, s) = 1$. Thus, $\phi(d/f)$
  counts the regular polygons wrapping $f$ times. Since $d/f = f'$ is
  just another way of enumerating factors of $d$, and every polygon
  must wrap $f$ times for some factor $f$, we deduce that
@@ -396,6 +417,20 @@ This identity was first proved by Gauss in his *Disquisitiones Arithmeticae*.
 ---
 
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
+
+The purpose of the last section was to introduce a way to draw vectors
+in big Hilbert spaces.
+The computational basis is ill-adapted to this representation, so we
+came up with a new basis which jived better.
+But we shouldn't throw out the computational basis altogether!
+It's the closest thing we have to working with bit strings, and hence
+a natural place to do many quantum information-processing tasks.
+We can have our basis and eat it to if we find a way to *convert*
+between the computational and polygonal vectors.
+
+The general process of converting between bases can be performed by a
+*change of basis* matrix.
+
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
