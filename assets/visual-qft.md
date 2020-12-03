@@ -345,7 +345,7 @@ If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
 $\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
 
 $$
-\frac{d}{(s, d)}
+[s, d] := \frac{d}{(s, d)}
 $$
 
 sides.
