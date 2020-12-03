@@ -336,7 +336,7 @@ are always distinct, provided you know $d$: you simply see where the
 first arrow goes.
 If it arrives at a point $e^{i\theta}$, then $s = d\theta/2\pi$.
 Thus, we have indeed eliminated the ambiguity that plagued the
-computational basis.
+computational basis, without any need for additional labels.
 
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using the [polygon applet](https://hapax.github.io/assets/polygon1/).
