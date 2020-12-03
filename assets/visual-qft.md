@@ -599,6 +599,8 @@ the box above left:
 	</div>
 	</figure>
 
+(In fact, you can enter *arbitrary* $s$ to see a "continuous" hinged
+motion, though the QFT only involves integer $s$.)
 Technically, the Fourier coefficient $A_{-s}$ is divided by a factor
 of $\sqrt{d}$, but we have omitted this for the purposes of visual clarity.
 
