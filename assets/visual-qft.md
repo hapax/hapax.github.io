@@ -586,7 +586,7 @@ You can also display the value using "v":
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/linkage5.png"/>
+    ="/images/posts/linkage6.png"/>
 	</div>
 	</figure>
 
@@ -595,7 +595,7 @@ the box above left:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/linkage6.png"/>
+    ="/images/posts/linkage5.png"/>
 	</div>
 	</figure>
 
