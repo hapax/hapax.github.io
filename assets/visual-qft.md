@@ -106,7 +106,7 @@ think of each point $x$ as a basis vector.
 
 We certainly don't need all of those dimensions!
 Instead of a continuous variable $x$, we can imagine a finite number
-of points labelled by $k \in I, I = \\{0, 1, \ldots, d- 1\\}$.
+of points labelled by $k \in I, I = \\{0, 1, \ldots, d- 1\\} =: [d]$.
 Then we can represent a vector in $\mathbb{R}^d$ as a map $f: I \to
 \mathbb{R}$.
 We can add and multiply these maps as usual, $f  +g, \lambda f$.
@@ -361,30 +361,37 @@ For any $d$, there are only two convex, non-degenerate regular
 polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
 For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
 polygons, which have $d$ sides but intsersecting edges.
-Finally, if $s$ and $d$ have greatest common factor $g = \text{gcd}(s, d)$,
-then the polygon is $g$-degenerate, in the sense that it wraps around
+To understand the general case, note that if $f$ is a common divisor of
+$d$ and $s$, then $k = d/f$ is an integer such that
+
+$$
+\frac{2\pi ks}{d} = \frac{2\pi ds}{df} = \frac{2\pi s}{f} \in 2\pi \mathbb{Z}.
+$$
+
+Thus, at the $k$th node the polygon wraps back to $1$.
+If $g = \text{gcd}(s, d)$ is the greatest common divisor, then $k =
+d/g$ is the first node at which the polygon $\vec{\chi}^s_d$ returns
+to $1$.
+Hence, $\vec{\chi}^s_d$ is a polygon with $d/g$ sides which wraps
 itself $g$ times.
-This is because a polygon will wrap at the $k$th node if the angle
-$\theta = 2\pi ks/d$ is a multiple of $2\pi$, or
-
-$$
-\frac{ks}{d} \in \mathbb{Z} \quad \Longrightarrow \quad k s'/d'
-$$
-
-We end this section with an amusing (and once again optionally
-readable) consequence for number theory.
+This has an amusing (and optionally readable) consequence for number theory.
 
 ---
 
 *Number theory aside.*
-If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, and define
+ The count of $s \in [d]$ relatively prime to $d$ is given by *Euler’s
+ totient function* $\phi(d)$. Similarly, $\phi(d/f)$ counts the
+ values $s$ for which $\text{gcd}(d, s) = f$, since $\text{gcd}(d, s)
+ = f$ just in case $\text{gcd}((d/f, s) = 1$. Thus, $\phi(d/f)$
+ counts the regular polygons wrapping $f$ times. Since $d/f = f'$ is
+ just another way of enumerating factors of $d$, and every polygon
+ must wrap $f$ times for some factor $f$, we deduce that
 
 $$
-{s, d} := \frac{d}{(s, d)}
+\sum_{f|d} \phi(f) = d.
 $$
 
-sides.
-This includes $s = 0$, since $(0, d) = d$.
+This identity was first proved by Gauss in his *Disquisitiones Arithmeticae*.
 
 ---
 
