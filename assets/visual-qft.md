@@ -311,6 +311,12 @@ But we leave that for another time!
 When picturing these regular polygons, there are a few peculiarities
 to keep in mind.
 First of all, when $s = 0$, all the points lie at $1$.
+This is, in a sense, a sort of degenerate regular polygon where,
+between each node, we execute a full revolution around the origin.
+In fact, there is a less extreme degeneracy where regular polygons
+overlap themselves.
+We give the example of $d = 8, s = 4$ below, where a "regular octagon"
+has wrapped itself, and thereby looks like a square.
 
 <figure>
     <div style="text-align:center"><img src
