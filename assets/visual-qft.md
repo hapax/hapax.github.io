@@ -228,9 +228,22 @@ We define the resulting regular polygonal vectors and eigenstates by
 
 $$
 \vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{2\pi i s/d} |k\rangle, \quad
-|\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
+|\chi^s_d\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
 
+We can directly check that these not only form a basis, but that the
+eigenstates are orthonormal.
+Assuming $t \neq s$, we have
+
+$$
+\begin{align*}
+\langle \chi^{t}_d |\chi^s_t\rangle & = \frac{1}{d}\sum_{k=0}^{d-1} e^{2\pi i
+(s-t)/d} \\
+& = \frac{1 - e^{2\pi i d (s-t)/d}}{1 - e^{2\pi i (s-t)/d}} = 0,
+\end{align*}
+$$
+
+summing using a geometric series.
 We give a slightly more elegant group-theoretic motivation below.
 
 ---
@@ -305,10 +318,13 @@ $$
 |\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
 
-More generally, if $I$ is interpreted as some other finite group $G$,
+These automatically form a basis, and in fact are orthogonal, since
+they are eigenstates of a unitary operator.
+
+<!-- More generally, if $I$ is interpreted as some other finite group $G$,
 symmetries act as unitary matrices.
 Figuring out how to draw the maps $G \to \mathbb{C}$, and choosing a
-basis, is an interesting problem we leave for another time!
+basis, is an interesting problem we leave for another time! -->
 
 ---
 
