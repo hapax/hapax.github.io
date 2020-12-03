@@ -376,8 +376,8 @@ We draw them below:
 	</div>
 	</figure>
 
-You can enter your own values of $s$ and $d$, and see the
-corresponding polygons using the [polygon applet](https://hapax.github.io/assets/polygon1/).
+You can generate polygons for arbitrary $s$ and $d$ using the
+[polygon applet](https://hapax.github.io/assets/polygon1/).
 For instance, we can enter $d = 17$ and $s = 7$, and the corresponding
 basis element will be displayed:
 
