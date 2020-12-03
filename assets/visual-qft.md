@@ -461,12 +461,13 @@ We can have our basis and eat it too if we find a way to *convert*
 between the computational and polygonal vectors.
 This is where the Quantum Fourier Transform (QFT) comes from.
 It is simply the active change of basis from computational states to
-polygons:
+polygons,
 
 $$
-\text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle.
+\text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle,
 $$
 
+which extends linearly to the full Hilbert space.
 As a simple example, our $d =2$ example above shows that $\text{QFT}_2
 = H$, the Hadamard matrix.
 We could finish the tutorial here if we liked, but in the next few
@@ -476,7 +477,19 @@ results, and their algorithmic implications.
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
+Let's see what the QFT does to an arbitrary vector in the
+computational basis.
+For $|\psi\rangle = \sum_s \alpha_s |s\rangle$, we get
 
+$$
+\begin{align*}
+\text{QFT}|\psi\rangle & = \sum_s \alpha_s \text{QFT}|s\rangle
+   & = \sum_s \alpha_s |\chi^s_d\rangle \\
+	& = \frac{1}{\sqrt{d}}\sum_s \alpha_s \sum_k e^{2\pi i
+	sk/d}|k\rangle \\
+	& = \sum_k \left(\frac{1}{\sqrt{d}}\sum_s \alpha_s e^{2\pi isk/d}\right)|k\rangle.
+\end{align*}
+$$
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
