@@ -16,6 +16,7 @@ date:  2020-11-27
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">Tensor products</a>
+   3. <a href="#sec-3-3">Algorithms</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -379,3 +380,5 @@ This includes $s = 0$, since $(0, d) = d$.
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
+
+##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
