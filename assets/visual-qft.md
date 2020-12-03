@@ -408,7 +408,7 @@ polygons, which have $d$ sides but intersecting edges.
 	</figure>
 
 To understand the general case, note that if $f$ is a common divisor of
-$d$ and $s$, then $k = d/f$ is an integer such that
+$d$ and $s$ (written $f | d$, $f | s$), then $k = d/f$ is an integer such that
 
 $$
 \frac{2\pi ks}{d} = \frac{2\pi ds}{df} = \frac{2\pi s}{f} \in 2\pi \mathbb{Z}.
