@@ -427,8 +427,14 @@ This has an amusing (and optionally readable) consequence for number theory.
 *Number theory aside.*
  The count of $s \in [d]$ relatively prime to $d$ is given by Euler’s
  totient function $\phi(d)$. Similarly, $\phi(d/f)$ counts the
- values $s$ for which $\text{gcd}(d, s) = f$, since $\text{gcd}(d, s)
- = f$ just in case $\text{gcd}(d/f, s) = 1$. Thus, $\phi(d/f)$
+ values $s$ for which $\text{gcd}(d, s) = f$, since
+
+$$
+\text{gcd}(d, s)  = f \quad \Leftrightarrow \quad \text{gcd}(d/f, s)
+= 1.
+$$
+
+Thus, $\phi(d/f)$
  counts the regular polygons wrapping $f$ times. Since $d/f = f'$ is
  just another way of enumerating factors of $d$, and every polygon
  must wrap $f$ times for some factor $f$, we deduce that
