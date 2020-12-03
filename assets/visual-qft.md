@@ -210,7 +210,7 @@ $$
 
 for some radius $r$ and angle $\theta$.
 To ensure we end up back where we started after $d$ points, we require
-$d\theta$ to be a multiple of $2\pi$, or $\theta = s 2\pi/d$ for some
+$d\theta$ to be a multiple of $2\pi$, or $\theta = 2\pi s/d$ for some
 integer $s$.
 The $r$ is irrelevant for choosing a basis, so we set it to $1$, and
 normalize later to get states.
