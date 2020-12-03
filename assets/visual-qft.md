@@ -329,6 +329,12 @@ There is a less extreme degeneracy where regular polygons
 overlap themselves.
 We give the example of $d = 8, s = 2$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
+But although points can degenerate into each other, the basis elements
+are always distinct, provided you know $d$: you simply see where the
+first arrow goes.
+If it arrives at a point $e^{i\theta}$, then $s = d\theta/2\pi$.
+Thus, we have indeed eliminated the ambiguity that plagues the
+computational basis.
 
 You can enter your own values of $s$ and $d$, and see the
 corresponding polygons using [this doodad](https://hapax.github.io/assets/polygon1/).
@@ -349,8 +355,12 @@ You can toggle arrow tips with "t":
 	</div>
 	</figure>
 
-But although degeneracy is unavoidable, in this basis the degeneracy is
-patterned in a useful way.
+We end this section with an amusing (and once again optionally
+readable) consequence for number theory.
+
+---
+
+*Number theory aside.*
 If $(a, b)$ denotes the greatest common divisor of $a$ and $b$, then
 $\vec{\chi}^s_d$ will wrap around itself $(s, d)$ times, and hence have
 
@@ -360,11 +370,6 @@ $$
 
 sides.
 This includes $s = 0$, since $(0, d) = d$.
-In fact, this has an amusing (and once again optionally readable) consequence for number theory.
-
----
-
-*Number theory aside.*
 
 ---
 
