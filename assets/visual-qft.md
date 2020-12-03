@@ -40,7 +40,7 @@ computing underlying dramatic quantum speedups like Shor's algorithm.
 	</div>
 	</figure>
 
-To be a little more precise, let's consider a classical computer which
+Let's consider a classical computer which
 stores $n$ bits, $b_1, b_2, \ldots, b_n \in \\{0, 1\\}$.
 There are $2^n$ possible states of the computer, consisting of all
 $n$-bit strings $b_1b_2\cdots b_n$.
