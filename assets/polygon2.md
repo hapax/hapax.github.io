@@ -34,7 +34,6 @@ function draw() {
   point(height/2, width/2);
   
   let len = mx.length;
-  strokeWeight(0);
   textSize(18);
   text('d= ' + str(mx.length), 7, 25);
   text('s= ', 8, 47)
