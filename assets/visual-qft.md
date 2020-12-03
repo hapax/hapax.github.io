@@ -12,6 +12,7 @@ date:  2020-11-27
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
    2. <a href="#sec-2-2">A better basis</a>
+   3. <a href="#sec-2-3">Overlaps and linkages</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -299,3 +300,7 @@ $$
 as above.
 
 ---
+
+When we try to pi
+
+##### 2.3. Overlaps and linkages<a id="sec-2-3" name="sec-2-3"></a>
