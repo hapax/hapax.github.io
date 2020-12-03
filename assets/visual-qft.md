@@ -498,6 +498,9 @@ $$
 
 This passive operation is called the Discrete Fourier Transform
 (DFT).
+The distinction between the QFT and DFT is subtle; the QFT changes a
+vector, while the DFT computes the coefficients for the passive
+transformation.
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
