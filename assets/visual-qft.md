@@ -506,7 +506,14 @@ $$
 
 This passive operation is called the Discrete Fourier Transform
 (DFT).
-The DFT and QFT are just inverses of each other.
+The DFT and QFT are just inverses of each other, in the sense that the
+coefficients of a quantum Fourier-transformed vector, in the
+computational basis, are given by the DFT:
+
+$$
+\text{QFT}|\psi\rangle = \sum_k \alpha_k \text{QFT}|k\rangle = \sum_s
+A_{-s}|s\rangle.
+$$
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
