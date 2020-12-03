@@ -43,7 +43,6 @@ function draw() {
   stroke(200);
   circle(height/2, width/2, 2*rad);
 
-  stroke(200, 0, 0);
   strokeWeight(2);
   let myTextInputs = split(input1.value(), ',');
   let myInputs = int(myTextInputs);
@@ -87,8 +86,9 @@ function draw() {
         polygon(0, 0, rad, myInputs[0], input2.value(), myCol);
         pop();
       }
-    } else if (copyToggle === 1) {
-      polygon(height/2, width/2, rad, prod, input2.value(), 0);
+      } else if (copyToggle === 1) {
+        stroke(200, 0, 0);
+        polygon(height/2, width/2, rad, prod, input2.value(), 0);
     }
   }
 
