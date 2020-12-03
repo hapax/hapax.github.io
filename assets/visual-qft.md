@@ -524,6 +524,17 @@ $$
 
 It turns out that the coefficients $A_s$ have a simple geometric
 interpretation.
+We can take a vector $\vec{v} = v_k |k\rangle$, and concatenate the
+complex numbers $v_k$, tip-to-tail, on the complex plane, to form a
+*linkage*.
+The *value* of the linkage is
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage1.png"/>
+	</div>
+	</figure>
+	
 The components of $\vec{\chi}^s_d$ are phases, $\omega_d^{ks}$, so
 they have the effect of rotating the coefficient $\alpha_k$ by an
 angle $2\pi ks/d$ on the complex plane.
