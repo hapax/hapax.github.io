@@ -466,7 +466,7 @@ $$
 \text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle,
 $$
 
-which extends linearly to the full Hilbert space.
+extended linearly to the full Hilbert space.
 As a simple example, our $d =2$ example above shows that $\text{QFT}_2
 = H$, the Hadamard matrix.
 We show the action on the basis for $d = 5$ below:
