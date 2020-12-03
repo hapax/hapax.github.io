@@ -359,8 +359,9 @@ For a qubit, $d = 2$, and the two polygonal states are
 $$
 \begin{align*}
 |\chi^0_2\rangle & = \frac{1}{\sqrt{2}}\sum_{k=0}^1 e^{2\pi i
-0 \cdot k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle) \\
-|\chi^1_2\rangle & = \frac{1}{\sqrt{2}}\sum_{k=0}^1 e^{2\pi i 1 \cdot k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle - |1\rangle).
+0 \cdot k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle) = |+\rangle \\
+|\chi^1_2\rangle & = \frac{1}{\sqrt{2}}\sum_{k=0}^1 e^{2\pi i 1 \cdot
+k/d}|k\rangle = \frac{1}{\sqrt{2}}(|0\rangle - |1\rangle) = |-\rangle.
 \end{align*}
 $$
 
