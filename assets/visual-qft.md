@@ -66,8 +66,9 @@ $$
 Without further work, the space of states lives in $\mathbb{C}^2
 \simeq \mathbb{R}^4$, which is already impossible to picture.
 Our visual cortex evolved for three dimensions only!
-There are some tricks that mean we *can* draw directly draw the space
-of sinqle qubit states on a sphere, as below:
+Luckily, the global phase ambiguity and normalization constraint mean
+we can directly draw the space of sinqle qubit states on a sphere, as
+below:
 
 <figure>
     <div style="text-align:center"><img src
