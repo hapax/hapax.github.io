@@ -321,5 +321,13 @@ We give the example of $d = 8, s = 4$ above, where a "regular octagon"
 has degenerated into two squares sitting on top of each other.
 But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
+You can enter your own values of $s$ and $d$, and see the
+corresponding patterns in [this doodad](https://hapax.github.io/assets/polygon1/).
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/poly1.png"/>
+	</div>
+	</figure>
 
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
