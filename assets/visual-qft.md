@@ -232,7 +232,7 @@ We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
-*Group theory aside.* Our choice of representation is guided by the
+***Group theory aside.*** Our choice of representation is guided by the
 structure we put on the index set $I$ itself. When we draw vectors as
 marked chains, we are effectively thinking of $I$ as an ordered set.
 When we draw it as a polygon, we are implicitly thinking of $I$ as a *cyclic
