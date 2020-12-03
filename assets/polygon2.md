@@ -14,7 +14,7 @@ date:  2020-11-26
 
 let firstRad = 6, rad = 180;
 let mx = [], my = [], rotx = [], roty = [], Mx = [], My = [];
-let input1, linkageToggle = 0, polyToggle = 0, DFToggle=0;
+let input1, linkageToggle = 0, polyToggle = 0, valToggle=0;
 
 function setup() {
   createCanvas(400, 400);
@@ -72,7 +72,7 @@ function draw() {
   } else if (linkageToggle === 1) {
     for (let i = 0; i < len; i++) {
       let sumx = 0, sumy = 0;
-      let angle = DFToggle * input.value() * TWO_PI / len;
+      let angle = valToggle * input.value() * TWO_PI / len;
       rotx[i] = (mx[i]-width/2) * cos(i * angle) - (my[i]-height/2) * sin(i * angle);
       roty[i] = (mx[i]-width/2) * sin(i * angle) + (my[i]-height/2) * cos(i * angle);
       for (let j = 0; j < i+1; j++) {
@@ -89,7 +89,7 @@ function draw() {
       line(Mx[i],My[i],Mx[i+1],My[i+1]);
     }
     
-    if (DFToggle === 1) {
+    if (valToggle === 1) {
       strokeWeight(2);
       stroke(0, 0, 200);
       line(width/2, height/2, Mx[len-1],My[len-1]);
@@ -122,11 +122,11 @@ function keyPressed() {
     } else { 
       polyToggle = 0;
     }  
-  } else if (keyCode == 84) {
-    if (DFToggle === 0) {
-      DFToggle = 1;
+  } else if (keyCode == 86) {
+    if (valToggle === 0) {
+      valToggle = 1;
     } else { 
-      DFToggle = 0;
+      valToggle = 0;
     }  
   }
 }
