@@ -527,7 +527,7 @@ interpretation.
 We can take a vector $\vec{v} = \sum_k v_k |k\rangle$, and concatenate the
 complex numbers $v_k$, tip-to-tail, on the complex plane.
 We'll call this a *linkage*.
-The *value* $V(\vec{v})$ is the point at which the last vector of the linkage ends.
+The *value* $V(\vec{v})$ is the point at which the last arrow of the linkage ends.
 We give an example for a qutrit below, with the usual polygon in red,
 the linkage in cyan, and the value in purple.
 
@@ -546,7 +546,7 @@ $$
 
 Mechanically, we can think of $\vec{v}_s$ as a hinged motion of the
 linkage associated with $\vec{v}$.
-We leave the first vector in the linkage alone, then rotate the rest
+We leave the first arrow in the linkage alone, then rotate the rest
 by $\omega_d^{-s}$.
 Then we move along and rotate all but the first two by
 $\omega_d^{-s}$.
