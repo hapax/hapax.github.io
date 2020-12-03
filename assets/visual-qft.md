@@ -79,7 +79,7 @@ Hilbert space, this method fails.
 It is radically non-scaleable.
 Clearly, we cannot approach this problem directly!
 The question becomes: is there useful a way to visualize points in an
-arbitrary Hilbert space?
+arbitrary Hilbert space, and help us navigate the hugeness?
 
 <figure>
     <div style="text-align:center"><img src
