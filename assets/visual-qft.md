@@ -357,7 +357,7 @@ You can toggle arrow tips with "t":
 	</div>
 	</figure>
 
-The degeneracies we mentioned above obey simple patterns.
+The wrapped polygons obey simple patterns.
 For any $d$, there are only two convex, non-degenerate regular
 polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
 For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
