@@ -360,7 +360,7 @@ $$
 
 sides.
 This includes $s = 0$, since $(0, d) = d$.
-In fact, this has an amusing (optional) consequence for number theory.
+In fact, this has an amusing (and once again optionally readable) consequence for number theory.
 
 ---
 
