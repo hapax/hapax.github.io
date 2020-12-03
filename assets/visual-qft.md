@@ -21,7 +21,7 @@ date:  2020-11-27
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 *Prerequisites: basic quantum mechanics, linear algebra, and group
- theory (optional). Aimed at people with a background in quantum computing.
+ theory (optional). Aimed at people with a background in quantum computing.*
 
 In quantum mechanics, a system is described by a vector in a Hilbert
 space.
