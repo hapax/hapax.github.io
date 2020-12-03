@@ -51,7 +51,7 @@ function draw() {
   if (copyToggle + factorToggle === 0) {
     for (let i = 0; i < len; i++) {
       myCol = 255*(1-(i+1)/len);
-      stroke(myCol);
+      stroke(myCol, 0, 0);
       polygon(height/2, width/2, rad, myInputs[i], s, myCol);
       s = s/myInputs[i];
     } 
@@ -67,7 +67,7 @@ function draw() {
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
         myCol = 105+150*(1-(a+1)/quot);
-        stroke(myCol)
+        stroke(myCol, 0, 0)
         push();
         translate(width/2,height/2);
         rotate(a*angle);
@@ -79,7 +79,7 @@ function draw() {
       let angle = s * TWO_PI / prod;
       for (let a = 0; a < quot; a++) {
         myCol = 105+150*(1-(a+1)/quot);
-        stroke(myCol)
+        stroke(myCol, 0, 0)
         push();
         translate(width/2,height/2);
         rotate(a*angle);

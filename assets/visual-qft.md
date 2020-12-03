@@ -324,4 +324,7 @@ has wrapped itself, and thereby looks like a square.
 	</div>
 	</figure>
 
+It seems that, even for this basis, degeneracy is unavoidable, but the
+degeneracy is patterned in a way that seems potentially useful.
+
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
