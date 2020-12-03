@@ -299,6 +299,11 @@ $$
 |\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
 $$
 
+More generally, if $I$ is interpreted as some other finite group $G$,
+figuring out how to draw the maps $G \to \mathbb{C}$ and choose a
+basis is an interesting problem.
+But we leave that for another time!
+
 ---
 
 ##### 2.3. Peculiar polygons<a id="sec-2-3" name="sec-2-3"></a>
