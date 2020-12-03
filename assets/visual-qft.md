@@ -233,7 +233,7 @@ $$
 
 We can directly check that these not only form a basis, but that the
 eigenstates are orthonormal.
-Assuming $t \neq s$, we have
+Assuming $t \neq s$ (modulo $d$), we have
 
 $$
 \begin{align*}
