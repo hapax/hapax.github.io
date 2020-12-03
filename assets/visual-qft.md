@@ -34,12 +34,6 @@ visualize high-dimensional Hilbert spaces, we will naturally arrive at
 the *quantum Fourier transform* (QFT), a workhorse protocol in quantum
 computing which underlies dramatic quantum speedups like Shor's algorithm.
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/qubit2.png"/>
-	</div>
-	</figure>
-
 <!-- Let's consider a classical computer which
 stores $n$ bits, $b_1, b_2, \ldots, b_n \in \\{0, 1\\}$.
 There are $2^n$ possible states of the computer, consisting of all
@@ -71,6 +65,8 @@ $$
 Without further work, the space of states lives in $\mathbb{C}^2
 \simeq \mathbb{R}^4$, which is already impossible to picture.
 Our visual cortex evolved for three dimensions only!
+There are some tricks that mean we *can* draw directly draw the space
+of sinqle qubit states on a sphere, as below:
 
 <figure>
     <div style="text-align:center"><img src
@@ -78,13 +74,18 @@ Our visual cortex evolved for three dimensions only!
 	</div>
 	</figure>
 
-There are some tricks that mean we *can* draw directly draw the space
-of sinqle qubit states on a sphere (as above), but as soon as we have a bigger
+But as soon as we have a bigger
 Hilbert space, this method fails.
 It is radically non-scaleable.
 Clearly, we cannot approach this problem directly!
 The question becomes: is there useful a way to visualize points in an
 arbitrary Hilbert space?
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/qubit2.png"/>
+	</div>
+	</figure>
 
 ##### 2.1. Form and function<a id="sec-2-1" name="sec-2-1"></a>
 
