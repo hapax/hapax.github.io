@@ -324,7 +324,6 @@ has degenerated into two squares sitting on top of each other:
 	</div>
 	</figure>
 
-Although degeneracy is unavoidable, unlike the computational basis,
-the degeneracy in this basis is patterned in a useful way.
+Although degeneracy is unavoidable, in the basis the degeneracy is patterned in a useful way.
 
 ##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
