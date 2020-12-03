@@ -208,6 +208,16 @@ for some radius $r$ and angle $\theta$.
 To ensure we end up back where we started after $d$ points, we require
 $d\theta$ to be a multiple of $2\pi$, or $\theta = s 2\pi/d$ for some
 integer $s$.
+The $r$ is irrelevant for choosing a basis, so we set it to $1$, and
+normalize later to get states.
+We define the resulting regular polygonal vectors and eigenstates by
+
+$$
+\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{i 2\pi s/d} |k\rangle, \quad
+|\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
+$$
+
+We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
@@ -276,6 +286,16 @@ $$
 |\psi\rangle \propto \sum_k \omega^k |k\rangle.
 $$
 
-This agrees with the guess we gave above.
+If we choose a primitive root of unity $\omega = e^{i 2\pi/d}$, then
+all roots of unity have the form $2^{i 2\pi s/d}$ for $s = 0, 1, 2,
+\ldots, d- 1$.
+This gives rise to the $d$ unnormalized eigenvectors, and corresponding eigenstates,
+
+$$
+\vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{i 2\pi s/d} |k\rangle, \quad
+|\chi^d_s\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d,
+$$
+
+as above.
 
 ---
