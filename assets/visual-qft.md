@@ -13,7 +13,8 @@ date:  2020-11-27
    1. <a href="#sec-2-1">Form and function</a>
    2. <a href="#sec-2-2">A better basis</a>
    3. <a href="#sec-2-3">Peculiar polygons</a>
-   4. <a href="#sec-2-4">Overlaps and linkages</a>
+2. <a href="#sec-3">The Quantum Fourier Transform</a>
+   1. <a href="#sec-3-1">Overlaps and linkages</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -26,11 +27,11 @@ Hilbert space is very, very large, and this is the main reason quantum
 computers are more powerful than classical ones. But this leads to two
 problems: how can we effectively use a big Hilbert space?
 And how can we picture what's going on?
-It turns out that, sometimes, these questions have the same answer.
-In seeking a convenient way to visualize high-dimensional Hilbert
-spaces, we will stumble onto the *quantum Fourier transform* (QFT), a
-workhorse protocol in quantum computing that underlies dramatic
-speedups like Shor's algorithm.
+It turns out that, sometimes, the answers coincide.
+In this tutorial, we will see that, in seeking a convenient way to
+visualize high-dimensional Hilbert spaces, we will naturally arrive at
+the *quantum Fourier transform* (QFT), a workhorse protocol in quantum
+computing underlying dramatic quantum speedups like Shor's algorithm.
 
 <figure>
     <div style="text-align:center"><img src
@@ -323,8 +324,9 @@ But although degeneracy is unavoidable, in this basis the degeneracy is
 patterned in a useful way.
 You can enter your own values of $s$ and $d$, and see the
 corresponding patterns in
-[this doodad](https://hapax.github.io/assets/polygon1/), for instance
-$d = 17$ and $s = 7$.
+[this doodad](https://hapax.github.io/assets/polygon1/).
+For instance, we can enter $d = 17$ and $s = 7$, and the corresponding
+basis element will be displayed:
 
 <figure>
     <div style="text-align:center"><img src
@@ -332,4 +334,14 @@ $d = 17$ and $s = 7$.
 	</div>
 	</figure>
 
-##### 2.4. Overlaps and linkages<a id="sec-2-4" name="sec-2-4"></a>
+You can toggle arrow tips with "t":
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/poly2.png"/>
+	</div>
+	</figure>
+
+### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
+
+##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
