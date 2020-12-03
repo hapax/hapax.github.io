@@ -524,7 +524,9 @@ $$
 
 It turns out that the coefficients $A_s$ have a simple geometric
 interpretation.
-The components of $\vec{\chi}^s_d$ are phases, $\omega_d^{ks}$.
+The components of $\vec{\chi}^s_d$ are phases, $\omega_d^{ks}$, so
+they have the effect of rotating the coefficient $\alpha_k$ by an
+angle $2\pi ks/d$ on the complex plane.
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
