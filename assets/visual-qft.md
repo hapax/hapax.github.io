@@ -557,6 +557,47 @@ by $\sqrt{d}$.
 
 You can gain intuition for this hinged motion in the
 [linkage applet](https://hapax.github.io/assets/polygon1/).
+Click to create the points in the vector, which are now displayed as
+complex numbers, i.e. arrows from the origin:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage2.png"/>
+	</div>
+	</figure>
+
+You can toggle a faint polygon with "p":
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage3.png"/>
+	</div>
+	</figure>
+
+To see the corresponding linkage, press "l":
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage4.png"/>
+	</div>
+	</figure>
+
+You can also display the value using "v":
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage5.png"/>
+	</div>
+	</figure>
+
+Finally, you can enter the parameter $s$ for the Fourier transform in
+the box above left:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/linkage6.png"/>
+	</div>
+	</figure>
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
