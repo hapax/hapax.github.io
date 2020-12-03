@@ -335,7 +335,7 @@ But although points can degenerate into each other, the basis elements
 are always distinct, provided you know $d$: you simply see where the
 first arrow goes.
 If it arrives at a point $e^{i\theta}$, then $s = d\theta/2\pi$.
-Thus, we have indeed eliminated the ambiguity that plagues the
+Thus, we have indeed eliminated the ambiguity that plagued the
 computational basis.
 
 You can enter your own values of $s$ and $d$, and see the
