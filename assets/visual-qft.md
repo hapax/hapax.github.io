@@ -512,7 +512,7 @@ computational basis, are given by the DFT:
 
 $$
 \text{QFT}|\psi\rangle = \sum_k \alpha_k \text{QFT}|k\rangle = \sum_s
-\sum_k e^{2\pi i ks/d} \alpha_k|s\rangle = \sum_s A_{-s}|s\rangle.
+\sum_k \alpha_k e^{2\pi i ks/d} |s\rangle = \sum_s A_{-s}|s\rangle.
 $$
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
