@@ -178,7 +178,7 @@ origin. We give examples below:
 	</figure>
 
 All of this holds for open chains as well. But polygons are preferable
-for reasons we will discover in the next section.
+for reasons we will discover shortly.
 
 ##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
 
