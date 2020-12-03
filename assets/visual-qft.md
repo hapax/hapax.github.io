@@ -359,10 +359,9 @@ You can toggle arrow tips with "t":
 
 The degeneracies we mentioned above obey simple patterns.
 For any $d$, there are only two convex, non-degenerate regular
-polygons, occurring at $s = 1$ and $s = d-1$.
-For other values of $s$ which are relatively prime with $d$, i.e. have
-no common factor other than $1$, we get *stellated* non-degenerate
-polygons.
+polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
+For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
+polygons, which have $d$ sides but intsersecting edges.
 Finally, if $s$ and $d$ have greatest common factor $g := (s, d)$,
 then the polygon is $g$-degenerate, in the sense that it wraps around
 itself $g$ times.
