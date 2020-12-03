@@ -134,7 +134,7 @@ with a point on the curve, as the image below shows.
 	</div>
 	</figure>
 
-Of course, we could stack copies of $\mathcal{C}$ on top of each
+Of course, we could stack copies of $\mathbb{C}$ on top of each
 other, but this is harder to draw.
 More importantly, it is unnecessary in finite dimensions!
 We can recover the information about which $k$ maps to which complex
