@@ -12,7 +12,7 @@ date:  2020-11-27
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
    2. <a href="#sec-2-2">A better basis</a>
-   3. <a href="#sec-2-3">Peculiar polygons</a>
+   3. <a href="#sec-2-3">That's a wrap!</a>
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">Tensor products</a>
@@ -313,7 +313,7 @@ mechanics class!
 
 ---
 
-##### 2.3. Peculiar polygons<a id="sec-2-3" name="sec-2-3"></a>
+##### 2.3. That's a wrap! <a id="sec-2-3" name="sec-2-3"></a>
 
 When picturing these regular polygons, there are a few peculiarities
 to keep in mind.
