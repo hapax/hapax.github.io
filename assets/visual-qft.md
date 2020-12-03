@@ -308,8 +308,7 @@ $$
 More generally, if $I$ is interpreted as some other finite group $G$,
 symmetries act as unitary matrices.
 Figuring out how to draw the maps $G \to \mathbb{C}$, and choosing a
-basis, is an interesting problem we leave for a graduate quantum
-mechanics class!
+basis, is an interesting problem we leave for another time!
 
 ---
 
@@ -362,9 +361,16 @@ For any $d$, there are only two convex, non-degenerate regular
 polygons, i.e. regular $d$-gons, occurring at $s = 1$ and $s = d-1$.
 For other values of $s$ which are relatively prime with $d$, we get *stellated* non-degenerate
 polygons, which have $d$ sides but intsersecting edges.
-Finally, if $s$ and $d$ have greatest common factor $g := (s, d)$,
+Finally, if $s$ and $d$ have greatest common factor $g = \text{gcd}(s, d)$,
 then the polygon is $g$-degenerate, in the sense that it wraps around
 itself $g$ times.
+This is because a polygon will wrap at the $k$th node if the angle
+$\theta = 2\pi ks/d$ is a multiple of $2\pi$, or
+
+$$
+\frac{ks}{d} \in \mathbb{Z} \quad \Longrightarrow \quad k s'/d'
+$$
+
 We end this section with an amusing (and once again optionally
 readable) consequence for number theory.
 
