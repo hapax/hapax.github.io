@@ -238,12 +238,13 @@ Assuming $t \neq s$, we have
 $$
 \begin{align*}
 \langle \chi^{t}_d |\chi^s_t\rangle & = \frac{1}{d}\sum_{k=0}^{d-1} e^{2\pi i
-(s-t)/d}  = \frac{1 - e^{2\pi i d (s-t)/d}}{1 - e^{2\pi i (s-t)/d}} = 0,
+(s-t)/d}  = \frac{1}{d} \cdot \frac{1 - e^{2\pi i d (s-t)/d}}{1 - e^{2\pi i (s-t)/d}} = 0,
 \end{align*}
 $$
 
-where we summed using a geometric series.
-So the $|\chi^s_d\rangle$ form an orthonormal basis.
+where we summed using a geometric series and used the fact that $s -
+t$ is an integer.
+Thus, the $|\chi^s_d\rangle$ form an orthonormal basis.
 We give a slightly more elegant group-theoretic motivation below.
 
 ---
