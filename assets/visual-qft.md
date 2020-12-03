@@ -493,7 +493,7 @@ results, and their algorithmic implications.
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
 The QFT is, by definition, an active change of basis.
-In the context of linear algebra, its slightly more natural to think
+In the context of linear algebra, it's slightly more natural to think
 of a *passive* change of basis, which finds the coefficients $A_s$ in
 the polygonal basis,
 
