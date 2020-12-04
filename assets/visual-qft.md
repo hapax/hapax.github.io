@@ -741,7 +741,8 @@ $$
 \vec{\chi}^{d_{n-1}s/d}_{d_{n-1}}\otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
 $$
 
-This is a bit messy, but becomes simpler for $d = a^n$, with $d_i = a$:
+This is a bit messy, but becomes simpler when all the factors equal
+$d_i = a$:
 
 $$
 \vec{\chi}^s_{d} \simeq  \otimes
