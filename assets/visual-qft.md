@@ -739,7 +739,15 @@ $$
 $$
 
 The [applet](https://hapax.github.io/assets/polygon1/) can also
-display these decompositions, e.g.
+display these decompositions.
+For instance,
+
+$$
+\vec{\chi}^1_{24} \simeq \vec{\chi}^{1/8}_3 \otimes
+\vec{\chi}^{1/2}_4 \otimes \vec{\chi}^{1}_2.
+$$
+
+displays as:
 
 <figure>
     <div style="text-align:center"><img src
