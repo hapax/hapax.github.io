@@ -733,51 +733,77 @@ toggling "f" for "full polygon":
 
 ##### 3.3. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
 
-In the general case $d = d_0 d_1\cdots d_{n-1}$, we can simply iterate
-this procedure:
+Switching over to states, in the general case $d = d_0 d_1\cdots
+d_{n-1}$, we can simply iterate this procedure:
 
 $$
-\vec{\chi}^s_{d} \simeq  \otimes
-\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}}\otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
+|\chi^s_{d}\rangle \simeq  \otimes
+|\chi^{d_{n-1}s/d}_{d_{n-1}}\rangle \otimes \cdots \otimes |\chi^{s/d_0}_{d_1}\rangle \otimes |\chi^{s}_{d_0}\rangle.
 $$
 
 This is a bit messy, but becomes simpler when all the factors equal
 $d_i = a$:
 
 $$
-\vec{\chi}^s_{d} \simeq
-\vec{\chi}^{sa^{1-n}}_{a}\otimes \cdots \otimes \vec{\chi}^{s/a}_{a} \otimes \vec{\chi}^{s}_{a}.
+|\chi^s_{d}\rangle \simeq
+|\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle.
 $$
 
-These polygons are relevant to a quantum computer made from $n$ qudits
-of dimension $a$.
+This is precisely the case for a quantum computer made from $n$ qudits of dimension $a$.
 We can use this factorization to quickly implement the QFT.
 Here is a first pass which doesn't work.
 Suppose we can construct the initial copygon, and we also have an
 *expansion* operator, mapping
 
 $$
-\vec{\chi}^{x}_{a} \mapsto \vec{\chi}^{ax}_{a}.
+|\chi^{x}_{a}\rangle \mapsto |\chi^{ax}_{a}\rangle.
 $$
 
 Then we simply build $n$ copies of the initial copygon, labelled by
-$i \in [a]$, apply the expansion operator $i$ times to copy $i$, then tensor the
-results together. This 
+$j \in [a]$, apply the expansion operator $j$ times to copy $j$, then tensor the
+results together.
 Assuming we can create initial copygons at fixed cost, the total
 number of operations is
 
 $$
-n + \sum_{i=0}^{n-1} = n + \frac{1}{2}n(n-1) = \frac{1}{2}n(n+1).
+n + \sum_{j=0}^{n-1}j = n + \frac{1}{2}n(n-1) = \frac{1}{2}n(n+1).
 $$
 
-The issue with this "algorithm" is that expansion is not only
-non-unitary, but not even linear!
-We have
+The issue is that expansion is not a linear, let alone a unitary, operation.
+More explicitly,
 
 $$
-\vec{\chi}^{x}_a = \sum_k \omega^{kx}_a |k\rangle \mapsto \sum_k
-\omega^{(a-1)kx}_a \cdot \omega^{kx}_a |k\rangle.
+|\chi^{x}_a\rangle = \frac{1}{\sqrt{a}}\sum_k \omega^{kx}_a |k\rangle \mapsto \sum_k
+\frac{1}{\sqrt{a}}\omega^{(a-1)kx}_a \cdot \omega^{kx}_a |k\rangle
 $$
+
+acts on basis vectors in a way that depends on $x$.
+But once $x$ is fixed, it acts via a controlled matrix
+
+$$
+E^{(x)}_a = \mbox{diag}(\omega^{kx(a-1)}_a).
+$$
+
+This *is* unitary, since it has pure phases along the
+diagonal. Similarly, the controlled map which
+constructs the initial copygon, defined by
+
+$$
+C^{(x)}_a|0\rangle = |\chi^x_a\rangle = \mbox{diag}(\omega^{kx}_a)
+\circ \text{QFT}_a|0\rangle
+$$
+
+is unitary, since it composes a unitary matrix with the QFT, which is
+also unitary.
+Then we have
+
+$$
+E^{(a^{j-1}x)}_a \cdots E^{(ax)}_a E^{(x)}_aC^{(x)}_a |0\rangle =
+|\chi^{xa^{j}}_a\rangle.
+$$
+
+Assuming all these controlled operations are hardcoded, we can perform
+the QFT with $O(n^2)$ gates.
 
 ##### Extra
 
