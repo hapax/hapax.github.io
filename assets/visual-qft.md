@@ -804,33 +804,9 @@ $$
 
 Assuming all these controlled operations are hardcoded, we can perform
 the QFT with $O(n^2)$ gates.
+By the linearity of quantum mechanics, we can use the same circuit to
+yield the QFT of an arbitrary vector.
 
-##### Extra
+This is an exponential speedup over the best classical algorithm.
 
-The [applet](https://hapax.github.io/assets/polygon1/) can also
-display these decompositions.
-For instance,
-
-$$
-\vec{\chi}^1_{24} \simeq \vec{\chi}^{1/8}_3 \otimes
-\vec{\chi}^{1/2}_4 \otimes \vec{\chi}^{1}_2.
-$$
-
-displays as:
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/tensor7.png"/>
-	</div>
-	</figure>
-
-[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix. Also, copying stops at depth $2$.]
-
-
-
-We start by building the \emph{initial copygon}
-$\vec{\chi}^{sa^{-(\lambda-1)}}_a$, and then expanding the points on
-the unit circle by a factor of $a$, a total of $\lambda - 1$ times. We
-call $\vec{\chi}^{x}_a \mapsto \vec{\chi}^{ax}_a$ \emph{expansion}. If
-we can record the outcome of each expansion, we can take the tensor
-product and obtain $\vec{\chi}^s_d$ according to (\ref{eq:12}).
+##### References and acknowledgments
