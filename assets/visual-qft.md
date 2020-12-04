@@ -619,16 +619,40 @@ quantum systems $\mathcal{H}_{d_i}$.
 The Hilbert spaces are related by the tensor product:
 
 $$
-\mathcal{H}_{d} = \mathcal{H}_{d_0} \otimes \mathcal{H}_{d_1} \otimes
+\mathcal{H}_{d} \simeq \mathcal{H}_{d_0} \otimes \mathcal{H}_{d_1} \otimes
 \cdots \otimes \mathcal{H}_{d_{n - 1}},
 $$
 
-and $d = d_0 d_1 \cdots d_{n - 1}$.
-As a special case, a quantum computer made from $n qubits, with $d_i =
-2$, has a Hilbert space of dimension $2^n$.
+where $d = d_0 d_1 \cdots d_{n - 1}$, and $\simeq$ indicates that
+these spaces are isomorphic, but in a way we have to specify.
+As a special but important case, a quantum computer made from $n
+qubits, with $d_i = 2$, has a Hilbert space of dimension $2^n$.
 
-Something interesting happens when the Hilbert space factorizes like
-this.
+Interesting things happen for the QFT when the Hilbert space factorizes.
+Consider the simple case $d = ab$, with
 
+$$
+\mathcal{H}_d \simeq \mathcal{H}_a \otimes \mathcal{H}_b.
+$$
+
+In order to canonically identify states on the left and right, we
+define
+
+$$
+|k(m, n)\rangle = |na + m\rangle \simeq |m\rangle \otimes |n\rangle
+$$
+
+for $m \in [a], n \in [b]$. It's easier to see what's going on using a
+picture.
+Without factorization, we imagine the indices $s \in [d]$ arranged in
+a single column of length $d$, and read downwards.
+When we factorize, we rearrange this column into a $b \times a$ grid,
+and read like English, left-to-right and down.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor1.png"/>
+	</div>
+	</figure>
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
