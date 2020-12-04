@@ -601,14 +601,13 @@ the box above left:
 	</div>
 	</figure>
 
-(In fact, you can enter *arbitrary* $s$ to see a "continuous" hinged
-motion, though the QFT only involves integer $s$.)
-Technically, the Fourier coefficient $A_{-s}$ is divided by a factor
-of $\sqrt{d}$, but we have omitted this for the purposes of visual clarity.
+In fact, you can enter *arbitrary* $s$ to see a "continuous" hinged
+motion, though the QFT only involves integer $s$.
+The Fourier coefficient $A_{-s}$ is divided by a factor
+of $\sqrt{d}$, but we have omitted this for visual clarity.
 
 ##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
 
-In our final section, we'll make some brief comments about how the QFT
-works when our Hilbert space is a tensor product.
+
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
