@@ -738,8 +738,8 @@ $$
 \vec{\chi}^{s/c}_b \otimes \vec{\chi}^{s}_c.
 $$
 
-You can display the decomposition into a polygon and multiple copygons
-using the applet:
+The [applet](https://hapax.github.io/assets/polygon1/) can also
+display these decompositions:
 
 <figure>
     <div style="text-align:center"><img src
