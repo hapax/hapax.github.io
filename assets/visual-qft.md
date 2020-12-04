@@ -703,8 +703,7 @@ First, we can see what $\vec{\chi}^5_{12}$ normally looks like:
 	</div>
 	</figure>
 
-We can factorize $12 = 3 \times 4$. To see the corresponding
-decomposition, we replace $12$ by $3, 4$:
+We can factorize $12 = 3 \times 4$, and in the applet, replace $12$ by $3, 4$:
 
 <figure>
     <div style="text-align:center"><img src
