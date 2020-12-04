@@ -616,7 +616,7 @@ We will focus our efforts in a different direction, however.
 A quantum computer is a large quantum system, with Hilbert space
 $\mathcal{H}_d$, built out of $n smaller
 quantum systems $\mathcal{H}_{d_i}$.
-The two Hilbert spaces are related by the tensor product:
+The Hilbert spaces are related by the tensor product:
 
 $$
 \mathcal{H}_{d} = \mathcal{H}_{d_0} \otimes \mathcal{H}_{d_1} \otimes
@@ -627,6 +627,8 @@ and $d = d_0 d_1 \cdots d_{n - 1}$.
 As a special case, a quantum computer made from $n qubits, with $d_i =
 2$, has a Hilbert space of dimension $2^n$.
 
-It behoves us to consider what happens to the QFT in this case.
+Something interesting happens when the Hilbert space factorizes like
+this.
+
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
