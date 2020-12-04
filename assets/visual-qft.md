@@ -627,7 +627,6 @@ where $d = d_0 d_1 \cdots d_{n - 1}$, and $\simeq$ indicates that
 these spaces are isomorphic, but in a way we have to specify.
 As a special but important case, a quantum computer made from $n$
 qubits, with $d_i = 2$, has a Hilbert space of dimension $2^n$.
-
 Interesting things happen for the QFT when the Hilbert space factorizes.
 Consider the simple case $d = ab$, with
 
