@@ -737,7 +737,7 @@ Switching over to states, in the general case $d = d_0 d_1\cdots
 d_{n-1}$, we can simply iterate this procedure:
 
 $$
-|\chi^s_{d}\rangle \simeq  \otimes
+|\chi^s_{d}\rangle \simeq
 |\chi^{d_{n-1}s/d}_{d_{n-1}}\rangle \otimes \cdots \otimes |\chi^{s/d_0}_{d_1}\rangle \otimes |\chi^{s}_{d_0}\rangle.
 $$
 
