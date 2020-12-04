@@ -671,9 +671,7 @@ $$
 \omega_b^{sn} |n\rangle = \vec{\chi}^{s/b}_a \otimes \vec{\chi}^s_b.
 $$
 
-Here, $\vec{\chi}^s_b$ is a regular polygonal basis element, but for
-$\mathcal{H}_b$.
-The vector $\vec{\chi}^{s/b}_a$ is an odd beast.
+Here, $\vec{\chi}^s_b$ is a regular polygonal basis element, but $\vec{\chi}^{s/b}_a$ is an odd beast.
 Despite the notation, it is not a regular polygon at all, but rather
 serves to make *copies* of $\vec{\chi}^s_b$, offset by angles $\theta
 = 2\pi s/d$.
