@@ -16,7 +16,7 @@ let rad = 180;
 let input1, input2, greeting1, greeting2;
 let tipWidth = 3, tipHeight = 8, firstRad = 9;
 let myTextInputs, myInputs;
-let copyToggle = 0, factorToggle = 0;
+let copyToggle = 0, factorToggle = 1;
 
 function setup() {
   createCanvas(400, 400);

@@ -671,6 +671,44 @@ $$
 \omega_b^{sn} |n\rangle = \vec{\chi}^{s/b}_a \otimes \vec{\chi}^s_b.
 $$
 
+Here, $\vec{\chi}^s_b$ is a regular polygonal basis element, but for
+$\mathcal{H}_b$.
+The vector $\vec{\chi}^{s/b}_a$ is an odd beast.
+Despite the notation, it is not a regular polygon at all, but rather
+serves to make *copies* of $\vec{\chi}^s_b$, offset by angles $\theta
+= 2\pi s/d$.
+For this reason, we call it a copygon.
+You can see how this works in the
+[polygon applet](https://hapax.github.io/assets/polygon1/) again.
+Suppose we are interested in $\vec{\chi}^5_{12} =
+\vec{\chi}^{5/3}_{4}\otimes\vec{\chi}^5_{3}$.
+First, we can see what $\vec{\chi}^5_{12}$ looks like on a weekday:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor2.png"/>
+	</div>
+	</figure>
+
+We can factorize $12 = 3 \times 4$. To see the corresponding
+decomposition, we replace $12$ by $3, 4$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor3.png"/>
+	</div>
+	</figure>
+
+The dark figure is the copygon $\vec{\chi}^{5/3}_{4}$, while the grey
+triangle is $\vec{\chi}^{5}_{3} = \vec{\chi}^{2}_{3}$.
+Pressing "c" will perform the copying to recover the original
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor4.png"/>
+	</div>
+	</figure>
+
 ---
 
 *Tensorial aside.*
