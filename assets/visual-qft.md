@@ -646,8 +646,8 @@ for $m \in [a], n \in [b]$. It's easier to see what's going on using a
 picture.
 Without factorization, we imagine the indices $s \in [d]$ arranged in
 a single column of length $d$, and read downwards.
-When we factorize, we rearrange this column into a $b \times a$ grid,
-and read like English, left-to-right and down.
+When we factorize, we rearrange this column into a $b \times a$ grid
+or *index matrix*, and read like English, left-to-right and down:
 
 <figure>
     <div style="text-align:center"><img src
@@ -678,11 +678,27 @@ Despite the notation, it is not a regular polygon at all, but rather
 serves to make *copies* of $\vec{\chi}^s_b$, offset by angles $\theta
 = 2\pi s/d$.
 For this reason, we call it a copygon.
-You can see how this works in the
-[polygon applet](https://hapax.github.io/assets/polygon1/) again.
-Suppose we are interested in $\vec{\chi}^5_{12} =
+As a simple example, we can factorize a regular hexagon
+$\vec{\chi}^1_6$ in two ways, as two triangles or three digons:
+
+$$
+\vec{\chi}^1_6 \simeq \vec{\chi}^{1/3}_2 \otimes \vec{\chi}^{1}_3
+\simeq \vec{\chi}^{1/2}_3 \otimes \vec{\chi}^{1}_3.
+$$
+
+We picture these decompositions, along with the index matrix, below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor6.png"/>
+	</div>
+	</figure>
+
+Once more, you can play with your own examples and build up intuition with the
+[polygon applet](https://hapax.github.io/assets/polygon1/).
+To see how it's used, suppose you are interested in $\vec{\chi}^5_{12} =
 \vec{\chi}^{5/3}_{4}\otimes\vec{\chi}^5_{3}$.
-First, we can see what $\vec{\chi}^5_{12}$ looks like on a weekday:
+First, we can see what $\vec{\chi}^5_{12}$ normally looks like:
 
 <figure>
     <div style="text-align:center"><img src
@@ -701,7 +717,7 @@ decomposition, we replace $12$ by $3, 4$:
 
 The dark figure is the copygon $\vec{\chi}^{5/3}_{4}$, while the grey
 triangle is $\vec{\chi}^{5}_{3} = \vec{\chi}^{2}_{3}$.
-Pressing "c" will perform the copying to recover the original
+Pressing "c" will perform the copying:
 
 <figure>
     <div style="text-align:center"><img src
@@ -709,10 +725,20 @@ Pressing "c" will perform the copying to recover the original
 	</div>
 	</figure>
 
----
+In the index matrix, triangles correspond to columns and copygon
+entries to rows, so we read "across" triangles to generate
+$\vec{\chi}^5_{12}$.
+We can demonstrate the correspondence without recourse to a matrix by
+toggling "f" for "full polygon":
 
-*Tensorial aside.*
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor5.png"/>
+	</div>
+	</figure>
 
----
+
+[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix.]
+We can iterate this procedure, 
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
