@@ -15,7 +15,7 @@ date:  2020-11-27
    3. <a href="#sec-2-3">That's a wrap!</a>
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
-   2. <a href="#sec-3-2">Tensor products</a>
+   2. <a href="#sec-3-2">The magic of factorization</a>
 <!--   3. <a href="#sec-3-3">Algorithms</a> -->
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -489,8 +489,8 @@ $$
 
 We could finish the tutorial here if we liked, but in the next few
 sections, we'll outline some fun features of the QFT,
-including a neat geometrical interpretation, some factorization
-results, and their algorithmic implications.
+including a neat geometrical interpretation, the magic of
+factorization, and algorithmic aspects.
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
@@ -606,8 +606,27 @@ motion, though the QFT only involves integer $s$.
 The Fourier coefficient $A_{-s}$ is divided by a factor
 of $\sqrt{d}$, but we have omitted this for visual clarity.
 
-##### 3.2. Tensor products<a id="sec-3-2" name="sec-3-2"></a>
+##### 3.2. The magic of factorization<a id="sec-3-2" name="sec-3-2"></a>
 
+It turns out that the QFT and the DFT are tremendously important
+operations in their own right.
+For instance, if we take the limit of a continuous curve on the
+complex plane, with $d \to \infty$, we recover Fourier series.
+We will focus our efforts in a different direction, however.
+A quantum computer is a large quantum system, with Hilbert space
+$\mathcal{H}_d$, built out of $n smaller
+quantum systems $\mathcal{H}_{d_i}$.
+The two Hilbert spaces are related by the tensor product:
 
+$$
+\mathcal{H}_{d} = \mathcal{H}_{d_0} \otimes \mathcal{H}_{d_1} \otimes
+\cdots \otimes \mathcal{H}_{d_{n - 1}},
+$$
+
+and $d = d_0 d_1 \cdots d_{n - 1}$.
+As a special case, a quantum computer made from $n qubits, with $d_i =
+2$, has a Hilbert space of dimension $2^n$.
+
+It behoves us to consider what happens to the QFT in this case.
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
