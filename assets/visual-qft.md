@@ -710,8 +710,8 @@ We can factorize $12 = 3 \times 4$, and in the applet, replace $12$ by $3, 4$:
 	</div>
 	</figure>
 
-The dark figure is the copygon $\vec{\chi}^{5/3}_{4}$, while the grey
-triangle is $\vec{\chi}^{5}_{3} = \vec{\chi}^{2}_{3}$.
+The dark figure is the copygon $s = 5/3, d= 4$, while the grey
+triangle is the regular polygon $s = 5, d = 3$.
 Pressing "c" will perform the copying:
 
 <figure>
