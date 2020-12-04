@@ -749,13 +749,26 @@ $$
 \vec{\chi}^{sa^{1-n}}_{a}\otimes \cdots \otimes \vec{\chi}^{s/a}_{a} \otimes \vec{\chi}^{s}_{a}.
 $$
 
-We can construct a simple algorithm for performing this on a quantum
-computer, made from $n$ qudits of dimension $a$.
-Here is a first approach which doesn't work.
+These polygons are relevant to a quantum computer made from $n$ qudits
+of dimension $a$.
+We can use this factorization to quickly implement the QFT.
+Here is a first pass which doesn't work.
 Suppose we can construct the initial copygon
 
 $$
 \vec{v}_0 := \vec{\chi}^{sa^{1-n}}_{a}.
+$$
+
+Suppose we also have an *expansion* operator, which maps
+$\vec{\chi}^{x}_{a} \mapsto \vec{\chi}^{ax}_{a}$.
+Then we simply construct $n$ copies of the initial copygon, labelled
+$i \in [a]$, apply the expansion operator $i$ times, then tensor the
+results.
+Assuming we can create initial copygons at fixed cost, the total
+number of operations is
+
+$$
+n + \sum_{i=0}^{n-1} = n + \frac{1}{2}n(n-1) = \frac{1}{2}n(n+1).
 $$
 
 ##### Extra
