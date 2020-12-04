@@ -732,8 +732,6 @@ toggling "f" for "full polygon":
 	</div>
 	</figure>
 
-
-[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix.]
 We can iterate this procedure, so that
 
 $$
@@ -742,7 +740,15 @@ $$
 $$
 
 You can display the decomposition into a polygon and multiple copygons
-using the applet.
+using the applet:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor7.png"/>
+	</div>
+	</figure>
+
+[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix. Also, displaying factors only works to depth $2$.]
 
 ---
 
