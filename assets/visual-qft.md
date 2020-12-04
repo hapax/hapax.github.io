@@ -663,10 +663,10 @@ $$
 e^{2\pi i ks/d} = e^{2\pi i (na + m)s/ab} = e^{2\pi i ms/ab}e^{2\pi i ns/b} = \omega_a^{sm/b}\omega_b^{sn}.
 $$
 
-In the tensor product basis, this is the coefficient of $|m\rangle \otimes |n\rangle$, so that
+In the tensor product basis,
 
 $$
-\vec{\chi}^s_d = \sum_{m}\omega_a^{sm/b}|m\rangle \otimes \sum_n
+\vec{\chi}^s_d \simeq \sum_{mn} \omega_a^{sm/b}\omega_b^{sn}|m\rangle\otimes|n\rangle = \sum_{m}\omega_a^{sm/b}|m\rangle \otimes \sum_n
 \omega_b^{sn} |n\rangle = \vec{\chi}^{s/b}_a \otimes \vec{\chi}^s_b.
 $$
 
@@ -693,9 +693,8 @@ We picture these decompositions, along with the index matrix, below:
 
 Once more, you can play with your own examples and build up intuition with the
 [polygon applet](https://hapax.github.io/assets/polygon1/).
-To see how it's used, suppose you are interested in $\vec{\chi}^5_{12} =
-\vec{\chi}^{5/3}_{4}\otimes\vec{\chi}^5_{3}$.
-First, we can see what $\vec{\chi}^5_{12}$ normally looks like:
+To see how it's used, suppose you are interested in $d = 12, s = 5$.
+First, we can see what it normally looks like:
 
 <figure>
     <div style="text-align:center"><img src
