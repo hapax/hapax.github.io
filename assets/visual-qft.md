@@ -739,7 +739,7 @@ $$
 $$
 
 The [applet](https://hapax.github.io/assets/polygon1/) can also
-display these decompositions:
+display these decompositions, e.g.
 
 <figure>
     <div style="text-align:center"><img src
@@ -747,12 +747,6 @@ display these decompositions:
 	</div>
 	</figure>
 
-[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix. Also, displaying factors only works to depth $2$.]
-
----
-
-*Tensorial aside.*
-
----
+[*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix. Also, copying stops at depth $2$.]
 
 ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
