@@ -613,9 +613,9 @@ operations in their own right.
 For instance, if we take the limit of a continuous curve on the
 complex plane, with $d \to \infty$, we recover Fourier series.
 We will focus our efforts in a different direction, however.
-A quantum computer is a large quantum system, with Hilbert space
-$\mathcal{H}_d$, built out of $n smaller
-quantum systems $\mathcal{H}_{d_i}$.
+A quantum computer is a large quantum system, with Hilbert space of
+size $d$ built out of $n$ smaller
+quantum systems of size $d_i$.
 The Hilbert spaces are related by the tensor product:
 
 $$
