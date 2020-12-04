@@ -778,14 +778,14 @@ $$
 $$
 
 acts on basis vectors in a way that depends on $x$.
-But once $x$ is fixed, it acts via a controlled matrix
+But once $x$ is fixed, it acts via a matrix
 
 $$
 E^{(x)}_a = \mbox{diag}(\omega^{kx(a-1)}_a).
 $$
 
 This *is* unitary, since it has pure phases along the
-diagonal. Similarly, the controlled map which
+diagonal. Similarly, the map which
 constructs the initial copygon, defined by
 
 $$
@@ -802,11 +802,9 @@ E^{(a^{j-1}x)}_a \cdots E^{(ax)}_a E^{(x)}_aC^{(x)}_a |0\rangle =
 |\chi^{xa^{j}}_a\rangle.
 $$
 
-Assuming all these controlled operations are hardcoded, we can perform
+Assuming all these operations are hardcoded, we can perform
 the QFT with $O(n^2)$ gates.
 By the linearity of quantum mechanics, we can use the same circuit to
 yield the QFT of an arbitrary vector.
-
-This is an exponential speedup over the best classical algorithm.
 
 ##### References and acknowledgments
