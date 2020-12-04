@@ -734,6 +734,13 @@ toggling "f" for "full polygon":
 
 
 [*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix.]
-We can iterate this procedure, 
+We can iterate this procedure, so that
+
+$$
+\vec{\chi}^s_{abc} \simeq \vec{\chi}^{s/bc}_a \otimes
+\vec{\chi}^{s/c}_b \otimes \vec{\chi}^{s}_c.
+$$
+
+You can display the 
 
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
