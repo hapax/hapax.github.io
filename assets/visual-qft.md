@@ -16,7 +16,7 @@ date:  2020-11-27
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">The magic of factorization</a>
-<!--   3. <a href="#sec-3-3">Algorithms</a> -->
+   3. <a href="#sec-3-3">Algorithms</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -741,6 +741,13 @@ $$
 \vec{\chi}^{s/c}_b \otimes \vec{\chi}^{s}_c.
 $$
 
-You can display the 
+You can display the decomposition into a polygon and multiple copygons
+using the applet.
 
-<!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
+---
+
+*Tensorial aside.*
+
+---
+
+##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
