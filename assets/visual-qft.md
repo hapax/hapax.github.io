@@ -745,7 +745,7 @@ This is a bit messy, but becomes simpler when all the factors equal
 $d_i = a$:
 
 $$
-\vec{\chi}^s_{d} \simeq  \otimes
+\vec{\chi}^s_{d} \simeq
 \vec{\chi}^{sa^{1-n}}_{a}\otimes \cdots \otimes \vec{\chi}^{s/a}_{a} \otimes \vec{\chi}^{s}_{a}.
 $$
 
@@ -753,22 +753,30 @@ These polygons are relevant to a quantum computer made from $n$ qudits
 of dimension $a$.
 We can use this factorization to quickly implement the QFT.
 Here is a first pass which doesn't work.
-Suppose we can construct the initial copygon
+Suppose we can construct the initial copygon, and we also have an
+*expansion* operator, mapping
 
 $$
-\vec{v}_0 := \vec{\chi}^{sa^{1-n}}_{a}.
+\vec{\chi}^{x}_{a} \mapsto \vec{\chi}^{ax}_{a}.
 $$
 
-Suppose we also have an *expansion* operator, which maps
-$\vec{\chi}^{x}_{a} \mapsto \vec{\chi}^{ax}_{a}$.
-Then we simply construct $n$ copies of the initial copygon, labelled
-$i \in [a]$, apply the expansion operator $i$ times, then tensor the
-results.
+Then we simply build $n$ copies of the initial copygon, labelled by
+$i \in [a]$, apply the expansion operator $i$ times to copy $i$, then tensor the
+results together. This 
 Assuming we can create initial copygons at fixed cost, the total
 number of operations is
 
 $$
 n + \sum_{i=0}^{n-1} = n + \frac{1}{2}n(n-1) = \frac{1}{2}n(n+1).
+$$
+
+The issue with this "algorithm" is that expansion is not only
+non-unitary, but not even linear!
+We have
+
+$$
+\vec{\chi}^{x}_a = \sum_k \omega^{kx}_a |k\rangle \mapsto \sum_k
+\omega^{(a-1)kx}_a \cdot \omega^{kx}_a |k\rangle.
 $$
 
 ##### Extra
