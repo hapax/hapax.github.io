@@ -722,7 +722,7 @@ Pressing "c" will perform the copying:
 In the index matrix, triangles correspond to columns and copygon
 entries to rows, so we read "across" triangles to generate
 $\vec{\chi}^5_{12}$.
-We can demonstrate the correspondence without recourse to a matrix by
+We can demonstrate the correspondence (without recourse to a matrix) by
 toggling "f" for "full polygon":
 
 <figure>
@@ -731,12 +731,33 @@ toggling "f" for "full polygon":
 	</div>
 	</figure>
 
-We can iterate this procedure, so that
+##### 3.3. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
+
+In the general case $d = d_0 d_1\cdots d_{n-1}$, we can simply iterate
+this procedure:
 
 $$
-\vec{\chi}^s_{abc} \simeq \vec{\chi}^{s/bc}_a \otimes
-\vec{\chi}^{s/c}_b \otimes \vec{\chi}^{s}_c.
+\vec{\chi}^s_{d} \simeq  \otimes
+\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}}\otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
 $$
+
+This is a bit messy, but becomes simpler for $d = a^n$, with $d_i = a$:
+
+$$
+\vec{\chi}^s_{d} \simeq  \otimes
+\vec{\chi}^{sa^{1-n}}_{a}\otimes \cdots \otimes \vec{\chi}^{s/a}_{a} \otimes \vec{\chi}^{s}_{a}.
+$$
+
+We can construct a simple algorithm for performing this on a quantum
+computer, made from $n$ qudits of dimension $a$.
+Here is a first approach which doesn't work.
+Suppose we can construct the initial copygon
+
+$$
+\vec{v}_0 := \vec{\chi}^{sa^{1-n}}_{a}.
+$$
+
+##### Extra
 
 The [applet](https://hapax.github.io/assets/polygon1/) can also
 display these decompositions.
@@ -757,4 +778,11 @@ displays as:
 
 [*Editorial comments.* Arrow tips are still buggy, and I would like to add a dynamic index matrix. Also, copying stops at depth $2$.]
 
-##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
+
+
+We start by building the \emph{initial copygon}
+$\vec{\chi}^{sa^{-(\lambda-1)}}_a$, and then expanding the points on
+the unit circle by a factor of $a$, a total of $\lambda - 1$ times. We
+call $\vec{\chi}^{x}_a \mapsto \vec{\chi}^{ax}_a$ \emph{expansion}. If
+we can record the outcome of each expansion, we can take the tensor
+product and obtain $\vec{\chi}^s_d$ according to (\ref{eq:12}).
