@@ -663,6 +663,14 @@ $$
 e^{2\pi i ks/d} = e^{2\pi i (na + m)s/ab} = e^{2\pi i ms/ab}e^{2\pi i ns/b} = \omega_a^{sm/b}\omega_b^{sn}.
 $$
 
+In the tensor product basis, this is the coefficient of $|m\rangle
+\otimes |n\rangle$, so that
+
+$$
+\vec{\chi}^s_d = \sum_{m}\omega_a^{sm/b}|m\rangle \otimes \sum_n
+\omega_b^{sn} |n\rangle = \vec{\chi}^{s/b}_a \otimes \vec{\chi}^s_b.
+$$
+
 ---
 
 *Tensorial aside.*
