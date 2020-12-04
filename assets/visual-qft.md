@@ -655,4 +655,18 @@ and read like English, left-to-right and down.
 	</div>
 	</figure>
 
+Let's see what this implies for the QFT.
+For a regular polygon $\vec{\chi}^s_d$, the coefficient of
+$|k(m,n)\rangle$ is
+
+$$
+e^{2\pi i ks/d} = e^{2\pi i (na + m)s/ab} = e^{2\pi i ms/ab}e^{2\pi i ns/b} = \omega_a^{sm/b}\omega_b^{sn}.
+$$
+
+---
+
+*Tensorial aside.*
+
+---
+
 <!-- ##### 3.2. Algorithms<a id="sec-3-3" name="sec-3-3"></a> -->
