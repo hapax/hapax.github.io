@@ -750,15 +750,17 @@ won't concern us here.
 Crudely speaking, a quantum computer is a bunch of small, easily
 manipulable modules joined together into a big system which does
 complicated things.
-Typically, these smaller systems have the same Hilbert space dimension, which we
-will take to be $d_i = a$.
-For $n$ such systems, the quantum computer has a Hilbert space of size
-$d = a^n$, with regular polygonal states
+Typically, the $n$ smaller systems have the same Hilbert space
+dimension, which we will take to be $d_i = a$.
+The quantum computer then has a Hilbert space of size $d = a^n$, with
+regular polygonal states
 
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle.
 $$
+
+A simple example is a computer made of $n$ qubits, with $a = 2$.
 
 ##### Extra
 
