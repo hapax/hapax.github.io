@@ -682,7 +682,7 @@ $$
 \simeq \vec{\chi}^{1/2}_3 \otimes \vec{\chi}^{1}_3.
 $$
 
-We picture these decompositions, along with the index matrix, below:
+We picture the decompositions into copies of the second factor below:
 
 <figure>
     <div style="text-align:center"><img src
@@ -690,6 +690,7 @@ We picture these decompositions, along with the index matrix, below:
 	</div>
 	</figure>
 
+The coloured node indicates the first node of the copy.
 Once more, you can play with your own examples and build up intuition using the
 [polygon applet](https://hapax.github.io/assets/polygon1/).
 Suppose you are interested in $d = 12, s = 5$.
@@ -747,10 +748,12 @@ won't concern us here.
 ##### 3.3. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
 
 Crudely speaking, a quantum computer is a bunch of small, easily
-manipulable systems joined together into a big system.
-Typically, these smaller systems have the same dimension, which we
+manipulable modules joined together into a big system which does
+complicated things.
+Typically, these smaller systems have the same Hilbert space dimension, which we
 will take to be $d_i = a$.
-Then the regular polygonal state for $d = a^n$ can be decomposed as
+For $n$ such systems, the quantum computer has a Hilbert space of size
+$d = a^n$, with polygonal states
 
 $$
 |\chi^s_{d}\rangle \simeq
