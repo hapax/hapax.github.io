@@ -16,7 +16,7 @@ date:  2020-11-27
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">The magic of factorization</a>
-   3. <a href="#sec-3-3">Algorithms</a>
+   3. <a href="#sec-3-3">A powerful recipe</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -745,7 +745,7 @@ We can view this as decomposing $d$ into a higher-dimensional index
 tensor, which iterates over the tensor product basis, but the details
 won't concern us here.
 
-##### 3.3. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. A powerful recipe<a id="sec-3-3" name="sec-3-3"></a>
 
 Crudely speaking, a quantum computer is a bunch of small, easily
 manipulable modules joined together into a big system which does
@@ -760,7 +760,8 @@ $$
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle.
 $$
 
-A simple example is a computer made of $n$ qubits, with $a = 2$.
+This equation gives us a recipe for doing the QFT exponentially faster
+than if we did not decompose it into factors.
 
 ##### Extra
 
