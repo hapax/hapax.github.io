@@ -690,10 +690,10 @@ We picture these decompositions, along with the index matrix, below:
 	</div>
 	</figure>
 
-Once more, you can play with your own examples and build up intuition with the
+Once more, you can play with your own examples and build up intuition using the
 [polygon applet](https://hapax.github.io/assets/polygon1/).
-To see how it's used, suppose you are interested in $d = 12, s = 5$.
-First, we can see what it normally looks like:
+Suppose you are interested in $d = 12, s = 5$.
+Without factorizing, it looks like:
 
 <figure>
     <div style="text-align:center"><img src
@@ -701,7 +701,7 @@ First, we can see what it normally looks like:
 	</div>
 	</figure>
 
-We can factorize $12 = 3 \times 4$, and in the applet, replace $12$ by $3, 4$:
+To exploit $12 = 3 \times 4$, in the applet, replace $12$ by $3, 4$:
 
 <figure>
     <div style="text-align:center"><img src
@@ -719,6 +719,8 @@ Pressing "c" will perform the copying:
 	</div>
 	</figure>
 
+The triangles are arrayed around the circle, according to the
+instructions of the copygon.
 In the index matrix, triangles correspond to columns and copygon
 entries to rows, so we read "across" triangles to generate
 $\vec{\chi}^5_{12}$.
@@ -731,23 +733,31 @@ toggling "f" for "full polygon":
 	</div>
 	</figure>
 
+In the general case $d = d_0 d_1\cdots d_{n-1}$, we can simply iterate this procedure:
+
+$$
+\vec{\chi}^s_{d} \simeq
+\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}} \otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
+$$
+
+We can view this as decomposing $d$ into a higher-dimensional index
+tensor, which iterates over the tensor product basis, but the details
+won't concern us here.
+
 ##### 3.3. Algorithms<a id="sec-3-3" name="sec-3-3"></a>
 
-Switching over to states, in the general case $d = d_0 d_1\cdots
-d_{n-1}$, we can simply iterate this procedure:
-
-$$
-|\chi^s_{d}\rangle \simeq
-|\chi^{d_{n-1}s/d}_{d_{n-1}}\rangle \otimes \cdots \otimes |\chi^{s/d_0}_{d_1}\rangle \otimes |\chi^{s}_{d_0}\rangle.
-$$
-
-This is a bit messy, but becomes simpler when all the factors equal
-$d_i = a$:
+Crudely speaking, a quantum computer is a bunch of small, easily
+manipulable systems joined together into a big system.
+Typically, these smaller systems have the same dimension, which we
+will take to be $d_i = a$.
+Then the regular polygonal state for $d = a^n$ can be decomposed as
 
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle.
 $$
+
+##### Extra
 
 This is precisely the case for a quantum computer made from $n$ qudits of dimension $a$.
 We can use this factorization to quickly implement the QFT.
