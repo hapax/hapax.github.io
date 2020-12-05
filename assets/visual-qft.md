@@ -753,7 +753,7 @@ complicated things.
 Typically, these smaller systems have the same Hilbert space dimension, which we
 will take to be $d_i = a$.
 For $n$ such systems, the quantum computer has a Hilbert space of size
-$d = a^n$, with polygonal states
+$d = a^n$, with regular polygonal states
 
 $$
 |\chi^s_{d}\rangle \simeq
