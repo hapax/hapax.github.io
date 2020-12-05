@@ -741,6 +741,16 @@ $$
 \vec{\chi}^{d_{n-1}s/d}_{d_{n-1}} \otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
 $$
 
+This can also be pictured using the
+[polygon applet](https://hapax.github.io/assets/polygon1/), for
+instance $s = 1$ and $d = 2 \times 3 \times 4$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/tensor7.png"/>
+	</div>
+	</figure>
+
 We can view this as decomposing $d$ into a higher-dimensional index
 tensor, which iterates over the tensor product basis, but the details
 won't concern us here.
