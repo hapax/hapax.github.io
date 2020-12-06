@@ -1042,7 +1042,8 @@ And they told you to stop doodling in math class.
 ##### References and acknowledgments
 
 I'd like to thank Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
-feedback on this tutorial's past lives.
+feedback on this tutorial's past lives. Applets were made in
+[p5.js](https://p5js.org/).
 
 1. *Quantum Computation and
 Quantum Information* (2000), Michael Nielsen and Isaac
