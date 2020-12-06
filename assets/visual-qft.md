@@ -1002,7 +1002,7 @@ Really, these "controlled corrections" are a clever way to squish our old copygo
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
-We started out looking for ways to get around pesky evolutionary
+We started by trying to get around pesky evolutionary
 constraints on the visual cortex.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
@@ -1034,7 +1034,7 @@ However, from a strict algorithmic point of view, it's quicker to
 build the tensor factors by squishing and adding digits.
 The quantum circuit which does all this takes exponentialy fewer
 operations than the best classical algorithm.
-So, by trying to draw pretty pictures in Hilbert space, we ended up
+So, by looking for pretty pictures of Hilbert space, we ended up
 obtaining a massive algorithmic speedup!
 And they told you to stop doodling in math class.
 
