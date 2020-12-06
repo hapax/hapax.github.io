@@ -951,9 +951,9 @@ exponential quantum speedup!
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
-We started with the problem of picturing vectors in very high
-dimensons, despite our puny dimensional constraints for direct
-visualization.
+We started with the problem of trying to get around evolutionary
+constraints on our brains, and picture vectors in very high
+dimensionsal spaces.
 We adapted familiar grade-school methods which (secretly) represent
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
 For a finite-dimensional vector, we drew a chain of points, the
