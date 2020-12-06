@@ -972,7 +972,7 @@ motion of a linkage.
 
 Finally, we examined the effect of tensor factorization on the QFT,
 and discovered that it split a large regular polygon into smaller polygons
-spammed with "copygons".
+spammed via "copygons".
 Heuristically, we observed that the QFT builds the
 initial copygon then iteratively expands it.
 However, from a strict algorithmic point of view, we needed to build a sequence
