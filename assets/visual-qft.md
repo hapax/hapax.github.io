@@ -944,8 +944,8 @@ n + \sum_{j=0}^{n-1} = \frac{1}{2}n(n+1) = O(n^2).
 $$
 
 By contrast, if we try to perform the QFT on the classical computer,
-the best we can do is $O(a^{n+1}n)$ operations, so we have an
-exponential quantum speedup.
+the best we can do is $O(a^{n+1}n)$ operations. So we have an
+exponential quantum speedup!
 
 ---
 
