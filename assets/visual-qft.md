@@ -742,7 +742,7 @@ In the general case $d = d_0 d_1\cdots d_{n-1}$, we can simply iterate this proc
 
 $$
 \vec{\chi}^s_{d} \simeq
-\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}} \otimes \cdots \otimes
+\vec{\chi}^{sd_{n-1}/d}_{d_{n-1}} \otimes \cdots \otimes
 \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}. \label{prods} \tag{6}
 $$
 
