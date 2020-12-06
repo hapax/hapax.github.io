@@ -82,7 +82,7 @@ below:
 But any bigger, and the method fails!
 So trying to directly visualize things does not scale at all.
 <!-- Clearly, we cannot approach this problem directly. -->
-The question becomes: is there useful indirect way to picture points in an
+The question becomes: is there useful *indirect* way to picture points in an
 arbitrary Hilbert space, and help us navigate the hugeness?
 
 <figure>
