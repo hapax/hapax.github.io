@@ -818,6 +818,61 @@ Our goal is now to produce the factors in (\ref{qft2}) from these
 states.
 Let's assume that the operation $\text{QFT}_a$ is a cheap operation,
 hardcoded into our quantum computer.
+From the first state $|s_0\rangle$, we can use this to immediately get
+the first factor (from the right):
+
+$$
+\text{QFT}_a |s_0\rangle = |\chi^{s_{0}}_{a}\rangle = |\chi^{s_{(0)}}_{a}\rangle.
+$$
+
+For the next factor, we instead apply the QFT to $|s_1\rangle$,
+
+$$
+\text{QFT}_a |s_1\rangle = |\chi^{s_{1}}_{a}\rangle,
+$$
+
+but this needs a correction from $s_1 \mapsto s_1.s_0$ (in base $a$).
+This is achieved by a *controlled correction*:
+
+$$
+C^1|s_0\rangle |s_1\rangle = |s_0\rangle C^0(s_0)|s_1\rangle,
+$$
+
+where the matrix $C^0(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$, where we are
+implicitly writing diagonal elements in the computational basis.
+Let's check this works:
+
+$$
+\begin{align*}
+C^0(s_0)|s_1\rangle & = \diag(\omega_a^{ks_0/a})
+\frac{1}{\sqrt{a}}\sum_k \omega^{ks_1}_a |k\rangle =
+\frac{1}{\sqrt{a}}\sum_k \omega^{k(s_1 + s_0/a)}_a |k\rangle  = |\chi^{s_{(1)}}_{a}\rangle.
+\end{align*}
+$$
+
+So we've produced the second factor, and we didn't "use up" $s_0$
+while we were at it! It simply acted as a control bit and passed
+through.
+We can continue on this fashion, using the controlled operation
+
+$$
+C^j |s_j\rangle = |s_j\rangle C^j(s_j), \quad C^j(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{j+1}}). \tag{control} \tag{8}
+$$
+
+We can draw this up in the following circuit:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/circuit.png"/>
+	</div>
+	</figure>
+
+As usual, control bits are indicated by black dots.
+The total number of gates required is
+
+$$
+n + \sum_{j=0}^{n-1} = \frac{1}{2}n(n+1) = O(n^2).
+$$
 
 ##### Extra
 
