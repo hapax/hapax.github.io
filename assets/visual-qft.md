@@ -943,6 +943,12 @@ $$
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
+We started with the problem of picturing vectors in very high
+dimensons, despite our puny dimensional constraints for direct
+visualization.
+We adapted familiar grade-school methods which (secretly) represent
+infinite-dimensional vectors, namely graphs on the Cartesian plane.
+
 ##### References and acknowledgments
 
 1. Michael Nielsen and Isaac Chuang (2000). "Quantum Computation and
