@@ -865,8 +865,7 @@ which is exponentially worse.
 So we have an exponential quantum speedup!
 Although this is a nice heuristic for thinking about the
 $\text{QFT}_d$ and its gate complexity, it is not an
-algorithm.
-We haven't actually explained how to implement anything!
+algorithm, since we haven't actually explained how to implement anything!
 For the conventional circuit description, see below.
 
 ---
