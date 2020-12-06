@@ -974,7 +974,7 @@ Finally, we examined the effect of tensor factorization on the QFT,
 and discovered that it split a large regular polygon into smaller polygons
 spammed via "copygons".
 Heuristically, the QFT builds the
-initial copygon then iteratively expands it.
+initial copygon and iteratively expands it.
 However, from a strict algorithmic point of view, we needed to build a sequence
 of smaller polygons which were iteratively corrected to get the right
 tensor factors.
