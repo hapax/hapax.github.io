@@ -806,7 +806,7 @@ Tripling the argument gives $6.\dot{6}$, or
 	</div>
 	</figure>
 
-Tripling again gives the last, genuine regular polygon:
+Tripling again gives the last (genuinely regular) polygon:
 
 <figure>
     <div style="text-align:center"><img src
