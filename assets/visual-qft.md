@@ -1034,7 +1034,7 @@ build the tensor factors by squishing and adding digits.
 The quantum circuit which does all this takes exponentialy fewer
 operations than the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
-finding a massive algorithmic speedup!
+obtaining a massive algorithmic speedup!
 And they told you to stop doodling in math class.
 
 ##### References
