@@ -26,7 +26,7 @@ date:  2020-11-27
 
 In quantum mechanics, a system is described by a vector in a Hilbert
 space.
-Hilbert space is very, very large, and this is the main reason quantum
+Hilbert space is very, very large, which is one of the reasons quantum
 computers are more powerful than classical ones. But this leads to two
 problems: how can we effectively use a big Hilbert space?
 And how can we picture what's going on?
@@ -714,8 +714,8 @@ To exploit $12 = 3 \times 4$, in the applet, replace $12$ by $3, 4$:
 	</div>
 	</figure>
 
-The dark figure is the copygon $s = 5/3, d= 4$, while the grey
-triangle is the regular polygon $s = 5, d = 3$.
+The dark figure is the copygon $x = 5/3, d= 4$, while the grey
+triangle is the regular polygon $x = 5, d = 3$.
 Pressing "c" will perform the copying:
 
 <figure>
@@ -776,8 +776,8 @@ $$
 $$
 
 This has a simple interpretation in our pictorial language.
-We build the initial (leftmost) copygon, then expand the argument by a
-factor $a$ a total of $n-1$ times:
+We build the initial (leftmost) copygon with $x = sa^{1-n}$, then
+expand $x$ by a factor of $a$ a total of $n-1$ times:
 
 $$
 |\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
@@ -791,7 +791,7 @@ first copy alone, expand once on the second copy, twice on the third, and so on.
 Let's use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
 this works for $s = 20$, $d = 3^3$.
-The initial copygon has argument $s = 20/3^2 = 2.\dot{2}$.
+The initial copygon has argument $x = 20/3^2 = 2.\dot{2}$.
 We enter this to get the triangle
 
 <figure>
@@ -800,7 +800,7 @@ We enter this to get the triangle
 	</div>
 	</figure>
 
-Tripling the argument gives $6.\dot{6}$, or
+Tripling the argument gives $x = 6.\dot{6}$, or
 
 <figure>
     <div style="text-align:center"><img src
@@ -837,8 +837,20 @@ $$
 If this operation takes $|s\rangle \mapsto |\chi^s_d\rangle$, then it
 acts on the full Hilbert space at no extra cost.
 By contrast, if we try to perform the QFT on the classical computer,
-the best we can do is $O(a^{n+1}n)$ operations. So we have an
-exponential quantum speedup!
+we can still use (\ref{qft}) but cannot create a circuit which
+computes everything at the same time.
+Instead, we need to laboriously compute the Fourier coefficients
+$A_{-s}$ individually, replacing $n$ parallelized computations of
+length $O(n)$ with $a^n$ classical coefficients involving $O(an)$
+arithmetical operations.
+The scaling changes to
+
+$$
+O(a^{n+1}n),
+$$
+
+which is exponentially worse.
+So we have an exponential quantum speedup!
 
 Although this is a nice heuristic for thinking about the
 $\text{QFT}_d$ and its gate complexity, it is not an
