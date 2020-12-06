@@ -1525,7 +1525,7 @@ writing this post. I've included some brief annotations.
 - **_Out of the Labyrinth_** (2007), Ellen and Robert Kaplan. An
   inspiring manifesto on the Kaplans'
   method for teaching mathematics via play and exploration in the
-  Harvard Maths Circle. It is much
+  Harvard Maths Circle. It is even
   more radical than the approach I am suggesting here!
 - [**_The Myth of Ability_**](https://jumpmath.org/jump/en/book_myth_ability)
   (2003), John Mighton. An exposition of the JUMP method, a
