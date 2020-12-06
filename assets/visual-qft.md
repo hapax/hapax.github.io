@@ -55,8 +55,8 @@ Our task is to see it, reason about it, and make use of it. -->
 
 To make our problem sharper, let's consider the problem of visualizing
 the simplest nontrivial system, a single qubit.
-The classical bit can be in states $b = 0, 1$, so each of these is a
-basis state of the qubit, $|b\rangle$.
+The classical bit can be in states $b = 0, 1$. Each of these is
+promoted to a basis state of the qubit, $|b\rangle$.
 A general vector in this Hilbert space is
 
 $$
