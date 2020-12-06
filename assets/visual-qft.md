@@ -1005,8 +1005,7 @@ We started by trying to get around pesky evolutionary
 constraints on our visual cortices.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
-For a finite-dimensional vector, we drew a chain of points, the
-equivalent of the parameterized curve on the complex plane, and then
+For a finite-dimensional complex vector, we drew a chain of points on the complex plane, and then
 joined the endpoints to obtain a marked directed polygon.
 
 <figure>
