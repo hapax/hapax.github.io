@@ -797,9 +797,10 @@ Here is a cartoon for three qubits:
 	</div>
 	</figure>
 
-Let's use the
+Once again, you can use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
-this works for $s = 20$, $d = 3^3$.
+this works for your own choice of $s$ and $d$.
+Let's see how it works for $s = 20$, $d = 3^3$.
 The initial copygon has argument $x = 20/3^2 = 2.\dot{2}$.
 We enter this to get the triangle
 
