@@ -559,7 +559,7 @@ Finally, to get the overlap with $|\chi^s_d\rangle$, we simply divide
 by $\sqrt{d}$.
 
 You can gain intuition for how the Fourier transform is related to hinged motion in this
-[linkage applet](https://hapax.github.io/assets/polygon1/).
+[linkage applet](https://hapax.github.io/assets/polygon2/).
 Click to create the points in the vector, which are now displayed as
 complex numbers, i.e. arrows from the origin:
 
@@ -773,7 +773,7 @@ The quantum computer then has a Hilbert space of size $d = a^n$, and
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{6}
+|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{7}
 $$
 
 This has a simple interpretation in our pictorial language.
@@ -801,7 +801,7 @@ Here is a cartoon for three qubits:
 Once again, you can use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
 this works for your own choice of $s$ and $d$.
-Let's see how it works for $s = 20$, $d = 3^3$.
+For instance, take $s = 20$, $d = 3^3$.
 The initial copygon has argument $x = 20/3^2 = 2.\dot{2}$.
 We enter this to get the triangle
 
