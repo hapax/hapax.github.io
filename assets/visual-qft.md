@@ -34,7 +34,7 @@ It turns out that, sometimes, the answers coincide.
 In this tutorial, we will see that, in seeking a convenient way to
 visualize high-dimensional Hilbert spaces, we will naturally arrive at
 the *quantum Fourier transform* (QFT), a workhorse protocol which is
-dramatically faster on a quantum than a classical computer.
+dramatically faster on a quantum computer than its classical counterpart.
 
 <!-- Let's consider a classical computer which
 stores $n$ bits, $b_1, b_2, \ldots, b_n \in \\{0, 1\\}$.
