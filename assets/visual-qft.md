@@ -230,7 +230,7 @@ We define the resulting regular polygonal vectors and eigenstates by
 
 $$
 \vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{2\pi i s/d} |k\rangle, \quad
-|\chi^s_d\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d.
+|\chi^s_d\rangle := \frac{1}{\sqrt{d}}\vec{\chi}^s_d. \label{chivec} \tag{1}
 $$
 
 We can directly check that these not only form a basis, but that the
@@ -313,7 +313,7 @@ moment), we can set $\alpha_0 = 1$ and iterate, so that $\alpha_k =
 \omega^k$. If we choose a primitive root of unity $\omega_d = e^{2\pi i/d}$, then
 all roots of unity have the form $\omega_d^{s}$ for $s \in [d]$.
 This gives rise to the $d$ unnormalized eigenvectors, and
-corresponding eigenstates, we found above:
+corresponding eigenstates, we found in (\ref{chivec}):
 
 $$
 \vec{\chi}^s_d := \sum_{k=0}^{d-1} e^{2\pi i s/d} |k\rangle, \quad
@@ -465,7 +465,7 @@ It is simply the active change of basis from computational states to
 regular-polygonal states,
 
 $$
-\text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle,
+\text{QFT}_d: |s\rangle \mapsto |\chi^s_d\rangle, \label{qftd} \tag{2}
 $$
 
 extended linearly to the full Hilbert space.
@@ -510,7 +510,7 @@ $$
 \begin{align*}
 A_s = \langle \chi^s_d |\psi\rangle & = \sum_k \alpha_k \langle
 \chi^s_d|k\rangle = \frac{1}{\sqrt{d}}\sum_k \alpha_k \omega_d^{-ks}.
-\end{align*}
+\end{align*} \label{a_s} \tag{3}
 $$
 
 This passive operation is called the Discrete Fourier Transform
@@ -524,7 +524,7 @@ $$
 \sum_k \alpha_k \omega_d^{ks} |s\rangle = \sum_s A_{-s}|s\rangle.
 $$
 
-It turns out that the coefficients $A_s$ have a simple geometric
+It turns out that the coefficients (\ref{a_s}) have a simple geometric
 interpretation.
 We can take a vector $\vec{v} = \sum_k v_k |k\rangle$, and concatenate the
 complex numbers $v_k$, tip-to-tail, on the complex plane.
@@ -639,6 +639,7 @@ define
 
 $$
 |k(m, n)\rangle = |na + m\rangle \simeq |m\rangle \otimes |n\rangle
+\label{kmn} \tag{4}
 $$
 
 for $m \in [a], n \in [b]$. It's easier to see what's going on using a
@@ -656,10 +657,11 @@ or *index matrix*, and read like English, left-to-right and down:
 
 Let's see what this implies for the QFT.
 For a regular polygon $\vec{\chi}^s_d$, the coefficient of
-$|k(m,n)\rangle$ is
+$|k\rangle$ given by (\ref{kmn}) is
 
 $$
-e^{2\pi i ks/d} = e^{2\pi i (na + m)s/ab} = e^{2\pi i ms/ab}e^{2\pi i ns/b} = \omega_a^{sm/b}\omega_b^{sn}.
+e^{2\pi i ks/d} = e^{2\pi i (na + m)s/ab} = e^{2\pi i ms/ab}e^{2\pi i
+ns/b} = \omega_a^{sm/b}\omega_b^{sn}. \label{prod} \tag{5}
 $$
 
 In the tensor product basis,
@@ -738,7 +740,8 @@ In the general case $d = d_0 d_1\cdots d_{n-1}$, we can simply iterate this proc
 
 $$
 \vec{\chi}^s_{d} \simeq
-\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}} \otimes \cdots \otimes \vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}.
+\vec{\chi}^{d_{n-1}s/d}_{d_{n-1}} \otimes \cdots \otimes
+\vec{\chi}^{s/d_0}_{d_1} \otimes \vec{\chi}^{s}_{d_0}. \label{prods} \tag{6}
 $$
 
 This can be pictured using the
@@ -761,13 +764,13 @@ Crudely speaking, a quantum computer is a bunch of small, easily
 manipulable modules joined together into a big system.
 Typically, the $n$ smaller systems have the same Hilbert space
 dimension, which we will take to be $d_i = a$.
-The quantum computer then has a Hilbert space of size $d = a^n$, with
-regular polygonal states
+The quantum computer then has a Hilbert space of size $d = a^n$, and
+(\ref{prods}) becomes
 
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{1}
+|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{6}
 $$
 
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
@@ -790,7 +793,7 @@ since the higher powers give multiples of $a$.
 When written in base $a$, $s^{(m)}$ is just the expansion
 
 $$
-s_{(m)} = s_m.s_{m-1} \ldots s_{0}.
+s_{(m)} = s_m.s_{m-1} \ldots s_{0}. \label{dig} \tag{7}
 $$
 
 So we can rewrite the product (\ref{qft}) as
@@ -798,7 +801,7 @@ So we can rewrite the product (\ref{qft}) as
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{s_{(n-1)}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle. \tag{2}
+|\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle.
 $$
 
 ##### Extra
