@@ -787,7 +787,9 @@ $$
 
 Of course, we need to tensor together all these intermediate results,
 so we start with $n$ copies of the initial copygon, leave the
-first copy alone, expand once on the second copy, twice on the third, and so on.
+first copy alone, expand once on the second copy, twice on the third,
+and so on.
+
 Let's use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
 this works for $s = 20$, $d = 3^3$.
@@ -856,7 +858,7 @@ Although this is a nice heuristic for thinking about the
 $\text{QFT}_d$ and its gate complexity, it is not an
 algorithm.
 We haven't actually explained how to implement anything!
-For a more conventional description of the circuit for the QFT, see below.
+For the conventional circuit description, see below.
 
 ---
 
