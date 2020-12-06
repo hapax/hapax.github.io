@@ -16,7 +16,7 @@ date:  2020-11-27
 2. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">The magic of factorization</a>
-   3. <a href="#sec-3-3">A powerful recipe</a>
+   3. <a href="#sec-3-3">Awesome powers</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -773,6 +773,57 @@ $$
 |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{6}
 $$
 
+This has a simple interpretation in our pictorial language.
+We build the initial (leftmost) copygon, then expand the argument by a
+factor $a$ a total of $n-1$ times:
+
+$$
+|\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
+a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
+$$
+
+Of course, we need to tensor together all these intermediate results,
+so we start with $n$ copies of the initial copygon, and leave the
+first copy alone, expand once on the second copy, and so on.
+Let's use the
+[polygon applet](https://hapax.github.io/assets/polygon1/) to see how
+this works for $s = 20$, $d = 3^3$.
+The initial copygon has argument $s = 20/3^2 = 2.\dot{2}$.
+We enter this to get the triangle
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/expand1.png"/>
+	</div>
+	</figure>
+
+Tripling the argument gives $6.\dot{6}$, or
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/expand2.png"/>
+	</div>
+	</figure>
+
+Tripling again gives the last, genuine regular polygon:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/expand3.png"/>
+	</div>
+	</figure>
+
+The full tensor product is
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/expand4.png"/>
+	</div>
+	</figure>
+
+---
+
+*Algorithmic aside.*
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
 
@@ -835,7 +886,7 @@ but this needs a correction from $s_1 \mapsto s_1.s_0$ (in base $a$).
 This is achieved by a *controlled correction*:
 
 $$
-C^1|s_0\rangle |s_1\rangle = |s_0\rangle C^0(s_0)|s_1\rangle,
+C^0|s_0\rangle |s_1\rangle = |s_0\rangle C^0(s_0)|s_1\rangle,
 $$
 
 where the matrix $C^0(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$, where we are
@@ -875,85 +926,6 @@ $$
 n + \sum_{j=0}^{n-1} = \frac{1}{2}n(n+1) = O(n^2).
 $$
 
-##### Extra
-
-With the tools at our disposal, we can easily visualize this.
-We build the first copygon on the left, then progressively expand the
-argument by $a$, a total of $n-1$ times:
-
-$$
-|\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
-a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
-$$
-
-We need to tensor the intermediate results together, so we run $n$
-copies of this process in parallel, truncating copy $j$ after $j$
-steps to yield the $j$th factor in (\ref{qft}).
-If it takes $C$ operations to build the initial copygon, the total
-number of operations is
-
-$$
-Cn + \sum_{j=0}^{n-1}j =\frac{1}{2}n(2C + n-1).
-$$
-
-What's important is that as we go right to left along the factors,
-
-This is precisely the case for a quantum computer made from $n$ qudits of dimension $a$.
-We can use this factorization to quickly implement the QFT.
-Here is a first pass which doesn't work.
-Suppose we can construct the initial copygon, and we also have an
-*expansion* operator, mapping
-
-$$
-|\chi^{x}_{a}\rangle \mapsto |\chi^{ax}_{a}\rangle.
-$$
-
-Then we simply build $n$ copies of the initial copygon, labelled by
-$j \in [a]$, apply the expansion operator $j$ times to copy $j$, then tensor the
-results together.
-Assuming we can create initial copygons at fixed cost, the total
-number of operations is
-
-$$
-n + \sum_{j=0}^{n-1}j = n + \frac{1}{2}n(n-1) = \frac{1}{2}n(n+1).
-$$
-
-The issue is that expansion is not a linear, let alone a unitary, operation.
-More explicitly,
-
-$$
-|\chi^{x}_a\rangle = \frac{1}{\sqrt{a}}\sum_k \omega^{kx}_a |k\rangle \mapsto \sum_k
-\frac{1}{\sqrt{a}}\omega^{(a-1)kx}_a \cdot \omega^{kx}_a |k\rangle
-$$
-
-acts on basis vectors in a way that depends on $x$.
-But once $x$ is fixed, it acts via a matrix
-
-$$
-E^{(x)}_a = \mbox{diag}(\omega^{kx(a-1)}_a).
-$$
-
-This *is* unitary, since it has pure phases along the
-diagonal. Similarly, the map which
-constructs the initial copygon, defined by
-
-$$
-C^{(x)}_a|0\rangle = |\chi^x_a\rangle = \mbox{diag}(\omega^{kx}_a)
-\circ \text{QFT}_a|0\rangle
-$$
-
-is unitary, since it composes a unitary matrix with the QFT, which is
-also unitary.
-Then we have
-
-$$
-E^{(a^{j-1}x)}_a \cdots E^{(ax)}_a E^{(x)}_aC^{(x)}_a |0\rangle =
-|\chi^{xa^{j}}_a\rangle.
-$$
-
-Assuming all these operations are hardcoded, we can perform
-the QFT with $O(n^2)$ gates.
-By the linearity of quantum mechanics, we can use the same circuit to
-yield the QFT of an arbitrary vector.
+---
 
 ##### References and acknowledgments
