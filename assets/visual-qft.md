@@ -971,7 +971,7 @@ the change of basis had a simple interpretation in terms of the hinged
 motion of a linkage.
 
 Finally, we examined the effect of tensor factorization on the QFT,
-and found that it split a large regular polygon into smaller polygons
+and discovered that it split a large regular polygon into smaller polygons
 spammed with "copygons".
 Heuristically, we observed that the QFT builds the
 initial copygon then iteratively expands it.
