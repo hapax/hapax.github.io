@@ -15,7 +15,7 @@ date:  2020-11-27
    3. <a href="#sec-2-3">That's a wrap!</a>
 3. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
-   2. <a href="#sec-3-2">The magic of factorization</a>
+   2. <a href="#sec-3-2">Splitting things up</a>
    3. <a href="#sec-3-3">Building up to the QFT</a>
 4. <a href="#sec-4">Conclusion</a>
 
@@ -248,7 +248,7 @@ $$
 where we summed using a geometric series and the fact that $s -
 t$ is an integer.
 Thus, the $|\chi^s_d\rangle$ form an orthonormal basis.
-We give a slightly more elegant group-theoretic motivation below.
+We give a slightly elegant (optional) motivation from group theory below.
 
 ---
 
@@ -490,8 +490,8 @@ $$
 
 We could finish the tutorial here if we liked, but in the next few
 sections, we'll outline some fun features of the QFT,
-including a neat geometrical interpretation, the magic of
-factorization, and algorithmic aspects.
+including a neat geometrical interpretation of the Fourier
+coefficients, the advantages of factorization, and algorithmic aspects.
 
 ##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
 
@@ -604,10 +604,11 @@ the box above left:
 
 In fact, you can enter *arbitrary* $s$ to see a "continuous" hinged
 motion, though the QFT only involves integer $s$.
+We will use $x$ for this arbitrary argument, which may include integers.
 The Fourier coefficient $A_{-s}$ is divided by a factor
 of $\sqrt{d}$, but we have omitted this for visual clarity.
 
-##### 3.2. The magic of factorization<a id="sec-3-2" name="sec-3-2"></a>
+##### 3.2. Splitting things up<a id="sec-3-2" name="sec-3-2"></a>
 
 It turns out that the QFT and the DFT are tremendously important
 operations in their own right.
@@ -823,18 +824,35 @@ Taking their tensor product, we have
 	</div>
 	</figure>
 
-Although this is a nice heuristic for thinking about how
-$\text{QFT}_d$ is performed, and the main novelty of this tutorial, it
-is not an algorithm, since we haven't explained how to construct the
-initial copygon.
-For a more conventional description of the circuit for performing the
-QFT, see below.
-The main difference from the heuristic is that it goes the other way,
-and builds up factors from the right rather than the left.
+Suppose it takes $O(n)$ gate to build an initial copygon, and that we
+can expand using a single gate.
+Since we have $n$ factors, each starting with a copygon, and we expand
+$j$ times on factor $j$ (for $j = [n]$), the total number of gates
+should be
+
+$$
+nO(n) + \sum_{j=0}^{n-1} j = O(n^2) + \frac{1}{2}n(n-1) = O(n^2).
+$$
+
+If this operation takes $|s\rangle \mapsto |\chi^s_d\rangle$, then it
+acts on the full Hilbert space at no extra cost.
+By contrast, if we try to perform the QFT on the classical computer,
+the best we can do is $O(a^{n+1}n)$ operations. So we have an
+exponential quantum speedup!
+
+Although this is a nice heuristic for thinking about the
+$\text{QFT}_d$ and its gate complexity, it is not an
+algorithm.
+We haven't actually explained how to implement anything!
+For a more conventional description of the circuit for the QFT, see below.
 
 ---
 
 *Algorithmic easter egg.*
+Although it has the same scaling with $n$, building the initial
+copygon $n$ times is a massive duplication of effort.
+It is more economic to build each factor from scratch. In this
+easter egg, we will explain in detail how this construction works.
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
 
@@ -936,23 +954,27 @@ $C^m$ by a box labelled with $m$.
 This action is defined for a basis element of the tensor product, but
 by the magic of linearity, it extends to the full Hilbert space at no
 extra cost.
+Technically, the factors are in the wrong order, and to reverse these
+by, e.g., swapping adjacent wires, will take $O(n)^2$ operations.
 The total number of gates required to implement the QFT with this
 circuit is then
 
 $$
-n + \sum_{j=0}^{n-1} = \frac{1}{2}n(n+1) = O(n^2).
+n + \sum_{j=0}^{n-1} + O(n^2) = \frac{1}{2}n(n+1) + O(n^2) = O(n^2),
 $$
 
-By contrast, if we try to perform the QFT on the classical computer,
-the best we can do is $O(a^{n+1}n)$ operations. So we have an
-exponential quantum speedup!
+as we found above.
+To picture what is happening in this circuit is straightforward.
+Instead of *expanding* an initial copygon some number of times, we are
+building a polygon, then *contracting* it and adding a new term in the
+unit place of $s$.
 
 ---
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
-We started out trying to circumvent evolutionary
-constraints on our brains, and picture vectors in very high
+We started by trying to get around pesky evolutionary
+constraints on our visual cortices, and picture vectors in very high
 dimensional spaces.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
