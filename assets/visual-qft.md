@@ -844,7 +844,7 @@ Let's check this works:
 
 $$
 \begin{align*}
-C^0(s_0)|s_1\rangle & = \diag(\omega_a^{ks_0/a})
+C^0(s_0)|s_1\rangle & = \mbox{diag}(\omega_a^{ks_0/a})
 \frac{1}{\sqrt{a}}\sum_k \omega^{ks_1}_a |k\rangle =
 \frac{1}{\sqrt{a}}\sum_k \omega^{k(s_1 + s_0/a)}_a |k\rangle  = |\chi^{s_{(1)}}_{a}\rangle.
 \end{align*}
@@ -853,10 +853,10 @@ $$
 So we've produced the second factor, and we didn't "use up" $s_0$
 while we were at it! It simply acted as a control bit and passed
 through.
-We can continue on this fashion, using the controlled operation
+We can continue on this fashion, using the controlled operations
 
 $$
-C^j |s_j\rangle = |s_j\rangle C^j(s_j), \quad C^j(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{j+1}}). \tag{control} \tag{8}
+C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m+1}}). \label{control} \tag{8}
 $$
 
 We can draw this up in the following circuit:
