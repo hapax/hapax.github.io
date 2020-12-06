@@ -790,6 +790,12 @@ so we start with $n$ copies of the initial copygon, leave the
 first copy alone, expand once on the second copy, twice on the third,
 and so on.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/expand.png"/>
+	</div>
+	</figure>
+
 Let's use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
 this works for $s = 20$, $d = 3^3$.
@@ -978,14 +984,16 @@ n + \sum_{j=0}^{n-1} + O(n^2) = \frac{1}{2}n(n+1) + O(n^2) = O(n^2),
 $$
 
 as we found above.
-To picture what is happening in this circuit is straightforward.
+Picturing the action of this circuit in terms of polygons is straightforward.
 Instead of *expanding* an initial copygon some number of times, we are
 building a polygon, then *contracting* it and adding a new term in the
-unit place of $s$, e.g.
+unit place of $s$:
 
 $$
-s_0 \mapsto 0.s_0 \mapsto s_1.s_0.
+s_0 \mapsto 0.s_0 \mapsto s_1.s_0 \mapsto 0.s_1s_0 \mapsto s_2.s_1s_0 \ldots
 $$
+
+Really, these "controlled corrections" are a clever way to squish our old copygons.
 
 ---
 
