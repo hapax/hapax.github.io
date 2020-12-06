@@ -763,7 +763,7 @@ worry about the details.
 ##### 3.3. Building up to the QFT<a id="sec-3-3" name="sec-3-3"></a>
 
 Crudely speaking, a quantum computer is a bunch of small, easily
-manipulable modules joined together into a big system.
+manipulable modules joined together in a useful way.
 Typically, the $n$ smaller systems have the same Hilbert space
 dimension, which we will take to be $d_i = a$.
 The quantum computer then has a Hilbert space of size $d = a^n$, and
