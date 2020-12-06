@@ -767,7 +767,7 @@ regular polygonal states
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \tabel{qft} \tag{1}
+|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \label{qft} \tag{1}
 $$
 
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
