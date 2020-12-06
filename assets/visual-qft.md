@@ -911,7 +911,8 @@ $$
 C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m+1}}).
 $$
 
-We can draw this up in the following circuit:
+Schematically, we can put all this together and draw the circuit which
+performs $\text{QFT}_d$:
 
 <figure>
     <div style="text-align:center"><img src
