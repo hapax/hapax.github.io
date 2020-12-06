@@ -1048,4 +1048,4 @@ feedback on this tutorial's past lives.
 Quantum Information* (2000), Michael Nielsen and Isaac
 Chuang. Cambridge University Press.
 2. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
-   (2010), Patrick Ion. AMS feature column.
+   (2010), Patrick Ion. American Mathematical Society monthly feature column.
