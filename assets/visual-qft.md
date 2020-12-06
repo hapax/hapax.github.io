@@ -933,11 +933,19 @@ performs $\text{QFT}_d$:
 
 As usual, control bits are indicated by black dots, and we indicate
 $C^m$ by a box labelled with $m$.
-The total number of gates required is
+This action is defined for a basis element of the tensor product, but
+by the magic of linearity, it extends to the full Hilbert space at no
+extra cost.
+The total number of gates required to implement the QFT with this
+circuit is then
 
 $$
 n + \sum_{j=0}^{n-1} = \frac{1}{2}n(n+1) = O(n^2).
 $$
+
+By contrast, if we try to perform the QFT on the classical computer,
+the best we can do is $O(a^{n+1}n)$ operations, so we have an
+exponential quantum speedup.
 
 ---
 
@@ -957,7 +965,12 @@ They were mostly indistinguishable, and rather than abandoned our new
 toy, we decided to find a basis that matched it.
 Using polygons suggested a base of regular polygons, and either by
 direct computation, or group theory, we saw this choice worked.
-The QFT was simply the active change to this basis.
+The QFT was simply the active change from the computational basis to
+this regular polygonal basis, and we found that the coefficients after
+the change of basis had a simple interpretation in terms of the hinged
+motion of a linkage.
+
+Finally, we examined the effect of tensor factorization on 
 
 ##### References
 
