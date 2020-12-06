@@ -793,7 +793,7 @@ since the higher powers give multiples of $a$.
 When written in base $a$, $s^{(m)}$ is just the expansion
 
 $$
-s_{(m)} = s_m.s_{m-1} \ldots s_{0}. \label{dig} \tag{7}
+s_{(m)} = s_m.s_{m-1} \ldots s_{0}.
 $$
 
 So we can rewrite the product (\ref{qft}) as
@@ -801,7 +801,7 @@ So we can rewrite the product (\ref{qft}) as
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{s_{(n-1)}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle.
+|\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle.  \label{qft2} \tag{7}
 $$
 
 Recall that the QFT (\ref{qftd}) takes computational basis states to
@@ -813,6 +813,11 @@ $$
 a^{n-1}\rangle \simeq |s_0\rangle \otimes |s_0\rangle \otimes \cdots
 \otimes |s_{n-1}\rangle.
 $$
+
+Our goal is now to produce the factors in (\ref{qft2}) from these
+states.
+Let's assume that the operation $\text{QFT}_a$ is a cheap operation,
+hardcoded into our quantum computer.
 
 ##### Extra
 
