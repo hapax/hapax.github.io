@@ -98,7 +98,7 @@ already know the solution.
 Consider a graph $y = f(x)$ on the Cartesian plane.
 You can add functions together and multiply them by real numbers, and
 this turns the set of functions into a vector space!
-Moreover, it's an *infinite-dimensional* vector space, since we can
+Moreover, it's an *infinite-dimensional* vector space, since (loosely speaking) we can
 think of each point $x$ as a basis vector.
 
 <figure>
