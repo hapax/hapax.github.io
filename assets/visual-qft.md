@@ -11,11 +11,11 @@ date:  2020-11-27
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Polygons</a>
    1. <a href="#sec-2-1">Form and function</a>
-   2. <a href="#sec-2-2">A better basis</a>
+   2. <a href="#sec-2-2">Battles of the bases</a>
    3. <a href="#sec-2-3">That's a wrap!</a>
 3. <a href="#sec-3">The Quantum Fourier Transform</a>
-   1. <a href="#sec-3-1">Overlaps and linkages</a>
-   2. <a href="#sec-3-2">Splitting things up</a>
+   1. <a href="#sec-3-1">Unhinged inner products</a>
+   2. <a href="#sec-3-2">Divide and conquer</a>
    3. <a href="#sec-3-3">Building up to the QFT</a>
 4. <a href="#sec-4">Conclusion</a>
 
@@ -187,7 +187,7 @@ origin. We give examples below:
 All of this holds for open chains as well. But polygons are preferable
 for reasons we will discover shortly.
 
-##### 2.2. A better basis <a id="sec-2-2" name="sec-2-2"></a>
+##### 2.2. Battle of the bases <a id="sec-2-2" name="sec-2-2"></a>
 
 Let's see what we can do with all this pictorial power at our disposal.
 A warm-up task is simply to draw the computational basis states, $|k\rangle$ for
@@ -493,7 +493,7 @@ sections, we'll outline some fun features of the QFT,
 including a neat geometrical interpretation of the Fourier
 coefficients, the advantages of factorization, and algorithmic aspects.
 
-##### 3.1. Overlaps and linkages<a id="sec-3-1" name="sec-3-1"></a>
+##### 3.1. Unhinged inner products<a id="sec-3-1" name="sec-3-1"></a>
 
 The QFT is, by definition, an active change of basis.
 In the context of linear algebra, it's slightly more natural to think
@@ -609,7 +609,7 @@ stand for integers.
 The Fourier coefficient $A_{-s}$ is divided by a factor
 of $\sqrt{d}$, but we have omitted this for visual clarity.
 
-##### 3.2. Splitting things up<a id="sec-3-2" name="sec-3-2"></a>
+##### 3.2. Divide and conquer<a id="sec-3-2" name="sec-3-2"></a>
 
 It turns out that the QFT and the DFT are tremendously important
 operations in their own right.
