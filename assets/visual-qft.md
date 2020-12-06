@@ -1043,6 +1043,7 @@ And they told you to stop doodling in math class.
 
 1. I'd like to thank Olivia Di Matteo, Pedro Lopes and Rafael Haenel
    for discussions of this material.
-2. Michael Nielsen and Isaac Chuang (2000). "Quantum Computation and
-Quantum Information", Cambridge University Press.
-3. Patrick Ion (2010). [*Geometry and the Discrete Fourier Transform*](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft).
+2. "Quantum Computation and
+Quantum Information" (2000), Michael Nielsen and Isaac Chuang.
+3. [*Geometry and the Discrete Fourier Transform*](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
+   (2010), Patrick Ion.
