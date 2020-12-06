@@ -245,7 +245,7 @@ $$
 \end{align*}
 $$
 
-where we summed using a geometric series and used the fact that $s -
+where we summed using a geometric series and the fact that $s -
 t$ is an integer.
 Thus, the $|\chi^s_d\rangle$ form an orthonormal basis.
 We give a slightly more elegant group-theoretic motivation below.
