@@ -814,7 +814,7 @@ Tripling again gives the last (genuinely regular) polygon:
 	</div>
 	</figure>
 
-The full tensor product is
+Taking their tensor product, we have
 
 <figure>
     <div style="text-align:center"><img src
