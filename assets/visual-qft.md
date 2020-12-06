@@ -13,10 +13,11 @@ date:  2020-11-27
    1. <a href="#sec-2-1">Form and function</a>
    2. <a href="#sec-2-2">A better basis</a>
    3. <a href="#sec-2-3">That's a wrap!</a>
-2. <a href="#sec-3">The Quantum Fourier Transform</a>
+3. <a href="#sec-3">The Quantum Fourier Transform</a>
    1. <a href="#sec-3-1">Overlaps and linkages</a>
    2. <a href="#sec-3-2">The magic of factorization</a>
-   3. <a href="#sec-3-3">Awesome powers</a>
+   3. <a href="#sec-3-3">Building up to the QFT</a>
+4. <a href="#sec-4">Conclusion</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -758,7 +759,7 @@ We can view this as decomposing $d$ into a higher-dimensional index
 tensor, which iterates over the tensor product basis, but we won't
 worry about the details.
 
-##### 3.3. A powerful recipe<a id="sec-3-3" name="sec-3-3"></a>
+##### 3.3. Building up to the QFT<a id="sec-3-3" name="sec-3-3"></a>
 
 Crudely speaking, a quantum computer is a bunch of small, easily
 manipulable modules joined together into a big system.
@@ -820,6 +821,11 @@ The full tensor product is
     ="/images/posts/expand4.png"/>
 	</div>
 	</figure>
+
+Although this is a nice heuristic for thinking about how the big
+$\text{QFT}_d$ is performed, it is not an algorithm.
+For a more conventional description of the circuit for performing the
+QFT, see below.
 
 ---
 
@@ -930,4 +936,10 @@ $$
 
 ---
 
+### 4. Conclusion <a id="sec-4" name="sec-4"></a>
+
 ##### References and acknowledgments
+
+1. Michael Nielsen and Isaac Chuang (2000). "Quantum Computation and
+Quantum Information", Cambridge University Press.
+2. Patrick Ion (2010). [*Geometry and the Discrete Fourier Transform*](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft).
