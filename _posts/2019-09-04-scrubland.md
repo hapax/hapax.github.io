@@ -1466,7 +1466,7 @@ This post is partly an experiment with format.
 The first experiment was informal, expository and visual (section 2),
 while the second experiment was an attempt to turn difficult problems
 into bite-sized chunks (in section 3). I'm not sure the latter
-succeeded, but the point of the experiment is to check!
+succeeded, but the point of the experiment is to try!
 
 #### What's next?
 
