@@ -810,7 +810,8 @@ We enter this to get the triangle
 	</div>
 	</figure>
 
-Tripling the argument gives $x = 6.\dot{6}$, or
+Tripling the argument gives $x = 6.\dot{6}$, which swings the points
+around to
 
 <figure>
     <div style="text-align:center"><img src
@@ -818,7 +819,7 @@ Tripling the argument gives $x = 6.\dot{6}$, or
 	</div>
 	</figure>
 
-Tripling again gives the last (genuinely regular) polygon:
+Tripling once more gives the last (genuinely regular) polygon:
 
 <figure>
     <div style="text-align:center"><img src
