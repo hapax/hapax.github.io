@@ -825,7 +825,7 @@ $$
 \text{QFT}_a |s_0\rangle = |\chi^{s_{0}}_{a}\rangle = |\chi^{s_{(0)}}_{a}\rangle.
 $$
 
-For the next factor, we instead apply the QFT to $|s_1\rangle$,
+For the next factor, we once more apply the QFT:
 
 $$
 \text{QFT}_a |s_1\rangle = |\chi^{s_{1}}_{a}\rangle,
