@@ -252,7 +252,7 @@ We give a slightly more elegant group-theoretic motivation below.
 
 ---
 
-*Group theory bonus.* Our choice of representation is guided by the
+*Group theory easter egg.* Our choice of representation is guided by the
 structure we put on the index set $I$ itself. When we draw vectors as
 marked chains, we are effectively thinking of $I$ as an ordered set.
 When we draw it as a polygon, we are implicitly thinking of $I$ as a *cyclic
@@ -426,7 +426,7 @@ This has an amusing (and optionally readable) consequence for number theory.
 
 ---
 
-*Number theory bonus.*
+*Number theory easter egg.*
  The count of $s \in [d]$ relatively prime to $d$ is given by Euler’s
  totient function $\phi(d)$. Similarly, $\phi(d/f)$ counts the
  values $s$ for which $\text{gcd}(d, s) = f$, since
@@ -834,7 +834,7 @@ and builds up factors from the right rather than the left.
 
 ---
 
-*Algorithmic bonus.*
+*Algorithmic easter egg.*
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
 
