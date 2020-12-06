@@ -975,11 +975,11 @@ and found that it split a large regular polygon into smaller polygons
 spammed with "copygons".
 Heuristically, we observed that the QFT builds the
 initial copygon then iteratively expands it.
-However, from a strict algorithmic point of view, we build a sequence
-of smaller polygons which we iteratively correct to get the required
-factors.
-The corresponding quantum circuit enjoys an exponential improvement
-over the best classical algorithm.
+However, from a strict algorithmic point of view, we needed to build a sequence
+of smaller polygons which were iteratively corrected to get the right
+tensor factors.
+The quantum circuit which achieves all this is exponentialy quicker
+than the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
 finding a massive algorithmic speedup!
 And they told you to stop doodling in class.
