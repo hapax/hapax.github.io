@@ -978,7 +978,7 @@ initial copygon and iteratively expands it.
 However, from a strict algorithmic point of view, we needed to build a sequence
 of smaller polygons which were iteratively corrected to get the right
 tensor factors.
-The quantum circuit which achieves all this is exponentialy quicker
+The quantum circuit which does this for us was exponentialy quicker
 than the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
 finding a massive algorithmic speedup!
