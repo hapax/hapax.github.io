@@ -970,7 +970,18 @@ this regular polygonal basis, and we found that the coefficients after
 the change of basis had a simple interpretation in terms of the hinged
 motion of a linkage.
 
-Finally, we examined the effect of tensor factorization on 
+Finally, we examined the effect of tensor factorization on the QFT,
+and found that it split a large regular polygon into smaller polygons,
+spammed using "copygons".
+Heuristically, we saw that the QFT could be viewed as building the
+initial copygon then iteratively expanding it.
+However, from a strict algorithmic point of view, we build a sequence
+of smaller polygons which we iteratively correct to get the required
+factors.
+The corresponding quantum circuit enjoys an exponential speedup over
+the best classical algorithm.
+So, by trying to draw pretty pictures in Hilbert space, we ended up
+finding 
 
 ##### References
 
