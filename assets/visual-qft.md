@@ -948,8 +948,17 @@ dimensons, despite our puny dimensional constraints for direct
 visualization.
 We adapted familiar grade-school methods which (secretly) represent
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
+For a finite-dimensional vector, we drew a chain of points, the
+equivalent of the parameterized curve on the complex plane, and then
+joined the endpoints to obtain a marked directed polygon.
 
-##### References and acknowledgments
+Our first task was to see how the standard basis elements looked.
+They were mostly indistinguishable, and rather than abandoned our new
+toy, we decided to find a basis that matched it.
+Using polygons suggested a base of regular polygons, and either by
+direct computation, or group theory, we saw this choice worked.
+
+##### References
 
 1. Michael Nielsen and Isaac Chuang (2000). "Quantum Computation and
 Quantum Information", Cambridge University Press.
