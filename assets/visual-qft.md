@@ -789,6 +789,7 @@ Of course, we need to tensor together all these intermediate results,
 so we start with $n$ copies of the initial copygon, leave the
 first copy alone, expand once on the second copy, twice on the third,
 and so on.
+Here is a cartoon for three qubits:
 
 <figure>
     <div style="text-align:center"><img src
