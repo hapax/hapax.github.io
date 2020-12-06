@@ -822,10 +822,14 @@ Taking their tensor product, we have
 	</div>
 	</figure>
 
-Although this is a nice heuristic for thinking about how the big
-$\text{QFT}_d$ is performed, it is not an algorithm.
+Although this is a nice heuristic for thinking about how
+$\text{QFT}_d$ is performed, and the main novelty of this tutorial, it
+is not an algorithm, since we haven't explained how to construct the
+initial copygon.
 For a more conventional description of the circuit for performing the
 QFT, see below.
+The main difference from the heuristic is that it goes the other way,
+and builds up factors from the right rather than the left.
 
 ---
 
