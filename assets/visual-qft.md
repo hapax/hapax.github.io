@@ -961,7 +961,7 @@ equivalent of the parameterized curve on the complex plane, and then
 joined the endpoints to obtain a marked directed polygon.
 
 Our first task was to see how the standard basis elements looked.
-They were mostly indistinguishable, and rather than abandon our new
+They were mostly indistinguishable. Rather than abandon our new
 toy, we decided to find a basis that matched it.
 Using polygons suggested a base of regular polygons, and either by
 direct computation, or group theory, we saw this choice worked.
