@@ -1034,6 +1034,12 @@ So, by trying to draw pretty pictures in Hilbert space, we ended up
 finding a massive algorithmic speedup!
 And they told you to stop doodling in math class.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/fin.png"/>
+	</div>
+	</figure>
+
 ##### References
 
 1. Michael Nielsen and Isaac Chuang (2000). "Quantum Computation and
