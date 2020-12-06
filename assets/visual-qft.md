@@ -835,8 +835,9 @@ Taking their tensor product, we have
 	</div>
 	</figure>
 
-Suppose it takes $O(n)$ gate to build an initial copygon, and that we
-can expand using a single gate.
+To tote up the number of operations needed for the QFT, suppose it
+takes $O(n)$ gates to build an initial copygon, and that expansion is
+a single operation.
 Since we have $n$ factors, each starting with a copygon, and we expand
 $j$ times on factor $j$ (for $j = [n]$), the total number of gates
 should be
