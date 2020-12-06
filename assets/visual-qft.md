@@ -867,7 +867,8 @@ We can draw this up in the following circuit:
 	</div>
 	</figure>
 
-As usual, control bits are indicated by black dots.
+As usual, control bits are indicated by black dots, and we indicate
+$C^m$ by a box labelled with $m$.
 The total number of gates required is
 
 $$
