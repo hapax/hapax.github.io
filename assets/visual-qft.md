@@ -1042,7 +1042,7 @@ And they told you to stop doodling in math class.
 ##### References and acknowledgments
 
 I'd like to thank Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
-discussions of this material.
+feedback on various prior incarnations of this material.
 
 1. *Quantum Computation and
 Quantum Information* (2000), Michael Nielsen and Isaac
