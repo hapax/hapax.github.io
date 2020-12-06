@@ -947,7 +947,7 @@ Let's check this works:
 
 $$
 \begin{align*}
-C^0(s_0)|s_1\rangle & = \mbox{diag}(\omega_a^{ks_0/a})
+C^0(s_0)|s_1\rangle & = \mbox{diag}(\omega_a^{ks_0/a}) \cdot
 \frac{1}{\sqrt{a}}\sum_k \omega^{ks_1}_a |k\rangle =
 \frac{1}{\sqrt{a}}\sum_k \omega^{k(s_1 + s_0/a)}_a |k\rangle  = |\chi^{s_{(1)}}_{a}\rangle.
 \end{align*}
