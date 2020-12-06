@@ -1033,7 +1033,7 @@ initial copygon and iteratively expands it on each factor.
 However, from a strict algorithmic point of view, it's quicker to
 build the tensor factors in the other order, starting with a small
 polygon then iteratively squishing and adding digits.
-The quantum circuit which does all this takes exponentialy fewer
+The corresponding quantum circuit takes exponentialy fewer
 operations than the best classical algorithm.
 So, by looking for pretty pictures of Hilbert space, we ended up
 obtaining a massive algorithmic speedup!
