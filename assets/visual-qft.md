@@ -604,7 +604,8 @@ the box above left:
 
 In fact, you can enter *arbitrary* $s$ to see a "continuous" hinged
 motion, though the QFT only involves integer $s$.
-We will use $x$ for this arbitrary argument, which may include integers.
+We will use $x$ to denote the arbitrary argument, and let $s$ always
+stand for integers.
 The Fourier coefficient $A_{-s}$ is divided by a factor
 of $\sqrt{d}$, but we have omitted this for visual clarity.
 
