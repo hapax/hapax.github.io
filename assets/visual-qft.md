@@ -962,7 +962,7 @@ joined the endpoints to obtain a marked directed polygon.
 
 Our first task was to see how the standard basis elements looked.
 They were mostly indistinguishable, which sucks. Rather than abandon our new
-toy, we decided to find a basis that matched it.
+toy, we decided to find a basis that looked better.
 Using polygons suggested a basis of regular polygons, and either by
 direct computation, or group theory, we saw this choice worked.
 The QFT was simply the active change from the computational basis to
