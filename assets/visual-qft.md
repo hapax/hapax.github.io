@@ -938,16 +938,16 @@ but this needs a correction from $s_1 \mapsto s_1.s_0$ (in base $a$).
 This is achieved by a *controlled correction*:
 
 $$
-C^0|s_0\rangle |s_1\rangle = |s_0\rangle C^0(s_0)|s_1\rangle,
+C^1|s_0\rangle |s_1\rangle = |s_0\rangle C^1(s_0)|s_1\rangle,
 $$
 
-where the matrix $C^0(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$,
+where the matrix $C^1(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$,
 implicitly writing diagonal elements in the computational basis.
 Let's check this works:
 
 $$
 \begin{align*}
-C^0(s_0)|s_1\rangle & = \mbox{diag}(\omega_a^{ks_0/a}) \cdot
+C^1(s_0)|s_1\rangle & = \mbox{diag}(\omega_a^{ks_0/a}) \cdot
 \frac{1}{\sqrt{a}}\sum_k \omega^{ks_1}_a |k\rangle =
 \frac{1}{\sqrt{a}}\sum_k \omega^{k(s_1 + s_0/a)}_a |k\rangle  = |\chi^{s_{(1)}}_{a}\rangle.
 \end{align*}
@@ -960,7 +960,7 @@ We can continue on this fashion, using the controlled operations to
 correct the $m$ digit in the base $a$ expansion,
 
 $$
-C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m+1}}).
+C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m}}).
 $$
 
 Schematically, we can put all this together and draw the circuit which
