@@ -1002,13 +1002,19 @@ Really, these "controlled corrections" are a clever way to squish our old copygo
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
 We started by trying to get around pesky evolutionary
-constraints on our visual cortices, and picture vectors in very high
-dimensional spaces.
+constraints on our visual cortices, and picture vectors in high
+dimensional Hilbert spaces.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
 For a finite-dimensional vector, we drew a chain of points, the
 equivalent of the parameterized curve on the complex plane, and then
 joined the endpoints to obtain a marked directed polygon.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/fin.png"/>
+	</div>
+	</figure>
 
 Our first task was to see how the standard basis elements looked.
 They were mostly indistinguishable, which sucks. Rather than abandon our new
@@ -1032,12 +1038,6 @@ operations than the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
 finding a massive algorithmic speedup!
 And they told you to stop doodling in math class.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/fin.png"/>
-	</div>
-	</figure>
 
 ##### References
 
