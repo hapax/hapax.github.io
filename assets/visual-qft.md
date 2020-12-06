@@ -804,6 +804,16 @@ $$
 |\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle.
 $$
 
+Recall that the QFT (\ref{qftd}) takes computational basis states to
+polygons. Here, we use the tensor basis, and make the natural
+extension of (\ref{kmn}):
+
+$$
+|s(s_0, s_1, \ldots, s_{n-1})\rangle = |s_0 + s_1 a + \cdots + s_{n-1}
+a^{n-1}\rangle \simeq |s_0\rangle \otimes |s_0\rangle \otimes \cdots
+\otimes |s_{n-1}\rangle.
+$$
+
 ##### Extra
 
 With the tools at our disposal, we can easily visualize this.
