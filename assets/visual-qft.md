@@ -1047,4 +1047,4 @@ And they told you to stop doodling in math class.
 Quantum Information* (2000), Michael Nielsen and Isaac
 Chuang. Cambridge University Press.
 3. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
-   (2010), Patrick Ion.
+   (2010), Patrick Ion. AMS feature column.
