@@ -954,7 +954,7 @@ exponential quantum speedup!
 We started with the problem of trying to get around evolutionary
 constraints on our brains, and picture vectors in very high
 dimensionsal spaces.
-We adapted familiar grade-school methods which (secretly) represent
+We adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
 For a finite-dimensional vector, we drew a chain of points, the
 equivalent of the parameterized curve on the complex plane, and then
