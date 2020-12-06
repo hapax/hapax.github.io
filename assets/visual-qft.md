@@ -1001,8 +1001,8 @@ Really, these "controlled corrections" are a clever way to squish our old copygo
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
-We started by trying to get around pesky evolutionary
-constraints on our visual cortices.
+We started out looking for ways to get around pesky evolutionary
+constraints on the visual cortex.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
 For a finite-dimensional complex vector, we drew a chain of points on the complex plane, and then
