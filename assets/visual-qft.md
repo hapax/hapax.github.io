@@ -752,8 +752,8 @@ example, $s = 1$ and $d = 2 \times 3 \times 4$:
 	</figure>
 
 We can view this as decomposing $d$ into a higher-dimensional index
-tensor, which iterates over the tensor product basis, but the details
-won't concern us here.
+tensor, which iterates over the tensor product basis, but we won't
+worry about the details.
 
 ##### 3.3. A powerful recipe<a id="sec-3-3" name="sec-3-3"></a>
 
@@ -766,13 +766,63 @@ regular polygonal states
 
 $$
 |\chi^s_{d}\rangle \simeq
-|\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes |\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle.
+|\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes
+|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \tag{1}
 $$
 
-This equation gives us a recipe for doing the QFT exponentially faster
-than if we did not decompose it into factors.
+With the tools at our disposal, we can easily visualize this.
+We build the first copygon on the left, then progressively expand the
+argument by $a$, a total of $n-1$ times:
+
+$$
+|\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
+a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
+$$
+
+We need to tensor the intermediate results together, so we run $n$
+copies of this process in parallel, truncating copy $j$ after $j$
+steps to yield the $j$th factor in (1).
+If it takes $C$ operations to build the initial copygon, the total
+number of operations is
+
+$$
+Cn + \sum_{j=0}^{n-1}j =\frac{1}{2}n(2C + n-1).
+$$
 
 ##### Extra
+
+Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
+$a$:
+
+$$
+s = s_0 + s_1 a + \cdots + s_{n-1} a^{n-1}.
+$$
+
+We note that, modulo $a$, when we divide by a power $a^m$ for $m \leq
+n$, we get
+
+$$
+\frac{s}{a^m} = \frac{s_0}{a^m} + \frac{s_1}{a^{m-1}} + \cdots +
+\frac{s_{n-1}}{a^{m-n+1}} \equiv \frac{1}{a^m}(s_0 + \cdots +
+s_{m}a^m) =: s_{(m)},
+$$
+
+since the higher powers give multiples of $a$.
+When written in base $a$, $s^{(m)}$ is just the expansion
+
+$$
+s_{(m)} = s_m.s_{m-1} \ldots s_{0}.
+$$
+
+So we can rewrite the product (1) as
+
+$$
+|\chi^s_{d}\rangle \simeq
+|\chi^{s_{(n-1)}}_{a}\rangle\otimes \cdots \otimes
+|\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle. \tag{2}
+$$
+
+What's important is that as we go right to left along the factors,
 
 This is precisely the case for a quantum computer made from $n$ qudits of dimension $a$.
 We can use this factorization to quickly implement the QFT.
