@@ -312,7 +312,7 @@ all $k$, modulo $d$.
 Without loss of generality (and ignoring normalization for the
 moment), we can set $\alpha_0 = 1$ and iterate, so that $\alpha_k =
 \omega^k$. If we choose a primitive root of unity $\omega_d = e^{2\pi i/d}$, then
-all roots of unity have the form $\omega_d^{s}$ for $s \in [d]$.
+all roots of unity have the form $\omega_d^{s}$ for some $s \in [d]$.
 This gives rise to the $d$ unnormalized eigenvectors, and
 corresponding eigenstates, we found in (\ref{chivec}):
 
