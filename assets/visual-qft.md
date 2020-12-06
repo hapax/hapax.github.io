@@ -1041,10 +1041,11 @@ And they told you to stop doodling in math class.
 
 ##### References and acknowledgments
 
-1. I'd like to thank Olivia Di Matteo, Pedro Lopes and Rafael Haenel
-   for discussions of this material.
-2. *Quantum Computation and
+I'd like to thank Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
+discussions of this material.
+
+1. *Quantum Computation and
 Quantum Information* (2000), Michael Nielsen and Isaac
 Chuang. Cambridge University Press.
-3. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
+2. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
    (2010), Patrick Ion. AMS feature column.
