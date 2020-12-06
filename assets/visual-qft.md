@@ -780,12 +780,13 @@ factor $a$ a total of $n-1$ times:
 
 $$
 |\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
-a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
+a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto |\chi^{sa^{2-n} \cdot
+a}_{a}\rangle = |\chi^{sa^{3-n}}_{a}\rangle \mapsto  \cdots \mapsto |\chi^{s}_{a}\rangle.
 $$
 
 Of course, we need to tensor together all these intermediate results,
-so we start with $n$ copies of the initial copygon, and leave the
-first copy alone, expand once on the second copy, and so on.
+so we start with $n$ copies of the initial copygon, leave the
+first copy alone, expand once on the second copy, twice on the third, and so on.
 Let's use the
 [polygon applet](https://hapax.github.io/assets/polygon1/) to see how
 this works for $s = 20$, $d = 3^3$.
