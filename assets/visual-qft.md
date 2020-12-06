@@ -900,7 +900,7 @@ $$
 C^0|s_0\rangle |s_1\rangle = |s_0\rangle C^0(s_0)|s_1\rangle,
 $$
 
-where the matrix $C^0(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$, where we are
+where the matrix $C^0(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$,
 implicitly writing diagonal elements in the computational basis.
 Let's check this works:
 
