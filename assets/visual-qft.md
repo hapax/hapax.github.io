@@ -1033,7 +1033,7 @@ The quantum circuit which does this for us was exponentialy quicker
 than the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
 finding a massive algorithmic speedup!
-And they told you to stop doodling in class.
+And they told you to stop doodling in math class.
 
 ##### References
 
