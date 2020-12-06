@@ -907,7 +907,7 @@ through.
 We can continue on this fashion, using the controlled operations
 
 $$
-C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m+1}}). \label{control} \tag{8}
+C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m+1}}).
 $$
 
 We can draw this up in the following circuit:
