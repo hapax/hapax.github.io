@@ -767,29 +767,8 @@ regular polygonal states
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{sa^{1-n}}_{a}\rangle\otimes \cdots \otimes
-|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \tag{1}
+|\chi^{s/a}_{a}\rangle \otimes |\chi^{s}_{a}\rangle. \tabel{qft} \tag{1}
 $$
-
-With the tools at our disposal, we can easily visualize this.
-We build the first copygon on the left, then progressively expand the
-argument by $a$, a total of $n-1$ times:
-
-$$
-|\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
-a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
-$$
-
-We need to tensor the intermediate results together, so we run $n$
-copies of this process in parallel, truncating copy $j$ after $j$
-steps to yield the $j$th factor in (1).
-If it takes $C$ operations to build the initial copygon, the total
-number of operations is
-
-$$
-Cn + \sum_{j=0}^{n-1}j =\frac{1}{2}n(2C + n-1).
-$$
-
-##### Extra
 
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
@@ -814,12 +793,33 @@ $$
 s_{(m)} = s_m.s_{m-1} \ldots s_{0}.
 $$
 
-So we can rewrite the product (1) as
+So we can rewrite the product (\ref{qft}) as
 
 $$
 |\chi^s_{d}\rangle \simeq
 |\chi^{s_{(n-1)}}_{a}\rangle\otimes \cdots \otimes
 |\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle. \tag{2}
+$$
+
+##### Extra
+
+With the tools at our disposal, we can easily visualize this.
+We build the first copygon on the left, then progressively expand the
+argument by $a$, a total of $n-1$ times:
+
+$$
+|\chi^{sa^{1-n}}_{a}\rangle \mapsto |\chi^{sa^{1-n} \cdot
+a}_{a}\rangle = |\chi^{sa^{2-n}}_{a}\rangle \mapsto \cdots |\chi^{s}_{a}\rangle.
+$$
+
+We need to tensor the intermediate results together, so we run $n$
+copies of this process in parallel, truncating copy $j$ after $j$
+steps to yield the $j$th factor in (\ref{qft}).
+If it takes $C$ operations to build the initial copygon, the total
+number of operations is
+
+$$
+Cn + \sum_{j=0}^{n-1}j =\frac{1}{2}n(2C + n-1).
 $$
 
 What's important is that as we go right to left along the factors,
