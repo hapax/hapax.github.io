@@ -957,6 +957,7 @@ They were mostly indistinguishable, and rather than abandoned our new
 toy, we decided to find a basis that matched it.
 Using polygons suggested a base of regular polygons, and either by
 direct computation, or group theory, we saw this choice worked.
+The QFT was simply the active change to this basis.
 
 ##### References
 
