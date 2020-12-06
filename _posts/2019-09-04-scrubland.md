@@ -1102,7 +1102,7 @@ zooming in (multipling $r$ by a constant) only shifts the angle:
 
 $$
 \begin{equation}
-\alpha r = f(\phi - c),\label{self}
+\alpha r = f(\phi - c),\label{self} \tag{1}
 \end{equation}
 $$
 
@@ -1225,7 +1225,7 @@ This means we can write the rate of change of $S$ as
 
 $$
 \begin{equation}
-\frac{dS}{dt} = \gamma r(\alpha - m), \label{ds/dt}
+\frac{dS}{dt} = \gamma r(\alpha - m), \label{ds/dt} \tag{2}
 \end{equation}
 $$
 
@@ -1263,7 +1263,7 @@ the shape of a simple triangular sand pile.
 
    $$
    \begin{equation}
-   \frac{dH}{dt} = -v\kappa + b. \label{dh/dt}
+   \frac{dH}{dt} = -v\kappa + b. \label{dh/dt} \tag{3}
    \end{equation}
    $$
 
@@ -1302,7 +1302,7 @@ the shape of a simple triangular sand pile.
    $$
    \begin{equation}
    H(x, t) = \frac{1}{2}\alpha B - \alpha x+
-   C(t-x/v).\label{tailings1}
+   C(t-x/v).\label{tailings1} \tag{4}
    \end{equation}
    $$
 
