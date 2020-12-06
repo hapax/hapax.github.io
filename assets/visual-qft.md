@@ -978,10 +978,11 @@ initial copygon then iteratively expanding it.
 However, from a strict algorithmic point of view, we build a sequence
 of smaller polygons which we iteratively correct to get the required
 factors.
-The corresponding quantum circuit enjoys an exponential speedup over
-the best classical algorithm.
+The corresponding quantum circuit enjoys an exponential improvement
+over the best classical algorithm.
 So, by trying to draw pretty pictures in Hilbert space, we ended up
-finding 
+finding a massive algorithmic speedup!
+And they told you to stop doodling in class.
 
 ##### References
 
