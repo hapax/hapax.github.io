@@ -923,7 +923,7 @@ Our goal is now to produce the factors in (\ref{qft2}) from these
 states.
 Let's assume that the operation $\text{QFT}_a$ is a cheap operation,
 hardcoded into our quantum computer.
-From the first state $|s_0\rangle$, we can use this to immediately get
+From the first input state $|s_0\rangle$, we can use this to immediately get
 the first factor (from the right):
 
 $$
