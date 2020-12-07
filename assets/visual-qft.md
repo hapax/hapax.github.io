@@ -973,8 +973,7 @@ performs $\text{QFT}_d$:
 	</div>
 	</figure>
 
-As usual, control bits are indicated by black dots, and we indicate
-$C^m$ by a box labelled with $m$.
+Control bits are indicated by black dots, and $C^m$ by a box labelled with $m$.
 This action is defined for a basis element of the tensor product, but
 by the magic of linearity, it extends to the full Hilbert space.
 Technically, the factors are in the wrong order, and to reverse these
