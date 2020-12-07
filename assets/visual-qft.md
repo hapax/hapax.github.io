@@ -226,7 +226,7 @@ To ensure we end up back where we started after $d$ points, we require
 $d\theta$ to be a multiple of $2\pi$, or $\theta = 2\pi s/d$ for some
 integer $s$.
 The $r$ is irrelevant for choosing a basis, so we set it to $1$, and
-normalize later to get states.
+normalize to get states.
 We define the resulting regular polygonal vectors and eigenstates by
 
 $$
@@ -245,10 +245,10 @@ $$
 \end{align*}
 $$
 
-where we summed using a geometric series and the fact that $s -
-t$ is an integer.
+where we summed using a geometric series, and observe that the numerator
+vanishes when $s - t$ is an integer.
 Thus, the $|\chi^s_d\rangle$ form an orthonormal basis.
-We give a slightly elegant (optional) motivation from group theory below.
+We give a slightly more elegant (optional) motivation from group theory below.
 
 ---
 
