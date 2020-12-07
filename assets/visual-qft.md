@@ -1041,15 +1041,15 @@ And they told you to stop doodling in math class.
 
 ##### References and acknowledgments
 
+1. *Quantum Computation and
+Quantum Information* (2000), Michael Nielsen and Isaac
+Chuang. Cambridge University Press.
+2. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
+   (2010), Patrick Ion. American Mathematical Society monthly feature column.
+
 Thanks to Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
 feedback on this tutorial's prior incarnations. Applets were made in
 [p5.js](https://p5js.org/) and remain regrettably buggy.
 Finally, I'd like to acknowledge Acushla Burden for moral support,
 Yoshua Wakeham and Sarah Alexander for the gracious loan of a man cave, and Hudson
 Michael Laszlo Alexander-Wakeham for informative gurgles at key points.
-
-1. *Quantum Computation and
-Quantum Information* (2000), Michael Nielsen and Isaac
-Chuang. Cambridge University Press.
-2. ["Geometry and the Discrete Fourier Transform"](http://www.ams.org/publicoutreach/feature-column/fcarc-geo-dft)
-   (2010), Patrick Ion. American Mathematical Society monthly feature column.
