@@ -997,7 +997,7 @@ $$
 s_0 \mapsto 0.s_0 \mapsto s_1.s_0 \mapsto 0.s_1s_0 \mapsto s_2.s_1s_0 \ldots
 $$
 
-Really, these "controlled corrections" are a clever way to squish our old copygons.
+These "controlled corrections" are a clever way to squish our old copygons.
 
 ---
 
