@@ -757,6 +757,7 @@ example, $s = 1$ and $d = 2 \times 3 \times 4$:
 	</div>
 	</figure>
 
+[Note the reversal of the order of factors. I intend to fix this!]
 We can view this as decomposing $d$ into a higher-dimensional index
 tensor, which iterates over the tensor product basis, but we won't
 worry about the details.
