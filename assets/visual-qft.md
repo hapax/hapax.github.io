@@ -851,7 +851,7 @@ $$
 If this operation takes $|s\rangle \mapsto |\chi^s_d\rangle$, then it
 acts on the full Hilbert space at no extra cost.
 By contrast, if we try to perform the QFT on the classical computer,
-we can still use (\ref{qft}) but cannot create a circuit which
+we can still use (\ref{qft}) but cannot create a single circuit which
 computes everything at the same time.
 Instead, we need to laboriously compute the Fourier coefficients
 $A_{-s}$ individually, replacing $n$ parallelized computations of
