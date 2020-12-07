@@ -455,7 +455,7 @@ The purpose of the last section was to find a way to draw vectors
 in big Hilbert spaces.
 The computational basis is ill-adapted to this representation, so we
 came up with a new basis which jived better.
-But we shouldn't throw out the computational basis altogether!
+But we shouldn't throw out the computational basis with the bath water!
 It's the closest thing we have to working with bit strings, and hence
 a natural place to do many quantum information-processing tasks.
 
