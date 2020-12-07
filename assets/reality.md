@@ -5,11 +5,14 @@ layout: post
 ---
 
 I would like to thank the organizers of the Quantum Leaps Conference
-for inviting me to speak, all of you in advance for listening, and the Coast
+for inviting me to speak.
+<!--  all of you in advance for listening, and the Coast
 Salish peoples---the Squamish,
 Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
-we are situated.
-I'll be sharing a broad and personal perspective on what science is,
+we are situated. -->
+I'm David, a theoretical physicist at UBC, but I'm not going to be
+specifically talking about physics today.
+Instead, I'll be sharing a broad and personal perspective on what science is,
 and what scientists do. But first of all, I'm going to talk about what science
 is *not*, or at least, not primarily.
 
