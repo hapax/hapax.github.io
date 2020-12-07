@@ -959,7 +959,7 @@ So we've produced the second factor, and we didn't "use up" $s_0$
 while we were at it! It simply acted as a control bit and passed
 through.
 We can continue on this fashion, using the controlled operations to
-correct the $m$ digit in the base $a$ expansion,
+correct the $m$th digit in the base $a$ expansion:
 
 $$
 C^m |s_j\rangle = |s_j\rangle C^m(s_j), \quad C^m(s_j) := \mbox{diag}(\omega_a^{ks_j/a^{m}}).
