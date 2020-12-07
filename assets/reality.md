@@ -10,10 +10,10 @@ for inviting me to speak.
 Salish peoples---the Squamish,
 Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
 we are situated. -->
-I'm David, a theoretical physicist at UBC, but I'm not going to be
-specifically talking about physics today.
-Instead, I'll be sharing a broad and personal perspective on what science is,
-and what scientists do. But first of all, I'm going to talk about what science
+<!-- I'm David, a theoretical physicist at UBC, but I'm not going to be
+specifically talking about physics today. -->
+I'm a theoretical physicist, but rather than talking about physics,
+I'll be sharing a broad and personal perspective on what science is, and what scientists do. But first of all, I'm going to talk about what science
 is *not*, or at least, not primarily.
 
 If I ask you to imagine a scientist, one of two stock types is likely
