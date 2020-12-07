@@ -1042,7 +1042,7 @@ And they told you to stop doodling in math class.
 ##### References and acknowledgments
 
 Thanks to Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
-feedback on this tutorial's past lives. Applets were made in
+feedback on this tutorial's prior incarnations. Applets were made in
 [p5.js](https://p5js.org/) and remain regrettably buggy.
 Finally, I'd like to acknowledge Acushla Burden for moral support,
 Yoshua Wakeham and Sarah Alexander for the gracious loan of a man cave, and Hudson
