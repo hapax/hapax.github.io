@@ -976,7 +976,7 @@ performs $\text{QFT}_d$:
 Control bits are indicated by black dots, and $C^m$ by a box labelled with $m$.
 Since this circuit gives the right answer for a basis element of the
 tensor product, by the magic of linearity, it works on the full Hilbert space.
-Technically, the factors are in the wrong order, and to reverse these
+Technically, the final factors are in the wrong order, and to reverse these
 by, e.g., swapping adjacent wires, will take an extra $O(n)^2$ operations.
 The total number of gates required to implement the QFT with this
 circuit is then
