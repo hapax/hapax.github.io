@@ -14,7 +14,7 @@ date:  2020-11-27
    2. <a href="#sec-2-2">Battles of the bases</a>
    3. <a href="#sec-2-3">That's a wrap!</a>
 3. <a href="#sec-3">The Quantum Fourier Transform</a>
-   1. <a href="#sec-3-1">Unhinged inner products</a>
+   1. <a href="#sec-3-1">Getting unhinged</a>
    2. <a href="#sec-3-2">Divide and conquer</a>
    3. <a href="#sec-3-3">Building up to the QFT</a>
 4. <a href="#sec-4">Conclusion</a>
@@ -493,7 +493,7 @@ sections, we'll outline some fun features of the QFT,
 including a neat geometrical interpretation of the Fourier
 coefficients, the advantages of factorization, and algorithmic aspects.
 
-##### 3.1. Unhinged inner products<a id="sec-3-1" name="sec-3-1"></a>
+##### 3.1. Getting unhinged<a id="sec-3-1" name="sec-3-1"></a>
 
 The QFT is, by definition, an active change of basis.
 In the context of linear algebra, it's slightly more natural to think
@@ -501,7 +501,7 @@ of a *passive* change of basis, which finds the coefficients $A_s$ in
 the polygonal basis,
 
 $$
-|\psi\rangle = \sum_k \alpha_k |k\rangle = \sum_s A_s |\chi^s_d\rangle.
+|\psi\rangle = \sum_k \alpha_k |k\rangle =: \sum_s A_s |\chi^s_d\rangle.
 $$
 
 Since $|\chi^s_d\rangle$ is an orthonormal basis, it's easy to extract $A_s$
