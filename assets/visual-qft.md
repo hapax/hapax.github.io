@@ -977,8 +977,7 @@ performs $\text{QFT}_d$:
 As usual, control bits are indicated by black dots, and we indicate
 $C^m$ by a box labelled with $m$.
 This action is defined for a basis element of the tensor product, but
-by the magic of linearity, it extends to the full Hilbert space at no
-extra cost.
+by the magic of linearity, it extends to the full Hilbert space.
 Technically, the factors are in the wrong order, and to reverse these
 by, e.g., swapping adjacent wires, will take $O(n)^2$ operations.
 The total number of gates required to implement the QFT with this
