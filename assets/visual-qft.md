@@ -857,7 +857,7 @@ Instead, we need to laboriously compute individual Fourier coefficients
 $A_{-s}$, replacing $n$ parallelized computations of
 length $O(n)$ with $a^n$ classical coefficients involving $O(an)$
 arithmetical operations.
-The scaling changes to
+This changes the scaling to
 
 $$
 O(a^{n+1}n),
