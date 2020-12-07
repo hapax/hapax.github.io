@@ -876,7 +876,7 @@ For the conventional circuit description, see our final easter egg.
 *Algorithmic easter egg.*
 Although it has the same scaling with $n$, building the initial
 copygon $n$ times is a massive duplication of effort.
-It is more economic to build each factor from scratch. In this
+It is more economic to build each factor from scratch, and in this
 easter egg, we will explain in detail how this construction works.
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
