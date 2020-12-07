@@ -336,7 +336,7 @@ basis, is an interesting problem we leave for another time! -->
 When picturing these regular polygons, there are a few peculiarities
 to keep in mind.
 First, when $s = 0$, all the points lie at $1$.
-This is, in a sense, a sort of degenerate regular polygon where,
+This is a sort of degenerate regular polygon where,
 between each node, we execute a full revolution around the origin:
 
 <figure>
