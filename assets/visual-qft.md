@@ -991,7 +991,7 @@ as we found above.
 Picturing the action of this circuit in terms of polygons is straightforward.
 Instead of *expanding* an initial copygon some number of times, we are
 building a polygon, then *contracting* it and adding a new term in the
-unit place of $s$:
+unit place of $x$:
 
 $$
 s_0 \mapsto 0.s_0 \mapsto s_1.s_0 \mapsto 0.s_1s_0 \mapsto s_2.s_1s_0 \ldots
