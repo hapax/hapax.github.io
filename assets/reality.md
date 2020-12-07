@@ -109,7 +109,8 @@ are going to invent a new branch of math to solve problems in
 the new branch of physics we just created! But Newton's achievements
 are the achievements of an ordinary scientist writ large. He asked
 questions, and with great tenacity, careful observation, and generous
-hints from his predececssors, he answered them. And
+hints from his predececssors---standing on the "shoulders of giants"
+as he put it---he answered them. And
 that's what science is, whether you're studying physics or
 oceanography or the social habits of lemurs, whether you approach
 questions big or small or somewhere in between.
