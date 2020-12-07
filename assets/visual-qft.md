@@ -864,7 +864,8 @@ O(a^{n+1}n),
 $$
 
 which is exponentially worse.
-So we have an exponential quantum speedup!
+Looking at it in glass-half-full way, the quantum computer is
+exponentially faster!
 Although this is a nice heuristic for thinking about the
 $\text{QFT}_d$ and its gate complexity, it is not an
 algorithm, since we haven't actually explained how to implement anything!
