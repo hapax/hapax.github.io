@@ -1043,7 +1043,8 @@ And they told you to stop doodling in math class.
 Thanks to Olivia Di Matteo, Pedro Lopes and Rafael Haenel for
 feedback on this tutorial's past lives. Applets were made in
 [p5.js](https://p5js.org/) and remain regrettably buggy.
-Finally, I'd like to acknowledge Acushla Burden for moral support, and Hudson
+Finally, I'd like to acknowledge Acushla Burden for moral support,
+Yoshua Wakeham and Sarah Alexander for the gracious loan of a man cave, and Hudson
 Michael Laszlo Alexander-Wakeham for informative gurgles at key points.
 
 1. *Quantum Computation and
