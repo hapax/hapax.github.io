@@ -12,9 +12,9 @@ Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
 we are situated. -->
 <!-- I'm David, a theoretical physicist at UBC, but I'm not going to be
 specifically talking about physics today. -->
-I'm a theoretical physicist, but rather than talking about physics,
-I'll be sharing a broad and personal perspective on what science is, and what scientists do. But first of all, I'm going to talk about what science
-is *not*, or at least, not primarily.
+I'm going to be sharing a broad and personal perspective on what
+science is, and what scientists do. But first of all, I'm going to
+talk about what science is *not*.
 
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
@@ -179,16 +179,16 @@ Each of the 19 points in this dot-to-dot is a vast
 thermonuclear furnace, formed millions or billions of years ago from
 collapsing clouds of dust, and with a tortuous life history of its own.
 One of the brightest stars in the constellation is Betelguese, a star so huge that,
-if placed in the centre of our solar system, it would swallow up Jupiter.
+if we put it in the center of our solar system, it would swallow Jupiter.
 Betelguese is a renegade.
 It grew up in a pocket of debris humorously called the OB1
 Association, and perhaps as a result of some Star Wars, it got kicked
 out, and now hurtles through space at 30 km/s.
-As it travels through the interstellar medium (a light
+As it travels through the interstellar medium (which is a light
 sprinkling of hydrogen and other elements) its magnetic field
-dislodges atoms from its path, forming what's called a bow shock, the
+kicks atoms out of the way, forming what's called a bow shock, the
 same way that the prow of a boat creates a wake as it displaces water. 
-The magnetic wake of Betelguese is three times wider than the solar system, and if
+The magnetic wake of Betelguese is three times wider than our solar system, and if
 you happen to have an infrared telescope, it's visible as a brilliant
 curve of light, marking the passage of this lonely ship through the
 deeps of space.
@@ -207,8 +207,8 @@ ask why things fall.
 
 Each star, planet, and organism, each atom of the interstellar
 medium, even empty space itself, each of these moving parts is a constellation to the scientist, a
-dot-to-dot onto which we project scientific images and meanings, and
-which change as new data points become visible and old ones
+dot-to-dot onto which they project scientific images and meanings, and
+which change as new data points become visible or old ones
 dim and disappear.
 For every human culture which has looked up at Orion and seen
 something different, there is a subfield of astronomy or physics or
@@ -221,7 +221,7 @@ us, preferably those told by the objects themselves and woven into the
 world. <!-- Science provides them.; it makes the universe full.-->
 The job of the scientist is to listen and interpret.
 Of course we make errors, we mishear, we misunderstand, or interpret after our own
-biases. But at the end of the day, we come back to what the world is
+bias. But at the end of the day, we come back to what the world is
 trying to tell us; because we care about the underlying stories, the
 process is self-correcting.
 Broadly put, science is the act of falling in love with reality,
