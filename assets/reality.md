@@ -47,8 +47,8 @@ a white guy with a talent for pushing symbols around, neither of which
 is actually a prerequisite!
 Nevertheless, these are narratives about science that can and very
 often do guide career
-decisions, so I would like to tell you a counter-narrative about what
-the prerequisites are, what a scientist does and why they do it.
+decisions, so I would like to tell you some counter-narratives about what
+the prerequisites are. <!-- , what a scientist does and why they do it.-->
 
 Really, the main prerequisites are very simple.
 All you need is the courage to admit you don't know something, and the
@@ -57,15 +57,15 @@ I'll give an example.
 For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated off into the air, thanks to
 the Greek philosopher Aristotle. He told us that different objects
-are made from different elements---earth, water, air, and fire---which
-are heavier or lighter, and therefore move up or down to find
+were made from different elements---earth, water, air, and fire---which
+were heavier or lighter, and therefore moved up or down to find
 their level.
 This explains why the dirt is under our feet, the
 atmosphere is layered over the top of it, and the fiery pinpricks of starlight
 revolve far above.
 
 So, if I take a clod of earth, and let it go, Aristotle says it will
-drop back down to ground because the ground is where it belongs and likes to
+drop back down to the ground because the ground is where it belongs and likes to
 be. That was the accepted view for most of recorded history. But in 1665,
 Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
@@ -80,13 +80,14 @@ he saw fall from a tree.
 earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
 if we believe Aristotle as most other people did, it just wants to find
 its level. That's why it falls down. But the young man---who, as you
-may have guessed by now, was none other than Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
+may have guessed by now, was Isaac Newton---didn't understand this answer. He just didn't get it! What mechanism caused the apple to
 move? What caused it stop? Why did it go to the centre? Why not
 sideways a little? Aristotle didn't say. So Newton had to come up with
 his own explanation. He very sensibly concluded that "assuredly, the earth draws it." In
 other words, the earth pulls the apple towards it. Thus, he continues,
 "there must be a drawing power in matter, and the sum of the drawing
 power in the matter of the earth must be in the earth's center."
+That's why it gets pulled to the center of the earth.
 
 This little observation planted the seed for the most productive year
 any human being has ever had, ever. In 1666, the lazy student
@@ -99,7 +100,7 @@ Now, Newton was smarter than the average bear, but that's not the
 point. The point is that, in order to do any of that, he first needed
 to ask the simple question: why does the apple fall? And he needed to
 admit that he didn't understand Aristotle's answer. And in trying to
-satisfy his own curiosity, he created physics and math as we know them.
+satisfy his own curiosity, he more or less created math and physics as we know them.
 
 The courage to admit you don't know, and the curiosity to ask; these
 are the true prerequisites for being a scientist, not a labcoat or a
