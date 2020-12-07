@@ -864,8 +864,7 @@ O(a^{n+1}n),
 $$
 
 which is exponentially worse.
-Looking at it in glass-half-full way, the quantum computer is
-exponentially faster!
+Or, seeing this glass as half-full, the quantum computer is exponentially better!
 Although this is a nice heuristic for thinking about the
 $\text{QFT}_d$ and its gate complexity, it is not an
 algorithm, since we haven't actually explained how to implement anything.
@@ -877,7 +876,7 @@ For the conventional circuit description, see our final easter egg.
 Although it has the same scaling with $n$, building the initial
 copygon $n$ times is a massive duplication of effort.
 It is more economic to build each factor from scratch, and in this
-easter egg, we will explain in detail how this construction works.
+easter egg, we will explain in detail how.
 Since $d = a^n$ is a power of $a$, it is natural to expand $s$ in base
 $a$:
 
@@ -909,7 +908,7 @@ $$
 |\chi^{s_{(1)}}_{a}\rangle \otimes |\chi^{s_{(0)}}_{a}\rangle.  \label{qft2} \tag{7}
 $$
 
-Recall that the QFT (\ref{qftd}) takes computational basis states to
+Recall that the QFT (\ref{qftd}) takes computational basis states to regular
 polygons. Here, we use the tensor basis, and make the natural
 extension of (\ref{kmn}):
 
@@ -921,7 +920,7 @@ $$
 
 Our goal is now to produce the factors in (\ref{qft2}) from these
 states.
-Let's assume that the operation $\text{QFT}_a$ is a cheap operation,
+Let's assume that the QFT on a module is a cheap operation,
 hardcoded into our quantum computer.
 From the first input state $|s_0\rangle$, we can use this to immediately get
 the first factor (from the right):
@@ -943,9 +942,9 @@ $$
 C^1|s_0\rangle |s_1\rangle = |s_0\rangle C^1(s_0)|s_1\rangle,
 $$
 
-where the matrix $C^1(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$,
-implicitly writing diagonal elements in the computational basis.
-Let's check this works:
+where the matrix $C^1(s_0) = \mbox{diag}(\omega_a^{ks_0/a})$, where
+$k$ labels the diagonal entries.
+Let's check this matrix does what we claim it does:
 
 $$
 \begin{align*}
