@@ -853,8 +853,8 @@ acts on the full Hilbert space at no extra cost.
 By contrast, if we try to perform the QFT on the classical computer,
 we can still use (\ref{qft}) but cannot create a single circuit which
 computes everything at the same time.
-Instead, we need to laboriously compute the Fourier coefficients
-$A_{-s}$ individually, replacing $n$ parallelized computations of
+Instead, we need to laboriously compute individual Fourier coefficients
+$A_{-s}$, replacing $n$ parallelized computations of
 length $O(n)$ with $a^n$ classical coefficients involving $O(an)$
 arithmetical operations.
 The scaling changes to
