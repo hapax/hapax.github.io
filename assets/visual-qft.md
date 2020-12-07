@@ -451,7 +451,7 @@ This identity was first proved by Gauss in his *Disquisitiones Arithmeticae*.
 
 ### 3. The Quantum Fourier Transform <a id="sec-3" name="sec-3"></a>
 
-The purpose of the last section was to introduce a way to draw vectors
+The purpose of the last section was to find a way to draw vectors
 in big Hilbert spaces.
 The computational basis is ill-adapted to this representation, so we
 came up with a new basis which jived better.
