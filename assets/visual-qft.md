@@ -984,7 +984,7 @@ The total number of gates required to implement the QFT with this
 circuit is then
 
 $$
-n + \sum_{j=0}^{n-1} + O(n^2) = \frac{1}{2}n(n+1) + O(n^2) = O(n^2),
+n + \sum_{j=0}^{n-1} j + O(n^2) = \frac{1}{2}n(n+1) + O(n^2) = O(n^2),
 $$
 
 as we found above.
