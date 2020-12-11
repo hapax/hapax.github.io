@@ -163,7 +163,7 @@ Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by the problem of
 snapping spaghetti; mathematician Jean Taylor spent years proving
-results about soap bubbles, and Kenneth Libbrecht wrote a 500-page
+results about soap bubbles, and physicist Kenneth Libbrecht wrote a 500-page
 book about snowflakes. Everything is interesting.
 
 Sometimes, people say that science reduces the world to a bunch of
