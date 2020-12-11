@@ -228,10 +228,10 @@ The job of the scientist is to listen and interpret.
 Of course we make errors, we mishear, we misunderstand, and read our
 own biases into things. But at the end of the day, we come back to what the world is
 trying to tell us. The process is self-correcting because we care about the underlying stories.
-
 Broadly put, science is the act of falling in love with reality,
 listening to its stories, and filling it with meaning.
-And in order to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
+
+So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
