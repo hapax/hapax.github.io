@@ -32,14 +32,14 @@ But whatever its flaws, this stereotype has one saving grace: it's
 democratic. Everyone can aspire to wear a labcoat and look through a microscope.
 
 The second stock type doesn't wear a labcoat,
-and is more likely to be sporting, I don't know, a turtleneck
+and is more likely to be sporting a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
 equations and ideas.
 If we take the stereotype to its logical, or rather pop cultural,
-extreme, they're probably white and male, and confined to a wheelchair, or schizophrenic,
-or possessing an eccentric shock of white hair.
-They are, in other words, scientific genius personified, the Albert
+conclusion, they're probably white and male, and could be confined to
+a wheelchair, or schizophrenic, or possessing a big frizz of white hair.
+In other words, they are scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited to participate in.
 
