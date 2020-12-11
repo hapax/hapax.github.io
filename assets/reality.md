@@ -15,7 +15,7 @@ specifically talking about physics today. -->
 I'm a theoretical physicist. I study string theory and black holes, among
 other things, and I welcome questions about these topics or any other
 topics, including a day in the life, or my path to where I am today.
-Instead of talking about those things, I'm going to be
+But instead of talking about those specific things, I'm going to be
 sharing a broad perspective on what science is, and what scientists
 do. And first of all, I'm going to talk about what science is *not*.
 
