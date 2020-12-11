@@ -151,8 +151,9 @@ This is one of the perks of being a scientist; you are part of a
 human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
 length scale.
-There is nothing more wonderful to a geneticist than a bacterium; to an entomologist, than a puddle of stagnant water; a wildlife
-conservationist, whale poop; and a soft matter theorist, watching
+There is nothing more wonderful to a geneticist than a bacterium; to
+an entomologist, than a puddle of stagnant water; to a wildlife
+conservationist, whale poop; and to a soft matter theorist, watching
 paint dry.
 You get the idea!
 But you don't need to take other people's word for it.
