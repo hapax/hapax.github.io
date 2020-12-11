@@ -67,7 +67,7 @@ This explains why the dirt is under our feet, the
 atmosphere is layered over the top of it, and the fiery pinpricks of starlight
 revolve far above.
 
-So, if I take a clod of earth, and let it go, Aristotle says it will
+If I take a clod of earth, and let it go, Aristotle says it will
 drop back down to the ground because the ground is where it belongs and likes to
 be. That was the accepted view for most of recorded history. But in 1665,
 Cambridge University closed due to fears of the
