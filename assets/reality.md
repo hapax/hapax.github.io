@@ -77,7 +77,7 @@ undistinguished young man, came home, had no more exams to study for,
 no more tests to pass, and nothing better to do that to sit around and
 ask idle questions. One of these idle questions concerned the motion of
 the clod of earth, represented, for the lazy student, by an apple
-he saw fall from a tree.
+he reputedly saw fall from a tree.
 
 "Why should it not go sideways, or upwards? but constantly to the
 earth's centre?" he wondered. Now, the apple is a combination of earth and water, so
