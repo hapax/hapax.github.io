@@ -23,14 +23,13 @@ do. And first of all, I'm going to talk about what science is *not*.
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
 The first type is the industrious labrat, complete with white coat, safety
-goggles, and gloves, maybe peering into a microscope or wielding a
+goggles, and pale blue latex gloves, maybe peering into a microscope or wielding a
 pipette.
 These are the props of a scientist if we believe the
 canonical stereotype, the one we see in films, television, books, and really
 everywhere in popular culture.
-But whatever its flaws, this stereotype has one saving grace: it is
-democratic. Everyone can
-aspire to wear a labcoat and look through a microscope.
+But whatever its flaws, this stereotype has one saving grace: it's
+democratic. Everyone can aspire to wear a labcoat and look through a microscope.
 
 The second stock type doesn't wear a labcoat,
 and is more likely to be sporting, I don't know, a turtleneck
