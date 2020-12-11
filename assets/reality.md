@@ -43,7 +43,7 @@ In other words, they are scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
 of us feel invited into, or able to participate in.
 
-Generally, scientists don't look like either of these pictures. And even
+But in general, scientists don't look like either of these pictures. And even
 when they do, the stereotypes don't tell us what a scientist does, or
 why they do it. All the stereotypes say is that you need to wear a labcoat, or be
 a white guy with a talent for pushing symbols around, neither of which
