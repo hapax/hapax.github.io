@@ -12,9 +12,12 @@ Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
 we are situated. -->
 <!-- I'm David, a theoretical physicist at UBC, but I'm not going to be
 specifically talking about physics today. -->
-I'm going to be sharing a broad and personal perspective on what
-science is, and what scientists do. But first of all, I'm going to
-talk about what science is *not*.
+I'm a theoretical physicist. I study string theory and black holes, among
+other things, and I welcome questions about that afterwards.
+Instead of talking about what I study specifically, I'm going to be
+sharing a broad perspective on what science is, and what scientists
+do. And first of all, I'm going to talk about what science is *not*.
+
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
 The first type is the industrious labrat, complete with white coat, safety
