@@ -225,9 +225,9 @@ the ancient myths prepared us for, we need new stories to orient
 us, preferably those told by the objects themselves and woven into the
 world. <!-- Science provides them.; it makes the universe full.-->
 The job of the scientist is to listen and interpret.
-Of course we make errors, we mishear, we misunderstand, or interpret after our own
-bias. But at the end of the day, we come back to what the world is
-trying to tell us; because we care about the underlying stories, the
+Of course we make errors, we mishear, we misunderstand, and read our
+own biases into things. But at the end of the day, we come back to what the world is
+trying to tell us. Because we care about the underlying stories, the
 process is self-correcting.
 Broadly put, science is the act of falling in love with reality,
 listening to its stories, and filling it with meaning.
