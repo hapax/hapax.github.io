@@ -170,7 +170,7 @@ Sometimes, people say that science reduces the world to a bunch of
 moving parts, to mere cause and effect, and thereby empties it of meaning.
 But I think the opposite is true: it makes it full.
 The 19 stars which form the constellation we call Orion, for instance,
-have a rich history of human interpretation. To the ancient
+have a long and rich history of human interpretation. To the ancient
 Babylonians, these stars represented Anu, the heavenly shepherd and
 chief of the gods; to the ancient Egyptians, it was the destination of the
 pharaoh's spirit after death; it was a giant to the Arab astronomers;
