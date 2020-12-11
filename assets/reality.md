@@ -4,7 +4,7 @@ date:  2020-11-12
 layout: post
 ---
 
-I would like to thank the organizers of the Quantum Leaps Conference
+I would like to thank Sogand and the organizers of the Quantum Leaps Conference
 for inviting me to speak.
 <!--  all of you in advance for listening, and the Coast
 Salish peoples---the Squamish,
@@ -15,7 +15,6 @@ specifically talking about physics today. -->
 I'm going to be sharing a broad and personal perspective on what
 science is, and what scientists do. But first of all, I'm going to
 talk about what science is *not*.
-
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
 The first type is the industrious labrat, complete with white coat, safety
@@ -158,8 +157,9 @@ become interested in everything!
 Einstein wrote a paper about tea
 leaves and river bends; Richard Feynman,
 another famous 20th century physicist, was stumped by the problem of
-snapping spaghetti; and mathematician Jean Taylor devoted much of her
-career to proving results about soap bubbles. Everything is interesting.
+snapping spaghetti; mathematician Jean Taylor spent years proving
+results about soap bubbles, and Kenneth Libbrecht wrote a 500-page
+book about snowflakes. Everything is interesting.
 
 Sometimes, people say that science reduces the world to a bunch of
 moving parts, to mere cause and effect, and thereby empties it of meaning.
