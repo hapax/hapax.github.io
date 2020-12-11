@@ -207,7 +207,7 @@ total number of stars in the galaxy, and our galaxy is one of
 billions. Like the sun, we expect most of these stars to have planets,
 and for some of these planets to have their own inhabitants, and for
 some of these inhabitants to form their own stories and pictures from
-the bright stars in their vicinity. Perhaps, every now and again, they
+the bright stars in their vicinity. And perhaps, every now and again, they
 ask why things fall.
 
 Each star, planet, and organism, each atom of the interstellar
