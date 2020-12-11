@@ -41,7 +41,7 @@ conclusion, they're probably white and male, and could be confined to
 a wheelchair, or schizophrenic, or possessing a big frizz of white hair.
 In other words, they are scientific genius personified, the Albert
 Einsteins and Stephen Hawkings and John Nashs. This is not a role most
-of us feel invited to participate in.
+of us feel invited into, or able to participate in.
 
 Generally, scientists don't look like either of these pictures. And even
 when they do, the stereotypes don't tell us what a scientist does, or
