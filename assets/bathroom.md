@@ -84,6 +84,17 @@ call a "jellyfish":
 	</div>
 	</figure>
 
+The dark part we can explain using the concave dip as above, but what
+about the white tail of the jellyfish?
+This suggests that the hair is pulling the water up with it.
+This doesn't make sense if we interpret the surface as an unbroken
+membrane.
+Rather, it seems as if the hair has some
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair5.png"/>
+	</div>
+	</figure>
 
 #### Drawing the curtain
