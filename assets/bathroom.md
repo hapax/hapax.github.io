@@ -98,7 +98,7 @@ A more reasonable picture is the following largely convex lump:
 	</figure>
 
 Once again, the hair in this position will be subject to a force equal
-to the weight of the water pulled up, which I am supplying by
-suspending one end in the air.
+to the weight of the water pulled up. I counteract that force with my
+own, by suspending one end in the air.
 
 #### Drawing the curtain
