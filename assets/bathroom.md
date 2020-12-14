@@ -7,7 +7,7 @@ categories: [Physics]
 date:  2020-12-13
 ---
 
-**December13, 2029.** *A short post on two fun forms of bathroom
+**December13, 2029.** *A short, equation-free post on two items of bathroom
   physics: the shadow cast by hair on water, and the tendency of
   shower curtains to billow out during use.*
 
@@ -72,5 +72,7 @@ We draw a cartoon below:
     ="/images/posts/hair3.png"/>
 	</div>
 	</figure>
+
+In principle, that's the end of the story, but there are a couple 
 
 #### Drawing the curtain
