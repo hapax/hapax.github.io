@@ -7,8 +7,8 @@ categories: [Physics]
 date:  2020-12-13
 ---
 
-**December13, 2029.** *A short, equation-free post on two items of bathroom
-  physics: the shadow cast by hair on water, and the tendency of
+**December13, 2029.** *A short, equation-free post on two bathroom
+  phenomena with surprising physical explanations: the shadow cast by hair on water, and the tendency of
   shower curtains to billow out during use.*
 
 #### A follicular folly
