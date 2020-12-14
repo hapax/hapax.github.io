@@ -58,7 +58,7 @@ In other words,
 The force on an object supported by surface tension is the weight of displaced water.
 </span>
 
-Now we can understand why the hair casts the shadow it does.
+Now we can explain the odd shadow.
 The dip creates a concave lens which makes the light diverge, leading
 to a larger shadow.
 To return to a flat, level surface, it must undo some of the concave
