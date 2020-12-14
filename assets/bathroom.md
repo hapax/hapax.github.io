@@ -30,6 +30,13 @@ The molecules at the surface of the water are more strongly attracted
 to each other than the molecules in the middle, since they have
 nothing to attach to above.
 So they form a sort of elastic membrane on which the hair can sit.
+Often, the explanations of how surface tension works are confusing
+and wrong.
+If the membrane is unbroken, how can it pull on an object?
+Basically, it's a spring, and stretching it will produce a restoring
+force along the spring.
+This can generate an upwards force on the object if it sits in a dip,
+as the angled arrows indicate below.
 
 <figure>
     <div style="text-align:center"><img src
