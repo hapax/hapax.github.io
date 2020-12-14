@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Bathroom physics: the curious case of Coandă's curtain"
+title:  "Bathroom physics: the case of the contrary curtain"
 categories: [Physics, Everyday]
 date:  2020-12-14
 ---
