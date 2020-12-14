@@ -55,8 +55,7 @@ turns out to precisely equal the effects of surface tension.
 In other words,
 
 <span style="padding-left: 20px; display:block">
-The total force on an object supported by surface tension is the
-weight of displaced water.
+The force on an object supported by surface tension is the weight of displaced water.
 </span>
 
 Now we can understand why the hair casts the shadow it does.
@@ -65,7 +64,8 @@ to a larger shadow.
 To return to a flat, level surface, it must undo some of the concave
 curvature with some convex curvature at the edges.
 This is what causes the bright fringe for the larger shadow.
-We draw a cartoon below:
+We draw a cartoon below, with edges of the concave and convex sections
+represented by dots:
 
 <figure>
     <div style="text-align:center"><img src
@@ -73,6 +73,6 @@ We draw a cartoon below:
 	</div>
 	</figure>
 
-In principle, that's the end of the story, but there are a couple 
+But 
 
 #### Drawing the curtain
