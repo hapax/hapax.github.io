@@ -137,4 +137,24 @@ The water will form a sort of reverse meniscus around the hair:
 	</div>
 	</figure>
 
+Since there is no up or down force, the volume of water above the
+water line should balance the water below the hair.
+
+If the contact angle is greater than $90^\circ$, and the hair is
+hydrophobic, then it will form a convex lens and create a bright spot.
+If the contact angle is less than $90^\circ$, and the hair is
+hydrophilic, it will form a concave lens make a larger dark shadow.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair8.png"/>
+	</div>
+	</figure>
+
+The experiment reveals a bright spot, suggesting the hair is
+hydrophobic! For confirmation, I looked for the contact angle online
+and found that, according to the industrial scientists who design
+shampoo, it has a contact angle of around $\theta \approx 100^\circ$,
+though it varies depending on the colour and age of hair.
+
 #### Drawing the curtain
