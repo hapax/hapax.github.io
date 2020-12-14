@@ -26,6 +26,15 @@ I decided to investigate after my brother asked me why it happens.
 	</figure>
 
 The short answer is surface tension.
-To support the weight of the hair, the 
+The molecules at the surface of the water are more strongly attracted
+to each other than the molecules in the middle, since they have
+nothing to attach to above.
+So they form a sort of elastic membrane on which the hair can sit.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair2.png"/>
+	</div>
+	</figure>
 
 #### Drawing the curtain
