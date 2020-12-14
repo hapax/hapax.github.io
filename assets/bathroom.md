@@ -73,6 +73,16 @@ represented by dots:
 	</div>
 	</figure>
 
-But 
+But this isn't the end of the story. I noticed that if I dipped one
+end of the hair into the water, and let it emerge, I got a very
+peculiar shadow I call a "jellyfish":
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair4.png"/>
+	</div>
+	</figure>
+
+
 
 #### Drawing the curtain
