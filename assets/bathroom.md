@@ -7,9 +7,9 @@ categories: [Physics]
 date:  2020-12-13
 ---
 
-**December13, 2029.** *A short post on two physical phenomena I have observed
-  in the bathroom: the shadow cast by hair on water, and the tendency
-  of shower curtains to billow out during use.*
+**December13, 2029.** *A short post on two fun forms of bathroom
+  physics: the shadow cast by hair on water, and the tendency of
+  shower curtains to billow out during use.*
 
 #### A follicular folly
 
@@ -26,6 +26,6 @@ I decided to investigate after my brother asked me why it happens.
 	</figure>
 
 The short answer is surface tension.
-To stop the hair from 
+To support the weight of the hair, the 
 
 #### Drawing the curtain
