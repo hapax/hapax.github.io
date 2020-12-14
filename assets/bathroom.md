@@ -36,11 +36,40 @@ If the membrane is unbroken, how can it pull on an object?
 Basically, it's a spring, and stretching it will produce a restoring
 force along the spring.
 This can generate an upwards force on the object if it sits in a dip,
-as the angled arrows indicate below.
+as the angled arrows indicate below left.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hair2.png"/>
+	</div>
+	</figure>
+
+But when we displace water, as in this dip, buoyancy forces due to the
+weight of displaced water trying to push its way back also play a
+role.
+They provide an upward force, also shown above left.
+The force due to buoyancy is the volume of the hair beneath the water
+level (the dotted line above right).
+But we have displaced some extra water, shown in purple, and this
+turns out to precisely equal the effects of surface tension.
+In other words,
+
+<span style="padding-left: 20px; display:block">
+The total force on an object supported by surface tension is the
+weight of displaced water.
+</span>
+
+Now we can understand why the hair casts the shadow it does.
+The dip creates a concave lens which makes the light diverge, leading
+to a larger shadow.
+To return to a flat, level surface, it must undo some of the concave
+curvature with some convex curvature at the edges.
+This is what causes the bright fringe for the larger shadow.
+We draw a cartoon below:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair3.png"/>
 	</div>
 	</figure>
 
