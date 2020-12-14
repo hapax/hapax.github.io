@@ -5,13 +5,6 @@ title: Posts by category
 ---
 
 Search blog posts by category.
-
-
- <h3>Hacks</h3>
- 
-{% for post in site.categories.Hacks %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
 	
 <h3>Physics</h3>
 
@@ -25,15 +18,21 @@ Search blog posts by category.
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
+ <h3>Hacks</h3>
+ 
+{% for post in site.categories.Hacks %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ {% endfor %}
+
+ <h3>Everyday</h3>
+ 
+{% for post in site.categories.Everyday %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+ 
 <h3>Philosophy</h3>
  
 {% for post in site.categories.Philosophy %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- <h3>Literature</h3>
- 
-{% for post in site.categories.Literature %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
