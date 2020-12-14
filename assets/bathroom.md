@@ -2,16 +2,21 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The scrubland manifesto"
-categories: [Maths, Teaching, Hacks]
-date:  2019-09-04
+title:  "Bathroom physics"
+categories: [Physics]
+date:  2020-12-13
 ---
 
-**September 04, 2019.** *In the 21st century, mathematical
-  skills are more important than ever before, but high school maths
-  classes are dull, alienating and disempower students. How do we improve them, and plug some
-  of the holes in the pipeline? I propose we make maths interesting! I illustrate the approach for teaching derivatives.*
+**December13, 2029.** *A short post on two physical phenomena I have observed
+  in the bathroom: the shadow cast by hair on water, and the tendency
+  of shower curtains to billow out during use.*
 
-### Contents
+#### A follicular folly
 
-1. <a href="#sec-1">Introduction</a>
+Place a human hair on a body of water in a well-lit bathroom.
+Any part of the hair which pierces the water will cast an ordinary geometric shadow.
+But any part that floats on the surface will cast a strangely large
+shadow, surrounded by bright fringes.
+My brother asked me why this happens, so I decided to investigate.
+
+#### Drawing the curtain
