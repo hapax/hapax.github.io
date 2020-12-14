@@ -100,5 +100,41 @@ A more reasonable picture is the following largely convex lump:
 Once again, the hair in this position will be subject to a force equal
 to the weight of the water pulled up. I counteract that force with my
 own, by suspending one end in the air.
+So have been missing a piece of physics: the attraction between the
+water and the substance (keratin) making the hair.
+This leads to an angle of contact between the hair and the water, most
+convenient to visualise by placing a drop of water on a surface of
+hair (rather than the other way round):
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair6.png"/>
+	</div>
+	</figure>
+
+Our earlier pictures with the unbroken membrane assume the contact
+angle is $\theta = 180^\circ$, corresponding to a droplet with an
+unbroken surface, as above.
+In general, a surface with $90^\circ < \theta < 180^\circ$ is said to
+be hydrophobic, or "water-fearing".
+A material with $\theta < 90^\circ$ is hydrophilic, or "water-loving".
+In the extreme limit of $\theta = 0^\circ$, the drop completely
+spreads out over the surface, as we would expect for a maximally
+hydrophilic material.
+
+Let's return to our follicular focus.
+The jellyfish tells us that the contact angle for hair is smaller than
+$180^\circ$.
+To tell whether it's hydrophilic or hydrophic, we can conduct a simple
+experiment.
+If we place the hair vertically into the water, we are doing some
+similar to our contact angle picture.
+The water will form a sort of reverse meniscus around the hair:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair7.png"/>
+	</div>
+	</figure>
 
 #### Drawing the curtain
