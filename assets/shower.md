@@ -18,9 +18,8 @@ and the house was not particularly drafty, so I began to wonder if
 there was another explanation.
 Before I left the shower, I had arrived at a hypothesis: the hot water
 of the shower is lighter than the cold air outside, so it rises over
-the top of the shower curtain, cools, and compresses the cold air
-outside.
-The pressure difference sucks the cold air in under the curtain.
+the top of the shower curtain, cools, and pushes the column of cold
+air down. The bottom of this column slips in under the curtain.
 
 I mentioned this to my partner, who said she had observed the same
 effect in a *cold* shower.
