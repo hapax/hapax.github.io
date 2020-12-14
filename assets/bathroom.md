@@ -17,6 +17,15 @@ Place a human hair on a body of water in a well-lit bathroom.
 Any part of the hair which pierces the water will cast an ordinary geometric shadow.
 But any part that floats on the surface will cast a strangely large
 shadow, surrounded by bright fringes.
-My brother asked me why this happens, so I decided to investigate.
+I decided to investigate after my brother asked me why it happens.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/hair1.png"/>
+	</div>
+	</figure>
+
+The short answer is surface tension.
+To stop the hair from 
 
 #### Drawing the curtain
