@@ -89,12 +89,16 @@ about the white tail of the jellyfish?
 This suggests that the hair is pulling the water up with it.
 This doesn't make sense if we interpret the surface as an unbroken
 membrane.
-Rather, it seems as if the hair has some
+A more reasonable picture is the following largely convex lump:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/hair5.png"/>
 	</div>
 	</figure>
+
+Once again, the hair in this position will be subject to a force equal
+to the weight of the water pulled up, which I am supplying by
+suspending one end in the air.
 
 #### Drawing the curtain
