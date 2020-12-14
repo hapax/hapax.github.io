@@ -37,9 +37,9 @@ with the centripetal force due to a pressure difference.
 #### The Coandă effect
 
 Schmidt's explanation is appealing exotic.
-But it is hard for the ordinary person to test.
-More surprisingly, there is another mechanism which seems just as
-important
+But it is hard for the ordinary person to test, and there is another
+mechanism which seems just as important, and leads to a surprising
+analogy between shower curtains and plane wings.
 
 #### References
 
