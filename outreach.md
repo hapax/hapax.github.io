@@ -24,6 +24,10 @@ permalink: /outreach/
 (2020). A video for Vancouver's
 [Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
 physics and what a day in the life looks like.
+- [*Black holes and the information paradox*](assets/tnn.pdf)
+  (2020). What happens if you drop your homework into a black hole?
+  An experiment using bits and buckets, carried out at the inaugural
+  Teen Nerd Nite.
 
 #### "Hard" outreach
 
@@ -36,10 +40,6 @@ physics and what a day in the life looks like.
   (2020). Who said you couldn't minimise without calculus? A low-tech
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
   tessellations, time travel and climate change.
-- [*Black holes and the information paradox*](assets/tnn.pdf)
-  (2020). What happens if you drop your homework into a black hole?
-  An experiment using bits and buckets, carried out at the inaugural
-  Teen Nerd Nite.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/)
   (2020). A long blog post to how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
