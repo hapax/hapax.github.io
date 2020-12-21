@@ -17,7 +17,7 @@ permalink: /outreach/
 
 #### Outreach
 
-- [*Counternarratives for young scientists*](assets/reality) (2020). A
+- [*Counternarratives for young scientists*](https://hapax.github.io/assets/reality) (2020). A
   short address given at the Quantum Leaps Conference, a
   STEAM-oriented conference for Vancouver high school students.
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
@@ -63,7 +63,7 @@ physics and what a day in the life looks like.
 
 #### Teaching and course development
 
-- [*A visual approach to the quantum Fourier transform*](assets/visual-qft)
+- [*A visual approach to the quantum Fourier transform*](https://hapax.github.io/assets/visual-qft)
   (2020). An elementary, geometric approach to representing vectors in
   higher-dimensional spaces, which pays off with the quantum Fourier transform!
 - *An introduction to quantum computing* (2020). [Various assignments](assets/big-qc.pdf) for a graduate
