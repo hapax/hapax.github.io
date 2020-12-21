@@ -17,6 +17,9 @@ permalink: /outreach/
 
 #### Outreach
 
+- [*Counternarratives for young scientists*](assets/reality) (2020). A
+  short address given at the Quantum Leaps Conference, a
+  STEAM-oriented conference for Vancouver high school students.
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
@@ -60,10 +63,9 @@ physics and what a day in the life looks like.
 
 #### Teaching and course development
 
-<!-- - [*A visual approach to the quantum Fourier transform*](assets/visual-qft)
+- [*A visual approach to the quantum Fourier transform*](assets/visual-qft)
   (2020). An elementary, geometric approach to representing vectors in
-  higher-dimensional spaces, which pays off with the quantum Fourier -->
-<!-- transform! -->
+  higher-dimensional spaces, which pays off with the quantum Fourier transform!
 - *An introduction to quantum computing* (2020). [Various assignments](assets/big-qc.pdf) for a graduate
   course in the works at UBC.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
