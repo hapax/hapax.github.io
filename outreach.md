@@ -20,6 +20,13 @@ permalink: /outreach/
 - [*Counternarratives for young scientists*](https://hapax.github.io/assets/reality) (2020). A
   short address given at the Quantum Leaps Conference, a
   STEAM-oriented conference for Vancouver high school students.
+  - [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
+(2020). A video for Vancouver's
+[Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
+physics and what a day in the life looks like.
+
+---
+
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
@@ -29,10 +36,6 @@ permalink: /outreach/
   (2020). Who said you couldn't minimise without calculus? A low-tech
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
   tessellations, time travel and climate change.
-- [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
-(2020). A video for Vancouver's
-[Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
-physics and what a day in the life looks like.
 - [*Black holes and the information paradox*](assets/tnn.pdf)
   (2020). What happens if you drop your homework into a black hole?
   An experiment using bits and buckets, carried out at the inaugural
