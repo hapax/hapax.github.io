@@ -72,8 +72,7 @@ physics and what a day in the life looks like.
 - *An introduction to quantum computing* (2020). [Various assignments](assets/big-qc.pdf) for a graduate
   course in the works at UBC.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
-  (2016). I wrote tutorials on
-  [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
+  (2016). Tutorials on [classical mechanics]({{hapax.github.io}}/assets/classical-tutes-full.pdf)
   and
-  [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf)
-  for a second-year honours course in physics, as well as assignments on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
+  [Fourier analysis]({{hapax.github.io}}/assets/fourier-tutes-full.pdf). Assignments
+  on [higher-dimensional donuts]({{hapax.github.io}}/assets/physical-systems-a2.pdf) and [surfing]({{hapax.github.io}}/assets/physical-systems-a3.pdf).
