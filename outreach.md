@@ -25,7 +25,7 @@ permalink: /outreach/
 [Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
 physics and what a day in the life looks like.
 
----
+#### "Hard" outreach
 
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
