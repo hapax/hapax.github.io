@@ -18,7 +18,7 @@ permalink: /outreach/
 #### Outreach
 
 - [*Counternarratives for young scientists*](https://hapax.github.io/assets/reality) (2020). A
-  short address given at the Quantum Leaps Conference, a
+  short address given at Quantum Leaps, a
   STEAM-oriented conference for Vancouver high school students.
 - [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
 (2020). A video for Vancouver's
