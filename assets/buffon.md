@@ -40,4 +40,11 @@ $$
 
 It's easy to see that, assuming a uniform distribution for the lower endpoint and the angle, the probability is just the area of the region
 below the line $y \leq \ell \sin \theta$, divided by the total area of the rectangle, $\pi D$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon2.png"/>
+	</div>
+	</figure>
+
 The area below the region is given by
