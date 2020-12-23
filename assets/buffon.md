@@ -7,7 +7,10 @@ categories: [Maths, Hacks]
 date:  2020-12-23
 ---
 
-**December 23, 2020.** *A short post on Buffon's needle, a curved
-extension, and a surprising implication called Barbier's theorem.*
+**December 23, 2020.** *Buffon asked how likely it is that a randomly
+  thrown needle will cross a line on ruled paper. Barbier's elementary
+  solution is well-known, but less well-known is the elementary
+  extension to noodles, and a simple consequence for funny shaped
+  wheels or "woodles".*
 
 
