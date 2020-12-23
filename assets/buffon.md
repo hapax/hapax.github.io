@@ -24,6 +24,13 @@ Following
 [Joseph-Émile Barbier](https://en.wikipedia.org/wiki/Joseph-%C3%89mile_Barbier),
 we can split the randomness into two parts: the vertical position $y$ of the
 needle's lower end, and it's angle to the horizontal, $\theta$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon1.png"/>
+	</div>
+	</figure>
+
 We therefore take $y \in [0, D)$, and $\theta \in [0, \pi)$.
 To see what the probability of hitting a line is, we note that the lower end of the needle will reach the upper line provided
 
@@ -34,9 +41,3 @@ $$
 It's easy to see that, assuming a uniform distribution for the lower endpoint and the angle, the probability is just the area of the region
 below the line $y \leq \ell \sin \theta$, divided by the total area of the rectangle, $\pi D$.
 The area below the region is given by
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/buffon1.png"/>
-	</div>
-	</figure>
