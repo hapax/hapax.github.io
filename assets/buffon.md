@@ -51,10 +51,10 @@ The area $A$ below the line (green) can be calculated using calculus:
 
 $$
 \int_0^{\pi} \ell \sin \theta \, \text{d}\theta = \left[-\ell \cos\theta\right]^\pi_0
-= 2\ell.
+= \ell (\cos 0 - \cos \pi) = 2\ell.
 $$
 
-However, there is another way to see this without using calculus.
+There is another way to see this without using calculus.
 Thus, the probability of intersecting a line is
 
 $$
