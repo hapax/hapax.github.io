@@ -38,7 +38,7 @@ $$
 y \leq \ell \sin \theta.
 $$
 
-It's easy to see that, assuming a uniform distribution for the lower endpoint and the angle, the probability is just the area of the region
+It's easy to see that, assuming the parameters $(\theta, y)$ for the random throw take a uniform distribution in the rectangle below, the probability is just the area of the region
 below the line $y \leq \ell \sin \theta$, divided by the total area of the rectangle, $\pi D$.
 
 <figure>
@@ -47,4 +47,15 @@ below the line $y \leq \ell \sin \theta$, divided by the total area of the recta
 	</div>
 	</figure>
 
-The area below the region is given by
+The area $A$ below the line (green) can be calculated using calculus:
+
+$$
+\int_0^{\pi} \ell \sin \theta \, \text{d}\theta = \left[-\ell \cos\theta\right]^\pi_0
+= 2\ell.
+$$
+
+Thus, the probability of intersecting a line is
+
+$$
+P = \frac{2\ll}{\pi D}.
+$$
