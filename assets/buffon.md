@@ -54,6 +54,7 @@ $$
 = 2\ell.
 $$
 
+However, there is another way to see this without using calculus.
 Thus, the probability of intersecting a line is
 
 $$
