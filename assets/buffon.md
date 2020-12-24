@@ -155,9 +155,8 @@ $$
 \langle N \rangle = \frac{2\ell}{\pi D}.
 $$
 
-The extension of Buffon's needle to Buffon's noodle, and the brilliant
-pun, are (to the best of my knowledge) both due to
-[J. F. Ramaley](http://web1.sph.emory.edu/users/hwu30/teaching/statcomp/papers/ramaley.Buffon.69.pdf).
+This result is also due to Barbier. but credit for "Buffon's noodle"
+goes to [J. F. Ramaley](http://web1.sph.emory.edu/users/hwu30/teaching/statcomp/papers/ramaley.Buffon.69.pdf).
 
 #### Random noodles and polymers
 
@@ -252,4 +251,13 @@ P = \frac{2 \ell}{\pi D} = 2 \quad \Longrightarrow \quad \ell = \pi D.
 $$
 
 This result is called *Barbier's theorem*.
+Constant width surfaces are fun because they can replace circles as
+wheels, at least if they are allowed to simply roll along underneath a
+flat surface, a bit like logs used
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon6.png"/>
+	</div>
+	</figure>
 
