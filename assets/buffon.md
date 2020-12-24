@@ -201,10 +201,11 @@ $$
 
 In physical examples like a polymer, however, it's more realistic to
 treat $\lambda$ as a finite
-[persistence length](https://en.wikipedia.org/wiki/Persistence_length).
+[persistence length](https://en.wikipedia.org/wiki/Persistence_length)
+(or technically [Kuhn length](https://en.wikipedia.org/wiki/Kuhn_length)).
 It's amusing that throwing chains of DNA or polyethylene onto a ruled
 surface and counting crossings provides a means (albeit fanciful) of
-measuring persistence length.
+probing these microscopic properties.
 
 #### Wheels and woodles
 
