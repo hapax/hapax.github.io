@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Needles, noodles, wheels and woodles"
+title:  "Needles, noodles, and woodles"
 categories: [Maths, Hacks]
 date:  2020-12-23
 ---
@@ -94,7 +94,38 @@ $$
 
 #### Long needles and noodles
 
-The above reasoning only works for short needles, with $\ell < D$.
-Otherwise, the green curve will exceed the grey rectangle, and we have
-"cut off" the corresponding area.
-This involves a similar integral, but the answer is ugly.
+The above reasoning only works for short needles ($\ell < D$).
+When $\ell > D$, the green curve will exceed the grey rectangle, and
+the part outside does not contribute to the probability.
+We can calculate its area and subtract, but its a bit tedious.
+Let's see what we can do with the result we already have.
+First, we can reformulate it a little.
+Let $N$ be the number of times a short needle hits a line.
+Our work above shows that the *expectation* is
+
+$$
+\langle N \rangle = 0 \cdot P(N = 0) + 1 \cdot P(N = 1) = P(N = 1) = \frac{2\ell}{\pi D}.
+$$
+
+Let's now consider a long needle, with $\ell > D$.
+We can break it into some number of segments, say $n$, such that each is
+shorter than $D$, with length $\ell_i$.
+Let $N_i$, $i = 1, 2, \ldots, n$, label the number of times that
+segment $i$ hits a line, and $N$ the *total* number of lines that the
+long needle hits.
+Then we have
+
+$$
+N = N_1 + N_2 + \cdots + N_n,
+$$
+
+and hence, by the linearity of averages and our results for short
+needles,
+
+$$
+\langle N \rangle = \langle N_1\rangle + \langle N_2 \rangle +
+\cdots + \langle N_n \rangle = \frac{2\ell_1}{\pi D} +
+\frac{2\ell_2}{\pi D} + \cdots + \frac{2\ell_n}{\pi D}.
+$$
+
+But this is just the total lengt 
