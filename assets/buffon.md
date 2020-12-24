@@ -10,7 +10,7 @@ date:  2020-12-23
 **December 23, 2020.** *Buffon asked how likely it is that a randomly
   thrown needle will cross a line on ruled paper. Barbier's elementary
   solution is well-known, but less well-known is the elementary
-  extension to noodles, and a simple consequence for funny shaped
+  extension to noodles, random noodles, and a simple consequence for funny shaped
   wheels or "woodles".*
 
 #### Buffon's needle
@@ -136,27 +136,43 @@ $$
 So what do you know! The formula for the expected number of
 crossings is the same, even though the probabilities will change
 (the longer needle can hit multiple lines for instance).
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon4.png"/>
+	</div>
+	</figure>
+
 But something even more remarkable is true.
 This result was independent of the relative orientation of the
-segment, so it holds for an any curve in the plane, such as a
-twisty-turny noodle. The result
+segment, so it holds for a chain of line segments which twists and
+turns.
+And in fact, we can take the limit of $n \to \infty$, so that our
+curve becomes *smooth*, and the result doesn't change.
+We conclude that, for an arbitrary plane curve of length $\ell$ (such
+as a noodle), the expected number of crossings is
 
 $$
-\langle N \rangle = \frac{2\ell}{\pi D}
+\langle N \rangle = \frac{2\ell}{\pi D}.
 $$
 
-for an arbitrary curve of length $\ell$ is called *Buffon's noodle*.
+Some wag called this *Buffon's noodle*.
 
 #### Random noodles
 
-In general, for a fixed curve the probabilities will be related in a
-complicated way.
-But we can also consider a noodle which is randomly generated as a
-*random walk*.
-Physically, this would give the expected number of crossings for a
-polymer.
-
-\langle N^2 \rangle = \langle\rangle
+Although the expected number of crossings is easy, in general, for a
+fixed curve the actual probability distribution for $N$ is complicated.
+But things simplify for a *random noodle* made of independent random
+steps.
+A physical example is a polymer, the long jointed molecules making up
+plastics or DNA, or the path traced out in time by particles in a fluid.
+Suppose the noodle is made from $n$ straight segments of length
+$\ell_i < D$ and total length $\ell$.
+Then each segment represents an independent "trial", and the joint
+distribution is multinomial.
+In the special case that the step lengths are the same, $\ell_i =
+\lambda$, then the number of crossings obeys a binomial distribution
+$\mathcal{B}(n, P)$ for $P = 2\ell/\pi D$.
 
 #### Wheels and woodles
 
