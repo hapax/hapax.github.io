@@ -273,4 +273,18 @@ $\pi/3$ of a circular arc.
 The width is simply the side length of the triangle $D$, and we are
 dragging out $(\pi/3) D$ a total of three times, so the perimeter
 $\ell = \pi D$ as expected.
-We can generalize this 
+
+I could write a whole post on this shape and its many uses (and maybe
+I will!), but to finish off, I'm going to briefly mention that the
+Reuleaux construction can be generalized to an odd-sided regular
+$s$-gon, replacing sides with arcs of a circle pivoting around the
+opposite corner.
+If it's even sided, the arcs you attempt to draw will lie inside the
+polygon, but for odd, the width is simply the side length $D$ of the
+polygon, and the same reasoning shows that we draw arcs of length
+$(\pi/s)D$ a total of $s$ times, so $\ell = \pi D$.
+The primary application of these constant-width Reuleaux polygons is
+to coins, since coin-operated machines only use the constant-width
+property.
+So, fun little piece of mathematical Canadiana: the loonie is a
+regular Reuleaux 11-gon!
