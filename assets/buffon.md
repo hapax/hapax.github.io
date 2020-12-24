@@ -212,8 +212,8 @@ $$
 $$
 
 There are various impracticalities with these scheme, but we won't let
-that spoil the amusing application of Buffon's noodle to the
-microscopics of polymers.
+that spoil our amusing application of Buffon's noodle to the
+microphysics of polymers.
 
 #### Wheels and woodles
 
