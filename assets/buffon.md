@@ -151,7 +151,8 @@ for an arbitrary curve of length $\ell$ is called *Buffon's noodle*.
 
 In general, for a fixed curve the probabilities will be related in a
 complicated way.
-But we can also consider a noodle which is randomly generated as a *random walk*.
+But we can also consider a noodle which is randomly generated as a
+*random walk*.
 Physically, this would give the expected number of crossings for a
 polymer.
 
