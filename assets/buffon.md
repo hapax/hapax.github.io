@@ -156,7 +156,9 @@ $$
 \langle N \rangle = \frac{2\ell}{\pi D}.
 $$
 
-Some wag called this *Buffon's noodle*.
+The extension of Buffon's needle to Buffon's noodle, and the brilliant
+pun, are (to the best of my knowledge) both due to
+[J. F. Ramaley](http://web1.sph.emory.edu/users/hwu30/teaching/statcomp/papers/ramaley.Buffon.69.pdf).
 
 #### Random noodles
 
