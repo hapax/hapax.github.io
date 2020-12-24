@@ -159,7 +159,7 @@ The extension of Buffon's needle to Buffon's noodle, and the brilliant
 pun, are (to the best of my knowledge) both due to
 [J. F. Ramaley](http://web1.sph.emory.edu/users/hwu30/teaching/statcomp/papers/ramaley.Buffon.69.pdf).
 
-#### Random noodles and microscopes
+#### Random noodles and polymers
 
 Although the expected number of crossings is easy, in general, for a
 fixed curve the actual probability distribution for $N$ is complicated.
@@ -211,7 +211,7 @@ $$
 \lambda = \frac{\pi D}{2}\left(1 - \frac{\bar{\sigma}^2}{\bar{\mu}}\right).
 $$
 
-There are various impracticalities with these scheme, but we won't let
+There are various impracticalities with this scheme, but we won't let
 that spoil our amusing application of Buffon's noodle to the
 microphysics of polymers.
 
@@ -236,12 +236,11 @@ But we can go in the other direction.
 Suppose that a shape has constant width $D$, so however it is
 oriented, it has exactly two crossings when lines are ruled with
 spacing $D$.
-Then
+Then the perimeter $\ell$ is twice the width:
 
 $$
-P = \frac{2 \ell}{\pi D} = 2 \quad \Longrightarrow \quad \ell = \pi D,
+P = \frac{2 \ell}{\pi D} = 2 \quad \Longrightarrow \quad \ell = \pi D.
 $$
 
-and the perimeter $\ell$ is twice the width. This result is called
-*Barbier's theorem*.
+This result is called *Barbier's theorem*.
 
