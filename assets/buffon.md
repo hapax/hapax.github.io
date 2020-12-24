@@ -205,14 +205,15 @@ treat $\lambda$ as a finite
 [Kuhn length](https://en.wikipedia.org/wiki/Kuhn_length)).
 Throwing the chains many times gives a fanciful means of estimating
 persistance length, since after many trials, the sample mean
-$\bar{\mu}$ and sample variance $\bar{\sigma^2}$ obey
+$\bar{\mu}$ and sample variance $\bar{\sigma}^2$ obey
 
 $$
-\lambda = \frac{\pi D}{2}\left(1 - \frac{\bar{\sigma^2}}{\bar{\mu}}\right).
+\lambda = \frac{\pi D}{2}\left(1 - \frac{\bar{\sigma}^2}{\bar{\mu}}\right).
 $$
 
-There are various impractilities with these scheme, but let's not let
-that spoil the amusing microscopic application of Buffon's noodle.
+There are various impracticalities with these scheme, but we won't let
+that spoil the amusing application of Buffon's noodle to the
+microscopics of polymers.
 
 #### Wheels and woodles
 
