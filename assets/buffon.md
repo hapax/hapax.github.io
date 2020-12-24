@@ -224,8 +224,17 @@ However you choose to orient it, it will have a width of $2r$, in the
 sense that you cannot pass it through a gap any smaller, and you can
 always pass it through a wider gap.
 If we happen to rule lines at a distance of $D = 2r$, then a randomly
-thrown circle will have exactly two crossings.
-To check with our previous noodle result, note that the expected
+thrown circle will have exactly two crossings, with the same line
+piercing the circle twice, or two lines just tangent to the circle at
+the top and bottom.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon5.png"/>
+	</div>
+	</figure>
+
+We can check this previous noodle result, note that the expected
 number of crossings is
 
 $$
