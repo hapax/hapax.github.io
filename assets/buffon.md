@@ -123,9 +123,16 @@ and hence, by the linearity of averages and our results for short
 needles,
 
 $$
-\langle N \rangle = \langle N_1\rangle + \langle N_2 \rangle +
-\cdots + \langle N_n \rangle = \frac{2\ell_1}{\pi D} +
-\frac{2\ell_2}{\pi D} + \cdots + \frac{2\ell_n}{\pi D}.
+\begin{align*}
+\langle N \rangle & = \langle N_1\rangle + \langle N_2 \rangle +
+\cdots + \langle N_n \rangle \\
+& = \frac{2\ell_1}{\pi D} + \frac{2\ell_2}{\pi D} + \cdots +
+\frac{2\ell_n}{\pi D} \\
+& = \frac{2(\ell_1 + \ell_2 + \cdots + \ell_n)}{\pi D} =
+\frac{2\ell}{\pi D}.
+\end{align*}
 $$
 
-But this is just the total lengt 
+So what do you know! The formula for the expected number of
+intersections is the same, even though the probabilities will change
+(the longer needle can hit multiple lines for instance).
