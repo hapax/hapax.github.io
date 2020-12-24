@@ -218,4 +218,30 @@ microscopics of polymers.
 #### Wheels and woodles
 
 The final twist of the noodle comes from thinking about shapes which
-have the special property of *always having one crossing*.
+have *constant width*.
+Consider a circle of radius $r$ for instance.
+However you choose to orient it, it will have a width of $2r$, in the
+sense that you cannot pass it through a gap any smaller, and you can
+always pass it through a wider gap.
+If we happen to rule lines at a distance of $D = 2r$, then a randomly
+thrown circle will have exactly two crossings.
+To check with our previous noodle result, note that the expected
+number of crossings is
+
+$$
+P = \frac{2 \ell}{\pi D} = \frac{2 \cdot 2\pi r}{\pi \cdot 2 r} = 2.
+$$
+
+But we can go in the other direction.
+Suppose that a shape has constant width $D$, so however it is
+oriented, it has exactly two crossings when lines are ruled with
+spacing $D$.
+Then
+
+$$
+P = \frac{2 \ell}{\pi D} = 2 \quad \Longrightarrow \quad \ell = \pi D,
+$$
+
+and the perimeter $\ell$ is twice the width. This result is called
+*Barbier's theorem*.
+
