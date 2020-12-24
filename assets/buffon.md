@@ -47,10 +47,10 @@ below the line $y \leq \ell \sin \theta$, divided by the total area of the recta
 	</div>
 	</figure>
 
-The area $A$ below the line (green) can be calculated using calculus:
+The area $H$ below the line (green) can be calculated using calculus:
 
 $$
-\int_0^{\pi} \ell \sin \theta \, \text{d}\theta = \left[-\ell \cos\theta\right]^\pi_0
+H = \int_0^{\pi} \ell \sin \theta \, \text{d}\theta = \left[-\ell \cos\theta\right]^\pi_0
 = \ell (\cos 0 - \cos \pi) = 2\ell.
 $$
 
@@ -82,10 +82,11 @@ $$
 v_x \, \Delta \theta \approx \Delta x.
 $$
 
-But the total horizontal distance is obviously twice the radius, or
-$2\ell$. So no need for calculus!
-However we get there, the probability that the short needle of
-intersecting a line is
+But if we add up all the small changes $\Delta x$ in a
+half-revolution, the total horizontal distance $A$ is obviously twice the
+radius, or $H = 2\ell$. So no need for calculus!
+Either we get there, the probability that the short needle hits the
+line is
 
 $$
 P = \frac{2\ell}{\pi D}.
