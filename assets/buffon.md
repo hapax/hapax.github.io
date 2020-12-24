@@ -159,7 +159,7 @@ The extension of Buffon's needle to Buffon's noodle, and the brilliant
 pun, are (to the best of my knowledge) both due to
 [J. F. Ramaley](http://web1.sph.emory.edu/users/hwu30/teaching/statcomp/papers/ramaley.Buffon.69.pdf).
 
-#### Random noodles
+#### Random noodles and microscopes
 
 Although the expected number of crossings is easy, in general, for a
 fixed curve the actual probability distribution for $N$ is complicated.
@@ -201,10 +201,18 @@ $$
 In physical examples like a polymer, however, it's more realistic to
 treat $\lambda$ as a finite
 [persistence length](https://en.wikipedia.org/wiki/Persistence_length)
-(or technically [Kuhn length](https://en.wikipedia.org/wiki/Kuhn_length)).
-It's amusing that throwing chains of DNA or polyethylene onto a ruled
-surface and counting crossings provides a means (albeit fanciful) of
-probing these microscopic properties.
+(or technically
+[Kuhn length](https://en.wikipedia.org/wiki/Kuhn_length)).
+Throwing the chains many times gives a fanciful means of estimating
+persistance length, since after many trials, the sample mean
+$\bar{\mu}$ and sample variance $\bar{\sigma^2}$ obey
+
+$$
+\lambda = \frac{\pi D}{2}\left(1 - \frac{\bar{\sigma^2}}{\bar{\mu}}\right).
+$$
+
+There are various impractilities with these scheme, but let's not let
+that spoil the amusing microscopic application of Buffon's noodle.
 
 #### Wheels and woodles
 
