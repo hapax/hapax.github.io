@@ -171,9 +171,40 @@ Suppose the noodle is made from $n$ straight segments of length
 $\ell_i < D$ and total length $\ell$.
 Then each segment represents an independent "trial", and the joint
 distribution is multinomial.
+
 In the special case that the step lengths are the same, $\ell_i =
 \lambda$, then the number of crossings obeys a binomial distribution
 $\mathcal{B}(n, P)$ for $P = 2\ell/\pi D$.
+This has mean $\langle N\rangle = nP$ as we already calculated, and
+standard deviation
+
+$$
+\sigma^2 = n P (1 - P).
+$$
+
+But we can actually give the probabilities explicitly:
+
+$$
+P(N = k) = \binom{n}{k}P^k (1- P)^{n-k}, \quad P = \frac{2\lambda}{\pi
+D}.
+$$
+
+Since $\langle N\rangle = nP$ is the expected number of crossings, in
+the limit that we keep this expectation fixed but take $n \to \infty$,
+i.e. a continuous random noodle, the
+[De Moivre-Laplace theorem](https://en.wikipedia.org/wiki/De_Moivre%E2%80%93Laplace_theorem)
+tells us that the distribution will converge to a normal
+
+$$
+\mathcal{N}(nP, nP(1-P)).
+$$
+
+In physical examples like a polymer, however, it's more realistic to
+treat $\lambda$ as a finite
+[persistence length](https://en.wikipedia.org/wiki/Persistence_length).
+It's amusing that throwing chains of DNA or polyethylene onto a ruled
+surface and counting crossings provides a means (albeit fanciful) of
+measuring persistence length.
 
 #### Wheels and woodles
 
