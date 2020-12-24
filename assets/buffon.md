@@ -147,7 +147,7 @@ This result was independent of the relative orientation of the
 segment, so it holds for a chain of line segments which twists and
 turns.
 And in fact, we can take the limit of $n \to \infty$, so that our
-curve becomes *smooth*, and the result doesn't change.
+curve becomes *smooth*, without affecting our formula.
 We conclude that, for an arbitrary plane curve of length $\ell$ (such
 as a noodle), the expected number of crossings is
 
@@ -171,7 +171,6 @@ Suppose the noodle is made from $n$ straight segments of length
 $\ell_i < D$ and total length $\ell$.
 Then each segment represents an independent "trial", and the joint
 distribution is multinomial.
-
 In the special case that the step lengths are the same, $\ell_i =
 \lambda$, then the number of crossings obeys a binomial distribution
 $\mathcal{B}(n, P)$ for $P = 2\ell/\pi D$.
@@ -196,7 +195,7 @@ i.e. a continuous random noodle, the
 tells us that the distribution will converge to a normal
 
 $$
-\mathcal{N}(nP, nP(1-P)).
+\mathcal{N}(nP, \sigma^2), \quad \sigma^2 = nP(1-P).
 $$
 
 In physical examples like a polymer, however, it's more realistic to
