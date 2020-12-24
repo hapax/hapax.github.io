@@ -136,3 +136,17 @@ $$
 So what do you know! The formula for the expected number of
 intersections is the same, even though the probabilities will change
 (the longer needle can hit multiple lines for instance).
+But something even more remarkable is true.
+This result was independent of the relative orientation of the
+segment, so it holds for an *arbitrary* curve in the plane, such as a
+noodle. The result
+
+$$
+\langle N \rangle = \frac{2\ell}{\pi D}
+$$
+
+for any curve of length $\ell$ is called *Buffon's noodle*.
+
+#### Wheels and woodles
+
+The final twist of the noodle 
