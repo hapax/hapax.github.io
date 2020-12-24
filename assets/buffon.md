@@ -133,9 +133,8 @@ $$
 \end{align*}
 $$
 
-So what do you know! The formula for the expected number of
-crossings is the same, even though the probabilities will change
-(the longer needle can hit multiple lines for instance).
+What do you know! The formula for the expected number of
+crossings is the same, even though the probabilities change.
 
 <figure>
     <div style="text-align:center"><img src
