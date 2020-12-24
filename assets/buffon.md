@@ -17,9 +17,9 @@ date:  2020-12-23
 
 Suppose we throw a needle of length $\ell$ onto an infinitely large
 page, with lines ruled horizontally with separation $D$.
-If the needle has length $\ell < D$, it can intersect at most one
+If the needle is short, with $\ell < D$, it can intersect at most one
 line.
-How likely is it to intersect a line?
+How likely is this?
 Following
 [Joseph-Émile Barbier](https://en.wikipedia.org/wiki/Joseph-%C3%89mile_Barbier),
 we can split the randomness into two parts: the vertical position $y$ of the
@@ -54,9 +54,46 @@ $$
 = \ell (\cos 0 - \cos \pi) = 2\ell.
 $$
 
-There is another way to see this without using calculus.
-Thus, the probability of intersecting a line is
+There is another very simple way to see this without using calculus.
+Suppose you swing a slingshot around so that it executes a full revolution
+every $2\pi$ seconds.
+If the circle has radius $\ell$, the velocity (calculated by consider
+a full revolution) is
 
 $$
-P = \frac{2\ll}{\pi D}.
+v = \frac{\text{distance}}{\text{time}} = \frac{2\pi \ell}{2\pi} = \ell.
 $$
+
+The velocity has two sinusoidally varying components: a horizontal
+component, $v_x = \ell \sin \theta$ and a vertical component $v_y =
+\ell \cos \theta$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/buffon3.png"/>
+	</div>
+	</figure>
+
+The horizontal velocity is exactly the curve of interest. The region
+underneath the curve is the total *horizontal* distance covered in
+half a revolution, since we are adding contributions of the form
+
+$$
+v_x \, \Delta \theta \approx \Delta x.
+$$
+
+But the total horizontal distance is obviously twice the radius, or
+$2\ell$. So no need for calculus!
+However we get there, the probability that the short needle of
+intersecting a line is
+
+$$
+P = \frac{2\ell}{\pi D}.
+$$
+
+#### Long needles and noodles
+
+The above reasoning only works for short needles, with $\ell < D$.
+Otherwise, the green curve will exceed the grey rectangle, and we have
+"cut off" the corresponding area.
+This involves a similar integral, but the answer is ugly.
