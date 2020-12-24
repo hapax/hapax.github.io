@@ -17,7 +17,7 @@ date:  2020-12-23
 
 Suppose we throw a needle of length $\ell$ onto an infinitely large
 page, with lines ruled horizontally with separation $D$.
-If the needle is short, with $\ell < D$, it can intersect at most one
+If the needle is short, with $\ell < D$, it can cross at most one
 line.
 How likely is this?
 Following
@@ -134,7 +134,7 @@ $$
 $$
 
 So what do you know! The formula for the expected number of
-intersections is the same, even though the probabilities will change
+crossings is the same, even though the probabilities will change
 (the longer needle can hit multiple lines for instance).
 But something even more remarkable is true.
 This result was independent of the relative orientation of the
@@ -147,7 +147,17 @@ $$
 
 for an arbitrary curve of length $\ell$ is called *Buffon's noodle*.
 
+#### Random noodles
+
+In general, for a fixed curve the probabilities will be related in a
+complicated way.
+But we can also consider a noodle which is randomly generated as a *random walk*.
+Physically, this would give the expected number of crossings for a
+polymer.
+
+\langle N^2 \rangle = \langle\rangle
+
 #### Wheels and woodles
 
-The final twist of the noodle comes from thinking about shapes which
-have constant width
+There is a final twist of the noodle comes from thinking about shapes which
+have constant width.
