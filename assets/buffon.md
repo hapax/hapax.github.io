@@ -255,10 +255,22 @@ Constant width surfaces are fun because they can replace circles as
 wheels, at least if they are allowed to simply roll along underneath a
 flat surface, the way that Egyptians and Romans moved building
 materials on logs.
-Below, we show such a constant-width surface, called,
+(The centre of any of these non-circular constant width curves wobbles
+up and down, so they are less useful if you are using axles.)
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/buffon6.png"/>
 	</div>
 	</figure>
+
+Above, I've shown a constant-width surface called the *Reuleaux
+triangle* after the German engineer
+[Franz Reuleaux](https://en.wikipedia.org/wiki/Franz_Reuleaux).
+It's a beautiful shape, created by starting with an equilateral
+triangle, then rotating one edge until it hits another, tracing out
+$\pi/3$ of a circular arc.
+The width is simply the side length of the triangle $D$, and we are
+dragging out $(\pi/3) D$ a total of three times, so the perimeter
+$\ell = \pi D$ as expected.
+We can generalize this 
