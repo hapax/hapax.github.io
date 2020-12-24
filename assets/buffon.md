@@ -7,11 +7,11 @@ categories: [Maths, Hacks]
 date:  2020-12-23
 ---
 
-**December 23, 2020.** *Buffon asked how likely it is that a randomly
-  thrown needle will cross a line on ruled paper. Barbier's elementary
-  solution is well-known, but less well-known is the elementary
-  extension to noodles, random noodles, and a simple consequence for funny shaped
-  wheels or "woodles".*
+**December 23, 2020.** *Buffon asked how likely it is that a needle
+  thrown onto ruled paper will cross one of the lines. The 1860
+  solution of Barbier is well-known. Equally simple but less
+  well-known are the extensions to noodles and shapes of constant
+  width, which I briefly discuss.*
 
 #### Buffon's needle
 
@@ -209,5 +209,5 @@ probing these microscopic properties.
 
 #### Wheels and woodles
 
-There is a final twist of the noodle comes from thinking about shapes which
-have constant width.
+The final twist of the noodle comes from thinking about shapes which
+have the special property of *always having one crossing*.
