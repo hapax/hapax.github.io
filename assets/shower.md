@@ -19,7 +19,19 @@ there was another explanation.
 Before I left the shower, I had arrived at a hypothesis: the hot water
 of the shower is lighter than the cold air outside, so it rises over
 the top of the shower curtain, cools, and pushes the column of cold
-air down. The bottom of this column slips in under the curtain.
+air down. The cold bottom of this column slips in under the curtain.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower1.png"/>
+	</div>
+	</figure>
+
+When I mentioned this to my partner, she informed me she had observed
+the same effect --- but in a *cold* shower! Clearly, my buoyancy hypothesis was
+wrong, or at least, not the only effect in play.
+
+#### The Coandă effect
 
 I mentioned this to my partner, who said she had observed the same
 effect in a *cold* shower.
@@ -32,8 +44,6 @@ Fluid dynamics simulations by UMass professor
 that a horizontal vortex forms.
 Like a hurricane, this rotation leads to lower pressure in the middle,
 with the centripetal force due to a pressure difference.
-
-#### The Coandă effect
 
 Schmidt's explanation is appealing exotic.
 But it is hard for the ordinary person to test, and there is another
