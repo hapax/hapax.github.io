@@ -208,3 +208,15 @@ turbulence wobbles the wings, and redirects energy from lift into
 vibrating the aerofoil.
 Turbulence on an airliner worries passengers because it's
 uncomfortable, but the pilot because it might stop the plane from flying!
+But cavitation can provide lift in the short-term.
+In fact, as
+[Peter Eastwell points out](https://files.eric.ed.gov/fulltext/EJ1050910.pdf),
+strong winds rushing over the top of a gabled roof cavitate, and the
+resulting pressure difference can rip the roof off!
+
+So, why aerofoil design such a big deal? As Einstein's bungle
+suggests, optimizing the performance of an airplane wing requires that
+we have the right model for its performance!
+The aerodynamics of entrainment and cavitation are complicated topics.
+But a good place to start, when learning how to maximize lift, is the
+humble shower curtain.
