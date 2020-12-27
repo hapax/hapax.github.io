@@ -41,8 +41,8 @@ If temperature isn't relevant, the stream of water coming down is.
 Presumably, this generates a steam of air moving in the same
 direction, and the question becomes: why does this air result in air
 being pushed in under the curtain?
-Since the air is moving, it is tempting to invoke Bernoulli's
-principle, which states that in a stream of moving fluid, the sum of
+Since the air is moving, it is tempting to invoke *Bernoulli's
+principle*, which states that in a stream of moving fluid, the sum of
 gravitational potential energy, pressure, and speed, is constant:
 
 $$
@@ -70,7 +70,7 @@ It's also the conventional explanation for why planes fly.
 The idea is that the top surface of a wing or aerofoil is longer than
 the bottom, so assuming that air takes the same time to travel over
 the top and bottom surface, it must travel faster over the top, and
-once again Bernoulli's equation seems to predict a lower pressure
+once again Bernoulli's principle seems to predict a lower pressure
 above and hence an upwards lift.
 
 All of these explanations are wrong.
@@ -84,7 +84,7 @@ by a German aircraft manufacturer during WWI to design a better
 aerofoil.
 He added a hump in the middle of the wing to increase the surface
 area, assuming this would increase lift due to the conventional
-Bernoulli explanation, but it flopped in wind tunnel experiments.
+Bernoulli model, but it flopped in wind tunnel experiments.
 
 <figure>
     <div style="text-align:center"><img src
@@ -93,12 +93,15 @@ Bernoulli explanation, but it flopped in wind tunnel experiments.
 	</figure>
 
 Similarly, if you blow too closely to the piece of paper, it doesn't
-rise, which is hard to explan using Bernoulli's equation.
+rise.
 I couldn't repeat this experiment with the showerhead, but Australian
 physics teacher
 [Peter Eastwell did](https://files.eric.ed.gov/fulltext/EJ1050910.pdf),
 finding that if the stream of water is too close to the curtain, it
 does not billow.
+This is inexplicable if we believe the Bernoulli explanation, since
+the pressure should be even lower (since the stream is closer to the
+surface) and the force therefore stronger.
 Once again, it's back to the drawing board!
 
 #### Entrainment and the Coandă effect
