@@ -28,10 +28,11 @@ air down. The cold bottom of this column slips in under the curtain.
 	</div>
 	</figure>
 
-I mentioned the idea to my partner, She informed me she had noticed the
-same effect in a *cold* shower! In this case, there is no obvious reason
-for air to rise over the top of the curtain, since it's all at the
-same temperature.
+I mentioned the phenomena and proposed buoyancy mechanism to my
+partner.
+She told me she had noticed the same effect in a *cold* shower! In
+this case, there is no obvious reason for air to rise over the top of
+the curtain, since it's all at the same temperature.
 Something else is at play!
 
 #### Einstein's wonky wing
@@ -97,12 +98,26 @@ physics teacher
 [Peter Eastwell did](https://files.eric.ed.gov/fulltext/EJ1050910.pdf),
 finding that if the stream of water is too close to the curtain, it
 does not billow.
-Once again, it's back to the drawing board.
+Once again, it's back to the drawing board!
 
 #### Entrainment and the Coandă effect
 
-Bernoulli's equation doesn't apply to the situations above because
-they all involved *friction*.
+Bernoulli's equation only applies when *viscosity*---"stickiness"
+between layers of fluid---is negligible.
+But in all the situations above, viscosity plays a key role.
+The basic idea is very simple.
+A narrow stream of air will tend to pull nearby air along with it due
+to stickiness.
+Carrying off air particles will create a partial vacuum, i.e. a region
+of reduced pressure.
+If you want to be precise, you can note that the ideal gas law
+
+$$
+PV \propto NT
+$$
+
+tells us that, if volume $V$ and temperature $T$ are kept fixed, then
+reduced particle number $N$ reduces pressure $P$.
 
 #### References
 
