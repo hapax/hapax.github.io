@@ -51,6 +51,7 @@ $$
 Since the air is moving inside of the shower curtain, and
 the density should be the same, the pressure should drop inside the
 shower. This will result in air rushing in under the curtain.
+We draw a cross-section of this apparent explanation below.
 
 <figure>
     <div style="text-align:center"><img src
