@@ -147,9 +147,11 @@ This is what we see with the shower curtain and the piece of paper.
 	</figure>
 
 But if the surface cannot come to the air stream, the air stream will
-go to the surface.
-This phenomenon is called the *Coandă effect*, though it was first
-described in 1800 by polymath Thomas Young:
+go to the surface, with atmospheric pressure simply pressing it
+through the low pressure and onto the surface.
+This phenomenon is called the *Coandă effect* after Romanian inventor
+Henri Coandă, though it described eloquently a century earlier by
+polymath Thomas Young:
 
 <span style="padding-left: 20px; display:block">
 The lateral pressure which urges the flame of a candle towards the
@@ -162,10 +164,8 @@ current is deflected towards the body; and if the body be at liberty
 to move in every direction it will be urged towards the current...
 </span>
 
-Henri Coandă was a Romanian inventor, who rediscovered it while
-working on an airplane design.
 Although Coandă's claims to have designed the first jet are
-controversial,
+controversial, the importance of 
 
 #### References
 
