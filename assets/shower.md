@@ -90,7 +90,16 @@ Bernoulli explanation, but it flopped in wind tunnel experiments.
 	</div>
 	</figure>
 
-Similarly, if you blow 
+Similarly, if you blow too closely to the piece of paper, it doesn't
+rise, which is hard to explan using Bernoulli's equation.
+I couldn't repeat this experiment with the showerhead, but Australian
+physics teacher
+[Peter Eastwell did](https://files.eric.ed.gov/fulltext/EJ1050910.pdf),
+finding that if the stream of water is too close to the curtain, it
+does not billow.
+Once again, it's back to the drawing board.
+
+#### The Coandă effect
 
 #### References
 
