@@ -118,7 +118,19 @@ $$
 
 tells us that, if volume $V$ and temperature $T$ are kept fixed, then
 reduced particle number $N$ reduces pressure $P$.
-The process of glomming nearby air onto the stream is called *entrainment*.
+The process of glomming nearby air onto the stream is called
+*entrainment*.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower4.png"/>
+	</div>
+	</figure>
+	
+Of course, nature abhors a vacuum, and will try to fill up these
+low-pressure regions with air at atmospheric pressure.
+But if there is an obstruction on one side, such as a surface, this
+process is frustrated.
 
 #### References
 
