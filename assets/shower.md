@@ -20,6 +20,7 @@ Before I left the shower, I had arrived at a hypothesis: the hot water
 of the shower is lighter than the cold air outside, so it rises over
 the top of the shower curtain, cools, and pushes the column of cold
 air down. The cold bottom of this column slips in under the curtain.
+I illustrate the basic idea below.
 
 <figure>
     <div style="text-align:center"><img src
@@ -27,11 +28,17 @@ air down. The cold bottom of this column slips in under the curtain.
 	</div>
 	</figure>
 
+Physically, we can describe what's going on using the ideal gas law,
+$PV = NkT$.
+When pressure is constant (usually a good approximation at small
+scales), the density $\rho = N/V \propto 1/T$, so that hot air is less
+dense and therefore rises.
+
+#### The Coandă effect
+
 When I mentioned this to my partner, she informed me she had observed
 the same effect --- but in a *cold* shower! Clearly, my buoyancy hypothesis was
 wrong, or at least, not the only effect in play.
-
-#### The Coandă effect
 
 I mentioned this to my partner, who said she had observed the same
 effect in a *cold* shower.
