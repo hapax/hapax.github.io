@@ -28,11 +28,10 @@ I illustrate the basic idea below.
 	</div>
 	</figure>
 
-Physically, we can describe what's going on using the ideal gas law,
-$PV = NkT$.
-When pressure is constant (usually a good approximation at small
-scales), the density $\rho = N/V \propto 1/T$, so that hot air is less
-dense and therefore rises.
+In a little more detail, the idea is that as we pile molecules onto
+the column, hydrostatic pressure (due to the weight of the column
+above) increases, and that provides the force that pushes the air
+under the curtain.
 
 #### The Coandă effect
 
