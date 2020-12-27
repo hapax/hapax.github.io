@@ -128,8 +128,8 @@ The process of glomming nearby air onto the stream is called
 	</div>
 	</figure>
 	
-Of course, nature abhors a vacuum, and will try to fill up these
-low-pressure regions with air at atmospheric pressure.
+Nature will try to fill up these low-pressure regions with air at
+atmospheric pressure.
 But if there is an obstruction on one side, this side cannot equalise
 to atmospheric pressure, since the air can't pass through the obstruction.
 So the region between the obstruction and the air stream remains at
@@ -145,6 +145,22 @@ This is what we see with the shower curtain and the piece of paper.
     ="/images/posts/shower5.png"/>
 	</div>
 	</figure>
+
+But if the surface cannot come to the air stream, the air stream will
+go to the surface.
+This phenomenon is called the *Coandă effect*, though it was first
+described by the 19th century polymath Thomas Young:
+
+<span style="padding-left: 20px; display:block">
+The lateral pressure which urges the flame of a candle towards the
+stream of air from a blowpipe is probably exactly similar to that
+pressure which eases the inflection of a current of air near an
+obstacle. Mark the dimple which a slender stream of air makes on the
+surface of water. Bring a convex body into contact with the side of
+the stream and the place of the dimple will immediately show the
+current is deflected towards the body; and if the body be at liberty
+to move in every direction it will be urged towards the current...
+</span>
 
 #### References
 
