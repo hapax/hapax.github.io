@@ -164,7 +164,19 @@ current is deflected towards the body; and if the body be at liberty
 to move in every direction it will be urged towards the current...
 </span>
 
+#### Flying upside down
+
 The Coandă effect helps explain why planes fly upside down.
+The air passing by the aerofoil or wing is entrained and redirected
+along the curves.
+If this air is directed downwards, then Newton's third law ensures
+that lift is generated.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower6.png"/>
+	</div>
+	</figure>
 
 #### References
 
