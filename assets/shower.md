@@ -20,20 +20,29 @@ Before I left the shower, I had arrived at a hypothesis: the hot water
 of the shower is lighter than the cold air outside, so it rises over
 the top of the shower curtain, cools, and pushes the column of cold
 air down. The cold bottom of this column slips in under the curtain.
-I illustrate the basic idea below.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/shower1.png"/>
+    ="/images/posts/shower1v2.png"/>
 	</div>
 	</figure>
 
-In a little more detail, the idea is that as we pile molecules onto
-the column, hydrostatic pressure (due to the weight of the column
-above) increases, and that provides the force that pushes the air
-under the curtain.
+I mentioned the idea to my partner, She informed me she had noticed the
+same effect --- in a *cold* shower! In this case, there is no obvious reason
+for air to rise over the top of the curtain, since it's all at the
+same temperature.
+Something else is at play!
 
 #### The Coandă effect
+
+If temperature isn't relevant, the stream of water coming down is.
+
+#### References
+
+In a little more detail, the idea is that as we pile molecules onto
+the column, hydrostatic pressure (due to the weight of the column
+above) increases. This provides the force that pushes the air
+under the curtain.
 
 When I mentioned this to my partner, she informed me she had observed
 the same effect --- but in a *cold* shower! Clearly, my buoyancy hypothesis was
@@ -56,6 +65,6 @@ But it is hard for the ordinary person to test, and there is another
 mechanism which seems just as important, and leads to a surprising
 analogy between shower curtains and plane wings.
 
-#### References
-
 https://repository.arizona.edu/bitstream/handle/10150/347509/AZU_TD_BOX112_E9791_1965_171.pdf
+http://users.df.uba.ar/sgil/physics_paper_doc/papers_phys/fluids/coanda_effect_94.pdf
+https://www.discoverhover.org/infoinstructors/guide8.htm
