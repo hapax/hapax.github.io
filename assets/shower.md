@@ -101,6 +101,9 @@ Once again, it's back to the drawing board.
 
 #### The Coandă effect
 
+As Peter Eastwell explains, Bernoulli's equation doesn't apply to the
+situations above because they all involved *friction*.
+
 #### References
 
 In a little more detail, the idea is that as we pile molecules onto
