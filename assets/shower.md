@@ -54,7 +54,8 @@ the density should be the same, the pressure should drop inside the
 shower. This will result in air rushing in under the curtain.
 We draw a cross-section of this explanation below.
 On the left is the stationary air.
-On the right is the moving air at lower pressure.
+On the right is the moving air at lower pressure, with the
+low-pressure region in grey.
 The blue arrow is the resulting force.
 
 <figure>
@@ -129,8 +130,21 @@ The process of glomming nearby air onto the stream is called
 	
 Of course, nature abhors a vacuum, and will try to fill up these
 low-pressure regions with air at atmospheric pressure.
-But if there is an obstruction on one side, such as a surface, this
-process is frustrated.
+But if there is an obstruction on one side, this side cannot equalise
+to atmospheric pressure, since the air can't pass through the obstruction.
+So the region between the obstruction and the air stream remains at
+low pressure.
+There are two things that can happen, and they are not mutually
+exclusive.
+If the surface is flexible, the air on the other side can push it
+towards the low pressure region.
+This is what we see with the shower curtain and the piece of paper.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower5.png"/>
+	</div>
+	</figure>
 
 #### References
 
