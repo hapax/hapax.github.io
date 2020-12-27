@@ -99,10 +99,10 @@ finding that if the stream of water is too close to the curtain, it
 does not billow.
 Once again, it's back to the drawing board.
 
-#### The Coandă effect
+#### Entrainment and the Coandă effect
 
-As Peter Eastwell explains, Bernoulli's equation doesn't apply to the
-situations above because they all involved *friction*.
+Bernoulli's equation doesn't apply to the situations above because
+they all involved *friction*.
 
 #### References
 
