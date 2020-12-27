@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The case of the contrary curtain"
 categories: [Physics, Everyday]
-date:  2020-12-14
+date:  2020-12-27
 ---
 
-**December 14, 2029.** *Another bathroom-themed post, this time
+**December 27, 2020.** *Another bathroom-themed post, this time
   on the mysterious billowing of shower curtains. This is related to
   the fact that planes can fly upside down!*
 
