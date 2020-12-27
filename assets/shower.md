@@ -90,6 +90,8 @@ Bernoulli explanation, but it flopped in wind tunnel experiments.
 	</div>
 	</figure>
 
+Similarly, if you blow 
+
 #### References
 
 In a little more detail, the idea is that as we pile molecules onto
