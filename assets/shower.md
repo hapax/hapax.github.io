@@ -84,6 +84,12 @@ He added a hump in the middle of the wing to increase the surface
 area, assuming this would increase lift due to the conventional
 Bernoulli explanation, but it flopped in wind tunnel experiments.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower3.png"/>
+	</div>
+	</figure>
+
 #### References
 
 In a little more detail, the idea is that as we pile molecules onto
