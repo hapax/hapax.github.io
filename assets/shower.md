@@ -164,36 +164,9 @@ current is deflected towards the body; and if the body be at liberty
 to move in every direction it will be urged towards the current...
 </span>
 
-Although Coandă's claims to have designed the first jet are
-controversial, the importance of 
+The Coandă effect helps explain why planes fly upside down.
 
 #### References
-
-In a little more detail, the idea is that as we pile molecules onto
-the column, hydrostatic pressure (due to the weight of the column
-above) increases. This provides the force that pushes the air
-under the curtain.
-
-When I mentioned this to my partner, she informed me she had observed
-the same effect --- but in a *cold* shower! Clearly, my buoyancy hypothesis was
-wrong, or at least, not the only effect in play.
-
-I mentioned this to my partner, who said she had observed the same
-effect in a *cold* shower.
-Clearly, my hypothesis was wrong! Some other mechanism is at play.
-I did some googling, and discover that this phenomenon, called the
-*shower curtain effect*, is actually surprisingly complex and not
-fully understood!
-Fluid dynamics simulations by UMass professor
-[David Schmidt](https://mie.umass.edu/faculty/david-schmidt) suggest
-that a horizontal vortex forms.
-Like a hurricane, this rotation leads to lower pressure in the middle,
-with the centripetal force due to a pressure difference.
-
-Schmidt's explanation is appealing exotic.
-But it is hard for the ordinary person to test, and there is another
-mechanism which seems just as important, and leads to a surprising
-analogy between shower curtains and plane wings.
 
 https://repository.arizona.edu/bitstream/handle/10150/347509/AZU_TD_BOX112_E9791_1965_171.pdf
 http://users.df.uba.ar/sgil/physics_paper_doc/papers_phys/fluids/coanda_effect_94.pdf
