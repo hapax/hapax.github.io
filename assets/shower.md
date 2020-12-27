@@ -171,12 +171,21 @@ The air passing by the aerofoil or wing is entrained and redirected
 along the curves.
 If this air is directed downwards, then Newton's third law ensures
 that lift is generated.
+If the plane is upside down, lift is generated in exactly the same
+way.
+In the images below, the plane is flying to the left, and the blue
+arrow represents the reaction force on the plane.
+The vertical component is lift.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/shower6.png"/>
 	</div>
 	</figure>
+
+Clearly, the plane needs to be angle so that the redirected air is
+pointing down.
+The angle the air makes 
 
 #### References
 
