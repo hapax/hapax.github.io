@@ -29,7 +29,7 @@ air down. The cold bottom of this column slips in under the curtain.
 	</figure>
 
 I mentioned the idea to my partner, She informed me she had noticed the
-same effect --- in a *cold* shower! In this case, there is no obvious reason
+same effect in a *cold* shower! In this case, there is no obvious reason
 for air to rise over the top of the curtain, since it's all at the
 same temperature.
 Something else is at play!
