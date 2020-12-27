@@ -2,15 +2,16 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Bathroom physics: the shower curtain effect"
+title:  "The case of the contrary curtain"
 categories: [Physics, Everyday]
 date:  2020-12-14
 ---
 
 **December 14, 2029.** *Another bathroom-themed post, this time
-  on the mysterious billowing of shower curtains during use.*
+  on the mysterious billowing of shower curtains. This is related to
+  the fact that planes can fly upside down!*
 
-#### The case of the contrary curtain
+#### The shower curtain effect
 
 A few days ago, I was taking a shower when I noticed the bottom of the
 shower curtain nipping at my heels. The bathroom window was closed,
@@ -33,9 +34,29 @@ for air to rise over the top of the curtain, since it's all at the
 same temperature.
 Something else is at play!
 
-#### The Coandă effect
+#### Einstein's wonky wing
 
 If temperature isn't relevant, the stream of water coming down is.
+Presumably, this generates a steam of air moving in the same
+direction, and the question becomes: why does this air result in air
+being pushed in under the curtain?
+Since the air is moving, it is tempting to invoke Bernoulli's
+principle, which states that in a stream of moving fluid, the sum of
+gravitational potential energy, pressure, and speed, is constant:
+
+$$
+\frac{1}{2}\rho v^2 + \rho g + P = \text{const}.
+$$
+
+Since the air is moving inside of the shower curtain, and
+the density should be the same, the pressure should drop inside the
+shower. This will result in air rushing in under the curtain.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower2.png"/>
+	</div>
+	</figure>
 
 #### References
 
