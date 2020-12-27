@@ -188,7 +188,8 @@ The vertical component is lift.
 
 Clearly, the plane needs to be angle so that the redirected air is
 pointing down.
-The angle the air makes 
+The angle made between the redirected air and the horizontal is called
+the *angle of attack*, and 
 
 #### References
 
