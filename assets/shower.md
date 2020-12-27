@@ -188,11 +188,23 @@ The vertical component is lift.
 
 Clearly, the plane needs to be angle so that the redirected air is
 pointing down.
-The angle made between the redirected air and the horizontal is called
-the *angle of attack*, and 
+The angle made between the line of the wing (grey line above) and the
+horizontal is called the *angle of attack*. A good angle of attack is
+crucial for flight.
+If the angle is too small, the plane *stalls*, meaning that the lift
+generated is not sufficient to keep the plane in the air.
+If the angle is too large, it splits the air off into two streams, and
+creates a partial vacuum which fills in with turbulent eddies, a process called
+[*cavitation*](https://www.discoverhover.org/infoinstructors/guide8.htm).
 
-#### References
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/shower7.png"/>
+	</div>
+	</figure>
 
-https://repository.arizona.edu/bitstream/handle/10150/347509/AZU_TD_BOX112_E9791_1965_171.pdf
-http://users.df.uba.ar/sgil/physics_paper_doc/papers_phys/fluids/coanda_effect_94.pdf
-https://www.discoverhover.org/infoinstructors/guide8.htm
+You might think that cavitation could provide more lift, but the
+turbulence wobbles the wings, and redirects energy from lift into
+vibrating the aerofoil.
+Turbulence on an airliner worries passengers because it's
+uncomfortable, but the pilot because it might stop the plane from flying!
