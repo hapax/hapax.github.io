@@ -118,6 +118,7 @@ $$
 
 tells us that, if volume $V$ and temperature $T$ are kept fixed, then
 reduced particle number $N$ reduces pressure $P$.
+The process of glomming nearby air onto the stream is called *entrainment*.
 
 #### References
 
