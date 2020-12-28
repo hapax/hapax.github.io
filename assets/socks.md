@@ -72,7 +72,7 @@ $$
 (p_{k-1} - p_{k+1}). \tag{1} \label{sum}
 $$
 
-#### Special 
+#### A special sum
 
 To make progress on this sum, we can use a trick.
 We note that each term $p_k$ occurs twice, first with a multiplier
@@ -81,7 +81,7 @@ Combined, each term appears precisely once!
 Thus, we can simplify the sum to
 
 $$
-\langle D\rangle = \sum_{k = 0}^n p_k = \sum_{k = 0}^n \frac{(n!)^2}{
+\langle D\rangle = D_n = \sum_{k = 0}^n p_k = \sum_{k = 0}^n \frac{(n!)^2}{
 (2n)!} \cdot 2^k\binom{2n-k}{n-k}.
 $$
 
@@ -104,7 +104,7 @@ then we can package the sum of the terms into a hypergeometric
 function:
 
 $$
-\sum_{k\geq 0} t_k = t_0 {}_2 F_1(a, b; c; z).
+\sum_{k\geq 0} t_k = t_0 \cdot {}_2 F_1(a, b; c; z).
 $$
 
 There is a more general version of this relation which lets us package
@@ -115,6 +115,15 @@ The ratio of the terms $p_k$ is (after a little algebra) seen to be
 
 $$
 \frac{p_{k+1}}{p_k} = \frac{2 (k-n)(k+1)}{(k-2n)} \cdot \frac{1}{k+1}.
+$$
+
+Note that $p_0 = 1$, since it is certain you cannot draw a pair after
+drawing a single sock.
+Thus, the average number of socks you need to draw from a $n$ jumbled
+pairs is
+
+$$
+\langle D\rangle = {}_2 F_1 (-n, 1; -2n; 2).
 $$
 
 #### Simulated socks
