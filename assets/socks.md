@@ -54,11 +54,16 @@ $$
 p_k = \Pr(D > k).
 $$
 
-Hence, we can write that
+We can use this to find the probability that we get a pair after
+exactly $k$ draws:
 
 $$
-\Pr(D = k) = \Pr(D > k - 1) - \Pr(D < k)
+\Pr(D = k) = \Pr(D > k - 1) - \Pr(D > k + 1) = p_{k-1} - p_{k+1}.
 $$
+
+We can write down the explicit expression, but this is actually a
+distraction from our main goal: to compute the average, $\langle
+D\rangle$.
 
 #### Simulations
 
