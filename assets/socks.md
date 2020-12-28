@@ -7,8 +7,8 @@ categories: [Maths, Everyday]
 date:  2020-12-28
 ---
 
-**December 28, 2020.** *If you have a jumble of $n$ pairs of socks,
-  how many do you need to grab on average before getting a pair? The
+**December 28, 2020.** *If you have a jumble pile of socks,
+  how many do you need to draw on average before getting a pair? The
   answer turns out to be surprisingly tricky!*
 
 #### Searching for socks
@@ -61,9 +61,27 @@ $$
 \Pr(D = k) = \Pr(D > k - 1) - \Pr(D > k + 1) = p_{k-1} - p_{k+1}.
 $$
 
-We can write down the explicit expression, but this is actually a
-distraction from our main goal: to compute the average, $\langle
-D\rangle$.
+We can evaluate this more explicitly, but this will end up bein a
+distraction from our main goal: to compute the average number of draws
+to get a pair.
+Since we have an expression for the probabilities $\Pr(D = k)$, we can
+go ahead and compute the average:
+
+$$
+\langle D\rangle = \sum_{k = 0}^n k \Pr(D = k) = \sum_{k = 0}^n k
+(p_{k-1} - p_{k+1}).
+$$
+
+To make progress on this sum, we can use a trick.
+We note that each term $p_k$ occurs twice, first with a multiplier
+$k+1$, then a multiplier $-(k+2)$.
+Combined, each term appears precisely once!
+Thus, we can simplify the sum to
+
+$$
+\langle D\rangle = \sum_{k = 0}^n p_k = \sum_{k = 0}^n \frac{(n!)^2}{
+(2n)!} \times 2^k\binom{2n-k}{n-k}.
+$$
 
 #### Simulated socks
 
