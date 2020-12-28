@@ -69,7 +69,7 @@ go ahead and compute the average:
 
 $$
 \langle D\rangle = \sum_{k = 0}^n k \Pr(D = k) = \sum_{k = 0}^n k
-(p_{k-1} - p_{k+1}).
+(p_{k-1} - p_{k+1}). \tag{1} \label{sum}
 $$
 
 #### Special 
@@ -88,7 +88,7 @@ $$
 This is a difficult sum, and there is (as far as I know) no closed
 form expression in terms of elementary functions.
 Instead, we can invoke a special function called the *Gauss
-hypergeometric function* ${}_2 F_1$ to package things nicely.
+hypergeometric function* to package things nicely.
 As nicely described in
 [*Concrete Mathematics*](https://www-cs-faculty.stanford.edu/~knuth/gkp.html),
 the hypergeometric function captures any sum whose terms differ by a
@@ -107,7 +107,10 @@ $$
 \sum_{k\geq 0} t_k = t_0 {}_2 F_1(a, b; c; z).
 $$
 
-Let's apply this to the randomly drawn socks.
+There is a more general version of this relation which lets us package
+things into the *generalized hypergeometric function* but we won't
+need that here.
+Let's apply the relation above to the randomly drawn socks $(\ref{sum})$.
 The ratio of the terms $p_k$ is (after a little algebra) seen to be
 
 $$
