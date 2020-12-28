@@ -83,6 +83,11 @@ $$
 (2n)!} \times 2^k\binom{2n-k}{n-k}.
 $$
 
+This is a difficult sum, and there is (as far as I know) no simply
+closed form expression.
+Instea, we can invoke a special function called the *Gauss
+hypergeometric function*
+
 #### Simulated socks
 
 <figure>
@@ -125,3 +130,5 @@ ax.scatter(range(1,21), averages,color='r')
 ax.scatter(range(1,21), hyper,color='b')
 plt.show()
 ```
+
+#### Alien feet
