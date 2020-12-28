@@ -39,9 +39,11 @@ Thus, the probability that no pairs are drawn is
 
 $$
 p_k = \frac{2^k n!}{(n-k)!} \times \binom{2n}{k}^{-1} = \frac{(n!)^2}{
-(2n)!} \times \binom{2n-k}{n-k} 2^k.
+(2n)!} \times 2^k\binom{2n-k}{n-k}.
 $$
 
+We have tried to simplify the $k$ dependence so there is a single
+binomial coefficient.
 Note that $p_k = 0$ for $k \geq n + 1$.
 This reflects the fact that as you soon as you have drawn more than
 half the socks, you are guaranteed a pair by the pigeonhole principle.
@@ -49,7 +51,13 @@ Let $D$ be the number of draws needed to get a pair.
 Then
 
 $$
-p_k = \P[]
+p_k = \Pr(D > k).
+$$
+
+Hence, we can write that
+
+$$
+\Pr(D = k) = \Pr(D > k - 1) - \Pr(D < k)
 $$
 
 #### Simulations
