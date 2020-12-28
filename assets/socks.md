@@ -7,10 +7,13 @@ categories: [Maths, Everyday]
 date:  2020-12-27
 ---
 
-**December 27, 2020.** *How many socks do you need to grab before you
-  get a pair? The answer turns out to be surprisingly tricky.*
+**December 27, 2020.** *If you have a jumble of $n$ pairs of socks,
+  how many do you need to grab on average before getting a pair? The
+  answer turns out to be surprisingly tricky!*
 
-#### Analytics
+#### Searching for socks
+
+Suppose you have $n$ pairs of socks in a drawer. 
 
 #### Simulations
 
