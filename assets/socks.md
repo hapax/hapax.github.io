@@ -72,7 +72,7 @@ $$
 (p_{k-1} - p_{k+1}). \tag{1} \label{sum}
 $$
 
-#### A special sum
+#### A hypergeometric hack
 
 To make progress on this sum, we can use a trick.
 We note that each term $p_k$ occurs twice, first with a multiplier
@@ -120,19 +120,28 @@ $$
 Note that $p_0 = 1$, since it is certain you cannot draw a pair after
 drawing a single sock.
 Thus, the average number of socks you need to draw from a $n$ jumbled
-pairs is
+pairs is given by the exact formula
 
 $$
-\langle D\rangle = {}_2 F_1 (-n, 1; -2n; 2).
+\langle D\rangle = {}_2 F_1 (-n, 1; -2n; 2). \label{hyper} \tag{2}
 $$
 
-#### Simulated socks
+#### Simulating socks
+
+As a sanity check, we can simulate the random drawing of socks and see
+that the answers agree with our formula.
+Here is a scatterplot of the data, with red datapoints obtained from
+simulations, and blue from the analytic expression $(\ref{hyper})$.
+It's a pretty good match, and gets better as you increase the number
+of simulations!
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/sockssim.png"/>
 	</div>
 	</figure>
+
+If you're interested, here is the Python code that generates this plot.
 
 ```python
 import numpy as np
@@ -170,3 +179,21 @@ plt.show()
 ```
 
 #### Alien feet
+
+Lazy aliens might encounter the same problem I did, but with a
+difference: they have more than two feet!
+In this case, our answer above generalizes in a nice way.
+If the alien has $f$ feet, and draws with replacement from $n$ sets of
+$f$ socks, then the probability that it has no sets after $k$ draws is
+
+$$
+p_k = \frac{(n!)^2}{(fn)!} \cdot f^k\binom{fn-k}{n-k}.
+$$
+
+The same trick can be used to evaluate the expected number of draws,
+$\langle D\rangle$, and we end up simply replacing $2$ with $f$ in our
+expression $(\ref{hyper})$, as you might expect:
+
+$$
+\langle D \rangle = \sum_{k=0}^n p_k = {}_2 F_1 (-n, 1; -fn; f).
+$$
