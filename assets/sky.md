@@ -52,3 +52,23 @@ in terms of $y = x - n$:
 $$
 y e^y + e^{-n} n = 0.
 $$
+
+We then Taylor expand $e^y$, and for something tractable, let's just
+to first order in $y$:
+
+$$
+0 = y e^y + e^{-n} n \approx y(1 + y) + e^{-n}n.
+$$
+
+The quadratic formula gives a small solution
+
+$$
+y = \frac{1}{2}\left[\sqrt{1 - 4n e^{-n}} - 1\right] \approx - n e^{-n},
+$$
+
+where we used the binomial approximation.
+So our approximate solution is
+
+$$
+x = n(1 - e^{-n}).
+$$
