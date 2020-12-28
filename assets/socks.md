@@ -18,7 +18,39 @@ into a draw.
 Later, I will simply withdraw socks at random until I get a pair.
 Faced with this dilemma, I wondered: for $n$ pairs, what is the
 average number of draws required to get a pair?
-This simple question turns out to have a somewhat complicated answer.
+This simple question turns out to have a somewhat complicated
+answer. As far as I can tell, there are no elegant combinatorial
+shortcuts!
+
+To start with, we can calculate the probability that after $k$ draws,
+you have no pair.
+This will simply be the number of ways of drawing $k$ socks with no
+pairs divided by the total number of ways to draw $k$ socks from the
+total number, $2n$.
+Since we have to choose $k$ distinct pairs to draw from, and within
+each pair there are two options, the number of ways to draw $k$ sock
+without a pair is
+
+$$
+2^k k! \binom{n}{k} = \frac{2^k n!}{(n-k)!}.
+$$
+
+Thus, the probability that no pairs are drawn is
+
+$$
+p_k = \frac{2^k n!}{(n-k)!} \times \binom{2n}{k}^{-1} = \frac{(n!)^2}{
+(2n)!} \times \binom{2n-k}{n-k} 2^k.
+$$
+
+Note that $p_k = 0$ for $k \geq n + 1$.
+This reflects the fact that as you soon as you have drawn more than
+half the socks, you are guaranteed a pair by the pigeonhole principle.
+Let $D$ be the number of draws needed to get a pair.
+Then
+
+$$
+p_k = \P[]
+$$
 
 #### Simulations
 
