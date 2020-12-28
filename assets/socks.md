@@ -68,7 +68,7 @@ Since we have an expression for the probabilities $\Pr(D = k)$, we can
 go ahead and compute the average:
 
 $$
-\langle D\rangle = \sum_{k = 0}^n k \Pr(D = k) = \sum_{k = 0}^n k
+\langle D\rangle = \sum_{k = 0}^n k  \cdot \Pr(D = k) = \sum_{k = 0}^n k \cdot 
 (p_{k-1} - p_{k+1}). \tag{1} \label{sum}
 $$
 
