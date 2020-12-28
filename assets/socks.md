@@ -65,7 +65,7 @@ We can write down the explicit expression, but this is actually a
 distraction from our main goal: to compute the average, $\langle
 D\rangle$.
 
-#### Simulations
+#### Simulated socks
 
 <figure>
     <div style="text-align:center"><img src
