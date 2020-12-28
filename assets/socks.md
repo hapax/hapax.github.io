@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The sock problem"
 categories: [Maths, Everyday]
-date:  2020-12-28
+date:  2020-12-27
 ---
 
-**December 28, 2020.** *If you have a jumble pile of socks,
+**December 27, 2020.** *If you have a jumble pile of socks,
   how many do you need to draw on average before getting a pair? The
   answer turns out to be surprisingly tricky!*
 
