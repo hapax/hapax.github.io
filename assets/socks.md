@@ -130,7 +130,8 @@ $$
 
 As a sanity check, we can simulate the random drawing of socks and see
 that the answers agree with our formula.
-Here is a scatterplot of the data, with red datapoints obtained from
+Here is a scatterplot of the data for $n = 1$ to $n = 20$ pairs of
+jumbled socks, with red datapoints obtained from
 simulations, and blue from the analytic expression $(\ref{hyper})$.
 It's a pretty good match, and gets better as you increase the number
 of simulations!
