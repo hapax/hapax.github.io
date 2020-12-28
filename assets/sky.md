@@ -9,7 +9,9 @@ date:  2020-12-26
 
 **December 26, 2029.** *Why is the sky blue? And why is snow white?*
 
-#### What color is the sky?
+#### Rayleigh scattering and blackbody radiation
+
+#### Rayleigh scattering
 
 The Rayleigh scattering cross-section falls off with wavelength as
 $\sigma = A/\lambda^4$.
@@ -61,7 +63,7 @@ $$
 0 = y e^y + e^{-n} n \approx y(1 + y) + e^{-n}n.
 $$
 
-The quadratic formula gives a small solution
+The quadratic formula gives the self-consistently small solution
 
 $$
 y = \frac{1}{2}\left[\sqrt{1 - 4n e^{-n}} - 1\right] \approx - n e^{-n},
