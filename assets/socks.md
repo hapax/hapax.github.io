@@ -13,7 +13,12 @@ date:  2020-12-27
 
 #### Searching for socks
 
-Suppose you have $n$ pairs of socks in a drawer. 
+After a load of washing, I sometimes get lazy and throw unpaired socks
+into a draw.
+Later, I will simply withdraw socks at random until I get a pair.
+Faced with this dilemma, I wondered: for $n$ pairs, what is the
+average number of draws required to get a pair?
+This simple question turns out to have a somewhat complicated answer.
 
 #### Simulations
 
