@@ -52,8 +52,5 @@ fig=plt.figure()
 ax=fig.add_axes([0,0,1,1])
 ax.scatter(range(1,21), averages,color='r')
 ax.scatter(range(1,21), hyper,color='b')
-ax.set_xlabel(Number of sock pairs')
-ax.set_ylabel('Average draws to find a pair')
-ax.set_title('Searching for socks')
 plt.show()
 ```
