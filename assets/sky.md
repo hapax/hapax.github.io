@@ -17,10 +17,11 @@ The spectral radiance $R(\lambda, T)$ at temperature $T$, which is the
 radiant intensity per unit wavelength, obeys Planck's law
 
 $$
-R(\lambda, T) = \frac{B}{\lambda^5(e^{\hbar/kT\lambda} - 1)}.
+R(\lambda, T) = \frac{B}{\lambda^5(e^{h c/kT\lambda} - 1)},
 $$
 
-Define $x = \hbar/kT\lambda$.
+where $h$ is Planck's constant and $k$ is Boltzmann's constant.
+Define $x = h c/kT\lambda$.
 The colour of the sky will maximize the product of the blackbody
 radiance spectrum coming from the sun and the Rayleigh scattering
 cross-section:
@@ -30,12 +31,12 @@ f_T(x) = \frac{C x^9}{e^{x} - 1}
 $$
 
 for some constant $C$.
-To find the maximum, we simply differentiate and set to $0$:
+To find the maximum $x^*$, we simply differentiate and set to $0$:
 
 $$
 f'_T(x) = C
 \left[\frac{9x^8}{e^{x} - 1} - \frac{x^9 e^x}{(e^x - 1)^2}\right] = 0
-\quad \Longrightarrow \quad (x - 9) e^x + 9= 0.
+\quad \Longrightarrow \quad (x^* - 9) e^x^* + 9= 0.
 $$
 
 This is a transcendental equation with no closed-form solution.
@@ -43,11 +44,11 @@ But we can use a sneaky approximation method, and for the heck of it,
 solve the more general problem
 
 $$
-(x - n) e^x + n = 0.
+(x^* - n) e^x^* + n = 0.
 $$
 
 Our inspired guess is that there is a solution near $n$, so we rewrite
-in terms of $y = x - n$:
+in terms of $y = x^* - n$:
 
 $$
 y e^y + e^{-n} n = 0.
@@ -67,8 +68,9 @@ y = \frac{1}{2}\left[\sqrt{1 - 4n e^{-n}} - 1\right] \approx - n e^{-n},
 $$
 
 where we used the binomial approximation.
-So our approximate solution is
+So the maximum wavelength is roughly
 
 $$
-x = n(1 - e^{-n}).
+x^* = n(1 - e^{-n}) \quad \Longrightarrow \quad \lambda^* = \frac{h
+c}{kT n(1 - e^{-n})}.
 $$
