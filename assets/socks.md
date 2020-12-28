@@ -20,4 +20,13 @@ def randsocks(n):
   while len(firstrand[:k]) == len(list(set(firstrand[:k]))):
     k = k + 1
   return k
+
+averages = []
+repeats = 10000
+for n in range(20):
+  results = []
+  for rep in range(repeats):
+    results.append(randsocks(n))
+	av = sum(results)/float(len(results))
+	averages.append(av)
 ```
