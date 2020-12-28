@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The sock problem"
 categories: [Maths, Everyday]
-date:  2020-12-27
+date:  2020-12-28
 ---
 
-**December 27, 2020.** *If you have a jumble of $n$ pairs of socks,
+**December 28, 2020.** *If you have a jumble of $n$ pairs of socks,
   how many do you need to grab on average before getting a pair? The
   answer turns out to be surprisingly tricky!*
 
