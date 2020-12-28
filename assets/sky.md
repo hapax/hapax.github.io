@@ -38,7 +38,7 @@ To find the maximum $x^*$, we simply differentiate and set to $0$:
 $$
 f'_T(x) = C
 \left[\frac{9x^8}{e^{x} - 1} - \frac{x^9 e^x}{(e^x - 1)^2}\right] = 0
-\quad \Longrightarrow \quad (x^* - 9) e^x^* + 9= 0.
+\quad \Longrightarrow \quad (x^* - 9) e^{x^*} + 9= 0.
 $$
 
 This is a transcendental equation with no closed-form solution.
@@ -46,7 +46,7 @@ But we can use a sneaky approximation method, and for the heck of it,
 solve the more general problem
 
 $$
-(x^* - n) e^x^* + n = 0.
+(x^* - n) e^{x^*} + n = 0.
 $$
 
 Our inspired guess is that there is a solution near $n$, so we rewrite
