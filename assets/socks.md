@@ -38,8 +38,8 @@ $$
 Thus, the probability that no pairs are drawn is
 
 $$
-p_k = \frac{2^k n!}{(n-k)!} \times \binom{2n}{k}^{-1} = \frac{(n!)^2}{
-(2n)!} \times 2^k\binom{2n-k}{n-k}.
+p_k = \frac{2^k n!}{(n-k)!} \cdot \binom{2n}{k}^{-1} = \frac{(n!)^2}{
+(2n)!} \cdot 2^k\binom{2n-k}{n-k}.
 $$
 
 We have tried to simplify the $k$ dependence so there is a single
@@ -72,6 +72,8 @@ $$
 (p_{k-1} - p_{k+1}).
 $$
 
+#### Special 
+
 To make progress on this sum, we can use a trick.
 We note that each term $p_k$ occurs twice, first with a multiplier
 $k+1$, then a multiplier $-(k+2)$.
@@ -80,13 +82,37 @@ Thus, we can simplify the sum to
 
 $$
 \langle D\rangle = \sum_{k = 0}^n p_k = \sum_{k = 0}^n \frac{(n!)^2}{
-(2n)!} \times 2^k\binom{2n-k}{n-k}.
+(2n)!} \cdot 2^k\binom{2n-k}{n-k}.
 $$
 
-This is a difficult sum, and there is (as far as I know) no simply
-closed form expression.
-Instea, we can invoke a special function called the *Gauss
-hypergeometric function*
+This is a difficult sum, and there is (as far as I know) no closed
+form expression in terms of elementary functions.
+Instead, we can invoke a special function called the *Gauss
+hypergeometric function* ${}_2 F_1$ to package things nicely.
+As nicely described in
+[*Concrete Mathematics*](https://www-cs-faculty.stanford.edu/~knuth/gkp.html),
+the hypergeometric function captures any sum whose terms differ by a
+rational function of $k$.
+More precisely, the rule is that if we have terms $t_k$ for $k \geq
+0$, with a ratio
+
+$$
+\frac{t_{k+1}}{t_k} = \frac{z (k+a)(k+b)}{(k+c)} \cdot \frac{1}{k+1},
+$$
+
+then we can package the sum of the terms into a hypergeometric
+function:
+
+$$
+\sum_{k\geq 0} t_k = t_0 {}_2 F_1(a, b; c; z).
+$$
+
+Let's apply this to the randomly drawn socks.
+The ratio of the terms $p_k$ is (after a little algebra) seen to be
+
+$$
+\frac{p_{k+1}}{p_k} = \frac{2 (k-n)(k+1)}{(k-2n)} \cdot \frac{1}{k+1}.
+$$
 
 #### Simulated socks
 
