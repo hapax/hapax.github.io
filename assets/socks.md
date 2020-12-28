@@ -7,7 +7,7 @@ categories: [Maths, Everyday]
 date:  2020-12-27
 ---
 
-**December 27, 2020.** *If you have a jumble pile of socks,
+**December 27, 2020.** *If you have a jumbled pile of socks,
   how many do you need to draw on average before getting a pair? The
   answer turns out to be surprisingly tricky!*
 
@@ -141,7 +141,7 @@ of simulations!
 	</div>
 	</figure>
 
-If you're interested, here is the Python code that generates this plot.
+If you're interested, here is the Python code that generates this plot:
 
 ```python
 import numpy as np
@@ -192,8 +192,13 @@ $$
 
 The same trick can be used to evaluate the expected number of draws,
 $\langle D\rangle$, and we end up simply replacing $2$ with $f$ in our
-expression $(\ref{hyper})$, as you might expect:
+expression $(\ref{hyper})$:
 
 $$
 \langle D \rangle = \sum_{k=0}^n p_k = {}_2 F_1 (-n, 1; -fn; f).
 $$
+
+Incidentally, when I was 10 or so, my older siblings gave me a copy of
+[*Math Curse*](https://en.wikipedia.org/wiki/Math_Curse), a picture
+book about a girl who sees math problems everywhere.
+Clearly, the book was some 
