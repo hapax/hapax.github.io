@@ -2,14 +2,16 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Blue skies and white snows"
+title:  "Why is the sky blue?"
 categories: [Physics, Everyday]
 date:  2020-12-26
 ---
 
-**December 26, 2029.** *Why is the sky blue? And why is snow white?*
+**December 26, 2029.** *Why is the sky blue? The answer involves *
 
-#### Rayleigh scattering and blackbody radiation
+#### Rayleigh scattering
+
+When light passes through the atmosphere
 
 #### Rayleigh scattering
 
@@ -19,7 +21,7 @@ The spectral radiance $R(\lambda, T)$ at temperature $T$, which is the
 radiant intensity per unit wavelength, obeys Planck's law
 
 $$
-R(\lambda, T) = \frac{B}{\lambda^5(e^{h c/kT\lambda} - 1)},
+R(\lambda, T) = \frac{B}{\lambda^5} \frac{1}{e^{h c/kT\lambda} - 1},
 $$
 
 where $h$ is Planck's constant and $k$ is Boltzmann's constant.
@@ -56,8 +58,8 @@ $$
 y e^y + e^{-n} n = 0.
 $$
 
-We then Taylor expand $e^y$, and for something tractable, let's just
-to first order in $y$:
+We then Taylor expand $e^y$. For something tractable, let's just
+go to first order in $y$:
 
 $$
 0 = y e^y + e^{-n} n \approx y(1 + y) + e^{-n}n.
@@ -66,13 +68,21 @@ $$
 The quadratic formula gives the self-consistently small solution
 
 $$
-y = \frac{1}{2}\left[\sqrt{1 - 4n e^{-n}} - 1\right] \approx - n e^{-n},
+y = \frac{1}{2}\left(\sqrt{1 - 4n e^{-n}} - 1\right) \approx - n e^{-n},
 $$
 
 where we used the binomial approximation.
 So the maximum wavelength is roughly
 
 $$
-x^* = n(1 - e^{-n}) \quad \Longrightarrow \quad \lambda^* = \frac{h
-c}{kT n(1 - e^{-n})}.
+x^* = y + n \approx n(1 - e^{-n}) \quad \Longrightarrow \quad \lambda^* \approx \frac{h
+c}{kT n(1 - e^{-n})} \approx \frac{hc}{kT n}.
 $$
+
+#### References
+
+https://application.wiley-vch.de/books/sample/3527403205_c01.pdf
+http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
+https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions
+
+<!-- maximum e^(-(x-550*5/480)^2/(2*(50*5/480)^2))x^9/(e^x - 1)-->
