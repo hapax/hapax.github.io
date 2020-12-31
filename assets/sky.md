@@ -81,7 +81,7 @@ $$
 $$
 
 Up to constants, this is called *Wien's law*.
-The important point is that it is inversely proportional to
+The important point is that the dominant wavelength is inversely proportional to
 temperature!
 If we would like to include constants, then as shown in the appendix,
 we have
@@ -123,11 +123,11 @@ to the molecule's volume.
 
 More precisely, suppose we fire $N_\text{in}$ photons at the air
 molecule, and $N_\text{out}$ bounce off.
-The probability $p = N_\text{out}/N_\text{in}$ that any given photon
+The ratio $p = N_\text{out}/N_\text{in}$ that any given photon
 hits the molecule is proportional to its volume $V$:
 
 $$
-p = \frac{N_\text{out}}{N_\text{in}} \propto V.
+p = \frac{N_\text{out}}{N_\text{in}} \propto V^2.
 $$
 
 Since the scattered photons are effectively emitted from the small
@@ -136,10 +136,18 @@ at a distance $r$, the number of photons per unit area is
 
 $$
 n_\text{out} = \frac{N_\text{out}}{4\pi r^2} \propto \frac{p}{r^2}
-\propto \frac{V}{r^2}.
+\propto \frac{V^2}{r^2}.
 $$
 
+As it stands, the answer is not dimensionally sensible.
+On the left, we have a number per area, with dimensions $1/L^2$.
+On the right, we have something with dimensions
 
+$$
+\left[\frac{V}{r^2}\right] = \frac{L^3}{L^2} = L.
+$$
+
+We 
 
 #### Appendix: a transcendental approximation
 
