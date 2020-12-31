@@ -100,11 +100,14 @@ $$
 
 This is right on the cusp between blue and green. You may not have
 known that the sun is bluey-green, since when you look at it without
-burning a hole in your retina, it looks yellow.
-This turns out to be because the blue light is scattered by the
-atmosphere, leaving a dominant yellow colour!
-But the sky is blue, and not bluey-green, so something in our
-explanation is missing.
+burning a hole in your retina, it appears yellow!
+This is precisely because of the blue light subtracted by scattering
+from the air.
+But this subtraction doesn't quite add up.
+If the air took on the dominant colour of the sun (thereby making it
+yellow), we would expect the sky to be bluey-green rather than azure
+blue.
+What is missing?
 
 #### Rayleigh scattering
 
