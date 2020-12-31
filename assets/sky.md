@@ -235,12 +235,11 @@ by Eric Toolson:
 	</div>
 	</figure>
 
-The averaged curve peaks in the green since the medium cones are more
-sensitive, but most of the scattered light from the sun hits the short
-cones.
-There is, however, a dash of green in there, giving rise to the
-cerulean blue of the sky, with an effective dominant wavelength of
-around $450 \text{ nm}$.
+The averaged curve peaks where the medium and long curves overlap, but
+most of the scattered light from the sun hits the short cones.
+There is, however, a dash of green in there, making the cerulean blue
+of the sky, with an effective dominant wavelength of around $450
+\text{ nm}$.
 
 We now have our (relatively sophisticated) answer to our original
 question: why is the sky blue?
@@ -248,9 +247,9 @@ The sun emits a range of wavelengths peaked in the bluey-green.
 Shorter wavelengths are more likely to bounce off air molecules, due
 to the $1/\lambda^4$ scaling of Rayleigh scattering, so the violet end
 of the visible spectrum is heavily preferenced.
-Finally, the short cones responsible for seeing blue are much more
-heavily activated that the medium and long cones, so the resulting
-spectrum appears blue.
+Finally, the short cones responsible for seeing blue are more heavily
+activated than the medium and long cones, so the sky is azure:
+primarily blue with a hint of green.
 
 #### Sunsets, brightening, and so on
 
