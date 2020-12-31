@@ -111,6 +111,10 @@ What is missing?
 
 #### Rayleigh scattering
 
+Air does not treat wavelengths equally.
+To see how molecules interact with different colours, we'll repeat a
+famouse dimensional analysis due to Lord Rayleigh, aka
+[John William Strutt](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh).
 The wavelength of visible light is a few hundred nanometres, a
 thousand times larger than an air molecule.
 Thus, to a light wave, a molecule is a tiny, structureless, point.
