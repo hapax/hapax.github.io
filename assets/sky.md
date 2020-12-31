@@ -46,7 +46,7 @@ We can guess this wavelength based on dimensional analysis.
 	</div>
 	</figure>
 
-The surface temperature of the sun is around $\mathcal{T} = 5800 \text{ K}$, and
+The surface temperature of the sun is around $T = 5800 \text{ K}$, and
 the hot atoms at its surface emit light.
 The relevant physical constants are Boltzmann constant $k$ (since
 temperature is involve), Planck's constant $h$ (since atoms are
@@ -54,17 +54,17 @@ involved), and the speed of light $c$ (since light is involved).
 We want a wavelength $\lambda$, so we guess a relation of the form
 
 $$
-\lambda_{\text{max}} = h^a c^b k^d \mathcal{T}^e
+\lambda_{\text{max}} = h^a c^b k^d T^e
 $$
 
 for some powers $a, b, d, e$.
-Let $E = ML^2/T^2$ be dimensons of energy and $\Theta$ the dimension
-of temperature.
-Then our constants have dimensions $[h] = ET$, $[c] = L/T$, $[k] =
+Let $\mathcal{T}$ be the dimension of time, $E = ML^2/\mathcal{T}^2$
+dimensons of energy and $\Theta$ the dimension of temperature.
+Then our constants have dimensions $[h] = E\mathcal{T}$, $[c] = L/\mathcal{T}$, $[k] =
 E/\Theta$, and hence
 
 $$
-L = [\lambda_{\text{max}}] = [h^a c^b k^d \mathcal{T}^e] = E^{a+c} T^{a-b}L^b \Theta^{d-c}.
+L = [\lambda_{\text{max}}] = [h^a c^b k^d T^e] = E^{a+c} \mathcal{T}^{a-b}L^b \Theta^{d-c}.
 $$
 
 Since $M$ only appears in $E$ (on the RHS), we obtain the equations
