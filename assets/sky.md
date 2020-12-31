@@ -113,7 +113,7 @@ What is missing?
 
 Air does not treat wavelengths equally.
 To see how molecules interact with different colours, we'll repeat a
-famouse dimensional analysis due to Lord Rayleigh, aka
+famous dimensional analysis due to Lord Rayleigh, aka
 [John William Strutt](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh).
 The wavelength of visible light is a few hundred nanometres, a
 thousand times larger than an air molecule.
@@ -151,7 +151,7 @@ On the left, we have a number per area, with dimensions $1/L^2$.
 On the right, we have something with dimensions
 
 $$
-\left[\frac{V}{r^2}\right] = \frac{L^3}{L^2} = L.
+\left[\frac{V^2}{r^2}\right] = \frac{L^6}{L^2} = L.
 $$
 
 We 
