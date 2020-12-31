@@ -181,6 +181,29 @@ Assuming that the curve drops smoothly, this seems to suggest that the
 strongest visible wavelength should be violet.
 So once again, we can ask: why is the sky blue?
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/lumcurves.png"/>
+	</div>
+	</figure>
+
+The answer is that our eyes are much more sensitive to blue than to
+violet.
+The sensitivity of the human eye to different colours is described by
+something called the [photopic curve](https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions), which peaks around $\lambda =
+550 \text{ nm}$ (yellow), and drops rapidly away until almost
+vanishing at $400 \text{ nm}$ (violet) at one end, and $700 \text{
+nm}$ (dark red) at the other.
+If we take a product of all three functions, we get an effective
+spectrum:
+
+$$
+\text{effective spectrum} = \text{solar spectrum} \times \text{Rayleigh scattering} \times
+\text{photopic curve}.
+$$
+
+
+
 #### Appendix: a transcendental approximation
 
 The Rayleigh scattering cross-section falls off with wavelength as
