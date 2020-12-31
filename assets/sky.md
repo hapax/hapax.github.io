@@ -11,7 +11,7 @@ date:  2020-12-30
   surprising combination of elements, including but not limited to
   particle physics, dimensional analysis, thermodynamics, and biology.*
 
-#### Rayleigh scattering
+#### Wien's law
 
 Raising your eyes on a sunny day, you will be confronted by one of
 those elemental mysteries of everyday life: the blueness of the sky.
@@ -40,13 +40,71 @@ Air reflects the light of the sun, and appears blue.
 	</div>
 	</figure>
 
-But if the air reflected all solar light equally, it would appear the same
+If air reflected all solar light equally, it would appear the same
 colour as the sun.
 It's a bit hard to tell what colour the sun actually is, since it's so
 blindingly bright.
-This turns out to be a subtle question, but a simple measure is to
-look at the whole spread of light emitted and pick out the frequency
-which emits 
+The simplest measure is to see what wavelength it emits most, $\lambda_{\text{max}}$.
+We can guess this wavelength based on dimensional analysis.
+
+The surface temperature of the sun is around $\mathcal{T} = 5800 \text{ K}$, and
+the hot atoms at its surface emit light.
+The relevant physical constants are Boltzmann constant $k$ (since
+temperature is involve), Planck's constant $h$ (since atoms are
+involved), and the speed of light $c$ (since light is involved).
+We want a wavelength $\lambda$, so we guess a relation of the form
+
+$$
+\lambda_{\text{max}} = h^a c^b k^d \mathcal{T}^e
+$$
+
+for some powers $a, b, d, e$.
+Let $E = ML^2/T^2$ be dimensons of energy and $\Theta$ the dimension
+of temperature.
+Then our constants have dimensions $[h] = ET$, $[c] = L/T$, $[k] =
+E/\Theta$, and hence
+
+$$
+L = [\lambda_{\text{max}}] = [h^a c^b k^d \mathcal{T}^e] = E^{a+c} T^{a-b}L^b \Theta^{d-c}.
+$$
+
+Since $M$ only appears in $E$ (on the RHS), we obtain the equations
+
+$$
+a+c = 0,\quad a- b = 0, \quad b = 1, \quad d - c = 0 \quad
+\Longrightarrow \quad a = b = -c = -d = 1,
+$$
+
+and hence
+
+$$
+\lambda_{\text{max}} \sim \frac{hc}{kT}.
+$$
+
+Up to constants, this is called *Wien's law*.
+The important point is that it is inversely proportional to
+temperature!
+If we would like to include constants, then as shown in the appendix,
+we have
+
+$$
+\lambda_{\text{max}} \approx \frac{hc}{5kT}.
+$$
+
+If we substitute in constants and the surface temperature of the sun,
+we get in SI units
+
+$$
+\lambda_{\text{max}} \approx \frac{(6.6 \times 10^{-34})(3 \times
+10^8)}{5(1.4 \times 10^{-23})5800} \text{ m} \approx 480 \text{ nm}.
+$$
+
+This is right on the cusp between blue and green. You may not have
+known that the sun is bluey-green, since it just looks like a hole in
+your retina, but the sky is definitely blue and not bluey-green.
+So it seems that air scatters different frequencies preferentially.
+
+#### Rayleigh scattering
 
 #### Appendix: a transcendental approximation
 
