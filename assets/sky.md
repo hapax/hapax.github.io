@@ -33,10 +33,6 @@ lies beyond and includes it...
 
 In other words, space is black, and without intrinsic colour.
 Air reflects the light of the sun, and appears blue.
-But if the air reflected all solar light equally, it would appear the same
-colour as the sun.
-It's a bit hard to tell what colour the sun actually is, since it's so
-blindingly bright.
 
 <figure>
     <div style="text-align:center"><img src
@@ -44,6 +40,10 @@ blindingly bright.
 	</div>
 	</figure>
 
+But if the air reflected all solar light equally, it would appear the same
+colour as the sun.
+It's a bit hard to tell what colour the sun actually is, since it's so
+blindingly bright.
 This turns out to be a subtle question, but a simple measure is to
 look at the whole spread of light emitted and pick out the frequency
 which emits 
