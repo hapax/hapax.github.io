@@ -219,6 +219,18 @@ The response curves are shown below:
 	</div>
 	</figure>
 
+We now have our (relatively sophisticated) answer to our original
+question: why is the sky blue?
+The sun emits a range of wavelengths peaked in the bluey-green.
+Shorter wavelengths are more likely to bounce off air molecules, due
+to the $1/\lambda^4$ scaling of Rayleigh scattering, so the violet end
+of the visible spectrum is heavily preferenced.
+Finally, the short cones responsible for seeing blue are much more
+heavily activated that the medium and long cones, and the resulting
+perceived colour is therefore blue.
+
+#### Sunsets, brightening, and so on
+
 #### Appendix: a transcendental approximation
 
 The Rayleigh scattering cross-section falls off with wavelength as
