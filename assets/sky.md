@@ -4,16 +4,34 @@ mathjax: true
 comments: true
 title:  "Why is the sky blue?"
 categories: [Physics, Everyday]
-date:  2020-12-26
+date:  2020-12-30
 ---
 
-**December 26, 2029.** *Why is the sky blue? The answer involves *
+**December 30, 2020.** *Why is the sky blue? The answer involves a
+  surprising combination of elements, including but not limited to
+  particle physics, dimensional analysis, thermodynamics, and biology.*
 
 #### Rayleigh scattering
 
-When light passes through the atmosphere
+Raising your eyes on a sunny day, you will be confronted by one of
+those elemental mysteries of everyday life: the blueness of the sky.
+Why is it blue?
+Although this may be baby's first physics question, the answer is a
+bit subtler than most physics textbooks make out.
+The first and most important observation was due to Leonardo Da Vinci,
+who correctly speculated that blue is not the colour of the air
+itself, but rather, light reflected by air. He wrote that
 
-#### Rayleigh scattering
+<span style="padding-left: 20px; display:block">
+....the blueness we see in the atmosphere is not intrinsic color, but is caused
+by warm vapor evaporated in minute and
+insensible atoms on which the solar rays
+fall, rendering them luminous against the
+infinite darkness of the fiery sphere which
+lies beyond and includes it...
+</span>
+
+#### Appendix: a transcendental approximation
 
 The Rayleigh scattering cross-section falls off with wavelength as
 $\sigma = A/\lambda^4$.
