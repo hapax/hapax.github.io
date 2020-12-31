@@ -202,7 +202,22 @@ $$
 \text{photopic curve}.
 $$
 
+So, surely the peak here should be blue. Right?
+Well, it turns out (calculation omitted) that this effective spectrum
+peaks in the green!
+We need to think a bit more about the physiology of the eye.
+The photopic curve is actually an average over three different types
+of receptor cells, called *cones*, responsible for colour vision.
+There are short cones (S) which are sensitive to blue, medium cones
+(M) sensitive to bluey-green through to yellow, and finally, long
+cones sensitive to orange through red.
+The response curves are shown below:
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/lumcurves2.png"/>
+	</div>
+	</figure>
 
 #### Appendix: a transcendental approximation
 
@@ -275,5 +290,6 @@ $$
 https://application.wiley-vch.de/books/sample/3527403205_c01.pdf
 http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
 https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions
+https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html
 
 <!-- maximum e^(-(x-550*5/480)^2/(2*(50*5/480)^2))x^9/(e^x - 1)-->
