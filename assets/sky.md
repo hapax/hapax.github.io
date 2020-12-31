@@ -38,6 +38,12 @@ colour as the sun.
 It's a bit hard to tell what colour the sun actually is, since it's so
 blindingly bright.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/sky1.png"/>
+	</div>
+	</figure>
+
 This turns out to be a subtle question, but a simple measure is to
 look at the whole spread of light emitted and pick out the frequency
 which emits 
