@@ -158,7 +158,7 @@ left, since we have units of intensity on the LHS, and on the RHS,
 intensity times $[V^2/r^2] = L^4$.
 To get rid of this, there is only one other quantity with dimensions
 of length left: the wavelength $\lambda$ of light itself! Dividing by
-$\lambd^4$ gives the famous formula for the intensity of Rayleigh
+$\lambda^4$ gives the famous formula for the intensity of Rayleigh
 scattering:
 
 $$
@@ -254,51 +254,46 @@ spectrum appears blue.
 
 #### Appendix: a transcendental approximation
 
-The Rayleigh scattering cross-section falls off with wavelength as
-$\sigma = A/\lambda^4$.
-The spectral radiance $R(\lambda, T)$ at temperature $T$, which is the
-radiant intensity per unit wavelength, obeys Planck's law
+To a good approximation, the sun is a perfect emitter of light, with a
+blackbody spectrum for intensity per unit wavelength
 
 $$
-R(\lambda, T) = \frac{B}{\lambda^5} \frac{1}{e^{h c/kT\lambda} - 1},
+R_5(\lambda, T) = \frac{A_5}{\lambda^5} \frac{1}{e^{h c/kT\lambda} - 1}.
 $$
 
-where $h$ is Planck's constant and $k$ is Boltzmann's constant.
-Define $x = h c/kT\lambda$.
-The colour of the sky will maximize the product of the blackbody
-radiance spectrum coming from the sun and the Rayleigh scattering
-cross-section:
+(You can find a derivation in any textbook on thermodynamics, or simply
+take it on faith.)
+Wien's law arises from finding the peak of this curve.
+Similarly, the colour of the sky (independent of the human eye) arises
+from maximising this spectral curve, multiplied by the Rayleigh
+scattering term $\lambda^{-4}$:
 
 $$
-f_T(x) = \frac{C x^9}{e^{x} - 1}
+R_9(\lambda, T) = \frac{A_9}{\lambda^9} \frac{1}{e^{h c/kT\lambda} - 1}.
 $$
 
-for some constant $C$.
-To find the maximum $x^*$, we simply differentiate and set to $0$:
+Let's define $x = h c/kT\lambda$.
+We can solve both problems by defining a general function $R_n(x)
+\propto x^n/(e^x- 1)$ and determining approximately where it peaks.
+We use the first-year calculus approach of differentiating and setting
+the derivative to zero:
 
 $$
-f'_T(x) = C
-\left[\frac{9x^8}{e^{x} - 1} - \frac{x^9 e^x}{(e^x - 1)^2}\right] = 0
-\quad \Longrightarrow \quad (x^* - 9) e^{x^*} + 9= 0.
+f'_T(x) \propto 
+\left[\frac{nx^{n-1}}{e^{x} - 1} - \frac{x^n e^x}{(e^x - 1)^2}\right] = 0
+\quad \Longrightarrow \quad (x^* - n) e^{x^*} + n= 0.
 $$
 
 This is a transcendental equation with no closed-form solution.
-But we can use a sneaky approximation method, and for the heck of it,
-solve the more general problem
-
-$$
-(x^* - n) e^{x^*} + n = 0.
-$$
-
-Our inspired guess is that there is a solution near $n$, so we rewrite
-in terms of $y = x^* - n$:
+But since the exponential grows very quickly, we expect that the term
+$y = x^* - n$ multiplying it must be small.
+Let's rewrite our equation terms of $y$:
 
 $$
 y e^y + e^{-n} n = 0.
 $$
 
-We then Taylor expand $e^y$. For something tractable, let's just
-go to first order in $y$:
+We then Taylor expand $e^y$. For something tractable, we just go to first order in $y$:
 
 $$
 0 = y e^y + e^{-n} n \approx y(1 + y) + e^{-n}n.
@@ -317,6 +312,8 @@ $$
 x^* = y + n \approx n(1 - e^{-n}) \quad \Longrightarrow \quad \lambda^* \approx \frac{h
 c}{kT n(1 - e^{-n})} \approx \frac{hc}{kT n}.
 $$
+
+This gives the approximate maxima above.
 
 #### References
 
