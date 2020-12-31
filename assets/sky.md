@@ -154,7 +154,32 @@ $$
 \left[\frac{V^2}{r^2}\right] = \frac{L^6}{L^2} = L.
 $$
 
-We 
+This leads to the common explanation of the colour of the sky.
+Blue light has a shorter wavelength than red, so it is scattered more
+by air molecules, explaining that pure azure we know and love.
+But does it? This explanation would make sense if blue was the
+shortest visible wavelength, but we've known since Newton that indigo
+and violet (after the 'B' in ROYGBIV) have even shorter wavelengths.
+So why isn't the sky violet?
+
+#### The eyes have it
+
+To determine the dominant colour of the sky, we need to consider the
+spread of light arriving from the sun, and then multiply by
+$1/\lambda^4$ to account for Rayleigh scattering.
+The dominant colour is the highest point on this curve, analogous to
+Wien's law.
+We do this in the appendix.
+The result is
+
+$$
+\lambda \approx \frac{hc}{9kT} \approx 270 \text{ nm}.
+$$
+
+This isn't a visible wavelength at all! It's in the ultraviolet.
+Assuming that the curve drops smoothly, this seems to suggest that the
+strongest visible wavelength should be violet.
+So once again, we can ask: why is the sky blue?
 
 #### Appendix: a transcendental approximation
 
