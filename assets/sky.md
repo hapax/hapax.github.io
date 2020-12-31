@@ -108,6 +108,39 @@ explanation is missing.
 
 #### Rayleigh scattering
 
+The wavelength of visible light is a few hundred nanometres, a
+thousand times larger than an air molecule.
+Thus, to a light wave, a molecule is a tiny, structureless, point.
+It does not interact with different parts of the molecule differently.
+But its chances of colliding with the molecule are still proportional
+to the molecule's volume.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/sky2.png"/>
+	</div>
+	</figure>
+
+More precisely, suppose we fire $N_\text{in}$ photons at the air
+molecule, and $N_\text{out}$ bounce off.
+The probability $p = N_\text{out}/N_\text{in}$ that any given photon
+hits the molecule is proportional to its volume $V$:
+
+$$
+p = \frac{N_\text{out}}{N_\text{in}} \propto V.
+$$
+
+Since the scattered photons are effectively emitted from the small
+point where the air molecule is, they spread spherically outwards, and
+at a distance $r$, the number of photons per unit area is
+
+$$
+n_\text{out} = \frac{N_\text{out}}{4\pi r^2} \propto \frac{p}{r^2}
+\propto \frac{V}{r^2}.
+$$
+
+
+
 #### Appendix: a transcendental approximation
 
 The Rayleigh scattering cross-section falls off with wavelength as
