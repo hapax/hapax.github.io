@@ -224,7 +224,9 @@ of receptor cells, called *cones*, responsible for colour vision.
 There are short cones (S) which are sensitive to blue, medium cones
 (M) sensitive to bluey-green through to yellow, and finally, long
 cones sensitive to orange through red.
-The response curves, including relative strength, are shown below:
+The response curves, including relative strength, are shown below,
+from [this page](https://www.unm.edu/~toolson/human_cone_response.htm)
+by Eric Toolson:
 
 <figure>
     <div style="text-align:center"><img src
@@ -251,6 +253,9 @@ heavily activated that the medium and long cones, so the resulting
 spectrum appears blue.
 
 #### Sunsets, brightening, and so on
+
+https://application.wiley-vch.de/books/sample/3527403205_c01.pdf
+http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
 
 #### Appendix: a transcendental approximation
 
@@ -314,14 +319,7 @@ c}{kT n(1 - e^{-n})} \approx \frac{hc}{kT n}.
 $$
 
 This gives the approximate maxima above.
-
-#### References
-
-https://application.wiley-vch.de/books/sample/3527403205_c01.pdf
-http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
-https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions
-https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html
-https://en.wikipedia.org/wiki/Dominant_wavelength
-https://www.unm.edu/~toolson/human_cone_response.htm
+<!-- https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions -->
+<!-- https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html-->
 
 <!-- maximum e^(-(x-550*5/480)^2/(2*(50*5/480)^2))x^9/(e^x - 1)-->
