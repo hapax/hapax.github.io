@@ -18,8 +18,8 @@ those elemental mysteries of everyday life: the blueness of the sky.
 Why is it blue?
 Although this may be baby's first physics question, the answer is a
 bit subtler than most physics textbooks make out.
-The first and most important observation was due to Leonardo Da Vinci,
-who correctly speculated that blue is not the colour of the air
+The first qualitatively correct explanation is due to Leonardo Da
+Vinci, who realised that blue is not the colour of the air
 itself, but rather, light reflected by air. He wrote that
 
 <span style="padding-left: 20px; display:block">
@@ -30,6 +30,17 @@ fall, rendering them luminous against the
 infinite darkness of the fiery sphere which
 lies beyond and includes it...
 </span>
+
+In other words, space is black, and without intrinsic colour.
+Air reflects the light of the sun, and appears blue.
+But if the air reflected all solar light equally, it would appear the same
+colour as the sun.
+It's a bit hard to tell what colour the sun actually is, since it's so
+blindingly bright.
+
+This turns out to be a subtle question, but a simple measure is to
+look at the whole spread of light emitted and pick out the frequency
+which emits 
 
 #### Appendix: a transcendental approximation
 
