@@ -107,20 +107,25 @@ But this subtraction doesn't quite add up.
 If the air took on the dominant colour of the sun (thereby making it
 yellow), we would expect the sky to be bluey-green rather than azure
 blue.
-What is missing?
+What are we missing?
 
 #### Rayleigh scattering
 
-Air does not treat wavelengths equally.
+We are missing the fact that air is partial to scattering some kinds
+of light more than others.
 To see how molecules interact with different colours, we'll repeat a
 famous dimensional analysis due to Lord Rayleigh, aka
 [John William Strutt](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh).
 The wavelength of visible light is a few hundred nanometres, a
 thousand times larger than an air molecule.
-Thus, to a light wave, a molecule is a tiny, structureless, point.
-It does not interact with different parts of the molecule differently.
-But its chances of colliding with the molecule are still proportional
-to the molecule's volume.
+Thus, if an incoming light wave of amplitude $A_{\text{in}}$ excites
+an air molecule, all the different parts of the molecule should
+oscillate in phase.
+These oscillations will coherently add together due to the phenomenon
+of superposition, and we expect the amplitude of the outgoing,
+reflected light $A_{\text{out}}$ to be proportional to the number of
+elementary oscillators.
+This is pictured below left.
 
 <figure>
     <div style="text-align:center"><img src
@@ -128,32 +133,39 @@ to the molecule's volume.
 	</div>
 	</figure>
 
-More precisely, suppose we fire $N_\text{in}$ photons at the air
-molecule, and $N_\text{out}$ bounce off.
-The ratio $p = N_\text{out}/N_\text{in}$ that any given photon
-hits the molecule is proportional to its volume $V$:
+The number of elementary oscillators should be proportional to the
+volume of the molecule, $V$.
+But since the molecule is small, the outgoing wave spreads spherically
+outward, as depicted above right, and conservation of energy requires
+that the intensity $I_{\text{out}}$, or energy per unit area, obeys an
+inverse square law:
 
 $$
-p = \frac{N_\text{out}}{N_\text{in}} \propto V^2.
+4\pi r^2 I_{\text{out}}(r) \propto r^2 A^2_\text{out} = \text{const} \quad
+\Longrightarrow \quad A^2_\text{out} \propto \frac{V^2}{r^2}.
 $$
 
-Since the scattered photons are effectively emitted from the small
-point where the air molecule is, they spread spherically outwards, and
-at a distance $r$, the number of photons per unit area is
+We also guess that the output intensity $I_{\text{out}}$ is
+proportional to the input intensity $I_{\text{in}} = A^2_{\text{in}}$.
+Thus, we guess a relation of the form
 
 $$
-n_\text{out} = \frac{N_\text{out}}{4\pi r^2} \propto \frac{p}{r^2}
-\propto \frac{V^2}{r^2}.
+I_{\text{out}}(r) \propto I_{\text{in}} \cdot \frac{V^2}{r^2}.
 $$
 
-As it stands, the answer is not dimensionally sensible.
-On the left, we have a number per area, with dimensions $1/L^2$.
-On the right, we have something with dimensions
+But notice that the right-hand side is not dimensionally equal to the
+left, since we have units of intensity on the LHS, and on the RHS,
+intensity times $[V^2/r^2] = L^4$.
+To get rid of this, there is only one other quantity with dimensions
+of length left: the wavelength $\lambda$ of light itself! Dividing by
+$\lambd^4$ gives the famous formula for the intensity of Rayleigh
+scattering:
 
 $$
-\left[\frac{V^2}{r^2}\right] = \frac{L^6}{L^2} = L.
+\frac{I_{\text{out}}}{I_{\text{in}}} = \frac{CV^2}{r^2\lambda^4},
 $$
 
+for a dimensionless constant $C$.
 This leads to the common explanation of the colour of the sky.
 Blue light has a shorter wavelength than red, so it is scattered more
 by air molecules, explaining that pure azure we know and love.
