@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Why is the sky blue?"
 categories: [Physics, Everyday]
-date:  2020-12-30
+date:  2020-12-31
 ---
 
-**December 30, 2020.** *Why is the sky blue? The answer involves a
+**December 31, 2020.** *Why is the sky blue? The answer involves a
   surprising combination of elements, including but not limited to
   particle physics, dimensional analysis, thermodynamics, and physiology.*
 
@@ -168,10 +168,10 @@ $$
 for a dimensionless constant $C$.
 This leads to the common explanation of the colour of the sky.
 Blue light has a shorter wavelength than red, so it is scattered more
-by air molecules, explaining that pure azure we know and love.
+by air molecules, creating that pure azure we know and love.
 But does it? This explanation would make sense if blue was the
-shortest visible wavelength, but we've known since Newton that indigo
-and violet (after the 'B' in ROYGBIV) have even shorter wavelengths.
+shortest visible wavelength, but indigo and violet (after the 'B' in
+ROYGBIV) have even shorter wavelengths.
 So why isn't the sky violet?
 
 #### The eyes have it
