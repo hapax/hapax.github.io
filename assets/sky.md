@@ -70,11 +70,11 @@ $$
 Since $M$ only appears in $E$ (on the RHS), we obtain the equations
 
 $$
-a+c = 0,\quad a- b = 0, \quad b = 1, \quad d - c = 0 \quad
-\Longrightarrow \quad a = b = -c = -d = 1,
+a+c = 0,\quad a- b = 0, \quad b = 1, \quad d - c = 0,
 $$
 
-and hence
+with solution $a = b = -c = -d = 1$.
+Our dimensional guess is then
 
 $$
 \lambda_{\text{max}} \sim \frac{hc}{kT}.
