@@ -9,7 +9,7 @@ date:  2020-12-30
 
 **December 30, 2020.** *Why is the sky blue? The answer involves a
   surprising combination of elements, including but not limited to
-  particle physics, dimensional analysis, thermodynamics, and biology.*
+  particle physics, dimensional analysis, thermodynamics, and physiology.*
 
 #### Wien's law
 
@@ -184,13 +184,14 @@ So once again, we can ask: why is the sky blue?
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/lumcurves.png"/>
+		    <figcaption><i>Image courtesy of Wikipedia.</i></figcaption>
 	</div>
 	</figure>
 
 The answer is that our eyes are much more sensitive to blue than to
 violet.
 The sensitivity of the human eye to different colours is described by
-something called the [photopic curve](https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions), which peaks around $\lambda =
+something called the [photopic curve](https://en.wikipedia.org/wiki/Photopic_vision), which peaks around $\lambda =
 550 \text{ nm}$ (yellow), and drops rapidly away until almost
 vanishing at $400 \text{ nm}$ (violet) at one end, and $700 \text{
 nm}$ (dark red) at the other.
@@ -211,13 +212,21 @@ of receptor cells, called *cones*, responsible for colour vision.
 There are short cones (S) which are sensitive to blue, medium cones
 (M) sensitive to bluey-green through to yellow, and finally, long
 cones sensitive to orange through red.
-The response curves are shown below:
+The response curves, including relative strength, are shown below:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/lumcurves2.png"/>
+		    <figcaption><i>Image courtesy of Eric Toolson.</i></figcaption>
 	</div>
 	</figure>
+
+The averaged curve peaks in the green since the medium cones are more
+sensitive, but most of the scattered light from the sun hits the short
+cones.
+There is, however, a dash of green in there, giving rise to the
+cerulean blue of the sky, with an effective dominant wavelength of
+around $450 \text{ nm}$.
 
 We now have our (relatively sophisticated) answer to our original
 question: why is the sky blue?
@@ -304,5 +313,6 @@ http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
 https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions
 https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html
 https://en.wikipedia.org/wiki/Dominant_wavelength
+https://www.unm.edu/~toolson/human_cone_response.htm
 
 <!-- maximum e^(-(x-550*5/480)^2/(2*(50*5/480)^2))x^9/(e^x - 1)-->
