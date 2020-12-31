@@ -33,19 +33,18 @@ lies beyond and includes it...
 
 In other words, space is black, and without intrinsic colour.
 Air reflects the light of the sun, and appears blue.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/sky1.png"/>
-	</div>
-	</figure>
-
 If air reflected all solar light equally, it would appear the same
 colour as the sun.
 It's a bit hard to tell what colour the sun actually is, since it's so
 blindingly bright.
 The simplest measure is to see what wavelength it emits most, $\lambda_{\text{max}}$.
 We can guess this wavelength based on dimensional analysis.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/sky1.png"/>
+	</div>
+	</figure>
 
 The surface temperature of the sun is around $\mathcal{T} = 5800 \text{ K}$, and
 the hot atoms at its surface emit light.
