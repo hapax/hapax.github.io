@@ -226,8 +226,8 @@ Shorter wavelengths are more likely to bounce off air molecules, due
 to the $1/\lambda^4$ scaling of Rayleigh scattering, so the violet end
 of the visible spectrum is heavily preferenced.
 Finally, the short cones responsible for seeing blue are much more
-heavily activated that the medium and long cones, and the resulting
-perceived colour is therefore blue.
+heavily activated that the medium and long cones, so the resulting
+spectrum appears blue.
 
 #### Sunsets, brightening, and so on
 
@@ -303,5 +303,6 @@ https://application.wiley-vch.de/books/sample/3527403205_c01.pdf
 http://homepages.wmich.edu/~korista/colors_of_the_sky-Bohren_Fraser.pdf
 https://www.oceanopticsbook.info/view/photometry-and-visibility/luminosity-functions
 https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html
+https://en.wikipedia.org/wiki/Dominant_wavelength
 
 <!-- maximum e^(-(x-550*5/480)^2/(2*(50*5/480)^2))x^9/(e^x - 1)-->
