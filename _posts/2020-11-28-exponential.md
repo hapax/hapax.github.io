@@ -241,7 +241,7 @@ e^x = p_\infty(x) = 1 + x + \frac{x^2}{2!} + \cdots +
 \frac{x^k}{k!} + \cdots.
 $$
 
-This formula can rigorously established, and the infinite polynomial
+This can be rigorously established, and the infinite polynomial
 $p_\infty(x)$ is called a *power series*. But
 we will continue to play fast and loose with the rules, ignoring the
 messy (and distracting) business of formal proof.
@@ -879,7 +879,7 @@ $$
 \end{align*}
 $$
 
-Though we have arrived by a slightly suspect route, this formula can
+Though we have arrived by a slightly suspect route, this formula can be
 proved formally, though as usual we will not do so.
 Nifty as it is, we have not factorized for its own sake, but in order
 to do something even cooler.
