@@ -557,7 +557,12 @@ This is because the rescaled points $p_k = e^{-n}a_k$ are examples of
 something called the *Poisson distribution* (also co-discovered by de
 Moivre!), with mean $n$ and standard deviation $\sqrt{n}$. They
 approach a Bell curve due to a major result from probability theory called
-the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem).
+the
+[central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem).
+Historically, though, the relation is the other way round.
+De Moivre found another way to get Stirling's approximation, and used
+it to prove a special case of the central limit theorem for the
+Poisson distribution.
 
 #### 5. Euler's formula<a id="sec-5" name="sec-4"></a>
 
