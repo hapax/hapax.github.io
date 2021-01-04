@@ -215,7 +215,7 @@ $$
 $$
 
 using the power series for the exponential.
-To state things more carefully, our proof works provided that, for all
+This concludes our heuristic demonstration. It works provided that, for all
 integers $p > 2$,
 
 $$
@@ -226,7 +226,7 @@ This vanishing of diagonal sums is precisely the *Lyapunov
 condition*, so we have given a very simplified proof of what is called
 the Lyapunov CLT.
 The main technical difference is that the Lyapunov CLT only requires
-this vanishing to hold for a single real number $p > 2$.
+the diagonal sum to vanish for a single real number $p > 2$.
 
 #### Lognormals and uniformity
 
