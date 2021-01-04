@@ -170,7 +170,7 @@ For the next term $A_2^{(N)}$, we can write
 
 $$
 \begin{align*}
-\sum_{i < j}\alpha_i \alpha_j & = \frac{1}{2}\left(\sigma_i
+\sum_{i < j}\alpha_i \alpha_j & = \frac{1}{2}\left(\sum_i
 \alpha_i\right)^2 - \sum_{i}\alpha_i^2  = \frac{t^4}{4} - \frac{t^4}{4}\sum_{i = 1}^N\frac{\sigma_i^4}{\Sigma_N^4}.
 \end{align*}
 $$
