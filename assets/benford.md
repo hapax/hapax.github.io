@@ -98,7 +98,7 @@ number like one hundred million which seems much too high, and take
 their geometric mean:
 
 $$
-\sqrt{(1 \text{ million}) \times (1 \text{ million})} = 10 \text{ million}.
+\sqrt{(1 \text{ million}) \times (100 \text{ million})} = 10 \text{ million}.
 $$
 
 Since population is a product of many different factors, it is
