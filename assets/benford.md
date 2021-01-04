@@ -98,7 +98,7 @@ number like one hundred million which seems much too high, and take
 their geometric mean:
 
 $$
-\sqrt{(1 \text{ million}) \times (1== \text{ million})} = 10 \text{ million}.
+\sqrt{(1 \text{ million}) \times (1 \text{ million})} = 10 \text{ million}.
 $$
 
 Since population is a product of many different factors, it is
@@ -115,8 +115,7 @@ geometric means provide an
 [unbiased estimator](https://en.wikipedia.org/wiki/Bias_of_an_estimator)
 of the mean.
 Moreover, the error of the estimate will decrease as $1/k$ for $k$
-samples (assuming human estimates are random samples from the uniform
-part of the distribution), so more is better.
+samples (assuming human estimates sample from the distribution), so more is better.
 To see how much better I could do on the Chile population estimate, I
 solicited guesses from four friends, and obtain $20, 20, 30$ and $35$
 million.
@@ -127,8 +126,8 @@ $$
 \approx 21 \text{ million}.
 $$
 
-The actual population is around $18$ million, so this estimate is
-indeed better!
+The actual population is around $18$ million, so the estimate made
+from more guesses is indeed better!
 
 <!--
 The Lyapunov condition holds for a sum of independent random
