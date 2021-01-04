@@ -121,7 +121,7 @@ variances $\sigma_i^2$.
 In this case, we define
 
 $$
-\Sigma_N^2 = \sum_{i=1}^N \sigma_i^2, \quad S_N :=
+\Sigma_N^2 := \sum_{i=1}^N \sigma_i^2, \quad S_N :=
 \frac{1}{\Sigma_N}\sum_{i=1}^N (X_i - \mu_i).
 $$
 
