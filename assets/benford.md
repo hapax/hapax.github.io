@@ -20,13 +20,12 @@ The central limit theorem (CLT) states that, if I sum up a bunch of
 independent, identically distributed (iid) variables, the result tends to a
 normal distribution.
 More precisely, if $X$ has mean $\mu$ and variance $\sigma^2$, and
-$X_i \sim X$ for $i = 1, \ldots, n$, then
+$X_i \sim X$ for $i = 1, \ldots, n$, then the sum converges to a normal:
 
 $$
-S_N := \frac{1}{\sqrt{N}}\sum_{i=1}^N (X_i - \mu) \to \mathcal{N}(0, 1),
+S_N := \frac{1}{\sqrt{N}}\sum_{i=1}^N (X_i - \mu) \to \mathcal{N}(0, 1).
 $$
 
-where the limit means convergence in distribution () as $N \to \infty$.
 There is a simple heuristic proof we can give.
 First, we need to define the *characteristic function* $\varphi_X$:
 
