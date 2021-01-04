@@ -77,9 +77,16 @@ p(x) = \frac{1}{\sigma\sqrt{2\pi}}
 $$
 
 This looks uniform provided $(x - \mu)^2 \ll \sigma^2$.
-For identically distributed variables, $\sigma^2 = N \sigma_i^2$,
-which blows up with $N$, so the region of uniformity can be very
-large.
+For instance, at a third of a standard deviation, $x = \mu + \sigma/3$,
+we have
+
+$$
+1 - \frac{(x-\mu)^2}{2\sigma^2} = 1 - \frac{1}{18} \approx 0.94,
+$$
+
+and about half the probability mass lies underneath.
+
+Equivalently, there can large regions over which $F$ is 
 
 #### Extra
 
