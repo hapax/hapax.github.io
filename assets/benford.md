@@ -7,29 +7,48 @@ categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-01-04
 ---
 
-**January 4, 2021.** *Why are Fermi approximations so effective?*
+**January 4, 2021.** *Why are Fermi approximations so effective? One
+  mechanism is logarithmic uniformity, which occurs for products of
+  many random variables. Interestingly, this is the same mechanism
+  behind Benford's law.*
 
 #### Introduction
 
-Fermi estimates are the art of order-of-magnitude approximation.
+Fermi approximation is the art of making good order-of-magnitude estimates.
 I've written about them
 [extensively](https://hapax.github.io/assets/fermi-estimates.pdf)
 [before](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-3),
-but I've never really found a satisfactory explanation for why they
-are so effective.
-It is not merely that order-of-magnitude is a forgiving notion of
-correctness.
-I have found that, time and time again, they are better than they have
-any right to be!
+but I've never really found a satisfactory explanation for why it is so effective.
+It's not just that order-of-magnitude provides a charitable margin of
+error.
+Even given this latitude, I've found that time and time again, they
+are better than they have any right to be!
 
 Clearly, there must be an underlying statistical explanation for this
 unreasonable effectiveness.
-Interestingly, it seems to be the same mechanism underlying the
-curious distribution of first digits in naturally occurring numbers,
-called [Benford's law](https://en.wikipedia.org/wiki/Benford%27s_law),
-which we'll review below.
+Roughly speaking, it is *logarithmic uniformity*, the same mechanism underlying the
+curious distribution of first digits known as
+[Benford's law](https://en.wikipedia.org/wiki/Benford%27s_law).
+We'll talk about uniformity, then zero in on Fermi estimates and
+Benford's law in turn.
 
-#### Lognormals and uniformity
+#### Products and logarithmic uniformity
+
+Suppose a random variable $F$ is a product of many independent random
+variables,
+
+$$
+F = X_1 X_2 \cdots X_N.
+$$
+
+Then the logarithm of $F$ is a sum of many random variables $Y_i =
+\log X_i$:
+
+$$
+\log F = \log X_1 + \log X_2 + \cdots + \log X_N = \sum_{i=1}^N Y_i.
+$$
+
+#### Extra
 
 The Lyapunov condition holds for a sum of independent random
 variables.
