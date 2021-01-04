@@ -234,6 +234,16 @@ CLT!
 
 #### Lognormals and uniformity
 
-This 
+The Lyapunov condition holds for a sum of independent random
+variables.
+By taking a logarithm, we can turn it into a result for a *product* of
+independent variables.
+Let $X_i, \mu_i, \sigma_i^2$ be as above, and $Y_i = \log X_i$.
+Then
+
+$$
+\log\left[\sum_{i=1}^N X_i\right] = \prod_{i = 1}^N Y_i \to \log
+\mathcal{N}(\mu, \sigma^2).
+$$
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
