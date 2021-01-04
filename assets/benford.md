@@ -137,6 +137,18 @@ The individual errors from a broad spread of guesses tend to cancel
 each other out, lead to a better-behaved average, though in this case
 in logarithmic space.
 
+#### Benford's law
+
+Logarithmic uniformity also explains an odd pattern in the first
+digits of naturally occurring numbers like tax returns, stock market
+prices, physical constants, and even powers of $2$.
+The pattern, called *Benford's law*, is as follows: for base $b$, the
+digit $k \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
+
+$$
+p(k) = \log_b \left(\frac{k+1}{k}\right) = \frac{1}{\log b}\log \left(\frac{k+1}{k}\right).
+$$
+
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
