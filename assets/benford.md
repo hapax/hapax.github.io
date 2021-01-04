@@ -155,7 +155,7 @@ frequency.
 But as neatly explained by
 [Pietronero et al. (1998)](https://arxiv.org/pdf/cond-mat/9808305.pdf),
 it follows immediately if the relevant numbers are logarithmically uniform.
-Let $X$ be the relevant random numbers.
+Let $X$ be our random number.
 Then the first digit is $d$ if
 
 $$
