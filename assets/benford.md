@@ -213,12 +213,23 @@ This means that the characteristic function for $S_N(t)$ approaches
 $$
 \begin{align*}
 \varphi_{S_N}(t) \to 1 + A_1 + A_2 + \cdots
-& = \sum_{k = 0}^\infty \frac{1}{k!}\left(-\frac{t^2}{2}\right)^k \\
-& = e^{-t^2/2},
+& = \sum_{k = 0}^\infty \frac{1}{k!}\left(-\frac{t^2}{2}\right)^k = e^{-t^2/2},
 \end{align*}
 $$
 
 using the power series for the exponential.
+To state things more carefully, our proof works provided that, for all
+integers $p > 2$,
+
+$$
+\lim_{N\to \infty} \sum_{i=1}^N \frac{\alpha_i^p}{\Sigma_N^p} = 0.
+$$
+
+This vanishing of diagonal sums is precisely the *Lyapunov
+condition*, so we have given a very simplified proof of what is called
+the Lyapunov CLT.
+The main technical difference is that the Lyapunov CLT only requires
+this vanishing to hold for a single real number $p > 2$.
 
 #### Lognormals and uniformity
 
