@@ -247,6 +247,15 @@ $$
 $$
 
 The distribution on the right is not a normal, but a *log-normal*.
+It is simply what the normal distribution looks like when viewed in
+terms of a variable $y = e^x$.
+In order to plot the density, we use the fact that $dy =
+y\, dx$, and hence
 
+$$
+p(x)\, dx = \frac{1}{\sigma\sqrt{2\pi}}
+e^{-\frac{(x-\mu)^2}{2\sigma^2}} \, dx = \frac{1}{\sqrt{2\pi}\sigma y}
+e^{-\frac{(\log y-\mu)^2}{2\sigma^2}} \, dy.
+$$
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
