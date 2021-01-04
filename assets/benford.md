@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The unreasonable effectiveness of Fermis"
+title:  "Logarithmic uniformity and Fermi estimates"
 categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-01-04
 ---
@@ -14,10 +14,11 @@ date:  2021-01-04
 
 #### Introduction
 
-Fermi estimation (or "Fermis") is the art of making good order-of-magnitude approximations.
+Fermi approximation is the art of making good order-of-magnitude estimates.
 I've written about them
-[extensively](https://hapax.github.io/assets/fermi-estimates.pdf)
-[before](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-3),
+at greater length
+[here](https://hapax.github.io/assets/fermi-estimates.pdf) and
+[here](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-3),
 but I've never really found a satisfactory explanation for why it is so effective.
 It's not just that order-of-magnitude provides a charitable margin of
 error.
