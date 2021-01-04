@@ -9,7 +9,7 @@ date:  2021-01-04
 
 **January 4, 2021.** *Bla*
 
-#### A cheap proof of the usual central limit theorem
+#### Characteristic functions and the CLT
 
 The central limit theorem (CLT) states that, if I sum up a bunch of
 independent, identically distributed (iid) variables, the result tends to a
