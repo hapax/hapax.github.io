@@ -85,8 +85,8 @@ Thus, the characteristic function obeys
 
 $$
 \begin{align*}
-\varphi_{S_N}(t) & = \left(\varphi_{Z/\sqrt{N}}(t)\right)^N \\
-& = \left(\varphi_{Z}(t/\sqrt{N})\right)^N \\
+\varphi_{S_N}(t) & = \left[\varphi_{Z/\sqrt{N}}(t)\right]^N \\
+& = \left[\varphi_{Z}(t/\sqrt{N})\right]^N \\
 & = \left[1 - \frac{t^2}{N} + O(t^4)\right]^N.
 \end{align*}
 $$
