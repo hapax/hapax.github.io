@@ -88,6 +88,48 @@ and about $\text{erf}(1/3\sqrt{2}) \approx 0.26$, or a quarter of the
 probability mass, lies underneath.
 This is what we mean when we say that $F$ is logarithmically uniform.
 
+#### Geometric means
+
+In Fermi estimates, one of the basic techniques is to take geometric
+means of estimates, typically an overestimate and an underestimate.
+For instance, to Fermi estimate the population of Chile, I could
+consider a number like one million which seems much too low, and a
+number like one hundred million which seems much too high, and take
+their geometric mean:
+
+$$
+\sqrt{(1 \text{ million}) \times (1== \text{ million})} = 10 \text{ million}.
+$$
+
+Since population is a product of many different factors, it is
+reasonable to expect it to approximate a log-normal distribution.
+Then, after logs, the geometric mean $\sqrt{ab}$ becomes the
+arithmetic mean of $\log a$ and $\log b$:
+
+$$
+\log \sqrt{ab} = \frac{1}{2}(\log a + \log b).
+$$
+
+Taking the mean $\mu$ of the distribution as the true value, these
+geometric means provide an
+[unbiased estimator](https://en.wikipedia.org/wiki/Bias_of_an_estimator)
+of the mean.
+Moreover, the error of the estimate will decrease as $1/k$ for $k$
+samples (assuming human estimates are random samples from the uniform
+part of the distribution), so more is better.
+To see how much better I could do on the Chile population estimate, I
+solicited guesses from four friends, and obtain $20, 20, 30$ and $35$
+million.
+Combining with my estimate, I get a geometric mean
+
+$$
+(10 \times 20 \times 20 \times 30 \times 35)^{1/5} \text{ million}
+\approx 21 \text{ million}.
+$$
+
+The actual population is around $18$ million, so this estimate is
+indeed better!
+
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
