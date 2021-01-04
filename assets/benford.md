@@ -183,7 +183,7 @@ $$
 If the second sum vanishes as $N \to \infty$, then we get
 
 $$
-A_2^{(N)} = \sum_{i < j}\alpha_i \alpha_j \to \frac{1}{2}\left(\sigma_i
+A_2^{(N)} = \sum_{i < j}\alpha_i \alpha_j \to \frac{1}{2}\left(\sum_i
 \alpha_i\right)^2 = \frac{t^4}{4}.
 $$
 
