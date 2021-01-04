@@ -129,7 +129,6 @@ $$
 The actual population is around $18$ million, so the estimate made
 from more guesses is indeed better!
 This is also better than the arithemetic average, $23$ million.
-
 This also illustrates the
 [wisdom of the crowd](https://hapax.github.io/physics/mathematics/statistics/crowd/),
 also called "diversity of prediction".
