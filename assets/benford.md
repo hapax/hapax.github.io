@@ -58,6 +58,23 @@ $$
 $$
 
 where the $Y_i$ has mean $\mu_i$ and variance $\sigma_i^2$.
+For infinitely many variables, the variance can blow up, $\sigma^2 = \infty$.
+For many variables, the variance can be very large.
+Either way, there is a region near $F = 1$ where the probability
+density is approximately uniform.
+We can quantify this as follows.
+The density is
+
+$$
+p(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-(x-\mu)^2/2\sigma^2}.
+$$
+
+Near $x = 0$, we can Taylor expand:
+
+$$
+p(x) \approx \frac{1}{\sigma\sqrt{2\pi}}
+\left[1 - \frac{(x-\mu)^2}{2\sigma^2} + O(x^4)\right].
+$$
 
 #### Extra
 
