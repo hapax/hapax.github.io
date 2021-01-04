@@ -248,7 +248,7 @@ $$
 
 The distribution on the right is not a normal, but a *log-normal*.
 It is simply what the normal distribution looks like when viewed in
-terms of a variable $y$ defined by $x = \log y$.
+terms of a variable $y > 0$ defined by $x = \log y$.
 In order to plot the density, we use the fact that $dy =
 y\, dx$, and hence
 
