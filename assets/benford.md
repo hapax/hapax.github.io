@@ -141,12 +141,19 @@ in logarithmic space.
 Logarithmic uniformity also explains an odd pattern in the first
 digits of naturally occurring numbers like tax returns, stock market
 prices, physical constants, and even powers of $2$.
-The pattern, called *Benford's law*, is as follows: for base $b$, the
-digit $k \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
+The pattern, called *Benford's law* after
+[Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford), is as
+follows: for base $b$, the digit $k \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
 
 $$
 p(k) = \log_b \left(\frac{k+1}{k}\right) = \frac{1}{\log b}\log \left(\frac{k+1}{k}\right).
 $$
+
+It initially seems bizarre that digits do not occur with equal
+frequency.
+But as neatly explained by
+[Pietronero et al. (1998)](https://arxiv.org/pdf/cond-mat/9808305.pdf),
+it follows immediately if the relevant numbers are logarithmically uniform.
 
 <!--
 The Lyapunov condition holds for a sum of independent random
