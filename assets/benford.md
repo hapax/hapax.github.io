@@ -100,7 +100,7 @@ This completes our sloppy heuristic proof!
 
 The central limit theorem, in this form, is often invoked to explain
 why common attributes like height and weight are normally distributed.
-They are a sum of many small iid increments, and so should approach a
+They are a sum of many small iid increments, and should approach a
 normal, or so the reasoning goes.
 But why should height be a sum of iid increments?
 At the end of the day, height is the phenotypic expression of our DNA.
