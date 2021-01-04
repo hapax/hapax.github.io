@@ -143,10 +143,10 @@ digits of naturally occurring numbers like tax returns, stock market
 prices, physical constants, and even powers of $2$.
 The pattern, called *Benford's law* after
 [Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford), is as
-follows: for base $b$, the digit $k \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
+follows: for base $b$, the digit $d \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
 
 $$
-p(k) = \log_b \left(\frac{k+1}{k}\right) = \frac{1}{\log b}\log \left(\frac{k+1}{k}\right).
+p_b(d) = \log_b \left(\frac{d+1}{d}\right) = \frac{1}{\log b}\log \left(\frac{d+1}{d}\right).
 $$
 
 It initially seems bizarre that digits do not occur with equal
@@ -154,6 +154,24 @@ frequency.
 But as neatly explained by
 [Pietronero et al. (1998)](https://arxiv.org/pdf/cond-mat/9808305.pdf),
 it follows immediately if the relevant numbers are logarithmically uniform.
+Let $X$ be the relevant random number, e.g. lengths of rivers.
+Then the first digit is $d$ if
+
+$$
+d \leq \log_b X = \frac{\log X}{\log b} < d + 1.
+$$
+
+If $X$ is logarithmically uniform, for instance sitting near the mean
+of a product of man variables, then $\log_b X$ is uniformly
+distributed, and lies in the interval $I_d :=
+[\log_b d, \log_b (d+1)]$ with probability
+
+$$
+\log_b (d+1) - \log_b d = \frac{1}{\log b}\log \left(\frac{d +
+1}{d}\right) = p_b(d).
+$$
+
+Thus, we have 
 
 <!--
 The Lyapunov condition holds for a sum of independent random
