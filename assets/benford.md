@@ -172,7 +172,10 @@ $$
 1}{d}\right) = p_b(d).
 $$
 
-Thus, we have 
+This provides a simple way to check for fraud on tax returns, for
+instance.
+Just compute relative frequencies of first digits in different bases
+and check they obey Benford's law!
 
 <!--
 The Lyapunov condition holds for a sum of independent random
