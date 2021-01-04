@@ -84,7 +84,7 @@ $$
 1 - \frac{(x-\mu)^2}{2\sigma^2} = 1 - \frac{1}{18} \approx 0.94,
 $$
 
-and $\text{erf}(1/3\sqrt{2}) \approx 0.26$, about a quarter of the
+and $\text{erf}(1/\sqrt{18}) \approx 0.26$, about a quarter of the
 probability mass, lies underneath.
 This is what we mean when we say that $F$ is logarithmically uniform.
 
