@@ -117,7 +117,7 @@ of the mean.
 Moreover, the error of the estimate will decrease as $1/k$ for $k$
 samples (assuming human estimates sample from the distribution), so more is better.
 To see how much better I could do on the Chile population estimate, I
-solicited guesses from four friends, and obtain $20, 20, 30$ and $35$
+solicited guesses from four friends, and obtained $20, 20, 30$ and $35$
 million.
 Combining with my estimate, I get a geometric mean
 
@@ -128,6 +128,7 @@ $$
 
 The actual population is around $18$ million, so the estimate made
 from more guesses is indeed better!
+You 
 
 <!--
 The Lyapunov condition holds for a sum of independent random
