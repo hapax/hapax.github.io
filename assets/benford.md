@@ -219,7 +219,7 @@ To state things more carefully, our proof works provided that, for all
 integers $p > 2$,
 
 $$
-\lim_{N\to \infty} \sum_{i=1}^N \frac{\alpha_i^p}{\Sigma_N^p} = 0.
+\lim_{N\to \infty} \sum_{i=1}^N \frac{\sigma_i^p}{\Sigma_N^p} = 0.
 $$
 
 This vanishing of diagonal sums is precisely the *Lyapunov
