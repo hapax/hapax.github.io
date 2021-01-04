@@ -155,6 +155,19 @@ $$
 \end{align*}
 $$
 
+We once again ignore the $O(t^4)$ terms.
+Let's write $\alpha_i := - \sigma_i t^2/2\Sigma_N^2$.
+Then
+
+$$
+\begin{align*}
+\varphi_{S_N}(t) & \approx
+\prod_{i=1}^N(1 + \alpha_i)
+\\
+= 1 + \sum_{i=1}^N \alpha_i + \sum_{i < j}\alpha_i \alpha_j + \cdots.
+\end{align*}
+$$
+
 #### Lognormals and uniformity
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
