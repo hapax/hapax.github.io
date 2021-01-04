@@ -246,4 +246,7 @@ $$
 \mathcal{N}(\mu, \sigma^2).
 $$
 
+The distribution on the right is not a normal, but a *log-normal*.
+
+
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
