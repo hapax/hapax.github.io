@@ -140,7 +140,7 @@ $$
 S_N \to \mathcal{N}(0, 1).
 $$
 
-The proofs tend are highly technical, but we can give a heuristic
+The proofs are highly technical, but we can give a heuristic
 flavour for them, since they proceed more or less as the proof above,
 up to all the technicalities.
 We can define the characteristic function $S_N$ as before, and note
