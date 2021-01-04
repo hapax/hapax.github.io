@@ -175,13 +175,8 @@ $$
 \end{align*}
 $$
 
-If the second sum vanishes as $N \to \infty$, then we get
-
-$$
-A_2^{(N)} = \sum_{i < j}\alpha_i \alpha_j \to \frac{1}{2}\left(\sum_i
-\alpha_i\right)^2 = \frac{t^4}{4}.
-$$
-
+If the second sum vanishes as $N \to \infty$, we simply have
+$A_2^{(N)} \to (-t^2/2)^2$.
 Similarly, for the next term $A_3^{(N)}$, if we assume that
 
 $$
