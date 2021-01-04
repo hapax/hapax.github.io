@@ -161,16 +161,18 @@ Let $X$ be our random number.
 Then the first digit is $d$ if
 
 $$
-d \leq \log_b X = \frac{\log X}{\log b} < d + 1.
+db^k \leq X < (d+1)b^{k} \quad \Longrightarrow \quad \log_b d + k \leq
+\log_b X < \log_b(d+1) + k
 $$
 
+for some integer $k$.
 If $X$ is logarithmically uniform, for instance sitting near the mean
 of a product of man variables, then $\log_b X$ is uniformly
 distributed, and lies in the interval $I_d :=
 [\log_b d, \log_b (d+1)]$ with probability
 
 $$
-\log_b (d+1) - \log_b d = \frac{1}{\log b}\log \left(\frac{d +
+(\log_b (d+1) + k) - (\log_b d + k) = \frac{1}{\log b}\log \left(\frac{d +
 1}{d}\right) = p_b(d).
 $$
 
@@ -180,7 +182,7 @@ Just compute relative frequencies of first digits in different bases
 and check they obey Benford's law!
 You might wonder why something totally deterministic, like the first
 digit of a power of $2$, also obeys Benford's law.
-Here is a pie chart of first digits for the first $10^4$ binary powers:
+Here is a pie chart of first decimal digits for $10,000$ binary powers:
 
 <figure>
     <div style="text-align:center"><img src
@@ -214,9 +216,29 @@ ax1.axis('equal')
 plt.show()
 ```
 
-The mechanism for logarithmic randomness here is slightly different,
-and is discussed in Serge Tabachnikov's
+The mechanism for logarithmic uniformity here is slightly different,
+and discussed in depth in Serge Tabachnikov's
 [book on geometric billiards](http://www.personal.psu.edu/sot2/books/billiardsgeometry.pdf).
+In this case, $X = 2^n$, so the first digit is $d$ just in case
+
+$$
+\log_{10}d + k \leq n\log_{10} 2 < \log_{10}(d + 1) + k.
+$$
+
+Writing $x_n := n\log_{10} 2$, and taking fractional parts, we get
+
+$$
+\log_{10}d \leq \\{n\log_{10} 2\\} < \log_{10}(d + 1).
+$$
+
+It turns out that, since $x_1 = \log_{10} 2$ is irrational,
+$\\{x_n\\}$ jumps randomly around the unit interval, and forms an
+"equidistribution".
+For a proof, see Tabachnikov's book.
+But although the fundamental cause is different, the outcome is still
+logarithmic uniformity, and the Newcomb-Benford law results.
+
+#### Subestimates
 
 <!--
 The Lyapunov condition holds for a sum of independent random
