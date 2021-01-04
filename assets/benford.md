@@ -217,6 +217,15 @@ the Lyapunov CLT, after the Russian mathematician and physicist [Aleksandr Lyapu
 The main technical difference is that the Lyapunov CLT only requires
 the diagonal sum to vanish for a single real number $p > 2$.
 
+To make things a bit more concrete, suppose height $H$ is the sum of many
+variables $X_i$, with means $\mu_i$ and variance $\sigma_i^2$.
+Then, if $\mu$ is the sum of means, and $\sigma$ the sum of variances,
+then
+
+$$
+H = \sum_i X_i \approx \mathcal{N}(\mu, \sigma).
+$$
+
 #### Lognormals and uniformity
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
