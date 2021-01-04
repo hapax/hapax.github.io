@@ -86,11 +86,9 @@ $$
 
 and about $\text{erf}(1/3\sqrt{2}) \approx 0.26$, or a quarter of the
 probability mass, lies underneath.
+This is what we mean when we say that $F$ is logarithmically uniform.
 
-Equivalently, there can large regions over which $F$ is 
-
-#### Extra
-
+<!--
 The Lyapunov condition holds for a sum of independent random
 variables.
 By taking an exponential, we can turn it into a result for a *product* of
@@ -116,6 +114,6 @@ e^{-\frac{(\log y-\mu)^2}{2\sigma^2}}.
 $$
 
 So, this is distribution that a product of many independent factors
-converges to.
+converges to. -->
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
