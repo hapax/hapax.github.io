@@ -223,7 +223,7 @@ Then, if $\mu$ is the sum of means, and $\sigma$ the sum of variances,
 then
 
 $$
-H = \sum_i X_i \approx \mathcal{N}(\mu, \sigma).
+H = \sum_i X_i \approx \mathcal{N}(\mu, \sigma^2).
 $$
 
 #### Lognormals and uniformity
