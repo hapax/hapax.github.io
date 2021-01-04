@@ -228,8 +228,10 @@ H = \sum_i X_i \approx \mathcal{N}(\mu, \sigma^2).
 $$
 
 This is a much more sensible model of how height arises than the usual
-CLT for iid variables!
+CLT!
 
 #### Lognormals and uniformity
+
+This 
 
 <!-- https://arxiv.org/pdf/cond-mat/9808305.pdf -->
