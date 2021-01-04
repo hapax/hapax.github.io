@@ -218,7 +218,8 @@ The main technical difference is that the Lyapunov CLT only requires
 the diagonal sum to vanish for a single real number $p > 2$.
 
 To make things a bit more concrete, suppose height $H$ is the sum of many
-variables $X_i$, with means $\mu_i$ and variance $\sigma_i^2$.
+variables $X_i$, with means $\mu_i$ and variance $\sigma_i^2$, and
+which satisfy the Lyapunov condition.
 Then, if $\mu$ is the sum of means, and $\sigma$ the sum of variances,
 then
 
