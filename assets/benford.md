@@ -130,6 +130,13 @@ The actual population is around $18$ million, so the estimate made
 from more guesses is indeed better!
 This is also better than the arithemetic average, $23$ million.
 
+This also illustrates the
+[wisdom of the crowd](https://hapax.github.io/physics/mathematics/statistics/crowd/),
+also called "diversity of prediction".
+The individual errors from a broad spread of guesses tend to cancel
+each other out, lead to a better-behaved average, though in this case
+in logarithmic space.
+
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
