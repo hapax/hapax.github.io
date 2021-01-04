@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The unreasonable effectiveness of Fermi estimates"
+title:  "The unreasonable effectiveness of Fermis"
 categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-01-04
 ---
@@ -14,7 +14,7 @@ date:  2021-01-04
 
 #### Introduction
 
-Fermi approximation is the art of making good order-of-magnitude estimates.
+Fermi estimation (or "Fermis") is the art of making good order-of-magnitude approximations.
 I've written about them
 [extensively](https://hapax.github.io/assets/fermi-estimates.pdf)
 [before](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-3),
