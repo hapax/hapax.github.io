@@ -164,7 +164,7 @@ $$
 \prod_{i=1}^N(1 + \alpha_i)
 \\
 & = 1 + \sum_{i=1}^N \alpha_i + \sum_{i < j}\alpha_i \alpha_j + \cdots +
-\alpha_i \cdots \alpha_N.
+(\alpha_i \cdots \alpha_N).
 \end{align*}
 $$
 
