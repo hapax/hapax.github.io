@@ -23,10 +23,10 @@ More precisely, if $X$ has mean $\mu$ and variance $\sigma^2$, and
 $X_i \sim X$ for $i = 1, \ldots, n$, then
 
 $$
-S_n := \frac{1}{\sqrt{N}}\sum_{i=1}^n (X_i - \mu) \to \mathcal{N}(0, 1),
+S_N := \frac{1}{\sqrt{N}}\sum_{i=1}^N (X_i - \mu) \to \mathcal{N}(0, 1),
 $$
 
-where the limit means convergence in distribution () as $n \to \infty$.
+where the limit means convergence in distribution () as $N \to \infty$.
 There is a simple heuristic proof we can give.
 First, we need to define the *characteristic function* $\varphi_X$:
 
@@ -52,8 +52,16 @@ e^{itX}\right\rangle \bigg|_{t=0} = i^n\langle X^n\rangle.
 $$
 
 As a special case, $\varphi_X(0) = \langle 1\rangle = 1$.
-Finally, the characteristic function for a normal distribution
-$\mathcal{N}(0, 1)$ is easily computed by completing the square:
+The final property swaps constants from random variables to the
+argument $t$:
+
+$$
+\varphi_{aX}(t) = \langle e^{itaX}\rangle = \varphi_{X}(at).
+$$
+
+The last ingredient in our cheap proof of the CLT is the
+characteristic function for a normal distribution $\mathcal{N}(0, 1)$
+itself. This is easily computed by completing the square:
 
 $$
 \begin{align*}
@@ -65,7 +73,7 @@ $$
 & = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
 \exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right] \\
 & = \frac{1}{\sqrt{2\pi}} e^{-t^2/2} \int_{-\infty}^\infty dz \,
-e^{-z^2/2} = e^{-t^2/2},
+e^{-z^2/2} = e^{-t^2/2}.
 \end{align*}
 $$
 
@@ -75,8 +83,28 @@ Note that $Z := (X - \mu)/\sigma$ has mean $0$ and variance $1$, so that
 if we expand its characteristic function as a power series, we have
 
 $$
-\varphi_Z(t) = 1 - \fra
+\varphi_Z(t) = 1 - \frac{t^2}{2} + O(t^4).
 $$
+
+Recall that the sum $S_N = \sum_i (Z_i/\sqrt{N})$, for $Z_i \sim Z$.
+Thus, the characteristic function obeys
+
+$$
+\begin{align*}
+\varphi_{S_N}(t) & = \left(\varphi_{Z/\sqrt{N}}(t)\right)^N \\
+& = \left(\varphi_{Z}(t/\sqrt{N})\right)^N \\
+& = \left[1 - \frac{t^2}{N} + O(t^4)\right]^N.
+\end{align*}
+$$
+
+Assuming we can ignore the $O(t^4)$ terms, as $N \to \infty$, we have
+
+$$
+\varphi_{S_N}(t) \approx \left[1 - \frac{t^2}{N}\right]^N \to e^{-t^2/2}
+$$
+
+from the definition of the exponential.
+This completes our heuristic proof.
 
 #### A CLT for non-identical variables
 
