@@ -64,8 +64,6 @@ $$
 \exp\left[-\frac{1}{2}x^2 + itx\right] \\
 & = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
 \exp\left[-\frac{1}{2}(x^2 - 2itx  - t^2) - \frac{1}{2}t^2\right] \\
-& = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
-\exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right] \\
 & = \frac{1}{\sqrt{2\pi}} e^{-t^2/2} \int_{-\infty}^\infty dz \,
 e^{-z^2/2} = e^{-t^2/2},
 \end{align*}
@@ -85,9 +83,7 @@ Thus, the characteristic function obeys
 
 $$
 \begin{align*}
-\varphi_{S_N}(t) & = \left[\varphi_{Z/\sqrt{N}}(t)\right]^N \\
-& = \left[\varphi_{Z}(t/\sqrt{N})\right]^N \\
-& = \left[1 - \frac{t^2}{N} + O(t^4)\right]^N.
+\varphi_{S_N}(t) & = \left[\varphi_{Z/\sqrt{N}}(t)\right]^N  = \left[\varphi_{Z}(t/\sqrt{N})\right]^N = \left[1 - \frac{t^2}{N} + O(t^4)\right]^N.
 \end{align*}
 $$
 
