@@ -128,7 +128,7 @@ $$
 
 The actual population is around $18$ million, so the estimate made
 from more guesses is indeed better!
-You 
+This is also better than the arithemetic average, $23$ million.
 
 <!--
 The Lyapunov condition holds for a sum of independent random
