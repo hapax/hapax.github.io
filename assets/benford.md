@@ -180,7 +180,7 @@ Just compute relative frequencies of first digits in different bases
 and check they obey Benford's law!
 You might wonder why something totally deterministic, like the first
 digit of a power of $2$, also obeys Benford's law.
-Here is a pie chart of first digits:
+Here is a pie chart of first digits for the first $10^4$ binary powers:
 
 <figure>
     <div style="text-align:center"><img src
@@ -188,7 +188,7 @@ Here is a pie chart of first digits:
 	</div>
 	</figure>
 
-This exactly follows the Newcomb-Benford law.
+It follows the Newcomb-Benford law exactly!
 Here is the Python code to generate it:
 
 ```python
@@ -213,6 +213,10 @@ shadow=True, startangle=90) # Change 'firstdig' to 'benford'
 ax1.axis('equal')
 plt.show()
 ```
+
+The mechanism for logarithmic randomness here is slightly different,
+and is discussed in Serge Tabachnikov's
+[book on geometric billiards](http://www.personal.psu.edu/sot2/books/billiardsgeometry.pdf).
 
 <!--
 The Lyapunov condition holds for a sum of independent random
