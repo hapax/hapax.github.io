@@ -84,7 +84,7 @@ $$
 1 - \frac{(x-\mu)^2}{2\sigma^2} = 1 - \frac{1}{18} \approx 0.94,
 $$
 
-and about half the probability mass lies underneath.
+and about a quarter of the probability mass lies underneath.
 
 Equivalently, there can large regions over which $F$ is 
 
