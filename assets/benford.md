@@ -116,8 +116,7 @@ At the end of the day, height is the phenotypic expression of our DNA.
 Presumably, it arises from the sum of many small increments which are
 neither independent nor identically distributed.
 Even if we lump them into genes which are independent to a good
-approximation, the height increments due to different genes are
-unlikely to have the same distribution.
+approximation, different increments are unlikely to have the same distribution.
 The genes controlling the length of my legs contribute much
 more than the ones controlling the thickness of my scalp.
 
