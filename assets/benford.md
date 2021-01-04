@@ -17,7 +17,7 @@ date:  2021-01-04
 #### A cheap proof of the usual central limit theorem
 
 The central limit theorem (CLT) states that, if I sum up a bunch of
-independent, identically distributed variables, the result tends to a
+independent, identically distributed (iid) variables, the result tends to a
 normal distribution.
 More precisely, if $X$ has mean $\mu$ and variance $\sigma^2$, and
 $X_i \sim X$ for $i = 1, \ldots, n$, then
@@ -73,7 +73,7 @@ $$
 & = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
 \exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right] \\
 & = \frac{1}{\sqrt{2\pi}} e^{-t^2/2} \int_{-\infty}^\infty dz \,
-e^{-z^2/2} = e^{-t^2/2}.
+e^{-z^2/2} = e^{-t^2/2},
 \end{align*}
 $$
 
@@ -100,13 +100,48 @@ $$
 Assuming we can ignore the $O(t^4)$ terms, as $N \to \infty$, we have
 
 $$
-\varphi_{S_N}(t) \approx \left[1 - \frac{t^2}{N}\right]^N \to e^{-t^2/2}
+\varphi_{S_N}(t) \approx \left(1 - \frac{t^2}{N}\right)^N \to e^{-t^2/2}
 $$
 
 from the definition of the exponential.
-This completes our heuristic proof.
+This completes our sloppy heuristic proof!
 
 #### A CLT for non-identical variables
+
+The central limit theorem, in this form, is often invoked to explain
+why common attributes like height and weight are normally distributed.
+They are a sum of many small iid increments, and so should approach a
+normal, or so the reasoning goes.
+But why should heigh be a sum of iid increments?
+At the end of the day, height is the phenotypic expression of our DNA.
+Presumably, it arises from the sum of many small increments which are
+neither independent nor identically distributed.
+Even if we lump them into genes which are independent to a good
+approximation, the height increments due to different genes are
+unlikely to have the same distribution.
+The genes controlling the length of my legs and torso contribute much
+more than the ones controlling the thickness of my scalp.
+
+One way to generalise the CLT is to consider independent but not
+identically distributed variables $X_i$, with means $\mu_i$ and
+variances $\sigma_i^2$.
+In this case, we define
+
+$$
+\Sigma_N^2 = \sum_{i=1}^N \sigma_i^2, \quad S_N :=
+\frac{1}{\Sigma_N}\sum_{i=1}^N (X_i - \mu_i).
+$$
+
+Then, subject to certain technical conditions (usually Lyapunov or
+Lindeberg, neither of which we will spell out), the sum $S_N$
+approaches a normal as before,
+
+$$
+S_N \to \mathcal{N}(0, 1).
+$$
+
+The proofs tend are highly technical, but we can give a heuristic
+flavour for them, since they proceed more or less as the proof above.
 
 #### Lognormals and uniformity
 
