@@ -50,14 +50,14 @@ $$
 
 By the central limit theorem for unlike variables (see
 e.g. [this post](https://hapax.github.io/hacks/mathematics/statistics/clt/)),
-for large $N$ this approaches a normal distribution
+for large $N$ this approaches a normal distribution:
 
 $$
 \log F \to \mathcal{N}(\mu, \sigma^2), \quad \mu := \sum_i \mu_i,
 \quad \sigma^2 = \sum_i \sigma_i^2,
 $$
 
-where the $Y_i$ have mean $mu_i$ and variance $\sigma_i^2$.
+where the $Y_i$ has mean $\mu_i$ and variance $\sigma_i^2$.
 
 #### Extra
 
