@@ -242,7 +242,7 @@ Let $X_i, \mu_i, \sigma_i^2$ be as above, and $Y_i = \log X_i$.
 Then
 
 $$
-\log\left[\sum_{i=1}^N X_i\right] = \prod_{i = 1}^N Y_i \to \log
+\log\left(\sum_{i=1}^N X_i\right) = \prod_{i = 1}^N Y_i \to \log
 \mathcal{N}(\mu, \sigma^2).
 $$
 
