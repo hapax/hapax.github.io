@@ -140,9 +140,7 @@ more complicated:
 
 $$
 \begin{align*}
-\varphi_{S_N}(t) & = \prod_{i=1}^N\varphi_{X_i/\Sigma_N}(t) \\
-& = \prod_{i=1}^N\varphi_{X_i}(t/\Sigma_N) \\
-& = \prod_{i=1}^N\left[1 - \frac{\sigma_i^2t^2}{2\Sigma_N^2} + O(t^4)\right].
+\varphi_{S_N}(t) & = \prod_{i=1}^N\varphi_{X_i/\Sigma_N}(t) = \prod_{i=1}^N\varphi_{X_i}(t/\Sigma_N) = \prod_{i=1}^N\left[1 - \frac{\sigma_i^2t^2}{2\Sigma_N^2} + O(t^4)\right].
 \end{align*}
 $$
 
