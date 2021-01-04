@@ -7,12 +7,7 @@ categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-01-04
 ---
 
-**January 4, 2021.** *Adding many independent random variables
-  together tends to produce a normal distribution. Multiplying many
-  random variables tends to produce a lognormal distribution. This not
-  only explains Benford's law (that first digits in naturally
-  occurring numbers are not distributed equally), but also the
-  robustness of Fermi estimates.*
+**January 4, 2021.** *Bla*
 
 #### A cheap proof of the usual central limit theorem
 
@@ -130,19 +125,18 @@ $$
 \frac{1}{\Sigma_N}\sum_{i=1}^N (X_i - \mu_i).
 $$
 
-Then, subject to certain technical conditions (usually Lyapunov or
-Lindeberg, neither of which we will spell out), the sum $S_N$
-approaches a normal as before,
+Then, under certain technical conditions we will discuss in a moment,
+the sum $S_N$ approaches a normal as before:
 
 $$
 S_N \to \mathcal{N}(0, 1).
 $$
 
-The proofs are highly technical, but we can give a heuristic
-flavour for them, since they proceed more or less as the proof above,
-up to all the technicalities.
-We can define the characteristic function $S_N$ as before, and note
-that
+The proofs are highly technical, but we can once again give a
+heuristic flavour.
+We can define the characteristic function $S_N$ as before, but since
+it is made from different random variables, the expansion is a bit
+more complicated:
 
 $$
 \begin{align*}
@@ -155,7 +149,7 @@ $$
 $$
 
 We once again ignore the $O(t^4)$ terms.
-Let's write $\alpha_i := - \sigma_i t^2/2\Sigma_N^2$.
+Let's write $\alpha_i := - \sigma_i^2 t^2/2\Sigma_N^2$.
 Then
 
 $$
@@ -164,9 +158,67 @@ $$
 \prod_{i=1}^N(1 + \alpha_i)
 \\
 & = 1 + \sum_{i=1}^N \alpha_i + \sum_{i < j}\alpha_i \alpha_j + \cdots +
-(\alpha_i \cdots \alpha_N).
+(\alpha_i \cdots \alpha_N) \\
+& = 1 + A_1^{(N)} + A_2^{(N)} + \cdots + A_N^{(N)}.
 \end{align*}
 $$
+
+The second term $A_1^{(N)}$ is secretly independent of $N$:
+
+$$
+\sum_{i=1}^N \alpha_i = - \sum_{i=1}^N \frac{\sigma_i^2
+t^2}{2\Sigma_N^2} = -\frac{t^2}{2}.
+$$
+
+For the next term $A_2^{(N)}$, we can write
+
+$$
+\begin{align*}
+\sum_{i < j}\alpha_i \alpha_j & = \frac{1}{2}\left(\sigma_i
+\alpha_i\right)^2 - \sum_{i}\alpha_i^2 \\
+& = \frac{t^4}{4} - \frac{t^4}{4}\sum_{i = 1}^N\frac{\sigma_i^4}{\Sigma_N^4}.
+\end{align*}
+$$
+
+If the second sum vanishes as $N \to \infty$, then we get
+
+$$
+A_2^{(N)} = \sum_{i < j}\alpha_i \alpha_j \to \frac{1}{2}\left(\sigma_i
+\alpha_i\right)^2 = \frac{t^4}{4}.
+$$
+
+Similarly, for the next term $A_3^{(N)}$, if we assume that
+
+$$
+\sum_{i = 1}^N\frac{\sigma_i^6}{\Sigma_N^6} \to 0
+$$
+
+as $N \to \infty$, then (along with the assumption used for
+$A_2^{(N)}$) we will get
+
+$$
+A_3^{(N)} = \sum_{i < j < k} \alpha_i \alpha_j \alpha_k \to
+\frac{1}{3!}\left(\sum_i \alpha_i\right)^3 = \frac{-t^6}{2^3\cdot 3!}.
+$$
+
+We can go on in this way, assuming that the "diagonal" sums vanish as
+$N \to \infty$, leaving us with the result:
+
+$$
+A_k = \lim_{N\to \infty} A_k^{(N)} = \frac{1}{k!}\left(-\frac{t^2}{2}\right)^k.
+$$
+
+This means that the characteristic function for $S_N(t)$ approaches
+
+$$
+\begin{align*}
+\varphi_{S_N}(t) \to 1 + A_1 + A_2 + \cdots
+& = \sum_{k = 0}^\infty \frac{1}{k!}\left(-\frac{t^2}{2}\right)^k \\
+& = e^{-t^2/2},
+\end{align*}
+$$
+
+using the power series for the exponential.
 
 #### Lognormals and uniformity
 
