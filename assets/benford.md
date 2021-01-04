@@ -10,7 +10,7 @@ date:  2021-01-04
 **January 4, 2021.** *Why are Fermi approximations so effective? One
   mechanism is logarithmic uniformity, which occurs for products of
   many random variables. Interestingly, this is the same mechanism
-  behind Benford's law for first digits.*
+  behind the Newcomb-Benford law for first digits.*
 
 #### Introduction
 
@@ -28,10 +28,10 @@ are better than they have any right to be!
 Clearly, there must be an underlying statistical explanation for this
 unreasonable effectiveness.
 Roughly speaking, it is *logarithmic uniformity*, the same mechanism underlying the
-curious distribution of first digits known as
-[Benford's law](https://en.wikipedia.org/wiki/Benford%27s_law).
+curious distribution of first digits known as the
+[Newcomb-Benford law](https://en.wikipedia.org/wiki/Benford%27s_law).
 We'll talk about uniformity, then zero in on Fermi estimates and
-Benford's law in turn.
+Newcomb-Benford law in turn.
 
 #### Products and logarithmic uniformity
 
@@ -136,15 +136,17 @@ The individual errors from a broad spread of guesses tend to cancel
 each other out, lead to a better-behaved average, though in this case
 in logarithmic space.
 
-#### Benford's law
+#### The Newcomb-Benford law
 
 Logarithmic uniformity also explains an odd pattern in the first
 digits of naturally occurring numbers like tax returns, stock market
 prices, populations, river lengths, physical constants, and even
 powers of $2$.
-The pattern, called *Benford's law* after
+The pattern, called the *Newcomb-Benford law* after
+[Simon Newcomb](https://en.wikipedia.org/wiki/Simon_Newcomb) and
 [Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford), is as
-follows: for base $b$, the digit $d \in \\{1, 2, \ldots, b-1\\}$ occurs with relative frequency
+follows: for base $b$, the digit $d \in \\{1, 2, \ldots, b-1\\}$
+occurs with relative frequency
 
 $$
 p_b(d) = \log_b \left(\frac{d+1}{d}\right) = \frac{1}{\log b}\log \left(\frac{d+1}{d}\right).
@@ -176,6 +178,40 @@ This provides a simple way to check for fraud on tax returns, for
 instance.
 Just compute relative frequencies of first digits in different bases
 and check they obey Benford's law!
+You might wonder why something totally deterministic, like the first
+digit of a power of $2$, also obeys Benford's law.
+Here is a pie chart of first digits:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/benford1.png"/>
+	</div>
+	</figure>
+
+This exactly follows the Newcomb-Benford law.
+Here is the Python code to generate it:
+
+```python
+import matplotlib.pyplot as plt
+import math
+
+maxpower = 10000 # Change for more or less powers
+power = 2 # Change for different powers
+
+labels = '1', '2', '3', '4', '5', '6', '7', '8', '9',
+benford = [(math.log(10, d+1) - math.log(10, d+1)) for d in range(1, 10)]
+firstdig = [0 for i in range(9)]
+for i in range(maxpower):
+	ind = int(str(power**i)[0]) - 1
+	firstdig[ind] = firstdig[ind] + 1
+
+plt.figure(0)
+fig1, ax1 = plt.subplots()
+ax1.pie(firstdig, labels=labels, autopct='%1.1f%%',
+shadow=True, startangle=90) # Change 'firstdig' to 'benford'
+ax1.axis('equal')
+plt.show()
+```
 
 <!--
 The Lyapunov condition holds for a sum of independent random
