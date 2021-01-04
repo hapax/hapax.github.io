@@ -164,7 +164,7 @@ $$
 The second term $A_1^{(N)}$ is secretly independent of $N$:
 
 $$
-\sum_{i=1}^N \alpha_i = - \sum_{i=1}^N \frac{\sigma_i^2
+A_1^{(N)} = \sum_{i=1}^N \alpha_i = - \sum_{i=1}^N \frac{\sigma_i^2
 t^2}{2\Sigma_N^2} = -\frac{t^2}{2}.
 $$
 
