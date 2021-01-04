@@ -253,7 +253,7 @@ In order to plot the density, we use the fact that $dy =
 y\, dx$, and hence
 
 $$
-p(x)\, dx = \frac{1}{\sigma\sqrt{2\pi}}
+p(x)\, dx = \frac{1}{\sqrt{2\pi}\sigma}
 e^{-\frac{(x-\mu)^2}{2\sigma^2}} \, dx = \frac{1}{\sqrt{2\pi}\sigma y}
 e^{-\frac{(\log y-\mu)^2}{2\sigma^2}} \, dy.
 $$
