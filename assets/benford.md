@@ -79,7 +79,7 @@ p(x) = \frac{1}{\sigma\sqrt{2\pi}}
 \left[1 - \frac{(x-\mu)^2}{2\sigma^2} + O(x^4)\right].
 $$
 
-This looks uniform provided $|x - \mu| \ll \sigma$.
+This looks uniform provided $(x - \mu) \ll \sigma$.
 
 #### Extra
 
