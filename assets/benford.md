@@ -224,7 +224,7 @@ $$
 
 This vanishing of diagonal sums is precisely the *Lyapunov
 condition*, so we have given a very simplified proof of what is called
-the Lyapunov CLT.
+the Lyapunov CLT, after the Russian mathematician and physicist [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov).
 The main technical difference is that the Lyapunov CLT only requires
 the diagonal sum to vanish for a single real number $p > 2$.
 
