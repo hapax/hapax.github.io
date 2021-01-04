@@ -59,13 +59,10 @@ $$
 $$
 
 where the $Y_i$ has mean $\mu_i$ and variance $\sigma_i^2$.
-This mean $F$ has a *log-normal* distribution.
-
-For infinitely many variables, the variance of this normal can blow
-up, $\sigma^2 = \infty$.
-For many variables, the variance can simply be very large.
-Either way, there is a region near $F = e^\mu$ where the probability
-density is approximately uniform.
+We say that $F$ has a *log-normal* distribution, since its log is
+normal.
+To get uniformity into the picture, we can zoom in on the region near
+$F = e^\mu$ where the probability density is approximately uniform.
 More carefully, the density is
 
 $$
@@ -80,6 +77,9 @@ p(x) = \frac{1}{\sigma\sqrt{2\pi}}
 $$
 
 This looks uniform provided $(x - \mu)^2 \ll \sigma^2$.
+For identically distributed variables, $\sigma^2 = N \sigma_i^2$,
+which blows up with $N$, so the region of uniformity can be very
+large.
 
 #### Extra
 
