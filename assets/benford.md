@@ -102,7 +102,7 @@ The central limit theorem, in this form, is often invoked to explain
 why common attributes like height and weight are normally distributed.
 They are a sum of many small iid increments, and so should approach a
 normal, or so the reasoning goes.
-But why should heigh be a sum of iid increments?
+But why should height be a sum of iid increments?
 At the end of the day, height is the phenotypic expression of our DNA.
 Presumably, it arises from the sum of many small increments which are
 neither independent nor identically distributed.
@@ -110,6 +110,8 @@ Even if we lump them into genes which are independent to a good
 approximation, different increments are unlikely to have the same distribution.
 The genes controlling the length of my legs contribute much
 more than the ones controlling the thickness of my scalp.
+It is more realistic to consider a sum of independent contributions
+with different distributions.
 
 One way to generalise the CLT is to consider independent but not
 identically distributed variables $X_i$, with means $\mu_i$ and
