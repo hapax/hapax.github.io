@@ -199,7 +199,8 @@ maxpower = 10000 # Change for more or less powers
 power = 2 # Change for different powers
 
 labels = '1', '2', '3', '4', '5', '6', '7', '8', '9',
-benford = [(math.log(10, d+1) - math.log(10, d+1)) for d in range(1, 10)]
+benford = [(math.log(10, d+1) - math.log(10, d+1))
+    for d in range(1, 10)]
 firstdig = [0 for i in range(9)]
 for i in range(maxpower):
 	ind = int(str(power**i)[0]) - 1
