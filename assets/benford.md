@@ -143,7 +143,7 @@ digits of naturally occurring numbers like tax returns, stock market
 prices, physical constants, and even powers of $2$.
 The pattern, called *Benford's law* after
 [Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford), is as
-follows: for base $b$, the digit $d \in \{1, 2, \ldots, b-1\}$ occurs with relative frequency
+follows: for base $b$, the digit $d \in \\{1, 2, \ldots, b-1\\}$ occurs with relative frequency
 
 $$
 p_b(d) = \log_b \left(\frac{d+1}{d}\right) = \frac{1}{\log b}\log \left(\frac{d+1}{d}\right).
