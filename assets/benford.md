@@ -48,6 +48,8 @@ $$
 \log F = \log X_1 + \log X_2 + \cdots + \log X_N = \sum_{i=1}^N Y_i.
 $$
 
+By the central limit theorem for unlike variables (see e.g. [this post](https://hapax.github.io/hacks/mathematics/statistics/clt/))
+
 #### Extra
 
 The Lyapunov condition holds for a sum of independent random
