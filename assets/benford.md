@@ -146,9 +146,13 @@ We can define the characteristic function $S_N$ as before, and note
 that
 
 $$
-\varphi_{S_N}(t) = \varphi_{X_1/\Sigma_N}(t)
-\varphi_{X_2/\Sigma_N}(t)\cdots \varphi_{X_N/\Sigma_N}(t) = \varphi_{X_1}(t/\Sigma_N)
-\varphi_{X_2}(t/\Sigma_N)\cdots \varphi_{X_N}(t/\Sigma_N).
+\begin{align*}
+\varphi_{S_N}(t) & = \varphi_{X_1/\Sigma_N}(t)
+\varphi_{X_2/\Sigma_N}(t)\cdots \varphi_{X_N/\Sigma_N}(t) \\
+& = \varphi_{X_1}(t/\Sigma_N)
+\varphi_{X_2}(t/\Sigma_N)\cdots \varphi_{X_N}(t/\Sigma_N) \\
+& = \prod_{i=1}^N\left[1 - \frac{\sigma_i^2t^2}{2\Sigma_N^2} + O(t^4)\right].
+\end{align*}
 $$
 
 #### Lognormals and uniformity
