@@ -14,7 +14,7 @@ date:  2021-01-04
   occurring numbers are not distributed equally), but also the
   robustness of Fermi estimates.*
 
-#### A CLT for non-identical variables
+#### A cheap proof of the usual central limit theorem
 
 The central limit theorem (CLT) states that, if I sum up a bunch of
 independent, identically distributed variables, the result tends to a
@@ -51,6 +51,7 @@ $$
 e^{itX}\right\rangle \bigg|_{t=0} = i^n\langle X^n\rangle.
 $$
 
+As a special case, $\varphi_X(0) = \langle 1\rangle = 1$.
 Finally, the characteristic function for a normal distribution
 $\mathcal{N}(0, 1)$ is easily computed by completing the square:
 
@@ -62,13 +63,22 @@ $$
 & = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
 \exp\left[-\frac{1}{2}(x^2 - 2itx  - t^2) - \frac{1}{2}t^2\right] \\
 & = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
-\exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right]
+\exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right] \\
 & = \frac{1}{\sqrt{2\pi}} e^{-t^2/2} \int_{-\infty}^\infty dz \,
 e^{-z^2/2} = e^{-t^2/2},
 \end{align*}
 $$
 
 making the substitution $z = x - it$.
+Now we can sketch a physicist's proof of the CLT.
+Note that $Z := (X - \mu)/\sigma$ has mean $0$ and variance $1$, so that
+if we expand its characteristic function as a power series, we have
+
+$$
+\varphi_Z(t) = 1 - \fra
+$$
+
+#### A CLT for non-identical variables
 
 #### Lognormals and uniformity
 
