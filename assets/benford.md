@@ -23,10 +23,10 @@ More precisely, if $X$ has mean $\mu$ and variance $\sigma^2$, and
 $X_i \sim X$ for $i = 1, \ldots, n$, then
 
 $$
-\frac{1}{N}\sum_{i=1}^n (X_i - \mu) \to \mathcal{N}(0, 1),
+S_n := \frac{1}{\sqrt{N}}\sum_{i=1}^n (X_i - \mu) \to \mathcal{N}(0, 1),
 $$
 
-in distribution as $n \to \infty$.
+where the limit means convergence in distribution () as $n \to \infty$.
 There is a simple heuristic proof we can give.
 First, we need to define the *characteristic function* $\varphi_X$:
 
@@ -48,8 +48,27 @@ at $t = 0$ gives moments:
 
 $$
 \frac{d^n}{d t^n}\varphi_{X}(0) = \left\langle \frac{d^n}{d t^n}
-e^{itX}\right\rangle \bigg|_{t=0}
+e^{itX}\right\rangle \bigg|_{t=0} = i^n\langle X^n\rangle.
 $$
+
+Finally, the characteristic function for a normal distribution
+$\mathcal{N}(0, 1)$ is easily computed by completing the square:
+
+$$
+\begin{align*}
+\varphi_X(t) & = \langle e^{itX}\rangle \\
+& = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
+\exp\left[-\frac{1}{2}x^2 + itx\right] \\
+& = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
+\exp\left[-\frac{1}{2}(x^2 - 2itx  - t^2) - \frac{1}{2}t^2\right] \\
+& = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty dx \,
+\exp\left[-\frac{1}{2}(x - it)^2 - \frac{1}{2}t^2\right]
+& = \frac{1}{\sqrt{2\pi}} e^{-t^2/2} \int_{-\infty}^\infty dz \,
+e^{-z^2/2} = e^{-t^2/2},
+\end{align*}
+$$
+
+making the substitution $z = x - it$.
 
 #### Lognormals and uniformity
 
