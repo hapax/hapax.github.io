@@ -322,7 +322,11 @@ If it is biased, so is $\varepsilon_X$; it we have only seen a few
 examples, the variance of $\varepsilon_X$ will probably be large, and
 decrease roughly as $1/k$ with $k$ examples.
 So the general strategy for variance reduction is to factorise into
-things we know about.
+things we have seen before.
+For instance, if $e^Z$ is the population of Chile, I can factor it
+into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
+But this is likely to *increase* the error, since I know less about
+provinces of Chile than I do about Chile compared to other countries.
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
