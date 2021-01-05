@@ -147,8 +147,8 @@ def goodlets(n):
     goodlet = set()
     for word in words.words():
         lower = [combos for combos in
-			list(itertools.combinations(word, n)) if
-			all(x.islower() for x in list(combos))]
+		list(itertools.combinations(word, n)) if
+		all(x.islower() for x in list(combos))]
         goodlet.update(set(lower))
     return goodlet
 ```
