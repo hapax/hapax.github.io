@@ -65,11 +65,11 @@ def subseq(str1, str2):
   return all(x in it for x in str1)
 ```
 
-Finally, for a given license plate string, `regfull(str)` simply
+Finally, for a given license plate string, `sublets(str)` simply
 searches the whole corpus `words.words()` and looks for supersequences:
 
 ```python
-def regfull(str):
+def sublets(str):
     return [word for word in words.words()
 		if subseq(str, word)]
 ```
@@ -79,7 +79,7 @@ As an example, we can list words of seven letters or less for which
 "spf" is a subsequence:
 
 ```python
->>> [word for word in regfull('spf') if len(word) < 8]
+>>> [word for word in sublets('spf') if len(word) < 8]
 ['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 
 	'specify', 'spiff', 'spiffed', 'spiffy',
 	'spitful',  'spoffle', 'spoffy', 'spoof',
@@ -87,13 +87,13 @@ As an example, we can list words of seven letters or less for which
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
-In general, we can find the shortest word with `regshort(str)`. It does two passes through
+In general, we can find the shortest word with `subletshort(str)`. It does two passes through
 the whole list: one to find the minimum length, and a second to pluck
 out all the words of that length.
 
 ```python
-def regshort(str):
-    words = regfull(str)
+def subletshort(str):
+    words = sublets(str)
     minlength = min([len(word) for word in words])
     return [word for word in words if len(word) == minlength]
 ```
@@ -101,7 +101,7 @@ def regshort(str):
 An example:
 
 ```python
->>> regshort("pwm")
+>>> subletshort("pwm")
 ['pewdom']
 ```
 
@@ -117,21 +117,17 @@ At some point, license plates in Victoria shifted to four letters, and
 it became much, much harder to play.
 This raises the question: how much harder is it to play?
 The natural measure is simply how many combinations have answers.
-(It would be even better if we could weight words by how common they
-are, which we could easily check using concordance, but I can't be
-bothered right now.)
-
 To compute this, we're going to iterate over many combinations of
 letters and many words.
 We will need to be clever about how we do this in order to have
 something that runs in a reasonable time.
 To begin with, we don't need all the words in the list, just a check
 if it is non-empty.
-So we can write a function `requick(str)` which stops iterating over
+So we can write a function `subletcheck(str)` which stops iterating over
 the corpus and spits out `True` as soon as it finds a single supersequence:
 
 ```python
-def regquick(str):
+def subletcheck(str):
     outcome = False
     wordnum = len(words.words())
     i = 0
@@ -141,20 +137,20 @@ def regquick(str):
     return outcome
 ```
 
-We can use this to build a function `goodreg(n)` which returns the
+We can use this to build a function `goodlets(n)` which returns the
 list of strings of length `n` which have valid supersequences.
 Rather than iterate over combinations and then words, it iterates over
 words, adding all the subsequences of length $n$ once again using `itertools`:
 
 ```python
-def goodreg(n):
-    goodreg = set()
+def goodlets(n):
+    goodlet = set()
     for word in words.words():
         lower = [combos for combos in
 			list(itertools.combinations(word, n)) if
 			all(x.islower() for x in list(combos))]
-        goodreg.update(set(lower))
-    return goodreg
+        goodlet.update(set(lower))
+    return goodlet
 ```
 
 Assuming license plates are random strings of length `n`, then the
@@ -162,27 +158,59 @@ chance of success is given by the proportion of good strings to the
 total number:
 
 ```python
-def regprop(n):
-    return len(goodreg(n))/float(26**n)
+def subletprop(n):
+    return len(goodlets(n))/float(26**n)
 ```
 
 So, let's check how hard it is!
 I did up to six letters before my CPU got sore:
 
 ```python
->>> regprop(2)
+>>> subletprop(2)
 1.0
->>> regprop(3)
+>>> subletprop(3)
 0.9442
->>> regprop(4)
+>>> subletprop(4)
 0.6683
->>> regprop(5)
+>>> subletprop(5)
 0.2902
->>> regprop(6)
+>>> subletprop(6)
 0.0711
 ```
 
 About 94\% of three letter sequences have an answer, but only two
 thirds of four letter sequences.
+
+#### Common words
+
 This is more than I expected, and that is of course because the corpus
 includes ridiculous words like "spoffle" and "pewdom".
+To get a slightly more realistic measure, we can replace `words` with
+the most common words occurring in a corpus of real text.
+An oldie but a goodie is the `brown` corpus, created at Brown
+University in 1961.
+I'm going to use mainly because it's relatively small.
+First, we make a list of all the words (with repetition) in the
+corpus, then obtain a frequency distribution using the `nltk` function
+`FreqDist`.
+We then list the frequencies themselves, and truncate to most common
+50,000 words.
+Note that, in order to avoid getting swamped by "plumbing" words like
+"the", we take them out using the `stopwords` corpus:
+
+```python
+nltk.download('brown')
+nltk.download('stopwords')
+from nltk.corpus import brown, stopwords
+
+fdist = nltk.FreqDist(w.lower() for w in brown.words() if w not in stopwords.words())
+freqs = [fdist[word] for word in brown.words()]
+freqs.sort(reverse = True)
+cutoff = freqs[50000]
+common = [word for word in brown.words() if fdist[word] >= cutoff and
+	w not in stopwords] + stopwords.words()
+```
+
+This gives us a list of the most 50,000 common non-stopwords in the
+`brown` corpus, plus `stopwords`.
+We can simply replace 
