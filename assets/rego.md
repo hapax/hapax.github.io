@@ -71,14 +71,14 @@ def regfull(str):
 
 Note that the `words` corpus is in lowercase.
 As an example, we can list words of seven letters or less for which
-`spf` is a subsequence:
+"spf" is a subsequence:
 
 ```python
 >>> [word for word in regfull('spf') if len(word) < 8]
 ['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 'specify', 'spiff', 'spiffed', 'spiffy', 'spitful', 'spoffle', 'spoffy', 'spoof', 'spoofer', 'spuffle', 'stupefy']
 ```
 
-A lot of these are "scrabble words" that no one actually uses
+Incidentally, this shows that "spoof" is the equal shortest word.
 
 #### 
 
