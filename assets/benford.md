@@ -197,7 +197,7 @@ import math
 maxpower = 10000 # Number of powers to check
 power = 2 # Change to check other powers
 
-labels = '1', '2', '3', '4', '5', '6', '7', '8', '9',
+nums = '1', '2', '3', '4', '5', '6', '7', '8', '9',
 benford = [(math.log(10, d+1) - math.log(10, d+1))
     for d in range(1, 10)]
 firstdig = [0 for i in range(9)]
@@ -207,9 +207,8 @@ for i in range(maxpower):
 
 fig, ax = plt.subplots()
 fig.set_facecolor('white')
-ax.pie(firstdig, labels=labels, autopct='%1.1f%%',startangle=90)
-    # Change 'firstdig' to 'benford' if you
-	# want check match to Newcomb-Benford
+ax.pie(firstdig, labels=nums, autopct='%1.1f%%', startangle=90)
+    # Change 'firstdig' to 'benford'
 ax.axis('equal')
 plt.show()
 ```
