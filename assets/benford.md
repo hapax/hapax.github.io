@@ -315,13 +315,14 @@ $$
 
 If log-normality is the science of Fermi estimates, picking
 variance-reducing subestimates is the art.
-For instance, if $e^Z$ is the population of Chile, I can factor it
+
+<!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
 But this is likely to *increase* the error, since I know less about
 provinces of Chile than I do about Chile compared to other countries.
 I suspect that there is a nice quantitative connection to be made
 between the variance of $\varepsilon_X$ and the prior data I have on
-it.
+it. -->
 
 <!--
 The Lyapunov condition holds for a sum of independent random
