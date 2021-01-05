@@ -76,10 +76,10 @@ As an example, we can list words of seven letters or less for which
 
 ```python
 >>> [word for word in regfull('spf') if len(word) < 8]
-	['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 
-		'specify', 'spiff', 'spiffed', 'spiffy',
-		'spitful',  'spoffle', 'spoffy', 'spoof',
-		'spoofer', 'spuffle', 'stupefy']
+['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 
+	'specify', 'spiff', 'spiffed', 'spiffy',
+	'spitful',  'spoffle', 'spoffy', 'spoof',
+	'spoofer', 'spuffle', 'stupefy']
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
@@ -98,7 +98,7 @@ An example:
 
 ```python
 >>> regshort("pwm")
-	['pewdom']
+['pewdom']
 ```
 
 Apparently, "pewdom" refers to the "system or prevalence of pews in a
@@ -106,9 +106,8 @@ church". English is a funny language.
 
 #### Difficulty scaling
 
-Not infrequently, it's hard to find a word, but with three letters
-there seems to be a good chance that eventually you will hit on
-something.
+With three letters, the game is often hard, but the chances are very
+good that a word would eventually be found, and the natural variation
+of difficulty makes the game fun.
 At some point, license plates in Victoria shifted to four letters, and
 it became much, much harder to play.
-The odds seem much worse, and the game is dramatically less fun.
