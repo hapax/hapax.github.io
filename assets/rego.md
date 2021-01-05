@@ -205,10 +205,9 @@ nltk.download('brown')
 nltk.download('stopwords')
 from nltk.corpus import brown, stopwords
 
-nonstop = [word for word in brown.words()
-	if word not in stopwords.words('english')]
-fdist = nltk.FreqDist(word.lower() for word in nonstop)
-freqs = [fdist[word] for word in nonstop]
+fdist = nltk.FreqDist(word.lower() for word in brown.words()
+	if word not in stopwords.words('english'))
+freqs = [fdist[word] for word in list(fdist.keys())]
 freqs.sort(reverse = True)
 cutoff = freqs[50000]
 common = [word for word in brown.words()
