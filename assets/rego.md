@@ -159,3 +159,24 @@ total number:
 def regprop(n):
     return len(goodreg(n))/float(26**n)
 ```
+
+So, let's check how hard it is!
+I did up to six letters before my CPU got sore:
+
+```python
+>>> regprop(2)
+1.0
+>>> regprop(3)
+0.9442
+>>> regprop(4)
+0.6683
+>>> regprop(5)
+0.2902
+>>> regprop(6)
+0.0711
+```
+
+About 94\% of three letter sequences have an answer, but only two
+thirds of four letter sequences.
+This is more than I expected, and that is of course because the corpus
+includes ridiculous words like "spoffle" and "pewdom".
