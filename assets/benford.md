@@ -24,14 +24,11 @@ It's not just that order-of-magnitude provides a charitable margin of
 error.
 Even given this latitude, I've found that time and time again, they
 are better than they have any right to be!
-
 Clearly, there must be an underlying statistical explanation for this
 unreasonable effectiveness.
 Roughly speaking, it is *logarithmic uniformity*, the same mechanism underlying the
 curious distribution of first digits known as the
 [Newcomb-Benford law](https://en.wikipedia.org/wiki/Benford%27s_law).
-We'll talk about uniformity, then zero in on Fermi estimates and
-Newcomb-Benford law in turn.
 
 #### Products and logarithmic uniformity
 
