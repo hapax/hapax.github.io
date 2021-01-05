@@ -42,11 +42,15 @@ It's based on the Natural Language ToolKit (NLTK) package for Python,
 and in particular, the `words` corpus, consisting of $\sim 250,000$
 English words.
 It also uses an iterator trick from the `itertools` library, so we
-start by invoking these two packages:
+start by invoking these two packages.
+We also download the corpus:
 
 ```python
-from nltk.corpus import words
+import nltk
 import itertools
+
+nltk.download('words')
+from nltk.corpus import words
 ```
 
 Our next step is to define a helper function `subseq(str1, str2)`
@@ -146,7 +150,9 @@ words, adding all the subsequences of length $n$ once again using `itertools`:
 def goodreg(n):
     goodreg = set()
     for word in words.words():
-        lower = [combos for combos in list(itertools.combinations(word, n)) if all(x.islower() for x in list(combos))]
+        lower = [combos for combos in
+			list(itertools.combinations(word, n)) if
+			all(x.islower() for x in list(combos))]
         goodreg.update(set(lower))
     return goodreg
 ```
