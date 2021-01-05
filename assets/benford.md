@@ -10,7 +10,8 @@ date:  2021-01-04
 **January 4, 2021.** *Why are Fermi approximations so effective? One
   important factor is logarithmic uniformity, which occurs for products of
   many random variables. Interestingly, this is the same mechanism
-  behind the Newcomb-Benford law for first digits.*
+  behind the Newcomb-Benford law for first digits. Another factor is
+  variance-reduction through judicious subestimates. Read on for more!*
 
 #### Introduction
 
