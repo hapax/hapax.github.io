@@ -27,7 +27,7 @@ of the word.
 Here is an example:
 
 $$
-\mathbf{SPF} \to \mathbf{SP}\text{OO}\mathbf{F}.
+\mathbf{spf} \to \mathbf{sp}\text{oo}\mathbf{f}.
 $$
 
 The first person to find a valid word wins the round.
