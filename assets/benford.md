@@ -182,7 +182,8 @@ Just compute relative frequencies of first digits in different bases
 and check they obey Benford's law!
 You might wonder why something totally deterministic, like the first
 digit of a power of $2$, also obeys Benford's law.
-Here is a pie chart of first decimal digits for $10,000$ binary powers:
+Here is a pie chart of first decimal digits for $10,000$ binary
+powers, which follows the Newcomb-Benford law exactly:
 
 <figure>
     <div style="text-align:center"><img src
@@ -190,7 +191,6 @@ Here is a pie chart of first decimal digits for $10,000$ binary powers:
 	</div>
 	</figure>
 
-It follows the Newcomb-Benford law exactly!
 Here is the Python code to generate it:
 
 ```python
