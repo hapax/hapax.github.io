@@ -276,10 +276,13 @@ $$
 \hat{X} = X + \epsilon_X, \quad \hat{Y} = Y + \epsilon_Y.
 $$
 
-There is no reason for
+There is no reason for the variances of $\epsilon_X$ and $\epsilon_Y$
+to add up to the variance of $\epsilon_Z$.
+In fact, the whole art of subestimates really boils down to choosing
+factors so that
 
 $$
-\text{var}(\epsilon_Z) = \text{var}(\epsilon_X) + \text{var}(\epsilon_Y).
+\text{var}(\epsilon_Z) > \text{var}(\epsilon_X) + \text{var}(\epsilon_Y).
 $$
 
 <!--
