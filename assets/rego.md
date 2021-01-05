@@ -42,7 +42,7 @@ It's based on the Natural Language ToolKit (NLTK) package for Python,
 and in particular, the `words` corpus, consisting of $\sim 250, 000$
 English words.
 It also uses an iterator trick from the `itertools` library, so we
-start by invoking these to packages:
+start by invoking these two packages:
 
 ```python
 from nltk.corpus import words
