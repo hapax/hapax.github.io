@@ -323,6 +323,7 @@ examples, the variance of $\varepsilon_X$ will probably be large, and
 decrease roughly as $1/k$ with $k$ examples.
 So the general strategy for variance reduction is to factorise into
 things we have seen before.
+
 For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
 But this is likely to *increase* the error, since I know less about
