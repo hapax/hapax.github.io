@@ -151,10 +151,16 @@ lukeprog does in
 [his tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates#Example_4__How_many_plays_of_My_Bloody_Valentine_s__Only_Shallow__have_been_reported_to_last_fm_)),
 we can happily Fermi estimate power-law distributed numbers without
 this advanced technology.
-But Fermi estimates work best in the high-density core, not out at the
-tails, and it's not until we get to the tails that the difference
+Are Fermi estimates unreasonably effective in this context?
+
+Maybe.
+But the estimates work best in the high-density core where things look
+uniform, not out at the tails, and it's not until we get to the tails that the difference
 between the log-normal and power law (or exponential, or Weibull, or
-your favourite skewed distribution) becomes obvious.
+your favourite skewed distribution) becomes pronounced.
+So the unreasonable effectiveness here can probably be explained by
+the resemblance to the log-normal, though this is something I'd like
+to check more carefully in future.
 
 <!-- In general, we only expect Fermi estimates to work for numbers which
 are the product of many factors.
