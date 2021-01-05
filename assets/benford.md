@@ -307,10 +307,6 @@ I suspect that there is a nice quantitative connection to be made
 between the variance of $\varepsilon_X$ and the prior data I have on
 it.
 
-#### Remaining issues
-
-In some ways, I'm
-
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
