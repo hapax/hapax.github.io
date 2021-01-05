@@ -182,12 +182,13 @@ About 94% of three letter sequences have an answer, but only two
 thirds of four letter sequences.
 As we increase the number of letters, the odds for success are
 increasingly dire.
+But these numbers are still much higher than I expected.
 
 #### Common words
 
-This is more than I expected, and that is of course because the corpus
+The numbers are higher because the corpus
 includes ridiculous words like "spoffle" and "pewdom".
-To get a slightly more realistic measure, we can replace `words` with
+To get a more realistic measure, we can replace `words` with
 the most common words occurring in a corpus of real text.
 An oldie but a goodie is the `brown` corpus, created at Brown
 University in 1961.
