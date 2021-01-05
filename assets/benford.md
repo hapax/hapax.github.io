@@ -264,7 +264,6 @@ $$
 
 Thus, splitting a sum into estimates of the summands and adding them
 should not change the variance of the guess.
-
 Of course, there is a fallacy in this reasoning: humans are not
 sampling from the underlying distribution!
 Instead, they introduce their own random errors in guessing.
