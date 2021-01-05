@@ -260,6 +260,28 @@ $$
 Thus, splitting a sum into estimates of the summands and adding them
 should not change the variance of the guess.
 
+Of course, there is a fallacy in this reasoning: humans are not
+sampling from the underlying distribution!
+Instead, they introduce their own random errors in guessing.
+For instance, if I guess $Z$ straight up, it may be random, but my
+guess will add something on top of it:
+
+$$
+\hat{Z} = Z + \epsilon_Z.
+$$
+
+Similarly, my guesses for $X$ and $Y$ have some random errors:
+
+$$
+\hat{X} = X + \epsilon_X, \quad \hat{Y} = Y + \epsilon_Y.
+$$
+
+There is no reason for
+
+$$
+\text{var}(\epsilon_Z) = \text{var}(\epsilon_X) + \text{var}(\epsilon_Y).
+$$
+
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
