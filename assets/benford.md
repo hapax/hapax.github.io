@@ -20,16 +20,20 @@ I've written about them
 at greater length
 [here](https://hapax.github.io/assets/fermi-estimates.pdf) and
 [here](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-3),
-but I've never really found a satisfactory explanation for why it is so effective.
-It's not just that order-of-magnitude provides a charitable margin of
-error.
-Even given this latitude, I've found that time and time again, they
-are better than they have any right to be!
+but I've never really found a satisfactory explanation for why they work.
+Order-of-magnitude is certainly a charitable margin of 
+error, but time and time again, I find they are better than they have any right to be!
 Clearly, there must be an underlying statistical explanation for this
 unreasonable effectiveness.
-Roughly speaking, it is *logarithmic uniformity*, the same mechanism underlying the
-curious distribution of first digits known as the
+
+There are two key techniques: the use of geometric means, and the
+factorisation into subestimates.
+We will try to explain the first using logarithmic uniformity, which is
+the same mechanism underlying the anomalous distribution of first
+digits known as the
 [Newcomb-Benford law](https://en.wikipedia.org/wiki/Benford%27s_law).
+We give a looser explanation of the second in terms of strategies for
+variance-reduction in human error.
 
 #### Products and logarithmic uniformity
 
@@ -137,6 +141,18 @@ in logarithmic space.
 In general, Fermi estimates work best for numbers which are large
 random products (this is how we try to solve them!), so the problem
 domain tends to enforce the statistical properties we want.
+For many examples of log-normal distributions in the real world, see
+[Limpert, Stahel and Abbt (2001)](https://academic.oup.com/bioscience/article/51/5/341/243981).
+It's worth noting that not everything we can Fermi estimate is
+log-normal, however.
+Many things in the real world obey power laws, for instance, and
+although you can exploit this to make better Fermi estimates (as
+lukeprog does in
+[his tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates#Example_4__How_many_plays_of_My_Bloody_Valentine_s__Only_Shallow__have_been_reported_to_last_fm_)),
+we can happily Fermi estimate power-law distributed numbers without
+this advanced technology.
+So to my mind, Fermi approximations remains unreasonably effective in
+this context.
 
 <!-- In general, we only expect Fermi estimates to work for numbers which
 are the product of many factors.
@@ -306,13 +322,6 @@ provinces of Chile than I do about Chile compared to other countries.
 I suspect that there is a nice quantitative connection to be made
 between the variance of $\varepsilon_X$ and the prior data I have on
 it.
-
-#### Remaining issues
-
-In some ways, I'm unconvinced by this explanation, for the simple
-reason that many of the real-world distributions we sample from don't
-look log-normal, let alone log-uniform.
-Many things obey power laws, which don't even have a well-defined mean!
 
 <!--
 The Lyapunov condition holds for a sum of independent random
