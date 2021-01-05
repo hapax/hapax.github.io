@@ -10,7 +10,8 @@ date:  2021-01-05
 **January 5, 2021.** *Sublets is a fun game for road trips. Take
   letters from the license plates of passing cars, and find words of
   which the license plate letters form a subsequence. I explain the
-  game in more detail and provide code for finding solutions.*
+  game in more detail and provide code for finding solutions. I also
+  explore how the difficulty of the game varies with license plate length.*
 
 #### Introduction
 
