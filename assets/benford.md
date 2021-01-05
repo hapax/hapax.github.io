@@ -179,7 +179,7 @@ $$
 This provides a simple way to check for fraud on tax returns, for
 instance.
 Just compute relative frequencies of first digits in different bases
-and check they obey Benford's law!
+and check they obey Newcomb-Benford!
 You might wonder why something totally deterministic, like the first
 digit of a power of $2$, also obeys Benford's law.
 Here is a pie chart of first decimal digits for $10,000$ binary
