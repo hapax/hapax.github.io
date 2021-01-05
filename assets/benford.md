@@ -8,10 +8,10 @@ date:  2021-01-04
 ---
 
 **January 4, 2021.** *Why are Fermi approximations so effective? One
-  important factor is log normality, which occurs for products of
-  many random variables. Interestingly, this is related to the mechanism
-  behind the Newcomb-Benford law for first digits. Another factor is
-  variance-reduction through judicious subestimates. Read on for more!*
+  important factor is log normality, which occurs for large random
+  products. Interestingly, this is related to the mechanism   behind
+  the Newcomb-Benford law for first digits. Another factor is
+  variance-reduction through judicious subestimates.*
 
 #### Introduction
 
