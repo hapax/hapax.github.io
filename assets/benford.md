@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Logarithmic uniformity and Fermi estimates"
+title:  "The unreasonable effectiveness of Fermi estimates"
 categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-01-04
 ---
@@ -254,9 +254,7 @@ logarithmic uniformity, and the Newcomb-Benford law results.
 
 There are two unreasonably effective tricks for Fermi estimates:
 geometric means, and factorising into subestimates.
-We've already covered geometric means, and 
-The utility of factorisation is not obviously connected to log
-uniformity.
+We've already covered geometric means.
 If $Z = X + Y$ is a sum of independet random variables, the variance
 is additive, so that
 
