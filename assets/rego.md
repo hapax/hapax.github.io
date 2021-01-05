@@ -230,3 +230,6 @@ Given the basic statistical difficulty of playing the game with four
 letters, one might ask for variants that are easier.
 A simple option is allowing for rearrangment of letters, but
 penalising the number of swaps.
+
+<!-- http://www.nltk.org/book/ch02.html -->
+<!-- https://stackoverflow.com/questions/28392860/print-10-most-frequently-occurring-words-of-a-text-that-including-and-excluding -->
