@@ -361,8 +361,14 @@ $$
 million}.
 $$
 
-This is indeed slightly closer to the actual population that our
-earlier guess.
+Logarithmically, this is indeed  closer to the actual population than
+our earlier guess.
+But once again, there is an art to making over- and underestimates
+that reflect the variance of our error random variables, and I think
+it's something one only acquires by practice and feedback.
+Still, it's cool that there is a statistical basis for the different
+aspects of the effectiveness of Fermi estimates.
+It's not so unreasonable after all!
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
