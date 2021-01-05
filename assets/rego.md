@@ -69,7 +69,8 @@ def regfull(str):
 ```
 
 Note that the `words` corpus is in lowercase.
-As an example, we can list short words which are supersequences of `spf`:
+As an example, we can list words of seven letters or less for which
+`spf` is a subsequence:
 
 ```python
 >>> [word for word in regfull('spf') if len(word) < 8]
