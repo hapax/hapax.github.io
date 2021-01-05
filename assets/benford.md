@@ -330,6 +330,14 @@ into number of provinces $e^X$ multiplied by the average number of people per pr
 But this is likely to *increase* the error, since I know less about
 provinces of Chile than I do about countries in general.
 I should stick to what I know.
+I'm not sure there is any particularly good rule of thumb for when to factor.
+A simple one, however, is as follows: try generating over- and
+underestimates for the factors and the product.
+In additive notation, go with the *smaller* of
+
+$$
+(\Delta X)^2 + (\Delta Y)^2, \quad (\Delta Z)^2.
+$$
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
