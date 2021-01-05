@@ -134,7 +134,11 @@ The individual errors from a broad spread of guesses tend to cancel
 each other out, leading to a better-behaved average, though in this case
 in logarithmic space.
 
-In general, we only expect Fermi estimates to work for numbers which
+In general, Fermi estimates work best for numbers which are large
+random products (this is how we try to solve them!), so the problem
+domain tends to enforce the statistical properties we want.
+
+<!-- In general, we only expect Fermi estimates to work for numbers which
 are the product of many factors.
 But this is precisely the sorts of things we use Fermi estimates for!
 In a sense, the problem domain naturally leads to logarithmic
@@ -143,8 +147,8 @@ Incidentally, I've talked about "uniformity", but the geometric mean
 is still a measure of central tendency for any distribution, and is
 particularly nice for a lognormal one, which arise for products of
 random variables.
-But the magic of geometric means manifests most
-strongly in the near-uniform blob at the centre.
+The magic of geometric means manifests most
+strongly in the near-uniform blob at the centre. -->
 
 #### The Newcomb-Benford law
 
@@ -273,23 +277,23 @@ For instance, if I guess $Z$ straight up, it may be random, but my
 guess will add something on top of it:
 
 $$
-\hat{Z} = Z + \epsilon_Z.
+\hat{Z} = Z + \varepsilon_Z.
 $$
 
 Similarly, my guesses for $X$ and $Y$ have some random errors:
 
 $$
-\hat{X} = X + \epsilon_X, \quad \hat{Y} = Y + \epsilon_Y.
+\hat{X} = X + \varepsilon_X, \quad \hat{Y} = Y + \varepsilon_Y.
 $$
 
-There is no reason for the variances of $\epsilon_X$ and $\epsilon_Y$
-to add up to the variance of $\epsilon_Z$.
+There is no reason for the variances of $\varepsilon_X$ and $\varepsilon_Y$
+to add up to the variance of $\varepsilon_Z$.
 The sum could be bigger, or it could be smaller.
 In fact, the whole art of subestimates really boils down to choosing
 factors so that
 
 $$
-\text{var}(\epsilon_X) + \text{var}(\epsilon_Y) < \text{var}(\epsilon_Z).
+\text{var}(\varepsilon_X) + \text{var}(\varepsilon_Y) < \text{var}(\varepsilon_Z).
 $$
 
 The role of facts about the world is to help us triangulate in Fermi
@@ -299,6 +303,13 @@ into number of provinces $e^X$ multiplied by the average number of
 people per province $e^Y$.
 But this is likely to *increase* the error, since I know less about
 provinces of Chile than I do about Chile compared to other countries.
+I suspect that there is a nice quantitative connection to be made
+between the variance of $\varepsilon_X$ and the prior data I have on
+it.
+
+#### Remaining issues
+
+In some ways, I'm
 
 <!--
 The Lyapunov condition holds for a sum of independent random
