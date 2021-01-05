@@ -293,11 +293,11 @@ $$
 $$
 
 The role of facts about the world is to help us triangulate in Fermi
-space, and zero in on low-variance subestimates.
+space and zero in on low-variance subestimates.
 For instance, if $e^Z$ is the population of Chile, I can split $Z$
 into number of provinces $e^X$ multiplied by the average number of
 people per province $e^Y$.
-This is likely to *increase* the error, since I know less about its
+But this is likely to *increase* the error, since I know less about
 provinces of Chile than I do about Chile compared to other countries.
 
 <!--
