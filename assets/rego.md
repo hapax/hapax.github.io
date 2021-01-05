@@ -225,3 +225,8 @@ three letters is three in four.
 And for five letters, forget about it!
 
 #### Letters and numbers
+
+Given the basic statistical difficulty of playing the game with four
+letters, one might ask for variants that are easier.
+A simple option is allowing for rearrangment of letters, but
+penalising the number of swaps.
