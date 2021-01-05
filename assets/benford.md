@@ -211,8 +211,9 @@ for i in range(maxpower):
 plt.figure(0)
 fig1, ax1 = plt.subplots()
 ax1.pie(firstdig, labels=labels, autopct='%1.1f%%',
-	shadow=True, startangle=90) # Change 'firstdig' to 'benford'
-	# if  you want check it matches Newcomb-Benford
+shadow=True, startangle=90)
+    # Change 'firstdig' to 'benford' if you
+	# want check match to Newcomb-Benford
 ax1.axis('equal')
 plt.show()
 ```
