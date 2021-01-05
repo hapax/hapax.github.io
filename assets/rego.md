@@ -196,7 +196,7 @@ First, we make a list of all the words (with repetition) in the
 corpus, then obtain a frequency distribution using the `nltk` function
 `FreqDist`.
 We then list the frequencies themselves, and truncate to most common
-50,000 words.
+20,000 words.
 Note that, in order to avoid getting swamped by "plumbing" words like
 "the", we take them out using the `stopwords` corpus:
 
@@ -209,12 +209,30 @@ fdist = nltk.FreqDist(word.lower() for word in brown.words()
 	if word not in stopwords.words('english'))
 freqs = [fdist[word] for word in list(fdist.keys())]
 freqs.sort(reverse = True)
-cutoff = freqs[50000]
-common = [word for word in brown.words()
-	if fdist[word] >= cutoff and
-	w not in stopwords] + stopwords.words('english')
+cutoff = freqs[20000]
+common = [word for word in list(fdist.keys())
+	if fdist[word] >= cutoff] + stopwords.words('english')
 ```
 
-This gives us a list of the most 50,000 common non-stopwords in the
-`brown` corpus, plus `stopwords`.
-We can simply replace 
+This can obviously be modified for an arbitrary corpus and frequency cutoff.
+Our list `common` gives us a list of the most 20,000 common
+non-stopwords in the `brown` corpus, plus `stopwords`.
+We then simply replace `words.words()` with `common`.
+I won't provide the code here, just the chances of success:
+
+```python
+>>> commprop(2)
+0.9822
+>>> commprop(3)
+0.7606
+>>> commprop(4)
+0.3264
+>>> commprop(5)
+0.0635
+>>> commprop(6)
+0.0056
+```
+
+This seems more realistic.
+
+#### Letters and numbers
