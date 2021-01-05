@@ -205,13 +205,12 @@ for i in range(maxpower):
 	ind = int(str(power**i)[0]) - 1
 	firstdig[ind] = firstdig[ind] + 1
 
-plt.figure(0)
-fig1, ax1 = plt.subplots()
-ax1.pie(firstdig, labels=labels, autopct='%1.1f%%',
+fig, ax = plt.subplots()
+ax.pie(firstdig, labels=labels, autopct='%1.1f%%',
 	shadow=True, startangle=90)
     # Change 'firstdig' to 'benford' if you
 	# want check match to Newcomb-Benford
-ax1.axis('equal')
+ax.axis('equal')
 plt.show()
 ```
 
