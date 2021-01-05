@@ -315,6 +315,14 @@ $$
 
 If log-normality is the science of Fermi estimates, picking
 variance-reducing subestimates is the art.
+But there is a connection to our earlier discussion.
+I think the human error $\varepsilon_X$ will roughly mimic the
+empirical distribution of $Z$ we have seen in the world.
+If it is biased, so is $\varepsilon_X$; it we have only seen a few
+examples, the variance of $\varepsilon_X$ will probably be large, and
+decrease roughly as $1/k$ with $k$ examples.
+So the general strategy for variance reduction is to factorise into
+things we know about.
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
