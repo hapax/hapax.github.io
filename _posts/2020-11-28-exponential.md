@@ -843,7 +843,7 @@ then it equals zero precisely at $x = a_1, a_2, \ldots, a_n$.
 We know that $\sin\theta$ equals zero at
 
 $$
-\theta = 0, \pm \pi, \pi 2 \pi, \pm 3\pi, \ldots.
+\theta = 0, \pm \pi, \pm 2 \pi, \pm 3\pi, \ldots.
 $$
 
 This suggests that the infinite polynomial can be factorized as
