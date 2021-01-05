@@ -329,8 +329,8 @@ by geometric averaging.
 For instance, if $e^Z$ is the population of Chile, I could try factoring it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
 But this is likely to *increase* the error, since I know less about
-provinces of Chile than I do about Chile compared to other countries.
-I have many more data points for countries than for 
+provinces of Chile than I do about countries in general.
+I should stick to what I know.
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
