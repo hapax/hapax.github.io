@@ -27,9 +27,14 @@ of the word.
 Here is an example:
 
 $$
-\mathbf{SPF} \to \mathbf{SP}\text{oo}\mathbf{F}.
+\mathbf{SPF} \to \mathbf{SP}\text{OO}\mathbf{F}.
 $$
 
 The first person to find a valid word wins the round.
 The way we played it, if a tie breaker was needed, shorter and/or
 simpler words were preferred, so "spoof" beat "soporific".
+
+#### A solver
+
+Not infrequently, it's hard to find a word.
+In Canad
