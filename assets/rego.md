@@ -166,16 +166,8 @@ So, let's check how hard it is!
 I did up to six letters before my CPU got sore:
 
 ```python
->>> subletprop(2)
-1.0
->>> subletprop(3)
-0.9442
->>> subletprop(4)
-0.6683
->>> subletprop(5)
-0.2902
->>> subletprop(6)
-0.0711
+>>> [subletprop(2), subletprop(3), subletprop(4), subletprop(5), subletprop(6)]
+[1.0, 0.9442, 0.6683, 0.2902, 0.0711]
 ```
 
 About 94% of three letter sequences have an answer, but only two
@@ -222,16 +214,8 @@ We then simply replace `words.words()` with `common`.
 I won't provide the code here, just the chances of success:
 
 ```python
->>> commprop(2)
-0.9822
->>> commprop(3)
-0.7606
->>> commprop(4)
-0.3264
->>> commprop(5)
-0.0635
->>> commprop(6)
-0.0056
+>>> [commprop(2), commprop(3), commprop(4), commprop(5), commprop(6)]
+[0.9822, 0.7606, 0.3264, 0.0635, 0.0056]
 ```
 
 This is closer to what I expect. Your chance of getting a four letter
