@@ -39,7 +39,7 @@ simpler words were preferred, so "**sp**oo**f**" beat "**s**o**p**ori**f**ic".
 
 I've written a little solver to find solutions.
 It's based on the Natural Language ToolKit (NLTK) package for Python,
-and in particular, the `words` corpus, consisting of $\sim 250, 000$
+and in particular, the `words` corpus, consisting of $\sim 250,000$
 English words.
 It also uses an iterator trick from the `itertools` library, so we
 start by invoking these two packages:
