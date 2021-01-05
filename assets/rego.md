@@ -180,6 +180,8 @@ I did up to six letters before my CPU got sore:
 
 About 94% of three letter sequences have an answer, but only two
 thirds of four letter sequences.
+As we increase the number of letters, the odds for success are
+increasingly dire.
 
 #### Common words
 
