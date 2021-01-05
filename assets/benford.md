@@ -131,12 +131,12 @@ Incidentally, this also illustrates the
 [wisdom of the crowd](https://hapax.github.io/physics/mathematics/statistics/crowd/),
 also called "diversity of prediction".
 The individual errors from a broad spread of guesses tend to cancel
-each other out, lead to a better-behaved average, though in this case
+each other out, leading to a better-behaved average, though in this case
 in logarithmic space.
 
 In general, we only expect Fermi estimates to work for numbers which
-are the product of many factors, since we our estimates by splitting
-into subestimates and multiplying together.
+are the product of many factors.
+But this is precisely the sorts of things we use Fermi estimates for!
 In a sense, the problem domain naturally leads to logarithmic
 uniformity.
 Incidentally, I've talked about "uniformity", but the geometric mean
