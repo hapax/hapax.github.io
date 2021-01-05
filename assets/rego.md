@@ -234,6 +234,9 @@ I won't provide the code here, just the chances of success:
 0.0056
 ```
 
-This seems more realistic.
+This is closer to what I expect. Your chance of getting a four letter
+combo (eventually) is only one in three, while your chance of getting
+three letters is three in four.
+And for five letters, forget about it!
 
 #### Letters and numbers
