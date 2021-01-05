@@ -252,8 +252,8 @@ $$
 \text{var}(Z) = \text{var}(X) + \text{var}(Y).
 $$
 
-So splitting a sum into estimates of the summands and adding them
-should not reduce the variance of the guess.
+Thus, splitting a sum into estimates of the summands and adding them
+should not change the variance of the guess.
 
 <!--
 The Lyapunov condition holds for a sum of independent random
