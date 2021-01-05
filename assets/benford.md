@@ -255,7 +255,9 @@ logarithmic uniformity, and the Newcomb-Benford law results.
 There are two unreasonably effective tricks for Fermi estimates:
 geometric means, and factorising into subestimates.
 We've already covered geometric means.
-If $Z = X + Y$ is a sum of independet random variables, the variance
+For Fermi estimates, if we take logarithms, subestimates become
+summands, which are a little simpler to reason about.
+If $Z = X + Y$ is a sum of independent random variables, the variance
 is additive, so that
 
 $$
@@ -290,11 +292,8 @@ $$
 \text{var}(\epsilon_X) + \text{var}(\epsilon_Y) < \text{var}(\epsilon_Z).
 $$
 
-The role of facts about the world is to help us zero in on
-low-variance subestimates.
-
-For Fermi estimates, we take exponentials of these sums so that they
-become products.
+The role of facts about the world is to help us triangulate in Fermi
+space, and zero in on low-variance subestimates.
 For instance, if $e^Z$ is the population of Chile, I can split $Z$
 into number of provinces $e^X$ multiplied by the average number of
 people per province $e^Y$.
