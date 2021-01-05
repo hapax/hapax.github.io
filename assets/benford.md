@@ -273,8 +273,8 @@ should not change the variance of the guess.
 Of course, there is a fallacy in this reasoning: humans are not
 sampling from the underlying distribution!
 Instead, they introduce their own random errors in guessing.
-For instance, if I guess $Z$ straight up, it may be random, but my
-guess will add something on top of it:
+For instance, if I guess $Z$ straight up, it may be reasonable to
+model it as random, but my guess will add some error on top of it:
 
 $$
 \hat{Z} = Z + \varepsilon_Z.
@@ -289,8 +289,8 @@ $$
 There is no reason for the variances of $\varepsilon_X$ and $\varepsilon_Y$
 to add up to the variance of $\varepsilon_Z$.
 The sum could be bigger, or it could be smaller.
-In fact, the whole art of subestimates really boils down to choosing
-factors so that
+The whole art of subestimates really boils down to choosing factors to
+have smaller combined variance:
 
 $$
 \text{var}(\varepsilon_X) + \text{var}(\varepsilon_Y) < \text{var}(\varepsilon_Z).
