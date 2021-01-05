@@ -32,7 +32,7 @@ $$
 
 The first person to find a valid word wins the round.
 The way we played it, if a tie breaker was needed, shorter and/or
-simpler words were preferred, so "spoof" beat "soporific".
+simpler words were preferred, so "**sp**oo**f**" beat "**s**o**p**ori**f**ic".
 
 #### A solver
 
