@@ -66,7 +66,8 @@ corpus `words.words()` and look for supersequences:
 
 ```python
 def regfull(str):
-    return [word for word in words.words() if subseq(str, word)]
+    return [word for word in words.words()
+		if subseq(str, word)]
 ```
 
 Note that the `words` corpus is in lowercase.
@@ -75,7 +76,9 @@ As an example, we can list words of seven letters or less for which
 
 ```python
 >>> [word for word in regfull('spf') if len(word) < 8]
-['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 'specify', 'spiff', 'spiffed', 'spiffy', 'spitful', 'spoffle', 'spoffy', 'spoof', 'spoofer', 'spuffle', 'stupefy']
+	['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 
+		'specify', 'spiff', 'spiffed', 'spiffy', 'spitful', 
+		'spoffle', 'spoffy', 'spoof', 'spoofer', 'spuffle', 'stupefy']
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
