@@ -234,7 +234,8 @@ $$
 $$
 
 It turns out that, since $x_1 = \log_{10} 2$ is irrational,
-$x_n$ jumps randomly around the unit interval, and forms an "equidistribution".
+$x_n$ jumps randomly around the unit interval, and forms an
+"equidistribution" which spends equal times in equal areas.
 For a proof, see Tabachnikov's book.
 But although the fundamental cause is different, the outcome is still
 logarithmic uniformity, and the Newcomb-Benford law results.
