@@ -307,6 +307,13 @@ I suspect that there is a nice quantitative connection to be made
 between the variance of $\varepsilon_X$ and the prior data I have on
 it.
 
+#### Remaining issues
+
+In some ways, I'm unconvinced by this explanation, for the simple
+reason that many of the real-world distributions we sample from don't
+look log-normal, let alone log-uniform.
+Many things obey power laws, which don't even have a well-defined mean!
+
 <!--
 The Lyapunov condition holds for a sum of independent random
 variables.
