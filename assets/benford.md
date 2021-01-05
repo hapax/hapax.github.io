@@ -272,11 +272,9 @@ logarithmic uniformity, and the Newcomb-Benford law results.
 
 #### Subestimates
 
-There are two unreasonably effective tricks for Fermi estimates:
-geometric means, and factorising into subestimates.
-We've already covered geometric means.
+Now we've dealt with geometric means, we can turn to subestimate.
 For Fermi estimates, if we take logarithms, subestimates become
-summands, which are a little simpler to reason about.
+summands, so we'll reason about those since they are simpler.
 If $Z = X + Y$ is a sum of independent random variables, the variance
 is additive, so that
 
