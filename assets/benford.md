@@ -225,15 +225,16 @@ $$
 \log_{10}d + k \leq n\log_{10} 2 < \log_{10}(d + 1) + k.
 $$
 
-Writing $x_n := n\log_{10} 2$, and taking fractional parts, we get
+Let $\text{frac}(x)$ denote the fractional part of $x$, and define
+$x_n := \text{frac}(n\log_{10} 2)$.
+Taking fractional parts gives
 
 $$
-\log_{10}d \leq \\{n\log_{10} 2\\} < \log_{10}(d + 1).
+\log_{10}d \leq x_n < \log_{10}(d + 1).
 $$
 
 It turns out that, since $x_1 = \log_{10} 2$ is irrational,
-$\\{x_n\\}$ jumps randomly around the unit interval, and forms an
-"equidistribution".
+$x_n$ jumps randomly around the unit interval, and forms an "equidistribution".
 For a proof, see Tabachnikov's book.
 But although the fundamental cause is different, the outcome is still
 logarithmic uniformity, and the Newcomb-Benford law results.
