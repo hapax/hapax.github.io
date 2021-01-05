@@ -294,20 +294,15 @@ Thus, splitting a sum into estimates of the summands and adding them
 should not change the variance of the guess.
 Of course, there is a fallacy in this reasoning: humans are not
 sampling from the underlying distribution!
-Instead, they introduce their own random errors in guessing.
-For instance, if I guess $Z$ straight up, it may be reasonable to
-model it as random, but my guess will add some error on top of it:
+When we guess, we introduce our own random errors.
+For instance, my estimate for $Z$ will have some human noise $\varepsilon_Z$:
 
 $$
 \hat{Z} = Z + \varepsilon_Z.
 $$
 
-Similarly, my guesses for $X$ and $Y$ have some random errors:
-
-$$
-\hat{X} = X + \varepsilon_X, \quad \hat{Y} = Y + \varepsilon_Y.
-$$
-
+Similarly, my guesses for $X$ and $Y$ have some random errors
+$\varepsilon_X$ and $\varepsilon_Y$.
 There is no reason for the variances of $\varepsilon_X$ and $\varepsilon_Y$
 to add up to the variance of $\varepsilon_Z$.
 The sum could be bigger, or it could be smaller.
