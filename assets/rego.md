@@ -203,12 +203,15 @@ nltk.download('brown')
 nltk.download('stopwords')
 from nltk.corpus import brown, stopwords
 
-fdist = nltk.FreqDist(w.lower() for w in brown.words() if w not in stopwords.words())
-freqs = [fdist[word] for word in brown.words()]
+nonstop = [word for word in brown.words()
+	if word not in stopwords.words('english')]
+fdist = nltk.FreqDist(word.lower() for word in nonstop)
+freqs = [fdist[word] for word in nonstop]
 freqs.sort(reverse = True)
 cutoff = freqs[50000]
-common = [word for word in brown.words() if fdist[word] >= cutoff and
-	w not in stopwords] + stopwords.words()
+common = [word for word in brown.words()
+	if fdist[word] >= cutoff and
+	w not in stopwords] + stopwords.words('english')
 ```
 
 This gives us a list of the most 50,000 common non-stopwords in the
