@@ -313,11 +313,10 @@ $$
 \text{var}(\varepsilon_X) + \text{var}(\varepsilon_Y) < \text{var}(\varepsilon_Z).
 $$
 
-The role of facts about the world is to help us triangulate in Fermi
-space and zero in on low-variance subestimates.
-For instance, if $e^Z$ is the population of Chile, I can split $Z$
-into number of provinces $e^X$ multiplied by the average number of
-people per province $e^Y$.
+If log-normality is the science of Fermi estimates, picking
+variance-reducing subestimates is the art.
+For instance, if $e^Z$ is the population of Chile, I can factor it
+into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
 But this is likely to *increase* the error, since I know less about
 provinces of Chile than I do about Chile compared to other countries.
 I suspect that there is a nice quantitative connection to be made
