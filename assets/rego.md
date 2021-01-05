@@ -82,8 +82,28 @@ As an example, we can list words of seven letters or less for which
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
+In general, to find the shortest word, we can do two passes through
+the whole list: one to find the minimum length, and a second to pluck
+out all the words of that length.
 
-#### 
+```python
+def regshort(str):
+    words = regfull(str)
+    minlength = min([len(word) for word in words])
+    return [word for word in words if len(word) == minlength]
+```
+
+An example:
+
+```python
+>>> regshort("pwm")
+	['pewdom']
+```
+
+Apparently, "pewdom" refers to the "system or prevalence of pews in a
+church". English is a funny language.
+
+#### Difficulty scaling
 
 Not infrequently, it's hard to find a word, but with three letters
 there seems to be a good chance that eventually you will hit on
