@@ -325,11 +325,6 @@ So the general strategy for variance reduction is to factorise into
 things we have seen before.
 We can even use these data points to generate subestimates by geometric averaging.
 
-For instance, if $e^Z$ is the population of Chile, I could try factoring it
-into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
-But this is likely to *increase* the error, since I know less about
-provinces of Chile than I do about countries in general.
-I should stick to what I know.
 I'm not sure there is any particularly good rule of thumb for when to factor.
 A simple one, however, is as follows: try generating over- and
 underestimates for the factors and the product.
@@ -338,6 +333,36 @@ In additive notation, go with the *smaller* of
 $$
 (\Delta X)^2 + (\Delta Y)^2, \quad (\Delta Z)^2.
 $$
+
+Let's illustrate by returning to the population of Chile.
+I can try factoring it into a number of regions multiplied by the
+average number of people per region.
+For instance, taking logs (in base $10$) of the over- and underestimate of Chile's
+population I gave above, I get
+
+$$
+(\Delta Z)^2 = (\log_{10} 10^8 - \log_{10} 10^6)^2 = 4.
+$$
+
+On the other hand, for regions I would
+make a lower guess of $5$ and an upper guess of $30$, with a difference in logs is $(\Delta X)^2 = 0.6$.
+For regional population, I would make a lower guess of $5\times 10^5$ and an
+upper guess of $10^7$, with $(\Delta Y)^2 = 1.7$.
+Thus,
+
+$$
+(\Delta X)^2 + (\Delta Y)^2 = 2.3 < 4 = (\Delta Z)^2.
+$$
+
+The guess from the factorisation (taking geometric means) is
+
+$$
+\sqrt{5 \times 30 \times (5\times 10^5) \times 10^7} \approx 27 \text{
+million}.
+$$
+
+This is indeed slightly closer to the actual population that our
+earlier guess.
 
 <!-- For instance, if $e^Z$ is the population of Chile, I can factor it
 into number of provinces $e^X$ multiplied by the average number of people per province $e^Y$.
