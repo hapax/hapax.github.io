@@ -284,12 +284,24 @@ $$
 
 There is no reason for the variances of $\epsilon_X$ and $\epsilon_Y$
 to add up to the variance of $\epsilon_Z$.
+The sum could be bigger, or it could be smaller.
 In fact, the whole art of subestimates really boils down to choosing
 factors so that
 
 $$
 \text{var}(\epsilon_X) + \text{var}(\epsilon_Y) < \text{var}(\epsilon_Z).
 $$
+
+The role of facts about the world is to help us zero in on
+low-variance subestimates.
+
+For Fermi estimates, we take exponentials of these sums so that they
+become products.
+For instance, if $e^Z$ is the population of Chile, I can split $Z$
+into number of provinces $e^X$ multiplied by the average number of
+people per province $e^Y$.
+This is likely to *increase* the error, since I know less about its
+provinces of Chile than I do about Chile compared to other countries.
 
 <!--
 The Lyapunov condition holds for a sum of independent random
