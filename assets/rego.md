@@ -77,8 +77,9 @@ As an example, we can list words of seven letters or less for which
 ```python
 >>> [word for word in regfull('spf') if len(word) < 8]
 	['sapful', 'scupful', 'shipful', 'shopful', 'skepful', 
-		'specify', 'spiff', 'spiffed', 'spiffy', 'spitful', 
-		'spoffle', 'spoffy', 'spoof', 'spoofer', 'spuffle', 'stupefy']
+		'specify', 'spiff', 'spiffed', 'spiffy',
+		'spitful',  'spoffle', 'spoffy', 'spoof',
+		'spoofer', 'spuffle', 'stupefy']
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
