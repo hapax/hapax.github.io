@@ -194,8 +194,8 @@ Here is the Python code to generate it:
 import matplotlib.pyplot as plt
 import math
 
-maxpower = 10000 # Change for more or less powers
-power = 2 # Change for different powers
+maxpower = 10000 # Number of powers to check
+power = 2 # Change to check other powers
 
 labels = '1', '2', '3', '4', '5', '6', '7', '8', '9',
 benford = [(math.log(10, d+1) - math.log(10, d+1))
