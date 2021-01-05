@@ -189,7 +189,7 @@ To get a slightly more realistic measure, we can replace `words` with
 the most common words occurring in a corpus of real text.
 An oldie but a goodie is the `brown` corpus, created at Brown
 University in 1961.
-I'm going to use mainly because it's relatively small.
+I'm going to use it mainly because it's relatively small.
 First, we make a list of all the words (with repetition) in the
 corpus, then obtain a frequency distribution using the `nltk` function
 `FreqDist`.
