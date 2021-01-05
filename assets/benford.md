@@ -126,12 +126,18 @@ $$
 The actual population is around $18$ million, so the estimate made
 from more guesses is indeed better!
 This is also better than the arithemetic average, $23$ million.
-This also illustrates the
+Incidentally, this also illustrates the
 [wisdom of the crowd](https://hapax.github.io/physics/mathematics/statistics/crowd/),
 also called "diversity of prediction".
 The individual errors from a broad spread of guesses tend to cancel
 each other out, lead to a better-behaved average, though in this case
 in logarithmic space.
+
+In general, we only expect Fermi estimates to work for numbers which
+are the product of many factors, since we our estimates by splitting
+into subestimates and multiplying together.
+So in a sense, the problem domain naturally leads to logarithmic
+uniformity.
 
 #### The Newcomb-Benford law
 
@@ -239,9 +245,9 @@ logarithmic uniformity, and the Newcomb-Benford law results.
 
 #### Subestimates
 
-Let's return to Fermi estimates.
-There are two unreasonably effective tricks: geometric means, which we
-have already covered, and factorising into subestimates.
+There are two unreasonably effective tricks for Fermi estimates:
+geometric means, and factorising into subestimates.
+We've already covered geometric means, and 
 The utility of factorisation is not obviously connected to log
 uniformity.
 If $Z = X + Y$ is a sum of independet random variables, the variance
