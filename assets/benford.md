@@ -206,8 +206,8 @@ for i in range(maxpower):
 	firstdig[ind] = firstdig[ind] + 1
 
 fig, ax = plt.subplots()
-ax.pie(firstdig, labels=labels, autopct='%1.1f%%',
-	shadow=True, startangle=90)
+fig.set_facecolor('white')
+ax.pie(firstdig, labels=labels, autopct='%1.1f%%',startangle=90)
     # Change 'firstdig' to 'benford' if you
 	# want check match to Newcomb-Benford
 ax.axis('equal')
@@ -239,6 +239,21 @@ But although the fundamental cause is different, the outcome is still
 logarithmic uniformity, and the Newcomb-Benford law results.
 
 #### Subestimates
+
+Let's return to Fermi estimates.
+There are two unreasonably effective tricks: geometric means, which we
+have already covered, and factorising into subestimates.
+The utility of factorisation is not obviously connected to log
+uniformity.
+If $Z = X + Y$ is a sum of independet random variables, the variance
+is additive, so that
+
+$$
+\text{var}(Z) = \text{var}(X) + \text{var}(Y).
+$$
+
+So splitting a sum into estimates of the summands and adding them
+should not reduce the variance of the guess.
 
 <!--
 The Lyapunov condition holds for a sum of independent random
