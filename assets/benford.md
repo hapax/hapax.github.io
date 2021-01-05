@@ -177,7 +177,7 @@ $$
 
 for some integer $k$.
 If $X$ is logarithmically uniform, for instance sitting near the mean
-of a product of man variables, then $\log_b X$ is uniformly
+of a big random product, then $\log_b X$ is uniformly
 distributed, and lies in the interval $I_d :=
 [\log_b d, \log_b (d+1)]$ with probability
 
