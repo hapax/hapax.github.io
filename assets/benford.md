@@ -136,8 +136,14 @@ in logarithmic space.
 In general, we only expect Fermi estimates to work for numbers which
 are the product of many factors, since we our estimates by splitting
 into subestimates and multiplying together.
-So in a sense, the problem domain naturally leads to logarithmic
+In a sense, the problem domain naturally leads to logarithmic
 uniformity.
+Incidentally, I've talked about "uniformity", but the geometric mean
+is still a measure of central tendency for any distribution, and is
+particularly nice for a lognormal one, which arise for products of
+random variables.
+But the magic of geometric means manifests most
+strongly in the near-uniform blob at the centre.
 
 #### The Newcomb-Benford law
 
