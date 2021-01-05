@@ -178,7 +178,7 @@ I did up to six letters before my CPU got sore:
 0.0711
 ```
 
-About 94\% of three letter sequences have an answer, but only two
+About 94% of three letter sequences have an answer, but only two
 thirds of four letter sequences.
 
 #### Common words
