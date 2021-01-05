@@ -229,7 +229,8 @@ powers, which follows the Newcomb-Benford law exactly:
 	</div>
 	</figure>
 
-Here is the Python code to generate it:
+Here is the Python code to generate it.
+You can check it for other numbers besides $2$ as well:
 
 ```python
 import matplotlib.pyplot as plt
