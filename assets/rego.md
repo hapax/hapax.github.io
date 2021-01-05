@@ -49,8 +49,8 @@ from nltk.corpus import words
 import itertools
 ```
 
-Our next step is to define a helper function which checks if `str2` is
-a subsequence of `str1`.
+Our next step is to define a helper function `subseq(str1, str2)`
+which checks if `str2` is a subsequence of `str1`.
 It defines an iterator `it` over the letters in `str2`, and then
 returns `True` if each letter of the iterator is in `str2`.
 The ordering comes for free from the iterator:
@@ -61,8 +61,8 @@ def subseq(str1, str2):
   return all(x in it for x in str1)
 ```
 
-Finally, for a given license plate string, we simply search the whole
-corpus `words.words()` and look for supersequences:
+Finally, for a given license plate string, `regfull(str)` simply
+searches the whole corpus `words.words()` and looks for supersequences:
 
 ```python
 def regfull(str):
@@ -83,7 +83,7 @@ As an example, we can list words of seven letters or less for which
 ```
 
 Incidentally, this shows that "spoof" is the equal shortest word.
-In general, to find the shortest word, we can do two passes through
+In general, we can find the shortest word with `regshort(str)`. It does two passes through
 the whole list: one to find the minimum length, and a second to pluck
 out all the words of that length.
 
@@ -111,3 +111,51 @@ good that a word would eventually be found, and the natural variation
 of difficulty makes the game fun.
 At some point, license plates in Victoria shifted to four letters, and
 it became much, much harder to play.
+This raises the question: how much harder is it to play?
+The natural measure is simply how many combinations have answers.
+(It would be even better if we could weight words by how common they
+are, which we could easily check using concordance, but I can't be
+bothered right now.)
+
+To compute this, we're going to iterate over many combinations of
+letters and many words.
+We will need to be clever about how we do this in order to have
+something that runs in a reasonable time.
+To begin with, we don't need all the words in the list, just a check
+if it is non-empty.
+So we can write a function `requick(str)` which stops iterating over
+the corpus and spits out `True` as soon as it finds a single supersequence:
+
+```python
+def regquick(str):
+    outcome = False
+    wordnum = len(words.words())
+    i = 0
+    while outcome == False & i < wordnum:
+        outcome = subseq(str, words.words()[i])
+        i = i + 1
+    return outcome
+```
+
+We can use this to build a function `goodreg(n)` which returns the
+list of strings of length `n` which have valid supersequences.
+Rather than iterate over combinations and then words, it iterates over
+words, adding all the subsequences of length $n$ once again using `itertools`:
+
+```python
+def goodreg(n):
+    goodreg = set()
+    for word in words.words():
+        lower = [combos for combos in list(itertools.combinations(word, n)) if all(x.islower() for x in list(combos))]
+        goodreg.update(set(lower))
+    return goodreg
+```
+
+Assuming license plates are random strings of length `n`, then the
+chance of success is given by the proportion of good strings to the
+total number:
+
+```python
+def regprop(n):
+    return len(goodreg(n))/float(26**n)
+```
