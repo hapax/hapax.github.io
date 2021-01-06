@@ -20,6 +20,8 @@ permalink: /outreach/
 - [*Counternarratives for young scientists*](https://hapax.github.io/assets/reality) (2020). A
   short address given at Quantum Leaps, a
   STEAM-oriented conference for Vancouver high school students.
+- [The hole in Einstein's theory](assets/penrose.pdf) (2020). A short
+  lay summary of the Penrose singularity theorem.
 - [*A day in the life of a theoretical physicist*](https://www.youtube.com/watch?v=brS_7DUmFRk)
 (2020). A video for Vancouver's
 [Teen Nerd Nite](https://teennerdnite.wordpress.com/) about my path to
@@ -34,8 +36,7 @@ physics and what a day in the life looks like.
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
-  with [exercises](assets/sing-problems.pdf)
-  and [lay summary](assets/penrose.pdf)!
+  with [exercises](assets/sing-problems.pdf).
 - [*Why is a soap bubble like a railway?*](https://arxiv.org/pdf/2008.09611.pdf)
   (2020). Who said you couldn't minimise without calculus? A low-tech
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
