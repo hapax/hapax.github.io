@@ -198,7 +198,10 @@ $$
 
 since the LHS counts how many times a symbol appears in terms of its
 appearance with other symbols, while the RHS counts how many times it
-appears in terms of appearing 
+appears in terms of appearing .
+A more advanced result is the
+[Bruck–Ryser–Chowla theorem](https://en.wikipedia.org/wiki/Bruck%E2%80%93Ryser%E2%80%93Chowla_theorem)
+setting necessary conditions for the existence of symmetric 2-designs.
 
 #### Resources
 
