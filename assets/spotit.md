@@ -100,7 +100,8 @@ Finally, in the last picture, we have removed $\mathbb{Z}_3 \times \{\infty\}$.
 Note that the point $(\infty, \infty)$ is left, and lies below the
 cylinder of points.
 A line in this geometry is very similar to a line in the Cartesian
-plane, defined by
+plane, and defined as something with a slope and a $y$-intercept, or a
+vertical line with an $x$-intercept:
 
 $$
 y = mx + c \text{ or } x = a.
