@@ -93,18 +93,26 @@ Here are the steps for $p = 3$:
 	</figure>
 
 In the first figure, we add the grey point "at infinity" (which occurs
-after $2$). In the second figure, the $x$ coordinate is given by the
+after $2$).
+In the second figure, the $x$ coordinate is given by the
 colour of the node and the $y$ coordinate by the colour of the
 triangle it lies on.
-Finally, in the last picture, we have removed $\mathbb{Z}_3 \times \{\infty\}$.
-Note that the point $(\infty, \infty)$ is left, and lies below the
-cylinder of points.
+Note that the coloured points on the grey triangle are equivalent to
+the corresponding grey points on the coloured triangle.
 A line in this geometry is very similar to a line in the Cartesian
-plane, and defined as something with a slope and a $y$-intercept, or a
+plane, and defined as something with a finite slope and a $y$-intercept, or a
 vertical line with an $x$-intercept:
 
 $$
 y = mx + c \text{ or } x = a.
+$$
+
+The finite slope $m \in \mathbb{Z}_p$, while the intercepts $a, c \in
+\mathbb{Z}_p^*$.
+Thus, the total number of lines is
+
+$$
+d = p(p+1) + (p + 1) = p^2 +
 $$
 
 $$
