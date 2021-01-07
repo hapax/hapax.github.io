@@ -37,7 +37,7 @@ I enjoy the game, but like many mathematically-minded folk who play
 it, became distracted by the question: how does it work?
 Somewhat nontrivially, as it turns out.
 
-#### Combinatorial designs and geometry
+#### Projective geometry and combinatorial designs
 
 The usual approach is to consider an alphabet of $n$ symbols, a deck
 of size $d$, and $\ell$ symbols per card, satisfying the constraint
@@ -64,6 +64,38 @@ R = \{(m ,n) : m , n \in [p]\} = [p] \times [p],
 $$
 
 as well as $p + 1$ "points at infinity", $I = [p] \cup \{\infty\}$.
+The set of points (symbols) consists of regular points and those at infinity, $R
+\cup I$, so that
+
+$$
+n = |R \cup I| = p^2 + p + 1.
+$$
+
+We construct each line (cards) to have $n + 1$ points (symbols) as
+follows.
+First, we have lines $L_{mn}$ of slope $m$ and "intercept" $n$,
+defined by
+
+$$
+L_{mn} = \{(x, mx + n) : x \in [p]\} \cup \{m\},
+$$
+
+where sums are taken modulo $p$.
+We also have $p$ lines of "infinite slop",
+
+$$
+L_{\infty n} = \{n\} \times [p] = \{(n, x) : x \in [p]\}.
+$$
+
+Finally, we have a special line $L_\infty = I$ which simply "runs
+along" infinity. Altogether, this gives $d = p^2 + p + 1$ lines.
+It's easy to see that every combination of symbols occurs on precisely
+one card (we've constructed them this way) and each pair of lines
+intersects in exactly one point.
+
+*Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
+1 = 57$ symbols. For some mysterious reason, they removed two cards,
+so $d = 55$.
 
 #### Resources
 
