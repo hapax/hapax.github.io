@@ -129,14 +129,28 @@ $$
 precisely the number of points. We might have expected this from the
 fact that in the axioms, the role of lines and points are interchangeable!
 *Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
-1 = 57$ symbols. For some mysterious reason, they removed two cards,
-so $d = 55$.
+1 = 57$ symbols. We can now easily draw a picture of the corresponding
+projective plane:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/spotit5.png"/>
 	</div>
 	</figure>
+
+Each card is a line with $p + 1 = 8$ symbols.
+For some mysterious reason, the designers removed two cards, so $d =
+55$ rather than $57$.
+Speculation on the internet is rife, and I remain agnostic.
+But ignoring this mutilation, *Spot It!* is really just a projective
+plane built out of the finite field $\mathbb{Z}_7$.
+
+#### Generalisations
+
+It turns out that, for any projective plane, $n = q^2 + q + 1$ for
+some number $q$, and it is conjectured (but not known) that $q$ must
+be a prime power.
+But our construction has been rather 
 
 #### Resources
 
