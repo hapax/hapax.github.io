@@ -163,18 +163,42 @@ Now draw all the lines, and you have the Fano plane!
 This construction also works if you have the grey triangle on the
 outside instead, and get rid of the grey points.
 
-#### Generalisations
+#### Other generalisations
 
 It turns out that, for any projective plane, $n = q^2 + q + 1$ for
 some number $q$, and it is conjectured (but not known) that $q$ must
 be a prime power.
-This answers one version of the "generalise *Spot It!*" problem.
-But our projective construction is in some ways an unnatural
-generalisation.
+This conjecturally generalises the *Spot It!*" problem.
+But our projective construction was constrained in some ways, and
+unconstrained in others, that strike me as unnatural.
 First, we added the constraint that any pair of symbols appears on
-precisely one card, which does not appear to me to be a necessary
-feature of the game.
-We also had no constraints on the number of symbols per card or the 
+precisely one card.
+Why not two, or three, or no constraint at all?
+Dualising, why not allow for an overlap of more than one symbol?
+The answers won't be projective geometries, but they may be
+interesting.
+
+Consider a deck of $d$ cards, with an alphabet of $n$ symbols, $s$
+symbols per card, and each pair appears in $\lambda$ distinct cards.
+This resulting arrangment is called a $2-(n, s, \lambda)$
+[*combinatorial design*](https://en.wikipedia.org/wiki/Combinatorial_design),
+or $2$-design for short.
+The projective plane corresponds to $d = n$ and $\lambda = 1$.
+In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequality)
+shows that $d \geq n$, and the restriction to $d = n$ but arbitrary
+$\lambda$ is a
+[symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
+which are one of the central objects of interest in combinatorial
+design theory, so lots is known about them.
+For instance, it's easy to show that
+
+$$
+\lambda (n - 1) = s(s - 1),
+$$
+
+since the LHS counts how many times a symbol appears in terms of its
+appearance with other symbols, while the RHS counts how many times it
+appears in terms of appearing 
 
 #### Resources
 
