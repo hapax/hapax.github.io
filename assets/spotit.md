@@ -92,6 +92,8 @@ along" infinity. Altogether, this gives $d = p^2 + p + 1$ lines.
 It's easy to see that every combination of symbols occurs on precisely
 one card (we've constructed them this way) and each pair of lines
 intersects in exactly one point.
+(More generally, [this construction works](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes) for $p$ a prime power, so
+that $[p]$ can be viewed as a finite field.)
 
 *Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
 1 = 57$ symbols. For some mysterious reason, they removed two cards,
