@@ -100,56 +100,23 @@ triangle it lies on.
 Note that the coloured points on the grey triangle are equivalent to
 the corresponding grey points on the coloured triangle.
 A line in this geometry is very similar to a line in the Cartesian
-plane, and defined as something with a finite slope and a $y$-intercept, or a
-vertical line with an $x$-intercept:
+plane, and defined as something with a finite slope and finite
+$y$-intercept, or a vertical line with a (possibly infinite)
+$x$-intercept:
 
 $$
 y = mx + c \text{ or } x = a.
 $$
 
-The finite slope $m \in \mathbb{Z}_p$, while the intercepts $a, c \in
-\mathbb{Z}_p^*$.
-Thus, the total number of lines is
+The finite slope and intercept have $m, c \in \mathbb{Z}_p$, while $a
+\in \mathbb{Z}_p^*$, so the total number of lines is
 
 $$
-d = p(p+1) + (p + 1) = p^2 +
+d = p^2 + p + 1,
 $$
 
-$$
-L_{a} = \{(a, x) : x \in \mathbb{Z}_p\}.
-$$
-
-as well as $p + 1$ "points at infinity", $I = [p] \cup \{\infty\}$.
-The set of points (symbols) consists of regular points and those at infinity, $R
-\cup I$, so that
-
-$$
-n = |R \cup I| = p^2 + p + 1.
-$$
-
-We construct each line (cards) to have $n + 1$ points (symbols) as
-follows.
-First, we have lines $L_{mn}$ of slope $m$ and "intercept" $n$,
-defined by
-
-$$
-L_{mn} = \{(x, mx + n) : x \in [p]\} \cup \{m\},
-$$
-
-where sums are taken modulo $p$.
-We also have $p$ lines of "infinite slop",
-
-$$
-L_{\infty n} = \{n\} \times [p] = \{(n, x) : x \in [p]\}.
-$$
-
-Finally, we have a special line $L_\infty = I$ which simply "runs
-along" infinity. Altogether, this gives $d = p^2 + p + 1$ lines.
-It's easy to see that every combination of symbols occurs on precisely
-one card (we've constructed them this way) and each pair of lines
-intersects in exactly one point.
-(More generally, [this construction works](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes) for $p$ a prime power, so
-that $[p]$ can be viewed as a finite field.)
+precisely the number of points. We might have expected this from the
+fact that in the axioms, the role of lines and points are interchangeable!
 
 *Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
 1 = 57$ symbols. For some mysterious reason, they removed two cards,
