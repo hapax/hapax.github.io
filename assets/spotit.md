@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "More "
+title:  "Projective planes, designs, and the polyhedral turducken"
 categories: Mathematics
 date:  2021-01-07
 ---
