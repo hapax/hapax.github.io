@@ -144,13 +144,28 @@ For some mysterious reason, the designers removed two cards, so $d =
 Speculation on the internet is rife, and I remain agnostic.
 But ignoring this mutilation, *Spot It!* is really just a projective
 plane built out of the finite field $\mathbb{Z}_7$.
+I also can't resist sharing the smallest example: $p = 2$, which has a
+very special projective plane calle the *Fano plane*.
+Ther
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit6.png"/>
+	</div>
+	</figure>
 
 #### Generalisations
 
 It turns out that, for any projective plane, $n = q^2 + q + 1$ for
 some number $q$, and it is conjectured (but not known) that $q$ must
 be a prime power.
-But our construction has been rather 
+This answers one version of the "generalise *Spot It!*" problem.
+But our projective construction is in some ways an unnatural
+generalisation.
+First, we added the constraint that any pair of symbols appears on
+precisely one card, which does not appear to me to be a necessary
+feature of the game.
+We also had no constraints on the number of symbols per card or the 
 
 #### Resources
 
