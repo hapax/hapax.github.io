@@ -54,7 +54,7 @@ following "axioms":
 
 The question then becomes about the existence of a finite projective
 plane.
-There is a simple approach to constructing answers, which includes
+There is a nice constructive approach, which includes
 *Spot It!* as a special case, as
 [nicely explained](https://math.stackexchange.com/questions/36798/what-is-the-math-behind-the-game-spot-it)
 by Yuval Filmus.
