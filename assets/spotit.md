@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A Dooble turducken"
+title:  "Spot the turducken"
 categories: Mathematics
 date:  2021-01-07
 ---
