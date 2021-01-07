@@ -2,13 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Projective planes, designs, and the polyhedral turducken"
+title:  "Generalising the mathematics of Dobble"
 categories: Mathematics
 date:  2021-01-07
 ---
 
-**January 7, 2021.** *Some thoughts on simplices embedded in the
-  intersection of a hypercube and a hypersphere, motivated by the game Spot It! (aka Dobble).*
+**January 7, 2021.** *I discuss the mathematics of Spot It! and
+  various generalisations: projective planes, combinatorial designs,
+  and a polyhedral turducken.*
 
 #### Introduction
 
