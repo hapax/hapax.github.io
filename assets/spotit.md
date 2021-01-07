@@ -74,13 +74,12 @@ make it projective and make it a plane.
 "Projective" means we add a point at infinity $\infty$,
 giving $\mathbb{Z}_p^* := \mathbb{Z}_p \cup \{\infty\}$.
 "Plane" means we consider all pairs made from $\mathbb{Z}_p^*$,
-subject to the proviso that $(m, \infty) \sim (\infty, m)$.
-Equivalently, we can simply subtract $\mathbb{Z}_p \times \{\infty\}$.
-This leads to a projective plane
+subject to the proviso that $(m, \infty) \overset{S}{\sim} (\infty,
+m)$, where $S$ is the relation.
+Modding out by $S$ leads to the projective plane
 
 $$
-\mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^* - \mathbb{Z}_p
-\times \{\infty\},
+\mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^*\backslash S,
 $$
 
 with $n = (p+ 1)^2 - p = p^2 + p + 1$ points.
