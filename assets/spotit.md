@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Spot the turducken"
+title:  "More "
 categories: Mathematics
 date:  2021-01-07
 ---
@@ -33,8 +33,8 @@ by Ken Wessen.)
 	</div>
 	</figure>
 
-I enjoy the game, but like many mathematically-minded folk who play
-it, became distracted by the question: how does it work?
+I enjoyed playing the game, but like many mathematically-minded folk
+who encounter it, became distracted by the question: how does it work?
 Somewhat nontrivially, as it turns out.
 
 #### Finite projective planes
