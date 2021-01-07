@@ -211,7 +211,7 @@ since both sides count the total number of pairs (with multiplicity),
 divided by $n$, with the LHS counting by co-occurrence of symbols, and
 the RHS from cards (using $k = r$ for a symmetric 2-design).
 Setting $\lambda = 1$ for the projective plane, and writing $q = k -
-1$, we have
+1$,
 
 $$
 n = k(k - 1) + 1 = q(q+1) + 1 = q^2 + q + 1,
@@ -220,12 +220,11 @@ $$
 so that the form of $n$ is necessary, and $q + 1$ is one more than the number
 of symbols per card.
 Finally, you might ask about the $2$ in $2$-design.
-It turns out there is a generalisation called a $t$-design, where
+It turns out there is a generalisation called a $t$-*design*, where
 instead of having every pair appear $\lambda$ times, you have every
-$t$-element subset of the alphabet of symbols appear on $\lambda$
-cards.
-I won't say more about them, but just point out they exist and
-constitute an even broader generalisation of *Spot It!*.
+$t$-element subset of the alphabet appear on $\lambda$ cards.
+I won't say more about them, but just wanted to point out they exist and
+constitute an even broader generalisation.
 
 #### Double the dobble
 
