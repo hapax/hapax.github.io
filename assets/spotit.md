@@ -9,7 +9,7 @@ date:  2021-01-07
 
 **January 7, 2021.** *I discuss the mathematics of Spot It! and
   various generalisations: projective planes, combinatorial designs,
-  and a polyhedral turducken.*
+  and a polytopal turducken.*
 
 #### Introduction
 
