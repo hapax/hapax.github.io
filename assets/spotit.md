@@ -108,6 +108,17 @@ $$
 y = mx + c \text{ or } x = a.
 $$
 
+We illustrate for $p = 3$ once more.
+Note that for the lines with finite slope and intercept, it's
+convenient to use points on the grey triangle, while for the vertical
+lines, it's more convenient to use grey points:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit4.png"/>
+	</div>
+	</figure>
+	
 The finite slope and intercept have $m, c \in \mathbb{Z}_p$, while $a
 \in \mathbb{Z}_p^*$, so the total number of lines is
 
