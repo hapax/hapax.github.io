@@ -188,8 +188,7 @@ In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequ
 shows that $d \geq n$, and the restriction to $d = n$ but arbitrary
 $\lambda$ is a
 [symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
-which are one of the central objects of interest in combinatorial
-design theory, so lots is known about them.
+which are one of the central objects of interest in experimental design, so lots is known about them.
 For instance, it's easy to show that
 
 $$
