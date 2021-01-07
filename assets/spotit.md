@@ -13,7 +13,13 @@ date:  2021-01-07
 
 #### Introduction
 
-The game of *Spot It!* (called *Dobble* in the UK)
+The game of *Spot It!* (called *Dobble* in the UK) is a simple game
+based on some relatively deep mathematics.
+There is a deck of $55$ cards, each of which has eight symbols printed
+on it, from a total symbol vocabulary of $57$.
+For each two cards in the deck, there is precisely one symbol in
+common, and on each round, the first person to find the shared symbol
+between the last card and a newly drawn card wins a point.
 
 <figure>
     <div style="text-align:center"><img src
