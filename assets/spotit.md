@@ -128,10 +128,15 @@ $$
 
 precisely the number of points. We might have expected this from the
 fact that in the axioms, the role of lines and points are interchangeable!
-
 *Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
 1 = 57$ symbols. For some mysterious reason, they removed two cards,
 so $d = 55$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit5.png"/>
+	</div>
+	</figure>
 
 #### Resources
 
