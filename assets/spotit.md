@@ -39,28 +39,29 @@ Somewhat nontrivially, as it turns out.
 
 #### Finite projective planes
 
-The usual approach is to consider an alphabet of $n$ symbols, a deck
-of size $d$, and $\ell$ symbols per card, satisfying the constraint
-that every two cards share precisely one symbol in common.
+So, the game requires that every two cards share precisely one symbol
+in common.
 If we add the further constraint that each pair of symbols occurs on
 one card only, then we have a nice equivalence to
 [finite projective plane](https://en.wikipedia.org/wiki/Projective_plane),
-provided we interpret a card as a line and a symbol as a point of
-intersection, with the following "axioms":
+provided we interpret a card as a line and a symbol as a point at
+which lines intersect. In particular, our constraints become the
+following "axioms":
 
 1. Any two lines (cards) intersect at exactly one point (symbol).
 2. Any two points (symbols) are joined by exactly one line (card).
 
 The question then becomes about the existence of a finite projective
-plane with $n$ points and $d$ lines.
+plane.
 There is a simple approach to constructing answers, which includes
-*Spot It!* as a special case, as Yuval Filmus
-[nicely explains](https://math.stackexchange.com/questions/36798/what-is-the-math-behind-the-game-spot-it).
+*Spot It!* as a special case, as
+[nicely explained](https://math.stackexchange.com/questions/36798/what-is-the-math-behind-the-game-spot-it)
+by Yuval Filmus.
 Let $p$ be a prime number, and consider the finite field $\mathbb{Z}_p
 = \\{0, 1, 2, \ldots, p - 1\\}$, viewed as $p$ nodes on a circle.
 (You can generalise to prime power fields, but we'll stick with primes
 for simplicity.)
-We picture $\mathbb{Z}_p$ for $p = 3, 5, 7$ below.
+We picture $\mathbb{Z}_p$ for $p = 3, 5, 7$ below:
 
 <figure>
     <div style="text-align:center"><img src
@@ -75,7 +76,13 @@ giving $\mathbb{Z}_p^* := \mathbb{Z}_p \cup \{\infty\}$.
 "Plane" means we consider all pairs made from $\mathbb{Z}_p^*$,
 subject to the proviso that $(m, \infty) \sim (\infty, m)$.
 Equivalently, we can simply subtract $\{\infty\} \times \mathbb{Z}_p$.
-This yields the projective plane
+Here are the steps for $p = 3$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit3.jpg"/>
+	</div>
+	</figure>
 
 $$
 \mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^* - \{\infty\} \times \mathbb{Z}_p
