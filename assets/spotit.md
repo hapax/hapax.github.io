@@ -165,12 +165,12 @@ outside instead, and get rid of the grey points.
 
 #### Combinatorial designs
 
-It turns out that, for any projective plane, $n = q^2 + q + 1$ for
-some number $q$, and it is conjectured (but not known) that $q$ must
-be a prime power.
-This conjecturally generalises the *Spot It!*" problem.
-But our projective construction was constrained in some ways, and
-unconstrained in others, that strike me as unnatural.
+It turns out (as we will show below) that, for any projective plane,
+we must have $n = q^2 + q + 1$ for some number $q$.
+It is conjectured that $q$ must be a prime power, which completely
+solves one possible generalisation of *Spot It!*".
+But our projective construction generalises certain features that
+strike me as unnatural to the game.
 First, we added the constraint that any pair of symbols appears on
 precisely one card.
 Why not two, or three, or no constraint at all?
@@ -178,29 +178,55 @@ Dualising, why not allow for an overlap of more than one symbol?
 The answers won't be projective geometries, but they may be
 interesting.
 
-Consider a deck of $d$ cards, with an alphabet of $n$ symbols, $s$
-symbols per card, and each pair appears in $\lambda$ distinct cards.
-This resulting arrangment is called a $2-(n, s, \lambda)$
+We'll start with constraints on co-occurence.
+Consider a deck of $b$ cards, with an alphabet of $n$ symbols, and $k$
+symbols per card.
+Further, suppose each symbol appears on $r$ cards, and each given pair
+of symbols appears in $\lambda$ distinct cards.
+This resulting arrangment is called a $2-(n, k, \lambda)$
 [*combinatorial design*](https://en.wikipedia.org/wiki/Combinatorial_design),
 or $2$-design for short.
-The projective plane corresponds to $d = n$ and $\lambda = 1$.
+We don't bother to list $r$ or $b$ since they are determined by the
+other parameters according to the equation
+
+$$
+bk = nr.
+$$
+
+The proof is simply that the LHS counts the total number of symbols
+(with multiplicity) by card, and the RHS by symbol.
 In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequality)
-shows that $d \geq n$, and the restriction to $d = n$ but arbitrary
-$\lambda$ is a
-[symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
-which are one of the central objects of interest in experimental design, so lots is known about them.
-For instance, it's easy to show that
+shows that $b \geq n$.
+The projective plane corresponds to $b = n$ and $\lambda = 1$.
+The restriction to $b = n$ but arbitrary $\lambda$ is called a
+[symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)).
+These are well-studied objects in experimental design, and much is
+known about them.
+For instance, a basic contraint is that
 
 $$
-\lambda (n - 1) = s(s - 1),
+\lambda (n - 1) = k(k - 1),
 $$
 
-since the LHS counts how many times a symbol appears in terms of its
-appearance with other symbols, while the RHS counts how many times it
-appears in terms of appearing .
-A more advanced result is the
-[Bruck–Ryser–Chowla theorem](https://en.wikipedia.org/wiki/Bruck%E2%80%93Ryser%E2%80%93Chowla_theorem)
-setting necessary conditions for the existence of symmetric 2-designs.
+since both sides count the total number of pairs (with multiplicity),
+divided by $n$, with the LHS counting by co-occurrence of symbols, and
+the RHS from cards (using $k = r$ for a symmetric 2-design).
+Setting $\lambda = 1$ for the projective plane, and writing $q = k -
+1$, we have
+
+$$
+n = k(k - 1) + 1 = q(q+1) + 1 = q^2 + q + 1,
+$$
+
+so that the form of $n$ is necessary, and $q + 1$ is one more than the number
+of symbols per card.
+Finally, you might ask about the $2$ in $2$-design.
+It turns out there is a generalisation called a $t$-design,
+
+#### Double the dobble
+
+<!-- A more delicate constraint comes from the
+[Bruck–Ryser–Chowla theorem](https://en.wikipedia.org/wiki/Bruck%E2%80%93Ryser%E2%80%93Chowla_theorem). -->
 
 #### Resources
 
