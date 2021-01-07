@@ -226,10 +226,10 @@ $t$-element subset of the alphabet appear on $\lambda$ cards.
 I won't say more about them, but just wanted to point out they exist and
 constitute an even broader generalisation.
 
-#### Double the dobble
-
 <!-- A more delicate constraint comes from the
 [Bruck–Ryser–Chowla theorem](https://en.wikipedia.org/wiki/Bruck%E2%80%93Ryser%E2%80%93Chowla_theorem). -->
+
+#### The polytopal turducken
 
 #### Resources
 
