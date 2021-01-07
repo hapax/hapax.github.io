@@ -75,7 +75,15 @@ make it projective and make it a plane.
 giving $\mathbb{Z}_p^* := \mathbb{Z}_p \cup \{\infty\}$.
 "Plane" means we consider all pairs made from $\mathbb{Z}_p^*$,
 subject to the proviso that $(m, \infty) \sim (\infty, m)$.
-Equivalently, we can simply subtract $\{\infty\} \times \mathbb{Z}_p$.
+Equivalently, we can simply subtract $\mathbb{Z}_p \times \{\infty\}$.
+This leads to a projective plane
+
+$$
+\mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^* - \mathbb{Z}_p
+\times \{\infty\},
+$$
+
+with $n = (p+ 1)^2 - p = p^2 + p + 1$ points.
 Here are the steps for $p = 3$:
 
 <figure>
@@ -84,21 +92,19 @@ Here are the steps for $p = 3$:
 	</div>
 	</figure>
 
-$$
-\mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^* - \{\infty\} \times \mathbb{Z}_p
-$$
+In the first figure, we add the grey point "at infinity" (which occurs
+after $2$). In the second figure, the $x$ coordinate is given by the
+colour of the node and the $y$ coordinate by the colour of the
+triangle it lies on.
+Finally, in the last picture, we have removed $\mathbb{Z}_3 \times \{\infty\}$.
+Note that the point $(\infty, \infty)$ is left, and lies below the
+cylinder of points.
+A line in this geometry is very similar to a line in the Cartesian
+plane, defined by
 
-with $n = (p+ 1)^2 - p = p^2 + p + 1$ points.
-
-A line is just what you would expect.
-By analogy with $y = mx +c$, we select a slope and $y$-intercept $m, c \in
-\mathbb{Z}_p$, with
-
 $$
-L_{mc} = \{(x, mx + c) : x \in \mathbb{Z}_p\}.
+y = mx + c \text{ or } x = a.
 $$
-
-We can also have infinite slope and $x$-intercept $a$
 
 $$
 L_{a} = \{(a, x) : x \in \mathbb{Z}_p\}.
