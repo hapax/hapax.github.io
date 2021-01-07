@@ -36,13 +36,8 @@ by Ken Wessen.)
 I enjoy the game, but like many mathematically-minded folk who play
 it, became distracted by the question: how does it work?
 Somewhat nontrivially, as it turns out.
-It turns out to involve a wonderful overlap of
-[pure](https://en.wikipedia.org/wiki/Incidence_geometry) and
-[applied](https://en.wikipedia.org/wiki/Combinatorial_design)
-mathematics, and there are many resources (see below) for learning
-more. I'm going to consider a slightly different approach.
 
-#### Some generalisations
+#### Combinatorial designs and geometry
 
 The usual approach is to consider an alphabet of $n$ symbols, a deck
 of size $d$, and $\ell$ symbols per card, satisfying the constraint
@@ -56,13 +51,19 @@ intersection, with "axioms"
 1. Any two lines (cards) intersect at exactly one point (symbol).
 2. Any two points (symbols) are joined by exactly one line (card).
 
-The question is 
-It's possible to prove that this is only possible if, for some number
-$q$,
+The question then becomes about the existence of a finite projective
+plane with $n$ points and $d$ lines.
+There is a simple approach to answering this question, expounded
+clearly by
+[Yuval Filmus](https://math.stackexchange.com/questions/36798/what-is-the-math-behind-the-game-spot-it).
+Let $p$ be a prime number, and $[p] := \\{0, 1, 2, \ldots, p - 1\\}$.
+We construct the "regular points" as pairs
 
 $$
-n = q^2 + q + 1.
+R = \{(m ,n) : m , n \in [p]\} = [p] \times [p],
 $$
+
+as well as $p + 1$ "points at infinity", $I = [p] \cup \{\infty\}$.
 
 #### Resources
 
@@ -74,3 +75,9 @@ $$
   (accessed 2021), Ken Wessen.
 
 <!-- http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf -->
+
+<!-- It turns out to involve a wonderful overlap of
+[pure](https://en.wikipedia.org/wiki/Incidence_geometry) and
+[applied](https://en.wikipedia.org/wiki/Combinatorial_design)
+mathematics, and there are many resources (see below) for learning
+more. -->
