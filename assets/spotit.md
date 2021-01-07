@@ -197,12 +197,11 @@ The proof is simply that the LHS counts the total number of symbols
 (with multiplicity) by card, and the RHS by symbol.
 In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequality)
 shows that $b \geq n$.
-The projective plane corresponds to $b = n$ and $\lambda = 1$.
 The restriction to $b = n$ but arbitrary $\lambda$ is called a
-[symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)).
-These are well-studied objects in experimental design, and much is
-known about them.
-For instance, a basic contraint is that
+[symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
+and the projective plane is the special case $\lambda = 1$.
+We can say a little more about these symmetric designs.
+A basic contraint is that
 
 $$
 \lambda (n - 1) = k(k - 1),
