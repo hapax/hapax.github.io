@@ -231,6 +231,12 @@ constitute an even broader generalisation.
 
 #### The polytopal turducken
 
+Finally, I'm going to discuss an approach that occurred to me before
+looking up what other people had done.
+It generalises *Spot It!* in yet another direction, and I haven't been able to
+find many results in the literature (probably because the problem is
+quite hard, as I will discuss below).
+
 #### Resources
 
 - ["The mathematics of *Spot It!*"](https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1016&context=jur)
