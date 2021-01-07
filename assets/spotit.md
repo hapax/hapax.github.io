@@ -65,7 +65,7 @@ We picture $\mathbb{Z}_p$ for $p = 3, 5, 7$ below:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/spotit2.jpg"/>
+    ="/images/posts/spotit2.png"/>
 	</div>
 	</figure>
 
@@ -88,7 +88,7 @@ Here are the steps for $p = 3$:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/spotit3.jpg"/>
+    ="/images/posts/spotit3.png"/>
 	</div>
 	</figure>
 
