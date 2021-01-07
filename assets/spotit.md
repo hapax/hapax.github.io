@@ -163,8 +163,6 @@ Now draw all the lines, and you have the Fano plane!
 This construction also works if you have the grey triangle on the
 outside instead, and get rid of the grey points.
 
-#### Combinatorial designs
-
 It turns out (as we will show below) that, for any projective plane,
 we must have $n = q^2 + q + 1$ for some number $q$.
 It is conjectured that $q$ must be a prime power, which completely
@@ -177,6 +175,8 @@ Why not two, or three, or no constraint at all?
 Dualising, why not allow for an overlap of more than one symbol?
 The answers won't be projective geometries, but they may be
 interesting.
+
+#### Combinatorial designs
 
 We'll start with constraints on co-occurence.
 Consider a deck of $b$ cards, with an alphabet of $n$ symbols, and $k$
@@ -221,7 +221,12 @@ $$
 so that the form of $n$ is necessary, and $q + 1$ is one more than the number
 of symbols per card.
 Finally, you might ask about the $2$ in $2$-design.
-It turns out there is a generalisation called a $t$-design,
+It turns out there is a generalisation called a $t$-design, where
+instead of having every pair appear $\lambda$ times, you have every
+$t$-element subset of the alphabet of symbols appear on $\lambda$
+cards.
+I won't say more about them, but just point out they exist and
+constitute an even broader generalisation of *Spot It!*.
 
 #### Double the dobble
 
