@@ -155,7 +155,7 @@ our method by the following sequence of transformations:
 	</div>
 	</figure>
 
-In other words, draw each row $\mathbb{Z}_2^*$ as a triangle, and nest
+Draw each row $\mathbb{Z}_2^*$ as a triangle, and nest
 them rather than stacking them.
 Get rid of the copied points on the grey triangle, then rotate the red
 triangle so it hits the outer green triangle.
