@@ -119,7 +119,7 @@ lines, it's more convenient to use grey points:
 	</div>
 	</figure>
 	
-The finite slope and intercept have $m, c \in \mathbb{Z}_p$, while $a
+For finite slope and intercept, $m, c \in \mathbb{Z}_p$, while $a
 \in \mathbb{Z}_p^*$, so the total number of lines is
 
 $$
