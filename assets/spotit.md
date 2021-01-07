@@ -163,7 +163,7 @@ Now draw all the lines, and you have the Fano plane!
 This construction also works if you have the grey triangle on the
 outside instead, and get rid of the grey points.
 
-#### Other generalisations
+#### Combinatorial designs
 
 It turns out that, for any projective plane, $n = q^2 + q + 1$ for
 some number $q$, and it is conjectured (but not known) that $q$ must
@@ -216,3 +216,5 @@ appears in terms of appearing
 [applied](https://en.wikipedia.org/wiki/Combinatorial_design)
 mathematics, and there are many resources (see below) for learning
 more. -->
+
+<!-- https://pdf.sciencedirectassets.com/271586/1-s2.0-S0024379500X03801/1-s2.0-0024379595005412/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDCsCZFL1RIWDwXIr0AxI4NCD64GFmKIP%2F9dNvxJvO0cgIgXLj%2FVxK%2FglsxK72%2B80YPJKY4Q%2FyJAMtqJeyy5f67p%2BYqtAMISRADGgwwNTkwMDM1NDY4NjUiDKZXqMoRRsmInCbvayqRA36TlUSdCuQvew0WddLkEB9u8oeBbksZv38RSvlobs%2FtlOB2wiwhl3cSteVqAX2vFjGtCPBm2va7jSpYZf4lf5k2XVnAR7K%2BigdZRGHxzMW8Ol6MFGuWtKmbWZQIOZrqRQOT4z%2B4op8liXdTfX91PJgOeAHFasNa8Mb5Csi0gFvppW2lGH%2BT2epj4%2FklD5FMpm6X0ORb23nmdiNvKh6JB8USI1PaTJiSu6ayo3kZV%2FeOVFayxz65urkf35pOAEs%2FmXNSkQ9A2svDA79zxP%2Bo5lJiA36jwsxrfwBIEnXUhfqQ4VboqiuqLZhdigJ046yPwDfL1WnuWkWbqvIXusNMhhzHBIGkL4oaSgD24xKSdJ3hon35HvweCgrcn%2FQs3TLVe3Y%2Fsfo4tNiJtgPLe39XkCdRIjtjcWPbaZ7OF0JK2DyyfQ80LEEBZZ43BEq%2FMJ6kY0il5NowQbo7J42yrTEAUvOi0ZeCUHLi%2B%2F1ol868zsGsHgQVVYrOmGkn9YSjyX9ZLVBxqzxHncWrJLdxZgP3mJ9gMPPV3P8FOusBdzPNBunkwIOcrmyQBbn69McYEJ2kp6Ma5mILsUb92CNyS73w1EshKZBIyCcFqaIG7uA0GFUuSwmzduhtpwvK660lClDbCpIjdWrtPoXnn3YTAL8tAAxEXnqGXbgScaQYD5yf0m6t3qtitlsoEBuuIteuu89dnJ11jh4xExf%2F4fohtfNuJNbvKagNy0zAMWfULceUwGAhcCqiQWhhHRMsyl0KJfvC9Wy85SINd75bhJVl90MqxDzrGjj4mrl9jSowyBILE3yuiqk%2B36U0PVp9ggheMXJNDhhxhyJjbSJ0dE%2B%2BPmglaadaVrJXDg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210107T154329Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVD553ENZ%2F20210107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8c72206e548bf3a7bcec46225c55b9d0ce9787b4125af8c469d6af080fbe1ad6&hash=ee4495fbf323769a50ac27b637d461bd4b2e62c8e116b8b8bdbf12347a95097b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0024379595005412&tid=spdf-bc20f7c8-3bc7-4444-84d5-0749022f920a&sid=843398ad85237746f73b2f56238ef7c30b60gxrqa&type=client -->
