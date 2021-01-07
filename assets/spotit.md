@@ -36,7 +36,7 @@ by Ken Wessen.)
 
 I enjoyed playing the game, but like many mathematically-minded folk
 who encounter it, became distracted by the question: how does it work?
-Somewhat nontrivially, as it turns out.
+Somewhat nontrivially!
 
 #### Finite projective planes
 
