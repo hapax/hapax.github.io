@@ -23,6 +23,6 @@ between the last card and a newly drawn card wins a point.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/spotit1.jpeg"/>
+    ="/images/posts/spotit1.jpg"/>
 	</div>
 	</figure>
