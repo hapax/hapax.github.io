@@ -183,7 +183,7 @@ Consider a deck of $b$ cards, with an alphabet of $n$ symbols, and $k$
 symbols per card.
 Further, suppose each symbol appears on $r$ cards, and each given pair
 of symbols appears in $\lambda$ distinct cards.
-This resulting arrangment is called a $2-(n, k, \lambda)$
+This resulting arrangment is called a $2$-$(n, k, \lambda)$
 [*combinatorial design*](https://en.wikipedia.org/wiki/Combinatorial_design),
 or $2$-design for short.
 We don't bother to list $r$ or $b$ since they are determined by the
