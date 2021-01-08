@@ -272,7 +272,7 @@ Then for any $j \neq k$,
 
 $$
 \mathbf{v}^{(a)} \cdot \mathbf{v}^{(b)} = \sum_i v^{(a)}_i v^{(b)}_i = c \quad \Longrightarrow
-\quad \cos \theta_{ab} = \frac{c}{k}.
+\quad \cos \theta_{ab} = \frac{\mathbf{v}^{(a)} \cdot \mathbf{v}^{(b)}}{|\mathbf{v}^{(a)}||\mathbf{v}^{(b)}|} = \frac{c}{k}.
 $$
 
 Thus, $V$ is a set of vectors which (a) lie on the unit hypercube $\{0,
