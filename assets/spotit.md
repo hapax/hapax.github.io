@@ -286,8 +286,6 @@ polytopes.
 
 #### Resources
 
-- ["The mathematics of *Spot It!*"](https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1016&context=jur)
-(2014), Marcus Heemstra.
 - ["What is the math behind the game *Spot It!*?"](What is the math
   behind the game Spot It?) (2011), Mathematics StackExchange.
 - ["The mathematics of *Dobble*"](http://thewessens.net/ClassroomApps/Main/finitegeometry.html)
