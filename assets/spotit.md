@@ -255,9 +255,10 @@ v_i = \begin{cases}
 \end{cases}
 $$
 
-In this setting, we can make various simple observations.
-First, any card lies on the hypercube $\\{0, 1\\}^n$.
-If a card $\mathbf{v}$ has $k$ symbols, then
+This has various immediate consequences.
+First, any card lies in the set $\\{0, 1\\}^n$, the vertices of the
+unit hypercube.
+Second, if a card $\mathbf{v}$ has $k$ symbols, then
 
 $$
 |\mathbf{v}|^2 = \sum_i (v_i)^2 = k.
@@ -273,6 +274,11 @@ $$
 \mathbf{v}^{(j)} \cdot \mathbf{v}^{(k)} = c \quad \Longrightarrow
 \quad \cos \theta_{ij} = \frac{c}{k}.
 $$
+
+Thus, $V$ is a set of vectors which (a) lie on the unit hypercube $\{0,
+1\}^n$; (b) the hypersphere $\mathbb{S}_{\sqrt{k}}^n$; and (c) form a
+regular $(b-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
+since any pair of vectors is separated by a constant angle $\cos^{-1}(c/k)$.
 
 #### Resources
 
