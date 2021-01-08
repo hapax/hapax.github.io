@@ -163,12 +163,13 @@ Now draw all the lines, and you have the Fano plane!
 (This construction also works if you have the grey triangle on the
 outside and get rid of the grey points.)
 
-It turns out (as we will show below) that, for any projective plane,
-we must have $n = q^2 + q + 1$ for some number $q$.
+We'll show below that, for any projective plane,
+it must be the case that $n = q^2 + q + 1$ for some number $q$ which
+is one less than the number of symbols per card.
 It is conjectured that $q$ must be a prime power, which completely
-solves one possible generalisation of *Spot It!*".
-But our projective construction generalises certain features that
-strike me as unnatural to the game.
+solves the projective plane generalisation of *Spot It!*".
+But this construction fixes certain features that strike me as
+unnatural.
 First, we added the constraint that any pair of symbols appears on
 precisely one card.
 Why not two, or three, or no constraint at all?
