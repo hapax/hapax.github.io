@@ -126,7 +126,8 @@ d = p^2 + p + 1,
 $$
 
 precisely the number of points. We might have expected this from the
-fact that in the axioms, the role of lines and points are interchangeable!
+fact that in the axioms, the role of lines and points are
+interchangeable!
 *Spot It!* realises this construction for $p = 7$, with $n = 7^2 + 7 +
 1 = 57$ symbols. We can now easily draw a picture of the corresponding
 projective plane:
@@ -143,8 +144,8 @@ For some mysterious reason, the designers removed two cards, so $d =
 Speculation on the internet is rife, and I remain agnostic.
 But ignoring this mutilation, *Spot It!* is really just a projective
 plane built out of the finite field $\mathbb{Z}_7$.
-I also can't resist sharing the smallest example: $p = 2$, which has a
-very special incidence geometry called the *Fano plane*.
+I also can't resist sharing the smallest example, $p = 2$, which leads
+to a beautiful object called the *Fano plane*.
 There is a conventional way of drawing the points which is related to
 our method by the following sequence of transformations:
 
@@ -162,6 +163,8 @@ each edge.
 Now draw all the lines, and you have the Fano plane!
 (This construction also works if you have the grey triangle on the
 outside and get rid of the grey points.)
+Technically, this is a graph of the points, with an edge just in case
+they lie on some line together, called the *incidence geometry*.
 
 We'll show below that, for any projective plane,
 it must be the case that $n = q^2 + q + 1$ for some number $q$ which
