@@ -294,7 +294,7 @@ $$
 
 In other words, each card has a single symbol and they enumerate the
 alphabet of symbols exactly once, with $c = 0$ and $k = 1$.
-This a very boring deck!
+This deck makes for a very boring game!
 
 #### Resources
 
