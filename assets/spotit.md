@@ -144,7 +144,7 @@ Speculation on the internet is rife, and I remain agnostic.
 But ignoring this mutilation, *Spot It!* is really just a projective
 plane built out of the finite field $\mathbb{Z}_7$.
 I also can't resist sharing the smallest example: $p = 2$, which has a
-very special projective plane called the *Fano plane*.
+very special incidence geometry called the *Fano plane*.
 There is a conventional way of drawing the points which is related to
 our method by the following sequence of transformations:
 
