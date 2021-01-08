@@ -289,9 +289,11 @@ $\mathbb{R}^n$, consisting of $d = n$ vectors $\mathbf{v}^{(a)}$
 defined by
 
 $$
-v^{(a)}_i = \delta^a_i.
+v^{(a)}_i = \delta^a_i,
 $$
 
+where $\delta^a_i$ is the Kronecker delta, equalling $1$ if $a = i$
+and $0$ otherwise.
 In other words, each card has a single symbol and they enumerate the
 alphabet of symbols exactly once, with $c = 0$ and $k = 1$.
 This deck makes for a very boring game!
