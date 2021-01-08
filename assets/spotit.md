@@ -276,9 +276,13 @@ $$
 $$
 
 Thus, $V$ is a set of vectors which (a) lie on the unit hypercube $\{0,
-1\}^n$; (b) the hypersphere $\mathbb{S}_{\sqrt{k}}^n$; and (c) form a
-regular $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
-since any pair of vectors is separated by a constant angle $\cos^{-1}(c/k)$.
+1\}^n$; (b) the hypersphere $\mathbb{S}_{\sqrt{k}}^n$; and (c) form
+the vertices of a regular
+$(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex), since any
+pair of vectors is separated by a constant angle
+$\cos^{-1}(c/k)$. I call this a "polytopal turducken" since it
+involves a pleasing nesting of the three simplest higher-dimensional
+polytopes.
 
 #### Resources
 
