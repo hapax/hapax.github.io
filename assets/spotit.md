@@ -183,7 +183,7 @@ But they may still be interesting!
 #### Combinatorial designs
 
 We'll start with constraints on co-occurence.
-Consider a deck of $b$ cards, with an alphabet of $n$ symbols, and $k$
+Consider a deck of $d$ cards, with an alphabet of $n$ symbols, and $k$
 symbols per card.
 Further, suppose each symbol appears on $r$ cards, and each given pair
 of symbols appears in $\lambda$ distinct cards.
@@ -194,14 +194,14 @@ We don't bother to list $r$ or $b$ since they are determined by the
 other parameters according to the equation
 
 $$
-bk = nr.
+dk = nr.
 $$
 
 The proof is simply that the LHS counts the total number of symbols
 (with multiplicity) by card, and the RHS by symbol.
 In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequality)
-shows that $b \geq n$.
-The restriction to $b = n$ but arbitrary $\lambda$ is called a
+shows that $d \geq n$.
+The restriction to $d = n$ but arbitrary $\lambda$ is called a
 [symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
 and the projective plane is the special case $\lambda = 1$.
 We can say a little more about these symmetric designs.
@@ -239,7 +239,7 @@ We'll finish with a somewhat different generalisation.
 (By the by, this is the approach/generalisation that occurred to me
 before looking up anything to do with projective geometry or designs.
 It is therefore much sketchier.)
-The basic idea is to have $n$ symbols (labelled $s_i$), $b$ cards, and $k$ symbols per
+The basic idea is to have $n$ symbols (labelled $s_i$), $d$ cards, and $k$ symbols per
 card as before. We no longer constrain $\lambda$, but instead
 introduce a new variable: $c$, the number of symbols any two cards
 have in common.
@@ -266,18 +266,18 @@ $$
 
 This means the vector lies on a hypersphere of radius $\sqrt{k}$
 centred at the origin.
-Finally, let $V = \{\mathbf{v}^{(j)}\}$ be a set of $b$ cards with $c$
+Finally, let $V = \{\mathbf{v}^{(a)}\}$ be a set of $d$ cards with $c$
 symbols pairwise in common.
 Then for any $j \neq k$,
 
 $$
-\mathbf{v}^{(j)} \cdot \mathbf{v}^{(k)} = c \quad \Longrightarrow
-\quad \cos \theta_{ij} = \frac{c}{k}.
+\mathbf{v}^{(a)} \cdot \mathbf{v}^{(b)} = \sum_i v^{(a)}_i v^{(b)}_i = c \quad \Longrightarrow
+\quad \cos \theta_{ab} = \frac{c}{k}.
 $$
 
 Thus, $V$ is a set of vectors which (a) lie on the unit hypercube $\{0,
 1\}^n$; (b) the hypersphere $\mathbb{S}_{\sqrt{k}}^n$; and (c) form a
-regular $(b-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
+regular $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
 since any pair of vectors is separated by a constant angle $\cos^{-1}(c/k)$.
 
 #### Resources
