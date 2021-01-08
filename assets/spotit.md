@@ -239,21 +239,33 @@ We'll finish with a somewhat different generalisation.
 (By the by, this is the approach/generalisation that occurred to me
 before looking up anything to do with projective geometry or designs.
 It is therefore much sketchier.)
-The basic idea is to have $n$ symbols, $b$ cards, and $k$ symbols per
+The basic idea is to have $n$ symbols (labelled $s_i$), $b$ cards, and $k$ symbols per
 card as before. We no longer constrain $\lambda$, but instead
 introduce a new variable: $c$, the number of symbols any two cards
 have in common.
 We can formulate this new constraint geometrically.
-A card can be viewed as a vector $\mathbf{v} = (v_i) \in \mathbb{R}^n$, with
-position $i$ corresponding to a fixed symbol.
-Then
+A card can be viewed as a vector $\mathbf{v} = (v_i) \in
+\mathbb{R}^n$, with $i$ corresponding to symbol labels.
+We choose the convention that
 
 $$
 v_i = \begin{cases}
-1 & \text{symbol $i$ is on the card} \\
+1 & \text{$s_i$ is on the card} \\
 0 & \text{otherwise}.
 \end{cases}
 $$
+
+In this setting, we can make various simple observations.
+First, any card lies on the hypercube $\\{0, 1\\}^n$.
+If a card $\mathbf{v}$ has $k$ symbols, then
+
+$$
+|\mathbf{v}|^2 = \sum_i (v_i)^2 = k.
+$$
+
+This means the vector lies on a hypersphere of radius $\sqrt{k}$
+centred at the origin.
+Finally, 
 
 #### Resources
 
