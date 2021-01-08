@@ -173,7 +173,7 @@ unnatural.
 First, we added the constraint that any pair of symbols appears on
 precisely one card.
 Why not two, or three, or no constraint at all?
-Dualising, why not allow for an overlap of more than one symbol?
+Or dually, why not allow for an overlap of more than one symbol?
 The answers won't be projective geometries, but they may be
 interesting.
 
