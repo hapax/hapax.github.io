@@ -236,7 +236,7 @@ I'm going to discuss one last generalisation, which is less polish
 since it is simply what occurred to me when I began trying to think
 about the problem (and prior to looking at what other people had
 said).
-The basic idea is to have $n$ symbols, $d$ cards, and $k$ symbols as
+The basic idea is to have $n$ symbols, $b$ cards, and $k$ symbols as
 before. But we no longer have a constraint on $\lambda$, and introduce
 a new variable: $c$, the number of symbols the cards have in common.
 The game has $$
