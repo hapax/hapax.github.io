@@ -276,7 +276,7 @@ $$
 $$
 
 Thus, $V$ is a set of vectors which (a) lie on the unit hypercube $\\{0,
-1\\}^n$; (b) the hypersphere of radius $\sqrt{k}$; and (c) form
+1\\}^n$; (b) the hypersphere of radius $\sqrt{k}$, centred at the origin; and (c) form
 the vertices of a regular
 $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex), since any
 pair of vectors is separated by a constant angle
