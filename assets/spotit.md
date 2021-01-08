@@ -283,8 +283,18 @@ pair of vectors is separated by a constant angle
 $\cos^{-1}(c/k)$. I call this a "polytopal turducken" since it
 involves a pleasing nesting of the three simplest higher-dimensional
 polytopes.
+Here is a simple example for two dimensions, where the hypercube is a
+square, the hypersphere is a circle, and the simplex is the
+$1$-simplex is formed by two orthogonal vectors on opposite corners: 
 
-We start with the standard embedding of the $(n-1)$-simplex in
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit7.jpg"/>
+	</div>
+	</figure>
+
+This example can be generalised.
+The standard embedding of the $(n-1)$-simplex in
 $\mathbb{R}^n$, consisting of $d = n$ vectors $\mathbf{v}^{(a)}$
 defined by
 
