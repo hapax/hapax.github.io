@@ -297,9 +297,22 @@ and $0$ otherwise.
 In other words, each card has a single symbol and they enumerate the
 alphabet of symbols exactly once, with $c = 0$ and $k = 1$.
 This deck makes for a very boring game!
-Inspired by Fisher's inequality, we might think we need to take $d
+
+#### Resources
+
+- ["What is the math behind the game *Spot It!*?"](What is the math
+behind the game Spot It?) (2011), Mathematics StackExchange.
+- ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
+  (2011), Andrei Markov.
+- ["The mathematics of *Dobble*"](http://thewessens.net/ClassroomApps/Main/finitegeometry.html)
+  (accessed 2021), Ken Wessen.
+
+<!-- https://pdf.sciencedirectassets.com/271586/1-s2.0-S0024379500X03801/1-s2.0-0024379595005412/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDCsCZFL1RIWDwXIr0AxI4NCD64GFmKIP%2F9dNvxJvO0cgIgXLj%2FVxK%2FglsxK72%2B80YPJKY4Q%2FyJAMtqJeyy5f67p%2BYqtAMISRADGgwwNTkwMDM1NDY4NjUiDKZXqMoRRsmInCbvayqRA36TlUSdCuQvew0WddLkEB9u8oeBbksZv38RSvlobs%2FtlOB2wiwhl3cSteVqAX2vFjGtCPBm2va7jSpYZf4lf5k2XVnAR7K%2BigdZRGHxzMW8Ol6MFGuWtKmbWZQIOZrqRQOT4z%2B4op8liXdTfX91PJgOeAHFasNa8Mb5Csi0gFvppW2lGH%2BT2epj4%2FklD5FMpm6X0ORb23nmdiNvKh6JB8USI1PaTJiSu6ayo3kZV%2FeOVFayxz65urkf35pOAEs%2FmXNSkQ9A2svDA79zxP%2Bo5lJiA36jwsxrfwBIEnXUhfqQ4VboqiuqLZhdigJ046yPwDfL1WnuWkWbqvIXusNMhhzHBIGkL4oaSgD24xKSdJ3hon35HvweCgrcn%2FQs3TLVe3Y%2Fsfo4tNiJtgPLe39XkCdRIjtjcWPbaZ7OF0JK2DyyfQ80LEEBZZ43BEq%2FMJ6kY0il5NowQbo7J42yrTEAUvOi0ZeCUHLi%2B%2F1ol868zsGsHgQVVYrOmGkn9YSjyX9ZLVBxqzxHncWrJLdxZgP3mJ9gMPPV3P8FOusBdzPNBunkwIOcrmyQBbn69McYEJ2kp6Ma5mILsUb92CNyS73w1EshKZBIyCcFqaIG7uA0GFUuSwmzduhtpwvK660lClDbCpIjdWrtPoXnn3YTAL8tAAxEXnqGXbgScaQYD5yf0m6t3qtitlsoEBuuIteuu89dnJ11jh4xExf%2F4fohtfNuJNbvKagNy0zAMWfULceUwGAhcCqiQWhhHRMsyl0KJfvC9Wy85SINd75bhJVl90MqxDzrGjj4mrl9jSowyBILE3yuiqk%2B36U0PVp9ggheMXJNDhhxhyJjbSJ0dE%2B%2BPmglaadaVrJXDg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210107T154329Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVD553ENZ%2F20210107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8c72206e548bf3a7bcec46225c55b9d0ce9787b4125af8c469d6af080fbe1ad6&hash=ee4495fbf323769a50ac27b637d461bd4b2e62c8e116b8b8bdbf12347a95097b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0024379595005412&tid=spdf-bc20f7c8-3bc7-4444-84d5-0749022f920a&sid=843398ad85237746f73b2f56238ef7c30b60gxrqa&type=client -->
+
+<!-- Inspired by Fisher's inequality, we might think we need to take $d
 \geq n$, leaving us with the problem of finding an $n$-simplex, with
 $n+1$ corners somehow inscribed on the hypercube.
+
 We can use a little group theory to see this is impossible in general.
 We can permute the vertices of a regular $n$-simplex any way we like
 and leave it looking the same, so the symmetry group has $(n+1)!$ elements.
@@ -321,16 +334,11 @@ $$
 
 It follows that a necessary condition for the embedding is that $n =
 2^m - 1$ for some power $m$.
-(This turns out to be sufficient, as shown in
-[Markov (2011)](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf).)
+This turns out to be sufficient, as shown in
+[Markov (2011)](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf).
+But even if we can embed an $n$-simplex on the hypercube, the explicit
+constructions show it does not lie on the hypersphere (and indeed,
+this is not consistent with the required dimensionality of the set).
 
-#### Resources
-
-- ["What is the math behind the game *Spot It!*?"](What is the math
-behind the game Spot It?) (2011), Mathematics StackExchange.
-- ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
-  (2011), Andrei Markov.
-- ["The mathematics of *Dobble*"](http://thewessens.net/ClassroomApps/Main/finitegeometry.html)
-  (accessed 2021), Ken Wessen.
-
-<!-- https://pdf.sciencedirectassets.com/271586/1-s2.0-S0024379500X03801/1-s2.0-0024379595005412/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDCsCZFL1RIWDwXIr0AxI4NCD64GFmKIP%2F9dNvxJvO0cgIgXLj%2FVxK%2FglsxK72%2B80YPJKY4Q%2FyJAMtqJeyy5f67p%2BYqtAMISRADGgwwNTkwMDM1NDY4NjUiDKZXqMoRRsmInCbvayqRA36TlUSdCuQvew0WddLkEB9u8oeBbksZv38RSvlobs%2FtlOB2wiwhl3cSteVqAX2vFjGtCPBm2va7jSpYZf4lf5k2XVnAR7K%2BigdZRGHxzMW8Ol6MFGuWtKmbWZQIOZrqRQOT4z%2B4op8liXdTfX91PJgOeAHFasNa8Mb5Csi0gFvppW2lGH%2BT2epj4%2FklD5FMpm6X0ORb23nmdiNvKh6JB8USI1PaTJiSu6ayo3kZV%2FeOVFayxz65urkf35pOAEs%2FmXNSkQ9A2svDA79zxP%2Bo5lJiA36jwsxrfwBIEnXUhfqQ4VboqiuqLZhdigJ046yPwDfL1WnuWkWbqvIXusNMhhzHBIGkL4oaSgD24xKSdJ3hon35HvweCgrcn%2FQs3TLVe3Y%2Fsfo4tNiJtgPLe39XkCdRIjtjcWPbaZ7OF0JK2DyyfQ80LEEBZZ43BEq%2FMJ6kY0il5NowQbo7J42yrTEAUvOi0ZeCUHLi%2B%2F1ol868zsGsHgQVVYrOmGkn9YSjyX9ZLVBxqzxHncWrJLdxZgP3mJ9gMPPV3P8FOusBdzPNBunkwIOcrmyQBbn69McYEJ2kp6Ma5mILsUb92CNyS73w1EshKZBIyCcFqaIG7uA0GFUuSwmzduhtpwvK660lClDbCpIjdWrtPoXnn3YTAL8tAAxEXnqGXbgScaQYD5yf0m6t3qtitlsoEBuuIteuu89dnJ11jh4xExf%2F4fohtfNuJNbvKagNy0zAMWfULceUwGAhcCqiQWhhHRMsyl0KJfvC9Wy85SINd75bhJVl90MqxDzrGjj4mrl9jSowyBILE3yuiqk%2B36U0PVp9ggheMXJNDhhxhyJjbSJ0dE%2B%2BPmglaadaVrJXDg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210107T154329Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVD553ENZ%2F20210107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8c72206e548bf3a7bcec46225c55b9d0ce9787b4125af8c469d6af080fbe1ad6&hash=ee4495fbf323769a50ac27b637d461bd4b2e62c8e116b8b8bdbf12347a95097b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0024379595005412&tid=spdf-bc20f7c8-3bc7-4444-84d5-0749022f920a&sid=843398ad85237746f73b2f56238ef7c30b60gxrqa&type=client -->
+So what is going on?
+Let's consider the Fano plane again. -->
