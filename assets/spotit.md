@@ -283,7 +283,7 @@ pair of vectors is separated by a constant angle
 $\cos^{-1}(c/k)$. I call this a "polytopal turducken" since it
 involves a pleasing nesting of the three simplest higher-dimensional
 polytopes.
-Here is a simple example for two dimensions, where the hypercube is a
+Here is a simple example (in fact, the only example!) for two dimensions, where the hypercube is a
 square, the hypersphere is a circle, and the simplex is the
 $1$-simplex is formed by two orthogonal vectors on opposite corners: 
 
