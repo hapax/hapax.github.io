@@ -36,11 +36,10 @@ by Ken Wessen.)
 
 I enjoyed playing the game, but like many mathematically-minded folk
 who encounter it, became distracted by the question: how does it work?
-Somewhat nontrivially!
 
 #### Finite projective planes
 
-So, the game requires that every two cards share precisely one symbol
+The game requires that every two cards share precisely one symbol
 in common.
 If we add the further constraint that each pair of symbols occurs on
 one card only, then we have a nice equivalence to
