@@ -79,7 +79,7 @@ m)$, where $S$ is the relation.
 Modding out by $S$ leads to the projective plane
 
 $$
-\mathcal{P}_p = \mathbb{Z}_p^* \times \mathbb{Z}_p^*\backslash S,
+\mathcal{P}_p = (\mathbb{Z}_p^* \times \mathbb{Z}_p^*)/S,
 $$
 
 with $n = (p+ 1)^2 - p = p^2 + p + 1$ points.
