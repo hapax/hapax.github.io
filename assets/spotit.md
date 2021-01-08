@@ -155,8 +155,7 @@ our method by the following sequence of transformations:
 	</div>
 	</figure>
 
-Draw each row $\mathbb{Z}_p^*$
-as a triangle, and nest
+Draw each row as a triangle, and nest
 them rather than stacking them.
 Get rid of the copied points on the grey triangle, then rotate the red
 triangle so it hits the outer green triangle with three colours along
