@@ -268,7 +268,7 @@ This means the vector lies on a hypersphere of radius $\sqrt{k}$
 centred at the origin.
 Finally, let $V = \{\mathbf{v}^{(j)}\}$ be a set of $b$ cards with $c$
 symbols pairwise in common.
-Then for any distinct $j \neq k$,
+Then for any $j \neq k$,
 
 $$
 \mathbf{v}^{(j)} \cdot \mathbf{v}^{(k)} = c \quad \Longrightarrow
