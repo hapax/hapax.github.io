@@ -292,8 +292,7 @@ What can say about these turduckened simplices?
 
 - ["What is the math behind the game *Spot It!*?"](What is the math
 behind the game Spot It?) (2011), Mathematics StackExchange.
--
-  ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
+- ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
   (2011), Andrei Markov.
 - ["The mathematics of *Dobble*"](http://thewessens.net/ClassroomApps/Main/finitegeometry.html)
   (accessed 2021), Ken Wessen.
