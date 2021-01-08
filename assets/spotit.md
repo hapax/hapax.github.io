@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Generalising the mathematics of Dobble"
+title:  "Generalising Dobble"
 categories: Mathematics
 date:  2021-01-07
 ---
 
-**January 7, 2021.** *I discuss the mathematics of Spot It! and
-  various generalisations: projective planes, combinatorial designs,
-  and a polytopal turducken.*
+**January 7, 2021.** *I discuss the mathematics of Spot It! (aka
+  Dobble in the UK) and various generalisations: projective planes,
+  combinatorial designs, and a polytopal turducken.*
 
 #### Introduction
 
@@ -231,11 +231,14 @@ constitute an even broader generalisation.
 
 #### The polytopal turducken
 
-Finally, I'm going to discuss an approach that occurred to me before
-looking up what other people had done.
-It generalises *Spot It!* in yet another direction, and I haven't been able to
-find many results in the literature (probably because the problem is
-quite hard, as I will discuss below).
+I'm going to discuss one last generalisation, which is less polish
+since it is simply what occurred to me when I began trying to think
+about the problem (and prior to looking at what other people had
+said).
+The basic idea is to have $n$ symbols, $d$ cards, and $k$ symbols as
+before. But we no longer have a constraint on $\lambda$, and introduce
+a new variable: $c$, the number of symbols the cards have in common.
+The game has $$
 
 #### Resources
 
