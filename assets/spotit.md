@@ -289,7 +289,7 @@ $1$-simplex is formed by two orthogonal vectors on opposite corners:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/spotit7.jpg"/>
+    ="/images/posts/spotit7.png"/>
 	</div>
 	</figure>
 
