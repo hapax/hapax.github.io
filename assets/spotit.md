@@ -246,7 +246,7 @@ have in common.
 We can formulate this new constraint geometrically.
 A card can be viewed as a vector $\mathbf{v} = (v_i) \in
 \mathbb{R}^n$, with $i$ corresponding to symbol labels.
-We choose the convention that
+We define
 
 $$
 v_i = \begin{cases}
