@@ -157,7 +157,8 @@ our method by the following sequence of transformations:
 Draw each row $\mathbb{Z}_2^*$ as a triangle, and nest
 them rather than stacking them.
 Get rid of the copied points on the grey triangle, then rotate the red
-triangle so it hits the outer green triangle.
+triangle so it hits the outer green triangle with three colours along
+each edge.
 Now draw all the lines, and you have the Fano plane!
 This construction also works if you have the grey triangle on the
 outside instead, and get rid of the grey points.
