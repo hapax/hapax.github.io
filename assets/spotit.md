@@ -24,9 +24,6 @@ Eight is a good number since, according to
 [Miller's "law"](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two),
 the number of objects the average human can hold in short-term memory
 is seven.
-(You can play an
-[online version](http://thewessens.net/ClassroomApps/Main/intersection.html)
-by Ken Wessen.)
 
 <figure>
     <div style="text-align:center"><img src
@@ -34,8 +31,11 @@ by Ken Wessen.)
 	</div>
 	</figure>
 
-I enjoyed playing the game, but like many mathematically-minded folk
-who encounter it, became distracted by the question: how does it work?
+You can play an
+[online version](http://thewessens.net/ClassroomApps/Main/intersection.html)
+by Ken Wessen.
+I like the game, but like many mathematically-minded folk
+who encounter it, became increasingly distracted by the question: how does it work?
 
 #### Finite projective planes
 
