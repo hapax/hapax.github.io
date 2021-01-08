@@ -13,7 +13,7 @@ date:  2021-01-07
 
 #### Introduction
 
-The game of *Spot It!* (called *Dobble* in the UK) is a simple game
+*Spot It!* (called *Dobble* in the UK) is a simple card game
 based on some relatively deep mathematics.
 There is a deck of $55$ cards, each of which has eight symbols printed
 on it, from a total symbol vocabulary of $57$.
@@ -232,14 +232,16 @@ constitute an even broader generalisation.
 
 #### The polytopal turducken
 
-I'm going to discuss one last generalisation, which is less polish
-since it is simply what occurred to me when I began trying to think
-about the problem (and prior to looking at what other people had
-said).
-The basic idea is to have $n$ symbols, $b$ cards, and $k$ symbols as
-before. But we no longer have a constraint on $\lambda$, and introduce
-a new variable: $c$, the number of symbols the cards have in common.
-The game has $$
+We'll finish with a somewhat different generalisation.
+(By the by, this is the approach/generalisation that occurred to me
+before looking up anything to do with projective geometry or designs.
+It is therefore much sketchier.)
+The basic idea is to have $n$ symbols, $b$ cards, and $k$ symbols per
+card as before. We no longer constrain $\lambda$, but instead
+introduce a new variable: $c$, the number of symbols any two cards
+have in common.
+We can formulate this new constraint geometrically.
+Think of 
 
 #### Resources
 
