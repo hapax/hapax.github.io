@@ -244,7 +244,16 @@ card as before. We no longer constrain $\lambda$, but instead
 introduce a new variable: $c$, the number of symbols any two cards
 have in common.
 We can formulate this new constraint geometrically.
-Think of 
+A card can be viewed as a vector $\mathbf{v} = (v_i) \in \mathbb{R}^n$, with
+position $i$ corresponding to a fixed symbol.
+Then
+
+$$
+v_i = \begin{cases}
+1 & \text{symbol $i$ is on the card} \\
+0 & \text{otherwise}.
+\end{cases}
+$$
 
 #### Resources
 
