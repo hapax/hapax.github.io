@@ -11,7 +11,7 @@ My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
 I'm a fourth-year PhD student studying black holes and conformal field
 theory in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
-[University of British Columbia](https://www.ubc.ca/).
+[University of British Columbia](https://www.ubc.ca/), Vancouver.
 <!-- studying
 conformal field theory, quantum information and black holes.
 I am generously supported by a UBC
