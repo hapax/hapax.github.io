@@ -283,8 +283,8 @@ hypersphere, which is $s = \sqrt{k}\theta$.
 Since the $d$ points are pairwise separated by the same distance, they
 form a $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
 on both a hypersphere and a hypercube.
-It's something of a polytopal turducken!
-We give a simple example for $n = 2$:
+It's a polytopal turducken!
+We give a simplexample for $n = 2$:
 
 <figure>
     <div style="text-align:center"><img src
