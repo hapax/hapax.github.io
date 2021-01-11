@@ -328,7 +328,8 @@ $$
 
 If we fix that they both contain element $b \in D$, for instance, then
 this $c$ is the precisely the number of ways we can arrange the
-remaining numbers to form a set.
+remaining numbers to form a set, which will be realised as $c$
+overlaps between rows.
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
