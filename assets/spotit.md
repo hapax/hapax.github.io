@@ -233,9 +233,57 @@ constitute an even broader generalisation.
 <!-- A more delicate constraint comes from the
 [Bruck–Ryser–Chowla theorem](https://en.wikipedia.org/wiki/Bruck%E2%80%93Ryser%E2%80%93Chowla_theorem). -->
 
-#### Intersections
+#### Sets and polytopes
 
-#### The polytopal turducken
+I'll end with yet another generalisation which occurred to me before
+reading about projective planes or designs.
+The basic observation is that we can view a card as a *feature vector*
+$\mathbf{v} = (v_i) \in \mathbb{R}^n$, where $i = 1, 2, \ldots, n$
+label symbols in the alphabet.
+We choose a convention where $v_i = 1$ if $i$ is on the card and $0$
+otherwise.
+As an example, if $n = 4$ and the card contains symbols $1$ and $2$
+but not $3$ and $4$, it is represented by a vector $\mathbf{v} = (1, 1, 0, 0)$.
+In this representation, the size $k$ becomes simply the *length* of
+the vector.
+If there are $k$ symbols on a card, then $k$ entries $v_i$ equal $1$,
+and hence
+
+$$
+|\mathbf{v}|^2 = \sum_i v_i^2 = k \quad \Longrightarrow \quad
+|\mathbf{v}| = \sqrt{k}.
+$$
+
+Our generalisation from *Spot It!* will be to consider an overlap of
+$c$ symbols per card, where each card has $k$ symbols.
+This can be easily expressed in terms of the *dot product*, and hence
+angle between vectors:
+
+$$
+\mathbf{u} \cdot \mathbf{v} = \sum_i u_i v_i = c \quad \Longrightarrow
+\quad \cos\theta = \frac{\mathbf{u} \cdot \mathbf{v}}{|\mathbf{u}|
+|\mathbf{v}|} = \frac{c}{k}.
+$$
+
+A deck of $d$ cards satisfying this condition has a pleasingly
+convoluted geometric interpretation.
+First, since the entries are binary, each card lies on the vertices of
+the $n$-hypercube:
+
+$$
+H_n = \{0, 1\}^n.
+$$
+
+Second, since they all have length $\sqrt{k}$, they lie on the
+intersection of the hypersphere of radius $\sqrt{k}$ with $H_n$.
+Finally, since they all are separated by an angle $\theta =
+\cos^{-1}(c/k)$, they are separated by constant distance.
+It's easiest to see this by simply measuring the arclength along the
+hypersphere, which is $s = \sqrt{k}\theta$.
+Since the $d$ points are pairwise separated by the same distance, they
+form a $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
+on both a hypersphere and a hypercube.
+It's something of a polytopal turducken!
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
