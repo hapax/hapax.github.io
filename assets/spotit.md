@@ -284,6 +284,15 @@ Since the $d$ points are pairwise separated by the same distance, they
 form a $(d-1)$-[simplex](https://en.wikipedia.org/wiki/Simplex),
 on both a hypersphere and a hypercube.
 It's something of a polytopal turducken!
+We give a simple example for $n = 2$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/spotit7.png"/>
+	</div>
+	</figure>
+
+
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
