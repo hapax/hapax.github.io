@@ -201,7 +201,8 @@ $$
 The proof is simply that the LHS counts the total number of symbols
 (with multiplicity) by card, and the RHS by symbol.
 In general, [Fisher's inequality](https://en.wikipedia.org/wiki/Fisher%27s_inequality)
-shows that $d \geq n$.
+states that $d \geq n$, and we will prove it using a somewhat
+unconventional technique at the end of the post.
 The restriction to $d = n$ but arbitrary $\lambda$ is called a
 [symmetric 2-design](https://en.wikipedia.org/wiki/Block_design#Symmetric_2-designs_(SBIBDs)),
 and the projective plane is the special case $\lambda = 1$.
