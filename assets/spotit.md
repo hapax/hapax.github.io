@@ -301,14 +301,28 @@ $$
 n = \left|\frac{D}{k}\right| = \binom{d}{k} = \frac{d!}{(d-k)!k!}.
 $$
 
+Our incidence matrix will have $d$ rows and $n$ columns. Each column
+corresponds to a subset, with $1$ just in case an element is included 
+
+$$
+\left[
+\begin{matrix}
+1&1&1&0&0&0\\
+1&0&0&1&1&0\\
+0&1&0&1&0&1\\
+0&0&1&0&1&1
+\end{matrix}
+\right].
+$$
+
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
 #### Resources
 
 - ["What is the math behind the game *Spot It!*?"](What is the math
 behind the game Spot It?) (2011), Mathematics StackExchange.
-- ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
-  (2011), Andrei Markov.
+<!-- - ["Regular polytopes in $\mathbb{Z}^n$"](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Markov.pdf)
+  (2011), Andrei Markov. -->
 - ["The mathematics of *Dobble*"](http://thewessens.net/ClassroomApps/Main/finitegeometry.html)
   (accessed 2021), Ken Wessen.
 
