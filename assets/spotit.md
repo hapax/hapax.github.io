@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Generalising Dobble"
+title:  "Generalising Spot It"
 categories: Mathematics
-date:  2021-01-07
+date:  2021-01-10
 ---
 
-**January 7, 2021.** *I discuss the mathematics of Spot It! (aka
+**January 10, 2021.** *I discuss the mathematics of Spot It! (aka
   Dobble in the UK) and various generalisations: projective planes,
   combinatorial designs, and a polytopal turducken.*
 
@@ -302,7 +302,9 @@ n = \left|\frac{D}{k}\right| = \binom{d}{k} = \frac{d!}{(d-k)!k!}.
 $$
 
 Our incidence matrix will have $d$ rows and $n$ columns. Each column
-corresponds to a subset, with $1$ just in case an element is included 
+corresponds to a subset $s_i$, with $1$ in row $a$ just in case element
+$a\in D$ is in $s_i$. Otherwise, it is $0$.
+Here is an example for $d = 4$ and $k = 2$:
 
 $$
 \left[
@@ -314,6 +316,19 @@ $$
 \end{matrix}
 \right].
 $$
+
+In terms of a deck, cards correspond to row vectors $\mathbf{v}^{(a)}$
+and symbols to columns.
+It's not hard to see that any two cards generated this way overlap at $c$
+points, for
+
+$$
+c = \binom{d - 2}{k - 2}.
+$$
+
+If we fix that they both contain element $b \in D$, for instance, then
+this $c$ is the precisely the number of ways we can arrange the
+remaining numbers to form a set.
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
