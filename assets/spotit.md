@@ -2,14 +2,15 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Generalising Spot It"
+title:  "Generalising Spot It!"
 categories: Mathematics
 date:  2021-01-10
 ---
 
 **January 10, 2021.** *I discuss the mathematics of Spot It! (aka
-  Dobble in the UK) and various generalisations: projective planes,
-  combinatorial designs, and a polytopal turducken.*
+  Dobble in the UK) and its various generalisations, including
+  projective planes, combinatorial designs, and an entertaining
+  polytopal turducken.*
 
 #### Introduction
 
@@ -292,19 +293,38 @@ We give a simplexample for $n = 2$:
 	</div>
 	</figure>
 
+We can assemble these vectors as row vectors in a matrix, called the
+*incidence matrix*.
+Here, for instance, is the Fano plane once more, now realised as a
+$6$-simplex in $\mathbb{R}^7$:
+
+$$
+\left[
+\begin{matrix}
+1&0&1&1&0&0&0 \\
+1&0&0&0&1&0&1 \\
+1&1&0&0&0&1&1 \\
+0&1&0&1&0&0&1 \\
+0&1&1&0&1&0&0 \\
+0&0&1&0&0&1&1 \\
+0&0&0&1&1&1&0
+\end{matrix}
+\right].
+$$
+
 There is a nice scheme for generating decks as follows.
 Select a deck size $d$, and for the set $D = \\{1, 2, \ldots, d\\}$,
-select all subsets of size $k$, $D_k = \binom{D}{k}$.
+select all subsets of size $r$, $D_r = \binom{D}{r}$.
 We now make an alphabet of symbols using these sets, so
 
 $$
-n = \left|\frac{D}{k}\right| = \binom{d}{k} = \frac{d!}{(d-k)!k!}.
+n = \left|\frac{D}{r}\right| = \binom{d}{r} = \frac{d!}{(d-r)!r!}.
 $$
 
 Our incidence matrix will have $d$ rows and $n$ columns. Each column
 corresponds to a subset $s_i$, with $1$ in row $a$ just in case element
 $a\in D$ is in $s_i$. Otherwise, it is $0$.
-Here is an example for $d = 4$ and $k = 2$:
+Here is an example for $d = 4$ and $r = 2$:
 
 $$
 \left[
@@ -319,17 +339,36 @@ $$
 
 In terms of a deck, cards correspond to row vectors $\mathbf{v}^{(a)}$
 and symbols to columns.
-It's not hard to see that any two cards generated this way overlap at $c$
-points, for
+The length squared of a vector, or the number of symbols per card, is
 
 $$
-c = \binom{d - 2}{k - 2}.
+k = \binom{d - 1}{r - 1},
 $$
 
-If we fix that they both contain element $b \in D$, for instance, then
+since if we fix a $1$ in some position, this is the number of ways to
+assign the remaining $r - 1$ unit entries in each column, which is realised
+as $k$ unit entries per row.
+Similarly, it's not hard to see that any two cards generated this way
+overlap at $c$ points, for
+
+$$
+c = \binom{d - 2}{r - 2}.
+$$
+
+If we fix that they both contain some element $b \in D$, for instance, then
 this $c$ is the precisely the number of ways we can arrange the
-remaining numbers to form a set, which will be realised as $c$
-overlaps between rows.
+remaining $r - 2$ unit entries to form a set, which will be realised
+as $c$ overlaps between rows.
+You can generalise to shared triples and so in the obvious way.
+
+This approach is related to the beautiful mathematics of set
+intersections (see
+e.g. [these notes](https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf)).
+But I will finish with a much simpler observation.
+A $(d-1)$-simplex involves $d$ points with the same pairwise
+separation, and can only be embedded in $\mathbb{R}^n$ for $n \geq d +
+1$.
+Our simple construction is actually 
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
