@@ -294,7 +294,12 @@ We give a simplexample for $n = 2$:
 
 There is a nice scheme for generating decks as follows.
 Select a deck size $d$, and for the set $D = \\{1, 2, \ldots, d\\}$,
-select all subsets of size $k$, often denoted $\binom{D}{k}$.
+select all subsets of size $k$, $D_k = \binom{D}{k}$.
+We now make an alphabet of symbols using these sets, so
+
+$$
+n = \left|\frac{D}{k}\right| = \binom{d}{k} = \frac{d!}{(d-k)!k!}.
+$$
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
