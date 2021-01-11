@@ -360,15 +360,26 @@ this $c$ is the precisely the number of ways we can arrange the
 remaining $r - 2$ unit entries to form a set, which will be realised
 as $c$ overlaps between rows.
 You can generalise to shared triples and so in the obvious way.
+The number of distinct decks that can be generated this way is the
+number of ways of permuting symbols, $n!$, divided by the number of
+ways of permuting rows, since these will simply reorder elements in
+the set $D$:
 
-This approach is related to the beautiful mathematics of set
-intersections (see
-e.g. [these notes](https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf)).
-But I will finish with a much simpler observation.
+$$
+N_{d, r} = \frac{n!}{d!} = \frac{\binom{d}{r}!}{d!}.
+$$
+
+This approach is related to the extremal combinatorics of set intersections (see
+e.g. [these notes](https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf)),
+which I won't say more about here.
+Instead, I'll finish with a simple observation about simplices.
 A $(d-1)$-simplex involves $d$ points with the same pairwise
-separation, and can only be embedded in $\mathbb{R}^n$ for $n \geq d +
-1$.
-Our simple construction is actually 
+separation, and can only be embedded in $\mathbb{R}^n$ for $n \geq d$.
+Hence, our polytopal turducken is only possible for $d \leq n$.
+This has a nifty consequence: our incidence matrices actually satisfy
+the conditions for the *transpose* of an incidence matrix of a block
+design, so that case, $d \geq n$.
+This is just Fisher's inequality!
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
