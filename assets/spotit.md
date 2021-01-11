@@ -292,7 +292,9 @@ We give a simple example for $n = 2$:
 	</div>
 	</figure>
 
-
+There is a nice scheme for generating decks as follows.
+Select a deck size $d$, and for the set $D = \\{1, 2, \ldots, d\\}$,
+select all subsets of size $k$, often denoted $\binom{D}{k}$.
 
 <!-- https://homes.cs.washington.edu/~anuprao/pubs/CSE599sExtremal/lecture9.pdf -->
 
