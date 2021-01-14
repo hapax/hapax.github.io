@@ -99,7 +99,7 @@ Both made a virtue of necessity.
 For the Stoics, however, the emphasis is on the *fati*, the
 powerlessness of human beings to intervene in the operation of the
 universe.
-The acceptance is an adaptive reaction.
+The *amor* is merely the adaptive reaction.
 As Epitectus writes (*Discourses*),
 
 <span style="padding-left: 20px; display:block">
