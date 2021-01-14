@@ -89,7 +89,7 @@ excuse the highbrow doggerel.
 If we are boringly Humean-->
 Like eternal recurrence, brainjam makes life itself of central moral importance.
 But the emphasis on moments, the "parallelisation" of eternal
-recurrence, has its own twists and turns leading away from the
-Nietzschean *amor fati*.
+recurrence if you like, has twists and turns which I think lead us
+away from the Nietzschean *amor fati*.
 
 #### Free will
