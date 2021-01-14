@@ -74,8 +74,7 @@ religious sensibilities he so detested. -->
 #### Parallelised recurrence
 
 Brainjam does not posit that time is cyclic.
-But although we only get one life, we are doomed to live that life,
-and all its moments, in perpetuity.
+We get one life, which we are doomed to live, moment by moment, in perpetuity.
 <!-- Although the details differ from eternal recurrence, the implications
 are the same: you will live forever, but this particular life, so make
 it a good one. -->
@@ -87,9 +86,10 @@ I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
 If we are boringly Humean-->
-Like eternal recurrence, brainjam makes life itself of central moral importance.
-But the emphasis on moments, the "parallelisation" of eternal
-recurrence if you like, has twists and turns which I think lead us
-away from the Nietzschean *amor fati*.
+Brainjam is like eternal recurrence, but "parallelised": the
+four-dimensionalist eternity of the conscious moment replaces the
+cyclic eternity of the repeated life.
+<!-- The emphasis on moments in some sense "parallelises" eternal
+recurrence. -->
 
 #### Free will
