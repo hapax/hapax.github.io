@@ -87,8 +87,7 @@ I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
 If we are boringly Humean-->
-Like eternal recurrence, brainjam makes *this life* of central
-importance.
+Like eternal recurrence, brainjam makes life itself of central moral importance.
 But the emphasis on moments, the "parallelisation" of eternal
 recurrence, has its own twists and turns leading away from the
 Nietzschean *amor fati*.
