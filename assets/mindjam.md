@@ -147,7 +147,8 @@ potentially individual than an undifferentiated Yes.
 A fatalist might object that, life or anti-life, you can't argue with
 reality.
 Both the Stoics and Nietzsche seem to subscribe to some form of
-fatalism. As is often the case, the relationship between
+fatalism, that the course of events is fixed and inevitable.
+As is often the case, the relationship between
 Nietzsche's ideas on the matter are fuzzy and contentious.
 But as this line from the *The Gay Science* shows, Nietzsche somehow
 believed both in fate and the individual as constituted by
