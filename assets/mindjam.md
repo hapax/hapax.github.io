@@ -12,7 +12,7 @@ date:  2021-01-12
   I advanced a four-dimensionalist version of eternal recurrence. I
   consider some of the moral consequences.*
 
-#### Brainjam
+#### Introduction
 
 In a
 [previous post](https://hapax.github.io/philosophy/physics/psychology-time/),
@@ -26,7 +26,21 @@ The sense that time passes is (and must be) a cognitive artefact rather than
 some incorrigible metaphysical fact.
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
-
 Here, I just want to focus on a few consequences of this "brainjam"
 philosophy.
-They are very similar 
+
+#### Brainjam vs eternal recurrence
+
+First, let's compare it to the doctrine of eternal recurrence: time is
+cyclic, and we are doomed to repeat ourselves.
+Evidently, this is an archetypal idea, popping up everywhere in
+classical antiquity, from Egypt to India, Greece to Mesoamerica.
+Cycles have a certain economy of pattern, and even today,
+[certain eminences](https://en.wikipedia.org/wiki/Cycles_of_Time)
+would like to think of cosmology as being cyclic.
+
+But for all its metaphysical prettiness, recurrence has an important
+ethical dimension.
+The Stoic [Epitectus](https://en.wikipedia.org/wiki/Epictetus) taught
+a "love of fate", or *amor fati*.
+Friedrich Nietzsche 
