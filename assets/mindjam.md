@@ -110,7 +110,7 @@ whatever came their way.
 The question becomes, how is necessity 
 
 <span style="padding-left: 20px; display:block">
-What does your conscience say?—'You shall become the person you are'.
+What does your conscience say?—`You shall become the person you are'.
 </span>
 
 #### Brainjamor
