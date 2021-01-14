@@ -124,8 +124,8 @@ all in all and on the whole: some day I wish to be only a Yes-sayer.
 
 Should we really say yes to everything? To suffering, to cruelty, to
 forces which are explicitly against life? It's hard not to see
-Nietzche the invalid peeking through, scribbling madly in his sister's
-garret, saying yes to his own suffering because like the Stoics, he
+Nietzche the invalid peeking through here, scribbling madly in his sister's
+garret and saying yes to his own suffering because like the Stoics, he
 has no choice in the matter and would prefer to love rather than hate
 it.
 But not every necessity is virtuous, and a healthy creature can tell
