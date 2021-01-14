@@ -94,7 +94,6 @@ will lead us away, I think, from the indiscriminate acceptance of
 Nietzsche's *amor fati*. -->
 But I find Nietzsche's formulas, and the parallel to the Stoics,
 ambiguous.
-
 Both made a virtue of necessity.
 For the Stoics, however, the emphasis is on the *fati*, the
 powerlessness of human beings to intervene in the operation of the
