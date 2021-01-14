@@ -47,8 +47,8 @@ whom fate brings you together, but do so with all your heart.
 </span>
 
 Almost 2000 years later, Friedrich Nietzsche would turn eternal
-recurrence and *amor fati* into an ethic, a love of reality to counter
-the death of God. *Ecce Homo* states this ethic explicitly:
+recurrence and *amor fati* into an ethic, a virtuous love of reality
+to counter the death of God. *Ecce Homo* states this ethic explicitly:
 
 <span style="padding-left: 20px; display:block">
 My formula for greatness in a human being is *amor fati*: that one wants
@@ -56,3 +56,5 @@ nothing to be different, not forward, not backward, not in all
 eternity. Not merely bear what is necessary, still less conceal it—all
 idealism is mendacity in the face of what is necessary—but love it.
 </span>
+
+Brainjam does not 
