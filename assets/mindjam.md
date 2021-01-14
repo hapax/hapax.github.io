@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Brainjam"
+title:  "Brainjam and free will"
 categories: [Philosophy]
 date:  2021-01-12
 ---
