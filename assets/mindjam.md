@@ -115,5 +115,6 @@ somewhat infamous "will to power".
 And one can't help but feel that, in Nietzschean terms, there is
 something "anti-life" about the Stoic acceptance of whatever comes
 your way.
+The question becomes: what does "necessity" mean to Nietzsche?
 
 #### Fatalism and free will
