@@ -57,7 +57,7 @@ recurrence. -->
 For all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
 The Stoics taught a "love of fate", or *amor fati*. For instance, in
-his *Meditations* (VI 39), Marcus Aurelius writes
+his *Meditations*, Marcus Aurelius writes
 
 <span style="padding-left: 20px; display:block">
 Accept the things to which fate binds you, and love the people with
@@ -96,7 +96,16 @@ Nietzsche's *amor fati*. -->
 But I find Nietzsche's formulas, and the parallel to the Stoics,
 ambiguous.
 Both made a virtue of necessity.
-The Stoics had a bleak outlook on the human lot, and their love of
+For the Stoics, however, the emphasis is on the *fati*, the
+powerlessness of human beings to intervene in the operation of the
+universe.
+The acceptance is an adaptive reaction.
+As Epitectus writes (*Discourses*),
+
+<span style="padding-left: 20px; display:block">
+Being educated is precisely learning to will each thing just as it happens.
+</span>
+<!-- The Stoics had a bleak outlook on the human lot, and their love of
 fate sprung from a philosophy of powerlessness within one's own life,
 not from any grand cosmogony.
 <!-- This springs from a bleak outlook on the human lot rather than any
