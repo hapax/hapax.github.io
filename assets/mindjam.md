@@ -61,7 +61,7 @@ idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
 For Nietzsche, the love of life in all its
-supra-moral necessity came first, and eternal recurrence the brilliant
+supra-moral necessity came first, and eternal recurrence was the brilliant
 afterthought.
 <!--, or rather, of the love of necessity.-->
 It was less a metaphysical insight than a moral
