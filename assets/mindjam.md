@@ -105,8 +105,8 @@ self-preservation. -->
 
 In Nietzschean terms, there is something "anti-life" about the (now
 proverbial) Stoic acceptance of whatever comes your way.
-But Nietzsche's enthusiasm for what is necessary also seems to verge
-on indiscriminate acceptance, differing from the Stoics more on
+But Nietzsche's enthusiasm for what is necessary itself seems to verge
+on indiscriminate, anti-life acceptance, differing from the Stoics more on
 aesthetic than moral grounds.
 Take this excerpt from *The Gay Science*, for instance:
 
