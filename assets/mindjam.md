@@ -36,8 +36,8 @@ cyclic, and we are doomed to repeat ourselves.
 Evidently, this is an archetypal idea, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
 Cycles have a certain economy of pattern, and even today,
-[certain eminences](https://en.wikipedia.org/wiki/Cycles_of_Time)
-would like to think of cosmology as being cyclic.
+[cyclic views](https://en.wikipedia.org/wiki/Cycles_of_Time)
+of the universe remain popular.
 
 But for all its metaphysical prettiness, recurrence has an important
 ethical dimension.
