@@ -78,9 +78,12 @@ eternity. Not merely bear what is necessary, still less conceal it—all
 idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
-Nietzsche made a very literal virtue of necessity. And to that end, <!--, or rather, of the love of necessity.-->
-eternal recurrence was less a metaphysical insight than a moral
-principle for guiding one towards a love of fate.
+For Nietzsche, the love of life in all its
+supra-moral necessity came first, and eternal recurrence the brilliant
+afterthought.
+<!--, or rather, of the love of necessity.-->
+It was less a metaphysical insight than a moral
+thought experiment for guiding one towards a love of fate.
 <!-- guiding the individual towards *amor fati*. -->
 <!-- Eternal recurrence rather a thought experiment by which to guide the individual towards
 *amor fati*.
@@ -89,8 +92,10 @@ religious sensibilities he so detested.
 Whatever the similarities, there are subtle shifts in emphasis that
 will lead us away, I think, from the indiscriminate acceptance of
 Nietzsche's *amor fati*. -->
+
 But I find Nietzsche's formulas, and the parallel to the Stoics,
 ambiguous.
+Both made a virtue of necessity.
 The Stoics had a bleak outlook on the human lot, and their love of
 fate sprung from a philosophy of powerlessness within one's own life,
 not from any grand cosmogony.
