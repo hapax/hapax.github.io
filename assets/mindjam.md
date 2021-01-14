@@ -41,6 +41,11 @@ would like to think of cosmology as being cyclic.
 
 But for all its metaphysical prettiness, recurrence has an important
 ethical dimension.
-The Stoic [Epitectus](https://en.wikipedia.org/wiki/Epictetus) taught
-a "love of fate", or *amor fati*.
+Stoics taught a "love of fate", or *amor fati*. Marcus Aurelius, for
+instance, write
+
+“Accept the things to which fate binds you, and love the people with
+whom fate brings you together, but do so with all your heart.”
+
+
 Friedrich Nietzsche 
