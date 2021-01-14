@@ -102,8 +102,8 @@ This "will to life" seems more apt to me than the "will to power", and
 also distinct from the Schopenhauerian "will to live", or mere
 self-preservation.
 Returning to the Stoics, one can't help but feel that, in Nietzschean terms, there is
-something "anti-life" about their now proverbial acceptance of
-whatever came their way.
+something "anti-life" about the now proverbial acceptance of
+whatever comes your way.
 
 #### Fatalism and free will
 
