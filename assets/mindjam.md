@@ -162,7 +162,8 @@ In a sense, who we are *is* our fate.
 This does not prevent our choices from being meaningful; rather, the
 point of eternal recurrence as I understand it is that it makes it
 makes them all the more meaningful.
-You will be constituted by this set of self-creative acts forever.
+You will be constituted by this particular set of self-creative acts,
+and no others, forever.
 
 #### Brainjamor
 
