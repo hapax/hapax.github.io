@@ -131,7 +131,7 @@ it.
 But not every necessity is virtuous, and a healthy creature can tell
 the difference between what is good and what is bad for it.
 This is part of the very "will of life" that Nietzsche exhorts, but
-perhaps as an unhealthy, could not exercise himself.
+perhaps could not exercise himself.
 There is a sickness in loving what is bad.
 
 #### Fatalism and free will
