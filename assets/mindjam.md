@@ -92,6 +92,7 @@ religious sensibilities he so detested.
 Whatever the similarities, there are subtle shifts in emphasis that
 will lead us away, I think, from the indiscriminate acceptance of
 Nietzsche's *amor fati*. -->
+
 But I find Nietzsche's formulas, and the parallel to the Stoics,
 ambiguous.
 Both made a virtue of necessity.
