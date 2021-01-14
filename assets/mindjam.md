@@ -46,8 +46,8 @@ Accept the things to which fate binds you, and love the people with
 whom fate brings you together, but do so with all your heart.
 </span>
 
-Almost 2000 years later, Friedrich Nietzsche would turn eternal
-recurrence and *amor fati* into an ethic, a
+Almost 2000 years later, Friedrich Nietzsche would combine eternal
+recurrence and *amor fati* into a similar ethic, a
 love of reality beyond the stale, life-denying categories of European thought.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
