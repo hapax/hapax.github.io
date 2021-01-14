@@ -94,7 +94,7 @@ cosmogonic musings. -->
 
 This Stoic "will to reality" seems radically different from Nietzche's
 infamous (and infamously misunderstood) "will to power".
-When co-opted by the Nazis, it was solely about power over others, but in
+When co-opted by the Nazis, it was solely about power over others,<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup> but in
 *Thus Spake Zarathustra*, it is very obviously about power over the
 self, or "self-overcoming" as he would write elsewhere, an
 "unexhausted procreative will of life".
@@ -104,12 +104,6 @@ self-preservation.
 Returning to the Stoics, one can't help but feel that, in Nietzschean terms, there is
 something "anti-life" about their now proverbial acceptance of
 whatever came their way.
-
-[*Note*: Nietzsche does discuss power over others, but
-unlike the creative "self-overcoming" and "will to life", it is often in naturalistic terms,
-so I'm not sure to what extent he makes a virtue  of it.
-Whatever the case, here I just want to focus on how
-this relates to fatalism.]
 
 #### Fatalism and free will
 
@@ -138,3 +132,13 @@ This is like eternal recurrence, but "parallelised": each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
+
+#### Footnotes
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
+Nietzsche does discuss power over others, but
+unlike the creative "self-overcoming" and "will to life", it is often in naturalistic terms,
+so I'm not sure to what extent he makes a virtue  of it.
+Whatever the case, here I just want to focus on how
+this relates to fatalism.
+</p></div>
