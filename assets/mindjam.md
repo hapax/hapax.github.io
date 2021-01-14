@@ -74,17 +74,18 @@ religious sensibilities he so detested. -->
 #### Brainjamor
 
 Brainjam does not posit that time is cyclic.
-But although we only get one life, we are doomed to live that life and
-all its moments eternally and simultaneously.
-Although the details differ from eternal recurrence, the implications
+But although we only get one life, we are doomed to live that life,
+and all its moments, in perpetuity.
+<!-- Although the details differ from eternal recurrence, the implications
 are the same: you will live forever, but this particular life, so make
-it a good one.
-Although *amor fati* is naturally connected to this idea, it does not
+it a good one. -->
+<!-- Although *amor fati* is naturally connected to this idea, it does not
 obviously follow. In Nietzsche's case, a love of life in all its
 supra-moral necessity came first, and the pretty thought
 experiment---eternal recurrence---was the brilliant afterthought.
-
 I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
+If we are boringly Humean-->
+Like eternal recurrence, th
 
