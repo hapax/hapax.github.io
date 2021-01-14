@@ -98,11 +98,12 @@ When co-opted by the Nazis, it was solely about power over others [<sup><a id="f
 *Thus Spake Zarathustra*, it is very obviously about power over the
 self, or "self-overcoming" as he would write elsewhere, an
 "unexhausted procreative will of life".
-This "will of life" seems more apt to me than the "will to power", and
-also distinct from the Schopenhauerian "will to live", or mere
-self-preservation.
-Returning to the Stoics, one can't help but feel that, in Nietzschean terms, there is
-something "anti-life" about the now proverbial acceptance of
+This "will of life" seems to more aptly capture the difference from
+the Stoics than the "will to power".
+<!-- , and also distinct from the Schopenhauerian "will to live", or mere
+self-preservation. -->
+One can't help but feel that, in Nietzschean terms, there is
+something "anti-life" about the now proverbial Stoic acceptance of
 whatever comes your way.
 
 #### Fatalism and free will
