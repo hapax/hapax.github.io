@@ -21,8 +21,8 @@ belief that all times exist) with our peculiar experience of time.
 Put simply, each moment is *always* being experienced, a sort
 of "brainjam" by which our life is pickled into the
 spacetime continuum.
-The sense that time passes is (and must be) a cognitive artefact rather than
-some incorrigible metaphysical fact.
+The sense that time passes, the impression of sequence, is (and must
+be) a cognitive artefact rather than some incorrigible metaphysical fact.
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
 Here, I just want to focus on a few consequences of this "brainjam"
