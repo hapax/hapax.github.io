@@ -29,7 +29,7 @@ Here, I want to focus on some of the consequences of brainjam.
 
 #### Eternal recurrence and amor fati
 
-First, we can compare brainjam to the doctrine of eternal recurrence:
+First, we can compare brainjam to the doctrine of eternal recurrence,
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
