@@ -29,7 +29,7 @@ to that post.
 Here, I just want to focus on a few consequences of this "brainjam"
 philosophy.
 
-#### Brainjam vs eternal recurrence
+#### Eternal recurrence
 
 First, let's compare it to the doctrine of eternal recurrence: time is
 cyclic, and we are doomed to repeat ourselves.
