@@ -46,6 +46,8 @@ Accept the things to which fate binds you, and love the people with
 whom fate brings you together, but do so with all your heart.
 </span>
 
+This springs from a bleak outlook on the human lot rather than
+cosmogonic musics.
 Almost 2000 years later, Friedrich Nietzsche would turn eternal
 recurrence and *amor fati* into an ethic, a love of reality beyond the
 stale, life-denying categories of European religion.
