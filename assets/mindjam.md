@@ -36,24 +36,6 @@ classical antiquity from Egypt to India, Greece to Mesoamerica.
 Cycles have a certain economy of pattern, and even today,
 [cyclic views](https://en.wikipedia.org/wiki/Cycles_of_Time)
 of the universe remain popular.
-Brainjam does not posit that time is cyclic.
-We get one life, which we are doomed to live, moment by moment, in perpetuity.
-<!-- Although the details differ from eternal recurrence, the implications
-are the same: you will live forever, but this particular life, so make
-it a good one. -->
-<!-- Although *amor fati* is naturally connected to this idea, it does not
-obviously follow. In Nietzsche's case, a love of life in all its
-supra-moral necessity came first, and the pretty thought
-experiment---eternal recurrence---was the brilliant afterthought.
-I'd like to go in the other direction, starting with brainjam and
-seeing what loves, if any, it licenses, the "brainjamor" if you'll
-excuse the highbrow doggerel.
-If we are boringly Humean-->
-Brainjam is like eternal recurrence, but "parallelised": each
-conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
-<!-- The emphasis on moments in some sense "parallelises" eternal
-recurrence. -->
-
 For all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
 The Stoics taught a "love of fate", or *amor fati*. For instance, in
@@ -123,3 +105,23 @@ The question becomes: what does "necessity" mean to Nietzsche?
 <span style="padding-left: 20px; display:block">
 What does your conscience say?—You shall become the person you are
 </span>
+
+#### Brainjamor
+
+Brainjam does not posit that time is cyclic.
+We get one life, which we are doomed to live, moment by moment, in perpetuity.
+<!-- Although the details differ from eternal recurrence, the implications
+are the same: you will live forever, but this particular life, so make
+it a good one. -->
+<!-- Although *amor fati* is naturally connected to this idea, it does not
+obviously follow. In Nietzsche's case, a love of life in all its
+supra-moral necessity came first, and the pretty thought
+experiment---eternal recurrence---was the brilliant afterthought.
+I'd like to go in the other direction, starting with brainjam and
+seeing what loves, if any, it licenses, the "brainjamor" if you'll
+excuse the highbrow doggerel.
+If we are boringly Humean-->
+This is like eternal recurrence, but "parallelised": each
+conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
+<!-- The emphasis on moments in some sense "parallelises" eternal
+recurrence. -->
