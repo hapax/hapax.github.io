@@ -75,7 +75,7 @@ Whatever the similarities, there are subtle shifts in emphasis that
 will lead us away, I think, from the indiscriminate acceptance of
 Nietzsche's *amor fati*. -->
 But I find Nietzsche's formulas, and the parallel to the Stoics,
-ambiguous.
+ambiguous and problematic.
 Both made a virtue of necessity.
 For the Stoics, however, the emphasis is on the *fati*, the
 powerlessness of human beings to intervene in the operation of the
