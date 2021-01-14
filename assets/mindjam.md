@@ -50,7 +50,7 @@ This springs from a bleak outlook on the human lot rather than any
 cosmogonic musics.
 Almost 2000 years later, Friedrich Nietzsche would take a similar
 tack, and turn eternal recurrence and *amor fati* into an ethic, a
-love of reality beyond the stale, life-denying categories of European religion.
+love of reality beyond the stale, life-denying categories of European thought.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
 *Ecce Homo* states this ethic clearly:
