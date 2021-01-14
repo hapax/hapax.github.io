@@ -39,8 +39,8 @@ Cycles have a certain economy of pattern, and even today,
 [cyclic views](https://en.wikipedia.org/wiki/Cycles_of_Time)
 of the universe remain popular.
 
-But for all its metaphysical prettiness, recurrence has an important
-ethical dimension.
+But for all its metaphysical prettiness, the ethical dimensions of
+recurrence are no less important.
 The Stoics taught a "love of fate", or *amor fati*, and in his
 *Meditations* (VI 39), Marcus Aurelius writes
 
