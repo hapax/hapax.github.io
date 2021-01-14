@@ -139,6 +139,5 @@ recurrence. -->
 Nietzsche does discuss power over others, but
 unlike the creative "self-overcoming" or "will of life", it is more often in
 naturalistic terms. I'm not sure to what extent he makes a virtue  of it.
-Whatever the case, here I just want to focus on how the "will to life"
-component relates to fatalism.
+Whatever the case, here I just want to focus on how it relates to fatalism.
 </p></div>
