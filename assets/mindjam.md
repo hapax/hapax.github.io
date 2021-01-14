@@ -83,3 +83,6 @@ Although *amor fati* is naturally connected to this idea, it does not
 obviously follow. In Nietzsche's case, a love of life in all its
 supra-moral necessity came first, and the pretty thought
 experiment---eternal recurrence---came later.
+
+In our case, I'd like to start with brainjam and see what it suggest
+we love, the "brainjamor", if you'll excuse the highbrow doggerel.
