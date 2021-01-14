@@ -159,6 +159,8 @@ What does your conscience say? — 'You shall become the person you are'.
 </span>
 
 In a sense, who we are *is* our fate.
+This does not prevent our choices from being meaningful, and perhaps
+more sharply, 
 
 #### Brainjamor
 
