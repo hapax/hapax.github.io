@@ -93,15 +93,20 @@ not from any grand cosmogony.
 cosmogonic musings. -->
 
 This Stoic "will to reality" seems radically different from Nietzche's
-somewhat infamous "will to power".
-And one can't help but feel that, in Nietzschean terms, there is
-something "anti-life" about the now proverbial Stoic acceptance of
-whatever comes your way.
+infamous (and infamously misunderstood) "will to power".
+When co-opted by the Nazis, it was about power over others, but in
+*Thus Spake Zarathustra*, it is very obviously about power over the
+self, or "self-overcoming" as he would write elsewhere, an
+"unexhausted procreative will of life". This "will to life" seems more
+apt to me than the "will to power" (and also distinct from the
+Schopenhauerian "will to live", or mere self-preservation).
+Returning to the Stoics, one can't help but feel that, in Nietzschean terms, there is
+something "anti-life" about their now proverbial acceptance of
+whatever came their way.
 
 #### Fatalism and free will
 
-The question becomes: what does "necessity" mean to Nietzsche?
-Much ink has been spilled on the topic, and it's 
+The question becomes: what does necessity mean to Nietzsche?
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say?—'You shall become the person you are'.
