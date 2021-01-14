@@ -98,7 +98,7 @@ When co-opted by the Nazis, it was solely about power over others [<sup><a id="f
 *Thus Spake Zarathustra*, it is very obviously about power over the
 self, or "self-overcoming" as he would write elsewhere, an
 "unexhausted procreative will of life".
-This "will to life" seems more apt to me than the "will to power", and
+This "will of life" seems more apt to me than the "will to power", and
 also distinct from the Schopenhauerian "will to live", or mere
 self-preservation.
 Returning to the Stoics, one can't help but feel that, in Nietzschean terms, there is
@@ -137,7 +137,7 @@ recurrence. -->
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
 Nietzsche does discuss power over others, but
-unlike the creative "self-overcoming", it is more often in
+unlike the creative "self-overcoming" or "will of life", it is more often in
 naturalistic terms. I'm not sure to what extent he makes a virtue  of it.
 Whatever the case, here I just want to focus on how the "will to life"
 component relates to fatalism.
