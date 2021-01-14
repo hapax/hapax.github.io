@@ -57,4 +57,4 @@ eternity. Not merely bear what is necessary, still less conceal it—all
 idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
-Nietzsche made a virtue of necessity, or rather, of the love of necessity.
+Nietzsche literally made a virtue of necessity, or more precisely, of the love of necessity.
