@@ -30,7 +30,7 @@ philosophy.
 
 #### Eternal recurrence
 
-First, let's compare it to the doctrine of eternal recurrence: time is
+First, let's compare brainjam to the doctrine of eternal recurrence: time is
 cyclic, and we are doomed to repeat ourselves.
 Evidently, this is an archetypal idea, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
