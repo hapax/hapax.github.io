@@ -19,7 +19,7 @@ In a
 I argued that it was possible to reconcile four-dimensionalism (a
 belief that all times exist) with our peculiar experience of time.
 Put simply, each moment is *always* being experienced, creating a sort
-of "brainjam" in which our life is eternally pickled into the
+of "brainjam" by which our life is pickled into the
 spacetime continuum.
 The sense that time passes is (and must be) a cognitive artefact rather than
 some incorrigible metaphysical fact.
