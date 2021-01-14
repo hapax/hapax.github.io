@@ -27,6 +27,8 @@ For arguments in favour of this view, and other elaborations, I refer
 to that post.
 Here, I want to focus on some of the consequences of brainjam.
 
+#### Eternal recurrence and amor fati
+
 First, we can compare brainjam to the doctrine of eternal recurrence,
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
@@ -51,8 +53,6 @@ Brainjam is like eternal recurrence, but "parallelised": each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
-
-#### Eternal recurrence and amor fati
 
 For all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
