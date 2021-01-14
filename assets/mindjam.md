@@ -108,7 +108,7 @@ proverbial) Stoic acceptance of whatever comes your way.
 But Nietzsche's enthusiasm for what is necessary itself seems to verge
 on indiscriminate, anti-life acceptance, differing from the Stoics more on
 aesthetic than moral grounds.
-Take this excerpt from *The Gay Science*, for instance:
+Take this excerpt from *The Gay Science*:
 
 <span style="padding-left: 20px; display:block">
 I want to learn more and more to see as beautiful what is necessary in
