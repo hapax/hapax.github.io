@@ -48,8 +48,8 @@ whom fate brings you together, but do so with all your heart.
 </span>
 
 Almost 2000 years later, Friedrich Nietzsche would turn eternal
-recurrence and *amor fati* into an ethic. *Ecce
-Homo* states this explicitly:
+recurrence and *amor fati* into an ethic, a love of reality to counter
+the death of God. *Ecce Homo* states this ethic explicitly:
 
 <span style="padding-left: 20px; display:block">
 My formula for greatness in a human being is *amor fati*: that one wants
