@@ -140,7 +140,7 @@ There are positive aspects to things like suffering, privation, and
 doubt, and I will return to them below.
 But appraising them in the scheme of a healthy life, on which one
 trains the "unexhausted procreative will", is more complex and
-potentially individual than simply saying yes to everything.
+potentially individual than an undifferentiated Yes.
 
 #### Fatalism and free will
 
