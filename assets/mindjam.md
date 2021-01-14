@@ -30,9 +30,9 @@ philosophy.
 
 #### Eternal recurrence
 
-First, let's compare brainjam to the doctrine of eternal recurrence: time is
-cyclic, and we are doomed to repeat ourselves.
-Evidently, this is an archetypal idea, popping up everywhere in
+First, let's compare brainjam to the doctrine of eternal recurrence,
+the idea that time is cyclic and we are doomed to repeat ourselves.
+Evidently, this is an archetypal thought, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
 Cycles have a certain economy of pattern, and even today,
 [cyclic views](https://en.wikipedia.org/wiki/Cycles_of_Time)
