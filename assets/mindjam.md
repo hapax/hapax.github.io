@@ -86,9 +86,9 @@ I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
 If we are boringly Humean-->
-Brainjam is like eternal recurrence, but "parallelised": the
-four-dimensionalist eternity of the conscious moment replaces the
-cyclic eternity of the repeated life.
+Brainjam is like eternal recurrence, but "parallelised": each
+conscious moment is replayed in parallel, rather than the serial
+repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
 
