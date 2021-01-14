@@ -145,7 +145,8 @@ recurrence. -->
 
 #### Footnotes
 
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Nietzsche does discuss power over others, but
 unlike the creative "self-overcoming" or "will of life", it is more often in
 naturalistic terms. I'm not sure to what extent he makes a virtue  of it.
