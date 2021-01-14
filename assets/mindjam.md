@@ -91,5 +91,8 @@ conscious moment is replayed in parallel, rather than the serial
 repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
+But the subtle shifts in emphasis suggest a change in moral
+dimensions, and lead us away, I think, from the indiscriminate
+acceptance of Nietzschean *amor fati*.
 
 #### Free will
