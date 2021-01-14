@@ -103,12 +103,12 @@ the Stoics than the "will to power".
 <!-- , and also distinct from the Schopenhauerian "will to live", or mere
 self-preservation. -->
 
-In Nietzschean terms, there is something "anti-life" about the now
-proverbial Stoic acceptance of whatever comes your way.
+In Nietzschean terms, there is something "anti-life" about the (now
+proverbial) Stoic acceptance of whatever comes your way.
 But Nietzsche's enthusiasm for what is necessary also seems to verge
-on indiscriminate acceptance.
-It differs from the Stoic *amor fati* more on aesthetic grounds than
-anything else, as this excerpt from *The Gay Science* suggests:
+on indiscriminate acceptance, differing from the Stoics more on
+aesthetic than moral grounds.
+Take this excerpt from *The Gay Science*, for instance:
 
 <span style="padding-left: 20px; display:block">
 I want to learn more and more to see as beautiful what is necessary in
@@ -118,6 +118,8 @@ against what is ugly. I do not want to accuse; I do not even want to
 accuse those who accuse. Looking away shall be my only negation. And
 all in all and on the whole: some day I wish to be only a Yes-sayer.
 </span>
+
+Say 
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say? — 'You shall become the person you are'.
