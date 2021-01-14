@@ -109,7 +109,7 @@ of will to powerlessness.
 <!-- In Nietzschean terms, there is something "anti-life" about the (now
 proverbial) Stoic acceptance of whatever comes your way. -->
 But Nietzsche's enthusiasm for what is necessary itself seems to verge
-on indiscriminate, anti-life acceptance, differing from the Stoics more on
+on the indiscriminate, differing from the Stoics more on
 aesthetic than moral grounds.
 Take this famous passage from *The Gay Science*:
 
