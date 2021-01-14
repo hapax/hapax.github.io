@@ -145,8 +145,6 @@ conscious moment is replayed in parallel, rather than in the serial repetitions 
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
 
-#### Footnotes
-
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Nietzsche does discuss power over others, but
