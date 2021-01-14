@@ -62,7 +62,7 @@ eternity. Not merely bear what is necessary, still less conceal it—all
 idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
-Nietzsche made a very literal virtue of necessity. To that end, <!--, or rather, of the love of necessity.-->
+Nietzsche made a very literal virtue of necessity. And to that end, <!--, or rather, of the love of necessity.-->
 eternal recurrence was less a metaphysical insight than a moral
 principle for guiding one towards a love of fate.
 <!-- guiding the individual towards *amor fati*. -->
