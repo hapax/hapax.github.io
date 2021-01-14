@@ -102,13 +102,22 @@ This "will of life" seems to more aptly capture the difference from
 the Stoics than the "will to power".
 <!-- , and also distinct from the Schopenhauerian "will to live", or mere
 self-preservation. -->
-One can't help but feel that, in Nietzschean terms, there is
-something "anti-life" about the now proverbial Stoic acceptance of
-whatever comes your way.
 
-#### Fatalism and free will
+In Nietzschean terms, there is something "anti-life" about the now
+proverbial Stoic acceptance of whatever comes your way.
+But Nietzsche's enthusiasm for what is necessary also seems to verge
+on indiscriminate acceptance.
+It differs from the Stoic *amor fati* more on aesthetic grounds than
+anything else, as this excerpt from *The Gay Science* suggests:
 
-How is "will of life" compatible with *amor fati*?
+<span style="padding-left: 20px; display:block">
+I want to learn more and more to see as beautiful what is necessary in
+things; then I shall be one of those who makes things beautiful. Amor
+fati: let that be my love henceforth! I do not want to wage war
+against what is ugly. I do not want to accuse; I do not even want to
+accuse those who accuse. Looking away shall be my only negation. And
+all in all and on the whole: some day I wish to be only a Yes-sayer.
+</span>
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say?—`You shall become the person you are'.
