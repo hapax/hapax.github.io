@@ -101,9 +101,10 @@ whatever comes your way.
 #### Fatalism and free will
 
 The question becomes: what does "necessity" mean to Nietzsche?
+Much ink has been spilled on the topic, and it's 
 
 <span style="padding-left: 20px; display:block">
-What does your conscience say?—You shall become the person you are
+What does your conscience say?—'You shall become the person you are'.
 </span>
 
 #### Brainjamor
