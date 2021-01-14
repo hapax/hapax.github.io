@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Brainjam and free will"
+title:  "Brainjam, amor fati and free will"
 categories: [Philosophy]
 date:  2021-01-13
 ---
@@ -76,3 +76,9 @@ religious sensibilities he so detested. -->
 Brainjam does not posit that time is cyclic.
 But although we only get one life, we are doomed to live that life and
 all its moments eternally and simultaneously.
+Although the details differ from eternal recurrence, the implications
+are the same: you will live forever, but this life, so make it count.
+Although *amor fati* is naturally connected to this idea, it does not
+follow, and in Nietzsche's case, a love of life in all its supra-moral
+necessity came first.
+Eternal recurrence was the pretty lens to see it through.
