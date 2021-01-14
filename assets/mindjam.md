@@ -41,11 +41,21 @@ would like to think of cosmology as being cyclic.
 
 But for all its metaphysical prettiness, recurrence has an important
 ethical dimension.
-Stoics taught a "love of fate", or *amor fati*. Marcus Aurelius, for
-instance, write
+The Stoics taught a "love of fate", or *amor fati*, and in his
+*Meditations* (VI 39), Marcus Aurelius writes
 
-“Accept the things to which fate binds you, and love the people with
-whom fate brings you together, but do so with all your heart.”
+<span style="padding-left: 20px; display:block">
+Accept the things to which fate binds you, and love the people with
+whom fate brings you together, but do so with all your heart.
+</span>
 
+Almost 2000 years later, Friedrich Nietzsche would make eternal
+recurrence and *amor fati* the cornerstones of his ethics. In *Ecce
+Homo*, he makes this commitment to love reality very clear:
 
-Friedrich Nietzsche 
+<span style="padding-left: 20px; display:block">
+My formula for greatness in a human being is amor fati: that one wants
+nothing to be different, not forward, not backward, not in all
+eternity. Not merely bear what is necessary, still less conceal it—all
+idealism is mendacity in the face of what is necessary—but love it.
+</span>
