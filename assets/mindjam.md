@@ -25,11 +25,11 @@ The sense that time passes, the impression of sequence, is (and must
 be) a cognitive artefact rather than some incorrigible metaphysical fact.
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
-Here, I just want to focus on a few consequences of brainjam.
+Here, I want to focus on some of the consequences of brainjam.
 
 #### Eternal recurrence and amor fati
 
-First, let's compare brainjam to the doctrine of eternal recurrence,
+First, we can compare brainjam to the doctrine of eternal recurrence,
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
