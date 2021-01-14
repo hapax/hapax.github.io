@@ -113,9 +113,13 @@ cosmogonic musings. -->
 This Stoic "will to reality" seems radically different from Nietzche's
 somewhat infamous "will to power".
 And one can't help but feel that, in Nietzschean terms, there is
-something "anti-life" about the Stoic acceptance of whatever comes
-your way.
+something "anti-life" about the now proverbial Stoic acceptance of
+whatever comes your way.
 
 #### Fatalism and free will
 
 The question becomes: what does "necessity" mean to Nietzsche?
+
+<span style="padding-left: 20px; display:block">
+What does your conscience say?—You shall become the person you are
+</span>
