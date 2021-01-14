@@ -87,8 +87,7 @@ seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
 If we are boringly Humean-->
 Brainjam is like eternal recurrence, but "parallelised": each
-conscious moment is replayed in parallel, rather than the serial
-repetitions of cyclic time.
+conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
 But the subtle shifts in emphasis lead us away, I think, from the indiscriminate
