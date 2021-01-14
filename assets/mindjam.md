@@ -105,9 +105,11 @@ Returning to the Stoics, one can't help but feel that, in Nietzschean terms, the
 something "anti-life" about their now proverbial acceptance of
 whatever came their way.
 
-[Note: Nietzsche does talk somewhat naturalistically about power over others, but
-unlike the creative "self-overcoming" and "will to life", I'm not sure to what extent he makes a virtue
-of it. Whatever the case, here I just want to focus on the ]
+[*Note*: Nietzsche does discuss power over others, but
+unlike the creative "self-overcoming" and "will to life", it is often in naturalistic terms,
+so I'm not sure to what extent he makes a virtue  of it.
+Whatever the case, here I just want to focus on how
+this relates to fatalism.]
 
 #### Fatalism and free will
 
