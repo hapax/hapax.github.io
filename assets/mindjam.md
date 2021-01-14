@@ -61,8 +61,8 @@ idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
 He made a virtue of necessity, or rather, of the love of necessity.
-Nietzsche struck upon eternal recurrence less as a metaphysical
-insight, than a moral principle for guiding the individual towards
+Nietzsche struck upon eternal recurrence, less as a
+metaphysical insight, than a moral principle for guiding the individual towards
 *amor fati*.
 <!-- Eternal recurrence rather a thought experiment by which to guide the individual towards
 *amor fati*.
