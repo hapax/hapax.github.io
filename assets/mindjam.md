@@ -51,7 +51,7 @@ recurrence and *amor fati* into a similar ethic, a
 love of reality beyond the stale, life-denying categories of European thought.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
-*Ecce Homo* states this ethic clearly:
+In *Ecce Homo*, he states
 
 <span style="padding-left: 20px; display:block">
 My formula for greatness in a human being is *amor fati*: that one wants
