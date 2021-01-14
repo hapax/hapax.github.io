@@ -62,10 +62,10 @@ idealism is mendacity in the face of what is necessary—but love it.
 
 For Nietzsche, the love of life in all its
 supra-moral necessity came first, and eternal recurrence was the brilliant
-afterthought.
+afterthought,
 <!--, or rather, of the love of necessity.-->
-It was less a metaphysical insight than a moral
-thought experiment for guiding one towards a love of fate.
+less a metaphysical insight than a moral
+heuristic for guiding one towards a love of fate.
 <!-- guiding the individual towards *amor fati*. -->
 <!-- Eternal recurrence rather a thought experiment by which to guide the individual towards
 *amor fati*.
