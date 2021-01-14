@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Brainjam and free will"
 categories: [Philosophy]
-date:  2021-01-12
+date:  2021-01-13
 ---
 
-**January 12, 2021.** *In a
+**January 13, 2021.** *In a
   [previous post](https://hapax.github.io/philosophy/physics/psychology-time/),
   I advanced a four-dimensionalist version of eternal recurrence. I
   consider some of the moral consequences.*
@@ -70,3 +70,6 @@ He equates this with a love of life and a rejection of the milquetoast
 religious sensibilities he so detested. -->
 
 #### Brainjamor
+
+Brainjam does not posit that time is cyclic.
+But although we only get one life, we are doomed to live that life eternally.
