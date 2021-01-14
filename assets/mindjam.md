@@ -86,3 +86,4 @@ experiment---eternal recurrence---was the brilliant afterthought.
 I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
+
