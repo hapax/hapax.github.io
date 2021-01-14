@@ -112,5 +112,8 @@ cosmogonic musings. -->
 
 This Stoic "will to reality" seems radically different from Nietzche's
 somewhat infamous "will to power".
+And one can't help but feel that, in Nietzschean terms, there is
+something "anti-life" about the Stoic acceptance of whatever comes
+your way.
 
 #### Fatalism and free will
