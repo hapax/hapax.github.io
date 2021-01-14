@@ -137,8 +137,8 @@ recurrence. -->
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
 Nietzsche does discuss power over others, but
-unlike the creative "self-overcoming" and "will to life", it is often in naturalistic terms,
-so I'm not sure to what extent he makes a virtue  of it.
-Whatever the case, here I just want to focus on how
-this relates to fatalism.
+unlike the creative "self-overcoming", it is more often in
+naturalistic terms. I'm not sure to what extent he makes a virtue  of it.
+Whatever the case, here I just want to focus on how the "will to life"
+component relates to fatalism.
 </p></div>
