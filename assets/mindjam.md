@@ -123,7 +123,14 @@ Should we really say yes to everything? To suffering, to cruelty, to
 forces which are explicitly against life? It's hard not to see
 Nietzche the invalid peeking through, scribbling madly in his sister's
 garret, saying yes to his own suffering because like the Stoics, he
-has no choice in the matter and would prefer to love rather than hate it.
+has no choice in the matter and would prefer to love rather than hate
+it.
+But not every necessity is virtuous, and a healthy creature can tell
+the difference between what is good and what is bad for it.
+This is part of the very "will of life" that Nietzsche exhorts, but
+perhaps as an unhealthy, could not exercise himself.
+
+#### Fatalism and free will
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say? — 'You shall become the person you are'.
