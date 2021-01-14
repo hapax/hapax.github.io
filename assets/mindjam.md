@@ -39,8 +39,8 @@ Cycles have a certain economy of pattern, and even today,
 of the universe remain popular.
 But for all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
-The Stoics taught a "love of fate", or *amor fati*, and in his
-*Meditations* (VI 39), Marcus Aurelius writes
+The Stoics taught a "love of fate", or *amor fati*. For instance, in
+his *Meditations* (VI 39), Marcus Aurelius writes
 
 <span style="padding-left: 20px; display:block">
 Accept the things to which fate binds you, and love the people with
