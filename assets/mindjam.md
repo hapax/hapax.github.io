@@ -64,10 +64,8 @@ Accept the things to which fate binds you, and love the people with
 whom fate brings you together, but do so with all your heart.
 </span>
 
-This springs from a bleak outlook on the human lot rather than any
-cosmogonic musings.
-Almost 2000 years later, Friedrich Nietzsche would take a similar
-tack, and turn eternal recurrence and *amor fati* into an ethic, a
+Almost 2000 years later, Friedrich Nietzsche would turn eternal
+recurrence and *amor fati* into an ethic, a
 love of reality beyond the stale, life-denying categories of European thought.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
@@ -91,5 +89,12 @@ religious sensibilities he so detested.
 Whatever the similarities, there are subtle shifts in emphasis that
 will lead us away, I think, from the indiscriminate acceptance of
 Nietzsche's *amor fati*. -->
+But I find Nietzsche's formulas, and the parallel to the Stoics,
+ambiguous.
+The Stoics had a bleak outlook on the human lot, and their love of
+fate sprung from a philosophy of powerlessness within one's own life,
+not from any grand cosmogony.
+<!-- This springs from a bleak outlook on the human lot rather than any
+cosmogonic musings. -->
 
 #### Free will
