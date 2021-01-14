@@ -77,8 +77,9 @@ Brainjam does not posit that time is cyclic.
 But although we only get one life, we are doomed to live that life and
 all its moments eternally and simultaneously.
 Although the details differ from eternal recurrence, the implications
-are the same: you will live forever, but this life, so make it count.
+are the same: you will live forever, but this particular life, so make
+it a good one.
 Although *amor fati* is naturally connected to this idea, it does not
-follow, and in Nietzsche's case, a love of life in all its supra-moral
-necessity came first.
-Eternal recurrence was the pretty lens to see it through.
+obviously follow. In Nietzsche's case, a love of life in all its
+supra-moral necessity came first, and the pretty thought
+experiment---eternal recurrence---came later.
