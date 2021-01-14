@@ -92,19 +92,22 @@ not from any grand cosmogony.
 <!-- This springs from a bleak outlook on the human lot rather than any
 cosmogonic musings. -->
 
-This Stoic "will to reality" seems radically different from Nietzche's
+This Stoic "will of reality" seems radically different from Nietzche's
 infamous (and perhaps infamously misunderstood) "will to power".
 When co-opted by the Nazis, it was solely about power over others [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>], but in
 *Thus Spake Zarathustra*, it is very obviously about power over the
 self, or "self-overcoming" as he would write elsewhere, an
 "unexhausted procreative will of life".
-This "will of life" seems to more aptly capture the difference from
+
+<!-- This "will of life" seems to more aptly capture the difference from
 the Stoics than the "will to power".
 <!-- , and also distinct from the Schopenhauerian "will to live", or mere
 self-preservation. -->
-
-In Nietzschean terms, there is something "anti-life" about the (now
-proverbial) Stoic acceptance of whatever comes your way.
+The "will of life" seems almost like the opposite of Epitectus' "will of
+reality", and the Stoic acceptance of whatever comes your way a kind
+of will to powerlessness.
+<!-- In Nietzschean terms, there is something "anti-life" about the (now
+proverbial) Stoic acceptance of whatever comes your way. -->
 But Nietzsche's enthusiasm for what is necessary itself seems to verge
 on indiscriminate, anti-life acceptance, differing from the Stoics more on
 aesthetic than moral grounds.
