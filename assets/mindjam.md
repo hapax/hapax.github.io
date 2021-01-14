@@ -46,11 +46,11 @@ Accept the things to which fate binds you, and love the people with
 whom fate brings you together, but do so with all your heart.
 </span>
 
-This springs from a bleak outlook on the human lot rather than
+This springs from a bleak outlook on the human lot rather than any
 cosmogonic musics.
-Almost 2000 years later, Friedrich Nietzsche would turn eternal
-recurrence and *amor fati* into an ethic, a love of reality beyond the
-stale, life-denying categories of European religion.
+Almost 2000 years later, Friedrich Nietzsche would take a similar
+tack, and turn eternal recurrence and *amor fati* into an ethic, a
+love of reality beyond the stale, life-denying categories of European religion.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
 *Ecce Homo* states this ethic clearly:
