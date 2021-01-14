@@ -136,8 +136,9 @@ There is a sickness in loving what is bad.
 
 I think the doctrine of necessity and Yes-saying has things to
 recommend it.
-There are positive aspects to things like suffering, privation, and
-doubt, and I will return to them below.
+Things like suffering, privation, and
+doubt are not always or necessarily bad, a point I will return to
+below.
 But appraising them in the scheme of a healthy life, on which one
 trains the "unexhausted procreative will", is more complex and
 potentially individual than an undifferentiated Yes.
