@@ -94,7 +94,7 @@ cosmogonic musings. -->
 
 This Stoic "will to reality" seems radically different from Nietzche's
 infamous (and infamously misunderstood) "will to power".
-When co-opted by the Nazis, it was solely about power over others,<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup> but in
+When co-opted by the Nazis, it was solely about power over others [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>], but in
 *Thus Spake Zarathustra*, it is very obviously about power over the
 self, or "self-overcoming" as he would write elsewhere, an
 "unexhausted procreative will of life".
