@@ -47,7 +47,8 @@ whom fate brings you together, but do so with all your heart.
 </span>
 
 Almost 2000 years later, Friedrich Nietzsche would turn eternal
-recurrence and *amor fati* into an ethic, a love of reality.
+recurrence and *amor fati* into an ethic, a love of reality beyond the
+stale categories of European religion.
 <!-- to counterbalance his infamously negative attitudes towards European
 morality. -->
 *Ecce Homo* states this ethic clearly:
