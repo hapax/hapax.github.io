@@ -161,11 +161,13 @@ What does your conscience say? — 'You shall become the person you are'.
 </span>
 
 In a sense, who we are *is* our fate.
-This does not prevent our choices from being meaningful; rather, the
-point of eternal recurrence as I understand it is that it makes it
-makes them all the more meaningful.
+This does not prevent our choices from being meaningful, and in fact,
+makes them all the more meaningful. This is the whole point of eternal
+recurrence!
 You will be constituted by this particular set of self-creative acts,
 and no others, forever.
+
+An apparently connected problem is free will.
 
 #### Brainjamor
 
