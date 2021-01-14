@@ -164,6 +164,7 @@ recurrence. -->
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Nietzsche does discuss power over others, but
 unlike the creative "self-overcoming" or "will of life", it is more often in
-naturalistic terms. I'm not sure to what extent he makes a virtue  of it.
-Whatever the case, here I just want to focus on how it relates to fatalism.
+naturalistic terms, and I'm not sure to what extent he makes a virtue  of it.
+Whatever the case, here I just want to focus on how it relates to
+*amor fati*.
 </p></div>
