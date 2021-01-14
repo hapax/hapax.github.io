@@ -144,9 +144,20 @@ potentially individual than an undifferentiated Yes.
 
 #### Fatalism and free will
 
+A fatalist might object that, life or anti-life, you can't argue with
+reality.
+Both the Stoics and Nietzsche seem to subscribe to some form of
+fatalism, though as is often the case, the relationship between
+Nietzsche's ideas is fuzzy.
+But as this line from the *The Gay Science* shows, Nietzsche somehow
+both believed in fate and the individual as constituted by
+self-creative acts:
+
 <span style="padding-left: 20px; display:block">
 What does your conscience say? — 'You shall become the person you are'.
 </span>
+
+In a sense, who we are *is* our fate.
 
 #### Brainjamor
 
