@@ -102,4 +102,4 @@ not from any grand cosmogony.
 <!-- This springs from a bleak outlook on the human lot rather than any
 cosmogonic musings. -->
 
-#### Free will
+#### Fatalism and free will
