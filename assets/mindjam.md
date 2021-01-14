@@ -39,7 +39,7 @@ of the universe remain popular.
 For all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
 The Stoics taught a "love of fate", or *amor fati*. Take
-Marcus Aurelius' quotable quote (*Meditations*)
+Marcus Aurelius' aphorism (*Meditations*),
 
 <span style="padding-left: 20px; display:block">
 Accept the things to which fate binds you, and love the people with
