@@ -120,7 +120,7 @@ all in all and on the whole: some day I wish to be only a Yes-sayer.
 </span>
 
 <span style="padding-left: 20px; display:block">
-What does your conscience say?—`You shall become the person you are'.
+What does your conscience say? — 'You shall become the person you are'.
 </span>
 
 #### Brainjamor
