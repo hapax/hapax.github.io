@@ -72,4 +72,5 @@ religious sensibilities he so detested. -->
 #### Brainjamor
 
 Brainjam does not posit that time is cyclic.
-But although we only get one life, we are doomed to live that life eternally.
+But although we only get one life, we are doomed to live that life and
+all its moments eternally and simultaneously.
