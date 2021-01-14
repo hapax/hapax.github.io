@@ -119,7 +119,11 @@ accuse those who accuse. Looking away shall be my only negation. And
 all in all and on the whole: some day I wish to be only a Yes-sayer.
 </span>
 
-Say 
+Should we really say yes to everything? To suffering, to cruelty, to
+forces which are explicitly against life? It's hard not to see
+Nietzche the invalid peeking through, scribbling madly in his sister's
+garret, saying yes to his own suffering because like the Stoics, he
+has no choice in the matter and would prefer to love rather than hate it.
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say? — 'You shall become the person you are'.
