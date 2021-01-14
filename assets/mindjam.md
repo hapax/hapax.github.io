@@ -25,7 +25,9 @@ The sense that time passes, the impression of sequence, is (and must
 be) a cognitive artefact rather than some incorrigible metaphysical fact.
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
-Here, I want to discuss some of the broader philosophical aspects of brainjam.
+Here, I want to discuss some of the broader philosophical aspects of
+brainjam, and how it relates to eternal recurrence, fatalism, the
+nature of individual identity and free will.
 
 #### Eternal recurrence and amor fati
 
