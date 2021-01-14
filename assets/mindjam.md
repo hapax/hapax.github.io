@@ -29,7 +29,7 @@ Here, I want to focus on some of the consequences of brainjam.
 
 #### Eternal recurrence and amor fati
 
-First, we can compare brainjam to the doctrine of eternal recurrence,
+First, we can compare brainjam to the doctrine of eternal recurrence:
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
 classical antiquity, from Egypt to India, Greece to Mesoamerica.
@@ -62,7 +62,7 @@ eternity. Not merely bear what is necessary, still less conceal it—all
 idealism is mendacity in the face of what is necessary—but love it.
 </span>
 
-Nietzsche made a virtue of necessity, and to that end, <!--, or rather, of the love of necessity.-->
+Nietzsche made a very literal virtue of necessity. To that end, <!--, or rather, of the love of necessity.-->
 eternal recurrence was less a metaphysical insight than a moral
 principle for guiding one towards a love of fate.
 <!-- guiding the individual towards *amor fati*. -->
