@@ -27,7 +27,7 @@ For arguments in favour of this view, and other elaborations, I refer
 to that post.
 Here, I just want to focus on a few consequences of brainjam.
 
-#### Eternal recurrence
+#### Eternal recurrence and amor fati
 
 First, let's compare brainjam to the doctrine of eternal recurrence,
 the idea that time is cyclic and we are doomed to repeat ourselves.
