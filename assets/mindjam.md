@@ -243,7 +243,7 @@ sequence $A_i$ of decisions that make up my life.
 If that sequence is "reflectively stable", in the sense that I would
 happily make those choices again, why would the freedom to choose
 $B_i$ matter?
-To make things fancy and technical, I'll define a choice $A$ as
+To scratch that analytic itch, I'll define a choice $A$ as
 reflectively stable if, at some later point $t$, for $t' > t$ we would
 will ourselves to make the same choice $A$.
 If $A$ is reflectively stable, you may regret it in the short term,
