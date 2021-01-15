@@ -269,9 +269,7 @@ will", is the source of human meaning, not the counterfactual ability
 to choose $B$.
 <!-- This has nothing to do with free will unless you
 are the morbidly intellectual type and think about it too hard. -->
-
-We can now see a little more precisely what eternal recurrence is
-doing: it is a heuristic for optimising reflective stability.
+And the point of eternal recurrence is to optimise reflective stability.
 
 <!-- To help guide our intuition, imagine someone puts a
 gun to your head and tells you to choose A over B.
