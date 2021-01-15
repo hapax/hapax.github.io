@@ -197,7 +197,7 @@ about.
 But the second version imagines that, in some world where everything
 prior to the decision is the same, I choose B.
 For this to be possible, I need two things to hold: first, the
-laws of physics are indeterminate, and the state of the world now does
+laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], and the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
 We need both. Indeterminism by itself might still give rise to a
@@ -234,4 +234,13 @@ unlike the creative "self-overcoming" or "will of life", it is more often in
 naturalistic terms, and I'm not sure to what extent he makes a virtue  of it.
 Whatever the case, here I just want to focus on how it relates to
 <i>amor fati</i>.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+Sometimes, people argue that the randomness of quantum
+mechanics may help. But, first of all, this argument shows it is not
+sufficient; we also need to make fundamental assumptions about the
+metaphysics of time. Second, decisions made by rolling quantum die are
+not reall
 </p></div>
