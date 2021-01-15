@@ -183,8 +183,12 @@ Proponents of free will, who interpret "can" in this  -->
 We could find fault with the argument, since being "free to choose" is
 deeply ambiguous, leaving plenty of scope for the usual games
 of language, logic and modal hair-splitting.
-Frankly, I don't have time for this.
-It seems clear that, in some 
+
+Frankly, I don't have time for the technicalities.
+I simply don't think we have the freedom to choose in the sense most
+people mean.
+Partly, that is because the only way to get that freedom is to adopt
+peculiar and indefensible views of time and physics.
 
 #### Brainjamor
 
