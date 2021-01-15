@@ -305,9 +305,10 @@ But brainjam draws attention to another aspect of human life: the
 moment of experience itself. According to brainjam, each point in time
 becomes an eternity, and life an experiential preserve made up of
 these points.
-Instead of mere *amor fati*, a love of the collection if you will, the
-whole slug of life in Minkowski space, brainjam promotes "brainjamor"
-(if you'll excuse the pun), a love of each moment.
+*Amor fati* is a love of the collection if you will, the
+whole four-dimensional slug of a life in Minkowski space.
+In contrast, brainjam promotes "brainjamor" (if you'll excuse the
+pun), a love of each moment as well as the whole.
 
 With eternal recurrence, you might view mindlessly
 trawling Facebook as a mere bump in the road on the way to a full and
