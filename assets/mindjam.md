@@ -180,7 +180,7 @@ to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
 seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
-Being "free to choose" is deeply ambiguous, leaving plenty of scope for the usual games
+<!-- Being "free to choose" is deeply ambiguous, leaving plenty of scope for the usual games
 of language, logic and modal hair-splitting. -->
 It turns out that being "free to choose" is a deeply ambiguous notion,
 and it's worth a small digression to understand it better.
