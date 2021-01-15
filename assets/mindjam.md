@@ -246,8 +246,8 @@ mistaken for metaphysical ones.
 Similarly, in the free will debate, a problem of ethics or
 existentialism --- the meaning of human choice --- has been
 transplanted into the metaphysical realm.
-Frankly, the notion that rolling quantum dice
-into a non-existent future could be a source of human meaning
+The idea that rolling quantum dice
+into a non-existent future could be the source of human meaning
 stretches credulity.
 
 The ability to deliberate, to explore, to make mistakes, in other
