@@ -167,7 +167,7 @@ and no others, forevermore.
 
 But can these decisions be meaningful if they are fated?
 <!-- If they are inevitable, don't they imply a lack of free will?-->
-This is a segue to the problem of free will, the most hopelessly
+This leads us naturally the problem of free will, the most hopelessly
 confused of philosophical quandaries.
 Here is one low-brow version: if I have a choice between A and B,
 and I am free to choose either option, then I have free will.
