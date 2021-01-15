@@ -304,8 +304,12 @@ moment of experience itself. According to brainjam, each point in time
 becomes an eternity, and life an experiential preserve made up of
 these points.
 Instead of mere *amor fati*, a love of the collection if you will, the
-whole slug of life in Minkowski space, brainjam promotes *brainjamor*
+whole slug of life in Minkowski space, brainjam promotes "brainjamor"
 (if you'll excuse the pun), a love of each moment.
+With eternal recurrence, you might view mindlessly
+trawling Facebook as a mere bump in the road on the way to a full and
+healthy personhood.
+But brainjamor tells us that
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
