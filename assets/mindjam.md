@@ -181,8 +181,8 @@ to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
 seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
-
-
+We could find fault with the argument, since being "free to choose" is
+deeply ambiguous.
 
 #### Brainjamor
 
