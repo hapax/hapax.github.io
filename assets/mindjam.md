@@ -278,7 +278,7 @@ Now your decision is unfree, but no longer clearly unmeaningful. -->
 #### Brainjamor
 
 <!-- The point of eternal recurrence is to optimise reflective stability.-->
-In contrast, brainjam does not posit that time is cyclic.
+In contrast to eternal recurrence, brainjam does not posit that time is cyclic.
 Instead, we get one life, which we are doomed to live, moment by moment, in perpetuity.
 <!-- Although the details differ from eternal recurrence, the implications
 are the same: you will live forever, but this particular life, so make
@@ -295,8 +295,9 @@ This is like a "parallelised" version of eternal recurrence: each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
-But like eternal recurrence, brainjam provides a heuristic for
-optimising reflective stability.
+
+Both eternal recurrence and brainjam offer a heuristic for optimising
+reflecting stability.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
