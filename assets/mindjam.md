@@ -251,7 +251,7 @@ but not in the long.
 This ties the loop between Epitectuss notion of willing
 reality and Nietzsche's will of life.
 
-This notion of long-term stability this helps us reach a more nuanced
+This notion of long-term stability helps us reach a more nuanced
 view of how choices contribute to who they, since it is not the
 short-term regret that matters, but rather, *the role
 they play in the ensemble*.
