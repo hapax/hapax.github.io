@@ -205,9 +205,8 @@ We need both, since indeterminism by itself might still give rise to a
 fixed (but not physically determined) future, while the existence or
 non-existence of future times is moot if their contents are determined
 in advance by physical law.
-
-So we must believe peculiar (and in my opinion indefensible) things
-about time and physics in order to believe in this version of free will.
+So this version of free will necessitates peculiar (and in my opinion
+indefensible) views of time and physics.
 
 #### Brainjamor
 
