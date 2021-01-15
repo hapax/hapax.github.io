@@ -144,7 +144,7 @@ But appraising them in the scheme of a healthy life, on which one
 trains the "unexhausted procreative will", is more complex and
 potentially individual than an undifferentiated Yes.
 
-#### Free will and individuality
+#### A digression on free will
 
 Both the Stoics and Nietzsche seem to subscribe to some form of
 fatalism, that the course of events is fixed and inevitable.
