@@ -257,7 +257,7 @@ sequence $A_i$ of decisions that make up my life.
 If that sequence is "reflectively stable", in the sense that I would
 happily make those choices again if I had the chance, why would the
 freedom to choose $B_i$ matter?
-Perhaps "happily make them again" is overly strong; rather, we are
+Perhaps "happily make them again" is too strong; rather, we are
 *happy with the role they play in the ensemble*, that is, the way they
 contribute to or constitute our personal identity.
 Sometimes, suffering, privation, and doubt are important; they are
