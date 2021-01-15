@@ -53,6 +53,7 @@ This is like eternal recurrence, but "parallelised": each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
+We will explore some similiarities and differences below.
 
 #### Amor fati
 
