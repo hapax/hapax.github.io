@@ -183,6 +183,7 @@ Proponents of free will, who interpret "can" in this  -->
 We could find fault with the argument, since being "free to choose" is
 deeply ambiguous, and one can play the usual analytic games of
 language, logic and modal hair-splitting.
+Frankly, I don't have time for these.
 
 #### Brainjamor
 
