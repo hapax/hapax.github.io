@@ -201,10 +201,11 @@ For this to be possible, two things need to hold: first, the
 laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], and the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
-We need both. Indeterminism by itself might still give rise to a
+We need both, since indeterminism by itself might still give rise to a
 fixed (but not physically determined) future, while the existence or
 non-existence of future times is moot if their contents are determined
-by physics regardless.
+in advance by physical law.
+
 So we must believe peculiar (and in my opinion indefensible) things
 about time and physics in order to believe in this version of free will.
 
