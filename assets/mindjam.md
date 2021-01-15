@@ -22,7 +22,7 @@ Put simply, each moment is *always* being experienced, a sort
 of "brainjam" by which our life is pickled into the
 spacetime continuum.
 The sense that time passes and the impression of sequence are (and must
-be) cognitive artefacts rather than some incorrigible metaphysical observations.
+be) cognitive artefacts rather than incorrigible metaphysical data.
 
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
