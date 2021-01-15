@@ -167,15 +167,15 @@ recurrence!
 You will be constituted by this particular set of self-creative acts,
 and no others, forevermore.
 
-But can these decisions be meaningful if they are predetermined?
+But can these decisions be meaningful if they are fated?
 <!-- If they are inevitable, don't they imply a lack of free will?-->
 This is a segue to the problem of free will, the most hopelessly
 confused of the classical philosophical quandaries.
-Here is one possible rendering: if I have a choice between A and B,
-and I can choose either option, then I have free will.
-But if my choice between A and B is fated, then free will appears to
-be impossible; my choice was already made.
-
+Here is one low-brow version: if I have a choice between A and B,
+and I am free to choose either option, then I have free will.
+If my choice between A and B is predetermined, then it seems I am not
+genuinely free.
+If I was always going to choose A, how could I be free to choose B?
 <!-- Much ink has been spilled on the nature of "can", and if we take this
 to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
