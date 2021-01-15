@@ -174,7 +174,7 @@ confused of the classical philosophical quandaries.
 Here is one possible rendering: if I have a choice between A and B,
 and I can choose either option, then I have free will.
 But if my choice between A and B is fated, then free will appears to
-be impossible, since my choice has already made for me.
+be impossible; my choice was already made.
 <!-- Much ink has been spilled on the nature of "can", and if we take this
 to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
