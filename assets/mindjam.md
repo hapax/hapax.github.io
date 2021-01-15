@@ -208,7 +208,7 @@ in advance by physical law.
 indefensible) views of time and physics.-->
 
 Sometimes, people invoke the randomness of quantum
-mechanics to support the possible choice of B.
+mechanics to ground the possibility of choosing B.
 As we've just argued, quantum indeterminacy isn't enough to buy free
 will; you also need the non-existence of the future.
 But it's also clear that, if free will is about meaningful choice,
