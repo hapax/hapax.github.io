@@ -224,7 +224,11 @@ I think the traditional free will debates rests on the same sort of
 category error [affliciting presentism](https://hapax.github.io/philosophy/physics/psychology-time/).
 Roughly speaking, in the case of presentism, cognitive properties are
 mistaken for metaphysical ones.
-Similarly, in the free will debate, 
+Similarly, in the free will debate, a problem of ethics or
+existentialism --- the meaning of human choice --- has been
+transplanted into the metaphysical realm.
+
+To support this, 
 
 #### Brainjamor
 
