@@ -198,7 +198,7 @@ about.
 But the second version imagines that, in some world where everything
 prior to the decision is the same, I choose B instead of A.
 For this to be possible, two things need to hold: first, the
-laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], and the state of the world now does
+laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], so the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
 We need both, since indeterminism by itself might still give rise to a
