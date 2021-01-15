@@ -29,8 +29,6 @@ Here, I want to discuss some of the broader philosophical aspects of
 brainjam, and how it relates to eternal recurrence, fatalism, the
 nature of individual identity and free will.
 
-#### Eternal recurrence
-
 We can compare brainjam to the doctrine of eternal recurrence,
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
@@ -38,6 +36,26 @@ classical antiquity from Egypt to India, Greece to Mesoamerica.
 Cycles have a certain economy of pattern, and even today,
 [cyclic views](https://en.wikipedia.org/wiki/Cycles_of_Time)
 of the universe remain popular.
+In contrast, brainjam does not posit that time is cyclic.
+We get one life, which we are doomed to live, moment by moment, in perpetuity.
+<!-- Although the details differ from eternal recurrence, the implications
+are the same: you will live forever, but this particular life, so make
+it a good one. -->
+<!-- Although *amor fati* is naturally connected to this idea, it does not
+obviously follow. In Nietzsche's case, a love of life in all its
+supra-moral necessity came first, and the pretty thought
+experiment---eternal recurrence---was the brilliant afterthought.
+I'd like to go in the other direction, starting with brainjam and
+seeing what loves, if any, it licenses, the "brainjamor" if you'll
+excuse the highbrow doggerel.
+If we are boringly Humean-->
+This is like eternal recurrence, but "parallelised": each
+conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
+<!-- The emphasis on moments in some sense "parallelises" eternal
+recurrence. -->
+
+#### Amor fati
+
 For all its metaphysical prettiness, the ethical dimensions of
 recurrence are no less important.
 The Stoics taught a "love of fate", or *amor fati*. Take the aphorism
@@ -228,27 +246,12 @@ Similarly, in the free will debate, a problem of ethics or
 existentialism --- the meaning of human choice --- has been
 transplanted into the metaphysical realm.
 
-To support this, 
+To help guide our intuitions, imagine a scenario where someone puts a
+gun to your head and tells you to choose A over B.
+Of course you do, but the choice is not meaningful.
+How is the physical determinism of brainjam, the fatalism of the Stoics
 
 #### Brainjamor
-
-Brainjam does not posit that time is cyclic.
-We get one life, which we are doomed to live, moment by moment, in perpetuity.
-<!-- Although the details differ from eternal recurrence, the implications
-are the same: you will live forever, but this particular life, so make
-it a good one. -->
-<!-- Although *amor fati* is naturally connected to this idea, it does not
-obviously follow. In Nietzsche's case, a love of life in all its
-supra-moral necessity came first, and the pretty thought
-experiment---eternal recurrence---was the brilliant afterthought.
-I'd like to go in the other direction, starting with brainjam and
-seeing what loves, if any, it licenses, the "brainjamor" if you'll
-excuse the highbrow doggerel.
-If we are boringly Humean-->
-This is like eternal recurrence, but "parallelised": each
-conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
-<!-- The emphasis on moments in some sense "parallelises" eternal
-recurrence. -->
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
