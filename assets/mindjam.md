@@ -183,7 +183,8 @@ Proponents of free will, who interpret "can" in this  -->
 We could find fault with the argument, since being "free to choose" is
 deeply ambiguous, leaving plenty of scope for the usual games
 of language, logic and modal hair-splitting.
-Frankly, I don't have time.
+Frankly, I don't have time for this.
+It seems clear that, in some 
 
 #### Brainjamor
 
