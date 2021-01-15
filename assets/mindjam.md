@@ -236,7 +236,7 @@ The idea that rolling quantum dice
 into a non-existent future could be the source of human meaning
 stretches credulity.
 
-Really, for decisions to be meaningful, we don't want them to be
+For decisions to be meaningful, we don't want them to be
 random at all, but to play a particular role with respect to a
 different ensemble of decisions: not $A$ vs $B$, but rather, the
 sequence $A_i$ of decisions that make up my life.
