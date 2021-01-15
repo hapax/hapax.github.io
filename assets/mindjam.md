@@ -201,9 +201,8 @@ laws of physics are indeterminate, so the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
 We need both, since indeterminacy by itself might still give rise to a
-fixed (but not physically determined) future, while the existence or
-non-existence of future times is moot if their contents are determined
-in advance by physical law.
+fixed (but not physically determined) future, and the non-existence of
+future times is moot if their contents are determined in advance by physical law.
 <!-- So this version of free will necessitates peculiar (and in my opinion
 indefensible) views of time and physics.-->
 
