@@ -296,6 +296,8 @@ This is like a "parallelised" version of eternal recurrence: each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
+But like eternal recurrence, brainjam provides a heuristic for
+reflective stabilty.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
