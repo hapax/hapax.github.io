@@ -195,7 +195,7 @@ They may differ on just how much difference is needed, but at the end
 of the day, I don't think this is what people are really arguing
 about when they debate free will.
 
-But the second version imagines that, in some world where everything
+The second version imagines that, in some world where everything
 prior to the decision is the same, I choose B instead of A.
 For this to be possible, two things need to hold: first, the
 laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], so the state of the world now does
