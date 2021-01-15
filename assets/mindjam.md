@@ -200,7 +200,7 @@ For this to be possible, two things need to hold: first, the
 laws of physics are indeterminate, so the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
-We need both, since indeterminism by itself might still give rise to a
+We need both, since indeterminacy by itself might still give rise to a
 fixed (but not physically determined) future, while the existence or
 non-existence of future times is moot if their contents are determined
 in advance by physical law.
@@ -208,11 +208,11 @@ in advance by physical law.
 indefensible) views of time and physics.-->
 
 Sometimes, people invoke the randomness of quantum
-mechanics to support the possibility that I could choose B.
-As we've just argued, this isn't enough to get free will; you also
-need the non-existence of the future.
-But its also clear that, when people talk about the ability to making
-meaningful choices, rolling a quantum dice is not what they in mind.
+mechanics to support the possible choice of B.
+As we've just argued, quantum indeterminacy isn't enough to buy free
+will; you also need the non-existence of the future.
+But it's also clear that, if free will is about meaningful choice,
+rolling a quantum dice does not exactly cut it.
 
 #### Brainjamor
 
