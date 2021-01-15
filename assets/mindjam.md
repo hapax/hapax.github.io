@@ -303,6 +303,9 @@ But brainjam draws attention to another aspect of human life: the
 moment of experience itself. According to brainjam, each point in time
 becomes an eternity, and life an experiential preserve made up of
 these points.
+Instead of mere *amor fati*, a love of the collection if you will, the
+whole slug of life in Minkowski space, brainjam promotes *brainjamor*
+(if you'll excuse the pun), a love of each moment.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
