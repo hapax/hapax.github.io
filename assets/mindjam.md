@@ -25,11 +25,11 @@ The sense that time passes, the impression of sequence, is (and must
 be) a cognitive artefact rather than some incorrigible metaphysical fact.
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
-Here, I want to discuss some of the broader philosophical aspects of
+<!-- Here, I want to discuss some of the broader philosophical aspects of
 brainjam, and how it relates to eternal recurrence, fatalism, the
-nature of individual identity and free will.
+nature of individual identity and free will. -->
 
-We can compare brainjam to the doctrine of eternal recurrence,
+Here, I want to compare brainjam to the doctrine of eternal recurrence:
 the idea that time is cyclic and we are doomed to repeat ourselves.
 Evidently, this is an archetypal thought, popping up everywhere in
 classical antiquity from Egypt to India, Greece to Mesoamerica.
