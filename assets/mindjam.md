@@ -254,9 +254,8 @@ Choosing A is clearly neither free nor meaningful.
 Stoics, or the eternal recurrence of Nietzsche any different from a
 gun? -->
 But suppose that prior to this, you had carefully deliberated and
-chosen A.
-The decision is stil unfree, but it is not obviously unmeaningful.
-One way to characterise this is that the choice of A is *reflectively stable*:
+strongly leaned towards A.
+Now your decision is unfree, but no longer clearly unmeaningful.
 
 #### Brainjamor
 
