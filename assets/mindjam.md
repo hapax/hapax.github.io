@@ -234,14 +234,22 @@ transplanted into the metaphysical realm.
 The idea that rolling quantum dice
 into a non-existent future could be the source of human meaning
 stretches credulity.
+
 Really, for decisions to be meaningful, we don't want them to be
 random at all, but to play a particular role with respect to a
 different ensemble of decisions: not $A$ vs $B$, but rather, the
 sequence $A_i$ of decisions that make up my life.
-
 If that sequence is "reflectively stable", in the sense that I would
 happily make those choices again, why would the freedom to choose
 $B_i$ matter?
+To make things fancy and technical, I'll define a choice $A$ as
+reflectively stable if, at some later point $t$, for $t' > t$ we would
+will ourselves to make the same choice $A$.
+If $A$ is reflectively stable, you may regret it in the short term,
+but not in the long.
+This ties the loop between Epitectus, and the notion of willing
+reality, and Nietzsche's will of life.
+
 Perhaps "happily make them again" is too strong; rather, we want *the role
 they play in the ensemble*, how they contribute to or constitute
 personal identity, to be reflectively stable.
