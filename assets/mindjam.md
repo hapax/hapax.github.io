@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Brainjam and free will"
+title:  "Brainjam and eternal recurrence"
 categories: [Philosophy]
 date:  2021-01-13
 ---
@@ -53,7 +53,9 @@ This is like eternal recurrence, but "parallelised": each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
-We will explore some similiarities and differences below.
+Most of this post will be concerned with eternal recurrence, but in
+the last section, I'll comment on some of the similarities and
+difference with brainjam.
 
 #### Amor fati
 
@@ -282,6 +284,8 @@ strongly leaned towards A.
 Now your decision is unfree, but no longer clearly unmeaningful. -->
 
 #### Brainjamor
+
+Brainjam for the most part leads to the same fatalism
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
