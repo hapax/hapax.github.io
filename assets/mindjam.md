@@ -246,10 +246,14 @@ Similarly, in the free will debate, a problem of ethics or
 existentialism --- the meaning of human choice --- has been
 transplanted into the metaphysical realm.
 
-To help guide our intuitions, imagine a scenario where someone puts a
+To help guide our intuition, imagine someone puts a
 gun to your head and tells you to choose A over B.
-Of course you do, but the choice is not meaningful.
-How is the physical determinism of brainjam, the fatalism of the Stoics
+Choosing A is neither free nor meaningful.
+How is the physical determinism of brainjam, the fatalism of the
+Stoics, or the eternal recurrence of Nietzsche any different from a
+gun?
+The major difference is that a choice made without a gun may be
+*reflectively stable* to the mature individual.
 
 #### Brainjamor
 
