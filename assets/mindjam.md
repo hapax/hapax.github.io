@@ -150,11 +150,10 @@ Both the Stoics and Nietzsche seem to subscribe to some form of
 fatalism, that the course of events is fixed and inevitable.
 To my definition of sickness, a fatalist might object that, life or
 anti-life, you can't argue with reality.
-As is often the case, the relationship between
-Nietzsche's ideas on the topic are fuzzy and contentious.
-But as this line from the *The Gay Science* shows, Nietzsche somehow
-believed both in fate and the individual as constituted by
-self-creative acts:
+As is often the case, Nietzsche's ideas on the topic are fuzzy and
+contended by scholars, but as this line from the *The Gay Science*
+shows, he seemed to believe both in fate and the individual as
+constituted by self-creative acts:
 
 <span style="padding-left: 20px; display:block">
 What does your conscience say? — 'You shall become the person you are'.
