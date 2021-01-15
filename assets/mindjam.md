@@ -255,12 +255,14 @@ different ensemble of decisions: not $A$ vs $B$, but rather, the
 sequence $A_i$ of decisions that make up my life.
 
 If that sequence is "reflectively stable", in the sense that I would
-happily make those choices again, why would the freedom to choose $B_i$ matter?
-Perhaps "happily make them again" is too strong; rather, *the role
-they play in the ensemble*, the way they contribute to or constitute
-our personal identity, is reflectively stable.
+happily make those choices again, why would the freedom to choose
+$B_i$ matter?
+Perhaps "happily make them again" is too strong; rather, we want *the role
+they play in the ensemble*, how they contribute to or constitute
+personal identity, to be reflectively stable.
 This is why suffering, privation, and doubt can be important; they can
-teach us important lessons, or "create character".
+be "character building".
+<!-- teach us important lessons, or "create character". -->
 More generally, the ability to deliberate, to explore, to make
 mistakes, that is, to act with creative self-regard and "procreative
 will", is the source of human meaning, not the counterfactual ability
