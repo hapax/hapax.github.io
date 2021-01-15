@@ -296,8 +296,12 @@ conscious moment is replayed in parallel, rather than in the serial repetitions 
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
 
-Both eternal recurrence and brainjam offer a heuristic for optimising
-reflecting stability.
+Both eternal recurrence and brainjam provide a heuristic for optimising
+reflecting stability, and hence some suitably life-oriented notion of
+*amor fati*, that is, loving who we are or are to become.
+But brainjam draws attention to another aspect of human: the
+moment of experience, since in its parallelisation, each point in time
+becomes an eternity.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
