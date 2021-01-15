@@ -261,7 +261,7 @@ Choosing A is clearly neither free nor meaningful.
 <!-- How is the physical determinism of brainjam, the fatalism of the
 Stoics, or the eternal recurrence of Nietzsche any different from a
 gun? -->
-But suppose that prior to this, you had carefully deliberated and
+<!-- But suppose that prior to this, you had carefully deliberated and
 strongly leaned towards A.
 Now your decision is unfree, but no longer clearly unmeaningful. -->
 
