@@ -251,19 +251,20 @@ but not in the long.
 This ties the loop between Epitectus, and the notion of willing
 reality, and Nietzsche's will of life.
 
-Perhaps "happily make them again" is too strong; rather, we want *the role
-they play in the ensemble*, how they contribute to or constitute
-personal identity, to be reflectively stable.
-This is why suffering, privation, and doubt can be important; they can
-be "character building".
+This notion of long-term stability this helps us reach a more nuanced
+view of how choices contribute to who they, since it is not the
+short-term regret that matters, but rather, *the role
+they play in the ensemble*.
+<!-- , how they contribute to or constitute
+personal identity, to be reflectively stable. -->
+Suffering, privation, and doubt can be important can be "character
+building"; as James Joyce said, mistakes can be "portals of discovery".
 <!-- teach us important lessons, or "create character". -->
-More generally, the ability to deliberate, to explore, to make
-mistakes, that is, to act with creative self-regard and "procreative
-will", is the source of human meaning, not the counterfactual ability
-to choose $B$.
+To act with creative self-regard and "procreative
+will" is to make errors, deliberate, and explore.
+This is the source of human meaning, not the counterfactual ability to choose $B$.
 <!-- This has nothing to do with free will unless you
 are the morbidly intellectual type and think about it too hard. -->
-And the point of eternal recurrence is to optimise reflective stability.
 
 <!-- To help guide our intuition, imagine someone puts a
 gun to your head and tells you to choose A over B.
@@ -277,7 +278,8 @@ Now your decision is unfree, but no longer clearly unmeaningful. -->
 
 #### Brainjamor
 
-Brainjam does not posit that time is cyclic.
+The point of eternal recurrence is to optimise reflective stability.
+In contrast, brainjam does not posit that time is cyclic.
 Instead, we get one life, which we are doomed to live, moment by moment, in perpetuity.
 <!-- Although the details differ from eternal recurrence, the implications
 are the same: you will live forever, but this particular life, so make
