@@ -213,12 +213,17 @@ will; you also need the non-existence of the future.
 But it's also clear that, if free will is about meaningful choice,
 rolling a quantum dice doesn't cut it, any more than rolling a
 classical dice to [make your decisions for you](https://en.wikipedia.org/wiki/The_Dice_Man).
-Come to think of it, why should the freedom to choose B be tied to the
-meaningfulness of choosing A?
 Rather than saving free will from determinism, the quantum dice
 provides a reductio ad absurdum.
 
 #### Meaning and choice
+
+Come to think of it, why should the freedom to choose B be tied to the
+meaningfulness of choosing A?
+I think the traditional terms of the free will debate rest on a
+confusion of properties similar to the
+[presentist fallacy](https://hapax.github.io/philosophy/physics/psychology-time/)
+I discussed earlier.
 
 #### Brainjamor
 
