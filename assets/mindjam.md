@@ -9,8 +9,10 @@ date:  2021-01-15
 
 **January 15, 2021.** *In a
   [previous post](https://hapax.github.io/philosophy/physics/psychology-time/),
-  I advanced a four-dimensionalist version of eternal recurrence. I
-  consider some of the moral consequences.*
+  I advanced a four-dimensionalist version of eternal recurrence
+  (called "brainjam"). In
+  this post, I discuss the moral dimensions of eternal recurrence, its
+  relation to fatalism and free will, and end by comparing to brainjam.*
 
 #### Introduction
 
