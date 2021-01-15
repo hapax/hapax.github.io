@@ -144,7 +144,7 @@ But appraising them in the scheme of a healthy life, on which one
 trains the "unexhausted procreative will", is more complex and
 potentially individual than an undifferentiated Yes.
 
-#### Fatalism and free will
+#### Fatalism and individuality
 
 Both the Stoics and Nietzsche seem to subscribe to some form of
 fatalism, that the course of events is fixed and inevitable.
@@ -167,7 +167,19 @@ recurrence!
 You will be constituted by this particular set of self-creative acts,
 and no others, forevermore.
 
-An apparently connected problem is free will.
+But does it make sense to treat these decisions as meaningful if they
+are fated?
+If they are inevitable, don't they imply a lack of free will?
+Free will is perhaps the most hopelessly confused and obscure of the
+classical philosophical problems.
+Here is one possible rendering: if I have a choice between A and B,
+and I can choose either option, then I have free will.
+Much ink has been spilled on the nature of "can", and if we take this
+to mean, "compatibly with the physical state of the universe at the
+time of choice", then the deterministic nature of classical physics
+seems to rule out free will.
+
+
 
 #### Brainjamor
 
