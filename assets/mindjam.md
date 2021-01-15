@@ -322,7 +322,9 @@ Brainjamor suggests we should avoid these unless they are likely to
 become reflectively stable later.
 In principle, this is hard to assess, but in practice it's clear that
 there are no long-term benefits to reading the sixth article about the
-collapse of democracy, and immediate benefits to going outside.
+collapse of democracy, and immediate benefits to going outside. And
+who knows, being the sort of person who appreciates a sunset and
+doesn't doomscroll probably has long term benefits as well.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
