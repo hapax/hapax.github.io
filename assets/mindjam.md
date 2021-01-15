@@ -299,8 +299,8 @@ recurrence. -->
 Both eternal recurrence and brainjam provide a heuristic for optimising
 reflecting stability, and hence some suitably life-oriented notion of
 *amor fati*, that is, loving who we are or are to become.
-But brainjam draws attention to another aspect of human: the
-moment of experience, since in its parallelisation, each point in time
+But brainjam draws attention to another aspect of human life: the
+moment of experience itself. According to brainjam, each point in time
 becomes an eternity, and life an experiential preserve made up of
 these points.
 
