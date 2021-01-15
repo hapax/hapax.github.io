@@ -188,12 +188,12 @@ If I have free will, then after choosing A, it is the case that I
 "could have" chosen B.
 This could mean two things: if things were different, I could chosen
 B; and if they were the same, I could chosen B.
+
 I think most people will agree that if things were different, our
 choices could change; they depend on circumstance.
 They may differ on just how much difference is needed, but at the end
 of the day, I don't think this is what people are really arguing
 about when they debate free will.
-
 The second version imagines that, in some world where everything
 prior to the decision is the same, I choose B instead of A.
 For this to be possible, two things need to hold: first, the
