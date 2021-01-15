@@ -215,6 +215,9 @@ rolling a quantum dice doesn't cut it, any more than rolling a
 classical dice to [make your decisions for you](https://en.wikipedia.org/wiki/The_Dice_Man).
 Come to think of it, why should the freedom to choose B be tied to the
 meaningfulness of choosing A?
+The quantum dice provides a reductio ad absurdum of this connection.
+
+#### Meaning and choice
 
 #### Brainjamor
 
