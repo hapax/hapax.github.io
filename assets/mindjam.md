@@ -188,9 +188,9 @@ But can these decisions be meaningful if they are fated?
 <!-- If they are inevitable, don't they imply a lack of free will?-->
 This leads us naturally the problem of free will, the most hopelessly
 confused of philosophical quandaries.
-Here is one low-brow version: if I have a choice between A and B,
+Here is one low-brow version: if I have a choice between $A$ and $B$,
 and I am free to choose either option, then I have free will.
-If my choice between A and B is predetermined, then it seems I am not
+If my choice between $A$ and $B$ is predetermined, then it seems I am not
 genuinely free. <!-- if A is a foregone conclusion, how can I be free to choose B?
 <!-- Much ink has been spilled on the nature of "can", and if we take this
 to mean, "compatibly with the physical state of the universe at the
@@ -203,10 +203,10 @@ of language, logic and modal hair-splitting. -->
 and it's worth a small digression to understand it better.-->
 Before we go on, its worth a small digression to understand what being
 "free to choose" really means.
-If I have free will, then after choosing A, it is the case that I
-"could have" chosen B.
+If I have free will, then after choosing $A$, it is the case that I
+"could have" chosen $B$.
 This could mean two things: if things were different, I could chosen
-B; and if they were the same, I could chosen B.
+B; and if they were the same, I could chosen $B$.
 
 I think most people will agree that if things were different, our
 choices could change; they depend on circumstance.
@@ -226,7 +226,7 @@ future times is moot if their contents are determined in advance by physical law
 indefensible) views of time and physics.-->
 
 Sometimes, people invoke the randomness of quantum
-mechanics to ground the possibility of choosing B.
+mechanics to ground the possibility of choosing $B$.
 As we've just argued, quantum indeterminacy isn't enough to buy free
 will; you also need the non-existence of the future.
 But it's also clear that, if free will is about meaningful choice,
@@ -237,8 +237,8 @@ provides a reductio ad absurdum.
 
 #### Meaning and choice
 
-Why should the freedom to choose B be tied to the
-meaningfulness of choosing A?
+Why should the freedom to choose $B$ be tied to the
+meaningfulness of choosing $A$?
 I think the traditional free will debates rests on the same sort of
 category error [affliciting presentism](https://hapax.github.io/philosophy/physics/psychology-time/).
 Roughly speaking, in the case of presentism, cognitive properties are
@@ -250,6 +250,10 @@ The idea that rolling quantum dice
 into a non-existent future could be the source of human meaning
 stretches credulity.
 
+Really, for decisions to be meaningful, we don't want them to be
+random at all, but to play a particular role with respect to a
+different ensemble of decisions: not $A$ vs $B$, but rather, the
+sequence $A_i$ of decisions that make up my life.
 The ability to deliberate, to explore, to make mistakes, in other
 words, to act with the self-creative regard of a living and
 intelligent being. This has nothing to do with free will unless you
