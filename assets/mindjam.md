@@ -180,9 +180,10 @@ seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
 <!-- Being "free to choose" is deeply ambiguous, leaving plenty of scope for the usual games
 of language, logic and modal hair-splitting. -->
-It turns out that being "free to choose" is a deeply ambiguous notion,
-and it's worth a small digression to understand it better.
-
+<!-- It turns out that being "free to choose" is a deeply ambiguous notion,
+and it's worth a small digression to understand it better.-->
+Before we go on, its worth a small digression to understand what being
+"free to choose" really means.
 If I have free will, then after choosing A, it is the case that I
 "could have" chosen B.
 This could mean two things: if things were different, I could chosen
