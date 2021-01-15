@@ -21,11 +21,11 @@ belief that all times exist) with our peculiar experience of time.
 Put simply, each moment is *always* being experienced, a sort
 of "brainjam" by which our life is pickled into the
 spacetime continuum.
-The sense that time passes, the impression of sequence, is (and must
-be) a cognitive artefact rather than some incorrigible metaphysical fact.
+The sense that time passes and the impression of sequence are (and must
+be) cognitive artefacts rather than some incorrigible metaphysical observations.
+
 For arguments in favour of this view, and other elaborations, I refer
 to that post.
-
 <!-- Here, I want to discuss some of the broader philosophical aspects of
 brainjam, and how it relates to eternal recurrence, fatalism, the
 nature of individual identity and free will. -->
