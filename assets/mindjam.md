@@ -167,9 +167,9 @@ recurrence!
 You will be constituted by this particular set of self-creative acts,
 and no others, forevermore.
 
-But are these decisions meaningful if they are pre-determined?
+But can these decisions be meaningful if they are predetermined?
 <!-- If they are inevitable, don't they imply a lack of free will?-->
-This takes us to the problem of free will, perhaps the most hopelessly
+This is a segue to the problem of free will, the most hopelessly
 confused of the classical philosophical quandaries.
 Here is one possible rendering: if I have a choice between A and B,
 and I can choose either option, then I have free will.
