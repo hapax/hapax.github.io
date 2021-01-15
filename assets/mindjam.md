@@ -181,8 +181,8 @@ time of choice", then the deterministic nature of classical physics
 seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
 We could find fault with the argument, since being "free to choose" is
-deeply ambiguous, and there are all sorts of technical games one can
-play here.
+deeply ambiguous, and one can play the usual analytic games of
+language, logic and modal hair-splitting.
 
 #### Brainjamor
 
