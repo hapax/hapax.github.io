@@ -220,10 +220,8 @@ provides a reductio ad absurdum.
 
 Come to think of it, why should the freedom to choose B be tied to the
 meaningfulness of choosing A?
-I think the traditional terms of the free will debate rest on a
-confusion of properties similar to the
-[presentist fallacy](https://hapax.github.io/philosophy/physics/psychology-time/)
-I discussed earlier.
+I think the traditional free will debates rests on the same sort of
+category error [affliciting presentism](https://hapax.github.io/philosophy/physics/psychology-time/).
 Roughly speaking, in the case of presentism, cognitive properties are
 mistaken for metaphysical ones.
 Similarly, in the free will debate, 
