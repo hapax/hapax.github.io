@@ -248,8 +248,7 @@ reflectively stable if, at some later point $t$, for $t' > t$ we would
 will ourselves to make the same choice $A$.
 If $A$ is reflectively stable, you may regret it in the short term,
 but not in the long.
-This ties the loop between Epitectuss notion of willing
-reality and Nietzsche's will of life.
+This ties the loop between Epitectus' willing of reality and Nietzsche's willing of life.
 
 This notion of long-term stability helps us reach a more nuanced
 view of how choices contribute to who they, since it is not the
