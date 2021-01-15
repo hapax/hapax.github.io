@@ -268,7 +268,7 @@ Now your decision is unfree, but no longer clearly unmeaningful. -->
 
 #### Brainjamor
 
-Brainjam is similar to eternal recurrence, but does not posit that time is cyclic.
+Brainjam does not posit that time is cyclic.
 Instead, we get one life, which we are doomed to live, moment by moment, in perpetuity.
 <!-- Although the details differ from eternal recurrence, the implications
 are the same: you will live forever, but this particular life, so make
@@ -281,7 +281,7 @@ I'd like to go in the other direction, starting with brainjam and
 seeing what loves, if any, it licenses, the "brainjamor" if you'll
 excuse the highbrow doggerel.
 If we are boringly Humean-->
-This is like eternal recurrence, but "parallelised": each
+This is like a "parallelised" version of eternal recurrence: each
 conscious moment is replayed in parallel, rather than in the serial repetitions of cyclic time.
 <!-- The emphasis on moments in some sense "parallelises" eternal
 recurrence. -->
