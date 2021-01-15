@@ -320,6 +320,9 @@ The same goes is true for moments of unnecessary ugliness and boredom,
 for morbidly reading articles about Trump or trawling Facebook.
 Brainjamor suggests we should avoid these unless they are likely to
 become reflectively stable later.
+In principle, this is hard to assess, but in practice it's clear that
+there are no long-term benefits to reading the sixth article about the
+collapse of democracy, and immediate benefits to going outside.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
