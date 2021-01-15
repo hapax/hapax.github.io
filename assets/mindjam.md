@@ -167,11 +167,10 @@ recurrence!
 You will be constituted by this particular set of self-creative acts,
 and no others, forevermore.
 
-But does it make sense to treat these decisions as meaningful if they
-are fated?
-If they are inevitable, don't they imply a lack of free will?
-Free will is perhaps the most hopelessly confused and obscure of the
-classical philosophical problems.
+But are these decisions meaningful if they are pre-ordained?
+<!-- If they are inevitable, don't they imply a lack of free will?-->
+This takes us to the problem of free will, perhaps the most hopelessly
+confused of the classical philosophical quandaries.
 Here is one possible rendering: if I have a choice between A and B,
 and I can choose either option, then I have free will.
 But if my choice between A and B is fated, then I can't choose freely,
