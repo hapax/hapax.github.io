@@ -249,12 +249,13 @@ transplanted into the metaphysical realm.
 
 To help guide our intuition, imagine someone puts a
 gun to your head and tells you to choose A over B.
-Choosing A is neither free nor meaningful.
-How is the physical determinism of brainjam, the fatalism of the
+Choosing A is clearly neither free nor meaningful.
+<!-- How is the physical determinism of brainjam, the fatalism of the
 Stoics, or the eternal recurrence of Nietzsche any different from a
-gun?
-The major difference is that a choice made without a gun may be
-*reflectively stable* to the mature individual.
+gun? -->
+But suppose that prior to this, you had carefully deliberated and
+chosen A.
+The decision is stil unfree, but it is not obviously unmeaningful.
 
 #### Brainjamor
 
