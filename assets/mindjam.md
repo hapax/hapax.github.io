@@ -244,8 +244,8 @@ If that sequence is "reflectively stable", in the sense that I would
 happily make those choices again, why would the freedom to choose
 $B_i$ matter?
 To scratch that analytic itch, I'll define a choice $A$ as
-reflectively stable if, at some later point $t$, for $t' > t$ we would
-will ourselves to make the same choice $A$.
+reflectively stable if, at some later point $t$, for all (or perhaps
+most) $t' > t$ we would will ourselves to make the same choice.
 If $A$ is reflectively stable, you may regret it in the short term,
 but not in the long.
 This ties the loop between Epitectus' willing of reality and Nietzsche's willing of life.
