@@ -256,6 +256,7 @@ gun? -->
 But suppose that prior to this, you had carefully deliberated and
 chosen A.
 The decision is stil unfree, but it is not obviously unmeaningful.
+One way to characterise this is that the choice of A is *reflectively stable*:
 
 #### Brainjamor
 
