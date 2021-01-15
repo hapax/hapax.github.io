@@ -254,6 +254,10 @@ Really, for decisions to be meaningful, we don't want them to be
 random at all, but to play a particular role with respect to a
 different ensemble of decisions: not $A$ vs $B$, but rather, the
 sequence $A_i$ of decisions that make up my life.
+If that sequence is "reflectively stable", in the sense that I would
+happily make those choices again if I had the chance, why would the
+freedom to choose $B_i$ matter?
+This is to confuse freedom 
 The ability to deliberate, to explore, to make mistakes, in other
 words, to act with the self-creative regard of a living and
 intelligent being. This has nothing to do with free will unless you
