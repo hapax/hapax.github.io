@@ -174,15 +174,15 @@ confused of philosophical quandaries.
 Here is one low-brow version: if I have a choice between A and B,
 and I am free to choose either option, then I have free will.
 If my choice between A and B is predetermined, then it seems I am not
-genuinely free.
-If I was always going to choose A, how could I be free to choose B?
+genuinely free; if A is a foregone conclusion, how can I be free to choose B?
 <!-- Much ink has been spilled on the nature of "can", and if we take this
 to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
 seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
 We could find fault with the argument, since being "free to choose" is
-deeply ambiguous.
+deeply ambiguous, and there are all sorts of technical games one can
+play here.
 
 #### Brainjamor
 
