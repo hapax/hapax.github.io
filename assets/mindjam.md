@@ -193,7 +193,7 @@ I think most people will agree that if things were different, our
 choices could change; they depend on circumstance.
 They may differ on just how much difference is needed, but at the end
 of the day, I don't think this is what people are really arguing
-about.
+about when they debate free will.
 
 But the second version imagines that, in some world where everything
 prior to the decision is the same, I choose B instead of A.
