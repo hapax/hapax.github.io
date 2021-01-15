@@ -224,6 +224,9 @@ I think the traditional terms of the free will debate rest on a
 confusion of properties similar to the
 [presentist fallacy](https://hapax.github.io/philosophy/physics/psychology-time/)
 I discussed earlier.
+Roughly speaking, in the case of presentism, cognitive properties are
+mistaken for metaphysical ones.
+Similarly, in the free will debate, 
 
 #### Brainjamor
 
