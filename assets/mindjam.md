@@ -306,10 +306,17 @@ these points.
 Instead of mere *amor fati*, a love of the collection if you will, the
 whole slug of life in Minkowski space, brainjam promotes "brainjamor"
 (if you'll excuse the pun), a love of each moment.
+
 With eternal recurrence, you might view mindlessly
 trawling Facebook as a mere bump in the road on the way to a full and
 healthy personhood.
-But brainjamor tells us that
+But brainjamor instructs us to ask the question: do we want to pickle
+these moments into our jam, forever?
+Perhaps you should go outside and watch the sunset instead.
+As Keats said, "A thing of beauty is a joy forever."
+The same goes for moments of unnecessary ugliness and boredom, for
+morbidly reading articles about Trump.
+Brainjamor suggests we should avoid these.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
