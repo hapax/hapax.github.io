@@ -218,7 +218,7 @@ provides a reductio ad absurdum.
 
 #### Meaning and choice
 
-Come to think of it, why should the freedom to choose B be tied to the
+Why should the freedom to choose B be tied to the
 meaningfulness of choosing A?
 I think the traditional free will debates rests on the same sort of
 category error [affliciting presentism](https://hapax.github.io/philosophy/physics/psychology-time/).
