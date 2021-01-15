@@ -180,15 +180,30 @@ to mean, "compatibly with the physical state of the universe at the
 time of choice", then the deterministic nature of classical physics
 seems to rule out free will.
 Proponents of free will, who interpret "can" in this  -->
-We could find fault with the argument, since being "free to choose" is
-deeply ambiguous, leaving plenty of scope for the usual games
-of language, logic and modal hair-splitting.
+Being "free to choose" is deeply ambiguous, leaving plenty of scope for the usual games
+of language, logic and modal hair-splitting. -->
+It turns out that being "free to choose" is a deeply ambiguous notion,
+and it's worth a small digression to understand it better.
 
-Frankly, I don't have time for the technicalities.
-I simply don't think we have the freedom to choose in the sense most
-people mean.
-Partly, that is because the only way to get that freedom is to adopt
-peculiar and indefensible views of time and physics.
+If I have free will, then after choosing A, it is the case that I
+"could have" chosen B.
+This could mean two things: if things were different, I could chosen
+B; and if they were the same, I could chosen B.
+I think most people will agree that if things were different, our
+choices could change; they depend on circumstance.
+They may differ on just how much difference is needed, but at the end
+of the day, I don't think this is what people are really arguing
+about.
+But the second version imagines that, in some world where everything
+prior to the decision is the same, I choose B.
+For this to be possible, I need two things to hold: first, the
+laws of physics are indeterminate, and the state of the world now does
+not determine the state of the world in the future; and second, the
+future does not already exist.
+We need both. Indeterminism by itself might still give rise to a
+fixed (but not physically determined) future, while the existence or
+non-existence of future times is moot if their contents are determined
+by physics regardless.
 
 #### Brainjamor
 
