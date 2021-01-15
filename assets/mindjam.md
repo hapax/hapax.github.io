@@ -263,9 +263,13 @@ This is why suffering, privation, and doubt can be important; they can
 teach us important lessons, or "create character".
 More generally, the ability to deliberate, to explore, to make
 mistakes, that is, to act with creative self-regard and "procreative
-will", is the source of human meaning, not the counterfactual ability to choose $B$.
+will", is the source of human meaning, not the counterfactual ability
+to choose $B$.
 <!-- This has nothing to do with free will unless you
 are the morbidly intellectual type and think about it too hard. -->
+
+We can now see a little more precisely what eternal recurrence is
+doing: it is a heuristic for optimising reflective stability.
 
 <!-- To help guide our intuition, imagine someone puts a
 gun to your head and tells you to choose A over B.
