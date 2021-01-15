@@ -198,15 +198,22 @@ about when they debate free will.
 The second version imagines that, in some world where everything
 prior to the decision is the same, I choose B instead of A.
 For this to be possible, two things need to hold: first, the
-laws of physics are indeterminate [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>], so the state of the world now does
+laws of physics are indeterminate, so the state of the world now does
 not determine the state of the world in the future; and second, the
 future does not already exist.
 We need both, since indeterminism by itself might still give rise to a
 fixed (but not physically determined) future, while the existence or
 non-existence of future times is moot if their contents are determined
 in advance by physical law.
-So this version of free will necessitates peculiar (and in my opinion
-indefensible) views of time and physics.
+<!-- So this version of free will necessitates peculiar (and in my opinion
+indefensible) views of time and physics.-->
+
+Sometimes, people invoke the randomness of quantum
+mechanics to support the possibility that I could choose B.
+As we've just argued, this isn't enough to get free will; you also
+need the non-existence of the future.
+But its also clear that, when people talk about the ability to making
+meaningful choices, rolling a quantum dice is not what they in mind.
 
 #### Brainjamor
 
@@ -235,13 +242,4 @@ unlike the creative "self-overcoming" or "will of life", it is more often in
 naturalistic terms, and I'm not sure to what extent he makes a virtue  of it.
 Whatever the case, here I just want to focus on how it relates to
 <i>amor fati</i>.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
-href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
-Sometimes, people argue that the randomness of quantum
-mechanics may help. But, first of all, this argument shows it is not
-sufficient; we also need to make fundamental assumptions about the
-metaphysics of time. Second, decisions made by rolling quantum die are
-not reall
 </p></div>
