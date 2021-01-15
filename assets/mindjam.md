@@ -212,7 +212,9 @@ mechanics to ground the possibility of choosing B.
 As we've just argued, quantum indeterminacy isn't enough to buy free
 will; you also need the non-existence of the future.
 But it's also clear that, if free will is about meaningful choice,
-rolling a quantum dice does not exactly cut it.
+rolling a quantum dice doesn't cut it!
+Come to think of it, why should the freedom to choose B be tied to the
+meaningfulness of choosing A?
 
 #### Brainjamor
 
