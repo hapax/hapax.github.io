@@ -99,8 +99,7 @@ Most importantly, the hotter an object is, the smaller the wavelength
 of the typical photons it produces.
 This explains why a very hot coal is orange or yellow, and becomes red
 (a longer wavelength of light) as it cools.
-The relationship is governed by something called *Wien's law*, which
-states that
+The relationship is governed by something called *Wien's law*:
 
 $$
 \lambda \sim \frac{hc}{kT},
@@ -109,6 +108,9 @@ $$
 where $h = 6.62 \times 10^{-34}$ is Planck's constant,
 and $k = 1.38 \times 10^{-23}$ is Boltzmann's constant (both in SI
 units).
+The key point is that wavelengths get shorter as temperature rises,
+and the rest of the constants are added to ensure things make
+dimensional sense.
 Setting $\lambda = R$ and making $T$ the subject, we obtain the
 *Hawking temperature*
 
@@ -127,3 +129,18 @@ $$
 Not only does the black hole radiate like a hot lump of coal, it does
 so for the same reason: it has a temperature!
 The relationship between the enery of the photon -->
+
+Once again, we can check what would happen if the sun were a black
+hole.
+Using our previous result for the Schwarzschild radius, the Hawking
+temperature would be
+
+$$
+T \sim \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3000)} \text{ K} = 5 \, \mu\text{K}.
+$$
+
+This is millions of times colder than empty space, so there's no way
+the sun could actually collapse to form a black hole!
+
+#### Hard drive size
