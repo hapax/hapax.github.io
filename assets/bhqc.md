@@ -149,6 +149,7 @@ $$
 R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
 10^{-23})(3)} \text{ m} = 5 \text{ mm},
 $$
+
 <!-- If the sun did collapse to form a black hole, it would get heated up
 by the surrounding vacuum.
 Since mass gets smaller with temperature, this means it would shrink
