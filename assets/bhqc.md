@@ -80,3 +80,12 @@ $$
 R = \frac{2GM_\odot}{c^2} = \frac{2(6.67\times 10^{-11})(2 \times
 10^{30})}{(3\times 10^8)^2} \text{ m} \approx 3 \text{ km}.
 $$
+
+It would fit on the University Endowment Lands of UBC.
+
+#### Let there be light
+
+Although a black hole traps any light that falls inside, Stephen
+Hawking made the remarkable discovery that black holes emit faint
+radiation, just like a hot lump of coal.
+We can 
