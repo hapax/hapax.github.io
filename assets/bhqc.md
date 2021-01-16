@@ -203,6 +203,6 @@ called the *Planck area*.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
 To find $N$, the number of black hole molecules, we simply divide the
-surface area into little Planck cells.
+surface area into little Planck cells, like pixels on a screen.
 
 ##### Input and output
