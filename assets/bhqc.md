@@ -140,7 +140,19 @@ T \sim \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
 10^{-23})(3000)} \text{ K} = 5 \, \mu\text{K}.
 $$
 
-This is millions of times colder than empty space, so there's no way
-the sun could actually collapse to form a black hole!
+This is millions of times colder than empty space, which has a
+temperature of about $3 \text{ K}$.
+The black holes in equilibrium with the vacuum have radius around
+
+$$
+R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3)} \text{ m} = 5 \text{ mm},
+$$
+<!-- If the sun did collapse to form a black hole, it would get heated up
+by the surrounding vacuum.
+Since mass gets smaller with temperature, this means it would shrink
+dramatically! -->
+
+about the length of an ant.
 
 #### Hard drive size
