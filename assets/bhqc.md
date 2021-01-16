@@ -158,3 +158,25 @@ dramatically! -->
 about the length of an ant.
 
 #### Hard drive size
+
+We've measured the energy in a black hole using Einstein's mass-energy
+formula, and Newton's formula for gravitation.
+Let's measure the energy a different way, in terms of *heat*.
+People often say that the temperature of the substance measures the
+amount of "molecular motion", or kinetic energy per molecule.
+This sounds fuzzy, but can be written as a perfectly rigorous
+equation called the *equipartition theorem*:
+
+$$
+E \sim N \text{k}T,
+$$
+
+where $E$ is the total kinetic energy of molecules, or *heat*, and $N$
+is the total number of particles.
+We can use this to estimate the total number of "molecules" in a black
+hole. Using the mass-energy form for simplicity, we have
+
+$$
+E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
+\sim \frac{RMc}{h} \sim \frac{R^2c^3}{Gh}.
+$$
