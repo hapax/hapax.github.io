@@ -10,7 +10,7 @@ date:  2021-01-15
 **January 16, 2021.** *A tutorial on black holes as
   quantum computers.*
 
-#### Introduction
+##### Introduction
 
 A black hole is a very special type of quantum computer. In this
 tutorial, we'll explore a few properties of these computers using the
@@ -19,12 +19,15 @@ tools of
 prerequisites are very mild: a background in pre-calculus mathematics
 and a nodding familiarity with high school physics.
 
-#### System size
+##### Basic features
 
 A black hole is an object which has collapsed under its own gravity to
 form a light-trapping region.
-We can estimate how big this region is using a few equations and some
-inspired guesswork.
+We can estimate various properties of this region using a few
+equations and some inspired guesswork.
+
+#### System size
+
 Suppose the black hole has mass $M$.
 A running theme will be different ways of estimating the energy stored
 in the black hole, and to start with, we invoke the most famous
@@ -157,7 +160,7 @@ dramatically! -->
 
 about the length of an ant.
 
-#### Hard drive size
+#### Black hole molecules
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
@@ -180,3 +183,7 @@ $$
 E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
 \sim \frac{RMc}{h} \sim \frac{R^2c^3}{Gh}.
 $$
+
+This is a strange and remarkable result.
+The first thing to notice is that the number of particles is
+proportional to $R^2$, and hence the *surface area* of the black hole.
