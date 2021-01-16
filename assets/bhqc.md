@@ -83,9 +83,13 @@ $$
 
 It would fit on the University Endowment Lands of UBC.
 
-#### Let there be light
+#### Let there be heat
 
 Although a black hole traps any light that falls inside, Stephen
 Hawking made the remarkable discovery that black holes emit faint
 radiation, just like a hot lump of coal.
-We can 
+Once again, we will rather slapdash, and try and work out only the
+wavelength of a typical photon coming out of the black hole.
+It seems reasonable to assume that, like the fundamental frequency of
+a violin or a flute, the black hole likes to make photons with
+wavelengths proportional to the Schwarzschild radius $R$.
