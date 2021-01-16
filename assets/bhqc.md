@@ -188,3 +188,21 @@ This is a strange and remarkable result.
 The first thing to notice is that the number of particles is
 proportional to $R^2$, and hence the *surface area* $4\pi R^2$ of the
 black hole.
+Usually, the number of particles is proportional to the *volume* of a
+material, not the surface area, so something weird appears to be
+happening.
+
+The second interesting thing is that we are dividing the surface area
+by a particular combination of constants,
+
+$$
+A_P = \frac{Gh}{c^3},
+$$
+
+called the *Planck area*.
+For various reasons, it can be regarded as the smallest area that
+makes sense.
+To find $N$, the number of black hole molecules, we simply divide the
+surface area into little Planck cells.
+
+##### Input and output
