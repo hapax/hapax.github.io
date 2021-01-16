@@ -20,3 +20,6 @@ pre-calculus mathematics and a nodding familiarity with high school
 physics.
 
 #### System size
+
+A black hole is an object with mass $M$ which has collapsed under its
+own gravity.
