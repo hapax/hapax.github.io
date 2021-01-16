@@ -93,3 +93,37 @@ wavelength of a typical photon coming out of the black hole.
 It seems reasonable to assume that, like the fundamental frequency of
 a violin or a flute, the black hole likes to make photons with
 wavelengths proportional to the Schwarzschild radius $R$.
+
+This has various implications.
+Most importantly, the hotter an object is, the smaller the wavelength
+of the typical photons it produces.
+This explains why a very hot coal is orange or yellow, and becomes red
+(a longer wavelength of light) as it cools.
+The relationship is governed by something called *Wien's law*, which
+states that
+
+$$
+\lambda \sim \frac{hc}{kT},
+$$
+
+where $h = 6.62 \times 10^{-34}$ is Planck's constant,
+and $k = 1.38 \times 10^{-23}$ is Boltzmann's constant (both in SI
+units).
+Setting $\lambda = R$ and making $T$ the subject, we obtain the
+*Hawking temperature*
+
+$$
+T \sim \frac{hc}{kR} \sim \frac{hc^3}{GMk}.
+$$
+
+<!-- Max Planck, one of the founding fathers of quantum mechanics, came up
+with a general formula for the amount of energy in a photon of
+wavelength $\lambda$, $\varepsilon = hc/\lambda$, where $h = 6.62
+\times 10^{-34}$ (in SI units).
+Then the typical Hawking photon coming out of a black hole has energy
+$$
+\varepsilon \sim \frac{hc}{R} \sim \frac{hc^3}{GM}.
+$$
+Not only does the black hole radiate like a hot lump of coal, it does
+so for the same reason: it has a temperature!
+The relationship between the enery of the photon -->
