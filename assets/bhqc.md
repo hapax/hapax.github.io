@@ -112,7 +112,7 @@ The key point is that wavelengths get shorter as temperature rises,
 and the rest of the constants are added to ensure things make
 dimensional sense.
 Setting $\lambda = R$ and making $T$ the subject, we obtain the
-*Hawking temperature*
+*Hawking temperature* of a black hole:
 
 $$
 T \sim \frac{hc}{kR} \sim \frac{hc^3}{GMk}.
