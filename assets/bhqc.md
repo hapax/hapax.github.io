@@ -72,7 +72,7 @@ $$
 
 This is exactly what we find in general relativity up to a factor of
 two, $R = 2GM/c^2$.
-Just to give a sense of how small this, the sun weights $M_\odot = 2
+Just to give a sense of how small this is, the sun weights $M_\odot = 2
 \times 10^{30} \text{ kg}$, so if it collapsed into a black hole, it
 would have a Schwarzschild radius of
 
