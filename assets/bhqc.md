@@ -191,7 +191,6 @@ black hole.
 Usually, the number of particles is proportional to the *volume* of a
 material, not the surface area, so something weird appears to be
 happening.
-
 The second interesting thing is that we are dividing the surface area
 by a particular combination of constants,
 
