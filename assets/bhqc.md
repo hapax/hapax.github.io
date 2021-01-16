@@ -141,7 +141,7 @@ temperature would be
 
 $$
 T \sim \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
-10^{-23})(3000)} \text{ K} = 5 \times 10^{06} \text{ K}.
+10^{-23})(3000)} \text{ K} = 5 \times 10^{-6} \text{ K}.
 $$
 
 This is millions of times colder than empty space, which has a
