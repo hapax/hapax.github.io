@@ -186,4 +186,5 @@ $$
 
 This is a strange and remarkable result.
 The first thing to notice is that the number of particles is
-proportional to $R^2$, and hence the *surface area* of the black hole.
+proportional to $R^2$, and hence the *surface area* $4\pi R^2$ of the
+black hole.
