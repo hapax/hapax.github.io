@@ -14,10 +14,10 @@ date:  2021-01-15
 
 A black hole is a very special type of quantum computer. In this
 tutorial, we'll explore a few properties of these computers using the
-[physics hacking](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-1)
-approach. The prerequisites are very mild: a background in
-pre-calculus mathematics and a nodding familiarity with high school
-physics.
+tools of
+[physics hacking](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/#sec-1). The
+prerequisites are very mild: a background in pre-calculus mathematics
+and a nodding familiarity with high school physics.
 
 #### System size
 
