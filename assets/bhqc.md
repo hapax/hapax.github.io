@@ -201,8 +201,6 @@ $$
 called the *Planck area*.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
-To find $N$, the number of black hole molecules, we simply divide the
-surface area into little Planck cells, like pixels on a screen.
 
 ##### Input and output
 
@@ -210,9 +208,8 @@ We can recast what we have learned about black holes in terms of
 computers.
 Things fall into the black hole, a bit like entering data onto a
 computer.
-The total system size is $N$, which as we have just seen, comes from
-viewing the surface area of the black hole as split into pixels of
-area $A_P$.
+The total system size is $N$, which comes from splitting the surface
+area of the black hole into pixels of area $A_P$.
 Finally, the black hole will output information in the form of photons.
 <!-- with the typical length given by the current size of the black hole.-->
 
