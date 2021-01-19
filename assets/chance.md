@@ -33,6 +33,8 @@ If I pick this face randomly, I will get a random outcome, but the
 point of the dice is to outsource the randomness!
 Symmetry is important, as we will see, but dice is fundamentally a roll-playing game.
 
+#### The Butterfly Effect
+
 To illustrate our ideas, we'll use the even simpler example of
 flipping a coin.
 Once again, ignoring the small effect of markings, the coin has a
@@ -44,8 +46,6 @@ This defeats the purpose of the coin!
 So, how does a deterministic process like throwing a coin generate an
 *effectively random* and *equiprobably* outcome?
 There are two main ingredients, as I see it: *chaos* and *jitter*.
-
-#### The Butterfly Effect
 
 We'll focus on chaos first, and a particular characterisation of chaos
 called the "butterfly effect", aka *sensitivity to initial
