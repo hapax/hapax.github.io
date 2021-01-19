@@ -98,8 +98,8 @@ Thus, the Lyapunov exponent for this system is $\lambda = \log 2$.
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 The pips do create a bias unless they are drilled, then filled with
-black paint of the same density as the dice material. This is standard
-procedure for "precision" dice used at casinos or by professional gamblers.
+black paint of the same density as the dice. This is standard
+practice for "precision" dice used at casinos.
 </p></div>
 
 <div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
