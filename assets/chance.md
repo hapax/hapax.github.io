@@ -77,7 +77,8 @@ the *doubling map*.
 The configuration space $\mathcal{C} = [0, 1]$ is just the unit
 interval.
 Time is discrete, and at each step, we simply *double* the
-configuration and keep only the fractional part:
+configuration and keep only the fractional part, denoted by "mod
+$1$". So we can describe the system by
 
 $$
 x_{n+1} = 2x_n \text{ mod } 1.
