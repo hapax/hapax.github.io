@@ -61,7 +61,7 @@ Then the system is chaotic (in the butterfly sense) if the distance
 between nearby configurations get exponentially magnified:
 
 $$
-|x(t) - y(t)| = e^{\lambda t}|x'(0) - y(0)|.
+|x(t) - y(t)| = e^{\lambda t}|x(0) - y(0)|.
 $$
 
 Time here need not be continuous, but could come in discrete steps,
