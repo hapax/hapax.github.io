@@ -39,6 +39,10 @@ To illustrate our ideas, we'll use the even simpler example of
 flipping a coin.
 Once again, ignoring the small effect of markings, the coin has a
 symmetry between the two sides, heads and tails.
+And similarly, if I have a very large coin I can only drop, then I
+will need to randomly choose the initial conditions for tossing if I
+want the coin flip to be random.
+This defeats the purpose of the coin.
 
 ---
 
