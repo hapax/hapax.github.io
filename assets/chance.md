@@ -128,7 +128,7 @@ $$
 In our example, $\ell = |0.2 - 0.1| = 0.1$, and $L = 1$, so
 
 $$
-T \sim \frac{\log (1/0.1)}{\log 2} \approx 3.3,
+T \sim \frac{\log (1/0.1)}{\log 2} = \log_2 10 \approx 3.3,
 $$
 
 which is consistent with our discrete-time result $T = 4$.
