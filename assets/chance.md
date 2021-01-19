@@ -50,13 +50,13 @@ There are two main ingredients, as I see it: *chaos* and *jitter*.
 We'll focus on chaos first, and a particular characterisation of chaos
 called the "butterfly effect", aka *sensitivity to initial
 conditions*.
-Suppose a system has some space $\mathcal{C}$ of configurations which
-evolve according to some deterministic rule [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
-We denote the configuration at time $t$ by $x(t) \in \mathcal{C}$, and set
-initial conditions for the evolution at $t = 0$.
-Suppose also that $\mathcal{C}$ has a notion of distance between
-configurations, denoted by absolute value sign, $|x_1 -
-x_2|$.
+Suppose a system has some space $\mathcal{C}$ of configurations $x(t)
+\in \mathcal{C}$, where $t$ is time.
+We'll restrict ourselves to systems which
+evolve according to some deterministic rule, i.e. the state $x(t)$ at time $t$
+determines the state $x(t')$ for any $t' > t$ [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
+Finally, we imagine that $\mathcal{C}$ has a notion of distance
+between configurations, denoted by the absolute value sign, $|x_1 - x_2|$.
 Then the system is chaotic (in the butterfly sense) if the distance
 between nearby configurations get exponentially magnified:
 
@@ -112,8 +112,6 @@ isn't enough to explain the symmetry of the outcomes.
 
 <div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
 href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
-By "deterministic", I just mean that the state $x(t)$ at time $t$
-determines the state $x(t')$ for any $t' > t$.
 Note that this evolution may not be deterministic in reverse,
 i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
 asymmetry is intentional, since our main examples will throw away
