@@ -147,13 +147,31 @@ distribution over configuration space.
 these trajectories into *effectively random* samples of
 configuration space. -->
 
-#### Chaotic coins
+#### Symmetry and chaos
 
-The relevance to dice and coins is straightforward.
-Suppose that our initial conditions are chosen randomly from a small
-patch of size $\ell$.
-Then provided the roll or throw takes longer than the exploration
-time, we 
+Once we have this effective randomness over the configuration space
+$\mathcal{C}$, we can use it to roll dice and throw coins.
+Symmetry plays the following role: it splits $\mathcal{C}$ into
+equally sized patches, and then chaos spreads trajectories throughout
+the system, and into these patches with roughly equal measure.
+If the system doesn't get to evolve for long enough, like dropping the
+large dice, then it won't get to explore the full system and the
+results will be biased.
+This sounds like a mathematical theorem, and perhaps we could
+formulate it this way, but I expect it would be difficult to prove:
+[most results](https://plato.stanford.edu/entries/ergodic-hierarchy/)
+about probability, dynamics and mixing involve *very long times*, $T
+\to \infty$, rather than the relatively short exploration time we've
+introduced here.
+<!-- I expect also that we could "fine tune" the division of configuration
+space so that, or the initial rolls -->
+
+Rather than prove a theorem, however, we can use our concepts to
+*design* coins and dice from scratch and check they behave correctly.
+We'll just use the doubling map!
+To start with, let's make a coin.
+Heads will correspond to $\mathcal{C}_H =
+[0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
 
 #### References
 
