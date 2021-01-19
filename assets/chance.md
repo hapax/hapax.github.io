@@ -33,9 +33,12 @@ If I pick this face randomly, I will get a random outcome, but the
 point of the dice is to outsource the randomness!
 Symmetry is important, as we will see, but dice is fundamentally a roll-playing game.
 
-#### Chaos
+#### Chaotic coins
 
-
+To illustrate our ideas, we'll use the even simpler example of
+flipping a coin.
+Once again, ignoring the small effect of markings, the coin has a
+symmetry between the two sides, heads and tails.
 
 ---
 
@@ -49,7 +52,7 @@ procedure for "precision" dice used at casinos or by professional gamblers.
 <div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
 href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
 In physics parlance, the choice of initial condition—the way you
-hold the dice—*spontaneously breaks* the symmetry of the dice
+hold the dice—"spontaneously breaks" the symmetry of the dice
 itself. This is the fancy way of saying that symmetry of the dice
 isn't enough to explain the symmetry of the outcomes.
 </p></div>
