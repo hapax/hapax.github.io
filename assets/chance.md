@@ -125,6 +125,14 @@ L \sim |x_T - y_T| = e^{\lambda T} \ell \quad \Longrightarrow \quad T
 \sim \frac{1}{\lambda}\log \left(\frac{L}{\ell}\right).
 $$
 
+In our example, $\ell = |0.2 - 0.1| = 0.1$, and $L = 1$, so
+
+$$
+T \sim \frac{\log (1/0.1)}{\log 2} \approx 3.3,
+$$
+
+which is consistent with our discrete-time result $T = 4$.
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
