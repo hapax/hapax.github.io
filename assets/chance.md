@@ -58,7 +58,8 @@ determines the state $x(t')$ for any $t' > t$ [<sup><a id="fnr.3" name="fnr.3" c
 Finally, we imagine that $\mathcal{C}$ has a notion of distance
 between configurations, denoted by the absolute value sign, $|x_1 - x_2|$.
 Then the system is chaotic (in the butterfly sense) if the distance
-between nearby configurations get exponentially magnified:
+between nearby configurations get exponentially magnified by evolving
+in time:
 
 $$
 |x(t) - y(t)| = e^{\lambda t}|x(0) - y(0)|.
