@@ -10,7 +10,8 @@ date:  2021-01-15
 **January 16, 2021.** *A tutorial on black holes as
   quantum computers.*
 
-##### Introduction
+
+<!-- ##### Introduction
 
 A black hole is a very special type of quantum computer. In this
 tutorial, we'll explore a few properties of these computers using the
@@ -202,15 +203,11 @@ called the *Planck area*.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
 
-##### Input and output
-
 We can recast what we have learned about black holes in terms of
 computers.
 Things fall into the black hole, a bit like entering data onto a
 computer.
 The total system size is $N$, which comes from splitting the surface
 area of the black hole into pixels of area $A_P$.
-Finally, the black hole will output information in the form of photons.
+Finally, the black hole will output information in the form of photons. -->
 <!-- with the typical length given by the current size of the black hole.-->
-
-#### Unitarity
