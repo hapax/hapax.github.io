@@ -45,7 +45,7 @@ So, how does a deterministic process like throwing a coin generate an
 *effectively random* and *equiprobably* outcome?
 There are two main ingredients, as I see it: *chaos* and *jitter*.
 
-#### Chaotic coins
+#### The Butterfly Effect
 
 We'll focus on chaos first, and a particular characterisation of chaos
 called the "butterfly effect", aka *sensitivity to initial
