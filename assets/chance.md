@@ -23,7 +23,7 @@ odds, they might say *symmetry*. Apart from the pips indicating the
 value [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>], the sides are indistinguishable and therefore must have equal
 probability of landing right side up.
 This is true and sounds like a nice explanation.
-But it's actually half the story!
+But it's only half the story!
 
 To see why, suppose I take a very large dice, so heavy that I can only
 drop it.
