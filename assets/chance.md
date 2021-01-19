@@ -89,7 +89,7 @@ procedure for "precision" dice used at casinos or by professional gamblers.
 href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
 In physics parlance, the choice of initial condition—the way you
 hold the dice—"spontaneously breaks" the symmetry of the dice
-itself. This is the fancy way of saying that symmetry of the dice
+itself. This is the fancy reason that symmetry of the dice
 isn't enough to explain the symmetry of the outcomes.
 </p></div>
 
