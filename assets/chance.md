@@ -133,6 +133,25 @@ $$
 
 which is consistent with our discrete-time result $T = 4$.
 
+We'll call $T$ the *exploration time*, since this is how long it takes
+for trajectories to fan out and explore the whole space.
+In fact, we might expect that if we choose a collection of initial
+conditions in some region of size $\ell$, the exploration time
+(calculated the same way) should measure how long it takes those
+trajectories to spread out and cover the whole system.
+
+#### Chaotic coins
+
+The relevance to dice and coins is straightforward.
+Suppose that our initial conditions are chosen randomly from a small
+patch of size $\ell$.
+Then provided the roll or throw takes longer than the exploration
+time, we 
+
+#### References
+
+https://plato.stanford.edu/entries/ergodic-hierarchy/
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
