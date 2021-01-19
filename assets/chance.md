@@ -110,6 +110,15 @@ $$
 |x_4 - y_4| = 2^4 |x_0 - y_0| \text{ mod } 1 = 1.6 \text{ mod } 1 = 0.6.
 $$
 
+This does not mean the butterfly effect has "stopped". Rather, this is
+the point at which the effect has fanned the two trajectories out so
+they explore the whole system!
+We can estimate the time this happens as follows.
+Suppose the configuration space $\mathcal{C}$ has some effective
+linear size $L$, and chaotic evolution with Lyapunov exponent
+$\lambda$.
+Then
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
