@@ -33,8 +33,6 @@ If I pick this face randomly, I will get a random outcome, but the
 point of the dice is to outsource the randomness!
 Symmetry is important, as we will see, but dice is fundamentally a roll-playing game.
 
-#### Chaotic coins
-
 To illustrate our ideas, we'll use the even simpler example of
 flipping a coin.
 Once again, ignoring the small effect of markings, the coin has a
@@ -46,9 +44,32 @@ This defeats the purpose of the coin!
 So, how does a deterministic process like throwing a coin generate an
 *effectively random* and *equiprobably* outcome?
 There are two main ingredients, as I see it: *chaos* and *jitter*.
-We'll focus on chaos first.
 
-Chaos
+#### Chaotic coins
+
+We'll focus on chaos first, and a particular characterisation of chaos
+called the "butterfly effect", aka *sensitivity to initial
+conditions*.
+Suppose a system has some space $\mathcal{C}$ of configurations, and I denote its
+position in this configuration space by $x(t) \in \mathcal{C}$, where
+$t$ is time.
+Let's also suppose that $\mathcal{C}$ has a notion of distance between
+configurations, which we denote with the absolute value sign, $|x_1 -
+x_2|$.
+Then the system is chaotic (in the butterfly sense) if small
+differences between configurations get exponentially magnified with
+time:
+
+$$
+|x_1(t) - x_2(t)| = e^{\lambda t}|x_1(0) - x_2(0)|.
+$$
+
+Here, the rate of exponential divergence is controlled by $\lambda$,
+also called the *Lyapunov exponent*.
+There are all sorts of generalisations and subtleties, but all the
+important ideas can be seen with a single Lyapunov exponent, so that's
+what we'll focus on.
+To illustrate, we 
 
 ---
 
