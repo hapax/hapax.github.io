@@ -18,10 +18,12 @@ date:  2021-01-19
 Each time I roll a dice, my muscles try to do the same thing. But even
 if I hold the dice the same way, and throw in what feels like the same
 way, I seem to get any side of the dice with equal probability.
-If you ask why a mathematician why any side appears with the same
-odds, they might say *symmetry*. Apart from the pips indicating the
-value [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>], the sides are indistinguishable and therefore must have equal
-probability of landing right side up.
+If you ask why a mathematician why any face is equally probable
+despite the apparent similarity of the roll, they might say
+*symmetry*. Apart from the pips indicating the
+value
+[<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
+the sides are indistinguishable and therefore must have equal probability of landing right side up.
 This is true and sounds like a nice explanation.
 But it's only half the story!
 
