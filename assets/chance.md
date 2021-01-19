@@ -74,7 +74,14 @@ the *Lyapunov exponent* after
 important ideas can be seen with a single Lyapunov exponent. -->
 We can see how this operates in a very simple chaotic system called
 the *doubling map*.
-The configuration space $\mathcal{C} = [0, 1]$ is just the unit interval
+The configuration space $\mathcal{C} = [0, 1]$ is just the unit
+interval.
+Time is discrete, and at each step, we simply *double* the
+configuration and keep only the fractional part:
+
+$$
+x(n+1) = 2x(n) \text{ mod } 1.
+$$
 
 ---
 
