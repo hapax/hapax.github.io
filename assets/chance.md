@@ -42,7 +42,13 @@ symmetry between the two sides, heads and tails.
 And similarly, if I have a very large coin I can only drop, then I
 will need to randomly choose the initial conditions for tossing if I
 want the coin flip to be random.
-This defeats the purpose of the coin.
+This defeats the purpose of the coin!
+So, how does a deterministic process like throwing a coin generate an
+*effectively random* and *equiprobably* outcome?
+There are two main ingredients, as I see it: *chaos* and *jitter*.
+We'll focus on chaos first.
+
+Chaos
 
 ---
 
