@@ -32,7 +32,7 @@ the side that I drop it.
 Now, if I pick which side I want to drop it on randomly, then I will
 get a random outcome, but I can certainly distinguish the different
 sides due to the pips!
-The symmetry is important, but it ignores the role of the roll.
+The symmetry is important, but dice is fundamentally a roll-playing game.
 
 #### Chaos
 
