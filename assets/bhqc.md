@@ -7,8 +7,7 @@ categories: [Philosophy]
 date:  2021-01-15
 ---
 
-**January 16, 2021.** *A tutorial on black holes as
-  quantum computers.*
+**January 16, 2021.** *Black*
 
 
 <!-- ##### Introduction
@@ -134,7 +133,7 @@ Not only does the black hole radiate like a hot lump of coal, it does
 so for the same reason: it has a temperature!
 The relationship between the enery of the photon -->
 
-Note that black holes heat up as they get small!
+<!-- Note that black holes heat up as they get small!
 Once again, we can check what would happen if the sun were a black
 hole.
 Using our previous result for the Schwarzschild radius, the Hawking
@@ -159,7 +158,7 @@ by the surrounding vacuum.
 Since mass gets smaller with temperature, this means it would shrink
 dramatically! -->
 
-about the length of an ant.
+<!-- about the length of an ant.
 
 #### Black hole molecules
 
