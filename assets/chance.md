@@ -23,9 +23,18 @@ odds, they might say *symmetry*. Apart from the pips indicating the
 value [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>], the sides are indistinguishable and therefore must have equal
 probability of landing right side up.
 This is true and sounds like a nice explanation.
-But it's actually irrelevant.
-problem: it still doesn't explain why holding the dice the same way
-and throwing the dice that same way results in any side with equal probability
+But it's actually irrelevant!
+
+To see why, suppose I take a very large dice, so heavy that I can only
+drop it.
+In this case, it's unlikely to roll, and will most likely just land on
+the side that I drop it.
+Now, if I pick which side I want to drop it on randomly, then I will
+get a random outcome, but I can certainly distinguish the different
+sides due to the pips!
+The symmetry is important, but it ignores the role of the roll.
+
+#### Chaos
 
 ---
 
