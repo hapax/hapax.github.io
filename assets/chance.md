@@ -57,16 +57,16 @@ initial conditions for the evolution at $t = 0$.
 Suppose also that $\mathcal{C}$ has a notion of distance between
 configurations, denoted by absolute value sign, $|x_1 -
 x_2|$.
-Then the system is chaotic (in the butterfly sense) if small
-differences between configurations get exponentially magnified with
-time:
+Then the system is chaotic (in the butterfly sense) if the distance
+between nearby configurations get exponentially magnified:
 
 $$
-|x_1(t) - x_2(t)| = e^{\lambda t}|x_1(0) - x_2(0)|.
+|x(t) - y(t)| = e^{\lambda t}|x'(0) - y(0)|.
 $$
 
 Time here need not be continuous, but could come in discrete steps,
-with $t = 0, 1, 2, \ldots$.
+with $t = 0, 1, 2, \ldots$, but in this case we'll write $x(n) = x_n$
+to minimise clutter.
 The rate of exponential divergence is controlled by $\lambda$, called
 the *Lyapunov exponent* after
 [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov).
@@ -80,8 +80,18 @@ Time is discrete, and at each step, we simply *double* the
 configuration and keep only the fractional part:
 
 $$
-x(n+1) = 2x(n) \text{ mod } 1.
+x_{n+1} = 2x_n \text{ mod } 1.
 $$
+
+It's easy to see this system is chaotic, since if we take two nearby
+points $x_0, y_0$, then
+
+$$
+|x_n - y_n| = 2^n|x_0 - y_0| = e^{n\log 2} |x_0 - y_0|,
+$$
+
+provided the difference remains smaller than $1$.
+Thus, the Lyapunov exponent for this system is $\lambda = \log 2$.
 
 ---
 
