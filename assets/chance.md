@@ -93,6 +93,13 @@ $$
 provided the difference remains smaller than $1$.
 Thus, the Lyapunov exponent for this system is $\lambda = \log 2$.
 
+#### Exploring configuration space
+
+Now, at some point the doubling means that the difference gets so
+large we need to start throwing away whole numbers, and the
+exponential separation breaks down.
+This is 
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
