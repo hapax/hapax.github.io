@@ -50,7 +50,8 @@ There are two main ingredients, as I see it: *chaos* and *jitter*.
 We'll focus on chaos first, and a particular characterisation of chaos
 called the "butterfly effect", aka *sensitivity to initial
 conditions*.
-Suppose a system has some space $\mathcal{C}$ of configurations, and I denote its
+Suppose a system has some space $\mathcal{C}$ of configurations which
+evolve according to some deterministic rule [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
 position in this configuration space by $x(t) \in \mathcal{C}$, where
 $t$ is time.
 Let's also suppose that $\mathcal{C}$ has a notion of distance between
@@ -64,12 +65,16 @@ $$
 |x_1(t) - x_2(t)| = e^{\lambda t}|x_1(0) - x_2(0)|.
 $$
 
-Here, the rate of exponential divergence is controlled by $\lambda$,
-also called the *Lyapunov exponent*.
-There are all sorts of generalisations and subtleties, but all the
-important ideas can be seen with a single Lyapunov exponent, so that's
-what we'll focus on.
-To illustrate, we 
+Time here need not be continuous, but could come in discrete steps,
+with $t = 0, 1, 2, \ldots$.
+The rate of exponential divergence is controlled by $\lambda$, called
+the *Lyapunov exponent* after
+[Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov).
+<!-- There are all sorts of generalisations and subtleties, but all the
+important ideas can be seen with a single Lyapunov exponent. -->
+We can see how this operates in a very simple chaotic system called
+the *doubling map*.
+The configuration space $\mathcal{C} = [0, 1]$ is just the unit interval
 
 ---
 
@@ -86,4 +91,14 @@ In physics parlance, the choice of initial condition—the way you
 hold the dice—"spontaneously breaks" the symmetry of the dice
 itself. This is the fancy way of saying that symmetry of the dice
 isn't enough to explain the symmetry of the outcomes.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
+href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
+By "deterministic", I just mean that the state $x(t)$ at time $t$
+determines the state $x(t')$ for any $t' > t$.
+Note that this evolution may not be deterministic in reverse,
+i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
+asymmetry is intentional, since our main examples will throw away
+information in an irreversible fashion.
 </p></div>
