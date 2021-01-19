@@ -52,10 +52,10 @@ called the "butterfly effect", aka *sensitivity to initial
 conditions*.
 Suppose a system has some space $\mathcal{C}$ of configurations which
 evolve according to some deterministic rule [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
-position in this configuration space by $x(t) \in \mathcal{C}$, where
-$t$ is time.
-Let's also suppose that $\mathcal{C}$ has a notion of distance between
-configurations, which we denote with the absolute value sign, $|x_1 -
+We denote the configuration at time $t$ by $x(t) \in \mathcal{C}$, and set
+initial conditions for the evolution at $t = 0$.
+Suppose also that $\mathcal{C}$ has a notion of distance between
+configurations, denoted by absolute value sign, $|x_1 -
 x_2|$.
 Then the system is chaotic (in the butterfly sense) if small
 differences between configurations get exponentially magnified with
