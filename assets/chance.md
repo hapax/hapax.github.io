@@ -117,7 +117,13 @@ We can estimate the time this happens as follows.
 Suppose the configuration space $\mathcal{C}$ has some effective
 linear size $L$, and chaotic evolution with Lyapunov exponent
 $\lambda$.
-Then
+Then two trajectories with initial separation $\ell$ should spread
+throughout the whole system in a time $T$ given by
+
+$$
+L \sim |x_T - y_T| = e^{\lambda T} \ell \quad \Longrightarrow \quad T
+\sim \frac{1}{\lambda}\log \left(\frac{L}{\ell}\right).
+$$
 
 ---
 
