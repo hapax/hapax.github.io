@@ -8,10 +8,10 @@ date:  2021-01-19
 ---
 
 **January 19, 2021.** *Why are dice and coins good sources of
-  randomness? The processes involved any dice throw are
-  deterministic. To understand the forces at play---chaos and
-  deterministic jitter---we'll build highly simplified but effective
-  dice from scratch.*
+  randomness? Symmetry is not enough to explain why starting with the
+  same initial conditions still seems to lead to randomness. I explore
+  the relevant forces (chaos and jitter) in simple examples, and build
+  deterministic dice from scratch.*
 
 #### Introduction
 
@@ -28,10 +28,10 @@ But it's actually irrelevant!
 To see why, suppose I take a very large dice, so heavy that I can only
 drop it.
 In this case, it's unlikely to roll, and will most likely just land on
-the side that I drop it.
+the side that I drop it [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>].
 Now, if I pick which side I want to drop it on randomly, then I will
-get a random outcome, but I can certainly distinguish the different
-sides due to the pips!
+get a random outcome, but the point of the dice is to outsource
+randomness!
 The symmetry is important, but dice is fundamentally a roll-playing game.
 
 #### Chaos
@@ -43,5 +43,12 @@ href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 The pips do create a bias unless they are drilled, then filled with
 black paint of the same density as the dice material. This is standard
 procedure for "precision" dice used at casinos or by professional gamblers.
-<i>amor fati</i>.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+In physics parlance, the choice of initial condition—the way you
+hold the dice—*spontaneously breaks* the symmetry of the dice
+itself. This is the fancy way of saying that symmetry of the dice
+isn't enough to explain the symmetry of the outcomes.
 </p></div>
