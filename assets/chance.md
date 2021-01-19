@@ -159,10 +159,10 @@ large dice, then it won't get to explore the full system and the
 results will be biased.
 This sounds like a mathematical theorem, and perhaps we could
 formulate it this way, but I expect it would be difficult to prove:
-[most results](https://plato.stanford.edu/entries/ergodic-hierarchy/)
+most results
 about probability, dynamics and mixing involve *very long times*, $T
 \to \infty$, rather than the relatively short exploration time we've
-introduced here.
+introduced here [<sup><a id="fnr.4" name="fnr.4" class="footref" href="#fn.4">4</a></sup>].
 <!-- I expect also that we could "fine tune" the division of configuration
 space so that, or the initial rolls -->
 
@@ -172,10 +172,6 @@ We'll just use the doubling map!
 To start with, let's make a coin.
 Heads will correspond to $\mathcal{C}_H =
 [0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
-
-#### References
-
-https://plato.stanford.edu/entries/ergodic-hierarchy/
 
 ---
 
@@ -200,4 +196,14 @@ Note that this evolution may not be deterministic in reverse,
 i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
 asymmetry is intentional, since our main examples will throw away
 information in an irreversible fashion.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
+href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
+Specifically, I'm referring to *ergodic theory*, which concerns how
+time averages mimic probability distributions. There are
+[many flavours](https://plato.stanford.edu/entries/ergodic-hierarchy/)
+of ergodicity, but given the evident technical difficulty of connecting chaos to these
+long time averages, I doubt there is any low-hanging fruit on the
+tree of short time averages.
 </p></div>
