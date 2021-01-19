@@ -97,10 +97,16 @@ Thus, the Lyapunov exponent for this system is $\lambda = \log 2$.
 
 #### Exploring configuration space
 
-Now, at some point the doubling means that the difference gets so
-large we need to start throwing away whole numbers, and the
-exponential separation breaks down.
-This is 
+At some point the doubling means that the difference gets so large
+that the difference is no longer doubling with each step, since we are
+throwing away whole numbers.
+To see how this happens, let's do a specific example.
+Set $x_0 = 0.1$ and $y_0 = 0.2$.
+Then
+
+$$
+|x_4 - y_4| = 2^4 |x_0 - y_0| \text{ mod } 1 = 1.6 \text{ mod } 1 = 0.6.
+$$
 
 ---
 
