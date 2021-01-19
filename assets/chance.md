@@ -135,10 +135,17 @@ which is consistent with our discrete-time result $T = 4$.
 
 We'll call $T$ the *exploration time*, since this is how long it takes
 for trajectories to fan out and explore the whole space.
-In fact, we might expect that if we choose a collection of initial
+In fact, if we choose a collection of initial
 conditions in some region of size $\ell$, the exploration time
 (calculated the same way) should measure how long it takes those
 trajectories to spread out and cover the whole system.
+At this point, unless we know precisely which trajectory we picked,
+predictability should totally break down.
+This loss of certainty appears to us as an *effectively random*
+distribution over configuration space.
+<!-- We might expect that at this point, the butterfly effect has turned
+these trajectories into *effectively random* samples of
+configuration space. -->
 
 #### Chaotic coins
 
