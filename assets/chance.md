@@ -254,7 +254,7 @@ decimals, so after this many timescales, we've eaten all the precision
 away!
 So the odd uptick is an artefact of how numbers are stored on the computer and nothing to do with chaos.
 
-#### Jitter
+#### Deterministic jitter
 
 The story so far is that the effective randomness of a dice is the
 result of small jitters amplified by chaos.
@@ -284,8 +284,14 @@ Some of these cycles are in sync, for instance blood flow and
 breathing in the cardian cycle, but many are not.
 These uncontrolled, uncorrelated cycles lead to ineliminable and
 deterministic jitter in the roll of a dice.
-We can model these very simply.
-Consider 
+We can model this as a high-frequency oscillation we select from,
+periodically, but with a period that is unrelated to the oscillation.
+We then imagine the oscillation sweeping back and forth in the space
+of initial conditions $[0, \ell)$, with
+
+$$
+f(t) = \frac{\ell}{2}(1 + \sin(\omega t)).
+$$
 
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
