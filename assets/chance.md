@@ -220,7 +220,7 @@ As nicely explained in [this](https://rpg.stackexchange.com/questions/70802/how-
 on the RPG stack exchange, the simplest check is the
 [Pearson $\chi^2$ test](https://en.wikipedia.org/wiki/Pearson's_chi-squared_test).
 Suppose our dice has $d$ sides, and we want to check after some number
-of rolls whether it's likely to be fair.
+of rolls how fair it appears to be.
 Let $N$ be the total number of observations, $N_i$ the number of
 observed rolls with value $i$, and $p_i = 1/d$ the uniform
 probability.
