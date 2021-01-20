@@ -178,13 +178,22 @@ We'll just use the doubling map!
 To start with, let's make a coin.
 Heads will correspond to $\mathcal{C}_H =
 [0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
-
+We randomise the initial condition to lie in the interval
+$\mathcal{C}_\ell = [0, \ell)$,
+evolve for some number of steps, then make a decision based on whether the current position
+is in $\mathcal{C}_H$ or $\mathcal{C}_T$.
+We can empirically compute the bias of our chaotic coin by repeating the experiment for random initial conditions some number of times,
+adding the number of tails, and dividing by the total number of experiments.
+Here is a plot for $\ell = 0.1$, with bias on the vertical axis and the
+number of exploration timescales on the horizontal axis:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/coin1.png"/>
 	</div>
 	</figure>
+
+The code for generating this and other plots is given in an appendix.
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
