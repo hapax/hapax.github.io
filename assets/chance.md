@@ -151,24 +151,28 @@ configuration space. -->
 
 #### Symmetry and chaos
 
-Once we have this effective randomness over the configuration space
-$\mathcal{C}$, we can use it to roll dice and throw coins.
-Symmetry plays the following role: it splits $\mathcal{C}$ into
+This effective randomness is why we roll dice and throw coins.
+Symmetry is still important, since it splits the configuratio space
+$\mathcal{C}$ into regions of equal size, into which chaos threads
+trajectories in a roughly uniform way.
+<!-- plays the following role: it splits $\mathcal{C}$ into
 equally sized patches, and then chaos spreads trajectories throughout
-the system, and into these patches with roughly equal measure.
+the system, and into these patches with roughly equal measure. -->
 If the system doesn't get to evolve for long enough, like dropping the
-large dice, then it won't get to explore the full system and the
-results will be biased.
-This sounds like a mathematical theorem, and perhaps we could
-formulate it this way, but I expect it would be difficult to prove:
-most results
-about probability, dynamics and mixing involve *very long times*, $T
-\to \infty$, rather than the relatively short exploration time we've
-introduced here [<sup><a id="fnr.4" name="fnr.4" class="footref" href="#fn.4">4</a></sup>].
+large dice, trajectories don't spread and the result is strongly
+biased by the initial conditions.
+But after a few exploration timescales, we should be equally likely to
+be in any of these symmetrically defined regions, when averaged over
+the initial conditions.
+
+This sounds like a mathematical theorem, and perhaps there is
+something we can rigorously prove here.
+But technical results about probability, dynamics and mixing involve
+averaging over *very long times*, $T\to \infty$, rather than the exploration timescales we've
+introduced here, and I'm not sure what tools we could use [<sup><a id="fnr.4" name="fnr.4" class="footref" href="#fn.4">4</a></sup>].
 <!-- I expect also that we could "fine tune" the division of configuration
 space so that, or the initial rolls -->
-
-Rather than prove a theorem, however, we can use our concepts to
+Instead of proving a theorem, however, we can use our concepts to
 *design* coins and dice from scratch and check they behave correctly.
 We'll just use the doubling map!
 To start with, let's make a coin.
@@ -203,9 +207,9 @@ information in a deterministic but irreversible fashion.
 <div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
 href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
 Specifically, I'm referring to *ergodic theory*, which concerns how
-time averages mimic probability distributions. There are
+long time averages mimic probability distributions. There are
 [many flavours](https://plato.stanford.edu/entries/ergodic-hierarchy/)
-of ergodicity, but given the evident technical difficulty of connecting chaos to these
-long time averages, I doubt there is any low-hanging fruit on the
-tree of short time averages.
+of ergodicity, and although there are some connections to chaos,
+rigorous results on short time averages seem very hard. The
+model I'm describing here is more of a physical ansatz.
 </p></div>
