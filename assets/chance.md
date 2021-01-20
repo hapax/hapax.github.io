@@ -149,7 +149,7 @@ configuration space.
 these trajectories into *effectively random* samples of
 configuration space. -->
 
-#### Symmetry and chaos
+#### Chaotic coins and dice
 
 This effective randomness is why we roll dice and throw coins.
 Symmetry is still important, since it splits the configuratio space
@@ -197,7 +197,7 @@ The code for generating this and subsequent plots is given in an appendix.
 It increases from highly biased towards heads (where our initial conditions start) to fair, after a few
 exploration timescales, just like we expect.
 There is nothing special about $\ell = 1$ either.
-Below, we plot the curves for $\ell = 0.001, 0.01, 0.1, 0.5$:
+Below, we plot the curves for $\ell = 0.001$ (black), $0.01$ (red), $0.1$ (blue), $0.5$ (orange):
 
 <figure>
     <div style="text-align:center"><img src
@@ -207,6 +207,11 @@ Below, we plot the curves for $\ell = 0.001, 0.01, 0.1, 0.5$:
 
 Although the curves look somewhat different when plotted in actual steps, they all approach fairness after a few
 exploration timescales.
+Naturally, we can use the same method to create a dice.
+Instead of splitting the space into two equal halves, we split it into six equal portions, $\mathcal{C}_i$ for $i = 1, \ldots, 6$.
+
+
+#### Jitter
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
