@@ -280,6 +280,13 @@ the roll, from breathing, blood flow, the twitching of muscle fibres,
 even potentiation of brain cells, most of which are not under the
 user's control.
 
+Some of these cycles are in sync, for instance blood flow and
+breathing in the cardian cycle, but many are not.
+These uncontrolled, uncorrelated cycles lead to ineliminable and
+deterministic jitter in the roll of a dice.
+We can model these very simply.
+Consider 
+
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
 You might object all we have done is replace the randomness of the
