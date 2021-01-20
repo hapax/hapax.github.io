@@ -205,6 +205,9 @@ Below, we plot the curves for $\ell = 0.001, 0.01, 0.1, 0.5$:
 	</div>
 	</figure>
 
+Although the curves look somewhat different when plotted in actual steps, they all approach fairness after a few
+exploration timescales.
+
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
 #### Appendix: code
