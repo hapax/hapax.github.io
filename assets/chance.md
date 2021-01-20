@@ -275,6 +275,8 @@ must take account of their own breathing to ensure the accuracy of a
 shot.
 In this case, the "jitter" is the result of a natural and completely
 deterministic cycle which the sniper may not be aware of or control.
+When rolling a dice, there are all sorts of natural cycles that affect
+the roll, from breathing, blood flow, cell
 
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
