@@ -175,11 +175,11 @@ space so that, or the initial rolls -->
 Instead of proving a theorem, however, we can use our concepts to
 *design* coins and dice from scratch and check they behave correctly.
 We'll just use the doubling map!
+
 To start with, let's make a coin.
 Heads will correspond to $\mathcal{C}_H =
 [0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
-We randomise the initial condition to lie in the interval
-$\mathcal{C}_\ell = [0, \ell)$,
+We randomise the initial condition to lie in the interval $[0, \ell)$,
 evolve for some number of steps, then make a decision based on whether the current position
 is in $\mathcal{C}_H$ or $\mathcal{C}_T$.
 We can empirically compute the bias of our chaotic coin by repeating the experiment for random initial conditions some number of times,
