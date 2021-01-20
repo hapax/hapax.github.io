@@ -269,9 +269,12 @@ there is always *some* uncertainty about any physically realisable
 measurement.
 
 However, we don't need quantum mechanics to get effective random dice
-throws.
-Jitter can be a perfectly deterministic phenomenon.
-The simplest example
+throws; jitter can be a perfectly deterministic phenomenon.
+An illustrative example is snipers, who (if films are to believed)
+must take account of their own breathing to ensure the accuracy of a
+shot.
+In this case, the "jitter" is the result of a natural and completely
+deterministic cycle which the sniper may not be aware of or control.
 
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
