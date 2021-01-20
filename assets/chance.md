@@ -180,7 +180,45 @@ Heads will correspond to $\mathcal{C}_H =
 [0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
 
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/coin1.png"/>
+	</div>
+	</figure>
+
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
+
+#### Appendix: code
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+plt.style.use('seaborn-whitegrid')
+
+def dice(ell, steps, numrolls = 100000): # simulate the dice
+    tails = 0
+    for i in range(numrolls):
+        rand = np.random.uniform(0, ell) # uniformly select an initial condition
+        evol = rand*(2**steps) % 1 # evolve chaotically
+        if evol >= 0.5: # check whether heads or tails
+            tails += 1
+    return tails/numrolls
+
+def explore(ell, lambd = np.log(2)): # compute exploration timescale
+    return np.log(1/ell)/lambd
+    
+def roll_data(ell, multiples = 10): # generate data for plotting
+    timescale = np.ceil(explore(ell)) # makes timescale an integer
+    data = []
+    for n in range(1, multiples+1):
+        bias = dice(ell, n*timescale) # evolve for n timescales and compute bias
+        data.append(bias) # add bias to data
+    return data
+
+data = roll_data(0.1, 10)
+plt.plot(range(1, len(data)+1), data)
+```
 
 ---
 
