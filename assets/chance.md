@@ -162,7 +162,7 @@ If the system doesn't get to evolve for long enough, like dropping the
 large dice, trajectories don't spread and the result is strongly
 biased by the initial conditions.
 But after a few exploration timescales, we should be equally likely to
-be in any of these symmetrically defined regions, when averaged over
+be in any of these symmetrically defined patches, when averaged over
 the initial conditions.
 
 This sounds like a mathematical theorem, and perhaps there is
