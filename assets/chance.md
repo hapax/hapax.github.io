@@ -8,10 +8,10 @@ date:  2021-01-19
 ---
 
 **January 19, 2021.** *Why are dice and coins good sources of
-  randomness? Symmetry is not enough to explain why starting with the
-  same initial conditions still seems to lead to randomness. I explore
-  the relevant forces (chaos and jitter) in simple examples, and build
-  deterministic dice from scratch.*
+  randomness? The word "symmetry" is bandied about, but symmetry is
+  not enough to explain why starting with very similar initial
+  conditions and evolving deterministically leads to random outcomes. I explore
+  the relevant factors—chaos and jitter—and use them to build deterministic dice.*
 
 #### Introduction
 
