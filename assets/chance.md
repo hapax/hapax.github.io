@@ -244,16 +244,15 @@ intervals we used above:
 
 We don't even need to mess around with the tails to see that these
 look like a very fair dice after a couple of exploration timescales.
-The one exception is the black curve, $\ell = 0.001$, which starts
-doing something weird.
+The apparent exception is the black curve ($\ell = 0.001$), which
+starts doing something weird around $5$--$6$ exploration time scales.
 The reason is simply that the exploration timescale is about $10$
-steps, so after $5$ exploration timescales we raise the initial
-conditions to $2^{50} \approx 10^{15}$.
+steps, so after $5.5$ exploration timescales we raise the initial
+conditions to $2^{50} \sim 10^{16}$.
 Python stores double precision floating point numbers with $16$
 decimals, so after this many timescales, we've eaten all the precision
 away!
-To be clear, this is an artefact of how numbers are stored on the
-computer and nothing to do with chaos.
+So the odd uptick is an artefact of how numbers are stored on the computer and nothing to do with chaos.
 
 #### Jitter
 
