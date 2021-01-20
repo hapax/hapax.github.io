@@ -149,7 +149,7 @@ configuration space.
 these trajectories into *effectively random* samples of
 configuration space. -->
 
-#### Chaotic coins and dice
+#### Chaotic coins
 
 This effective randomness is why we roll dice and throw coins.
 Symmetry is still important, since it splits the configuratio space
@@ -176,7 +176,7 @@ Instead of proving a theorem, however, we can use our concepts to
 *design* coins and dice from scratch and check they behave correctly.
 We'll just use the doubling map!
 
-To start with, let's make a coin.
+To start with, let's make a coin [<sup><a id="fnr.5" name="fnr.5" class="footref" href="#fn.5">5</a></sup>].
 Heads will correspond to $\mathcal{C}_H =
 [0, 0.5)$ and tails to $\mathcal{C}_T = (0.5, 1]$.
 We randomise the initial condition to lie in the interval $[0, \ell)$,
@@ -207,9 +207,12 @@ Below, we plot the curves for $\ell = 0.001$ (black), $0.01$ (red), $0.1$ (blue)
 
 Although the curves look somewhat different when plotted in actual steps, they all approach fairness after a few
 exploration timescales.
+
+#### Chaotic dice
+
 Naturally, we can use the same method to create a dice.
 Instead of splitting the space into two equal halves, we split it into six equal portions, $\mathcal{C}_i$ for $i = 1, \ldots, 6$.
-
+In fact, it's clear the
 
 #### Jitter
 
@@ -292,4 +295,16 @@ Specifically, I'm referring to *ergodic theory*, which concerns how
 long time averages mimic probability distributions. Although there are some connections to chaos,
 rigorous results on short time averages seem very hard. The
 model I'm describing here is more of a physical ansatz.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum"
+href="#fnr.5">Footnote 5</a></sup> <p class="footpara">
+It's not clear that flipping a coin really is a chaotic system, though
+in this section, we're modelling it that way to jive with our broader story.
+Instead, I expect that the jitter of initial conditions gets amplified
+<i>linearly</i>, so the coin needs to evolve for longer to spread
+throughout configuration space.
+But the details are pretty similar: the exploration timescale is now
+the system size divided by the jitter size times the rate of error
+amplification.
 </p></div>
