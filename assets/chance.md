@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Deterministic dice"
 categories: [Mathematics, Physics, Statistics]
-date:  2021-01-19
+date:  2021-01-20
 ---
 
-**January 19, 2021.** *Why are dice and coins good sources of
+**January 20, 2021.** *Why are dice and coins good sources of
   randomness? The word "symmetry" is bandied about, but symmetry is
   not enough to explain why starting with very similar initial
   conditions and evolving deterministically leads to random outcomes. I explore
@@ -256,6 +256,15 @@ To be clear, this is an arteface of how numbers are stored on the
 computer and nothing to do with chaos.
 
 #### Jitter
+
+I've talked a lot about chaos so far, but haven't really dealt with
+jitter, the randomisation of the initial condition.
+You might object all we have done is replace the randomness of the
+dice with the randomness of the initial condition.
+It's true that the implementations of dice or coins so far have used
+randomness from the computer, so in this last section, we'll
+understand how jitter arises *deterministically* and use this to
+design a completely deterministic virtual dice.
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
