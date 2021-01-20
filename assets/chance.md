@@ -189,7 +189,7 @@ number of exploration timescales on the horizontal axis:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/coin1.png"/>
+    ="/images/posts/chaosdice1.png"/>
 	</div>
 	</figure>
 
@@ -201,7 +201,7 @@ Below, we plot the curves for $\ell = 0.001$ (black), $0.01$ (red), $0.1$ (blue)
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/coin2.png"/>
+    ="/images/posts/chaosdice2.png"/>
 	</div>
 	</figure>
 
@@ -212,7 +212,48 @@ exploration timescales.
 
 Naturally, we can use the same method to create a dice.
 Instead of splitting the space into two equal halves, we split it into six equal portions, $\mathcal{C}_i$ for $i = 1, \ldots, 6$.
-In fact, it's clear the
+In fact, it's clear that we could do this for a coin with any number of sides!
+We'll focus on six for simplicity.
+We proceed in exactly the same way, but now it's a bit more complicated to check for bias,
+and we need to make a brief detour into statistics.
+As nicely explained in [this](https://rpg.stackexchange.com/questions/70802/how-can-i-test-whether-a-die-is-fair)
+on the RPG stack exchange, the simplest check is the
+[Pearson $\chi^2$ test](https://en.wikipedia.org/wiki/Pearson's_chi-squared_test).
+Suppose our dice has $d$ sides, and we want to check after some number
+of rolls whether it's likely to be fair.
+Let $N$ be the total number of observations, $N_i$ the number of
+observed rolls with value $i$, and $p_i = 1/d$ the uniform
+probability.
+Then
+
+$$
+\chi^2 = \sum_{i=1}^d \frac{(N_i - Np_i)^2}{Np_i} = \sum_{i=1}^d d(N_i/N - 1/d)^2
+$$
+
+approaches a $\chi^2$ distribution with $d - 1$ degrees of freedom as
+the number of samples $N$ gets large
+[<sup><a id="fnr.6" name="fnr.6" class="footref" href="#fn.6">6</a></sup>].
+Let's plot the Pearson statistic for many ($N = 10^5$) rolls, and the
+intervals we used above:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chaosdice3.png"/>
+	</div>
+	</figure>
+
+We don't even need to mess around with the tails to see that these
+look like a very fair die after a couple of exploration timescales.
+The one exception is the black curve, $\ell = 0.001$, which starts
+doing something weird.
+The reason is simply that the exploration timescale is about $10$
+steps, so after $5$ exploration timescales we raise the initial
+conditions to $2^{50} \approx 10^{15}$.
+Python stores double precision floating point numbers with $16$
+decimals, so after this many timescales, we've eaten all the precision
+away!
+To be clear, this is an arteface of how numbers are stored on the
+computer and nothing to do with chaos.
 
 #### Jitter
 
@@ -220,7 +261,7 @@ In fact, it's clear the
 
 #### Appendix: code
 
-First up, here is our code for making the plot for a chaotic coin with $\ell = 0.1$:
+First up, here is our code for making the plot for a chaotic coin:
 
 ```python
 import matplotlib.pyplot as plt
@@ -228,7 +269,7 @@ import numpy as np
 
 plt.style.use('seaborn-whitegrid')
 
-def dice(ell, steps, numrolls = 100000): # simulate the dice
+def coin(ell, steps, numrolls = 100000): # simulate many coin flips
     tails = 0
     for i in range(numrolls):
         rand = np.random.uniform(0, ell) # uniformly select an initial condition
@@ -240,29 +281,32 @@ def dice(ell, steps, numrolls = 100000): # simulate the dice
 def explore(ell, lambd = np.log(2)): # compute exploration timescale
     return np.log(1/ell)/lambd
     
-def roll_data(ell, multiples = 10): # generate data for plotting
+def coin_data(ell, multiples = 10, numrolls = 100000): # generate data for plotting
     timescale = np.ceil(explore(ell)) # makes timescale an integer
     data = []
     for n in range(1, multiples+1):
-        bias = dice(ell, n*timescale) # evolve for n timescales and compute bias
+        bias = coin(ell, n*timescale, numrolls = 100000) # evolve for n timescales and compute bias
         data.append(bias) # add bias to data
     return data
 
-data = roll_data(0.1, 10)
-plt.plot(range(1, len(data)+1), data)
+data = coin_data(0.1, 10)
+plt.plot(range(1, len(data)+1), data);
 plt.show()
-
 plt.clf()
-data1 = roll_data(0.001, 6)
-data2 = roll_data(0.01, 6)
-data3 = roll_data(0.1, 6)
-data4 = roll_data(0.5, 6)
+
+data1 = coin_data(0.001, 6)
+data2 = coin_data(0.01, 6)
+data3 = coin_data(0.1, 6)
+data4 = coin_data(0.5, 6)
 plt.plot(range(1, len(data1)+1), data1, color='black');
 plt.plot(range(1, len(data2)+1), data2, color='red');
 plt.plot(range(1, len(data3)+1), data3, color='blue');
 plt.plot(range(1, len(data4)+1), data4, color='orange');
 plt.show()
+plt.clf()
 ```
+
+Now for our chaotic dice, with Pearson's test statistic:
 
 ---
 
@@ -307,4 +351,11 @@ throughout configuration space.
 But the details are pretty similar: the exploration timescale is now
 the system size divided by the jitter size times the rate of error
 amplification.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum"
+href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
+We need many samples so that for each term in the sum approaches a
+unit normal distribution. The number of degrees of freedom is reduced
+by 1 because we have "used up" one degree of freedom in computing the mean.
 </p></div>
