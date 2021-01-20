@@ -224,10 +224,10 @@ of rolls whether it's likely to be fair.
 Let $N$ be the total number of observations, $N_i$ the number of
 observed rolls with value $i$, and $p_i = 1/d$ the uniform
 probability.
-Then
+Then the statistic
 
 $$
-\chi^2 = \sum_{i=1}^d \frac{(N_i - Np_i)^2}{Np_i} = \sum_{i=1}^d d(N_i/N - 1/d)^2
+\sum_{i=1}^d \frac{(N_i - Np_i)^2}{Np_i} = \sum_{i=1}^d d\left(\frac{N_i}{N} - \frac{1}{d}\right)^2
 $$
 
 approaches a $\chi^2$ distribution with $d - 1$ degrees of freedom as
@@ -252,19 +252,36 @@ conditions to $2^{50} \approx 10^{15}$.
 Python stores double precision floating point numbers with $16$
 decimals, so after this many timescales, we've eaten all the precision
 away!
-To be clear, this is an arteface of how numbers are stored on the
+To be clear, this is an artefact of how numbers are stored on the
 computer and nothing to do with chaos.
 
 #### Jitter
 
-I've talked a lot about chaos so far, but haven't really dealt with
+The story so far is that the effective randomness of a dice is the
+result of small jitters amplified by chaos.
+In this last section, we'll talk about the source of jitters.
+In the examples above, we used a computer to generate initial
+conditions uniformly on an interval of size $\ell$.
+This randomness got amplified by the chaotic evolution until it spread
+throughout the system.
+In the real world, there is a source of fundamental randomness, namely
+quantum mechanics, and the Heisenberg uncertainty principle guarantees
+there is always *some* uncertainty about any physically realisable
+measurement.
+
+However, we don't need quantum mechanics to get effective random dice
+throws.
+Jitter can be a perfectly deterministic phenomenon.
+The simplest example
+
+<!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
 You might object all we have done is replace the randomness of the
 dice with the randomness of the initial condition.
 It's true that the implementations of dice or coins so far have used
 randomness from the computer, so in this last section, we'll
 understand how jitter arises *deterministically* and use this to
-design a completely deterministic virtual dice.
+design a completely deterministic virtual dice. -->
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
