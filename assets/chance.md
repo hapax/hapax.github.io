@@ -293,6 +293,25 @@ $$
 f(t) = \frac{\ell}{2}(1 + \sin(\omega t)).
 $$
 
+Our clumsy human operator "samples" at deterministic times $t_n = 2\pi n/\omega'$,
+where $\omega' \ll \omega$ and the frequencies are incommensurable, i.e. their ratio is irrational.
+For instance, let's take $\omega' = \pi$ and $\omega = 10$.
+Then instead of randomising the initial conditions, we have a totally deterministic relation
+
+$$
+f_n = f(t_n) = \frac{\ell}{2}(1 + \sin(10 n)).
+$$
+
+We now plug this in to our dice and check the results are fair, once again using Pearson:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chaosdice4.png"/>
+	</div>
+	</figure>
+
+All approach a fair dice, though there is the numerical artefact for $\ell = 0.001$ as before.
+
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
 You might object all we have done is replace the randomness of the
