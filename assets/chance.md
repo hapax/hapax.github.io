@@ -199,6 +199,8 @@ The code for generating this and other plots is given in an appendix.
 
 #### Appendix: code
 
+First up, here is our code for making the plot for a chaotic coin with $\ell = 0.1$:
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
