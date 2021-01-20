@@ -193,7 +193,17 @@ number of exploration timescales on the horizontal axis:
 	</div>
 	</figure>
 
-The code for generating this and other plots is given in an appendix.
+The code for generating this and subsequent plots is given in an appendix.
+It increases from highly biased towards heads (where our initial conditions start) to fair, after a few
+exploration timescales, just like we expect.
+There is nothing special about $\ell = 1$ either.
+Below, we plot the curves for $\ell = 0.001, 0.01, 0.1, 0.5$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/coin2.png"/>
+	</div>
+	</figure>
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
@@ -229,6 +239,18 @@ def roll_data(ell, multiples = 10): # generate data for plotting
 
 data = roll_data(0.1, 10)
 plt.plot(range(1, len(data)+1), data)
+plt.show()
+
+plt.clf()
+data1 = roll_data(0.001, 6)
+data2 = roll_data(0.01, 6)
+data3 = roll_data(0.1, 6)
+data4 = roll_data(0.5, 6)
+plt.plot(range(1, len(data1)+1), data1, color='black');
+plt.plot(range(1, len(data2)+1), data2, color='red');
+plt.plot(range(1, len(data3)+1), data3, color='blue');
+plt.plot(range(1, len(data4)+1), data4, color='orange');
+plt.show()
 ```
 
 ---
