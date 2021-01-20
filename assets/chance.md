@@ -243,7 +243,7 @@ intervals we used above:
 	</figure>
 
 We don't even need to mess around with the tails to see that these
-look like a very fair die after a couple of exploration timescales.
+look like a very fair dice after a couple of exploration timescales.
 The one exception is the black curve, $\ell = 0.001$, which starts
 doing something weird.
 The reason is simply that the exploration timescale is about $10$
