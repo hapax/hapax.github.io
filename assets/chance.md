@@ -369,7 +369,7 @@ plt.plot(range(1, len(data4)+1), data4, color='orange');
 plt.show()
 ```
 
-Now for our chaotic dice, with Pearson's test statistic:
+Now for our chaotic dice with random jitter:
 
 ```python
 def dice_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice rolls
@@ -400,6 +400,40 @@ plt.plot(range(1, len(data5)+1), data5, color='black');
 plt.plot(range(1, len(data6)+1), data6, color='red');
 plt.plot(range(1, len(data7)+1), data7, color='blue');
 plt.plot(range(1, len(data8)+1), data8, color='orange');
+plt.show()
+```
+
+Finally, here are chaotic dice with deterministic jitter:
+
+```python
+def det_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice rolls
+    outcomes = [0] * sides
+    pearson = 0
+    for i in range(numrolls):
+        init = (ell/2)*(1 + np.sin(10*i)) # deterministic jitter
+        evol = init*(2**steps) % 1 # evolve chaotically
+        outcome = int(sides*evol) # calculate outcome
+        outcomes[outcome] += 1
+    for k in range(sides):
+        pearson += sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+    return pearson
+
+def det_data(ell, multiples = 10, sides = 6, numrolls = 100000): # generate data for plotting
+    timescale = np.ceil(explore(ell)) # makes timescale an integer
+    data = []
+    for n in range(1, multiples+1):
+        bias = det_bias(ell, n*timescale, sides, numrolls = 100000) # evolve for n timescales and compute bias
+        data.append(bias) # add bias to data
+    return data
+
+dataA = det_data(0.001, 6)
+dataB = det_data(0.01, 6)
+dataC = det_data(0.1, 6)
+dataD = det_data(0.5, 6)
+plt.plot(range(1, len(dataA)+1), dataA, color='black');
+plt.plot(range(1, len(dataB)+1), dataB, color='red');
+plt.plot(range(1, len(dataC)+1), dataC, color='blue');
+plt.plot(range(1, len(dataD)+1), dataD, color='orange');
 plt.show()
 ```
 
