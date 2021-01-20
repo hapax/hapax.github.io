@@ -303,10 +303,41 @@ plt.plot(range(1, len(data2)+1), data2, color='red');
 plt.plot(range(1, len(data3)+1), data3, color='blue');
 plt.plot(range(1, len(data4)+1), data4, color='orange');
 plt.show()
-plt.clf()
 ```
 
 Now for our chaotic dice, with Pearson's test statistic:
+
+```python
+def dice_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice rolls
+    outcomes = [0] * sides
+    pearson = 0
+    for i in range(numrolls):
+        rand = np.random.uniform(0, ell) # uniformly select an initial condition
+        evol = rand*(2**steps) % 1 # evolve chaotically
+        outcome = int(sides*evol) # calculate outcome
+        outcomes[outcome] += 1
+    for k in range(sides):
+        pearson += sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+    return pearson
+
+def dice_data(ell, multiples = 10, sides = 6, numrolls = 100000): # generate data for plotting
+    timescale = np.ceil(explore(ell)) # makes timescale an integer
+    data = []
+    for n in range(1, multiples+1):
+        bias = dice_bias(ell, n*timescale, sides, numrolls = 100000) # evolve for n timescales and compute bias
+        data.append(bias) # add bias to data
+    return data
+
+data5 = dice_data(0.001, 6)
+data6 = dice_data(0.01, 6)
+data7 = dice_data(0.1, 6)
+data8 = dice_data(0.5, 6)
+plt.plot(range(1, len(data5)+1), data5, color='black');
+plt.plot(range(1, len(data6)+1), data6, color='red');
+plt.plot(range(1, len(data7)+1), data7, color='blue');
+plt.plot(range(1, len(data8)+1), data8, color='orange');
+plt.show()
+```
 
 ---
 
