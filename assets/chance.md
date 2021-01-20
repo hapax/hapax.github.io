@@ -193,7 +193,7 @@ number of exploration timescales on the horizontal axis:
 	</div>
 	</figure>
 
-The code for generating this and subsequent plots is given in an appendix.
+The code for generating this and subsequent plots is given in the appendix.
 It increases from highly biased towards heads (where our initial conditions start) to fair, after a few
 exploration timescales, just like we expect.
 There is nothing special about $\ell = 1$ either.
