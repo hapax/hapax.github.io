@@ -133,16 +133,18 @@ $$
 
 which is consistent with our discrete-time result $T = 4$.
 
-We'll call $T$ the *exploration time*, since this is how long it takes
-for trajectories to fan out and explore the whole space.
+We'll call $T$ the *exploration timescale*, since this is roughly how
+long it takes for trajectories to fan out and explore the whole space.
 In fact, if we choose a collection of initial
-conditions in some region of size $\ell$, the exploration time
-(calculated the same way) should measure how long it takes those
-trajectories to spread out and cover the whole system.
-At this point, unless we know precisely which trajectory we picked,
-predictability should totally break down.
-This loss of certainty appears to us as an *effectively random*
-distribution over configuration space.
+conditions in some region of size $\ell$, the exploration timescale
+should still tell us roughly how long elements of this set need to
+spread throughout all of configuration space.
+Because of chaos, unless we know precisely which trajectory we picked,
+predictability should totally break down, since initially nearby
+points (order $\ell$) are now separated by distances on the order of the whole
+system (order $L$).
+This breakdown leads to an *effectively randomisation* over
+configuration space.
 <!-- We might expect that at this point, the butterfly effect has turned
 these trajectories into *effectively random* samples of
 configuration space. -->
@@ -195,7 +197,7 @@ href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
 Note that this evolution may not be deterministic in reverse,
 i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
 asymmetry is intentional, since our main examples will throw away
-information in an irreversible fashion.
+information in a deterministic but irreversible fashion.
 </p></div>
 
 <div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
