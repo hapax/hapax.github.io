@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Deterministic dice"
+title:  "Dicing with chaos"
 categories: [Mathematics, Physics, Statistics]
 date:  2021-01-20
 ---
