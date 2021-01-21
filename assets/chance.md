@@ -311,6 +311,7 @@ We now plug this in to our dice and check the results are fair, once again using
 	</figure>
 
 All approach a fair dice, though there is the numerical artefact for $\ell = 0.001$ as before.
+A new feature is that the $\ell = 0.5$ dice is considerably less fair.
 
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
