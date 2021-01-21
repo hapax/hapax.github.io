@@ -367,11 +367,15 @@ but from the onset-of-fairness curve, we can select parameters to ensure our dic
 #### Conclusion
 
 The randomness of a dice is not merely the consequence of symmetry,
-but rather, the amplification of small initial jitters by chaos, so
-that they uniformly thread the configuration space of the dice.
-In turn, the jitter of initial conditions can arise from two cycles
-which are out of sync.
-This leads to a simple, deterministic model of a dice $X$:
+but rather, the combination of jitter and chaos.
+The dynamics amplified small jitters exponentially quickly so that,
+even after a short dice roll, they thread through configuration space
+uniformly.
+<!-- amplification of small initial jitters by chaos, so
+that they uniformly thread the configuration space of the dice. -->
+The jitter of initial conditions may be genuinely random, but can also
+arise deterministically from, e.g., two cycles which are out of sync.
+This leads to a simple, deterministic model of a dice roll, $X$:
 
 $$
 \begin{align*}
