@@ -463,7 +463,7 @@ chaos here, just enouh petals for the final outcome to be hard to guess.
 href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
 We need many samples so that for each term in the sum approaches a
 unit normal distribution. The number of degrees of freedom is reduced
-by 1 because we have "used up" one degree of freedom in computing the mean.
+by 1 because we have used up one degree of freedom in introducing means.
 </p></div>
 
 <div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum"
