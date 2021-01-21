@@ -352,8 +352,8 @@ We need to put the $\ell = 0.5$ dice on a separate plot, since it takes more tha
 	</figure>
 
 We can compute the number of exploration times it takes for the dice to become fair (as measured
-by the Pearson test) a function of $\ell$.
-The result appears to be roughly linear:
+by the Pearson test) as a function of $\ell$.
+The relation is roughly linear:
 
 <figure>
     <div style="text-align:center"><img src
@@ -361,7 +361,7 @@ The result appears to be roughly linear:
 	</div>
 	</figure>
 
-I'm not sure what the exact explanation is [<sup><a id="fnr.7" name="fnr.7" class="footref" href="#fn.7">7</a></sup>],
+I'm not sure why this happens [<sup><a id="fnr.7" name="fnr.7" class="footref" href="#fn.7">7</a></sup>],
 but from the onset-of-fairness curve, we can select parameters to ensure our dice is statistically fair.
 
 #### Conclusion
