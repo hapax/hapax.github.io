@@ -543,8 +543,8 @@ plt.show()
 Finally, here is the code for measuring the onset of fairness:
 
 ```python
-def fair_time(ell, freq = 10, sides = 6, numrolls = 100000): # simulate many dice rolls
-    pearson_check = 100
+def fair_time(ell, freq = 10, sides = 6, numrolls = 100000):
+    pearson_check = 100 # initialise to be bigger than 10
     steps = 1
     while pearson_check > 10:
         outcomes = [0] * sides
@@ -555,13 +555,13 @@ def fair_time(ell, freq = 10, sides = 6, numrolls = 100000): # simulate many dic
             outcome = int(sides*evol) # calculate outcome
             outcomes[outcome] += 1
         for k in range(sides):
-            pearson += numrolls*sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+            pearson += numrolls*sides*(outcomes[k]/numrolls - 1/sides)**2
         pearson_check = pearson
         steps += 1
     return steps/(explore(ell))
 
-ells = np.linspace(0.01, 0.5, 10)
-fair_data = [fair_time(ell, numrolls = 10000) for ell in ells]
+ells = np.linspace(0.01, 0.5, 10) # check ell between 0.01 and 0.5
+fair_data = [fair_time(ell, numrolls = 10000) for ell in ells] # find onset of fairness
 plt.plot(ells, fair_data, color='purple');
 plt.show()
 ```
