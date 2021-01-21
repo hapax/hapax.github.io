@@ -451,10 +451,11 @@ by 1 because we have "used up" one degree of freedom in computing the mean.
 <div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum"
 href="#fnr.7">Footnote 7</a></sup> <p class="footpara">
 Presumably, it involves the new factor our deterministic
-jitter introduces: the fact that the high and low frequency processes are *in phase* for $n = 0$.
-This induces correlations which take longer to wash out for larger
-$\ell$.
-If anyone knows more about why this is happening, please leave a comment!
+jitter introduces: the fact that the high and low frequency processes
+are initially in phase.
+This perhaps induces correlations which take longer to wash out for
+larger jitters.
+But if anyone knows more about why this is happening, please leave a comment!
 </p></div>
 
 ---
