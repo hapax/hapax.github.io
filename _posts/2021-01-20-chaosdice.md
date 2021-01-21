@@ -362,7 +362,7 @@ The relation is roughly linear:
 	</figure>
 
 I'm not sure why this happens [<sup><a id="fnr.7" name="fnr.7" class="footref" href="#fn.7">7</a></sup>],
-but from the onset-of-fairness curve, we can select parameters to ensure our dice is statistically fair.
+but from this "onset-of-fairness" curve, we can select parameters to ensure our dice is statistically fair.
 
 #### Conclusion
 
