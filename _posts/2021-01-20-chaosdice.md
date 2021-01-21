@@ -386,6 +386,18 @@ $$
 
 where the parameters $\ell, \omega, k$ are chosen to ensure the
 dice is statistically fair.
+For instance, from our explorations we can choose some numbers and
+generate effectively random dice rolls with the following code:
+
+```python
+import numpy as np
+
+def dice_roll(n):
+	f_n = (0.01/2)*(1 + np.sin(10*n))
+	x = f_n*2**13 % 1
+	return int(6*x) + 1
+```
+
 It's difficult to directly check whether the dynamics of dice rolling
 really does obey our assumptions.
 But hopefully our proof-of-concept dice suggest that in games of
