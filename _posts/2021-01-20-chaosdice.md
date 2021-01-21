@@ -394,7 +394,7 @@ import numpy as np
 
 def dice_roll(n):
 	f_n = (0.01/2)*(1 + np.sin(10*n))
-	x = f_n*2**13 % 1
+	x = f_n*2**22 % 1
 	return int(6*x) + 1
 ```
 
