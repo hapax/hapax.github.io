@@ -343,9 +343,6 @@ We now plug this in to our dice and check the results are fair, once again using
 	</figure>
 
 All three quickly approach a fair dice.
-
-#### Onset of fairness
-
 We need to put the $\ell = 0.5$ dice on a separate plot, since it takes more than $10$ exploration times to arrive at something that looks fair:
 
 <figure>
@@ -354,9 +351,9 @@ We need to put the $\ell = 0.5$ dice on a separate plot, since it takes more tha
 	</div>
 	</figure>
 
-If we treat a small test statistic as a measure of the onset of fairness, we can see
-how the onset (measured in exploration times) is related to $\ell$.
-The result appears to be linear:
+We can compute the number of exploration times it takes for the dice to become fair (as measured
+by the Pearson test) a function of $\ell$.
+The result appears to be roughly linear:
 
 <figure>
     <div style="text-align:center"><img src
@@ -364,6 +361,28 @@ The result appears to be linear:
 	</div>
 	</figure>
 
+I'm not sure what the exact explanation is [<sup><a id="fnr.7" name="fnr.7" class="footref" href="#fn.7">7</a></sup>],
+but from the onset-of-fairness curve, we can select parameters to ensure our dice is statistically fair.
+
+#### Conclusion
+
+The randomness of a dice is not merely the consequence of symmetry,
+but rather, the amplification of small initial jitters by chaos, so
+that they uniformly thread the configuration space of the dice.
+In turn, the jitter of initial conditions can arise from two cycles
+which are out of sync.
+This leads to a simple, deterministic model of a dice $X$ which is
+statistically fair:
+
+$$
+\begin{align*}
+f_n & = \frac{\ell}{2}(1 + \sin(10 n)) \\
+x_n(kT) & = 2^{kT} f_n \text{ mod } 1 \\
+X & = \lfloor 6 \cdot x_n(kT) \rfloor.
+\end{align*}
+$$
+
+where $$
 
 <!-- https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html -->
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
@@ -418,6 +437,15 @@ href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
 We need many samples so that for each term in the sum approaches a
 unit normal distribution. The number of degrees of freedom is reduced
 by 1 because we have "used up" one degree of freedom in computing the mean.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum"
+href="#fnr.7">Footnote 7</a></sup> <p class="footpara">
+Presumably, it involves the new factor our deterministic
+jitter introduces: the fact that the high and low frequency processes are *in phase* for $n = 0$.
+This induces correlations which take longer to wash out for larger
+$\ell$.
+If anyone knows more about why this is happening, please leave a comment!
 </p></div>
 
 ---
