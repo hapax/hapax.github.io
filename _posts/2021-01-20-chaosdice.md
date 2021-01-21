@@ -380,7 +380,7 @@ This leads to a simple, deterministic model of a dice roll, $X$:
 $$
 \begin{align*}
 f_n = \frac{\ell}{2}(1 + \sin[\omega n]), \quad
-x_n(kT) = 2^{kT} f_n \text{ mod } 1, \quad X = \lfloor 6 \cdot x_n(kT) \rfloor,
+x_n(kT) = 2^{kT} f_n \text{ mod } 1, \quad X = \lceil 6 \cdot x_n(kT) \rceil,
 \end{align*}
 $$
 
