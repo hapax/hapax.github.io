@@ -271,7 +271,7 @@ $$
 2^{5.5 \cdot 10} \sim 10^{16}.
 $$
 
-We have washed out all of the initial data!
+We have eaten up all of the initial data!
 This is an artefact of the way numbers are stored in a computer rather
 than a property of chaos.
 
