@@ -313,7 +313,7 @@ even potentiation of brain cells, most of which are not under the
 user's control.
 
 Some of these cycles are in sync, for instance blood flow and
-breathing in the cardian cycle, but many are not.
+breathing in the cardiac cycle, but many are not.
 These uncontrolled, uncorrelated cycles lead to ineliminable and
 deterministic jitter in the roll of a dice.
 We can model this as a high-frequency oscillation we select from,
