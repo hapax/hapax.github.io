@@ -372,7 +372,7 @@ that they uniformly thread the configuration space of the dice.
 In turn, the jitter of initial conditions can arise from two cycles
 which are out of sync.
 This leads to a simple, deterministic model of a dice $X$ which is
-statistically fair:
+statistically fair for a range of parameters we can empirically check:
 
 $$
 \begin{align*}
@@ -382,7 +382,11 @@ X & = \lfloor 6 \cdot x_n(kT) \rfloor.
 \end{align*}
 $$
 
-where $$
+Note that this effective randomness can be described in a few lines,
+so it is highly compressible.
+This means it has low
+[Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity).
+It's intriguing to me that physical randomness may not be 
 
 <!-- https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html -->
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
