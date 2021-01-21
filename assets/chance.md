@@ -323,8 +323,63 @@ design a completely deterministic virtual dice. -->
 
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
+---
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+The pips do create a bias unless they are drilled, then filled with
+black paint of the same density as the dice. This is standard
+practice for "precision" dice used at casinos.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+In physics parlance, the choice of initial condition—the way you
+hold the dice—"spontaneously breaks" the symmetry of the dice
+itself. This is the fancy reason that symmetry of the dice
+isn't enough to explain the symmetry of the outcomes.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
+href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
+Note that this evolution may not be deterministic in reverse,
+i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
+asymmetry is intentional, since our main examples will throw away
+information in a deterministic but irreversible fashion.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
+href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
+Specifically, I'm referring to *ergodic theory*, which concerns how
+long time averages mimic probability distributions. Although there are some connections to chaos,
+rigorous results on short time averages seem very hard. The
+model I'm describing here is more of a physical ansatz.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum"
+href="#fnr.5">Footnote 5</a></sup> <p class="footpara">
+It's not clear that flipping a coin really is a chaotic system, though
+in this section, we're modelling it that way to jive with our broader story.
+Instead, I expect that the jitter of initial conditions gets amplified
+<i>linearly</i>, so the coin needs to evolve for longer to spread
+throughout configuration space.
+But the details are pretty similar: the exploration timescale is now
+the system size divided by the jitter size times the rate of error
+amplification.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum"
+href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
+We need many samples so that for each term in the sum approaches a
+unit normal distribution. The number of degrees of freedom is reduced
+by 1 because we have "used up" one degree of freedom in computing the mean.
+</p></div>
+
+---
+
 #### Appendix: code
 
+I will get round to putting this in a repo at some point, but in the mean time, here is how to make all the plots.
 First up, here is our code for making the plot for a chaotic coin:
 
 ```python
@@ -436,55 +491,3 @@ plt.plot(range(1, len(dataC)+1), dataC, color='blue');
 plt.plot(range(1, len(dataD)+1), dataD, color='orange');
 plt.show()
 ```
-
----
-
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
-href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-The pips do create a bias unless they are drilled, then filled with
-black paint of the same density as the dice. This is standard
-practice for "precision" dice used at casinos.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
-href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
-In physics parlance, the choice of initial condition—the way you
-hold the dice—"spontaneously breaks" the symmetry of the dice
-itself. This is the fancy reason that symmetry of the dice
-isn't enough to explain the symmetry of the outcomes.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
-href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
-Note that this evolution may not be deterministic in reverse,
-i.e. $x(t')$ may not be determined by $x(t)$ for any $t' < t$. This
-asymmetry is intentional, since our main examples will throw away
-information in a deterministic but irreversible fashion.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
-href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
-Specifically, I'm referring to *ergodic theory*, which concerns how
-long time averages mimic probability distributions. Although there are some connections to chaos,
-rigorous results on short time averages seem very hard. The
-model I'm describing here is more of a physical ansatz.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum"
-href="#fnr.5">Footnote 5</a></sup> <p class="footpara">
-It's not clear that flipping a coin really is a chaotic system, though
-in this section, we're modelling it that way to jive with our broader story.
-Instead, I expect that the jitter of initial conditions gets amplified
-<i>linearly</i>, so the coin needs to evolve for longer to spread
-throughout configuration space.
-But the details are pretty similar: the exploration timescale is now
-the system size divided by the jitter size times the rate of error
-amplification.
-</p></div>
-
-<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum"
-href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
-We need many samples so that for each term in the sum approaches a
-unit normal distribution. The number of degrees of freedom is reduced
-by 1 because we have "used up" one degree of freedom in computing the mean.
-</p></div>
