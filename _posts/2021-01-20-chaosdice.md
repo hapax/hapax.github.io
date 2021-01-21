@@ -400,7 +400,7 @@ def dice_roll(n):
 
 It's difficult to directly check whether the dynamics of dice rolling
 really does obey our assumptions.
-But hopefully our proof-of-concept dice suggest that in games of
+But hopefully our proof-of-concept models suggest that in games of
 chance with deterministic systems, you really are dicing with chaos.
 
 <!-- Since this effective randomness can be described in a few lines,
