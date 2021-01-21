@@ -334,7 +334,7 @@ $$
 f_n = f(t_n) = \frac{\ell}{2}(1 + \sin(10 n)).
 $$
 
-We now plug this in to our dice and check the results are fair, once again using Pearson:
+We now plug this in to our dice and check the results are fair, once again using Pearson, but only for $\ell = 0.001, 0.01, 0.1$:
 
 <figure>
     <div style="text-align:center"><img src
@@ -342,8 +342,15 @@ We now plug this in to our dice and check the results are fair, once again using
 	</div>
 	</figure>
 
-All approach a fair dice, though there is the numerical artefact for $\ell = 0.001$ as before.
-A new feature is that the $\ell = 0.5$ dice is considerably less fair.
+All approach a fair dice.
+The new feature is that the $\ell = 0.5$ dice is considerably less fair.
+It takes more than $10$ exploration times to arrive at something that looks fair:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chaosdice5.png"/>
+	</div>
+	</figure>
 
 <!-- I've talked a lot about chaos so far, but haven't really dealt with
 jitter, the randomisation of the initial condition.
@@ -484,10 +491,10 @@ data5 = dice_data(0.001, 2, 5)
 data6 = dice_data(0.01, 2, 5)
 data7 = dice_data(0.1, 2, 5)
 data8 = dice_data(0.5, 2, 5)
-plt.plot(range(1, len(data5)+1), data5, color='black');
-plt.plot(range(1, len(data6)+1), data6, color='red');
-plt.plot(range(1, len(data7)+1), data7, color='blue');
-plt.plot(range(1, len(data8)+1), data8, color='orange');
+plt.plot(range(2, 6), data5, color='black');
+plt.plot(range(2, 6), data6, color='red');
+plt.plot(range(2, 6), data7, color='blue');
+plt.plot(range(2, 6), data8, color='orange');
 plt.show()
 ```
 
@@ -503,24 +510,27 @@ def det_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice rol
         outcome = int(sides*evol) # calculate outcome
         outcomes[outcome] += 1
     for k in range(sides):
-        pearson += sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+        pearson += numrolls*sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
     return pearson
 
-def det_data(ell, multiples = 10, sides = 6, numrolls = 100000): # generate data for plotting
+def det_data(ell, start_mult = 1, end_mult = 10, sides = 6, numrolls = 100000): # generate data for plotting
     timescale = np.ceil(explore(ell)) # makes timescale an integer
     data = []
-    for n in range(1, multiples+1):
+    for n in range(start_mult, end_mult + 1):
         bias = det_bias(ell, n*timescale, sides, numrolls = 100000) # evolve for n timescales and compute bias
         data.append(bias) # add bias to data
     return data
 
-dataA = det_data(0.001, 6)
-dataB = det_data(0.01, 6)
-dataC = det_data(0.1, 6)
-dataD = det_data(0.5, 6)
-plt.plot(range(1, len(dataA)+1), dataA, color='black');
-plt.plot(range(1, len(dataB)+1), dataB, color='red');
-plt.plot(range(1, len(dataC)+1), dataC, color='blue');
-plt.plot(range(1, len(dataD)+1), dataD, color='orange');
+dataA = det_data(0.001, 3, 5)
+dataB = det_data(0.01, 3, 5)
+dataC = det_data(0.1, 3, 5)
+plt.plot(range(3, 6), dataA, color='black');
+plt.plot(range(3, 6), dataB, color='red');
+plt.plot(range(3, 6), dataC, color='blue');
+plt.show()
+plt.clf()
+
+dataD = det_data(0.5, 10, 20)
+plt.plot(range(10, 21), dataD, color='orange');
 plt.show()
 ```
