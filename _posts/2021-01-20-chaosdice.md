@@ -289,8 +289,8 @@ So the odd uptick is an artefact of how numbers are stored on the -->
 #### Deterministic jitter
 
 The story so far is that the effective randomness of a dice is the
-result of small jitters amplified by chaos.
-In this last section, we'll talk about the source of jitters.
+result of tiny jitters amplified by chaos.
+In this last section, we'll talk about the source of jitter.
 In the examples above, we used a computer to generate initial
 conditions uniformly on an interval of size $\ell$.
 This randomness got amplified by the chaotic evolution until it spread
@@ -386,8 +386,7 @@ $$
 
 where the parameters $\ell, \omega, k$ are chosen to ensure the
 dice is statistically fair.
-For instance, from our explorations we can choose some numbers and
-generate effectively random dice rolls with the following code:
+For instance, we can generate effectively random dice rolls with the following code:
 
 ```python
 import numpy as np
@@ -455,6 +454,9 @@ throughout configuration space.
 But the details are pretty similar: the exploration timescale is now
 the system size divided by the jitter size times the rate of error
 amplification.
+Another illustration of the same linear error growth: the "she loves
+me, she loves me not" randomisation games with flowers. There is no
+chaos here, just enouh petals for the final outcome to be hard to guess.
 </p></div>
 
 <div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum"
@@ -467,11 +469,10 @@ by 1 because we have "used up" one degree of freedom in computing the mean.
 <div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum"
 href="#fnr.7">Footnote 7</a></sup> <p class="footpara">
 Presumably, it involves the new factor our deterministic
-jitter introduces: the fact that the high and low frequency processes
+jitter introduces: the jitter and choice oscillations
 are initially in phase.
-This perhaps induces correlations which take longer to wash out for
-larger jitters.
-But if anyone knows more about why this is happening, please leave a comment!
+But I don't know why the effect increases linearly in $\ell$.
+If anyone knows more about why this is happening, please leave a comment!
 </p></div>
 
 ---
