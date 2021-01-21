@@ -342,9 +342,11 @@ We now plug this in to our dice and check the results are fair, once again using
 	</div>
 	</figure>
 
-All approach a fair dice.
-The new feature is that the $\ell = 0.5$ dice is considerably less fair.
-It takes more than $10$ exploration times to arrive at something that looks fair:
+All three quickly approach a fair dice.
+
+#### Onset of fairness
+
+We need to put the $\ell = 0.5$ dice on a separate plot, since it takes more than $10$ exploration times to arrive at something that looks fair:
 
 <figure>
     <div style="text-align:center"><img src
@@ -352,15 +354,18 @@ It takes more than $10$ exploration times to arrive at something that looks fair
 	</div>
 	</figure>
 
-<!-- I've talked a lot about chaos so far, but haven't really dealt with
-jitter, the randomisation of the initial condition.
-You might object all we have done is replace the randomness of the
-dice with the randomness of the initial condition.
-It's true that the implementations of dice or coins so far have used
-randomness from the computer, so in this last section, we'll
-understand how jitter arises *deterministically* and use this to
-design a completely deterministic virtual dice. -->
+If we treat a small test statistic as a measure of the onset of fairness, we can see
+how the onset (measured in exploration times) is related to $\ell$.
+The result appears to be linear:
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/chaosdice6.png"/>
+	</div>
+	</figure>
+
+
+<!-- https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html -->
 <!-- https://plato.stanford.edu/entries/ergodic-hierarchy/ -->
 
 ---
