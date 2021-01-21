@@ -133,10 +133,10 @@ $$
 
 which is consistent with our discrete-time result $T = 4$.
 
-We'll call $T$ the *exploration timescale*, since this is roughly how
+We'll call $T$ the *exploration time*, since this is roughly how
 long it takes for trajectories to fan out and explore the whole space.
 In fact, if we choose a collection of initial
-conditions in some region of size $\ell$, the exploration timescale
+conditions in some region of size $\ell$, the exploration time
 should still tell us roughly how long elements of this set need to
 spread throughout all of configuration space.
 Because of chaos, unless we know precisely which trajectory we picked,
@@ -161,14 +161,14 @@ the system, and into these patches with roughly equal measure. -->
 If the system doesn't get to evolve for long enough, like dropping the
 large dice, trajectories don't spread and the result is strongly
 biased by the initial conditions.
-But after a few exploration timescales, we should be equally likely to
+But after a few exploration times, we should be equally likely to
 be in any of these symmetrically defined patches, when averaged over
 the initial conditions.
 
 This sounds like a mathematical theorem, and perhaps there is
 something we can rigorously prove here.
 But technical results about probability, dynamics and mixing involve
-averaging over *very long times*, $T\to \infty$, rather than the exploration timescales we've
+averaging over *very long times*, $T\to \infty$, rather than the exploration time we've
 introduced here, and I'm not sure what tools we could use [<sup><a id="fnr.4" name="fnr.4" class="footref" href="#fn.4">4</a></sup>].
 <!-- I expect also that we could "fine tune" the division of configuration
 space so that, or the initial rolls -->
@@ -185,7 +185,7 @@ is in $\mathcal{C}_H$ or $\mathcal{C}_T$.
 We can empirically compute the bias of our chaotic coin by repeating the experiment for random initial conditions some number of times,
 adding the number of tails, and dividing by the total number of experiments.
 Here is a plot for $\ell = 0.1$, with bias on the vertical axis and the
-number of exploration timescales on the horizontal axis:
+number of exploration times on the horizontal axis:
 
 <figure>
     <div style="text-align:center"><img src
@@ -195,7 +195,7 @@ number of exploration timescales on the horizontal axis:
 
 The code for generating this and subsequent plots is given in the appendix.
 It increases from highly biased towards heads (where our initial conditions start) to fair, after a few
-exploration timescales, just like we expect.
+exploration times, just like we expect.
 There is nothing special about $\ell = 1$ either.
 Below, we plot the curves for $\ell = 0.001$ (black), $0.01$ (red), $0.1$ (blue), $0.5$ (orange):
 
@@ -206,7 +206,7 @@ Below, we plot the curves for $\ell = 0.001$ (black), $0.01$ (red), $0.1$ (blue)
 	</figure>
 
 Although the curves look somewhat different when plotted in actual steps, they all approach fairness after a few
-exploration timescales.
+exploration times.
 
 #### Chaotic dice
 
@@ -227,7 +227,7 @@ probability.
 Then the statistic
 
 $$
-\sum_{i=1}^d \frac{(N_i - Np_i)^2}{Np_i} = \sum_{i=1}^d d\left(\frac{N_i}{N} - \frac{1}{d}\right)^2
+\sum_{i=1}^d \frac{(N_i - Np_i)^2}{Np_i} = Nd\sum_{i=1}^d \left(\frac{N_i}{N} - \frac{1}{d}\right)^2
 $$
 
 approaches a $\chi^2$ distribution with $d - 1$ degrees of freedom as
@@ -242,9 +242,40 @@ intervals we used above:
 	</div>
 	</figure>
 
-We don't even need to mess around with the tails to see that these
-look like a very fair dice after a couple of exploration timescales.
-The apparent exception is the black curve ($\ell = 0.001$), which
+To make sense of these numbers, we need the
+[critical values](https://www.itl.nist.gov/div898/handbook/eda/section3/eda3674.htm)
+of the $\chi^2$ test.
+Our null hypothesis is that the dice is fair.
+We reject this if our test statistic is too big, where "too big" is
+given by some significance level $\alpha$.
+At a significance level of $\alpha = 0.1$, the relevant critical value
+for $d = 6$ ($\nu = 5$) is around $10$, meaning that if the dice is
+fair, the statistic will only be above the critical value $10\%$ of
+the time.
+If the statistic is bigger than this critical value, we reject the
+null hypothesis that the dice is fair.
+From the figure above, we can see that all the dice are fair (with
+significance level $\alpha = 0.1$) after a few exploration times.
+
+There is one subtlety.
+We only plotted up to $5$ exploration times, because if we evolve the
+black curve ($\ell = 0.001$) for too long (around $5$--$6$ exploration
+times), the statistic increases dramatically and the dice becomes unfair.
+The reason is simply that floats in Python are stored as double
+precision numbers with $16$ bits.
+But an exploration time for $\ell = 0.001$ is about $10$ steps, so
+after $5.5$ exploration times, we have multiplied our original number
+by
+
+$$
+2^{5.5 \cdot 10} \sim 10^{16}.
+$$
+
+We have washed out all of the initial data!
+This is an artefact of the way numbers are stored in a computer rather
+than a property of chaos.
+
+<!-- The apparent exception is the black curve ($\ell = 0.001$), which
 starts doing something weird around $5$--$6$ exploration time scales.
 The reason is simply that the exploration timescale is about $10$
 steps, so after $5.5$ exploration timescales we raise the initial
@@ -252,7 +283,8 @@ conditions to $2^{50} \sim 10^{16}$.
 Python stores double precision floating point numbers with $16$
 decimals, so after this many timescales, we've eaten all the precision
 away!
-So the odd uptick is an artefact of how numbers are stored on the computer and nothing to do with chaos.
+So the odd uptick is an artefact of how numbers are stored on the -->
+<!-- computer and nothing to do with chaos. -->
 
 #### Deterministic jitter
 
@@ -398,8 +430,8 @@ def coin(ell, steps, numrolls = 100000): # simulate many coin flips
             tails += 1
     return tails/numrolls
 
-def explore(ell, lambd = np.log(2)): # compute exploration timescale
-    return np.log(1/ell)/lambd
+def explore(ell, lmbda = np.log(2)): # compute exploration timescale
+    return np.log(1/ell)/lmbda
     
 def coin_data(ell, multiples = 10, numrolls = 100000): # generate data for plotting
     timescale = np.ceil(explore(ell)) # makes timescale an integer
@@ -437,21 +469,21 @@ def dice_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice ro
         outcome = int(sides*evol) # calculate outcome
         outcomes[outcome] += 1
     for k in range(sides):
-        pearson += sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+        pearson += numrolls*sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
     return pearson
 
-def dice_data(ell, multiples = 10, sides = 6, numrolls = 100000): # generate data for plotting
+def dice_data(ell, start_mult = 1, end_mult = 10, sides = 6, numrolls = 100000): # generate data for plotting
     timescale = np.ceil(explore(ell)) # makes timescale an integer
     data = []
-    for n in range(1, multiples+1):
+    for n in range(start_mult, end_mult + 1):
         bias = dice_bias(ell, n*timescale, sides, numrolls = 100000) # evolve for n timescales and compute bias
         data.append(bias) # add bias to data
     return data
 
-data5 = dice_data(0.001, 6)
-data6 = dice_data(0.01, 6)
-data7 = dice_data(0.1, 6)
-data8 = dice_data(0.5, 6)
+data5 = dice_data(0.001, 2, 5)
+data6 = dice_data(0.01, 2, 5)
+data7 = dice_data(0.1, 2, 5)
+data8 = dice_data(0.5, 2, 5)
 plt.plot(range(1, len(data5)+1), data5, color='black');
 plt.plot(range(1, len(data6)+1), data6, color='red');
 plt.plot(range(1, len(data7)+1), data7, color='blue');
