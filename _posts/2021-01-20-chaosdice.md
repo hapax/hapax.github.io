@@ -368,9 +368,9 @@ but from this "onset-of-fairness" curve, we can select parameters to ensure our 
 
 The randomness of a dice is not merely the consequence of symmetry,
 but rather, the combination of jitter and chaos.
-The dynamics amplified small jitters exponentially quickly so that,
+The dynamics amplify small jitters exponentially, so that
 even after a short dice roll, they thread through configuration space
-uniformly.
+approximately uniformly.
 <!-- amplification of small initial jitters by chaos, so
 that they uniformly thread the configuration space of the dice. -->
 The jitter of initial conditions may be genuinely random, but can also
