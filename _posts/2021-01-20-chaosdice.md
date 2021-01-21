@@ -454,8 +454,8 @@ throughout configuration space.
 But the details are pretty similar: the exploration timescale is now
 the system size divided by the jitter size times the rate of error
 amplification.
-Another illustration of the same linear error growth: the "she loves
-me, she loves me not" randomisation games with flowers. There is no
+Another illustration of the same linear error growth: "she loves
+me, she loves me not". There is no
 chaos here, just enouh petals for the final outcome to be hard to guess.
 </p></div>
 
