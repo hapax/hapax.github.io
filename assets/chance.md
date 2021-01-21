@@ -503,7 +503,7 @@ plt.plot(range(2, 6), data8, color='orange');
 plt.show()
 ```
 
-Finally, here are chaotic dice with deterministic jitter:
+Here are chaotic dice with deterministic jitter:
 
 ```python
 def det_bias(ell, steps, sides = 6, numrolls = 100000): # simulate many dice rolls
@@ -537,5 +537,31 @@ plt.clf()
 
 dataD = det_data(0.5, 10, 20)
 plt.plot(range(10, 21), dataD, color='orange');
+plt.show()
+```
+
+Finally, here is the code for measuring the onset of fairness:
+
+```python
+def fair_time(ell, freq = 10, sides = 6, numrolls = 100000): # simulate many dice rolls
+    pearson_check = 100
+    steps = 1
+    while pearson_check > 10:
+        outcomes = [0] * sides
+        pearson = 0
+        for i in range(numrolls):
+            init = (ell/2)*(1 + np.sin(freq*i)) # deterministic jitter
+            evol = init*(2**steps) % 1 # evolve chaotically
+            outcome = int(sides*evol) # calculate outcome
+            outcomes[outcome] += 1
+        for k in range(sides):
+            pearson += numrolls*sides*(outcomes[k]/numrolls - 1/sides)**2 # compute pearson test statistic
+        pearson_check = pearson
+        steps += 1
+    return steps/(explore(ell))
+
+ells = np.linspace(0.01, 0.5, 10)
+fair_data = [fair_time(ell, numrolls = 10000) for ell in ells]
+plt.plot(ells, fair_data, color='purple');
 plt.show()
 ```
