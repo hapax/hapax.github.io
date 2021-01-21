@@ -441,7 +441,7 @@ href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
 Specifically, I'm referring to <i>ergodic theory</i>, which concerns how
 long time averages mimic probability distributions. Although there are some connections to chaos,
 rigorous results on short time averages seem very hard. The
-model I'm describing here is more of a physical ansatz.
+model I'm describing here is a physical ansatz.
 </p></div>
 
 <div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum"
