@@ -390,7 +390,7 @@ information in a deterministic but irreversible fashion.
 
 <div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum"
 href="#fnr.4">Footnote 4</a></sup> <p class="footpara">
-Specifically, I'm referring to *ergodic theory*, which concerns how
+Specifically, I'm referring to <i>ergodic theory</i>, which concerns how
 long time averages mimic probability distributions. Although there are some connections to chaos,
 rigorous results on short time averages seem very hard. The
 model I'm describing here is more of a physical ansatz.
