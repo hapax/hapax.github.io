@@ -250,12 +250,12 @@ We reject this if our test statistic is too big, where "too big" is
 given by some significance level $\alpha$.
 At a significance level of $\alpha = 0.1$, the relevant critical value
 for $d = 6$ ($\nu = 5$) is around $10$, meaning that if the dice is
-fair, the statistic will only be above the critical value $10\%$ of
+fair, the statistic will only be above $10$ around $10\%$ of
 the time.
 If the statistic is bigger than this critical value, we reject the
 null hypothesis that the dice is fair.
-From the figure above, we can see that all the dice are fair (with
-significance level $\alpha = 0.1$) after a few exploration times.
+From the figure above, we can see that all the dice are fair at
+significance level $\alpha = 0.1$ after a few exploration times.
 
 There is one subtlety.
 We only plotted up to $5$ exploration times, because if we evolve the
