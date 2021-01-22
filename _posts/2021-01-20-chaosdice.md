@@ -152,7 +152,7 @@ configuration space. -->
 #### Chaotic coins
 
 This effective randomness is why we roll dice and throw coins.
-Symmetry is still important, since it splits the configuratio space
+Symmetry is still important, since it splits the configuration space
 $\mathcal{C}$ into regions of equal size, into which chaos threads
 trajectories in a roughly uniform way.
 <!-- plays the following role: it splits $\mathcal{C}$ into
