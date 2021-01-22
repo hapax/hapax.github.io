@@ -52,8 +52,9 @@ There are two main ingredients, as I see it: *chaos* and *jitter*.
 We'll focus on chaos first, and a particular characterisation of chaos
 called the "butterfly effect", aka *sensitivity to initial
 conditions*.
-Suppose a system has some space $\mathcal{C}$ of configurations $x(t)
-\in \mathcal{C}$, where $t$ is time.
+Suppose a system has some space of configurations $\mathcal{C}$, with
+the specific configuration at any time $t$ denoted $x(t)
+\in \mathcal{C}$.
 We'll restrict ourselves to systems which
 evolve according to some deterministic rule, i.e. the state $x(t)$ at time $t$
 determines the state $x(t')$ for any $t' > t$ [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
