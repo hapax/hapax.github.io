@@ -68,8 +68,7 @@ $$
 $$
 
 Time here need not be continuous, but could come in discrete steps,
-with $t = 0, 1, 2, \ldots$, but in this case we'll write $x(n) = x_n$
-to minimise clutter.
+with $t = 0, 1, 2, \ldots$.
 The rate of exponential divergence is controlled by $\lambda$, called
 the *Lyapunov exponent* after
 [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov).
@@ -84,14 +83,14 @@ configuration and keep only the fractional part, denoted by "mod
 $1$". So we can describe the system by
 
 $$
-x_{n+1} = 2x_n \text{ mod } 1.
+x(n+1) = 2x(n) \text{ mod } 1.
 $$
 
 It's easy to see this system is chaotic, since if we take two nearby
-points $x_0, y_0$, then
+points $x(0), y(0)$, then
 
 $$
-|x_n - y_n| = 2^n|x_0 - y_0| = e^{n\log 2} |x_0 - y_0|,
+|x(n) - y(n)| = 2^n|x(0) - y(0)| = e^{n\log 2} |x(0) - y(0)|,
 $$
 
 provided the difference remains smaller than $1$.
@@ -107,7 +106,7 @@ Set $x_0 = 0.1$ and $y_0 = 0.2$.
 Then
 
 $$
-|x_4 - y_4| = 2^4 |x_0 - y_0| \text{ mod } 1 = 1.6 \text{ mod } 1 = 0.6.
+|x(4) - y(4)| = 2^4 |x(0) - y(0)| \text{ mod } 1 = 1.6 \text{ mod } 1 = 0.6.
 $$
 
 This does not mean the butterfly effect has "stopped". Rather, this is
@@ -121,7 +120,7 @@ Then two trajectories with initial separation $\ell$ should spread
 throughout the whole system in a time $T$ given by
 
 $$
-L \sim |x_T - y_T| = e^{\lambda T} \ell \quad \Longrightarrow \quad T
+L \sim |x(T) - y(T)| = e^{\lambda T} \ell \quad \Longrightarrow \quad T
 \sim \frac{1}{\lambda}\log \left(\frac{L}{\ell}\right).
 $$
 
