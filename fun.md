@@ -16,8 +16,8 @@ permalink: /fun/
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
-- ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
-  essay on creativity and personality development.
+<!-- - ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
+  essay on creativity and personality development. -->
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
