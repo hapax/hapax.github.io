@@ -472,7 +472,8 @@ chaos here, just enough petals for the final outcome to be hard to -->
 href="#fnr.6">Footnote 6</a></sup> <p class="footpara">
 We need many samples so that for each term in the sum approaches a
 unit normal distribution by the central limit theorem. The number of degrees of freedom is reduced
-by $1$ because we have "used up" one degree of freedom in introducing the mean.
+by $1$ because we have "used up" one degree of freedom in introducing
+the mean. (The technical justification is Cochran's theorem.)
 </p></div>
 
 <div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum"
