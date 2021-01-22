@@ -445,7 +445,16 @@ model I'm describing here is a physical ansatz.
 
 <div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum"
 href="#fnr.5">Footnote 5</a></sup> <p class="footpara">
-It's not clear that flipping a coin really is a chaotic system, though
+I don't think a coin is truly chaotic.
+Rather, we flip with large jitter, and these jitters get amplified
+linearly (I expect).
+But if you try to minimise jitter, and don't let the coin flip too
+many times, it's very easy to bias the outcome.
+A similar example is playing "s/he loves
+me, s/he loves me not" with flower petals, where uncertainty is the
+result of there being too many petals to eyeball. But we can easily
+bias the results by counting the petals!
+<!-- It's not clear that flipping a coin really is a chaotic system, though
 in this section, we're modelling it that way to jive with our broader story.
 Instead, I expect that the jitter of initial conditions gets amplified
 <i>linearly</i>, so the coin needs to evolve for longer to spread
@@ -455,7 +464,8 @@ the system size divided by the jitter size times the rate of error
 amplification.
 Another illustration of the same linear error growth: "she loves
 me, she loves me not". There is no
-chaos here, just enouh petals for the final outcome to be hard to guess.
+chaos here, just enough petals for the final outcome to be hard to -->
+<!-- guess. -->
 </p></div>
 
 <div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum"
