@@ -74,6 +74,7 @@ the *Lyapunov exponent* after
 [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov).
 <!-- There are all sorts of generalisations and subtleties, but all the
 important ideas can be seen with a single Lyapunov exponent. -->
+
 We can see how this operates in a very simple chaotic system called
 the *doubling map*.
 The configuration space $\mathcal{C} = [0, 1]$ is just the unit
