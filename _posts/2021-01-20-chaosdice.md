@@ -33,7 +33,7 @@ In this case, it's unlikely to roll, and whatever side happens to be
 facing up when I "roll" will be facing up when it stops [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>].
 If I pick this face randomly, I will get a random outcome, but the
 point of the dice is to outsource the randomness!
-Symmetry is important, as we will see, but dice is fundamentally a roll-playing game.
+Symmetry is important, as we will see, but using dice is fundamentally a roll-playing game.
 
 #### The Butterfly Effect
 
@@ -46,7 +46,7 @@ will need to randomly choose the initial conditions for tossing if I
 want the coin flip to be random.
 This defeats the purpose of the coin!
 So, how does a deterministic process like throwing a coin generate an
-*effectively random* and *equiprobably* outcome?
+*effectively random* and *uniform* outcome?
 There are two main ingredients, as I see it: *chaos* and *jitter*.
 
 We'll focus on chaos first, and a particular characterisation of chaos
