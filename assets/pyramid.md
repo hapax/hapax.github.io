@@ -157,27 +157,45 @@ For a cube with $n = 3$, the slice is a square whose area changes
 *quadratically*.
 The pattern continues, and in $n$ dimensions, slicing a pyramid
 results in a cross-section which grows as $x^{n-1}$ for a parameter
-$x$ going from $x = $ at the tip of the pyramid to $x = 1/2$ at the
+$x$ going from $x = 0$ at the tip of the pyramid to $x = 1$ at the
 base.
+
+#### Integrating monomials
+
 We can add up the area of each cross-section precisely by integrating
 with respect to $x$.
-The answer, of course, is the volume of the pyramid.
-Hence,
+The answer is not quite the volume of the pyramid, however, since the
+distance from the tip of the pyramid to the centre of the base is
+actually $d = 1/2$.
+So $x$ is *twice* the actual distance.
+If we want to integrate to find the volume, the correct "infinitesimal
+width" of a cross-section is not $dx$, but $dx/2$.
+The corresponding integral should then give us the volume we
+calculated above:
 
 $$
-\int_0^{1/2} x^{n-1} \, dx = \frac{1}{2n}.
+\int_0^{1} x^{n-1} \, \frac{dx}{2} = V_n = \frac{1}{2n} \quad \Longrightarrow \quad \int_0^{1} x^{n-1} \, dx = \frac{1}{n}.
 $$
 
-Now, if we double the height of the pyramid, with the base at $x = 1$,
-then the total volume should double, since we have only scaled along
-one dimension.
-Thus,
+If instead of a unit hypercube, we have a cube of side length $b$,
+then the volume of the whole hypercube is $b^n$, and hence the volume
+of a pyramid is $b^n/2n$.
+If we let our parameter $x$ go from $x = 0$ at the tip to $x = b$ at
+the base, then once again it is twice the distance, and the same
+reasoning shows that
 
 $$
-\int_0^{1} x^{n-1} \, dx = \frac{1}{n}.
+\int_0^{b} x^{n-1} \, dx = \frac{b^n}{n}.
 $$
 
-So, we can integrate any monomial geometrically!
+Thus, we have geometrically integrated an arbitrary monomial!
+Of course, we can combine what we've learned to integrate polynomials
+and even power series.
+But I'll end on a slightly different note.
+
+$$
+\int_0^{b} x^{p/q} \, dx.
+$$
 
 #### Acknowledgments
 
