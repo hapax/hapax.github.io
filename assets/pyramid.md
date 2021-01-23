@@ -35,12 +35,26 @@ We can represent this reasoning in a picture:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/pyramid1.png"/>
+    ="/images/posts/pyramid2.png"/>
 	</div>
 	</figure>
 
-You might think this simple geometric reasoning only applies to a
-linear function.
-But it turns out you can use it for any polynomial!
+But what happens if we want to integrate $x^2$?
+There doesn't seem to be any analogous reasoning, and we are forced to
+do something fancier (like use the
+[fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus))
+if we want to find the area under the curve.
 
 #### Pyramids and hypercubes
+
+It turns out we haven't tried hard enough, and there is a simple
+geometric approach to integrating $x^2$ and all the higher monomials
+$x^n$.
+This lets us integrate any polynomial by simply adding monomial terms.
+To 
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/pyramid3.png"/>
+	</div>
+	</figure>
