@@ -71,4 +71,5 @@ $$
 2A = \frac{1}{2} \cdot 2bh \quad \Longrightarrow \quad A = \frac{1}{2}bh.
 $$
 
-This may seem like a convoluted reinterpretation, but 
+This may seem like a convoluted reinterpretation, but it generalises
+in a lovely way to tell us how to integrate polynomials.
