@@ -137,10 +137,11 @@ graph the area of the cross-section of pyramid passing through that point,
 parallel to the base.
 Each slice will be a shrunken copy of the base itself.
 As examples, on the square the "pyramid" is just a quarter triangle.
-The blue slice is a line (a copy of the base, which is a side of the
+The cross-section is a line (a copy of the base, which is a side of the
 square), which is increasing linearly in length.
 Similarly, for a cube, the pyramid is a bonafide square-based pyramid,
 and each slice is a square as well.
+We draw some pictures below:
 
 <figure>
     <div style="text-align:center"><img src
@@ -158,7 +159,6 @@ The pattern continues, and in $n$ dimensions, slicing a pyramid
 results in a cross-section which grows as $x^{n-1}$ for a parameter
 $x$ going from $x = $ at the tip of the pyramid to $x = 1/2$ at the
 base.
-
 We can add up the area of each cross-section precisely by integrating
 with respect to $x$.
 The answer, of course, is the volume of the pyramid.
