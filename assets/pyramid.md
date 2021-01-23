@@ -176,3 +176,5 @@ Thus,
 $$
 \int_0^{1} x^{n-1} \, dx = \frac{1}{n}.
 $$
+
+We just learned how to integrate an arbitray monomial geometrically!
