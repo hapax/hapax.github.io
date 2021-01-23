@@ -51,10 +51,17 @@ It turns out we haven't tried hard enough, and there is a simple
 geometric approach to integrating $x^2$ and all the higher monomials
 $x^n$.
 This lets us integrate any polynomial by simply adding monomial terms.
-To 
+To see how to do this, let's first think of the integral of a linear
+function in a slightly different way.
+Rather than as half a square, let's slide the "height" of the triangle
+down so it becomes isosceles.
+The area is unchanged since $b$ and $h$ have now swapped roles.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/pyramid3.png"/>
 	</div>
 	</figure>
+
+Now we double this triangle, and see it covers half of a square of
+area $2bh$.
