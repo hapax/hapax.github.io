@@ -133,15 +133,46 @@ the generalisation of our warm-up exercise to higher dimensions.
 
 Let's now focus on a single pyramid.
 We can move along the line from the tip to the centre of the base, and
-graph the area of the "slice" of pyramid passing through that point.
-It will be a shrunken copy of the base itself, and as examples, we
-consider the square, where the "pyramid" is just a triangle, and this
-amounts to shifting the side back up, the reverse of our warm-up
-exercise.
-
+graph the area of the cross-section of pyramid passing through that point,
+parallel to the base.
+Each slice will be a shrunken copy of the base itself.
+As examples, on the square the "pyramid" is just a quarter triangle.
+The blue slice is a line (a copy of the base, which is a side of the
+square), which is increasing linearly in length.
+Similarly, for a cube, the pyramid is a bonafide square-based pyramid,
+and each slice is a square as well.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/pyramid6.png"/>
 	</div>
 	</figure>
+
+As we go along, the side length of the slice will change linearly.
+But the *area* will change in a way that depends on the dimension we
+are working in! It stays linear on the square, since it has $2 - 1 =
+1$ dimension.
+For a cube with $n = 3$, the slice is a square whose area changes
+*quadratically*.
+The pattern continues, and in $n$ dimensions, slicing a pyramid
+results in a cross-section which grows as $x^{n-1}$ for a parameter
+$x$ going from $x = $ at the tip of the pyramid to $x = 1/2$ at the
+base.
+
+We can add up the area of each cross-section precisely by integrating
+with respect to $x$.
+The answer, of course, is the volume of the pyramid.
+Hence,
+
+$$
+\int_0^{1/2} x^{n-1} \, dx = \frac{1}{2n}.
+$$
+
+Now, if we double the height of the pyramid, with the base at $x = 1$,
+then the total volume should double, since we have only scaled along
+one dimension.
+Thus,
+
+$$
+\int_0^{1} x^{n-1} \, dx = \frac{1}{n}.
+$$
