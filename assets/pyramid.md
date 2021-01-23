@@ -45,6 +45,8 @@ do something fancy (like use the
 [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus))
 if we want to find the area under the curve.
 
+#### A triangular warm-up
+
 But it turns out we haven't tried hard enough!
 There is a simple geometric approach to integrating $x^2$ and all the
 higher monomials $x^n$.
