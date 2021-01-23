@@ -89,8 +89,21 @@ square is $1^1 = 1$, and volume of the unit cube is $1^3 = 1$.
 The pattern continues, with the volume simply given by the product of
 the length of each side of the hypercube, $1^n = 1$.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/pyramid4.png"/>
+	</div>
+	</figure>
+
 Let us now divide a hypercube in the following way: draw a point at
 the center, and from that point, draw a line to each corner.
 These lines form the edges of a $(n-1)$-hypercube-based hyperpyramid,
 which sounds a bit crazy but is actually very simple.
 We illustrate for the simple cases below.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/pyramid5.png"/>
+	</div>
+	</figure>
+
