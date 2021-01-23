@@ -64,4 +64,11 @@ The area is unchanged since $b$ and $h$ have now swapped roles.
 	</figure>
 
 Now we double this triangle, and see it covers half of a square of
-area $2bh$.
+area $2bh$. Since twice the area of the triangle equals half the area
+of this square,
+
+$$
+2A = \frac{1}{2} \cdot 2bh \quad \Longrightarrow \quad A = \frac{1}{2}bh.
+$$
+
+This may seem like a convoluted reinterpretation, but 
