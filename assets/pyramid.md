@@ -178,3 +178,7 @@ $$
 $$
 
 We just learned how to integrate an arbitray monomial geometrically!
+
+#### Acknowledgments
+
+Thanks to J.A. for discussion about integrating from first principles.
