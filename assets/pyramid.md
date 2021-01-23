@@ -189,14 +189,7 @@ $$
 $$
 
 Thus, we have geometrically integrated an arbitrary monomial!
-Of course, we can combine what we've learned to integrate polynomials
-and even power series.
-But I'll end on a slightly different note.
-
-$$
-\int_0^{b} x^{p/q} \, dx.
-$$
 
 #### Acknowledgments
 
-Thanks to J.A. for discussion about integrating from first principles.
+Thanks to J.A. for a stimulating discussion of integration from first principles.
