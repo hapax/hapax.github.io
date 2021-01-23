@@ -98,7 +98,7 @@ the length of each side of the hypercube, $1^n = 1$.
 	</figure>
 
 Let us now divide a hypercube in the following way: draw a point at
-the center, and from that point, draw a line to each corner.
+the centre, and from that point, draw a line to each corner.
 These lines form the edges of a $(n-1)$-hypercube-based hyperpyramid,
 which sounds a bit crazy but is actually very simple.
 We illustrate for the simple cases below.
@@ -110,8 +110,38 @@ We illustrate for the simple cases below.
 	</figure>
 
 Each of these (hyper)pyramids is congruent, i.e. has the same shape,
-so to work out their volume, all we need to is compute how many there
+so to work out their volume, all we need to do is compute how many there
 are.
 Since each pyramid has a $(n-1)$-cube or *face* as a base, this is the
 same as counting faces.
-But this is easy:
+But this is easy: along any dimension there are two faces,
+corresponding to fixing $x_i = 0$ or $x_i = 1$ for some $i$.
+Thus, there are $2n$ faces.
+Just to check this makes sense, we have $2 \cdot 1 = 2$ "faces" or
+endpoints for a line, $2 \cdot 2 = 4$ sides to a square, and $2 \cdot
+3 = 6$ faces for a cube.
+Thus, each pyramid has a volume
+
+$$
+V_n = \frac{1}{2n}.
+$$
+
+Since a triangle is a pyramid in two dimensions, this result is just
+the generalisation of our warm-up exercise to higher dimensions.
+
+#### Slicing pyramids
+
+Let's now focus on a single pyramid.
+We can move along the line from the tip to the centre of the base, and
+graph the area of the "slice" of pyramid passing through that point.
+It will be a shrunken copy of the base itself, and as examples, we
+consider the square, where the "pyramid" is just a triangle, and this
+amounts to shifting the side back up, the reverse of our warm-up
+exercise.
+
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/pyramid6.png"/>
+	</div>
+	</figure>
