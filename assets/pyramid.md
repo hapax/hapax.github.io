@@ -40,16 +40,14 @@ We can represent this reasoning in a picture:
 	</figure>
 
 But what happens if we want to integrate $x^2$?
-There doesn't seem to be any analogous reasoning, and we are forced to
-do something fancier (like use the
+There doesn't seem to be any analogous geometry, and we are forced to
+do something fancy (like use the
 [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus))
 if we want to find the area under the curve.
 
-#### Pyramids and hypercubes
-
-It turns out we haven't tried hard enough, and there is a simple
-geometric approach to integrating $x^2$ and all the higher monomials
-$x^n$.
+But it turns out we haven't tried hard enough!
+There is a simple geometric approach to integrating $x^2$ and all the
+higher monomials $x^n$.
 This lets us integrate any polynomial by simply adding monomial terms.
 To see how to do this, let's first think of the integral of a linear
 function in a slightly different way.
@@ -72,4 +70,27 @@ $$
 $$
 
 This may seem like a convoluted reinterpretation, but it generalises
-in a lovely way to tell us how to integrate polynomials.
+in a lovely way to help us integrate polynomials.
+
+#### Pyramids and hypercubes
+
+A hypercube or $n$-cube is a cube in $n$ dimensions.
+Formally, we can view it as all points
+
+$$
+I^n = \{(x_1, x_2, \ldots, x_n) : x_i \in [0, 1]\} = [0, 1]^n.
+$$
+
+For instance, a $1$-cube is the unit interval $I = [0, 1]$, while a
+$2$-cube is the unit square $[0 ,1]^2$.
+The $3$-cube is what we usually mean by a "cube".
+Now, the length of the unit interval is $1$, the area of the unit
+square is $1^1 = 1$, and volume of the unit cube is $1^3 = 1$.
+The pattern continues, with the volume simply given by the product of
+the length of each side of the hypercube, $1^n = 1$.
+
+Let us now divide a hypercube in the following way: draw a point at
+the center, and from that point, draw a line to each corner.
+These lines form the edges of a $(n-1)$-hypercube-based hyperpyramid,
+which sounds a bit crazy but is actually very simple.
+We illustrate for the simple cases below.
