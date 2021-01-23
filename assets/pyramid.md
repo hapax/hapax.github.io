@@ -109,3 +109,9 @@ We illustrate for the simple cases below.
 	</div>
 	</figure>
 
+Each of these (hyper)pyramids is congruent, i.e. has the same shape,
+so to work out their volume, all we need to is compute how many there
+are.
+Since each pyramid has a $(n-1)$-cube or *face* as a base, this is the
+same as counting faces.
+But this is easy:
