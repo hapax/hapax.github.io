@@ -129,22 +129,14 @@ grow by at least one Planck area, as this 2D cartoon shows:
 
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n$ Planck areas.
-But computers usually do more than passively store data.
-They will take that data, perform some useful computation on it, and
-then output the results, like doing a google search or playing
-Minecraft.
-If a black hole really is a quantum computer, we can ask: what
-computation is it doing, and what is its output?
-
-#### Black holes glow
-
-We'll actually start with the output, and then reverse engineer the
-computation, since this mirrors the history of the subject.
-<!-- What we've said so far is a bit confusing. It suggests a
-So, let's return to our picture of the black hole as a spherical computer.-->
 Our picture of a black hole as a spherical computer suggest that information lives on the surface, and
 if it lives on the surface, maybe it can come out again, or create
 other detectable features near the horizon.
+
+#### Black holes glow
+
+<!-- What we've said so far is a bit confusing. It suggests a
+So, let's return to our picture of the black hole as a spherical computer.-->
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
@@ -188,6 +180,15 @@ the *Information Paradox*, and it's been one of the biggest open problems in
 quantum gravity for $45$ years.
 
 #### Black holes scramble
+
+<!-- But computers usually do more than passively store data.
+They will take that data, perform some useful computation on it, and
+then output the results, like doing a google search or playing
+Minecraft.
+If a black hole really is a quantum computer, we can ask: what
+computation is it doing, and what is its output?
+We'll actually start with the output, and then reverse engineer the
+computation, since this mirrors the history of the subject. -->
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
