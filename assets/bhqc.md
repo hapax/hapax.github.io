@@ -138,7 +138,7 @@ Minecraft.
 If a black hole really is a quantum computer, we can ask: what
 computation is it doing, and what is its output?
 We'll actually start with the output, and then reverse engineer the
-computational task, since this mirrors the history of the subject.
+computation, since this mirrors the history of the subject.
 
 <!-- What we've said so far is a bit confusing. It suggests a-->
 So, our picture of the black hole as a spherical computer suggests
