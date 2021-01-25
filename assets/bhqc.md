@@ -124,8 +124,10 @@ dimensions to make things a bit simpler:
 	</div>
 	</figure>
 
-If we add $N'$ bits, then the horizon must grow by at least $N'$
-Planck areas.
+If we add a single bit, then the horizon must grow by at least one
+Planck area.
+More generally, if we throw $N'$ bits into the black hole, the area
+must grow by at least $N'\mathcal{A}_p$.
 
 #### Black holes emit noise
 
