@@ -156,7 +156,7 @@ a hot coal or an incandenscent globe.
 If this is true, then when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
 evaporates.
-Quantum gravity takes its secrets to the grave, replacing them with
+Quantum gravity takes its secrets to the grave, and replaces them with
 a random sequence of $1$s and $0$s.
 
 <figure>
