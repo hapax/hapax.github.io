@@ -64,8 +64,8 @@ information: namely, the information about the state it was in when
 you collapsed it.
 To make the analogy to computing explicit, suppose we have $N$
 classical bits, which can be either $0$ or $1$, say electrons which
-can be spin up or spin down, which we squeeze using an electromagnetic
-trash compactor until they form a black hole.
+can be spin up or spin down. We then use an electromagnetic trash
+compactor to squish them until they form a black hole.
 The state of the system before it collapsed was an $N$-bit string, and
 afterwards, those $N$ bits are somehow stored inside the black hole.
 
