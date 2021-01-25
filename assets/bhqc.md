@@ -129,14 +129,16 @@ grow by at least one Planck area, as this 2D cartoon shows:
 
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n$ Planck areas.
-Our picture of a black hole as a spherical computer suggest that information lives on the surface, and
-if it lives on the surface, maybe it can come out again, or create
-other detectable features near the horizon.
 
 #### Black holes glow
 
 <!-- What we've said so far is a bit confusing. It suggests a
 So, let's return to our picture of the black hole as a spherical computer.-->
+<!-- Our picture of a black hole as a spherical computer suggest that information lives on the surface, and
+if it lives on the surface, maybe it can come out again, or create
+other detectable features near the horizon. -->
+All of this suggests that information is stored on the surface, so
+perhaps it can come out again, or at least, create detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
