@@ -27,15 +27,15 @@ play an important role in the life of star systems, galaxies, and even
 the early universe as a whole.
 
 In 2015, the gravitational wave observatory LIGO detected ripples in
-spacetime which could only be explained by two black holes, spiralling inwards
+spacetime which could only be produced by two black holes, spiralling inwards
 and merging a billion light years away.
 We've known since the 1990s that a supermassive black hole, millions
 of times heavier than our sun, lurks in
 the heart of the Milky Way, an achievement recognized by the 2020 Nobel
 Prize in Physics.
 And most spectacularly, in 2019, the Event Horizon Telescope stitched
-together an image of a supermassive black hole, 50 million years old
-and in a galaxy far, far away:
+together an image of a supermassive black hole, 50 million years old,
+in the galaxy M87 far, far away:
 
 <figure>
     <div style="text-align:center"><img src
