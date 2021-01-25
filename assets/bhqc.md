@@ -20,11 +20,14 @@ Black holes are regions of spacetime where gravity is strong enough to
 trap light.
 This is no mean feat, and it takes the death of a giant star, or
 disastrous collisions at the core of a galaxy, to produce them.
-But we now know, from a whole spectrum of clues, that they exist.
+But we now know, from a whole spectrum of clues, that they exist and
+play an important role in the life of star systems and galaxies.
+
 In 2015, the gravitational wave observatory LIGO detected a signal
 which could only be explained by two black holes, spiralling inwards
 and merging a billion light years away.
-We've known since the 1990s that a supermassive black hole lurks in
+We've known since the 1990s that a supermassive black hole, millions
+of times heavier than our sun, lurks in
 the heart of the Milky Way, an achievement recognized by the 2020 Nobel
 Prize in Physics.
 And most spectacularly, in 2019, the Event Horizon Telescope stitched
