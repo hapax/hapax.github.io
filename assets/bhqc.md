@@ -153,8 +153,8 @@ This disappearing act is known as *black hole evaporation*.
 	</div>
 	</figure>
 	
-But if the black hole disappears, it's natural to ask what happens to
-the information it was storing.
+But if black holes evaporate, it's natural to ask what happens to
+the information they store.
 Hawking's calculation suggests that the glow of the black hole is
 effectively *random*, a noisy, uninformative process like the light from
 a hot coal or an incandenscent light globe.
