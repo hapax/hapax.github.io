@@ -138,23 +138,28 @@ If a black hole really is a quantum computer, we can ask: what
 computation is it doing, and what is the output from that?
 We'll actually start with the output, and then reverse engineer the
 computational task being performed.
+
 What we've said so far is a bit confusing. It suggests a picture where
 information lives on the surface of the black hole rather than inside.
 And if it lives on the surface, then maybe it can come out again, or
 lead to other interesting properties near the horizon.
-
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black.
-Rather, they faintly glow, like a hot coal or a light bulk, emitting
-what is now called *Hawking radiation*.
+Rather, they faintly glow, emitting what is now called *Hawking radiation*.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/bhqc5.png"/>
 	</div>
 	</figure>
+
+From this premise, Hawking raised one of the longest standing puzzles
+in physics: the *Information Problem*.
+The basic idea is simple.
+The glow costs energy, gradually depleting the black hole until it
+disappears altogether.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
