@@ -46,7 +46,7 @@ in the galaxy M87 far, far away:
 But for all their astronomical richness and complexity, black holes
 harbour just as much interest for theoretical physics, and in
 particular, the program of combining quantum mechanics with gravity,
-aka *quantum gravity*.
+known as *quantum gravity*.
 The goal of this tutorial will be to explore some of the problems of
 black holes and quantum gravity, and to introduce cutting edge
 approaches which, surprisingly, come directly from language of quantum
