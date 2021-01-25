@@ -149,7 +149,7 @@ Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black: they *glow*.
-This glow is called *Hawking radiation*, and it costs energy,
+This glow is called *Hawking radiation*, and it costs energy to produce,
 gradually depleting the black hole until it disappears altogether.
 This process is called *black hole evaporation*.
 
