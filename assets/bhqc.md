@@ -141,9 +141,9 @@ We'll actually start with the output, and then reverse engineer the
 computation, since this mirrors the history of the subject.
 
 <!-- What we've said so far is a bit confusing. It suggests a-->
-So, our picture of the black hole as a spherical computer suggests
-that information lives on the surface.
-And if it lives on the surface, maybe it can come out again, or create
+So, let's return to our picture of the black hole as a spherical computer.
+The pixels we drew suggest that information lives on the surface, and
+if it lives on the surface, maybe it can come out again, or create
 other detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
