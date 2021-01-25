@@ -150,7 +150,7 @@ important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black, but *glow* faintly.
 This glow is called *Hawking radiation*, and it costs energy to produce,
-gradually depleting the black hole until it disappears altogether.
+gradually depleting the black hole until it disappears.
 This process is called *black hole evaporation*.
 
 <figure>
