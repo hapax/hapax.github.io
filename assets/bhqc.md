@@ -182,7 +182,7 @@ This tension between quantum mechanics and Hawking's glow is called
 the *Information Paradox*, and it's been one of the biggest open problems in
 quantum gravity for $45$ years.
 
-#### Black holes scramble
+#### Black holes encrypt
 
 Before we try and solve this, let's take a step back.
 Computers usually do more than passively store data.
