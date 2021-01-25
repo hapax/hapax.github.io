@@ -162,7 +162,7 @@ This process is called *black hole evaporation*.
 But if the black hole disappears, it's natural to ask what happens to
 the information it was storing.
 Hawking's calculation suggests that the glow of the black hole is
-effective *random*, a noisy, uninformative radiance like the light from
+effectively *random*, a noisy, uninformative process like the light from
 a hot coal or an incandenscent light bulb.
 This means that when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
