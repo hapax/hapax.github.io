@@ -177,10 +177,14 @@ a random sequence of $1$s and $0$s.
 
 This is kind of a big deal, because destroying information is not
 allowed by quantum mechanics.
-This is why, in a quantum computer, all the gates are reversible; it's
-a basic physical requirement.
-So if black holes destroy information, it seems like quantum mechanics
-must break down when gravity is involved.
+States always evolve in a reversible fashion, which is why gates are
+always reversible in quantum computing. It's just a basic physical
+requirement.
+So if black holes destroy information, then quantum mechanics must be
+wrong.
+This tension between quantum mechanics and Hawking's glow is called
+the *Information Paradox*, and its basically been an open problem for
+$50$ years.
 
 #### Black holes scramble
 
