@@ -124,10 +124,13 @@ dimensions to make things a bit simpler:
 	</div>
 	</figure>
 
+If we add $N'$ bits, then the horizon must grow by at least $N'$
+Planck areas.
+
+#### Black holes emit noise
+
 We've been vague about how information about the collapsed matter is
 stored, or new information added.
-
-#### Black holes contain information
 
 <!-- ##### Introduction
 
