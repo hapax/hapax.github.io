@@ -146,7 +146,15 @@ lead to other interesting properties near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
-he discovered that black holes are not black: they glow!
+he discovered that black holes are not truly black.
+Rather, they faintly glow, like a hot coal or a light bulk, emitting
+what is now called *Hawking radiation*.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc5.png"/>
+	</div>
+	</figure>
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
