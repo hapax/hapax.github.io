@@ -75,9 +75,9 @@ afterwards, those $N$ bits are somehow stored inside the black hole.
 	</div>
 	</figure>
 
-If our system is quantum, with $N$ qubits in state $|\psi\rangle$,
-then after collapse $|\psi\rangle$ is somehow stored in the black
-hole. The story is the same.
+If our system is quantum, with $N$ qubits in some state
+$|\psi\rangle$, then after collapse $|\psi\rangle$ is somehow stored
+in the black hole. The story is basically the same.
 
 <!-- ##### Introduction
 
