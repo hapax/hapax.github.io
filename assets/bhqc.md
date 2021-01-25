@@ -184,6 +184,15 @@ quantum gravity for $45$ years.
 
 #### Black holes scramble
 
+Before we try and solve this, let's take a step back.
+Computers usually do more than passively store data.
+They will tke the data, perform some useful computation on it, then
+output some results, like doing a google search or playing
+Minecraft.
+A black hole takes information about collapsing stars, or fatally
+inquisitive astronauts, and outputs what looks like random noise.
+What computation could connect them?
+
 <!-- But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
 then output the results, like doing a google search or playing
