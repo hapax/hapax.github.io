@@ -113,6 +113,10 @@ either $1$ or $0$.
 	</div>
 	</figure>
 
+Once a black hole has formed, you can throw more things into it.
+
+#### Black holes contain information
+
 <!-- ##### Introduction
 
 A black hole is a very special type of quantum computer. In this
