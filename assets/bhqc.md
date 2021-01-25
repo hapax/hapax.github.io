@@ -148,15 +148,15 @@ important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black.
 Rather, they faintly glow, emitting light we now call *Hawking radiation*.
+The glow costs energy, gradually depleting the black hole until it
+disappears altogether.
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/bhqc5.png"/>
 	</div>
 	</figure>
-
-The glow costs energy, gradually depleting the black hole until it
-disappears altogether.
+	
 The question is: what happens to the information it was storing?
 Hawking's calculations suggested that the glow of the black hole is
 essentially random, containing almost no information at all.
