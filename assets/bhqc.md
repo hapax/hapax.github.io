@@ -185,13 +185,18 @@ quantum gravity for $45$ years.
 #### Black holes encrypt
 
 Before we try and solve this, let's take a step back.
-Computers usually do more than passively store data.
-They will tke the data, perform some useful computation on it, then
-output some results, like doing a google search or playing
+Computers usually do more than passively store input data.
+They will take the data, perform some useful computation on it, then
+output results, like doing a google search or playing
 Minecraft.
-A black hole takes information about collapsing stars, or fatally
-inquisitive astronauts, and outputs what looks like random noise.
-What computation could connect them?
+A black hole takes information about collapsing stars, or dust clouds,
+or fatally inquisitive astronauts, and outputs what looks like random noise.
+Could a reversible computation connect them?
+That could explains Hawking's result, but remain consistent with
+quantum mechanics.
+A helpful analogy comes from the cryptography, the science of secret messages.
+Really, cryptography is about concealing information in a reversible
+way, so perhaps it 
 
 <!-- But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
