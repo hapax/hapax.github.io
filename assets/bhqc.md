@@ -141,9 +141,12 @@ computational task being performed.
 
 What we've said so far is a bit confusing. It suggests a picture where
 information lives on the surface of the black hole rather than inside.
-If it lives on the surface, then it potentially has properties that we
-can detect, and in 1975, guided by this intuition, Stephen Hawking
-made the most important calculation of his life.
+And if it lives on the surface, then maybe it can come out again, or
+lead to other interesting properties near the horizon.
+Guided by this intuition, in 1975 Stephen Hawking made the most
+important calculation of his life.
+Using a combination of techniques from gravity and particle physics,
+he discovered that black holes are not black: they glow!
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
