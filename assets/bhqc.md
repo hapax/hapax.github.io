@@ -175,6 +175,14 @@ a random sequence of $1$s and $0$s.
 	</div>
 	</figure>
 
+This is kind of a big deal, because destroying information is not
+allowed by quantum mechanics.
+This is why, in a quantum computer, all the gates are reversible; it's
+a basic physical requirement.
+So if black holes destroy information, it seems like quantum mechanics
+must break down when gravity is involved.
+
+#### Black holes scramble
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
