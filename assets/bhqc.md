@@ -131,8 +131,8 @@ must grow by at least $n\mathcal{A}_p$.
 
 #### Black holes emit noise
 
-We've been vague about how information about the collapsed matter is
-stored, or new information added.
+Computers usually do much more than passively store data: they compute
+with, or process that data, to perform some useful task.
 
 <!-- ##### Introduction
 
