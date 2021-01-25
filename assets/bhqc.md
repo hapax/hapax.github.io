@@ -85,6 +85,34 @@ in the black hole. The story is basically the same.
 	</div>
 	</figure>
 
+A natural question is how the information stored in the black hole is
+related to its physical parameters, things we can measure.
+In the 1970s, Jacob Bekenstein and Stephen Hawking discovered
+something remarkable.
+They learned that the amount of information you can store in a black
+hole, the number of bits, is proportional to the area of the black
+hole horizon.
+In fact, up to some small numbers we're not going to worry, its the
+area of the black hole $\mathcal{A}$ divided by somthing called the
+*Planck area*, which is the unique area you can build out of basic
+physical constants:
+
+$$
+\mathcal{A}_P = \frac{\hbar G}{c^3} \approx 2.56 \times 10^{-70}
+\text{ m}^2.
+$$
+
+We derive this in an appendix, but for our purposes, it will help us
+form a picture of a black hole as a spherical computer.
+Its surface is split into Planck area-sized pixels, which can be
+either $1$ or $0$.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc3.png"/>
+	</div>
+	</figure>
+
 <!-- ##### Introduction
 
 A black hole is a very special type of quantum computer. In this
