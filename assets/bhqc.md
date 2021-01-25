@@ -19,8 +19,8 @@ date:  2021-02-03
 
 Black holes are regions of spacetime where gravity is strong enough to
 trap light.
-Astrophysically, they form when large stars die.
-
+This is no mean feat, and it takes the death of a giant star, or the
+messy, slowly rotating core of a galaxy, to produce them.
 
 <!-- ##### Introduction
 
