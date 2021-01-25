@@ -116,9 +116,10 @@ to go quantum.
 	</figure>
 
 Once a black hole has formed, you can throw more things into it, a bit
-like storing data on a computer. But in order to accomodate this new
-data, the black hole must grow bigger! We can draw a picture in two
-dimensions to make things a bit simpler:
+like downloading something onto your computer. In order to
+accomodate this new data, the black hole must grow bigger!
+For instance, if we add a single bit (or qubit), then the horizon must
+grow by at least one Planck area, as this 2D cartoon shows:
 
 <figure>
     <div style="text-align:center"><img src
@@ -126,8 +127,6 @@ dimensions to make things a bit simpler:
 	</div>
 	</figure>
 
-If we add a single bit (or qubit), then the horizon must grow by at least one
-Planck area.
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n\mathcal{A}_p$.
 But computers usually do more than passively store data.
