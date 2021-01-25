@@ -137,12 +137,13 @@ then output the results.
 If a black hole really is a quantum computer, we can ask: what
 computation is it doing, and what is the output from that?
 We'll actually start with the output, and then reverse engineer the
-computational task being performed.
+computational task being performed, which mirrors the history of the subject.
 
-What we've said so far is a bit confusing. It suggests a picture where
-information lives on the surface of the black hole rather than inside.
-And if it lives on the surface, maybe it can come out again, or lead
-to other detectable features near the horizon.
+<!-- What we've said so far is a bit confusing. It suggests a-->
+Our story so far suggests that information lives on the surface of the
+black hole rather than inside.
+And if it lives on the surface, maybe it can come out again, or create
+other detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
