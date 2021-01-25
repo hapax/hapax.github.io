@@ -55,9 +55,9 @@ Rather than give a traditional primer and then laboriously translate
 into this language, we'll present black hole physics as a series of
 computational slogans.
 
-#### Black holes store information
+#### Black holes store physical information
 
-Our first slogan is simply that black holes contain information.
+Our first slogan is simply that black holes store physical information.
 To make a black hole, you need to collapse some matter, like an old
 star or dust clouds in the galactic core, and this matter contains
 information: namely, the information about the state it was in when
@@ -86,14 +86,14 @@ in the black hole. The story is basically the same.
 	</figure>
 
 A natural question is how the information stored in the black hole is
-related to its physical parameters, things we can measure.
+related to its physical properties, things we can measure.
 In the 1970s, Jacob Bekenstein and Stephen Hawking discovered
 something remarkable.
 They learned that the amount of information you can store in a black
-hole, the number of bits, is proportional to the area of the black
-hole horizon.
-In fact, up to some small numbers we're not going to worry, its the
-area of the black hole $\mathcal{A}$ divided by somthing called the
+hole, the number of bits, is proportional to the area of the horizon,
+that is, the surface area of the black hole as it appears from outside.
+In fact, up to some numbers we're not going to worry, it's the
+area of the horizon, $\mathcal{A}$, divided by something called the
 *Planck area*, which is the unique area you can build out of basic
 physical constants:
 
@@ -102,10 +102,12 @@ $$
 \text{ m}^2.
 $$
 
-We derive this in an appendix, but for our purposes, it will help us
-form a picture of a black hole as a spherical computer.
-Its surface is split into Planck area-sized pixels, which can be
-either $1$ or $0$.
+<!-- We derive this in an appendix, but for our purposes, it will help us
+form a picture of a black hole as a spherical computer. -->
+This gives us the license to draw a black hole as a spherical computer
+whose surface is split into Planck area-sized pixels. Each of these is
+a classical bit, which can be either $1$ or $0$, or a qubit if we want
+to go quantum.
 
 <figure>
     <div style="text-align:center"><img src
