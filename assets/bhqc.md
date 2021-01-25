@@ -21,7 +21,7 @@ trap light.
 Now, light travels pretty fast, about a hundred million times faster than a
 speeding pedestrian, so this is no mean feat, and it takes the death of a giant
 star, or disastrous collisions at the core of a galaxy, to produce
-black holes.
+them.
 But we now know, from a whole spectrum of clues, that they exist and
 play an important role in the life of star systems and galaxies.
 
