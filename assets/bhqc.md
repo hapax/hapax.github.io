@@ -141,8 +141,8 @@ We'll actually start with the output, and then reverse engineer the
 computational task, since this mirrors the history of the subject.
 
 <!-- What we've said so far is a bit confusing. It suggests a-->
-Our story so far suggests that information lives on the surface of the
-black hole rather than inside.
+So, our picture of the black hole as a spherical computer suggests
+that information lives on the surface.
 And if it lives on the surface, maybe it can come out again, or create
 other detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
