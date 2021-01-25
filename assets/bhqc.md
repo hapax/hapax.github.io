@@ -159,8 +159,9 @@ This process is called *black hole evaporation*.
 	</div>
 	</figure>
 	
-The question is: what happens to the information it was storing?
-Hawking's calculations suggest that the glow of the black hole is
+But if the black hole disappears, it's natural to ask what happens to
+the information it was storing.
+Hawking's calculation suggests that the glow of the black hole is
 essentially *random*, a noisy, uninformative radiance like the light from
 a hot coal or an incandenscent light bulb.
 In Hawking's view, when black holes form, they trap information behind
