@@ -159,10 +159,7 @@ gradually depleting the black hole until it disappears altogether.
 The question is: what happens to the information it was storing?
 Hawking's calculations suggest that the glow of the black hole is
 essentially *random*, a noisy, uninformative shine like the light from
-a hot coal or an incandenscent light bubl.
-In other words, when the black hole forms it swallows up data about
-the collapsed bits, and the only thing that emerges is a noisy glow
-before it disappears altogether, taking its secrets to the grave.
+a hot coal or an incandenscent light bulb.
 
 But recall that quantum computers operate in a *reversible* fashion.
 
