@@ -68,8 +68,16 @@ can be spin up or spin down, which we squeeze using an electromagnetic
 trash compactor until they form a black hole.
 The state of the system before it collapsed was an $N$-bit string, and
 afterwards, those $N$ bits are somehow stored inside the black hole.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc1.png"/>
+	</div>
+	</figure>
+
 If our system is quantum, with $N$ qubits in state $|\psi\rangle$,
-then after collapse $|\psi\rangle$ is somehow stored in the black hole.
+then after collapse $|\psi\rangle$ is somehow stored in the black
+hole. The story is the same.
 
 <!-- ##### Introduction
 
