@@ -129,7 +129,7 @@ Planck area.
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n\mathcal{A}_p$.
 
-#### Black holes evaporate
+#### Black holes glow
 
 Computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
@@ -148,7 +148,7 @@ other detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
-he discovered that black holes are not truly black: they *glow*.
+he discovered that black holes are not truly black, but *glow* faintly.
 This glow is called *Hawking radiation*, and it costs energy to produce,
 gradually depleting the black hole until it disappears altogether.
 This process is called *black hole evaporation*.
