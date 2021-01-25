@@ -133,7 +133,8 @@ must grow by at least $n\mathcal{A}_p$.
 
 Computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
-then output the results.
+then output the results, like doing a google search or playing
+Minecraft.
 If a black hole really is a quantum computer, we can ask: what
 computation is it doing, and what is the output from that?
 We'll actually start with the output, and then reverse engineer the
