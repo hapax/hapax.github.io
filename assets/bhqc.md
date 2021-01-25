@@ -138,6 +138,8 @@ If a black hole really is a quantum computer, we can ask: what
 computation is it doing, and what is the output from that?
 We'll actually start with the output, and then reverse engineer the
 computational task it's performing.
+In 1975, Stephen Hawking made the most important calculation of his
+life.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
