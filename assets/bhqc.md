@@ -7,12 +7,7 @@ categories: [Physics]
 date:  2021-02-03
 ---
 
-**February 3, 2021.** *Black holes are mysterious objects. In this tutorial,
-  we'll introduce some of the puzzles of black hole physics, and a surprising perspective
-  for resolving them: treat the black hole as a quantum computer! This not only
-  provides conceptual insights, but will give us an algorithm for
-  decoding messages from behind the horizon, which we perform in a
-  suitably simplified setup.*
+**February 3, 2021.** *Bla bla bla*
 
 #### Introduction
 
