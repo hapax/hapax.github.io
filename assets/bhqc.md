@@ -28,8 +28,8 @@ We've known since the 1990s that a supermassive black hole lurks in
 the heart of the Milky Way, an achievement recognised by the 2020 Nobel
 Prize in Physics last year.
 And most spectacularly, in 2019, the Event Horizon Telescope
-collaboration stitched together images from multiple telescopes to
-give us the first ever picture of a black hole:
+collaboration stitched together an image of a supermassive black hole
+in a M87, a galaxy 50 million light years away:
 
 <figure>
     <div style="text-align:center"><img src
