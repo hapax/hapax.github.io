@@ -7,9 +7,8 @@ categories: [Physics]
 date:  2021-02-03
 ---
 
-**February 3, 2021.** *Black holes are mysterious objects, lying at
-  the heart of the many puzzles of quantum gravity. In this tutorial,
-  we'll introduce some of these puzzles, and a surprising perspective
+**February 3, 2021.** *Black holes are mysterious objects. In this tutorial,
+  we'll introduce some of the puzzles of black hole physics, and a surprising perspective
   for resolving them: treat the black hole as a quantum computer! This not only
   provides conceptual insights, but will give us an algorithm for
   decoding messages from behind the horizon, which we perform in a
@@ -26,7 +25,7 @@ In 2015, the gravitational wave observatory LIGO detected a signal
 which could only be explained by two black holes, spiralling inwards
 and merging a billion light years away.
 We've known since the 1990s that a supermassive black hole lurks in
-the core of the Milky Way, an achievement recognised by the 2020 Nobel
+the heart of the Milky Way, an achievement recognised by the 2020 Nobel
 Prize in Physics last year.
 And most spectacularly, in 2019, the Event Horizon Telescope
 collaboration stitched together images from multiple telescopes to
@@ -34,11 +33,12 @@ give us the first ever picture of a black hole:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/m87.jpeg"/>
+    ="/images/posts/m87.jpg"/>
 	</div>
 	</figure>
 
-But for all their astrophysical interest, black holes
+But for all their astrophysical interest, black holes are even more
+interest to the
 
 <!-- ##### Introduction
 
