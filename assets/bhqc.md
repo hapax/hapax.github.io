@@ -157,6 +157,10 @@ Rather, they faintly glow, emitting what is now called *Hawking radiation*.
 
 The glow costs energy, gradually depleting the black hole until it
 disappears altogether.
+The question is: what happens to the information it was storing?
+Hawking's calculations suggested that the glow of the black hole is
+essentially random, containing almost no information at all.
+It takes its secrets to the grave.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
