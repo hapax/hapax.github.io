@@ -156,8 +156,8 @@ This disappearing act is known as *black hole evaporation*.
 But if black holes evaporate, it's natural to ask what happens to
 the information they store.
 Hawking's calculation suggests that the glow of the black hole is
-effectively *random*, a noisy, uninformative process like the light from
-a hot coal or an incandenscent light globe.
+effectively *random*, a noisy and uninformative process like the light from
+a hot coal or an incandenscent globe.
 If this is true, then when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
 evaporates.
