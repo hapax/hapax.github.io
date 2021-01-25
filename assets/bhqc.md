@@ -155,9 +155,6 @@ Rather, they faintly glow, emitting what is now called *Hawking radiation*.
 	</div>
 	</figure>
 
-From this premise, Hawking raised one of the longest standing puzzles
-in physics: the *Information Problem*.
-The basic idea is simple.
 The glow costs energy, gradually depleting the black hole until it
 disappears altogether.
 
