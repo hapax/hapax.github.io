@@ -38,14 +38,16 @@ and in a galaxy far, far away:
 	</figure>
 
 But for all their astronomical richness and complexity, black holes
-harbour just as much interest for theoretical physicists. The
-goal of this tutorial will be to explore some of these insights and
-problems, and familiarize you with cutting edge ideas in the theory of
-black holes.
+harbour just as much interest for theoretical physics, and in
+particular, the program of combining quantum mechanics with gravity,
+aka *quantum gravity*.
+The goal of this tutorial will be to explore some of the problems of
+black holes and quantum gravity, and to introduce cutting edge
+techniques from the realm of quantum mechanics.
 
 #### Black hole basics
 
-We'll start with a few 
+To start with, we're going to introduce
 
 <!-- ##### Introduction
 
