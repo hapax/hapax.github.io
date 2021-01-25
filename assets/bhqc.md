@@ -171,6 +171,12 @@ irreversibly behind the horizon, and destroyed when the black hole
 evaporates.
 Quantum gravity takes its secrets to the grave.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc6.png"/>
+	</div>
+	</figure>
+
 But recall that quantum computers operate in a *reversible* fashion.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
