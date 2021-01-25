@@ -129,7 +129,7 @@ Planck area.
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n\mathcal{A}_p$.
 
-#### Black holes glow
+#### Black holes evaporate
 
 Computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
@@ -150,6 +150,7 @@ Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black: they *glow*.
 This glow is called *Hawking radiation*, and it costs energy,
 gradually depleting the black hole until it disappears altogether.
+This process is called *black hole evaporation*.
 
 <figure>
     <div style="text-align:center"><img src
@@ -159,8 +160,11 @@ gradually depleting the black hole until it disappears altogether.
 	
 The question is: what happens to the information it was storing?
 Hawking's calculations suggest that the glow of the black hole is
-essentially *random*, a noisy, uninformative shine like the light from
+essentially *random*, a noisy, uninformative radiance like the light from
 a hot coal or an incandenscent light bulb.
+In Hawking's view, when black holes form, they trap information behind
+the horizon, and then take their secrets to the grave, after
+evaporating all their energy way.
 
 But recall that quantum computers operate in a *reversible* fashion.
 
