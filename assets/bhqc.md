@@ -139,7 +139,7 @@ computation is it doing, and what is the output from that?
 We'll actually start with the output, and then reverse engineer the
 computational task it's performing.
 
-In 1975, Stephen Hawking made the most important calculation of his
+<!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
 Hawking didn't think about black holes in terms of information
 storage, he thought in terms of entropy, a related concept from
@@ -153,7 +153,10 @@ $$
 S = k_B \ln 2^N = \ln 2 N k_B \approx 0.7 N k_B.
 $$
 
-where $k_B$ is something called Boltzmann's constant.
+where $k_B$ is *Boltzmann's constant*.
+When a system is at some finite temperature, and different
+configurations have different energies, the effective number of
+allowed configurations changes, and the entropy with it. -->
 
 <!-- ##### Introduction
 
