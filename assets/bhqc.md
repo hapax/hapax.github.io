@@ -43,7 +43,9 @@ goal of this tutorial will be to explore some of these insights and
 problems, and familiarize you with cutting edge ideas in the theory of
 black holes.
 
-####
+#### Black hole basics
+
+We'll start with a few 
 
 <!-- ##### Introduction
 
