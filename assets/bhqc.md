@@ -51,8 +51,11 @@ The goal of this tutorial will be to explore some of the problems of
 black holes and quantum gravity, and to introduce cutting edge
 approaches to these problems which, surprisingly, come directly from language of quantum
 computing.
+Rather than give a traditional primer and then laboriously translate
+into this language, we'll present black hole physics in computational
+terms from the get-go.
 
-#### Black hole basics
+#### Black holes contain
 
 To start with, we're going to introduce
 
