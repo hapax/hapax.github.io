@@ -23,7 +23,8 @@ speeding pedestrian, so this is no mean feat, and it takes the death of a giant
 star, or disastrous collisions at the core of a galaxy, to produce
 them.
 But we now know, from a whole spectrum of clues, that they exist and
-play an important role in the life of star systems and galaxies.
+play an important role in the life of star systems, galaxies, and even
+the early universe.
 
 In 2015, the gravitational wave observatory LIGO detected a signal
 which could only be explained by two black holes, spiralling inwards
