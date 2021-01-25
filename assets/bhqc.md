@@ -9,10 +9,10 @@ date:  2021-02-03
 
 **February 3, 2021.** *Black holes are mysterious objects, lying at
   the heart of the many puzzles of quantum gravity. In this tutorial,
-  we'll introduce some of these puzzles, and a surprisingly useful
-  strategy: treat the black hole as a quantum computer! This not only
-  provides conceptual insights, but will give us an algorithm method
-  for decoding messages from behind the horizon, which we perform in a
+  we'll introduce some of these puzzles, and a surprising perspective
+  for resolving them: treat the black hole as a quantum computer! This not only
+  provides conceptual insights, but will give us an algorithm for
+  decoding messages from behind the horizon, which we perform in a
   suitably simplified setup.*
 
 ##### Black hole basics
@@ -20,7 +20,8 @@ date:  2021-02-03
 Black holes are regions of spacetime where gravity is strong enough to
 trap light.
 This is no mean feat, and it takes the death of a giant star, or
-disastrous collisionss at the core of a galaxy, to produce them.
+disastrous collisions at the core of a galaxy, to produce them.
+
 
 <!-- ##### Introduction
 
