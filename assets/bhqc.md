@@ -21,7 +21,24 @@ Black holes are regions of spacetime where gravity is strong enough to
 trap light.
 This is no mean feat, and it takes the death of a giant star, or
 disastrous collisions at the core of a galaxy, to produce them.
+But we now know, from a whole spectrum of clues, that they exist.
+In 2015, the gravitational wave observatory LIGO detected a signal
+which could only be explained by two black holes, spiralling inwards
+and merging a billion light years away.
+We've known since the 1990s that a supermassive black hole lurks in
+the core of the Milky Way, an achievement recognised by the 2020 Nobel
+Prize in Physics last year.
+And most spectacularly, in 2019, the Event Horizon Telescope
+collaboration stitched together images from multiple telescopes to
+give us the first ever picture of a black hole:
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/m87.jpeg"/>
+	</div>
+	</figure>
+
+But for all their astrophysical interest, black holes
 
 <!-- ##### Introduction
 
