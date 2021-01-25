@@ -124,15 +124,21 @@ dimensions to make things a bit simpler:
 	</div>
 	</figure>
 
-If we add a single bit, then the horizon must grow by at least one
+If we add a single bit (or qubit), then the horizon must grow by at least one
 Planck area.
-More generally, if we throw $n$ bits into the black hole, the area
+More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n\mathcal{A}_p$.
 
-#### Black holes emit noise
+#### Black holes look noisy
 
-Computers usually do much more than passively store data: they compute
-with, or process that data, to perform some useful task.
+Computers usually do more than passively store data.
+They will take that data, perform some useful computation on it, and
+then output the results.
+If a black hole really is a quantum computer, we can ask: what
+computation is it doing, and what is the output from that?
+We'll actually start with the output, and then reverse engineer the
+computational task it's performing.
+In 1975, Stephen Hawking made the most
 
 <!-- ##### Introduction
 
