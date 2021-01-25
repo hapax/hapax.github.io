@@ -28,8 +28,8 @@ We've known since the 1990s that a supermassive black hole lurks in
 the heart of the Milky Way, an achievement recognized by the 2020 Nobel
 Prize in Physics.
 And most spectacularly, in 2019, the Event Horizon Telescope stitched
-together an image of a supermassive black hole 50 million years old,
-in a galaxy far, far away:
+together an image of a supermassive black hole, 50 million years old
+and in a galaxy far, far away:
 
 <figure>
     <div style="text-align:center"><img src
