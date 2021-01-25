@@ -79,6 +79,12 @@ If our system is quantum, with $N$ qubits in some state
 $|\psi\rangle$, then after collapse $|\psi\rangle$ is somehow stored
 in the black hole. The story is basically the same.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc2.png"/>
+	</div>
+	</figure>
+
 <!-- ##### Introduction
 
 A black hole is a very special type of quantum computer. In this
