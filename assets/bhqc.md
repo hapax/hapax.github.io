@@ -18,11 +18,12 @@ date:  2021-02-03
 
 Black holes are regions of spacetime where gravity is strong enough to
 trap light.
-Because they trap light, they are black, hovering like holes in
-space that we can enter but never leave.
-Now, light travels fast, about a hundred million times faster than a
-pedestrian, so this is no mean feat, and it takes the death of a giant
-star, or disastrous collisions at the core of a galaxy, to produce them.
+Because they trap light, they are black, and hover like holes in space
+that you can enter but never leave.
+Now, light travels pretty fast, about a hundred million times faster than a
+speeding pedestrian, so this is no mean feat, and it takes the death of a giant
+star, or disastrous collisions at the core of a galaxy, to produce
+black holes.
 But we now know, from a whole spectrum of clues, that they exist and
 play an important role in the life of star systems and galaxies.
 
