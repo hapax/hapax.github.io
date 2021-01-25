@@ -113,7 +113,16 @@ either $1$ or $0$.
 	</div>
 	</figure>
 
-Once a black hole has formed, you can throw more things into it.
+Once a black hole has formed, you can throw more things into it, a bit
+like storing data on a computer. But in order to accomodate this new
+data, the black hole must grow bigger! We can draw a picture in two
+dimensions to make things a bit simpler:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bhqc4.png"/>
+	</div>
+	</figure>
 
 #### Black holes contain information
 
