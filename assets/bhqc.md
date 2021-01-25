@@ -159,7 +159,10 @@ gradually depleting the black hole until it disappears altogether.
 The question is: what happens to the information it was storing?
 Hawking's calculations suggest that the glow of the black hole is
 essentially *random*, containing no information at all.
-On his view, the black hole took its secrets to the grave.
+In other words, when the black hole forms it swallows up data about
+the collapsed bits, and the only thing that emerges is a noisy glow
+before it disappears altogether, taking its secrets to the grave.
+
 But recall that quantum computers operate in a *reversible* fashion.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
