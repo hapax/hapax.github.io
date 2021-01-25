@@ -142,9 +142,8 @@ computational task it's performing.
 In 1975, Stephen Hawking made the most important calculation of his
 life.
 Hawking didn't think about black holes in terms of information
-storage, he thought in terms of entropy, a concept from
-thermodynamics, the physics of hot objects, which captures something
-similar.
+storage, he thought in terms of entropy, a related concept from
+thermodynamics, the physics of hot objects.
 
 <!-- ##### Introduction
 
