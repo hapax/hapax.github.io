@@ -136,7 +136,7 @@ They will take that data, perform some useful computation on it, and
 then output the results, like doing a google search or playing
 Minecraft.
 If a black hole really is a quantum computer, we can ask: what
-computation is it doing, and what is the output from that?
+computation is it doing, and what is its output?
 We'll actually start with the output, and then reverse engineer the
 computational task being performed, which mirrors the history of the subject.
 
