@@ -37,8 +37,8 @@ and in a galaxy far, far away:
 	</div>
 	</figure>
 
-But for all their astronomical richness, black holes harbour just as
-many insights, and unsolved problems, for a theoretical physicist. The
+But for all their astronomical richness and complexity, black holes
+harbour just as much interest for theoretical physicists. The
 goal of this tutorial will be to explore some of these insights and
 problems, and familiarize you with cutting edge ideas in the theory of
 black holes.
