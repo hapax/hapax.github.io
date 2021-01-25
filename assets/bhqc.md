@@ -164,9 +164,10 @@ the information it was storing.
 Hawking's calculation suggests that the glow of the black hole is
 effective *random*, a noisy, uninformative radiance like the light from
 a hot coal or an incandenscent light bulb.
-In Hawking's view, when black holes form, they trap information behind
-the horizon, and then take their secrets to the grave, after
-evaporating all their energy way.
+This means that when black holes form, information is trapped
+irreversibly behind the horizon, and destroyed when the black hole
+when the black hole evaporates.
+They take their secrets to the grave.
 
 But recall that quantum computers operate in a *reversible* fashion.
 
