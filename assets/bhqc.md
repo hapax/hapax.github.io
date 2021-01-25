@@ -128,7 +128,7 @@ grow by at least one Planck area, as this 2D cartoon shows:
 	</figure>
 
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
-must grow by at least $n\mathcal{A}_p$.
+must grow by at least $n$ Planck areas.
 But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
 then output the results, like doing a google search or playing
