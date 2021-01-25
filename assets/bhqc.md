@@ -14,7 +14,7 @@ date:  2021-02-03
   decoding messages from behind the horizon, which we perform in a
   suitably simplified setup.*
 
-##### Black hole basics
+##### Introduction
 
 Black holes are regions of spacetime where gravity is strong enough to
 trap light.
@@ -29,7 +29,7 @@ the heart of the Milky Way, an achievement recognised by the 2020 Nobel
 Prize in Physics last year.
 And most spectacularly, in 2019, the Event Horizon Telescope
 collaboration stitched together an image of a supermassive black hole
-in a M87, a galaxy 50 million light years away:
+a long time ago, in a galaxy far, far away:
 
 <figure>
     <div style="text-align:center"><img src
