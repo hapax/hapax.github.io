@@ -194,9 +194,9 @@ or fatally inquisitive astronauts, and outputs what looks like random noise.
 Could a reversible computation connect them?
 That could explains Hawking's result, but remain consistent with
 quantum mechanics.
-A helpful analogy comes from the cryptography, the science of secret messages.
-Really, cryptography is about concealing information in a reversible
-way, so perhaps it 
+A helpful analogy comes from the cryptography, the science of secret
+messages, or put differently, the science of reversibly concealing
+information.
 
 <!-- But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
