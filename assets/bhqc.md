@@ -164,12 +164,11 @@ the information it was storing.
 Hawking's calculation suggests that the glow of the black hole is
 effectively *random*, a noisy, uninformative process like the light from
 a hot coal or an incandenscent light globe.
-It's like our black hole computer is producing a random sequence of
-$0$s and $1$s.
 If this is true, then when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
 evaporates.
-Quantum gravity takes its secrets to the grave.
+Quantum gravity takes its secrets to the grave, and replaces them with
+a random sequence of $1$s and $0$s.
 
 <figure>
     <div style="text-align:center"><img src
