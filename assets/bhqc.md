@@ -175,7 +175,6 @@ a random sequence of $1$s and $0$s.
 	</div>
 	</figure>
 
-But recall that quantum computers operate in a *reversible* fashion.
 
 <!-- In 1975, Stephen Hawking made the most important calculation of his
 life.
