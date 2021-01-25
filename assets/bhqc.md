@@ -169,7 +169,7 @@ $0$s and $1$s.
 If this is true, then when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
 evaporates.
-They take their secrets to the grave.
+Quantum gravity takes its secrets to the grave.
 
 But recall that quantum computers operate in a *reversible* fashion.
 
