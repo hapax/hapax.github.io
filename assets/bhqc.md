@@ -147,7 +147,7 @@ Guided by this intuition, in 1975 Stephen Hawking made the most
 important calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black.
-Rather, they faintly glow, emitting what is now called *Hawking radiation*.
+Rather, they faintly glow, emitting light we now call *Hawking radiation*.
 
 <figure>
     <div style="text-align:center"><img src
