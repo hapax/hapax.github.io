@@ -183,7 +183,7 @@ requirement.
 So if black holes destroy information, then quantum mechanics must be
 wrong.
 This tension between quantum mechanics and Hawking's glow is called
-the *Information Paradox*, and its basically been an open problem for
+the *Information Paradox*. It's been an open problem for
 $50$ years.
 
 #### Black holes scramble
