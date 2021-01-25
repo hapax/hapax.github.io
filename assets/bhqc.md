@@ -55,7 +55,7 @@ Rather than give a traditional primer and then laboriously translate
 into this language, we'll present black hole physics as a series of
 computational slogans.
 
-#### Black holes contain information
+#### Black holes store information
 
 Our first slogan is simply that black holes contain information.
 To make a black hole, you need to collapse some matter, like an old
