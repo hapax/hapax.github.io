@@ -187,11 +187,12 @@ Minecraft.
 A black hole takes information about collapsing stars, dust clouds,
 or fatally inquisitive astronauts, and outputs what looks like random noise.
 Could a reversible computation connect them?
-That could explains Hawking's result, but remain consistent with
+That would explain Hawking's result in a way that is consistent with
 quantum mechanics.
+
 A helpful analogy comes from the cryptography, the science of secret
-messages, or put differently, the science of reversibly concealing
-information.
+messages, or put differently, the science of *reversibly concealing
+information*.
 
 <!-- But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
