@@ -129,7 +129,7 @@ Planck area.
 More generally, if we throw $n$ bits (or qubits) into the black hole, the area
 must grow by at least $n\mathcal{A}_p$.
 
-#### Black holes look noisy
+#### Black holes glow
 
 Computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
