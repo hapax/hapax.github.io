@@ -140,7 +140,7 @@ other detectable features near the horizon. -->
 All of this suggests that information is stored on the surface, so
 perhaps it can come out again, or at least, create detectable features near the horizon.
 Guided by this intuition, in 1975 Stephen Hawking made the most
-important calculation of his life.
+ambitious calculation of his life.
 Using a combination of techniques from gravity and particle physics,
 he discovered that black holes are not truly black, but *glow* faintly.
 This glow is called *Hawking radiation*, and it costs energy to produce,
