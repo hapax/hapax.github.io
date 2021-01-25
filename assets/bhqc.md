@@ -26,10 +26,10 @@ which could only be explained by two black holes, spiralling inwards
 and merging a billion light years away.
 We've known since the 1990s that a supermassive black hole lurks in
 the heart of the Milky Way, an achievement recognised by the 2020 Nobel
-Prize in Physics last year.
-And most spectacularly, in 2019, the Event Horizon Telescope
-collaboration stitched together an image of a supermassive black hole
-a long time ago, in a galaxy far, far away:
+Prize in Physics.
+And most spectacularly, in 2019, the Event Horizon Telescope stitched
+together an image of a supermassive black hole 50 million years old,
+in a galaxy far, far away:
 
 <figure>
     <div style="text-align:center"><img src
