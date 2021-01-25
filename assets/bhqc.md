@@ -124,6 +124,9 @@ dimensions to make things a bit simpler:
 	</div>
 	</figure>
 
+We've been vague about how information about the collapsed matter is
+stored, or new information added.
+
 #### Black holes contain information
 
 <!-- ##### Introduction
