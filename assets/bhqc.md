@@ -163,10 +163,12 @@ But if the black hole disappears, it's natural to ask what happens to
 the information it was storing.
 Hawking's calculation suggests that the glow of the black hole is
 effectively *random*, a noisy, uninformative process like the light from
-a hot coal or an incandenscent light bulb.
-This means that when black holes form, information is trapped
+a hot coal or an incandenscent light globe.
+It's like our black hole computer is producing a random sequence of
+$0$s and $1$s.
+If this is true, then when black holes form, information is trapped
 irreversibly behind the horizon, and destroyed when the black hole
-when the black hole evaporates.
+evaporates.
 They take their secrets to the grave.
 
 But recall that quantum computers operate in a *reversible* fashion.
