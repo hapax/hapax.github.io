@@ -145,12 +145,12 @@ Hawking didn't think about black holes in terms of information
 storage, he thought in terms of entropy, a related concept from
 thermodynamics, the physics of hot objects.
 Entropy basically measures how many different configurations a system
-can be in, or rather, than logarithm of that.
-So an $N$-bit system can be in $2^N$ different states, so its entropy
-is
+can be in, or rather, tha natural logarithm of that.
+An $N$-bit system, for instance, can be in $2^N$ different states,
+so its entropy is
 
 $$
-S = k_B \ln 2^N \approx 0.7 N k_B.
+S = k_B \ln 2^N = \ln 2 N k_B \approx 0.7 N k_B.
 $$
 
 where $k_B$ is something called Boltzmann's constant.
