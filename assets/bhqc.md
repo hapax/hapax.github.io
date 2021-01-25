@@ -49,7 +49,7 @@ particular, the program of combining quantum mechanics with gravity,
 known as *quantum gravity*.
 The goal of this tutorial will be to explore some of the problems of
 black holes and quantum gravity, and to introduce cutting edge
-approaches which, surprisingly, come directly from language of quantum
+approaches to these problems which, surprisingly, come directly from language of quantum
 computing.
 
 #### Black hole basics
