@@ -184,7 +184,7 @@ Computers usually do more than passively store input data.
 They will take the data, perform some useful computation on it, then
 output results, like doing a google search or playing
 Minecraft.
-A black hole takes information about collapsing stars, or dust clouds,
+A black hole takes information about collapsing stars, dust clouds,
 or fatally inquisitive astronauts, and outputs what looks like random noise.
 Could a reversible computation connect them?
 That could explains Hawking's result, but remain consistent with
