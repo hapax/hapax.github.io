@@ -172,9 +172,10 @@ a random sequence of $1$s and $0$s.
 
 This is kind of a big deal, because destroying information is not
 allowed by quantum mechanics.
-States always evolve in a reversible fashion, which is why gates are
-always reversible in quantum computing. It's just a basic physical
-requirement.
+Quantum states always evolve in a reversible fashion, which is why
+gates are reversible in quantum computing. It's just a basic physical
+requirement; if you have an irreversible gate, you'll never be able to
+built it.
 So if black holes destroy information, then quantum mechanics must be
 wrong.
 This tension between quantum mechanics and Hawking's glow is called
