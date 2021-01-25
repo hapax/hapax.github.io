@@ -3,11 +3,23 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Black holes as quantum computers"
-categories: [Philosophy]
-date:  2021-01-15
+categories: [Physics]
+date:  2021-02-03
 ---
 
-**January 16, 2021.** *Black*
+**February 3, 2021.** *Black holes are mysterious objects, lying at
+  the heart of the many puzzles of quantum gravity. In this tutorial,
+  we'll introduce some of these puzzles, and a surprisingly useful
+  strategy: treat the black hole as a quantum computer! This not only
+  provides conceptual insights, but will give us an algorithm method
+  for decoding messages from behind the horizon, which we perform in a
+  suitably simplified setup.*
+
+##### Black hole basics
+
+Black holes are regions of spacetime where gravity is strong enough to
+trap light.
+Astrophysically, they form when large stars die.
 
 
 <!-- ##### Introduction
