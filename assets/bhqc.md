@@ -14,7 +14,7 @@ date:  2021-02-03
   decoding messages from behind the horizon, which we perform in a
   suitably simplified setup.*
 
-##### Introduction
+#### Introduction
 
 Black holes are regions of spacetime where gravity is strong enough to
 trap light.
@@ -25,7 +25,7 @@ In 2015, the gravitational wave observatory LIGO detected a signal
 which could only be explained by two black holes, spiralling inwards
 and merging a billion light years away.
 We've known since the 1990s that a supermassive black hole lurks in
-the heart of the Milky Way, an achievement recognised by the 2020 Nobel
+the heart of the Milky Way, an achievement recognized by the 2020 Nobel
 Prize in Physics.
 And most spectacularly, in 2019, the Event Horizon Telescope stitched
 together an image of a supermassive black hole 50 million years old,
@@ -37,8 +37,13 @@ in a galaxy far, far away:
 	</div>
 	</figure>
 
-But for all their astrophysical interest, black holes are even more
-interest to the
+But for all their astronomical richness, black holes harbour just as
+many insights, and unsolved problems, for a theoretical physicist. The
+goal of this tutorial will be to explore some of these insights and
+problems, and familiarize you with cutting edge ideas in the theory of
+black holes.
+
+####
 
 <!-- ##### Introduction
 
