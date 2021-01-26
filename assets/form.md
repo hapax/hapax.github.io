@@ -23,7 +23,10 @@ In many ways, this describes the explanatory program of 20th century
 physics, which gave us atoms, subatomic particles, the zoo of the
 Standard Model, and even more fundamental speculative objects like
 strings.
-Like Platonism in mathematics, most physicists would probably assent
-to some form of reductionism.
+Like Platonism in mathematics, it is probably the consensus
+philosophy for professional physicists, who after all, spend most of
+their time trying to mechanistically break phenomena down into their
+explanatory components.
+
 
 #### What is a particle?
