@@ -58,7 +58,7 @@ marked, and stuck together in various ingenious ways; these materials
 curve, stick, and endure due to the properties of their constituent
 chemicals, usually long, jointed molecular chains called polymers;
 these chemicals, in turn, are built like lego from Nature's palette of
-atoms; and atoms are made, rather simply, by combining three particle
-types: electrons, protons and neutrons.
+atoms; and each atom is a tiny solar system, with electrons orbiting
+the dense core of protons and neutrons.
 
 #### References and acknowledgments
