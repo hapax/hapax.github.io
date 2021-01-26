@@ -37,7 +37,7 @@ science, it's worth asking: what does science really tell us about the
 universe? Does explanation go only downwards, or upwards, or sideways?
 What sorts of objects are necessary for explanation? Is there evidence
 for eliminativism?
-This post hopefully adds a little novelty, here and there, to a
-somewhat tired 20th century
+This post hopefully adds a dash of 21st century novelty to what is, in
+effect, a set of ideas stuck in the early 20th century.
 
 #### What is a particle?
