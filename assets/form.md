@@ -88,7 +88,7 @@ Instead, we will ask a much simpler question: why does order matter?
 
 Clearly, if we took those subatomic particles, and arranged them in a
 different way, we would get different elements, different chemicals,
-and a duck or a cloud or a galaxy instead of a shoe.
+and a duck or a cloud or an asteroid instead of a shoe.
 Arrangement is important.
 The eliminativist might reply that ducks and clouds and
 galaxies don't exist, so there is nothing to 
