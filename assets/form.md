@@ -132,7 +132,7 @@ Anderson thought of the microscopic perspective as the wrong "level"
 of description, like being too zoomed in on a microscope, but I think that
 it is simply different information.
 The symmetries, order parameters which measure their brokenness,
-and collective excitations which emerge as long-range messangers of
+and collective excitations which emerge as long-range messengers of
 disorder, are not simply the microscopics "zoomed out". They are
 something new, something "over and above" the spins of the lattice, or
 the carbon atoms of the hexagonal monolayer.
