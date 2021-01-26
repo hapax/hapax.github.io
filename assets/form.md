@@ -126,8 +126,8 @@ dynamical principles which did not follow the strict, one-way
 explanatory hierarchy of reduction, particularly in his field of
 condensed matter physics.
 And indeed, condensed matter makes a science of order itself,
-studying how macroscopic properties (such as phases of
-matter) emerge from the arrangement of microscopic components.
+studying how properties of macroscopic wholes (such as phases of
+matter) emerge from the arrangement of microscopic parts.
 Anderson thought of the microscopic perspective as the wrong "level"
 of description, like the wrong zoom on a microscope, but I think that
 it is simply different information.
