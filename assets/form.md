@@ -106,7 +106,7 @@ like electrons.
 
 Of course, one may object that explanation does not equal existence.
 I can handily explain the continual disappearance of my socks by
-invoking the hypothesis of sock imps.
+the hypothesis of sock imps.
 But this is a bad explanation! It's not consistent with other reliably known facts about the world.
 Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
