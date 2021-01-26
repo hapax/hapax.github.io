@@ -193,10 +193,20 @@ Phrased this way, the Information Problem is really a question about
 *cryptography*, the art of secret messages, or more aptly for our
 purposes, reversibly concealing information.
 
-We can contrast different types of encryption.
+We can contrast different types of codes.
 Take something like the Caeser cipher, which simply shifts letters
 forwards or backwards in the alphabet by some fixed number of places.
-If we use this to conceal a long message, the 
+If we use this to encrypt a long message, it may look like
+gobbledegook on a first reading, but analyzing how frequently letters
+occur reveals that they are distributed far from uniformly.
+By shifting the frequency distribution to match the known frequencies
+of letters in English, we can easily decrypt. Let's do an example.
+
+BLA
+
+In contrast, there is a much stronger form of encryption called a
+*one-time pad*. The basic idea is to convert a message into a string
+of binary digits, then
 
 <!-- That would explain Hawking's result in a way that is consistent with
 quantum mechanics.
