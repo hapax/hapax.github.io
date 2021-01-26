@@ -24,9 +24,9 @@ physics, which gave us atoms, subatomic particles, the zoo of the
 Standard Model, and even more fundamental speculative objects like
 strings.
 Like Platonism in mathematics, it is probably the consensus
-philosophy for professional physicists, who after all, spend most of
-their time trying to mechanistically break phenomena down into their
-explanatory components.
+philosophy for professional physicists.
+After all, they spend most of their time in the lab or in front of the
+blackboard trying to break complex phenomena down into simple parts.
 
 
 #### What is a particle?
