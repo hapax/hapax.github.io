@@ -59,7 +59,7 @@ curve and stick by virtue of their constituent
 chemicals, usually long, jointed molecular chains called polymers;
 polymers, in turn, are built like lego from a smorgasboard of elements;
 and each elemental atom is a microcosm, electrons whirring in their elaborate
-orbitals around a dense core of protons and neutrons.
+orbitals around a dense nuclear core.
 
 From the properties of the neutrons, protons and
 electrons, it seems we can work our way upwards, and infer everything
