@@ -52,6 +52,13 @@ raining floppy discs.
 
 <div style="text-align: right"><i>Richard Dawkins</i> </div>
 
-The basic 
+Physical objects can be described at different levels.
+A shoe is constructed from flat sheets of material, curved, cut,
+marked, and stuck together in various ingenious ways; these materials
+curve, stick, and endure due to the properties of their constituent
+chemicals, usually long, jointed molecular chains called polymers;
+these chemicals, in turn, are built like lego from Nature's palette of
+atoms; and atoms are made, rather simply, by combining three particle
+types: electrons, protons and neutrons.
 
 #### References and acknowledgments
