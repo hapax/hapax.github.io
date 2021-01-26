@@ -38,7 +38,7 @@ universe? Does explanation go only downwards, or upwards, or sideways?
 What sorts of objects are necessary for explanation? Is there evidence
 for eliminativism?
 This post hopefully adds a dash of novelty, here and there, to some
-old debates.
+old (and in some cases hopelessly outdated) debates.
 
 #### What is a particle?
 
