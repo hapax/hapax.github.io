@@ -41,3 +41,14 @@ This post hopefully adds a dash of novelty, here and there, to some
 old debates.
 
 #### What is a particle?
+
+<span style="padding-left: 20px; display:block">
+It is raining instructions out there; it’s raining programs; it’s
+raining tree-growing, fluff-spreading, algorithms. That is not a
+metaphor, it is the plain truth. It couldn’t be any plainer if it were
+raining floppy discs.
+</span>
+
+<div style="text-align: right"><i>Richard Dawkins</i> </div>
+
+#### References and acknowledgments
