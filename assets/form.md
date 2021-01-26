@@ -7,8 +7,7 @@ categories: [Mathematics, Physics, Philosophy]
 date:  2021-01-26
 ---
 
-**January 26, 2021.** *Various musics on the philosophy of science,
-  mathematics, and a dash of Aristotle.*
+**January 26, 2021.** *Various musings on the philosophies of science, mathematics, and Aristotle.*
 
 #### Introduction
 
