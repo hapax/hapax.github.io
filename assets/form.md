@@ -86,6 +86,9 @@ though most fall under the heading of analytic micro-quibbles, and
 won't concern us here.
 
 Instead, we will ask a much simpler question: why does order matter?
+Clearly, if we took those subatomic particles, and arranged them in a
+different way, we would get different elements, different chemicals,
+and a duck or a Porsche instead of a shoe.
 
 #### What is a particle?
 
