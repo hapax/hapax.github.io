@@ -22,7 +22,7 @@ smaller stuff, and keep going until you stop.
 In many ways, this describes the explanatory program of 20th century
 physics, which, starting from the puzzles of 19th century statistical mechanics,
 conjured up atoms, subatomic particles, the zoo of the Standard Model, and even
-tinier entities like strings or spin foams.
+tinier hypothetical entities like strings and spin foams.
 Most physicists spend their days in the lab or by the blackboard,
 trying to break complex phenomena down into simple parts.
 So like Platonism in mathematics, reductionism in physics simply makes
