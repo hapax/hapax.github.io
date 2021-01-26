@@ -30,5 +30,13 @@ a philosophy of everyday practice.
 We break stuff down, so that's how the universe works; we play with
 mathematical objects, so they exist.
 
+But like Platonism, reductionism is a convenient fiction, or rather, a
+caricature in which some things are emphasised at the cost of others.
+Given the reverence philosophers have for the ontological jugments of
+science, it's worth asking: what does science really tell us about the
+universe? Does explanation go upwards as well? What sorts of objects
+are necessary for explanation? Is there evidence for eliminativism, or
+against it?
+These questions 
 
 #### What is a particle?
