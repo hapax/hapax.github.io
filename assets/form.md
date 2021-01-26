@@ -110,7 +110,8 @@ invoking the hypothesis of sock imps.
 But this is a bad explanation! It's not consistent with other reliably known facts about the world.
 Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
-only be made for *robust* explanations.
+only be made for *robust* explanations, and the sock imps fall apart
+at the first serious inquiry.
 That different arrangements of the same basic constituents will have
 different properties is robust, almost to the point of truism, and
 there is no reason to ban order, or *structure* as we will call it,
