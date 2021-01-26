@@ -38,7 +38,7 @@ universe? What sorts of objects are necessary for explanation? Does
 explanation go only downwards, or upwards, or can it go sideways? Is
 there evidence for eliminativism? What has explanation to do with
 existence anyway?
-This post hopefully adds a dash of novelty, here and there, to some
+This post hopefully adds a dash of novelty, here and there, to
 old (and in some cases hopelessly outdated) debates.
 
 #### What is a particle?
