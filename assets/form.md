@@ -85,7 +85,7 @@ In fact, there is a whole literature devoted to these subtleties,
 though most fall under the heading of analytic micro-quibbles, and
 won't concern us here.
 
-Instead, we will ask a much simpler question:
+Instead, we will ask a much simpler question: why does order matter?
 
 #### What is a particle?
 
