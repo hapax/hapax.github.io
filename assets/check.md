@@ -52,29 +52,53 @@ E'(v) = \bar{F} - vf(v) = 0 \quad \Longrightarrow \quad  v = \frac{\bar{F}(v)}{f
 $$
 
 Any $v$ which satisfies this equation is an extremum.
-Now the question is how to model the distribution of bank balances!
-This is precisely the sort of thing expected to follow a power-law
+
+#### Long and short tails
+
+Now the question is how to model the distribution of bank balances.
+This is the sort of thing expected to follow a power-law
 curve like the
 [Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution).
 This is simply defined by its power-law tails:
 
 $$
-\bar{F}(v) = \left(\frac{v_m}{v}\right)^\alpha,
+\bar{F}(v) = \left(\frac{L}{v}\right)^\alpha,
 $$
 
-where $v_m$ is the minimum amount to keep a bank balance open (say a
+where $L$ is the minimum amount to keep a bank balance open (say a
 monthly fee), and $\alpha > 0$ is a shape parameter we will "leave blank" for the moment.
 This is well-defined since it heads to zero.
-The probability density for $v \geq v_m$ is
+The probability density for $v \geq L$ is
 
 $$
-f(v) = -\bar{F}'(v) = \frac{\alpha v^\alpha_m}{v^{\alpha + 1}}.
+f(v) = -\bar{F}'(v) = \frac{\alpha L^\alpha}{v^{\alpha + 1}}.
 $$
 
 In terms of these parameters, the optimal amount of money to write on
 a blank check obeys
 
 $$
-v = \frac{\bar{F}(v)}{f(v)} = \left(\frac{v_m}{v}\right)^\alpha \cdot
-\frac{v^{\alpha + 1}}{\alpha v^\alpha_m} = 
+v = \frac{\bar{F}(v)}{f(v)} = \left(\frac{L}{v}\right)^\alpha \cdot
+\frac{v^{\alpha + 1}}{\alpha L} = \alpha v.
+$$
+
+For $\alpha \neq 1$, the only solution is $v = \infty$! Preston should
+have asked for much more than a million dollars. But clearly, this is
+an artefact of the infinitely long power-law tail, which also prevents
+this distribution from having a finite mean.
+A more realistic choice is the truncated Pareto distribution, which
+has power-law behaviour for $L \leq v \leq H$, where $H$ is now some
+upper limit, say the personal wealth of Jeff Bezos or Elon Musk.
+The density for the truncated Pareto distribution is simply a
+conditional probability, condition on being in the interval:
+
+$$
+f(v) = \frac{\alpha L^{\alpha}v^{-(\alpha+1)}}{1 - (L/H)^\alpha},
+$$
+
+and the tail is
+
+$$
+\bar{F}(v) = \int_v^H \frac{\alpha L^{\alpha}v^{-(\alpha+1)}}{1 -
+(L/H)^\alpha} dv = \frac{(L/v)^\alpha - (L/H)^\alpha}{1 - (L/H)^\alpha}.
 $$
