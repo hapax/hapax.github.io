@@ -39,7 +39,7 @@ explanation go only downwards, or upwards, or can it go sideways? Is
 there evidence for eliminativism? What has explanation to do with
 existence anyway?
 This post hopefully adds a dash of novelty, modern physics, and
-Aristotelianism to old (and in some cases hopelessly outdated)
+Aristotelian structuralism to old (and in some cases hopelessly outdated)
 debates.
 
 #### The existence of shoes
