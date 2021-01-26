@@ -55,8 +55,8 @@ A shoe is constructed from flat sheets of material, curved, cut,
 marked, and stuck together in clever ways; materials
 curve and stick by virtue of their constituent
 chemicals, usually long, jointed molecular chains called polymers;
-polymers, in turn, are built like lego from a smorgasboard of atoms;
-and each atom is a tiny solar system, electrons whirring in their elaborate
+polymers, in turn, are built like lego from a smorgasboard of elements;
+and each elemental atom is a microcosmos, electrons whirring in their elaborate
 orbitals around a dense core of protons and neutrons.
 
 From the properties of the neutrons, protons and
