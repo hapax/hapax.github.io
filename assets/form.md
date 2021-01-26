@@ -32,8 +32,8 @@ mathematical objects, so they exist.
 
 But like Platonism, reductionism is a convenient fiction, or rather, a
 caricature in which some things are emphasised at the cost of others.
-And given the reverence in which philosophers hold the ontological
-verdicts of science, it's worth asking: what does science really tell us about the
+And given the reverence which which philosophers hold the considered
+ontological verdicts of science, it's worth asking: what does science really tell us about the
 universe? What sorts of objects are necessary for explanation? Does
 explanation go only downwards, or upwards, or can it go sideways? Is
 there evidence for eliminativism? What has explanation to do with
