@@ -38,6 +38,6 @@ universe? Does explanation go only downwards, or upwards, or sideways?
 What sorts of objects are necessary for explanation? Is there evidence
 for eliminativism?
 This post hopefully adds a dash of 21st century novelty to what is, in
-effect, a set of ideas stuck in the early 20th century.
+effect, a set of rather silly ideas lodged in 
 
 #### What is a particle?
