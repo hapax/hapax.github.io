@@ -124,16 +124,14 @@ Anderson was arguing for *emergence* in condensed matter physics, the
 idea of domain-specific laws and dynamical principles which did not
 follow the strict, one-way explanatory hierarchy of reduction.
 And indeed, condensed matter physics makes a science of order itself,
-studying the coarse properties of materials that emerge from how its
-microscopic components are arranged, and not the microscopic
-properties themselves.
-Anderson thought of this as the wrong "level" of description.
-I think that, even more radically, it is simply different information.
+studying howe macroscopic properties of materials (such as phases of
+matter) emerge from the arrangement of microscopic components.
+Anderson thought of the microscopic perspective as the wrong "level"
+of description, an incorrect zoom, but I think that it is simply
+different information.
 The symmetries, order parameters which measure their brokenness,
-collective excitations, and so on, are something over and above the
-components.
-The components cannot have phases; only the aggregate.
-But perhaps Anderson
+collective excitations which emergy as long-range descriptions of
+breaking, and so on, are something over and above the components.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
