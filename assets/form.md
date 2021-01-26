@@ -60,5 +60,7 @@ chemicals, usually long, jointed molecular chains called polymers;
 molecules, in turn, are built like tinkertoys from Nature's
 smorgasboard of atoms; and each atom is a tiny solar system, with
 electrons whirring around a dense core of protons and neutrons.
+Thus, some philosophers conclude, only electrons, protons, and
+neutrons exist.
 
 #### References and acknowledgments
