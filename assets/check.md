@@ -105,5 +105,7 @@ $$
 Thus, we now have to solve
 
 $$
-v = \frac{\bar{F}(v)}{f(v)} = \frac{(L/v)^\alpha - (L/H)^\alpha}{\alpha L^{\alpha}v^{-(\alpha+1)}}.
+v = \frac{\bar{F}(v)}{f(v)} = \frac{(L/v)^\alpha -
+(L/H)^\alpha}{\alpha L^{\alpha}v^{-(\alpha+1)}} \quad \Longrightarrow
+\quad v = (1-\alpha)^{1/\alpha} H.
 $$
