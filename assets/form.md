@@ -17,16 +17,15 @@ Explanations come to an end somewhere.
 
 <div style="text-align: right"><i>Ludwig Wittgenstein</i> </div>
 
-Put loosely, reductionism is the idea that you explain stuff with
-smaller stuff, and keep going until you stop.
+Reductionism is the idea that you explain stuff with
+smaller stuff which makes it up, and keep going until you stop.
 In many ways, this describes the explanatory program of 20th century
-physics, which gave us atoms, subatomic particles, the zoo of the
-Standard Model, and even more fundamental speculative objects like
-strings.
-Like Platonism in mathematics, it is probably the consensus
-philosophy for professional physicists.
-After all, they spend most of their time in the lab or in front of the
-blackboard trying to break complex phenomena down into simple parts.
-Much has been
+physics, which from the statistical puzzles of the 19th century, gave
+us atoms, subatomic particles, the zoo of the Standard Model, and even
+tinier entities like strings or spin foams.
+Most physicists spend their days in the lab or by the blackboard,
+trying to break complex phenomena down into simple parts.
+So like Platonism in mathematics, reductionism in physics simply makes
+a philosophy of everyday practice.
 
 #### What is a particle?
