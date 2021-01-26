@@ -20,8 +20,8 @@ Explanations come to an end somewhere.
 Reductionism is the idea that you explain stuff with
 smaller stuff which makes it up, and keep going until you stop.
 In many ways, this describes the explanatory program of 20th century
-physics, which from the statistical puzzles of the 19th century, gave
-us atoms, subatomic particles, the zoo of the Standard Model, and even
+physics, which from the statistical physics of the 19th century,
+conjured up atoms, subatomic particles, the zoo of the Standard Model, and even
 tinier entities like strings or spin foams.
 Most physicists spend their days in the lab or by the blackboard,
 trying to break complex phenomena down into simple parts.
