@@ -45,7 +45,9 @@ debates.
 #### The existence of shoes
 
 <span style="padding-left: 20px; display:block">
-More is different.
+In some sense, structure---functional structure in the teleological
+sense, as opposed to mere crystalline shape---must also be considered
+a stage... in the hierarchy of broken symmetries.
 </span>
 
 <div style="text-align: right"><i>Philip W. Anderson</i> </div>
@@ -131,6 +133,7 @@ The symmetries, order parameters which measure their brokenness,
 collective excitations, and so on, are something over and above the
 components.
 The components cannot have phases; only the aggregate.
+But perhaps Anderson
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
