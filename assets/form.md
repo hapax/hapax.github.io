@@ -129,7 +129,7 @@ And indeed, condensed matter makes a science of order itself,
 studying how properties of macroscopic wholes (such as phases of
 matter) emerge from the arrangement of microscopic parts.
 Anderson thought of the microscopic perspective as the wrong "level"
-of description, like the wrong zoom on a microscope, but I think that
+of description, like being too zoomed in on a microscope, but I think that
 it is simply different information.
 The symmetries, order parameters which measure their brokenness,
 and collective excitations which emerge as long-range messangers of
