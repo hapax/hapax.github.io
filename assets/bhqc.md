@@ -177,7 +177,7 @@ This tension between quantum mechanics and Hawking's glow is called
 the *Information Paradox*, and it's been one of the biggest open problems in
 quantum gravity for $45$ years.
 
-#### Black holes encrypt
+#### Black hole encryption
 
 Before we try and solve this, let's take a step back.
 Computers usually do more than passively store input data.
@@ -187,12 +187,22 @@ Minecraft.
 A black hole takes information about collapsing stars, dust clouds,
 or fatally inquisitive astronauts, and outputs what looks like random noise.
 Could a reversible computation connect them?
-That would explain Hawking's result in a way that is consistent with
-quantum mechanics.
+Put differently, are there reversible computations which conceal
+meaningful data as noise?
+Phrased this way, the Information Problem is really a question about
+*cryptography*, the art of secret messages, or more aptly for our
+purposes, reversibly concealing information.
 
-A helpful analogy comes from the cryptography, the science of secret
-messages, or put differently, the science of *reversibly concealing
+We can contrast different types of encryption.
+Take something like the Caeser cipher, which simply shifts letters
+forwards or backwards in the alphabet by some fixed number of places.
+If we use this to conceal a long message, the 
+
+<!-- That would explain Hawking's result in a way that is consistent with
+quantum mechanics.
+Put differently, cryptography is the science of *reversibly concealing
 information*.
+This might be exactly what black holes do. -->
 
 <!-- But computers usually do more than passively store data.
 They will take that data, perform some useful computation on it, and
