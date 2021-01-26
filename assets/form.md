@@ -94,10 +94,10 @@ It is patently absurd to try and explain the bulk properties of the
 shoe---the fact that is fits around a human foot, for
 instance---without appeal to arrangement, since a different
 arrangement yields objects which do not fit around a foot.
-
-
+<!-- If one objects that "fitting around a foot" is some sort of
+anthropocentric folly due for elimination, replace it with, 
 Philip Anderson was perhaps the first physicist to make this argument,
-in his famous article ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf).
+in his famous article ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf). -->
 
 #### What is a particle?
 
