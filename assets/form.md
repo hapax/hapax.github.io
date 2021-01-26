@@ -35,7 +35,7 @@ caricature in which some things are emphasised at the cost of others.
 And given the reverence which which philosophers hold the considered
 ontological verdicts of science, it's worth asking: what does science really tell us about the
 universe? What sorts of objects are necessary for explanation? Does
-explanation go only downwards, or upwards, or can it go sideways? Is
+explanation go only upwards, or can it go downwards or sideways? Is
 there evidence for eliminativism? What has explanation to do with
 existence anyway?
 This post hopefully adds a dash of novelty, modern physics, and
