@@ -132,8 +132,9 @@ Anderson thought of the microscopic perspective as the wrong "level"
 of description, like the wrong zoom on a microscope, but I think that
 it is simply different information.
 The symmetries, order parameters which measure their brokenness,
-collective excitations which emergy as long-range descriptions of
-breaking, and so on, are something over and above the components.
+and collective excitations which emerge as long-range messangers of
+disorder, are not simply the microscopics "zoomed out". They are
+something new, something "over and above" the spins of the lattice.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
