@@ -52,6 +52,12 @@ raining floppy discs.
 
 <div style="text-align: right"><i>Richard Dawkins</i> </div>
 
+<span style="padding-left: 20px; display:block">
+More is different.
+</span>
+
+<div style="text-align: right"><i>Philip W. Anderson</i> </div>
+
 Physical objects can be described at different levels.
 A shoe is constructed from flat sheets of material, curved, cut,
 marked, and stuck together in clever ways; materials
@@ -62,5 +68,6 @@ and each atom is a tiny solar system, electrons whirring in elaborate
 orbitals around a dense core of protons and neutrons.
 Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
+The rest we explain "upwards".
 
 #### References and acknowledgments
