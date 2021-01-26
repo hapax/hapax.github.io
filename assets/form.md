@@ -93,7 +93,7 @@ different way, we would get different elements, different chemicals,
 and a duck or a cloud or an planetesimal instead of a shoe.
 Arrangement is important.
 It is patently absurd to try and explain the bulk properties of the
-shoe---the fact that is fits around a human foot, for
+shoe---the fact that it fits around a human foot, for
 instance---without appeal to arrangement, since a different
 order yields objects which do not fit around a foot.
 <!-- If one objects that "fitting around a foot" is some sort of
