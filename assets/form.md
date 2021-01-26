@@ -121,7 +121,7 @@ perspective.
 Anderson was arguing for *emergence* in condensed matter physics, the
 idea of domain-specific laws and dynamical principles which did not
 follow the strict, one-way explanatory hierarchy of reduction.
-And indeed, condensed matter physics makes a science of order, 
+And indeed, condensed matter physics makes a science of order.
 
 #### What is a particle?
 
