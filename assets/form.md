@@ -79,12 +79,11 @@ There is a gentler, less silly form of reductionism which grants the
 existence of shoes, but insists that they are (in the phrase of Jack
 Smart) nothing "over and above" the constituent subatomic particles.
 The shoe "just is" electrons and protons and neutrons, in some order.
-There are others way to characterise the reduction of a shoe to subatomic
-particles, for instance, that the properties of the former "follow"
-from, or are "completely explained by", the latter.
-In fact, there is a whole literature devoted to the subtleties of
-these definitions, although the subtleties usually fall into domain of
-analytic quibbles, and won't concern us too much.
+There are others way to characterise the reduction, for instance, that the properties of the shoe "follow"
+from, or are "completely explained by", those of the subatomic particles.
+In fact, there is a whole literature devoted to these subtleties,
+though most fall under the heading of analytic micro-quibbles, and
+won't concern us here.
 
 Instead, we will ask a much simpler question:
 
