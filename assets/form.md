@@ -151,8 +151,8 @@ raining floppy discs.
 
 <div style="text-align: right"><i>Richard Dawkins</i> </div>
 
-We do not need emergence in order to argue for the important of
-structure.
+We don't need emergence to argue for structure; we can use the
+elementary components themselves.
 When philosophers talk about reductionism, they tend to imagine
 subatomic particles as small, indivisible objects, without internal
 structure or further ontological baggage. They have properties like
