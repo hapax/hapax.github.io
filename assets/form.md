@@ -88,10 +88,16 @@ Instead, we will ask a much simpler question: why does order matter?
 
 Clearly, if we took those subatomic particles, and arranged them in a
 different way, we would get different elements, different chemicals,
-and a duck or a cloud or an asteroid instead of a shoe.
+and a duck or a cloud or an planetesimal instead of a shoe.
 Arrangement is important.
-The eliminativist might reply that ducks and clouds and
-galaxies don't exist, so there is nothing to 
+It is patently absurd to try and explain the bulk properties of the
+shoe---the fact that is fits around a human foot, for
+instance---without appeal to arrangement, since a different
+arrangement yields objects which do not fit around a foot.
+
+
+Philip Anderson was perhaps the first physicist to make this argument,
+in his famous article ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf).
 
 #### What is a particle?
 
