@@ -58,7 +58,8 @@ Any $v$ which satisfies this equation is an extremum.
 Now the question is how to model the distribution of bank balances.
 This is the sort of thing expected to follow a power-law
 curve like the
-[Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution).
+[Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution),
+the proverbial "80-20" curve.
 This is simply defined by its power-law tails:
 
 $$
@@ -109,3 +110,7 @@ v = \frac{\bar{F}(v)}{f(v)} = \frac{(L/v)^\alpha -
 (L/H)^\alpha}{\alpha L^{\alpha}v^{-(\alpha+1)}} \quad \Longrightarrow
 \quad v = (1-\alpha)^{1/\alpha} H.
 $$
+
+Once again, the answer is independent of the lower bound, but
+proportional to the upper bound, which as we take $H \to \infty$,
+returns our original result.
