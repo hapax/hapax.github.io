@@ -55,7 +55,7 @@ A shoe is constructed from flat sheets of material, curved, cut,
 marked, and stuck together in clever ways; materials
 curve and stick by virtue of their constituent
 chemicals, usually long, jointed molecular chains called polymers;
-molecules, in turn, are built like lego from a smorgasboard of atoms;
+polymers, in turn, are built like lego from a smorgasboard of atoms;
 and each atom is a tiny solar system, electrons whirring in their elaborate
 orbitals around a dense core of protons and neutrons.
 
@@ -72,9 +72,9 @@ Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
 The rest can be eliminated as unnecessary
 ontological baggage.
-
 This is called *eliminative reductionism*.
 It is a hardcore philosophy which does not believe in shoes.
+
 There is a gentler, less silly form of reductionism which grants the
 existence of shoes, but insists that they are (in the phrase of Jack
 Smart) nothing "over and above" the constituent subatomic particles.
@@ -84,7 +84,7 @@ particles is that the properties of the former "follow" or are
 There is a whole literature on the subtleties of these definitions,
 but they tend to be devoted to the technical quibbles that analytic
 philosophers love to obsess over, and won't concern us too much here.
-
+Instead, we will ask a much simpler question:
 
 #### What is a particle?
 
