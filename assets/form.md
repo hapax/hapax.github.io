@@ -22,5 +22,7 @@ smaller stuff, and keep going until you stop.
 In many ways, this describes the explanatory program of 20th century
 physics, which gave us atoms, quantum mechanics, the Standard Model
 with its zoo of subatomic particles, and even string theory.
+Like Platonism in mathematics, it is probably the philosophy of
+science to which most professional scientists subscribe.
 
 #### What is a particle?
