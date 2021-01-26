@@ -41,16 +41,7 @@ existence anyway?
 This post hopefully adds a dash of novelty, here and there, to
 old (and in some cases hopelessly outdated) debates.
 
-#### What is a particle?
-
-<span style="padding-left: 20px; display:block">
-It is raining instructions out there; it’s raining programs; it’s
-raining tree-growing, fluff-spreading, algorithms. That is not a
-metaphor, it is the plain truth. It couldn’t be any plainer if it were
-raining floppy discs.
-</span>
-
-<div style="text-align: right"><i>Richard Dawkins</i> </div>
+#### The existence of shoes
 
 <span style="padding-left: 20px; display:block">
 More is different.
@@ -75,9 +66,22 @@ The rest follows, and can therefore be eliminated as unnecessary
 ontological baggage.
 This is called *eliminative reductionism*.
 It is a hardcore philosophy which does not believe in shoes.
-There is a gentler, less silly reductionism which simply says that the
-properties of shoes depend on 
+There is a gentler, less silly form of reductionism which grants the
+existence of shoes, but insists that the property of the shoe follow
+from the properties of subatomic particles.
+
+#### What is a particle?
+
+<span style="padding-left: 20px; display:block">
+It is raining instructions out there; it’s raining programs; it’s
+raining tree-growing, fluff-spreading, algorithms. That is not a
+metaphor, it is the plain truth. It couldn’t be any plainer if it were
+raining floppy discs.
+</span>
+
+<div style="text-align: right"><i>Richard Dawkins</i> </div>
 
 #### References and acknowledgments
 
 <!-- quantamagazine.org/what-is-a-particle-20201112 -->
+<!-- https://plato.stanford.edu/entries/scientific-reduction/-->
