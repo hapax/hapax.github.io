@@ -112,19 +112,20 @@ Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
 only be made for *robust* explanations, and the sock imps fall apart
 at the first serious inquiry.
-That different arrangements of the same basic constituents will have
-different properties is robust, almost to the point of truism, and
-there is no reason to ban order, or *structure* as we will call it,
+That different arrangements of things have different properties is
+robust, almost to the point of truism, and there seems to be no
+principled reason to ban order, or *structure* as we will call it,
 from our ontology.
 
+We will return to this in a moment, but it's worth noting the parallel
+to *emergence*.
 In his famous article
 ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf),
-Philip W. Anderson made this argument from a slightly different
-perspective.
-Anderson was arguing for *emergence* in condensed matter physics, the
-idea of domain-specific laws and dynamical principles which did not
-follow the strict, one-way explanatory hierarchy of reduction.
-And indeed, condensed matter physics makes a science of order itself,
+Philip W. Anderson argued for the idea of domain-specific laws and
+dynamical principles which did not follow the strict, one-way
+explanatory hierarchy of reduction, particularly in his field of
+condensed matter physics.
+And indeed, condensed matter makes a science of order itself,
 studying howe macroscopic properties of materials (such as phases of
 matter) emerge from the arrangement of microscopic components.
 Anderson thought of the microscopic perspective as the wrong "level"
