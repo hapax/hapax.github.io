@@ -54,10 +54,10 @@ raining floppy discs.
 
 Physical objects can be described at different levels.
 A shoe is constructed from flat sheets of material, curved, cut,
-marked, and stuck together in various ingenious ways; these materials
-curve, stick, and endure due to the properties of their constituent
+marked, and stuck together in various ways; these materials
+can curve and stick due to their constituent
 chemicals, usually long, jointed molecular chains called polymers;
-these chemicals, in turn, are built like lego from Nature's palette of
+molecules, in turn, are built like lego from Nature's palette of
 atoms; and each atom is a tiny solar system, with electrons orbiting
 the dense core of protons and neutrons.
 
