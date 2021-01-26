@@ -20,9 +20,10 @@ Explanations come to an end somewhere.
 Put loosely, reductionism is the idea that you explain stuff with
 smaller stuff, and keep going until you stop.
 In many ways, this describes the explanatory program of 20th century
-physics, which gave us atoms, quantum mechanics, the Standard Model
-with its zoo of subatomic particles, and even string theory.
-Like Platonism in mathematics, it is probably the philosophy of
-science to which most professional scientists subscribe.
+physics, which gave us atoms, subatomic particles, the zoo of the
+Standard Model, and even more fundamental speculative objects like
+strings.
+Like Platonism in mathematics, most physicists would probably assent
+to some form of reductionism.
 
 #### What is a particle?
