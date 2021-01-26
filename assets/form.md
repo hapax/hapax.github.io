@@ -151,6 +151,18 @@ raining floppy discs.
 
 <div style="text-align: right"><i>Richard Dawkins</i> </div>
 
+We do not need emergence in order to argue for the important of
+structure.
+When philosophers talk about reductionism, they tend to imagine
+subatomic particles as small, indivisible objects, without internal
+structure or further ontological baggage. They have properties like
+charge, or mass, and obey the odd dictates of quantum mechanics, but
+all this is simply packaged into an electron and not worth further
+meditation.
+But if we try and unpack all these "simple" properties, we will find
+that, like the magic bag of Mary Poppins, a particle is much deeper
+than it first appears.
+
 #### References and acknowledgments
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
