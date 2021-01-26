@@ -75,6 +75,8 @@ The rest follows, and can therefore be eliminated as unnecessary
 ontological baggage.
 This is called *eliminative reductionism*.
 It is a hardcore philosophy which does not believe in shoes.
+There is a gentler, less silly reductionism which simply says that the
+properties of shoes depend on 
 
 #### References and acknowledgments
 
