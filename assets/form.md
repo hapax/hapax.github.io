@@ -86,7 +86,7 @@ from, or are "completely explained by", those of the subatomic particles.
 In fact, there is a whole literature devoted to these subtleties,
 though most fall under the heading of analytic micro-quibbles, and
 won't concern us here.
-Instead, we will ask a much simpler question: why does order matter?
+Instead, we will make a much simpler observation: order matters.
 
 Clearly, if we took those subatomic particles, and arranged them in a
 different way, we would get different elements, different chemicals,
