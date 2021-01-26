@@ -27,5 +27,6 @@ Most physicists spend their days in the lab or by the blackboard,
 trying to break complex phenomena down into simple parts.
 So like Platonism in mathematics, reductionism in physics simply makes
 a philosophy of everyday practice.
+We break stuff down, so that's how the universe works.
 
 #### What is a particle?
