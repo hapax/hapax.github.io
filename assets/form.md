@@ -109,10 +109,19 @@ But this is a bad explanation! It's not consistent with other reliably known fac
 Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
 only be made for *robust* explanations.
+That different arrangements of the same basic constituents will have
+different properties is robust, almost to the point of truism, and
+there is no reason to ban order, or *structure* as we will call it,
+from our ontology.
 
-If "fitting around a foot" sounds too much like an anthropocentric
-folly, due for elimination, apply the same argument to cosmology or
-materials s
+In his famous article
+["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf),
+Philip W. Anderson made this argument from a slightly different
+perspective.
+Anderson was arguing for *emergence* in condensed matter physics, the
+idea of domain-specific laws and dynamical principles which did not
+follow the strict, one-way explanatory hierarchy of reduction.
+And indeed, condensed matter physics makes a science of order, 
 
 #### What is a particle?
 
