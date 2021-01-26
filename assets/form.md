@@ -32,12 +32,12 @@ mathematical objects, so they exist.
 
 But like Platonism, reductionism is a convenient fiction, or rather, a
 caricature in which some things are emphasised at the cost of others.
-Given the reverence philosophers have for the ontological judgments of
+And given the reverence philosophers have for the ontological verdicts of
 science, it's worth asking: what does science really tell us about the
 universe? Does explanation go only downwards, or upwards, or sideways?
 What sorts of objects are necessary for explanation? Is there evidence
 for eliminativism?
-These questions are in some ways obvious, but the intersection of
-people who care
+This post hopefully adds a little novelty, here and there, to a
+somewhat tired 20th century
 
 #### What is a particle?
