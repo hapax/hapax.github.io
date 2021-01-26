@@ -1,0 +1,80 @@
+---
+Layout: post
+mathjax: true
+comments: true
+title:  "Cashing a blank check"
+categories: [Mathematics, Statistics]
+date:  2021-01-26
+---
+
+**January 26, 2021.** *Suppose you find a blank check on the ground,
+  and unscrupulously decide to cash it in. How much should you cash it
+  in for, if you want to avoid a check that bounces and gets you nothing?*
+
+#### Introduction
+
+In the film "Blank Check" (1994), 11-year old Preston Waters is
+handed a blank check, and cashes it in for a million dollars.
+Luckily, this is precisely the amount of money that the check's
+signer, a convict attempting to launder his ill-gotten gains, has left
+with the bank's president.
+But what if Preston overdrew, asking for, say, $10$ billion?
+This would probably have raised the suspicions of the complicit
+bank president and the check would have bounced altogether.
+When I was a kid, I thought it was incredibly lucky for Preston to
+find the check in the first place.
+I now think drawing the precise amount of money held in trust is
+infinitely luckier.
+
+#### Expected return
+
+This raises the question: if you find a blank check, and you don't
+want it to bounce, how much should cash it in for?
+I'll assume we know nothing about the identity of the signee, and that
+if they have a balance of $b$, and we make out the value of the check
+to be $v$, then the check will bounce if $v > b$.
+Our strategy will be to calculate the expected return for $v$ and then
+maximise it.
+If $f(b)$ is the probability distribution for bank balances, then the
+expected return for $v$ is simply $v$ multiplied by the probability $b> v$:
+
+$$
+E(v) = v \int_v^\infty f(b) \, db = v[1 - F(v)] = v \bar{F}(v),
+$$
+
+where $F$ is the cumulative distribution function, and the $\bar{F} =
+1 -F$ the tail.
+To maximise this, we assume the curve is smooth, differentiate and set
+to $0$, using $\bar{F}' = -f$:
+
+$$
+E'(v) = \bar{F} - vf(v) = 0 \quad \Longrightarrow \quad  v = \frac{\bar{F}(v)}{f(v)}.
+$$
+
+Any $v$ which satisfies this equation is an extremum.
+Now the question is how to model the distribution of bank balances!
+This is precisely the sort of thing expected to follow a power-law
+curve like the
+[Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution).
+This is simply defined by its power-law tails:
+
+$$
+\bar{F}(v) = \left(\frac{v_m}{v}\right)^\alpha,
+$$
+
+where $v_m$ is the minimum amount to keep a bank balance open (say a
+monthly fee), and $\alpha > 0$ is a shape parameter we will "leave blank" for the moment.
+This is well-defined since it heads to zero.
+The probability density for $v \geq v_m$ is
+
+$$
+f(v) = -\bar{F}'(v) = \frac{\alpha v^\alpha_m}{v^{\alpha + 1}}.
+$$
+
+In terms of these parameters, the optimal amount of money to write on
+a blank check obeys
+
+$$
+v = \frac{\bar{F}(v)}{f(v)} = \left(\frac{v_m}{v}\right)^\alpha \cdot
+\frac{v^{\alpha + 1}}{\alpha v^\alpha_m} = 
+$$
