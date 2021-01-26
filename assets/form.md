@@ -58,8 +58,8 @@ marked, and stuck together in clever ways; materials
 curve and stick by virtue of their constituent
 chemicals, usually long, jointed molecular chains called polymers;
 molecules, in turn, are built like lego from a smorgasboard of atoms;
-and each atom is a tiny solar system, electrons whirring around a
-dense core of protons and neutrons.
+and each atom is a tiny solar system, electrons whirring in elaborate
+orbitals around a dense core of protons and neutrons.
 Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
 
