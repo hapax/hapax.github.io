@@ -135,7 +135,7 @@ The symmetries, order parameters which measure their brokenness,
 and collective excitations which emerge as long-range messangers of
 disorder, are not simply the microscopics "zoomed out". They are
 something new, something "over and above" the spins of the lattice, or
-the monolayer of carbon atoms.
+the carbon atoms of the hexagonal monolayer.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
