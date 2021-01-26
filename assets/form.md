@@ -7,12 +7,12 @@ categories: [Mathematics, Physics, Philosophy]
 date:  2021-01-26
 ---
 
-**January 26, 2021.** **
+**January 26, 2021.** *Various musics on the philosophy of science,
+  mathematics, and a dash of Aristotle.*
 
 #### Introduction
 
-In this post, I want to consider various aspects of the philosophy of
-science and mathematics that have been percolating for a few years.
+When you think about it, reductionism is 
 
 #### What is a particle?
 
