@@ -102,3 +102,9 @@ $$
 \bar{F}(v) = \int_v^H \frac{\alpha L^{\alpha}v^{-(\alpha+1)}}{1 -
 (L/H)^\alpha} dv = \frac{(L/v)^\alpha - (L/H)^\alpha}{1 - (L/H)^\alpha}.
 $$
+
+Thus, we now have to solve
+
+$$
+v = \frac{\bar{F}(v)}{f(v)} = \frac{(L/v)^\alpha - (L/H)^\alpha}{\alpha L^{\alpha}v^{-(\alpha+1)}}.
+$$
