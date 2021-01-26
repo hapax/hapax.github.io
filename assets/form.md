@@ -93,11 +93,27 @@ Arrangement is important.
 It is patently absurd to try and explain the bulk properties of the
 shoe---the fact that is fits around a human foot, for
 instance---without appeal to arrangement, since a different
-arrangement yields objects which do not fit around a foot.
+order yields objects which do not fit around a foot.
 <!-- If one objects that "fitting around a foot" is some sort of
 anthropocentric folly due for elimination, replace it with, 
 Philip Anderson was perhaps the first physicist to make this argument,
 in his famous article ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf). -->
+Since order has *explanatory* significance, it should presumably be
+tarred with the same ontic brush we apply to other explanatory devices
+like electrons.
+
+Of course, one may object that explanation does not equal existence.
+I can handily explain the continual disappearance of my socks by
+invoking imps.
+But this is a bad explanation, since it is not consistent with various
+other reliably known facts about the world.
+It does not make the ontic cut, not because there is no link between
+explanation and what we deem to exist, but because that link should
+only be made for *robust* explanations, which sadly, the sock imps are not.
+
+If "fitting around a foot" sounds too much like an anthropocentric
+folly, due for elimination, apply the same argument to cosmology or
+materials s
 
 #### What is a particle?
 
