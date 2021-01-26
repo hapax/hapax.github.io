@@ -59,11 +59,18 @@ molecules, in turn, are built like lego from a smorgasboard of atoms;
 and each atom is a tiny solar system, electrons whirring in their elaborate
 orbitals around a dense core of protons and neutrons.
 
-The old idea is that, from the properties of the neutrons, protons and
-electrons, we can infer everything else "upwards".
+From the properties of the neutrons, protons and
+electrons, it seems we can work our way upwards, and infer everything
+else.
+The laws of quantum mechanics and electromagnetism determine the
+orbital structure of the atom; the valence shell of the atom
+determines how it can combine with other atoms to form chemical; the
+structure and organisation of functional groups in the polymers gives
+it the properties that the industrial chemist, the cobbler, or the
+designer employ to make a shoe.
 Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
-The rest follows, and can therefore be eliminated as unnecessary
+The rest can be eliminated as unnecessary
 ontological baggage.
 This is called *eliminative reductionism*.
 It is a hardcore philosophy which does not believe in shoes.
