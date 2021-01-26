@@ -74,8 +74,7 @@ $$
 f(v) = -\bar{F}'(v) = \frac{\alpha L^\alpha}{v^{\alpha + 1}}.
 $$
 
-In terms of these parameters, the optimal amount of money to write on
-a blank check obeys
+The optimal draw then obeys
 
 $$
 v = \frac{\bar{F}(v)}{f(v)} = \left(\frac{L}{v}\right)^\alpha \cdot
