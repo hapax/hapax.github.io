@@ -112,5 +112,8 @@ raining floppy discs.
 
 #### References and acknowledgments
 
+I'd like to thank Leon Di Stefano for introducing me to Aristotle's
+ideas on structure and inspiring conversations over the years.
+
 <!-- quantamagazine.org/what-is-a-particle-20201112 -->
 <!-- https://plato.stanford.edu/entries/scientific-reduction/-->
