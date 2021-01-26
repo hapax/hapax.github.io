@@ -106,9 +106,9 @@ Of course, one may object that explanation does not equal existence.
 I can handily explain the continual disappearance of my socks by
 invoking the hypothesis of sock imps.
 But this is a bad explanation! It's not consistent with other reliably known facts about the world.
-It does not make the ontic cut, not because there is no link between
+Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
-only be made for *robust* explanations, which sadly, the sock imps are not.
+only be made for *robust* explanations.
 
 If "fitting around a foot" sounds too much like an anthropocentric
 folly, due for elimination, apply the same argument to cosmology or
