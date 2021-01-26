@@ -74,7 +74,7 @@ Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
 The rest can be eliminated as unnecessary
 ontological baggage.
-This is called *eliminative reductionism*.
+This view is called *eliminative reductionism*.
 It is a hardcore philosophy which does not believe in shoes.
 
 There is a gentler, less silly form of reductionism which grants the
