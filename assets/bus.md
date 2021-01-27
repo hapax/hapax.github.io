@@ -50,3 +50,23 @@ as above tells us that the average distance is
 $$
 \frac{L}{k +1} = \left(\frac{k}{k+1}\right)\lambda.
 $$
+
+Translating into the language of bus schedules, this means that if
+buses have a fixed but random schedule over some length of time, with
+average interarrival time $\lambda$, the expected wait time is *not*
+$\lambda$, but rather, smaller than $\lambda$ by a factor of
+$k/(k+1)$, where $k$ is the total number of buses over the period.
+
+#### The bus paradox
+
+The bus paradox applies to a schedule which does not repeat.
+Let us take $L, k \to \infty$ but leave $\lambda = L/k$ fixed.
+Then the expected waiting time is
+
+$$
+\left(\frac{k}{k+1}\right)\lambda \to \lambda.
+$$
+
+Thus, the patron is equivalent to adding another random bus, but since
+there are so many buses, the interarrival time is the same.
+This completes is our simple proof of the bus paradox.
