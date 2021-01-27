@@ -155,10 +155,10 @@ We don't need emergence to argue for structure; we can use the
 elementary components themselves.
 When philosophers talk about reductionism, they tend to imagine
 subatomic particles as small, indivisible objects, without internal
-structure or further ontological baggage. They have properties like
-charge, or mass, and obey the odd dictates of quantum mechanics, but
-all this is simply packaged into an electron and not worth further
-meditation.
+organisation or further ontological baggage. They have properties like
+charge, or mass, and obey the curious dictates of quantum mechanics,
+but all this is packaged irreducibly into the electron and not worth
+further discussion.
 But if we try and unpack all these "simple" properties, we will find
 that, like the magic bag of Mary Poppins, a particle is much deeper
 than it first appears.
