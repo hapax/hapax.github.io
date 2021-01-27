@@ -89,11 +89,11 @@ is unchanged. This completes our simple proof of the bus paradox.
 It's a little tricky, of course, to formulate what it means to place
 the buses uniformly on an infinite line, and this is exactly what the
 [Poisson process](https://en.wikipedia.org/wiki/Poisson_point_process#Homogeneous_Poisson_point_process)
+(and more generally [renewal theory](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox))
 achieves.
-But rather than introduce the formal baggage, we can simply consider
+But rather than introduce all this formal baggage, we can simply consider
 the limit of the uniform process to arrive at the correct conclusion,
-and with greater intuitive clarity (in my opinion) than when the
-answer is concealed in thickets of algebra.
+and with greater clarity than a number concealed within thickets of algebra.
 
 #### Conclusion
 
@@ -110,6 +110,8 @@ $$
 
 When the buses are random, our argument explains why this argument
 breaks down: the commuter is like another bus!
+They are just another random point in the sequence, and must therefore
+have the 
 
 <!-- There are a few other fun things we can do, however.
 If we add $n$ commuters, for $n = o(k)$, then when they sprinkled
