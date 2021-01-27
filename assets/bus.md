@@ -93,7 +93,7 @@ the buses uniformly on an infinite line, and this is exactly what the
 achieves.
 But rather than introduce all this formal baggage, we can simply consider
 the limit of the uniform process to arrive at the correct conclusion,
-and with greater clarity than a number concealed within thickets of algebra.
+and with greater clarity than when the answer is concealed in thickets of algebra.
 
 #### Conclusion
 
