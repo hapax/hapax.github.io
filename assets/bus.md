@@ -43,7 +43,7 @@ $$
 $$
 
 Let us place another point on the circle at random.
-This represents the patron who wishes to catch a bus.
+This represents the commuter who wishes to catch a bus.
 Since we now have $k + 1$ points placed at random, the same reasoning
 as above tells us that the average distance is
 
@@ -67,6 +67,18 @@ $$
 \left(\frac{k}{k+1}\right)\lambda \to \lambda.
 $$
 
-Thus, the patron is equivalent to adding another random bus, but since
-there are so many buses, the interarrival time is the same.
-This completes is our simple proof of the bus paradox.
+Thus, the arrival of the commuter is equivalent to adding another random
+bus, but since there are infinitely many buses, the interarrival time
+is unchanged. This completes our simple proof of the bus paradox.
+
+<!-- There are a few other fun things we can do, however.
+If we add $n$ commuters, for $n = o(k)$, then when they sprinkled
+randomly among the buses, it is overwhelmingly likely that the next
+thing to come along will be a bus rather than a commuter (with
+probability $k/(k+n) \to 1$), and hence the expected wait time is
+
+$$
+\left(\frac{k}{k+n}\right)\lambda \to \lambda.
+$$
+
+But for finite $n$, the time to  -->
