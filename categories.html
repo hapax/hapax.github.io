@@ -18,7 +18,19 @@ Search blog posts by category.
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 
- <h3>Hacks</h3>
+ <h3>Statistics</h3>
+ 
+{% for post in site.categories.Statistics %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+ 
+<h3>Philosophy</h3>
+ 
+{% for post in site.categories.Philosophy %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ {% endfor %}
+
+  <h3>Hacks</h3>
  
 {% for post in site.categories.Hacks %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -29,12 +41,6 @@ Search blog posts by category.
 {% for post in site.categories.Everyday %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
- 
-<h3>Philosophy</h3>
- 
-{% for post in site.categories.Philosophy %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
 
 <!--  <figure> <div style="text-align:center"><img -->
 <!--  src="/images/HaPPYBH.png" width="50%" /> </div> </figure> -->
