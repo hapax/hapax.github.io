@@ -101,17 +101,22 @@ The reasoning outlined in the introduction is not completely off the
 mark. It applies when the buses arrive at fixed intervals $\lambda$,
 and the commuter randomly.
 The expected time to the previous bus $t_-$ and the expected time to
-the next bus $t_+$ must add to give the interval $\lambda$, and by
-time symmetry, they must be equal:
+the next bus $t_+$ must add to give the interval $\lambda$ between
+buses, and by time symmetry, they must be equal:
 
 $$
 t_+ + t_- = \lambda, \quad t_+ = t_- \quad \Longrightarrow t_+ = t_- = \frac{\lambda}{2}.
 $$
 
-When the buses are random, our argument explains why this argument
+In this case, there is a clear distinction between the stochasticity
+of buses and commuters.
+But when everything arrives randomly, a commuter becomes just another
+bus, and the waiting time equals the interarrival time.
+
+<!-- When the buses are random, our argument explains why this argument
 breaks down: the commuter is like another bus!
 They are just another random point in the sequence, and must therefore
-have the 
+have the  -->
 
 <!-- There are a few other fun things we can do, however.
 If we add $n$ commuters, for $n = o(k)$, then when they sprinkled
