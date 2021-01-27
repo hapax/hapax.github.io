@@ -8,9 +8,9 @@ date:  2021-01-26
 ---
 
 **January 26, 2021.** *The bus paradox states that, if buses arrive
-  randomly every ten minutes on average, the average waiting time is
-  ten minutes rather than five. I give a simple proof which involve no
-  formal probablity theory.*
+  randomly every ten minutes on average, the expected waiting time is
+  counterintuitively ten minutes rather than five. I give a simple
+  proof which involve no formal probablity theory.*
 
 #### Introduction
 
