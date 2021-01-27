@@ -85,7 +85,18 @@ is unchanged. This completes our simple proof of the bus paradox.
     ="/images/posts/bus2.png"/>
 	</div>
 	</figure>
-	
+
+It's a little tricky, of course, to formulate what it means to place
+the buses uniformly on an infinite line, and this is exactly what the
+[Poisson process](https://en.wikipedia.org/wiki/Poisson_point_process#Homogeneous_Poisson_point_process)
+achieves.
+But rather than introduce the formal baggage, we can simply consider
+the limit of the uniform process to arrive at the correct conclusion,
+and with greater intuitive clarity (in my opinion) than when the
+answer is concealed in thickets of algebra.
+
+#### Conclusion
+
 Note that, if buses arrive at fixed intervals of
 period $\lambda$ and a commuter arrives randomly, then the
 intuitive argument from the introduction works.
