@@ -32,7 +32,7 @@ makes the role of various assumptions manifest in a simple way.
 #### The bus loop
 
 We start by considering a circle of total length $L$, on
-which we place $k$ points at random.
+which we place $k$ points at random (white in the image below).
 This models a length of time, such as the day, and the random arrival
 of $k$ buses.
 The average distance between points (going clockwise, for instance) is clearly
@@ -41,8 +41,16 @@ $$
 \lambda = \frac{L}{k}.
 $$
 
-Let us place another point on the circle at random.
+Let us place another point on the circle at random (black in the image
+below).
 This represents the commuter who wishes to catch a bus.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/bus1.png"/>
+	</div>
+	</figure>
+
 Since we now have $k + 1$ points placed at random, the same reasoning
 as above tells us that the average distance is
 
