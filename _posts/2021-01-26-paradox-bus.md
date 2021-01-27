@@ -76,7 +76,7 @@ $$
 $$
 
 Thus, the arrival of the commuter is equivalent to adding another random
-bus, but since there are infinitely many buses, the interarrival time
+bus. Since they are spread over an infinite time, the interarrival period
 is unchanged. This completes our simple proof of the bus paradox.
 
 <figure>
