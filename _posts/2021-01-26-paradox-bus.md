@@ -86,7 +86,7 @@ is unchanged. This completes our simple proof of the bus paradox.
 	</figure>
 
 It's a little tricky, of course, to formulate what it means to place
-the buses uniformly on an infinite line, and this is exactly what the
+the buses "uniformly" on an infinite line, and this is exactly what the
 [Poisson process](https://en.wikipedia.org/wiki/Poisson_point_process#Homogeneous_Poisson_point_process)
 (and more generally [renewal theory](https://en.wikipedia.org/wiki/Renewal_theory#Inspection_paradox))
 achieves.
