@@ -27,8 +27,7 @@ This reasoning is wrong, and rather unexpectedly, the expected wait
 time is $\lambda$.
 The goal of this post is to share a quick geometric proof which does
 not require any integrals or formal probability theory at all, and
-makes the role of various assumptions manifest.
-It is novel to the best of my knowledge.
+makes the role of various assumptions manifest in a simple way.
 
 #### The bus loop
 
