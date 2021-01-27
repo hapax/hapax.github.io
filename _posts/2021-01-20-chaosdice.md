@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Dicing with chaos"
-categories: [Mathematics, Physics, Statistics]
+categories: [Mathematics, Physics, Statistics, Everyday]
 date:  2021-01-20
 ---
 

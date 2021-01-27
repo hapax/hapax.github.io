@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "A simple proof of the bus paradox"
-categories: [Mathematics, Statistics]
+categories: [Mathematics, Statistics, Everyday]
 date:  2021-01-26
 ---
 
