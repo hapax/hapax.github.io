@@ -25,9 +25,9 @@ $\lambda/2$ before you arrive (by symmetry), then the gap between them
 is $\lambda$.
 This reasoning is wrong, and rather unexpectedly, the expected wait
 time is $\lambda$.
-The goal of this post is to share a proof which does
-not require any integrals or formal probability theory at all, and
-makes the role of various assumptions manifest.
+The goal of this post is to give a proof which does
+not require any integrals or formal probability theory, and
+makes the role of assumptions manifest.
 
 #### The bus loop
 
