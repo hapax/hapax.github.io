@@ -9,8 +9,8 @@ date:  2021-01-26
 
 **January 26, 2021.** *The bus paradox states that, if buses arrive
   randomly every ten minutes on average, the average waiting time is
-  ten minutes rather than five. I give a simple, geometric proof and
-  generalise in various directions.*
+  ten minutes rather than five. I give a simple, geometric proof which
+  does not involve any probablity theory.*
 
 #### Introduction
 
@@ -70,6 +70,16 @@ $$
 Thus, the arrival of the commuter is equivalent to adding another random
 bus, but since there are infinitely many buses, the interarrival time
 is unchanged. This completes our simple proof of the bus paradox.
+If, on the contrary, buses arrive at fixed intervals of
+period $\lambda$, and a commuter now arrives at random time, then the
+intuitive argument from the introduction works.
+The expected time to the previous bus $t_-$ and the expected time to
+the next bus $t_+$ must add to give the interval $\lambda$, and by
+time symmetry, they must be equal:
+
+$$
+t_+ + t_- = \lambda, \quad t_+ = t_- \quad \Longrightarrow t_+ = t_- = \frac{\lambda}{2}.
+$$
 
 <!-- There are a few other fun things we can do, however.
 If we add $n$ commuters, for $n = o(k)$, then when they sprinkled
