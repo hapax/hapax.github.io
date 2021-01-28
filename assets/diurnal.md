@@ -65,17 +65,17 @@ sunlight made with the ground, $\vartheta$.
 Even more interesting is how $\vartheta$ is related to the earth-sun
 geometry, and the parameters of latitude, time of year, and time of
 day.
-Here is a basic picture of the setup.
+The point directly below the sun, called the *subsolar point*, rotates
+at some line of latitude around the earth, with azimuthal angle
+$\theta_\text{sub}$, depending on the time of year.
+Here is a basic picture of the setup:
 
 <figure>
     <div style="text-align:center"><img src
     ="/images/posts/diurnal1.png"/>
 	</div>
 	</figure>
-
-The point directly below the sun, called the *subsolar point*, rotates
-at some line of latitude around the earth, with azimuthal angle
-$\theta_\text{sub}$, depending on the time of year.
+	
 At either equinox, it coincides with with the equator (red line).
 At the (northern hemisphere's) summer solstice, it runs along the Tropic of Cancer, about
 $23.5^\circ$ north of the equator.
