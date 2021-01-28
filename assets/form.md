@@ -178,8 +178,7 @@ than it first appears.
 
 The Large Hadron Collider does not produce evidence for tiny,
 structureless blobs at a rate of petabytes per second.
-Rather, it confirms that the universe is made of highly structured
-mathematical diamonds!
+Rather, it confirms that the universe is made of mathematics!
 The state-of-the-art definition of a particle is (as
 [this Quanta article](quantamagazine.org/what-is-a-particle-20201112)
 humorously explores) a bit of a mouthful: an irreducible
@@ -195,9 +194,12 @@ describing the shape of empty space, according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
 cannot be split into parts with this symmetry.
 
-I call this a diamond because although it is hard and indivisible in
-the sense of representation theory, it is clearly a multifacted,
-highly organised object.
+Although it is indivisible in the sense of representation theory, this
+is a highly organised and multifaceted object. When philosophers of
+science eagerly assent to believe in whatever the particle physicists
+tell them, particularly when it can be tested with unparalleled
+precision at a facility like the LHC, I don't think they realise what
+they signed up for.
 
 #### References and acknowledgments
 
