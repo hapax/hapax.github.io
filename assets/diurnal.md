@@ -78,9 +78,18 @@ at some line of latitude around the earth, with azimuthal angle
 $\theta_\text{sub}$, depending on the time of year.
 At either equinox, it coincides with with the equator (red line).
 At the (northern hemisphere's) summer solstice, it runs along the Tropic of Cancer, about
-$23.6^\circ$ north of the equator.
-At the winter solstice, it lies $23.6^\circ$ south of the equator, on
+$23.5^\circ$ north of the equator.
+At the winter solstice, it lies $23.5^\circ$ south of the equator, on
 the Tropic of Capricorn.
+If we draw the orbit of the earth as a circle around the sun, with
+$\varphi = 0$ at the vernal equinox and increasing with time, then the
+subsolar latitude obeys
+
+$$
+\theta_\text{sub} = \left(\frac{23.5}{360}\right) 2\pi \sin(\varphi).
+$$
+
+To calculate the angle $\vartheta$, we need to two
 
 ---
 
