@@ -178,7 +178,24 @@ than it first appears.
 
 The Large Hadron Collider does not produce evidence for tiny,
 structureless blobs at a rate of petabytes per second.
-Rather, it confirms that the universe is made out of 
+Rather, it confirms that the universe is made of highly structured
+mathematical diamonds!
+The state-of-the-art definition of a particle is (as
+[this Quanta article](quantamagazine.org/what-is-a-particle-20201112)
+humorously explores) a bit of a mouthful: an irreducible
+representation of the Lorentz group.
+In plain English, being a *representation* means that particles are
+objects with symmetries, in the same way a circle looks the same when
+you rotate it.
+That it is *irreducible* means that it cannot be split into smaller
+parts which have the same symmetry, which is the mathematical avatar
+of being "indivisible".
+Finally, the symmetry itself, the *Lorentz group*, is the same group
+describing the shape of empty space, according to special relativity.
+So a particle obeys the symmetries associated with empty space, and
+cannot be split into parts with this symmetry.
+
+
 
 #### References and acknowledgments
 
