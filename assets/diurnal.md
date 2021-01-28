@@ -59,8 +59,8 @@ $$
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-This comes once more from the Stefan-Boltzmann law for the surface
-temperature of the sun ($T_\odot = 5800 \text{ K}$), and an inverse square
+This comes once more from the Stefan-Boltzmann law (for the surface
+temperature of the sun $T_\odot = 5800 \text{ K}$), and an inverse square
 drop-off:
 
 $$
