@@ -84,7 +84,7 @@ At the winter solstice, it lies $23.5^\circ$ south of the equator, on
 the Tropic of Capricorn.
 If we draw the orbit of the earth as a circle around the sun, with
 $\varphi = 0$ at the winter solstice and increasing with time, then the
-subsolar latitude, measured in radians from the north pole, obeys
+subsolar latitude, measured in radians from the north pole, roughly obeys
 
 $$
 \theta_\text{sub} = \frac{\pi}{2} + \left(\frac{2\pi}{360}\right) 23.5
@@ -132,7 +132,7 @@ $$
 Plugging this back into (\ref{balance}), we find a relationship
 between maximum temperature $T_\text{max}$, time of year via
 $\theta_\text{sub}$, latitude $\theta_\text{lat}$, and time of day, or
-rather, time past solar noon via $\phi$.
+rather, time past solar noon $\phi$.
 
 #### Real data
 
@@ -193,7 +193,7 @@ way radiant intensity changes (due to the inverse square law) with $\vartheta$.
 </p></div>
 
 <!-- http://www.bom.gov.au/products/IDV60901/IDV60901.95936.shtml
-60*12*arccos((sqrt((5.6*10^(-8)*(273+7)^4)/(1367(0.65))) - cos(1.2)cos(2*pi*(40.7/360)))/(sin(1.2)sin(2*pi*(40.7/360))))/(2*pi)
+((60*12 )/(2*pi))*arccos((sqrt((5.6*10^(-8)*(273+7)^4)/(1367(0.65))) + cos(1.9)cos(2*pi*(40.7/360)))/(sin(1.9)sin(2*pi*(40.7/360))))
 2*pi(90 - 23.6*sin(pi/2 + pi/6))/360
 https://www.timeanddate.com/weather/canada/vancouver/historic?month=1&year=2021
 https://www.sjsu.edu/faculty/watkins/diurnaltemp.htm
