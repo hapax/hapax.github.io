@@ -83,7 +83,7 @@ At the winter solstice, it lies $23.5^\circ$ south of the equator, on
 the Tropic of Capricorn.
 If we draw the orbit of the earth as a circle around the sun, with
 $\varphi = 0$ at the vernal equinox and increasing with time, then the
-subsolar latitude obeys
+subsolar latitude (in radians) obeys
 
 $$
 \theta_\text{sub} = \left(\frac{23.5}{360}\right) 2\pi \sin(\varphi).
