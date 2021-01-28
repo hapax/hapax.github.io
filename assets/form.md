@@ -44,14 +44,6 @@ debates.
 
 #### The existence of shoes
 
-<span style="padding-left: 20px; display:block">
-In some sense, structure---functional structure in the teleological
-sense, as opposed to mere crystalline shape---must also be considered
-a stage... in the hierarchy of broken symmetries.
-</span>
-
-<div style="text-align: right"><i>Philip W. Anderson</i> </div>
-
 Physical objects can be described at different levels.
 A shoe is constructed from flat sheets of material, curved, cut,
 marked, and stuck together in clever ways; materials
@@ -118,6 +110,12 @@ from our ontology.
 
 #### Emergence
 
+<span style="padding-left: 20px; display:block">
+More is different.
+</span>
+
+<div style="text-align: right"><i>Philip W. Anderson</i> </div>
+
 It's worth noting the parallel
 to *emergence*.
 In his famous article
@@ -147,7 +145,10 @@ collective excitations, are properties of the arrangements themselves.
 They are something new, something "over and above" the spins of the
 lattice, or the carbon atoms of a hexagonal monolayer, since different
 arrangements of those same parts would have different properties.
-In a slogan, emergent laws are a symptom of structure.
+We can turn Anderson's snappy slogan around:
+*different is more*. If arranging things differently gives them new
+and different properties, it is a sign of structure, which is more
+than the component parts themselves.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
