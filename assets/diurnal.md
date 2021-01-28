@@ -158,7 +158,7 @@ where $R_\odot = 7 \times 10^5 \text{ km}$ is the solar radius and $d
 href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
 We are making the usual assumption that the sun is far enough away to
 treat incoming rays as parallel. For the same reason, we ignore the
-change in radiant intensity due to the change in distance.
+way radiant intensity changes (due to the inverse square law) with $\vartheta$.
 </p></div>
 
 <!-- http://www.bom.gov.au/products/IDV60901/IDV60901.95936.shtml
