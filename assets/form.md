@@ -201,7 +201,7 @@ of being "indivisible".
 Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space, according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
-cannot be split into parts with this symmetry.
+cannot be split into parts with this symmetry [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>].
 Lurking implicitly in the background is the whole framework of
 quantum mechanics.
 
@@ -214,7 +214,7 @@ they signed up for!
 They have signed up for spacetime, quantum mechanics, and symmetries;
 these three are welded indissolubly to form the most robust and
 fundamental objects in the universe.
-Even here, structure is inescapable.
+Even when an object is indivisible, structure is inescapable.
 
 #### Unreasonable effectiveness
 
@@ -232,4 +232,12 @@ structuralism and many inspiring conversations over the years.
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 As the quote suggests, the original eliminativists like Paul and
 Patricia Churchland were much more interested in abolishing psychology than shoes.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+Particles can have other symmetries as well. An important class is
+gauge symmetry, consisting of "internal" degrees of freedom, like a
+dial on a gauge. These gauge symmetries are crucial to formulating the
+whole Standard Model, and explain, for instance, why an electron has charge.
 </p></div>
