@@ -108,7 +108,7 @@ robust, almost to the point of truism, and there seems to be no
 principled reason to ban order, or *structure* as we will call it,
 from our ontology.
 
-#### Emergence
+#### Emergence vs structure
 
 <span style="padding-left: 20px; display:block">
 More is different.
@@ -200,6 +200,8 @@ science eagerly assent to believe whatever the particle physicists
 tell them, particularly when it can be tested with unparalleled
 precision at the LHC, they may not realise what
 they signed up for!
+
+#### Unreasonable effectiveness
 
 #### References and acknowledgments
 
