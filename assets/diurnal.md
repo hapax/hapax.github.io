@@ -66,7 +66,7 @@ drop-off:
 $$
 I_0 = \sigma T_\odot^4 \left(\frac{R_\odot}{d}\right) =
 5.67 \times 10^{-8} \cdot 5800^4  \left(\frac{7 \times 10^5}{1.5\times
-10^8}\right)^2 \frac{\text{W}}{\text{m}^2}\approx 1400 \frac{\text{W}}{\text{m}^2},
+10^8}\right)^2\, \frac{\text{W}}{\text{m}^2}\approx 1400 \, \frac{\text{W}}{\text{m}^2},
 $$
 
 using the solar radius $R_\odot = 7 \times 10^5 \text{ km}$ and the
