@@ -90,7 +90,7 @@ Instead, we will make a much simpler observation: order matters.
 
 Clearly, if we took those subatomic particles, and arranged them in a
 different way, we would get different elements, different chemicals,
-and a duck or a cloud or an planetesimal instead of a shoe.
+and a duck, cloud or planetesimal instead of a shoe.
 Arrangement is important.
 It is patently absurd to try and explain the bulk properties of the
 shoe---the fact that it fits around a human foot, for
