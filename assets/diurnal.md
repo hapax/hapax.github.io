@@ -7,8 +7,9 @@ categories: [Mathematics, Physics, Everyday]
 date:  2021-01-26
 ---
 
-**January 27, 2021.** *I find a relationship between maximum daily
-  temperature, latitude, date, and time, and check against real data.*
+**January 27, 2021.** *I compute the approximate relationship between
+  maximum daily temperature, latitude, date, and time, and check
+  against real data.*
 
 #### Introduction
 
