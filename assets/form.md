@@ -44,6 +44,15 @@ debates.
 
 #### The existence of shoes
 
+<span style="padding-left: 20px; display:block">
+... our common sense conception of psychological phenomena constitutes a
+radically false theory, a theory so fundamentally defective that both
+the principles and ontology of that theory will eventually be
+displaced, rather than smoothly reduced, by completed neuroscience.
+</span>
+
+<div style="text-align: right"><i>Paul Churchland</i> </div>
+
 Physical objects can be described at different levels.
 A shoe is constructed from flat sheets of material, curved, cut,
 marked, and stuck together in clever ways; materials
@@ -67,7 +76,7 @@ neutrons exist.
 The rest can be eliminated as unnecessary
 ontological baggage.
 This view is called *eliminative reductionism*.
-It is a hardcore philosophy which does not believe in shoes.
+It is a hardcore philosophy which does not believe in shoes [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>].
 
 There is a gentler, less silly form of reductionism which grants the
 existence of shoes, but insists that they are (in the phrase of Jack
@@ -210,3 +219,9 @@ structuralism and many inspiring conversations over the years.
 
 <!-- quantamagazine.org/what-is-a-particle-20201112 -->
 <!-- https://plato.stanford.edu/entries/scientific-reduction/-->
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+As the quote suggests, the original eliminativists like Paul and
+Patricia Churchland were more interested in psychology than shoes.
+</p></div>
