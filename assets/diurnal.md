@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Maxing out daily temperature"
+title:  "The temperature sundial"
 categories: [Mathematics, Physics, Everyday]
 date:  2021-01-26
 ---
@@ -58,8 +58,7 @@ $$
 I_0 (1- a )\sin^2\vartheta = \sigma T_\text{max}^4.
 $$
 
-If we know the maximum temperature, we can guess the angle the
-sunlight made with the ground, $\vartheta$.
+Thus, the maximum temperature is directly related to the length of shadow!
 
 #### Geometry and heliometry
 
