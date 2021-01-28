@@ -101,8 +101,7 @@ anthropocentric folly due for elimination, replace it with,
 Philip Anderson was perhaps the first physicist to make this argument,
 in his famous article ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf). -->
 Since order has *explanatory* significance, it should presumably be
-tarred with the same ontic brush we apply to explanatory devices
-like electrons.
+tarred with the same ontic brush we apply to things like electrons.
 
 Of course, one may object that explanation does not equal existence.
 I can handily explain the continual disappearance of my socks by
