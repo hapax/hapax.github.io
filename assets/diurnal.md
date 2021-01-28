@@ -108,18 +108,15 @@ the earth [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></s
 	</div>
 	</figure>
 
-This means we can easily determine $\cos\vartheta$ using vectors:
-simply write each point as a vector and take the dot product.
-If we give the subsolar point spherical coordinates
-$\mathbf{x}_{\text{sub}} =
-(\theta =\theta_{\text{sub}}, \phi = 0)$, and
-the observation point $\mathbf{x}_{\text{obs}} = (\theta =
-\theta_{\text{lat}}, \phi)$, then in Cartesian coordinates,
+This means we can easily determine $\cos\vartheta$ using vectors,
+simply by taking the dot product.
+To begin with, we write in spherical coordinates, then convert to
+Cartesian:
 
 $$
 \begin{align}
-(\theta =\theta_{\text{sub}}, \phi = 0) \mapsto \mathbf{x}_\text{sub} & = (\sin \theta_\text{sub}, 0, \cos\theta_\text{sub}) \\
-\mathbf{x}_\text{obs} & = (\sin \theta_\text{lat}\cos\phi, \sin \theta_\text{lat}\sin\phi, \cos
+\mathbf{x}_\text{sub} & =  (\theta =\theta_{\text{sub}}, \phi = 0) \mapsto (\sin \theta_\text{sub}, 0, \cos\theta_\text{sub}) \\
+\mathbf{x}_\text{obs} & (\theta = \theta_{\text{lat}}, \phi) \mapsto = (\sin \theta_\text{lat}\cos\phi, \sin \theta_\text{lat}\sin\phi, \cos
 \theta_\text{lat}).
 \end{align}
 $$
