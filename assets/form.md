@@ -116,7 +116,9 @@ robust, almost to the point of truism, and there seems to be no
 principled reason to ban order, or *structure* as we will call it,
 from our ontology.
 
-We will return to this in a moment, but it's worth noting the parallel
+#### Emergence
+
+It's worth noting the parallel
 to *emergence*.
 In his famous article
 ["More is Different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf),
@@ -126,15 +128,26 @@ explanatory hierarchy of reduction, particularly in his field of
 condensed matter physics.
 And indeed, condensed matter makes a science of order itself,
 studying how properties of macroscopic wholes (such as phases of
-matter) emerge from the arrangement of microscopic parts.
-Anderson thought of the microscopic perspective as the wrong "level"
+matter) "emerge" from the arrangement of microscopic parts.
+Anderson thought of emergence as patterns that appear when you "zoom
+out" from the constituents, but which are still made from the
+constituents; we are just describing those constituents at a different level.
+<!-- the microscopic perspective as the wrong "level"
 of description, like being too zoomed in on a microscope, but I think that
-it is simply different information.
-The symmetries, order parameters which measure their brokenness,
+it is simply different information. -->
+
+But this seems to suffer from the same problem as a reductionist
+account of shoes.
+The "emergent properties" are not properties of the constituents at
+all!
+The symmetries, order parameters, <!-- which measure their brokenness,
 and collective excitations which emerge as long-range messengers of
-disorder, are not simply the microscopics "zoomed out". They are
-something new, something "over and above" the spins of the lattice, or
-the carbon atoms of a hexagonal monolayer.
+disorder, a are not simply the microscopics "zoomed out".--> and
+collective excitations, are properties of the arrangements themselves.
+They are something new, something "over and above" the spins of the
+lattice, or the carbon atoms of a hexagonal monolayer, since different
+arrangements of those same parts would have different properties.
+In a slogan, emergent laws are a symptom of structure.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
