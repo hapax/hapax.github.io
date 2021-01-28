@@ -176,8 +176,12 @@ But if we try and unpack all these "simple" properties, we will find
 that, like the magic bag of Mary Poppins, a particle is much deeper
 than it first appears.
 
-The Large Hadron Collider does not produce evidence for tiny,
-structureless blobs at a rate of petabytes per second.
+The definition of a particle is, in many ways, the
+apotheosis of twentieth century physics. It is not a structureless
+blob. Rather, it welds special relativity, symmetry, and quantum
+mechanics into a single multifacted diamond, and it is this union that
+the Large Hadron Collider produces evidence for at a rate of petabytes
+per second.
 
 #### References and acknowledgments
 
