@@ -218,10 +218,12 @@ Even here, structure is inescapable.
 
 #### Unreasonable effectiveness
 
-#### References and acknowledgments
+#### Acknowledgments
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
 structuralism and many inspiring conversations over the years.
+
+---
 
 <!-- quantamagazine.org/what-is-a-particle-20201112 -->
 <!-- https://plato.stanford.edu/entries/scientific-reduction/-->
