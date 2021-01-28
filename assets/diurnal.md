@@ -44,9 +44,10 @@ $$
 I_\text{in} = I_0 (1- a )\cos^2\vartheta.
 $$
 
-The insolation constant is $I_0 = 1367 \text{ W/m}^2$ ([<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>]).
-The albedo of the earth is around $a = 0.3$ (or $30\%$ reflected back into space),
-though this depends on cloud cover, snow, and so on.
+The insolation constant is $I_0 = 1367 \text{ W/m}^2$ [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>].
+The albedo of the earth is around $a = 0.3$, i.e. $30\%$ reflected
+back into space on average, though this depends on cloud cover, snow,
+and so on.
 We will talk about $\vartheta$ more in a moment.
 Setting $I_\text{in} = I_\text{out}$ when the maximum is obtained, we
 find
