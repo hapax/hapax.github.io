@@ -161,4 +161,9 @@ treat incoming rays as parallel. For the same reason, we ignore the
 change in radiant intensity due to the change in distance.
 </p></div>
 
-<!-- http://www.bom.gov.au/products/IDV60901/IDV60901.95936.shtml -->
+<!-- http://www.bom.gov.au/products/IDV60901/IDV60901.95936.shtml
+60*12*arccos((sqrt((5.6*10^(-8)*(273+7)^4)/(1367(0.65))) - cos(1.2)cos(2*pi*(40.7/360)))/(sin(1.2)sin(2*pi*(40.7/360))))/(2*pi)
+2*pi(90 - 23.6*sin(pi/2 + pi/6))/360
+https://www.timeanddate.com/weather/canada/vancouver/historic?month=1&year=2021
+https://www.sjsu.edu/faculty/watkins/diurnaltemp.htm
+-->
