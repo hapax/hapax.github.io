@@ -211,7 +211,9 @@ science eagerly assent to believe whatever the particle physicists
 tell them, particularly when it can be tested with unparalleled
 precision at the LHC, they may not realise what
 they signed up for!
-They 
+They have signed up for spacetime, quantum mechanics, and symmetries;
+these three are welded indissolubly to form the most robust and
+fundamental objects in the universe.
 
 #### Unreasonable effectiveness
 
