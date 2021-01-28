@@ -110,9 +110,9 @@ the earth:
 This means we can easily determine $\cos\vartheta$ using vectors:
 simply write each point as a vector and take the dot product.
 If we give the subsolar point spherical coordinates
-$\mathbf{x}_\text{sub} = (\theta = \theta_\text{sub}, \phi = 0)$, and
-the observation point $\mathbf{x}_\text{obs} = (\theta =
-\theta_\text{lat}, \phi)$, then in Cartesian coordinates,
+$\mathbf{x}_{\text{sub}} = (\theta = \theta_{\text{sub}}, \phi = 0)$, and
+the observation point $\mathbf{x}_{\text{obs}} = (\theta =
+\theta_{\text{lat}}, \phi)$, then in Cartesian coordinates,
 
 $$
 \begin{align}
