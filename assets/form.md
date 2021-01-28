@@ -110,7 +110,7 @@ But this is a bad explanation! It's not consistent with other reliably known fac
 Sock imps don't make the ontic cut, not because there is no link between
 explanation and what we deem to exist, but because that link should
 only be made for *robust* explanations, and the sock imps collapse
-at the first serious inquiry.
+at the first empirical hurdle.
 That different arrangements of things have different properties is
 robust, almost to the point of truism, and there seems to be no
 principled reason to ban order, or *structure* as we will call it,
