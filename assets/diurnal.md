@@ -7,7 +7,9 @@ categories: [Mathematics, Physics, Everyday]
 date:  2021-01-26
 ---
 
-**January 27, 2021.** *I derive a*
+**January 27, 2021.** *I compute the approximate relationship between
+  maximum daily temperature and the earth-sun geometry, and find it
+  acts as a sundial!*
 
 #### Introduction
 
