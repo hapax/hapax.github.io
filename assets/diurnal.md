@@ -89,7 +89,11 @@ $$
 \theta_\text{sub} = \left(\frac{23.5}{360}\right) 2\pi \sin(\varphi).
 $$
 
-To calculate the angle $\vartheta$, we need to two
+To calculate the angle $\vartheta$, we need two additional data
+points: the latitude of the observation point (measured from north
+pole) and the polar angle $\phi$ between the observation point and the
+current subsolar point.
+This simply measures time from solar noon.
 
 ---
 
