@@ -97,9 +97,9 @@ pole) and the polar angle $\phi$ between the observation point and the
 current subsolar point.
 This simply measures time from solar noon.
 To determine $\vartheta$, first note that if we draw the subsolar and
-observation point on the same great circle, $\vartheta$ is clearly the
+observation point on the same great circle of the earth, $\vartheta$ is clearly the
 angle between the black lines, drawn from each point to the centre of
-the earth:
+the earth [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>]:
 
 <figure>
     <div style="text-align:center"><img src
@@ -153,4 +153,11 @@ $$
 
 where $R_\odot = 7 \times 10^5 \text{ km}$ is the solar radius and $d
 = 1.5 \times 10^8 \text{ km}$ the earth-sun distance.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+We are making the usual assumption that the sun is far enough away to
+treat incoming rays as parallel. For the same reason, we ignore the
+change in radiant intensity due to the change in distance.
 </p></div>
