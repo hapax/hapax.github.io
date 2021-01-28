@@ -114,11 +114,11 @@ To begin with, we write in spherical coordinates, then convert to
 Cartesian:
 
 $$
-\begin{align}
+\begin{align*}
 \mathbf{x}_\text{sub} & =  (\theta =\theta_{\text{sub}}, \phi = 0) \mapsto (\sin \theta_\text{sub}, 0, \cos\theta_\text{sub}) \\
 \mathbf{x}_\text{obs} & (\theta = \theta_{\text{lat}}, \phi) \mapsto = (\sin \theta_\text{lat}\cos\phi, \sin \theta_\text{lat}\sin\phi, \cos
 \theta_\text{lat}).
-\end{align}
+\end{align*}
 $$
 
 We can immediately determine the dot product:
