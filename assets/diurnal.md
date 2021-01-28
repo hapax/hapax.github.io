@@ -57,6 +57,8 @@ $$
 I_0 (1- a )\cos^2\vartheta = \sigma T_\text{max}^4.
 $$
 
+#### Solar geometry
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
@@ -66,11 +68,11 @@ temperature of the sun $T_\odot = 5800 \text{ K}$), and an inverse square
 drop-off:
 
 $$
-I_0 = \sigma T_\odot^4 \left(\frac{R_\odot}{d}\right) =
+I_0 = \sigma T_\odot^4 \left(\frac{R_\odot}{d}\right)^2 =
 5.67 \times 10^{-8} \cdot 5800^4  \left(\frac{7 \times 10^5}{1.5\times
 10^8}\right)^2\, \frac{\text{W}}{\text{m}^2}\approx 1400 \, \frac{\text{W}}{\text{m}^2},
 $$
 
-using the solar radius $R_\odot = 7 \times 10^5 \text{ km}$ and the
-earth-sun distance $d = 1.5 \times 10^8 \text{ km}$.
+where $R_\odot = 7 \times 10^5 \text{ km}$ is the solar radius and $d
+= 1.5 \times 10^8 \text{ km}$ the earth-sun distance.
 </p></div>
