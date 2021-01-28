@@ -55,7 +55,7 @@ Setting $I_\text{in} = I_\text{out}$ when the maximum is obtained, we
 find
 
 $$
-I_0 (1- a )\sin^2\vartheta = \sigma T_\text{max}^4.
+I_0 (1- a )\sin^2\vartheta = \sigma T_\text{max}^4. \label{balance} \tag{1}
 $$
 
 Thus, the maximum temperature is directly related to the length of shadow!
@@ -124,8 +124,16 @@ We can immediately determine the dot product:
 
 $$
 \cos\vartheta = \mathbf{x}_\text{sub} \cdot \mathbf{x}_\text{obs} =
-\cos\theta_\text{sub}\cos\theta_\text{lat} + \sin \theta_\text{sub}\sin \theta_\text{lat}\cos \phi.
+\cos\theta_\text{sub}\cos\theta_\text{lat} + \sin
+\theta_\text{sub}\sin \theta_\text{lat}\cos \phi. \label{geohelio} \tag{2}
 $$
+
+Plugging this back into (\ref{balance}), we find a relationship
+between maximum temperature $T_\text{max}$, time of year via
+$\theta_\text{sub}$, latitude $\theta_\text{lat}$, and time of day, or
+rather, time past solar noon via $\phi$.
+
+#### Real data
 
 ---
 
