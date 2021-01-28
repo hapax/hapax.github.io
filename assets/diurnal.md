@@ -86,7 +86,9 @@ $\varphi = 0$ at the vernal equinox and increasing with time, then the
 subsolar latitude, measured in radians from the north pole, obeys
 
 $$
-\theta_\text{sub} = \frac{\pi}{2} - \left(\frac{23.5}{360}\right) 2\pi \sin(\varphi).
+\theta_\text{sub} = \frac{\pi}{2} - \left(\frac{23.5}{360}\right) 2\pi
+\sin(\varphi).
+\label{year} \tag{2}
 $$
 
 To calculate the angle $\vartheta$, we need two additional data
@@ -125,7 +127,7 @@ We can immediately determine the dot product:
 $$
 \cos\vartheta = \mathbf{x}_\text{sub} \cdot \mathbf{x}_\text{obs} =
 \cos\theta_\text{sub}\cos\theta_\text{lat} + \sin
-\theta_\text{sub}\sin \theta_\text{lat}\cos \phi. \label{geohelio} \tag{2}
+\theta_\text{sub}\sin \theta_\text{lat}\cos \phi. \label{geohelio} \tag{3}
 $$
 
 Plugging this back into (\ref{balance}), we find a relationship
