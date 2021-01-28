@@ -214,6 +214,7 @@ they signed up for!
 They have signed up for spacetime, quantum mechanics, and symmetries;
 these three are welded indissolubly to form the most robust and
 fundamental objects in the universe.
+Even here, structure is inescapable.
 
 #### Unreasonable effectiveness
 
