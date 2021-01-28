@@ -202,6 +202,8 @@ Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space, according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
 cannot be split into parts with this symmetry.
+Lurking implicitly in the background is the whole framework of
+quantum mechanics.
 
 Although it is indivisible in the sense of representation theory, this
 is a highly organised and multifaceted object. When philosophers of
@@ -209,6 +211,7 @@ science eagerly assent to believe whatever the particle physicists
 tell them, particularly when it can be tested with unparalleled
 precision at the LHC, they may not realise what
 they signed up for!
+They 
 
 #### Unreasonable effectiveness
 
