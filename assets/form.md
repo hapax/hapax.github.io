@@ -167,7 +167,7 @@ raining floppy discs.
 We don't need emergence to argue for structure; we can use the
 elementary components themselves.
 When philosophers talk about reductionism, they tend to imagine
-subatomic particles as small, indivisible objects, without internal
+subatomic particles as small, indivisible blobs, without internal
 organisation or further ontological baggage. They have properties like
 charge, or mass, and obey the curious dictates of quantum mechanics,
 but all this is packaged irreducibly into the electron and not worth
@@ -195,7 +195,9 @@ describing the shape of empty space, according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
 cannot be split into parts with this symmetry.
 
-
+I call this a diamond because although it is hard and indivisible in
+the sense of representation theory, it is clearly a multifacted,
+highly organised object.
 
 #### References and acknowledgments
 
