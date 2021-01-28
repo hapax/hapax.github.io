@@ -37,12 +37,13 @@ Since this is the maximum attained, it must equal the intensity of
 incoming solar radiation $I_\text{in}$.
 To a good approximation, this is the radiant intensity of sunlight
 striking the earth's surface head on, the so-called insolation
-constant $I_0$, multiplied by a geometric term $\cos^2\vartheta$ to account for the
-angle of sunlight, and an albedo term $(1-a)$ to account for sunlight
-reflected back:
+constant $I_0$, multiplied by a geometric term $\cos^2\vartheta$
+(where $\vartheta$ is the angle the sunlight makes with the vertical
+to the ground), and an albedo term $(1-a)$ to account for sunlight reflected
+back:
 
 $$
-I_\text{in} = I_0 (1- a )\cos^2\vartheta.
+I_\text{in} = I_0 (1- a )\sin^2\vartheta.
 $$
 
 The insolation constant is $I_0 = 1367 \text{ W/m}^2$ [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>].
@@ -54,7 +55,7 @@ Setting $I_\text{in} = I_\text{out}$ when the maximum is obtained, we
 find
 
 $$
-I_0 (1- a )\cos^2\vartheta = \sigma T_\text{max}^4.
+I_0 (1- a )\sin^2\vartheta = \sigma T_\text{max}^4.
 $$
 
 If we know the maximum temperature, we can guess the angle the
@@ -94,6 +95,38 @@ points: the latitude of the observation point (measured from north
 pole) and the polar angle $\phi$ between the observation point and the
 current subsolar point.
 This simply measures time from solar noon.
+To determine $\vartheta$, first note that if we draw the subsolar and
+observation point on the same great circle, $\vartheta$ is clearly the
+angle between the black lines, drawn from each point to the centre of
+the earth:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/diurnal2.png"/>
+	</div>
+	</figure>
+
+This means we can easily determine $\cos\vartheta$ using vectors:
+simply write each point as a vector and take the dot product.
+If we give the subsolar point spherical coordinates
+$\mathbf{x}_\text{sub} = (\theta = \theta_\text{sub}, \phi = 0)$, and
+the observation point $\mathbf{x}_\text{obs} = (\theta =
+\theta_\text{lat}, \phi)$, then in Cartesian coordinates,
+
+$$
+\begin{align}
+\mathbf{x}_\text{sub} & = (\sin \theta_\text{sub}, 0, \cos\theta_\text{sub}) \\
+\mathbf{x}_\text{obs} & = (\sin \theta_\text{lat}\cos\phi, \sin \theta_\text{lat}\sin\phi, \cos
+\theta_\text{lat}).
+\end{align}
+$$
+
+We can immediately determine the dot product:
+
+$$
+\cos\vartheta = \mathbf{x}_\text{sub} \cdot \mathbf{x}_\text{obs} =
+\cos\theta_\text{sub}\cos\theta_\text{lat} + \sin \theta_\text{sub}\sin \theta_\text{lat}\cos \phi.
+$$
 
 ---
 
