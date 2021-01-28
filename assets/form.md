@@ -175,10 +175,10 @@ further discussion.
 But if we try and unpack all these "simple" properties, we will find
 that, like the magic bag of Mary Poppins, a particle is much deeper
 than it first appears.
-
 The Large Hadron Collider does not produce evidence for tiny,
 structureless blobs at a rate of petabytes per second.
 Rather, it confirms that the universe is made of mathematics!
+
 The state-of-the-art definition of a particle is (as
 [this Quanta article](quantamagazine.org/what-is-a-particle-20201112)
 humorously explores) a bit of a mouthful: an irreducible
