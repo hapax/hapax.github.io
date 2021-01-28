@@ -57,7 +57,21 @@ $$
 I_0 (1- a )\cos^2\vartheta = \sigma T_\text{max}^4.
 $$
 
-#### Solar geometry
+If we know the maximum temperature, we can guess the angle the
+sunlight made with the ground, $\vartheta$.
+
+#### Geometry and heliometry
+
+Even more interesting is how $\vartheta$ is related to the earth-sun
+geometry, and the parameters of latitude, time of year, and time of
+day.
+
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/diurnal1.png"/>
+	</div>
+	</figure>
 
 ---
 
