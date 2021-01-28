@@ -196,9 +196,9 @@ cannot be split into parts with this symmetry.
 
 Although it is indivisible in the sense of representation theory, this
 is a highly organised and multifaceted object. When philosophers of
-science eagerly assent to believe in whatever the particle physicists
+science eagerly assent to believe whatever the particle physicists
 tell them, particularly when it can be tested with unparalleled
-precision at a facility like the LHC, I don't think they realise what
+precision at the LHC, I don't think they realise what
 they signed up for.
 
 #### References and acknowledgments
