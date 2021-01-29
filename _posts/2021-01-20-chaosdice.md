@@ -319,7 +319,7 @@ deterministic jitter in the roll of a dice.
 We can model this as a high-frequency oscillation we select from,
 periodically, but with a period that is unrelated to the oscillation.
 We then imagine the oscillation sweeping back and forth in the space
-of initial conditions $[0, \ell)$, with
+of initial conditions $[0, \ell)$:
 
 $$
 f(t) = \frac{\ell}{2}(1 + \sin(\omega t)).
