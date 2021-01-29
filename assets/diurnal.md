@@ -2,14 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The temperature sundial"
+title:  "Turning a thermometer into a sundial"
 categories: [Mathematics, Physics, Everyday]
 date:  2021-01-28
 ---
 
-**January 28, 2021.** *I compute the approximate relationship between
-  maximum daily temperature and parameters of the earth-sun geometry,
-  and find the temperature acts as a sort of sundial.*
+**January 28, 2021.** *I try (and fail) to turn a thermometer into a sundial.*
 
 #### Introduction
 
@@ -18,8 +16,8 @@ space. As the sun sets, less heat is delivered, and the maximum
 temperature occurs when the two rates---heat delivered and heat
 radiated---balance. In this post, we'll work out how this simple
 requirement relates maximum temperature to the latitude, time of year,
-and time of day the maximum occurs, turning temperature into a sort of
-sundial.
+and time of day the maximum occurs, meaning that a thermometer can in
+principle be used as a sort of sundial.
 
 #### Energy balance
 
@@ -136,15 +134,16 @@ rather, time past solar noon $\phi$.
 
 #### Real data
 
-Let's check against some real data.
+The question is: how does this stack up against real data?
+I'll take some local weather data.
 In Vancouver, the latitude is $49.3^\circ$ north of the equator, so in
-radians from the north pole
+radians from the north pole,
 
 $$
 \theta_{\text{lat}} = \left(\frac{2\pi}{360}\right)(90 - 49.3) \approx 0.71.
 $$
 
-Since it's $36$ days or about tenth of a year since
+It's $36$ days or about tenth of a year since
 the winter solstice, so from (\ref{year}), the subsolar latitude is
 
 $$
@@ -152,7 +151,9 @@ $$
 \cos(0.1 \cdot 2\pi) \approx 1.9.
 $$
 
-Finally, the maximum temperature yesterday was $7^\circ \text{ C} =
+This agrees with [real-time data](https://rl.se/sub-solar-point) on
+the subsolar point.
+Finally, the [maximum temperature yesterday](https://www.timeanddate.com/weather/canada/vancouver/historic?month=1&year=2021) was $7^\circ \text{ C} =
 280 \text{ K}$, and cloud cover makes $a \approx 0.35$.
 Thus, rearranging (\ref{geohelio}) and (\ref{balance}), we expect the
 maximum to occur at a "time of day angle" $\phi$ given by
@@ -164,8 +165,15 @@ T_\text{max}^4}{I_0(1-a)}} - \cos\theta_\text{sub}\cos\theta_\text{lat}}{\sin
 \theta_\text{sub}\sin \theta_\text{lat}} \\
 & = \frac{\sqrt{\frac{(5.67 \times
 10^{-8}) 280^4}{1367(1-0.3)}} - \cos 1.9\cos 0.71}{\sin 1.9\sin 0.71}
+\approx 1.37.
 \end{align*}
 $$
+
+Hopefully the problem is clear.
+The RHS is bigger than one, and cannot possibly be equal to the LHS!
+If we plug in the time it peaked, a few hours after solar noon, we can
+rearrange and solve to find a predicted maximum temperature of
+$-80^\circ \text{ C}$!
 
 ---
 
@@ -197,6 +205,7 @@ way radiant intensity changes (due to the inverse square law) with $\vartheta$.
 2*pi(90 - 23.6*sin(pi/2 + pi/6))/360
 https://www.timeanddate.com/weather/canada/vancouver/historic?month=1&year=2021
 https://www.sjsu.edu/faculty/watkins/diurnaltemp.htm
+(1367(1-0.3)(\cos 1.9\cos 0.71 + \sin 1.9\sin 0.71 * cos(pi/6))^2/(5.67 \times 10^{-8}))^(1/4)
 -->
 
 <!--

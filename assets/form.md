@@ -216,7 +216,9 @@ these three are welded indissolubly to form the most robust and
 fundamental objects in the universe.
 Even when an object is indivisible, structure is inescapable.
 
-#### Unreasonable effectiveness
+#### Unreasonable effectiveness and natural patterns
+
+#### Directions of explanation
 
 #### Acknowledgments
 
