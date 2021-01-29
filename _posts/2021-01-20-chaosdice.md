@@ -216,7 +216,7 @@ In fact, it's clear that we could do this for a coin with any number of sides!
 We'll focus on six for simplicity.
 We proceed in exactly the same way, but now it's a bit more complicated to check for bias,
 and we need to make a brief detour into statistics.
-As nicely explained in [this](https://rpg.stackexchange.com/questions/70802/how-can-i-test-whether-a-die-is-fair)
+As nicely explained in [this post](https://rpg.stackexchange.com/questions/70802/how-can-i-test-whether-a-die-is-fair)
 on the RPG stack exchange, the simplest check is the
 [Pearson $\chi^2$ test](https://en.wikipedia.org/wiki/Pearson's_chi-squared_test).
 Suppose our dice has $d$ sides, and we want to check after some number
