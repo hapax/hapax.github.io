@@ -100,7 +100,7 @@ Thus, the Lyapunov exponent for this system is $\lambda = \log 2$.
 #### Exploring configuration space
 
 At some point the doubling means that the difference gets so large
-that the difference is no longer doubling with each step, since we are
+it is no longer doubling with each step, since we are
 throwing away whole numbers.
 To see how this happens, let's do a specific example.
 Set $x_0 = 0.1$ and $y_0 = 0.2$.
