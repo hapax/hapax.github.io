@@ -111,7 +111,7 @@ $$
 In this case, there is a clear distinction between the stochasticity
 of buses and commuters.
 But when everything arrives randomly, a commuter becomes like just another
-bus, so waiting time equals interarrival time.
+bus! So waiting time equals interarrival time.
 
 <!-- When the buses are random, our argument explains why this argument
 breaks down: the commuter is like another bus!
