@@ -9,7 +9,7 @@ permalink: /about/
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
-I'm a fourth-year PhD student studying quantum gravity in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
+I'm a fourth-year PhD student in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
 [University of British Columbia](https://www.ubc.ca/), Vancouver.
 <!-- studying
 conformal field theory, quantum information and black holes.
