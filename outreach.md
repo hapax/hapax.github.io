@@ -69,7 +69,7 @@ physics and what a day in the life looks like.
 
 - [*A visual approach to the quantum Fourier transform*](https://hapax.github.io/assets/visual-qft)
   (2020). An elementary, geometric approach to representing vectors in
-  higher-dimensional spaces.
+  higher-dimensional spaces, paying off in the quantum Fourier transform.
 - *An introduction to quantum computing* (2020). [Various assignments](assets/big-qc.pdf) for a graduate
   course in the works at UBC.
 - [*Physical systems*](https://archive.handbook.unimelb.edu.au/view/2016/phyc20014)
