@@ -1001,7 +1001,7 @@ These "controlled corrections" are a clever way to squish our old copygons.
 
 ### 4. Conclusion <a id="sec-4" name="sec-4"></a>
 
-We started by trying to get around pesky evolutionary
+Our initial motivation was to circumvent pesky evolutionary
 constraints on the visual cortex.
 To do this, we adapted a familiar grade-school method which (secretly) encodes
 infinite-dimensional vectors, namely graphs on the Cartesian plane.
