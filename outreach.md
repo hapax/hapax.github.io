@@ -35,7 +35,9 @@ physics and what a day in the life looks like.
 
 - [*Black holes and quantum computers*](assets/bh-qc.pdf)
   (2021). A guest lecture on the information paradox and Page
-  curve for high school students in the [Quantum BC masterclass](http://quantum-bc.ca/learn/diversifying-talent-in-quantum-computing/programming/masterclass/).
+  curve for high school students in the
+  [Quantum BC masterclass](http://quantum-bc.ca/learn/diversifying-talent-in-quantum-computing/programming/masterclass/). You
+  can find code for simulating black holes [here](assets/black-hole-simulator.py).
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
