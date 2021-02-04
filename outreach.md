@@ -47,7 +47,7 @@ physics and what a day in the life looks like.
   intro to network planning and soap bubbles. I also touch on complexity theory, physics, curvature,
   tessellations, time travel and climate change.
 - [*A hacker's guide to the Chandrasekhar limit*](https://hapax.github.io/physics/hacks/chandra/)
-  (2020). A long blog post to how big a white dwarf
+  (2020). A long blog post on how big a white dwarf
   (or a box of electrons) can get before it turns into a black hole.
 - *The hacker's guide to physics* (2020). A
   [blog post](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
