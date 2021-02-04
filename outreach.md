@@ -37,7 +37,7 @@ physics and what a day in the life looks like.
   (2021). A guest lecture on the information paradox and Page
   curve for high school students in the
   [Quantum BC masterclass](http://quantum-bc.ca/learn/diversifying-talent-in-quantum-computing/programming/masterclass/). You
-  can find code for simulating simple black holes and making your own
+  can find code for simulating black holes and making your own
   Page curve [here](assets/black-hole-simulator.py).
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
