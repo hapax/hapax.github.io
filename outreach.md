@@ -33,6 +33,10 @@ physics and what a day in the life looks like.
 
 #### "Hard" outreach
 
+- [*Black holes and quantum computers*](assets/bh-qc.pdf)
+  (2021). A guest lecture on the information paradox and the Page
+  curve for students at the Quantum BC
+  [quantum computing masterclass](http://quantum-bc.ca/learn/diversifying-talent-in-quantum-computing/programming/masterclass/).
 - [*The Penrose singularity theorem*](assets/singularity.pdf)
   (2020). A short introduction to general relativity and singularities for
   the [UBC Physics Circle](https://outreach.phas.ubc.ca/events/metro-vancouver-physics-circle/). Now
