@@ -18,10 +18,11 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
 	</figure>
 
 
-#### Selected papers
+#### Recent papers
 
 0. [*Quantum tasks require islands on the brane*](https://arxiv.org/abs/2102.01810)
-   (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en), DW.
+   (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en),
+   DW. arXiv: 2102.01810.
 1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://arxiv.org/pdf/2009.00632.pdf)
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
