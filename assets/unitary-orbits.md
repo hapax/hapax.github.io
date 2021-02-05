@@ -21,6 +21,13 @@ The "Bloch ball" is the space of all *density matrices* on the qubit.
 It fills in the Bloch sphere with concentric spheres of increasing
 mixedness, and at the centre is the maximally mixed state $I_2/2$,
 where $I_n$ will denote the $n \times n$ identity matrix.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/unitary1.png"/>
+	</div>
+	</figure>
+
 Spheres arise naturally.
 They carry the structure of the unitary group $\mathrm{U}(2)$ acting
 on qubits, once we have modded out by the phase ambiguity:
@@ -40,7 +47,7 @@ The question is whether this generalises nicely to higher dimensions.
 
 Let's think about the Bloch ball in a little more detail.
 Since any density matrix $\rho$ is unitarily diagonalizable, each
-orbit for a Hilbert space of dimension $d$ has a representative
+orbit for a Hilbert space of dimension $d$ has a canonical representative
 
 $$
 \rho = \mathrm{diag}(\lambda_1, \lambda_2, \ldots, \lambda_d), \quad 1
@@ -48,5 +55,16 @@ $$
 $$
 
 and where the eigenvalues are arranged in decreasing size, $\lambda_1
-\geq \lambda_2 \geq \cdots \leq \lambda_d$.
-In the qubit case $d = 2$, 
+\geq \lambda_2 \geq \cdots \geq \lambda_d$.
+In the qubit case $d = 2$, we can write these canonical
+representatives as
+
+$$
+\rho_x =
+\begin{bmatrix}
+x & \\
+& 1-x 
+\end{bmatrix}
+$$
+
+for $x \geq 1/2$.
