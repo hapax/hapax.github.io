@@ -43,7 +43,10 @@ Since any density matrix $\rho$ is unitarily diagonalizable, each
 orbit for a Hilbert space of dimension $d$ has a representative
 
 $$
-\rho = \mathrm{diag}(\lambda_1, \lambda_2, \ldots, \lambda_d),
+\rho = \mathrm{diag}(\lambda_1, \lambda_2, \ldots, \lambda_d), \quad 1
+= \sum_{i=1}^d \lambda_i,
 $$
 
-where $\lambda_1 \geq \lambda_2 \geq \cdots \leq \lambda_d$.
+and where the eigenvalues are arranged in decreasing size, $\lambda_1
+\geq \lambda_2 \geq \cdots \leq \lambda_d$.
+In the qubit case $d = 2$, 
