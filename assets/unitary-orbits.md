@@ -29,7 +29,21 @@ $$
 \frac{\mathrm{U}(2)}{\mathrm{U}(1)} = \mathrm{SU}(2).
 $$
 
-This is a double cover of the sphere, or more precisely, of the
-rotation group $\mathrm{SO}(3)$.
-This acts transitively on the sphere, and the "double cover" part
-gives us spinors.
+This is a double cover of the rotation group $\mathrm{SO}(3)$, which
+acts transitively on the sphere.
+(The "double cover" part gives us spinors.)
+Thus, spheres occur naturally as unitary orbits, and indeed, each
+concentric sphere in the Bloch ball is such an orbit.
+The question is whether this generalises nicely to higher dimensions.
+
+#### Orbital mechanics
+
+Let's think about the Bloch ball in a little more detail.
+Since any density matrix $\rho$ is unitarily diagonalizable, each
+orbit for a Hilbert space of dimension $d$ has a representative
+
+$$
+\rho = \mathrm{diag}(\lambda_1, \lambda_2, \ldots, \lambda_d),
+$$
+
+where $\lambda_1 \geq \lambda_2 \geq \cdots \leq \lambda_d$.
