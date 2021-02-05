@@ -21,4 +21,15 @@ The "Bloch ball" is the space of all *density matrices* on the qubit.
 It fills in the Bloch sphere with concentric spheres of increasing
 mixedness, and at the centre is the maximally mixed state $I_2/2$,
 where $I_n$ will denote the $n \times n$ identity matrix.
-The unitary group $\mathrm{U}(2)$
+Spheres arise naturally.
+They carry the structure of the unitary group $\mathrm{U}(2)$ acting
+on qubits, once we have modded out by the phase ambiguity:
+
+$$
+\frac{\mathrm{U}(2)}{\mathrm{U}(1)} = \mathrm{SU}(2).
+$$
+
+This is a double cover of the sphere, or more precisely, of the
+rotation group $\mathrm{SO}(3)$.
+This acts transitively on the sphere, and the "double cover" part
+gives us spinors.
