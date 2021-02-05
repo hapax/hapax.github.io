@@ -17,4 +17,6 @@ represents the space of pure states on a single qubit (see also
 [this](https://hapax.github.io/physics/mathematics/bloch/) recent
 post).
 The "Bloch ball" is the space of all *density matrices* on the qubit.
-It consists of concentric spheres of 
+It fills in the Bloch sphere with concentric spheres of increasing
+mixedness, and at the centre is the maximally mixed state $I_2/2$,
+where $I_n$ will denote the $n \times n$ identity matrix.
