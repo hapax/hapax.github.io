@@ -54,17 +54,15 @@ $$
 = \sum_{i=1}^d \lambda_i,
 $$
 
-and where the eigenvalues are arranged in decreasing size, $\lambda_1
-\geq \lambda_2 \geq \cdots \geq \lambda_d$.
+and where the (positive) eigenvalues are arranged in decreasing size, $\lambda_1
+\geq \lambda_2 \geq \cdots \geq \lambda_d \geq 0$.
 In the qubit case $d = 2$, we can write these canonical
 representatives as
 
 $$
-\rho_x =
+\rho(x) =
 \begin{bmatrix}
 x & \\
 & 1-x 
-\end{bmatrix}
+\end{bmatrix}, \quad x \geq 1/2.
 $$
-
-for $x \geq 1/2$.
