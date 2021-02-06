@@ -310,11 +310,12 @@ cut out the wedge $W_2$:
 At the top we have the pure states as usual, and the mixed state at
 the white centroid.
 The grey dot represents the fully mixed state on two basis elements.
-Note that the corners of the simplex are the only points at which 
-geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
+Note that, along the red edges, two coordinates agree, and in fact,
+each represents a copy of $W_1$, coinciding at the centroid.
+In general, orbit degeneracies occur precisely at sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
 introduced above.
-For instance, in $W_3$, drawn below, the red edge
+Thus, the apparent randomness of the orbits can be strictly geometrised.
 
 #### Conclusion
 
