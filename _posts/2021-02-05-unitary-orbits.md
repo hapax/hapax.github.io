@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Unitary orbits and the simplicial wedge"
+title:  "A simplicial generalisation of the Bloch ball"
 categories: [Maths, Physics, QC]
 date:  2021-02-05
 ---
 
-**February 5, 2021.** *Some brief musings on the unitary orbits of
-  density matrices for finite-dimensional quantum systems. The upshot
-  is a neat scheme for representing orbits using a simplicial "wedge".*
+**February 5, 2021.** *I explore unitary orbits of density matrices
+  for finite-dimensional quantum systems. The upshot is a neat scheme
+  for representing orbits using simplices.*
 
 #### Introduction
 
@@ -328,9 +328,9 @@ the maximally mixed matrix is just proportional to the Euclidean
 distance on the wedge.
 So we can literally draw concentric spheres emanating from the
 centroid!
-Although it does not make the details of these orbits easier to
-compute, it does provide a simple place to store them and read off
-some of their basic properties, which bear more than a passing
-resemblance to the concentric circles of the Bloch sphere.
+Our scheme does not do away with all the messiness of the orbits. But
+it does provide a simple way to organise and read off some of their
+basic properties, and generalises in a beautiful way the concentric
+spheres of the Bloch ball.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
