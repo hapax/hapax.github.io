@@ -250,9 +250,9 @@ $$
 W_d = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
 $$
 
-It is almost as if we have taken the simplex and modded out by its
+This is almost like quotienting the simplex by its
 symmetry group, $S_d$, and indeed, the volume is reduced by $d!$.
-But elements of $W_d$ are stabilised by subgroups of $S_d$ in a way
+But there are literal "edge cases", stabilised by subgroups of $S_d$ in a way
 that precisely mirrors the corresponding unitary orbit.
 In general, if a point in $W_d$ is stabilised by $S_{\mu_1} \times
 \cdots \times S_{\mu_K}$, then the corresponding coset structure for
