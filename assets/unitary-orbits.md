@@ -46,16 +46,29 @@ The question is whether this generalises nicely to higher dimensions.
 #### Orbital mechanics
 
 Let's think about the Bloch ball in a little more detail.
-Since any density matrix $\rho$ is unitarily diagonalizable, each
-orbit for a Hilbert space of dimension $d$ has a canonical representative
+Since any density matrix $\rho$ is unitarily diagonalizable,
+i.e. $U^\dagger \rho U = \rho_{\text{diag}}$, each
+orbit for a Hilbert space of dimension $d$ has a canonical
+representative of the form
 
 $$
-\rho = \mathrm{diag}(\lambda_1, \lambda_2, \ldots, \lambda_d), \quad 1
-= \sum_{i=1}^d \lambda_i,
+\rho = \mathrm{diag}(p_1, p_2, \ldots, p_d),
 $$
 
-and where the (positive) eigenvalues are arranged in decreasing size, $\lambda_1
-\geq \lambda_2 \geq \cdots \geq \lambda_d \geq 0$.
+where the positivity of $\rho$ and unit trace condition imply
+
+$$
+\sum_{i=1}^d p_i = 1, \quad p_i \geq 0,
+$$
+
+and since the unitary matrices include permutation matrices $U_\sigma
+= [\delta_{i\sigma(i)}]$, we can arrange these eigenvalues in
+decreasing order:
+
+$$
+p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
+$$
+
 In the qubit case $d = 2$, we can write these canonical
 representatives as
 
