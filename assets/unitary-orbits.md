@@ -69,14 +69,14 @@ the eigenvalues in decreasing size, so that every $2 \times 2$ density
 matrix is unitarily equivalent to some matrix
 
 $$
-\Lambda(x) =
+\Lambda(p) =
 \begin{bmatrix}
-x & \\
-& 1-x 
+p & \\
+& 1-p 
 \end{bmatrix}
 $$
 
-for $x \in [1/2, 1]$.
+for $p \in [1/2, 1]$.
 The maximally mixed density $I_2/2$ has a trivial orbit, since it
 always gets mapped to itself:
 
@@ -84,7 +84,7 @@ $$
 U^\dagger I_2 U = U^\dagger U = I_2.
 $$
 
-We can measure the distance from this matrix to $\Lambda(x)$ using the
+We can measure the distance from this matrix to $\Lambda(p)$ using the
 Frobenius norm, aka Hilbert-Schmidt norm.
 This is just the usual vector norm where we treat a matrix $A = [a_{ij}]$ as a big vector:
 
@@ -96,14 +96,14 @@ Hence,
 
 $$
 \begin{align*}
-||\Lambda(x) - \tfrac{1}{2}I_2||^2 & = \left|\left| \begin{bmatrix}
-x - 1/2 & \\
-& 1/2-x 
+||\Lambda(p) - \tfrac{1}{2}I_2||^2 & = \left|\left| \begin{bmatrix}
+p - 1/2 & \\
+& 1/2-p 
 \end{bmatrix} \right|\right|^2
-\end{align*} = 2\left(x - \tfrac{1}{2}\right)^2.
+\end{align*} = 2\left(p - \tfrac{1}{2}\right)^2.
 $$
 
-It's easy to see that any density in the unitary orbit of $\Lambda(x)$
+It's easy to see that any density in the unitary orbit of $\Lambda(p)$
 has the same distance, since we can use $I_2 = U^\dagger I_2 U$:
 
 $$
@@ -120,20 +120,19 @@ $$
 
 We can define distance between densities with a positive constant $C$
 multiplied by the Hilbert-Schmidt norm.
-We choose $C = \sqrt{2}$ so that for pure states with $x = 1$, the
-associated distance is $r = 2(x - 1/2) = 1$.
+We choose $C = \sqrt{2}$ so that for pure states with $p = 1$, the
+associated distance is $r = 2(p - 1/2) = 1$.
 In general, since each such $r$ is associated with a unique
-$\Lambda(x)$, we conclude that the space of $2\times 2$ density
+$\Lambda(p)$, we conclude that the space of $2\times 2$ density
 matrices is a ball consisting of concentric, transitive orbits of the
-unitary group, with the pure states at $x = 1$, the maximally mixed
-state at $x = 0$, and the sphere associated with $\Lambda(x)$ at
-radius $r = 2(x - 1/2)$.
+unitary group, with the pure states at $p = 1$, the maximally mixed
+state at $p = 0$, and the sphere associated with $\Lambda(p)$ at
+radius $r = 2(p - 1/2)$.
 
 #### Orbital mechanics
 
-Since any density matrix $\rho$ is unitarily diagonalizable,
-i.e. $U^\dagger \rho U = \Lambda$, each
-orbit for a Hilbert space of dimension $d$ has a canonical
+A similar story holds in higher dimensions. Density matrices are
+positive and unit trace, so orbits have dimension $d$ has a canonical
 representative of the form
 
 $$
