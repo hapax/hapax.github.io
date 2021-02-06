@@ -119,6 +119,17 @@ $$
 \end{align*}
 $$
 
+We can define distance between densities with a positive constant $C$
+multiplied by the Hilbert-Schmidt norm.
+We choose $C = \sqrt{2}$ so that for pure states with $x = 1$, the
+associated distance is $r = 2(x - 1/2) = 1$.
+In general, since each such $r$ is associated with a unique
+$\Lambda(x)$, we conclude that the space of $2\times 2$ density
+matrices is a ball consisting of concentric, transitive orbits of the
+unitary group, with the pure states at $x = 1$, the maximally mixed
+state at $x = 0$, and the sphere associated with $\Lambda(x)$ at
+radius $r = 2(x - 1/2)$.
+
 #### Orbital mechanics
 
 Since any density matrix $\rho$ is unitarily diagonalizable,
@@ -143,3 +154,5 @@ decreasing order:
 $$
 p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
 $$
+
+<!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
