@@ -47,21 +47,21 @@ The question is whether this generalises nicely to higher dimensions.
 
 Let's think about the Bloch ball in a little more detail.
 Since any density matrix $\rho$ is unitarily diagonalizable,
-i.e. $U^\dagger \rho U = \rho_{\text{diag}}$, each
+i.e. $U^\dagger \rho U = \Lambda$, each
 orbit for a Hilbert space of dimension $d$ has a canonical
 representative of the form
 
 $$
-\rho = \mathrm{diag}(p_1, p_2, \ldots, p_d),
+\Lambda = \mathrm{diag}(p_1, p_2, \ldots, p_d),
 $$
 
 where the positivity of $\rho$ and unit trace condition imply
 
 $$
-\sum_{i=1}^d p_i = 1, \quad p_i \geq 0,
+\sum_{i=1}^d p_i = 1, \quad p_i \geq 0.
 $$
 
-and since the unitary matrices include permutation matrices $U_\sigma
+Since the unitary matrices include permutation matrices $U_\sigma
 = [\delta_{i\sigma(i)}]$, we can arrange these eigenvalues in
 decreasing order:
 
@@ -69,13 +69,13 @@ $$
 p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
 $$
 
-In the qubit case $d = 2$, we can write these canonical
-representatives as
+In the qubit case $d = 2$, we can label these canonical
+representatives by a number $x \in [1/2, 1]$, with
 
 $$
 \rho(x) =
 \begin{bmatrix}
 x & \\
 & 1-x 
-\end{bmatrix}, \quad x \geq 1/2.
+\end{bmatrix}.
 $$
