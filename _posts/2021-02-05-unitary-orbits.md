@@ -341,7 +341,7 @@ it does provide a simple way to organise and read off some of their
 basic properties, and generalises in a beautiful way the concentric
 spheres of the Bloch ball.
 
-*Edit*: It seems I've rediscovered some basic facts about
- representation theory! I'll add an appendix as I learn more.
+<!-- *Edit*: It seems I've rediscovered some basic facts about
+ representation theory! I'll add an appendix as I learn more. -->
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
