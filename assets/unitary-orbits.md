@@ -128,7 +128,7 @@ matrices is a ball consisting of concentric, transitive orbits of the
 unitary group, with the pure states at $p = 1$, the maximally mixed
 state at $p = 0$, and radius $r = 2(p - 1/2)$ for the orbit of $\Lambda(p)$.
 
-#### Orbital mechanics
+#### Orbital mechanics in higher dimensions
 
 A similar story holds in higher dimensions. Density matrices are
 positive and unit trace, so orbits have dimension $d$ has a canonical
@@ -163,6 +163,33 @@ $$
 
 Once again, this is normalised so that the pure states with $p_1 = 1,
 p_2 = \cdots = p_d = 0$, have distance $r = 1$.
-Let's see what the orbit actually looks like.
+It's a bit trickier to see what the orbits look like, but in the same
+way that $I_d$ is fixed by the group $\mathrm{U}(d)$, we can read off
+fixed subgroups from the eigenvalue decomposition.
+For instance, a pure state has
+
+$$
+p_1 = 1, \quad p_2 = \cdots = p_d = 0.
+$$
+
+The first factor is fixed by $\mathrm{U}(1)$ (corresponding to global
+phase), while the last $d - 1$ factors are fixed by $\mathrm{U}(d-1)$.
+These act independently, so that stabiliser of a pure state is
+$\mathrm{U}(1) \times \mathrm{U}(d-1)$.
+By the orbit-stabiliser theorem, the orbit of pure states has the (coset) structure
+
+$$
+\frac{\mathrm{U}(d)}{\mathrm{U}(1) \times \mathrm{U}(d - 1)}.
+$$
+
+Since $\mathrm{U}(d)$ has dimension $d^2$, this pure space orbit has
+dimension
+
+$$
+d^2 - 1^2 - (d - 1)^2 = 2d - 2,
+$$
+
+and therefore corresponds to a unit sphere $\mathbb{S}^{2d-2}$,
+according to the Hilbert-Schmidt metric we've chosen.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
