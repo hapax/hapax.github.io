@@ -131,7 +131,7 @@ state at $p = 0$, and radius $r = 2(p - 1/2)$ for the orbit of $\Lambda(p)$.
 #### Orbital mechanics in higher dimensions
 
 A similar story holds in higher dimensions. Density matrices are
-positive and unit trace, so orbits have dimension $d$ has a canonical
+positive and unit trace, so each orbit in dimension $d$ has a canonical
 representative of the form
 
 $$
