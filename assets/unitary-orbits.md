@@ -180,7 +180,7 @@ $$
 
 The first factor is fixed by $\mathrm{U}(1)$ (corresponding to global
 phase), while the last $d - 1$ factors are fixed by $\mathrm{U}(d-1)$.
-These act independently, so that stabiliser of a pure state is
+These act independently, so that the stabiliser of a pure state is
 $\mathrm{U}(1) \times \mathrm{U}(d-1)$.
 By the orbit-stabiliser theorem, the orbit of pure states has the (coset) structure
 
