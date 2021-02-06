@@ -243,7 +243,7 @@ Our modest goal will be to tidy up some of the mess.
 The main observation is that the eigenvalues $p_i$ form a probability
 distribution over $d$ outcomes.
 If they had an arbitrary order, they would live on the standard
-$(d-1)$-simplex, but because they are arranged in decreasing order,
+$(d-1)$-simplex $$, but because they are arranged in decreasing order,
 they live on the simplicial "wedge",
 
 $$
@@ -290,7 +290,8 @@ We can illustrate these ideas for $d = 2$:
     ="/images/posts/unitary2.png"/>
 	</div>
 	</figure>
-	
+
+We start with 
 These group-theoretic properties are nicely
 geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
