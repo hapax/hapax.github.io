@@ -264,8 +264,8 @@ We start with the $1$-simplex $\Delta_1$, and divide it two to get the
 wedge $W_1$.
 The black dot at the top is the orbit of pure states, and the white
 dot the maximally mixed state.
-It almost looks like we are quotienting the simplex by its
-symmetry group, $S_d$, and indeed, the volume is reduced by $d!$.
+To get the wedge, we almost perform a quotient by the symmetry group
+of the simplex, $S_d$, and this is almost true.
 But there are literal "edge cases", stabilised by subgroups of $S_d$ in a way
 that precisely mirrors the corresponding unitary orbit.
 In general, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
@@ -297,6 +297,19 @@ $$
 
 and is stabilised by the whole group $S_d$. As we expect, the orbit is
 trivial.
+We can see how this works for a qutrit below.
+We start with the $2$-simplex $\Delta_2$, an equilateral triangle, and
+cut out the wedge $W_2$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/unitary3.png"/>
+	</div>
+	</figure>
+
+At the top we have the pure states as usual, and the mixed state at
+the white centroid.
+The grey dot represents the fully mixed state on two basis elements, 
 These group-theoretic properties are nicely
 geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
