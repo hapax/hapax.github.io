@@ -247,14 +247,28 @@ $(d-1)$-simplex $$, but because they are arranged in decreasing order,
 they live on the simplicial "wedge",
 
 $$
-W_d = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
+W_{d-1} = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
 $$
 
-This is almost like quotienting the simplex by its
+(Note that the subscript denotes the number of independent
+parameters.)
+We can illustrate these ideas for $d = 2$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/unitary2.png"/>
+	</div>
+	</figure>
+
+We start with the $1$-simplex $\Delta_1$, and divide it two to get the
+wedge $W_1$.
+The black dot at the top is the orbit of pure states, and the white
+dot the maximally mixed state.
+It almost looks like we are quotienting the simplex by its
 symmetry group, $S_d$, and indeed, the volume is reduced by $d!$.
 But there are literal "edge cases", stabilised by subgroups of $S_d$ in a way
 that precisely mirrors the corresponding unitary orbit.
-In general, if a point in $W_d$ is stabilised by $S_{\mu_1} \times
+In general, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
 \cdots \times S_{\mu_K}$, then the corresponding coset structure for
 the orbit is
 
@@ -265,7 +279,7 @@ $$
 For instance, pure states have canonical representative
 
 $$
-(1, 0, 0, \ldots, 0) \in W_d,
+(1, 0, 0, \ldots, 0) \in W_{d-1},
 $$
 
 which is stabilised by the subgroup $S_1 \times S_{d-1}$.
@@ -283,15 +297,6 @@ $$
 
 and is stabilised by the whole group $S_d$. As we expect, the orbit is
 trivial.
-We can illustrate these ideas for $d = 2$:
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/posts/unitary2.png"/>
-	</div>
-	</figure>
-
-We start with 
 These group-theoretic properties are nicely
 geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
