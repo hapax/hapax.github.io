@@ -90,18 +90,33 @@ This is just the usual norm, where a matrix $A = [a_{ij}]$ is treated
 as a big vector:
 
 $$
-||A|| = \sqrt{\sum_{ij} a_{ij}^2}.
+||A||^2 = \sum_{ij} |a_{ij}|^2 = \mbox{Tr}[A^\dagger A].
 $$
 
 Hence,
 
 $$
 \begin{align*}
-||\Lambda(x) - \tfrac{1}{2}I_2|| & = \left|\left| \begin{bmatrix}
+||\Lambda(x) - \tfrac{1}{2}I_2||^2 & = \left|\left| \begin{bmatrix}
 x - 1/2 & \\
 & 1/2-x 
-\end{bmatrix} \right|\right|
-\end{align*} = \sqrt{2}\left|x - \frac{1}{2}\right|.
+\end{bmatrix} \right|\right|^2
+\end{align*} = 2\left(x - \tfrac{1}{2}\right)^2.
+$$
+
+It's easy to see that any density in the unitary orbit of $\Lambda(x)$
+has the same distance, since we can use $I_2 = U^\dagger I_2 U$:
+
+$$
+\begin{align*}
+||U^\dagger \Lambda U - \tfrac{1}{2}I_2||^2 & =
+\mbox{Tr}\left[(U^\dagger \Lambda U - \tfrac{1}{2}I_2)^\dagger (U^\dagger \Lambda U - \tfrac{1}{2}I_2)\right]\\
+& =
+\mbox{Tr}\left[U^\dagger (\Lambda - \tfrac{1}{2}I_2)^\dagger UU^\dagger (\Lambda - \tfrac{1}{2}I_2) U\right]\\
+& =
+\mbox{Tr}\left[(\Lambda - \tfrac{1}{2}I_2)^\dagger (\Lambda - \tfrac{1}{2}I_2) \right]
+= ||\Lambda - \tfrac{1}{2}I_2||^2.
+\end{align*}
 $$
 
 #### Orbital mechanics
