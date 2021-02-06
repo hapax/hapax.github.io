@@ -86,8 +86,7 @@ $$
 
 We can measure the distance from this matrix to $\Lambda(x)$ using the
 Frobenius norm, aka Hilbert-Schmidt norm.
-This is just the usual norm, where a matrix $A = [a_{ij}]$ is treated
-as a big vector:
+This is just the usual vector norm where we treat a matrix $A = [a_{ij}]$ as a big vector:
 
 $$
 ||A||^2 = \sum_{ij} |a_{ij}|^2 = \mbox{Tr}[A^\dagger A].
