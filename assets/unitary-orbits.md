@@ -20,7 +20,7 @@ post).
 The "Bloch ball" is the space of all *density matrices* on the qubit.
 It fills in the Bloch sphere with concentric spheres of increasing
 mixedness, and at the centre is the maximally mixed state $I_2/2$,
-where $I_n$ will denote the $n \times n$ identity matrix.
+where $I_d$ will denote the $d \times d$ identity matrix.
 
 <figure>
     <div style="text-align:center"><img src
@@ -43,9 +43,69 @@ Thus, spheres occur naturally as unitary orbits, and indeed, each
 concentric sphere in the Bloch ball is such an orbit.
 The question is whether this generalises nicely to higher dimensions.
 
-#### Orbital mechanics
+#### The Bloch ball
 
 Let's think about the Bloch ball in a little more detail.
+Each density matrix $\rho$ is a $2\times 2$ matrix acting on the space
+of qubits, which is positive and has unit trace.
+Positivity just means that, for every state $|\psi\rangle$,
+
+$$
+\langle \psi | (\rho | \psi \rangle) \geq 0.
+$$
+
+Hence, $\rho$ is Hermitian, since the reality of this inner product implies
+
+$$
+\langle \psi | (\rho | \psi \rangle) = (\langle \psi | \rho^\dagger)
+|\psi \rangle \quad \Longrightarrow \quad \rho = \rho^\dagger.
+$$
+
+In turn, this means that $\rho$ is unitarily diagonalisable,
+i.e. $U^\dagger \rho U = \Lambda$ for some diagonal matrix $\Lambda$.
+It's also clear these eigenvalues must be positive.
+In fact, since the permutation matrices are unitary, we can arrange
+the eigenvalues in decreasing size, so that every $2 \times 2$ density
+matrix is unitarily equivalent to some matrix
+
+$$
+\Lambda(x) =
+\begin{bmatrix}
+x & \\
+& 1-x 
+\end{bmatrix}
+$$
+
+for $x \in [1/2, 1]$.
+The maximally mixed density $I_2/2$ has a trivial orbit, since it
+always gets mapped to itself:
+
+$$
+U^\dagger I_2 U = U^\dagger U = I_2.
+$$
+
+We can measure the distance from this matrix to $\Lamda(x)$ using the
+Frobenius norm, aka Hilbert-Schmidt norm.
+This is just the usual norm, where a matrix $A = [a_{ij}]$ is treated
+as a big vector:
+
+$$
+||A|| = \sqrt{\sum_{ij} a_{ij}^2}.
+$$
+
+Hence,
+
+$$
+\begin{align*}
+||\Lambda(x) - \tfrac{1}{2}I_2|| & = \left|\left| \begin{bmatrix}
+x - 1/2 & \\
+& 1/2-x 
+\end{bmatrix} \right|\right|
+\end{align*} = \sqrt{2}|x - \frac{1}{2}|.
+$$
+
+#### Orbital mechanics
+
 Since any density matrix $\rho$ is unitarily diagonalizable,
 i.e. $U^\dagger \rho U = \Lambda$, each
 orbit for a Hilbert space of dimension $d$ has a canonical
@@ -67,15 +127,4 @@ decreasing order:
 
 $$
 p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
-$$
-
-In the qubit case $d = 2$, we can label these canonical
-representatives by a number $x \in [1/2, 1]$, with
-
-$$
-\rho(x) =
-\begin{bmatrix}
-x & \\
-& 1-x 
-\end{bmatrix}.
 $$
