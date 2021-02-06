@@ -164,5 +164,6 @@ $$
 
 Once again, this is normalised so that the pure states with $p_1 = 1,
 p_2 = \cdots = p_d = 0$, have distance $r = 1$.
+Let's see what the orbit actually looks like.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
