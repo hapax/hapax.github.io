@@ -62,7 +62,8 @@ $$
 $$
 
 In turn, this means that $\rho$ is unitarily diagonalisable,
-i.e. $U^\dagger \rho U = \Lambda$ for some diagonal matrix $\Lambda$.
+i.e. $U^\dagger \rho U = \Lambda$ for some diagonal matrix $\Lambda$
+and unitary matrix $U^\dagger U = UU^dagger = I$.
 It's also clear these eigenvalues must be positive.
 In fact, since the permutation matrices are unitary, we can arrange
 the eigenvalues in decreasing size, so that every $2 \times 2$ density
