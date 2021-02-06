@@ -142,15 +142,27 @@ $$
 where the positivity of $\rho$ and unit trace condition imply
 
 $$
-\sum_{i=1}^d p_i = 1, \quad p_i \geq 0.
+\sum_{i=1}^d p_i = 1, \quad p_i \geq 0,
 $$
 
-Since the unitary matrices include permutation matrices $U_\sigma
-= [\delta_{i\sigma(i)}]$, we can arrange these eigenvalues in
-decreasing order:
+and as before, we can arrange these eigenvalues in decreasing order:
 
 $$
 p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
 $$
+
+The constraint that the eigenvalues sum to $1$ means that we only need
+$p_1, p_2, \ldots, p_{d-1}$ to uniquely specify a canonical
+representative $\Lambda(p_1, p_2, \ldots, p_{d-1})$.
+We can repeat the calculations from above to show that $I_d/d$ has a
+trivial orbit, and that any density matrix in the orbit of $\Lambda(p_1,
+\ldots, p_{d-1})$ has a fixed distance to the mixed state:
+
+$$
+r(p_1, \ldots, p_{d-1}) = \sqrt{2}\sum_{i=1}^d \left(p_i - \frac{1}{d}\right)^2.
+$$
+
+Once again, this is normalised so that the pure states with $p_1 = 1$
+have distance $r = 1$.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
