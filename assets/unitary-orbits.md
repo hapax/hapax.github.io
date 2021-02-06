@@ -84,7 +84,7 @@ $$
 U^\dagger I_2 U = U^\dagger U = I_2.
 $$
 
-We can measure the distance from this matrix to $\Lamda(x)$ using the
+We can measure the distance from this matrix to $\Lambda(x)$ using the
 Frobenius norm, aka Hilbert-Schmidt norm.
 This is just the usual norm, where a matrix $A = [a_{ij}]$ is treated
 as a big vector:
@@ -101,7 +101,7 @@ $$
 x - 1/2 & \\
 & 1/2-x 
 \end{bmatrix} \right|\right|
-\end{align*} = \sqrt{2}|x - \frac{1}{2}|.
+\end{align*} = \sqrt{2}\left|x - \frac{1}{2}\right|.
 $$
 
 #### Orbital mechanics
