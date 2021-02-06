@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Unitary orbits for density matrices"
+title:  "Unitary orbits and the simplicial wedge"
 categories: [Maths, Physics, QC]
 date:  2021-02-05
 ---
 
-**February 5, 2021.** *Some brief musings on the structure of unitary orbits
-  for density matrices, attempting to generalise the nested spheres of
-  the Bloch ball.*
+**February 5, 2021.** *Some brief musings on the unitary orbits of
+  density matrices for finite-dimensional quantum systems. The upshot
+  is a neat scheme for representing orbits using a simplicial "wedge".*
 
 #### Introduction
 
@@ -144,7 +144,7 @@ $$
 \sum_{i=1}^d p_i = 1, \quad p_i \geq 0,
 $$
 
-and as before, we can arrange these eigenvalues in decreasing order:
+and we can arrange eigenvalues in descending order:
 
 $$
 p_1 \geq p_2 \geq \cdots \geq p_d \geq 0.
@@ -158,11 +158,17 @@ trivial orbit, and that any density matrix in the orbit of $\Lambda(p_1,
 \ldots, p_{d-1})$ has a fixed distance to the mixed state:
 
 $$
-r(p_1, \ldots, p_{d-1}) = \sqrt{2}\sum_{i=1}^d \left(p_i - \frac{1}{d}\right)^2.
+r^2(p_1, \ldots, p_{d-1}) = C_d\sum_{i=1}^d \left(p_i - \frac{1}{d}\right)^2,
 $$
 
-Once again, this is normalised so that the pure states with $p_1 = 1,
+where we choose $C_d$ so that the pure states, with $p_1 = 1,
 p_2 = \cdots = p_d = 0$, have distance $r = 1$.
+For completeness, we note that
+
+$$
+C_d = \frac{d^2}{d^2 - 2d + 2}.
+$$
+
 It's a bit trickier to see what the orbits look like, but in the same
 way that $I_d$ is fixed by the group $\mathrm{U}(d)$, we can read off
 fixed subgroups from the eigenvalue decomposition.
@@ -195,11 +201,10 @@ This agrees with the Bloch sphere for $d = 2$.
 This seems rather nice, but in general, the orbits will be horrible.
 First of all, spheres of radius $r < 1$ around the mixed state will
 now be made up of uncountably many orbits, since there are uncountably
-many ways to solve
+many sets of $p_i$ which solve
 
 $$
-r = \sqrt{2}\sum_{i=1}^d \left(p_i -
-\frac{1}{d}\right)^2
+r^2 = C_d\sum_{i=1}^d \left(p_i -\frac{1}{d}\right)^2
 $$
 
 for $r < 1$.
@@ -210,37 +215,86 @@ $$
 P_1, P_2, \ldots, P_K,
 $$
 
-with multiplicity $\mu_J$ associated to eigenvalue $P_K$, then the
+with multiplicity $\mu_J$ associated to eigenvalue $P_J$, then the
 same argument as above shows that the coset structure is
 
 $$
-\frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \mathrm{U}(\mu_K)},
+\frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)},
 $$
 
 forming a sphere of dimension
 
 $$
-d^2 - \sum_{J=1}^K \mu_J^2
+D = d^2 - \sum_{J=1}^K \mu_J^2
 $$
 
 and radius
 
 $$
-r = \sqrt{2}\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
+r^2 = C_d\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
 $$
 
 It's certainly possible to say more about this, but who wants to. It's
 a mess!
 
-#### The simplex
+#### The simplicial wedge
 
-The modest goal of this post is to try and tidy up some of the mess.
-We simply note that the eigenvalues $p_i$ form a probability
+Our modest goal will be to tidy up some of the mess.
+The main observation is that the eigenvalues $p_i$ form a probability
 distribution over $d$ outcomes.
-If they had an arbitrary order, they would live on the standard $(d-1)$-simplex.
-The fact that we arrange the eigenvalues in decreasing order means
-that we must quotient this simplex by the permutation group $S_{d}$
-which permutes the outcomes.
-Geometrically, we will cut out one of the $d!$ "petals" that form the simplex.
+If they had an arbitrary order, they would live on the standard
+$(d-1)$-simplex, but because they are arranged in decreasing order,
+they live on the simplicial "wedge",
+
+$$
+W_d = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
+$$
+
+It is almost as if we have taken the simplex and modded out by its
+symmetry group, $S_d$, and indeed, the volume is reduced by $d!$.
+But elements of $W_d$ are stabilised by subgroups of $S_d$ in a way
+that precisely mirrors the corresponding unitary orbit.
+In general, if a point in $W_d$ is stabilised by $S_{\mu_1} \times
+\cdots \times S_{\mu_K}$, then the corresponding coset structure for
+the orbit is
+
+$$
+\frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)}.
+$$
+
+For instance, pure states have canonical representative
+
+$$
+(1, 0, 0, \ldots, 0) \in W_d,
+$$
+
+which is stabilised by the subgroup $S_1 \times S_{d-1}$.
+This correctly gives the coset orbit
+
+$$
+\frac{\mathrm{U}(d)}{\mathrm{U}(1) \times \mathrm{U}(d - 1)}.
+$$
+
+The maximally mixed state, and centroid of the whole simplex, has coordinates
+
+$$
+\frac{1}{d}(1, 1, \ldots, 1),
+$$
+
+and is stabilised by the whole group $S_d$. As we expect, the orbit is
+trivial.
+These group-theoretic properties are, as we might expect, nicely
+geometrised when we draw the wedge $W_d$.
+
+Finally, to relate this back to spheres, the nice thing about using
+the Frobenius norm is that the distance between a density matrix and
+the maximally mixed matrix is just proportional to the Euclidean
+distance on the wedge.
+So we can literally draw concentric spheres emanating from the
+centroid!
+Although it does not make the details of these orbits easier to
+compute, it does provide a simple place to store them and read off
+some of their basic properties, which bear more than a passing
+resemblance to the concentric circles of the Bloch sphere.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
