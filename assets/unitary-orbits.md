@@ -162,7 +162,7 @@ $$
 r(p_1, \ldots, p_{d-1}) = \sqrt{2}\sum_{i=1}^d \left(p_i - \frac{1}{d}\right)^2.
 $$
 
-Once again, this is normalised so that the pure states with $p_1 = 1$
-have distance $r = 1$.
+Once again, this is normalised so that the pure states with $p_1 = 1,
+p_2 = \cdots = p_d = 0$, have distance $r = 1$.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
