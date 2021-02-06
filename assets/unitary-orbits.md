@@ -126,8 +126,7 @@ In general, since each such $r$ is associated with a unique
 $\Lambda(p)$, we conclude that the space of $2\times 2$ density
 matrices is a ball consisting of concentric, transitive orbits of the
 unitary group, with the pure states at $p = 1$, the maximally mixed
-state at $p = 0$, and the sphere associated with $\Lambda(p)$ at
-radius $r = 2(p - 1/2)$.
+state at $p = 0$, and radius $r = 2(p - 1/2)$ for the orbit of $\Lambda(p)$.
 
 #### Orbital mechanics
 
