@@ -129,7 +129,7 @@ matrices is a ball consisting of concentric, transitive orbits of the
 unitary group, with the pure states at $p = 1$, the maximally mixed
 state at $p = 0$, and radius $r = 2(p - 1/2)$ for the orbit of $\Lambda(p)$.
 
-#### Orbital mechanics in higher dimensions
+#### Orbital mechanics
 
 A similar story holds in higher dimensions. Density matrices are
 positive and unit trace, so each orbit in dimension $d$ has a canonical
@@ -223,18 +223,28 @@ $$
 \frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)},
 $$
 
-forming a sphere of dimension
+which has dimension
 
 $$
-D = d^2 - \sum_{J=1}^K \mu_J^2
+D = d^2 - \sum_{J=1}^K \mu_J^2,
 $$
 
-and radius
+and lies on a sphere of radius
 
 $$
 r^2 = C_d\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
 $$
 
+These cosets will typically have *greater* dimension than the pure
+states! In fact, for a generic point with no symmetries (distinct
+$p_i$), the cosets are of the form
+
+$$
+\frac{\mathbf{U}(d)}{(\mathrm{U}(1))^d}
+$$
+
+with dimension $d^2 - d$, so for $d > 2$, these are always bigger than
+the pure state orbits.
 It's certainly possible to say more about this, but who wants to. It's
 a mess!
 
@@ -320,8 +330,6 @@ But when distinct sub-wedge coincides, we get even more degeneracy.
 So, the apparent randomness of orbits is somewhat tamed by geometric
 hierarchy.
 
-#### Conclusion
-
 Finally, to relate this back to spheres, the nice thing about using
 the Frobenius norm is that the distance between a density matrix and
 the maximally mixed matrix is just proportional to the Euclidean
@@ -332,5 +340,8 @@ Our scheme does not do away with all the messiness of the orbits. But
 it does provide a simple way to organise and read off some of their
 basic properties, and generalises in a beautiful way the concentric
 spheres of the Bloch ball.
+
+*Edit*: It seems I've rediscovered some basic facts about
+ representation theory! I'll add an appendix as I learn more.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
