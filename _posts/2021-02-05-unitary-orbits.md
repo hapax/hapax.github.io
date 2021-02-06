@@ -243,7 +243,7 @@ Our modest goal will be to tidy up some of the mess.
 The main observation is that the eigenvalues $p_i$ form a probability
 distribution over $d$ outcomes.
 If they had an arbitrary order, they would live on the standard
-$(d-1)$-simplex $$, but because they are arranged in decreasing order,
+$(d-1)$-simplex $\Delta_{d-1}$, but because they are arranged in decreasing order,
 they live on the simplicial "wedge",
 
 $$
@@ -315,7 +315,9 @@ each represents a copy of $W_1$, coinciding at the centroid.
 In general, orbit degeneracies occur precisely at sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
 introduced above.
-Thus, the apparent randomness of the orbits can be strictly geometrised.
+But when distinct sub-wedge coincides, we get even more degeneracy.
+So, the apparent randomness of orbits is somewhat tamed by geometric
+hierarchy.
 
 #### Conclusion
 
