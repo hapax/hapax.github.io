@@ -283,10 +283,21 @@ $$
 
 and is stabilised by the whole group $S_d$. As we expect, the orbit is
 trivial.
-As we might expect, these group-theoretic properties are nicely
+We can illustrate these ideas for $d = 2$:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/unitary2.png"/>
+	</div>
+	</figure>
+	
+These group-theoretic properties are nicely
 geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
 introduced above.
+For instance, in $W_3$, drawn below, the red edge
+
+#### Conclusion
 
 Finally, to relate this back to spheres, the nice thing about using
 the Frobenius norm is that the distance between a density matrix and
