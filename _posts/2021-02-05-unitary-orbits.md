@@ -265,11 +265,11 @@ We start with the $1$-simplex $\Delta_1$, and divide it two to get the
 wedge $W_1$.
 The black dot at the top is the orbit of pure states, and the white
 dot the maximally mixed state.
-To get the wedge, we almost perform a quotient by the symmetry group
-of the simplex, $S_d$, and this is almost true.
-But there are literal "edge cases", stabilised by subgroups of $S_d$ in a way
-that precisely mirrors the corresponding unitary orbit.
-In general, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
+In general, the wedge $W_{d-1}$ is almost a quotient of $\Delta_{d-1}$
+by its symmetry group, the set of permutations $S_d$.
+But the wedge has literal "edge cases", stabilised by subgroups of $S_d$ in a way
+that mirrors the corresponding unitary orbits.
+More precisely, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
 \cdots \times S_{\mu_K}$, then the corresponding coset structure for
 the orbit is
 
