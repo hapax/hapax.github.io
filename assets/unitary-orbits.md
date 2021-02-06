@@ -191,5 +191,56 @@ $$
 
 and therefore corresponds to a unit sphere $\mathbb{S}^{2d-2}$,
 according to the Hilbert-Schmidt metric we've chosen.
+This agrees with the Bloch sphere for $d = 2$.
+This seems rather nice, but in general, the orbits will be horrible.
+First of all, spheres of radius $r < 1$ around the mixed state will
+now be made up of uncountably many orbits, since there are uncountably
+many ways to solve
+
+$$
+r = \sqrt{2}\sum_{i=1}^d \left(p_i -
+\frac{1}{d}\right)^2
+$$
+
+for $r < 1$.
+And orbits can be more elaborate for other eigenvalue structures.
+For instance, if we lump the $p_i$ into $k$ sets of *distinct* eigenvalues,
+
+$$
+P_1, P_2, \ldots, P_K,
+$$
+
+with multiplicity $\mu_J$ associated to eigenvalue $P_K$, then the
+same argument as above shows that the coset structure is
+
+$$
+\frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \mathrm{U}(\mu_K)},
+$$
+
+forming a sphere of dimension
+
+$$
+d^2 - \sum_{J=1}^K \mu_J^2
+$$
+
+and radius
+
+$$
+r = \sqrt{2}\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
+$$
+
+It's certainly possible to say more about this, but who wants to. It's
+a mess!
+
+#### The simplex
+
+The modest goal of this post is to try and tidy up some of the mess.
+We simply note that the eigenvalues $p_i$ form a probability
+distribution over $d$ outcomes.
+If they had an arbitrary order, they would live on the standard $(d-1)$-simplex.
+The fact that we arrange the eigenvalues in decreasing order means
+that we must quotient this simplex by the permutation group $S_{d}$
+which permutes the outcomes.
+Geometrically, we will cut out one of the $d!$ "petals" that form the simplex.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
