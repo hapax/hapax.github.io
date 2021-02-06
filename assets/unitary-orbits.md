@@ -309,8 +309,8 @@ cut out the wedge $W_2$:
 
 At the top we have the pure states as usual, and the mixed state at
 the white centroid.
-The grey dot represents the fully mixed state on two basis elements, 
-These group-theoretic properties are nicely
+The grey dot represents the fully mixed state on two basis elements.
+Note that the corners of the simplex are the only points at which 
 geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
 with interiors parameterised by the coordinates $P_1, \ldots, P_K$
 introduced above.
