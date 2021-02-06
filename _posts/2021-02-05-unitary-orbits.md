@@ -240,7 +240,7 @@ states! In fact, for a generic point with no symmetries (distinct
 $p_i$), the cosets are of the form
 
 $$
-\frac{\mathbf{U}(d)}{(\mathrm{U}(1))^d}
+\frac{\mathrm{U}(d)}{(\mathrm{U}(1))^d}
 $$
 
 with dimension $d^2 - d$, so for $d > 2$, these are always bigger than
