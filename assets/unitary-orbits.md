@@ -283,8 +283,10 @@ $$
 
 and is stabilised by the whole group $S_d$. As we expect, the orbit is
 trivial.
-These group-theoretic properties are, as we might expect, nicely
-geometrised when we draw the wedge $W_d$.
+As we might expect, these group-theoretic properties are nicely
+geometrised when we draw the wedge $W_d$, corresponding to sub-wedges $W_K$
+with interiors parameterised by the coordinates $P_1, \ldots, P_K$
+introduced above.
 
 Finally, to relate this back to spheres, the nice thing about using
 the Frobenius norm is that the distance between a density matrix and
