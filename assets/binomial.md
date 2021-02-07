@@ -193,17 +193,16 @@ $$
 
 and I have no idea how to derive this without calculus.
 
-#### An application to arithmetic
+#### Rooting out answers
 
 The applications are many and various, but the most obvious and fun is
-to quickly calculating powers (of small numbers) by hand, or even in
-your head.
+to quickly calculating roots.
 For instance, suppose someone asks you to find the square root of $8$.
 You look for a nearby perfect square, in this case $9$, then factor
 eight into $9$ times one minus something small:
 
 $$
-\sqrt{8} = \sqrt{9\left(1 - \frac{1}{9}\right)} = 3 \left(1 - \frac{1}{9}}\right)^{1/2}.
+\sqrt{8} = \sqrt{9\left(1 - \frac{1}{9}\right)} = 3 \left(1 - \frac{1}{9}\right)^{1/2}.
 $$
 
 We can take $\alpha = 1/2$ and $x = -1/9$ in the binomial
