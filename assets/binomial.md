@@ -164,7 +164,7 @@ $$
 $$
 
 The coefficient of the linear term $nq = m$ matches, but the quadratic
-term requires more work. Matching against (\ref{second}) and
+term requires more work. Comparing to (\ref{second}) and
 rearranging for $\gamma$, we have
 
 $$
