@@ -232,14 +232,14 @@ $$
 The actual answer is $\sqrt{8} = 2.828$, so even the first term in the
 binomial approximation is very good! We'll finish with a somewhat more
 involved example.
-Let's approximate the fifth root of six, $\sqrt[5]{6}$.
+Let's approximate the fifth root of six, $6^{1/5}$.
 I only know one fifth power of the top of my head, $2^5 = 32$, and
 this happens to be near $6^2 = 36$.
 We can chain these observations together as follows:
 
 $$
 \begin{align*}
-\sqrt[5]{6} = 6^{1/5} & = 36^{1/10} \\
+6^{1/5} & = 36^{1/10} \\
 	& = 32^{1/10}\left(1 + \frac{1}{9}\right)^{1/10} \\
 	& =\sqrt{2}\left(1 + \frac{1}{9}\right)^{1/10} \\
 	& \approx \sqrt{2} \cdot \frac{91}{90}.
