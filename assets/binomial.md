@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Binomial blues"
 categories: [Mathematics, Physics, Hacker]
-date:  2021-01-28
+date:  2021-02-06
 ---
 
-**January 28, 2021.** *More sketchy hacker maths.*
+**February 06, 2021.** *Sketchy hacker notes on the binomial approximation.*
 
 #### Introduction
 
@@ -130,4 +130,35 @@ $$
 
 and so the result holds for all real numbers.
 
-#### Applications
+#### Next term
+
+It's possible, if messy, to extend these methods to determine the next
+term in the approximation.
+We'll do the longcut, and use big-O notation, with $O(x^3)$ in this
+context meaning "terms with powers of $x^3$ or higher".
+The binomial theorem gives
+
+$$
+(1 + x)^n = 1 + nx + \frac{n(n-1)}{2} x^2 + O(x^3),
+$$
+
+since the coefficient of the $x^2$ term is the number of ways of
+choosing $2$ items (the $x$ terms) from $n$ items (the terms in the power).
+For a rational $q = m/n$, we have
+
+$$
+(1 + x)^{qn} = (1 + x)^m = 1 + mx + \frac{m(m-1)}{2} x^2 + O(x^3),
+$$
+
+and if we assume
+
+$$
+(1 + x)^{q} = 1 + qx + \gamma x^2 + O(x^3),
+$$
+
+then the binomial theorem again gives
+
+$$
+(1 + x)^{qn} = \left[1 + qx + \gamma x^2 + O(x^3)\right]^n = 1 + nqx +
+\left(n\gamma + \frac{n(n-1)}{2}q^2 \right)x^2 + O(x^3).
+$$
