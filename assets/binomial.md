@@ -19,7 +19,8 @@ $$
 $$
 
 The usual proof involves calculus.
-Here, we present a sketchy shortcut and an elementary longcut.
+Here, we present a sketchy shortcut and an elementary longcut, neither
+of which involves calculus.
 
 #### Sketchy shortcut
 
@@ -58,7 +59,7 @@ $$
 
 This works since all the corrections are at higher order in $x$.
 
-#### Longcut
+#### Elementary longcut
 
 There is a more elementary approach which effecitvely does the same
 thing.
