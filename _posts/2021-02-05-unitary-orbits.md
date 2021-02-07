@@ -282,7 +282,7 @@ But the wedge has literal "edge cases", stabilised by subgroups of $S_d$ in a wa
 that mirrors the corresponding unitary orbits.
 More precisely, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
 \cdots \times S_{\mu_K}$, then the corresponding coset structure for
-the orbit is the partal flag variety
+the orbit is the partial flag variety
 
 $$
 \frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)}.
