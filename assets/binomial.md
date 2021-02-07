@@ -182,12 +182,12 @@ $$
 $$
 
 The extention to real and negative powers is easy. The extension to
-higher terms in $x$ is not, and I don't know if it's possible to
-derive the binomial series
+higher terms in $x$ is not.
+These terms are described the binomial series,
 
 $$
 (1 + x)^\alpha = \sum_{k = 0}^\infty \frac{\alpha(\alpha - 1)\cdots
 (\alpha-k +1)}{k!} x^k
 $$
 
-without calculus.
+and I have no idea how to derive this without calculus.
