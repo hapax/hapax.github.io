@@ -112,24 +112,11 @@ actually trivial, in some sense.
 Unlike whole numbers (repeated multiplication), fractions (roots), or
 negative numbers (reciprocals), an irrational power has no obvious
 interpretation. The most reasonable thing to do is define it as a
-*limit* of rational powers that approximate it.
-For instance, I could think of
+*limit* of rational powers that approximate it:
 
 $$
-e^{\pi\sqrt{163}} = \lim_{n \to \inty} e^{q_n},
+(1 + x)^r = \lim_{n \to \inty} (1 + x)^{q_n},
 $$
 
-where $q_n$ is a sequence of rational numbrs (e.g. the decimal
-expansion) approximating
-
-$$
-\pi\sqrt{163} = 40.1091699\ldots
-$$
-
-Doing this gives a number bizarrely close to an integer,
-
-$$
-e^{\pi\sqrt{163}} = 262537412640768743.99999999999925\ldots
-$$
-
-but that is a story for another time.
+where $q_n$ is a sequence of rational numbers (e.g. the decimal
+expansion) approximating $r$.
