@@ -264,11 +264,12 @@ $$
 $$
 
 At this point, we could separately approximate $\sqrt{2}$, but I
-happen to know it's about $1.414$, so I can plug this in and get the
-estimate
+happen to know it's about $1.414$, so I can divide by $90$ (or even
+just $100$ for a quick mental estimate), and add them together to get
 
 $$
-\sqrt[5]{6} \approx 1.414 \cdot \frac{91}{90} \approx 1.43.
+\sqrt[5]{6} \approx 1.414 \cdot \left(1 + \frac{1}{90}\right) \approx 1.43.
 $$
 
 Consulting a calculator, I find this is correct to two decimal places!
+And you can do it in your head.
