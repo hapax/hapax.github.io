@@ -130,7 +130,7 @@ $$
 
 and so the result holds for all real numbers.
 
-#### Next term
+#### Higher terms
 
 It's possible, if messy, to extend these methods to determine the next
 term in the approximation.
@@ -174,3 +174,20 @@ $$
 & =\frac{q(q - 1)}{2}.
 \end{align*}
 $$
+
+Thus, we find that to second order,
+
+$$
+(1 + x)^q = 1 + qx + \frac{q(q-1)}{2} x^2 + O(x^3)
+$$
+
+The extention to real and negative powers is easy. The extension to
+higher terms in $x$ is not, and I don't know if it's possible to
+derive the binomial series
+
+$$
+(1 + x)^\alpha = \sum_{k = 0}^\infty \frac{\alpha(\alpha - 1)\cdots
+(\alpha-k +1)}{k!} x^k
+$$
+
+without calculus.
