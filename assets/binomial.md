@@ -193,7 +193,7 @@ $$
 
 and I have no idea how to derive this without calculus.
 
-#### Applications
+#### An application to arithmetic
 
 The applications are many and various, but the most obvious and fun is
 to quickly calculating powers (of small numbers) by hand, or even in
