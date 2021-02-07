@@ -242,7 +242,7 @@ $$
 6^{1/5} & = 36^{1/10} \\
 	& = 32^{1/10}\left(1 + \frac{1}{9}\right)^{1/10} \\
 	& =\sqrt{2}\left(1 + \frac{1}{9}\right)^{1/10} \\
-	& \approx \sqrt{2} \cdot \frac{91}{90}.
+	& \approx \sqrt{2} \cdot \left(1 + \frac{1}{10\cdot 9}\right).
 \end{align*}
 $$
 
@@ -251,7 +251,7 @@ happen to know it's about $1.414$, so I can plug this in and get the
 estimate
 
 $$
-\sqrt[5]{6} \approx 1.43.
+\sqrt[5]{6} \approx 1.414 \cdot \frac{91}{90} \approx 1.43.
 $$
 
 Consulting a calculator, I find this is correct to two decimal places!
