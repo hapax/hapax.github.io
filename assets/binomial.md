@@ -172,9 +172,9 @@ rearranging for $\gamma$, we have
 
 $$
 \begin{align*}
-\gamma  & = \frac{1}{n}\left[\frac{m(m-1)}{2}- \frac{n(n-1)}{2}q^2\right] \\
-& =\frac{m(m-1)}{2n}- \frac{m^2(n-1)}{2n^2} \\
-& =\frac{q(q - 1)}{2}.
+\gamma  & = \frac{1}{n}\left[\frac{m(m-1)}{2}- \frac{n(n-1)}{2}q^2\right] 
+ =\frac{m(m-1)}{2n}- \frac{m^2(n-1)}{2n^2} 
+ =\frac{q(q - 1)}{2}.
 \end{align*}
 $$
 
