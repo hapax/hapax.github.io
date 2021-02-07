@@ -21,6 +21,7 @@ $$
 The usual proof involves calculus.
 Here, we present a sketchy shortcut and an elementary longcut, neither
 of which involves calculus.
+We derive the quadratic term by similar means, and end with an application.
 
 #### Sketchy shortcut
 
