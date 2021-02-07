@@ -120,8 +120,8 @@ $$
 \end{align*}
 $$
 
-We can define distance between densities with a positive constant $C$
-multiplied by the Hilbert-Schmidt norm.
+We can define distance between densities as the Hilbert-Schmidt norm
+times a positive constant $C$.
 We choose $C = \sqrt{2}$ so that for pure states with $p = 1$, the
 associated distance is $r = 2(p - 1/2) = 1$.
 In general, since each such $r$ is associated with a unique
@@ -257,14 +257,14 @@ The main observation is that the eigenvalues $p_i$ form a probability
 distribution over $d$ outcomes.
 If they had an arbitrary order, they would live on the standard
 $(d-1)$-simplex $\Delta_{d-1}$, but because they are arranged in decreasing order,
-they live on the simplicial "wedge",
+they live on the simplicial "wedge":
 
 $$
 W_{d-1} = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
 $$
 
-(Note that the subscript denotes the number of independent
-parameters.)
+Note that the subscript denotes the number of independent
+parameters.
 We can illustrate these ideas for $d = 2$:
 
 <figure>
@@ -308,7 +308,7 @@ $$
 \frac{1}{d}(1, 1, \ldots, 1),
 $$
 
-and is stabilised by the whole group $S_d$. As we expect, the orbit is
+and is stabilised by the full group $S_d$. As we expect, the orbit is
 trivial.
 We can see how this works for a qutrit below.
 We start with the $2$-simplex $\Delta_2$, an equilateral triangle, and
