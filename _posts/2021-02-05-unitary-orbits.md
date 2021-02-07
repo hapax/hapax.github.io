@@ -196,8 +196,7 @@ $$
 d^2 - 1^2 - (d - 1)^2 = 2d - 2,
 $$
 
-and therefore corresponds to a unit sphere $\mathbb{S}^{2d-2}$,
-according to the Hilbert-Schmidt metric we've chosen.
+and lies on a unit sphere $\mathbb{S}^{2d-2}$ in our Hilbert-Schmidt metric.
 This agrees with the Bloch sphere for $d = 2$.
 This seems rather nice, but in general, the orbits will be horrible.
 First of all, spheres of radius $r < 1$ around the mixed state will
@@ -223,21 +222,23 @@ $$
 \frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)},
 $$
 
-which has dimension
+known to mathematicians as a [partial flag variety](https://en.wikipedia.org/wiki/Generalized_flag_variety#Partial_flag_varieties).
+These orbits have dimension
 
 $$
 D = d^2 - \sum_{J=1}^K \mu_J^2,
 $$
 
-and lies on a sphere of radius
+and lie on a sphere of radius
 
 $$
 r^2 = C_d\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
 $$
 
-These cosets will typically have *greater* dimension than the pure
-states! In fact, for a generic point with no symmetries (distinct
-$p_i$), the cosets are of the form
+Note that, unlike the Bloch ball, while mixed states are closer to the
+maximally mixed state, they do not lie inside the orbit of pure states
+since they typically have more dimensions.
+For instance, a generic point with no symmetries (distinct $p_i$), the cosets are of the form
 
 $$
 \frac{\mathrm{U}(d)}{(\mathrm{U}(1))^d}
@@ -281,7 +282,7 @@ But the wedge has literal "edge cases", stabilised by subgroups of $S_d$ in a wa
 that mirrors the corresponding unitary orbits.
 More precisely, if a point in $W_{d-1}$ is stabilised by $S_{\mu_1} \times
 \cdots \times S_{\mu_K}$, then the corresponding coset structure for
-the orbit is
+the orbit is the partal flag variety
 
 $$
 \frac{\mathrm{U}(d)}{\mathrm{U}(\mu_1) \times \cdots \times \mathrm{U}(\mu_K)}.
@@ -340,8 +341,5 @@ Our scheme does not do away with all the messiness of the orbits. But
 it does provide a simple way to organise and read off some of their
 basic properties, and generalises in a beautiful way the concentric
 spheres of the Bloch ball.
-
-<!-- *Edit*: It seems I've rediscovered some basic facts about
- representation theory! I'll add an appendix as I learn more. -->
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
