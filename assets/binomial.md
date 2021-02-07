@@ -216,14 +216,14 @@ $$
 To first order, we get
 
 $$
-3 \left(1 - \frac{1}{9}}\right)^{1/2} \approx 3\left[1 - \frac{1}{2} \cdot \frac{1}{9}\right]
+3 \left(1 - \frac{1}{9}\right)^{1/2} \approx 3\left[1 - \frac{1}{2} \cdot \frac{1}{9}\right]
 = \frac{17}{6} \approx 2.83.
 $$
 
 To second order,
 
 $$
-3 \left(1 - \frac{1}{9}}\right)^{1/2} \approx
+3 \left(1 - \frac{1}{9}\right)^{1/2} \approx
 3\left[1 - \frac{1}{2} \cdot \frac{1}{9} - \frac{1}{8} \cdot \frac{1}{9^2}\right]
 = \frac{611}{216} \approx 2.829.
 $$
