@@ -7,7 +7,8 @@ categories: [Mathematics, Physics, Hacker]
 date:  2021-02-06
 ---
 
-**February 06, 2021.** *Sketchy hacker notes on the binomial approximation.*
+**February 06, 2021.** *Sketchy hacker notes on the binomial
+  approximation, paying off in some party trick arithmetic.*
 
 #### Introduction
 
