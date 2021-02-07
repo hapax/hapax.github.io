@@ -63,7 +63,7 @@ $$
 
 In turn, this means that $\rho$ is unitarily diagonalisable,
 i.e. $U^\dagger \rho U = \Lambda$ for some diagonal matrix $\Lambda$
-and unitary matrix $U^\dagger U = UU^dagger = I$.
+and unitary matrix $U^\dagger U = UU^\dagger = I$.
 It's also clear these eigenvalues must be positive.
 In fact, since the permutation matrices are unitary, we can arrange
 the eigenvalues in decreasing size, so that every $2 \times 2$ density
@@ -104,8 +104,9 @@ p - 1/2 & \\
 \end{align*} = 2\left(p - \tfrac{1}{2}\right)^2.
 $$
 
-It's easy to see that any density in the unitary orbit of $\Lambda(p)$
-has the same distance, since we can use $I_2 = U^\dagger I_2 U$:
+It's easy to see that any density matrix in the unitary orbit of $\Lambda(p)$
+has the same distance, since we can use $I_2 = U^\dagger I_2 U$,
+i.e. it is a class function:
 
 $$
 \begin{align*}
