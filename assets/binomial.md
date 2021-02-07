@@ -116,8 +116,18 @@ interpretation. The most reasonable thing to do is define it as a
 *limit* of rational powers that approximate it:
 
 $$
-(1 + x)^r = \lim_{n \to \inty} (1 + x)^{q_n},
+(1 + x)^r = \lim_{n \to \infty} (1 + x)^{q_n},
 $$
 
 where $q_n$ is a sequence of rational numbers (e.g. the decimal
 expansion) approximating $r$.
+In this case, the binomial approximation gives
+
+$$
+(1 + x)^r = \lim_{n \to \infty} (1 + x)^{q_n} \approx 1 + x \lim_{n
+\to \infty} q_n = 1 + rx,
+$$
+
+and so the result holds for all real numbers.
+
+#### Applications
