@@ -21,8 +21,9 @@ $$
 
 The usual proof involves calculus.
 Here, we present a sketchy shortcut and an elementary longcut, neither
-of which involves calculus.
-We derive the quadratic term by similar means, and end with an application.
+of which involves calculus, strictly speaking.
+We also derive the quadratic term, and end with a fun application to
+finding roots.
 
 #### Sketchy shortcut
 
