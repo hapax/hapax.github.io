@@ -193,7 +193,10 @@ $$
 (\alpha-k +1)}{k!} x^k
 $$
 
-and I have no idea how to derive this without calculus.
+but I have no idea how to derive this without calculus.
+Going from rationals to arbitrary reals is easy, and it does
+generalise the binomial theorem for positive integer $\alpha$.
+It's the fractions that are tricky!
 
 #### Rooting out answers
 
