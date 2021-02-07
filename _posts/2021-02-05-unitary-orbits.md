@@ -340,7 +340,6 @@ So we can literally draw concentric spheres emanating from the
 centroid!
 Our scheme does not do away with all the messiness of the orbits. But
 it does provide a simple way to organise and read off some of their
-basic properties, and generalises in a beautiful way the concentric
-spheres of the Bloch ball.
+basic properties, and generalises in a reasonably natural way the concentric spheres of the Bloch ball.
 
 <!-- https://en.wikipedia.org/wiki/Bloch_sphere -->
