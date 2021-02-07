@@ -242,7 +242,16 @@ $$
 \sqrt[5]{6} = 6^{1/5} & = 36^{1/10} \\
 	& = 32^{1/10}\left(1 + \frac{1}{9}\right)^{1/10} \\
 	& =\sqrt{2}\left(1 + \frac{1}{9}\right)^{1/10} \\
-	& \approx \sqrt{2}\left(1 + \frac{1}{90}\right).
+	& \approx \sqrt{2} \cdot \frac{91}{90}.
 \end{align*}
 $$
 
+At this point, we could separately approximate $\sqrt{2}$, but I
+happen to know it's about $1.414$, so I can plug this in and get the
+estimate
+
+$$
+\sqrt[5]{6} \approx 1.43.
+$$
+
+Consulting a calculator, I find this is correct to two decimal places!
