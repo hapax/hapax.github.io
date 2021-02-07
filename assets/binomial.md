@@ -191,3 +191,41 @@ $$
 $$
 
 and I have no idea how to derive this without calculus.
+
+#### Applications
+
+The applications are many and various, but the most obvious and fun is
+to quickly calculating powers (of small numbers) by hand, or even in
+your head.
+For instance, suppose someone asks you to find the square root of $8$.
+You look for a nearby perfect square, in this case $9$, then factor
+eight into $9$ times one minus something small:
+
+$$
+\sqrt{8} = \sqrt{9\left(1 - \frac{1}{9}\right)} = 3 \left(1 - \frac{1}{9}}\right)^{1/2}.
+$$
+
+We can take $\alpha = 1/2$ and $x = -1/9$ in the binomial
+approximation, and see how we go, noting that
+
+$$
+\sqrt{1 - x} = 1 - \frac{1}{2}x - \frac{1}{8}x^2 + O(x^3).
+$$
+
+To first order, we get
+
+$$
+3 \left(1 - \frac{1}{9}}\right)^{1/2} \approx 3\left[1 - \frac{1}{2} \cdot \frac{1}{9}\right]
+= \frac{17}{6} \approx 2.83.
+$$
+
+To second order,
+
+$$
+3 \left(1 - \frac{1}{9}}\right)^{1/2} \approx
+3\left[1 - \frac{1}{2} \cdot \frac{1}{9} - \frac{1}{8} \cdot \frac{1}{9^2}\right]
+= \frac{611}{216} \approx 2.829.
+$$
+
+The actual answer is $\sqrt{8} = 2.828$, so even the first term in the
+binomial approximation is very good indeed!
