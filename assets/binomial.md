@@ -64,8 +64,8 @@ This works since all the corrections are at higher order in $x$.
 
 #### Elementary longcut
 
-There is a more elementary approach which effecitvely does the same
-thing.
+This is a bit high brow, and we can get to the same conclusion using
+simple algebra.
 The basic point is first to note that, from the binomial theorem,
 
 $$
@@ -73,7 +73,7 @@ $$
 1 + nx
 $$
 
-for $|x| \ll 1$, since the higher order terms are much smaller.
+for $|x| \ll 1$, neglecting higher order terms which are much smaller.
 So the binomial approximation is true for whole numbers $n$.
 If we consider a fraction $q = m/n$, then $(1 + x)^q$ raised to the
 power $n$ should equal
@@ -132,6 +132,24 @@ $$
 $$
 
 and so the result holds for all real numbers.
+In fact, we can use this property to *define* the exponential, since if
+
+$$
+e^x \approx 1 + x
+$$
+
+for small $x$, then for any $r$, we can set $x = r/n$ for very large
+$n$ to get
+
+$$
+e^r = (e^{r/n})^n \approx \left(1 + \frac{r}{n}\right)^n.
+$$
+
+The limit of infinite $n$ is the definition of $e^r$,
+
+$$
+e^r = \lim_{n\to\infty} \left(1 + \frac{r}{n}\right)^n.
+$$
 
 #### Higher terms
 
@@ -190,13 +208,11 @@ These terms are described the binomial series,
 
 $$
 (1 + x)^\alpha = \sum_{k = 0}^\infty \frac{\alpha(\alpha - 1)\cdots
-(\alpha-k +1)}{k!} x^k
+(\alpha-k +1)}{k!} x^k.
 $$
 
-but I have no idea how to derive this without calculus.
-Going from rationals to arbitrary reals is easy, and it does
-generalise the binomial theorem for positive integer $\alpha$.
-It's the fractions that are tricky!
+Perhaps it's possible to get this full series without calculus, but
+right now I have no idea how.
 
 #### Rooting out answers
 
