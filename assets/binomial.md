@@ -139,7 +139,7 @@ context meaning "terms with powers of $x^3$ or higher".
 The binomial theorem gives
 
 $$
-(1 + x)^n = 1 + nx + \frac{n(n-1)}{2} x^2 + O(x^3),
+(1 + x)^n = 1 + nx + \frac{n(n-1)}{2} x^2 + O(x^3), \tag{2} \label{second}
 $$
 
 since the coefficient of the $x^2$ term is the number of ways of
@@ -161,4 +161,16 @@ then the binomial theorem again gives
 $$
 (1 + x)^{qn} = \left[1 + qx + \gamma x^2 + O(x^3)\right]^n = 1 + nqx +
 \left(n\gamma + \frac{n(n-1)}{2}q^2 \right)x^2 + O(x^3).
+$$
+
+The coefficient of the linear term $nq = m$ matches, but the quadratic
+term requires more work. Matching against (\ref{second}) and
+rearranging for $\gamma$, we have
+
+$$
+\begin{align*}
+\gamma  & = \frac{1}{n}\left[\frac{m(m-1)}{2}- \frac{n(n-1)}{2}q^2\right] \\
+& =\frac{m(m-1)}{2n}- \frac{m^2(n-1)}{2n^2} \\
+& =\frac{q(q - 1)}{2}.
+\end{align*}
 $$
