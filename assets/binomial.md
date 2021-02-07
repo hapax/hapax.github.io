@@ -32,7 +32,7 @@ $$
 e^x \approx 1 + x.
 $$
 
-The natural logarithm is the inverse of this, so
+The natural logarithm is the inverse function, so
 
 $$
 x = \log e^x \approx \log(1 + x).
@@ -57,3 +57,55 @@ $$
 $$
 
 This works since all the corrections are at higher order in $x$.
+
+#### Longcut
+
+There is a more elementary approach which effecitvely does the same
+thing.
+The basic point is first to note that, from the binomial theorem,
+
+$$
+(1 + x)^n = 1 + \binom{n}{1}x + \binom{n}{2}x^2 + \cdots x^n \approx
+1 + nx
+$$
+
+for $|x| \ll 1$, since the higher order terms are much smaller.
+So the binomial approximation is true for whole numbers $n$.
+If we consider a fraction $q = m/n$, then $(1 + x)^q$ raised to the
+power $n$ should equal
+
+$$
+(1 + x)^{qn} = (1 + x)^{m} \approx 1 + mx \tag{1}\label{m}
+$$
+
+by the binomial theorem.
+Let's assume
+
+$$
+(1 + x)^{q} \approx 1 + \beta x,
+$$
+
+with some higher order terms we can ignore.
+Raising to the power $n$, we can use the binomial approximation for
+$n$ to get
+
+$$
+(1 + x)^{qn} \approx (1 + \beta x)^n \approx 1 + \beta n x.
+$$
+
+Comparing to (\ref{m}), we find that $\beta = m/n$, and hence the
+binomial approximation is true for positive rationals.
+We can add negative powers using the geometric series:
+
+$$
+\frac{1}{1 - x} = 1 + x + x^2 + \cdots \approx 1 + x,
+$$
+
+and hence for a negative rational $q = -m/n$,
+
+$$
+(1 + x)^q \approx (1 - x)^{m/n} \approx 1 - \frac{m}{n}x = 1 + qx,
+$$
+
+as required. Finally, there is arbitrary real $\alpha$. Rather than do
+anything fancy, I will simply 
