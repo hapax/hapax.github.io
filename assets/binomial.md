@@ -258,9 +258,7 @@ We can chain these observations together as follows:
 
 $$
 \begin{align*}
-6^{1/5} & = 36^{1/10} \\
-	& = 32^{1/10}\left(1 + \frac{1}{9}\right)^{1/10} \\
-	& =\sqrt{2}\left(1 + \frac{1}{9}\right)^{1/10} \\
+6^{1/5} = 36^{1/10} = 32^{1/10}\left(1 + \frac{1}{9}\right)^{1/10} & =\sqrt{2}\left(1 + \frac{1}{9}\right)^{1/10} \\
 	& \approx \sqrt{2} \cdot \left(1 + \frac{1}{10\cdot 9}\right).
 \end{align*}
 $$
