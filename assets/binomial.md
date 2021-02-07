@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Binomial blues"
+title:  "Binomial party tricks"
 categories: [Mathematics, Physics, Hacker]
 date:  2021-02-06
 ---
