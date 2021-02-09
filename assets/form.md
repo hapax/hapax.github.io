@@ -187,7 +187,7 @@ might have properties like mass or charge, and obey the curious dictates of quan
 but all this is packaged irreducibly and not worth further discussion.
 But if we try and unpack all these "simple" properties, we will find
 that, like the magic bag of Mary Poppins, a particle is much deeper
-than it first appears.
+than it first appears!
 The Large Hadron Collider does not produce evidence for tiny,
 structureless blobs at a rate of petabytes per second.
 Rather, it confirms that the universe is made of mathematics!
