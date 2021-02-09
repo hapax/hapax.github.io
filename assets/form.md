@@ -260,7 +260,18 @@ cardinal numbers in counting mammoths to topology in tying a knot to
 representation theory in colliding protons. We don't need magical
 access to the World of Forms to see these things.
 
-
+Similarly, the
+[unreasonable effectiveness of mathematics](https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html)
+for describing the world, first described by Wigner, seems no more
+unreasonable that the effectiveness of geology for describing
+earthquakes.
+We get the patterns from the world, clean them up, rebrand a little,
+and start connecting them together.
+The meta-patterns that emerge are remarkable, but the appearance of
+"unreasonable effectiveness" is the result of a largely successful PR
+campaign to divorce mathematical structures from their physical
+origins. As Einstein quipped, "Since the mathematicians have invaded
+the theory of relativity, I do not understand it myself anymore."
 
 #### Acknowledgments
 
