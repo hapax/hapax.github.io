@@ -303,7 +303,7 @@ The interested reader should check out Jame's Franklin's
 Aristotle's ideas applied to mathematics.
 
 Instead, I will pick on two smaller problems---uniqueness and
-approximation---taking Newton's laws as a concrete example.
+approximation of description---taking Newton's laws as a concrete example.
 Newton formulated his laws of motion in terms of forces and
 acceleration. Does the empirical robustness of these laws suggest that
 this is the only way to formulate them?
@@ -320,7 +320,11 @@ and particles without representation theory.
 That does not mean that the corresponding patterns do not exist, but
 rather, they can be described in other ways.
 
-These different descriptions are not isomorphic, 
+The second issue is approximation.
+We now know that Newton's laws are not correct, and break down in
+regimes far-removed from those of everyday experience, such as the
+very small (where quantum mechanics applies) or the very fast (where
+special relativity applies).
 
 #### Acknowledgments and references
 
