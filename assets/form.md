@@ -207,8 +207,11 @@ Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space according to special relativity.
 So, in summary, a particle transforms with the symmetries of empty space, and
 cannot be split into parts with this symmetry [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
+
 Lurking implicitly in the background is the whole framework of
-quantum mechanics.
+quantum mechanics, and in particular, that particles are *states in a
+Hilbert space*. In plain English, we can add and subtract states of a
+particle, and compare them to each other.
 
 Although it is indivisible in the sense of representation theory, this
 is a highly organised and multifaceted object. When philosophers of
