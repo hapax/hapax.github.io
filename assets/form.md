@@ -338,6 +338,19 @@ in mathematics (in subjects like analysis, topology, and statistics)
 and physics (perturbation theory and renormalisation).
 These make structural approximations robust, lawlike and explanatory.
 
+#### Conclusion
+
+I've argued that the nature of physical explanation is richer and more
+interesting than the reductionist account would have us believe.
+In order to explain the properties of shoes or particles, we seem
+obliged to believe in patterns which exist in addition to the things
+which make those patterns up.
+This not only jives with (and ontologically grounds) the notion of
+emergence, but also provides a handle on the metaphysics and
+epistemology of mathematical explanation.
+It tells us where math comes from, why it is unreasonably effective,
+and 
+
 #### Acknowledgments and references
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
