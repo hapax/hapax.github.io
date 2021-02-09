@@ -152,7 +152,10 @@ all!
 The symmetries, order parameters, <!-- which measure their brokenness,
 and collective excitations which emerge as long-range messengers of
 disorder, a are not simply the microscopics "zoomed out".--> and
-collective excitations studied by condensed matter physicists are properties of the arrangements themselves.
+collective excitations studied by condensed matter physicists are
+properties of the arrangements themselves.
+Famously, systems made from totally different materials can
+exhibit the same behaviour [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>]!
 They are something new, something "over and above" the spins of the
 lattice, or the carbon atoms of a hexagonal monolayer, since different
 arrangements of those same parts would have different properties.
@@ -203,7 +206,7 @@ of being "indivisible".
 Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space, according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
-cannot be split into parts with this symmetry [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>].
+cannot be split into parts with this symmetry [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
 Lurking implicitly in the background is the whole framework of
 quantum mechanics.
 
@@ -240,6 +243,13 @@ Patricia Churchland were much more interested in abolishing psychology than shoe
 
 <div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
 href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+This is called <i>universality</i>, and can be explained using a
+technical doodad called renormalization. In a loose sense, this
+formalizes the notion of "zooming out".
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
+href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
 Particles can have other symmetries as well. An important class is
 gauge symmetry, consisting of "internal" degrees of freedom, like a
 dial on a gauge. These gauge symmetries are crucial to formulating the
