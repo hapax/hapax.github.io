@@ -40,8 +40,9 @@ universe? What sorts of objects are necessary for explanation? Does
 explanation go only upwards, or can it go downwards or sideways?
 Should we eliminate the things we explained? And what has explanation
 to do with existence anyway?
-This post hopefully adds a dash of Aristotelian novelty and modern
-physics to old (and in some cases hopelessly outdated) debates.
+This post is my attempt to unconfuse myself about some of these questions.
+<!-- adds a dash of novelty and modern
+physics to old (and in some cases hopelessly outdated) debates. -->
 
 #### The existence of shoes
 
@@ -287,15 +288,48 @@ The patterns are out there and always have been.
 
 #### What is a pattern?
 
-All this raises the question: what is a pattern?
+All this raises the question: what is a pattern? And how is it
+conjoined with stuff?
+The first and most famous philosophical treatment of these issues is
+the
+[hylomorphism of Aristotle](https://plato.stanford.edu/entries/form-matter/),
+who argued that objects are a compound of both form (the structure,
+order, or patterns I have discussed here) and matter (energy or "raw
+stuff", roughly speaking).
+I won't discuss Aristotle's ideas more here; suffice to say that have
+deeply informed this post.
+The interested reader should check out Jame's Franklin's
+[book](https://link.springer.com/book/10.1057/9781137400734) on
+Aristotle's ideas applied to mathematics.
+
+Instead, I will pick on two smaller problems---uniqueness and
+approximation---taking Newton's laws as a concrete example.
+Newton formulated his laws of motion in terms of forces and
+acceleration. Does the empirical robustness of these laws suggest that
+this is the only way to formulate them?
+Not at all!
+There are two other distinct but equivalent formulations of classical
+mechanics, explaining the same things, making the same predictions,
+so in an important sense, *describing the same natural patterns*. This
+suggests to me that although patterns are discovered, *formalisms are
+invented*.
+To adopt some mathematical language, a pattern is the equivalence
+class of descriptions.
+There are ways to talk about quantum mechanics without Hilbert spaces,
+and particles without representation theory.
+That does not mean that the corresponding patterns do not exist, but
+rather, they can be described in other ways.
+
+These different descriptions are not isomorphic, 
 
 #### Acknowledgments and references
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
 structuralism and many inspiring conversations over the years.
-Rewatching
-[his 2017 debate with James Fodor](https://www.youtube.com/watch?v=W0j25NteoXc)
-inspired this post.
+His ideas (as articulated in
+[this 2017 debate with James Fodor](https://www.youtube.com/watch?v=W0j25NteoXc))
+inspired and informed this post.
+
 In terms of literature, I've been particularly influenced by James
 Franklin's book,
 [*An Aristotelian realist view of mathematics](https://link.springer.com/book/10.1057/9781137400734).
