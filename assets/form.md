@@ -206,23 +206,24 @@ of being "indivisible".
 Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space according to special relativity.
 So, in summary, a particle transforms with the symmetries of empty space, and
-cannot be split into parts with this symmetry [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
-
+cannot be split into parts with this symmetry
+[<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
 Lurking implicitly in the background is the whole framework of
 quantum mechanics, and in particular, that particles are *states in a
 Hilbert space*. In plain English, we can add and subtract states of a
 particle, and compare them to each other.
 
-Although it is indivisible in the sense of representation theory, this
-is a highly organised and multifaceted object. When philosophers of
-science eagerly assent to believe whatever the particle physicists
-tell them, particularly when it can be tested with unparalleled
-precision at the LHC, they may not realise what
+Thus, every particle is like a mathematical diamond: indivisible,
+multifacted, and structured up to its ears.
+When philosophers of science eagerly assent to believe whatever the particle physicists
+tell them, <!-- particularly when it can be tested with unparalleled
+precision at the LHC, --> they may not realise what
 they signed up for!
-They have signed up for spacetime, quantum mechanics, and symmetries;
-these three are welded indissolubly to form the most robust and
-fundamental objects in the universe.
-Even when an object is indivisible, structure is inescapable.
+Spacetime, quantum mechanics, and symmetries, the Lorentz group and
+Hilbert spaces; these are all welded indissolubly to form the most
+robust and fundamental objects in the universe.
+Even with something as indivisible as an electron, order is
+inescapable.
 
 #### Unreasonable effectiveness and natural patterns
 
