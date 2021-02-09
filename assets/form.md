@@ -332,10 +332,11 @@ such thing as a perfect circle in the real world, so we must be
 reasoning about something else.
 In both cases, the pattern is only *approximately* realised in
 nature. The edge is fuzzy.
-But approximation is itself subject to structural laws, appearing both
+But approximation is itself subject to structural laws, exhibiting
+patterns which appear both
 in mathematics (in subjects like analysis, topology, and statistics)
 and physics (perturbation theory and renormalisation).
-Approximation is everywhere and can be well-b
+These make structural approximations robust, lawlike and explanatory.
 
 #### Acknowledgments and references
 
