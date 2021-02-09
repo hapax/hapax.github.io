@@ -192,9 +192,10 @@ The Large Hadron Collider does not produce evidence for tiny,
 structureless blobs.
 Rather, it confirms at a rate of petabytes per second that the universe is made of mathematics.
 
-The state-of-the-art definition of a particle is (as
+The state-of-the-art definition of a particle is
+<!-- (as
 [this Quanta article](quantamagazine.org/what-is-a-particle-20201112)
-humorously explores) a bit of a mouthful: an irreducible
+humorously explores) --> a bit of a mouthful: an irreducible
 representation of the Lorentz group.
 In plain English, being a *representation* means that particles are
 objects with symmetries, in the same way a circle looks the same when
