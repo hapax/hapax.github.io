@@ -272,6 +272,8 @@ The meta-patterns that emerge are remarkable, but the appearance of
 campaign to divorce mathematical structures from their physical
 origins. As Einstein quipped, "Since the mathematicians have invaded
 the theory of relativity, I do not understand it myself anymore."
+The abstraction of pseudo-Riemannian geometry follows from the more
+concrete act of bouncing light off mirrors.
 
 #### Acknowledgments
 
