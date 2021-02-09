@@ -330,7 +330,6 @@ Hamiltonians?
 To me, this is like the old Platonist quibble that there is no
 such thing as a perfect circle in the real world, so we must be
 reasoning about something else.
-
 In both cases, the pattern is only *approximately* realised in
 nature. The edge is fuzzy.
 But approximation is itself subject to structural laws, appearing both
