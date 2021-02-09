@@ -332,7 +332,7 @@ inspired and informed this post.
 
 In terms of literature, I've been particularly influenced by James
 Franklin's book,
-[*An Aristotelian realist view of mathematics](https://link.springer.com/book/10.1057/9781137400734).
+[*An Aristotelian realist view of mathematics*](https://link.springer.com/book/10.1057/9781137400734).
 The SEP entries on
 [reductionism](https://plato.stanford.edu/entries/scientific-reduction/)
 and
