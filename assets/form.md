@@ -283,7 +283,7 @@ whose contributions to mathematics have been so profound and
 wide-ranging that he earned a Fields Medal (the Nobel prize in
 mathematics) for his contributions to low-dimensional topology.
 Once again, there is no mystery here. It is just the usual state of
-affairs, but without the Platonist delusions to get in the way.
+affairs, but without Platonist guff to distract us.
 The patterns are out there and always have been.
 
 #### What is a pattern?
