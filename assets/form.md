@@ -309,8 +309,8 @@ acceleration. Does the empirical robustness of these laws suggest that
 this is the only way to formulate them?
 Not at all!
 There are two other distinct but equivalent formulations of classical
-mechanics, explaining the same things, making the same predictions,
-so in an important sense, *describing the same natural patterns*. This
+mechanics, called Lagrangian and Hamiltonian mechanics, which explain
+the same things, making the same predictions, and so *describe the same natural patterns*. This
 suggests to me that although patterns are discovered, *formalisms are
 invented*.
 To adopt some mathematical language, a pattern is the equivalence
@@ -320,11 +320,18 @@ and particles without representation theory.
 That does not mean that the corresponding patterns do not exist, but
 rather, they can be described in other ways.
 
-The second issue is approximation.
-We now know that Newton's laws are not correct, and break down in
+The second issue is how accurate our descriptions must be.
+We know that Newton's laws are not correct, and break down in
 regimes far-removed from those of everyday experience, such as the
 very small (where quantum mechanics applies) or the very fast (where
 special relativity applies).
+Does this mean we must no longer believe in forces, or Lagrangians, or
+Hamiltonians?
+To me, this is like the old Platonist quibble that there is no
+such thing as a perfect circle in the real world, so we must be
+reasoning about something else.
+In both cases, the pattern is only *approximately* realised in
+nature. The edge is fuzzy.
 
 #### Acknowledgments and references
 
