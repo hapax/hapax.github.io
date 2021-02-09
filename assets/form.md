@@ -303,7 +303,7 @@ The interested reader should check out Jame's Franklin's
 Aristotle's ideas applied to mathematics.
 
 Instead, I will pick on two smaller problems---uniqueness and
-approximation of description---taking Newton's laws as a concrete example.
+approximation---taking Newton's laws as a concrete example.
 Newton formulated his laws of motion in terms of forces and
 acceleration. Does the empirical robustness of these laws suggest that
 this is the only way to formulate them?
@@ -330,8 +330,13 @@ Hamiltonians?
 To me, this is like the old Platonist quibble that there is no
 such thing as a perfect circle in the real world, so we must be
 reasoning about something else.
+
 In both cases, the pattern is only *approximately* realised in
 nature. The edge is fuzzy.
+But approximation is itself subject to structural laws, i.e. exhibits
+its own patterns, which appear both in mathematics (in subjects like
+analysis, topology, and statistics) and physics (perturbation theory,
+renormalisation).
 
 #### Acknowledgments and references
 
