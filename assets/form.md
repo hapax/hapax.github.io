@@ -152,7 +152,7 @@ all!
 The symmetries, order parameters, <!-- which measure their brokenness,
 and collective excitations which emerge as long-range messengers of
 disorder, a are not simply the microscopics "zoomed out".--> and
-collective excitations, are properties of the arrangements themselves.
+collective excitations studied by condensed matter physicists are properties of the arrangements themselves.
 They are something new, something "over and above" the spins of the
 lattice, or the carbon atoms of a hexagonal monolayer, since different
 arrangements of those same parts would have different properties.
