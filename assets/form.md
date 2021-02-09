@@ -243,9 +243,24 @@ And mathematics really is the study of order, or structure, or
 *patterns*, if you like, according to their own peculiar and abstract
 logic.
 Physics (and to a lesser extent the other sciences) study *natural
-patterns*, the way these 
+patterns*, the way these structures or forms of order are realised in
+the natural world.
+That applies not just to emergent behaviour like phases of matter, but
+even the crystalline makeup of an elementary particle.
 
-We can try to unravel these different puzzles.
+I have tried to motivate this perspective from the nature of physical
+explanation, but perhaps it can teach us something about the nature of
+mathematical explanation and its relation to the physical world.
+A common criticism of Platonism is that, if mathematical objects exist
+in some non-physical realm, the ability to do mathematics must involve
+some sort of extrasensory perception. Clearly, our ability to do
+mathematics must be grounded in physical experience, and here is a
+simple explanation: patterns are naturally realised everywhere, from
+cardinal numbers in counting mammoths to topology in tying a knot to
+representation theory in colliding protons. We don't need magical
+access to the World of Forms to see these things.
+
+
 
 #### Acknowledgments
 
