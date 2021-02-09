@@ -231,7 +231,7 @@ structuralism and many inspiring conversations over the years.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-As the quote suggests, the original eliminativists like Paul and
+To be fair, as the quote suggests, the original eliminativists like Paul and
 Patricia Churchland were much more interested in abolishing psychology than shoes.
 </p></div>
 
