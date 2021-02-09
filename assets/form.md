@@ -65,10 +65,10 @@ From the properties of the neutrons, protons and
 electrons, it seems we can work our way upwards, and infer everything
 else.
 The laws of quantum mechanics and electromagnetism determine the
-orbital structure of the atom; the valence shell of the atom
-determines how it can combine with other atoms to form chemicals; the
-structural motifs and functional groups of the polymers gives it the
-characteristic properties that the industrial chemist, the designer,
+orbital structure of the atom. The valence shell of the atom
+determines how it can combine with other atoms to form
+chemicals. Finally, the structural motifs and functional groups of the
+polymers gives it the properties the industrial chemist, the designer,
 and the cobbler exploit to make a shoe.
 Thus, some philosophers conclude, only electrons, protons, and
 neutrons exist.
