@@ -336,7 +336,7 @@ nature. The edge is fuzzy.
 But approximation is itself subject to structural laws, i.e. exhibits
 its own patterns, which appear both in mathematics (in subjects like
 analysis, topology, and statistics) and physics (perturbation theory,
-renormalisation).
+renormalisation, effective field theory).
 
 #### Acknowledgments and references
 
