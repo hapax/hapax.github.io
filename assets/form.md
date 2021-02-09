@@ -222,7 +222,7 @@ they signed up for!
 Spacetime, quantum mechanics, and symmetries, the Lorentz group and
 Hilbert spaces; these are all welded indissolubly to form the most
 robust and fundamental objects in the universe.
-Even with something as indivisible as an electron, order is
+Even with something as "simple" as an electron, order is
 inescapable.
 
 #### Unreasonable effectiveness and natural patterns
