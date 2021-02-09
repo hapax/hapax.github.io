@@ -12,7 +12,7 @@ date:  2021-01-26
 #### Introduction
 
 <span style="padding-left: 20px; display:block">
-Explanations come to an end somewhere.
+Explanations must come to an end somewhere.
 </span>
 
 <div style="text-align: right"><i>Ludwig Wittgenstein</i> </div>
@@ -23,8 +23,8 @@ In many ways, this describes the explanatory program of 20th century
 physics, which, starting from the 19th century puzzles of statistical mechanics,
 conjured up atoms, subatomic particles, the zoo of the Standard Model, and even
 tinier hypothetical entities like strings and spin foams.
-Most physicists spend their time in a lab, on a computer, or by a
-blackboard, trying to reduce complex things to simple things they understand.
+Most physicists spend their time in a lab, on a computer, or in front
+of a blackboard, trying to reduce complex things to simple things they understand.
 So like Platonism in mathematics, reductionism in physics simply makes
 a philosophy out of everyday practice.
 We break stuff down, so things reduce; we play abstractly with
@@ -35,12 +35,11 @@ caricature in which some things are emphasised at the cost of others.
 And given the reverence which which philosophers hold the considered
 ontological verdicts of science, it's worth asking: what does science really tell us about the
 universe? What sorts of objects are necessary for explanation? Does
-explanation go only upwards, or can it go downwards or sideways? Is
-there evidence for eliminativism? What has explanation to do with
-existence anyway?
-This post hopefully adds a dash of novelty, modern physics, and
-Aristotelian structuralism to old (and in some cases hopelessly outdated)
-debates.
+explanation go only upwards, or can it go downwards or sideways?
+Should we eliminate the things we explained? And what has explanation
+to do with existence anyway?
+This post hopefully adds a dash of Aristotelian novelty and modern
+physics to old (and in some cases hopelessly outdated) debates.
 
 #### The existence of shoes
 
