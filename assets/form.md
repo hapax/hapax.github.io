@@ -198,14 +198,14 @@ The state-of-the-art definition of a particle is
 humorously explores) --> a bit of a mouthful: an *irreducible
 representation of the Lorentz group*.
 In plain English, being a *representation* means that particles are
-objects with symmetries, in the same way a circle looks the same however
+objects which have or "transform with" symmetries, in the same way a circle looks the same however
 you rotate it.
 That it is *irreducible* means that it cannot be split into smaller
 parts which have the same symmetry, which is the mathematical avatar
 of being "indivisible".
 Finally, the symmetry itself, the *Lorentz group*, is the same group
 describing the shape of empty space according to special relativity.
-So, in summary, a particle has the symmetries associated with empty space, and
+So, in summary, a particle transforms with the symmetries of empty space, and
 cannot be split into parts with this symmetry [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
 Lurking implicitly in the background is the whole framework of
 quantum mechanics.
