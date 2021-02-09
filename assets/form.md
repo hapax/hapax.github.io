@@ -204,7 +204,7 @@ That it is *irreducible* means that it cannot be split into smaller
 parts which have the same symmetry, which is the mathematical avatar
 of being "indivisible".
 Finally, the symmetry itself, the *Lorentz group*, is the same group
-describing the shape of empty space, according to special relativity.
+describing the shape of empty space according to special relativity.
 So a particle obeys the symmetries associated with empty space, and
 cannot be split into parts with this symmetry [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>].
 Lurking implicitly in the background is the whole framework of
