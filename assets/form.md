@@ -198,7 +198,7 @@ The state-of-the-art definition of a particle is
 humorously explores) --> a bit of a mouthful: an irreducible
 representation of the Lorentz group.
 In plain English, being a *representation* means that particles are
-objects with symmetries, in the same way a circle looks the same when
+objects with symmetries, in the same way a circle looks the same however
 you rotate it.
 That it is *irreducible* means that it cannot be split into smaller
 parts which have the same symmetry, which is the mathematical avatar
