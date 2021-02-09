@@ -249,8 +249,8 @@ That applies not just to emergent behaviour like phases of matter, but
 even the crystalline makeup of an elementary particle.
 
 I have tried to motivate this perspective from the nature of physical
-explanation, but perhaps it can teach us something about the nature of
-mathematical explanation and its relation to the physical world.
+explanation, but perhaps it can teach us about mathematical
+explanation and its relation to the physical world.
 A common criticism of Platonism is that, if mathematical objects exist
 in some non-physical realm, the ability to do mathematics must involve
 some sort of extrasensory perception. Clearly, our ability to do
@@ -283,16 +283,33 @@ wide-ranging that he earned a Fields Medal (the Nobel prize in
 mathematics) for his contributions to low-dimensional topology.
 Once again, there is no mystery here. It is just the usual state of
 affairs, but without the Platonist delusions to get in the way.
+The patterns are out there and always have been.
 
-#### Acknowledgments
+#### What is a pattern?
+
+All this raises the question: what is a pattern?
+
+#### Acknowledgments and references
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
 structuralism and many inspiring conversations over the years.
+Rewatching
+[his 2017 debate with James Fodor](https://www.youtube.com/watch?v=W0j25NteoXc)
+inspired this post.
+In terms of literature, I've been particularly influenced by James
+Franklin's book,
+[*An Aristotelian realist view of mathematics](https://link.springer.com/book/10.1057/9781137400734).
+The SEP entries on
+[reductionism](https://plato.stanford.edu/entries/scientific-reduction/)
+and
+[mathematical structuralism](https://plato.stanford.edu/entries/structuralism-mathematics/)
+were also helpful (despite the analytic micro-quibbles).
 
 ---
 
 <!-- quantamagazine.org/what-is-a-particle-20201112 -->
 <!-- https://plato.stanford.edu/entries/scientific-reduction/-->
+<!-- https://plato.stanford.edu/entries/structuralism-mathematics/ -->
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
