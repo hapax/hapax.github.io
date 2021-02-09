@@ -2,12 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Reductionism, form and emergence"
+title:  "Reductionism and structure"
 categories: [Mathematics, Physics, Philosophy]
-date:  2021-01-26
+date:  2021-02-08
 ---
 
-**January 26, 2021.** *Various musings on the philosophies of science, mathematics, and Aristotle.*
+**February 8, 2021.** *Some philosophical reflections on the nature of
+  scientific explanation, structure, emergence, and the unreasonable
+  effectiveness of mathematics.*
 
 #### Introduction
 
@@ -227,7 +229,7 @@ inescapable.
 
 #### Unreasonable effectiveness and natural patterns
 
-#### Directions of explanation
+There is a 
 
 #### Acknowledgments
 
