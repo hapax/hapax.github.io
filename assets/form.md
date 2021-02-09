@@ -161,8 +161,8 @@ lattice, or the carbon atoms of a hexagonal monolayer, since different
 arrangements of those same parts would have different properties.
 We can turn Anderson's snappy slogan around:
 *different is more*. If arranging things differently gives them new
-and different properties, it is a sign of structure, which is more
-than the component parts themselves.
+and different properties, it is a sign of structure, and structure is
+something over and above the component parts themselves.
 <!-- often characterising phases of matter in terms of
 what are called *order parameters*, numbers which characterise the
 brokenness of a symmetry. -->
