@@ -229,7 +229,23 @@ inescapable.
 
 #### Unreasonable effectiveness and natural patterns
 
-There is a 
+It may feel like the argument has jumped from physical objects to
+mathematical objects in one fell, suspiciously Platonist swoop.
+Do we need Hilbert space, or might another mathematical concept
+suffice?
+And does Hilbert space really exist, or is it merely a useful human
+invention?
+If the latter, why so useful?
+This is intentionally designed to rhyme with our earlier statement
+that order is a robustly explanatory feature of the world, and
+distinct from the things that are ordered.
+And mathematics really is the study of order, or structure, or
+*patterns*, if you like, according to their own peculiar and abstract
+logic.
+Physics (and to a lesser extent the other sciences) study *natural
+patterns*, the way these 
+
+We can try to unravel these different puzzles.
 
 #### Acknowledgments
 
