@@ -275,6 +275,15 @@ the theory of relativity, I do not understand it myself anymore."
 The abstraction of pseudo-Riemannian geometry follows from the more
 concrete act of bouncing light off mirrors.
 
+More and more, we are seeing this converse of unreasonable
+effectiveness, where deep mathematical ideas are inspired by physics.
+The living embodiment of this trend is Ed Witten, a string theorist
+whose contributions to mathematics have been so profound and
+wide-ranging that he earned a Fields Medal (the Nobel prize in
+mathematics) for his contributions to low-dimensional topology.
+Once again, there is no mystery here. It is just the usual state of
+affairs, but without the Platonist delusions to get in the way.
+
 #### Acknowledgments
 
 I'd like to thank Leon Di Stefano for introducing me to Aristotelian
