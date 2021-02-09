@@ -333,10 +333,10 @@ reasoning about something else.
 
 In both cases, the pattern is only *approximately* realised in
 nature. The edge is fuzzy.
-But approximation is itself subject to structural laws, i.e. exhibits
-its own patterns, which appear both in mathematics (in subjects like
-analysis, topology, and statistics) and physics (perturbation theory,
-renormalisation, effective field theory).
+But approximation is itself subject to structural laws, appearing both
+in mathematics (in subjects like analysis, topology, and statistics)
+and physics (perturbation theory and renormalisation).
+Approximation is everywhere and can be well-b
 
 #### Acknowledgments and references
 
