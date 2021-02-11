@@ -18,8 +18,8 @@ permalink: /fun/
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 <!-- - ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
   essay on creativity and personality development. -->
-- [*D'Alembert's Principle]({{hapax.github.io}}/assets/D'Alembert/md). Review
-  of Andrew Crumey's playful novel about love, loss, and logic.
+- [*D'Alembert's Principle*]({{hapax.github.io}}/assets/D'Alembert/md). A
+  book review.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
