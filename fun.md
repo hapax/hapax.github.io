@@ -18,7 +18,7 @@ permalink: /fun/
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
 <!-- - ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
   essay on creativity and personality development. -->
-- [*D'Alembert's Principle*]({{hapax.github.io}}/assets/D'Alembert/md). A
+- [*D'Alembert's Principle*]({{hapax.github.io}}/assets/D'Alembert). A
   book review.
 
 <figure>
