@@ -100,7 +100,7 @@ continue so that it is defined at $s = 0$. From the [DLMF](https://dlmf.nist.gov
 $$
 \begin{align}
 \zeta(0, a)= \frac{1}{2} - a, \quad \zeta'(0, a) = \ln
-\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right),\label{zeta0}
+\left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right),\label{zeta0}\tag{1}
 \end{align}
 $$
 
@@ -111,9 +111,9 @@ We can define the associated *spectral zeta function*
 
 $$
   \begin{align}
-    \zeta_\mathcal{X}(s) & = \sum_{k \geq 0} \lambda_k^{-s}\label{zeta1}\\
+    \zeta_\mathcal{X}(s) & = \sum_{k \geq 0} \lambda_k^{-s}\label{zeta1}\tag{2}\\
    & = \sum_{k \geq 0}\frac{1}{\xi^s(k+s)^s} =
-      \xi^{-s}\zeta(s, a). \label{zeta2}
+      \xi^{-s}\zeta(s, a). \label{zeta2}\tag{3}
   \end{align}
 $$
   
@@ -123,9 +123,9 @@ to get
 $$
   \begin{align}
     \zeta'_\mathcal{X}(s) & = -\sum_{k \geq 0}
-                            \lambda_k^{-s}\log\lambda_k \label{zeta3}\\ 
+                            \lambda_k^{-s}\log\lambda_k \label{zeta3}\tag{4}\\ 
    & = \xi^{-s}\zeta'(s,a) - \xi^{-s}\log \xi \cdot \zeta(s,
-     a). \label{zeta4}
+     a). \label{zeta4}\tag{5}
   \end{align}
 $$
   
@@ -140,7 +140,7 @@ where $a_i$ are the eigenvalues of $A$, we also have
 $$
 \begin{equation}
     \zeta'_\mathcal{X}(0) = -\sum_{k \geq 0} \log \lambda_k = -\log
-    \det \mathcal{X}. \label{zeta5} 
+    \det \mathcal{X}. \label{zeta5} \tag{6}
 \end{equation}
 $$
 	
@@ -153,7 +153,7 @@ $$
                                 \cdot \zeta(0,a)\right] \notag \\
   & = \exp \left[-\ln \left(\frac{\Gamma(a)}{\sqrt{2\pi}}\right) +\log
     \xi\left(\frac{1}{2} - a\right) \right] \notag \\
-  & = \frac{\sqrt{2\pi}}{\Gamma(a) }\xi^{1/2-a}. \label{final}
+  & = \frac{\sqrt{2\pi}}{\Gamma(a) }\xi^{1/2-a}. \label{final}\tag{7}
   \end{align}
 $$
 
