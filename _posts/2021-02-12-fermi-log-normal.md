@@ -337,9 +337,7 @@ This is why we carve into subfactors we understand!
 
 #### Variance reduction in practice
 
-I'll end with some tips, or perhaps speculations, on when and how to
-factor.
-A simple one, however, is as follows: try generating over- and
+I'll end with a speculative rule of thumb for when to factor: try generating over- and
 underestimates for the factors and the product.
 In additive notation, go with the *smaller* of
 
