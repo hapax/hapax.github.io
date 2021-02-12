@@ -31,3 +31,13 @@ We're going to give a fanciful interpretation of this.
 Suppose as surveyor has two perpendicular rulers, call them $X$ and
 $Y$, with evenly spaced marks on each.
 The spacing on $X$ need not equal the spacing on $Y$.
+Now, suppose we have a length of wood we want to measure.
+First, we line up it up along the $X$ ruler and find the wood takes up
+$\Delta x = L$ marks.
+Then we line it up along the $Y$ ruler and obtain $\Delta y = L'$ marks.
+We try a bunch of other arrangements, and find that the number of
+marks always obeys
+
+$$
+\Delta x^2 + \left(\frac{L'}{L}\right)^2 \Delta y^2 = L^2.
+$$
