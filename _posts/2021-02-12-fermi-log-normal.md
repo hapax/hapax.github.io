@@ -11,8 +11,7 @@ date:  2021-01-04
   important factor is log normality, which occurs for large random
   products, also related to the mechanism underlying
   the Newcomb-Benford law for first digits. Another element is
-  variance-reduction through subestimates, and I offer some tips on
-  how to subestimate judiciously.*
+  variance-reduction through judicious subestimates.*
 
 #### Introduction
 
@@ -24,7 +23,7 @@ at greater length
 but I've never really found a satisfactory explanation for why they work.
 Order-of-magnitude is certainly a charitable margin of 
 error, but time and time again, I find they are better than they have any right to be!
-Clearly, there must be an underlying statistical explanation for this
+Clearly, there must be an underlying statistical explanation for this apparently
 unreasonable effectiveness.
 
 There are two key techniques: the use of geometric means, and the
@@ -61,7 +60,7 @@ $$
 \quad \sigma^2 = \sum_i \sigma_i^2,
 $$
 
-where the $Y_i$ has mean $\mu_i$ and variance $\sigma_i^2$.
+where the $Y_i$ have mean $\mu_i$ and variance $\sigma_i^2$.
 We say that $F$ has a *log-normal* distribution, since its log is
 normal.
 To get uniformity into the picture, we can zoom in on the region near
@@ -152,6 +151,7 @@ lukeprog does in
 [his tutorial](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates#Example_4__How_many_plays_of_My_Bloody_Valentine_s__Only_Shallow__have_been_reported_to_last_fm_)),
 we can happily Fermi estimate power-law distributed numbers without
 this advanced technology.
+
 Are Fermi estimates unreasonably effective in this context?
 Maybe.
 But the estimates work best in the high-density core where things look
@@ -230,7 +230,8 @@ powers, which follows the Newcomb-Benford law exactly:
 	</figure>
 
 Here is the Python code to generate it.
-You can check it for other numbers besides $2$ as well:
+You can check it for other numbers besides $2$ as well by simply
+changing the `power` variable:
 
 ```python
 import matplotlib.pyplot as plt
@@ -315,7 +316,7 @@ $$
 
 If log-normality is the science of Fermi estimates, picking
 variance-reducing subestimates is the art.
-But there is a connection to our earlier discussion.
+<!-- But there is a connection to our earlier discussion.
 I think the human error $\varepsilon_X$ will roughly mimic the
 empirical distribution of $Z$ we have seen in the world.
 If it is biased, so is $\varepsilon_X$; it we have only seen a few
@@ -323,11 +324,18 @@ examples, the variance of $\varepsilon_X$ will probably be large, and
 decrease roughly as $1/k$ with $k$ examples.
 So the general strategy for variance reduction is to factorise into
 things we have seen before.
-We can even use these data points to generate subestimates by geometric averaging.
+We can even use these data points to generate subestimates by geometric averaging.-->
+But I suspect that $\hat{Z}$ roughly speaking behaves like a *test
+statistics* for $Z$, with the number of samples corresponding to how
+many data points for $Z$ we have encountered.
+So we expect that $\text{var}(\varepsilon_Z)$ will approach
+$\text{var}(Z)$ with more exposure to to $Z$.
+This is why we carve into subfactors we understand!
 
 #### Variance reduction in practice
 
-I'm not sure there is any particularly good rule of thumb for when to factor.
+I'll end with some tips, or perhaps speculations, on when and how to
+factor.
 A simple one, however, is as follows: try generating over- and
 underestimates for the factors and the product.
 In additive notation, go with the *smaller* of
@@ -371,8 +379,8 @@ For reference, the number of regions is $16$, while our mean is around
 $12$, and the average population is a bit over a million, while we've
 overestimated at $2.25$ million.
 But the two balance out and give a better overall estimate.
-This suggests a diversity of prediction mechanism is at play with subestimates, but I haven't worked out the details.
-
+<!-- This suggests a diversity of prediction mechanism is at play with -->
+<!-- subestimates, but I haven't worked out the details. -->
 All this suggests that, while there is considerable art, there is also
 some solid statistics underlying the effectiveness of Fermi
 estimates.
