@@ -397,7 +397,7 @@ def dice_roll(n):
 	return int(6*x) + 1
 ```
 
-It's difficult to prove that dice exhibit chaotic dynamics.
+It's difficult to rigorously show that dice exhibit chaotic dynamics.
 But hopefully our proofs-of-concept suggest that in deterministic games of
 chance, you really are dicing with chaos.
 
