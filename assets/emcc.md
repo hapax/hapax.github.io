@@ -3,8 +3,8 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Dave's Faves: E = mc²"
-categories: [Physics, Hacks]
-date:  2020-03-??
+categories: [Physics, Hacks, Faves]
+date:  2021-02-13
 ---
 
-**March ?, 2020.** *Stuff*
+**February 13, 2021.** *A*
