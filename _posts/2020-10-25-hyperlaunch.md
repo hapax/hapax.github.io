@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A SpaceLoop oompoc"
+title:  "A HyperLaunch oompoc"
 categories: [Physics, Engineering]
 date:  2020-10-25
 ---
@@ -35,21 +35,21 @@ proposed a wacky, high-speed alternative to trains: the *hyperloop*,
 a pneumatic tube for people. In this post, I conduct an initial
 feasibility study for combining these two ideas, and launching rockets
 into space with *vertical* hyperloops.
-I call this the "SpaceLoop", though I originally toyed with "hyperlauncher".
+I call this the "HyperLaunch", though I originally toyed with "SpaceLoop".
 
 Since this is merely a feasibility analysis, I will ignore most of the
 important engineering problems, and focus on the physics.
 And even though I am focusing on the physics, I will adopt a
 philosophy of order-of-magnitude (oom) estimates, which I call
 *oomism*.
-I state for the record that "oomism" and the "SpaceLoop" are very,
+I state for the record that "oomism" and the "HyperLaunch" are very,
 very serious business.
 
 *Note: pictures to come.*
 
 #### 1.1. The basic design<a id="sec-2-1" name="sec-2-1"></a>
 
-The basic idea of the SpaceLoop is simple.
+The basic idea of the HyperLaunch is simple.
 Take a giant cylinder, stretching from the ground to the top of the
 atmosphere, and put a "plunger" inside which can move up and down,
 just like a French press.
@@ -62,7 +62,7 @@ pushes the plunger into the vacuum above it, from ground level to the
 top of the atmosphere, where the object, if it has acquired enough
 energy, is liberated from the earth's gravitational pull.
 If you prefer household objects to technocrats, we can think of the
-SpaceLoop as a French press combined with a vacuum cleaner.
+HyperLaunch as a French press combined with a vacuum cleaner.
 
 In the next section, we'll discuss simple models of atmospheric
 pressure, and check that our scheme can, in principle, launch objects
@@ -588,7 +588,7 @@ $$
 V = 2\pi R d H = 2700 X \text{ m}^3.
 $$
 
-A cubic meter of steel costs around $\text{USD}4000$, so the raw materials for a SpaceLoop a couple of scale
+A cubic meter of steel costs around $\text{USD}4000$, so the raw materials for a HyperLaunch a couple of scale
 heights high will cost a mere $\text{USD}22$ million dollars, ignoring
 savings due to tapering thickness.
 This sounds very promising, but of course, the real problem is weight.
@@ -629,6 +629,6 @@ Please leave a comment or drop me an email if you spot any errors, or
 have suggestions for improving the design.
 Perhaps one day we will leave the world of kerosene and boosters
 behind us, and embark on a bold new age of rockets on frisbees sucked by vacuum cleaners up a
-French press and spat out through a camera shutter: a SpaceLoop
+French press and spat out through a camera shutter: a HyperLaunch
 to the stars.
 Then again, maybe not.
