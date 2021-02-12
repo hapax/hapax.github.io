@@ -327,10 +327,12 @@ So the general strategy for variance reduction is to factorise into
 things we have seen before.
 We can even use these data points to generate subestimates by geometric averaging.-->
 But I suspect that $\hat{Z}$ roughly speaking behaves like a *test
-statistics* for $Z$, with the number of samples corresponding to how
+statistic* for $Z$, with the number of samples corresponding to how
 many data points for $Z$ we have encountered.
-So we expect that $\text{var}(\varepsilon_Z)$ will approach
-$\text{var}(Z)$ with more exposure to to $Z$.
+So we expect that $\text{var}(\varepsilon_Z)$ will vanish roughly as
+$1/k$ with $k$ samples.
+If we have more exposure to the distributions for $X$ and $Y$,
+the combined error will probably be smaller.
 This is why we carve into subfactors we understand!
 
 #### Variance reduction in practice
