@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The reasonable effectiveness of Fermi estimates"
 categories: [Physics, Hacks, Mathematics, Statistics]
-date:  2021-01-04
+date:  2021-02-12
 ---
 
-**January 4, 2021.** *Why are Fermi approximations so effective? One
+**February 12, 2021.** *Why are Fermi approximations so effective? One
   important factor is log normality, which occurs for large random
   products, also related to the mechanism underlying
   the Newcomb-Benford law for first digits. Another element is
