@@ -309,7 +309,7 @@ $\varepsilon_X$ and $\varepsilon_Y$.
 There is no reason for the variances of $\varepsilon_X$ and $\varepsilon_Y$
 to add up to the variance of $\varepsilon_Z$.
 The sum could be bigger, or it could be smaller.
-A judicious decomposition should reduce the combined variance:
+But a good decomposition should reduce the combined variance:
 
 $$
 \text{var}(\varepsilon_X) + \text{var}(\varepsilon_Y) < \text{var}(\varepsilon_Z).
