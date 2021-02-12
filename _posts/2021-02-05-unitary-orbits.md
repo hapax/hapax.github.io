@@ -236,9 +236,9 @@ $$
 r^2 = C_d\sum_{J=1}^K \mu_J^2\left(P_J - \frac{1}{d}\right)^2.
 $$
 
-Note that, unlike the Bloch ball, while mixed states are closer to the
-maximally mixed state, they do not lie inside the orbit of pure states
-since they typically have more dimensions.
+Note that while mixed states are closer to the
+maximally mixed state, unlike the Bloch ball, they do not lie inside the orbit of pure states.
+Typically, they have more dimensions!
 For instance, a generic point with no symmetries (distinct $p_i$), the cosets are of the form
 
 $$
