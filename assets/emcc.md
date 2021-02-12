@@ -17,7 +17,7 @@ Pythagoras's theorem states that if we have a right triangle with
 short sides $a$, $b$ and long side (hypotenuse) $c$, they obey
 
 $$
-a^2 + b^2 = c^2. \tag{1} \label{pythag}
+a^2 + b^2 = c^2.
 $$
 
 This is a mathematical theorem proved by Pythagoras or one of his
@@ -26,7 +26,7 @@ But the result was known much earlier, for instance by Babylonian surveyors.
 It's possible they thought of it as a mathematical result, but in many
 ways, our ideas of what constitutes theorem and proof was invented by
 the Greeks.
-More likely, the surveyors regarded (\ref{pythag}) as a useful
+More likely, the surveyors regarded this as a useful
 *empirical* fact about distance.
 
 We're going to give a fanciful interpretation of this.
@@ -39,13 +39,22 @@ First, we line up it up along the $X$ ruler and find the wood takes up
 $\Delta x = L$ marks.
 Then we line it up along the $Y$ ruler and obtain $\Delta y = L'$
 marks.
-It seems like each $y$ unit is $\Lambda = L'/L$ units of $x$.
+It seems like each $y$ unit corresponds to $\Lambda$ units of $x$, where
+
+$$
+\Lambda = \frac{L'}{L}.
+$$
+
 If we any other arrangement of the wood, we'll find that the number of
 marks always obeys
 
 $$
-\Delta x^2 + \Lambda^2 \Delta y^2 = L^2.
+\Delta x^2 + \Lambda^2 \Delta y^2 = L^2. \tag{1} \label{pythag}
 $$
 
-It seems reasonable to interpret the length as $L$.
-But more than this, 
+It seems reasonable to *define* the length of the wood as $L$.
+The formula (\ref{pythag}) gives a rule for calculating it.
+
+#### Rotations
+
+This is 
