@@ -260,7 +260,8 @@ $(d-1)$-simplex $\Delta_{d-1}$, but because they are arranged in decreasing orde
 they live on the simplicial "wedge":
 
 $$
-W_{d-1} = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_i \geq 0\right\}.
+W_{d-1} = \left\{(p_1, \ldots, p_d) : \sum_{i=1}^d p_i = 1, p_1 \geq
+p_2 \geq \cdots \geq p_d \geq 0\right\}.
 $$
 
 Note that the subscript denotes the number of independent
