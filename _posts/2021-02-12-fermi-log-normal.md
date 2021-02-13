@@ -382,10 +382,20 @@ which we've mildly overestimated at $1.6$ million.
 The two balance out and give a better overall estimate.
 <!-- This suggests a diversity of prediction mechanism is at play with -->
 <!-- subestimates, but I haven't worked out the details. -->
-All this suggests that, while there is considerable art, there is also
-some solid statistics underlying the effectiveness of Fermi
-estimates.
-They're not so unreasonable after all!
+
+#### Conclusion
+
+From a statistical perspective, Fermi estimates are based on two
+techniques: geometric means and splitting into subfactors.
+We usually estimate things which can be expressed as a product of many
+factors. These will tend towards a log-normal distribution by the (log
+of the) central limit theorem, so that geometric means provide a good
+estimator, exactly like the usual mean for normally distributed variables.
+Subestimates, on the other hand, carve guesses into factors we
+understand, i.e. have more data points for, so that (assuming they
+behave like test statistics) variance is reduced.
+The effectiveness of Fermi estimates is quite reasonable after all!
+<!-- They're not so unreasonable after all! -->
 
 <!-- There is an art to making over- and underestimates
 that accurately reflect the variance of our error random variables,
