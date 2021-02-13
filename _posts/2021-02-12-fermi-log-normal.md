@@ -34,7 +34,7 @@ digits known as the
 We give a looser but related explanation of the second in terms of strategies for
 variance-reduction in human error. -->
 
-#### Products and logarithmic uniformity
+#### Products and log-normality
 
 There are two key techniques: the use of geometric means, and the
 factorisation into subestimates.
@@ -65,7 +65,7 @@ $$
 where the $Y_i$ have mean $\mu_i$ and variance $\sigma_i^2$.
 We say that $F$ has a *log-normal* distribution, since its log is
 normal.
-To get uniformity into the picture, we can zoom in on the region near
+<!-- To get uniformity into the picture, we can zoom in on the region near
 $F = e^\mu$ where the probability density is approximately uniform.
 More carefully, the density is
 
@@ -90,7 +90,7 @@ $$
 
 and $\text{erf}(1/\sqrt{18}) \approx 0.26$, about a quarter of the
 probability mass, lies underneath.
-This is what we mean when we say that $F$ is logarithmically uniform.
+This is what we mean when we say that $F$ is logarithmically uniform. -->
 
 #### Geometric means
 
