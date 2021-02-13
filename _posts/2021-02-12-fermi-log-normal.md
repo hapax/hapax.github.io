@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The reasonable effectiveness of Fermi estimates"
+title:  "The statistical basis of Fermi estimates"
 categories: [Physics, Hacks, Mathematics, Statistics]
 date:  2021-02-12
 ---
