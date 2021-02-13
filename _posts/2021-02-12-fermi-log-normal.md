@@ -9,8 +9,8 @@ date:  2021-02-12
 
 **February 12, 2021.** *Why are Fermi approximations so effective? One
   important factor is log normality, which occurs for large random
-  products, also related to the mechanism underlying
-  the Newcomb-Benford law for first digits. Another element is
+  products. <!--, also related to the mechanism underlying
+  the Newcomb-Benford law for first digits.--> Another element is
   variance-reduction through judicious subestimates. I give some
   tips for the latter.*
 
@@ -27,17 +27,18 @@ error, but time and time again, I find they are better than they have any right 
 Clearly, there must be an underlying statistical explanation for this apparently
 unreasonable effectiveness.
 
-There are two key techniques: the use of geometric means, and the
-factorisation into subestimates.
-We will try to explain the first using logarithmic uniformity, which is
+<!-- We will try to explain the first using logarithmic uniformity, which is
 the same mechanism underlying the anomalous distribution of first
 digits known as the
 [Newcomb-Benford law](https://en.wikipedia.org/wiki/Benford%27s_law).
 We give a looser but related explanation of the second in terms of strategies for
-variance-reduction in human error.
+variance-reduction in human error. -->
 
 #### Products and logarithmic uniformity
 
+There are two key techniques: the use of geometric means, and the
+factorisation into subestimates.
+We start with geometric means.
 Suppose a random variable $F$ is a product of many independent random
 variables,
 
@@ -175,7 +176,7 @@ random variables.
 The magic of geometric means manifests most
 strongly in the near-uniform blob at the centre. -->
 
-#### The Newcomb-Benford law
+<!-- #### The Newcomb-Benford law
 
 Logarithmic uniformity also explains an odd pattern in the first
 digits of naturally occurring numbers like tax returns, stock market
@@ -279,11 +280,11 @@ $x_n$ jumps randomly around the unit interval, and forms an
 "equidistribution" which spends equal times in equal areas.
 For a proof, see Tabachnikov's book.
 But although the fundamental cause is different, the outcome is still
-logarithmic uniformity, and the Newcomb-Benford law results.
+logarithmic uniformity, and the Newcomb-Benford law results. -->
 
 #### The philosophy of subestimates
 
-Now we've dealt with geometric means and logarithmic uniformity, we
+Now we've dealt with geometric means and log-normality, we
 turn to the effectiveness of factorising a Fermi estimate.
 If we take logarithms, factors become summands, and we'll reason about those since they are simpler.
 If $Z = X + Y$ is a sum of independent random variables, the variance
