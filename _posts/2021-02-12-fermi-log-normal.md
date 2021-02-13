@@ -338,8 +338,8 @@ This is why we carve into subfactors we understand!
 #### Variance reduction in practice
 
 I'll end with a speculative rule of thumb for when to factor: try generating over- and
-underestimates for the factors and the product.
-In additive notation, go with the *smaller* of
+underestimates for the factors and the product, which in additive
+notation give
 
 $$
 (\Delta X)^2 + (\Delta Y)^2, \quad (\Delta Z)^2
@@ -347,6 +347,7 @@ $$
 
 where $\Delta$ refers to the difference of the (logarithm of the) over-
 and underestimate.
+Factorise if the first estimated error is smaller than the second.
 Let's illustrate by returning to the population of Chile.
 I can try factoring it into a number of regions multiplied by the
 average number of people per region.
@@ -360,26 +361,25 @@ $$
 On the other hand, for regions I would
 make a lower guess of $5$ and an upper guess of $30$, with a difference in logs of $(\Delta X)^2 = 0.6$.
 For regional population, I would make a lower guess of $5\times 10^5$ and an
-upper guess of $10^7$, with $(\Delta Y)^2 = 1.7$.
+upper guess of $5\ times 10^6$, with $(\Delta Y)^2 = 1$.
 Thus,
 
 $$
-(\Delta X)^2 + (\Delta Y)^2 = 2.3 < 4 = (\Delta Z)^2.
+(\Delta X)^2 + (\Delta Y)^2 = 1.6 < 4 = (\Delta Z)^2.
 $$
 
 The guess from the factorisation (taking geometric means) is
 
 $$
-\sqrt{5 \times 30 \times (5\times 10^5) \times 10^7} \approx 27 \text{
+\sqrt{5 \times 30 \times (5\times 10^5) \times (5\times 10^6)} \approx 19 \text{
 million}.
 $$
 
-Logarithmically, this is indeed closer to the actual population than
-our earlier guess.
-For reference, the number of regions is $16$, while our mean is around
-$12$, and the average population is a bit over a million, while we've
-overestimated at $2.25$ million.
-But the two balance out and give a better overall estimate.
+This is much closer to the actual population!
+For reference, the number of regions is $16$, while our estimated mean is around
+$12$, and the average population per region is a bit over a million,
+which we've mildly overestimated at $1.6$ million.
+The two balance out and give a better overall estimate.
 <!-- This suggests a diversity of prediction mechanism is at play with -->
 <!-- subestimates, but I haven't worked out the details. -->
 All this suggests that, while there is considerable art, there is also

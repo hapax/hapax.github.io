@@ -57,4 +57,7 @@ The formula (\ref{pythag}) gives a rule for calculating it.
 
 #### Rotations
 
-This is 
+This rule does not merely give us a definition for length, however.
+It also gives us some hints about how to transform $x$ values into $y$
+values generally.
+We noted already that we can directly 
