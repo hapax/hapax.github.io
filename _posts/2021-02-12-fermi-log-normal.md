@@ -361,7 +361,7 @@ $$
 On the other hand, for regions I would
 make a lower guess of $5$ and an upper guess of $30$, with a difference in logs of $(\Delta X)^2 = 0.6$.
 For regional population, I would make a lower guess of $5\times 10^5$ and an
-upper guess of $5\ times 10^6$, with $(\Delta Y)^2 = 1$.
+upper guess of $5\times 10^6$, with $(\Delta Y)^2 = 1$.
 Thus,
 
 $$
