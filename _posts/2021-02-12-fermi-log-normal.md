@@ -65,6 +65,7 @@ $$
 where the $Y_i$ have mean $\mu_i$ and variance $\sigma_i^2$.
 We say that $F$ has a *log-normal* distribution, since its log is
 normal.
+
 <!-- To get uniformity into the picture, we can zoom in on the region near
 $F = e^\mu$ where the probability density is approximately uniform.
 More carefully, the density is
