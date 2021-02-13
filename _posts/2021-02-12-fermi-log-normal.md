@@ -375,7 +375,7 @@ $$
 million}.
 $$
 
-This is much closer to the actual population!
+This is super close!
 For reference, the number of regions is $16$, while our estimated mean is around
 $12$, and the average population per region is a bit over a million,
 which we've mildly overestimated at $1.6$ million.
