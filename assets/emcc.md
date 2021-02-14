@@ -9,11 +9,18 @@ date:  2021-02-13
 
 **February 13, 2021.** *A*
 
-#### Introduction
+### Contents
+
+1. <a href="#sec-1">Introduction</a>
+2. <a href="#sec-2">A Pythagorean parallel</a>
+3. <a href="#sec-3">Dilation and contraction</a>
+4. <a href="#sec-3">Momentum</a>
+
+#### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 Relativity is really just the bizarro version of trigonometry.
 
-#### A Pythagorean prelude
+#### 2. A Pythagorean parallel <a id="sec-2" name="sec-2"></a>
 
 We start by presenting Pythagoras' theorem in a
 slightly odd way.
@@ -66,7 +73,7 @@ In particular, $s^2 = 0$ for the measurements defining a light ray
 whatever speed *we* are moving, and hence light always travels with
 velocity $c$.
 
-#### Dilation and contraction
+#### 3. Dilation and contraction <a id="sec-3" name="sec-3"></a>
 
 We can use the invariance of $s^2$ to quickly deduce that time dilates
 and length contracts.
@@ -104,8 +111,14 @@ Note that $\gamma \geq 1$, so that less proper time ($\Delta \tau$)
 passes for the clock than elapsed time ($\Delta t$) measured in our reference frame.
 Thus, the moving clock appears to slow down, a phenomenon called *time
 dilation*.
+This implies a result for moving rulers, see <a href="#sec-A">below</a>.
 
-This immediately implies a result for moving rulers.
+#### 4. Momentum <a id="sec-4" name="sec-4"></a>
+
+The
+
+#### A. Length contraction <a id="sec-A" name="sec-A"></a>
+
 Suppose a ruler passes us by at speed $v$.
 We can deduce its apparent length $L'$ by timing how long it takes
 ($\Delta \tau$) to pass some specific spot:
