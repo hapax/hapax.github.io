@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Why does <i>E</i> = <i>mc</>²?"
+title:  "Why does <i>E</i> = <i>mc</i>²?"
 categories: [Physics, Hacks]
 date:  2021-02-13
 ---
