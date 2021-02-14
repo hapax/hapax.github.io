@@ -61,8 +61,8 @@ The ratio between units of $x$ and units of $t$ is given by $c$.
 The expression $s^2(\Delta x, \Delta t)$ defines a "spacetime length",
 obeying a "spacetime Pythagoras' theorem" which means that $s^2$ does
 not change even when we speed up or slow down.
-In particular, $s^2 = 0$ for a light ray whatever speed we measure at,
-and hence the speed of light is always $c$.
+In particular, $s^2 = 0$ for a light ray whatever speed *we* are
+moving when we measure, and hence light always travels with velocity $c$.
 
 #### Dilation and contraction
 
