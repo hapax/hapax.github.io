@@ -136,7 +136,24 @@ $$
 
 for some factor $\alpha$ and new rulers $x', t'$. These factors of
 $\alpha$ will cancel when we take the product.
-<!-- , ensuring that $s^2$ -->
+This is related to the relative velocity between frames of reference
+by the clock example.
+In its own frame (rulers $x, t$), the clock experiences a proper time $\Delta \tau$.
+In our frame (rulers $x', t'$), the clocks travels a distance $\Delta x'
+= v \Delta t' = v\gamma \Delta \tau$.
+So
+
+$$
+\Delta x^\pm = \pm c \Delta \tau, \quad (\Delta x')^\pm = \Delta x' \pm
+c\Delta t' = (v \pm c)\gamma \Delta \tau.
+$$
+
+Hence,
+
+$$
+\alpha = \frac{(v + c)\gamma \Delta \tau}{-c\Delta \tau} =
+-\left(1 + \frac{v}{c}\right)\gamma.
+$$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
