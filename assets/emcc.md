@@ -23,15 +23,16 @@ We can measure lengths, say of a plank of wood, in this system, by
 simply recording the number of marks it takes up on ruler $x$, call it
 $\Delta x$, and the number of marks taken up on $y$, called $\Delta
 y$.
-Then however we choose to orient the plank of wood or the rulers
-themselves, we find that
+Pythagoras’ theorem means that, however we choose to orient the plank
+of wood or the rulers themselves, we always find
 
 $$
 d(\Delta x, \Delta y) = \Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
 $$
 
-for some number $L$.
-It seems reasonable to define $L$ as the length of the wood.
+for some fixed number $L$, depending only on the piece of wood we've
+chosen to measure.
+It seems reasonable to define $L$ as its length.
 But even more importantly, the quantity $d(\Delta x, \Delta y)$ *doesn't change with relative orientation*.
 
 Relativity parallels this setup closely.
