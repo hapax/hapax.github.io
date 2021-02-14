@@ -95,6 +95,9 @@ $$
 $$
 
 where we have defined the all-important *Lorentz factor* $\gamma$.
+Note that $\gamma \geq 1$, so that less proper time elapses ($\Delta \tau$) for the
+clock than we measure in our reference frame ($\Delta t$).
+Thus, the moving clock appears to slow down, a phenomenon called *time dilation*.
 
 ---
 
