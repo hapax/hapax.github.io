@@ -86,6 +86,16 @@ s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = -c^2\Delta
 t^2\left(1 - \frac{v^2}{c^2}\right).
 $$
 
+But since the spacetime length is invariant, we have
+
+$$
+-c^2 \Delta \tau^2 = -c^2\Delta t^2\left(1 - \frac{v^2}{c^2}\right)
+\quad \Longrightarrow \quad \frac{\Delta t}{\Delta \tau} =
+\frac{1}{\sqrt{1-(v/c)^2}} = \gamma,
+$$
+
+where we have defined the all-important *Lorentz factor* $\gamma$.
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
