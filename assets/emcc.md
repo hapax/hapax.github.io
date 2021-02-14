@@ -23,15 +23,17 @@ We can measure lengths, say of a plank of wood, in this system, by
 simply recording the number of marks it takes up on ruler $x$, call it
 $\Delta x$, and the number of marks taken up on $y$, called $\Delta
 y$.
-Then however we choose to orient the plank of wood, we find that
+Then however we choose to orient the plank of wood or the rulers
+themselves, we find that
 
 $$
 \Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
 $$
 
 for some number $L$.
-Since it doesn't change with orientation, it seems reasonable to define
-$L$ as the length of the wood.
+It seems reasonable to define $L$ as the length of the wood.
+But even more importantly, the quantity $\Delta x^2 + \Lambda^2\Delta
+y^2$ *doesn't change with relative orientation*.
 
 Relativity is almost exactly the same.
 Michelson and Morley's
