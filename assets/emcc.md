@@ -115,7 +115,14 @@ This implies a result for moving rulers, see <a href="#sec-A">below</a>.
 
 #### 4. Momentum <a id="sec-4" name="sec-4"></a>
 
-The
+In Newtonian mechanics, the momentum of a massive particle is defined
+as the mass times the velocity, $p = mv$.
+Importantly, momentum is conserved as long as no net forces act, so if
+two particles collide, the total momentum before and after is the
+same.
+In
+
+<!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
 #### A. Length contraction <a id="sec-A" name="sec-A"></a>
 
