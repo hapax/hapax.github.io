@@ -122,10 +122,9 @@ L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
 \gamma L',
 $$
 
-using time dilation to calculate the elapsed time as measured in the
-ruler's frame.
+using time dilation to relate $\Delta \tau$ to $\Delta t$.
 Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
-a factor $\gamma$.
+the Lorentz factor $\gamma$.
 This shortening is called *length contraction*.
 
 ---
