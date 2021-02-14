@@ -151,8 +151,8 @@ $$
 Hence,
 
 $$
-\alpha = \frac{(v + c)\gamma \Delta \tau}{-c\Delta \tau} =
--\left(1 + \frac{v}{c}\right)\gamma.
+\alpha = \frac{(\Delta x')^+}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{-c\Delta \tau} =
+-\left(1 + \frac{v}{c}\right)\gamma = -\sqrt{\frac{c+v}{c-v}}.
 $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
