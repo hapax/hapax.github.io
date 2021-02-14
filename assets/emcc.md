@@ -9,9 +9,12 @@ date:  2021-02-13
 
 **February 13, 2021.** *A*
 
-#### A Pythagorean prelude
+#### Introduction
 
 Relativity is really just the bizarro version of trigonometry.
+
+#### A Pythagorean prelude
+
 To make this clear, we start by presenting Pythagoras' theorem in a
 slightly odd way.
 Suppose we have rulers, $x$ and $y$, oriented at right angles
