@@ -2,18 +2,56 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Surveying special relativity"
-categories: [Physics, Hacks, Faves]
+title:  "Why does E = mc²?"
+categories: [Physics, Hacks]
 date:  2021-02-13
 ---
 
 **February 13, 2021.** *A*
 
-#### Introduction
+#### A Pythagorean prelude
 
-#### Pythagoras for mismtached rulers
+Relativity is really just the bizarro version of trigonometry.
+To make this clear, we start by presenting Pythagoras' theorem in a
+slightly odd way.
+Suppose we have rulers, $x$ and $y$, oriented at right angles
+[<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
+and which both have evenly spaced marks.
+An $x$ division need not equal a $y$ division, and in general will
+correspond to $\Lambda$ units of $y$.
+We can measure lengths, say of a plank of wood, in this system, by
+simply recording the number of marks it takes up on ruler $x$, call it
+$\Delta x$, and the number of marks taken up on $y$, called $\Delta
+y$.
+Then however we choose to orient the plank of wood, we find that
 
-Pythagoras's theorem states that if we have a right triangle with
+$$
+\Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
+$$
+
+for some number $L$.
+Since it doesn't change with orientation, it seems reasonable to define
+$L$ as the length of the wood.
+
+Relativity is almost exactly the same.
+Michelson and Morley's
+[famous experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
+in 1887 suggested that the speed of light does not depend on how you
+go when you measure it.
+Einstein arrived at the same conclusion by thinking long and hard
+about electrodynamics.
+To measure the speed of light, we use two rulers, $x$ and $t$, though
+the latter ruler is usually called a "clock".
+
+---
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+Or if you prefer, a grid of such rulers.
+</p></div>
+
+
+Recall Pythagoras's theorem: if you have a right-angled triangle with
 short sides $a$, $b$ and long side (hypotenuse) $c$, they obey
 
 $$
