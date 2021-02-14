@@ -42,8 +42,8 @@ change in relative orientation.
 Relativity parallels this setup closely.
 Michelson and Morley's
 [famous experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
-in 1887 suggested that the speed of light does not depend on how you
-go when you measure it.
+in 1887 suggested that the speed of light does not depend on how fast
+you are going when you measure it.
 Einstein arrived at the same conclusion by thinking long and hard
 about electrodynamics.
 To measure the speed of light, we use two rulers, $x$ and $t$, though
