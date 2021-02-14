@@ -52,7 +52,7 @@ $$
 s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
 $$
 
-The analogy is plain as day.
+The analogy is hopefully clear.
 Let's assume $s(\Delta x, \Delta t)$ obeys a version of Pythagoras’
 theorem for *spacetime*, meaning that the value of the expression does
 not change when we speed up or slow down.
