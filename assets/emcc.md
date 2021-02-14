@@ -62,6 +62,20 @@ not change when we speed up or slow down.
 This varies the relative orientation of the light ray with respect to
 the rulers, but the "spacetime length" $s^2 = 0$ remains the same.
 
+#### Dilation and contraction
+
+We can use the invariance of $s^2$ to quickly deduce that time dilates
+and length contracts.
+Consider a clock which ticks out time $\tau$ in its own frame of
+reference, i.e. where it is stationary.
+We call this the *proper time*.
+For a proper time interval $\Delta \tau$, the clock moves nowhere, so
+the spacetime length is
+
+$$
+s(0, \Delta \tau) = -c^2 \Delta \tau^2.
+$$
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
