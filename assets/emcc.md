@@ -119,9 +119,11 @@ the *proper length*, and it can be calculated by timing how long
 
 $$
 L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
-\gamma L'.
+\gamma L',
 $$
 
+using time dilation to relate the elapsed time as measured in the
+ruler's frame.
 Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 a factor $\gamma$.
 This shortening is called *length contraction*.
