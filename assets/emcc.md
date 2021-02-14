@@ -33,7 +33,7 @@ $$
 for some fixed number $L$, depending only on the piece of wood we've
 chosen to measure.
 It seems reasonable to define $L$ as its length.
-But even more importantly, the quantity $d^2(\Delta x, \Delta y)$ *doesn't change with relative orientation*.
+But even more importantly, the quantity $d^2$ *doesn't change with relative orientation*.
 
 Relativity parallels this setup closely.
 Michelson and Morley's
