@@ -53,10 +53,10 @@ s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
 $$
 
 The analogy is hopefully clear.
-Let's assume $s(\Delta x, \Delta t)$ obeys a version of Pythagoras’
+Let's assume $s^2(\Delta x, \Delta t)$ obeys a version of Pythagoras’
 theorem for *spacetime*, meaning that the value of the expression does
 not change when we speed up or slow down.
-These change the relative orientation of the light ray with respect to
+This varies the relative orientation of the light ray with respect to
 the rulers, but the "spacetime length" $s^2 = 0$ remains the same.
 
 ---
