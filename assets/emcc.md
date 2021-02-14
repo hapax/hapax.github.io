@@ -69,7 +69,8 @@ and length contracts.
 Consider a clock which ticks out time $\tau$ in its own frame of
 reference, i.e. where it is stationary.
 We call this the *proper time*.
-For a proper time interval $\Delta \tau$, the clock moves nowhere, so
+For a proper time interval $\Delta \tau$, the clock moves nowhere
+($\Delta x= 0$), so
 the spacetime length is
 
 $$
@@ -95,11 +96,33 @@ $$
 $$
 
 where we have defined the all-important *Lorentz factor* $\gamma$.
-Note that $\gamma \geq 1$, so that less proper time elapses ($\Delta \tau$) for the
-clock than we measure in our reference frame ($\Delta t$).
+Note that $\gamma \geq 1$, so that less proper time ($\Delta \tau$)
+passes for the clock than elapsed time ($\Delta t$) measured in our reference frame.
 Thus, the moving clock appears to slow down, a phenomenon called *time
 dilation*.
-We can derive a similar effect for moving rulers.
+
+This immediately implies a result for moving rulers.
+Suppose a ruler passes us by at speed $v$.
+We can deduce its apparent length $L'$ by timing how long it takes
+($\Delta \tau$) to pass some specific spot:
+
+$$
+L' = v\Delta \tau.
+$$
+
+I've used $\Delta \tau$ since the clock is stationary in our frame.
+The length $L$ of the ruler in its own frame of reference is called
+the *proper length*, and it can be calculated by timing how long
+($\Delta t$) our clock takes to pass from one end to the other:
+
+$$
+L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
+\gamma L'.
+$$
+
+Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
+a factor $\gamma$.
+This shortening is called *length contraction*.
 
 ---
 
