@@ -27,13 +27,13 @@ Pythagoras’ theorem means that, however we choose to orient the plank
 of wood or the rulers themselves, we always find
 
 $$
-d(\Delta x, \Delta y) = \Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
+d^2(\Delta x, \Delta y) = \Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
 $$
 
 for some fixed number $L$, depending only on the piece of wood we've
 chosen to measure.
 It seems reasonable to define $L$ as its length.
-But even more importantly, the quantity $d(\Delta x, \Delta y)$ *doesn't change with relative orientation*.
+But even more importantly, the quantity $d^2(\Delta x, \Delta y)$ *doesn't change with relative orientation*.
 
 Relativity parallels this setup closely.
 Michelson and Morley's
@@ -49,10 +49,15 @@ time $\Delta t$, so the speed is $c = \Delta x/\Delta t$.
 But we can rewrite this suggestively as
 
 $$
-s(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
+s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
 $$
 
-
+The analogy is plain as day.
+Let's assume $s(\Delta x, \Delta t)$ obeys a version of Pythagoras’
+theorem for *spacetime*, meaning that the value of the expression does
+not change when we speed up or slow down.
+These change the relative orientation of the light ray with respect to
+the rulers, but the "spacetime length" $s^2 = 0$ remains the same.
 
 ---
 
@@ -60,53 +65,3 @@ $$
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Or if you prefer, a grid of such rulers.
 </p></div>
-
-
-Recall Pythagoras's theorem: if you have a right-angled triangle with
-short sides $a$, $b$ and long side (hypotenuse) $c$, they obey
-
-$$
-a^2 + b^2 = c^2.
-$$
-
-This is a mathematical theorem proved by Pythagoras or one of his
-followers.
-But the result was known much earlier, for instance by Babylonian surveyors.
-It's possible they thought of it as a mathematical result, but in many
-ways, our ideas of what constitutes theorem and proof was invented by
-the Greeks.
-More likely, the surveyors regarded this as a useful
-*empirical* fact about distance.
-
-We're going to give a fanciful interpretation of this.
-Suppose a surveyor has two perpendicular rulers, call them $X$ and
-$Y$, with evenly spaced marks on each.
-The spacing on $X$ need not equal the spacing on $Y$, a fact which
-will actually be crucial.
-Now, suppose we have a length of wood we want to measure.
-First, we line up it up along the $X$ ruler and find the wood takes up
-$\Delta x = L$ marks.
-Then we line it up along the $Y$ ruler and obtain $\Delta y = L'$
-marks.
-It seems like each $y$ unit corresponds to $\Lambda$ units of $x$, where
-
-$$
-\Lambda = \frac{L'}{L}.
-$$
-
-If we any other arrangement of the wood, we'll find that the number of
-marks always obeys
-
-$$
-\Delta x^2 + \Lambda^2 \Delta y^2 = L^2. \tag{1} \label{pythag}
-$$
-
-It seems reasonable to *define* the length of the wood as $L$.
-The formula (\ref{pythag}) gives a rule for calculating it.
-
-#### Rotations
-
-This rule does not merely give us a definition for length, however.
-It also gives us some hints about how to transform $x$ values into $y$
-values generally.
-We noted already that we can directly 
