@@ -20,7 +20,7 @@ slightly odd way.
 Suppose we have rulers, $x$ and $y$, oriented at right angles
 [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
 and which both have evenly spaced marks.
-An $x$ division need not equal a $y$ division, and in general will
+An $x$-division need not equal a $y$-division, and in general will
 correspond to $\Lambda$ units of $y$.
 We can measure lengths, say of a plank of wood, in this system, by
 simply recording the number of marks it takes up on ruler $x$, call it
