@@ -122,7 +122,7 @@ L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
 \gamma L',
 $$
 
-using time dilation to relate the elapsed time as measured in the
+using time dilation to calculate the elapsed time as measured in the
 ruler's frame.
 Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 a factor $\gamma$.
