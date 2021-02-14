@@ -63,5 +63,5 @@ the rulers, but the "spacetime length" $s^2 = 0$ remains the same.
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-Or if you prefer, a grid of such rulers.
+Or if you prefer, an orthogonal grid of such rulers.
 </p></div>
