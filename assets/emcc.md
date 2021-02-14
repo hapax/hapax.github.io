@@ -27,15 +27,14 @@ Then however we choose to orient the plank of wood or the rulers
 themselves, we find that
 
 $$
-\Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
+d(\Delta x, \Delta y) = \Delta x^2 + \Lambda^2 \Delta y^2 = L^2,
 $$
 
 for some number $L$.
 It seems reasonable to define $L$ as the length of the wood.
-But even more importantly, the quantity $\Delta x^2 + \Lambda^2\Delta
-y^2$ *doesn't change with relative orientation*.
+But even more importantly, the quantity $d(\Delta x, \Delta y)$ *doesn't change with relative orientation*.
 
-Relativity is almost exactly the same.
+Relativity parallels this setup closely.
 Michelson and Morley's
 [famous experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
 in 1887 suggested that the speed of light does not depend on how you
@@ -43,7 +42,16 @@ go when you measure it.
 Einstein arrived at the same conclusion by thinking long and hard
 about electrodynamics.
 To measure the speed of light, we use two rulers, $x$ and $t$, though
-the latter ruler is usually called a "clock".
+the latter is usually called a "clock".
+The light travels between two points a distance $\Delta x$ apart in
+time $\Delta t$, so the speed is $c = \Delta x/\Delta t$.
+But we can rewrite this suggestively as
+
+$$
+s(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
+$$
+
+
 
 ---
 
