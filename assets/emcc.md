@@ -36,7 +36,8 @@ $$
 for some fixed number $L$, depending only on the piece of wood we've
 chosen to measure.
 It seems reasonable to define $L$ as its length.
-But even more importantly, the quantity $d^2$ *doesn't change with relative orientation*.
+But even more importantly, the quantity $d^2$ is *invariant* under a
+change in relative orientation.
 
 Relativity parallels this setup closely.
 Michelson and Morley's
@@ -59,8 +60,7 @@ The analogy is hopefully clear.
 Let's assume $s^2(\Delta x, \Delta t)$ obeys a version of Pythagoras’
 theorem for *spacetime*, meaning that the value of the expression does
 not change when we speed up or slow down.
-This varies the relative orientation of the light ray with respect to
-the rulers, but the "spacetime length" $s^2 = 0$ remains the same.
+The "spacetime length" $s^2 = 0$ is invariant under a change of speed.
 
 #### Dilation and contraction
 
@@ -73,7 +73,17 @@ For a proper time interval $\Delta \tau$, the clock moves nowhere, so
 the spacetime length is
 
 $$
-s(0, \Delta \tau) = -c^2 \Delta \tau^2.
+s^2(0, \Delta \tau) = -c^2 \Delta \tau^2.
+$$
+
+If the clock moves at speed $v$ in our reference frame, then in time
+$\Delta t$ (as measured by our clock), it moves a distance $\Delta x =
+v \Delta t$.
+Thus, the spacetime length is
+
+$$
+s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = -c^2\Delta
+t^2\left(1 - \frac{v^2}{c^2}\right).
 $$
 
 ---
