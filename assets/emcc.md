@@ -15,7 +15,7 @@ Relativity is really just the bizarro version of trigonometry.
 
 #### A Pythagorean prelude
 
-To make this clear, we start by presenting Pythagoras' theorem in a
+We start by presenting Pythagoras' theorem in a
 slightly odd way.
 Suppose we have rulers, $x$ and $y$, oriented at right angles
 [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
