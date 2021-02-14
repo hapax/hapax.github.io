@@ -50,17 +50,19 @@ To measure the speed of light, we use two rulers, $x$ and $t$, though
 the latter is usually called a "clock".
 The light travels between two points a distance $\Delta x$ apart in
 time $\Delta t$, so the speed is $c = \Delta x/\Delta t$.
-But we can rewrite this suggestively as
+We can rewrite this suggestively as
 
 $$
 s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = 0.
 $$
 
 The analogy is hopefully clear.
-Let's assume $s^2(\Delta x, \Delta t)$ obeys a version of Pythagoras’
-theorem for *spacetime*, meaning that the value of the expression does
-not change when we speed up or slow down.
-The "spacetime length" $s^2 = 0$ is invariant under a change of speed.
+The ratio between units of $x$ and units of $t$ is given by $c$.
+The expression $s^2(\Delta x, \Delta t)$ defines a "spacetime length",
+obeying a "spacetime Pythagoras' theorem" which means that $s^2$ does
+not change even when we speed up or slow down.
+In particular, $s^2 = 0$ for a light ray whatever speed we measure at,
+and hence the speed of light is always $c$.
 
 #### Dilation and contraction
 
