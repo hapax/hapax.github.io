@@ -183,7 +183,8 @@ Hence,
 
 $$
 \begin{align*}
-\Delta x' = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- & = \frac{e^\eta}{2}\Delta x^+ + \frac{e^{-\eta}}{2}\Delta
+\Delta x' & = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- \\
+& = \frac{e^\eta}{2}\Delta x^+ + \frac{e^{-\eta}}{2}\Delta
 	x^- \\
 	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
 	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
