@@ -257,7 +257,14 @@ This implies
 
 $$
 m_1u_1' = \frac{m_1(v + u)}{1+ uv/c^2} = m'v \quad \Longrightarrow
-\quad m_1 = \frac{m'(1+ uv/c^2)}{(1 + u/v)}
+\quad m_1 = \frac{m'(1+ uv/c^2)}{(1 + u/v)},
+$$
+
+and a similar result for $m_2$.
+This seems unhelpful, but there is an elegant way of rewrite this:
+
+$$
+\gamma_1 = \frac{1}{\sqrt{1-(u_1')^2/c^2}} = \frac{1 + uv/c^2}{\sqrt{(1-(u/c)^2)(1-(v/c)^2)}}
 $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
