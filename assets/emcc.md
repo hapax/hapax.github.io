@@ -192,7 +192,7 @@ u'' = \frac{v + u}{1+ uv/c^2}.
 $$
 
 This is the famous *velocity addition* formula.
-We do not just add $u$ and $v$!
+Remarkably, we don't just add $u$ and $v$!
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
