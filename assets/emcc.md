@@ -167,7 +167,7 @@ Then we have
 
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \frac{\Delta x'' + c\Delta
-t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}.
+t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}. \tag{2}\label{clock-u''}
 $$
 
 But we can also just use (\ref{alpha}) twice:
@@ -175,11 +175,11 @@ But we can also just use (\ref{alpha}) twice:
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \left(\frac{c+v}{c-v}\right)
 \frac{(\Delta x')^+}{(\Delta x')^-} = \left(\frac{c+v}{c-v}\right)
-\left(\frac{c+u}{c-u}\right) \frac{\Delta x+}{\Delta x^-} = - \left(\frac{c+v}{c-v}\right)
-\left(\frac{c+u}{c-u}\right).
+\left(\frac{c+u}{c-u}\right) \frac{\Delta x^+}{\Delta x^-} = - \left(\frac{c+v}{c-v}\right)
+\left(\frac{c+u}{c-u}\right). \label{double} \tag{3}
 $$
 
-Combining these two equations, we find that
+Combining equations (\ref{clock-u''}) and (\ref{double}), we find that
 
 $$
 \frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right).
@@ -188,12 +188,51 @@ $$
 After a little algebra, we can isolate $u''$ to find
 
 $$
-u'' = \frac{v + u}{1+ uv/c^2}.
+u'' = \frac{v + u}{1+ uv/c^2}. \tag{4} \label{add}
 $$
 
 This is the famous *velocity addition* formula!
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
+
+The last leg of our journey will take us to Newtonian mechanics, and
+*conservation laws* in particular.
+One way to characterise things bumping into each other is the
+momentum, $p = mv$.
+Newton's second law says this for a collection of particles not
+subject to a force, the momentum cannot change, so in particles,
+momentum is conserved by particle collisions unless some force acts
+from outside.
+As a simple example, suppose a stationary particle of mass $2m$ splits
+into two equal halves.
+Assuming mass is conserved, each half has mass $m$, and since the
+initial momentum is zero, so is the final momentum, with
+
+$$
+p_0 = 0 = p_1 + p_2, \quad p_1 = mu, \quad p_2 = -mu,
+$$
+
+i.e. one half speeds off to the right at speed $u$, the other to the
+left at $-u$.
+All this reasoning works in special relativity as well, at least in the frame
+where the initial particle is at first.
+But now suppose that, from our perspective, the initial particle is
+already moving to the right at speed when it decays.
+Naively, it seems like it should have momentum $p_0' = 2mv$, and the from the
+addition formula (\ref{add}), the two halves will have momenta
+
+$$
+p_1' = \frac{m(v + u)}{1+ uv/c^2}, \quad p_2' = \frac{m(v - u)}{1- uv/c^2}.
+$$
+
+It's clear that, in general, $p_0' \neq p_1' + p_2'$, since
+
+$$
+p_1' + p_2' = \frac{m(v + u)}{1+ uv/c^2} + \frac{m(v + u)}{1- uv/c^2}
+= \frac{2m(u + v)}{1 - u^2 v^2/c^4}.
+$$
+
+This only equals $p_0' = 2mv$ when $u = 0$.
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
@@ -232,34 +271,3 @@ This shortening is called *length contraction*.
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Or if you prefer, an orthogonal grid of such rulers.
 </p></div>
-
-never changes.
-In <a href="#sec-B">appendix B</a>, we use this to derive the explicit
-form of this change, but we won't need it here.
-Instead, consider the moving clock example, which has $\Delta x = 0$,
-$\Delta t = \Delta \tau$ in its own frame, but velocity $v = \Delta
-x'/\Delta t'$ in ours.
-Then the factor $\alpha$ (to go from the clock frame to our frame)
-satisfies
-
-$$
-\alpha^2 = \frac{(\Delta x')^+}{(\Delta x')^-} = \frac{\Delta x' +
-c\Delta t'}{\Delta x' - c\Delta t'} = \frac{v+c}{v-c}
-$$
-
-where the last term follows from dividing top and bottom by $\Delta t'$.
-We can use this to derive the curious *velocity addition* formula.
-Suppose we observe a rocket moving to the right at
-speed $v$, and then that rocket fires a small probe at speed $u'$ to
-the right in its frame of reference.
-What is the probe speed, $u$, as measured in our frame?
-Let's call our rulers $x, t$, the rocket's rulers $x', t'$, and the 
-
--mu', mu'
-
-u_1 = (v + u')/(1 - u'v/c^2)
-u_2 = (v - u')/(1 + u'v/c^2)
-
-(c-u_1)/(c + u_1) = (c - u')(c - v)/(c + u')(c + v)
-(c-u_2)/(c + u_2) = (c + u')(c - v)/(c - u')(c + v)
-= [(c- u')/(c + u')]^2(c-u_1)/(c + u_1)
