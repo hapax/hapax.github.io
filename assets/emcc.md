@@ -94,7 +94,8 @@ v \Delta t$.
 Thus, the spacetime length is
 
 $$
-s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = -c^2\Delta
+s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 =
+\left(\frac{\Delta x^2}{c^2\Delta t^2} - 1\right) c^2\Delta t^2 = -c^2\Delta
 t^2\left(1 - \frac{v^2}{c^2}\right).
 $$
 
@@ -111,9 +112,13 @@ Note that $\gamma \geq 1$, so that less proper time ($\Delta \tau$)
 passes for the clock than elapsed time ($\Delta t$) measured in our reference frame.
 Thus, the moving clock appears to slow down, a phenomenon called *time
 dilation*.
-This implies a result for moving rulers, see <a href="#sec-A">below</a>.
+This implies a result for moving rulers, see <a
+href="#sec-A">below</a>.
+The relationship also breaks down if $v > c$, so it appears that, for
+this spacetime version of Pythagoras to hold, a clock cannot travel
+faster than the speed of light.
 
-#### 4. Changing measurements <a id="sec-4" name="sec-4"></a>
+#### 4. Adding velocities <a id="sec-4" name="sec-4"></a>
 
 There is a cute way to understand how measurements change when we
 speed up or slow down.
@@ -127,33 +132,28 @@ $$
 
 where $x^\pm$ represents the "combined rulers" $x \pm ct$.
 Then $s^2$ will be invariant under changes of velocity provided that,
-when we change velocity,
+in a new frame of reference with rulers $x', t'$, we have
 
 $$
 \Delta x^+ \mapsto (\Delta x')^+ = \alpha \Delta x^+, \quad \Delta x^-
 \mapsto (\Delta x')^- = \frac{1}{\alpha} \Delta x^-,
 $$
 
-for some factor $\alpha$ and new rulers $x', t'$. These factors of
+for some factor $\alpha$. These factors of
 $\alpha$ will cancel when we take the product.
-This is related to the relative velocity between frames of reference
-by the clock example.
-In its own frame (rulers $x, t$), the clock experiences a proper time $\Delta \tau$.
+We can relate $\alpha$ to $v$ by considering the clock example again.
+In its own frame (rulers $x, t$), the clock experiences a proper time
+$\Delta \tau$, and hence $\Delta x^\pm = \pm c\Delta \tau$.
 In our frame (rulers $x', t'$), the clocks travels a distance $\Delta x'
 = v \Delta t' = v\gamma \Delta \tau$.
-So
+So $\alpha$ obeys
 
 $$
-\Delta x^\pm = \pm c \Delta \tau, \quad (\Delta x')^\pm = \Delta x' \pm
-c\Delta t' = (v \pm c)\gamma \Delta \tau.
+\alpha^2 = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
+x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
+\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \fra{c+v}{c-v}.
 $$
 
-Hence,
-
-$$
-\alpha = \frac{(\Delta x')^+}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{-c\Delta \tau} =
--\left(1 + \frac{v}{c}\right)\gamma = -\sqrt{\frac{c+v}{c-v}}.
-$$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
@@ -169,15 +169,17 @@ $$
 
 I've used $\Delta \tau$ since the clock is stationary in our frame.
 The length $L$ of the ruler in its own frame of reference is called
-the *proper length*, and it can be calculated by timing how long
-($\Delta t$) our clock takes to pass from one end to the other:
+the *proper length*.
+From the ruler's perspective, this is calculated by timing how long it
+takes ($\Delta t$) our clock takes to pass from one end to the other.
+But the two elapsed times are related by time dilation!
+It follows that
 
 $$
 L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
-\gamma L',
+\gamma L'.
 $$
 
-using time dilation to relate $\Delta \tau$ to $\Delta t$.
 Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 the Lorentz factor $\gamma$.
 This shortening is called *length contraction*.
