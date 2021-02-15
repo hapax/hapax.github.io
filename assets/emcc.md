@@ -185,7 +185,7 @@ $$
 e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau} \cdot (-1) =
-\frac{c+v}{c-v}. \tag{1} \label{alpha}
+\frac{c+v}{c-v}.
 $$
 
 Rearranging shows
