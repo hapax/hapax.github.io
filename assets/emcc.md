@@ -222,7 +222,7 @@ Naively, it seems like it should have momentum $p_0' = 2mv$, and the from the
 addition formula (\ref{add}), the two halves will have momenta
 
 $$
-p_1' = \frac{m(v + u)}{1+ uv/c^2}, \quad p_2' = \frac{m(v - u)}{1- uv/c^2}.
+p_1' = mu_1' = \frac{m(v + u)}{1+ uv/c^2}, \quad p_2' = mu_2' = \frac{m(v - u)}{1- uv/c^2}.
 $$
 
 It's clear that, in general, $p_0' \neq p_1' + p_2'$, since
@@ -234,6 +234,24 @@ $$
 
 This only equals $p_0' = 2mv$ when $u = 0$.
 So, what gives? Has conservation of momentum failed?
+The issue is actually subtler.
+In the same way that time and length depend on which reference frame
+they are measured in, so does mass itself!
+Although momentum and mass are conserved *within frames*, they are not
+invariant *between frames*.
+So, suppose that in the moving frame, the particle has mass $m'$
+before it splits.
+After decay, we assume that mass is conserved, with
+
+$$
+m' = m_1 + m_2,
+$$
+
+and momentum is conserved, so
+
+$$
+p_0' = 2m' v = m_1u_1' + m_2u_2' = \frac{m_1(v + u)}{1+ uv/c^2} + \frac{m_2(v + u)}{1- uv/c^2}.
+$$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
