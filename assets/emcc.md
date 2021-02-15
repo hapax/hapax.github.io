@@ -204,9 +204,8 @@ subject to a force, the momentum cannot change, so in particles,
 momentum is conserved by particle collisions unless some force acts
 from outside.
 As a simple example, suppose a stationary particle of mass $2m$ splits
-into two equal halves.
-Assuming mass is conserved, each half has mass $m$, and since the
-initial momentum is zero, so is the final momentum, with
+into two equal halves of mass $m$.
+Since the initial momentum is zero, so is the final momentum, with
 
 $$
 p_0 = 0 = p_1 + p_2, \quad p_1 = mu, \quad p_2 = -mu,
