@@ -188,10 +188,11 @@ $$
 	x^- \\
 	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
 	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
-	& = \cosh(\eta) \Delta x + \sinh(\eta) \Delta t.
+	& = \cosh(\eta) \Delta x + \sinh(\eta) \Delta t,
 \end{align*}
 $$
 
+where $\cosh(\eta)$ and $\sinh(\eta)$ are defined by these expressions.
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
