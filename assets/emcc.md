@@ -15,6 +15,7 @@ date:  2021-02-13
 2. <a href="#sec-2">A Pythagorean parallel</a>
 3. <a href="#sec-3">Dilation and contraction</a>
 4. <a href="#sec-4">Adding velocities</a>
+5. <a href="#sec-5">Conservation laws</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -161,13 +162,39 @@ frame ($x'', t''$), and launches a clock to the right at speed $u$ in
 its frame ($x', t'$).
 The clock frame has rulers $x, t$.
 At what speed does the clock appear to travel in our frame?
-We just use (\ref{alpha}) twice, noting that the converstion factor is
-always relative velocity to the right:
+Let's call this speed $u'' = \Delta x''/\Delta t''$.
+Then we have
+
+$$
+\frac{(\Delta x'')^+}{(\Delta x'')^-} = \frac{\Delta x'' + c\Delta
+t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}.
+$$
+
+But we can also just use (\ref{alpha}) twice:
 
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \left(\frac{c+v}{c-v}\right)
-\frac{(\Delta x')^+}{(\Delta x')^-} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right) \frac{\Delta x+}{\Delta x^-}
+\frac{(\Delta x')^+}{(\Delta x')^-} = \left(\frac{c+v}{c-v}\right)
+\left(\frac{c+u}{c-u}\right) \frac{\Delta x+}{\Delta x^-} = - \left(\frac{c+v}{c-v}\right)
+\left(\frac{c+u}{c-u}\right).
 $$
+
+Combining these two equation, we find that
+
+$$
+\frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right).
+$$
+
+After a little algebra, we can isolate $u''$ to find
+
+$$
+u'' = \frac{v + u}{1+ uv/c^2}.
+$$
+
+This is the famous *velocity addition* formula.
+We do not just add $u$ and $v$!
+
+#### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
