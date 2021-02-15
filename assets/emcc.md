@@ -172,52 +172,20 @@ $$
 
 for some factor $e^{\eta}$. These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
-To understand how $x$ and $t$ change (rather than $x^\pm$), note that
+We can relate $\alpha$ to $v$ by considering the clock example again.
+In its own frame (rulers $x, t$), the clock moves nowhere ($\Delta x
+= 0$) in $\Delta t = \Delta \tau$ tocks.
+Hence, $\Delta x^\pm = \pm c\Delta \tau$.
+In our frame (rulers $x', t'$), the clocks tocks over a period $\Delta t' = \gamma
+\Delta \tau$, and travels a distance $\Delta x' = v \Delta t' = v\gamma
+\Delta \tau$ while it does so.
+So $e^\eta obeys
 
 $$
-\Delta x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad c\Delta
-t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
-$$
-
-Hence,
-
-$$
-\begin{align*}
-\Delta x' & = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- \\
-& = \frac{e^\eta}{2}\Delta x^+ + \frac{e^{-\eta}}{2}\Delta
-	x^- \\
-	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
-	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
-	& = \cosh(\eta) \Delta x + \sinh(\eta) c\Delta t,
-\end{align*}
-$$
-
-where $\cosh(\eta) = (e^\eta + e^{-\eta})/2$ and $\sinh(\eta) =
-(e^\eta - e^{-\eta})/2$.
-Similarly,
-
-$$
-c\Delta t' = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t.
-$$
-
-These are called *Lorentz transformations*.
-We can easily relate $\eta$ to $v$ using our clock example.
-In its rest frame, the ticking clock travels a distance $\Delta x = 0$
-over $\Delta t = \Delta \tau$ tocks.
-In our frame, with rulers $x', t'$, those same tocks take time $\Delta
-t' = \gamma \Delta t$, over which it travels a distance $v\Delta
-t'$.
-Hence,
-
-$$
-c\Delta t' = \gamma c \Delta t = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t \quad \Longrightarrow \quad \cosh(\eta) = \gamma,
-$$
-
-and similarly
-
-$$
-\sinh(\eta) = \frac{\gamma
-v}{c}.
+e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
+x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
+\Delta \tau} \cdot (-1) =
+\frac{c+v}{c-v}. \tag{1} \label{alpha}
 $$
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
@@ -344,16 +312,51 @@ $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
-We can relate $\alpha$ to $v$ by considering the clock example again.
-In its own frame (rulers $x, t$), the clock experiences a proper time
-$\Delta \tau$, and hence $\Delta x^\pm = \pm c\Delta \tau$.
-In our frame (rulers $x', t'$), the clocks travels a distance $\Delta x'
-= v \Delta t' = v\gamma \Delta \tau$.
-So $e^\alpha obeys
+
+To understand how $x$ and $t$ change (rather than $x^\pm$), note that
 
 $$
-e^{2\alpha} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
-x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
-\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
-\frac{c+v}{c-v}. \tag{1} \label{alpha}
+\Delta x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad c\Delta
+t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
+$$
+
+Hence,
+
+$$
+\begin{align*}
+\Delta x' & = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- \\
+& = \frac{e^\eta}{2}\Delta x^+ + \frac{e^{-\eta}}{2}\Delta
+	x^- \\
+	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
+	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
+	& = \cosh(\eta) \Delta x + \sinh(\eta) c\Delta t,
+\end{align*}
+$$
+
+where $\cosh(\eta) = (e^\eta + e^{-\eta})/2$ and $\sinh(\eta) =
+(e^\eta - e^{-\eta})/2$.
+Similarly,
+
+$$
+c\Delta t' = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t.
+$$
+
+These are called *Lorentz transformations*.
+We can easily relate $\eta$ to $v$ using our clock example.
+In its rest frame, the ticking clock travels a distance $\Delta x = 0$
+over $\Delta t = \Delta \tau$ tocks.
+In our frame, with rulers $x', t'$, those same tocks take time $\Delta
+t' = \gamma \Delta t$, over which it travels a distance $v\Delta
+t'$.
+Hence,
+
+$$
+c\Delta t' = \gamma c \Delta t = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t \quad \Longrightarrow \quad \cosh(\eta) = \gamma,
+$$
+
+and similarly
+
+$$
+\sinh(\eta) = \frac{\gamma
+v}{c}.
 $$
