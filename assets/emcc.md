@@ -166,11 +166,11 @@ Then $s^2$ will be invariant under changes of velocity provided that,
 in a new frame of reference with rulers $x', t'$, we have
 
 $$
-\Delta x^+ \mapsto (\Delta x')^+ = e^{\alpha} \Delta x^+, \quad \Delta x^-
-\mapsto (\Delta x')^- = e^{-\alpha} \Delta x^-,
+\Delta x^+ \mapsto (\Delta x')^+ = e^{\eta} \Delta x^+, \quad \Delta x^-
+\mapsto (\Delta x')^- = e^{-\eta} \Delta x^-,
 $$
 
-for some factor $e^{\alpha}$. These factors will cancel when we take
+for some factor $e^{\eta}$. These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
 To understand how $x$ and $t$ change, note that
 
@@ -182,7 +182,14 @@ $$
 Hence,
 
 $$
-\Delta x' = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^-
+\begin{align*}
+\Delta x' & = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- \\
+	& = e^\eta\frac{1}{2}\Delta x^+ + e^{-\eta}\frac{1}{2}\Delta
+	x^- \\
+	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
+	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
+	& = \cosh(\eta) \Delta x + \sinh(\eta) \Delta t.
+\end{align*}
 $$
 
 
