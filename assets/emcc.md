@@ -149,7 +149,7 @@ Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 the Lorentz factor $\gamma$.
 This shortening is called *length contraction*.
 
-#### 2.4. Lorentz transformations <a id="sec-2-4" name="sec-2-4"></a>
+#### 2.4. Boosting <a id="sec-2-4" name="sec-2-4"></a>
 
 There is a cute way to understand how measurements change when we
 speed up or slow down.
@@ -194,6 +194,9 @@ $$
 \frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
 e^{-\eta}}{e^{\eta} + e^{-\eta}} = \mbox{tanh}(\eta).
 $$
+
+The parameter $\eta$ is called the *boost parameter*.
+It is the spacetime equivalent of a rotation.
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
