@@ -151,9 +151,23 @@ So $\alpha$ obeys
 $$
 \alpha^2 = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
-\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \fra{c+v}{c-v}.
+\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
+\fra{c+v}{c-v}. \tag{1} \label{alpha}
 $$
 
+We can use (\ref{alpha}) to easily chain multiple changes of frame.
+For instance, suppose a rocket moves at speed $v$ to the right in our
+frame ($x'', t''$), and launches a clock to the right at speed $u$ in
+its frame ($x', t'$).
+The clock frame has rulers $x, t$.
+At what speed does the clock appear to travel in our frame?
+We just use (\ref{alpha}) twice, noting that the converstion factor is
+always relative velocity to the right:
+
+$$
+\frac{(\Delta x'')^+}{(\Delta x'')^-} = \left(\frac{c+v}{c-v}\right)
+\frac{(\Delta x')^+}{(\Delta x')^-} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right) \frac{\Delta x+}{\Delta x^-}
+$$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
