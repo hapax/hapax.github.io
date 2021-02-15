@@ -13,7 +13,7 @@ date:  2021-02-15
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Spacetime trigonometry</a>
-   1. <a href="#sec-2-1">A Pythagorean parallel</a>
+   1. <a href="#sec-2-1">A Pythagorean prelude</a>
    2. <a href="#sec-2-2">Spacetime lengths</a>
    3. <a href="#sec-2-2">Dilation and contraction</a>
    4. <a href="#sec-2-3">Lorentz transformations</a>
@@ -25,7 +25,7 @@ date:  2021-02-15
 
 Relativity is really just the bizarro version of trigonometry.
 
-#### 2.1. A Pythagorean parallel <a id="sec-2-1" name="sec-2-1"></a>
+#### 2.1. A Pythagorean prelude <a id="sec-2-1" name="sec-2-1"></a>
 
 We start by presenting Pythagoras' theorem in a
 slightly odd way.
@@ -199,6 +199,9 @@ Similarly,
 $$
 c\Delta t' = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t.
 $$
+
+These are called *Lorentz transformations*.
+
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
