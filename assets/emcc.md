@@ -188,6 +188,13 @@ x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \f
 \frac{c+v}{c-v}. \tag{1} \label{alpha}
 $$
 
+Rearranging shows
+
+$$
+\frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
+e^{-\eta}}{e^{\eta} + e^{-\eta}} = \mbox{tanh}(\eta).
+$$
+
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
 #### A. Velocity addition <a id="sec-A" name="sec-A"></a>
