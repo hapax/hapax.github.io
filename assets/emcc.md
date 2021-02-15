@@ -167,7 +167,7 @@ Then we have
 
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \frac{\Delta x'' + c\Delta
-t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}. \tag{2}\label{clock-u''}
+t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}. \tag{2}\label{clock-u}
 $$
 
 But we can also just use (\ref{alpha}) twice:
@@ -179,7 +179,7 @@ $$
 \left(\frac{c+u}{c-u}\right). \label{double} \tag{3}
 $$
 
-Combining equations (\ref{clock-u''}) and (\ref{double}), we find that
+Combining equations (\ref{clock-u}) and (\ref{double}), we find that
 
 $$
 \frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right).
@@ -213,8 +213,7 @@ $$
 
 i.e. one half speeds off to the right at speed $u$, the other to the
 left at $-u$.
-All this reasoning works in special relativity as well, at least in the frame
-where the initial particle is at first.
+In special relativity, this is still true, at least in the frame where the initial particle is at rest.
 But now suppose that, from our perspective, the initial particle is
 already moving to the right at speed when it decays.
 Naively, it seems like it should have momentum $p_0' = 2mv$, and the from the
@@ -238,18 +237,27 @@ In the same way that time and length depend on which reference frame
 they are measured in, so does mass itself!
 Although momentum and mass are conserved *within frames*, they are not
 invariant *between frames*.
-So, suppose that in the moving frame, the particle has mass $m'$
+So, suppose that in the moving frame, the particle has mass $2m'$
 before it splits.
 After decay, we assume that mass is conserved, with
 
 $$
-m' = m_1 + m_2,
+2m' = m_1 + m_2,
 $$
 
 and momentum is conserved, so
 
 $$
-p_0' = 2m' v = m_1u_1' + m_2u_2' = \frac{m_1(v + u)}{1+ uv/c^2} + \frac{m_2(v + u)}{1- uv/c^2}.
+p_0' = 2m' v = m_1u_1' + m_2u_2'. <!-- \frac{m_1(v + u)}{1+ uv/c^2} + \frac{m_2(v + u)}{1- uv/c^2}.-->
+$$
+
+This may seem tricky, but in fact, it is easily solved by taking
+$m_1u_1' = m_2u_2' = m'v$.
+This implies
+
+$$
+m_1u_1' = \frac{m_1(v + u)}{1+ uv/c^2} = m'v \quad \Longrightarrow
+\quad m_1 = \frac{m'(1+ uv/c^2)}{(1 + u/v)}
 $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
