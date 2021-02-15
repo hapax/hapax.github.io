@@ -2,26 +2,28 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Why does <i>E</i> = <i>mc</i>²?"
-categories: [Physics, Hacks]
-date:  2021-02-13
+title:  "A Hacker's Guide to Minkowski Spacetime"
+categories: [Physics, Mathematics, Hacks]
+date:  2021-02-15
 ---
 
-**February 13, 2021.** *A*
+**February 15, 2021.** *We provide a brief tour of Minkowski spacetime.*
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">A Pythagorean parallel</a>
-3. <a href="#sec-3">Dilation and contraction</a>
-4. <a href="#sec-4">Adding velocities</a>
-5. <a href="#sec-5">Conservation laws</a>
+2. <a href="#sec-2">Spacetime trigonometry</a>
+   1. <a href="#sec-2-1">A Pythagorean parallel</a>
+   2. <a href="#sec-2-2">Dilation and contraction</a>
+   3. <a href="#sec-2-3">Lorentz transform</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
+#### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
+
 Relativity is really just the bizarro version of trigonometry.
 
-#### 2. A Pythagorean parallel <a id="sec-2" name="sec-2"></a>
+#### 2.1. A Pythagorean parallel <a id="sec-2-1" name="sec-2-1"></a>
 
 We start by presenting Pythagoras' theorem in a
 slightly odd way.
@@ -74,7 +76,7 @@ In particular, $s^2 = 0$ for the measurements defining a light ray
 whatever speed *we* are moving, and hence light always travels with
 velocity $c$.
 
-#### 3. Dilation and contraction <a id="sec-3" name="sec-3"></a>
+#### 2.2. Dilation and contraction <a id="sec-2-2" name="sec-2-2"></a>
 
 We can use the invariance of $s^2$ to quickly deduce that time dilates
 and length contracts.
@@ -113,13 +115,37 @@ Note that $\gamma \geq 1$, so that less proper time ($\Delta \tau$)
 passes for the clock than elapsed time ($\Delta t$) measured in our reference frame.
 Thus, the moving clock appears to slow down, a phenomenon called *time
 dilation*.
-This implies a result for moving rulers, see <a
-href="#sec-A">below</a>.
 The relationship also breaks down if $v > c$, so it appears that, for
 this spacetime version of Pythagoras to hold, a clock cannot travel
 faster than the speed of light.
 
-#### 4. Adding velocities <a id="sec-4" name="sec-4"></a>
+This immediately implies a result for moving rulers.
+Suppose a ruler passes us by at speed $v$.
+We can deduce its apparent length $L'$ by timing how long it takes
+($\Delta \tau$) to pass some specific spot:
+
+$$
+L' = v\Delta \tau.
+$$
+
+I've used $\Delta \tau$ since the clock is stationary in our frame.
+The length $L$ of the ruler in its own frame of reference is called
+the *proper length*.
+From the ruler's perspective, this is calculated by timing how long it
+takes ($\Delta t$) our clock takes to pass from one end to the other.
+But the two elapsed times are related by time dilation!
+It follows that
+
+$$
+L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
+\gamma L'.
+$$
+
+Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
+the Lorentz factor $\gamma$.
+This shortening is called *length contraction*.
+
+#### 2.3. Lorentz transformations <a id="sec-2-3" name="sec-2-3"></a>
 
 There is a cute way to understand how measurements change when we
 speed up or slow down.
@@ -136,12 +162,18 @@ Then $s^2$ will be invariant under changes of velocity provided that,
 in a new frame of reference with rulers $x', t'$, we have
 
 $$
-\Delta x^+ \mapsto (\Delta x')^+ = \alpha \Delta x^+, \quad \Delta x^-
-\mapsto (\Delta x')^- = \frac{1}{\alpha} \Delta x^-,
+\Delta x^+ \mapsto (\Delta x')^+ = e^{\alpha} \Delta x^+, \quad \Delta x^-
+\mapsto (\Delta x')^- = e^{-\alpha} \Delta x^-,
 $$
 
-for some factor $\alpha$. These factors of
-$\alpha$ will cancel when we take the product.
+for some factor $e^{\alpha}$. These factors will cancel when we take
+the product, so $s^2$ will indeed be invariant.
+To understand how $x$ and $t$ change, note that
+
+$$
+x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
+$$
+
 We can relate $\alpha$ to $v$ by considering the clock example again.
 In its own frame (rulers $x, t$), the clock experiences a proper time
 $\Delta \tau$, and hence $\Delta x^\pm = \pm c\Delta \tau$.
@@ -155,6 +187,8 @@ x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
 \frac{c+v}{c-v}. \tag{1} \label{alpha}
 $$
+
+#### A. Velocity addition <a id="sec-A" name="sec-A"></a>
 
 We can use (\ref{alpha}) to easily chain multiple changes of frame.
 For instance, suppose a rocket moves at speed $v$ to the right in our
@@ -192,6 +226,13 @@ u'' = \frac{v + u}{1+ uv/c^2}. \tag{4} \label{add}
 $$
 
 This is the famous *velocity addition* formula!
+
+---
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+Or if you prefer, an orthogonal grid of such rulers.
+</p></div>
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
@@ -268,39 +309,3 @@ $$
 $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
-
-#### A. Length contraction <a id="sec-A" name="sec-A"></a>
-
-Suppose a ruler passes us by at speed $v$.
-We can deduce its apparent length $L'$ by timing how long it takes
-($\Delta \tau$) to pass some specific spot:
-
-$$
-L' = v\Delta \tau.
-$$
-
-I've used $\Delta \tau$ since the clock is stationary in our frame.
-The length $L$ of the ruler in its own frame of reference is called
-the *proper length*.
-From the ruler's perspective, this is calculated by timing how long it
-takes ($\Delta t$) our clock takes to pass from one end to the other.
-But the two elapsed times are related by time dilation!
-It follows that
-
-$$
-L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
-\gamma L'.
-$$
-
-Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
-the Lorentz factor $\gamma$.
-This shortening is called *length contraction*.
-
-#### B. Lorentz transformations <a id="sec-B" name="sec-B"></a>
-
----
-
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
-href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-Or if you prefer, an orthogonal grid of such rulers.
-</p></div>
