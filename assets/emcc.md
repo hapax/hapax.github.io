@@ -248,7 +248,7 @@ $$
 and momentum is conserved, so
 
 $$
-p_0' = 2m' v = m_1u_1' + m_2u_2'. <!-- \frac{m_1(v + u)}{1+ uv/c^2} + \frac{m_2(v + u)}{1- uv/c^2}.-->
+p_0' = 2m' v = m_1u_1' + m_2u_2'.
 $$
 
 This may seem tricky, but in fact, it is easily solved by taking
