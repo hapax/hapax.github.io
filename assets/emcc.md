@@ -200,7 +200,24 @@ c\Delta t' = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t.
 $$
 
 These are called *Lorentz transformations*.
+We can easily relate $\eta$ to $v$ using our clock example.
+In its rest frame, the ticking clock travels a distance $\Delta x = 0$
+over $\Delta t = \Delta \tau$ tocks.
+In our frame, with rulers $x', t'$, those same tocks take time $\Delta
+t' = \gamma \Delta t$, over which it travels a distance $v\Delta
+t'$.
+Hence,
 
+$$
+c\Delta t' = \gamma c \Delta t = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t \quad \Longrightarrow \quad \cosh(\eta) = \gamma,
+$$
+
+and similarly
+
+$$
+\sinh(\eta) = \frac{\gamma
+v}{c}.
+$$
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
