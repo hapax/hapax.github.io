@@ -179,7 +179,7 @@ $$
 \left(\frac{c+u}{c-u}\right).
 $$
 
-Combining these two equation, we find that
+Combining these two equations, we find that
 
 $$
 \frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right).
