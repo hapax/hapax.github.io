@@ -19,9 +19,9 @@ date:  2021-02-15
    4. <a href="#sec-2-3">Lorentz transform</a>
 2. <a href="#sec-3">Trip chaining</a>
 
-## 1. Introduction <a id="sec-1" name="sec-1"></a>
+### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-## 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
+### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
 
@@ -186,7 +186,7 @@ $$
 $$
 
 
-## 3. Trip chaining<a id="sec-3" name="sec-3"></a>
+### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
 #### A. Velocity addition <a id="sec-A" name="sec-A"></a>
 
