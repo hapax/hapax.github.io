@@ -172,7 +172,7 @@ $$
 
 for some factor $e^{\eta}$. These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
-We can relate $\alpha$ to $v$ by considering the clock example again.
+We can relate $e^{\eta}$ to $v$ by considering the clock example again.
 In its own frame (rulers $x, t$), the clock moves nowhere ($\Delta x
 = 0$) in $\Delta t = \Delta \tau$ tocks.
 Hence, $\Delta x^\pm = \pm c\Delta \tau$.
