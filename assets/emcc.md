@@ -16,7 +16,7 @@ date:  2021-02-15
    1. <a href="#sec-2-1">A Pythagorean parallel</a>
    2. <a href="#sec-2-2">Spacetime lengths</a>
    3. <a href="#sec-2-2">Dilation and contraction</a>
-   4. <a href="#sec-2-3">Lorentz transform</a>
+   4. <a href="#sec-2-3">Lorentz transformations</a>
 2. <a href="#sec-3">Trip chaining</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
