@@ -233,6 +233,7 @@ p_1' + p_2' = \frac{m(v + u)}{1+ uv/c^2} + \frac{m(v + u)}{1- uv/c^2}
 $$
 
 This only equals $p_0' = 2mv$ when $u = 0$.
+So, what gives? Has conservation of momentum failed?
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
 
