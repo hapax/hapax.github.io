@@ -172,10 +172,10 @@ $$
 
 for some factor $e^{\eta}$. These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
-To understand how $x$ and $t$ change, note that
+To understand how $x$ and $t$ change (rather than $x^\pm$), note that
 
 $$
-\Delta x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad \Delta
+\Delta x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad c\Delta
 t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
 $$
 
@@ -188,11 +188,17 @@ $$
 	x^- \\
 	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
 	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
-	& = \cosh(\eta) \Delta x + \sinh(\eta) \Delta t,
+	& = \cosh(\eta) \Delta x + \sinh(\eta) c\Delta t,
 \end{align*}
 $$
 
-where $\cosh(\eta) = (e^\eta + e^{-\eta})/2$ and $\sinh(\eta) = (e^\eta - e^{-\eta})/2$.
+where $\cosh(\eta) = (e^\eta + e^{-\eta})/2$ and $\sinh(\eta) =
+(e^\eta - e^{-\eta})/2$.
+Similarly,
+
+$$
+c\Delta t' = \sinh(\eta) \Delta x + \cosh(\eta) c\Delta t.
+$$
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
