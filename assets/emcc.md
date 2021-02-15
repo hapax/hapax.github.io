@@ -179,7 +179,7 @@ Hence, $\Delta x^\pm = \pm c\Delta \tau$.
 In our frame (rulers $x', t'$), the clocks tocks over a period $\Delta t' = \gamma
 \Delta \tau$, and travels a distance $\Delta x' = v \Delta t' = v\gamma
 \Delta \tau$ while it does so.
-So $e^\eta obeys
+So $e^\eta$ obeys
 
 $$
 e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
