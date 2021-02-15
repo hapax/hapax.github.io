@@ -184,7 +184,7 @@ Hence,
 $$
 \begin{align*}
 \Delta x' & = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^- \\
-	& = e^\eta\frac{1}{2}\Delta x^+ + e^{-\eta}\frac{1}{2}\Delta
+	& = \frac{e^\eta}{2}\Delta x^+ + \frac{e^{-\eta}}{2}\Delta
 	x^- \\
 	& = \frac{1}{2}(e^\eta + e^{-\eta})\Delta x +
 	\frac{1}{2}(e^\eta - e^{-\eta})\Delta t \\
@@ -192,7 +192,7 @@ $$
 \end{align*}
 $$
 
-where $\cosh(\eta)$ and $\sinh(\eta)$ are defined by these expressions.
+where $\cosh(\eta) = (e^\eta + e^{-\eta})/2$ and $\sinh(\eta) = (e^\eta - e^{-\eta})/2$.
 
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
