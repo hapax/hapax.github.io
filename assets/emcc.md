@@ -153,7 +153,7 @@ $$
 \alpha^2 = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
-\fra{c+v}{c-v}. \tag{1} \label{alpha}
+\frac{c+v}{c-v}. \tag{1} \label{alpha}
 $$
 
 We can use (\ref{alpha}) to easily chain multiple changes of frame.
