@@ -14,12 +14,14 @@ date:  2021-02-15
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Spacetime trigonometry</a>
    1. <a href="#sec-2-1">A Pythagorean parallel</a>
-   2. <a href="#sec-2-2">Dilation and contraction</a>
-   3. <a href="#sec-2-3">Lorentz transform</a>
+   2. <a href="#sec-2-2">Spacetime lengths</a>
+   3. <a href="#sec-2-2">Dilation and contraction</a>
+   4. <a href="#sec-2-3">Lorentz transform</a>
+2. <a href="#sec-3">Trip chaining</a>
 
-#### 1. Introduction <a id="sec-1" name="sec-1"></a>
+## 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-#### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
+## 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
 
@@ -49,6 +51,8 @@ It seems reasonable to define $L$ as its length.
 But even more importantly, the quantity $d^2$ is *invariant* under a
 change in relative orientation.
 
+#### 2.2. Spacetime lengths <a id="sec-2-2" name="sec-2-2"></a>
+
 Relativity parallels this setup closely.
 Michelson and Morley's
 [famous experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
@@ -76,7 +80,7 @@ In particular, $s^2 = 0$ for the measurements defining a light ray
 whatever speed *we* are moving, and hence light always travels with
 velocity $c$.
 
-#### 2.2. Dilation and contraction <a id="sec-2-2" name="sec-2-2"></a>
+#### 2.3. Dilation and contraction <a id="sec-2-3" name="sec-2-3"></a>
 
 We can use the invariance of $s^2$ to quickly deduce that time dilates
 and length contracts.
@@ -145,7 +149,7 @@ Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 the Lorentz factor $\gamma$.
 This shortening is called *length contraction*.
 
-#### 2.3. Lorentz transformations <a id="sec-2-3" name="sec-2-3"></a>
+#### 2.4. Lorentz transformations <a id="sec-2-4" name="sec-2-4"></a>
 
 There is a cute way to understand how measurements change when we
 speed up or slow down.
@@ -171,22 +175,18 @@ the product, so $s^2$ will indeed be invariant.
 To understand how $x$ and $t$ change, note that
 
 $$
-x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
+\Delta x = \frac{1}{2}\Delta x^+ + \frac{1}{2}\Delta x^-, \quad \Delta
+t = \frac{1}{2}\Delta x^+ - \frac{1}{2}\Delta x^-.
 $$
 
-We can relate $\alpha$ to $v$ by considering the clock example again.
-In its own frame (rulers $x, t$), the clock experiences a proper time
-$\Delta \tau$, and hence $\Delta x^\pm = \pm c\Delta \tau$.
-In our frame (rulers $x', t'$), the clocks travels a distance $\Delta x'
-= v \Delta t' = v\gamma \Delta \tau$.
-So $\alpha$ obeys
+Hence,
 
 $$
-\alpha^2 = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
-x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
-\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
-\frac{c+v}{c-v}. \tag{1} \label{alpha}
+\Delta x' = \frac{1}{2}(\Delta x')^+ + \frac{1}{2}(\Delta x')^-
 $$
+
+
+## 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
 #### A. Velocity addition <a id="sec-A" name="sec-A"></a>
 
@@ -309,3 +309,17 @@ $$
 $$
 
 <!-- https://www.feynmanlectures.caltech.edu/I_16.html -->
+
+We can relate $\alpha$ to $v$ by considering the clock example again.
+In its own frame (rulers $x, t$), the clock experiences a proper time
+$\Delta \tau$, and hence $\Delta x^\pm = \pm c\Delta \tau$.
+In our frame (rulers $x', t'$), the clocks travels a distance $\Delta x'
+= v \Delta t' = v\gamma \Delta \tau$.
+So $e^\alpha obeys
+
+$$
+e^{2\alpha} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
+x^-}{\Delta x^+} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
+\Delta \tau}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} =
+\frac{c+v}{c-v}. \tag{1} \label{alpha}
+$$
