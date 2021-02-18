@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Why does <i>E</i> = <i>mc</i>²?"
 categories: [Physics, Mathematics, Hacks]
-date:  2021-02-15
+date:  2021-02-18
 ---
 
-**February 15, 2021.** *A self-contained proof of the most famous
+**February 18, 2021.** *A self-contained proof of the most famous
   equation in history.*
 
 ### Contents
