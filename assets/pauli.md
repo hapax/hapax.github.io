@@ -101,12 +101,16 @@ This may seem trivial, but combining these two results implies that
 the eigenstates of $H$ itself can be written
 
 $$
-|H_\pm\rangle = \frac{1}{\sqrt{2}}(|+\rangle \pm |0\rangle),
+|H_\pm\rangle = \frac{1}{\sqrt{2}}(|+\rangle \pm |0\rangle).
 $$
 
-or equivalently in terms of $|-\rangle$ and $|1\rangle$. Let's check:
+Let's check:
 
 $$
 H|H_\pm\rangle = \frac{1}{\sqrt{2}}(H|+\rangle \pm H|0\rangle) =
 \frac{1}{\sqrt{2}}(|0\rangle \pm |+\rangle) = \pm|H_\pm\rangle.
 $$
+
+This is possible to do explicitly, but I think this algebraic approach
+is nicer.
+S
