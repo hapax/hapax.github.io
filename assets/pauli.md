@@ -51,7 +51,7 @@ $$
 X^2 = Z^2 = I, \quad XZ = -XZ. \tag{1} \label{ops}
 $$
 
-This will be our key result!
+This will be our key hack!
 
 #### Hadamard made easy
 
@@ -63,7 +63,7 @@ $$
 H = \frac{1}{\sqrt{2}} = \begin{bmatrix}
 1 & 1 \\
 1 & -1 \\
-\end{bmatrix} = \frac{1}{\sqrt{2}}(X + Z). \tag{2} \label{had}
+\end{bmatrix} = \frac{1}{\sqrt{2}}(X + Z).
 $$
 
 We can first check that the inverse of $H$ is itself, i.e. $H^2 = I$.
