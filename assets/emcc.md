@@ -207,7 +207,7 @@ $$
 
 We can use this equation to chain together multiple changes of frame.
 For instance, suppose a rocket moving at $v$ in our frame ($x'', t''$) launches a
-clock at $u$ in its frame.
+clock at $u$ in its frame ($x', t'$).
 <!-- For instance, suppose a rocket moves at speed $v$ to the right in our
 frame ($x'', t''$), and launches a clock to the right at speed $u$ in
 its frame ($x', t'$).
