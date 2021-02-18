@@ -22,15 +22,15 @@ $$
 \sigma_1 = X = \begin{bmatrix}
 0 & 1 \\
 1 & 0 \\
-\end{matrix}, \quad
+\end{bmatrix}, \quad
 \sigma_2 = Y = \begin{bmatrix}
 0 & -i \\
 i & 0 \\
-\end{matrix}, \quad
+\end{bmatrix}, \quad
 \sigma_3 = Z = \begin{bmatrix}
 1 & 0 \\
 0 & -1 \\
-\end{matrix}.
+\end{bmatrix}.
 $$
 
 We won't really need these! Instead, we'll only be using the algebraic
@@ -62,6 +62,6 @@ $$
 H = \frac{1}{\sqrt{2}} = \begin{bmatrix}
 1 & 1 \\
 1 & -1 \\
-\end{matrix} = \frac{1}{\sqrt{2}}(X + Z).
+\end{bmatrix} = \frac{1}{\sqrt{2}}(X + Z).
 $$
 
