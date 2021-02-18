@@ -206,13 +206,16 @@ x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \f
 $$
 
 We can use this equation to chain together multiple changes of frame.
-For instance, suppose a rocket moves at speed $v$ to the right in our
+For instance, suppose a rocket moving at $v$ in our frame ($x'', t''$) launches a
+clock at $u$ in its frame.
+<!-- For instance, suppose a rocket moves at speed $v$ to the right in our
 frame ($x'', t''$), and launches a clock to the right at speed $u$ in
 its frame ($x', t'$).
 The clock frame has rulers $x, t$.
 At what speed does the clock appear to travel in our frame?
-Let's call this speed $u'' = \Delta x''/\Delta t''$.
-Then we have
+Let's call this speed $u'' = \Delta x''/\Delta t''$. -->
+The speed of the clock in our frame is $u'' = \Delta x''/\Delta t''$,
+and obeys
 
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \frac{\Delta x'' + c\Delta
