@@ -69,14 +69,22 @@ The ratio between units of $x$ and units of $t$ is given by $c$.
 The expression $s^2(\Delta x, \Delta t)$ defines a "spacetime length",
 obeying a spacetime version of Pythagoras' theorem, namely that the
 $s^2$ distance between events does not change even when we speed up or
-slow down.
+slow down, i.e.
+
+$$
+s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 =
+\text{constant}, \tag{1} \label{s2}
+$$
+
+for whatever (constant) velocity we perform these measurements.
 In particular, $s^2 = 0$ for the measurements defining a light ray
 whatever speed *we* are moving, and hence light always travels with
 velocity $c$.
+But the implications of (\ref{s2}) are much broader!
 
 #### 3. Time dilation <a id="sec-3" name="sec-3"></a>
 
-We can use the invariance of $s^2$ to quickly deduce that time dilates
+We can use (\ref{s2}) to quickly deduce that time dilates
 and length contracts.
 Consider a clock which ticks out time $\tau$ in its own frame of
 reference, i.e. where it is stationary.
@@ -105,7 +113,7 @@ But since the spacetime length is invariant, we have
 $$
 -c^2 \Delta \tau^2 = -c^2\Delta t^2\left(1 - \frac{v^2}{c^2}\right)
 \quad \Longrightarrow \quad \frac{\Delta t}{\Delta \tau} =
-\frac{1}{\sqrt{1-(v/c)^2}} = \gamma,
+\frac{1}{\sqrt{1-(v/c)^2}} = \gamma, \tag{2} \label{gamma}
 $$
 
 where we have defined the all-important *Lorentz factor* $\gamma$.
@@ -187,10 +195,10 @@ $$
 e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau} \cdot (-1) =
-\frac{c+v}{c-v}. \tag{2} \label{alpha}
+\frac{c+v}{c-v}. \tag{3} \label{alpha}
 $$
 
-We can use (\ref{alpha}) to easily chain multiple changes of frame.
+We can use this equation to chain together multiple changes of frame.
 For instance, suppose a rocket moves at speed $v$ to the right in our
 frame ($x'', t''$), and launches a clock to the right at speed $u$ in
 its frame ($x', t'$).
@@ -201,7 +209,7 @@ Then we have
 
 $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \frac{\Delta x'' + c\Delta
-t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}. \tag{2}\label{clock-u}
+t''}{\Delta x'' - c\Delta t''} = \frac{u'' + c}{u'' - c}.
 $$
 
 But we can also just use (\ref{alpha}) twice:
@@ -210,10 +218,10 @@ $$
 \frac{(\Delta x'')^+}{(\Delta x'')^-} = \left(\frac{c+v}{c-v}\right)
 \frac{(\Delta x')^+}{(\Delta x')^-} = \left(\frac{c+v}{c-v}\right)
 \left(\frac{c+u}{c-u}\right) \frac{\Delta x^+}{\Delta x^-} = - \left(\frac{c+v}{c-v}\right)
-\left(\frac{c+u}{c-u}\right). \label{double} \tag{3}
+\left(\frac{c+u}{c-u}\right).
 $$
 
-Combining equations (\ref{clock-u}) and (\ref{double}), we find that
+Combining the last two equations, we find
 
 $$
 \frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right) \left(\frac{c+u}{c-u}\right).
