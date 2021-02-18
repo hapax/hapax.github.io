@@ -93,4 +93,20 @@ XH|n\rangle = \frac{1}{\sqrt{2}}X(X + Z)|n\rangle =
 \frac{1}{\sqrt{2}}(X + Z)Z|n\rangle  = (-1)^nH|n\rangle.
 $$
 
-Thus, $H|n\rangle$ is an eigenstate of $X$ with eigenvalue $(-1)^n$.
+Thus, $H|n\rangle$ is an eigenstate of $X$ with eigenvalue $(-1)^n$,
+with $|+\rangle = H|0\rangle$ and $|-\rangle = H|1\rangle$.
+Since $H^2 = I$, we can run this argument backwards to conclude that
+$H|\pm\rangle$ return the eigenstates of $Z$.
+This may seem trivial, but combining these two results implies that
+the eigenstates of $H$ itself can be written
+
+$$
+|H_\pm\rangle = \frac{1}{\sqrt{2}}(|+\rangle \pm |0\rangle),
+$$
+
+or equivalently in terms of $|-\rangle$ and $|1\rangle$. Let's check:
+
+$$
+H|H_\pm\rangle = \frac{1}{\sqrt{2}}(H|+\rangle \pm H|0\rangle) =
+\frac{1}{\sqrt{2}}(|0\rangle \pm |+\rangle) = \pm|H_\pm\rangle.
+$$
