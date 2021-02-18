@@ -136,7 +136,7 @@ there's a shortcut for computing those too:
 $$
 \langle + | n\rangle = \langle 0 | H |n\rangle =
 \frac{1}{\sqrt{2}}\langle 0|(X+Z)|n\rangle =
-\frac{1}{\sqrt{2}}(\langle 1|n\rangle + (-1)^n\langle 0|n\rangle) = \frac{1}{\sqrt{2}}(-1)^n.
+\frac{1}{\sqrt{2}}(\langle 1|n\rangle + (-1)^n\langle 0|n\rangle) = \frac{1}{\sqrt{2}}.
 $$
 
 #### Easy entanglement
