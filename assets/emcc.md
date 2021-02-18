@@ -2,33 +2,29 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "A Hacker's Guide to Minkowski Spacetime"
+title:  "Why does <i>E</i> = <i>mc</i>²?"
 categories: [Physics, Mathematics, Hacks]
 date:  2021-02-15
 ---
 
-**February 15, 2021.** *We provide a brief tour of Minkowski spacetime.*
+**February 15, 2021.** *A self-contained proof of the most famous
+  equation in history.*
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Spacetime trigonometry</a>
-   1. <a href="#sec-2-1">A Pythagorean prelude</a>
-   2. <a href="#sec-2-2">Spacetime lengths</a>
-   3. <a href="#sec-2-2">Dilation and contraction</a>
-   4. <a href="#sec-2-3">Lorentz transformations</a>
-2. <a href="#sec-3">Trip chaining</a>
+3. <a href="#sec-3">Time dilation</a>
+4. <a href="#sec-4">Velocity addition</a>
+5. <a href="#sec-5">Conservation laws</a>
 
 ### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
 ### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
-
-#### 2.1. A Pythagorean prelude <a id="sec-2-1" name="sec-2-1"></a>
-
-We start by presenting Pythagoras' theorem in a
-slightly odd way.
+To make this obvious, we'll present Pythagoras' theorem in a weird
+way.
 Suppose we have rulers, $x$ and $y$, oriented at right angles
 [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
 and which both have evenly spaced marks.
@@ -50,8 +46,6 @@ chosen to measure.
 It seems reasonable to define $L$ as its length.
 But even more importantly, the quantity $d^2$ is *invariant* under a
 change in relative orientation.
-
-#### 2.2. Spacetime lengths <a id="sec-2-2" name="sec-2-2"></a>
 
 Relativity parallels this setup closely.
 Michelson and Morley's
@@ -80,7 +74,7 @@ In particular, $s^2 = 0$ for the measurements defining a light ray
 whatever speed *we* are moving, and hence light always travels with
 velocity $c$.
 
-#### 2.3. Dilation and contraction <a id="sec-2-3" name="sec-2-3"></a>
+#### 3. Time dilation <a id="sec-3" name="sec-3"></a>
 
 We can use the invariance of $s^2$ to quickly deduce that time dilates
 and length contracts.
@@ -123,33 +117,41 @@ The relationship also breaks down if $v > c$, so it appears that, for
 this spacetime version of Pythagoras to hold, a clock cannot travel
 faster than the speed of light.
 
-This immediately implies a result for moving rulers.
-Suppose a ruler passes us by at speed $v$.
+---
+
+*Exercise 1.* This immediately implies a result for moving rulers.
+
+<span style="padding-left: 20px; display:block">
+(a) Suppose a ruler passes us by at speed $v$.
 We can deduce its apparent length $L'$ by timing how long it takes
-($\Delta \tau$) to pass some specific spot:
+($\Delta \tau$) to pass some specific spot.
+ Show this length is
+</span>
 
 $$
-L' = v\Delta \tau.
+L' = v\Delta \tau
 $$
 
-I've used $\Delta \tau$ since the clock is stationary in our frame.
-The length $L$ of the ruler in its own frame of reference is called
-the *proper length*.
-From the ruler's perspective, this is calculated by timing how long it
-takes ($\Delta t$) our clock takes to pass from one end to the other.
-But the two elapsed times are related by time dilation!
-It follows that
+<span style="padding-left: 20px; display:block">
+where $\Delta \tau$ refers to the clock which is stationary in our frame.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Using time dilation, show that the *proper length* $L$ of the
+ruler, as measured in its frame, is
+</span>
 
 $$
-L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
-\gamma L'.
+L = \gamma L'.
 $$
 
-Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
-the Lorentz factor $\gamma$.
-This shortening is called *length contraction*.
+Thus, a moving ruler shrinks by a factor $\gamma$ in our
+frame. This is called *length contraction*.
 
-#### 2.4. Boosting <a id="sec-2-4" name="sec-2-4"></a>
+---
+
+
+#### 4. Velocity addition <a id="sec-4" name="sec-4"></a>
 
 There is a cute way to understand how measurements change when we
 speed up or slow down.
@@ -198,6 +200,13 @@ $$
 The parameter $\eta$ is called the *boost parameter*.
 It is the spacetime equivalent of a rotation.
 
+---
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+Or if you prefer, an orthogonal grid of such rulers.
+</p></div>
+
 ### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
 
 #### A. Velocity addition <a id="sec-A" name="sec-A"></a>
@@ -239,12 +248,6 @@ $$
 
 This is the famous *velocity addition* formula!
 
----
-
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
-href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-Or if you prefer, an orthogonal grid of such rulers.
-</p></div>
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
@@ -370,3 +373,23 @@ $$
 \sinh(\eta) = \frac{\gamma
 v}{c}.
 $$
+
+---
+
+
+I've used $\Delta \tau$ since the clock is stationary in our frame.
+The length $L$ of the ruler in its own frame of reference is called
+the *proper length*.
+From the ruler's perspective, this is calculated by timing how long it
+takes ($\Delta t$) our clock takes to pass from one end to the other.
+But the two elapsed times are related by time dilation!
+It follows that
+
+$$
+L = v \Delta t = v \Delta \tau \cdot \frac{\Delta t}{\Delta \tau} =
+\gamma L'.
+$$
+
+Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
+the Lorentz factor $\gamma$.
+This shortening is called *length contraction*.
