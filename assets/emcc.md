@@ -177,10 +177,10 @@ in a new frame of reference with rulers $x', t'$, we have
 
 $$
 \Delta x^+ \mapsto (\Delta x')^+ = e^{\eta} \Delta x^+, \quad \Delta x^-
-\mapsto (\Delta x')^- = e^{-\eta} \Delta x^-,
+\mapsto (\Delta x')^- = e^{-\eta} \Delta x^-, \tag{3} \label{boost}
 $$
 
-for some factor $e^{\eta}$. These factors will cancel when we take
+for some factor $e^{\eta}$, where $\eta$ is called the *boost parameter*. These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
 We can relate $e^{\eta}$ to $v$ by considering the clock example again.
 In its own frame (rulers $x, t$), the clock moves nowhere ($\Delta x
@@ -195,7 +195,7 @@ $$
 e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau} \cdot (-1) =
-\frac{c+v}{c-v}. \tag{3} \label{alpha}
+\frac{c+v}{c-v}. \tag{4} \label{alpha}
 $$
 
 We can use this equation to chain together multiple changes of frame.
@@ -230,7 +230,7 @@ $$
 After a little algebra, we can isolate $u''$ to find
 
 $$
-u'' = \frac{v + u}{1+ uv/c^2}. \tag{4} \label{add}
+u'' = \frac{v + u}{1+ uv/c^2}. \tag{5} \label{add}
 $$
 
 This is the famous *velocity addition* formula!
@@ -248,15 +248,31 @@ $$
 These play the same role in relativity that the trigonometric
 functions $\sin, \cos, \tan$ play in Euclidean geometry.
 
-Rearrange (\ref{alpha}) to derive
+<span style="padding-left: 20px; display:block">
+(a) Suppose two events are separated by $\Delta x,
+\Delta t$ in the $x, t$ frame. Using (\ref{boost}), show that in the
+$x', t'$ frame, they are separated by
+</span>
 
 $$
-\frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
-e^{-\eta}}{e^{\eta} + e^{-\eta}} = \mbox{tanh}(\eta).
+\begin{align*}
+\Delta x' & = \cosh(\eta) \Delta x + \sinh(\eta) c \Delta t \\
+c\Delta t' & = \sinh(\eta) \Delta x + \cosh(\eta) c \Delta t.
+\end{align*}
 $$
 
-The parameter $\eta$ is called the *boost parameter*.
-It is the spacetime equivalent of a rotation.
+<span style="padding-left: 20px; display:block">
+(b) From the clock example (or otherwise), argue that
+</span>
+
+$$
+\cosh(\eta) = \gamma, \quad \sinh(\eta) = \frac{\gamma v}{c}\frac{v}{c}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(c) Show that (b) is consistent with the results of (\ref{alpha}),
+i.e. both imply $\tanh(\eta) = v/c$.
+</span>
 
 ---
 
