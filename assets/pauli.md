@@ -70,6 +70,9 @@ We can first check that the inverse of $H$ is itself, i.e. $H^2 = I$.
 This follows from (\ref{ops}), since
 
 $$
-H^2 = \frac{1}{2}(X + Z)^2 = \frac{1}{2}(X^2 + XZ + ZX + Z^2) =
-\frac{1}{2}(X^2 + XZ - XZ + Z^2) = \frac{1}{2}(X^2 + Z^2) = I.
+\begin{align*}
+H^2 & = \frac{1}{2}(X + Z)^2 \\
+& = \frac{1}{2}(X^2 + XZ + ZX + Z^2) \\
+& = \frac{1}{2}(X^2 + XZ - XZ + Z^2) = \frac{1}{2}(X^2 + Z^2) = I.
+\end{align*}
 $$
