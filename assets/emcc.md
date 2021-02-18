@@ -181,7 +181,7 @@ $$
 $$
 
 for some factor $\alpha$.
-To connect $\alpha$ to velocity, we consider the moving clock experiment.
+To connect $\alpha$ to the relative velocity, we consider the moving clock experiment.
 Remember that in the clock frame $\Delta x = 0$ and $\Delta t = \Delta \tau$, but in
 our frame, $\Delta t' = \gamma
 \Delta \tau$ and $\Delta x' = v \Delta t' = v\gamma
