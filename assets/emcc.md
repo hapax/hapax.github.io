@@ -176,11 +176,18 @@ Then $s^2$ will be invariant under changes of velocity provided that,
 in a new frame of reference with rulers $x', t'$, we have
 
 $$
-\Delta x^+ \mapsto (\Delta x')^+ = e^{\eta} \Delta x^+, \quad \Delta x^-
-\mapsto (\Delta x')^- = e^{-\eta} \Delta x^-, \tag{3} \label{boost}
+\Delta x^+ \mapsto (\Delta x')^+ = \alpha \Delta x^+, \quad \Delta x^-
+\mapsto (\Delta x')^- = \frac{1}{\alpha}\Delta x^-, \tag{3} \label{boost}
 $$
 
-for some factor $e^{\eta}$, where $\eta$ is called the *boost parameter*. These factors will cancel when we take
+for some factor $\alpha$.
+To connect $\alpha$ to velocity, we consider the moving clock experiment.
+Remember that in the clock frame $\Delta x = 0$ and $\Delta t = \Delta \tau$, but in
+our frame, $\Delta t' = \gamma
+\Delta \tau$ and $\Delta x' = v \Delta t' = v\gamma
+\Delta \tau$.
+Thus, we have
+<!-- These factors will cancel when we take
 the product, so $s^2$ will indeed be invariant.
 We can relate $e^{\eta}$ to $v$ by considering the clock example again.
 In its own frame (rulers $x, t$), the clock moves nowhere ($\Delta x
@@ -189,10 +196,10 @@ Hence, $\Delta x^\pm = \pm c\Delta \tau$.
 In our frame (rulers $x', t'$), the clocks tocks over a period $\Delta t' = \gamma
 \Delta \tau$, and travels a distance $\Delta x' = v \Delta t' = v\gamma
 \Delta \tau$ while it does so.
-So $e^\eta$ obeys
+So $e^\eta$ obeys -->
 
 $$
-e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
+\alpha^{2} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau} \cdot (-1) =
 \frac{c+v}{c-v}. \tag{4} \label{alpha}
@@ -238,7 +245,8 @@ This is the famous *velocity addition* formula!
 ---
 
 *Exercise 2 (Lorentz transformations).* In this exercise, we will derive something called the
-Lorentz transformation. First, we define the *hyperbolic functions*
+Lorentz transformation. First, we define $\alpha = e^\eta$ for a
+*boost parameter* $\eta$. We will also use the *hyperbolic functions*
 
 $$
 \cosh(\eta) = \frac{1}{2}(e^\eta  + e^{-\eta}), \quad \sinh(\eta) =
