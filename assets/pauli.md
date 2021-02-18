@@ -76,3 +76,21 @@ H^2 & = \frac{1}{2}(X + Z)^2 \\
 & = \frac{1}{2}(X^2 + XZ - XZ + Z^2) = \frac{1}{2}(X^2 + Z^2) = I.
 \end{align*}
 $$
+
+Another important property of $H$ is that it takes the basis states
+$|0\rangle$ and $|1\rangle$ to eigenstates of $X$. To see this, we
+first note from (\ref{ops}) that
+
+$$
+X(X + Z) = X^2 + XZ = Z^2 + XZ = (X + Z)Z.
+$$
+
+Hence, using the fact that $Z|i\rangle = (-1)^n|n\rangle$ for $n = 0,
+1$, we get
+
+$$
+XH|n\rangle = \frac{1}{\sqrt{2}}X(X + Z)|n\rangle =
+\frac{1}{\sqrt{2}}(X + Z)Z|n\rangle  = (-1)^nH|n\rangle.
+$$
+
+Thus, $H|n\rangle$ is an eigenstate of $X$ with eigenvalue $(-1)^n$.
