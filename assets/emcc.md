@@ -278,6 +278,18 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
+Inserting these into (a) gives the standard form of the Lorentz
+transformation:
+</span>
+
+$$
+\begin{align*}
+\Delta x' & = \gamma \Delta x + \gamma v \Delta t \\
+c\Delta t' & = \gamma \frac{v\Delta x}{c} + \gamma c \Delta t.
+\end{align*}
+$$
+
+<span style="padding-left: 20px; display:block">
 (c) Show that (b) is consistent with the results of (\ref{alpha}),
 i.e. both imply $\tanh(\eta) = v/c$.
 </span>
