@@ -237,7 +237,18 @@ This is the famous *velocity addition* formula!
 
 ---
 
-*Exercise 2.* Rearrange (\ref{alpha}) to derive
+*Exercise 2.* In this exercise, we will derive something called the
+Lorentz transformation. First, we define the *hyperbolic functions*
+
+$$
+\cosh(\eta) = \frac{1}{2}(e^\eta  + e^{-\eta}), \quad \sinh(\eta) =
+\frac{1}{2}(e^\eta  - e^{-\eta}), \quad \tanh(\eta) = \frac{\sinh(\eta)}{\cosh(\eta)}.
+$$
+
+These play the same role in relativity that the trigonometric
+functions $\sin, \cos, \tan$ play in Euclidean geometry.
+
+Rearrange (\ref{alpha}) to derive
 
 $$
 \frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
