@@ -288,7 +288,7 @@ transformation:
 $$
 \begin{align*}
 \Delta x' & = \gamma \Delta x + \gamma v \Delta t \\
-c\Delta t' & = \gamma \frac{v\Delta x}{c} + \gamma c \Delta t.
+\Delta t' & = \left(\frac{\gamma v}{c^2}\right)\Delta x + \gamma\Delta t.
 \end{align*}
 $$
 
