@@ -127,7 +127,7 @@ faster than the speed of light.
 
 ---
 
-*Exercise 1.* This immediately implies a result for moving rulers.
+*Exercise 1 (length contraction).* This immediately implies a result for moving rulers.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose a ruler passes us by at speed $v$.
@@ -237,7 +237,7 @@ This is the famous *velocity addition* formula!
 
 ---
 
-*Exercise 2.* In this exercise, we will derive something called the
+*Exercise 2 (Lorentz transformations).* In this exercise, we will derive something called the
 Lorentz transformation. First, we define the *hyperbolic functions*
 
 $$
