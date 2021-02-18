@@ -85,7 +85,7 @@ $$
 X(X + Z) = X^2 + XZ = Z^2 + XZ = (X + Z)Z.
 $$
 
-Hence, using the fact that $Z|i\rangle = (-1)^n|n\rangle$ for $n = 0,
+Hence, using the fact that $Z|n\rangle = (-1)^n|n\rangle$ for $n = 0,
 1$, we get
 
 $$
