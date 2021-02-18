@@ -266,7 +266,7 @@ $$
 </span>
 
 $$
-\cosh(\eta) = \gamma, \quad \sinh(\eta) = \frac{\gamma v}{c}\frac{v}{c}.
+\cosh(\eta) = \gamma, \quad \sinh(\eta) = \frac{\gamma v}{c}.
 $$
 
 <span style="padding-left: 20px; display:block">
