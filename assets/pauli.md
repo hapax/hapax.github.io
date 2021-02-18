@@ -48,7 +48,7 @@ index $c$ is summed over.
 As special cases, we have
 
 $$
-X^2 = Y^2 = Z^2 = I, \quad XZ = -XZ. \tag{1} \label{ops}
+X^2 = Z^2 = I, \quad XZ = -XZ. \tag{1} \label{ops}
 $$
 
 This will be our key result!
@@ -56,12 +56,20 @@ This will be our key result!
 #### Hadamard made easy
 
 One of the most important gates in universal quantum computing is the
-Hadamard gate. Our basic observation is that
+Hadamard gate, since it is used to generate entanglement from
+unentangled input states. Our basic observation is that
 
 $$
 H = \frac{1}{\sqrt{2}} = \begin{bmatrix}
 1 & 1 \\
 1 & -1 \\
-\end{bmatrix} = \frac{1}{\sqrt{2}}(X + Z).
+\end{bmatrix} = \frac{1}{\sqrt{2}}(X + Z). \tag{2} \label{had}
 $$
 
+We can first check that the inverse of $H$ is itself, i.e. $H^2 = I$.
+This follows from (\ref{ops}), since
+
+$$
+H^2 = \frac{1}{2}(X + Z)^2 = \frac{1}{2}(X^2 + XZ + ZX + Z^2) =
+\frac{1}{2}(X^2 + XZ - XZ + Z^2) = \frac{1}{2}(X^2 + Z^2) = I.
+$$
