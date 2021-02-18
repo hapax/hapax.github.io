@@ -148,5 +148,7 @@ This is achieved using Hadamard and a CNOT gate, which acts on
 computational basis states as
 
 $$
-\text{CNOT}|m\rangle |n\rangle = |m\rangle |m\oplus n\rangle.
+\text{CNOT}|m\rangle |n\rangle = |m\rangle |m\oplus n\rangle,
 $$
+
+where $\oplus$ is addition modulo $2$, also called XOR.
