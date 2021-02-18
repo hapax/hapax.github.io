@@ -111,6 +111,21 @@ H|H_\pm\rangle = \frac{1}{\sqrt{2}}(H|+\rangle \pm H|0\rangle) =
 \frac{1}{\sqrt{2}}(|0\rangle \pm |+\rangle) = \pm|H_\pm\rangle.
 $$
 
-This is possible to do explicitly, but I think this algebraic approach
-is nicer.
-S
+I think this algebraic approach is nicer than explicitly solving an
+eigenvalue equation.
+If we use $H$ to make observations, then it's also easy to check the
+probability of observing $|H_\pm\rangle$ for a state written in terms
+of the computational basis, $|\psi\rangle = \alpha |0\rangle +
+\beta|1\rangle$.
+We just use known overlaps:
+
+$$
+\begin{align*}
+\langle H_\pm |\psi \rangle & =
+\frac{1}{2}\left[\alpha\langle +|0\rangle \pm \langle 0|0\rangle + \beta \langle +|1\rangle \pm \langle 0|1\rangle \right]\\
+& =
+\frac{1}{2}\left[\frac{\alpha}{\sqrt{2}} + \frac{\beta}{\sqrt{2}} \pm 1\right]\\
+\Longrightarrow \quad p(H = \pm 1) & = |\langle H_\pm |\psi \rangle|^2
+= \frac{1}{4}(\alpha + \beta \pm \sqrt{2})^2.
+\end{align*}
+$$
