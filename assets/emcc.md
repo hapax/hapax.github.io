@@ -187,29 +187,8 @@ $$
 e^{2\eta} = \frac{(\Delta x')^+}{(\Delta x')^-} \cdot \frac{\Delta
 x^-}{\Delta x^+} = \frac{\Delta x' + c\Delta t'}{\Delta x' - c\Delta t'}\cdot \frac{ -c\Delta\tau}{+c\Delta\tau} = \frac{(v + c)\gamma \Delta \tau}{(v - c)\gamma
 \Delta \tau} \cdot (-1) =
-\frac{c+v}{c-v}.
+\frac{c+v}{c-v}. \tag{2} \label{alpha}
 $$
-
-Rearranging shows
-
-$$
-\frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
-e^{-\eta}}{e^{\eta} + e^{-\eta}} = \mbox{tanh}(\eta).
-$$
-
-The parameter $\eta$ is called the *boost parameter*.
-It is the spacetime equivalent of a rotation.
-
----
-
-<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
-href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
-Or if you prefer, an orthogonal grid of such rulers.
-</p></div>
-
-### 3. Trip chaining<a id="sec-3" name="sec-3"></a>
-
-#### A. Velocity addition <a id="sec-A" name="sec-A"></a>
 
 We can use (\ref{alpha}) to easily chain multiple changes of frame.
 For instance, suppose a rocket moves at speed $v$ to the right in our
@@ -248,8 +227,29 @@ $$
 
 This is the famous *velocity addition* formula!
 
+---
+
+*Exercise 2.* Rearrange (\ref{alpha}) to derive
+
+$$
+\frac{v}{c} = \frac{e^{2\eta} - 1}{e^{2\eta} + 1} = \frac{e^{\eta} -
+e^{-\eta}}{e^{\eta} + e^{-\eta}} = \mbox{tanh}(\eta).
+$$
+
+The parameter $\eta$ is called the *boost parameter*.
+It is the spacetime equivalent of a rotation.
+
+---
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
+
+---
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
+href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
+Or if you prefer, an orthogonal grid of such rulers.
+</p></div>
+
 
 The last leg of our journey will take us to Newtonian mechanics, and
 *conservation laws* in particular.
