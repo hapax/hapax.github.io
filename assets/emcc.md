@@ -18,9 +18,9 @@ date:  2021-02-18
 4. <a href="#sec-4">Velocity addition</a>
 5. <a href="#sec-5">Conservation laws</a>
 
-### 1. Introduction <a id="sec-1" name="sec-1"></a>
+#### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
-### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
+#### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
 To make this obvious, we'll present Pythagoras' theorem in a weird
