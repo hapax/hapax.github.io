@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From solipsism to emergent time"
+title:  "Solipsism and emergent time"
 categories: [Physics, Philosophy]
 date:  2020-07-08
 ---
