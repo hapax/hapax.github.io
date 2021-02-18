@@ -62,5 +62,6 @@ $$
 H = \frac{1}{\sqrt{2}} = \begin{bmatrix}
 1 & 1 \\
 1 & -1 \\
-\end{matrix}.
+\end{matrix} = \frac{1}{\sqrt{2}}(X + Z).
 $$
+
