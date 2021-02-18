@@ -53,7 +53,7 @@ $$
 
 This will be our key hack!
 
-#### Hadamard made easy
+#### Humble Hadamard
 
 One of the most important gates in universal quantum computing is the
 Hadamard gate, since it is used to generate entanglement from
@@ -129,3 +129,5 @@ $$
 = \frac{1}{4}(\alpha + \beta \pm \sqrt{2})^2.
 \end{align*}
 $$
+
+#### Easy entanglement
