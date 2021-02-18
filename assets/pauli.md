@@ -140,3 +140,13 @@ $$
 $$
 
 #### Easy entanglement
+
+So, maybe you don't want to measure $H$ very often.
+We do use it all the time to entangle things, with the canonical
+example being the generation of an EPR pair.
+This is achieved using Hadamard and a CNOT gate, which acts on
+computational basis states as
+
+$$
+\text{CNOT}|m\rangle |n\rangle = |m\rangle |m\oplus n\rangle.
+$$
