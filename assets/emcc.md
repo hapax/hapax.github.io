@@ -240,7 +240,7 @@ $$
 \left(\frac{c+u}{c-u}\right) \quad \Longrightarrow \quad u'' = \frac{v + u}{1+ uv/c^2}, \tag{5} \label{add}
 $$
 
-after some algebra to isolate $u''$. This is the famous *velocity addition* formula!
+after some algebra to isolate $u''$. This is the famous velocity addition formula!
 
 ---
 
@@ -252,7 +252,7 @@ after some algebra to isolate $u''$. This is the famous *velocity addition* form
 
 *Exercise 3 (Lorentz transformations).* In this exercise, we will derive something called the
 Lorentz transformation. First, we define $\alpha = e^\eta$ for a
-*boost parameter* $\eta$. We will also use the *hyperbolic functions*
+"boost parameter" $\eta$. We will also use the hyperbolic functions
 
 $$
 \cosh(\eta) = \frac{1}{2}(e^\eta  + e^{-\eta}), \quad \sinh(\eta) =
