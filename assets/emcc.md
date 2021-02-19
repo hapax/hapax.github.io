@@ -495,7 +495,7 @@ m_0 v).
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Suppose that, in the frame $x, t$, the $2$-momenta before and
+(b) Suppose that the $2$-momenta before and
 after a collision are equal:
 </span>
 
