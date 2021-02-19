@@ -39,6 +39,8 @@ Second,
 [unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
 I have not made any references to the energy of light.
 This makes the argument less elegant but more self-contained.
+Finally, these notes have given me a chance to present some old ideas
+about how to quickly get to the heart of special relativity.
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
