@@ -439,12 +439,9 @@ With this rule, momentum is indeed conserved!
 
 ---
 
-*Exercise 4 (exploding in all frames).* We will consider a more 
-
-<span style="padding-left: 20px; display:block">
-(a) Show that the rule $m = \gamma m_0$ ensures momentum is conserved
-in any frame we choose to view the exploding bowling in.
-</span>
+*Exercise 4 (exploding in all frames).* Show that the rule $m = \gamma
+m_0$ ensures momentum is conserved in any frame we choose to view the
+exploding bowling in.
 
 ---
 
