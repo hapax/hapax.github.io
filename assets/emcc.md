@@ -475,8 +475,7 @@ We give a more general argument that $m = \gamma m_0$ in the next exercise.
 
 ---
 
-*Exercise 5 (mass increase).* In this problem, we'll derive
-the transformation rule for mass more carefully.
+*Exercise 5 (mass effect).* 
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
 The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
