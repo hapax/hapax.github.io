@@ -235,14 +235,20 @@ Combining the last two equations, we find
 
 $$
 \frac{u'' + c}{u'' - c} = \left(\frac{c+v}{c-v}\right)
-\left(\frac{c+u}{c-u}\right) \quad \Longrightarrow \quad u'' = \frac{v + u}{1+ uv/c^2}. \tag{5} \label{add}.
+\left(\frac{c+u}{c-u}\right) \quad \Longrightarrow \quad u'' = \frac{v + u}{1+ uv/c^2}, \tag{5} \label{add}
 $$
 
-This is the famous *velocity addition* formula!
+after some algebra to isolate $u''$. This is the famous *velocity addition* formula!
 
 ---
 
-*Exercise 2 (Lorentz transformations).* In this exercise, we will derive something called the
+*Exercise 2 (velocity addition).* Do the algebra to isolate $u''$ in (\ref{add}).
+
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 3 (Lorentz transformations).* In this exercise, we will derive something called the
 Lorentz transformation. First, we define $\alpha = e^\eta$ for a
 *boost parameter* $\eta$. We will also use the *hyperbolic functions*
 
