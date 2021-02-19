@@ -610,40 +610,36 @@ $$
 E_0 = m_0 c^2. \tag{11} \label{emcc2}
 $$
 
-<!-- These have slightly different interpretations, but both are often
-thought of Einstein's famous equation. -->
-I'll finish with a beautiful reinterpretation of (\ref{emcc1}) due to
+These have slightly different interpretations, but are both avatars of Einstein's famous equation.
+
+---
+
+*Exercise 6 (Dirac's).* There is a beautiful reinterpretation of (\ref{emcc1}) due to
 Dirac.
-First, note that
+
+<span style="padding-left: 20px; display:block">
+(a) First, show that
+</span>
 
 $$
-c^2\gamma^2 = \frac{c^2}{1 - (v/c)^2} = \frac{v^2 + c^2[1 - (v/c)^2]}{1 - (v/c)^2} = \gamma^2 v^2 + c^2. 
+c^2\gamma^2 = \gamma^2 v^2 + c^2. 
 $$
 
-Since the relativistic mass is $m = m_0 \gamma$, squaring
-(\ref{emcc1}) and using this expression gives
+<span style="padding-left: 20px; display:block">
+(b) Deduce that
+</span>
 
 $$
-\begin{align*}
-E^2 = (\gamma^2 c^2) m_0^2 c^2 
-& = (\gamma^2 v^2 + c^2) m_0^2 c^2  \\ & = (\gamma m_0 v)^2 c^2 +
-m_0^2 c^4 \\ & = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
-\end{align*}
+E^2 = p^2 c^2 + m_0^2 c^4.
 $$
 
-using $p = mv = \gamma m_0 v$.
-This neatly splits the total squared energy into a kinetic part
-$(pc)^2$ and a rest energy part $(m_0c^2)^2$.
-It also correctly suggests that for light (or any other massless
-particle), the total energy and momentum are related by
+<span style="padding-left: 20px; display:block">
+(c) For a massless particle like a photon of like, conclude that
+</span>
 
 $$
 E = pc.
 $$
-
----
-
-*Exercise 6.*
 
 ---
 
@@ -658,3 +654,8 @@ Newton's second law can be written $F = \Delta p/\Delta t$, i.e. the
 force is just the rate of change of momentum. When force is
 zero, so is the momentum change!
 </p></div>
+
+<!-- This neatly splits the total squared energy into a kinetic part
+$(pc)^2$ and a rest energy part $(m_0c^2)^2$.
+It also correctly suggests that for light (or any other massless
+particle), the total energy and momentum are related by -->
