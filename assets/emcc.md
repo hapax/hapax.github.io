@@ -41,9 +41,9 @@ Second,
 [unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
 I have not made any references to the energy of light.
 This makes the argument less elegant but perhaps a tad more accessible.
-Finally, these notes gave me an opportunity to dust off some old ideas
-about how to quickly get to the essence of special relativity.
-I hope you enjoy them!
+Finally, these notes gave me the opportunity to dust off some old ideas
+about how to present the essence of special relativity.
+I hope that essence is not lost in my attempt at brevity.
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
