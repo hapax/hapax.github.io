@@ -239,7 +239,7 @@ faster than the speed of light.
 
 ---
 
-*Exercise 2 (length contraction).* Time dilation immediately implies a result for moving rulers.
+*Exercise 2 (length contraction).* This immediately implies a result for moving rulers.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose a ruler passes us by at speed $v$.
