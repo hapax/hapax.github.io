@@ -536,7 +536,7 @@ frame.
 Recall from equation (\ref{rest}) that the rest mass of the halves is actually slightly smaller
 than $M_0$, and gets smaller with increasing $u$.
 That's kind of weird!
-It's almost as 
+It's almost as if the mass is getting converted into something else.
 
 ---
 
