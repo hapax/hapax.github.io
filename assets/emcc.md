@@ -40,7 +40,7 @@ standard treatments.
 Second,
 [unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
 I have not made any references to the energy of light.
-This makes the argument less elegant but more self-contained.
+This makes the argument less elegant but perhaps a tad more accessible.
 Finally, these notes gave me an opportunity to dust off some old ideas
 about how to quickly get to the essence of special relativity.
 I hope you enjoy them!
