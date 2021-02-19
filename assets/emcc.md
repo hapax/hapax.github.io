@@ -428,7 +428,7 @@ What if we only require invariance for this special case?
 Using our new coordinates $x^\pm$, we can investigate!
 
 <span style="padding-left: 20px; display:block">
-(a) Argue that $s^2 = 0$ is invariant provided
+(a) Argue that $s^2 = 0$ is invariant if and only if
 </span>
 
 $$
@@ -436,7 +436,8 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-for constants $\alpha^\pm$, which as above, we'll take to be positive.
+for constants $\alpha^\pm$. As above, we'll take these to be positive
+for simplicity.
 </span>
 
 <span style="padding-left: 20px; display:block">
