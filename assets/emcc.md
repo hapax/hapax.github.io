@@ -136,8 +136,8 @@ In the $x', y'$ system, we define functions $\cos(\theta)$ and
  $\sin(\theta)$ by
 
 $$
-x' = d\cos (\theta) = x\cos (\theta), \quad y' = \Lambda^{-1} d\sin (\theta)
-= \Lambda^{-1} x\sin (\theta),
+x' = d\cos (\theta) = x\cos (\theta), \quad \Lambda y' = -d\sin (\theta)
+= x\sin (\theta),
 $$
 
 where $x$ denotes the $x$-coordinate of the point.
@@ -148,7 +148,7 @@ coordinates
 </span>
 
 $$
-x' = -d\Lambda \sin(\theta) = -y\Lambda \sin(\theta), \quad y' =
+x' = d\Lambda \sin(\theta) = -y\Lambda \sin(\theta), \quad y' =
 d\cos(\theta) = y\cos(\theta).
 $$
 
@@ -174,12 +174,25 @@ d^2(\Delta x', \Delta y') = d^2(\Delta x, \Delta y) [\cos(\theta)^2 + \sin(\thet
 $$
 
 <span style="padding-left: 20px; display:block">
-Conclude that, if we *assume* Pythagoras' theorem, we have
+Pythagoras' theorem is then equivalent to the trigonometric identity
 </span>
 
 $$
 \cos(\theta)^2 + \sin(\theta)^2 = 1.
 $$
+
+<span style="padding-left: 20px; display:block">
+(d) Finally, show that for any point on the $y$ ruler,
+</span>
+
+$$
+\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)} =
+\frac{q}{\Lambda}
+$$
+
+<span style="padding-left: 20px; display:block">
+where $q =\frac{\Delta x'}{\Delta y'}$.
+</span>
 
 ---
 
@@ -364,6 +377,7 @@ $$
 These play the same role in relativity that the trigonometric
 functions $\sin, \cos, \tan$ play in Euclidean geometry, namely,
 parameterising transformations which keep length invariant.
+See Exercise 1 to convince yourself!
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose two events are separated by $\Delta x,
@@ -400,6 +414,7 @@ $$
 <span style="padding-left: 20px; display:block">
 (c) Show that (b) is consistent with the results of (\ref{alpha}),
 i.e. both imply $\tanh(\eta) = v/c$.
+Compare this to part (d) of Exercise 1.
 </span>
 
 <p align="center">
