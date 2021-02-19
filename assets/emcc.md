@@ -423,7 +423,7 @@ P = 2M u = 2M_0 \cdot \frac{u}{\sqrt{1+(u/c)^2}}.
 $$
 
 After the collision, one half is stationary, while the other half
-moves away at speed $v$ given by (\ref{double}). The associated
+moves away at speed $u'$ given by (\ref{double}). The associated
 Lorentz factor is
 
 $$
