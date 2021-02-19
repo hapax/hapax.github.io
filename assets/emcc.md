@@ -26,9 +26,8 @@ date:  2021-02-18
 
 I recently stumbled across the book "Why does $E = mc^2$?" by Brian
 Cox and Jeff Forshaw in a used bookstore.
-I realized, to my chagrin, that I didn't know the answer off the top
-of my head!
-As a theoretical physicist, that was somewhat embarrassing.
+I realized, to my chagrin, that I didn't know the answer!
+As a theoretical physicist, this was somewhat embarrassing.
 So, rather than buy the book, I decided I would make it my homework
 not only to derive it from what I knew about special relativity, but
 then to write it up in a self-contained, minimalist way.
