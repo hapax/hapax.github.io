@@ -17,7 +17,7 @@ date:  2021-02-18
 3. <a href="#sec-3">Time dilation</a>
 4. <a href="#sec-4">Velocity addition</a>
 5. <a href="#sec-5">Conservation laws</a>
-6. <a href="#sec-6">The exploding bowling ball</a>
+6. <a href="#sec-6">Fixing the bowling ball</a>
 7. <a href="#sec-7">Mass-energy equivalence</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -339,8 +339,6 @@ bowling balls shatter.
 We'll continue to assume that momentum and mass are conserved in any
 frame of reference in special relativity, and see what that implies.
 
-#### 6. The exploding bowling ball<a id="sec-6" name="sec-6"></a>
-
 To make things concrete, we'll use the example of an exploding bowling
 ball.
 Let's start in the rest frame of the bowling ball, where the mass is
@@ -399,6 +397,8 @@ Let's see what whether the implications are consistent.
 First of all, in the rest frame for the bowling ball, the two halves
 zoom off with mass $M$ and at speed $u$.
 This means their rest mass $m_0$ is *smaller* than $M$: -->
+
+#### 6. Fixing the bowling ball<a id="sec-6" name="sec-6"></a>
 
 We can check to see if this guess is sensible.
 First, note that in the stationary frame of the unexploded bowling
