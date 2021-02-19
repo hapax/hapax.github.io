@@ -473,8 +473,8 @@ m_0 v).
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Suppose that, in the frame $x, t$, $2$-momentum before and after a
-collision is equal:
+(b) Suppose that, in the frame $x, t$, the $2$-momenta before and
+after a collision are equal:
 </span>
 
 $$
@@ -482,13 +482,17 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-Argue that, after a Lorentz transformation (\ref{lorentz}) to $x', t'$,
-the $2$-momentum is conserved:
+Argue that, after a Lorentz transformation (\ref{lorentz}) to a few
+frame of reference $x', t'$, the $2$-momentum remains conserved:
 </span>
 
 $$
 \mathbf{p}'_i = \mathbf{p}'_f.
 $$
+
+<span style="padding-left: 20px; display:block">
+(c) At low speeds, 
+</span>
 
 ---
 
