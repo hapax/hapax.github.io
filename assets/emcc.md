@@ -343,16 +343,16 @@ frame of reference in special relativity, and see what that implies.
 
 To make things concrete, we'll use the example of an exploding bowling
 ball.
-We'll start in the rest frame of the bowling ball, where the mass is
-$2M_0$, and the momentum $P_0 = 0$, since the velocity is zero
+Let's start in the rest frame of the bowling ball, where the mass is
+$2M_0$ (as measured by stationary scales), and the momentum $P_i = 0$, since the velocity is zero
 by definition.
 At some point, an explosive device inside the bowling ball detonates,
 splitting it into two equal halves of mass $M_0$.
-To ensure momentum is conserved, these must zoom off with equal and
-opposite velocities:
+To ensure momentum is conserved, these zoom off with equal and
+opposite velocities $\pm u$, so
 
 $$
-P_0 = 0 = M_0u - M_0u.
+P_f = M_0(u) + M_0(-u) = 0 = P_i.
 $$
 
 Let's now go to the frame of the part moving left at speed $u$.
@@ -360,7 +360,7 @@ Before the explosion, the bowling ball (in this frame of reference)
 was moving at speed $u$ to the right, so the momentum was presumably
 
 $$
-P = 2M_0u.
+P'_i = 2M_0u.
 $$
 
 After the collision, one half is stationary (we have chosen to go to
@@ -374,14 +374,21 @@ $$
 If the second half has mass $M_0$, the momentum after the collision is
 
 $$
-P' = \frac{2M_0u}{1 + (u/c)^2}.
+P'_f = \frac{2M_0u}{1 + (u/c)^2}.
 $$
 
-This is clearly different from $P$!
+This is clearly different from the initial momentum $P'_i$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
-
 But this is a little too quick.
+Mass may be conserved *in a frame*, but it need not be invariant
+*between frames*.
+And we can fix $P'_f$ by increasing the mass.
+Inspired by our results for time dilation and length contraction, we
+guess that a *rest mass* $m_0$ (measured in the frame it is
+stationary) increases as $m = \gamma m_0$ in a moving frame.
+
+<!-- 
 We said that mass is conserved in any given frame, but we never forbid
 it from *changing between frames*! Perhaps, like time and length, the mass of an object can
 change when it speeds up.
@@ -391,7 +398,11 @@ the stationary frame increases as $m = \gamma m_0$ in a moving frame.
 Let's see what whether the implications are consistent.
 First of all, in the rest frame for the bowling ball, the two halves
 zoom off with mass $M$ and at speed $u$.
-This means their rest mass $m_0$ is *smaller* than $M$:
+This means their rest mass $m_0$ is *smaller* than $M$: -->
+
+We can check to see if this guess is sensible.
+First, note that in the stationary frame of the unexploded bowling
+ball, the exploded halves have a rest mass less than $M_0$:
 
 $$
 m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1-(u/c)^2}.
