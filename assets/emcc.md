@@ -614,8 +614,8 @@ These have slightly different interpretations, but are both avatars of Einstein'
 
 ---
 
-*Exercise 6 (Dirac's).* There is a beautiful reinterpretation of (\ref{emcc1}) due to
-Dirac.
+*Exercise 6 (gravitational redshift).* We can use mass-energy equivalence to learn
+ some fun facts about photons.
 
 <span style="padding-left: 20px; display:block">
 (a) First, show that
@@ -634,12 +634,27 @@ E^2 = p^2 c^2 + m_0^2 c^4.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) For a massless particle like a photon of like, conclude that
+(c) A photon is massless $m_0 = 0$, and has energy $E = \hbar \omega$
+for Planck's constant $\hbar$ and angular frequency $\omega$. Show that
 </span>
 
 $$
-E = pc.
+E = pc = \hbar \omega \quad \Longrightarrow \quad p = \hbar \omega.
 $$
+
+<span style="padding-left: 20px; display:block">
+(d) A photon has zero rest mass. Argue, however, that for momentum
+$p$,
+</span>
+
+$$
+m = \frac{p}{c}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(d) Suppose a ray of light leaves a gravitational field like that of
+the earth.
+</span>
 
 ---
 
