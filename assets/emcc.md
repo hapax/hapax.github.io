@@ -621,12 +621,13 @@ c^2\gamma^2 = \frac{c^2}{1 - (v/c)^2} = \frac{v^2 + c^2[1 - (v/c)^2]}{1 - (v/c)^
 $$
 
 Since the relativistic mass is $m = m_0 \gamma$, squaring
-(\ref{emcc1}) and using our expression for $c^2\gamma^2$ gives
+(\ref{emcc1}) and using this expression gives
 
 $$
 \begin{align*}
 E^2 = (\gamma^2 c^2) m_0^2 c^2 
- = (\gamma^2 v^2 + c^2) m_0^2 c^2  = (\gamma m_0 v)^2 c^2 + m_0^2 c^4 = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
+& = (\gamma^2 v^2 + c^2) m_0^2 c^2  \\ & = (\gamma m_0 v)^2 c^2 +
+m_0^2 c^4 \\ & = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
 \end{align*}
 $$
 
