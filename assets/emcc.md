@@ -33,6 +33,12 @@ then to write it up in a self-contained, minimalist way.
 Here are the results.
 
 Before we get cracking, I'll give a TLDR version.
+Relativity is basically what you get when you allow space and time to
+rotate into each other while keeping the speed of light unchanged.
+If I send a clock in the same direction as a light ray, the light ray
+appears to travel a shorter distance; the clock must slow down to make
+sure the speed is unchanged.
+Thus, moving clocks slow down.
 
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
