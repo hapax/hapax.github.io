@@ -45,8 +45,7 @@ Finally, these notes gave me the opportunity to dust off some old ideas
 about how to present the essence of special relativity, which strongly
 guided the approach I took, and in particular the restriction to one
 spatial dimension.
-I found the process enlightening, and hope my eccentric and meandering
-approach can be of benefit to others.
+I found the process enlightening, and hope my mildly eccentric approach can be of benefit to others.
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
