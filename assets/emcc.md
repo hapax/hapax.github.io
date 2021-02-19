@@ -612,6 +612,20 @@ These have slightly different interpretations, but both are often
 thought of Einstein's famous equation.
 I'll finish with a beautiful reinterpretation of (\ref{emcc1}) due to
 Dirac.
+First, note that
+
+$$
+c^2\gamma^2 = \frac{c^2}{1 - (v/c)^2} = \frac{v^2}{1 - (v/c)^2} + c^2 = \gamma^2 v^2 + c^2. 
+$$
+
+Since the relativistic mass is $m = m_0 \gamma$, we can rewrite
+(\ref{emcc1}) as
+
+$$
+E^2 = \gamma^2 m_0^2 c^4 = \frac{m_0^2 c^4}{1 - (u/c)^2}.
+$$
+
+E^2 = \gamma^2 v^2 m_0^2 + m_0^2 
 
 #### References
 
@@ -628,12 +642,3 @@ Newton's second law can be written $F = \Delta p/\Delta t$, i.e. the
 force is just the change in momentum with time. When force is
 zero, so is the momentum change!
 </p></div>
-
-<span style="padding-left: 20px; display:block">
-(b) Confirm that the spacetime lengths of $\mathbf{v}$ and
-$\mathbf{p}$ obey
-</span>
-
-$$
-s^2(\mathbf{v}) = -c^2, \quad s^2(\mathbf{p}) = -m_0^2c^2.
-$$
