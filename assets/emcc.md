@@ -624,12 +624,12 @@ Since the relativistic mass is $m = m_0 \gamma$, squaring
 (\ref{emcc1}) and using our expression for $c^2\gamma^2$ gives
 
 $$
-\begin{align}
+\begin{align*}
 E^2 = (\gamma^2 c^2) m_0^2 c^2 
 & = (\gamma^2 v^2 + c^2) m_0^2 c^2 \\
 & = (\gamma m_0 v)^2 c^2 + m_0^2 c^4 \\
 & = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
-\end{align}
+\end{align*}
 $$
 
 using $p = mv = \gamma m_0 v$.
