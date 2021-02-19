@@ -405,7 +405,7 @@ First, note that in the stationary frame of the unexploded bowling
 ball, the exploded halves have a rest mass less than $M_0$:
 
 $$
-m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1-(u/c)^2}.
+m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1-\left(\frac{u}{c}\right)^2}.
 $$
 
 In the moving frame, the original bowling ball moves at speed $u$, so
