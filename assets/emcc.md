@@ -35,6 +35,10 @@ Here are the results.
 A few preliminary comments. First, the exercises are optional, and
 designed to connect my somewhat unconventional treatment to more
 standard presentations.
+Second,
+[unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
+I have not made any references to the energy of light.
+This makes the argument less elegant but more self-contained.
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
@@ -604,8 +608,6 @@ These have slightly different interpretations, but both are often
 thought of Einstein's famous equation.
 
 #### References
-
-https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf
 
 ---
 
