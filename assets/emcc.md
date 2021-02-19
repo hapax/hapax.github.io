@@ -27,8 +27,12 @@ Cox and Jeff Forshaw in a used bookstore.
 I realized, to my chagrin, that I didn't know the answer off the top
 of my head!
 As a theoretical physicist, that was somewhat embarrassing.
-So, rather than buy the book, I decided I would set out to rediscover
-it myself.
+So, rather than buy the book, I decided I would make it my homework
+not only to derive it from what I knew about special relativity, but
+then to write it up in a self-contained, minimalist way.
+Here are the results.
+
+Before we get cracking, I'll give a TLDR version.
 
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
