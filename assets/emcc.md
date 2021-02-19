@@ -334,9 +334,9 @@ also the sum of masses.
 In contrast, kinetic energy need not be conserved, since energy can
 change forms, e.g. from kinetic to energy of deformation when the
 bowling balls shatter.
-
 We'll continue to assume that momentum and mass are conserved in any
 frame of reference in special relativity, and see what that implies.
+
 To make things concrete, we'll use the example of an exploding bowling
 ball.
 We'll start in the rest frame of the bowling ball, where the mass is
