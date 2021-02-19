@@ -248,7 +248,8 @@ after some algebra to isolate $u''$. This is the famous velocity addition formul
 
 ---
 
-*Exercise 2 (the algebra of addition).* Do the algebra to isolate $u''$ in (\ref{add}).
+*Exercise 2 (the algebra of addition).* Do the algebra to make $u''$
+ the subject in (\ref{add}).
 
 <p align="center">
   ⁂
