@@ -585,10 +585,17 @@ The maximum amount that can be converted into kinetic energy is
 $M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
 This suggests that the total energy of the body is given by the LHS of
 (\ref{energy}). To switch to the usual notation with relativistic mass
-$m$, we have the most famous equation of all time:
+$m$, we have finally arrived at the most famous equation of all time:
 
 $$
 E = mc^2.
+$$
+
+But rest mass also has energy content, appearing on the RHS of
+(\ref{energy}):
+
+$$
+E_0 = m_0 c^2.
 $$
 
 #### References
