@@ -39,11 +39,13 @@ mostly designed to connect my somewhat unconventional presentation to
 standard treatments.
 Second,
 [unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
-I have not made any references to the energy of light.
-This makes the argument less elegant but perhaps a tad more accessible.
+I have not made any references to the energy of light, and stuck to
+one spatial dimension.
+This makes the argument longer but more self-contained.
 Finally, these notes gave me the opportunity to dust off some old ideas
-about how to present the essence of special relativity.
-I hope that essence is not lost in my attempt at brevity.
+about how to present the essence of special relativity, which strongly
+guided the approach I took.
+Although I found the process enlightening, I'm hop
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
@@ -52,12 +54,6 @@ If I send a clock in the same direction as a light ray, the light ray
 appears to travel a shorter distance; the clock must slow down to make
 sure the speed is unchanged.
 Thus, moving clocks slow down. -->
-
----
-
-*Exercise 1.*
-
----
 
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
@@ -121,6 +117,8 @@ any two events, as measured by an observer at constant speed.
 As a special case, $s^2 = 0$ for a light ray travelling from $A$ to
 $B$, whatever speed *we* are moving.
 Hence, light always travels with velocity $c$.
+(See Exercise 4 for a discussion of what happens if we *only* ask for
+invariance of $s^2 = 0$.)
 But the implications of (\ref{s2}) are much broader!
 
 #### 3. Time dilation <a id="sec-3" name="sec-3"></a>
@@ -207,7 +205,7 @@ frame. This is called *length contraction*.
 There is a cute way to understand how measurements change when we
 speed up or slow down.
 Since the spacetime length is a difference of squares, we can
-factorise it:
+factorise it (see also Exercise 1):
 
 $$
 s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = (\Delta x + c
@@ -342,6 +340,27 @@ $$
 i.e. both imply $\tanh(\eta) = v/c$.
 </span>
 
+<p align="center">
+  ⁂
+  </p>
+
+*Exercise 4 (lucky light).* We've assumed that (\ref{s2}) is invariant
+in general, but light obeys $s^2 = 0$.
+What if we only require invariance for this special case?
+Using our new coordinates $x^\pm$, we can investigate!
+
+<span style="padding-left: 20px; display:block">
+(a) Argue that $s^2 = 0$ is invariant provided
+</span>
+
+$$
+\Delta x^\pm \mapsto (\Delta x')^\pm = \alpha_\pm \Delta x^+
+$$
+
+<span style="padding-left: 20px; display:block">
+for constants $\alpha^\pm$.
+</span>
+
 ---
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
@@ -432,7 +451,7 @@ This means their rest mass $m_0$ is *smaller* than $M$: -->
 
 ---
 
-*Exercise 4 (exploding in other frames).* Consider a frame of
+*Exercise 5 (exploding in other frames).* Consider a frame of
  reference in which the unexploded bowling ball moves right at speed
  $v$.
 
@@ -514,10 +533,11 @@ conserved in the next exercise.
 
 ---
 
-*Exercise 5 ($2$-quantities).* 
+*Exercise 6 ($2$-momentum).* 
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
-The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
+The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are
+vectors [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>]
 
 $$
 \mathbf{v} = \frac{1}{\Delta \tau}(\Delta t, \Delta x) , \quad \mathbf{p} = m_0\mathbf{v}.
@@ -620,7 +640,7 @@ These have slightly different interpretations, but are both avatars of Einstein'
 
 ---
 
-*Exercise 6 (energy-momentum relation).* We end with an equivalent
+*Exercise 7 (energy-momentum relation).* We end with an equivalent
  form of Einstein's equation
 
 <span style="padding-left: 20px; display:block">
@@ -665,6 +685,12 @@ href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
 Newton's second law can be written $F = \Delta p/\Delta t$, i.e. the
 force is just the rate of change of momentum. When force is
 zero, so is the momentum change!
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
+href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
+For three dimensions of space and one of time, these are called
+$4$-velocity and $4$-momentum.
 </p></div>
 
 <!-- This neatly splits the total squared energy into a kinetic part
