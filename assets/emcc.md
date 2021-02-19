@@ -140,7 +140,7 @@ But the implications of (\ref{s2}) are much broader!
  convincing, in this exercise we'll describe relative rotations more
  explicitly.
 Let's take our original perpendicular rulers $x, y$ and rotate
-them clockwise by some angle $\theta$ into new rulers $x', y'$,
+them anticlockwise by some angle $\theta$ into new rulers $x', y'$,
  keeping the origin fixed for the moment.
 Mark a point a distance $d$ along the $x$ axis.
 In the $x', y'$ system, we define functions $\cos(\theta)$ and
