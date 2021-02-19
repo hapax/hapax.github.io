@@ -379,11 +379,11 @@ $$
 This is clearly different from $P$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
-
 But this is a little too quick.
 We said that mass is conserved in any given frame, but *not* that it
 is invariant! Perhaps, like time and length, the mass of an object can
 change when it speeds up.
+
 Looking at the formula for $P''$, we see that if the mass *increases*
 by a factor of $1 + (u/c)^2$, then it will equal $P'$.
 But since $P'$ involves a moving mass, that should probably change
