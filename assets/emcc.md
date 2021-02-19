@@ -460,7 +460,8 @@ $$
 <span style="padding-left: 20px; display:block">
 (d) Finally, conclude that if we restrict to transformations induced
 by relative motion between frames, invariance of the speed of light
-implies invariance of $s^2$ for any value.
+implies invariance of $s^2$ for any value. *Hint*. What is the
+relative velocity for a pure scaling, i.e. $\alpha = 1$?
 </span>
 
 ---
