@@ -449,7 +449,7 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) Conclude that the most general transformation preserving $s^2 = 0$
+(c) Argue that the most general transformation preserving $s^2 = 0$
 is a Lorentz transformation followed by a *uniform scaling*:
 </span>
 
@@ -458,7 +458,7 @@ x \mapsto x' = \lambda x, \quad t \mapsto t' = \lambda t.
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) Finally, argue that if we restrict to transformations due to
+(d) Finally, conclude that if we restrict to transformations due to
 relative velocity between frames, invariance of the speed of light
 implies invariance of $s^2$ for any value.
 </span>
