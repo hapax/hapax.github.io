@@ -451,8 +451,32 @@ With this rule, momentum is indeed conserved!
 
 ---
 
-*Exercise 4 (deriving the mass rule).* In this problem, we'll derive
- the transformation rule for mass more carefully.
+*Exercise 4 (mass increase).* In this problem, we'll derive
+the transformation rule for mass more carefully.
+Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
+time $\Delta \tau$.
+The $2$-*velocity* $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
+
+$$
+\mathbf{v} = \frac{1}{\Delta \tau}(\Delta t, \Delta x) , \quad \mathbf{p} = m_0\mathbf{v}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(a) Show that $2$-velocity can be written
+</span>
+
+$$
+\mathbf{v} = (\gamma, \gamma v).
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Confirm that the spacetime lengths of $\mathbf{v}$ and
+$\mathbf{p}$ obey
+</span>
+
+$$
+s^2(\mathbf{v}) = -c^2, \quad s^2(\mathbf{p}) = -m_0^2c^2.
+$$
 
 ---
 
