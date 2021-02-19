@@ -534,6 +534,8 @@ yet to explain why $E = mc^2$.
 The key is to return to the exploding bowling ball in its rest frame.
 Recall from equation (\ref{rest}) that the rest mass of the halves is actually slightly smaller
 than $M_0$.
+Why did it get smaller?
+That's kind of weird.
 
 ---
 
