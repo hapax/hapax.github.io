@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Why does <i>E</i> = <i>mc</i>²?"
 categories: [Physics, Mathematics, Hacks]
-date:  2021-02-18
+date:  2021-02-19
 ---
 
-**February 18, 2021.** *A self-contained proof of the most famous
+**February 19, 2021.** *A self-contained proof of the most famous
   equation in history. I start with a crash course on special
   relativity, emphasizing the invariance of spacetime lengths, and end
   by considering the relativistic mechanics of an exploding bowling ball.*
