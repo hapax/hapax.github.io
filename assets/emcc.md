@@ -35,14 +35,15 @@ then to write it up in a self-contained, minimalist way.
 Here are the results.
 
 A few preliminary comments. First, the exercises are optional, and
-designed to connect my somewhat unconventional treatment to more
-standard presentations.
+mostly designed to connect my somewhat unconventional presentation to
+standard treatments.
 Second,
 [unlike Einstein](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf),
 I have not made any references to the energy of light.
 This makes the argument less elegant but more self-contained.
-Finally, these notes have given me a chance to present some old ideas
-about how to quickly get to the heart of special relativity.
+Finally, these notes gave me an opportunity to dust off some old ideas
+about how to quickly get to the essence of special relativity.
+I hope you enjoy them!
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
