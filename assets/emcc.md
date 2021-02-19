@@ -8,7 +8,9 @@ date:  2021-02-18
 ---
 
 **February 18, 2021.** *A self-contained proof of the most famous
-  equation in history.*
+  equation in history. I start with a crash course on special
+  relativity, emphasizing the invariance of spacetime lengths, and end
+  by considering the relativistic mechanics of an exploding bowling ball.*
 
 ### Contents
 
