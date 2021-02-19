@@ -408,7 +408,7 @@ u'_\pm = \frac{v \pm u}{1 \pm uv/c^2}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Assuming each half has mass $M_0$, show that momentum is only
+(b) If each half has mass $M_0$, show momentum is only
 conserved for $u = 0$ or $v = c$.
 </span> 
 
