@@ -373,7 +373,7 @@ $$
 P_f = M_0u + M_0(-u) = 0 = P_i.
 $$
 
-So momentum is indeed conserved. Let's now go to the frame of the part moving left at speed $u$.
+Let's now go to the frame of the part moving left at speed $u$.
 Before the explosion, the bowling ball (in this frame of reference)
 was moving at speed $u$ to the right, so the momentum was presumably
 
