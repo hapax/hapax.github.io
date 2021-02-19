@@ -531,11 +531,12 @@ m_0 v$ are conserved in one frame, they are conserved in any other!
 
 We've motivated the transformation law $m = \gamma m_0$, but we have
 yet to explain why $E = mc^2$.
-The key is to return to the exploding bowling ball in its rest frame.
+To see why, let's return to the exploding bowling ball in its rest
+frame.
 Recall from equation (\ref{rest}) that the rest mass of the halves is actually slightly smaller
-than $M_0$.
-Why did it get smaller?
-That's kind of weird.
+than $M_0$, and gets smaller with increasing $u$.
+That's kind of weird!
+It's almost as 
 
 ---
 
