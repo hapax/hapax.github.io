@@ -149,8 +149,10 @@ where $\Delta \tau$ refers to the clock which is stationary in our frame.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Using time dilation, show that the *proper length* $L$ of the
-ruler, as measured in its frame, is
+(b) The *proper length* $L$ of the ruler is the length measured in the
+frame where it is stationary. It can read this off by looking at our
+clock.
+Using time dilation, show that
 </span>
 
 $$
