@@ -632,6 +632,8 @@ m_0^2 c^4 \\ & = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
 $$
 
 using $p = mv = \gamma m_0 v$.
+This neatly splits the total squared energy into a kinetic part
+$(pc)^2$ and a rest energy part $(m_0c^2)^2$.
 
 #### References
 
