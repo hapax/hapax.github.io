@@ -626,9 +626,7 @@ Since the relativistic mass is $m = m_0 \gamma$, squaring
 $$
 \begin{align*}
 E^2 = (\gamma^2 c^2) m_0^2 c^2 
-& = (\gamma^2 v^2 + c^2) m_0^2 c^2 \\
-& = (\gamma m_0 v)^2 c^2 + m_0^2 c^4 \\
-& = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
+ = (\gamma^2 v^2 + c^2) m_0^2 c^2  = (\gamma m_0 v)^2 c^2 + m_0^2 c^4 = p^2 c^2 + m_0^2 c^4, \tag{12} \label{dirac}
 \end{align*}
 $$
 
