@@ -428,7 +428,8 @@ First, note that in the stationary frame of the unexploded bowling
 ball, the exploded halves have a rest mass less than $M_0$:
 
 $$
-m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1-\left(\frac{u}{c}\right)^2}.
+m_0 = \frac{M_0}{\gamma} =
+M_0\sqrt{1-\left(\frac{u}{c}\right)^2}. \tag{7} \label{rest}
 $$
 
 In the moving frame, the original bowling ball moves at speed $u$, so
@@ -533,12 +534,8 @@ and second component (relativistic momentum) are both conserved.
 We've motivated the transformation law $m = \gamma m_0$, but we have
 yet to explain why $E = mc^2$.
 The key is to return to the exploding bowling ball in its rest frame.
-Recall that the rest mass of the halves is actually slightly smaller
-than $M_0$:
-
-$$
-m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1 - \left(\frac{u}{c}\right)^2}.
-$$
+Recall from (\ref{rest}) the rest mass of the halves is actually slightly smaller
+than $M_0$.
 
 ---
 
