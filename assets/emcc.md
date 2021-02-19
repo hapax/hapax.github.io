@@ -343,7 +343,7 @@ frame of reference in special relativity, and see what that implies.
 To make things concrete, we'll use the example of an exploding bowling
 ball.
 We'll start in the rest frame of the bowling ball, where the mass is
-$2M_0$, and the momentum $P_\text{rest} = 0$, since the velocity is zero
+$2M_0$, and the momentum $P_0 = 0$, since the velocity is zero
 by definition.
 At some point, an explosive device inside the bowling ball detonates,
 splitting it into two equal halves of mass $M_0$.
@@ -351,7 +351,7 @@ To ensure momentum is conserved, these must zoom off with equal and
 opposite velocities:
 
 $$
-P_\text{rest} = 0 = M_0u - M_0u.
+P_0 = 0 = M_0u - M_0u.
 $$
 
 Let's now go to the frame of the part moving left at speed $u$.
@@ -370,7 +370,7 @@ $$
 v = \frac{2u}{1 + u^2/c^2}. \tag{6} \label{double}
 $$
 
-If the second half has mass $M$, the momentum after the collision is
+If the second half has mass $M_0$, the momentum after the collision is
 
 $$
 P' = \frac{2M_0u}{1 + (u/c)^2}.
@@ -379,23 +379,34 @@ $$
 This is clearly different from $P$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
+
 But this is a little too quick.
 We said that mass is conserved in any given frame, but *not* that it
 is invariant! Perhaps, like time and length, the mass of an object can
 change when it speeds up.
-
-Looking at the formula for $P''$, we see that if the mass *increases*
-by a factor of $1 + (u/c)^2$, then it will equal $P'$.
-But since $P'$ involves a moving mass, that should probably change
-too.
-So, guided by our clock example, we are simply going to guess that a
-mass $M_0$ in its rest frame increases as $M = \gamma M_0$ when it
-starts moving.
-This means that, before the explosion, in the moving frame the bowling
-ball had momentum
+The formula for $P'$ can be balanced out if the mass *increases*, so
+inspired by time dilation, we are going to guess that a mass $m_0$ in
+the stationary frame increases as $m = \gamma m_0$ in a moving frame.
+Let's see what whether the implications are consistent.
+First of all, in the rest frame for the bowling ball, the two halves
+zoom off with mass $M$ and at speed $u$.
+This means their rest mass $m_0$ is *smaller* than $M$:
 
 $$
-P = 2M_0 \gamma u = 2M_0 \cdot \frac{u}{\sqrt{1-(u/c)^2}}.
+m_0 = \frac{M_0}{\gamma} = M_0\sqrt{1-(u/c)^2}.
+$$
+
+In the moving frame, the original bowling ball moves at speed $u$, so
+its mass is
+
+$$
+2M = 2M_0 \gamma,
+$$
+
+and hence its momentum is
+
+$$
+P = 2M u = 2M_0 \cdot \frac{u}{\sqrt{1+(u/c)^2}}.
 $$
 
 After the collision, one half is stationary, while the other half
@@ -412,12 +423,13 @@ $$
 \end{align*}
 $$
 
-The momentum for this second half is
+The momentum for this second half is therefore
 
 $$
-P' = 2 M_0 \gamma' v = 2M_0 \cdot \frac{1 +
+P' = 2 m_0 \gamma' v = 2 M_0 \cdot \frac{\gamma' v}{\gamma} = 2M_0 \cdot \frac{1 +
 (u/c)^2}{1 - (u/c)^2} \cdot \frac{2u}{1 + u^2/c^2} = 
 $$
+
 
 #### Conclusion
 
@@ -587,3 +599,40 @@ since energy can be converted from one form (like kinetic) into
 another (like thermal).
 We are going to go in a slightly different direction, and consider a
 sneaky conservation law which is not usually stated: *conservation of mass*.
+
+---
+
+Looking at the formula for $P''$, we see that if the mass *increases*
+by a factor of $1 + (u/c)^2$, then it will equal $P'$.
+But since $P'$ involves a moving mass, that should probably change
+too.
+So, guided by our clock example, we are simply going to guess that a
+mass $M_0$ in its rest frame increases as $M = \gamma M_0$ when it
+starts moving.
+This means that, before the explosion, in the moving frame the bowling
+ball had momentum
+
+$$
+P = 2M_0 \gamma u = 2M_0 \cdot \frac{u}{\sqrt{1-(u/c)^2}}.
+$$
+
+After the collision, one half is stationary, while the other half
+moves away at speed $v$ given by (\ref{double}). The associated
+Lorentz factor is
+
+$$
+\begin{align*}
+\gamma' = \frac{1}{\sqrt{1 - (v/c)^2}} 
+& = \left[1 - \frac{4u^2}{c^2(1 + (u/c)^2)^2}\right]^{-1/2} \\
+& = \frac{c(1 + (u/c)^2)}{\sqrt{c^2(1 + (u/c)^2)^2 - 4u^2}} \\
+& = \frac{1 + (u/c)^2}{\sqrt{(1 - (u/c)^2)^2}} = \frac{1 +
+(u/c)^2}{1 - (u/c)^2}.
+\end{align*}
+$$
+
+The momentum for this second half is
+
+$$
+P' = 2 M_0 \gamma' v = 2M_0 \cdot \frac{1 +
+(u/c)^2}{1 - (u/c)^2} \cdot \frac{2u}{1 + u^2/c^2} = 
+$$
