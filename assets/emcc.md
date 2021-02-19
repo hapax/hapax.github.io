@@ -182,17 +182,15 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) Finally, show that for any point on the $y$ ruler,
+(d) Consider any point on the $y$ ruler, and define $q =\Delta
+x'/\Delta y'$.
+Verify that
 </span>
 
 $$
 \tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)} =
-\frac{q}{\Lambda}
+\frac{q}{\Lambda}.
 $$
-
-<span style="padding-left: 20px; display:block">
-where $q =\frac{\Delta x'}{\Delta y'}$.
-</span>
 
 ---
 
