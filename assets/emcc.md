@@ -534,10 +534,18 @@ yet to explain why $E = mc^2$.
 To see why, let's return to the exploding bowling ball in its rest
 frame.
 Recall from equation (\ref{rest}) that the rest mass of the halves is actually slightly smaller
-than $M_0$, and gets smaller with increasing $u$.
+than $M_0$, and gets smaller as the velocity $u$ increases.
 That's kind of weird!
 It's almost as if the mass is getting converted into something else.
-To see exactly what's going on, 
+To see exactly what's going on, let's consider the low-speed limit,
+where $u \ll c$.
+Then, using the
+[binomial approximation](https://hapax.github.io/mathematics/physics/hacker/binomial/),
+we have
+
+$$
+\sqrt{1 - \left(\frac{u}{c}\right)^2} \approx 1 - \frac{u^2}{2c^2}.
+$$
 
 ---
 
