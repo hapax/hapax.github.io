@@ -16,7 +16,8 @@ date:  2021-02-18
 2. <a href="#sec-2">Spacetime trigonometry</a>
 3. <a href="#sec-3">Time dilation</a>
 4. <a href="#sec-4">Velocity addition</a>
-5. <a href="#sec-5">Exploding bowling balls</a>
+5. <a href="#sec-5">Conservation laws</a>
+6. <a href="#sec-6">Massive changes</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -303,7 +304,7 @@ i.e. both imply $\tanh(\eta) = v/c$.
 
 ---
 
-#### 5. Exploding bowling balls<a id="sec-5" name="sec-5"></a>
+#### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
 So far, we haven't really done any physics, just bizarro trigonometry.
 Let's rectify that and introduce some ideas from Newtonian mechanics.
@@ -366,6 +367,20 @@ addition formula (\ref{add}):
 $$
 v = \frac{2u}{1 + u^2/c^2}.
 $$
+
+If the second half has mass $M$, the momentum after the collision is
+
+$$
+P'' = \frac{2Mu}{1 + u^2/c^2}.
+$$
+
+This is clearly different from $P'$!
+It looks, naively, as if conservation of mass and momentum are not
+consistent with relativity after all.
+
+#### 6. Massive changes<a id="sec-6" name="sec-6"></a>
+
+But this is a little too quick.
 
 #### Conclusion
 
