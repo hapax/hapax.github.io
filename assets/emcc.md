@@ -376,8 +376,7 @@ $$
 P'_f = \frac{2M_0u}{1 + (u/c)^2}.
 $$
 
-This is clearly different from the initial momentum $P'_i$ whenever
-$u$ is nonzero!
+This is clearly different from the initial momentum $P'_i$ for nonzero $u$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
 
