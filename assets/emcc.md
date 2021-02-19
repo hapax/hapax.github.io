@@ -481,9 +481,13 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-Show that, after a Lorentz transformation (\ref{lorentz}) to $x', t'$,
-the $2$-momentum is conserved, $\mathbf{p}'_i = \mathbf{p}'_f$.
+Argue that, after a Lorentz transformation (\ref{lorentz}) to $x', t'$,
+the $2$-momentum is conserved:
 </span>
+
+$$
+\mathbf{p}'_i = \mathbf{p}'_f.
+$$
 
 ---
 
