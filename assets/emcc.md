@@ -554,6 +554,14 @@ Remember that $M_0$ is fixed. As $u$ increases, the term on the right
 gets bigger, so the rest mass $m_0$ must get smaller.
 That's kind of weird!
 It's almost as if the mass is getting converted into something else.
+If we multiply this equation through by $c^2$, it becomes clearer what
+this "something else" is:
+
+$$
+M_0c^2  \approx m_0c^2 + \frac{1}{2}m_0 u^2.
+$$
+
+The last term is just the classical kinetic energy of the fragment.
 
 ---
 
