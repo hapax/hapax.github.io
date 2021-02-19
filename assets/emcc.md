@@ -644,6 +644,6 @@ Or if you prefer, an orthogonal grid of such rulers.
 <div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
 href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
 Newton's second law can be written $F = \Delta p/\Delta t$, i.e. the
-force is just the change in momentum with time. When force is
+force is just the rate of change of momentum. When force is
 zero, so is the momentum change!
 </p></div>
