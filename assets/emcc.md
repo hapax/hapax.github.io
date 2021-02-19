@@ -605,11 +605,13 @@ $$
 Rest mass also has energy content:
 
 $$
-E_0 = m_0 c^2. \tag{11} \label{emcc1}
+E_0 = m_0 c^2. \tag{11} \label{emcc2}
 $$
 
 These have slightly different interpretations, but both are often
 thought of Einstein's famous equation.
+I'll finish with a beautiful reinterpretation of (\ref{emcc1}) due to
+Dirac.
 
 #### References
 
