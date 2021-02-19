@@ -332,7 +332,7 @@ $$
 A sneakier conserved quantity is *mass*.
 We usually assume $m_1$ and $m_2$ remain fixed, but if the bowling
 balls shatter into parts, not only is the total $P$ conserved, but
-also the sum of masses.
+also the sum of masses of the fragments.
 In contrast, kinetic energy need not be conserved, since energy can
 change forms, e.g. from kinetic to energy of deformation when the
 bowling balls shatter.
