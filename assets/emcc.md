@@ -16,7 +16,7 @@ date:  2021-02-18
 2. <a href="#sec-2">Spacetime trigonometry</a>
 3. <a href="#sec-3">Time dilation</a>
 4. <a href="#sec-4">Velocity addition</a>
-5. <a href="#sec-5">Conservation laws</a>
+5. <a href="#sec-5">Exploding bowling balls</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -303,7 +303,7 @@ i.e. both imply $\tanh(\eta) = v/c$.
 
 ---
 
-#### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
+#### 5. Exploding bowling balls<a id="sec-5" name="sec-5"></a>
 
 So far, we haven't really done any physics, just bizarro trigonometry.
 Let's rectify that and introduce some ideas from Newtonian mechanics.
@@ -320,18 +320,26 @@ A consequence of Newton's laws
 is that if the force on a collection of bowling balls is zero, the
 total momentum cannot change even if they collide.
 We say that momentum is *conserved*.
+So if one bowling ball ($m_1, v_1$) collides with another ($m_2,
+v_2$), the combined momentum is the same before and afterwards:
 
-There is a sneakier conservation law which isn't usually stated in
-mechanics problems: conservation of mass.
-For instance, if the bowling balls shatter into multiple parts on
-impact, then not only is total momentum conserved, but the sum of
-masses of the parts.
+$$
+P = p_1 + p_2 = m_1 v_1 + m_2 v_2.
+$$
+
+A sneakier conserved quantity is *mass*.
+We usually assume $m_1$ and $m_2$ remain fixed, but if the bowling
+balls shatter into parts, not only is the total $P$ conserved, but
+also the sum of masses.
 In contrast, kinetic energy need not be conserved, since energy can
-change forms.
+change forms, e.g. from kinetic to energy of deformation when the
+bowling balls shatter.
 
 We will continue to assume that both momentum and mass are conserved
-in special relativity for any fixed frame of reference.
-Our key example will be an exploding bowling ball.
+in special relativity for any fixed frame of reference. We can use
+these to analyse the (only mildly contribed) problem of an exploding
+bowling ball.
+So, suppose
 
 #### Conclusion
 
