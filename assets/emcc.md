@@ -170,7 +170,7 @@ $$
 </span>
 
 $$
-d^2(\Delta x', \Delta y') = d^2(\Delta x, \Delta y) [\cos(\theta)^2 + \sin(\theta)^2].
+d^2(\Delta x', \Delta y') = d^2(\Delta x, \Delta y) [\cos^2(\theta) + \sin^2(\theta)].
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -178,7 +178,7 @@ Pythagoras' theorem is then equivalent to the trigonometric identity
 </span>
 
 $$
-\cos(\theta)^2 + \sin(\theta)^2 = 1.
+\cos^2(\theta) + \sin^2(\theta) = 1.
 $$
 
 <span style="padding-left: 20px; display:block">
