@@ -399,7 +399,7 @@ This means their rest mass $m_0$ is *smaller* than $M$: -->
  $v$.
 
 <span style="padding-left: 20px; display:block">
-(a) Show that the halves move with velocities
+(a) Show that the two exploded halves move with velocities
 </span> 
 
 $$
@@ -407,7 +407,7 @@ u'_\pm = \frac{v \pm u}{1 \pm uv/c^2}.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) If each half has mass $M_0$, show momentum is only
+(b) If each has mass $M_0$, show that momentum is only
 conserved for $u = 0$ or $v = c$.
 </span> 
 
