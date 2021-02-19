@@ -367,7 +367,7 @@ its rest frame), and the other moves at a speed given by the velocity
 addition formula (\ref{add}):
 
 $$
-v = \frac{2u}{1 + u^2/c^2}. \tag{6} \label{double}
+u' = \frac{2u}{1 + u^2/c^2}. \tag{6} \label{double}
 $$
 
 If the second half has mass $M_0$, the momentum after the collision is
@@ -415,7 +415,7 @@ Lorentz factor is
 
 $$
 \begin{align*}
-\gamma' = \frac{1}{\sqrt{1 - (v/c)^2}} 
+\gamma' = \frac{1}{\sqrt{1 - (u'/c)^2}} 
 & = \left[1 - \frac{4u^2}{c^2(1 + (u/c)^2)^2}\right]^{-1/2} \\
 & = \frac{c(1 + (u/c)^2)}{\sqrt{c^2(1 + (u/c)^2)^2 - 4u^2}} \\
 & = \frac{1 + (u/c)^2}{\sqrt{(1 - (u/c)^2)^2}} = \frac{1 +
@@ -426,11 +426,23 @@ $$
 The momentum for this second half is therefore
 
 $$
-P' = 2 m_0 \gamma' v = 2 M_0 \cdot \frac{\gamma' v}{\gamma} = 2M_0 \cdot \frac{1 +
+P' = 2 m_0 \gamma' u' = 2 M_0 \cdot \frac{\gamma' u'}{\gamma} = 2M_0 \cdot \frac{1 +
 (u/c)^2}{1 - (u/c)^2} \cdot \frac{2u\sqrt{1-(u/c)^2}}{1 + u^2/c^2} =
 2M_0 \cdot \frac{u}{\sqrt{1+(u/c)^2}} = P.
 $$
 
+With this rule, momentum is indeed conserved!
+
+---
+
+*Exercise 4 (exploding in all frames).* We will consider a more 
+
+<span style="padding-left: 20px; display:block">
+(a) Show that the rule $m = \gamma m_0$ ensures momentum is conserved
+in any frame we choose to view the exploding bowling in.
+</span>
+
+---
 
 #### Conclusion
 
