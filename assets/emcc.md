@@ -142,7 +142,14 @@ But the implications of (\ref{s2}) are much broader!
 Let's take our original perpendicular rulers $x, y$ and rotate
 them anticlockwise by some angle $\theta$ into new rulers $x', y'$,
  keeping the origin fixed for the moment.
-Mark a point a distance $d$ along the $x$ axis.
+ Mark a point a distance $d$ along the $x$ axis.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/emcc3.png"/>
+	</div>
+	</figure>
+
 In the $x', y'$ system, we define functions $\cos(\theta)$ and
  $\sin(\theta)$ by
 
