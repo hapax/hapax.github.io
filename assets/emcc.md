@@ -251,6 +251,13 @@ Note that $\gamma \geq 1$, so that less proper time ($\Delta \tau$)
 passes for the clock than elapsed time ($\Delta t$) measured in our reference frame.
 Thus, the moving clock appears to slow down, a phenomenon called *time
 dilation*.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/emcc4.png"/>
+	</div>
+	</figure>
+
 The relationship also breaks down if $v > c$, so it appears that, for
 this spacetime version of Pythagoras to hold, a clock cannot travel
 faster than the speed of light.
