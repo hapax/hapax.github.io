@@ -339,8 +339,8 @@ impact, then not only is total momentum conserved, but the sum of
 masses of the parts.
 In contrast, kinetic energy need not be conserved, since energy can
 change forms.
-The point is that we will continue to assume that both momentum and
-mass are conserved in any fixed frame of reference.
+We will continue to assume that both momentum and mass are conserved
+in special relativity for any fixed frame of reference.
 
 #### Conclusion
 
