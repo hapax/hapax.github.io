@@ -539,8 +539,7 @@ That's kind of weird!
 It's almost as if the mass is getting converted into something else.
 To see exactly what's going on, let's consider the low-speed limit,
 where $u \ll c$.
-Then, using the
-[binomial approximation](https://hapax.github.io/mathematics/physics/hacker/binomial/),
+Using the [binomial approximation](https://hapax.github.io/mathematics/physics/hacker/binomial/),
 we have
 
 $$
