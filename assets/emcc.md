@@ -521,7 +521,10 @@ m_0 v$ are conserved in one frame, they are conserved in any other!
 	We also know that at low speeds, Newtonian mechanics is a good
 	description, so mass $m_0$ and momentum $m_0v$ are conserved.
 	Explain why it is reasonable to assume $2$-momentum is always conserved.
-</span>
+	</span>
+
+Conservation of $2$-momentum means the first component (relativistic mass)
+and second component (relativistic momentum) are both conserved.
 
 ---
 
