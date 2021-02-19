@@ -18,6 +18,7 @@ date:  2021-02-18
 4. <a href="#sec-4">Velocity addition</a>
 5. <a href="#sec-5">Conservation laws</a>
 6. <a href="#sec-6">The exploding bowling ball</a>
+7. <a href="#sec-7">Mass-energy equivalence</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -439,13 +440,17 @@ With this rule, momentum is indeed conserved!
 
 ---
 
-*Exercise 4 (exploding in all frames).* Show that the rule $m = \gamma
-m_0$ ensures momentum is conserved in any frame we choose to view the
-exploding bowling in.
+*Exercise 4 (deriving the mass rule).* In this problem, we'll derive
+ the transformation rule for mass more carefully.
 
 ---
 
-#### Conclusion
+#### 7. Mass-energy equivalence<a id="sec-7" name="sec-7"></a>
+
+We've motivated the transformation law $m = \gamma m_0$, but we have
+yet to explain why $E = mc^2$.
+The key is to return to the exploding bowling ball in its rest frame.
+
 
 ---
 
@@ -650,3 +655,7 @@ $$
 P' = 2 M_0 \gamma' v = 2M_0 \cdot \frac{1 +
 (u/c)^2}{1 - (u/c)^2} \cdot \frac{2u}{1 + u^2/c^2} = 
 $$
+
+*Exercise 4 (exploding in all frames).* Show that the rule $m = \gamma
+m_0$ ensures momentum is conserved in any frame we choose to view the
+exploding bowling in.
