@@ -535,8 +535,7 @@ To see why, let's return to the exploding bowling ball in its rest
 frame.
 Recall from equation (\ref{rest}) that the rest mass of the halves is actually slightly smaller
 than $M_0$.
-To see what's going on, let's consider the low-speed limit,
-where $u \ll c$.
+To see what's going on, let's consider the low-speed limit $u \ll c$.
 Using the [binomial approximation](https://hapax.github.io/mathematics/physics/hacker/binomial/),
 we have
 
