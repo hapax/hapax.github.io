@@ -244,7 +244,7 @@ after some algebra to isolate $u''$. This is the famous *velocity addition* form
 
 ---
 
-*Exercise 2 (velocity addition).* Do the algebra to isolate $u''$ in (\ref{add}).
+*Exercise 2 (the algebra of addition).* Do the algebra to isolate $u''$ in (\ref{add}).
 
 <p align="center">
   ⁂
