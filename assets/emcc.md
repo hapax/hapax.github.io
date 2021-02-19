@@ -32,13 +32,17 @@ not only to derive it from what I knew about special relativity, but
 then to write it up in a self-contained, minimalist way.
 Here are the results.
 
-Before we get cracking, I'll give a TLDR version.
+A few preliminary comments. First, the exercises are optional, and
+designed to connect my somewhat unconventional treatment to more
+standard presentations.
+
+<!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
 rotate into each other while keeping the speed of light unchanged.
 If I send a clock in the same direction as a light ray, the light ray
 appears to travel a shorter distance; the clock must slow down to make
 sure the speed is unchanged.
-Thus, moving clocks slow down.
+Thus, moving clocks slow down. -->
 
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
@@ -584,21 +588,20 @@ So mass appears to be getting converted into kinetic energy.
 The maximum amount that can be converted into kinetic energy is
 $M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
 This suggests that the total energy of the body is $M_0c^2$, or using
-$m$ instead of $M_0$:
+$m$ instead of $M_0$,
 
 $$
 E = mc^2.
 $$
 
-Thus, we have finally arrived at the most famous equation of all time.
-Rest mass also has energy content, appearing on the RHS of
-(\ref{energy}):
+Rest mass also has energy content:
 
 $$
 E_0 = m_0 c^2.
 $$
 
-Both of these 
+These have slightly different interpretations, but both are often
+thought of Einstein's famous equation.
 
 #### References
 
