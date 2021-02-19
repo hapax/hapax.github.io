@@ -454,7 +454,7 @@ With this rule, momentum is indeed conserved!
 the transformation rule for mass more carefully.
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
-The $2$-*velocity* $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
+The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
 
 $$
 \mathbf{v} = \frac{1}{\Delta \tau}(\Delta t, \Delta x) , \quad \mathbf{p} = m_0\mathbf{v}.
