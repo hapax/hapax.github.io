@@ -378,13 +378,6 @@ $$
 This is clearly different from the initial momentum $P'_i$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
-But this is a little too quick.
-Mass may be conserved *in a frame*, but it need not be invariant
-*between frames*.
-And we can fix $P'_f$ by increasing the mass.
-Inspired by our results for time dilation and length contraction, we
-guess that a *rest mass* $m_0$ (measured in the frame it is
-stationary) increases as $m = \gamma m_0$ in a moving frame.
 
 <!-- 
 We said that mass is conserved in any given frame, but we never forbid
@@ -400,6 +393,13 @@ This means their rest mass $m_0$ is *smaller* than $M$: -->
 
 #### 6. Fixing the bowling ball<a id="sec-6" name="sec-6"></a>
 
+But this is a little too quick.
+Mass may be conserved *in a frame*, but it need not be invariant
+*between frames*.
+And we can fix $P'_f$ by increasing the mass.
+Inspired by our results for time dilation and length contraction, we
+guess that a *rest mass* $m_0$ (measured in the frame it is
+stationary) increases as $m = \gamma m_0$ in a moving frame.
 We can check to see if this guess is sensible.
 First, note that in the stationary frame of the unexploded bowling
 ball, the exploded halves have a rest mass less than $M_0$:
