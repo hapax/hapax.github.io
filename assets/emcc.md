@@ -30,9 +30,8 @@ I realized, to my chagrin, that I didn't know the answer!
 As a theoretical physicist, this was somewhat embarrassing.
 So, rather than buy the book, I decided I would make it my homework
 not only to derive it from what I knew about special relativity, but
-to try and write up my reasoning in as self-contained a way as
-possible.
-Here are the results.
+to try and write up my reasoning in a self-contained way.
+This post is my homework.
 
 A few preliminary comments. First, the exercises are optional, and
 mostly designed to connect my somewhat unconventional presentation to
