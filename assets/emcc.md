@@ -504,7 +504,7 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-Establish that after a Lorentz transformation (\ref{lorentz}) to a new
+Argue that, after a Lorentz transformation (\ref{lorentz}) to a new
 frame of reference $x', t'$, the $2$-momentum remains conserved:
 </span>
 
@@ -521,7 +521,7 @@ m_0 v$ are conserved in one frame, they are conserved in any other!
 (c) At low speeds ($v \ll c$), the Lorentz factor $\gamma \approx 1$.
 	We also know that at low speeds, Newtonian mechanics is a good
 	description, so mass $m_0$ and momentum $m_0v$ are conserved.
-	Argue that $2$-momentum is conserved
+	Explain why it is reasonable to assume $2$-momentum is always conserved.
 </span>
 
 ---
