@@ -636,10 +636,10 @@ conserved in the next exercise.
 
 ---
 
-*Exercise 7 ($2$-momentum).* 
+*Exercise 7 (two-momentum).* 
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
-The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are
+The two-velocity $\mathbf{v}$ and two-momentum $\mathbf{p}$ are
 vectors [<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>]
 
 $$
@@ -647,7 +647,7 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-(a) Show that $2$-quantities can be written
+(a) Show that two-quantities can be written
 </span>
 
 $$
@@ -656,7 +656,7 @@ m_0 v).
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Suppose that the $2$-momenta before and
+(b) Suppose that the two-momenta before and
 after a collision are equal:
 </span>
 
@@ -666,7 +666,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 Argue that, after a Lorentz transformation (\ref{lorentz}) to a new
-frame of reference $x', t'$, the $2$-momentum remains conserved:
+frame of reference $x', t'$, the two-momentum remains conserved:
 </span>
 
 $$
@@ -682,7 +682,7 @@ m_0 v$ are conserved in one frame, they are conserved in any other!
 (c) At low speeds ($v \ll c$), the Lorentz factor $\gamma \approx 1$.
 	We also know that at low speeds, Newtonian mechanics is a good
 	description, so mass $m_0$ and momentum $m_0v$ are conserved.
-	Extrapolate to the conservation of $2$-momentum.
+	Extrapolate to the conservation of rwo-momentum.
 	</span>
 
 ---
@@ -792,8 +792,9 @@ zero, so is the momentum change!
 
 <div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum"
 href="#fnr.3">Footnote 3</a></sup> <p class="footpara">
-For three dimensions of space and one of time, these are called
-$4$-velocity and $4$-momentum.
+The "two" refers to the total number of spacetime dimensions.
+For three dimensions of space and one of time, the corresponding
+quantities are called four-velocity and four-momentum.
 </p></div>
 
 <!-- This neatly splits the total squared energy into a kinetic part
