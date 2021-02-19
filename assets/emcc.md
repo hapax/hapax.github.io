@@ -416,9 +416,8 @@ Lorentz factor is
 $$
 \begin{align*}
 \gamma' = \frac{1}{\sqrt{1 - (u'/c)^2}} 
-= \left[1 - \frac{4u^2}{c^2(1 + (u/c)^2)^2}\right]^{-1/2}
-& = \frac{c(1 + (u/c)^2)}{\sqrt{c^2(1 + (u/c)^2)^2 - 4u^2}} \\
-& = \frac{1 + (u/c)^2}{\sqrt{(1 - (u/c)^2)^2}} = \frac{1 +
+& = \left[1 - \frac{4u^2}{c^2(1 + (u/c)^2)^2}\right]^{-1/2} \\
+& = \frac{c(1 + (u/c)^2)}{\sqrt{c^2(1 + (u/c)^2)^2 - 4u^2}}  = \frac{1 + (u/c)^2}{\sqrt{(1 - (u/c)^2)^2}} = \frac{1 +
 (u/c)^2}{1 - (u/c)^2}.
 \end{align*}
 $$
