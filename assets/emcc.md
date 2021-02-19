@@ -583,20 +583,22 @@ The last term is just the classical kinetic energy of the fragment!
 So mass appears to be getting converted into kinetic energy.
 The maximum amount that can be converted into kinetic energy is
 $M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
-This suggests that the total energy of the body is given by the LHS of
-(\ref{energy}). To switch to the usual notation with relativistic mass
-$m$, we have finally arrived at the most famous equation of all time:
+This suggests that the total energy of the body is $M_0c^2$, or using
+$m$ instead of $M_0$:
 
 $$
 E = mc^2.
 $$
 
-But rest mass also has energy content, appearing on the RHS of
+Thus, we have finally arrived at the most famous equation of all time.
+Rest mass also has energy content, appearing on the RHS of
 (\ref{energy}):
 
 $$
 E_0 = m_0 c^2.
 $$
+
+Both of these 
 
 #### References
 
