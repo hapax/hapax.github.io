@@ -377,7 +377,6 @@ $$
 These play the same role in relativity that the trigonometric
 functions $\sin, \cos, \tan$ play in Euclidean geometry, namely,
 parameterising transformations which keep length invariant.
-See Exercise 1 to convince yourself!
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose two events are separated by $\Delta x,
@@ -391,6 +390,10 @@ $$
 c\Delta t' & = \sinh(\eta) \Delta x + \cosh(\eta) c \Delta t.
 \end{align*}
 $$
+
+<span style="padding-left: 20px; display:block">
+This is very clearly analogous to the results in Exercise 1!
+</span>
 
 <span style="padding-left: 20px; display:block">
 (b) From the clock example (or otherwise), argue that
@@ -414,7 +417,7 @@ $$
 <span style="padding-left: 20px; display:block">
 (c) Show that (b) is consistent with the results of (\ref{alpha}),
 i.e. both imply $\tanh(\eta) = v/c$.
-Compare this to part (d) of Exercise 1.
+Explain why how this is analogous to part (d) of Exercise 1.
 </span>
 
 <p align="center">
