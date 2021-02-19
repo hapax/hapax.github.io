@@ -595,7 +595,7 @@ $$
 The last term is just the classical kinetic energy of the fragment!
 So mass appears to be getting converted into kinetic energy.
 The maximum amount that can be converted into kinetic energy is
-$M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
+$M_0c^2$, and the leftover energy is $m_0 c^2$.
 This suggests that the total energy of the body is $M_0c^2$, or using
 $m$ instead of $M_0$,
 
