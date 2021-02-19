@@ -449,6 +449,7 @@ P' = 2 m_0 \gamma' u' & = 2 M_0 \cdot \frac{\gamma' u'}{\gamma} \\
 $$
 
 With this rule, momentum is indeed conserved!
+We give a more general argument that $m = \gamma m_0$ in the next exercise.
 
 ---
 
