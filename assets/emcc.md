@@ -427,7 +427,8 @@ The momentum for this second half is therefore
 
 $$
 P' = 2 m_0 \gamma' v = 2 M_0 \cdot \frac{\gamma' v}{\gamma} = 2M_0 \cdot \frac{1 +
-(u/c)^2}{1 - (u/c)^2} \cdot \frac{2u}{1 + u^2/c^2} = 
+(u/c)^2}{1 - (u/c)^2} \cdot \frac{2u\sqrt{1-(u/c)^2}}{1 + u^2/c^2} =
+2M_0 \cdot \frac{u}{\sqrt{1+(u/c)^2}} = P.
 $$
 
 
