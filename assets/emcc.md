@@ -472,7 +472,8 @@ P' = 2 m_0 \gamma' u' & = 2 M_0 \cdot \frac{\gamma' u'}{\gamma} \\
 $$
 
 With this rule, momentum is indeed conserved!
-We give a more general argument that $m = \gamma m_0$ in the next exercise.
+We give a more general argument that $m = \gamma m_0$ and $p = mv$ are
+conserved in the next exercise.
 
 ---
 
@@ -523,9 +524,6 @@ m_0 v$ are conserved in one frame, they are conserved in any other!
 	description, so mass $m_0$ and momentum $m_0v$ are conserved.
 	Explain why it is reasonable to assume $2$-momentum is always conserved.
 	</span>
-
-Conservation of $2$-momentum means the first component (relativistic mass)
-and second component (relativistic momentum) are both conserved.
 
 ---
 
