@@ -458,8 +458,8 @@ x \mapsto x' = \lambda x, \quad t \mapsto t' = \lambda t.
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) Finally, conclude that if we restrict to transformations due to
-relative velocity between frames, invariance of the speed of light
+(d) Finally, conclude that if we restrict to transformations induced
+by relative motion between frames, invariance of the speed of light
 implies invariance of $s^2$ for any value.
 </span>
 
