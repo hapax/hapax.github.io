@@ -44,8 +44,10 @@ one spatial dimension.
 This makes the argument longer but more self-contained.
 Finally, these notes gave me the opportunity to dust off some old ideas
 about how to present the essence of special relativity, which strongly
-guided the approach I took.
-Although I found the process enlightening, I'm hop
+guided the approach I took, and in particular the restriction to one
+spatial dimension.
+I found the process enlightening, and hope my eccentric and meandering
+approach can be of benefit to others.
 
 <!-- Before we get cracking, I'll give a TLDR version.
 Relativity is basically what you get when you allow space and time to
@@ -121,6 +123,58 @@ Hence, light always travels with velocity $c$.
 invariance of $s^2 = 0$.)
 But the implications of (\ref{s2}) are much broader!
 
+---
+
+*Exercise 1 (rotations).* To make the analogy to spacetime more
+ convincing, in this exercise we'll describe relative rotations more
+ explicitly.
+Let's take our original perpendicular rulers $x, y$ and rotate
+them clockwise by some angle $\theta$ into new rulers $x', y'$,
+ keeping the origin fixed for the moment.
+Mark a point a distance $d$ along the $x$ axis.
+In the $x', y'$ system, we define functions $\cos(\theta)$ and
+ $\sin(\theta)$ by
+
+$$
+x' = d\cos \theta = x\cos \theta, \quad y' = \Lambda^{-1} d\sin \theta
+= \Lambda^{-1} x\sin \theta,
+$$
+
+where $x$ denotes the $x$-coordinate of the point.
+
+<span style="padding-left: 20px; display:block">
+(a) Argue that a point on the $y$ ruler, $d$ marks along, goes to
+coordinates
+</span>
+
+$$
+x' = -d\Lambda \sin\theta = -y\Lambda \sin\theta, \quad y' =
+d\cos\theta = y\cos\theta.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Use the equations above to show that, if we move the $x, y$ system
+around and then rotate by $\theta$, the displacements $\Delta x$ and
+$\Delta y$ become
+</span>
+
+$$
+\begin{align*}
+\Delta x' & = \cos\theta \Delta x + \sin\theta \Lambda \Delta y \\
+\Lambda\Delta y' & = -\sin\theta \Delta x + \cos\theta \Lambda \Delta y.
+\end{align*}
+$$
+
+<span style="padding-left: 20px; display:block">
+(a) Show that Pythagoras' theorem implies
+</span>
+
+$$
+\cos^2(\theta) + \sin^2(\theta) = 1.
+$$
+
+---
+
 #### 3. Time dilation <a id="sec-3" name="sec-3"></a>
 
 We can use (\ref{s2}) to quickly deduce that time dilates
@@ -166,7 +220,7 @@ faster than the speed of light.
 
 ---
 
-*Exercise 1 (length contraction).* This immediately implies a result for moving rulers.
+*Exercise 1 (length contraction).* Time dilation immediately implies a result for moving rulers.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose a ruler passes us by at speed $v$.
@@ -344,7 +398,7 @@ i.e. both imply $\tanh(\eta) = v/c$.
   ⁂
   </p>
 
-*Exercise 4 (lucky light).* We've assumed that (\ref{s2}) is invariant
+*Exercise 4 (from light to length).* We've assumed that (\ref{s2}) is invariant
 in general, but light obeys $s^2 = 0$.
 What if we only require invariance for this special case?
 Using our new coordinates $x^\pm$, we can investigate!
@@ -358,7 +412,34 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-for constants $\alpha^\pm$.
+for constants $\alpha^\pm$, which as above, we'll take to be positive.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(b) Show you can always rewrite
+</span>
+
+$$
+\alpha^+ = \alpha \lambda, \quad \alpha^- = \frac{\lambda}{\alpha}
+$$
+
+<span style="padding-left: 20px; display:block">
+for some $\alpha, \lambda > 0$.
+</span>
+
+<span style="padding-left: 20px; display:block">
+(c) Conclude that the most general transformation preserving $s^2 = 0$
+is a Lorentz transformation followed by a *uniform scaling*
+</span>
+
+$$
+x \mapsto x' = \lambda x, \quad t \mapsto t' = \lambda t.
+$$
+
+<span style="padding-left: 20px; display:block">
+(d) Finally, argue that if we restrict to transformations due to
+relative velocity between frames, invariance of the speed of light
+implies invariance of $s^2$ for any value.
 </span>
 
 ---
