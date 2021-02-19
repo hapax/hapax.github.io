@@ -339,6 +339,17 @@ We'll continue to assume that momentum and mass are conserved in any
 frame of reference in special relativity, and see what that implies.
 To make things concrete, we'll use the example of an exploding bowling
 ball.
+We'll start in the rest frame of the bowling ball, where the mass is
+$2M$, and the momentum $P_\text{rest} = 0$, since the velocity is zero
+by definition.
+At some point, an explosive device inside the bowling ball detonates,
+splitting it into two equal halves of mass $M$.
+To ensure momentum is conserved, these must zoom off with equal and
+opposite velocities:
+
+$$
+P_\text{rest} = 0 = Mu - Mu.
+$$
 
 #### Conclusion
 
