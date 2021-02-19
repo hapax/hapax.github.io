@@ -647,10 +647,6 @@ $$
 
 ---
 
-#### References
-
----
-
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
 href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Or if you prefer, an orthogonal grid of such rulers.
