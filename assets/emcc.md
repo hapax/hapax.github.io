@@ -450,7 +450,7 @@ $$
 
 <span style="padding-left: 20px; display:block">
 (c) Conclude that the most general transformation preserving $s^2 = 0$
-is a Lorentz transformation followed by a *uniform scaling*
+is a Lorentz transformation followed by a *uniform scaling*:
 </span>
 
 $$
