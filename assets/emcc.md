@@ -166,11 +166,19 @@ $$
 $$
 
 <span style="padding-left: 20px; display:block">
-(a) Show that Pythagoras' theorem implies
+(c) Check that
 </span>
 
 $$
-\cos^2(\theta) + \sin^2(\theta) = 1.
+d^2(\Delta x', \Delta y') = d^2(\Delta x, \Delta y) [\cos(\theta)^2 + \sin(\theta)^2].
+$$
+
+<span style="padding-left: 20px; display:block">
+Conclude that, if we *assume* Pythagoras' theorem, we have
+</span>
+
+$$
+\cos(\theta)^2 + \sin(\theta)^2 = 1.
 $$
 
 ---
@@ -220,7 +228,7 @@ faster than the speed of light.
 
 ---
 
-*Exercise 1 (length contraction).* Time dilation immediately implies a result for moving rulers.
+*Exercise 2 (length contraction).* Time dilation immediately implies a result for moving rulers.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose a ruler passes us by at speed $v$.
@@ -259,7 +267,7 @@ frame. This is called *length contraction*.
 There is a cute way to understand how measurements change when we
 speed up or slow down.
 Since the spacetime length is a difference of squares, we can
-factorise it (see also Exercise 1):
+factorise it (see also Exercise 2):
 
 $$
 s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 = (\Delta x + c
@@ -337,14 +345,14 @@ after some algebra to isolate $u''$. This is the famous velocity addition formul
 
 ---
 
-*Exercise 2 (the algebra of addition).* Do the algebra to make $u''$
+*Exercise 3 (the algebra of addition).* Do the algebra to make $u''$
  the subject in (\ref{add}).
 
 <p align="center">
   ⁂
   </p>
 
-*Exercise 3 (Lorentz transformations).* In this exercise, we will derive something called the
+*Exercise 4 (Lorentz transformations).* In this exercise, we will derive something called the
 Lorentz transformation. First, we define $\alpha = e^\eta$ for a
 "boost parameter" $\eta$. We will also use the hyperbolic functions
 
@@ -398,7 +406,7 @@ i.e. both imply $\tanh(\eta) = v/c$.
   ⁂
   </p>
 
-*Exercise 4 (from light to length).* We've assumed that (\ref{s2}) is invariant
+*Exercise 5 (from light to length).* We've assumed that (\ref{s2}) is invariant
 in general, but light obeys $s^2 = 0$.
 What if we only require invariance for this special case?
 Using our new coordinates $x^\pm$, we can investigate!
@@ -532,7 +540,7 @@ This means their rest mass $m_0$ is *smaller* than $M$: -->
 
 ---
 
-*Exercise 5 (exploding in other frames).* Consider a frame of
+*Exercise 6 (exploding in other frames).* Consider a frame of
  reference in which the unexploded bowling ball moves right at speed
  $v$.
 
@@ -614,7 +622,7 @@ conserved in the next exercise.
 
 ---
 
-*Exercise 6 ($2$-momentum).* 
+*Exercise 7 ($2$-momentum).* 
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
 The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are
@@ -721,7 +729,7 @@ These have slightly different interpretations, but are both avatars of Einstein'
 
 ---
 
-*Exercise 7 (energy-momentum relation).* We end with an equivalent
+*Exercise 8 (energy-momentum relation).* We end with an equivalent
  form of Einstein's equation
 
 <span style="padding-left: 20px; display:block">
@@ -750,8 +758,8 @@ E = pc.
 $$
 
 <span style="padding-left: 20px; display:block">
-This can also be deduce from classical electromagnetism, and in fact,
-is what Einstein used to derive $E = mc^2$!
+Maxwell deduced this from classical electromagnetism, but amusingly,
+we got there by think about bowling balls!
 </span>
 
 ---
