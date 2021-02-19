@@ -441,16 +441,12 @@ for simplicity.
 </span>
 
 <span style="padding-left: 20px; display:block">
-(b) Show you can always rewrite
+(b) Show that for some $\alpha, \lambda > 0$, we can always rewrite
 </span>
 
 $$
 \alpha^+ = \alpha \lambda, \quad \alpha^- = \frac{\lambda}{\alpha}
 $$
-
-<span style="padding-left: 20px; display:block">
-for some $\alpha, \lambda > 0$.
-</span>
 
 <span style="padding-left: 20px; display:block">
 (c) Conclude that the most general transformation preserving $s^2 = 0$
