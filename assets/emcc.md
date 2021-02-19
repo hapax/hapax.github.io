@@ -634,6 +634,18 @@ $$
 using $p = mv = \gamma m_0 v$.
 This neatly splits the total squared energy into a kinetic part
 $(pc)^2$ and a rest energy part $(m_0c^2)^2$.
+It also correctly suggests that for light (or any other massless
+particle), the total energy and momentum are related by
+
+$$
+E = pc.
+$$
+
+---
+
+*Exercise 6.*
+
+---
 
 #### References
 
