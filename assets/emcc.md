@@ -348,7 +348,23 @@ To ensure momentum is conserved, these must zoom off with equal and
 opposite velocities:
 
 $$
-P_\text{rest} = 0 = Mu - Mu.
+P = 0 = Mu - Mu.
+$$
+
+Let's now go to the frame of the part moving left at speed $u$.
+Before the explosion, the bowling ball (in this frame of reference)
+was moving at speed $u$ to the right, so the momentum was presumably
+
+$$
+P' = 2Mu.
+$$
+
+After the collision, one half is stationary (we have chosen to go to
+its rest frame), and the other moves at a speed given by the velocity
+addition formula (\ref{add}):
+
+$$
+v = \frac{2u}{1 + u^2/c^2}.
 $$
 
 #### Conclusion
