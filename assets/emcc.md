@@ -17,7 +17,7 @@ date:  2021-02-18
 3. <a href="#sec-3">Time dilation</a>
 4. <a href="#sec-4">Velocity addition</a>
 5. <a href="#sec-5">Conservation laws</a>
-6. <a href="#sec-6">Massive changes</a>
+6. <a href="#sec-6">The exploding bowling ball</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -338,18 +338,20 @@ bowling balls shatter.
 We'll continue to assume that momentum and mass are conserved in any
 frame of reference in special relativity, and see what that implies.
 
+#### 6. The exploding bowling ball<a id="sec-6" name="sec-6"></a>
+
 To make things concrete, we'll use the example of an exploding bowling
 ball.
 We'll start in the rest frame of the bowling ball, where the mass is
-$2M$, and the momentum $P_\text{rest} = 0$, since the velocity is zero
+$2M_0$, and the momentum $P_\text{rest} = 0$, since the velocity is zero
 by definition.
 At some point, an explosive device inside the bowling ball detonates,
-splitting it into two equal halves of mass $M$.
+splitting it into two equal halves of mass $M_0$.
 To ensure momentum is conserved, these must zoom off with equal and
 opposite velocities:
 
 $$
-P = 0 = Mu - Mu.
+P_\text{rest} = 0 = M_0u - M_0u.
 $$
 
 Let's now go to the frame of the part moving left at speed $u$.
@@ -357,7 +359,7 @@ Before the explosion, the bowling ball (in this frame of reference)
 was moving at speed $u$ to the right, so the momentum was presumably
 
 $$
-P' = 2Mu.
+P = 2M_0u.
 $$
 
 After the collision, one half is stationary (we have chosen to go to
@@ -371,16 +373,32 @@ $$
 If the second half has mass $M$, the momentum after the collision is
 
 $$
-P'' = \frac{2Mu}{1 + u^2/c^2}.
+P' = \frac{2M_0u}{1 + (u/c)^2}.
 $$
 
-This is clearly different from $P'$!
+This is clearly different from $P$!
 It looks, naively, as if conservation of mass and momentum are not
 consistent with relativity after all.
 
-#### 6. Massive changes<a id="sec-6" name="sec-6"></a>
-
 But this is a little too quick.
+We said that mass is conserved in any given frame, but *not* that it
+is invariant! Perhaps, like time and length, the mass of an object can
+change when it speeds up.
+Looking at the formula for $P''$, we see that if the mass *increases*
+by a factor of $1 + (u/c)^2$, then it will equal $P'$.
+But since $P'$ involves a moving mass, that should probably change
+too.
+So, guided by our clock example, we are simply going to guess that a
+mass $M_0$ in its rest frame increases as $M = \gamma M_0$ when it
+starts moving.
+This means that, before the explosion, in the moving frame the bowling
+ball had momentum
+
+$$
+P = 2\gamma M_0 u = \frac{2u}{\sqrt{1-(u/c)^2}} M_0.
+$$
+
+After the collision,
 
 #### Conclusion
 
