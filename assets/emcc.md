@@ -82,6 +82,12 @@ It seems reasonable to define $L$ as its length.
 But even more importantly, the quantity $d^2$ is *invariant* under a
 change in relative orientation.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/emcc1.png"/>
+	</div>
+	</figure>
+
 Relativity parallels this setup closely.
 Michelson and Morley's
 [famous experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
