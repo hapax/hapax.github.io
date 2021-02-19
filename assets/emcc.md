@@ -307,30 +307,19 @@ i.e. both imply $\tanh(\eta) = v/c$.
 
 So far, we haven't really done any physics, just bizarro trigonometry.
 Let's rectify that and introduce some ideas from Newtonian mechanics.
-A massive object like a bowling ball can trundle along and collide
-with other bowling balls.
-One way to quantify this motion is the *momentum* $p$, and another is
-te *kinetic energy* $K$.
-For a bowling ball of mass $m$, travelling at speed $v$, these are
-given by
+Suppose a bowling ball of mass $m$ and speed $v$.
+Two ways to quantify its motion are *momentum* $p$, and the *kinetic
+energy* $K$:
 
 $$
 p = mv, \quad K = \frac{1}{2}mv^2.
 $$
 
-Momentum is the more basic quantity, and one of the consequences of
-Newton's laws
+A consequence of Newton's laws
 [<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>]
 is that if the force on a collection of bowling balls is zero, the
-total momentum cannot change.
+total momentum cannot change even if they collide.
 We say that momentum is *conserved*.
-So if a bowling mass of mass $m_1$ and velocity $v_1$ collides with a
-bowling ball of mass $m_2$ and velocity $v_2$, the momentum before and
-after the collision obeys
-
-$$
-P = p_1 + p_2 = m_1 v_1 + m_2 v_2.
-$$
 
 There is a sneakier conservation law which isn't usually stated in
 mechanics problems: conservation of mass.
