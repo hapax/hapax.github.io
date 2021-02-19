@@ -599,13 +599,13 @@ This suggests that the total energy of the body is $M_0c^2$, or using
 $m$ instead of $M_0$,
 
 $$
-E = mc^2.
+E = mc^2. \tag{10} \label{emcc1}
 $$
 
 Rest mass also has energy content:
 
 $$
-E_0 = m_0 c^2.
+E_0 = m_0 c^2. \tag{11} \label{emcc1}
 $$
 
 These have slightly different interpretations, but both are often
