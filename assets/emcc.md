@@ -395,7 +395,7 @@ This means that, before the explosion, in the moving frame the bowling
 ball had momentum
 
 $$
-P = 2\gamma M_0 u = \frac{2u}{\sqrt{1-(u/c)^2}} \cdot M_0.
+P = 2M_0 \gamma u = 2M_0 \cdot \frac{u}{\sqrt{1-(u/c)^2}}.
 $$
 
 After the collision, one half is stationary, while the other half
@@ -410,6 +410,13 @@ $$
 & = \frac{1 + (u/c)^2}{\sqrt{(1 - (u/c)^2)^2}} = \frac{1 +
 (u/c)^2}{1 - (u/c)^2}.
 \end{align*}
+$$
+
+The momentum for this second half is
+
+$$
+P' = 2 M_0 \gamma' v = 2M_0 \cdot \frac{1 +
+(u/c)^2}{1 - (u/c)^2} \cdot \frac{2u}{1 + u^2/c^2} = 
 $$
 
 #### Conclusion
