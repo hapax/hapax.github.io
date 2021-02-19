@@ -543,7 +543,7 @@ $$
 \left[1 - \left(\frac{u}{c}\right)^2\right]^{-1/2} \approx 1 + \frac{u^2}{2c^2}.
 $$
 
-Let's apply this to (\ref{rest}),
+Applying this to (\ref{rest}), we get
 
 $$
 M_0 = m_0 \left[1 - \left(\frac{u}{c}\right)^2\right]^{-1/2} \approx
