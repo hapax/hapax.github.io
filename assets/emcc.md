@@ -58,7 +58,7 @@ Thus, moving clocks slow down. -->
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
-To make this obvious, we'll present Pythagoras' theorem in a weird
+To make this obvious, we'll present Pythagoras' theorem in an odd
 way.
 Suppose we have rulers, $x$ and $y$, oriented at right angles
 [<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>],
