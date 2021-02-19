@@ -19,7 +19,7 @@ date:  2021-02-18
 3. <a href="#sec-3">Time dilation</a>
 4. <a href="#sec-4">Velocity addition</a>
 5. <a href="#sec-5">Conservation laws</a>
-6. <a href="#sec-6">Fixing the bowling ball</a>
+6. <a href="#sec-6">Mass effect</a>
 7. <a href="#sec-7">Mass-energy equivalence</a>
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
@@ -445,7 +445,7 @@ conserved for $u = 0$ or $v = c$.
 
 ---
 
-#### 6. Fixing the bowling ball<a id="sec-6" name="sec-6"></a>
+#### 6. Mass effect<a id="sec-6" name="sec-6"></a>
 
 But this is a little too quick.
 Mass may be conserved *in a frame*, but it need not be invariant
@@ -508,7 +508,7 @@ conserved in the next exercise.
 
 ---
 
-*Exercise 5 (mass effect).* 
+*Exercise 5 ($2$-quantities).* 
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
 The $2$-velocity $\mathbf{v}$ and $2$-momentum $\mathbf{p}$ are vectors
