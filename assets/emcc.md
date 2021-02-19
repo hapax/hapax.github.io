@@ -544,7 +544,14 @@ Then, using the
 we have
 
 $$
-\sqrt{1 - \left(\frac{u}{c}\right)^2} \approx 1 - \frac{u^2}{2c^2}.
+\left[1 - \left(\frac{u}{c}\right)^2\right]^{-1/2} \approx 1 + \frac{u^2}{2c^2}.
+$$
+
+Hence, from (\ref{rest}),
+
+$$
+M_0 = m_0 \left[1 - \left(\frac{u}{c}\right)^2\right]^{-1/2} \approx
+m_0 + \frac{1}{2c^2}m_0 u^2.
 $$
 
 ---
