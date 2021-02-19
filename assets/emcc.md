@@ -576,14 +576,20 @@ If we multiply this equation through by $c^2$, it becomes clearer what
 this "something else" is:
 
 $$
-M_0c^2  \approx m_0c^2 + \frac{1}{2}m_0 u^2.
+M_0c^2  \approx m_0c^2 + \frac{1}{2}m_0 u^2. \tag{9} \label{energy}
 $$
 
 The last term is just the classical kinetic energy of the fragment!
 So mass appears to be getting converted into kinetic energy.
 The maximum amount that can be converted into kinetic energy is
 $M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
-All this makes it very clear that *mass itself has energy content*.
+This suggests that the total energy of the body is given by the LHS of
+(\ref{energy}). To switch to the usual notation with relativistic mass
+$m$, we have the most famous equation of all time:
+
+$$
+E = mc^2.
+$$
 
 #### References
 
