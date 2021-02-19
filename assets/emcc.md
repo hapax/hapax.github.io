@@ -69,17 +69,19 @@ The ratio between units of $x$ and units of $t$ is given by $c$.
 The expression $s^2(\Delta x, \Delta t)$ defines a "spacetime length",
 obeying a spacetime version of Pythagoras' theorem, namely that the
 $s^2$ distance between events does not change even when we speed up or
-slow down, i.e.
+slow down.
+More precisely,
 
 $$
 s^2(\Delta x, \Delta t) = \Delta x^2 - c^2 \Delta t^2 =
 \text{constant}, \tag{1} \label{s2}
 $$
 
-for whatever (constant) velocity we perform these measurements.
-In particular, $s^2 = 0$ for the measurements defining a light ray
-whatever speed *we* are moving, and hence light always travels with
-velocity $c$.
+when $\Delta x$ and $\Delta t$ are the space and time separation of
+any two events, as measured by an observer at constant speed.
+As a special case, $s^2 = 0$ for a light ray travelling from $A$ to
+$B$, whatever speed *we* are moving.
+Hence, light always travels with velocity $c$.
 But the implications of (\ref{s2}) are much broader!
 
 #### 3. Time dilation <a id="sec-3" name="sec-3"></a>
