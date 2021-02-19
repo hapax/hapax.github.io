@@ -22,6 +22,14 @@ date:  2021-02-18
 
 #### 1. Introduction <a id="sec-1" name="sec-1"></a>
 
+I recently stumbled across the book "Why does $E = mc^2$?" by Brian
+Cox and Jeff Forshaw in a used bookstore.
+I realized, to my chagrin, that I didn't know the answer off the top
+of my head!
+As a theoretical physicist, that was somewhat embarrassing.
+So, rather than buy the book, I decided I would set out to rediscover
+it myself.
+
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
@@ -566,6 +574,10 @@ So mass appears to be getting converted into kinetic energy.
 The maximum amount that can be converted into kinetic energy is
 $M_0c^2$, and indeed, the leftover energy is $m_0 c^2$.
 All this makes it very clear that *mass itself has energy content*.
+
+#### References
+
+https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf
 
 ---
 
