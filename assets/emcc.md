@@ -260,7 +260,8 @@ $$
 $$
 
 These play the same role in relativity that the trigonometric
-functions $\sin, \cos, \tan$ play in Euclidean geometry.
+functions $\sin, \cos, \tan$ play in Euclidean geometry, namely,
+parameterising the transformations which keep $s^2$ invariant.
 
 <span style="padding-left: 20px; display:block">
 (a) Suppose two events are separated by $\Delta x,
