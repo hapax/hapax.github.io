@@ -53,6 +53,12 @@ appears to travel a shorter distance; the clock must slow down to make
 sure the speed is unchanged.
 Thus, moving clocks slow down. -->
 
+---
+
+*Exercise 1.*
+
+---
+
 #### 2. Spacetime trigonometry<a id="sec-2" name="sec-2"></a>
 
 Relativity is really just the bizarro version of trigonometry.
@@ -614,8 +620,8 @@ These have slightly different interpretations, but are both avatars of Einstein'
 
 ---
 
-*Exercise 6 (gravitational redshift).* We can use mass-energy equivalence to learn
- some fun facts about photons.
+*Exercise 6 (energy-momentum relation).* We end with an equivalent
+ form of Einstein's equation
 
 <span style="padding-left: 20px; display:block">
 (a) First, show that
@@ -626,7 +632,7 @@ c^2\gamma^2 = \gamma^2 v^2 + c^2.
 $$
 
 <span style="padding-left: 20px; display:block">
-(b) Deduce that
+(b) Deduce the energy-momentum relation
 </span>
 
 $$
@@ -634,26 +640,17 @@ E^2 = p^2 c^2 + m_0^2 c^4.
 $$
 
 <span style="padding-left: 20px; display:block">
-(c) A photon is massless $m_0 = 0$, and has energy $E = \hbar \omega$
-for Planck's constant $\hbar$ and angular frequency $\omega$. Show that
+(c) A photon is massless, with $m_0 = 0$. Use the energy-momentum
+relation to argue that the energy and momentum are related by
 </span>
 
 $$
-E = pc = \hbar \omega \quad \Longrightarrow \quad p = \hbar \omega.
+E = pc.
 $$
 
 <span style="padding-left: 20px; display:block">
-(d) A photon has zero rest mass. Argue, however, that for momentum
-$p$,
-</span>
-
-$$
-m = \frac{p}{c}.
-$$
-
-<span style="padding-left: 20px; display:block">
-(d) Suppose a ray of light leaves a gravitational field like that of
-the earth.
+This can also be deduce from classical electromagnetism, and in fact,
+is what Einstein used to derive $E = mc^2$!
 </span>
 
 ---
