@@ -392,6 +392,27 @@ First of all, in the rest frame for the bowling ball, the two halves
 zoom off with mass $M$ and at speed $u$.
 This means their rest mass $m_0$ is *smaller* than $M$: -->
 
+---
+
+*Exercise 4 (exploding in other frames).* Consider a frame of
+ reference in which the unexploded bowling ball moves right at speed
+ $v$.
+
+<span style="padding-left: 20px; display:block">
+(a) Show that the halves move with velocities
+</span> 
+
+$$
+u'_\pm = \frac{v \pm u}{1 \pm uv/c^2}.
+$$
+
+<span style="padding-left: 20px; display:block">
+(b) Assuming each half has mass $M_0$, show that momentum is only
+conserved for $u = 0$ or $v = c$.
+</span> 
+
+---
+
 #### 6. Fixing the bowling ball<a id="sec-6" name="sec-6"></a>
 
 But this is a little too quick.
@@ -453,7 +474,7 @@ We give a more general argument that $m = \gamma m_0$ in the next exercise.
 
 ---
 
-*Exercise 4 (mass increase).* In this problem, we'll derive
+*Exercise 5 (mass increase).* In this problem, we'll derive
 the transformation rule for mass more carefully.
 Suppose a particle of rest mass $m_0$ moves at speed $v$ for proper
 time $\Delta \tau$.
