@@ -367,7 +367,7 @@ its rest frame), and the other moves at a speed given by the velocity
 addition formula (\ref{add}):
 
 $$
-v = \frac{2u}{1 + u^2/c^2}.
+v = \frac{2u}{1 + u^2/c^2}. \tag{6} \label{double}
 $$
 
 If the second half has mass $M$, the momentum after the collision is
@@ -398,7 +398,15 @@ $$
 P = 2\gamma M_0 u = \frac{2u}{\sqrt{1-(u/c)^2}} M_0.
 $$
 
-After the collision,
+After the collision, one half is stationary, while the other half
+moves away at speed $v$ given by (\ref{double}). The associated
+Lorentz factor is
+
+$$
+\gamma' = \frac{1}{\sqrt{1 - (v/c)^2}} =
+\left[1 - \frac{4u^2}{c^2(1 + (u/c)^2)^2}\right]^{-1/2} = \frac{c(1 +
+(u/c)^2)}{\sqrt{c^2(1 + (u/c)^2)^2 - 4u^2}}
+$$
 
 #### Conclusion
 
