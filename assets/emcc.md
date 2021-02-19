@@ -305,6 +305,45 @@ i.e. both imply $\tanh(\eta) = v/c$.
 
 #### 5. Conservation laws<a id="sec-5" name="sec-5"></a>
 
+So far, we haven't really done any physics, just bizarro trigonometry.
+Let's rectify that and introduce some ideas from Newtonian mechanics.
+A massive object like a bowling ball can trundle along and collide
+with other bowling balls.
+One way to quantify this motion is the *momentum* $p$, and another is
+te *kinetic energy* $K$.
+For a bowling ball of mass $m$, travelling at speed $v$, these are
+given by
+
+$$
+p = mv, \quad K = \frac{1}{2}mv^2.
+$$
+
+Momentum is the more basic quantity, and one of the consequences of
+Newton's laws
+[<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>]
+is that if the force on a collection of bowling balls is zero, the
+total momentum cannot change.
+We say that momentum is *conserved*.
+So if a bowling mass of mass $m_1$ and velocity $v_1$ collides with a
+bowling ball of mass $m_2$ and velocity $v_2$, the momentum before and
+after the collision obeys
+
+$$
+P = p_1 + p_2 = m_1 v_1 + m_2 v_2.
+$$
+
+There is a sneakier conservation law which isn't usually stated in
+mechanics problems: conservation of mass.
+For instance, if the bowling balls shatter into multiple parts on
+impact, then not only is total momentum conserved, but the sum of
+masses of the parts.
+In contrast, kinetic energy need not be conserved, since energy can
+change forms.
+The point is that we will continue to assume that both momentum and
+mass are conserved in any fixed frame of reference.
+
+#### Conclusion
+
 ---
 
 <div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum"
@@ -312,6 +351,12 @@ href="#fnr.1">Footnote 1</a></sup> <p class="footpara">
 Or if you prefer, an orthogonal grid of such rulers.
 </p></div>
 
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum"
+href="#fnr.2">Footnote 2</a></sup> <p class="footpara">
+Newton's second law can be written $F = \Delta p/\Delta t$, i.e. the
+force is just the change in momentum with time. When force is
+zero, so is the momentum change!
+</p></div>
 
 The last leg of our journey will take us to Newtonian mechanics, and
 *conservation laws* in particular.
@@ -455,3 +500,13 @@ $$
 Thus, the apparent length $L'$ is *shorter* than the proper length $L$ by
 the Lorentz factor $\gamma$.
 This shortening is called *length contraction*.
+
+By itself, this isn't enough to determine what happens to the bowling
+balls after the collision, since there are many ways to conserve $P$.
+We need another constraint!
+In elementary physics classes, we often consider "elastic" collisions
+where kinetic energy is conserved. This is not necessary in general,
+since energy can be converted from one form (like kinetic) into
+another (like thermal).
+We are going to go in a slightly different direction, and consider a
+sneaky conservation law which is not usually stated: *conservation of mass*.
