@@ -429,7 +429,7 @@ ball, the exploded halves have a rest mass less than $M_0$:
 
 $$
 m_0 = \frac{M_0}{\gamma} =
-M_0\sqrt{1-\left(\frac{u}{c}\right)^2}. \tag{7} \label{rest}
+M_0\sqrt{1-\left(\frac{u}{c}\right)^2}. \tag{8} \label{rest}
 $$
 
 In the moving frame, the original bowling ball moves at speed $u$, so
@@ -537,6 +537,7 @@ Recall from equation (\ref{rest}) that the rest mass of the halves is actually s
 than $M_0$, and gets smaller with increasing $u$.
 That's kind of weird!
 It's almost as if the mass is getting converted into something else.
+To see exactly what's going on, 
 
 ---
 
