@@ -292,6 +292,12 @@ $$
 L = \gamma L'.
 $$
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/emcc5.png"/>
+	</div>
+	</figure>
+
 Thus, a moving ruler shrinks by a factor $\gamma$ in our
 frame. This is called *length contraction*.
 
