@@ -238,11 +238,6 @@ $$
 \left(\frac{c+u}{c-u}\right) \quad \Longrightarrow \quad u'' = \frac{v + u}{1+ uv/c^2}. \tag{5} \label{add}.
 $$
 
-<! -- After a little algebra, we can isolate $u''$ to find
-$$
-u'' = \frac{v + u}{1+ uv/c^2}. \tag{5} \label{add}
-$$ -->
-
 This is the famous *velocity addition* formula!
 
 ---
