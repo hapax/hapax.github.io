@@ -97,6 +97,13 @@ Einstein arrived at the same conclusion by thinking long and hard
 about electrodynamics.
 To measure the speed of light, we use two rulers, $x$ and $t$, though
 the latter is usually called a "clock".
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/images/posts/emcc2.png"/>
+	</div>
+	</figure>
+
 The light travels between two points a distance $\Delta x$ apart in
 time $\Delta t$, so the speed is $c = \Delta x/\Delta t$.
 We can rewrite this suggestively as
