@@ -501,9 +501,10 @@ also the sum of masses of the fragments.
 In contrast, kinetic energy need not be conserved, since energy can
 change forms, e.g. from kinetic to energy of deformation when the
 bowling balls shatter.
-We'll continue to assume that momentum and mass are conserved in any
-frame of reference in special relativity, and see what that implies.
+We'll return to conservation of energy below.
 
+Let's continue to assume that momentum and mass are conserved in any
+frame of reference in special relativity, and see what that implies.
 To make things concrete, we'll use the example of an exploding bowling
 ball.
 Let's start in the rest frame of the bowling ball, where the mass is
@@ -743,7 +744,17 @@ $$
 E_0 = m_0 c^2. \tag{11} \label{emcc2}
 $$
 
-These have slightly different interpretations, but are both avatars of Einstein's famous equation.
+These have slightly different interpretations, but are both avatars of
+Einstein's famous equation.
+You might wonder why $E = mc^2$ should be interpreted as the *total*
+energy, rather than some special form of mass energy.
+The answer is simply that, if we interpret it this way, the mysterious
+"conservation of mass" we have been dragging around becomes
+conservation of total energy!
+And unlike kinetic energy, which can get converted into other things,
+one of the fundamental principles of physics is that total energy is
+conserved.
+So everything hangs together nicely!
 
 ---
 
