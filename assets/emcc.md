@@ -136,8 +136,8 @@ In the $x', y'$ system, we define functions $\cos(\theta)$ and
  $\sin(\theta)$ by
 
 $$
-x' = d\cos \theta = x\cos \theta, \quad y' = \Lambda^{-1} d\sin \theta
-= \Lambda^{-1} x\sin \theta,
+x' = d\cos (\theta) = x\cos (\theta), \quad y' = \Lambda^{-1} d\sin (\theta)
+= \Lambda^{-1} x\sin (\theta),
 $$
 
 where $x$ denotes the $x$-coordinate of the point.
@@ -148,8 +148,8 @@ coordinates
 </span>
 
 $$
-x' = -d\Lambda \sin\theta = -y\Lambda \sin\theta, \quad y' =
-d\cos\theta = y\cos\theta.
+x' = -d\Lambda \sin(\theta) = -y\Lambda \sin(\theta), \quad y' =
+d\cos(\theta) = y\cos(\theta).
 $$
 
 <span style="padding-left: 20px; display:block">
@@ -160,8 +160,8 @@ $\Delta y$ become
 
 $$
 \begin{align*}
-\Delta x' & = \cos\theta \Delta x + \sin\theta \Lambda \Delta y \\
-\Lambda\Delta y' & = -\sin\theta \Delta x + \cos\theta \Lambda \Delta y.
+\Delta x' & = \cos(\theta) \Delta x + \sin(\theta) \Lambda \Delta y \\
+\Lambda\Delta y' & = -\sin(\theta) \Delta x + \cos(\theta) \Lambda \Delta y.
 \end{align*}
 $$
 
