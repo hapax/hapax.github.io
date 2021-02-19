@@ -415,7 +415,7 @@ $$
 <span style="padding-left: 20px; display:block">
 (c) Show that (b) is consistent with the results of (\ref{alpha}),
 i.e. both imply $\tanh(\eta) = v/c$.
-Explain why how this is analogous to part (d) of Exercise 1.
+Explain why this is analogous to part (d) of Exercise 1.
 </span>
 
 <p align="center">
