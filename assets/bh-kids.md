@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Bekenstein-Hawking for kids"
+title:  "Black hole thermodynamics on the cheap"
 categories: [Physics, Hacks]
 date:  2021-02-23
 ---
@@ -11,10 +11,6 @@ date:  2021-02-23
 
 #### Introduction
 
-A black hole is an object which has collapsed under its own gravity to
-form a light-trapping region.
-We can estimate various properties of this region using a few
-equations and some inspired guesswork.
 
 #### System size
 
