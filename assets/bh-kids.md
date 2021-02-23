@@ -108,6 +108,10 @@ $$
 \lambda \sim \frac{hc}{kT} \sim \frac{GM}{c^2}  \quad \Longrightarrow \quad T \sim \frac{hc^3}{GMk}.
 $$
 
+One of the weird things about black holes is that temperature is
+inversely proportional to mass $M$, as we can see directly here.
+As it gets smaller, it gets hotter!
+
 <!-- Max Planck, one of the founding fathers of quantum mechanics, came up
 with a general formula for the amount of energy in a photon of
 wavelength $\lambda$, $\varepsilon = hc/\lambda$, where $h = 6.62
