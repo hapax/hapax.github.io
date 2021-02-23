@@ -19,8 +19,8 @@ date:  2021-02-23
 
 Suppose the black hole has mass $M$.
 A running theme will be different ways of estimating the energy stored
-in the black hole, and to start with, we invoke the most famous
-formula ever:
+in the black hole, and to start with, we invoke the [most famous
+formula in physics](https://hapax.github.io/physics/mathematics/hacks/emcc/):
 
 $$
 E = Mc^2,
@@ -100,6 +100,8 @@ $$
 where $h = 6.62 \times 10^{-34}$ is Planck's constant,
 and $k = 1.38 \times 10^{-23}$ is Boltzmann's constant (both in SI
 units).
+For a motivation from dimensional analysis, see
+[this post](https://hapax.github.io/physics/everyday/sky/).
 The key point is that wavelengths get shorter as temperature rises,
 and the rest of the constants are added to ensure things make
 dimensional sense.
