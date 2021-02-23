@@ -2,12 +2,15 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Black hole thermodynamics on the cheap"
+title:  "Bekenstein-Hawking on the cheap"
 categories: [Physics, Hacks]
 date:  2021-02-23
 ---
 
-**February 23, 2021.** *Bla*
+**February 23, 2021.** *A black hole is an object which has collapsed
+  under its own gravity to form a light-trapping region. Using a few
+  equations and some cheap tricks, we arrive at the Bekenstein-Hawking
+  law for black hole entropy.*
 
 #### Introduction
 
