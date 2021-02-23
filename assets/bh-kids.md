@@ -155,7 +155,7 @@ This sounds fuzzy, but can be written as a perfectly rigorous
 equation called the *equipartition theorem*:
 
 $$
-E \sim N \text{k}T,
+E \sim N kT,
 $$
 
 where $E$ is the total kinetic energy of molecules, or *heat*, and $N$
