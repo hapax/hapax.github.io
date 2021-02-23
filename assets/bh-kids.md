@@ -105,7 +105,7 @@ Setting $\lambda = R$ and making $T$ the subject, we obtain the
 *Hawking temperature* of a black hole:
 
 $$
-\lambda \sim \frac{hc}{kT} \sim \frac{GM}{c^2}  \quad \Longrightarrow \quad T \sim \frac{hc}{kR} \sim \frac{hc^3}{GMk}.
+\lambda \sim \frac{hc}{kT} \sim \frac{GM}{c^2}  \quad \Longrightarrow \quad T \sim \frac{hc^3}{GMk}.
 $$
 
 <!-- Max Planck, one of the founding fathers of quantum mechanics, came up
