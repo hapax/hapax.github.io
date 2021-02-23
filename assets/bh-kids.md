@@ -111,6 +111,32 @@ $$
 One of the weird things about black holes is that temperature is
 inversely proportional to mass $M$, as we can see directly here.
 As it gets smaller, it gets hotter!
+This has a rather interesting astrophysical implication.
+It turns out that the universe also glows like a lump of coal, a sort
+of afterimage of the Big Bang called the *cosmic microwave background*
+(CMB). The "microwave" comes from the fact that the predominant
+wavelength is in the microwave band, correspond by Wien's law to a
+temperature of around $3 \text{ K}$.
+A lump of coal sitting in space will cool down until it reaches this
+temperature, at which point it will settle into thermal equilibrium
+with the CMB.
+The black holes in equilibrium with empty space have a Schwarzschild radius
+
+$$
+R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3)} \text{ m} = 5 \text{ mm},
+$$
+
+about the size of an ant. This raises the question: is the universe
+filled with ant-sized black holes?
+The answer is no for two reasons.
+First, the amount of time it takes for an astrophysical black hole to
+reach this stage is many times the age of universe, so black holes
+formed from stars just haven't had a chance to reach the ant phase
+yet.
+But even if there is some other process that allows these ant-sized
+black holes to form quickly, their equilibrium with the CMB is
+unstable.
 
 <!-- Max Planck, one of the founding fathers of quantum mechanics, came up
 with a general formula for the amount of energy in a photon of
