@@ -29,34 +29,30 @@ $$
 where $c = 3 \times 10^8 \text{ m/s}$ is the speed of light.
 This is how much *mass-energy* the black hole has, according to
 Einstein's gem.
-Since a black hole is a gravitational object, it also stores
-gravitational energy, which we can estimate as
+We will equate this to the gravitational energy stored in the black hole.
+Recall Newton's law of gravitation,
 
 $$
-E \sim \frac{GM^2}{R}
+F_\text{grav} = \frac{GMm}{r^2},
 $$
 
-where $R$ is the size of the black hole.
-This follows immediately from the formula for gravitational
-potential, but we can derive it a little more carefully.
-First, note that from Newton's law of gravitation, the force the black
-hole applies on itself is roughly
+for masses $M$, $m$ separated by distance $r$, and Newton's constant
+$G = 6.67 \times 10^{-11}$ (in SI units).
+By setting $m = M$, we can estiamte the force the black hole applies
+to itself:
 
 $$
-F_\text{grav} \sim \frac{GM^2}{R^2},
+F_\text{grav} \sim \frac{GM^2}{R^2}.
 $$
 
-where $G = 6.67 \times 10^{-11}$ (in SI units) is Newton's constant.
 Applying a force over a distance gives energy (work), so we estimate
-that
+the gravitational energy stored in the black hole is
 
 $$
-E \sim F_\text{grav} R \sim \frac{GM^2}{R}
+E \sim F_\text{grav} R \sim \frac{GM^2}{R}.
 $$
 
-as claimed.
-Now, if we equate these two forms of energy, we find the famous
-*Schwarzschild radius* $R$:
+If we equate this with mass-energy, we find the famous *Schwarzschild radius* $R$:
 
 $$
 Mc^2 \sim \frac{GM^2}{R} \quad \Longrightarrow \quad R \sim \frac{GM}{c^2}.
