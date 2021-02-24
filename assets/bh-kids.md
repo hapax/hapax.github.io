@@ -246,14 +246,27 @@ $$
 \Delta E \sim kT\Delta N.
 $$
 
-Keeping the temperature $T$ fixed, and ignoring the terms involving
-$f$, this yields
+Keeping the temperature $T$ fixed, and ignoring numbers involving $f$, this yields
 
 $$
 \Delta S \sim \frac{\Delta E}{T}.
 $$
 
-We can make all this much more precise, but we won't need to.
+With a bit more care, this can be turned into a *definition* of
+entropy, but the point is that there is the microscopic view (ways to
+be) and the macroscopic view (change in energy divided by
+temperature).
+Either way, the entropy of a black hole is
+
+$$
+S \sim Nk \sim \frac{k A}{A_P},
+$$
+
+up to numerical constants.
+This result was suggested by
+[Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) in
+1973, and corroborated by Hawking's temperature calculation in 1974,
+so it's called the *Bekenstein-Hawking entropy*.
 
 <!--
 
