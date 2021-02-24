@@ -202,6 +202,7 @@ A black hole is not made from the atoms you find in chemistry
 textbooks.
 Instead, these are "Planck atoms", indivisible units of spacetime
 itself.
+The mystery is that they seem to live on the surface!
 
 #### Ways to be
 
