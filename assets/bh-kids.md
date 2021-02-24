@@ -233,14 +233,27 @@ fewer ways to be highly ordered than disordered. As an example, if we
 now demand that all the Planck atoms have the same state, there are
 only $f$ different ways to be!
 We can connect this to thermodynamics as follows.
-If each atom has $f$ possible states, the equipartition theorem states
-more precisely that
+Suppose we change the number of particles by $\Delta N$.
+Then by definition, the entropy changes as
 
 $$
-E = \frac{1}{2}Nf kT.
+\Delta S = k \log f \Delta N.
 $$
 
-Then the change 
+From the equipartition theorem, the total system energy changes as
+
+$$
+\Delta E \sim kT\Delta N.
+$$
+
+Keeping the temperature $T$ fixed, and ignoring the terms involving
+$f$, this yields
+
+$$
+\Delta S \sim \frac{\Delta E}{T}.
+$$
+
+We can make all this much more precise, but we won't need to.
 
 <!--
 
