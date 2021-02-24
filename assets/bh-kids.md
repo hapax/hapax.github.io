@@ -159,7 +159,7 @@ equipartition to estimate the total number of particles. Using the
 mass-energy for instance, we have
 
 $$
-E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
+E = Mc^2 \sim Nk T \sim \frac{N\hbar c}{R} \quad \Longrightarrow \quad N
 \sim \frac{RMc}{\hbar} \sim \frac{R^2c^3}{G\hbar}.
 $$
 
