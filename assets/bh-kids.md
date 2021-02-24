@@ -232,6 +232,15 @@ This is often talked about as a measure of disorder, since there are
 fewer ways to be highly ordered than disordered. As an example, if we
 now demand that all the Planck atoms have the same state, there are
 only $f$ different ways to be!
+We can connect this to thermodynamics as follows.
+If each atom has $f$ possible states, the equipartition theorem states
+more precisely that
+
+$$
+E = Nf kT.
+$$
+
+
 
 <!--
 
