@@ -193,13 +193,18 @@ N \sim \frac{R^2c^3}{G\hbar} = \frac{(3 \times 10^3)^2(3 \times
 $$
 
 This is a stupendously large number! A typical galaxy is estimated to
-have around $10^{67}$ atoms, and this is staggeringly more. Somehow, a
-black hole hosts enormously more particles that the objects they
-collapse from.
-Loosely speaking, this is because the particles are *patches of spacetime
-itself*. Each Planck area forms an atom.
+have around $10^{67}$ atoms, and a solar mass black hole seems to have
+a billion times more. How can a black hole have so many more atoms
+than the object it collapses from?
+The answer is that the nature of the atom is different!
+A black hole is not made from the atoms you find in chemistry
+textbooks.
+Instead, these are "Planck atoms", indivisible units of spacetime
+itself.
 
-#### Entropy
+#### Ways to be
+
+
 
 #### Appednix: sneezing ants
 
