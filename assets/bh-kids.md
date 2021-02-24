@@ -219,6 +219,15 @@ $$
 $$
 
 since each atom gets $f$ options.
+The *entropy* is just a convenient measure of the number of ways to
+be, conveniently defined by
+[Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) as
+
+$$
+S = k \ln \Omega =Nk \ln f,
+$$
+
+where $\ln$ is the natural logarithm (to the base $e$).
 
 <!--
 
