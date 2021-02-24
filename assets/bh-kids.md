@@ -137,7 +137,7 @@ $$
 
 This is a million times colder than empty space!
 
-#### Counting particles
+#### Atoms of spacetime
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
@@ -203,7 +203,7 @@ textbooks.
 Instead, these are "Planck atoms", which are somehow the indivisible units of spacetime
 itself.
 
-#### Planck atoms
+#### Counting ways to be
 
 Of course, this raises the question: what the heck is a spacetime
 atom?! We know from chemistry textbooks how regular atoms combine and
