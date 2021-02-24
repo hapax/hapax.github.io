@@ -23,7 +23,7 @@ similar in spirit to the way the Hawking temperature can be motivated
 by considering virtual particles near the horizon.
 Without resorting to dimensional analysis, we can throw around
 equations with sneaky abandon, starting with the Schwarzschild radius
-and ending with the mysterious Bekenstein-Hawking entropy.
+and ending with the mysterious formula for Bekenstein-Hawking entropy.
 
 #### Sizing up a black hole
 
@@ -262,7 +262,8 @@ $$
 S \sim Nk \sim \frac{k A}{A_P},
 $$
 
-up to numerical constants.
+up to numerical constants, where $A = 4\pi R^2$ is the area of the
+black hole horizon, and $A_P$ is the Planck area.
 This result was suggested by
 [Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) in
 1973, and corroborated by Hawking's temperature calculation in 1974,
