@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Black hole thermodynamics on the cheap"
+title:  "Planck atoms"
 categories: [Physics, Hacks]
 date:  2021-02-23
 ---
@@ -202,13 +202,17 @@ A black hole is not made from the atoms you find in chemistry
 textbooks.
 Instead, these are "Planck atoms", indivisible units of spacetime
 itself.
-The mystery is that they seem to live on the surface!
 
 #### Ways to be
 
-Now, in those chemistry textbooks, 
+Of course, this raises the question: what the heck is a spacetime
+atom?! We know from chemistry textbooks how regular atoms combine and
+create matter. Trying to understand how Planck atoms combine and
+create spacetime is much harder! But there are a few demystifying
+statements we can make.
+Suppose each Planck atom can be in $f$ states.
 
-#### Appednix: sneezing ants
+#### Appendix: sneezing ants
 
 This has a rather interesting astrophysical implication.
 It turns out that the universe also glows like a lump of coal, a sort
