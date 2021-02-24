@@ -69,7 +69,8 @@ R = \frac{2GM_\odot}{c^2} = \frac{2(6.67\times 10^{-11})(2 \times
 10^{30})}{(3\times 10^8)^2} \text{ m} \approx 3 \text{ km}.
 $$
 
-It would fit on the University Endowment Lands of UBC.
+It would fit inside the LHC!
+<!-- It would fit on the University Endowment Lands of UBC.-->
 
 #### Fiat flux
 
@@ -111,7 +112,7 @@ $$
 One of the weird things about black holes is that temperature is
 inversely proportional to mass $M$, as we can see directly here.
 As it gets smaller, it gets hotter! See the appendix for an
-interesting consequence for thermodynamics.
+astrophysical consequence.
 Before moving on, let's calculate the temperature of our solar mass
 black hole.
 Since we already know it has a radius of around $R \sim 3$ km, the
