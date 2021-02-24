@@ -203,7 +203,7 @@ textbooks.
 Instead, these are "Planck atoms", which are somehow the indivisible units of spacetime
 itself.
 
-#### Counting ways to be
+#### Bekenstein-Hawking entropy
 
 Of course, this raises the question: what the heck is a spacetime
 atom?! We know from chemistry textbooks how regular atoms combine and
