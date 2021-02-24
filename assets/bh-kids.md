@@ -137,7 +137,7 @@ $$
 
 This is a million times colder than empty space!
 
-#### Atoms of spacetime
+#### Counting particles
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
@@ -203,7 +203,7 @@ textbooks.
 Instead, these are "Planck atoms", which are somehow the indivisible units of spacetime
 itself.
 
-#### Ways to be
+#### Planck atoms
 
 Of course, this raises the question: what the heck is a spacetime
 atom?! We know from chemistry textbooks how regular atoms combine and
@@ -224,10 +224,14 @@ be, conveniently defined by
 [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) as
 
 $$
-S = k \ln \Omega =Nk \ln f,
+S = k \log \Omega =Nk \log f,
 $$
 
-where $\ln$ is the natural logarithm (to the base $e$).
+where $\log$ is the logarithm to the base $e$.
+This is often talked about as a measure of disorder, since there are
+fewer ways to be highly ordered than disordered. As an example, if we
+now demand that all the Planck atoms have the same state, there are
+only $f$ different ways to be!
 
 <!--
 
