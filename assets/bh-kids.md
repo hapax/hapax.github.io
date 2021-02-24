@@ -91,10 +91,10 @@ This explains why a very hot coal is orange or yellow, and becomes red
 The relationship is governed by something called *Wien's law*:
 
 $$
-\lambda \sim \frac{hc}{kT},
+\lambda \sim \frac{\hbar c}{kT},
 $$
 
-where $h = 6.62 \times 10^{-34}$ is Planck's constant,
+where $\hbar = 1.05 \times 10^{-34}$ is Planck's (reduced) constant,
 and $k = 1.38 \times 10^{-23}$ is Boltzmann's constant (both in SI
 units).
 For a motivation from dimensional analysis, see
@@ -106,7 +106,7 @@ Setting $\lambda = R$ and making $T$ the subject, we obtain the
 *Hawking temperature* of a black hole:
 
 $$
-\lambda \sim \frac{hc}{kT} \sim \frac{GM}{c^2}  \quad \Longrightarrow \quad T \sim \frac{hc^3}{GMk}.
+\lambda \sim \frac{\hbar c}{kT} \sim \frac{GM}{c^2}  \quad \Longrightarrow \quad T \sim \frac{\hbar c^3}{GMk}.
 $$
 
 One of the weird things about black holes is that temperature is
@@ -119,12 +119,11 @@ Since we already know it has a radius of around $R \sim 3$ km, the
 temperature from Wien's law is
 
 $$
-T \sim \frac{hc}{kR} = \frac{(6.62 \times 10^{-34})(3 \times
-10^8)}{(1.38 \times 10^{-23})(3 \times 10^3)} \text{ K} \sim 5 \times
-10^{-6} \text{ K}.
+T \sim \frac{\hbar c}{kR} = \frac{(1.05 \times 10^{-34})(3 \times
+10^8)}{(1.38 \times 10^{-23})(3 \times 10^3)} \text{ K} \sim 10^{-6} \text{ K}.
 $$
 
-This is almost a million times colder than empty space!
+This is a million times colder than empty space!
 
 #### Black hole molecules
 
@@ -142,13 +141,17 @@ E \sim N kT,
 $$
 
 where $E$ is the total kinetic energy of molecules, or *heat*, and $N$
-is the total number of particles.
-We can use this to estimate the total number of "molecules" in a black
-hole. Using the mass-energy form for simplicity, we have
+is the total number of particles (or something like a particle we'll
+define more carefully below).
+Basically, hot systems are egalitarian, and try to spread their energy
+evenly between particles.
+We can use equipartition to estimate the total number of particles
+inside a black hole. Using the mass-energy form for simplicity, we
+have
 
 $$
 E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
-\sim \frac{RMc}{h} \sim \frac{R^2c^3}{Gh}.
+\sim \frac{RMc}{\hbar} \sim \frac{R^2c^3}{G\hbar}.
 $$
 
 This is a strange and remarkable result.
@@ -159,13 +162,15 @@ Usually, the number of particles is proportional to the *volume* of a
 material, not the surface area, so something weird appears to be
 happening.
 The second interesting thing is that we are dividing the surface area
-by a particular combination of constants,
+by a particular combination of constants
 
 $$
-A_P = \frac{Gh}{c^3},
+A_P = \frac{G \hbar}{c^3}
 $$
 
-called the *Planck area*.
+called the *Planck area*. It is the square of the
+[Planck length](https://hapax.github.io/physics/hacks/qgrav/), the
+smallest length that makes sense in quantum gravity.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
 
