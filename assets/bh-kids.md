@@ -130,7 +130,8 @@ This is almost a million times colder than empty space!
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
-Let's measure the energy a different way, in terms of *heat*.
+We've said that a black hole is hot, so let's calculate the energy a
+third way, in terms of heat.
 People often say that the temperature of the substance measures the
 amount of "molecular motion", or kinetic energy per molecule.
 This sounds fuzzy, but can be written as a perfectly rigorous
