@@ -211,6 +211,14 @@ create matter. Trying to understand how Planck atoms combine and
 create spacetime is much harder! But there are a few demystifying
 statements we can make.
 Suppose each Planck atom can be in $f$ states.
+If there are $N$ Planck atoms in our black hole, then the total number
+of configurations (assuming all are allowed) $\Omega$ is
+
+$$
+\Omega = f \times f \times \cdots \times f = f^N,
+$$
+
+since each atom gets $f$ options.
 
 <!--
 
