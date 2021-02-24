@@ -7,10 +7,7 @@ categories: [Physics, Hacks]
 date:  2021-02-23
 ---
 
-**February 23, 2021.** *Black holes have thermodynamics properties,
-  including temperature and entropy. This post provides some quick
-  hacks for finding these, similar to dimensional analysis but even
-  cheaper.*
+**February 23, 2021.** *?*
 
 #### Introduction
 
