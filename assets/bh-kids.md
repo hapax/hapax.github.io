@@ -125,7 +125,7 @@ $$
 
 This is a million times colder than empty space!
 
-#### Black hole molecules
+#### Black hole atoms
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
@@ -137,17 +137,17 @@ This sounds fuzzy, but can be written as a perfectly rigorous
 equation called the *equipartition theorem*:
 
 $$
-E \sim N kT,
+\epsilon_\text{avg} \sim kT \quad \Longrightarrow \quad E \sim N kT,
 $$
 
-where $E$ is the total kinetic energy of molecules, or *heat*, and $N$
-is the total number of particles (or something like a particle we'll
-define more carefully below).
-Basically, hot systems are egalitarian, and try to spread their energy
-evenly between particles.
-We can use equipartition to estimate the total number of particles
-inside a black hole. Using the mass-energy form for simplicity, we
-have
+where $\epsilon_\text{avg}$ is the average energy per particle, and
+$N$ is the total number of particles, which we multiply by to get the
+total energy.
+Basically, hot systems are democratic, and try to spread their energy
+evenly between their constituents.
+Since we have already estimated the energy in a black hole, we can use
+equipartition to estimate the total number of particles. Using the
+mass-energy for instance, we have
 
 $$
 E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
