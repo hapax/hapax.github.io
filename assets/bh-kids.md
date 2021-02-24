@@ -237,10 +237,10 @@ If each atom has $f$ possible states, the equipartition theorem states
 more precisely that
 
 $$
-E = Nf kT.
+E = \frac{1}{2}Nf kT.
 $$
 
-
+Then the change 
 
 <!--
 
