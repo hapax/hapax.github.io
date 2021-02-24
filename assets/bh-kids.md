@@ -200,7 +200,7 @@ than the object it collapses from?
 The answer is that the nature of the atom is different!
 A black hole is not made from the atoms you find in chemistry
 textbooks.
-Instead, these are "Planck atoms", indivisible units of spacetime
+Instead, these are "Planck atoms", which are somehow the indivisible units of spacetime
 itself.
 
 #### Ways to be
