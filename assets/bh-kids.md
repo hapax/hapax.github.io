@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Bekenstein-Hawking on the cheap"
+title:  "Black hole thermodynamics on the cheap"
 categories: [Physics, Hacks]
 date:  2021-02-23
 ---
@@ -14,6 +14,16 @@ date:  2021-02-23
 
 #### Introduction
 
+Deriving thermodynamic properties of black holes is hard unless you cheat.
+One approach is to use dimensional analysis (see
+e.g. [here](https://hapax.github.io/assets/dimensional-analysis.pdf))
+but even that can get a bit tedious.
+In this post, I'll provide a streamlined, scandalously heuristic approach,
+similar in spirit to the way the Hawking temperature can be motivated
+by considering virtual particles near the horizon.
+Without dimensional analysis, we'll throw around equations with sneaky
+abandon, starting with the Schwarzschild radius and ending with the
+mysterious Bekenstein-Hawking entropy.
 
 #### System size
 
@@ -154,7 +164,7 @@ E = Mc^2 \sim Nk T \sim \frac{Nhc}{R} \quad \Longrightarrow \quad N
 \sim \frac{RMc}{\hbar} \sim \frac{R^2c^3}{G\hbar}.
 $$
 
-This is a strange and remarkable result.
+This is a very strange result.
 The first thing to notice is that the number of particles is
 proportional to $R^2$, and hence the *surface area* $4\pi R^2$ of the
 black hole.
@@ -173,6 +183,8 @@ called the *Planck area*. It is the square of the
 smallest length that makes sense in quantum gravity.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
+
+#### Entropy
 
 #### Appednix: sneezing ants
 
