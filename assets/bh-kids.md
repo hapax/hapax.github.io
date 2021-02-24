@@ -71,7 +71,7 @@ $$
 
 It would fit on the University Endowment Lands of UBC.
 
-#### Let there be heat
+#### Fiat flux
 
 Although a black hole traps any light that falls inside, Stephen
 Hawking made the remarkable discovery that just outside the boundary,
@@ -110,70 +110,20 @@ $$
 
 One of the weird things about black holes is that temperature is
 inversely proportional to mass $M$, as we can see directly here.
-As it gets smaller, it gets hotter!
-This has a rather interesting astrophysical implication.
-It turns out that the universe also glows like a lump of coal, a sort
-of afterimage of the Big Bang called the *cosmic microwave background*
-(CMB). The "microwave" comes from the fact that the predominant
-wavelength is in the microwave band, correspond by Wien's law to a
-temperature of around $3 \text{ K}$.
-A lump of coal sitting in space will cool down until it reaches this
-temperature, at which point it will settle into thermal equilibrium
-with the CMB.
-The black holes in equilibrium with empty space have a Schwarzschild radius
+As it gets smaller, it gets hotter! See the appendix for an
+interesting consequence for thermodynamics.
+Before moving on, let's calculate the temperature of our solar mass
+black hole.
+Since we already know it has a radius of around $R \sim 3$ km, the
+temperature from Wien's law is
 
 $$
-R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
-10^{-23})(3)} \text{ m} = 5 \text{ mm},
+T \sim \frac{hc}{kR} = \frac{(6.62 \times 10^{-34})(3 \times
+10^8)}{(1.38 \times 10^{-23})(3 \times 10^3)} \text{ K} \sim 5 \times
+10^{-6} \text{ K}.
 $$
 
-about the size of an ant. This raises the question: is the universe
-filled with ant-sized black holes?
-The answer is no for two reasons.
-First, the amount of time it takes for an astrophysical black hole to
-reach this stage is many times the age of universe, so black holes
-formed from stars just haven't had a chance to reach the ant phase
-yet.
-But even if there is some other process that allows these ant-sized
-black holes to form quickly, their equilibrium with the CMB is
-unstable.
-
-<!-- Max Planck, one of the founding fathers of quantum mechanics, came up
-with a general formula for the amount of energy in a photon of
-wavelength $\lambda$, $\varepsilon = hc/\lambda$, where $h = 6.62
-\times 10^{-34}$ (in SI units).
-Then the typical Hawking photon coming out of a black hole has energy
-$$
-\varepsilon \sim \frac{hc}{R} \sim \frac{hc^3}{GM}.
-$$
-Not only does the black hole radiate like a hot lump of coal, it does
-so for the same reason: it has a temperature!
-The relationship between the enery of the photon -->
-
-<!-- Note that black holes heat up as they get small!
-Once again, we can check what would happen if the sun were a black
-hole.
-Using our previous result for the Schwarzschild radius, the Hawking
-temperature would be
-
-$$
-T \sim \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
-10^{-23})(3000)} \text{ K} = 5 \times 10^{-6} \text{ K}.
-$$
-
-This is millions of times colder than empty space, which has a
-temperature of about $3 \text{ K}$.
-The black holes in equilibrium with the vacuum have radius around
-
-$$
-R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
-10^{-23})(3)} \text{ m} = 5 \text{ mm},
-$$
-
-<!-- If the sun did collapse to form a black hole, it would get heated up
-by the surrounding vacuum.
-Since mass gets smaller with temperature, this means it would shrink
-dramatically! -->
+This is almost a million times colder than empty space!
 
 #### Black hole molecules
 
@@ -216,3 +166,74 @@ $$
 called the *Planck area*.
 For various reasons, it can be regarded as the smallest area that
 makes sense.
+
+#### Appednix: sneezing ants
+
+This has a rather interesting astrophysical implication.
+It turns out that the universe also glows like a lump of coal, a sort
+of afterimage of the Big Bang called the *cosmic microwave background*
+(CMB). The "microwave" comes from the fact that the predominant
+wavelength is in the microwave band, correspond by Wien's law to a
+temperature of around $3 \text{ K}$.
+A lump of coal sitting in space will cool down until it reaches this
+temperature, at which point it will settle into thermal equilibrium
+with the CMB.
+The black holes in equilibrium with empty space have a Schwarzschild radius
+
+$$
+R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3)} \text{ m} = 5 \text{ mm},
+$$
+
+about the size of an ant. This raises the question: is the universe
+filled with ant-sized black holes?
+The answer is no for two reasons.
+First, the amount of time it takes for an astrophysical black hole to
+reach this stage is many times the age of universe, so black holes
+formed from stars just haven't had a chance to reach the ant phase
+yet.
+But even if there is some other process that allows these ant-sized
+black holes to form quickly, their equilibrium with the CMB is
+unstable.
+To see why, imagine that the ant-sized black hole sneezes, and a
+little energy comes out.
+By $E = mc^2$, it gets smaller, and hence its temperature increases.
+The CMB is now feeding it less energy than it outputs, so it keeps
+getting smaller and hotter and quickly vanishes altogether!
+
+<!-- Max Planck, one of the founding fathers of quantum mechanics, came up
+with a general formula for the amount of energy in a photon of
+wavelength $\lambda$, $\varepsilon = hc/\lambda$, where $h = 6.62
+\times 10^{-34}$ (in SI units).
+Then the typical Hawking photon coming out of a black hole has energy
+$$
+\varepsilon \sim \frac{hc}{R} \sim \frac{hc^3}{GM}.
+$$
+Not only does the black hole radiate like a hot lump of coal, it does
+so for the same reason: it has a temperature!
+The relationship between the enery of the photon -->
+
+<!-- Note that black holes heat up as they get small!
+Once again, we can check what would happen if the sun were a black
+hole.
+Using our previous result for the Schwarzschild radius, the Hawking
+temperature would be
+
+$$
+T \sim \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3000)} \text{ K} = 5 \times 10^{-6} \text{ K}.
+$$
+
+This is millions of times colder than empty space, which has a
+temperature of about $3 \text{ K}$.
+The black holes in equilibrium with the vacuum have radius around
+
+$$
+R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
+10^{-23})(3)} \text{ m} = 5 \text{ mm},
+$$
+
+<!-- If the sun did collapse to form a black hole, it would get heated up
+by the surrounding vacuum.
+Since mass gets smaller with temperature, this means it would shrink
+dramatically! -->
