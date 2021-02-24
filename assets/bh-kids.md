@@ -184,7 +184,8 @@ called the *Planck area*. It is the square of the
 Planck length $\ell_P
 = \sqrt{G\hbar/c^3}$.
 For [various reasons](https://hapax.github.io/physics/hacks/qgrav/),
-it can be regarded as the smallest area that makes sense.
+this can be regarded as the smallest length that makes sense when
+quantum effects are taken into account.
 For a sun-sized black hole, the number of particles is
 
 $$
@@ -204,7 +205,7 @@ itself.
 
 #### Ways to be
 
-
+Now, in those chemistry textbooks, 
 
 #### Appednix: sneezing ants
 
