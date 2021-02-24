@@ -125,7 +125,7 @@ $$
 
 This is a million times colder than empty space!
 
-#### Black hole atoms
+#### Black hole molecules
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
