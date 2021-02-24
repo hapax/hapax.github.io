@@ -21,14 +21,16 @@ but even that can get a bit tedious.
 In this post, I'll provide a streamlined, scandalously heuristic approach,
 similar in spirit to the way the Hawking temperature can be motivated
 by considering virtual particles near the horizon.
-Without dimensional analysis, we'll throw around equations with sneaky
-abandon, starting with the Schwarzschild radius and ending with the
-mysterious Bekenstein-Hawking entropy.
+Without resorting to dimensional analysis, we can throw around
+equations with sneaky abandon, starting with the Schwarzschild radius
+and ending with the mysterious Bekenstein-Hawking entropy.
 
-#### System size
+#### Sizing up a black hole
 
-Suppose the black hole has mass $M$.
-A running theme will be different ways of estimating the energy stored
+Suppose a star of mass $M$ runs out of nuclear fuel and collapses to
+form a black hole.
+How big is it?
+A running theme in this post will be different ways of estimating the energy stored
 in the black hole, and to start with, we invoke the [most famous
 formula in physics](https://hapax.github.io/physics/mathematics/hacks/emcc/):
 
@@ -40,7 +42,7 @@ where $c = 3 \times 10^8 \text{ m/s}$ is the speed of light.
 This is how much *mass-energy* the black hole has, according to
 Einstein's gem.
 We will equate this to the gravitational energy stored in the black hole.
-Recall Newton's law of gravitation,
+Recall Newton's inverse square law of gravity,
 
 $$
 F_\text{grav} = \frac{GMm}{r^2},
@@ -135,7 +137,7 @@ $$
 
 This is a million times colder than empty space!
 
-#### Black hole molecules
+#### Atoms of spacetime
 
 We've measured the energy in a black hole using Einstein's mass-energy
 formula, and Newton's formula for gravitation.
@@ -152,7 +154,7 @@ $$
 
 where $\epsilon_\text{avg}$ is the average energy per particle, and
 $N$ is the total number of particles, which we multiply by to get the
-total energy.
+total energy $E$.
 Basically, hot systems are democratic, and try to spread their energy
 evenly between their constituents.
 Since we have already estimated the energy in a black hole, we can use
@@ -179,10 +181,23 @@ A_P = \frac{G \hbar}{c^3}
 $$
 
 called the *Planck area*. It is the square of the
-[Planck length](https://hapax.github.io/physics/hacks/qgrav/), the
-smallest length that makes sense in quantum gravity.
-For various reasons, it can be regarded as the smallest area that
-makes sense.
+Planck length $\ell_P
+= \sqrt{G\hbar/c^3}$.
+For [various reasons](https://hapax.github.io/physics/hacks/qgrav/),
+it can be regarded as the smallest area that makes sense.
+For a sun-sized black hole, the number of particles is
+
+$$
+N \sim \frac{R^2c^3}{G\hbar} = \frac{(3 \times 10^3)^2(3 \times
+10^8)^3}{(6.67 \times 10^{-11}) (1.05 \times 10^{-34})} \sim 10^{76}.
+$$
+
+This is a stupendously large number! A typical galaxy is estimated to
+have around $10^{67}$ atoms, and this is staggeringly more. Somehow, a
+black hole hosts enormously more particles that the objects they
+collapse from.
+Loosely speaking, this is because the particles are *patches of spacetime
+itself*. Each Planck area forms an atom.
 
 #### Entropy
 
