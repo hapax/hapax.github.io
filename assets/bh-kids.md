@@ -123,8 +123,8 @@ $$
 
 One of the weird things about black holes is that temperature is
 inversely proportional to mass $M$, as we can see directly here.
-As it gets smaller, it gets hotter! See the appendix for an
-astrophysical consequence.
+As it gets smaller, it gets hotter!
+<!-- See the appendix for an astrophysical consequence.-->
 Before moving on, let's calculate the temperature of our solar mass
 black hole.
 Since we already know it has a radius of around $R \sim 3$ km, the
@@ -212,7 +212,7 @@ create spacetime is much harder! But there are a few demystifying
 statements we can make.
 Suppose each Planck atom can be in $f$ states.
 
-#### Appendix: sneezing ants
+<!--
 
 This has a rather interesting astrophysical implication.
 It turns out that the universe also glows like a lump of coal, a sort
