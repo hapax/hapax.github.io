@@ -183,7 +183,7 @@ Planck length $\ell_P
 = \sqrt{G\hbar/c^3}$.
 For [various reasons](https://hapax.github.io/physics/hacks/qgrav/),
 this can be regarded as the smallest length that makes sense when
-quantum effects are taken into account.
+quantum gravity effects are taken into account.
 For a sun-sized black hole, the number of particles is
 
 $$
