@@ -265,6 +265,8 @@ This result was worked out by
 [Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) and
 Stephen Hawking in the 70s, so it's called the
 *Bekenstein-Hawking entropy*.
+This is the starting point for exploring the wonders of quantum
+gravity, but I must leave that for another time!
 
 <!--
 For our last trick, we'll get all the numbers right.
