@@ -2,12 +2,13 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Planck atoms"
+title:  "Bekenstein-Hawking on the cheap"
 categories: [Physics, Hacks]
 date:  2021-02-23
 ---
 
-**February 23, 2021.** *?*
+**February 23, 2021.** *A scandalously heuristic "derivation" of
+  Bekenstein and Hawking's expression for black hole entropy.*
 
 #### Introduction
 
@@ -47,7 +48,7 @@ $$
 
 for masses $M$, $m$ separated by distance $r$, and Newton's constant
 $G = 6.67 \times 10^{-11}$ (in SI units).
-By setting $m = M$, we can estiamte the force the black hole applies
+By setting $m = M$, we can estimate the force the black hole applies
 to itself:
 
 $$
@@ -197,7 +198,7 @@ than the object it collapses from?
 The answer is that the nature of the atom is different!
 A black hole is not made from the atoms you find in chemistry
 textbooks.
-Instead, these are "Planck atoms", which are somehow the indivisible units of spacetime
+Instead, these are "Planck atoms", somehow the indivisible units of spacetime
 itself.
 
 #### Bekenstein-Hawking entropy
@@ -250,21 +251,20 @@ $$
 $$
 
 With a bit more care, this can be turned into a *definition* of
-entropy, but the point is that there is the microscopic view (ways to
-be) and the macroscopic view (change in energy divided by
+entropy, but the point is that there is a microscopic view of entropy (ways to
+be) and a macroscopic view (change in energy divided by
 temperature).
 Either way, the entropy of a black hole is
 
 $$
-S \sim Nk \sim \frac{k A}{A_P},
+S \sim Nk \sim \frac{k R^2}{A_P},
 $$
 
-up to numerical constants, where $A = 4\pi R^2$ is the area of the
-black hole horizon, and $A_P$ is the Planck area.
-This result was suggested by
-[Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) in
-1973, and corroborated by Hawking's temperature calculation in 1974,
-so it's called the *Bekenstein-Hawking entropy*.
+up to numerical constants, where $A_P$ is the Planck area.
+This result was worked out by
+[Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) and
+Stephen Hawking in the 70s, so it's called the
+*Bekenstein-Hawking entropy*.
 
 <!--
 
