@@ -257,17 +257,34 @@ temperature).
 Either way, the entropy of a black hole is
 
 $$
-S \sim Nk \sim \frac{k R^2}{A_P},
+S \sim Nk \sim \frac{k A}{A_P},
 $$
 
-up to numerical constants, where $A_P$ is the Planck area.
+up to numerical constants, where $A$ is the black hole horizon area and $A_P$ is the Planck area.
 This result was worked out by
 [Jacob Bekenstein](https://en.wikipedia.org/wiki/Jacob_Bekenstein) and
 Stephen Hawking in the 70s, so it's called the
 *Bekenstein-Hawking entropy*.
 
 <!--
-
+For our last trick, we'll get all the numbers right.
+This will be more advanced (though still heuristic).
+To begin with, note that, for
+a massive body of mass $M$ (our black hole), the escape velocity $v$ a
+distance $r$ away obeys
+$$
+\frac{1}{2} mv^2 = \frac{GMm}{r},
+$$
+since the LHS is the kinetic energy of the body, and the RHS is the
+gravitional potential energy. You need to pay the potential energy in
+kinetic energy (hence the equality) to escape. If we set this escape
+velocity to the speed of light, we get the Schwarzschild radius with
+its factor of $2$.
+Now for the temperature.
+This is a
+$$
+R = \frac{2GM}{c^2}.
+$$
 This has a rather interesting astrophysical implication.
 It turns out that the universe also glows like a lump of coal, a sort
 of afterimage of the Big Bang called the *cosmic microwave background*
@@ -278,12 +295,10 @@ A lump of coal sitting in space will cool down until it reaches this
 temperature, at which point it will settle into thermal equilibrium
 with the CMB.
 The black holes in equilibrium with empty space have a Schwarzschild radius
-
 $$
 R \sim \frac{hc}{kT} = \frac{(6.62 \times 10^{-34})(3 \times 10^8)}{(1.38 \times
 10^{-23})(3)} \text{ m} = 5 \text{ mm},
 $$
-
 about the size of an ant. This raises the question: is the universe
 filled with ant-sized black holes?
 The answer is no for two reasons.
