@@ -52,7 +52,7 @@ a white guy with a talent for pushing symbols around, neither of which
 is actually a prerequisite!
 Nevertheless, these are narratives about science that can and very
 often do guide career
-decisions---I mean, we've been exposed to them all our lives---so I would like to tell you some counter-narratives about what
+decisions---we've been exposed to them all our lives---so I would like to tell you some counter-narratives about what
 the prerequisites are. <!-- , what a scientist does and why they do it.-->
 
 Really, the main prerequisites are very simple.
