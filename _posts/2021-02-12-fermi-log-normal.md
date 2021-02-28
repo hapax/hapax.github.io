@@ -11,8 +11,8 @@ date:  2021-02-12
   important factor is log normality, which occurs for large random
   products. <!--, also related to the mechanism underlying
   the Newcomb-Benford law for first digits.--> Another element is
-  variance-reduction through judicious subestimates. I give some
-  tips for the latter.*
+  variance-reduction through judicious subestimates. I discuss both
+  and give a simple heuristic for the latter.*
 
 #### Introduction
 
