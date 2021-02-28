@@ -149,7 +149,7 @@ deeper truths in that undiscovered sea.
 
 But maybe one of these deep truths is that *everything is interesting*,
 including the pebbles and shells and ordinary things.
-This is one of the perks of being a scientist; you are part of a
+This is one of the perks of being a scientist. You are part of a
 human-operated scheme for turning the universe into a fractal of
 wonder, something which exhibits wonder in every object and at every
 length scale.
