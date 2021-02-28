@@ -4,19 +4,21 @@ date:  2020-11-12
 layout: post
 ---
 
-I would like to thank Sogand and the organizers of this year's Quantum
-Leaps Conference for inviting me to speak.
-<!--  all of you in advance for listening, and the Coast
+I'd like to thank <!-- Sogand and -->
+the organizers of this year's Quantum
+Leaps Conference for inviting me to speak,
+  all of you in advance for listening, and the Coast
 Salish peoples---the Squamish,
 Musqueam and Tsleil-Waututh---on whose unceded and ancestral territory
-we are situated. -->
+we are situated.
 <!-- I'm David, a theoretical physicist at UBC, but I'm not going to be
 specifically talking about physics today. -->
 I'm a theoretical physicist. I study string theory and black holes, among
-other things, and I welcome questions about these topics or any other
-topics, including a day in the life, or my path to where I am today,
+other things, and I welcome questions about these topics (or any others)
+<!-- topics, including a day in the life, or my path to where I am -->
+<!-- today,-- >
 in the question session afterwards.
-But instead of talking about these specific things, I'm going to be
+But <!-- instead of talking about these specific things,--> today, I'm going to be
 sharing a broad perspective on what science is, and what scientists
 do. And first of all, I'm going to talk about what science is *not*.
 
