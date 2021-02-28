@@ -54,11 +54,11 @@ Nevertheless, these are narratives about science that can and very
 often do guide career
 decisions---we've been exposed to them all our lives---so I would like to tell you some counter-narratives about what
 the prerequisites are. <!-- , what a scientist does and why they do it.-->
-
 Really, the main prerequisites are very simple.
 All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
-I'll give an example.
+
+Let me give an example.
 For two thousand years, we had it figured out. We knew why some things
 fell to the ground, and why some things floated off into the air, thanks to
 the Greek philosopher Aristotle. He told us that different objects
