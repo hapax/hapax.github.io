@@ -37,7 +37,7 @@ The second stock type doesn't wear a labcoat,
 and is more likely to be sporting a turtleneck
 sweater or a tweed jacket and standing in front of a
 blackboard. Instead of a microscope or pipette, their tools are chalk,
-equations and ideas.
+equations and big ideas.
 If we take the stereotype to its logical, or rather pop cultural,
 conclusion, they're probably white and male, and could be confined to
 a wheelchair, or schizophrenic, or possessing a big frizz of white hair.
