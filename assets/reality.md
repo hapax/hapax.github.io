@@ -18,8 +18,8 @@ other things, and I welcome questions about these topics (or any others)
 <!-- topics, including a day in the life, or my path to where I am -->
 <!-- today,-- >
 in the question session afterwards.
-But <!-- instead of talking about these specific things,--> today, I'm going to be
-sharing a broad perspective on what science is, and what scientists
+But <!-- instead of talking about these specific things,--> right now,
+I'll be sharing a broader perspective on what science is, and what scientists
 do. And first of all, I'm going to talk about what science is *not*.
 
 If I ask you to imagine a scientist, one of two stock types is likely
