@@ -14,11 +14,10 @@ we are situated.
 <!-- I'm David, a theoretical physicist at UBC, but I'm not going to be
 specifically talking about physics today. -->
 I'm a theoretical physicist. I study string theory and black holes, among
-other things, and I welcome questions about these topics (or any others)
+other things, and I welcome questions about these topics (or any others) in the question session afterwards.
 <!-- topics, including a day in the life, or my path to where I am -->
 <!-- today,-- >
-in the question session afterwards.
-But <!-- instead of talking about these specific things,--> right now,
+But <!-- instead of talking about these specific things,--> But in my talk,
 I'll be sharing a broader perspective on what science is, and what scientists
 do. And first of all, I'm going to talk about what science is *not*.
 
