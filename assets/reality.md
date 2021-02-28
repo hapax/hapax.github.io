@@ -95,7 +95,7 @@ power in the matter of the earth must be in the earth's center."
 That's why it gets pulled to the center of the earth.
 
 This little observation planted the seed for the most productive year
-any human being has ever had, ever. In 1666, the lazy student
+any human being has ever had. In 1666, the lazy student
 invented Newtonian mechanics to explain how the apple started and
 stopped moving, the law of gravitation to explain why it was pulled towards the
 centre of the earth in the first place, and
