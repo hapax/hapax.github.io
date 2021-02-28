@@ -71,7 +71,7 @@ revolve far above.
 
 If I take a clod of earth, and let it go, Aristotle says it will
 drop back down to the ground because the ground is where it belongs and likes to
-be, and that's been the accepted view for most of recorded history. But in 1665,
+be. That's been the accepted view for most of recorded history. But in 1665,
 Cambridge University closed due to fears of the
 Black Plague---not so different from universities around the world
 today---and one of its recent graduates, a lazy and
