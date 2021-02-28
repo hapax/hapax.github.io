@@ -191,7 +191,7 @@ Betelguese is a renegade.
 It grew up in a pocket of debris humorously called the OB1
 Association, and perhaps as a result of some Star Wars, it got kicked
 out, and now hurtles through space at 30 km/s.
-As it travels through the interstellar medium (which is a light
+As it travels through the interstellar medium (a light
 sprinkling of hydrogen and other elements) its magnetic field
 kicks atoms out of the way, forming what's called a bow shock, the
 same way that the prow of a boat creates a wake as it displaces water. 
