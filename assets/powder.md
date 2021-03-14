@@ -299,12 +299,68 @@ D^\alpha x^{s} & = \frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\,
 \omega^{-(1+ s)} (-\omega)^\alpha e^{-\omega x} \\
 & = (-1)^\alpha\frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\,
 \omega^{-(1+ s - \alpha)} e^{-\omega x} \\
-& = (-1)^\alpha\frac{\Gamma(-(1+s-\alpha))}{\Gamma(-s)} x^{s-\alpha},
+& = (-1)^\alpha\frac{\Gamma[-(s-\alpha)]}{\Gamma(-s)} x^{s-\alpha},
 \end{align*}
 $$
 
 where on the last line we used (\ref{\label{gamma}}), but with $s
 -\alpha$ instead of $s$.
+This isn't quite what we want.
+To make progress, we're going to use something called the *reflection
+formula* (derived [here](https://hapax.github.io/mathematics/zeta/)
+for instance):
+
+$$
+\Gamma(z) \Gamma(1 - z) = \frac{\pi}{\sin(\pi z)}.
+$$
+
+We can apply this to both $\Gamma(-s)$ and $\Gamma[-(s-\alpha)]$ to
+get
+
+$$
+\begin{align*}
+D^\alpha x^{s} & = (-1)^\alpha \frac{\sin(\pi
+s)}{\sin[\pi(s-\alpha)]}\cdot \frac{\Gamma(s+1)}{\Gamma(s-\alpha + 1)} x^{s-\alpha}.
+\end{align*}
+$$
+
+This is almost (\ref{power}), the thing we were after!
+But there is this strange factor out the front.
+Recall the definition of sine in terms of complex exponentials.
+This lets us write the funny factor out the front as
+
+$$
+(-1)^\alpha \frac{\sin(\pi s)}{\sin[\pi(s-\alpha)]} = (-1)^\alpha\frac{e^{\pi i
+s} - e^{-\pi i s}}{e^{\pi i (s-\alpha)} - e^{-\pi i (s-\alpha)}}.
+$$
+
+It would be magical if that $(-1)^\alpha$ could just go down and
+somehow cancel the $\alpha$ terms floating around, right?
+Well, turns out it does!
+We can write $-1 = e^{\pm \pi i}$, and hence
+
+$$
+(-1)^\alpha = e^{\pm \pi i \alpha}.
+$$
+
+I won't spell out the details, but if you look at the
+[proof](https://hapax.github.io/mathematics/zeta/) of the reflection
+formula, the two different terms in the sine arise from parts of a
+contour where we take roots in different ways.
+In particular, evaluating $(-1)^\alpha$ gives different factors
+$e^{\pm \pi i \alpha}$ for the terms they multiply, and perfectly
+cancels them, so that our funny factor is actually unity:
+
+$$
+\frac{e^{\pi i
+s} - e^{-\pi i s}}{(-1)^\alpha e^{\pi i (s-\alpha)} - (-1)^\alpha
+e^{-\pi i (s-\alpha)}} = \frac{e^{\pi i
+s} - e^{-\pi i s}}{e^{\pi i s} - e^{-\pi i s}} = 1.
+$$
+
+Thus, our exponential rule for fractional derivatives actually
+reproduces the rule from fractorials.
+
 
 #### Acknowledgments
 
