@@ -114,7 +114,8 @@ Then by linearity,
 
 $$
 D^\alpha f(x) = \int_{-\infty}^\infty d\omega \, \lambda(\omega) D^\alpha
-e^{\omega x} = \int_{-\infty}^\infty d\omega \, \lambda (\omega) \omega^\alpha e^{\omega x}.
+e^{\omega x} = \int_{-\infty}^\infty d\omega \, \lambda (\omega)
+\omega^\alpha e^{\omega x}. \tag{1} \label{exp}
 $$
 
 Functions which can be written this way are said to have a *Fourier
@@ -207,7 +208,8 @@ $$
 and immediately continue to the fractional derivative:
 
 $$
-D^\alpha x^s = \frac{\Gamma(s + 1)}{\Gamma(s -\alpha + 1)} x^{s-\alpha}.
+D^\alpha x^s = \frac{\Gamma(s + 1)}{\Gamma(s -\alpha + 1)}
+x^{s-\alpha}. \tag{2} \label{power}
 $$
 
 Too easy! (Note that this will be badly behaved for negative integer values of
@@ -264,5 +266,45 @@ simpler) gives rise to the power definition.
 At this point, it will become necessary to define the Gamma function:
 
 $$
-\Gamma(z) = \int_{0}^\infty t^{z-1} e^{-t}\, dt.
+\Gamma(s) = \int_{0}^\infty dt\, t^{s-1} e^{-t}.
 $$
+
+This isn't looking particularly useful yet. But let's make the sneaky
+change of variables $t = \omega x$.
+This gives
+
+$$
+\Gamma(s) = x^{s} \int_{0}^\infty d\omega\, \omega^{s-1} e^{-\omega
+x}.
+$$
+
+If we change $s \mapsto -s$, and rearrange, we get a formula for $x^s$
+in terms of exponentials:
+
+$$
+x^{s} = \frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\, \omega^{-(1+ s)}
+e^{-\omega x}. \tag{3} \label{gamma}
+$$
+
+Great! Now we just go ahead and use rule (\ref{exp}), with the hope we
+will get rule (\ref{power}).
+As usual, by linearity
+
+$$
+\begin{align*}
+D^\alpha x^{s} & = \frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\,
+\omega^{-(1+ s)} D^\alpha e^{-\omega x} \\
+& = \frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\,
+\omega^{-(1+ s)} (-\omega)^\alpha e^{-\omega x} \\
+& = (-1)^\alpha\frac{1}{\Gamma(-s)}\int_{0}^\infty d\omega\,
+\omega^{-(1+ s - \alpha)} e^{-\omega x} \\
+& = (-1)^\alpha\frac{\Gamma(-(1+s-\alpha))}{\Gamma(-s)} x^{s-\alpha},
+\end{align*}
+$$
+
+where on the last line we used (\ref{\label{gamma}}), but with $s
+-\alpha$ instead of $s$.
+
+#### Acknowledgments
+
+Thanks to J.A. for provoking a discussion of fractional derivatives.
