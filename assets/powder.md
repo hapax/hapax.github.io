@@ -255,4 +255,14 @@ $$
 
 since the $\Gamma(0)$ in the denominator makes the whole thing vanish.
 
-#### 
+#### Gamma and nail
+
+Now we come to the crucial question: do these two methods agree?
+Rather than give a fully general, rigorous proof, I'm going to content
+myself with showing that the exponential definition (which I regard as
+simpler) gives rise to the power definition.
+At this point, it will become necessary to define the Gamma function:
+
+$$
+\Gamma(z) = \int_{0}^\infty t^{z-1} e^{-t}\, dt.
+$$
