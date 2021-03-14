@@ -135,7 +135,8 @@ $$
 \sqrt{D} \sin(x) = \frac{1}{2i}(\sqrt{D} e^{ix} - \sqrt{D} e^{-ix}) = \frac{1}{2i}(\sqrt{i} e^{ix} - \sqrt{-i} e^{-ix}).
 $$
 
-Now, at this point it should be clear there is some ambiguity about
+This is evidently not a real function!
+It should also be clear there is some ambiguity about
 which roots we choose.
 This means that, even here, there are *different choices* of
 fractional derivative.
