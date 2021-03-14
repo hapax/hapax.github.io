@@ -258,7 +258,7 @@ $$
 
 since the $\Gamma(0)$ in the denominator makes the whole thing vanish.
 
-#### With Gamma, everything's a nail
+#### Gamma and tongs
 
 Now we come to the crucial question: do these two methods agree?
 Rather than give a fully general, rigorous proof, I'm going to content
