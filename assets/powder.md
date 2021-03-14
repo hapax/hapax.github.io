@@ -147,7 +147,7 @@ $$
 D^{-1} e^{\omega x} = \frac{1}{\omega}e^{\omega x}.
 $$
 
-Usually, we have an undetermined constant, but here we have set it to
+Usually, we have an undetermined constant, which here is set to
 zero.
 So fractional derivatives are ambiguous in general, needing boundary
 conditions to set constants and determine how to take roots.
