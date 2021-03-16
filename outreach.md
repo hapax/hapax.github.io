@@ -33,6 +33,9 @@ physics and what a day in the life looks like.
 
 #### "Hard" outreach
 
+- [*Quantum computing with parallel worlds*](assets/tnn-qc.pdf)
+  (2021). A very brief introduction to manipulating parallel worlds
+  with quantum computers. Bonus feature: a visual introduction to Grover search!
 - [*Black holes and quantum computers*](assets/bh-qc.pdf)
   (2021). A guest lecture on the information paradox and Page
   curve for high school students in the
