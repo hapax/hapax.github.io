@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Boring numbers and set theory"
+title:  "Most numbers are indescribably boring"
 categories: [Mathematics]
 date:  2021-03-23
 ---
