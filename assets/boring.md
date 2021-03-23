@@ -243,7 +243,7 @@ $$
 for some function $f$, but we could just as well write
 
 $$
-b = \overset{\mathcal{W}}{\min} B,
+b = \min_{\mathcal{W}} B,
 $$
 
 where $\mathcal{W}$ denote this ordering on the big set.
@@ -281,7 +281,7 @@ allowed to use the well-ordering $\mathcal{W}$.
 Since $\mathcal{W}$ is a well-ordering, we can define
 
 $$
-b = \overset{\mathcal{W}}{\min} B^{\mathcal{W}}_\mathbb{R}.
+b = \min_{\mathcal{W}} B^{\mathcal{W}}_\mathbb{R}.
 $$
 
 End of proof!
