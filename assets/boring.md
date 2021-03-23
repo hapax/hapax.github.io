@@ -65,9 +65,11 @@ use.
 #### Indescribable real numbers
 
 "Boring" and "interesting" are of course subjective terms.
-We're going to use something a bit more well-defined, and replace
-"interesting" with *describable*, in the sense that it has a finite
-description which uniquely gives that numbers.
+We'll use something a bit more well-defined, and replace
+"interesting" with *describable*.
+A number is describable if it has some finite description, using
+words, mathematical symbols, maybe even a computer program, which
+output that number.
 For instance, $\sqrt{2}$ is the positive solution of $x^2 = 2$, $\pi$
 is the ratio of a circle's circumference to its diameter, and $e$ is
 the limit
@@ -75,3 +77,4 @@ the limit
 $$
 e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n.
 $$
+
