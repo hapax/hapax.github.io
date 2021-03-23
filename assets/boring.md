@@ -289,10 +289,28 @@ well-ordering all are relatively interesting.
 
 #### Choosing an order
 
-Culturally speaking, it's a bit misleading to talk about well-ordering
-as an axiom.
-Usually, it is viewed as a *consequence* of another rule called the
-*axiom of choice*.
+Culturally speaking, well-ordering is not usually treated an axiom.
+There's nothing wrong with this, but historically set theorists prefer
+an equivalent but simpler rule called the *axiom of choice*.
+I imagine this is partly aesthetic: well-ordering seems suspiciously
+powerful, while the axiom of choice appears "unobjectionable", to use
+the words of its originator
+[Ernst Zermelo](https://en.wikipedia.org/wiki/Ernst_Zermelo).
+Here it is:
+
+<span style="padding-left: 20px; display:block">
+Given a nonempty set $A$, we can choose an element $f(A) \in A$.
+</span>
+
+Pretty reasonable huh? If a set is nonempty, it has an element, so
+we can pluck one out.
+In fact, it's usually stated in terms of a *family* of sets $A_i$,
+where the subscript $i$ ranges over some indexing set $I$:
+
+<span style="padding-left: 20px; display:block">
+Given a family of nonempty set $A_i$, $i \in I$, we can choose a set
+of representatives, $f(i) \in A_i$.
+</span>
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
