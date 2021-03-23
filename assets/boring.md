@@ -65,7 +65,7 @@ depending on which axioms of set theory we use.
 
 <!-- https://en.wikipedia.org/wiki/Definable_real_number -->
 
-"Boring" and "interesting" are subjective terms.
+"Boring" and "interesting" are subjective.
 We'll use something a tad more well-defined, and replace
 "interesting" with *describable*.
 A number is describable if it has some finite description, using
