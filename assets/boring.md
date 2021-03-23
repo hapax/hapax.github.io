@@ -62,7 +62,7 @@ I'm going to argue that *no such function exists*. Then I'm going to
 explain why it might exist, depending on which axioms of set theory we
 use.
 
-#### Sunicodings
+#### Descriptions
 
 "Boring" and "interesting" are of course subjective terms.
 We'll use something a bit more well-defined, and replace
