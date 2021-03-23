@@ -134,5 +134,6 @@ $$
 becomes $(0,1,0,2,0,1,1,1,0,5,2)$.
 Thus, we have a simple, explicit correspondence between finite
 sequences of natural numbers and the natural numbers!
+We will call this "sunicoding" for kicks.
 
 #### Most real numbers are boring
