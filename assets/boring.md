@@ -141,7 +141,7 @@ which I won't repeat here.
 The point is that finite descriptions can only capture an
 infinitesimally small fragment of all real numbers.
 
-#### Berry's paradox for real numbers
+#### Unwritten laws
 
 <!-- https://en.wikipedia.org/wiki/Berry_paradox -->
 
@@ -152,3 +152,6 @@ But armed with the previous examples, you might be tempted to think
 that we can simply waltz in and pluck out the smallest element of
 $B_\mathbb{R}$, or perhaps the smallest from a finite set minimising
 some function.
+But suppose this method works, and plucks out the smallest boring real
+number $b$.
+Haven't we just given a finite description of how to obtain $b$?
