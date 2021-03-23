@@ -99,8 +99,8 @@ can be converted into (decimal) unicode as
 32 115 111 108 117 116 105 111 110 32 111 102 32 120 94 50 61 50 46
 ```
 
-Imagine some "super unicode" which converts any symbol into a number.
-The super unicode (sunicode) alphabet may be arbitrarily large, so large, in
+Imagine some "super unicode" (sunicode) which converts any symbol into a number.
+The sunicode alphabet may be arbitrarily large, so large, in
 fact, that it may as well *consist of every natural number*
 $\mathbb{N}$.
 Then a finite description in sunicode is just a finite sequence
