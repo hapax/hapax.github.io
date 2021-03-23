@@ -64,12 +64,14 @@ use.
 
 #### Most real numbers are boring
 
+<!-- https://en.wikipedia.org/wiki/Definable_real_number -->
+
 "Boring" and "interesting" are of course subjective terms.
 We'll use something a bit more well-defined, and replace
 "interesting" with *describable*.
 A number is describable if it has some finite description, using
 words, mathematical symbols, maybe even a computer program, which
-uniquely single out that number.
+uniquely singles out that number.
 For instance, $\sqrt{2}$ is the positive solution of $x^2 = 2$, $\pi$
 is the ratio of a circle's circumference to its diameter, and $e$ is
 the limit
@@ -164,3 +166,12 @@ we'd have a description of $b$ after all. Contradiction!
 But the contradiction here does not mean that $B_\mathbb{R}$ is
 non-empty. After all, it's most of $\mathbb{R}$!
 Rather, it means that there *cannot be any explicit function* $f$.
+But that does not mean there is no such functon; rather, the law must
+remain unwritten.
+This is similar to
+[Berry's paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
+asks us to consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest positive integer not definable in under sixty letters.
+</span>
