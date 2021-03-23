@@ -45,12 +45,15 @@ This might actually give us two numbers, $\pm b$, but both of these
 numbers seem interesting. So there are no boring integers.
 What about boring rational numbers?
 This is somewhat more elaborate, but if $B_\mathbb{Q}$ is the set of
-boring rationals, we can define the "smallest" boring numbers as
+boring rationals, we can define the "smallest" boring numbers as those
 
 $$
 b = \text{argmin}_{a/b\in B_\mathbb{Q}} (|a| + |b|)
 $$
 
-where $a/b$ is a fraction in lowest terms.
+where $a/b$ is a fraction in lowest terms with $b > 0$ (so the sign is
+determined by $a$).
 
 #### Boring real numbers
+
+So what does
