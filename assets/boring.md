@@ -91,7 +91,7 @@ $$
 \sqrt{2} \text{ is the positive solution of $x^2 = 2$.}
 $$
 
-can be converted into unicode as
+can be converted into (decimal) unicode as
 
 ```
 8730 50 32 105 115 32 116 104 101 32 112 111 115 105 116 105 118 101
