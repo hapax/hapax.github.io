@@ -57,9 +57,9 @@ We conclude there are no boring rationals.
 This may suggest there are no boring real numbers.
 We should be able to find some function with a finite number of
 minima, and then choose the smallest, right?
-I'm going to argue that *no such function exists*. Then I'm going to
-explain why it might exist, depending on which axioms of set theory we
-use.
+I'm going to argue that no such function can be explicitly
+described. Then I'm going to explain why it might still exist,
+depending on which axioms of set theory we use.
 
 #### Most real numbers are boring
 
