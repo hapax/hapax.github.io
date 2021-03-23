@@ -176,7 +176,7 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-#### Unwritten laws
+#### Existential mathematics
 
 But there's a weird loophole here. Our argument doesn't establish that
 $f$ doesn't exist, just that it has no *finite, explicit description*. And
@@ -207,7 +207,21 @@ magical stopping someone from drawing certain points on the line, or
 continuing certain expansions forever.
 
 Similarly, the indescribable things we would like to exist and reason
-about might *depend on our models of set theory itself*.
+about in set theory might depend on our *models* of set theory!
+I won't get into the specifics, but an important point is there are
+*many different models* of set theory, with different properties, and
+it seeks unlikely that any one model is right.
+These properties are abstracted into *axioms*, formal rules about what
+exists and what you can or can't do with sets.
+Because models of set theory are deep, highly technical constructions,
+most of the time we go the other way round, and play around with
+axioms instead. Only later do we go away and find models which support
+certain sorts of behaviour.
+The point of all this is to make it a bit less counterintuitive when I
+say that the existence of boring real numbers depends on which axioms
+we decide to use.
+
+#### Ordering and choice
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
