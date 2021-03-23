@@ -159,4 +159,8 @@ $$
 b = \min \text{argmin}_{x \in B_\mathbb{R}} f(x).
 $$
 
-Haven't we just given a finite description of how to obtain $b$?
+Well, if I knew $f$ explicitly, I could all this into unicode, and
+we'd have a description of $b$ after all. Contradiction!
+But the contradiction here does not mean that $B_\mathbb{R}$ is
+non-empty. After all, it's most of $\mathbb{R}$!
+Rather, it means that there *cannot be any explicit function* $f$.
