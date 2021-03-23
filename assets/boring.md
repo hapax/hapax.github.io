@@ -178,8 +178,15 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-But this doesn't prevent there from being a function $f$ which exists,
-but *cannot be finitely described*.
+But there's a weird loophole here. Our argument doesn't establish that
+$f$ doesn't exist, just that it *can't be finitely described*. And
+although it might seem weird to trust in the existence of something
+that we can't really talk about, we do just this with the real
+numbers!
+I belive that all the real numbers exists, even though only a tiny
+fraction will ever be singled out by mathematical activity.
+Is this reasonable?
+
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
