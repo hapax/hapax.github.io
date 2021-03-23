@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Most numbers are indescribably boring"
+title:  "Indescribably boring numbers"
 categories: [Mathematics]
 date:  2021-03-23
 ---
@@ -202,7 +202,9 @@ firm basis for believing in the existence of those things we can't
 discuss, and for the real numbers, the firm basis is drawing a
 continuous line on a piece of paper, or thinking about decimal
 expansions. These are *models* of the real numbers if you like,
-objects which capture 
+concrete objects which capture enough of the abstract object
+$\mathbb{R}$ to convince us that maybe it's not crazy to believe in
+the indescribable points between the 
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
