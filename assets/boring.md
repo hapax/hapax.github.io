@@ -18,10 +18,10 @@ proof. Let $B$ be the set of boring numbers, and suppose for a
 contradiction it is non-empty. Define $b = \min B$ as
 the smallest boring number. Since this is a highly unusual property, $b$ is
 interesting after all!
-Joke it may be, but there is a sting in the tail, and by thinking
-about how this proof works, we will be led to some rather deep (and in
-some ways disturbing) insights about set theory and what it can and
-cannot tell us.
+Joke it may be, but there is a sting in the tail. By thinking
+about how the joke works, we will be led to some rather deep (and
+perhaps disturbing) insights into set theory and what it can and
+cannot tell us about the mathematical world.
 
 #### Integers and rationals are interesting
 
@@ -180,8 +180,9 @@ was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
 Now, this might seems a bit slick.
-Would an explicit $f$ really explicitly define $b$, if we've just
-applied it to a set of indescribable things?
+Would an explicit function $f$ really gives us an explicit definition
+of $b$, since $B_\mathbb{R}$ is such a weird set?
+I'll come back to this question, but for the moment, 
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
