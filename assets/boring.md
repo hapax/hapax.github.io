@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Boring numbers and the axiom of choice"
+title:  "Boring numbers and set theory"
 categories: [Mathematics]
 date:  2021-03-22
 ---
@@ -41,8 +41,8 @@ $$
 b = \text{argmin}_{k\in B_\mathbb{Z}} |k|.
 $$
 
-This might actually give us two numbers, $\pm b$, but both of these
-numbers seem interesting. So there are no boring integers.
+This might actually give us two numbers, $\pm b$, so the negative one
+is the smallest. So there are no boring integers.
 What about boring rational numbers?
 This is somewhat more elaborate, but if $B_\mathbb{Q}$ is the set of
 boring rationals, we can define the "smallest" boring numbers as those
@@ -53,8 +53,14 @@ $$
 
 where $a/b$ is a fraction in lowest terms with $b > 0$ (so the sign is
 determined by $a$).
+Once again, there may be multiple minimisers, but only a finite number
+so we can choose the smallest.
+We conclude there are no boring rationals.
 
 #### Boring real numbers
 
-This may make us rather confident that there are no boring real
-numbers.
+This may suggest there are no boring real numbers.
+We should be able to find some function with a finite number of
+minima, right?
+I'm going to argue *no such function exists*, and then explain why it
+might actually exist, depending on which axioms of set theory we use.
