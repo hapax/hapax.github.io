@@ -80,4 +80,11 @@ $$
 
 It turns out that *almost every* real number is indescribable, or
 "boring", in our official translation of that term.
-The argument is very simple.
+The argument is very simple, and proceeds by simply counting the
+possible number of finite descriptions.
+Each such description consists of a finite sequence of symbols
+(letters, mathematical squiggles, algorithmic instructions), each of
+which could be elements of some very large alphabet of symbols.
+How big is this alphabet? I'm not sure, but it can't be bigger than
+the set of natural numbers $\mathbb{N}$, so we will simply choose to
+label these symbols with natural numbers.
