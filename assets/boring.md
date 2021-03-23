@@ -306,7 +306,7 @@ where the subscript $i$ ranges over some indexing set $I$:
 
 <span style="padding-left: 20px; display:block">
 Given a family of nonempty set $A_i$, $i \in I$, we can choose a set
-of representatives, $f(i) \in A_i$.
+of representatives from each set, $f(i) \in A_i$.
 </span>
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
