@@ -69,8 +69,7 @@ depending on which axioms of set theory we use.
 We'll use something a tad more well-defined, and replace
 "interesting" with *describable*.
 A number is describable if it has some finite description, using
-words, mathematical symbols, maybe even a computer program, which
-uniquely singles out that number.
+words, mathematical symbols, even a computer program, which uniquely singles out that number.
 For instance, $\sqrt{2}$ is the positive solution of $x^2 = 2$, $\pi$
 is the ratio of a circle's circumference to its diameter, and $e$ is
 the limit
