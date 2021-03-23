@@ -186,7 +186,23 @@ numbers!
 I belive that all the real numbers exists, even though only a tiny
 fraction will ever be singled out by mathematical activity.
 Is this reasonable?
+It depends who you ask.
+There is a philosophy of mathematics called
+[intuitionism](https://plato.stanford.edu/entries/intuitionism/) which
+tells us that mathematics is a human invention, and therefore enjoins
+us to only reason about the things we can construct ourselves. No
+indescribable real numbers if you please!
+I'm not sure about this "mathematical creationism", and think there
+are more things in the mathematical heavens than are dreamt of in
+finite human descriptions.
+Why should human limitations be mathematical ones?
 
+That said, it's not the case that anything goes. We should have some
+firm basis for believing in the existence of those things we can't
+discuss, and for the real numbers, the firm basis is drawing a
+continuous line on a piece of paper, or thinking about decimal
+expansions. These are *models* of the real numbers if you like,
+objects which capture 
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
