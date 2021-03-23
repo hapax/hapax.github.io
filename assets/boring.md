@@ -13,8 +13,7 @@ date:  2021-03-23
 
 It is a
 [running joke](https://en.wikipedia.org/wiki/Interesting_number_paradox)
-among mathematicians that, not only are there are no boring numbers, but you can
-prove it. Here's the proof. Let $B$ be the set of boring numbers. Define $b = \min B$ as
+among mathematicians that there are no boring numbers. Here's the proof. Let $B$ be the set of boring numbers. Define $b = \min B$ as
 the smallest boring number. But this is a unique property, so $b$ is
 interesting after all!
 This is a joke, but there is a sting in the tail.
