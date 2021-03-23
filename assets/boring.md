@@ -67,5 +67,11 @@ use.
 "Boring" and "interesting" are of course subjective terms.
 We're going to use something a bit more well-defined, and replace
 "interesting" with *describable*, in the sense that it has a finite
-description.
-I can tell you what it is.
+description which uniquely gives that numbers.
+For instance, $\sqrt{2}$ is the positive solution of $x^2 = 2$, $\pi$
+is the ratio of a circle's circumference to its diameter, and $e$ is
+the limit
+
+$$
+e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n.
+$$
