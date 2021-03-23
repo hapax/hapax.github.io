@@ -61,7 +61,7 @@ I'm going to argue that no such function can be explicitly
 described. Then I'm going to explain why it might still exist,
 depending on which axioms of set theory we use.
 
-#### Most real numbers are boring
+#### A modest infinity
 
 <!-- https://en.wikipedia.org/wiki/Definable_real_number -->
 
