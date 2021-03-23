@@ -226,6 +226,48 @@ we decide to use.
 So, let's return to our problem of boring real numbers.
 We argued there was no explicit, finitely describable rule for picking
 an element out of $B_\mathbb{R}$.
+But we can always make the *existence* of such a rule an axiom!
+There are two ways to go about doing this.
+Note that in first example of boring natural numbers, we use the
+*minimum* of the set.
+We had to be a bit more clever with the integers and rationals, but it
+essentially boiled down to creating a special sort of *ordering* on
+the set, so that any subset (including the boring numbers) has a
+*smallest element*.
+We wrote this is in a complicated way as
+
+$$
+b = \min \text{argmin}_{x \in B} f(x)
+$$
+
+for some function $f$, but we could just as well write
+
+$$
+b = \overset{\mathcal{W}}{\min} B,
+$$
+
+where $\mathcal{W}$ denote this ordering on the big set.
+To be clear, for the integers it is
+
+$$
+0, -1, 1, -2, 2, -3, 3, \ldots
+$$
+
+and for the rationals it is
+
+$$
+0, -\frac{1}{1}, \frac{1}{1}, -\frac{2}{1}, -\frac{1}{2}, \frac{1}{2},
+\frac{2}{1}, \ldots.
+$$
+
+This is called a *well-ordering*. Although it may not be describable,
+we could simply require, as an axiom of set theory, that any set can
+be well-ordered! More explicitly,
+
+<span style="padding-left: 20px; display:block">
+Any set $A$ has a well-ordering $\mathcal{W}_A$ such that any subset
+of $A$ has a minimum with respect to $\mathcal{W}_A$.
+</span>
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
