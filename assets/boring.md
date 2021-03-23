@@ -284,6 +284,8 @@ b = \min_{\mathcal{W}} B^{\mathcal{W}}_\mathbb{R}.
 $$
 
 End of proof!
+So, although most real numbers are strictly boring, with a
+well-ordering all are relatively interesting.
 
 #### Choosing an order
 
