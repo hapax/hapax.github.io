@@ -152,14 +152,14 @@ They literally cannot be talked about.
 
 <!-- https://en.wikipedia.org/wiki/Berry_paradox -->
 
-I've just argued that the set of boring, i.e. indescribable, real
-numbers $B_\mathbb{R}$, includes almost every real number (though
-quite definitely *not* every real number you can think of).
-But armed with the previous examples, it's tempting to think
-that we can simply waltz in and pluck out the smallest element of
-$B_\mathbb{R}$.
+So, we conclude that most real numbers boring, i.e. indescribable.
+The set $B_\mathbb{R}$ includes almost every real number, though
+quite definitely *not* every real number you can think of.
+But, armed with our previous jokes, it's tempting to think that we can
+simply waltz in and make the same joke about $\mathbb{R}$, simply
+plucking out the smallest element of $B_\mathbb{R}$.
 Of course, that won't quite work, because the set need not be bounded
-below, so instead, suppose there is some explicit function $f$ such
+below. So instead, suppose there is some explicit function $f$ such
 the $b \in B_\mathbb{R}$ is the smallest minimizer of $f$, i.e.
 
 $$
