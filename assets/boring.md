@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Stuff"
+title:  "Boring numbers and the axiom of choice"
 categories: [Mathematics]
 date:  2021-03-22
 ---
@@ -18,3 +18,6 @@ prove it. Let $B$ be the set of boring numbers. Define $b = \min B$ as
 the smallest boring number. But this is a unique property, so $b$ is
 interesting after all!
 This is a joke, but there is a sting in the tail.
+We are implicitly
+
+#### Interest and describability
