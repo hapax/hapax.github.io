@@ -176,7 +176,7 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-#### A philosophical aside
+#### Existential quandaries
 
 But there's a weird loophole here. Our argument doesn't establish that
 $f$ doesn't exist, just that it *can't be finitely described*. And
