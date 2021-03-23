@@ -148,10 +148,15 @@ infinitesimally small fragment of all real numbers.
 I've just argued that the set of boring, i.e. indescribable, real
 numbers $B_\mathbb{R}$, includes almost every real number (though
 quite explicitly *not* every real number you can think of).
-But armed with the previous examples, you might be tempted to think
+But armed with the previous examples, it's tempting to think
 that we can simply waltz in and pluck out the smallest element of
-$B_\mathbb{R}$, or perhaps the smallest from a finite set minimising
-some function.
-But suppose this method works, and plucks out the smallest boring real
-number $b$.
+$B_\mathbb{R}$.
+Of course, that won't quite work, because the set need not be bounded
+below, so instead, suppose there is some explicit function $f$ such
+the $b \in B_\mathbb{R}$ is the smallest minimizer of $f$, i.e.
+
+$$
+b = \min \text{argmin}_{x \in B_\mathbb{R}} f(x).
+$$
+
 Haven't we just given a finite description of how to obtain $b$?
