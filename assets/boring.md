@@ -165,7 +165,10 @@ sunicode, and we'd have a description of $b$ after all. Contradiction!
 But the contradiction here does not mean that $B_\mathbb{R}$ is
 non-empty. After all, most of $\mathbb{R}$ is indescribable for
 set-theoretic reasons.
-Instead, it means that there *cannot be any explicit function* $f$.
+Instead, it means that there *cannot be any explicit function*
+$f$. More generally, there cannot be any explicit rule which, given a
+subset of $\mathbb{R}$, explicitly gives some unique number. If there
+was, we could apply it to $B_\mathbb{R}$ and get the same contradiction.
 
 <!-- But that does not mean there is no such functon; rather, the law must
 remain unwritten.
