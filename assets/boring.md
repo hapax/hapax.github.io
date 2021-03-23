@@ -62,7 +62,7 @@ I'm going to argue that *no such function exists*. Then I'm going to
 explain why it might exist, depending on which axioms of set theory we
 use.
 
-#### Descriptions
+#### Most real numbers are boring
 
 "Boring" and "interesting" are of course subjective terms.
 We'll use something a bit more well-defined, and replace
@@ -132,6 +132,14 @@ $$
 becomes $(0,1,0,2,0,1,1,1,0,5,2)$.
 Thus, we have a simple, explicit correspondence between finite
 sequences of natural numbers and the natural numbers!
-We will call this "sunicoding" for "super unicode encoding".
+<!-- We will call this "sunicoding" for "super unicode encoding".-->
+This basically completes the proof, for the simple reason that there
+are *infinitely more* real numbers than there are natural numbers.
+This is established by Cantor's beautiful
+[diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument),
+which I won't repeat here.
+The point is that finite descriptions can only capture an
+infinitesimally small fragment of all real numbers.
 
-#### Most real numbers are boring
+#### Unwritten laws
+
