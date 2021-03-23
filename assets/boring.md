@@ -274,8 +274,7 @@ boring, such an axiom would allow us to turn the old joke into an
 argument that all real numbers are *relatively interesting*, where
 "relatively interesting" means that there is a finite description
 where we are allowed to use the well-ordering $\mathcal{W}$.
-The joke goes just like you might expect!
-Let $B^{\mathcal{W}}_\mathbb{R}$ be the set of relatively boring
+The proof goes as you might expect: let $B^{\mathcal{W}}_\mathbb{R}$ be the set of relatively boring
 numbers, i.e. numbers with no finite explicit description, even when
 allowed to use the well-ordering $\mathcal{W}$.
 Since $\mathcal{W}$ is a well-ordering, we can define
