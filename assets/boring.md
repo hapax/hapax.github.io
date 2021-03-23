@@ -55,12 +55,16 @@ where $a/b$ is a fraction in lowest terms.
 Once again, there may be multiple minimisers, but only a finite number
 so we can choose the smallest.
 We conclude there are no boring rationals.
-
-#### Boring real numbers
-
 This may suggest there are no boring real numbers.
 We should be able to find some function with a finite number of
 minima, and then choose the smallest, right?
-I'm going to argue *no such function exists*. Then I'm going to
+I'm going to argue that *no such function exists*. Then I'm going to
 explain why it might exist, depending on which axioms of set theory we
 use.
+
+#### Indescribable real numbers
+
+"Boring" and "interesting" are of course subjective terms.
+We're going to use something a bit more well-defined, and replace
+"interesting" with *describable*.
+
