@@ -88,7 +88,7 @@ which could be elements of some very large alphabet of symbols.
 For instance, the text
 
 $$
-\sqrt{2} \text{is the positive solution of $x^2 = 2$.}
+\sqrt{2} \text{ is the positive solution of $x^2 = 2$.}
 $$
 
 can be converted into unicode as
