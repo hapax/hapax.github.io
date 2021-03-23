@@ -285,18 +285,15 @@ $$
 
 End of proof!
 So, although most real numbers are strictly boring, with a
-well-ordering all are relatively interesting.
+well-ordering all of them are relatively interesting.
 
 #### Choosing an order
 
 Culturally speaking, well-ordering is not usually treated an axiom.
 There's nothing wrong with this, but historically set theorists prefer
 an equivalent but simpler rule called the *axiom of choice*.
-I imagine this is partly aesthetic: well-ordering seems suspiciously
-powerful, while the axiom of choice appears "unobjectionable", to use
-the words of its originator
-[Ernst Zermelo](https://en.wikipedia.org/wiki/Ernst_Zermelo).
-Here it is:
+Loosely, this just says we can pick an element from a non-empty set.
+More for
 
 <span style="padding-left: 20px; display:block">
 Given a nonempty set $A$, we can choose an element $f(A) \in A$.
