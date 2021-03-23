@@ -201,9 +201,10 @@ firm basis for believing in the existence of those things we can't
 discuss, and for the real numbers, the firm basis is drawing a
 continuous line on a piece of paper, or thinking about infinite
 decimal expansions. These are *models* of the real numbers,
-concrete-ish objects which capture enough of the abstract entity
-$\mathbb{R}$ to convince us that nothing magical stops us from drawing
-certain points on the line, or continuing certain expansions.
+concrete-ish objects which capture the essence of the abstract entity
+$\mathbb{R}$. They convince us (or at least me) that there is nothing
+magical stopping someone from drawing certain points on the line, or
+continuing certain expansions.
 Similarly, the indescribable things we would like to exist and reason
 about might *depend on our models of set theory itself*.
 
