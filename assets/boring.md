@@ -34,16 +34,23 @@ $$
 $$
 
 The set of boring integers $B_\mathbb{Z}$ may be unbounded below.
-Thankfully, we could just consider *absolute values*, and define the
-smallest boring number(s) as
+Thankfully, we could just define the smallest boring number as the
+element which minimises *absolute value*, i.e.
 
 $$
-b = \argmin_{k\in \mathbb{Z}} |k|.
+b = \text{argmin}_{k\in B_\mathbb{Z}} |k|.
 $$
 
 This might actually give us two numbers, $\pm b$, but both of these
-numbers are interesting, so there are no boring integers.
+numbers seem interesting. So there are no boring integers.
+What about boring rational numbers?
+This is somewhat more elaborate, but if $B_\mathbb{Q}$ is the set of
+boring rationals, we can define the "smallest" boring numbers as
+
+$$
+b = \text{argmin}_{a/b\in B_\mathbb{Q}} (|a| + |b|)
+$$
+
+where $a/b$ is a fraction in lowest terms.
 
 #### Boring real numbers
-
-But 
