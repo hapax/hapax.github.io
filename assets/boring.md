@@ -221,7 +221,7 @@ The point of all this is to make it a bit less counterintuitive when I
 say that the existence of boring real numbers depends on which axioms
 we decide to use.
 
-#### Ordering and choice
+#### All real numbers are relatively interesting
 
 So, let's return to our problem of boring real numbers.
 We argued there was no explicit, finitely describable rule for picking
@@ -285,6 +285,8 @@ b = \overset{\mathcal{W}}{\min} B^{\mathcal{W}}_\mathbb{R}.
 $$
 
 End of proof!
+
+#### Th
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
