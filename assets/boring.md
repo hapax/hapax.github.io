@@ -167,9 +167,9 @@ b = \min \text{argmin}_{x \in B_\mathbb{R}} f(x).
 $$
 
 If I knew $f$ explicitly, we'd have a description of $b$ after all. Contradiction!
-But the contradiction here does not mean that $B_\mathbb{R}$ is
+But the contradiction here does not imply $B_\mathbb{R}$ is
 non-empty. After all, most of $\mathbb{R}$ is indescribable for
-the set-theoretic reasons given above.
+simple set-theoretic reasons.
 Instead, it means that there *cannot be any explicit function*
 $f$. More generally, there cannot be any explicit rule which, given a
 subset of $\mathbb{R}$, explicitly gives some unique number. If there
