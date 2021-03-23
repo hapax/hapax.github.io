@@ -19,10 +19,18 @@ the smallest boring number. But this is a unique property, so $b$ is
 interesting after all!
 This is a joke, but there is a sting in the tail.
 We are implicitly using the fact that "numbers" refers to "positive
-whole numbers".
+whole numbers"
+
+$$
+\mathbb{N} = \{0, 1, 2, 3, \ldots\}.
+$$
+
 If we weren't, then the *minimum* we used to get our contradiction
 wouldn't always work!
-If, say, we're working with all the integers, the set might be
-unbounded below.
+For instance, say we work with the integers
+
+$$
+\mathbb{Z} = \{\ldots, -2, -1, 0, 1, 2, \ldots\}.
+$$
 
 #### Interest and describability
