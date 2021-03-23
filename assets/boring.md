@@ -101,8 +101,9 @@ can be converted into unicode as
 ```
 
 Imagine some "super unicode" which converts any symbol into a number.
-The super unicode alphabet may be arbitrarily large, so large, in
+The super unicode (sunicode) alphabet may be arbitrarily large, so large, in
 fact, that it may as well *consist of every natural number*
 $\mathbb{N}$.
-Then a finite description in super unicode is just a finite sequence
+Then a finite description in sunicode is just a finite sequence
 of natural numbers.
+So we have to count these!
