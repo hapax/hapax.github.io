@@ -176,7 +176,7 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-#### Existential quandaries
+#### Unwritten laws
 
 But there's a weird loophole here. Our argument doesn't establish that
 $f$ doesn't exist, just that it has no *finite, explicit description*. And
@@ -191,11 +191,11 @@ There is a philosophy of mathematics called
 tells us that mathematics is a human invention, and therefore enjoins
 us to only reason about the things we can construct ourselves. No
 indescribable real numbers if you please!
+
 I'm not sure about this "mathematical creationism", and think there
 are more things in the mathematical heavens than are dreamt of in
-finite human descriptions.
+our finite human philosophy.
 Why should human limitations be mathematical ones?
-
 That said, it's not the case that anything goes. We should have some
 firm basis for believing in the existence of those things we can't
 discuss, and for the real numbers, the firm basis is drawing a
@@ -204,7 +204,8 @@ decimal expansions. These are *models* of the real numbers,
 concrete-ish objects which capture the essence of the abstract entity
 $\mathbb{R}$. They convince us (or at least me) that there is nothing
 magical stopping someone from drawing certain points on the line, or
-continuing certain expansions.
+continuing certain expansions forever.
+
 Similarly, the indescribable things we would like to exist and reason
 about might *depend on our models of set theory itself*.
 
