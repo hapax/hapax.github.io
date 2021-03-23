@@ -141,5 +141,14 @@ which I won't repeat here.
 The point is that finite descriptions can only capture an
 infinitesimally small fragment of all real numbers.
 
-#### Unwritten laws
+#### Berry's paradox for real numbers
 
+<!-- https://en.wikipedia.org/wiki/Berry_paradox -->
+
+I've just argued that the set of boring, i.e. indescribable, real
+numbers $B_\mathbb{R}$, includes almost every real number (though
+quite explicitly *not* every real number you can think of).
+But armed with the previous examples, you might be tempted to think
+that we can simply waltz in and pluck out the smallest element of
+$B_\mathbb{R}$, or perhaps the smallest from a finite set minimising
+some function.
