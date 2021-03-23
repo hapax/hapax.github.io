@@ -56,4 +56,5 @@ determined by $a$).
 
 #### Boring real numbers
 
-So what does
+This may make us rather confident that there are no boring real
+numbers.
