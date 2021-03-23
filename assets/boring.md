@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  ""
+title:  "Stuff"
 categories: [Mathematics]
 date:  2021-03-22
 ---
 
-**March 22, 2021.** **
+**March 22, 2021.** *Stuff*
 
 #### Introduction
 
