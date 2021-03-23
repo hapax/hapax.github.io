@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Boring numbers and set theory"
 categories: [Mathematics]
-date:  2021-03-22
+date:  2021-03-23
 ---
 
-**March 22, 2021.** *Stuff*
+**March 23, 2021.** *Stuff*
 
 #### Introduction
 
@@ -62,14 +62,14 @@ I'm going to argue that *no such function exists*. Then I'm going to
 explain why it might exist, depending on which axioms of set theory we
 use.
 
-#### Indescribable real numbers
+#### Most real numbers are boring
 
 "Boring" and "interesting" are of course subjective terms.
 We'll use something a bit more well-defined, and replace
 "interesting" with *describable*.
 A number is describable if it has some finite description, using
 words, mathematical symbols, maybe even a computer program, which
-output that number.
+uniquely single out that number.
 For instance, $\sqrt{2}$ is the positive solution of $x^2 = 2$, $\pi$
 is the ratio of a circle's circumference to its diameter, and $e$ is
 the limit
@@ -78,3 +78,6 @@ $$
 e = \lim_{n\to\infty} \left(1 + \frac{1}{n}\right)^n.
 $$
 
+It turns out that *almost every* real number is indescribable, or
+"boring", in our official translation of that term.
+The argument is very simple.
