@@ -107,3 +107,28 @@ $\mathbb{N}$.
 Then a finite description in sunicode is just a finite sequence
 of natural numbers.
 So we have to count these!
+There is a nice scheme for showing that these are in one-to-one
+correspondence with the natural numbers themselves, and hence
+*countably infinite*.
+We take a sequence, say
+
+$$
+(6, 2, 0, 5)
+$$
+
+and convert the first bracket and commas into $1$s, and each number into
+the corresponding number of $0$s:
+
+$$
+10000001001100000.
+$$
+
+Clearly, any binary number can be converted into a string as well,
+e.g.
+
+$$
+110110011010101100000100
+$$
+
+corresponds to $(0,1,0,2,0,1,1,1,0,5,2)$.
+So
