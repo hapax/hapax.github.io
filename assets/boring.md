@@ -148,7 +148,7 @@ infinitesimally small fragment of all real numbers.
 
 I've just argued that the set of boring, i.e. indescribable, real
 numbers $B_\mathbb{R}$, includes almost every real number (though
-quite explicitly *not* every real number you can think of).
+quite definitely *not* every real number you can think of).
 But armed with the previous examples, it's tempting to think
 that we can simply waltz in and pluck out the smallest element of
 $B_\mathbb{R}$.
