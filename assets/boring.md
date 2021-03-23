@@ -69,7 +69,7 @@ I'm going to argue that no such function can be explicitly
 described. Then I'm going to explain why it might still exist,
 depending on which axioms of set theory we use.
 
-#### Unicoding
+#### Most real numbers are boring
 
 <!-- https://en.wikipedia.org/wiki/Definable_real_number -->
 
@@ -150,8 +150,6 @@ correspondence, that finite descriptions only capture an
 infinitesimally small fragment of the real numbers.
 They literally cannot be talked about.
 
-#### Unwritten laws
-
 <!-- https://en.wikipedia.org/wiki/Berry_paradox -->
 
 I've just argued that the set of boring, i.e. indescribable, real
@@ -178,6 +176,8 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
+#### A philosophical aside
+
 But there's a weird loophole here. Our argument doesn't establish that
 $f$ doesn't exist, just that it *can't be finitely described*. And
 although it might seem weird to trust in the existence of something
@@ -200,11 +200,13 @@ Why should human limitations be mathematical ones?
 That said, it's not the case that anything goes. We should have some
 firm basis for believing in the existence of those things we can't
 discuss, and for the real numbers, the firm basis is drawing a
-continuous line on a piece of paper, or thinking about decimal
-expansions. These are *models* of the real numbers if you like,
-concrete objects which capture enough of the abstract object
-$\mathbb{R}$ to convince us that maybe it's not crazy to believe in
-the indescribable points between the 
+continuous line on a piece of paper, or thinking about infinite
+decimal expansions. These are *models* of the real numbers,
+concrete-ish objects which capture enough of the abstract entity
+$\mathbb{R}$ to convince us that nothing magical stops us from drawing
+certain points on the line, or continuing certain expansions.
+Similarly, the indescribable things we would like to exist and reason
+about might *depend on our models of set theory itself*.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
