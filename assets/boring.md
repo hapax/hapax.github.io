@@ -161,17 +161,19 @@ $$
 b = \min \text{argmin}_{x \in B_\mathbb{R}} f(x).
 $$
 
-Well, if I knew $f$ explicitly, I could all this into unicode, and
-we'd have a description of $b$ after all. Contradiction!
+If I knew $f$ explicitly, I could convert the last few paragraphs into
+sunicode, and we'd have a description of $b$ after all. Contradiction!
 But the contradiction here does not mean that $B_\mathbb{R}$ is
-non-empty. After all, it's most of $\mathbb{R}$!
+non-empty. After all, most of $\mathbb{R}$ consists of indescribable
+numbers.
 Rather, it means that there *cannot be any explicit function* $f$.
-But that does not mean there is no such functon; rather, the law must
+
+<!-- But that does not mean there is no such functon; rather, the law must
 remain unwritten.
 This is similar to
 [Berry's paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
 asks us to consider the phrase
-
 <span style="padding-left: 20px; display:block">
 The smallest positive integer not definable in under sixty letters.
 </span>
+-->
