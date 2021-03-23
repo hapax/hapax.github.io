@@ -266,7 +266,7 @@ be well-ordered! More explicitly,
 
 <span style="padding-left: 20px; display:block">
 Any set $A$ has a well-ordering $\mathcal{W}_A$ such that any subset
-of $A$ has a minimum with respect to $\mathcal{W}_A$.
+of $A$ has a unique minimum element with respect to $\mathcal{W}_A$.
 </span>
 
 Although it doesn't spoil our conclusion that most real numbers are
