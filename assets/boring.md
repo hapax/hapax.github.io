@@ -46,4 +46,4 @@ numbers are interesting, so there are no boring integers.
 
 #### Boring real numbers
 
-Perhaps we can go on in this way to 
+But 
