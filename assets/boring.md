@@ -168,21 +168,18 @@ $$
 b = \min \text{argmin}_{x \in B_\mathbb{R}} f(x).
 $$
 
-If I knew $f$ explicitly, I could convert the last few paragraphs into
-sunicode, and we'd have a description of $b$ after all. Contradiction!
+If I knew $f$ explicitly, we'd have a description of $b$ after all. Contradiction!
 But the contradiction here does not mean that $B_\mathbb{R}$ is
 non-empty. After all, most of $\mathbb{R}$ is indescribable for
-set-theoretic reasons.
+the set-theoretic reasons given above.
 Instead, it means that there *cannot be any explicit function*
 $f$. More generally, there cannot be any explicit rule which, given a
 subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-Now, this might seems a bit slick.
-Would an explicit function $f$ really gives us an explicit definition
-of $b$, since $B_\mathbb{R}$ is such a weird set?
-I'll come back to this question, but for the moment, 
+But this doesn't prevent there from being a function $f$ which exists,
+but *cannot be finitely described*.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
