@@ -176,7 +176,7 @@ subset of $\mathbb{R}$, explicitly gives some unique number. If there
 was, we could apply it to $B_\mathbb{R}$ and get the same
 contradiction.
 
-#### Existential mathematics
+#### An existential aside
 
 But there's a weird loophole here. Our argument doesn't establish that
 $f$ doesn't exist, just that it has no *finite, explicit description*. And
@@ -222,6 +222,10 @@ say that the existence of boring real numbers depends on which axioms
 we decide to use.
 
 #### Ordering and choice
+
+So, let's return to our problem of boring real numbers.
+We argued there was no explicit, finitely describable rule for picking
+an element out of $B_\mathbb{R}$.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
