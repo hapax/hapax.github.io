@@ -163,9 +163,9 @@ $$
 If I knew $f$ explicitly, I could convert the last few paragraphs into
 sunicode, and we'd have a description of $b$ after all. Contradiction!
 But the contradiction here does not mean that $B_\mathbb{R}$ is
-non-empty. After all, most of $\mathbb{R}$ consists of indescribable
-numbers.
-Rather, it means that there *cannot be any explicit function* $f$.
+non-empty. After all, most of $\mathbb{R}$ is indescribable for
+set-theoretic reasons.
+Instead, it means that there *cannot be any explicit function* $f$.
 
 <!-- But that does not mean there is no such functon; rather, the law must
 remain unwritten.
