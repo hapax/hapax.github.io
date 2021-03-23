@@ -100,9 +100,8 @@ can be converted into (decimal) unicode as
 ```
 
 Imagine some "super unicode" (sunicode) which converts any symbol into a number.
-The sunicode alphabet may be arbitrarily large, so large, in
-fact, that it may as well *consist of every natural number*
-$\mathbb{N}$.
+The sunicode alphabet may be arbitrarily large, so we will take it to
+consist of every natural number $\mathbb{N}$.
 Then a finite description in sunicode is just a finite sequence
 of natural numbers.
 So we have to count these!
