@@ -33,4 +33,17 @@ $$
 \mathbb{Z} = \{\ldots, -2, -1, 0, 1, 2, \ldots\}.
 $$
 
-#### Interest and describability
+The set of boring integers $B_\mathbb{Z}$ may be unbounded below.
+Thankfully, we could just consider *absolute values*, and define the
+smallest boring number(s) as
+
+$$
+b = \argmin_{k\in \mathbb{Z}} |k|.
+$$
+
+This might actually give us two numbers, $\pm b$, but both of these
+numbers are interesting, so there are no boring integers.
+
+#### Boring real numbers
+
+Perhaps we can go on in this way to 
