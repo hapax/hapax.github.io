@@ -62,7 +62,7 @@ I'm going to argue that *no such function exists*. Then I'm going to
 explain why it might exist, depending on which axioms of set theory we
 use.
 
-#### Most real numbers are boring
+#### Sunicodings
 
 "Boring" and "interesting" are of course subjective terms.
 We'll use something a bit more well-defined, and replace
@@ -116,19 +116,23 @@ $$
 (6, 2, 0, 5)
 $$
 
-and convert the first bracket and commas into $1$s, and each number into
+and convert the first bracket and all commas into $1$s, and each number into
 the corresponding number of $0$s:
 
 $$
-10000001001100000.
+10000001001100000_2.
 $$
 
-Clearly, any binary number can be converted into a string as well,
-e.g.
+In turn, this can be converted to decimal, $66144$.
+Going in the other direction, any whole number can be written in
+binary and then converted into sequence:
 
 $$
-110110011010101100000100
+14265092 = 110110011010101100000100_2
 $$
 
-corresponds to $(0,1,0,2,0,1,1,1,0,5,2)$.
-So
+becomes $(0,1,0,2,0,1,1,1,0,5,2)$.
+Thus, we have a simple, explicit correspondence between finite
+sequences of natural numbers and the natural numbers!
+
+#### Most real numbers are boring
