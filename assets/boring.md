@@ -179,12 +179,11 @@ contradiction.
 #### Existential quandaries
 
 But there's a weird loophole here. Our argument doesn't establish that
-$f$ doesn't exist, just that it *can't be finitely described*. And
+$f$ doesn't exist, just that it has no *finite, explicit description*. And
 although it might seem weird to trust in the existence of something
 that we can't really talk about, we do just this with the real
 numbers!
-I belive that all the real numbers exists, even though only a tiny
-fraction will ever be singled out by mathematical activity.
+I believe in all the real numbers, even the ones I can never describe.
 Is this reasonable?
 It depends who you ask.
 There is a philosophy of mathematics called
