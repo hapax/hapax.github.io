@@ -285,7 +285,12 @@ $$
 
 End of proof!
 
-#### Th
+#### Choosing an order
+
+Culturally speaking, it's a bit misleading to talk about well-ordering
+as an axiom.
+Usually, it is viewed as a *consequence* of another rule called the
+*axiom of choice*.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
