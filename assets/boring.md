@@ -13,10 +13,18 @@ date:  2021-03-23
 
 It is a
 [running joke](https://en.wikipedia.org/wiki/Interesting_number_paradox)
-among mathematicians that there are no boring numbers. Here's the proof. Let $B$ be the set of boring numbers. Define $b = \min B$ as
-the smallest boring number. But this is a highly unusual property, so $b$ is
+among mathematicians that there are no boring numbers. Here's the
+proof. Let $B$ be the set of boring numbers, and suppose for a
+contradiction it is non-empty. Define $b = \min B$ as
+the smallest boring number. Since this is a highly unusual property, $b$ is
 interesting after all!
-Joke it may be, but there is a sting in the tail.
+Joke it may be, but there is a sting in the tail, and by thinking
+about how this proof works, we will be led to some rather deep (and in
+some ways disturbing) insights about set theory and what it can and
+cannot tell us.
+
+#### Integers and rationals are interesting
+
 We are implicitly using the fact that "numbers" refers to "positive
 whole numbers"
 
@@ -61,7 +69,7 @@ I'm going to argue that no such function can be explicitly
 described. Then I'm going to explain why it might still exist,
 depending on which axioms of set theory we use.
 
-#### A modest infinity
+#### Unicoding
 
 <!-- https://en.wikipedia.org/wiki/Definable_real_number -->
 
@@ -98,12 +106,13 @@ can be converted into (decimal) unicode as
 32 115 111 108 117 116 105 111 110 32 111 102 32 120 94 50 61 50 46
 ```
 
-Imagine some "super unicode" (sunicode) which converts any symbol into a number.
-The sunicode alphabet may be arbitrarily large, so we will take it to
-consist of every natural number $\mathbb{N}$.
-Then a finite description in sunicode is just a finite sequence
-of natural numbers.
-So we have to count these!
+Imagine some "super unicode" which lets us converts *any* symbol
+into a number.
+The super unicode alphabet may be arbitrarily large, so we will take it to
+consist of *every* natural number $\mathbb{N}$.
+Then a finite description any symbols can be written as a sequence of
+the corresponding natural numbers, a trick I will call "unicoding".
+To find the number of finite descriptions, we just count the sequences!
 There is a nice scheme for showing that these are in one-to-one
 correspondence with the natural numbers themselves, and hence
 *countably infinite*.
@@ -130,15 +139,16 @@ $$
 
 becomes $(0,1,0,2,0,1,1,1,0,5,2)$.
 Thus, we have a simple, explicit correspondence between finite
-sequences of natural numbers and the natural numbers!
-<!-- We will call this "sunicoding" for "super unicode encoding".-->
+sequences of natural numbers and the natural numbers themselves.
 This basically completes the proof, for the simple reason that there
 are *infinitely more* real numbers than there are natural numbers.
 This is established by Cantor's beautiful
 [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument),
 which I won't repeat here.
-The point is that finite descriptions can only capture an
-infinitesimally small fragment of all real numbers.
+The point is that we see, via unicoding and then the binary
+correspondence, that finite descriptions only capture an
+infinitesimally small fragment of the real numbers.
+They literally cannot be talked about.
 
 #### Unwritten laws
 
@@ -166,14 +176,24 @@ set-theoretic reasons.
 Instead, it means that there *cannot be any explicit function*
 $f$. More generally, there cannot be any explicit rule which, given a
 subset of $\mathbb{R}$, explicitly gives some unique number. If there
-was, we could apply it to $B_\mathbb{R}$ and get the same contradiction.
+was, we could apply it to $B_\mathbb{R}$ and get the same
+contradiction.
 
-<!-- But that does not mean there is no such functon; rather, the law must
-remain unwritten.
-This is similar to
-[Berry's paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
-asks us to consider the phrase
+Now, this might seems a bit slick.
+Would an explicit $f$ really explicitly define $b$, if we've just
+applied it to a set of indescribable things?
+
+<!-- You may wonder if the contradiction here is coming from ambiguity in
+the notion of "explicit describability".
+That this can cause deep problems is illustrated by the
+[Berry paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
+asks us to consider the following:
 <span style="padding-left: 20px; display:block">
 The smallest positive integer not definable in under sixty letters.
 </span>
--->
+If $B_{60}$ is the set of positive integers not definable in under
+sixty letters, it seems we have just defined its smallest elements in
+fifty seven! This too is a contradiction. Many people try to resolve
+this by arguing that it does not constitute a "definition"; I think it
+is much simpler to following the boring number argument, and conclude
+that $B_{60}$ doesn't exist. -->
