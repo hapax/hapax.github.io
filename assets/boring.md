@@ -100,6 +100,9 @@ can be converted into unicode as
 0000006f00000066 000000780000005e00000032 0000003d 000000320000002e
 ```
 
-How big is this alphabet? I'm not sure, but it can't be bigger than
-the set of natural numbers $\mathbb{N}$, so we will simply choose to
-label these symbols with natural numbers.
+Imagine some "super unicode" which converts any symbol into a number.
+The super unicode alphabet may be arbitrarily large, so large, in
+fact, that it may as well *consist of every natural number*
+$\mathbb{N}$.
+Then a finite description in super unicode is just a finite sequence
+of natural numbers.
