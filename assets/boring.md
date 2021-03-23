@@ -66,5 +66,6 @@ use.
 
 "Boring" and "interesting" are of course subjective terms.
 We're going to use something a bit more well-defined, and replace
-"interesting" with *describable*.
-
+"interesting" with *describable*, in the sense that it has a finite
+description.
+I can tell you what it is.
