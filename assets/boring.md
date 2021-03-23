@@ -16,7 +16,7 @@ It is a
 among mathematicians that there are no boring numbers. Here's the proof. Let $B$ be the set of boring numbers. Define $b = \min B$ as
 the smallest boring number. But this is a highly unusual property, so $b$ is
 interesting after all!
-This is a joke, but there is a sting in the tail.
+Joke it may be, but there is a sting in the tail.
 We are implicitly using the fact that "numbers" refers to "positive
 whole numbers"
 
