@@ -81,10 +81,25 @@ $$
 It turns out that *almost every* real number is indescribable, or
 "boring", in our official translation of that term.
 The argument is very simple, and proceeds by simply counting the
-possible number of finite descriptions.
+number of finite descriptions.
 Each such description consists of a finite sequence of symbols
 (letters, mathematical squiggles, algorithmic instructions), each of
 which could be elements of some very large alphabet of symbols.
+For instance, the text
+
+$$
+\sqrt{2} \text{is the positive solution of $x^2 = 2$.}
+$$
+
+can be converted into unicode as
+
+```
+0000221a00000032 0000006900000073 000000740000006800000065
+000000700000006f000000730000006900000074000000690000007600000065
+000000730000006f0000006c0000007500000074000000690000006f0000006e
+0000006f00000066 000000780000005e00000032 0000003d 000000320000002e
+```
+
 How big is this alphabet? I'm not sure, but it can't be bigger than
 the set of natural numbers $\mathbb{N}$, so we will simply choose to
 label these symbols with natural numbers.
