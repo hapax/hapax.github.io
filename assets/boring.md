@@ -51,8 +51,7 @@ $$
 b = \text{argmin}_{a/b\in B_\mathbb{Q}} (|a| + |b|)
 $$
 
-where $a/b$ is a fraction in lowest terms with $b > 0$ (so the sign is
-determined by $a$).
+where $a/b$ is a fraction in lowest terms.
 Once again, there may be multiple minimisers, but only a finite number
 so we can choose the smallest.
 We conclude there are no boring rationals.
@@ -61,6 +60,7 @@ We conclude there are no boring rationals.
 
 This may suggest there are no boring real numbers.
 We should be able to find some function with a finite number of
-minima, right?
-I'm going to argue *no such function exists*, and then explain why it
-might actually exist, depending on which axioms of set theory we use.
+minima, and then choose the smallest, right?
+I'm going to argue *no such function exists*. Then I'm going to
+explain why it might exist, depending on which axioms of set theory we
+use.
