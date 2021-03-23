@@ -33,26 +33,26 @@ $$
 $$
 
 The set of boring integers $B_\mathbb{Z}$ may be unbounded below.
-Thankfully, we could just define the smallest boring number as the
-element which minimises *absolute value*, i.e.
+Does this cause a problem? Not really. We can just define the smallest
+boring number as the smallest element minimising the *absolute value*, i.e.
 
 $$
-b = \text{argmin}_{k\in B_\mathbb{Z}} |k|.
+b = \min \text{argmin}_{k\in B_\mathbb{Z}} |k|.
 $$
 
-This might actually give us two numbers, $\pm b$, so the negative one
-is the smallest. So there are no boring integers.
+(The $\text{argmin}$ might actually give us two numbers, $\pm b$, so the negative one
+is the smallest.) Thus, there are no boring integers.
 What about boring rational numbers?
 This is somewhat more elaborate, but if $B_\mathbb{Q}$ is the set of
-boring rationals, we can define the "smallest" boring numbers as those
+boring rationals, we can define the "smallest" boring numbers as
 
 $$
-b = \text{argmin}_{a/b\in B_\mathbb{Q}} (|a| + |b|)
+b = \min \text{argmin}_{a/b\in B_\mathbb{Q}} (|a| + |b|),
 $$
 
 where $a/b$ is a fraction in lowest terms.
-Once again, there may be multiple minimisers, but only a finite number
-so we can choose the smallest.
+Once again, there may be multiple minimisers of $|a| + |b|$, but only
+a finite number, so we can choose the smallest.
 We conclude there are no boring rationals.
 This may suggest there are no boring real numbers.
 We should be able to find some function with a finite number of
