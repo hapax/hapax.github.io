@@ -11,7 +11,7 @@ date:  2021-03-23
 
 #### Introduction
 
-It is a
+It's a
 [running joke](https://en.wikipedia.org/wiki/Interesting_number_paradox)
 among mathematicians that there are no boring numbers. Here's the
 proof. Let $B$ be the set of boring numbers, and suppose for a
@@ -99,7 +99,7 @@ $$
 \sqrt{2} \text{ is the positive solution of $x^2 = 2$.}
 $$
 
-can be converted into (decimal) unicode as
+can be converted into [(decimal) unicode](http://www.tamasoft.co.jp/en/general-info/unicode-decimal.html) as
 
 ```
 8730 50 32 105 115 32 116 104 101 32 112 111 115 105 116 105 118 101
@@ -218,7 +218,7 @@ most of the time we go the other way round, and play around with
 axioms instead. Only later do we go away and find models which support
 certain sorts of behaviour.
 The point of all this is to make it a bit less counterintuitive when I
-say that the existence of boring real numbers depends on which axioms
+say that the existence and properties of boring numbers depend on which axioms
 we decide to use.
 
 #### All real numbers are relatively interesting
@@ -289,14 +289,24 @@ well-ordering all of them are relatively interesting.
 
 #### Choosing an order
 
-Culturally speaking, well-ordering is not usually treated an axiom.
-There's nothing wrong with this, but historically set theorists prefer
-an equivalent but simpler rule called the *axiom of choice*.
-Loosely, this just says we can pick an element from a non-empty set.
-More for
+Well-ordering is not usually treated an axiom.
+Historically, set theorists prefer to use a simpler rule called the
+*axiom of choice*, which is logically equivalent (given the other
+rules of set theory) but somehow less suspect.
+As another set theory joke has it,
 
 <span style="padding-left: 20px; display:block">
-Given a nonempty set $A$, we can choose an element $f(A) \in A$.
+The axiom of choice is obviously true and the well-ordering principle
+obviously false.
+</span>
+
+(The mentions a third equivalent form called *Zorn's lemma*, but we
+won't go there.)
+Loosely, the axiom of choice just says we can pick an element from a
+non-empty set:
+
+<span style="padding-left: 20px; display:block">
+Given a nonempty set $A$, we can choose an element $f \in A$.
 </span>
 
 Pretty reasonable huh? If a set is nonempty, it has an element, so
@@ -305,9 +315,14 @@ In fact, it's usually stated in terms of a *family* of sets $A_i$,
 where the subscript $i$ ranges over some indexing set $I$:
 
 <span style="padding-left: 20px; display:block">
-Given a family of nonempty set $A_i$, $i \in I$, we can choose a set
-of representatives from each set, $f(i) \in A_i$.
+Given a family of nonempty set $A_i$, $i \in I$, we can collect a
+representative from each set, labelled $f_i \in A_i$.
 </span>
+
+The well-ordering principle implies the axiom of choice, since I can
+just take the union of all the sets $A_i$, well-order it with
+$\mathcal{W}$, and then define $f_i = \min_{\mathcal{W}} A_i$.
+To 
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
