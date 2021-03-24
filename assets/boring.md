@@ -400,9 +400,10 @@ $$
 $$
 
 thereby giving a precise meaning to "infinity plus one"!
-We won't say more about the structure of these ordinals. The point is
-that they can get very big!
-Let's now return to our question of proving the axiom of choice
+We won't say more about the structure of these ordinals. But it's
+important that for any set $A$, there is at least one ordinal of the
+same size, i.e. the same number of elements.
+Let's now return to the problem of proving the axiom of choice
 implies that any set $A$ can be well-ordered.
 The basic idea is to start with $0$, but keep on counting up "past
 infinity", defining
