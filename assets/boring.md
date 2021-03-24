@@ -409,9 +409,8 @@ To illustrate, we apply the successor operation to $0 = \varnothing$ a
 few times:
 
 $$
-1 = 1 + 0 = \{\varnothing\}, \quad 2 = 1 + 1 = \{\varnothing,
-\{\varnothing\}\}, \quad 3 = 2 + 1 = \{\varnothing, \{\varnothing\}, \{\varnothing,
-\{\varnothing\}\}\}.
+1 = 1 + 0 = \{0\}, \quad 2 = 1 + 1 = \{0,
+1\}, \quad 3 = 2 + 1 = \{0, 1, 2\}.
 $$
 
 Going on in this way gives us all the finite ordinals, but there are
