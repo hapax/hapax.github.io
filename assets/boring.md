@@ -400,9 +400,9 @@ $$
 $$
 
 thereby giving a precise meaning to "infinity plus one"!
-We won't say more about the structure of these ordinals. But it's
-important that for any set $A$, there is at least one ordinal of the
-same size, i.e. the same number of elements.
+We won't say more about the structure of these ordinals. The main
+point is that we can always "count" the elements in a set $A$ using
+ordinals, no matter how big it is!
 Let's now return to the problem of proving the axiom of choice
 implies that any set $A$ can be well-ordered.
 The basic idea is to start with $0$, but keep on counting up "past
@@ -412,8 +412,9 @@ $$
 A_{\alpha+1} = A_0 - \{f_\beta : \beta < \alpha\}
 $$
 
-for any ordinals $\alpha$ and $\beta$. The resulting well-order is
-labelled by ordinals up to the ordinal of the set $A$,
+for any ordinals $\alpha$ and $\beta$. The resulting set of
+representatives is labelled by ordinals up to the ordinal of the set
+$A$,
 
 $$
 \mathcal{W}_A = \{f_\alpha \in A_\alpha: A_\alpha \neq
@@ -421,10 +422,11 @@ $$
 $$
 
 with $f_\alpha < f_\beta$ just in case the ordinals $\alpha < \beta$.
-This technique is called
-[transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
-and we've obviously skipped the technical details.
-But it looks essentially the same as the finite case!
+This is a well-ordering since the cardinals are themselves
+well-ordered.
+Now, we've skipped many important technical details, but the main
+point was that the argument looks the same as the finite case, but we
+replace finite counting numbers with potentially infinite ones!
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
