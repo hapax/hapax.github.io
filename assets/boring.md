@@ -291,17 +291,17 @@ well-ordering all of them are relatively interesting.
 
 Well-ordering is not usually treated as an axiom.
 Historically, set theorists prefer to use a simpler rule called the
-*axiom of choice*, which is logically equivalent (given the other
-rules of set theory) but somehow less suspect.
-As another set theory joke has it,
+*axiom of choice*, which is logically equivalent, as we will loosely
+show in a moment, but somehow less suspect.
+As Jerry Bona joked,
 
 <span style="padding-left: 20px; display:block">
 The axiom of choice is obviously true and the well-ordering principle
 obviously false.
 </span>
 
-(The full joke actually mentions a third equivalent form called
-*Zorn's lemma*, but we won't go there.)
+(Actually, Bona's joke mentions a third equivalent form called *Zorn's
+lemma*, but it would confuse matters too much to explain.)
 Loosely, the axiom of choice just says we can pick an element from a
 non-empty set:
 
