@@ -340,7 +340,9 @@ most as big as the natural numbers.
 To "get through" the whole set, one needs a stronger method called
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
 but all it does is replace numbers with a generalisation called
-[ordinals](https://en.wikipedia.org/wiki/Ordinal_number).
+[ordinals](https://en.wikipedia.org/wiki/Ordinal_number), which yield
+an interpretation of yet another mathematical joke, namely "infinite
+plus one".
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
