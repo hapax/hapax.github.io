@@ -360,12 +360,16 @@ A_{\alpha+1} = A_0 - \{f_\beta : \beta < \alpha\}
 $$
 
 for any ordinals $\alpha$ and $\beta$. The resulting well-order is
-simply
+labelled by ordinals up to the ordinal of the set $A$,
 
 $$
 \mathcal{W}_A = \{f_\alpha \in A_\alpha: A_\alpha \neq
-\varnothing\}.
+\varnothing\},
 $$
+
+with $f_\alpha < f_\beta$ just in case the ordinals $\alpha < \beta$.
+This is all somewhat magical, but the point is that it isn't so
+different from the finite procedure!
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
