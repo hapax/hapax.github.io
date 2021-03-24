@@ -392,7 +392,7 @@ analogous to the original boring number joke, or (b) the phrase
 somehow fails to define a number.
 The most popular solution is in fact (b).
 Should we be worried that our argument against explicit real-orderings
-suffers from the same fate?
+is also 
 
 #### Acknowledgments
 
@@ -403,7 +403,7 @@ suggesting a form of unicoding.
 
 Ordinals are *sets* which we use to stand in for numbers.
 The smallest ordinal is $0$, which is defined as the empty set
-$\varnothing = \{\}$.
+$\varnothing = \\{\\}$.
 Each ordinal $\alpha$ has a unique successor $\alpha + 1$, defined by
 simply appending a copy of $\alpha$ to itself:
 
