@@ -322,7 +322,8 @@ representative from each set, labelled $f_i \in A_i$.
 The well-ordering principle implies the axiom of choice, since I can
 just take the union of all the sets $A_i$, well-order it with
 $\mathcal{W}$, and then define $f_i = \min_{\mathcal{W}} A_i$.
-To 
+The other way round is also straightforward.
+I
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
