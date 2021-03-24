@@ -398,10 +398,24 @@ Of course, this seems be committed to a very specific notion of
 "definition", but the problem persists if we replace "definable" with
 "meta-definable", since the smallest non-meta-definable number is
 really a meta-meta-definition.
-Let $B$ be the set of numbers not definable in under sixty letters,
-$B^{(1)}$ the numbers not meta-definable in under $65$ letters, and in
+Let $B^{(0)}$ be the set of numbers not definable in under sixty letters,
+$B^{(1)}$ the numbers not meta-definable in under $70$ letters, and in
 general, $B^{(n)}$ the numbers not meta${}^{(n)}$-definable in under
-$60+5n$ letters.
+$60+10n$ letters.
+We call any number in the *union* of all these sets $\mathcal{B} =
+\cup_{n\geq0} B^{(n)}$ "lim-definable".
+This is closed under the operation of going meta.
+Now consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest positive integer not lim-definable in under seventy letters.
+</span>
+
+Since lim-definability is closed under going meta, this is *now a
+definition at the same level*.
+Since option (b) is no longer available to us, only option (a)
+remains, and it follows that *all positive integers are
+lim-definable*.
 
 #### Acknowledgments
 
