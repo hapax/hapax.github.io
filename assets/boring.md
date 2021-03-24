@@ -385,8 +385,14 @@ The smallest positive integer not definable in under sixty letters.
 This phrase clocks in under sixty letters, and would seem to define a
 number.
 Contradiction!
-The original joke about boring numbers really has the same form.
-We 
+But "smallest" here makes perfect sense (we are dealing with positive
+integers), so to resolve the Berry paradox, we must assume either (a)
+there is no set of numbers not definable in under sixty letters,
+analogous to the original boring number joke, or (b) the phrase
+somehow fails to define a number.
+The most popular solution is in fact (b).
+Should we be worried that our argument against explicit real-orderings
+suffers from the same fate?
 
 #### Acknowledgments
 
