@@ -390,8 +390,8 @@ We
 
 #### Acknowledgments
 
-As usual, thanks to J.A. for stimulating questions, and also a
-preliminary form of unicoding.
+As usual, thanks to J.A. for stimulating questions, and also
+suggesting a form of unicoding.
 
 #### Appendix: ordinals and the axiom of choice
 
