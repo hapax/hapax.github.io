@@ -353,8 +353,9 @@ But we can extend it to an *arbitrary* set using a generalisation of
 natural numbers called
 [ordinals](https://en.wikipedia.org/wiki/Ordinal_number). Like natural
 numbers, these are themselves well-ordered, and include not only
-finite natural numbers but numbers corresponding to different sorts of
+finite natural numbers but ordinals for different sorts of
 infinity.
+
 The basic idea is to start with $0$, but keep on counting up "past
 infinity", defining
 
