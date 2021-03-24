@@ -368,13 +368,14 @@ Ordinals are *sets* which we use to stand in for numbers.
 The smallest ordinal is $0$, which is defined as the empty set
 $\varnothing = \{\}$.
 Each ordinal $\alpha$ has a unique successor $\alpha + 1$, defined by
+simply appending a copy of $\alpha$ to itself:
 
 $$
 \alpha + 1 = \{\alpha, \{\alpha\}\},
 $$
 
-i.e. the contents of $\alpha$ and then another copy of $\alpha$ nested
-in a set. To illustrate, using $0 = \varnothing$ we have
+To illustrate, we apply the successor operation to $0 = \varnothing$ a
+few times:
 
 $$
 1 = 1 + 0 = \{\varnothing\}, \quad 2 = 1 + 1 = \{\varnothing,
