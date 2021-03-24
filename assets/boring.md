@@ -396,7 +396,12 @@ referring to the set makes it some kind of "meta-definition", rather
 than a definition per se.
 Of course, this seems be committed to a very specific notion of
 "definition", but the problem persists if we replace "definable" with
-"meta-definable", and so on.
+"meta-definable", since the smallest non-meta-definable number is
+really a meta-meta-definition.
+Let $B$ be the set of numbers not definable in under sixty letters,
+$B^{(1)}$ the numbers not meta-definable in under $65$ letters, and in
+general, $B^{(n)}$ the numbers not meta${}^{(n)}$-definable in under
+$60+5n$ letters.
 
 #### Acknowledgments
 
