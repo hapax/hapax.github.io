@@ -343,13 +343,16 @@ $$
 \mathcal{W}_A = \{f_0, f_1, f_2, \ldots \} = \{f_n \in A_n : A_n \neq \varnothing\}.
 $$
 
-Of course, it looks like this should only work for a set as large as
-the natural numbers, but it turns to work for any old set, using a
-generalisation of natural numbers called the
-[ordinals](https://en.wikipedia.org/wiki/Ordinal_number), which
+There are two issues with this construciton.
+The first is that it might feel a bit sketchy to use the axiom of
+choice "as we go" to construct the sets, but no one said this wasn't allowed!
+Second, our method only seems to work for sets as most as large as the
+natural numbers.
+But we can extend it to an arbitrary set using a generalisation of
+natural numbers called the [ordinals](https://en.wikipedia.org/wiki/Ordinal_number), which
 include not only natural numbers but also numbers corresponding to
 different sorts of infinity.
-The process of defining the well-ordering involves
+Our technique is technically
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
 but we won't worry about the details.
 As before, we start with $0$, but keep on counting up "past infinity",
