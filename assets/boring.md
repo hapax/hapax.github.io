@@ -328,36 +328,44 @@ To well-order a set $A = A_0$, start by choosing an element $f_0 \in
 A_0$ by the axiom of choice. Then remove it to define a new set $A_1 =
 A_0 - \{f_0\}$, and select another element $f_1 \in A_1$. Continue in
 this way, at each stage simply deleting the element from the previous
-stage and choosing a new one, and you end up with a well-ordering
-$\mathcal{W}_A$,
+stage and choosing a new one, using
 
 $$
-f_0, f_1, f_2, \ldots.
+A_{n+1} = A_n - \{f_n\} = A_{n-1} - \{f_n, f_{n-1}\} = \cdots = A_0 -
+\{f_i : i < n\}
 $$
 
-Of course, you should object that this will only work for a set as
-most as big as the natural numbers.
-To "get through" the whole set, one needs a stronger method called
+as long as the set is nonempty.
+The well-ordering is simply the elements in the order we made the
+choice:
+
+$$
+\mathcal{W}_A = \{f_0, f_1, f_2, \ldots \} = \{f_n \in A_n : A_n \neq \varnothing\}.
+$$
+
+Of course, it looks like this should only work for a set as large as
+the natural numbers, but it turns to work for any old set, using a
+generalisation of natural numbers called the
+[ordinals](https://en.wikipedia.org/wiki/Ordinal_number), which
+include not only natural numbers but also numbers corresponding to
+different sorts of infinity.
+The process of defining the well-ordering involves
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
-but all it does is replace ordinary numbers with a generalisation called
-[ordinal numbers](https://en.wikipedia.org/wiki/Ordinal_number).
-The *successor* of an ordinal $\alpha$ is defined by
+but we won't worry about the details.
+As before, we start with $0$, but keep on counting up "past infinity",
+defining
 
 $$
-\alpha + 1 = \{\alpha, \{\alpha\}\},
+A_{\alpha+1} = A_0 - \{f_\beta : \beta < \alpha\}
 $$
 
-and we identify $0$ with the empty set $\varnothing = \{\}$.
-So, not only do we have the usual natural numbers, but an infinite
-ordinal such as $\omega$, identified with the natural numbers.
-It has a successor
+for any ordinals $\alpha$ and $\beta$. The resulting well-order is
+simply
 
 $$
-\omega + 1 = \{\mathbb{N}, \{\mathbb{N}\}\}.
+\mathcal{W}_A = \{f_\alpha \in A_\alpha: A_\alpha \neq
+\varnothing\}.
 $$
-
-This gives a precise interpretation to "infinity plus one"!
-But the well-ordering of a set $A$
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
