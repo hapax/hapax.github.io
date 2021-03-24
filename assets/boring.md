@@ -289,7 +289,7 @@ well-ordering all of them are relatively interesting.
 
 #### Choosing an order
 
-Well-ordering is not usually treated an axiom.
+Well-ordering is not usually treated as an axiom.
 Historically, set theorists prefer to use a simpler rule called the
 *axiom of choice*, which is logically equivalent (given the other
 rules of set theory) but somehow less suspect.
@@ -322,8 +322,21 @@ representative from each set, labelled $f_i \in A_i$.
 The well-ordering principle implies the axiom of choice, since I can
 just take the union of all the sets $A_i$, well-order it with
 $\mathcal{W}$, and then define $f_i = \min_{\mathcal{W}} A_i$.
-The other way round is also straightforward.
-I
+That's my set of representatives!
+The other way round is conceptually straightforward.
+To well-order a set $A = A_0$, start by choosing an element $f_0 \in
+A_0$ by the axiom of choice. Then remove it to define a new set $A_1 =
+A_0 - \{f_0\}$, and select another element $f_1 \in A_1$. Continue in
+this way, at each stage simply deleting the element from the previous
+stage and choosing a new one, and you end up with a well-ordering
+$\mathcal{W}_A$,
+
+$$
+f_0, f_1, f_2, \ldots.
+$$
+
+Of course, you should object that this will only work for a set as
+most as big as the natural numbers.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
