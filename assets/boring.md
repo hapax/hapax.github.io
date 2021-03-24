@@ -351,13 +351,16 @@ Second, our method only seems to work for sets as most as large as the
 natural numbers, since we indexed elements with $n \in \mathbb{N}$.
 But we can extend it to an *arbitrary* set using a generalisation of
 natural numbers called
-[ordinals](https://en.wikipedia.org/wiki/Ordinal_number). Like natural
-numbers, these are themselves well-ordered, and include not only
-finite natural numbers but ordinals for different sorts of
-infinity.
+[ordinals](https://en.wikipedia.org/wiki/Ordinal_number).
 We loosely sketch how this is done in the appendix.
 Once the dust settles, we learn that the axiom of choice is equivalent
 to well-ordering, and thus implies that the reals are relatively interesting.
+
+#### The mysteries of constructability
+
+We've argued that there is no definable well-ordering on the real
+numbers, but that some indescribable ordering would exist by virtue of
+the axiom of choice.
 
 #### Appendix: ordinals and the axiom of choice
 
