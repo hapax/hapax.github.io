@@ -339,10 +339,25 @@ Of course, you should object that this will only work for a set as
 most as big as the natural numbers.
 To "get through" the whole set, one needs a stronger method called
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
-but all it does is replace numbers with a generalisation called
-[ordinals](https://en.wikipedia.org/wiki/Ordinal_number), which yield
-an interpretation of yet another mathematical joke, namely "infinite
-plus one".
+but all it does is replace ordinary numbers with a generalisation called
+[ordinal numbers](https://en.wikipedia.org/wiki/Ordinal_number).
+The *successor* of an ordinal $\alpha$ is defined by
+
+$$
+\alpha + 1 = \{\alpha, \{\alpha\}\},
+$$
+
+and we identify $0$ with the empty set $\varnothing = \{\}$.
+So, not only do we have the usual natural numbers, but an infinite
+ordinal such as $\omega$, identified with the natural numbers.
+It has a successor
+
+$$
+\omega + 1 = \{\mathbb{N}, \{\mathbb{N}\}\}.
+$$
+
+This gives a precise interpretation to "infinity plus one"!
+But the well-ordering of a set $A$
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
