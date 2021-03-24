@@ -9,7 +9,7 @@ date:  2021-03-23
 
 **March 23, 2021.** *We turn the old joke about boring numbers into a
   proof that while most real numbers are indescribably boring, all are
-  relatively interesting assuming the axiom of choice.*
+  relatively interesting with the axiom of choice.*
 
 #### Introduction
 
@@ -363,66 +363,14 @@ a set* is relatively interesting!
 
 #### Conclusion
 
-I'll end with a puzzle.
-Consider the phrase
-
-<span style="padding-left: 20px; display:block">
-The smallest real number with no finite, explicit description.
-</span>
-
-If "smallest" refers to an explicitly definable well-ordering of the
-reals, then this would seem to pick out a unique number with a finite,
-explicit description. Contradiction!
-We used this to argue no explicit well-ordering exists.
-But let's compare this to the
-[Berry paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
-asks us to consider the phrase
-
-<span style="padding-left: 20px; display:block">
-The smallest positive integer not definable in under sixty letters.
-</span>
-
-This phrase clocks in at under sixty letters, and would seem to define a
-number.
-Contradiction!
-Since "smallest" here makes perfect sense (we are dealing with positive
-integers), to resolve the Berry paradox, we must assume either (a)
-there is no set $B$ of numbers not definable in under sixty letters,
-analogous to the original boring number joke, or (b) Berry's phrase
-somehow fails to define a number.
-
-The most popular solution seems to be (b), on the grounds that
-referring to the set makes it some kind of "meta-definition", rather
-than a definition per se.
-Of course, this seems be committed to a very specific notion of
-"definition", but the problem persists if we replace "definable" with
-"meta-definable", since the smallest non-meta-definable number is
-really a meta-meta-definition.
-Let $B^{(0)}$ be the set of numbers not definable in under sixty letters,
-$B^{(1)}$ the numbers not meta-definable in under $70$ letters, and in
-general, $B^{(n)}$ the numbers not meta${}^{(n)}$-definable in under
-$60+10n$ letters.
-We call any number in the *union* of all these sets $\mathcal{B} =
-\cup_{n\geq0} B^{(n)}$ "lim-definable".
-This is closed under the operation of going meta.
-Now consider the phrase
-
-<span style="padding-left: 20px; display:block">
-The smallest positive integer not lim-definable in under seventy letters.
-</span>
-
-Since lim-definability is closed under going meta, this is *now a
-definition at the same level*.
-Since option (b) is no longer available to us, only option (a)
-remains, and it follows that *all positive integers are
-lim-definable*.
+So, by considering 
 
 #### Acknowledgments
 
 As usual, thanks to J.A. for stimulating questions, and also
 suggesting a form of unicoding.
 
-#### Appendix: ordinals and the axiom of choice
+#### Appendix 1: ordinals and the axiom of choice
 
 Ordinals are *sets* which we use to stand in for numbers.
 The smallest ordinal is $0$, which is defined as the empty set
@@ -501,3 +449,70 @@ fifty seven! This too is a contradiction. Many people try to resolve
 this by arguing that it does not constitute a "definition"; I think it
 is much simpler to following the boring number argument, and conclude
 that $B_{60}$ doesn't exist. -->
+
+#### Appendix 2: Berry paradox and lim-definability
+
+Consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest real number with no finite, explicit description.
+</span>
+
+If "smallest" refers to an explicitly definable well-ordering of the
+reals, then this would seem to pick out a unique number with a finite,
+explicit description. Contradiction!
+We used this to argue no explicit well-ordering exists.
+But let's compare this to the
+[Berry paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
+asks us to consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest positive integer not definable in under sixty letters.
+</span>
+
+This phrase clocks in at under sixty letters, and would seem to define a
+number.
+Contradiction!
+Since "smallest" here makes perfect sense (we are dealing with positive
+integers), to resolve the Berry paradox, we must assume either (a)
+there is no set $B$ of numbers not definable in under sixty letters,
+analogous to the original boring number joke, or (b) Berry's phrase
+somehow fails to define a number.
+
+The most popular solution seems to be (b), on the grounds that
+referring to the set makes it some kind of "meta-definition", rather
+than a definition per se.
+Of course, this seems be committed to a very specific notion of
+"definition", but the problem persists if we replace "definable" with
+"meta-definable", since the smallest non-meta-definable number is
+really a meta-meta-definition.
+Let $B^{(0)}$ be the set of numbers not definable in under sixty letters,
+$B^{(1)}$ the numbers not meta-definable in under $70$ letters, and in
+general, $B^{(n)}$ the numbers not meta${}^{(n)}$-definable in under
+$60+10n$ letters.
+We call any number in the *union* of all these sets $\mathcal{B} =
+\cup_{n\geq0} B^{(n)}$ "lim-definable".
+This is closed under the operation of going meta.
+Now consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest positive integer not lim-definable in under seventy letters.
+</span>
+
+Since lim-definability is closed under going meta, this is *now a
+definition at the same level*.
+Since option (b) is no longer available to us, only option (a)
+remains, and it follows that, like the joke we began with, *all
+positive integers are lim-definable*.
+
+Our use of the term "finite, explicit description" is really a form of
+the Berry paradox.
+The point of considering lim-definablity is that we can build the same
+descriptive hierarchy for the real numbers, take the union, and rule
+out option (b). This leaves two options to avoid a contradiction: no
+lim-definable ordering exists (involving some finite but unbounded
+number of references to sets in the hierarchy), or like the Berry
+paradox, every real is lim-definable.
+But it's obvious that the same argument about finite-description
+length applies!
+So it must be that there is no lim-definable ordering of the reals!
