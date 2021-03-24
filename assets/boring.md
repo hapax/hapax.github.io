@@ -305,13 +305,7 @@ obviously false.
 (Actually, Bona's joke mentions a third equivalent form called *Zorn's
 lemma*, but it would confuse matters too much to explain.)
 Loosely, the axiom of choice just says we can pick an element from a
-non-empty set:
-
-<span style="padding-left: 20px; display:block">
-Given a nonempty set $A$, we can choose an element $f \in A$.
-</span>
-
-Pretty reasonable huh? If a set is nonempty, it has an element, so
+non-empty set. Pretty reasonable huh? If a set is nonempty, it has an element, so
 we can pluck one out.
 In fact, it's usually stated in terms of a *family* of sets $A_i$,
 where the subscript $i$ ranges over some indexing set $I$:
@@ -355,15 +349,18 @@ But we can extend it to an *arbitrary* set using a generalisation of
 natural numbers called
 [ordinals](https://en.wikipedia.org/wiki/Ordinal_number).
 We loosely sketch how this is done in the appendix.
-Once the dust settles, we learn that the axiom of choice is equivalent
-to well-ordering, and thus implies that every real number is
-relatively interesting.
-In fact, the same argument shows us that *any object that can live in
-a set* is relatively interesting!
 
 #### Conclusion
 
-So, by considering 
+Once the dust settles, we learn that the axiom of choice is equivalent
+to well-ordering.
+It follows that simply being allowed to pick elements from non-empty
+sets implies that all real numbers are relatively interesting!
+The axiom of choice has some odd consequences as well, most famously
+the
+[Banach-Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox),
+which states that we can cut a sphere into five pieces, and reassemble
+it into two spheres of the same size!
 
 #### Acknowledgments
 
