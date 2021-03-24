@@ -369,7 +369,7 @@ And who said mathematicians had no sense of humour!
 #### Acknowledgments
 
 As usual, thanks to J.A. for the interesting chat which led to this
-post, and also for inspiring unicoding with an elegant, related bijection.
+post, and also for inspiring unicoding with an elegant, related argument.
 
 #### Appendix A: Berry paradox and lim-definability
 
