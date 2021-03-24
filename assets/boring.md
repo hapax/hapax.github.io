@@ -348,18 +348,23 @@ But we can extend it to an *arbitrary* set using a generalisation of
 natural numbers called
 [ordinals](https://en.wikipedia.org/wiki/Ordinal_number).
 We loosely sketch how this is done in Appendix B.
+Once the dust settles, we learn that the axiom of choice is equivalent
+to well-ordering.
 
 #### Conclusion
 
-Once the dust settles, we learn that the axiom of choice is equivalent
-to well-ordering.
-It follows that simply being allowed to pick elements from non-empty
-sets implies that all real numbers are relatively interesting!
-The axiom of choice has some odd consequences as well, most famously
-the
-[Banach-Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox),
-which states that we can cut a sphere into five pieces, and reassemble
-it into two spheres of the same size!
+The overarching question of this post is how much mileage we can get
+from a bad joke.
+The answer is quite a lot!
+We learned not only that there no boring integers and rational
+numbers, but via a simple counting argument, that the vast majority of
+real numbers are indescribably boring.
+This is equivalent to having no explicit way to well-order the reals.
+On the other hand, by giving ourselves the ability (via the axiom of
+choice) to pluck elements at will from non-empty sets, we are able to
+supply the reals with a well-ordering, and learn that all reals are
+interesting (relative to this ordering) after all.
+And who said mathematicians had no sense of humour!
 
 #### Acknowledgments
 
