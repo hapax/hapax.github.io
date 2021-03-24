@@ -345,8 +345,8 @@ $$
 
 There are two issues with this construction.
 The first is that it might feel sketchy to use the axiom of
-choice "as we go" to construct the sets, rather than starting with an
-independently defined family. But no one said this wasn't allowed!
+choice "as we go" to build the sets, rather than starting with a
+pre-defined family. But no one said this wasn't allowed!
 Second, our method only seems to work for sets as most as large as the
 natural numbers, since we indexed elements with $n \in \mathbb{N}$.
 But we can extend it to an *arbitrary* set using a generalisation of
@@ -355,7 +355,51 @@ natural numbers called
 numbers, these are themselves well-ordered, and include not only
 finite natural numbers but ordinals for different sorts of
 infinity.
+We loosely sketch how this is done in the appendix.
+Once the dust settles, we learn that the axiom of choice is equivalent
+to well-ordering, and thus implies that the reals are relatively interesting.
 
+#### Appendix: ordinals and the axiom of choice
+
+Ordinals are *sets* which we use to stand in for numbers.
+The smallest ordinal is $0$, which is defined as the empty set
+$\varnothing = \{\}$.
+Each ordinal $\alpha$ has a unique successor $\alpha + 1$, defined by
+
+$$
+\alpha + 1 = \{\alpha, \{\alpha\}\},
+$$
+
+i.e. the contents of $\alpha$ and then another copy of $\alpha$ nested
+in a set. To illustrate, using $0 = \varnothing$ we have
+
+$$
+1 = 1 + 0 = \{\varnothing\}, \quad 2 = 1 + 1 = \{\varnothing,
+\{\varnothing\}\}, \quad 3 = 2 + 1 = \{\varnothing, \{\varnothing\}, \{\varnothing,
+\{\varnothing\}\}\}.
+$$
+
+Going on in this way gives us all the finite ordinals, but there are
+also *infinite* ordinals. The smallest infinite ordinal, conventionally
+denoted $\omega$, can be identified with the natural numbers:
+
+$$
+\omega = \{0, 1, 2, 3, 4, \ldots\}.
+$$
+
+It is called a *limit* ordinal since it is not the successor of any
+finite ordinal. It is bigger than all the finite ones, $n <
+\omega$. The successor is defined as before,
+
+$$
+\omega + 1 = \{\omega, \{\omega\}\},
+$$
+
+thereby giving a precise meaning to "infinity plus one"!
+We won't say more about the structure of these ordinals. The point is
+that they can get very big!
+Let's now return to our question of proving the axiom of choice
+implies that any set $A$ can be well-ordered.
 The basic idea is to start with $0$, but keep on counting up "past
 infinity", defining
 
@@ -375,9 +419,7 @@ with $f_\alpha < f_\beta$ just in case the ordinals $\alpha < \beta$.
 This technique is called
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
 and we've obviously skipped the technical details.
-The point is that the procedure looks basically the same!
-So we learn that the axiom of choice is equivalent to well-ordering,
-and thus implies that the reals are relatively interesting.
+But it looks essentially the same as the finite case!
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
