@@ -386,6 +386,12 @@ This phrase clocks in under sixty letters, and would seem to define a
 number.
 Contradiction!
 The original joke about boring numbers really has the same form.
+We 
+
+#### Acknowledgments
+
+As usual, thanks to J.A. for stimulating questions, and also a
+preliminary form of unicoding.
 
 #### Appendix: ordinals and the axiom of choice
 
