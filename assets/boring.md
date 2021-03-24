@@ -7,7 +7,9 @@ categories: [Mathematics]
 date:  2021-03-23
 ---
 
-**March 23, 2021.** *Stuff*
+**March 23, 2021.** *We turn the old joke about boring numbers into a
+  proof that while most real numbers are indescribably boring, all are
+  relatively interesting assuming the axiom of choice.*
 
 #### Introduction
 
@@ -25,7 +27,7 @@ cannot tell us about the mathematical world.
 
 #### Integers and rationals are interesting
 
-We are implicitly using the fact that "numbers" refers to "positive
+The joke implicitly uses the fact that "numbers" refers to "positive
 whole numbers"
 
 $$
@@ -356,11 +358,31 @@ We loosely sketch how this is done in the appendix.
 Once the dust settles, we learn that the axiom of choice is equivalent
 to well-ordering, and thus implies that the reals are relatively interesting.
 
-#### The mysteries of constructability
+#### Conclusion
 
-We've argued that there is no definable well-ordering on the real
-numbers, but that some indescribable ordering would exist by virtue of
-the axiom of choice.
+I'll end with a puzzle.
+Consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest real number with no finite, explicit description.
+</span>
+
+If "smallest" refers to an explicitly definable well-ordering of the
+reals, then this would seem to pick out a unique number with a finite,
+explicit description. Contradiction!
+We used this to argue no explicit well-ordering exists.
+But let's compare this to the
+[Berry paradox](https://en.wikipedia.org/wiki/Berry_paradox), which
+asks us to consider the phrase
+
+<span style="padding-left: 20px; display:block">
+The smallest positive integer not definable in under sixty letters.
+</span>
+
+This phrase clocks in under sixty letters, and would seem to define a
+number.
+Contradiction!
+The original joke about boring numbers really has the same form.
 
 #### Appendix: ordinals and the axiom of choice
 
