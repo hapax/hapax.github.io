@@ -368,8 +368,8 @@ And who said mathematicians had no sense of humour!
 
 #### Acknowledgments
 
-As usual, thanks to J.A. for stimulating questions, and also
-suggesting a form of unicoding.
+As usual, thanks to J.A. for the interesting chat which led to this
+post, and also for inspiring unicoding with an elegant, related bijection.
 
 #### Appendix A: Berry paradox and lim-definability
 
