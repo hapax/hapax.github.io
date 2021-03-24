@@ -358,6 +358,8 @@ We loosely sketch how this is done in the appendix.
 Once the dust settles, we learn that the axiom of choice is equivalent
 to well-ordering, and thus implies that every real number is
 relatively interesting.
+In fact, the same argument shows us that *any object that can live in
+a set* is relatively interesting!
 
 #### Conclusion
 
