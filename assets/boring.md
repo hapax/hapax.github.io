@@ -382,11 +382,11 @@ asks us to consider the phrase
 The smallest positive integer not definable in under sixty letters.
 </span>
 
-This phrase clocks in under sixty letters, and would seem to define a
+This phrase clocks in at under sixty letters, and would seem to define a
 number.
 Contradiction!
-But "smallest" here makes perfect sense (we are dealing with positive
-integers), so to resolve the Berry paradox, we must assume either (a)
+Since "smallest" here makes perfect sense (we are dealing with positive
+integers), to resolve the Berry paradox, we must assume either (a)
 there is no set of numbers not definable in under sixty letters,
 analogous to the original boring number joke, or (b) Berry's phrase
 somehow fails to define a number.
