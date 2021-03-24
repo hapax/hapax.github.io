@@ -375,6 +375,8 @@ This technique is called
 [transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction),
 and we've obviously skipped the technical details.
 The point is that the procedure looks basically the same!
+So we learn that the axiom of choice is equivalent to well-ordering,
+and thus implies that the reals are relatively interesting.
 
 <!-- You may wonder if the contradiction here is coming from ambiguity in
 the notion of "explicit describability".
