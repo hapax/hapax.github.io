@@ -300,8 +300,8 @@ The axiom of choice is obviously true and the well-ordering principle
 obviously false.
 </span>
 
-(The mentions a third equivalent form called *Zorn's lemma*, but we
-won't go there.)
+(The full joke actually mentions a third equivalent form called
+*Zorn's lemma*, but we won't go there.)
 Loosely, the axiom of choice just says we can pick an element from a
 non-empty set:
 
