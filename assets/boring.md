@@ -387,9 +387,16 @@ number.
 Contradiction!
 Since "smallest" here makes perfect sense (we are dealing with positive
 integers), to resolve the Berry paradox, we must assume either (a)
-there is no set of numbers not definable in under sixty letters,
+there is no set $B$ of numbers not definable in under sixty letters,
 analogous to the original boring number joke, or (b) Berry's phrase
 somehow fails to define a number.
+
+The most popular solution seems to be (b), on the grounds that
+referring to the set makes it some kind of "meta-definition", rather
+than a definition per se.
+Of course, this seems be committed to a very specific notion of
+"definition", but the problem persists if we replace "definable" with
+"meta-definable", and so on.
 
 #### Acknowledgments
 
