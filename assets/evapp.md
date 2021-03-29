@@ -22,7 +22,8 @@ date:  2021-03-29
 #### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
 Stephen Hawking discovered that black holes glow.
-This means that, over time, they 
+This means that, over time, they will lose energy and eventually
+disappear altogether.
 
 #### 2. The end of the universe<a id="sec-2" name="sec-2"></a>
 
