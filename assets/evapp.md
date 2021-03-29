@@ -28,6 +28,19 @@ We're going to use this to do some fun stuff, first up guessing the
 time until so-called "heat death", and secondly, giving a heuristic
 argument that the Large Hadron Collider (LHC) does not produce
 dangerous microscopic black holes when it smashes protons together.
+We won't derive anything in detail, but rather, slap estimates together
+to get an order-of-magnitude vibe for what's going on.
+Our key formula will be that, for a black hole of mass $M$, the
+evaporation timescale is roughly
+
+$$
+t_\text{evap} \sim \frac{G^2M^3}{\hbar c^4} \sim 10^{63} \text{ years}
+\left(\frac{M}{M_\odot}\right)^3,
+$$
+
+where $M_\odot = 2\times 10^{30} \text{ kg}$ is the mass of the sun,
+and $G$ is Newton's constant, $c$ the speed of light, and $\hbar$ is
+Planck's constant. I'll explain these if and when we need them.
 
 #### 2. The end of the universe<a id="sec-2" name="sec-2"></a>
 
