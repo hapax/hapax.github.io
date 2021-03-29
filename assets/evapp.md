@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From "
+title:  "From heat death to tiny black holes"
 categories: [Physics, Hacks]
 date:  2021-03-29
 ---
