@@ -21,9 +21,13 @@ date:  2021-03-29
 
 #### 1. Introduction<a id="sec-1" name="sec-1"></a>
 
-Stephen Hawking discovered that black holes glow.
-This means that, over time, they will lose energy and eventually
-disappear altogether.
+In 1974, Stephen Hawking discovered that black holes glow.
+This means that, over time, a black hole loses energy and eventually
+disappears altogether.
+We're going to use this to do some fun stuff, first up guessing the
+time until so-called "heat death", and secondly, giving a heuristic
+argument that the Large Hadron Collider (LHC) does not produce
+dangerous microscopic black holes when it smashes protons together.
 
 #### 2. The end of the universe<a id="sec-2" name="sec-2"></a>
 
