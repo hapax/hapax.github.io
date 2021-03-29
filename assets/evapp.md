@@ -29,4 +29,4 @@ disappear altogether.
 
 #### 3. Black holes at the LHC<a id="sec-3" name="sec-3"></a>
 
-#### 4. Appendix: evaporation<a id="sec-3" name="sec-3"></a>
+#### 4. Appendix: evaporation<a id="sec-4" name="sec-4"></a>
