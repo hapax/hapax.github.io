@@ -24,25 +24,31 @@ date:  2021-03-29
 In 1974, Stephen Hawking discovered that black holes glow.
 This means that, over time, a black hole loses energy and eventually
 disappears altogether.
-We're going to use this to do some fun stuff, first up guessing the
-time until so-called "heat death", and secondly, giving a heuristic
+We're going to use this to do some fun stuff, first guessing the
+time until entropic heat death, and secondly, giving a heuristic
 argument that the Large Hadron Collider (LHC) does not produce
-dangerous microscopic black holes when it smashes protons together.
+dangerous microscopic black holes.
 We won't derive anything in detail, but rather, slap estimates together
 to get an order-of-magnitude vibe for what's going on.
 Our key formula will be that, for a black hole of mass $M$, the
 evaporation timescale is roughly
 
 $$
-t_\text{evap} \sim \frac{G^2M^3}{\hbar c^4} \sim 10^{63} \text{ years}
+t_\text{evap} \sim \frac{G^2M^3}{\hbar c^4} \sim 10^{67} \text{ years}
 \left(\frac{M}{M_\odot}\right)^3,
 $$
 
 where $M_\odot = 2\times 10^{30} \text{ kg}$ is the mass of the sun,
 and $G$ is Newton's constant, $c$ the speed of light, and $\hbar$ is
-Planck's constant. I'll explain these if and when we need them.
+Planck's constant. I'll explain these constants if and when we need
+them.
+Now for our applications!
 
 #### 2. The end of the universe<a id="sec-2" name="sec-2"></a>
+
+Careful observation of the night sky reveals that everything is flying
+apart at an accelerating rate. Eventually, every galaxy will be
+trapped in its 
 
 #### 3. Black holes at the LHC<a id="sec-3" name="sec-3"></a>
 
