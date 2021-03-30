@@ -90,16 +90,19 @@ $$
 d_0 = 13 \times 10^6 \text{ ly},
 $$
 
-and we want $v(t) = c$. Thus,
+and we want $v(t) = c$. Thus, the time until we fall into our horizon
+obeys $c = H_0 d_0 e^{H_0t_\text{hor}}$, or
 
 $$
-c = H_0 d_0 e^{H_0t} \quad \Longrightarrow \quad t =
+t_\text{hor} =
 \frac{1}{H_0}\log\left(\frac{c}{H_0 d_0}\right) =
 \frac{10^{11}}{7}\log\left(\frac{10^{11}}{7 \cdot (13 \times 10^6)}\right) \text{
-y} \approx 100 \text{ Gy},
+y} \approx 100 \text{ Gy}.
 $$
 
-i.e. $100$ billion years.
+In $100$ billion years, the universe will get radically smaller. But
+this is not the end! The local group is a huge place, and lots of
+interesting things can still happen. Cosmic expansion
 
 #### 3. Black holes at the LHC<a id="sec-3" name="sec-3"></a>
 
