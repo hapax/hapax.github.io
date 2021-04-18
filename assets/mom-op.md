@@ -222,7 +222,24 @@ $$
 suggesting we define the energy operator
 
 $$
-\hat{E} = i\hbar \frac{\partial}{\partial t}.
+\hat{H} = i\hbar \frac{\partial}{\partial t}.
+$$
+
+For historical reasons, we use $\hat{H}$ for
+["Hamiltonian"](https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics))
+instead of $\hat{E}$ for "energy".
+But, for a classical particle with only kinetic energy, energy and
+momentum are related by
+
+$$
+E = \frac{1}{2}mv^2 = \frac{(mv)^2}{2m} = \frac{p^2}{2m}.
+$$
+
+Schrödinger simply turned this into an operator equation:
+
+$$
+\hat{H}\Psi = \frac{\hat{p}^2}{2m} = -\frac{\hbar^2}{2m}
+\frac{\partial^2}{\partial x^2} \Psi.
 $$
 
 #### Acknowledgments
