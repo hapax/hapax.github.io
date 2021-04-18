@@ -6,12 +6,6 @@ permalink: /fun/
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/). A tumblr for my
   recent visual art. <!-- *principium creaturarum*.-->
-- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
-- [*Pong mania*](https://www.openprocessing.org/sketch/590092). An
-  infinite game of Pong against a buggy opponent.
-
----
-
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Flash fiction about quantum computing and geopolitics.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
@@ -19,7 +13,15 @@ permalink: /fun/
 <!-- - ["Calling down the lightning"]({{hapax.github.io}}/assets/lightning.pdf). An
   essay on creativity and personality development. -->
 <!-- - [*D'Alembert's Principle*]({{hapax.github.io}}/assets/D'Alembert). A
-  book review. -->
+book review. -->
+
+---
+
+- [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
+- [*Pong mania*](https://www.openprocessing.org/sketch/590092). An
+infinite game of Pong against a buggy opponent.
+- [*genesim*](https://github.com/hapax/genesim). Simulate genes
+  dropping on a family tree.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
