@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Momentum and Schrödinger's equation"
+title:  "Momentum and energy on the cheap"
 categories: [Maths, Physics, Hacks]
 date:  2021-04-17
 ---
 
 **April 17, 2021.** *A quick post explaining how matter waves lead to
-  (a) the identification of momentum operator with derivatives, and
-  (b) the Schrödinger equation.*
+  natural definitions of momentum and energy operators, and hence the
+  Schrödinger equation.*
 
 #### Light and matter
 
