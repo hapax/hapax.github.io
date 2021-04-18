@@ -13,3 +13,4 @@ date:  2021-04-17
 
 https://en.wikipedia.org/wiki/Fracture_mechanics
 https://physicstoday.scitation.org/doi/full/10.1063/PT.3.2584
+http://oeis.org/A046873
