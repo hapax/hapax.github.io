@@ -122,7 +122,7 @@ $$
 
 and if we really want the sine, just consider the imaginary part.
 
-#### Putting momentum back in
+#### Adding and extracting momentum
 
 Let's now consider a photon, moving at speed $v =c$ and with momentum
 obeying
@@ -137,5 +137,42 @@ constant $\hbar = h/2\pi$, called *Planck's reduced constant*.
 This lets us rewrite the plane wave as
 
 $$
+A(x, t) = A_0 e^{i (p/\hbar)(x - ct)}.
+$$
+
+In 1924, Louis de Broglie made the bold suggestion that *matter could
+also be described as a wave*.
+These matter waves would have the usual momentum (now taken to be
+slowly moving and non-relativistic) $p = mv$, but frequency given by
+$p = hf/v$. Identical reasoning gives a plane matter wave
+
+$$
 A(x, t) = A_0 e^{i (p/\hbar)(x - vt)}.
+$$
+
+This could describe an electron, a proton, or something as absurd as a
+[buckyball](https://www.nature.com/articles/44348), passing for
+instance through two slits and recombining to exhibit wavelike
+interference. Pretty nifty!
+
+We won't be concerned with this, however.
+Instead, we would like to think how to *extract* the momentum from a
+plane wave.
+One way is to rearrange $A(x, t)$ to find $p$.
+Instead, we will define a procedure which simply pulls $p$ out.
+It is, as you have probably already guessed, simply the derivative
+with respect to $x$:
+
+$$
+\frac{\partial}{\partial x}A(x, t) = A_0 \frac{\partial}{\partial
+x}e^{i (p/\hbar)(x - vt)} = A_0 \frac{ip}{\hbar}e^{i (p/\hbar)(x -
+vt)} = \frac{ip}{\hbar} A(x, t).
+$$
+
+The *momentum operator* $\hat{p}$ is simply defined as a derivative which gives
+us $p$ without the extra constants. We will usually treat $t$ as a
+constant, so that the partial derivative becomes an ordinary derivative:
+
+$$
+\hat{p} = -i\hbar \frac{d}{d x}.
 $$
