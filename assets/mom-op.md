@@ -181,6 +181,27 @@ where we pretend $t$ is fixed so that the partial derivative becomes a
 normal derivative.
 What's great about this operator, as opposed to an algebraic
 expression for $p$, is that we can apply it to *any combination of
-plane waves*. And one of the distinctive characteristics of waves is
+plane waves*.
+For instance, if
+
+$$
+A(x, t) = A_1(x, t) + A_2(x, t) = A_{0(1)} e^{i (p_1/\hbar)(x - v_1t)} + A_{0(2)} e^{i (p_2/\hbar)(x - v_2t)},
+$$
+
+then
+
+$$
+\hat{p}A(x, t) = p_1 A_1(x, t) + p_2 A_2(x, t).
+$$
+
+This isn't a single nice momentum that sits out the front of the whole
+wave (unless $p_1 = p_2$), but this tells us something important: such
+a combination *doesn't have* a well-defined momentum!
+The momentum will be *uncertain*.
+We might guess that the uncertainty depends on the relative size of
+the amplitudes $A_{0(1)}$ and $A_{0(2)}$, and this guess is correct;
+we won't pursue the answer (which is called the *Born rule*) here.
+
+And one of the distinctive characteristics of waves is
 that they add and subtract nicely! This is called the
 [superposition principle](https://en.wikipedia.org/wiki/Superposition_principle).
