@@ -122,7 +122,7 @@ $$
 
 and if we really want the sine, just consider the imaginary part.
 
-#### Putting momentum in and taking it out
+#### The momentum operator
 
 Let's now consider a photon, moving at speed $v =c$ and with momentum
 obeying
@@ -179,9 +179,14 @@ $$
 
 where we pretend $t$ is fixed so that the partial derivative becomes a
 normal derivative.
-What's great about this operator, as opposed to an algebraic
-expression for $p$, is that we can apply it to *any combination of
-plane waves*.
+
+One of the distinctive characteristics of waves is
+that the displacements add and subtract nicely. This is called the
+[superposition principle](https://en.wikipedia.org/wiki/Superposition_principle).
+What happens with momentum then?
+A nice thing about this operator, as opposed to the algebraic
+expression which isolates $p$, is that we can apply it to *any
+combination of plane waves*.
 For instance, if
 
 $$
@@ -200,8 +205,25 @@ a combination *doesn't have* a well-defined momentum!
 The momentum will be *uncertain*.
 We might guess that the uncertainty depends on the relative size of
 the amplitudes $A_{0(1)}$ and $A_{0(2)}$, and this guess is correct;
-we won't pursue the answer (which is called the *Born rule*) here.
+we won't pursue the answer (which is called the [*Born rule*](https://en.wikipedia.org/wiki/Born_rule)) here.
 
-And one of the distinctive characteristics of waves is
-that they add and subtract nicely! This is called the
-[superposition principle](https://en.wikipedia.org/wiki/Superposition_principle).
+#### Schrödinger's equation
+
+Let's end, briefly, with the Schrödinger equation.
+In 1926, Erwin Schrödinger went on vacation in the Swiss alps, taking
+only de Broglie's thesis with him.
+By the end of his vacation, he had derived the fundamental equation of
+quantum mechanics.
+What is it?
+Well, it turns out it is the simplest reasonable differential equation you can
+obtain from the plane wave
+
+$$
+\Psi(x, t) = \Psi_0 e^{i(p/\hbar)(x - vt)},
+$$
+
+where we use $\Psi$ instead of $A$ for historical reasons.
+
+#### Acknowledgments
+
+Thanks to J.A. as usual.
