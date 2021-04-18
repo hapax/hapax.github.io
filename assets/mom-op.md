@@ -204,15 +204,17 @@ wave (unless $p_1 = p_2$), but this tells us something important: such
 a combination *doesn't have* a well-defined momentum!
 The momentum will be *uncertain*.
 We might guess that the uncertainty depends on the relative size of
-the amplitudes $A_{0(1)}$ and $A_{0(2)}$, and this guess is correct;
-we won't pursue the answer (which is called the [*Born rule*](https://en.wikipedia.org/wiki/Born_rule)) here.
+the amplitudes $A_{0(1)}$ and $A_{0(2)}$, and this guess is correct.
+We won't pursue the generalisations (the
+[uncertainty principle](https://en.wikipedia.org/wiki/Heisenberg_uncertainty)
+and the [*Born rule*](https://en.wikipedia.org/wiki/Born_rule)) here.
 
 #### Schrödinger's equation
 
 Let's end, briefly, with the Schrödinger equation.
 In 1926, Erwin Schrödinger went on vacation in the Swiss alps, taking
 only de Broglie's thesis with him.
-By the end of his vacation, he had derived the fundamental equation of
+By the end of his getaway, he had derived the fundamental equation of
 quantum mechanics.
 How did he do it?
 He was guided by many subtleties we won't care about.
