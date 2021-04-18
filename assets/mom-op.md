@@ -72,7 +72,7 @@ $$
 The constant $A_0$ is just the maximum size of the envelop, but $k$
 and $v$ require a bit more explanation.
 Here, $v$ is the *speed* of the wave, since a point of fixed $C = x -
-vt$ in time $\Delta t$ must move
+vt$ in time $\Delta t$ must move $\Delta x$ obeying
 
 $$
 C = x - vt = (x + \Delta x) - v (t + \Delta t) = C + \Delta x -v
@@ -104,4 +104,37 @@ $$
 f\lambda = \frac{vk}{2\pi}\cdot \frac{2\pi}{k} = v.
 $$
 
-Or, we can use the [exponential](https://hapax.github.io/maths/physics/hacks/exponential/)
+At this point, It will simplify things dramatically to use the
+[exponential](https://hapax.github.io/maths/physics/hacks/exponential/)
+instead of the sine wave.
+Since Euler's marvellous formula tells us that
+
+$$
+e^{i\theta} = \cos\theta + i \sin\theta,
+$$
+
+we can replace the sinusoid with
+
+$$
+A(x, t) = A_0 e^{i k(x - vt)},
+$$
+
+and if we really want the sine, just consider the imaginary part.
+
+#### Putting momentum back in
+
+Let's now consider a photon, moving at speed $v =c$ and with momentum
+obeying
+
+$$
+p = \frac{hf}{c} = \frac{hf}{f \lambda} = \frac{h}{\lambda} =
+\frac{h}{2\pi}\cdot \frac{2\pi}{\lambda} = \hbar k,
+$$
+
+where we used $c = f\lambda$, $k = 2\pi/\lambda$, and defined a new
+constant $\hbar = h/2\pi$, called *Planck's reduced constant*.
+This lets us rewrite the plane wave as
+
+$$
+A(x, t) = A_0 e^{i (p/\hbar)(x - vt)},
+$$
