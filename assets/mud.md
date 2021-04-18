@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "The many histories of a mud puddle"
-categories: [Maths, Physics]
+categories: [Maths, Physics, Everyday]
 date:  2021-04-17
 ---
 
