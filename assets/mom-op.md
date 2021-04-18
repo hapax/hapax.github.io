@@ -192,7 +192,7 @@ $$
 \hat{p}\Psi(x, t) = p_1 \Psi_1(x, t) + p_2 \Psi_2(x, t).
 $$
 
-This isn't a single nice momentum that sits out the front of the whole
+No single nice momentum that sits out the front of the whole
 wave (unless $p_1 = p_2$), but this tells us something important: such
 a combination *doesn't have* a well-defined momentum!
 The momentum will be *uncertain*.
