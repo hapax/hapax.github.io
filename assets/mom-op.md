@@ -199,7 +199,7 @@ We might guess that the uncertainty depends on the relative size of
 the amplitudes $\Psi_{0}^{(1)}$ and $\Psi_{0}^{(2)}$, and this guess is correct.
 We won't pursue the generalisations (the
 [uncertainty principle](https://en.wikipedia.org/wiki/Heisenberg_uncertainty)
-and the [*Born rule*](https://en.wikipedia.org/wiki/Born_rule)) here.
+and the [Born rule](https://en.wikipedia.org/wiki/Born_rule)) here.
 
 #### The energy operator
 
