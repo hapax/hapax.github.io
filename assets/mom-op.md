@@ -235,12 +235,40 @@ $$
 E = \frac{1}{2}mv^2 = \frac{(mv)^2}{2m} = \frac{p^2}{2m}.
 $$
 
-Schrödinger simply turned this into an operator equation:
+Schrödinger simply guessed this held as an operator
+equation. Substituting the actual expressions in terms of partial derivatives:
 
 $$
-\hat{H}\Psi = \frac{\hat{p}^2}{2m} = -\frac{\hbar^2}{2m}
+i\hbar \frac{\partial}{\partial t}\Psi = -\frac{\hbar^2}{2m}
 \frac{\partial^2}{\partial x^2} \Psi.
 $$
+
+Of course, a particle can get energy from other places. If it rolls
+around on a slope, for instance, there will be some potential energy
+$V$, and the classical energy is
+
+$$
+E = \frac{p^2}{2m} + V.
+$$
+
+Once again, we promote this to an operator $\hat{H}$. Schrödinger's
+guess was that we still had
+
+$$
+\hat{H} = i\hbar \frac{\partial}{\partial t},
+$$
+
+and hence
+
+$$
+i\hbar \frac{\partial}{\partial t}\Psi = \left(-\frac{\hbar^2}{2m}
+\frac{\partial^2}{\partial x^2} + \hat{V}\right)\Psi,
+$$
+
+where $\hat{V}$ is an operator corresponding to the classical
+potential in the same way the momentum and energy get promoted to
+operators. How to do this turns out to be technical and ambiguous, but
+it doesn't matter for our story!
 
 #### Acknowledgments
 
