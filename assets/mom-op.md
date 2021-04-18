@@ -2,14 +2,15 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Momentum and energy on the cheap"
+title:  "The Schrödinger equation on the cheap"
 categories: [Maths, Physics, Hacks]
 date:  2021-04-17
 ---
 
 **April 17, 2021.** *A quick post explaining how matter waves lead to
-  natural definitions of momentum and energy operators, and hence the
-  Schrödinger equation.*
+  natural definitions of momentum and energy operators, and the
+  Schrödinger equation with a some inspired guesswork. There is
+  nothing new, just (what I hope is) a clear throughline.*
 
 #### Light and matter
 
@@ -267,7 +268,7 @@ $$
 where $\hat{V}$ is an operator corresponding to the classical
 potential in the same way the momentum and energy get promoted to
 operators. How to do this turns out to be technical and ambiguous, but
-it doesn't matter for our story!
+that is a story for another day!
 
 #### Acknowledgments
 
