@@ -31,12 +31,13 @@ E = pc.
 $$
 
 Now, it just so happens we have a different expression for the energy
-of a photon, also suggested by Einstein in 1905 to
+of a photon. This was also proposed by Einstein in 1905, to
 [explain why](https://en.wikipedia.org/wiki/Photoelectric_effect)
-shining a light on a bit of metal releases electrons in a way that
-depends only on the colour of the light and not how bright it is.
-The answer: the light isn't interacting with electrons as a wave, but
-as a *particle*, with energy per particle given by
+shining a light on a bit of metal releases electrons only when the
+colour is blue enough.
+Conceptually, light isn't interacting with electrons as a wave, but
+as a *particle* whose energy is determined by colour!
+The experimental results show that the energy per photon is given by
 
 $$
 E = hf,
@@ -136,5 +137,5 @@ constant $\hbar = h/2\pi$, called *Planck's reduced constant*.
 This lets us rewrite the plane wave as
 
 $$
-A(x, t) = A_0 e^{i (p/\hbar)(x - vt)},
+A(x, t) = A_0 e^{i (p/\hbar)(x - vt)}.
 $$
