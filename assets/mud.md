@@ -10,3 +10,6 @@ date:  2021-04-17
 **April 17, 2021.** *Cracks for *
 
 #### 1. Compound interest
+
+https://en.wikipedia.org/wiki/Fracture_mechanics
+https://physicstoday.scitation.org/doi/full/10.1063/PT.3.2584
