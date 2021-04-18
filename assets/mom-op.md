@@ -122,7 +122,7 @@ $$
 
 and if we really want the sine, just consider the imaginary part.
 
-#### Adding and extracting momentum
+#### Putting momentum in and taking it out
 
 Let's now consider a photon, moving at speed $v =c$ and with momentum
 obeying
@@ -176,3 +176,9 @@ constant, so that the partial derivative becomes an ordinary derivative:
 $$
 \hat{p} = -i\hbar \frac{d}{d x}.
 $$
+
+What's great about this operator, as opposed to an algebraic
+expression for $p$, is that we can apply it to *any combination of
+plane waves*. And one of the distinctive characteristics of waves is
+that they add and subtract nicely! This is called the
+[superposition principle](https://en.wikipedia.org/wiki/Superposition_principle).
