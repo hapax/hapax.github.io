@@ -148,7 +148,6 @@ bending around obsctacles and interfering.
 This has been observed not only with electrons, but massive
 [buckyballs](https://www.nature.com/articles/44348). 
 Pretty nifty!
-
 We won't be concerned with this, however.
 Instead, we would like to think how to *extract* the momentum from a
 plane wave.
