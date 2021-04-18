@@ -184,7 +184,7 @@ One of the distinctive characteristics of waves is
 that the displacements add and subtract nicely. This is called the
 [superposition principle](https://en.wikipedia.org/wiki/Superposition_principle).
 What happens with momentum then?
-A nice thing about this operator, as opposed to the algebraic
+A cute thing about this operator, as opposed to the algebraic
 expression which isolates $p$, is that we can apply it to *any
 combination of plane waves*.
 For instance, if
