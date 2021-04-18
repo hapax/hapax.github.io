@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The momentum operator and Schrödinger's equation"
+title:  "Momentum and Schrödinger's equation"
 categories: [Maths, Physics, Hacks]
 date:  2021-04-17
 ---
 
-**April 17, 2021.** *A quick (and hand-wavey) post explaining how matter waves lead to
+**April 17, 2021.** *A quick post explaining how matter waves lead to
   (a) the identification of momentum operator with derivatives, and
   (b) the Schrödinger equation.*
 
@@ -50,7 +50,7 @@ $$
 p = \frac{hf}{c}.
 $$
 
-You can use to compute how many laser pointers you would need to repel
+You can use this to compute how many laser pointers you would need to repel
 an incoming asteroid (exercise left to the reader).
 
 #### Plane waves
