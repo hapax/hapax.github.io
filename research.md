@@ -20,6 +20,9 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
 
 #### Recent papers
 
+8. [*Holographic BCFTs and Communicating Black Holes*](https://arxiv.org/abs/2104.07039)
+   (2021). [Hao Geng](https://inspirehep.net/authors/1729076),
+   [Severin Lüst](https://inspirehep.net/authors/1319562), [Rashmish K. Mishra](https://inspirehep.net/authors/1066275), DW.
 0. [*Quantum tasks require islands on the brane*](https://arxiv.org/abs/2102.01810)
    (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en),
    DW. arXiv: 2102.01810.

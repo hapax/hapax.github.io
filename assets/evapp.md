@@ -102,7 +102,11 @@ $$
 
 In $100$ billion years, the universe will get radically smaller. But
 this is not the end! The local group is a huge place, and lots of
-interesting things can still happen. Cosmic expansion
+interesting things can still happen. But according to the second law
+of thermodynamics, *entropy always increases*, reducing the amount of
+useful energy in a system until all that's left is a cool, uniform goo
+in thermal equilibrium.
+
 
 #### 3. Black holes at the LHC<a id="sec-3" name="sec-3"></a>
 
