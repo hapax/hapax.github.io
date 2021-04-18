@@ -214,15 +214,40 @@ In 1926, Erwin Schrödinger went on vacation in the Swiss alps, taking
 only de Broglie's thesis with him.
 By the end of his vacation, he had derived the fundamental equation of
 quantum mechanics.
-What is it?
-Well, it turns out it is the simplest reasonable differential equation you can
-obtain from the plane wave
+How did he do it?
+He was guided by many subtleties we won't care about.
+But loosely speaking, it turns out to be the simplest reasonable
+differential equation you can obtain from the plane wave
 
 $$
 \Psi(x, t) = \Psi_0 e^{i(p/\hbar)(x - vt)},
 $$
 
 where we use $\Psi$ instead of $A$ for historical reasons.
+Since $\Psi$ is a function of $x$ and $t$, the derivatives we can take
+are with respect to $x$ and $t$.
+We already know how to take derivatives of $x$ using the momentum
+operator, so let's consider $t$ now:
+
+$$
+\frac{\partial}{\partial t}\Psi(x, t) = -\frac{ipv}{\hbar}\Psi(x, t).
+$$
+
+We also know that, for a plane wave, $\hat{p}\Psi(x, t)  = p \Psi(x,
+t)$. Playing around with these gives an equation
+
+$$
+i\hbar \frac{\partial}{\partial t}\Psi(x, t) = pv\Psi(x, t).
+$$
+
+By itself, this isn't interesting, and we wouldn't expect it to hold
+in general, since our wave could consist of components with different
+speeds.
+But let's rewrite $v = p/v$, so that
+
+$$
+i\hbar \frac{\partial}{\partial t}\Psi(x, t) = \frac{p^2}{m}\Psi(x, t).
+$$
 
 #### Acknowledgments
 
