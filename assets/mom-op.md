@@ -169,14 +169,16 @@ x}e^{i (p/\hbar)(x - vt)} = A_0 \frac{ip}{\hbar}e^{i (p/\hbar)(x -
 vt)} = \frac{ip}{\hbar} A(x, t).
 $$
 
-The *momentum operator* $\hat{p}$ is simply defined as a derivative which gives
-us $p$ without the extra constants. We will usually treat $t$ as a
-constant, so that the partial derivative becomes an ordinary derivative:
+The *momentum operator* $\hat{p}$ is simply defined as the operation
+which gives us $p$ (in front of the original function) without the
+extra constants $i$ and $\hbar$. More precisely,
 
 $$
-\hat{p} = -i\hbar \frac{d}{d x}.
+\hat{p} = -i\hbar \frac{d}{d x},
 $$
 
+where we pretend $t$ is fixed so that the partial derivative becomes a
+normal derivative.
 What's great about this operator, as opposed to an algebraic
 expression for $p$, is that we can apply it to *any combination of
 plane waves*. And one of the distinctive characteristics of waves is
