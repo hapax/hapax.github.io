@@ -67,10 +67,10 @@ A *plane wave* is a simple sinusoidal displacement of some medium
 fields) with amplitude
 
 $$
-A(x, y) = A_0 \sin \left[k(x - vt)\right].
+\Psi (x, y) = \Psi_0 \sin \left[k(x - vt)\right].
 $$
 
-The constant $A_0$ is just the maximum size of the envelop, but $k$
+The constant $ \Psi_0$ is just the maximum size of the envelop, but $k$
 and $v$ require a bit more explanation.
 Here, $v$ is the *speed* of the wave, since a point of fixed $C = x -
 vt$ in time $\Delta t$ must move $\Delta x$ obeying
@@ -117,7 +117,7 @@ $$
 we can replace the sinusoid with
 
 $$
-A(x, t) = A_0 e^{i k(x - vt)},
+\Psi (x, t) = \Psi_0 e^{i k(x - vt)},
 $$
 
 and if we really want the sine, just consider the imaginary part.
@@ -137,36 +137,29 @@ constant $\hbar = h/2\pi$, called *Planck's reduced constant*.
 This lets us rewrite the plane wave as
 
 $$
-A(x, t) = A_0 e^{i (p/\hbar)(x - ct)}.
+\Psi(x, t) = \Psi_0 e^{i (p/\hbar)(x - ct)} = \Psi_0 e^{i(px - Et)/\hbar}.
 $$
 
 In 1924, Louis de Broglie made the bold suggestion that *matter could
-also be described as a wave*.
-These matter waves would have the usual momentum (now taken to be
-slowly moving and non-relativistic) $p = mv$, but frequency given by
-$p = hf/v$. Identical reasoning gives a plane matter wave
-
-$$
-A(x, t) = A_0 e^{i (p/\hbar)(x - vt)}.
-$$
-
-This could describe an electron, a proton, or something as absurd as a
-[buckyball](https://www.nature.com/articles/44348), passing for
-instance through two slits and recombining to exhibit wavelike
-interference. Pretty nifty!
+also be described as a wave*, with momentum and energy obeying the
+same relation.
+These *matter waves* could therefore exhibit wavelike-behaviour, like
+bending around obsctacles and interfering.
+This has been observed not only with electrons, but massive
+[buckyballs](https://www.nature.com/articles/44348). 
+Pretty nifty!
 
 We won't be concerned with this, however.
 Instead, we would like to think how to *extract* the momentum from a
 plane wave.
-One way is to rearrange $A(x, t)$ to find $p$.
+One way is to rearrange $\Psi(x, t)$ to find $p$.
 Instead, we will define a procedure which simply pulls $p$ out.
 It is, as you have probably already guessed, simply the derivative
 with respect to $x$:
 
 $$
-\frac{\partial}{\partial x}A(x, t) = A_0 \frac{\partial}{\partial
-x}e^{i (p/\hbar)(x - vt)} = A_0 \frac{ip}{\hbar}e^{i (p/\hbar)(x -
-vt)} = \frac{ip}{\hbar} A(x, t).
+\frac{\partial}{\partial x}\Psi(x, t) = \Psi_0 \frac{\partial}{\partial
+x}e^{i (px - Et)/\hbar} = \frac{ip}{\hbar} \Psi(x, t).
 $$
 
 The *momentum operator* $\hat{p}$ is simply defined as the operation
@@ -187,16 +180,16 @@ What happens with momentum then?
 A cute thing about this operator, as opposed to the algebraic
 expression which isolates $p$, is that we can apply it to *any
 combination of plane waves*.
-For instance, if
+For instance, if we consider
 
 $$
-A(x, t) = A_1(x, t) + A_2(x, t) = A_{0(1)} e^{i (p_1/\hbar)(x - v_1t)} + A_{0(2)} e^{i (p_2/\hbar)(x - v_2t)},
+\Psi(x, t) = \Psi_1(x, t) + \Psi_2(x, t) = \Psi_{0}^{(1)} e^{i (p_1x - E_1t)/\hbar} + \Psi_0^{(2)}e^{i (p_2x - E_2t)/\hbar},
 $$
 
 then
 
 $$
-\hat{p}A(x, t) = p_1 A_1(x, t) + p_2 A_2(x, t).
+\hat{p}\Psi(x, t) = p_1 \Psi_1(x, t) + p_2 \Psi_2(x, t).
 $$
 
 This isn't a single nice momentum that sits out the front of the whole
@@ -204,12 +197,12 @@ wave (unless $p_1 = p_2$), but this tells us something important: such
 a combination *doesn't have* a well-defined momentum!
 The momentum will be *uncertain*.
 We might guess that the uncertainty depends on the relative size of
-the amplitudes $A_{0(1)}$ and $A_{0(2)}$, and this guess is correct.
+the amplitudes $\Psi_{0}^{(1)}$ and $\Psi_{0}^{(2)}$, and this guess is correct.
 We won't pursue the generalisations (the
 [uncertainty principle](https://en.wikipedia.org/wiki/Heisenberg_uncertainty)
 and the [*Born rule*](https://en.wikipedia.org/wiki/Born_rule)) here.
 
-#### Schrödinger's equation
+#### The energy operator
 
 Let's end, briefly, with the Schrödinger equation.
 In 1926, Erwin Schrödinger went on vacation in the Swiss alps, taking
@@ -217,38 +210,19 @@ only de Broglie's thesis with him.
 By the end of his getaway, he had derived the fundamental equation of
 quantum mechanics.
 How did he do it?
-He was guided by many subtleties we won't care about.
-But loosely speaking, it turns out to be the simplest reasonable
-differential equation you can obtain from the plane wave
+He was guided by many subtleties we won't care about, but the basic
+observation is simple: define an *energy operator* in the same way we
+defined the momentum operator.
+For a plane wave $\Psi(x, t) = \Psi_0 e^{i(px - Et)/\hbar}$, we have
 
 $$
-\Psi(x, t) = \Psi_0 e^{i(p/\hbar)(x - vt)},
+i\hbar \frac{\partial}{\partial t} \Psi(x, t) = E \Psi(x, t),
 $$
 
-where we use $\Psi$ instead of $A$ for historical reasons.
-Since $\Psi$ is a function of $x$ and $t$, the derivatives we can take
-are with respect to $x$ and $t$.
-We already know how to take derivatives of $x$ using the momentum
-operator, so let's consider $t$ now:
+suggesting we define the energy operator
 
 $$
-\frac{\partial}{\partial t}\Psi(x, t) = -\frac{ipv}{\hbar}\Psi(x, t).
-$$
-
-We also know that, for a plane wave, $\hat{p}\Psi(x, t)  = p \Psi(x,
-t)$. Playing around with these gives an equation
-
-$$
-i\hbar \frac{\partial}{\partial t}\Psi(x, t) = pv\Psi(x, t).
-$$
-
-By itself, this isn't interesting, and we wouldn't expect it to hold
-in general, since our wave could consist of components with different
-speeds.
-But let's rewrite $v = p/v$, so that
-
-$$
-i\hbar \frac{\partial}{\partial t}\Psi(x, t) = \frac{p^2}{m}\Psi(x, t).
+\hat{E} = i\hbar \frac{\partial}{\partial t}.
 $$
 
 #### Acknowledgments
