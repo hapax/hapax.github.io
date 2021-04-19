@@ -15,6 +15,17 @@ date:  2021-04-18
 
 #### Introduction
 
+The surface of a drying mud puddles contracts as water evaporates.
+This creates a stress on the surface, relieved by introducing
+*cracks*.
+These cracks will form from microscopic flaws in the surface,
+described by
+[fracture mechanics](https://en.wikipedia.org/wiki/Fracture_mechanics),
+and in particular criteria for failure developed by A. A. Griffith and
+modified by G. R. Irwin.
+
+#### References
+
 <!-- https://en.wikipedia.org/wiki/Fracture_mechanics
 https://physicstoday.scitation.org/doi/full/10.1063/PT.3.2584
 https://arxiv.org/pdf/1702.03018.pdf

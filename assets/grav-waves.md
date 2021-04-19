@@ -2,10 +2,13 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Gravitational waves"
+title:  "The quadrupole formula on the cheap"
 categories: [Physics, Hacks]
-date:  2020-03-26
+date:  2021-04-18
 ---
+
+**April 18, 2021.** *While we're on the topic of cheap derivations,
+  another quick post .*
 
 Hey, so just to clarify the 1/r scaling thing, a radiation field by
 definition has amplitude scaling as 1/r, since it is thing responsible
