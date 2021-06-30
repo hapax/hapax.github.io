@@ -32,10 +32,10 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
    [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). CQG, accepted. arXiv: [2009.00632](https://arxiv.org/pdf/2009.00632.pdf).
-2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://arxiv.org/abs/2004.13088)
+2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://link.springer.com/article/10.1007/JHEP03(2021)167)
    (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
-   DW. arXiv: 2004.13088.
+   DW. JHEP, 2021:167. arXiv: [2004.13088](https://arxiv.org/abs/2004.13088).
 <!--   - From the CFT perspective, we prove that if you chop a holographic
    CFT_2 in half, you sometimes cleanly slice the bulk. We give
    precise sufficient conditions for this clean slicing (called the
