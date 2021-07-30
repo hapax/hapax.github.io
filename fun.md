@@ -4,8 +4,7 @@ title: Fun
 permalink: /fun/
 ---
 
-- [*caedrix feuilleton*](https://caedrix.tumblr.com/). A tumblr for
-  art and writing.
+- [*nullwizard*](https://nullwizard.tumblr.com/). My art tumblr.
 - ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Flash fiction about quantum computing and geopolitics.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
