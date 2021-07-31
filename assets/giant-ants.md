@@ -50,7 +50,8 @@ But here's the really cool thing. If we want to explain something as
 simple as a heartbeat, or the caloric requirements of a monkey, we'll be
 led to the startling hypothesis that animals are *fractals*: they are
 built out of structures which look the same when you zoom in.
-Turns out there are a bunch of interesting design problems involved in
-running an organism, and nature evolved fractals in order to solve them.
+There are a bunch of interesting design problems that crop up if you
+want to run an organism, and nature evolved fractals in order to solve
+these problems. Pretty damn cool.
 
 ### Squares and cubes
