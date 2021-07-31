@@ -37,6 +37,8 @@ something you can use to learn positive facts about the
 world, and not just negative, sort of boring facts, like "King Kong
 vs. Godzilla is physically implausible". I mean, we already
 knew that.
+Instead, we can do cool things like estimate the walking speed of a
+spider, or the weight of the largest tree in the world.
 
 <figure>
     <div style="text-align:center"><img src
@@ -44,6 +46,12 @@ knew that.
 	</div>
 	</figure>
 
-But here's the really cool thing.
+But here's the really cool thing. If we want to explain something as
+simple as a heartbeat, or the caloric requirements of a vole, we'll be
+led to the startling conclusion that animals are *fractals*. They are
+built out structures which are *self-similar*, or look the same when
+you zoom in.
+Turns out there are a bunch of interesting design problems involved in
+running an organism, and nature evolved fractals in order to solve them.
 
 ### Squares and cubes
