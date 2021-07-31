@@ -68,8 +68,4 @@ To change the scale of the organism means to change this side length,
 and to scale up or down by a factor means to change $L$ by that
 factor.
 For instance, to scale our cube creature up by a factor of $2$ just
-means to double the side length:
-
-$$
-L \mapsto 2L.
-$$
+means to double the side length.
