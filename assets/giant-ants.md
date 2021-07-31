@@ -72,4 +72,4 @@ If it's not shaped like a cube, that's fine, we just choose some
 convenient thing to measure like the height of the organism, and treat
 that as the scale instead.
 To scale up or down by a factor, we change the height by that factor,
-but we keep everything in proportion as well.
+but we keep everything in proportion as well, just like the cube.
