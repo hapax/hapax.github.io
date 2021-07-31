@@ -13,6 +13,12 @@ emerging from the sea to duke it out?
 
 <figure>
     <div style="text-align:center"><img src
+    ="/images/posts/emcc1.png"/>
+	</div>
+	</figure>
+
+<figure>
+    <div style="text-align:center"><img src
     ="/images/giant-ant-pics/giant-ant.png" width="450px"/>
 	</div>
 	</figure>
