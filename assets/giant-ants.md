@@ -68,4 +68,5 @@ and to scale up or down by a factor means to change $L$ by that
 factor.
 For instance, to scale our cube creature up by a factor of $2$ just
 means to double the side length.
-If our organism isn't shaped like a cube, we still 
+If it's not shaped like a cube, that's fine, we just choose the height
+or the width of the organism, and use that as the scale instead.
