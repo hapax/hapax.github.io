@@ -30,11 +30,11 @@ assuming that they're built out of the same stuff as the little ants.
 
 To see why the ants collapse, we'll need to understand the maths and
 physics of *scaling*: how things change with size.
-But we're going to do much more than rule out giant ants.
+But we're going to do much more than rule out the existence of giant ants.
 We'll turn our understanding of scaling into a *predictive tool*,
-something you can use to learn positive facts about things in the
-world, and not simply negative, sort of boring things, like "King Kong
-vs. Godzilla is physicaly implausible". I mean, we kind of already
+something you can use to learn positive facts about the
+world, and not just negative, sort of boring facts, like "King Kong
+vs. Godzilla is physically implausible". I mean, we kind of already
 knew that.
 
 <figure>
