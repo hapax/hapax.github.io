@@ -57,3 +57,15 @@ these problems. Pretty damn cool.
 ### No giant ants
 
 Let's start off with giant ants.
+Very crudely put, an organism is a three-dimensional blob of tissue.
+We'll begin by imagining a strange organism the shape of a cube.
+The *scale* of this cube-shaped is just the length of side, say $L$.
+To change the scale of the organism means to change this side length,
+and to scale up or down by a factor means to change $L$ by that
+factor.
+For instance, to scale our cube creature up by a factor of $2$ just
+means to double the side length:
+
+$$
+L \mapsto 2L.
+$$
