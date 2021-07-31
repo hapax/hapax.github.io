@@ -19,6 +19,7 @@ Building, Ann Dwarrow in one hand and a military helicopter in the other?
     <div style="text-align:center"><img src
     ="/images/giant-ant-pics/giant-ant.png" width="450px"/>
 	</div>
+	Bla
 	</figure>
 
 For better or worse (depending on how you feel about giant ants) the
