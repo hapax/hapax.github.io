@@ -8,9 +8,12 @@ date:  2021-07-31
 ---
 
 If aliens ever visit the earth, might they take the form of giant
-ants? Could radioactive waste generate
+ants? Or could radioactive waste create
 [*kaiju*](https://en.wikipedia.org/wiki/Kaiju) like Godzilla and
-Mothra, duking it out while the puny humans watch on in fascinated terror?
+Mothra, duking it out in the Japanese sea while the puny humans watch
+on in terror?
+And might the king of Skull Island one day clamber up the Empire State
+to protect Ann Dwarrow?
 
 <figure>
     <div style="text-align:center"><img src
@@ -18,3 +21,7 @@ Mothra, duking it out while the puny humans watch on in fascinated terror?
 	</div>
 	</figure>
 
+All of these monsters are essentially normal terrestrial animals,
+scaled up to ridiculous sizes.
+And it turns out that --- for better or worse, depending on how you
+feel about giant ants ---
