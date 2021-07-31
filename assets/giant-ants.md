@@ -14,13 +14,6 @@ Mothra, duking it out while the puny humans watch on in fascinated terror?
 
 <figure>
     <div style="text-align:center"><img src
-    ="/images/posts/emcc1.png"/>
+    ="/images/giant-ant-pics/giant-ant.png"/>
 	</div>
 	</figure>
-
-<figure>
-    <div style="text-align:center"><img src
-    ="/images/giant-ant-pics/giant-ant.png" width="450px"/>
-	</div>
-	</figure>
-
