@@ -7,13 +7,13 @@ categories: [Physics, maths, hacks]
 date:  2021-07-31
 ---
 
-If aliens ever visit the earth, might they take the form of giant
-ants? Or could radioactive waste create
+If aliens ever visit the earth, might they take the particularly
+schlocky form of giant ants? Or could radioactive waste create
 [*kaiju*](https://en.wikipedia.org/wiki/Kaiju) like Godzilla and
 Mothra, duking it out in the Japanese sea while the puny humans watch
 on in terror?
 And might the king of Skull Island one day clamber up the Empire State
-to protect Ann Dwarrow?
+Building, Ann Dwarrow in one hand and a military helicopter in the other?
 
 <figure>
     <div style="text-align:center"><img src
@@ -21,20 +21,21 @@ to protect Ann Dwarrow?
 	</div>
 	</figure>
 
-All of these monsters are essentially normal terrestrial animals,
-scaled up to ridiculous sizes.
-And it turns out that --- for better or worse, depending on how you
-feel about giant ants --- scaling things up to ridiculous sizes is
-ridiculous. The ants will just collapse under their own weight,
-assuming that they're built out of the same stuff as the little ants.
+For better or worse, depending on how you feel about giant ants, the
+answer is no.
+All of these monsters are essentially normal terrestrial organisms,
+scaled up to ridiculous sizes, and when we scale things up to
+ridiculous sizes, they tend to collapse under their own weight.
 
-To see why the ants collapse, we'll need to understand the maths and
-physics of *scaling*: how things change with size.
-But we're going to do much more than rule out the existence of giant ants.
+To see why the giant ants or lizards or gorillas collapse under their
+own weight, we'll need to understand the maths and physics of
+*scaling*, in other words, how things change with size.
+But we're going to do much more than simply rule out the existence of
+giant ants.
 We'll turn our understanding of scaling into a *predictive tool*,
 something you can use to learn positive facts about the
 world, and not just negative, sort of boring facts, like "King Kong
-vs. Godzilla is physically implausible". I mean, we kind of already
+vs. Godzilla is physically implausible". I mean, we already
 knew that.
 
 <figure>
@@ -42,3 +43,7 @@ knew that.
     ="/images/giant-ant-pics/kong-godzilla.jpeg" width="450px"/>
 	</div>
 	</figure>
+
+But here's the really cool thing.
+
+### Squares and cubes
