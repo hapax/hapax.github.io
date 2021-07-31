@@ -24,4 +24,9 @@ to protect Ann Dwarrow?
 All of these monsters are essentially normal terrestrial animals,
 scaled up to ridiculous sizes.
 And it turns out that --- for better or worse, depending on how you
-feel about giant ants ---
+feel about giant ants --- scaling things up to ridiculous sizes is
+ridiculous. The ants will just collapse under their own weight,
+assuming that they're built out of the same stuff as the little ants.
+
+To see why the ants collapse, we'll need to understand the maths and
+physics of *scaling*: how things change with size.
