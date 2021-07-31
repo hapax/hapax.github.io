@@ -27,7 +27,7 @@ All of these creatures are essentially normal terrestrial organisms,
 scaled up to ridiculous sizes, and when we scale things up to
 ridiculous sizes, they simply collapse under their own weight.
 So if giant ants from outer space invade earth, we can just sit back
-and relax as they attempt, unsuccesffuly, to prop themselves up in the
+and relax as they struggle unsuccesffuly to prop themselves up in the
 earth's gravity.
 
 To see why the giant ants or lizards or gorillas collapse under their
