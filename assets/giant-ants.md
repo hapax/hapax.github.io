@@ -54,4 +54,6 @@ There are a bunch of interesting design problems that crop up if you
 want to run an organism, and nature evolved fractals in order to solve
 these problems. Pretty damn cool.
 
-### Squares and cubes
+### No giant ants
+
+Let's start off with giant ants.
