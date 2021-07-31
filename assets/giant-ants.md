@@ -19,7 +19,6 @@ Building, Ann Dwarrow in one hand and a military helicopter in the other?
     <div style="text-align:center"><img src
     ="/images/giant-ant-pics/giant-ant.png" width="450px"/>
 	</div>
-	Bla
 	</figure>
 
 For better or worse (depending on how you feel about giant ants) the
@@ -69,3 +68,4 @@ and to scale up or down by a factor means to change $L$ by that
 factor.
 For instance, to scale our cube creature up by a factor of $2$ just
 means to double the side length.
+If our organism isn't shaped like a cube, we still 
