@@ -81,6 +81,5 @@ by a factor of $2$, but by three factors of two or $2^3 = 8$, one for
 each factor of $L$:
 
 $$
-V \to 2L
-\times 2L = 8 L^3 = 8V.
+V \to 2L \times 2L\times 2L = 8 L^3 = 8V.
 $$
