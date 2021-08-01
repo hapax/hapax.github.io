@@ -25,22 +25,24 @@ Mothra duking it out in the Japanese sea?
 For better or worse (depending on how you feel about giant monsters)
 the answer is no.
 All of these creatures are essentially normal terrestrial animals
-scaled up to ridiculous sizes, and when you scale a normal animal up
-to ridiculous sizes, it will collapse under their own weight.
+scaled up to a ridiculous size, and when you scale a normal animal up
+to a ridiculous size, it simply collapses under its own weight.
+We don't need to worry about getting invaded by giant ants from outer
+space, or having our landmark buildings ruined by oversized
+primates. It's not going to happen.
 
-But to see why a giant ant or lizard or gorilla collapses under its
-own own weight when you make it big enough, we'll need to understand
-the maths and physics of *scaling*, in other words, how things change
-with size.
+To see why a giant ant or lizard or gorilla collapses under its own
+weight when you make it big enough, we'll need to understand the maths
+and physics of *scaling*, in other words, how things change with size.
 And in fact, we're going to do a lot more than simply rule out the
-existence of giant ants.
+existence of giant monsters.
 We'll turn our understanding of scaling into a *predictive tool*,
 something you can use to learn positive facts about the
 world, and not just negative, sort of boring facts, like "King Kong
 vs. Godzilla is physically implausible". I mean, we already
 knew that.
-Instead, we can do cool things like estimate the walking speed of a
-spider, or the weight of the largest tree in the world.
+Instead, we can do cool things like estimate the weight of the largest
+tree in the world.
 
 <figure>
     <div style="text-align:center"><img src
@@ -58,14 +60,13 @@ and nature evolved fractals in order to solve them. This is pretty damn cool.
 ### No giant ants
 
 To start with, let's imagine a strange organism which looks like a cube.
-The *scale* of this cube-shaped creature is something we can
-conveniently measure with a ruler, say the length length $L$.
+The *scale* of this cube-shaped creature is anything we can
+conveniently measure with a ruler, say the side length, which I'll label $L$.
 To *change the scale* of the cube (to "scale up" or "scale down") means to change the side length but
 keep the shape and proportions fixed; the cube remains a cube but its
-size change.
-
+size changes.
 Different properties of the cube will change in different ways as we
-changes its size.
+vary the size.
 For instance, the volume of the cube $V$ is the product of the length, the width and
 the height, just like any box, and since length, width and height all
 equal the side length $L$ of the cube, the volume is just
