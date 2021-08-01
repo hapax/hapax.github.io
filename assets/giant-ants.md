@@ -78,8 +78,7 @@ $$
 Suppose we scale up the cube by a factor of two, in other words,
 we double the side length. Then the volume increases, not
 by a factor of $2$, but by three factors of two, one for each factor
-of $L$. So the volume increases by an overall factor of $2 \times 2
-\times 2 =8$:
+of $L$:
 
 $$
 L \times L \times L \to 2L \times 2L\times 2L = (2 \times 2 \times 2)L^3 = 8 L^3.
