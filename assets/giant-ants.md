@@ -57,7 +57,7 @@ built out of structures that look the same when you zoom in.
 Maintaining a living organism comprises a bunch of interesting design problems,
 and nature evolved fractals in order to solve them. This is pretty damn cool.
 
-### No giant ants
+### The jelly cube
 
 To start with, let's imagine a strange organism which looks like a cube.
 The *scale* of this cube-shaped creature is anything we can
@@ -91,3 +91,9 @@ by that factor cubed,
 $$
 f \times f \times f = f^3.
 $$
+
+This cube-shaped creature is a material being, and instead of being
+constituted of flesh and bones as humans, we'll imagine that it's made
+out of jelly.
+And just like humans, who big or small are made of the same stuff,
+bigger and smaller cubes are made of the same type of jelly.
