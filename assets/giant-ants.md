@@ -61,7 +61,7 @@ and nature evolved fractals in order to solve them. This is pretty damn cool.
 
 To start with, let's imagine a strange organism which looks like a cube.
 The *scale* of this cube-shaped creature is anything we can
-conveniently measure with a ruler, say the side length, which I'll label $L$.
+conveniently measure with a ruler, say the side length, which I'll call $L$.
 To *change the scale* of the cube (to "scale up" or "scale down") means to change the side length but
 keep the shape and proportions fixed; the cube remains a cube but its
 size changes.
