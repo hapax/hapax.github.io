@@ -76,7 +76,7 @@ V = L \times L \times L = L^3.
 $$
 
 Suppose we scale up the cube by a factor of two, or in other words,
-double the side length, $L mapsto 2L$. Then the volume increases, not
+double the side length, $L \to 2L$. Then the volume increases, not
 by a factor of $2$, but by three factors of two or $2^3 = 8$, one for
 each factor of $L$:
 
