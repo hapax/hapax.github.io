@@ -76,9 +76,9 @@ V = L \times L \times L = L^3.
 $$
 
 Suppose we scale up the cube by a factor of two, or in other words,
-double the side length. Then the volume
+double the side length, $L mapsto 2L$. Then the volume
 
 $$
-L \mapsto 2L, \quad V = L \times L \times L \mapsto 2 L \times 2L
+L \to 2L, \quad V = L \times L \times L \to 2 L \times 2L
 \times 2L = 8 L^3 = 8V.
 $$
