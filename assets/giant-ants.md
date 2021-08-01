@@ -54,7 +54,7 @@ But here's the really cool thing. If we want to explain something as
 simple as a heartbeat, or the diet of a chipmunk, we'll actually be
 led to the startling conclusion that animals are *biological fractals*: they are
 built out of structures that look the same when you zoom in.
-Maintaining a living organism comprises a bunch of interestiong design problems,
+Maintaining a living organism comprises a bunch of interesting design problems,
 and nature evolved fractals in order to solve them. This is pretty damn cool.
 
 ### No giant ants
