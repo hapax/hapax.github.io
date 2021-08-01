@@ -82,7 +82,7 @@ of $L$. So the volume increases by an overall factor of $2 \times 2
 \times 2 =8$:
 
 $$
-L \times L \times L \to 2L \times 2L\times 2L = 8 L^3.
+L \times L \times L \to 2L \times 2L\times 2L = (2 \times 2 \times 2)L^3 = 8 L^3.
 $$
 
 In general, if we scale up or down some factor $f$, the volume will change
