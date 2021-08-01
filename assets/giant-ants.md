@@ -57,7 +57,7 @@ built out of structures that look the same when you zoom in.
 Maintaining a living organism comprises a bunch of interesting design problems,
 and nature evolved fractals in order to solve them. This is pretty damn cool.
 
-### The jelly cube
+### The jelly cube monster
 
 To start with, let's imagine a strange organism which looks like a cube.
 The *scale* of this cube-shaped creature is anything we can
