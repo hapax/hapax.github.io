@@ -116,3 +116,10 @@ observation: weight *scales the same way* as volume. If we change
 scale (in other words, multiply the side length) by a factor $f$, the
 volume will change by a factor $f^3$, and since the density doesn't
 change, the weight also changes by a factor $f^3$.
+
+Suppose our jelly cube monster shuffles around on the land. It has to
+prop itself against the pull of gravity, and to understand the physics
+of this propping up, we can imagine a thin column of jelly sitting on
+the ground. As we make the column taller and taller and taller, the
+jelly at the bottom is going to get more and more pressurized by the
+weight of the jelly on top. Eventually, 
