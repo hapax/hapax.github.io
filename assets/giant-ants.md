@@ -85,10 +85,5 @@ $$
 L \times L \times L \to 2L \times 2L\times 2L = 8 L^3.
 $$
 
-In general, if we scale up or down some factor, the volume will change
-by that factor cubed, i.e., multiplied three times. In math, if
-$L \to f L$ for a factor $f$, then the volume becomes
-
-$$
-fL \times fL \times fL = f^3 L^3.
-$$
+In general, if we scale up or down some factor $f$, the volume will change
+by that factor cubed, $f \times f \times f = f^3$.
