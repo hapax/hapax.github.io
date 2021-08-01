@@ -10,9 +10,9 @@ date:  2021-07-31
 If aliens ever visit the earth, might they take the particularly
 schlocky form of giant ants?
 Should we be worried about the ape king of Skull Island clambering up
-the Empire State Buidling, Ann Dwarrow in one hand and a military
+the Empire State Building, Hollywood starlet in one hand and a military
 helicopter in the other?
-Can we look forward to radioactive
+And can we look forward to the exciting prospect of enormous radioactive
 [*monsters*](https://en.wikipedia.org/wiki/Kaiju) like Godzilla and
 Mothra duking it out in the Japanese sea?
 
