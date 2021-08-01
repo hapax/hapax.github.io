@@ -85,7 +85,7 @@ L \times L \times L \to 2L \times 2L\times 2L = (2 \times 2 \times 2)L^3 = 8 L^3
 $$
 
 This is an overall increase by a factor of $8$.
-In general, if we scale up or down some factor $f$, the volume will change
+In general, if we scale the cube up or down by some factor $f$, the volume will change
 by that factor cubed,
 
 $$
