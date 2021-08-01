@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Giant ants from outer space"
+title:  "From giant ants to biological fractals"
 categories: [Physics, maths, hacks]
 date:  2021-07-31
 ---
@@ -50,26 +50,35 @@ spider, or the weight of the largest tree in the world.
 	</figure>
 
 But here's the really cool thing. If we want to explain something as
-simple as a heartbeat, or the caloric requirements of a monkey, we'll be
-led to the startling hypothesis that animals are *fractals*: they are
+simple as a heartbeat, or the diet of a chipmunk, we'll be
+led to the startling hypothesis that animals are *biological fractals*: they are
 built out of structures which look the same when you zoom in.
-There are a bunch of interesting design problems that crop up if you
-want to run an organism, and nature evolved fractals in order to solve
-these problems. Pretty damn cool.
+Running an organism involves a bunch of interesting design problems,
+and nature evolved fractals in order to solve them. Pretty damn cool.
 
 ### No giant ants
 
-Let's start off with giant ants.
-Very crudely put, an organism is a three-dimensional blob of tissue.
-We'll begin by imagining a strange organism the shape of a cube.
-The *scale* of this cube-shaped is just the length of side, say $L$.
-To change the scale of the organism means to change this side length,
-and to scale up or down by a factor means to change $L$ by that
-factor.
-For instance, to scale our cube creature up by a factor of $2$ just
-means to double the side length.
-If it's not shaped like a cube, that's fine, we just choose some
-convenient thing to measure like the height of the organism, and treat
-that as the scale instead.
-To scale up or down by a factor, we change the height by that factor,
-but we keep everything in proportion as well, just like the cube.
+To start with, let's imagine a strange organism which looks like a cube.
+The *scale* of this cube-shaped creature is something we can
+conveniently measure with a ruler, say the side length.
+To *change the scale* of the cube (we also say "to scale up" or "to
+scale down") means to change the side length but
+keep the shape and proportions fixed; the cube remains a cube.
+Different properties of the cube will change in different ways as we
+scale up and down.
+Let's call the side length $L$.
+The volume of the cube $V$ is the product of the length, the width and
+the height, just like any box, but since length, width and height are
+equal for a cube, the volume is just
+
+$$
+V = L \times L \times L = L^3.
+$$
+
+Suppose we scale up the cube by a factor of two, or in other words,
+double the side length. Then the volume
+
+$$
+L \mapsto 2L, \quad V = L \times L \times L \mapsto 2 L \times 2L
+\times 2L = 8 L^3 = 8V.
+$$
