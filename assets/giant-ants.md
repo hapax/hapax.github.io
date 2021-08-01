@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From giant ants to biological fractals"
+title:  "Giant ants from outer space"
 categories: [Physics, maths, hacks]
 date:  2021-07-31
 ---
