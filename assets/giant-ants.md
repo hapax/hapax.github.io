@@ -86,4 +86,8 @@ L \times L \times L \to 2L \times 2L\times 2L = 8 L^3.
 $$
 
 In general, if we scale up or down some factor $f$, the volume will change
-by that factor cubed, $f \times f \times f = f^3$.
+by that factor cubed,
+
+$$
+f \times f \times f = f^3.
+$$
