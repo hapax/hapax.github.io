@@ -59,15 +59,17 @@ and nature evolved fractals in order to solve them. This is pretty damn cool.
 
 ### The jelly cube monster
 
-To start with, let's imagine a strange organism which looks like a cube.
-The *scale* of this cube-shaped creature is anything we can
+To start with, let's imagine a strange organism which looks like a
+cube, which we'll call the cube monster.
+The *scale* of the cube monster is anything we can
 conveniently measure with a ruler, say the side length, which I'll call $L$.
-To *change the scale* of the cube (to "scale up" or "scale down") means to change the side length but
-keep the shape and proportions fixed; the cube remains a cube.
+To *change the scale* of the cube monster (to "scale up" or "scale
+down") means to change its side length but keep the shape and
+proportions fixed; the cube remains a cube.
 
-Different properties of the cube will vary in different ways as we
-vary the size.
-For instance, the volume of the cube is the product of the length, the width and
+Different properties of the cube monster will vary in different ways as we
+vary uts size.
+For instance, the volume is the product of the length, the width and
 the height, just like any box. But since length, width and height are
 all equal for a cube, the volume is just
 
@@ -75,8 +77,8 @@ $$
 L \times L \times L = L^3.
 $$
 
-Suppose we scale up the cube by a factor of two, in other words,
-we double the side length. Then the volume increases, not
+If we scale up the cube by a factor of two, in other words,
+we double the side length, then the volume increases, not
 by a factor of $2$, but by three factors of two, one for each factor
 of $L$:
 
@@ -84,16 +86,27 @@ $$
 L \times L \times L \to 2L \times 2L\times 2L = (2 \times 2 \times 2)L^3 = 8 L^3.
 $$
 
-This is an overall increase by a factor of $8$.
-In general, if we scale the cube up or down by some factor $f$, the volume will change
-by that factor cubed,
+The volume increases by an overall factor of $8$.
+More generally, if we change the scale by a factor of $f$, the volume
+will change by a factor
 
 $$
 f \times f \times f = f^3.
 $$
 
-This cube-shaped creature is a material being, and instead of being
-constituted of flesh and bones as humans, we'll imagine that it's made
-out of jelly.
+Now, the cube monster is a material being, but instead of being
+constituted of flesh and bone like a human, we'll imagine that it's
+made out of jelly.
 And just like humans, who big or small are made of the same stuff,
-bigger and smaller cubes are made of the same type of jelly.
+bigger and smaller cube monsters will be made of the same type of
+jelly, with the same material properties.
+One important property of a material is its *density*: how much weight
+it has for a given volume.
+If the density of jelly is the same for every cube monster, in the
+same way that bone and flesh have the same density for people of
+different sizes, then what determines the weight of a cube monster is
+its volume:
+
+$$
+\text{weight} = \text{jelly density} \times \text{volume}.
+$$
