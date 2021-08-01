@@ -68,7 +68,7 @@ keep the shape and proportions fixed; the cube remains a cube.
 Different properties of the cube will vary in different ways as we
 vary the size.
 For instance, the volume of the cube is the product of the length, the width and
-the height, just like any box, but since length, width and height are
+the height, just like any box. But since length, width and height are
 all equal for a cube, the volume is just
 
 $$
