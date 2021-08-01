@@ -110,3 +110,9 @@ its volume:
 $$
 \text{weight} = \text{jelly density} \times \text{volume}.
 $$
+
+This may all seem kind of obvious, but it leads to an important
+observation: weight *scales the same way* as volume. If we change
+scale (in other words, multiply the side length) by a factor $f$, the
+volume will change by a factor $f^3$, and since the density doesn't
+change, the weight also changes by a factor $f^3$.
