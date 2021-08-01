@@ -63,9 +63,8 @@ To start with, let's imagine a strange organism which looks like a cube.
 The *scale* of this cube-shaped creature is anything we can
 conveniently measure with a ruler, say the side length, which I'll call $L$.
 To *change the scale* of the cube (to "scale up" or "scale down") means to change the side length but
-keep the shape and proportions fixed; the cube remains a cube even as its
-size changes.
-Different properties of the cube will change in different ways as we
+keep the shape and proportions fixed; the cube remains a cube.
+Different properties of the cube will vary in different ways as we
 vary the size.
 For instance, the volume of the cube is the product of the length, the width and
 the height, just like any box, but since length, width and height are
