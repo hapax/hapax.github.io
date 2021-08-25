@@ -59,8 +59,8 @@ and nature evolved fractals in order to solve them. This is pretty damn cool.
 
 ### The jelly cube monster
 
-To start with, let's imagine a strange organism which looks like a
-cube, which we'll call the cube monster.
+To illustrate the main ideas, let's imagine a strange organism which
+looks like a cube, which we'll call the cube monster.
 The *scale* of the cube monster is anything we can
 conveniently measure with a ruler, say the side length, which I'll call $L$.
 To *change the scale* of the cube monster (to "scale up" or "scale
