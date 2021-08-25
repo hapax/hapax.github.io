@@ -20,11 +20,15 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
 
 #### Recent papers
 
-8. [*Holographic BCFTs and communicating black holes*](https://arxiv.org/abs/2104.07039)
+9. [*Looking for (and not finding) a bulk brane*](https://arxiv.org/abs/2108.10345) (2021). Wyatt Reeves, [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), [Petar Simidzija](https://scholar.google.ca/citations?user=RWmAAsMAAAAJ&hl=en),
+   [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
+   [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
+   DW. arXiv: 2108.10345.
+8. [*Holographic BCFTs and communicating black holes*](https://link.springer.com/article/10.1007/JHEP08(2021)003)
    (2021). [Hao Geng](https://inspirehep.net/authors/1729076),
    [Severin Lüst](https://inspirehep.net/authors/1319562),
    [Rashmish K. Mishra](https://inspirehep.net/authors/1066275),
-   DW. arXiv: 2104.07039.
+   DW. JHEP, 2021:003. arXiv: [2104.07039](https://arxiv.org/abs/2104.07039).
 0. [*Quantum tasks require islands on the brane*](https://iopscience.iop.org/article/10.1088/1361-6382/ac025d/meta)
 (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en),
    DW. CQG, 38:144001. arXiv: [2102.01810](https://arxiv.org/abs/2102.01810).
@@ -33,7 +37,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
    [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). CQG, accepted. arXiv: [2009.00632](https://arxiv.org/pdf/2009.00632.pdf).
 2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://link.springer.com/article/10.1007/JHEP03(2021)167)
-   (2020). [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
+   (2020). James Sully,
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
    DW. JHEP, 2021:167. arXiv: [2004.13088](https://arxiv.org/abs/2004.13088).
 <!--   - From the CFT perspective, we prove that if you chop a holographic
@@ -45,7 +49,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
    results of [4] and [5] microscopically. -->
 3. [*Eigenstate thermalization and disorder averaging in gravity*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.021601)
    (2020). Jason Pollack,
-   [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), James Sully,
+  Moshe Rozali, James Sully,
    DW. PRL, 125:021601. arXiv:
    [2002.02971](https://arxiv.org/pdf/2002.02971.pdf).
 <!--   - In a chaotic theory, averaging correlators of random states
@@ -66,7 +70,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
   (2019). Moshe Rozali,
  James Sully,
  Mark Van Raamsdonk,
-  [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
+ Christopher Waddell,
   DW. JHEP, 2020:4. arXiv:
   [1910.12836](https://arxiv.org/pdf/1910.12836.pdf).
 <!--  - We cut holes in various theories which, by the magic of
