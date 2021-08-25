@@ -28,11 +28,11 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
    (2021). [Hao Geng](https://inspirehep.net/authors/1729076),
    [Severin Lüst](https://inspirehep.net/authors/1319562),
    [Rashmish K. Mishra](https://inspirehep.net/authors/1066275),
-   DW. JHEP, 2021:003. arXiv: [2104.07039](https://arxiv.org/abs/2104.07039).
+   DW. CQG, 38:154004. arXiv: [2104.07039](https://arxiv.org/abs/2104.07039).
 0. [*Quantum tasks require islands on the brane*](https://iopscience.iop.org/article/10.1088/1361-6382/ac025d/meta)
 (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en),
    DW. CQG, 38:144001. arXiv: [2102.01810](https://arxiv.org/abs/2102.01810).
-1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://iopscience.iop.org/article/10.1088/1361-6382/ac0e17/pdf)
+1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://iopscience.iop.org/article/10.1088/1361-6382/ac0e17/meta)
    (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
    [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
    [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). CQG, accepted. arXiv: [2009.00632](https://arxiv.org/pdf/2009.00632.pdf).
