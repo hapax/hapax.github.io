@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align:center"><img src ="/images/selfie1.png" width="250px" /></div>
+<div style="text-align:center"><img src ="/images/selfie2.png" width="250px" /></div>
 
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
