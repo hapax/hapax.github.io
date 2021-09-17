@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align:center"><img src ="/images/selfie2.png" width="250px" /></div>
+<div style="text-align:center"><img src ="/images/selfie2.png" width="300px" /></div>
 
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
-I'm a fourth-year PhD student in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
+I'm a final-year PhD student in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
 [University of British Columbia](https://www.ubc.ca/), Vancouver.
 <!-- studying
 conformal field theory, quantum information and black holes.
