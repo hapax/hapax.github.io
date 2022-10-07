@@ -4,12 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-I study quantum mechanics and gravity, with a particular focus on the
-AdS/CFT correspondence.
-At the moment, I'm interested in boundary conformal field theories,
-black holes, quantum information and statistical mechanics.
-For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
-<!-- You can find papers and brief descriptions below, as well as assorted technical notes.-->
+In my PhD, I focused on the black hole information problem, and how
+methods from boundary conformal field theory can help us solve it.
+For a short technical overview, see my
+[thesis proposal](assets/proposal.pdf).
+For a slightly longer technical overview, see my [thesis](assets/ubc_2022_november_wakeham_david.pdf).
+<!-- You can find papers and brief descriptions below, as well as -->
+<!-- assorted technical notes.-->
 
 <figure>
     <div style="text-align:center"><img src ="/images/er=epr.png"
@@ -18,7 +19,7 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
 	</figure>
 
 
-#### Recent papers
+#### Selected papers
 
 9. [*Looking for (and not finding) a bulk brane*](https://arxiv.org/abs/2108.10345) (2021). Wyatt Reeves, [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), [Petar Simidzija](https://scholar.google.ca/citations?user=RWmAAsMAAAAJ&hl=en),
    [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
@@ -32,10 +33,6 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
 0. [*Quantum tasks require islands on the brane*](https://iopscience.iop.org/article/10.1088/1361-6382/ac025d/meta)
 (2021). [Alex May](https://scholar.google.ca/citations?user=VnShsmcAAAAJ&hl=en),
    DW. CQG, 38:144001. arXiv: [2102.01810](https://arxiv.org/abs/2102.01810).
-1. [*Microstate distinguishability, quantum complexity, and the ETH*](https://iopscience.iop.org/article/10.1088/1361-6382/ac0e17/meta)
-   (2020). [Ning Bao](https://sites.google.com/view/ning-bao/home),
-   [Jason Pollack](https://www.phas.ubc.ca/~jpollack/), DW,
-   [Elizabeth Wildenhain](https://physics.berkeley.edu/people/graduate-student/elizabeth-wildenhain). CQG, accepted. arXiv: [2009.00632](https://arxiv.org/pdf/2009.00632.pdf).
 2. [*BCFT entanglement entropy at large central charge and the black hole interior*](https://link.springer.com/article/10.1007/JHEP03(2021)167)
    (2020). James Sully,
    [Mark Van Raamsdonk](https://www.phas.ubc.ca/~mav/vanraamsdonk.html),
@@ -56,16 +53,6 @@ For a short technical overview, see my [thesis proposal](assets/proposal.pdf).
    creates wormhole-like shortcuts between replicas of the
    theory. This applies to high energy states of a CFT and black
    holes, sure, but also your kettle or a molybdenum nucleus. -->
-4. [*Brane dynamics from the first law of entanglement*](https://link.springer.com/content/pdf/10.1007/JHEP03(2020)023.pdf)
-  (2019). [Sean Cooper](https://seancooper.info/),
-  [Dominik Neuenfeld](http://inspirehep.net/search?ln=en&ln=en&p=Dominik+Neuenfeld&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0),
- Moshe Rozali, DW. JHEP, 2020:23. arXiv:
-  [1912.05746](https://arxiv.org/pdf/1912.05746.pdf).
-<!--  - When the AdS/BCFT equivalence holds, the results of prodding
-  the bulk slice should be compatible with the corresponding prodding
-  in the CFT. We give a general recipe for learning bulk equations of
-  motion from this compatibility requirement, and show the simplest
-  version of AdS/BCFT obeys it. -->
 5. [*Information radiation in BCFT models of black holes*](https://link.springer.com/content/pdf/10.1007/JHEP05(2020)004.pdf)
   (2019). Moshe Rozali,
  James Sully,

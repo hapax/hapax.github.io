@@ -9,8 +9,11 @@ permalink: /about/
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
-I'm a final-year PhD student in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
-[University of British Columbia](https://www.ubc.ca/), Vancouver.
+I'm a quantum computing educator at [Xanadu](https://www.xanadu.ai/),
+where we do various things named after Beatles songs.
+Before joining Xanadu, I did a PhD in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
+[University of British Columbia](https://www.ubc.ca/). See
+[Research](https://hapax.github.io/research/) for more.
 <!-- studying
 conformal field theory, quantum information and black holes.
 I am generously supported by a UBC
