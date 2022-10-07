@@ -800,7 +800,7 @@ and $\sin\theta$, like you did for $e$ in Exercise 2.
 
 ---
 
-#### 6. Factorization and reciprocal squares <a id="sec-6" name="sec-6"></a>
+#### 6. Factorization and the Basel problem <a id="sec-6" name="sec-6"></a>
 
 In Exercise 7, we derived infinite polynomials for sine and cosine.
 Rather than repeat these derivations, let's simply find the first two
