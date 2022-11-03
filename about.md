@@ -4,13 +4,17 @@ title: About
 permalink: /about/
 ---
 
+This site is maintained for archival purposes only; see my new site
+[here](blog.saxifrage.one).
+
+---
+
 <div style="text-align:center"><img src ="/images/new-about.png" width="500px" /></div>
 
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
-I'm a quantum computing educator at [Xanadu](https://www.xanadu.ai/),
-where we do various things named after Beatles songs.
+I'm a quantum computing educator at [Xanadu](https://www.xanadu.ai/).
 Before joining Xanadu, I did a PhD in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
 [University of British Columbia](https://www.ubc.ca/). See
 [Research](https://hapax.github.io/research/) for more.
