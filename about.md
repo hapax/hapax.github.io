@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This site is maintained for archival purposes only; see my new site
-[here](blog.saxifrage.one).
+[here](https://blog.saxifrage.one).
 
 ---
 
