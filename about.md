@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This site is maintained for archival purposes only; see my new site
-[here](https://purplesax.github.io).
+[here](https://heptarch.github.io).
 
 ---
 
