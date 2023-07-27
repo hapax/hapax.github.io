@@ -7,6 +7,8 @@ categories: [Math, Hacks]
 date:  2022-11-10
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 **November 10, 2022.** *I present a simple trick for doing integrals by swapping
   the argument of a kernel.*
 
