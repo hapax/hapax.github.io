@@ -9,8 +9,6 @@ This site is maintained for archival purposes only; see my new site
 
 ---
 
-<div style="text-align:center"><img src ="/images/new-about.png" width="500px" /></div>
-
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
