@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This site is maintained for archival purposes only; see my new site
-[here](https://heptarch.github.io).
-
----
-
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
