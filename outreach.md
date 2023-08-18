@@ -33,6 +33,8 @@ physics and what a day in the life looks like.
 
 #### "Hard" outreach
 
+- [*Black holes for hackers*](assets/visst-slides.pdf) (2023). A
+  summer camp on hacking black holes!
 - [*Quantum computing with parallel worlds*](assets/tnn-qc.pdf)
   (2021). A very brief introduction to manipulating parallel worlds
   with quantum computers. Bonus feature: a visual introduction to Grover search!
