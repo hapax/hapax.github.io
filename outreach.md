@@ -34,7 +34,9 @@ physics and what a day in the life looks like.
 #### "Hard" outreach
 
 - [*Black holes for hackers*](assets/visst-slides.pdf) (2023). A
-  summer camp on hacking black holes!
+summer camp on hacking black holes!
+-  [*Entanglement, wormholes, and all that*](assets/entanglement-wormholes.pdf)
+  (2023). A pictorial introduction to entanglement and the ER = EPR conjecture.
 - [*Quantum computing with parallel worlds*](assets/tnn-qc.pdf)
   (2021). A very brief introduction to manipulating parallel worlds
   with quantum computers. Bonus feature: a visual introduction to Grover search!
