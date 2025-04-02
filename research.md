@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My Torsor research can be found at [the website](torsor.io).
+My Torsor research can be found at [the website](https://torsor.io).
 At Xanadu, I was interested in the intersection of symmetry,
 statistical learning, and quantum algorithm; see my
 [paper](https://arxiv.org/abs/2409.00172) for more details.
