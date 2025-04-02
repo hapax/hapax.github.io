@@ -7,7 +7,8 @@ permalink: /about/
 Hi! I'm David.
 My elements formed from exploding stars billions of years ago, but
 self-organised into a human more recently.
-I'm a quantum machine learning researcher in Maria Schuld's group at [Xanadu](https://www.xanadu.ai/).
+I'm the founder of [Torsor Labs](torsor.io).
+Before that, I noodled around with quantum machine learning at [Xanadu](https://www.xanadu.ai/).
 Before joining Xanadu, I did a PhD in the [string theory group](http://www.phas.ubc.ca/~strings/) at the
 [University of British Columbia](https://www.ubc.ca/). See
 [Research](https://hapax.github.io/research/) for more.
