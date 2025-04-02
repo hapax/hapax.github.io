@@ -4,11 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+My Torsor research can be found at [the website](torsor.io).
+At Xanadu, I was interested in the intersection of symmetry,
+statistical learning, and quantum algorithm; see my
+[paper](https://arxiv.org/abs/2409.00172) for more details.
 In my PhD, I focused on the black hole information problem, and how
 methods from boundary conformal field theory can help us solve it.
 For a short technical overview, see my
-[thesis proposal](assets/proposal.pdf).
-For a slightly longer technical overview, see my [thesis](assets/ubc_2022_november_wakeham_david.pdf).
+[thesis proposal](assets/proposal.pdf); for a slightly longer technical overview, see my [thesis](assets/ubc_2022_november_wakeham_david.pdf).
 <!-- You can find papers and brief descriptions below, as well as -->
 <!-- assorted technical notes.-->
 
@@ -21,6 +24,8 @@ For a slightly longer technical overview, see my [thesis](assets/ubc_2022_novemb
 
 #### Selected papers
 
+10. [*Inference, interference and invariance: How the Quantum Fourier Transform can help to learn from data*](https://arxiv.org/abs/2409.00172)
+    (2024). David Wakeham, Maria Schuld. arXiv:2409.00172.
 9. [*Looking for (and not finding) a bulk brane*](https://arxiv.org/abs/2108.10345) (2021). Wyatt Reeves, [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), [Petar Simidzija](https://scholar.google.ca/citations?user=RWmAAsMAAAAJ&hl=en),
    [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
