@@ -5,7 +5,6 @@ permalink: /fun/
 ---
 
 - [*nullwizard*](https://nullwizard.tumblr.com/). My art tumblr.
-- ["A post-quantum fantasia"]({{hapax.github.io}}/assets/pqf.pdf). Flash fiction about quantum computing and geopolitics.
 - ["Arrest"]({{hapax.github.io}}/assets/arrest.pdf). Flash fiction on
   the psychology of time. Won a
   [thing](https://www.ubyssey.ca/science/arrestee-sci-fi-winner-2019/).
