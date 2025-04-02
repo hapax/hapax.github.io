@@ -20,8 +20,6 @@ book review. -->
 - [*Gothic window simulator*](https://www.openprocessing.org/sketch/571835). Program for drawing gothic window tracery.
 - [*Pong mania*](https://www.openprocessing.org/sketch/590092). An
 infinite game of Pong against a buggy opponent.
-- [*genesim*](https://github.com/hapax/genesim). Simulate genetic code
-  spreading around a family tree.
 
 <figure>
  <div style="text-align:center"><img src ="/images/gothic-2.png" />
