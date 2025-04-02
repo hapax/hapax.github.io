@@ -25,7 +25,7 @@ For a short technical overview, see my
 #### Selected papers
 
 10. [*Inference, interference and invariance: How the Quantum Fourier Transform can help to learn from data*](https://arxiv.org/abs/2409.00172)
-    (2024). David Wakeham, Maria Schuld. arXiv:2409.00172.
+    (2024). David Wakeham, [Maria Schuld](https://pennylane.ai/profile/mariaschuld). arXiv:2409.00172.
 9. [*Looking for (and not finding) a bulk brane*](https://arxiv.org/abs/2108.10345) (2021). Wyatt Reeves, [Moshe Rozali](https://www.phas.ubc.ca/~rozali/), [Petar Simidzija](https://scholar.google.ca/citations?user=RWmAAsMAAAAJ&hl=en),
    [James Sully](http://inspirehep.net/search?p=author%3AJ.Sully.1%20AND%20collection%3Aciteable),
    [Christopher Waddell](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20C.Waddell.2),
